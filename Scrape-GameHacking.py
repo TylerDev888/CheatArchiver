@@ -37,6 +37,7 @@ strings to canonical cheat-type labels:
 
 import argparse
 import os
+import random
 import re
 import sys
 import time
@@ -177,6 +178,13 @@ def ensure_yaml(path: Path, content: str, dry_run: bool) -> None:
 # HTTP helpers
 # ---------------------------------------------------------------------------
 
+def random_delay(base_delay: float) -> None:
+    """Sleep for base_delay with +/- 30% random jitter to avoid detection patterns."""
+    jitter = random.uniform(-0.3, 0.3)
+    actual_delay = base_delay * (1 + jitter)
+    time.sleep(max(0.1, actual_delay))  # Minimum 0.1 second delay
+
+
 def get_soup(
     session: requests.Session,
     url: str,
@@ -189,6 +197,13 @@ def get_soup(
     Retries up to *retries* times on transient network or server errors,
     with exponential back-off.  Raises the last exception if all attempts fail.
     """
+    verbose = getattr(session, 'verbose', False)
+    
+    if verbose:
+        print(f"  [DEBUG] Fetching {url}")
+        if referer:
+            print(f"  [DEBUG] Referer: {referer}")
+    
     last_exc: Exception | None = None
     for attempt in range(1, retries + 1):
         try:
@@ -198,7 +213,13 @@ def get_soup(
                 headers["Referer"] = referer
             resp = session.get(url, headers=headers, timeout=30)
             resp.raise_for_status()
-            time.sleep(delay)
+            
+            if verbose:
+                print(f"  [DEBUG] Response status: {resp.status_code}")
+                print(f"  [DEBUG] Response headers: {dict(resp.headers)}")
+                print(f"  [DEBUG] Content length: {len(resp.text)} bytes")
+            
+            random_delay(delay)  # Use random delay instead of fixed delay
             return BeautifulSoup(resp.text, "html.parser")
         except requests.exceptions.SSLError as exc:
             raise requests.exceptions.SSLError(
@@ -221,10 +242,18 @@ def get_soup(
             # Non-transient HTTP errors (4xx) are not worth retrying.
             status = exc.response.status_code if exc.response is not None else "?"
             if exc.response is not None and exc.response.status_code < 500:
-                raise requests.exceptions.HTTPError(
-                    f"HTTP {status} error fetching {url}. "
-                    "The site may be blocking requests or the URL has changed."
-                ) from exc
+                error_msg = f"HTTP {status} error fetching {url}."
+                if status == 403:
+                    error_msg += (
+                        "\n  The site is actively blocking this request. This could be due to:"
+                        "\n  - Anti-bot protection (e.g., Cloudflare, Imperva)"
+                        "\n  - Rate limiting (try increasing --delay)"
+                        "\n  - IP blocking (try using a VPN or proxy)"
+                        "\n  - User-Agent detection (headers may need updating)"
+                    )
+                else:
+                    error_msg += " The site may be blocking requests or the URL has changed."
+                raise requests.exceptions.HTTPError(error_msg) from exc
             last_exc = exc
             print(
                 f"  [WARN] HTTP {status} on attempt {attempt}/{retries} for {url}: {exc}",
@@ -233,7 +262,7 @@ def get_soup(
         if attempt < retries:
             backoff = delay * (2 ** attempt)
             print(f"  [WARN] Retrying in {backoff:.1f}s …", flush=True)
-            time.sleep(backoff)
+            random_delay(backoff)  # Use random delay for retries too
     raise requests.exceptions.RequestException(
         f"Failed to fetch {url} after {retries} attempt(s)."
     ) from last_exc
@@ -460,6 +489,16 @@ def main():
         default=3,
         help="Number of times to retry a failed HTTP request (default 3).",
     )
+    parser.add_argument(
+        "--verbose",
+        action="store_true",
+        help="Enable verbose debug output for HTTP requests.",
+    )
+    parser.add_argument(
+        "--proxy",
+        default=None,
+        help="HTTP/HTTPS proxy URL (e.g., http://127.0.0.1:8080 or socks5://127.0.0.1:9050).",
+    )
     args = parser.parse_args()
 
     out_dir      = Path(args.out_dir)
@@ -468,13 +507,14 @@ def main():
     if args.no_verify_ssl:
         urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
+    # Use latest Chrome version (as of March 2026) and realistic headers
     headers = {
         "User-Agent": (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
             "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/131.0.0.0 Safari/537.36"
+            "Chrome/132.0.0.0 Safari/537.36"
         ),
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
         "Accept-Language": "en-US,en;q=0.9",
         "Accept-Encoding": "gzip, deflate, br",
         "Connection": "keep-alive",
@@ -483,22 +523,38 @@ def main():
         "Sec-Fetch-Mode": "navigate",
         "Sec-Fetch-Site": "none",
         "Sec-Fetch-User": "?1",
-        "Sec-Ch-Ua": '"Chromium";v="131", "Not_A Brand";v="24"',
+        "Sec-Ch-Ua": '"Chromium";v="132", "Not(A:Brand";v="24", "Google Chrome";v="132"',
         "Sec-Ch-Ua-Mobile": "?0",
         "Sec-Ch-Ua-Platform": '"Windows"',
-        "DNT": "1",
         "Cache-Control": "max-age=0",
     }
     session = requests.Session()
     session.headers.update(headers)
     session.verify = not args.no_verify_ssl
+    session.verbose = args.verbose  # Store verbose flag on session object
+    
+    # Configure proxy if provided
+    if args.proxy:
+        session.proxies = {
+            "http": args.proxy,
+            "https": args.proxy,
+        }
+        if args.verbose:
+            print(f"Using proxy: {args.proxy}")
+    
+    if args.verbose:
+        print("Session configuration:")
+        print(f"  User-Agent: {headers['User-Agent']}")
+        print(f"  SSL verification: {session.verify}")
+        print(f"  Delay: {args.delay}s (with random jitter)")
+        print(f"  Retries: {args.retries}")
 
     # First, visit the homepage to establish session cookies and look more legitimate
     try:
         print(f"Initializing session with {BASE_URL} …")
         resp = session.get(BASE_URL, timeout=30)
         resp.raise_for_status()
-        time.sleep(args.delay)
+        random_delay(args.delay)  # Use random delay after homepage visit
     except requests.exceptions.RequestException as exc:
         print(f"  [WARN] Could not initialize session: {exc}")
         print("  Continuing anyway...")
