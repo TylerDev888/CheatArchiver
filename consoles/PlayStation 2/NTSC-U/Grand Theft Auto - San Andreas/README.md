@@ -3,13 +3,13 @@
 **Console:** PlayStation 2  
 **Region:** NTSC-U  
 **Serial:** SLUS-20946  
-**Source:** [gamehacking.org](https://gamehacking.org/game/44)
+**Source:** [gamehacking.org](https://gamehacking.org/game/44)  
 
 ---
 
 ## Cheats
 
-### Master Code [NTSC-U]
+### Master Code
 **Author:** ReallyCoolName  
 **Notes:** Must be active for all other codes to work.
 
@@ -44,10 +44,10 @@ F0100008 0000000E
 
 **Pointer chain:**
 ```
-Base   [Player Pointer]:      203F8A00 00000000
-  → +0x14  [Player Ped Object]
-  → +0x900 [Health]
-Final  [Max Health Value]:    2058B610 461C4000
+Base [Player Pointer]:   203F8A00 00000000
+  -> +0x14  [Player Ped Object]
+  -> +0x900  [Health]
+Final [Max Health Value]:   2058B610 461C4000
 ```
 
 ---
@@ -58,15 +58,15 @@ Final  [Max Health Value]:    2058B610 461C4000
 
 **Pointer chain:**
 ```
-Base   [Player Pointer]:      203F8A00 00000000
-  → +0x14  [Player Ped Object]
-  → +0x3C  [Weapon Slot Base]
-Final  [Weapon ID]:           1058B600 00000009
+Base [Player Pointer]:   203F8A00 00000000
+  -> +0x14  [Player Ped Object]
+  -> +0x3C  [Weapon Slot Base]
+Final [Weapon ID]:   1058B600 00000009
 ```
 
 ---
 
-### Wanted Level — Never Wanted
+### Wanted Level - Never Wanted
 **Author:** LawlessCoder
 
 ```
@@ -77,6 +77,6 @@ Final  [Weapon ID]:           1058B600 00000009
 
 ## Patches
 
-| Patch | Description |
-|---|---|
-| [NTSC-U Patch v1.0](./patches/NTSC-U-Patch-v1.0/) | Fan-made bugfix patch; cheats adjusted for patched ELF |
+| Patch |
+|---|
+| [NTSC-U-Patch-v1.0](./patches/NTSC-U-Patch-v1.0/) |
