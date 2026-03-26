@@ -40,6 +40,7 @@ import os
 import re
 import sys
 import time
+import urllib3
 from pathlib import Path
 from urllib.parse import urljoin, urlencode, quote
 
@@ -176,21 +177,70 @@ def ensure_yaml(path: Path, content: str, dry_run: bool) -> None:
 # HTTP helpers
 # ---------------------------------------------------------------------------
 
-def get_soup(session: requests.Session, url: str, delay: float) -> BeautifulSoup:
-    """Fetch *url* and return a BeautifulSoup object (HTML parser)."""
-    resp = session.get(url, timeout=30)
-    resp.raise_for_status()
-    time.sleep(delay)
-    return BeautifulSoup(resp.text, "html.parser")
+def get_soup(
+    session: requests.Session,
+    url: str,
+    delay: float,
+    retries: int = 3,
+) -> BeautifulSoup:
+    """Fetch *url* and return a BeautifulSoup object (HTML parser).
+
+    Retries up to *retries* times on transient network or server errors,
+    with exponential back-off.  Raises the last exception if all attempts fail.
+    """
+    last_exc: Exception | None = None
+    for attempt in range(1, retries + 1):
+        try:
+            resp = session.get(url, timeout=30)
+            resp.raise_for_status()
+            time.sleep(delay)
+            return BeautifulSoup(resp.text, "html.parser")
+        except requests.exceptions.SSLError as exc:
+            raise requests.exceptions.SSLError(
+                f"SSL certificate verification failed for {url}.\n"
+                "Try running with --no-verify-ssl to skip verification."
+            ) from exc
+        except requests.exceptions.ConnectionError as exc:
+            last_exc = exc
+            print(
+                f"  [WARN] Connection error on attempt {attempt}/{retries} for {url}: {exc}",
+                flush=True,
+            )
+        except requests.exceptions.Timeout as exc:
+            last_exc = exc
+            print(
+                f"  [WARN] Timeout on attempt {attempt}/{retries} for {url}: {exc}",
+                flush=True,
+            )
+        except requests.exceptions.HTTPError as exc:
+            # Non-transient HTTP errors (4xx) are not worth retrying.
+            status = exc.response.status_code if exc.response is not None else "?"
+            if exc.response is not None and exc.response.status_code < 500:
+                raise requests.exceptions.HTTPError(
+                    f"HTTP {status} error fetching {url}. "
+                    "The site may be blocking requests or the URL has changed."
+                ) from exc
+            last_exc = exc
+            print(
+                f"  [WARN] HTTP {status} on attempt {attempt}/{retries} for {url}: {exc}",
+                flush=True,
+            )
+        if attempt < retries:
+            backoff = delay * (2 ** attempt)
+            print(f"  [WARN] Retrying in {backoff:.1f}s …", flush=True)
+            time.sleep(backoff)
+    raise requests.exceptions.RequestException(
+        f"Failed to fetch {url} after {retries} attempt(s)."
+    ) from last_exc
 
 
 # ---------------------------------------------------------------------------
 # gamehacking.org scraping logic
 # ---------------------------------------------------------------------------
 
-def scrape_systems(session: requests.Session, delay: float) -> list:
+def scrape_systems(session: requests.Session, delay: float, retries: int = 3) -> list:
     """Return a list of {id, name} dicts for all systems on the search page."""
-    soup = get_soup(session, f"{BASE_URL}/search", delay)
+    soup = get_soup(session, f"{BASE_URL}/search", delay, retries=retries)
     systems = []
     # The system select box is typically id="system" or name="system"
     select = (
@@ -219,6 +269,7 @@ def scrape_game_list(
     session: requests.Session,
     system_id: str,
     delay: float,
+    retries: int = 3,
 ) -> list:
     """Return a list of {id, title, url} dicts for every game in *system_id*."""
     url  = f"{BASE_URL}/search"
@@ -227,7 +278,7 @@ def scrape_game_list(
 
     while True:
         params = {"system": system_id, "page": page}
-        soup   = get_soup(session, f"{url}?{urlencode(params)}", delay)
+        soup   = get_soup(session, f"{url}?{urlencode(params)}", delay, retries=retries)
 
         # Game links are typically <a href="/game/NNN">Game Title</a>
         found_any = False
@@ -253,6 +304,7 @@ def scrape_game(
     session: requests.Session,
     game_url: str,
     delay: float,
+    retries: int = 3,
 ) -> dict:
     """
     Fetch a game page and return:
@@ -261,7 +313,7 @@ def scrape_game(
         cheats: [{name, author, notes, codes}]
       }
     """
-    soup = get_soup(session, game_url, delay)
+    soup = get_soup(session, game_url, delay, retries=retries)
 
     # --- Title ---
     h1 = soup.find("h1")
@@ -387,10 +439,24 @@ def main():
         action="store_true",
         help="Print what would be written without creating any files.",
     )
+    parser.add_argument(
+        "--no-verify-ssl",
+        action="store_true",
+        help="Disable SSL certificate verification (use if you get SSL errors).",
+    )
+    parser.add_argument(
+        "--retries",
+        type=int,
+        default=3,
+        help="Number of times to retry a failed HTTP request (default 3).",
+    )
     args = parser.parse_args()
 
     out_dir      = Path(args.out_dir)
     consoles_dir = out_dir / "consoles"
+
+    if args.no_verify_ssl:
+        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
     headers = {
         "User-Agent": (
@@ -400,9 +466,13 @@ def main():
     }
     session = requests.Session()
     session.headers.update(headers)
+    session.verify = not args.no_verify_ssl
 
     print(f"Fetching system list from {BASE_URL}/search …")
-    systems = scrape_systems(session, args.delay)
+    try:
+        systems = scrape_systems(session, args.delay, retries=args.retries)
+    except requests.exceptions.RequestException as exc:
+        sys.exit(f"ERROR: Could not fetch the system list.\n  {exc}")
 
     if not systems:
         sys.exit("No systems found. The page layout may have changed.")
@@ -427,13 +497,17 @@ def main():
         sys_name = system["name"]
         print(f"\n=== System: {sys_name} (id={sys_id}) ===")
 
-        games = scrape_game_list(session, sys_id, args.delay)
+        try:
+            games = scrape_game_list(session, sys_id, args.delay, retries=args.retries)
+        except requests.exceptions.RequestException as exc:
+            print(f"  ERROR fetching game list: {exc}  Skipping system.")
+            continue
         print(f"  {len(games)} game(s) found.")
 
         for game_meta in games:
             print(f"  Scraping: {game_meta['title']} …", end=" ", flush=True)
             try:
-                data = scrape_game(session, game_meta["url"], args.delay)
+                data = scrape_game(session, game_meta["url"], args.delay, retries=args.retries)
             except Exception as exc:
                 print(f"ERROR: {exc}")
                 continue
