@@ -13,14 +13,39 @@ Usage
                                   [--system <system_id_or_name>]
                                   [--delay 1.0]
                                   [--dry-run]
+                                  [--verbose]
+                                  [--proxy <proxy_url>]
 
 Options
 -------
---out-dir     Root of the CheatArchiver repo.  Defaults to the directory
-              that contains this script.
---system      Filter to a single system by numeric ID or partial name.
---delay       Seconds to wait between HTTP requests (default 1.0).
---dry-run     Print what would be written without creating any files.
+--out-dir        Root of the CheatArchiver repo.  Defaults to the directory
+                 that contains this script.
+--system         Filter to a single system by numeric ID or partial name.
+--delay          Seconds to wait between HTTP requests (default 1.0).
+                 A random jitter of +/- 30% is applied to avoid detection.
+--dry-run        Print what would be written without creating any files.
+--no-verify-ssl  Disable SSL certificate verification (use if you get SSL errors).
+--retries        Number of times to retry a failed HTTP request (default 3).
+--verbose        Enable verbose debug output for HTTP requests.
+--proxy          HTTP/HTTPS proxy URL (e.g., http://127.0.0.1:8080 or
+                 socks5://127.0.0.1:9050). Useful if your IP is blocked.
+
+Troubleshooting HTTP 403 Errors
+--------------------------------
+If you encounter "403 Forbidden" errors, the site is blocking your requests.
+Try these solutions:
+
+  1. Increase delay between requests:
+     python Scrape-GameHacking.py --delay 2.0 --system "NES"
+
+  2. Use a proxy or VPN to change your IP address:
+     python Scrape-GameHacking.py --proxy http://127.0.0.1:8080
+
+  3. Enable verbose mode to see what's happening:
+     python Scrape-GameHacking.py --verbose --system "NES"
+
+  4. Retry with more attempts:
+     python Scrape-GameHacking.py --retries 5 --delay 2.0
 
 Cheat-type detection
 --------------------
