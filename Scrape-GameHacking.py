@@ -182,6 +182,7 @@ def get_soup(
     url: str,
     delay: float,
     retries: int = 3,
+    referer: str | None = None,
 ) -> BeautifulSoup:
     """Fetch *url* and return a BeautifulSoup object (HTML parser).
 
@@ -191,7 +192,11 @@ def get_soup(
     last_exc: Exception | None = None
     for attempt in range(1, retries + 1):
         try:
-            resp = session.get(url, timeout=30)
+            # Add referer header for this specific request if provided
+            headers = {}
+            if referer:
+                headers["Referer"] = referer
+            resp = session.get(url, headers=headers, timeout=30)
             resp.raise_for_status()
             time.sleep(delay)
             return BeautifulSoup(resp.text, "html.parser")
@@ -240,7 +245,8 @@ def get_soup(
 
 def scrape_systems(session: requests.Session, delay: float, retries: int = 3) -> list:
     """Return a list of {id, name} dicts for all systems on the search page."""
-    soup = get_soup(session, f"{BASE_URL}/search", delay, retries=retries)
+    # Use BASE_URL as referer to simulate navigation from homepage
+    soup = get_soup(session, f"{BASE_URL}/search", delay, retries=retries, referer=BASE_URL)
     systems = []
     # The system select box is typically id="system" or name="system"
     select = (
@@ -278,7 +284,10 @@ def scrape_game_list(
 
     while True:
         params = {"system": system_id, "page": page}
-        soup   = get_soup(session, f"{url}?{urlencode(params)}", delay, retries=retries)
+        page_url = f"{url}?{urlencode(params)}"
+        # Use BASE_URL as referer for search pages
+        referer = BASE_URL if page == 1 else f"{url}?{urlencode({'system': system_id, 'page': page - 1})}"
+        soup = get_soup(session, page_url, delay, retries=retries, referer=referer)
 
         # Game links are typically <a href="/game/NNN">Game Title</a>
         found_any = False
@@ -313,7 +322,8 @@ def scrape_game(
         cheats: [{name, author, notes, codes}]
       }
     """
-    soup = get_soup(session, game_url, delay, retries=retries)
+    # Use search page as referer when fetching game pages
+    soup = get_soup(session, game_url, delay, retries=retries, referer=f"{BASE_URL}/search")
 
     # --- Title ---
     h1 = soup.find("h1")
@@ -462,17 +472,36 @@ def main():
         "User-Agent": (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
             "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/124.0.0.0 Safari/537.36"
+            "Chrome/131.0.0.0 Safari/537.36"
         ),
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
         "Accept-Language": "en-US,en;q=0.9",
         "Accept-Encoding": "gzip, deflate, br",
         "Connection": "keep-alive",
         "Upgrade-Insecure-Requests": "1",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "none",
+        "Sec-Fetch-User": "?1",
+        "Sec-Ch-Ua": '"Chromium";v="131", "Not_A Brand";v="24"',
+        "Sec-Ch-Ua-Mobile": "?0",
+        "Sec-Ch-Ua-Platform": '"Windows"',
+        "DNT": "1",
+        "Cache-Control": "max-age=0",
     }
     session = requests.Session()
     session.headers.update(headers)
     session.verify = not args.no_verify_ssl
+
+    # First, visit the homepage to establish session cookies and look more legitimate
+    try:
+        print(f"Initializing session with {BASE_URL} …")
+        resp = session.get(BASE_URL, timeout=30)
+        resp.raise_for_status()
+        time.sleep(args.delay)
+    except requests.exceptions.RequestException as exc:
+        print(f"  [WARN] Could not initialize session: {exc}")
+        print("  Continuing anyway...")
 
     print(f"Fetching system list from {BASE_URL}/search …")
     try:
