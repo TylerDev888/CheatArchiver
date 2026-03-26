@@ -3,6 +3,7 @@
 **Console:** PlayStation 2  
 **Region:** NTSC-U  
 **Serial:** SLUS-20946  
+**Cheat Type:** CodeBreaker  
 **Source:** [gamehacking.org](https://gamehacking.org/game/44)  
 
 ---
