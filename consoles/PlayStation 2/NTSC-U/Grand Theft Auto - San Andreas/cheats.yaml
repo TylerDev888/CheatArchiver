@@ -28,15 +28,33 @@ cheats:
       - "2058B650 05F5E0FF"
       - "2058B654 05F5E0FF"
 
+  - name: "Infinite Health (Pointer-based)"
+    author: "PointerPro"
+    notes: "Follows a pointer chain from the player base to the health field."
+    pointers:
+      - base: "203F8A00 00000000"
+        base_label: "Player Pointer"
+        offsets:
+          - offset: "0x14"
+            label: "Player Ped Object"
+          - offset: "0x900"
+            label: "Health"
+        final_code: "2058B610 461C4000"
+        final_label: "Max Health Value"
+
   - name: "All Weapons (Pointer-based)"
     author: "PointerPro"
     notes: "Follows a pointer chain to the player weapon slot."
     pointers:
       - base: "203F8A00 00000000"
+        base_label: "Player Pointer"
         offsets:
-          - "0x10"
-          - "0x3C"
+          - offset: "0x14"
+            label: "Player Ped Object"
+          - offset: "0x3C"
+            label: "Weapon Slot Base"
         final_code: "1058B600 00000009"
+        final_label: "Weapon ID"
 
   - name: "Wanted Level - Never Wanted"
     author: "LawlessCoder"

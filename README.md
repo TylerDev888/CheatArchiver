@@ -201,6 +201,8 @@ F0100008 0000000E
 
 Some cheats are **pointer-based**: the cheat engine first reads a base address, then follows one or more offsets to reach the final memory location. These are represented as a nested structure inside a cheat entry.
 
+Each offset is an object with an `offset` (hex value) and an optional `label` that names what that hop in the chain represents. The base pointer and the final code also accept optional labels.
+
 ```yaml
   - name: "Infinite Ammo (Pointer)"
     author: "SomeHacker"
@@ -209,20 +211,31 @@ Some cheats are **pointer-based**: the cheat engine first reads a base address, 
       - "D0000000 00000001"   # activator line (if any)
     pointers:
       - base: "203F8A00 00000000"   # base pointer read/write line
+        base_label: "Player Pointer"
         offsets:
-          - "0x10"
-          - "0x24"
-          - "0x08"
+          - offset: "0x10"
+            label: "Player Object"
+          - offset: "0x24"
+            label: "Weapon Slot"
+          - offset: "0x08"
+            label: "Ammo Count"
         final_code: "10456B00 000003E7"  # code applied at resolved address
+        final_label: "Max Ammo Value"
 ```
+
+The `label` fields are **optional** — you may omit them for any offset (or the base/final) if the meaning is unknown or self-evident.
 
 ### Pointer field definitions
 
-| Field | Description |
-|---|---|
-| `base` | The code line that establishes the base address (same format as a regular code line) |
-| `offsets` | Ordered list of hex offsets to dereference from the base |
-| `final_code` | The code applied at the fully resolved address |
+| Field | Required | Description |
+|---|---|---|
+| `base` | ✅ | The code line that establishes the base address (same format as a regular code line) |
+| `base_label` | ❌ | Human-readable name for the base pointer (e.g. `"Player Pointer"`) |
+| `offsets` | ✅ | Ordered list of offset objects to dereference from the base |
+| `offsets[].offset` | ✅ | Hex offset value (e.g. `"0x10"`) |
+| `offsets[].label` | ❌ | Human-readable name for what this offset leads to (e.g. `"Health"`) |
+| `final_code` | ✅ | The code applied at the fully resolved address |
+| `final_label` | ❌ | Human-readable name for what the final write targets (e.g. `"Max Ammo Value"`) |
 
 In the `README.md` this renders as:
 
@@ -232,11 +245,11 @@ In the `README.md` this renders as:
 
 **Pointer chain:**
 ```
-Base:      203F8A00 00000000
-Offset 1:  +0x10
-Offset 2:  +0x24
-Offset 3:  +0x08
-Final:     10456B00 000003E7
+Base   [Player Pointer]:   203F8A00 00000000
+  → +0x10  [Player Object]
+  → +0x24  [Weapon Slot]
+  → +0x08  [Ammo Count]
+Final  [Max Ammo Value]:   10456B00 000003E7
 ```
 ```
 
