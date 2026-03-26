@@ -15,6 +15,7 @@ Usage
                                   [--dry-run]
                                   [--verbose]
                                   [--proxy <proxy_url>]
+                                  [--dump-html]
 
 Options
 -------
@@ -29,6 +30,8 @@ Options
 --verbose        Enable verbose debug output for HTTP requests.
 --proxy          HTTP/HTTPS proxy URL (e.g., http://127.0.0.1:8080 or
                  socks5://127.0.0.1:9050). Useful if your IP is blocked.
+--dump-html      Dump HTML pages to files for debugging (useful when selectors fail).
+                 Creates debug_search_page.html with the raw HTML from the search page.
 
 Troubleshooting HTTP 403 Errors
 --------------------------------
@@ -51,6 +54,17 @@ encounter "403 Forbidden" errors, try these solutions:
   Note: cloudscraper handles most Cloudflare challenges automatically, but some
   advanced protections may still block automated requests. In such cases, using
   a proxy or VPN may be necessary.
+
+Troubleshooting Selector Issues
+--------------------------------
+If you see "[WARN] Could not find system selector on search page", the page
+structure may have changed. Use the --dump-html flag to save the HTML:
+
+  python Scrape-GameHacking.py --dump-html --system "PlayStation 2"
+
+This will create a file named "debug_search_page.html" in the current directory
+containing the exact HTML received from the server. You can inspect this file to
+understand the page structure and identify the correct selectors.
 
 Cheat-type detection
 --------------------
@@ -222,11 +236,15 @@ def get_soup(
     delay: float,
     retries: int = 3,
     referer: str | None = None,
+    dump_html: bool = False,
+    dump_filename: str | None = None,
 ) -> BeautifulSoup:
     """Fetch *url* and return a BeautifulSoup object (HTML parser).
 
     Retries up to *retries* times on transient network or server errors,
     with exponential back-off.  Raises the last exception if all attempts fail.
+    
+    If dump_html is True, saves the HTML content to a file for debugging.
     """
     verbose = getattr(session, '_scraper_verbose', False)
     
@@ -252,6 +270,20 @@ def get_soup(
                 print(f"  [DEBUG] Response status: {resp.status_code}")
                 print(f"  [DEBUG] Response headers: {dict(resp.headers)}")
                 print(f"  [DEBUG] Content length: {len(resp.text)} bytes")
+            
+            # Dump HTML to file if requested
+            if dump_html:
+                if dump_filename is None:
+                    # Create a safe filename from the URL
+                    import hashlib
+                    url_hash = hashlib.md5(url.encode()).hexdigest()[:8]
+                    dump_filename = f"debug_html_{url_hash}.html"
+                try:
+                    with open(dump_filename, "w", encoding="utf-8") as f:
+                        f.write(resp.text)
+                    print(f"  [DEBUG] HTML dumped to: {dump_filename}")
+                except Exception as e:
+                    print(f"  [WARN] Could not dump HTML to file: {e}")
             
             random_delay(delay)  # Use random delay instead of fixed delay
             return BeautifulSoup(resp.text, "html.parser")
@@ -320,10 +352,11 @@ def get_soup(
 # gamehacking.org scraping logic
 # ---------------------------------------------------------------------------
 
-def scrape_systems(session: cloudscraper.CloudScraper, delay: float, retries: int = 3) -> list:
+def scrape_systems(session: cloudscraper.CloudScraper, delay: float, retries: int = 3, dump_html: bool = False) -> list:
     """Return a list of {id, name} dicts for all systems on the search page."""
     # Use BASE_URL as referer to simulate navigation from homepage
-    soup = get_soup(session, f"{BASE_URL}/search", delay, retries=retries, referer=BASE_URL)
+    soup = get_soup(session, f"{BASE_URL}/search", delay, retries=retries, referer=BASE_URL, 
+                    dump_html=dump_html, dump_filename="debug_search_page.html")
     systems = []
     # The system select box is typically id="system" or name="system"
     select = (
@@ -339,6 +372,8 @@ def scrape_systems(session: cloudscraper.CloudScraper, delay: float, retries: in
                 break
     if not select:
         print("[WARN] Could not find system selector on search page.")
+        if dump_html:
+            print("  Check debug_search_page.html to see the actual page structure.")
         return systems
     for opt in select.find_all("option"):
         val  = opt.get("value", "").strip()
@@ -547,6 +582,11 @@ def main():
         default=None,
         help="HTTP/HTTPS proxy URL (e.g., http://127.0.0.1:8080 or socks5://127.0.0.1:9050).",
     )
+    parser.add_argument(
+        "--dump-html",
+        action="store_true",
+        help="Dump HTML pages to files for debugging (useful when selectors fail).",
+    )
     args = parser.parse_args()
 
     out_dir      = Path(args.out_dir)
@@ -620,7 +660,7 @@ def main():
 
     print(f"Fetching system list from {BASE_URL}/search …")
     try:
-        systems = scrape_systems(session, args.delay, retries=args.retries)
+        systems = scrape_systems(session, args.delay, retries=args.retries, dump_html=args.dump_html)
     except requests.exceptions.RequestException as exc:
         sys.exit(f"ERROR: Could not fetch the system list.\n  {exc}")
 
