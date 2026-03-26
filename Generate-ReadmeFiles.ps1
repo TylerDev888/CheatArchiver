@@ -31,6 +31,7 @@ function ConvertFrom-CheatsYaml {
         console     = ''
         region      = ''
         serial      = ''
+        cheat_type  = ''
         source      = ''
         patch       = ''
         base_serial = ''
@@ -230,6 +231,9 @@ function Build-GameReadme {
     if ($data.serial) {
         $null = $sb.AppendLine("**Serial:** $($data.serial)  ")
     }
+    if ($data.cheat_type) {
+        $null = $sb.AppendLine("**Cheat Type:** $($data.cheat_type)  ")
+    }
     if ($data.source) {
         $srcText = if ($data.source -match 'https?://([^/]+)') { $Matches[1] } else { $data.source }
         $null = $sb.AppendLine("**Source:** [$srcText]($($data.source))  ")
@@ -278,6 +282,9 @@ function Build-PatchReadme {
     $null = $sb.AppendLine("**Region:** $($data.region)  ")
     $null = $sb.AppendLine("**Base Game:** [$($data.game)](../../)  ")
     $null = $sb.AppendLine("**Patch:** $($data.patch)  ")
+    if ($data.cheat_type) {
+        $null = $sb.AppendLine("**Cheat Type:** $($data.cheat_type)  ")
+    }
     $null = $sb.AppendLine("")
     $null = $sb.AppendLine("---")
     $null = $sb.AppendLine("")
