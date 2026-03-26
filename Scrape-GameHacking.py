@@ -279,8 +279,11 @@ def get_soup(
                     url_hash = hashlib.md5(url.encode()).hexdigest()[:8]
                     dump_filename = f"debug_html_{url_hash}.html"
                 try:
-                    with open(dump_filename, "w", encoding="utf-8") as f:
-                        f.write(resp.text)
+                    # Write the raw bytes to preserve the actual response content
+                    # resp.content contains the raw bytes as received (after any automatic decompression by requests)
+                    # This ensures we see exactly what the server sent back
+                    with open(dump_filename, "wb") as f:
+                        f.write(resp.content)
                     print(f"  [DEBUG] HTML dumped to: {dump_filename}")
                 except Exception as e:
                     print(f"  [WARN] Could not dump HTML to file: {e}")
