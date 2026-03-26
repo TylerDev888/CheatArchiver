@@ -236,6 +236,9 @@ def get_soup(
             headers = {}
             if referer:
                 headers["Referer"] = referer
+                # Set Sec-Fetch-Site to same-origin when navigating within the same domain
+                # This matches real browser behavior
+                headers["Sec-Fetch-Site"] = "same-origin"
             resp = session.get(url, headers=headers, timeout=30)
             resp.raise_for_status()
             
@@ -533,25 +536,28 @@ def main():
         urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
     # Use latest Chrome version (as of March 2026) and realistic headers
+    # Headers match successful browser request to avoid 404 errors
     headers = {
         "User-Agent": (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
             "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/132.0.0.0 Safari/537.36"
+            "Chrome/146.0.0.0 Safari/537.36"
         ),
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "Accept-Language": "en-US,en;q=0.9",
-        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "en-US,en;q=0.9,ro;q=0.8,fr;q=0.7,es;q=0.6",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
         "Connection": "keep-alive",
         "Upgrade-Insecure-Requests": "1",
         "Sec-Fetch-Dest": "document",
         "Sec-Fetch-Mode": "navigate",
         "Sec-Fetch-Site": "none",
         "Sec-Fetch-User": "?1",
-        "Sec-Ch-Ua": '"Chromium";v="132", "Not(A:Brand";v="24", "Google Chrome";v="132"',
+        "Sec-Ch-Ua": '"Chromium";v="146", "Not-A.Brand";v="24", "Google Chrome";v="146"',
         "Sec-Ch-Ua-Mobile": "?0",
         "Sec-Ch-Ua-Platform": '"Windows"',
         "Cache-Control": "max-age=0",
+        "DNT": "1",
+        "Priority": "u=0, i",
     }
     session = requests.Session()
     session.headers.update(headers)
