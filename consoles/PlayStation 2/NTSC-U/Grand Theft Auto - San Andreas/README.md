@@ -38,16 +38,30 @@ F0100008 0000000E
 
 ---
 
+### Infinite Health (Pointer-based)
+**Author:** PointerPro  
+**Notes:** Follows a pointer chain from the player base to the health field.
+
+**Pointer chain:**
+```
+Base   [Player Pointer]:      203F8A00 00000000
+  → +0x14  [Player Ped Object]
+  → +0x900 [Health]
+Final  [Max Health Value]:    2058B610 461C4000
+```
+
+---
+
 ### All Weapons (Pointer-based)
 **Author:** PointerPro  
 **Notes:** Follows a pointer chain to the player weapon slot.
 
 **Pointer chain:**
 ```
-Base:      203F8A00 00000000
-Offset 1:  +0x10
-Offset 2:  +0x3C
-Final:     1058B600 00000009
+Base   [Player Pointer]:      203F8A00 00000000
+  → +0x14  [Player Ped Object]
+  → +0x3C  [Weapon Slot Base]
+Final  [Weapon ID]:           1058B600 00000009
 ```
 
 ---
