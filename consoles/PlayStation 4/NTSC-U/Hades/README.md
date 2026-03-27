@@ -99,7 +99,7 @@ A8000016 00000008
 
 ### Max Fierypresence (super Max Damage When Enemies Are At Max Health)
 **Author:**   
-**Notes:** 
+**Notes:** [Max Skills Stats:{{<div style=\
 
 ```
 80010014 530C0000
@@ -117,7 +117,7 @@ A8000017 00000008
 
 ### Max Stygian Soul (unlimited Ranged Attck)
 **Author:**   
-**Notes:** 
+**Notes:** [Max Skills Stats:{{<div style=\
 
 ```
 80010014 530C0000
