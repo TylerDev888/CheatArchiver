@@ -1,0 +1,48 @@
+# Star Wars - The Force Unleashed cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21614
+
+game: "Star Wars - The Force Unleashed"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21614"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Master Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9018EF50 0C063B7C"
+
+  - name: "Don't Take Damage [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D02B2668 E6810470"
+      - "202B2668 00000000"
+
+  - name: "Dying Doesn't Take Force Points Away [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D02F1480 AE240030"
+      - "202F1480 00000000"
+
+  - name: "Force Points Don't Decrease When Upgrading Force Powers [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D03ED478 AE130030"
+      - "203ED478 00000000"
+
+  - name: "Force Powers Don't Deplete Force Meter [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D02BB4B0 E60017D0"
+      - "202BB4B0 00000000"
+      - "D02BB5A8 E60117D0"
+      - "202BB5A8 00000000"

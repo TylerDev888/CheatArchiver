@@ -1,0 +1,43 @@
+# Valhalla Knights 2  Battle Stance cheat data
+# Console: PSP
+# Region:  NTSC-U
+# Serial:  ULUS10366
+
+game: "Valhalla Knights 2  Battle Stance"
+console: "PSP"
+region: "NTSC-U"
+serial: "ULUS10366"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Possession Money 999999g"
+    notes: "File: *"
+    codes:
+      - "20000008 000F423F"
+
+  - name: "Status All 99"
+    notes: "File: *"
+    codes:
+      - "40000063 00000063"
+      - "40070001 00000000"
+
+  - name: "Fi (Fighter)"
+    notes: "[Occupation Lv99]  File: *"
+    codes:
+      - "00000074 00000063"
+
+  - name: "Ma (Mage)"
+    notes: "[Occupation Lv99]  File: *"
+    codes:
+      - "00000075 00000063"
+
+  - name: "Pr (Priest)"
+    notes: "[Occupation Lv99]  File: *"
+    codes:
+      - "00000076 00000063"
+
+  - name: "Th Mo (Monk)"
+    notes: "[Occupation Lv99]  File: *"
+    codes:
+      - "00000078 00000063"

@@ -1,0 +1,90 @@
+# Assassin's Creed II cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00669
+
+game: "Assassin's Creed II"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00669"
+cheat_type: "Save Editor"
+source: "crc checksum by Devildwarf"
+
+cheats:
+  - name: "Enable Auditore Crypt Uplay Map"
+    notes: "File: OPTIONS"
+    codes:
+      - "00000498 00000001"
+
+  - name: "Enable Uplay Altairs Outfit"
+    notes: "File: OPTIONS"
+    codes:
+      - "00000486 00000001"
+
+  - name: "Enable Uplay Knives Upgrade"
+    notes: "File: OPTIONS"
+    codes:
+      - "00000474 00000001"
+
+  - name: "Enable Verizon App Store Bonus Skin"
+    notes: "File: OPTIONS"
+    codes:
+      - "0000041A 00000001"
+
+  - name: "Enable Maria Thorpe Longsword"
+    notes: "File: OPTIONS"
+    codes:
+      - "0000056B 00000001"
+
+  - name: "Enable Fredricks Hammer"
+    notes: "File: OPTIONS"
+    codes:
+      - "0000056C 00000001"
+
+  - name: "Enable Mace Of The Bull"
+    notes: "File: OPTIONS"
+    codes:
+      - "0000056D 00000001"
+
+  - name: "Enable Dark Oracle Bone Dagger"
+    notes: "File: OPTIONS"
+    codes:
+      - "0000056E 00000001"
+
+  - name: "Enable Twins Rapier"
+    notes: "File: OPTIONS"
+    codes:
+      - "0000056F 00000001"
+
+  - name: "Enable Boucharts Blade"
+    notes: "File: OPTIONS"
+    codes:
+      - "00000570 00000001"
+
+  - name: "Update Custom Crc32 Options (required)"
+    notes: "File: OPTIONS"
+    codes:
+      - "set crc_bandwidth:32"
+      - "set crc_polynomial:0x4C11DB7"
+      - "set crc_initial_value:0"
+      - "set crc_output_xor:0x1BF3278A"
+      - "set crc_reflection_input:1"
+      - "set crc_reflection_output:1"
+      - "set [size]:read(0x00,4)"
+      - "set range:0x0008,[size]+7"
+      - "set [hash]:crc"
+      - "write at 0x0004:[hash]"
+
+  - name: "Update Custom Crc32 Ac2_0.sav (required)"
+    notes: "File: AC2_0.SAV"
+    codes:
+      - "set crc_bandwidth:32"
+      - "set crc_polynomial:0x4C11DB7"
+      - "set crc_initial_value:0xBAE23CD0"
+      - "set crc_output_xor:0xFFFFFFFF"
+      - "set crc_reflection_input:1"
+      - "set crc_reflection_output:1"
+      - "set [size]:read(0x00,4)"
+      - "set range:0x0008,[size]+7"
+      - "set [hash]:crc"
+      - "write at 0x0004:[hash]"

@@ -1,0 +1,84 @@
+# Moto GP 3
+
+**Console:** PlayStation 2  
+**Region:** PAL  
+**Serial:** SCES-50982  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### (M) Must Be On
+**Author:** Codejunkies  
+**Notes:** [Master Codes]
+
+```
+F02B6BCC 000001FD
+```
+
+---
+
+### All Challenges Gold
+**Author:** Codejunkies
+
+```
+2034DDBC 02020202
+2034DDC0 02020202
+2034DDC4 02020202
+2034DDC8 02020202
+2034DDCC 02020202
+2034DDD0 02020202
+2034DDD4 02020202
+2034DDD8 02020202
+2034DDDC 02020202
+2034DDE0 02020202
+2034DDE4 02020202
+2034DDE8 02020202
+2034DDEC 02020202
+2034DDF0 02020202
+2034DDF4 02020202
+2034DDF8 02020202
+2034DDFC 02020202
+2034DE00 02020202
+2034DE04 02020202
+2034DE08 02020202
+2034DE0C 02020202
+2034DE10 02020202
+2034DE14 02020202
+2034DE18 02020202
+2034DE1C 02020202
+```
+
+---
+
+### Drive Anywhere (Read Notes)
+**Author:** luc-ita
+
+```
+2024DF80 00000000
+```
+
+---
+
+### No Loss Of Speed If You Go Off The Road Or Collide With Walls
+**Author:** luc-ita
+
+```
+2023EBDC 00000000
+2023EAE4 00000000
+2023D84C 00000000
+2023D834 00000000
+2023EDCC 00000000
+```
+
+---
+
+### Opponents Don't Move
+**Author:** luc-ita
+
+```
+2024D3EC 1000020C
+```
+
+---

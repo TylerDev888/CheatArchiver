@@ -1,0 +1,142 @@
+# Teenage Mutant Ninja Turtles - Mutant Melee cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53127
+
+game: "Teenage Mutant Ninja Turtles - Mutant Melee"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53127"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01958D0 001958D3"
+
+  - name: "Player 1 1 Hit Kill"
+    author: "Codejunkies"
+    notes: "[Player 1]"
+    codes:
+      - "E0020002 3178E300"
+      - "E0010000 3178E302"
+      - "2178E300 00000001"
+
+  - name: "Player 1 Empty Special Meter"
+    author: "Codejunkies"
+    notes: "[Player 1]"
+    codes:
+      - "2178E0BC 00000000"
+
+  - name: "Player 1 Full Special Meter"
+    author: "Codejunkies"
+    notes: "[Player 1]"
+    codes:
+      - "2178E0BC 00000096"
+
+  - name: "Player 1 Infinite Health"
+    author: "Codejunkies"
+    notes: "[Player 1]"
+    codes:
+      - "2178E300 000001C2"
+
+  - name: "Player 2 1 Hit Kill"
+    author: "Codejunkies"
+    notes: "[Player 2]"
+    codes:
+      - "E0020002 3178FF00"
+      - "E0010000 3178FF02"
+      - "2178FF00 00000001"
+
+  - name: "Player 2 Empty Special Meter"
+    author: "Codejunkies"
+    notes: "[Player 2]"
+    codes:
+      - "2178FCBC 00000000"
+
+  - name: "Player 2 Full Special Meter"
+    author: "Codejunkies"
+    notes: "[Player 2]"
+    codes:
+      - "2178FCBC 00000096"
+
+  - name: "Player 2 Infinite Health"
+    author: "Codejunkies"
+    notes: "[Player 2]"
+    codes:
+      - "2178FF00 000001C2"
+
+  - name: "Player 3 1 Hit Kill"
+    author: "Codejunkies"
+    notes: "[Player 3]"
+    codes:
+      - "E0020002 31790460"
+      - "E0010000 31790462"
+      - "21790460 00000001"
+
+  - name: "Player 3 Empty Special Meter"
+    author: "Codejunkies"
+    notes: "[Player 3]"
+    codes:
+      - "2179021C 00000000"
+
+  - name: "Player 3 Full Special Meter"
+    author: "Codejunkies"
+    notes: "[Player 3]"
+    codes:
+      - "2179021C 00000096"
+
+  - name: "Player 3 Infinite Health"
+    author: "Codejunkies"
+    notes: "[Player 3]"
+    codes:
+      - "21790460 000001C2"
+
+  - name: "Player 4 1 Hit Kill"
+    author: "Codejunkies"
+    notes: "[Player 4]"
+    codes:
+      - "E0020002 317909C0"
+      - "E0010000 317909C2"
+      - "217909C0 00000001"
+
+  - name: "Player 4 Empty Special Meter"
+    author: "Codejunkies"
+    notes: "[Player 4]"
+    codes:
+      - "2179077C 00000000"
+
+  - name: "Player 4 Full Special Meter"
+    author: "Codejunkies"
+    notes: "[Player 4]"
+    codes:
+      - "2179077C 00000096"
+
+  - name: "Player 4 Infinite Health"
+    author: "Codejunkies"
+    notes: "[Player 4]"
+    codes:
+      - "217909C0 000001C2"
+
+  - name: "L2 Sets Timer To 5 Minutes"
+    author: "Codejunkies"
+    notes: "[Timer Codes]"
+    codes:
+      - "D044E002 0000FEFF"
+      - "204B56A4 43960000"
+
+  - name: "Max Tokens"
+    author: "Codejunkies"
+    notes: "[Timer Codes]"
+    codes:
+      - "2044BD34 0098967F"
+
+  - name: "R2 Sets Timer To 10 Seconds"
+    author: "Codejunkies"
+    notes: "[Timer Codes]"
+    codes:
+      - "D044E002 0000FDFF"
+      - "204B56A4 41200000"

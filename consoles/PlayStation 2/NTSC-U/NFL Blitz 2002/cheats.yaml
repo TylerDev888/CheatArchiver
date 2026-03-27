@@ -1,0 +1,156 @@
+# NFL Blitz 2002 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20051
+
+game: "NFL Blitz 2002"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20051"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01CC678 00113F3F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00113F3F"
+
+  - name: "Always 4Th Down"
+    author: "Code Master"
+    codes:
+      - "1059B8F6 00000004"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "1059B8F2 0000????"
+
+  - name: "Always 1St Down"
+    author: "Codejunkies"
+    notes: "[Down Codes]"
+    codes:
+      - "1059B8F6 00000001"
+
+  - name: "Start On 2Nd Down"
+    author: "Codejunkies"
+    notes: "[Down Codes]"
+    codes:
+      - "D059B8F6 00000001"
+      - "1059B8F6 00000002"
+
+  - name: "Start On 3Rd Down"
+    author: "Codejunkies"
+    notes: "[Down Codes]"
+    codes:
+      - "D059B8F6 00000001"
+      - "1059B8F6 00000003"
+
+  - name: "Start On 4Th Down"
+    author: "Codejunkies"
+    notes: "[Down Codes]"
+    codes:
+      - "D059B8F6 00000001"
+      - "1059B8F6 00000004"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "1059B8F0 0000????"
+
+  - name: "Infinite Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "20177090 00000000"
+
+  - name: "Infinite Turbo P1"
+    author: "Code Master"
+    codes:
+      - "2059C808 3F800000"
+
+  - name: "Infinite Turbo P2"
+    author: "Code Master"
+    codes:
+      - "2059C328 3F800000"
+
+  - name: "Infinite Turbo P3"
+    author: "Code Master"
+    codes:
+      - "2059C2E8 3F800000"
+
+  - name: "Infinite Turbo P4"
+    author: "Code Master"
+    codes:
+      - "2059C2A8 3F800000"
+
+  - name: "No Turbo P1"
+    author: "Code Master"
+    codes:
+      - "2059C808 00000000"
+
+  - name: "No Turbo P2"
+    author: "Code Master"
+    codes:
+      - "2059C328 00000000"
+
+  - name: "No Turbo P3"
+    author: "Code Master"
+    codes:
+      - "2059C2E8 00000000"
+
+  - name: "No Turbo P4"
+    author: "Code Master"
+    codes:
+      - "2059C2A8 00000000"
+
+  - name: "Start In 2Nd Quarter"
+    author: "Codejunkies"
+    notes: "[Quarter Codes]"
+    codes:
+      - "D059B8F4 00000001"
+      - "1059B8F4 00000002"
+
+  - name: "Start In 3Rd Quarter"
+    author: "Codejunkies"
+    notes: "[Quarter Codes]"
+    codes:
+      - "D059B8F4 00000001"
+      - "1059B8F4 00000003"
+
+  - name: "Start In 4Th Quarter"
+    author: "Codejunkies"
+    notes: "[Quarter Codes]"
+    codes:
+      - "D059B8F4 00000001"
+      - "1059B8F4 00000004"
+
+  - name: "Team 1 Scores 0"
+    author: "Codejunkies"
+    notes: "[Team 1 Codes]"
+    codes:
+      - "1059B8F0 00000000"
+
+  - name: "Team 1 Scores 100"
+    author: "Codejunkies"
+    notes: "[Team 1 Codes]"
+    codes:
+      - "1059B8F0 00000064"
+
+  - name: "Team 2 Scores 0"
+    author: "Codejunkies"
+    notes: "[Team 2 Codes]"
+    codes:
+      - "1059B8F2 00000000"
+
+  - name: "Team 2 Scores 100"
+    author: "Codejunkies"
+    notes: "[Team 2 Codes]"
+    codes:
+      - "1059B8F2 00000064"

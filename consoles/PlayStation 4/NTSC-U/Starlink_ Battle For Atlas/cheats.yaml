@@ -1,0 +1,39 @@
+# Starlink_ Battle For Atlas cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA06938
+
+game: "Starlink_ Battle For Atlas"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA06938"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Max Electrum(yellow)"
+    notes: "[Currencies]  File: manual[0-9]{3}\\savedata.data"
+    codes:
+      - "80010009 00000014"
+      - "00000000 14000000"
+      - "28000009 05F5E0FF"
+
+  - name: "Max Nova(blue)"
+    notes: "[Currencies]  File: manual[0-9]{3}\\savedata.data"
+    codes:
+      - "80010009 00000014"
+      - "04000000 14000000"
+      - "28000009 05F5E0FF"
+
+  - name: "Max Cogs(purple)"
+    notes: "[Currencies]  File: manual[0-9]{3}\\savedata.data"
+    codes:
+      - "80010009 00000014"
+      - "06000000 14000000"
+      - "28000009 05F5E0FF"
+
+  - name: "Skill Points"
+    notes: "File: manual[0-9]{3}\\savedata.data  80010008 00001401 00000014 [Amount:00000000:HEX:LITTLE<CurrentValue>] 08000008 00000063"
+
+  - name: "EXP"
+    notes: "File: manual[0-9]{3}\\savedata.data  80010008 00001402 00000014 [Amount:00000000:HEX:LITTLE<CurrentValue>] 28000008 0002809F"

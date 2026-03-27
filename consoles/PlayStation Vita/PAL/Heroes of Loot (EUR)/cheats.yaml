@@ -1,0 +1,43 @@
+# Heroes of Loot (EUR) cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00646
+
+game: "Heroes of Loot (EUR)"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00646"
+cheat_type: "Save Editor"
+source: "Credits: Slade"
+
+cheats:
+  - name: "99,999 Gold"
+    notes: "File: SaveGave.sav"
+    codes:
+      - "2000006B 0001869F"
+
+  - name: "5 Keys"
+    notes: "File: SaveGave.sav"
+    codes:
+      - "0000007B 00000005"
+
+  - name: "Max Level"
+    notes: "File: SaveGave.sav"
+    codes:
+      - "00000087 00000014"
+
+  - name: "Max Score"
+    notes: "File: SaveGave.sav"
+    codes:
+      - "2000009F 000F423F"
+
+  - name: "999 Health"
+    notes: "File: SaveGave.sav"
+    codes:
+      - "10000077 000003E7"
+      - "1000008B 000003E7"
+
+  - name: "Dungeon 29"
+    notes: "File: SaveGave.sav  (\"Dungeon 29 will set your character / party to that level to start from.\")"
+    codes:
+      - "00000049 0000001D"

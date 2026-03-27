@@ -1,0 +1,24 @@
+# Zero No Tsukaima cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25709
+
+game: "Zero No Tsukaima"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25709"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90145FA0 0C051790"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "401FF5FC 00070001"
+      - "FFFFFFFF 00000000"

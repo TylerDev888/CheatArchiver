@@ -1,0 +1,28 @@
+# Tsuyo Kiss 2 Gakki - Swift Love cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-55154
+
+game: "Tsuyo Kiss 2 Gakki - Swift Love"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-55154"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90113D98 0C044F0E"
+
+  - name: "Unlock All Cgs"
+    author: "punk7890"
+    codes:
+      - "201429E0 8CA20000"
+      - "201429E4 AC820000"
+      - "201429E8 8C830000"
+      - "201429EC 00621026"
+      - "201429F0 2C420001"
+      - "201429F4 03E00008"

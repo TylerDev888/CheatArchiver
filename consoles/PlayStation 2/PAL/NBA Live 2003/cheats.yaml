@@ -1,0 +1,98 @@
+# NBA Live 2003 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51198
+
+game: "NBA Live 2003"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51198"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02C8E94 002C8E97"
+
+  - name: "Away Team Scores 0 (Press Select+Right To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D0579A42 0000FFDE"
+      - "104AEEB4 00000000"
+
+  - name: "Away Team Scores 200 (Press Select+Left To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D0579A42 0000FF7E"
+      - "104AEEB4 000000C8"
+
+  - name: "Always Play In The Gym"
+    author: "Codejunkies"
+    notes: "[Court Modifier]"
+    codes:
+      - "205797BC 00000002"
+
+  - name: "Always Play In The Stadium"
+    author: "Codejunkies"
+    notes: "[Court Modifier]"
+    codes:
+      - "205797BC 00000003"
+
+  - name: "Always Play In The Urban Court"
+    author: "Codejunkies"
+    notes: "[Court Modifier]"
+    codes:
+      - "205797BC 00000001"
+
+  - name: "Always Play On The Beach Court"
+    author: "Codejunkies"
+    notes: "[Court Modifier]"
+    codes:
+      - "205797BC 00000000"
+
+  - name: "Home Team Scores 0 (Press Select+Down To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D0579A42 0000FFBE"
+      - "104AED94 00000000"
+
+  - name: "Home Team Scores 200 (Press Select+Up To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D0579A42 0000FFEE"
+      - "104AED94 000000C8"
+
+  - name: "More Time (Press R1+R2+L1+L2+Select To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D0579A42 0000F0FE"
+      - "20499400 00004650"
+
+  - name: "Skip To End Of Quarter (Press R1+R2+L1+L2 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D0579A42 0000F0FF"
+      - "20499400 00000000"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 002C8E97"
+
+  - name: "Maximum Score"
+    author: "Xploder"
+    notes: "[Home Team]"
+    codes:
+      - "20F12D7C 0000270F"
+      - "201E13A0 2402270F"
+
+  - name: "No Score"
+    author: "Xploder"
+    notes: "[Home Team]"
+    codes:
+      - "201E13A0 24020000"
+      - "20F12D7C 00000000"

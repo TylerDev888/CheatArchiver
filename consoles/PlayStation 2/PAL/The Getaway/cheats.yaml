@@ -1,0 +1,35 @@
+# The Getaway cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "The Getaway"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00310E2F"
+
+  - name: "Unlimited Ammunition"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "201AE380 00000000"
+
+  - name: "Drive Through Obstacles"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "202EC954 00000000"
+
+  - name: "Unlock Free Roaming"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "00394E58 28096802"

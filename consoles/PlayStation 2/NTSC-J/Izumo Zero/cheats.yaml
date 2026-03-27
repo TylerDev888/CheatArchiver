@@ -1,0 +1,27 @@
+# Izumo Zero cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66764
+
+game: "Izumo Zero"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66764"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "903CE118 0C0F37EE"
+
+  - name: "Boot To Debug Menu"
+    author: "punk7890"
+    codes:
+      - "0038F970 0000003C"
+      - "1038F978 00003178"
+      - "203C3178 6E69616D"
+      - "203C317C 6265645F"
+      - "203C3180 00006775"

@@ -1,0 +1,129 @@
+# Superman - Shadow Of Apokolips cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20235
+
+game: "Superman - Shadow Of Apokolips"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20235"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F020478C 0020478F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0020478F"
+
+  - name: "Double Enemy Health"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "2037DDC4 00000001"
+
+  - name: "Half Enemy Health"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "2037DDEC 00000001"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "2037DD74 00000001"
+
+  - name: "Infinite Power"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "2037DD9C 00000001"
+
+  - name: "Have All Biography"
+    author: "InterAct"
+    codes:
+      - "202D5E78 24030001"
+
+  - name: "Have All Movies"
+    author: "InterAct"
+    codes:
+      - "202D6C2C 24030001"
+
+  - name: "Have Concept Movie Art"
+    author: "InterAct"
+    codes:
+      - "202D73BC 24030001"
+
+  - name: "Have Level Attack All Levels"
+    author: "InterAct"
+    codes:
+      - "202D4CA0 24030001"
+
+  - name: "Hella Speed"
+    author: "Code Master"
+    codes:
+      - "20329C0C 41000000"
+
+  - name: "Infinite Super Powers"
+    author: "InterAct"
+    codes:
+      - "20161AD4 3C034348"
+      - "20161AD8 44830000"
+
+  - name: "More Speed"
+    author: "Code Master"
+    codes:
+      - "20329C0C 40000000"
+
+  - name: "Press Select+Up For Quick Mode"
+    author: "InterAct"
+    codes:
+      - "D037F902 0000FFEE"
+      - "20329C0C 40800000"
+      - "D037F902 0000FFBE"
+      - "20329C0C 3F800000"
+
+  - name: "Super Speed"
+    author: "Code Master"
+    codes:
+      - "20329C0C 40800000"
+
+  - name: "Turn Speedy Animations Off (Press Select+Down To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D037F902 0000FFBE"
+      - "20329C0C 3F800000"
+
+  - name: "Turn Speedy Animations On (Press Select+Up To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D037F902 0000FFEE"
+      - "20329C0C 40800000"
+
+  - name: "Unlock All Biographies"
+    author: "Code Master"
+    codes:
+      - "20335694 00000001"
+
+  - name: "Unlock All Level Attacks"
+    author: "Code Master"
+    codes:
+      - "20335690 00000001"
+
+  - name: "Unlock All Movies (Movie Theatre)"
+    author: "Code Master"
+    codes:
+      - "20335698 00000001"
+
+  - name: "Unlock Concept Art Movie"
+    author: "Code Master"
+    codes:
+      - "203356A0 00000001"

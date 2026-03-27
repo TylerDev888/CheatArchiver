@@ -1,0 +1,395 @@
+# MLB Slugfest 2006 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21342
+
+game: "MLB Slugfest 2006"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21342"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "901B2024 0C06DCD6"
+
+  - name: "1 Ball And You Walk"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020000 0051AA98"
+      - "D051AAF0 00000000"
+      - "1051AAF0 00000003"
+
+  - name: "1 Out And You Are Out"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020000 0051AA98"
+      - "D051AAF4 00000000"
+      - "1051AAF4 00000002"
+
+  - name: "1 Strike And You Are Out"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020000 0051AA98"
+      - "D051AAE4 00000000"
+      - "1051AAE4 00000002"
+
+  - name: "2 Balls And You Walk"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020000 0051AA98"
+      - "D051AAF0 00000000"
+      - "1051AAF0 00000002"
+
+  - name: "2 Outs And You Are Out"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020000 0051AA98"
+      - "D051AAF4 00000000"
+      - "1051AAF4 00000001"
+
+  - name: "2 Strikes And You Are Out"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020000 0051AA98"
+      - "D051AAE4 00000000"
+      - "1051AAE4 00000001"
+
+  - name: "3 Balls And You Walk"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020000 0051AA98"
+      - "D051AAF0 00000000"
+      - "1051AAF0 00000001"
+
+  - name: "Always Full Count"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020000 0051AA98"
+      - "1051AAE4 00000002"
+      - "1051AAF0 00000003"
+
+  - name: "Always Full Count & 2 Outs"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0030000 0051AA98"
+      - "1051AAE4 00000002"
+      - "1051AAF0 00000003"
+      - "1051AAF4 00000002"
+
+  - name: "Infinite Balls"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D051AA98 00000000"
+      - "1051AAF0 00000000"
+
+  - name: "Infinite Outs"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D051AA98 00000000"
+      - "1051AAF4 00000000"
+
+  - name: "Infinite Strikes"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D051AA98 00000000"
+      - "1051AAE4 00000000"
+
+  - name: "All Runs Score For Away Team"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20105AE0 24630034"
+
+  - name: "All Runs Score For Home Team"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20105AE0 24630000"
+
+  - name: "Away Team Infinite Turbo"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2051792C 42C80000"
+
+  - name: "Away Team No Turbo"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2051792C 00000000"
+
+  - name: "Away Team Scores 0"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2051AC3C 00000000"
+
+  - name: "Away Team Scores 20"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2051AC3C 00000014"
+
+  - name: "Away Team Scores 50"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2051AC3C 00000032"
+
+  - name: "Away Team Starts With 5"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D051AC3C 00000000"
+      - "2051AC3C 00000005"
+
+  - name: "Away Team Starts With 10"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D051AC3C 00000000"
+      - "2051AC3C 0000000A"
+
+  - name: "Away Team Starts With 20"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D051AC3C 00000000"
+      - "2051AC3C 00000014"
+
+  - name: "Away Team Starts With 50"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D051AC3C 00000000"
+      - "2051AC3C 00000032"
+
+  - name: "Home Team Infinite Turbo"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20517928 42C80000"
+
+  - name: "Home Team No Turbo"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20517928 00000000"
+
+  - name: "Home Team Scores 0"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2051AC08 00000000"
+
+  - name: "Home Team Scores 20"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2051AC08 00000014"
+
+  - name: "Home Team Scores 50"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2051AC08 00000032"
+
+  - name: "Home Team Starts With 5"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D051AC08 00000000"
+      - "2051AC08 00000005"
+
+  - name: "Home Team Starts With 10"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D051AC08 00000000"
+      - "2051AC08 0000000A"
+
+  - name: "Home Team Starts With 20"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D051AC08 00000000"
+      - "2051AC08 00000014"
+
+  - name: "Home Team Starts With 50"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D051AC08 00000000"
+      - "2051AC08 00000032"
+
+  - name: "Runs Score 2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "10105AEC 00000002"
+
+  - name: "Runs Score 5"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "10105AEC 00000005"
+
+  - name: "Runs Score 10"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "10105AEC 0000000A"
+
+  - name: "All Stadiums"
+    author: "Code Master"
+    notes: "[Unlock Stadium Codes]"
+    codes:
+      - "205D1A80 01010101"
+      - "105D1A84 00000101"
+      - "005D1A86 00000001"
+
+  - name: "Atlantis"
+    author: "Code Master"
+    notes: "[Unlock Stadium Codes]"
+    codes:
+      - "005D1A86 00000001"
+
+  - name: "Coliseum"
+    author: "Code Master"
+    notes: "[Unlock Stadium Codes]"
+    codes:
+      - "005D1A80 00000001"
+
+  - name: "Empire Park"
+    author: "Code Master"
+    notes: "[Unlock Stadium Codes]"
+    codes:
+      - "005D1A84 00000001"
+
+  - name: "Forbidden City"
+    author: "Code Master"
+    notes: "[Unlock Stadium Codes]"
+    codes:
+      - "005D1A85 00000001"
+
+  - name: "Midway Park"
+    author: "Code Master"
+    notes: "[Unlock Stadium Codes]"
+    codes:
+      - "005D1A83 00000001"
+
+  - name: "Monument Stadium"
+    author: "Code Master"
+    notes: "[Unlock Stadium Codes]"
+    codes:
+      - "005D1A82 00000001"
+
+  - name: "Rocket Park"
+    author: "Code Master"
+    notes: "[Unlock Stadium Codes]"
+    codes:
+      - "005D1A81 00000001"
+
+  - name: "All Teams"
+    author: "Code Master"
+    notes: "[Unlock Team Codes]"
+    codes:
+      - "005D1A87 00000001"
+      - "405D1A88 00040001"
+      - "01010101 00000000"
+      - "005D1A98 00000001"
+
+  - name: "Bobble Head"
+    author: "Code Master"
+    notes: "[Unlock Team Codes]"
+    codes:
+      - "005D1A90 00000001"
+
+  - name: "Casey"
+    author: "Code Master"
+    notes: "[Unlock Team Codes]"
+    codes:
+      - "005D1A98 00000001"
+
+  - name: "Dolphins"
+    author: "Code Master"
+    notes: "[Unlock Team Codes]"
+    codes:
+      - "005D1A91 00000001"
+
+  - name: "Eagles"
+    author: "Code Master"
+    notes: "[Unlock Team Codes]"
+    codes:
+      - "005D1A8A 00000001"
+
+  - name: "Evil Clowns"
+    author: "Code Master"
+    notes: "[Unlock Team Codes]"
+    codes:
+      - "005D1A96 00000001"
+
+  - name: "Gladiator"
+    author: "Code Master"
+    notes: "[Unlock Team Codes]"
+    codes:
+      - "005D1A8E 00000001"
+
+  - name: "Horse"
+    author: "Code Master"
+    notes: "[Unlock Team Codes]"
+    codes:
+      - "005D1A87 00000001"
+
+  - name: "Lions"
+    author: "Code Master"
+    notes: "[Unlock Team Codes]"
+    codes:
+      - "005D1A89 00000001"
+
+  - name: "Martians"
+    author: "Code Master"
+    notes: "[Unlock Team Codes]"
+    codes:
+      - "005D1A97 00000001"
+
+  - name: "Minotaur"
+    author: "Code Master"
+    notes: "[Unlock Team Codes]"
+    codes:
+      - "005D1A95 00000001"
+
+  - name: "Pinto"
+    author: "Code Master"
+    notes: "[Unlock Team Codes]"
+    codes:
+      - "005D1A88 00000001"
+
+  - name: "Rodeo Clown"
+    author: "Code Master"
+    notes: "[Unlock Team Codes]"
+    codes:
+      - "005D1A8D 00000001"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901B2024 0C06DCD6"

@@ -1,0 +1,98 @@
+# DOT Hack_ Mutation (Es) cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "DOT Hack_ Mutation (Es)"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9012B5E4 0C04C3AE"
+      - "200C2020 03E00008"
+      - "200C2024 FFA40008"
+      - "204361FC 0C030800"
+      - "200C204C 3C0103E8"
+      - "200C2050 342103E8"
+      - "200C2074 03E00008"
+      - "200C2078 E4540040"
+      - "20439934 0C03080C"
+
+  - name: "HP"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C2010 96210074"
+      - "200C2014 A6210070"
+
+  - name: "SP"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C2018 96210076"
+      - "200C201C A6210072"
+
+  - name: "Item Use"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2017BA98 00801823"
+
+  - name: "All Party"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "2045147C 2001FFFF"
+      - "20451480 00241824"
+      - "2045148C ACA12220"
+
+  - name: "Maximum Money"
+    author: "Xploder"
+    notes: "[View Status For]"
+    codes:
+      - "200C2030 3C0105F5"
+      - "200C2034 3421E0FF"
+      - "200C2038 AE010014"
+
+  - name: "Maximum Level"
+    author: "Xploder"
+    notes: "[View Status For]"
+    codes:
+      - "200C203C 24010063"
+      - "200C2040 A601000E"
+
+  - name: "Maximum EXP"
+    author: "Xploder"
+    notes: "[View Status For]"
+    codes:
+      - "200C2044 240103E7"
+      - "200C2048 A6010010"
+
+  - name: "Maximum Physical"
+    author: "Xploder"
+    notes: "[View Status For]"
+    codes:
+      - "200C2054 AE010048"
+      - "200C2058 AE01004C"
+
+  - name: "Maximum Magical"
+    author: "Xploder"
+    notes: "[View Status For]"
+    codes:
+      - "200C205C AE010050"
+      - "200C2060 AE010054"
+
+  - name: "Maximum Other"
+    author: "Xploder"
+    notes: "[View Status For]"
+    codes:
+      - "200C2064 AE010058"
+      - "200C2068 AE01005C"
+      - "200C206C AE010060"
+      - "200C2070 AE010064"

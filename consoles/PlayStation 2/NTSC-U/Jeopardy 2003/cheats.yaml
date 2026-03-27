@@ -1,0 +1,314 @@
+# Jeopardy 2003 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20789
+
+game: "Jeopardy 2003"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20789"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0019C7FF"
+
+  - name: "Infinite Money P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "103586E8 0000FFFF"
+
+  - name: "Max Money P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203586E8 000F423F"
+
+  - name: "Infinite Money P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10358718 0000FFFF"
+
+  - name: "Max Money P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20358718 000F423F"
+
+  - name: "Infinite Money P3"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10358748 0000FFFF"
+
+  - name: "Max Money P3"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20358748 000F423F"
+
+  - name: "All Answers Score For P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201B388C 24060000"
+
+  - name: "All Answers Score For P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201B388C 24060030"
+
+  - name: "All Answers Score For P3"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201B388C 24060060"
+
+  - name: "All Answers Score 9999"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201B38B0 2507270F"
+
+  - name: "All Answers Score 999"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201B38B0 250703E7"
+
+  - name: "All Answers Score 99"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201B38B0 25070063"
+
+  - name: "P1 Press L1+Select To Stop Input Answer Timer"
+    author: "Code Master"
+    notes: "[Normal Mode Timer Codes]"
+    codes:
+      - "D0372D02 0000FBFE"
+      - "201B47A0 00000000"
+
+  - name: "P1 Press L2+Select To Start Input Answer Timer"
+    author: "Code Master"
+    notes: "[Normal Mode Timer Codes]"
+    codes:
+      - "D0372D02 0000FEFE"
+      - "201B47A0 FC288810"
+
+  - name: "P2 Press L1+Select To Stop Input Answer Timer"
+    author: "Code Master"
+    notes: "[Normal Mode Timer Codes]"
+    codes:
+      - "D0372B02 0000FBFE"
+      - "201B47A0 00000000"
+
+  - name: "P2 Press L2+Select To Start Input Answer Timer"
+    author: "Code Master"
+    notes: "[Normal Mode Timer Codes]"
+    codes:
+      - "D0372B02 0000FEFE"
+      - "201B47A0 FC288810"
+
+  - name: "P3 Press L1+Select To Stop Input Answer Timer"
+    author: "Code Master"
+    notes: "[Normal Mode Timer Codes]"
+    codes:
+      - "D0372902 0000FBFE"
+      - "201B47A0 00000000"
+
+  - name: "P3 Press L2+Select To Start Input Answer Timer"
+    author: "Code Master"
+    notes: "[Normal Mode Timer Codes]"
+    codes:
+      - "D0372902 0000FEFE"
+      - "201B47A0 FC288810"
+
+  - name: "P4 Press L1+Select To Stop Input Answer Timer"
+    author: "Code Master"
+    notes: "[Normal Mode Timer Codes]"
+    codes:
+      - "D0372702 0000FBFE"
+      - "201B47A0 00000000"
+
+  - name: "P4 Press L2+Select To Start Input Answer Timer"
+    author: "Code Master"
+    notes: "[Normal Mode Timer Codes]"
+    codes:
+      - "D0372702 0000FEFE"
+      - "201B47A0 FC288810"
+
+  - name: "P5 Press L1+Select To Stop Input Answer Timer"
+    author: "Code Master"
+    notes: "[Normal Mode Timer Codes]"
+    codes:
+      - "D0372C02 0000FBFE"
+      - "201B47A0 00000000"
+
+  - name: "P5 Press L2+Select To Start Input Answer Timer"
+    author: "Code Master"
+    notes: "[Normal Mode Timer Codes]"
+    codes:
+      - "D0372C02 0000FEFE"
+      - "201B47A0 FC288810"
+
+  - name: "P6 Press L1+Select To Stop Input Answer Timer"
+    author: "Code Master"
+    notes: "[Normal Mode Timer Codes]"
+    codes:
+      - "D0372A02 0000FBFE"
+      - "201B47A0 00000000"
+
+  - name: "P6 Press L2+Select To Start Input Answer Timer"
+    author: "Code Master"
+    notes: "[Normal Mode Timer Codes]"
+    codes:
+      - "D0372A02 0000FEFE"
+      - "201B47A0 FC288810"
+
+  - name: "P7 Press L1+Select To Stop Input Answer Timer"
+    author: "Code Master"
+    notes: "[Normal Mode Timer Codes]"
+    codes:
+      - "D0372802 0000FBFE"
+      - "201B47A0 00000000"
+
+  - name: "P7 Press L2+Select To Start Input Answer Timer"
+    author: "Code Master"
+    notes: "[Normal Mode Timer Codes]"
+    codes:
+      - "D0372802 0000FEFE"
+      - "201B47A0 FC288810"
+
+  - name: "P8 Press L1+Select To Stop Input Answer Timer"
+    author: "Code Master"
+    notes: "[Normal Mode Timer Codes]"
+    codes:
+      - "D0372602 0000FBFE"
+      - "201B47A0 00000000"
+
+  - name: "P8 Press L2+Select To Start Input Answer Timer"
+    author: "Code Master"
+    notes: "[Normal Mode Timer Codes]"
+    codes:
+      - "D0372602 0000FEFE"
+      - "201B47A0 FC288810"
+
+  - name: "P1 Press R1+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[Contestant Exam Timer Codes]"
+    codes:
+      - "D0372D02 0000F7FE"
+      - "201B9778 00000000"
+
+  - name: "P1 Press R2+Select To Start Timer"
+    author: "Code Master"
+    notes: "[Contestant Exam Timer Codes]"
+    codes:
+      - "D0372D02 0000FDFE"
+      - "201B9778 FC22A938"
+
+  - name: "P2 Press R1+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[Contestant Exam Timer Codes]"
+    codes:
+      - "D0372B02 0000F7FE"
+      - "201B9778 00000000"
+
+  - name: "P2 Press R2+Select To Start Timer"
+    author: "Code Master"
+    notes: "[Contestant Exam Timer Codes]"
+    codes:
+      - "D0372B02 0000FDFE"
+      - "201B9778 FC22A938"
+
+  - name: "P3 Press R1+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[Contestant Exam Timer Codes]"
+    codes:
+      - "D0372902 0000F7FE"
+      - "201B9778 00000000"
+
+  - name: "P3 Press R2+Select To Start Timer"
+    author: "Code Master"
+    notes: "[Contestant Exam Timer Codes]"
+    codes:
+      - "D0372902 0000FDFE"
+      - "201B9778 FC22A938"
+
+  - name: "P4 Press R1+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[Contestant Exam Timer Codes]"
+    codes:
+      - "D0372702 0000F7FE"
+      - "201B9778 00000000"
+
+  - name: "P4 Press R2+Select To Start Timer"
+    author: "Code Master"
+    notes: "[Contestant Exam Timer Codes]"
+    codes:
+      - "D0372702 0000FDFE"
+      - "201B9778 FC22A938"
+
+  - name: "P5 Press R1+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[Contestant Exam Timer Codes]"
+    codes:
+      - "D0372C02 0000F7FE"
+      - "201B9778 00000000"
+
+  - name: "P5 Press R2+Select To Start Timer"
+    author: "Code Master"
+    notes: "[Contestant Exam Timer Codes]"
+    codes:
+      - "D0372C02 0000FDFE"
+      - "201B9778 FC22A938"
+
+  - name: "P6 Press R1+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[Contestant Exam Timer Codes]"
+    codes:
+      - "D0372A02 0000F7FE"
+      - "201B9778 00000000"
+
+  - name: "P6 Press R2+Select To Start Timer"
+    author: "Code Master"
+    notes: "[Contestant Exam Timer Codes]"
+    codes:
+      - "D0372A02 0000FDFE"
+      - "201B9778 FC22A938"
+
+  - name: "P7 Press R1+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[Contestant Exam Timer Codes]"
+    codes:
+      - "D0372802 0000F7FE"
+      - "201B9778 00000000"
+
+  - name: "P7 Press R2+Select To Start Timer"
+    author: "Code Master"
+    notes: "[Contestant Exam Timer Codes]"
+    codes:
+      - "D0372802 0000FDFE"
+      - "201B9778 FC22A938"
+
+  - name: "P8 Press R1+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[Contestant Exam Timer Codes]"
+    codes:
+      - "D0372602 0000F7FE"
+      - "201B9778 00000000"
+
+  - name: "P8 Press R2+Select To Start Timer"
+    author: "Code Master"
+    notes: "[Contestant Exam Timer Codes]"
+    codes:
+      - "D0372602 0000FDFE"
+      - "201B9778 FC22A938"

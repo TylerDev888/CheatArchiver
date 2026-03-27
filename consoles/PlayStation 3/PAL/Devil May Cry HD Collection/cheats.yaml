@@ -1,0 +1,1029 @@
+# Devil May Cry HD Collection cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01228
+
+game: "Devil May Cry HD Collection"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01228"
+cheat_type: "AP"
+source: "From Game Genie For PS3 & chaoszage"
+
+cheats:
+  - name: "1st Slot 255 Vital Stars"
+    notes: "File: BLES01228-DMC1\\DATA"
+    codes:
+      - "20000270 020A00FF"
+
+  - name: "2nd Slot 255 Devil Stars"
+    notes: "File: BLES01228-DMC1\\DATA"
+    codes:
+      - "20000274 020B00FF"
+
+  - name: "Slot 1 Modifier"
+    notes: "File: BLES01228-DMC1\\DATA"
+    codes:
+      - "20000270 [Amount:FFFF:HEX:BIG]00[Amount:FF:HEX:BIG]"
+
+  - name: "Slot 2 Modifier"
+    notes: "File: BLES01228-DMC1\\DATA"
+    codes:
+      - "20000274 [Amount:FFFF:HEX:BIG]00[Amount:FF:HEX:BIG]"
+
+  - name: "Slot 3 Modifier"
+    notes: "File: BLES01228-DMC1\\DATA"
+    codes:
+      - "20000278 [Amount:FFFF:HEX:BIG]00[Amount:FF:HEX:BIG]"
+
+  - name: "Slot 4 Modifier"
+    notes: "File: BLES01228-DMC1\\DATA"
+    codes:
+      - "2000027C [Amount:FFFF:HEX:BIG]00[Amount:FF:HEX:BIG]"
+
+  - name: "Slot 5 Modifier"
+    notes: "File: BLES01228-DMC1\\DATA"
+    codes:
+      - "20000280 [Amount:FFFF:HEX:BIG]00[Amount:FF:HEX:BIG]"
+
+  - name: "Slot 6 Modifier"
+    notes: "File: BLES01228-DMC1\\DATA"
+    codes:
+      - "20000284 [Amount:FFFF:HEX:BIG]00[Amount:FF:HEX:BIG]"
+
+  - name: "Stage Start At Modifier"
+    notes: "File: BLES01228-DMC1\\DATA"
+    codes:
+      - "00000024 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Difficulty Modifier"
+    notes: "File: BLES01228-DMC1\\DATA"
+    codes:
+      - "00000026 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Total Red Orbs 99999 Collected"
+    notes: "File: BLES01228-DMC1\\DATA"
+    codes:
+      - "2000083C 0001869F"
+
+  - name: "All Difficulties-all Stages-rank S"
+    notes: "File: BLES01228-DMC1\\DATA"
+    codes:
+      - "420007BC 00000000"
+      - "40110004 00000000"
+      - "00000800 00000000"
+
+  - name: "Unlock All Characters And Difficulties(new Game Only.)"
+    notes: "File: BLES01228-DMC1\\DATA"
+    codes:
+      - "00005E68 000000FF"
+
+  - name: "Dmc 1 - 1 - Max Red Orbs"
+    notes: "[Devil May Cry 1\\file 1]  File: BLES01228-DMC1\\DATA"
+    codes:
+      - "20000634 000F423F"
+
+  - name: "Dmc 1 - 1 - Max Yellow Orbs"
+    notes: "[Devil May Cry 1\\file 1]  File: BLES01228-DMC1\\DATA"
+    codes:
+      - "10000620 000003E7"
+
+  - name: "Dmc 1 - 2 - Max Red Orbs"
+    notes: "[Devil May Cry 1\\file 2]  File: BLES01228-DMC1\\DATA"
+    codes:
+      - "20000FA4 000F423F"
+
+  - name: "Dmc 1 - 2 - Max Yellow Orbs"
+    notes: "[Devil May Cry 1\\file 2]  File: BLES01228-DMC1\\DATA"
+    codes:
+      - "10000F90 000003E7"
+
+  - name: "Dmc 1 - 3 - Max Red Orbs"
+    notes: "[Devil May Cry 1\\file 3]  File: BLES01228-DMC1\\DATA"
+    codes:
+      - "20001914 000F423F"
+
+  - name: "Dmc 1 - 3 - Max Yellow Orbs"
+    notes: "[Devil May Cry 1\\file 3]  File: BLES01228-DMC1\\DATA"
+    codes:
+      - "10001900 000003E7"
+
+  - name: "Dmc 1 - 4 - Max Red Orbs"
+    notes: "[Devil May Cry 1\\file 4]  File: BLES01228-DMC1\\DATA"
+    codes:
+      - "20002284 000F423F"
+
+  - name: "Dmc 1 - 4 - Max Yellow Orbs"
+    notes: "[Devil May Cry 1\\file 4]  File: BLES01228-DMC1\\DATA"
+    codes:
+      - "10002270 000003E7"
+
+  - name: "Dmc 1 - 5 - Max Red Orbs"
+    notes: "[Devil May Cry 1\\file 5]  File: BLES01228-DMC1\\DATA"
+    codes:
+      - "20002BF4 000F423F"
+
+  - name: "Dmc 1 - 5 - Max Yellow Orbs"
+    notes: "[Devil May Cry 1\\file 5]  File: BLES01228-DMC1\\DATA"
+    codes:
+      - "10002BE0 000003E7"
+
+  - name: "Dmc 1 - 6 - Max Red Orbs"
+    notes: "[Devil May Cry 1\\file 6]  File: BLES01228-DMC1\\DATA"
+    codes:
+      - "20003564 000F423F"
+
+  - name: "Dmc 1 - 6 - Max Yellow Orbs"
+    notes: "[Devil May Cry 1\\file 6]  File: BLES01228-DMC1\\DATA"
+    codes:
+      - "10003550 000003E7"
+
+  - name: "Dmc 1 - 7 - Max Red Orbs"
+    notes: "[Devil May Cry 1\\file 7]  File: BLES01228-DMC1\\DATA"
+    codes:
+      - "20003ED4 000F423F"
+
+  - name: "Dmc 1 - 7 - Max Yellow Orbs"
+    notes: "[Devil May Cry 1\\file 7]  File: BLES01228-DMC1\\DATA"
+    codes:
+      - "10003EC0 000003E7"
+
+  - name: "Dmc 1 - 8 - Max Red Orbs"
+    notes: "[Devil May Cry 1\\file 8]  File: BLES01228-DMC1\\DATA"
+    codes:
+      - "20004844 000F423F"
+
+  - name: "Dmc 1 - 8 - Max Yellow Orbs"
+    notes: "[Devil May Cry 1\\file 8]  File: BLES01228-DMC1\\DATA"
+    codes:
+      - "10004830 000003E7"
+
+  - name: "Dmc 1 - 9 - Max Red Orbs"
+    notes: "[Devil May Cry 1\\file 9]  File: BLES01228-DMC1\\DATA"
+    codes:
+      - "200051B4 000F423F"
+
+  - name: "Dmc 1 - 9 - Max Yellow Orbs"
+    notes: "[Devil May Cry 1\\file 9]  File: BLES01228-DMC1\\DATA"
+    codes:
+      - "100051A0 000003E7"
+
+  - name: "Dmc 1 - 10 - Max Red Orbs"
+    notes: "[Devil May Cry 1\\file 10]  File: BLES01228-DMC1\\DATA"
+    codes:
+      - "20005B24 000F423F"
+
+  - name: "Dmc 1 - 10 - Max Yellow Orbs"
+    notes: "[Devil May Cry 1\\file 10]  File: BLES01228-DMC1\\DATA"
+    codes:
+      - "10005B10 000003E7"
+
+  - name: "Unlock All Characters And Difficulties"
+    notes: "File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "10000066 0000FFFF"
+
+  - name: "Unlock All Stages In Normal/hard/dmd Mode"
+    notes: "[Devil May Cry 2\\dante\\file 1]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "20000120 07111111"
+
+  - name: "All Difficulties-all Stages-rank S For Dante And Trish"
+    notes: "[Devil May Cry 2\\dante\\file 1]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "420001B0 01010101"
+      - "401B0004 00000000"
+
+  - name: "Dmc2 - Dante - 1 - Max Red Orbs"
+    notes: "[Devil May Cry 2\\dante\\file 1]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "2000011C 000F423F"
+
+  - name: "Dmc2 - Dante - 1 - Max Golden Orbs"
+    notes: "[Devil May Cry 2\\dante\\file 1]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "10000150 000003E7"
+
+  - name: "Dmc2 - Dante - 2 - Max Red Orbs"
+    notes: "[Devil May Cry 2\\dante\\file 2]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "2000031C 000F423F"
+
+  - name: "Dmc2 - Dante - 2 - Max Golden Orbs"
+    notes: "[Devil May Cry 2\\dante\\file 2]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "10000350 000003E7"
+
+  - name: "Dmc2 - Dante - 3 - Max Red Orbs"
+    notes: "[Devil May Cry 2\\dante\\file 3]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "2000051C 000F423F"
+
+  - name: "Dmc2 - Dante - 3 - Max Golden Orbs"
+    notes: "[Devil May Cry 2\\dante\\file 3]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "10000550 000003E7"
+
+  - name: "Dmc2 - Dante - 4 - Max Red Orbs"
+    notes: "[Devil May Cry 2\\dante\\file 4]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "2000071C 000F423F"
+
+  - name: "Dmc2 - Dante - 4 - Max Golden Orbs"
+    notes: "[Devil May Cry 2\\dante\\file 4]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "10000750 000003E7"
+
+  - name: "Dmc2 - Dante - 5 - Max Red Orbs"
+    notes: "[Devil May Cry 2\\dante\\file 5]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "2000091C 000F423F"
+
+  - name: "Dmc2 - Dante - 5 - Max Golden Orbs"
+    notes: "[Devil May Cry 2\\dante\\file 5]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "10000950 000003E7"
+
+  - name: "Dmc2 - Dante - 6 - Max Red Orbs"
+    notes: "[Devil May Cry 2\\dante\\file 6]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "20000B1C 000F423F"
+
+  - name: "Dmc2 - Dante - 6 - Max Golden Orbs"
+    notes: "[Devil May Cry 2\\dante\\file 6]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "10000B50 000003E7"
+
+  - name: "Dmc2 - Dante - 7 - Max Red Orbs"
+    notes: "[Devil May Cry 2\\dante\\file 7]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "20000D1C 000F423F"
+
+  - name: "Dmc2 - Dante - 7 - Max Golden Orbs"
+    notes: "[Devil May Cry 2\\dante\\file 7]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "10000D50 000003E7"
+
+  - name: "Dmc2 - Dante - 8 - Max Red Orbs"
+    notes: "[Devil May Cry 2\\dante\\file 8]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "20000F1C 000F423F"
+
+  - name: "Dmc2 - Dante - 8 - Max Golden Orbs"
+    notes: "[Devil May Cry 2\\dante\\file 8]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "10000F50 000003E7"
+
+  - name: "Dmc2 - Dante - 9 - Max Red Orbs"
+    notes: "[Devil May Cry 2\\dante\\file 9]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "2000111C 000F423F"
+
+  - name: "Dmc2 - Dante - 9 - Max Golden Orbs"
+    notes: "[Devil May Cry 2\\dante\\file 9]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "10001150 000003E7"
+
+  - name: "Dmc2 - Dante - 10 - Max Red Orbs"
+    notes: "[Devil May Cry 2\\dante\\file 10]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "2000131C 000F423F"
+
+  - name: "Dmc2 - Dante - 10 - Max Golden Orbs"
+    notes: "[Devil May Cry 2\\dante\\file 10]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "10001350 000003E7"
+
+  - name: "All Difficulties-all Stages-rank S For Lucia Only"
+    notes: "[Devil May Cry 2\\lucia]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "420015B0 01010101"
+      - "40090004 00000000"
+      - "200015D4 01010101"
+      - "200015D8 01010101"
+      - "200015DC 01010101"
+      - "200015DD 01010101"
+
+  - name: "Dmc2 - Lucia - 1 - Max Red Orbs"
+    notes: "[Devil May Cry 2\\lucia\\file 1]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "2000151C 000F423F"
+
+  - name: "Dmc2 - Lucia - 1 - Max Golden Orbs"
+    notes: "[Devil May Cry 2\\lucia\\file 1]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "10001550 000003E7"
+
+  - name: "Dmc2 - Lucia - 2 - Max Red Orbs"
+    notes: "[Devil May Cry 2\\lucia\\file 2]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "2000171C 000F423F"
+
+  - name: "Dmc2 - Lucia - 2 - Max Golden Orbs"
+    notes: "[Devil May Cry 2\\lucia\\file 2]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "10001750 000003E7"
+
+  - name: "Dmc2 - Lucia - 3 - Max Red Orbs"
+    notes: "[Devil May Cry 2\\lucia\\file 3]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "2000191C 000F423F"
+
+  - name: "Dmc2 - Lucia - 3 - Max Golden Orbs"
+    notes: "[Devil May Cry 2\\lucia\\file 3]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "10001950 000003E7"
+
+  - name: "Dmc2 - Lucia - 4 - Max Red Orbs"
+    notes: "[Devil May Cry 2\\lucia\\file 4]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "20001B1C 000F423F"
+
+  - name: "Dmc2 - Lucia - 4 - Max Golden Orbs"
+    notes: "[Devil May Cry 2\\lucia\\file 4]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "10001B50 000003E7"
+
+  - name: "Dmc2 - Lucia - 5 - Max Red Orbs"
+    notes: "[Devil May Cry 2\\lucia\\file 5]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "20001D1C 000F423F"
+
+  - name: "Dmc2 - Lucia - 5 - Max Golden Orbs"
+    notes: "[Devil May Cry 2\\lucia\\file 5]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "10001D50 000003E7"
+
+  - name: "Dmc2 - Lucia - 6 - Max Red Orbs"
+    notes: "[Devil May Cry 2\\lucia\\file 6]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "20001F1C 000F423F"
+
+  - name: "Dmc2 - Lucia - 6 - Max Golden Orbs"
+    notes: "[Devil May Cry 2\\lucia\\file 6]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "10001F50 000003E7"
+
+  - name: "Dmc2 - Lucia - 7 - Max Red Orbs"
+    notes: "[Devil May Cry 2\\lucia\\file 7]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "2000211C 000F423F"
+
+  - name: "Dmc2 - Lucia - 7 - Max Golden Orbs"
+    notes: "[Devil May Cry 2\\lucia\\file 7]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "10002150 000003E7"
+
+  - name: "Dmc2 - Lucia - 8 - Max Red Orbs"
+    notes: "[Devil May Cry 2\\lucia\\file 8]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "2000231C 000F423F"
+
+  - name: "Dmc2 - Lucia - 8 - Max Golden Orbs"
+    notes: "[Devil May Cry 2\\lucia\\file 8]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "10002350 000003E7"
+
+  - name: "Dmc2 - Lucia - 9 - Max Red Orbs"
+    notes: "[Devil May Cry 2\\lucia\\file 9]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "2000251C 000F423F"
+
+  - name: "Dmc2 - Lucia - 9 - Max Golden Orbs"
+    notes: "[Devil May Cry 2\\lucia\\file 9]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "10002550 000003E7"
+
+  - name: "Dmc2 - Lucia - 10 - Max Red Orbs"
+    notes: "[Devil May Cry 2\\lucia\\file 10]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "2000271C 000F423F"
+
+  - name: "Dmc2 - Lucia - 10 - Max Golden Orbs"
+    notes: "[Devil May Cry 2\\lucia\\file 10]  File: BLES01228DMC2_DMC2\\DMC2"
+    codes:
+      - "10002750 000003E7"
+
+  - name: "Unlock Easy Mode With Ss Rank(play Any Stage With All Mode(ss Rank) Codes To Unlock More Costumes And Difficulties.)"
+    notes: "[Devil May Cry 3\\file 1]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "20000A24 FF050505"
+      - "42000A28 05050505"
+      - "40040004 00000000"
+      - "00000A38 00000005"
+
+  - name: "Unlock Normal Mode With Ss Rank"
+    notes: "[Devil May Cry 3\\file 1]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "10000A3A 00000505"
+      - "42000A3C 05050505"
+      - "40040004 00000000"
+      - "10000A4C 00000505"
+
+  - name: "Unlock Hard Mode With Ss Rank"
+    notes: "[Devil May Cry 3\\file 1]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "00000A4F 00000005"
+      - "42000A50 05050505"
+      - "40040004 00000000"
+      - "20000A60 050505FF"
+
+  - name: "Unlock Very Hard Mode With Ss Rank"
+    notes: "[Devil May Cry 3\\file 1]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "42000A64 05050505"
+      - "40050004 00000000"
+
+  - name: "Unlock Dmd Mode With Ss Rank"
+    notes: "[Devil May Cry 3\\file 1]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "20000A78 FF050505"
+      - "42000A7C 05050505"
+      - "40040004 00000000"
+      - "00000A8C 00000005"
+
+  - name: "Unlock Heaven Or Hell Mode With Ss Rank"
+    notes: "[Devil May Cry 3\\file 1]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "10000A8E 00000505"
+      - "42000A90 05050505"
+      - "40040004 00000000"
+      - "10000AA0 00000505"
+
+  - name: "Dmc3 - 1 - Max Red Orbs"
+    notes: "[Devil May Cry 3\\file 1]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "200003BC 000F423F"
+
+  - name: "Dmc3 - 1 - Max Gold Orbs"
+    notes: "[Devil May Cry 3\\file 1]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000003C5 00000063"
+
+  - name: "Dmc3 - 1 - Max Yellow Orbs"
+    notes: "[Devil May Cry 3\\file 1]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000003C6 00000063"
+
+  - name: "Unlock Cerberus"
+    notes: "[Devil May Cry 3\\file 1\\weapon Codes\\devil Arms Codes:(by eighthdayregret)]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000003D7 00000001"
+
+  - name: "Unlock Agni & Rudra"
+    notes: "[Devil May Cry 3\\file 1\\weapon Codes\\devil Arms Codes:(by eighthdayregret)]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000003D8 00000001"
+
+  - name: "Unlock Nevan"
+    notes: "[Devil May Cry 3\\file 1\\weapon Codes\\devil Arms Codes:(by eighthdayregret)]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000003DA 00000001"
+
+  - name: "Unlock Beowulf"
+    notes: "[Devil May Cry 3\\file 1\\weapon Codes\\devil Arms Codes:(by eighthdayregret)]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000003DB 00000001"
+
+  - name: "Unlock All Devil Arms"
+    notes: "[Devil May Cry 3\\file 1\\weapon Codes\\devil Arms Codes:(by eighthdayregret)]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "100003D7 00000101"
+      - "100003DA 00000101"
+
+  - name: "Unlock All Actions"
+    notes: "[Devil May Cry 3\\file 1\\weapon Codes\\devil Arms Codes:(by eighthdayregret)]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "200004A0 FFFF7FFF"
+      - "200004A4 FFFFAFFF"
+      - "200004A8 AFFFFFF3"
+      - "200004AC CFFFFFFF"
+      - "200004B0 FBFBFFFE"
+      - "200004B4 FFFFEFFD"
+      - "200004B8 FFFFFEFF"
+      - "200004BC FFFFFFFF"
+
+  - name: "Unlock Shotgun"
+    notes: "[Devil May Cry 3\\file 1\\weapon Codes\\guns Codes\\unlock Codes:(by eighthdayregret)]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000003DD 00000001"
+
+  - name: "Unlock Artemis"
+    notes: "[Devil May Cry 3\\file 1\\weapon Codes\\guns Codes\\unlock Codes:(by eighthdayregret)]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000003DE 00000001"
+
+  - name: "Unlock Spiral"
+    notes: "[Devil May Cry 3\\file 1\\weapon Codes\\guns Codes\\unlock Codes:(by eighthdayregret)]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000003DF 00000001"
+
+  - name: "Unlock Kalina Ann"
+    notes: "[Devil May Cry 3\\file 1\\weapon Codes\\guns Codes\\unlock Codes:(by eighthdayregret)]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000003E1 00000001"
+
+  - name: "Unlock All Guns"
+    notes: "[Devil May Cry 3\\file 1\\weapon Codes\\guns Codes\\unlock Codes:(by eighthdayregret)]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000003DD 00000001"
+      - "100003DE 00000101"
+      - "000003E1 00000001"
+
+  - name: "Ebony & Ivory Level 3"
+    notes: "[Devil May Cry 3\\file 1\\weapon Codes\\guns Codes\\level Codes]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "00000433 00000002"
+
+  - name: "Shotgun Level 3"
+    notes: "[Devil May Cry 3\\file 1\\weapon Codes\\guns Codes\\level Codes]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "00000437 00000002"
+
+  - name: "Artemis Level 3"
+    notes: "[Devil May Cry 3\\file 1\\weapon Codes\\guns Codes\\level Codes]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "0000043B 00000002"
+
+  - name: "Spiral Level 3"
+    notes: "[Devil May Cry 3\\file 1\\weapon Codes\\guns Codes\\level Codes]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "0000043F 00000001"
+
+  - name: "Kalina Ann Level 3"
+    notes: "[Devil May Cry 3\\file 1\\weapon Codes\\guns Codes\\level Codes]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "00000443 00000002"
+
+  - name: "All Guns Level 3"
+    notes: "[Devil May Cry 3\\file 1\\weapon Codes\\guns Codes\\level Codes]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "40000433 00000002"
+      - "40050004 00000000"
+
+  - name: "Unlock Quicksilver(by Eighthdayregret)"
+    notes: "[Devil May Cry 3\\file 1\\styles Codes\\unlock Styles]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000003E2 00000001"
+
+  - name: "Unlock Doppelganger"
+    notes: "[Devil May Cry 3\\file 1\\styles Codes\\unlock Styles]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000003E3 00000001"
+
+  - name: "Max Vital Star S(by Eighthdayregret)"
+    notes: "[Devil May Cry 3\\file 1\\item Codes]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000003D1 00000063"
+
+  - name: "Max Vital Star L"
+    notes: "[Devil May Cry 3\\file 1\\item Codes]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000003D0 00000063"
+
+  - name: "Max Devil Star"
+    notes: "[Devil May Cry 3\\file 1\\item Codes]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000003D2 00000063"
+
+  - name: "Max Holy Water"
+    notes: "[Devil May Cry 3\\file 1\\item Codes]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000003D4 00000063"
+
+  - name: "Secret Mission 1 Completed(by Eighthdayregret)"
+    notes: "[Devil May Cry 3\\file 1\\secret Mission Codes]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000004D8 00000001"
+
+  - name: "Secret Mission 2 Completed"
+    notes: "[Devil May Cry 3\\file 1\\secret Mission Codes]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000004D9 00000001"
+
+  - name: "Secret Mission 3 Completed"
+    notes: "[Devil May Cry 3\\file 1\\secret Mission Codes]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000004DA 00000001"
+
+  - name: "Secret Mission 4 Completed"
+    notes: "[Devil May Cry 3\\file 1\\secret Mission Codes]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000004DB 00000001"
+
+  - name: "Secret Mission 5 Completed"
+    notes: "[Devil May Cry 3\\file 1\\secret Mission Codes]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000004DC 00000001"
+
+  - name: "Secret Mission 6 Completed"
+    notes: "[Devil May Cry 3\\file 1\\secret Mission Codes]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000004DD 00000001"
+
+  - name: "Secret Mission 7 Completed"
+    notes: "[Devil May Cry 3\\file 1\\secret Mission Codes]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000004DE 00000001"
+
+  - name: "Secret Mission 8 Completed"
+    notes: "[Devil May Cry 3\\file 1\\secret Mission Codes]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000004DF 00000001"
+
+  - name: "Secret Mission 9 Completed"
+    notes: "[Devil May Cry 3\\file 1\\secret Mission Codes]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000004E0 00000001"
+
+  - name: "Secret Mission 10 Completed"
+    notes: "[Devil May Cry 3\\file 1\\secret Mission Codes]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000004E1 00000001"
+
+  - name: "Secret Mission 11 Completed"
+    notes: "[Devil May Cry 3\\file 1\\secret Mission Codes]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000004E2 00000001"
+
+  - name: "Secret Mission 12 Completed"
+    notes: "[Devil May Cry 3\\file 1\\secret Mission Codes]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000004E3 00000001"
+
+  - name: "All Styles Max Level/exp"
+    notes: "[Devil May Cry 3\\file 1\\styles Codes (choose One)]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "00000473 00000002"
+      - "00000477 00000002"
+      - "0000047B 00000002"
+      - "0000047F 00000002"
+      - "42000488 47C34F80"
+      - "40030004 00000000"
+
+  - name: "\"trend Settler\" Trophy:equip Trickster Style And Kill One Enemy To Gain"
+    notes: "[Devil May Cry 3\\file 1\\styles Codes (choose One)]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "00000473 00000002"
+      - "00000477 00000002"
+      - "0000047B 00000001"
+      - "0000047F 00000002"
+      - "20000488 47C34F80"
+      - "2000048C 47C34F80"
+      - "20000490 47C34F00"
+      - "20000494 47C34F80"
+
+  - name: "Hp Standard Max(20000)"
+    notes: "[Devil May Cry 3\\file 1\\hp Codes (choose One)]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "20000464 469C4000"
+
+  - name: "Hp Super Max(like Inf. Hp)"
+    notes: "[Devil May Cry 3\\file 1\\hp Codes (choose One)]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "20000464 50000000"
+
+  - name: "Devil Trigger Standard Max(10000)"
+    notes: "[Devil May Cry 3\\file 1\\devil Trigger Codes (choose One)]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "20000468 461C4000"
+
+  - name: "Devil Trigger Super Max(like Inf. Dt)"
+    notes: "[Devil May Cry 3\\file 1\\devil Trigger Codes (choose One)]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "20000468 50000000"
+
+  - name: "Dmc3 - 2 - Max Red Orbs"
+    notes: "[Devil May Cry 3\\file 2]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "20000AC8 000F423F"
+
+  - name: "Dmc3 - 2 - Max Gold Orbs"
+    notes: "[Devil May Cry 3\\file 2]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "00000AD1 00000063"
+
+  - name: "Dmc3 - 2 - Max Yellow Orbs"
+    notes: "[Devil May Cry 3\\file 2]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "00000AD2 00000063"
+
+  - name: "Dmc3 - 3 - Max Red Orbs"
+    notes: "[Devil May Cry 3\\file 3]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "200011D4 000F423F"
+
+  - name: "Dmc3 - 3 - Max Gold Orbs"
+    notes: "[Devil May Cry 3\\file 3]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000011DD 00000063"
+
+  - name: "Dmc3 - 3 - Max Yellow Orbs"
+    notes: "[Devil May Cry 3\\file 3]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000011DE 00000063"
+
+  - name: "Dmc3 - 4 - Max Red Orbs"
+    notes: "[Devil May Cry 3\\file 4]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "200018E0 000F423F"
+
+  - name: "Dmc3 - 4 - Max Gold Orbs"
+    notes: "[Devil May Cry 3\\file 4]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000018E9 00000063"
+
+  - name: "Dmc3 - 4 - Max Yellow Orbs"
+    notes: "[Devil May Cry 3\\file 4]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "000018EA 00000063"
+
+  - name: "Dmc3 - 5 - Max Red Orbs"
+    notes: "[Devil May Cry 3\\file 5]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "20001FEC 000F423F"
+
+  - name: "Dmc3 - 5 - Max Gold Orbs"
+    notes: "[Devil May Cry 3\\file 5]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "00001FF5 00000063"
+
+  - name: "Dmc3 - 5 - Max Yellow Orbs"
+    notes: "[Devil May Cry 3\\file 5]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "00001FF6 00000063"
+
+  - name: "Dmc3 - 6 - Max Red Orbs"
+    notes: "[Devil May Cry 3\\file 6]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "200026F8 000F423F"
+
+  - name: "Dmc3 - 6 - Max Gold Orbs"
+    notes: "[Devil May Cry 3\\file 6]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "00002701 00000063"
+
+  - name: "Dmc3 - 6 - Max Yellow Orbs"
+    notes: "[Devil May Cry 3\\file 6]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "00002702 00000063"
+
+  - name: "Dmc3 - 7 - Max Red Orbs"
+    notes: "[Devil May Cry 3\\file 7]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "20002E04 000F423F"
+
+  - name: "Dmc3 - 7 - Max Gold Orbs"
+    notes: "[Devil May Cry 3\\file 7]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "00002E0D 00000063"
+
+  - name: "Dmc3 - 7 - Max Yellow Orbs"
+    notes: "[Devil May Cry 3\\file 7]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "00002E0E 00000063"
+
+  - name: "Dmc3 - 8 - Max Red Orbs"
+    notes: "[Devil May Cry 3\\file 8]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "20003510 000F423F"
+
+  - name: "Dmc3 - 8 - Max Gold Orbs"
+    notes: "[Devil May Cry 3\\file 8]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "00003519 00000063"
+
+  - name: "Dmc3 - 8 - Max Yellow Orbs"
+    notes: "[Devil May Cry 3\\file 8]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "0000351A 00000063"
+
+  - name: "Dmc3 - 9 - Max Red Orbs"
+    notes: "[Devil May Cry 3\\file 9]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "20003C1C 000F423F"
+
+  - name: "Dmc3 - 9 - Max Gold Orbs"
+    notes: "[Devil May Cry 3\\file 9]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "00003C25 00000063"
+
+  - name: "Dmc3 - 9 - Max Yellow Orbs"
+    notes: "[Devil May Cry 3\\file 9]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "00003C26 00000063"
+
+  - name: "Dmc3 - 10 - Max Red Orbs"
+    notes: "[Devil May Cry 3\\file 10]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "20004328 000F423F"
+
+  - name: "Dmc3 - 10 - Max Gold Orbs"
+    notes: "[Devil May Cry 3\\file 10]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "00004331 00000063"
+
+  - name: "Dmc3 - 10 - Max Yellow Orbs"
+    notes: "[Devil May Cry 3\\file 10]  File: BLES01228-DMC3SE\\SYS-DATA"
+    codes:
+      - "00004332 00000063"
+
+  - name: "Update Add For Data - Savefile 1 (required)"
+    notes: "[Update Checksums\\devil May Cry 1 Update Checksums]  File: DATA"
+    codes:
+      - "set [csum]:0"
+      - "carry(2)"
+      - "set [csum]:add(0x00000C,0x96F)"
+      - "write at 0x00000A:[csum]"
+
+  - name: "Update Add For Data - Savefile 2 (required)"
+    notes: "[Update Checksums\\devil May Cry 1 Update Checksums]  File: DATA"
+    codes:
+      - "set [csum]:0"
+      - "carry(2)"
+      - "set [csum]:add(0x00097C,0x12DF)"
+      - "write at 0x00097A:[csum]"
+
+  - name: "Update Add For Data - Savefile 3 (required)"
+    notes: "[Update Checksums\\devil May Cry 1 Update Checksums]  File: DATA"
+    codes:
+      - "set [csum]:0"
+      - "carry(2)"
+      - "set [csum]:add(0x0012EC,0x1C4F)"
+      - "write at 0x0012EA:[csum]"
+
+  - name: "Update Add For Data - Savefile 4 (required)"
+    notes: "[Update Checksums\\devil May Cry 1 Update Checksums]  File: DATA"
+    codes:
+      - "set [csum]:0"
+      - "carry(2)"
+      - "set [csum]:add(0x001C5C,0x25BF)"
+      - "write at 0x001C5A:[csum]"
+
+  - name: "Update Add For Data - Savefile 5 (required)"
+    notes: "[Update Checksums\\devil May Cry 1 Update Checksums]  File: DATA"
+    codes:
+      - "set [csum]:0"
+      - "carry(2)"
+      - "set [csum]:add(0x0025CC,0x2F2F)"
+      - "write at 0x0025CA:[csum]"
+
+  - name: "Update Add For Data - Savefile 6 (required)"
+    notes: "[Update Checksums\\devil May Cry 1 Update Checksums]  File: DATA"
+    codes:
+      - "set [csum]:0"
+      - "carry(2)"
+      - "set [csum]:add(0x002F3C,0x389F)"
+      - "write at 0x002F3A:[csum]"
+
+  - name: "Update Add For Data - Savefile 7 (required)"
+    notes: "[Update Checksums\\devil May Cry 1 Update Checksums]  File: DATA"
+    codes:
+      - "set [csum]:0"
+      - "carry(2)"
+      - "set [csum]:add(0x0038AC,0x420F)"
+      - "write at 0x0038AA:[csum]"
+
+  - name: "Update Add For Data - Savefile 8 (required)"
+    notes: "[Update Checksums\\devil May Cry 1 Update Checksums]  File: DATA"
+    codes:
+      - "set [csum]:0"
+      - "carry(2)"
+      - "set [csum]:add(0x00412C,0x4B7F)"
+      - "write at 0x00412A:[csum]"
+
+  - name: "Update Add For Data - Savefile 9 (required)"
+    notes: "[Update Checksums\\devil May Cry 1 Update Checksums]  File: DATA"
+    codes:
+      - "set [csum]:0"
+      - "carry(2)"
+      - "set [csum]:add(0x004B8C,0x54EF)"
+      - "write at 0x004B8A:[csum]"
+
+  - name: "Update Add For Data - Savefile 10 (required)"
+    notes: "[Update Checksums\\devil May Cry 1 Update Checksums]  File: DATA"
+    codes:
+      - "set [csum]:0"
+      - "carry(2)"
+      - "set [csum]:add(0x0054FC,0x5E5F)"
+      - "write at 0x0054FA:[csum]"
+
+  - name: "Update Wsub Checksum For Sys-data - Savefile 1 (required)"
+    notes: "[Update Checksums\\devil May Cry 3 Update Checksums]  File: SYS-DATA"
+    codes:
+      - "set [csum]:0"
+      - "set [csum]:wsub(0x0003B8,0x000AC1)"
+      - "write at 0x4A10:[csum]"
+      - "set [csum]:0"
+      - "set [csum]:wadd(0x4A10,0x4A13)"
+      - "set [csum]:right([csum],2)"
+      - "write at 0xAC2:[csum]"
+      - "write at 0x4A10:00000000"
+
+  - name: "Update Wsub Checksum For Sys-data - Savefile 2 (required)"
+    notes: "[Update Checksums\\devil May Cry 3 Update Checksums]  File: SYS-DATA"
+    codes:
+      - "set [csum]:0"
+      - "set [csum]:wsub(0x000AC4,0x0011CD)"
+      - "write at 0x4A10:[csum]"
+      - "set [csum]:0"
+      - "set [csum]:wadd(0x4A10,0x4A13)"
+      - "set [csum]:right([csum],2)"
+      - "write at 0x11CE:[csum]"
+      - "write at 0x4A10:00000000"
+
+  - name: "Update Wsub Checksum For Sys-data - Savefile 3 (required)"
+    notes: "[Update Checksums\\devil May Cry 3 Update Checksums]  File: SYS-DATA"
+    codes:
+      - "set [csum]:0"
+      - "set [csum]:wsub(0x00011D0,0x0018D9)"
+      - "write at 0x4A10:[csum]"
+      - "set [csum]:0"
+      - "set [csum]:wadd(0x4A10,0x4A13)"
+      - "set [csum]:right([csum],2)"
+      - "write at 0x18DA:[csum]"
+      - "write at 0x4A10:00000000"
+
+  - name: "Update Wsub Checksum For Sys-data - Savefile 4 (required)"
+    notes: "[Update Checksums\\devil May Cry 3 Update Checksums]  File: SYS-DATA"
+    codes:
+      - "set [csum]:0"
+      - "set [csum]:wsub(0x0018DC,0x001FE5)"
+      - "write at 0x4A10:[csum]"
+      - "set [csum]:0"
+      - "set [csum]:wadd(0x4A10,0x4A13)"
+      - "set [csum]:right([csum],2)"
+      - "write at 0x1FE6:[csum]"
+      - "write at 0x4A10:00000000"
+
+  - name: "Update Wsub Checksum For Sys-data - Savefile 5 (required)"
+    notes: "[Update Checksums\\devil May Cry 3 Update Checksums]  File: SYS-DATA"
+    codes:
+      - "set [csum]:0"
+      - "set [csum]:wsub(0x001FE8,0x0026F1)"
+      - "write at 0x4A10:[csum]"
+      - "set [csum]:0"
+      - "set [csum]:wadd(0x4A10,0x4A13)"
+      - "set [csum]:right([csum],2)"
+      - "write at 0x26F2:[csum]"
+      - "write at 0x4A10:00000000"
+
+  - name: "Update Wsub Checksum For Sys-data - Savefile 6 (required)"
+    notes: "[Update Checksums\\devil May Cry 3 Update Checksums]  File: SYS-DATA"
+    codes:
+      - "set [csum]:0"
+      - "set [csum]:wsub(0x0026F4,0x002DFD)"
+      - "write at 0x4A10:[csum]"
+      - "set [csum]:0"
+      - "set [csum]:wadd(0x4A10,0x4A13)"
+      - "set [csum]:right([csum],2)"
+      - "write at 0x2DFE:[csum]"
+      - "write at 0x4A10:00000000"
+
+  - name: "Update Wsub Checksum For Sys-data - Savefile 7 (required)"
+    notes: "[Update Checksums\\devil May Cry 3 Update Checksums]  File: SYS-DATA"
+    codes:
+      - "set [csum]:0"
+      - "set [csum]:wsub(0x002E00,0x003509)"
+      - "write at 0x4A10:[csum]"
+      - "set [csum]:0"
+      - "set [csum]:wadd(0x4A10,0x4A13)"
+      - "set [csum]:right([csum],2)"
+      - "write at 0x350A:[csum]"
+      - "write at 0x4A10:00000000"
+
+  - name: "Update Wsub Checksum For Sys-data - Savefile 8 ((required)"
+    notes: "[Update Checksums\\devil May Cry 3 Update Checksums]  File: SYS-DATA"
+    codes:
+      - "set [csum]:0"
+      - "set [csum]:wsub(0x00350C,0x003C15)"
+      - "write at 0x4A10:[csum]"
+      - "set [csum]:0"
+      - "set [csum]:wadd(0x4A10,0x4A13)"
+      - "set [csum]:right([csum],2)"
+      - "write at 0x3C16:[csum]"
+      - "write at 0x4A10:00000000"
+
+  - name: "Update Wsub Checksum For Sys-data - Savefile 9 (required)"
+    notes: "[Update Checksums\\devil May Cry 3 Update Checksums]  File: SYS-DATA"
+    codes:
+      - "set [csum]:0"
+      - "set [csum]:wsub(0x003C18,0x004321)"
+      - "write at 0x4A10:[csum]"
+      - "set [csum]:0"
+      - "set [csum]:wadd(0x4A10,0x4A13)"
+      - "set [csum]:right([csum],2)"
+      - "write at 0x4322:[csum]"
+      - "write at 0x4A10:00000000"
+
+  - name: "Update Wsub Checksum For Sys-data - Savefile 10 (required)"
+    notes: "[Update Checksums\\devil May Cry 3 Update Checksums]  File: SYS-DATA"
+    codes:
+      - "set [csum]:0"
+      - "set [csum]:wsub(0x004324,0x004A2D)"
+      - "write at 0x4A10:[csum]"
+      - "set [csum]:0"
+      - "set [csum]:wadd(0x4A10,0x4A13)"
+      - "set [csum]:right([csum],2)"
+      - "write at 0x4A2E:[csum]"
+      - "write at 0x4A10:00000000"

@@ -1,0 +1,117 @@
+# 24 - The Game cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21268
+
+game: "24 - The Game"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21268"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enabler Code (Must Be On)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0486C24 00486C27"
+
+  - name: "Access All Bonuses"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "20245B84 00000000"
+      - "20249E60 00000000"
+      - "2024A06C 00000000"
+      - "2024A314 00000000"
+
+  - name: "Access All Levels"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "20245960 00000000"
+      - "20249448 00000000"
+      - "20249BD4 00000000"
+      - "2024A094 00000000"
+      - "1024A2D6 00001000"
+      - "2024A57C 00000000"
+      - "1024A60E 00001000"
+      - "2024B404 00000000"
+      - "2024B598 00000000"
+
+  - name: "God Mode"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "2019417C 24020001"
+      - "205F60AC 00000001"
+
+  - name: "Infinite Ammo"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "1017309A 00001000"
+
+  - name: "Body Armor Never Decreases"
+    author: "Codejunkies"
+    codes:
+      - "201F2788 00000000"
+
+  - name: "Infinite Health"
+    author: "MadCatz"
+    codes:
+      - "201941B8 E66202C4"
+
+  - name: "Never Reload"
+    author: "Codejunkies"
+    codes:
+      - "201706EC 24420000"
+
+  - name: "Disable FMV"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2047C288 24020001"
+
+  - name: "Extra Ammo"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2036FBA0 00701021"
+
+  - name: "Infinite Air"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20154138 00000000"
+
+  - name: "Infinite Ammo/Health Packs"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2036FBA4 00000000"
+
+  - name: "Infinite Body Armor"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201941BC E660030C"
+
+  - name: "Infinite Time (Timed Missions)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20311D84 00000000"
+
+  - name: "Max Infinite Ammo/Health Packs"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2036FBA0 240203E7"
+
+  - name: "Never Reload With Max Ammo Clip"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201706EC 24020063"

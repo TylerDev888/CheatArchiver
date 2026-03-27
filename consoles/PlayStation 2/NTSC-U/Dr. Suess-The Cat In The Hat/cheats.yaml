@@ -1,0 +1,102 @@
+# Dr. Suess-The Cat In The Hat cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20797
+
+game: "Dr. Suess-The Cat In The Hat"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20797"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0021590F"
+
+  - name: "Infinite Lives"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1082222C 00000909"
+
+  - name: "Extra Lives"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101F7F04 00000001"
+      - "101F7F0C 00000001"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1082222E 00000404"
+
+  - name: "Invincible"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1010C682 00001000"
+
+  - name: "Hats Worth Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20184A30 244200??"
+
+  - name: "Unlock All Levels"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0D8DA70 000007C8"
+      - "20D8DA7C 24030001"
+
+  - name: "Dont Allow Player To Die"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "2023887C 00000001"
+
+  - name: "Dont Allow Player Hurt"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "20238884 00000001"
+
+  - name: "Dont Allow Player Hit"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "20238888 00000001"
+
+  - name: "Max Keys"
+    author: "Code Master"
+    notes: "[Venus Cat-Trap Codes]"
+    codes:
+      - "00822370 000000FF"
+      - "00822380 00000000"
+
+  - name: "Max Hats"
+    author: "Code Master"
+    notes: "[Venus Cat-Trap Codes]"
+    codes:
+      - "10822374 000005DC"
+      - "10822384 00000000"
+
+  - name: "Max Clappers"
+    author: "Code Master"
+    notes: "[Venus Cat-Trap Codes]"
+    codes:
+      - "10822378 00000003"
+      - "10822388 00000000"
+
+  - name: "Have Gem"
+    author: "Code Master"
+    notes: "[Venus Cat-Trap Codes]"
+    codes:
+      - "1082237C 00000001"
+      - "1082238C 00000000"

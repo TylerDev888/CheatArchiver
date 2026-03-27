@@ -1,0 +1,22 @@
+# Valhalla Knights 3 (EUR) cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00432
+
+game: "Valhalla Knights 3 (EUR)"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00432"
+cheat_type: "Save Editor"
+source: "Credits: oxenh, Rinnegatamante"
+
+cheats:
+  - name: "X9999999 Money"
+    notes: "File: savedata00.dat"
+    codes:
+      - "20067760 0098967F"
+
+  - name: "X9999999 Walking Points"
+    notes: "File: savedata00.dat"
+    codes:
+      - "20067768 0098967F"

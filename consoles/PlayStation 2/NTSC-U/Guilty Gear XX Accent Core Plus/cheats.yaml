@@ -1,0 +1,150 @@
+# Guilty Gear XX Accent Core Plus cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21847
+
+game: "Guilty Gear XX Accent Core Plus"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21847"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "902D62A0 0C0B5850"
+
+  - name: "Player 1 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "D045811C 0000????"
+
+  - name: "Player 2 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "D045839C 0000????"
+
+  - name: "Skip Fmv"
+    codes:
+      - "202E9608 24020001"
+
+  - name: "Inf Time"
+    codes:
+      - "103E99B8 00001734"
+
+  - name: "Character Modifier"
+    notes: "[Player 1]"
+    codes:
+      - "003C6A18 000000[CH]"
+
+  - name: "Infinite HP"
+    notes: "[Player 1]"
+    codes:
+      - "11E5B01E 000001A4"
+
+  - name: "Infinite Tension"
+    notes: "[Player 1]"
+    codes:
+      - "103C6C10 00002710"
+
+  - name: "Infinite Guard"
+    notes: "[Player 1]"
+    codes:
+      - "003C6C2A 00000080"
+
+  - name: "Infinite Burst"
+    notes: "[Player 1]"
+    codes:
+      - "203C6D08 00013A98"
+
+  - name: "Always Have Traits"
+    notes: "[Player 1]"
+    codes:
+      - "003C6C1A 00000001"
+
+  - name: "999 Hits"
+    notes: "[Player 1]"
+    codes:
+      - "103C6E58 000003E7"
+
+  - name: "Player 2 No HP (player 1 Press Select)"
+    notes: "[Player 1]"
+    codes:
+      - "D045811C 0000FFFE"
+      - "11E5B142 00000000"
+
+  - name: "No Tension"
+    notes: "[Player 1]"
+    codes:
+      - "103C6C10 00000000"
+
+  - name: "No Guard"
+    notes: "[Player 1]"
+    codes:
+      - "003C6C2A 00000000"
+
+  - name: "No Burst"
+    notes: "[Player 1]"
+    codes:
+      - "203C6D08 00000000"
+
+  - name: "Never Have Traits"
+    notes: "[Player 1]"
+    codes:
+      - "003C6C1A 00000000"
+
+  - name: "Player 1 No HP (player 2 Press Select)"
+    notes: "[Player 2]"
+    codes:
+      - "D045839C 0000FFFE"
+      - "11E5B01E 00000000"
+
+  - name: "Unlock Kliff & Justice"
+    notes: "[Unlock Codes (these Are Saveable)]"
+    codes:
+      - "0034E90B 00000001"
+      - "0034E90C 00000001"
+
+  - name: "Have All Characters' Colors"
+    notes: "[Unlock Codes (these Are Saveable)]"
+    codes:
+      - "1034E8B8 0000FFFF"
+
+  - name: "Enable Slash Modes Including Gold And Shadow"
+    notes: "[Unlock Codes (these Are Saveable)]"
+    codes:
+      - "4034E8D8 000C0001"
+      - "00010001 00000000"
+
+  - name: "Enable Normal-Ex And Ac-Gg-Ggx"
+    notes: "[Unlock Codes (these Are Saveable)]"
+    codes:
+      - "4034E910 00070001"
+      - "01010101 00000000"
+
+  - name: "Have All Missions Completed With All Characters Plus Ggxx Ratings"
+    notes: "[Unlock Codes (these Are Saveable)]"
+    codes:
+      - "40350800 00C40001"
+      - "01010101 00000000"
+
+  - name: "Have All Secret & Special"
+    notes: "[Unlock Codes (these Are Saveable)]"
+    codes:
+      - "40350B2C 00070001"
+      - "01010101 00000000"
+
+  - name: "Have All Ending & Ex Ending"
+    notes: "[Unlock Codes (these Are Saveable)]"
+    codes:
+      - "40350B70 000C0001"
+      - "02010102 00000000"
+
+  - name: "Have All Story"
+    notes: "[Unlock Codes (these Are Saveable)]"
+    codes:
+      - "20350BB8 01010101"
+      - "40350BA0 00060001"
+      - "03030303 00000000"

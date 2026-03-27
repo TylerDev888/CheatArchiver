@@ -1,0 +1,26 @@
+# Kino No Tabi - The Beautiful World cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25248
+
+game: "Kino No Tabi - The Beautiful World"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25248"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "901349F8 0C04D226"
+
+  - name: "Unlock Everything"
+    author: "punk7890"
+    codes:
+      - "41A00040 00150001"
+      - "FFFFFFFF 00000000"
+      - "41A0009C 00040001"
+      - "00000001 00000000"

@@ -1,0 +1,32 @@
+# Glacier 2 cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  SGCE20
+
+game: "Glacier 2"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "SGCE20"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Inf Weapon 1 (guns)"
+    author: "Skiller"
+    codes:
+      - "040CF314 38030000"
+
+  - name: "Inf Weapon 2 (bombs)"
+    author: "Skiller"
+    codes:
+      - "040CF618 38030000"
+
+  - name: "Inf Weapon 3 (missiles)"
+    author: "Skiller"
+    codes:
+      - "040CF4BC 38030000"
+
+  - name: "Timer Does Not Move"
+    author: "Skiller"
+    codes:
+      - "0415F5C4 D3700060"

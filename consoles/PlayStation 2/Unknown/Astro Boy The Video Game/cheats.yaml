@@ -1,0 +1,29 @@
+# Astro Boy The Video Game cheat data
+# Console: PlayStation 2
+# Region:  Unknown
+
+game: "Astro Boy The Video Game"
+console: "PlayStation 2"
+region: "Unknown"
+serial: ""
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "901D6758 0C07597E"
+
+  - name: "Pal2ntsc"
+    codes:
+      - "201CDB38 24120002"
+
+  - name: "Have 99 Supers"
+    codes:
+      - "01C89DA8 00000063"
+
+  - name: "Unlock All Cheats"
+    codes:
+      - "00368E23 000000FF"
+      - "00368E24 000000FF"

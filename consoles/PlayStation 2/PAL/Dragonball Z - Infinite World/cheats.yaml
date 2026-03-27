@@ -1,0 +1,97 @@
+# Dragonball Z - Infinite World cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-55347
+
+game: "Dragonball Z - Infinite World"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-55347"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "90105298 0C04144E"
+
+  - name: "Max Zenny"
+    author: "lee4"
+    codes:
+      - "205C154C 0098967F"
+
+  - name: "P1 Infinite Fusion Time"
+    author: "Resto Gaming"
+    codes:
+      - "20531148  44E10000"
+
+  - name: "P1 Infinite HP"
+    author: "lee4"
+    codes:
+      - "20530EE0 45DAC000"
+      - "20530EE4 45DAC000"
+      - "20530EE8 45DAC000"
+
+  - name: "P1 Infinite Ki"
+    author: "lee4"
+    codes:
+      - "20530EEC 45DAC000"
+
+  - name: "P1 No Fatigue"
+    author: "Resto Gaming"
+    codes:
+      - "20530EF8  00000000"
+
+  - name: "P1 No HP (P2 Press L2+R2)"
+    author: "lee4"
+    codes:
+      - "D04AE4C2 0000FCFF"
+      - "20530EE0 00000000"
+
+  - name: "P1 No Ki"
+    author: "lee4"
+    codes:
+      - "20530EEC 00000000"
+
+  - name: "P2 Infinite Fusion Time"
+    author: "Resto Gaming"
+    codes:
+      - "20533218  44E10000"
+
+  - name: "P2 Infinite HP"
+    author: "lee4"
+    codes:
+      - "20532FB0 45DAC000"
+      - "20532FB4 45DAC000"
+      - "20532FB8 45DAC000"
+
+  - name: "P2 Infinite Ki"
+    author: "lee4"
+    codes:
+      - "20532FBC 45DAC000"
+
+  - name: "P2 No Fatigue"
+    author: "Resto Gaming"
+    codes:
+      - "20532FC8  00000000"
+
+  - name: "P2 No HP (P1 Press L2+R2)"
+    author: "lee4"
+    codes:
+      - "D04AE0C2 0000FCFF"
+      - "20532FB0 00000000"
+
+  - name: "P2 No Ki"
+    author: "lee4"
+    codes:
+      - "20532FBC 00000000"
+
+  - name: "Unlock Everything"
+    author: "lee4"
+    codes:
+      - "405C1554 00FF0001"
+      - "E1E1E1E1 00000000"
+      - "405C1950 00580001"
+      - "E1E1E1E1 00000000"

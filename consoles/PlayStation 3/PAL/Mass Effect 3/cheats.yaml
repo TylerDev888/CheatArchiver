@@ -1,0 +1,78 @@
+# Mass Effect 3 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01462
+
+game: "Mass Effect 3"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01462"
+cheat_type: "Save Editor"
+source: "From zeick"
+
+cheats:
+  - name: "Renegade"
+    notes: "File: SAVE*"
+    codes:
+      - "search 0x000027B0"
+      - "write next (4):00000063"
+
+  - name: "Paragon"
+    notes: "File: SAVE*"
+    codes:
+      - "search 0x000027AF"
+      - "write next (4):00000063"
+
+  - name: "Reputation"
+    notes: "File: SAVE*"
+    codes:
+      - "search 0x0000288C"
+      - "write next (4):00000063"
+
+  - name: "Medi Gel 9999999"
+    notes: "File: SAVE*"
+    codes:
+      - "search \"hench_anderson\""
+      - "write next (-64):0098967F"
+
+  - name: "Money 9999999"
+    notes: "File: SAVE*"
+    codes:
+      - "search \"hench_anderson\""
+      - "write next (-68):0098967F"
+
+  - name: "Export - Update Crc32big (required)"
+    notes: "File: EXPORT"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x0, pointer"
+      - "set [crc]:crc32big"
+      - "set pointer:eof-3"
+      - "write next (0):[crc]"
+
+  - name: "Quick - Update Crc32big (required)"
+    notes: "File: QUICK"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x0, pointer"
+      - "set [crc]:crc32big"
+      - "set pointer:eof-3"
+      - "write next (0):[crc]"
+
+  - name: "Legend - Update Crc32big (required)"
+    notes: "File: LEGEND"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x0, pointer"
+      - "set [crc]:crc32big"
+      - "set pointer:eof-3"
+      - "write next (0):[crc]"
+
+  - name: "Save - Update Crc32big (required)"
+    notes: "File: SAVE*"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x0, pointer"
+      - "set [crc]:crc32big"
+      - "set pointer:eof-3"
+      - "write next (0):[crc]"

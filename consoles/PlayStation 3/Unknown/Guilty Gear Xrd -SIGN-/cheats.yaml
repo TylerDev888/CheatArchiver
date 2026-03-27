@@ -1,0 +1,30 @@
+# Guilty Gear Xrd -SIGN- cheat data
+# Console: PlayStation 3
+# Region:  Unknown
+# Serial:  BLJS10289
+
+game: "Guilty Gear Xrd -SIGN-"
+console: "PlayStation 3"
+region: "Unknown"
+serial: "BLJS10289"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Max Medals(by Easko)"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "2000B5C4 0098967F"
+
+  - name: "Max W$ Money(by Bucanero)"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "2000D6AC 0098967F"
+
+  - name: "Update Crc32 For System.dat (required)(by Chaoszage)"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000010,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000004:[hash]"

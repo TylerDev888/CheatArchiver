@@ -1,0 +1,81 @@
+# Bakugan Battle Brawlers cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21902
+
+game: "Bakugan Battle Brawlers"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21902"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9030AA48 0C0C2A3A"
+
+  - name: "Max Bakugan Points After Battle"
+    author: "SkillerCMP"
+    codes:
+      - "202593B0 A4830000"
+      - "202593C8 8E860000"
+
+  - name: "Inf Bakugan Points"
+    author: "SkillerCMP"
+    codes:
+      - "20282738 00000000"
+
+  - name: "Dont Level Up When Upgrading"
+    author: "SkillerCMP"
+    notes: "[Upgrading]"
+    codes:
+      - "00105790 00000000"
+
+  - name: "Max Level 1 Level Up"
+    author: "SkillerCMP"
+    notes: "[Upgrading]"
+    codes:
+      - "00105790 0000000A"
+
+  - name: "Gain Max Strength"
+    notes: "[Upgrading]"
+    codes:
+      - "20105780 240203E7"
+
+  - name: "Stats Max After 1 Upgrade"
+    author: "SkillerCMP"
+    notes: "[Upgrading]"
+    codes:
+      - "20105770 24020032"
+
+  - name: "Shop Codes Able To Buy All Bakugan"
+    author: "SkillerCMP"
+    notes: "[Upgrading]"
+    codes:
+      - "200A0000 00641821"
+      - "200A0004 02231821"
+      - "200A0008 24070001"
+      - "200A000C 080A098A"
+      - "200A0010 A0670090"
+      - "20282624 08028000"
+      - "20282628 00000000"
+
+  - name: "Able To Buy All Cards"
+    author: "SkillerCMP"
+    notes: "[Upgrading]"
+    codes:
+      - "200A0014 02241021"
+      - "200A0018 24070001"
+      - "200A001C A0470282"
+      - "200A0020 080A098E"
+      - "200A0024 80430282"
+      - "20282634 08028005"
+      - "20282638 00000000"
+
+  - name: "Enemy 0 Attack"
+    author: "SkillerCMP"
+    notes: "[Bakugan Battle Codes]"
+    codes:
+      - "20559160 AE200044"

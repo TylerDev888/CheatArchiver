@@ -1,0 +1,45 @@
+# Le Mans 24 Hours cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20207
+
+game: "Le Mans 24 Hours"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20207"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00132A77"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90132A74 0C048F22"
+
+  - name: "Idiot AI"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20135A80 03E00008"
+      - "20135A84 00000000"
+
+  - name: "Always Good Tires"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20214A70 03E00008"
+      - "20214A74 00000000"
+
+  - name: "Infinite Fuel"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20215350 03E00008"
+      - "20215354 00000000"

@@ -1,0 +1,48 @@
+# Ben 10-Proector Of Earth cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21661
+
+game: "Ben 10-Proector Of Earth"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21661"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Skiller"
+    notes: "[Masters]"
+    codes:
+      - "901C17E0 00832021"
+      - "200A0034 03E00008"
+      - "200A003C 3C04447A"
+      - "200A0040 AC440000"
+      - "200A0044 03E00008"
+      - "20186E20 08028000"
+
+  - name: "Infinite HP"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "200A0000 20040108"
+      - "200A0004 1244000D"
+
+  - name: "Infinite Time For Transformations"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "200A0008 2004010B"
+      - "200A000C 1244000B"
+
+  - name: "Max Omni Points (Press L3)"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "200A0010 3C040026"
+      - "200A0014 90846F42"
+      - "200A0018 240B00FD"
+      - "200A001C 148B0005"
+      - "200A0020 20040115"
+      - "200A0024 12440005"

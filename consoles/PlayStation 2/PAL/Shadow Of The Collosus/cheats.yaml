@@ -1,0 +1,31 @@
+# Shadow Of The Collosus cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Shadow Of The Collosus"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90114B90 0C049457"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "D12EA00E 00003F80"
+      - "212EA024 447A0000"
+
+  - name: "Grip"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "D12EA00E 00003F80"
+      - "212EA020 447A0000"

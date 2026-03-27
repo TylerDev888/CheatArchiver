@@ -1,0 +1,48 @@
+# Hot Shots Golf_ World Invitational (PSN) cheat data
+# Console: PlayStation 3
+# Region:  Unknown
+# Serial:  NPJA00086
+
+game: "Hot Shots Golf_ World Invitational (PSN)"
+console: "PlayStation 3"
+region: "Unknown"
+serial: "NPJA00086"
+cheat_type: "Save Editor"
+source: "from goldenfingers forum"
+
+cheats:
+  - name: "All Challenge Mode Get Crown"
+    notes: "File: DATA1.BIN  (codes below may affected online mode,USE IT AT YOUR ON RISK!)"
+    codes:
+      - "42000084 00050700"
+      - "40310080 00000000"
+
+  - name: "Grade 0"
+    notes: "File: DATA4.BIN"
+    codes:
+      - "00000049 00000000"
+
+  - name: "Grade 1"
+    notes: "File: DATA4.BIN"
+    codes:
+      - "00000049 00000001"
+
+  - name: "Grade 2"
+    notes: "File: DATA4.BIN"
+    codes:
+      - "00000049 00000002"
+
+  - name: "Grade 3"
+    notes: "File: DATA4.BIN"
+    codes:
+      - "00000049 00000003"
+
+  - name: "Grade 4"
+    notes: "File: DATA4.BIN"
+    codes:
+      - "00000049 00000004"
+
+  - name: "Grade Point 99"
+    notes: "File: DATA4.BIN"
+    codes:
+      - "00003EEB 00000063"

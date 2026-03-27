@@ -1,0 +1,89 @@
+# Yu Gi Oh! GX Tag Force Evolution cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-55017
+
+game: "Yu Gi Oh! GX Tag Force Evolution"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-55017"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90112118 0C0447EE"
+
+  - name: "Player 1 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "0025E202 0000[Joker:PS2]"
+
+  - name: "10 Cards When Moved To Trunk"
+    notes: "[Misc]"
+    codes:
+      - "201B6B38 2706000A"
+
+  - name: "Max/Inf Dp"
+    notes: "[Misc]"
+    codes:
+      - "2035CAAC 3B9AC9FF"
+
+  - name: "Max Cash Buying/Winning"
+    notes: "[Misc]"
+    codes:
+      - "2015FD40 10000008"
+
+  - name: "Have All Cards X9"
+    notes: "[Deck Codes:{The Have All Cards X9 Is Still Being Worked On .. Im Having Problems Opening All The Slots ..}]"
+    codes:
+      - "200A0000 3C01014E"
+      - "200A0004 3421C144"
+      - "200A0008 94230000"
+      - "200A000C 34020FA7"
+      - "200A0010 14620019"
+      - "200A0038 3C0400AB"
+      - "200A003C 34840010"
+      - "200A0044 A4830000"
+      - "200A0048 24840002"
+      - "200A004C 24A50001"
+      - "200A0050 A4850000"
+      - "200A0054 24840002"
+      - "200A0058 34070109"
+      - "200A005C A4870000"
+      - "200A0060 24840002"
+      - "200A0064 24210002"
+      - "200A0068 94230000"
+      - "200A0070 1403FFF4"
+      - "200A0078 03E00008"
+      - "200A007C 27BD0050"
+      - "E002FFFE 0025E202"
+      - "2017ED58 08028000"
+      - "2017ED5C 00000000"
+
+  - name: "Activator For Draw Time Codes"
+    notes: "[Draw Time Codes]"
+    codes:
+      - "200A0100 12800011"
+      - "200A0138 1000000F"
+      - "200A0178 03E00008"
+      - "D1713B16 000027BD"
+      - "21713B10 08028040"
+
+  - name: "Player 2 No Cards"
+    notes: "[Draw Time Codes]"
+    codes:
+      - "200A0108 AE000004"
+
+  - name: "Player 2 No Draw"
+    notes: "[Draw Time Codes]"
+    codes:
+      - "200A010C AE000000"
+
+  - name: "Player 1 Refill Max HP When Draw"
+    notes: "[Draw Time Codes]"
+    codes:
+      - "200A0148 34071F40"
+      - "200A014C AE07FFF4"

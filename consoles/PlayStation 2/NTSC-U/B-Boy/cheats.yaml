@@ -1,0 +1,24 @@
+# B-Boy cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21761
+
+game: "B-Boy"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21761"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90349180 0C0D2408"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90235388 0C0CE93A"

@@ -1,0 +1,94 @@
+# Driver 3 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50876
+
+game: "Driver 3"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50876"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "901001D0 0C05A5EE"
+      - "902E4F98 0C0B3222"
+
+  - name: "60 Hertz Mode"
+    author: "nemesis01"
+    codes:
+      - "202C4E18 24120002"
+
+  - name: "Have All Cheats"
+    author: "Codejunkies"
+    codes:
+      - "20250BDC 24020001"
+      - "20250BEC 00000000"
+
+  - name: "Have All Missions/Videos"
+    author: "Codejunkies"
+    codes:
+      - "207103B4 00000020"
+
+  - name: "Immune To Falls"
+    author: "Codejunkies"
+    codes:
+      - "201C19A4 00000000"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "201D81CC 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "2022BCD8 3C013F80"
+      - "2022BCDC AE410024"
+      - "2022BCE0 AE210010"
+
+  - name: "Moon Jump"
+    author: "Codejunkies"
+    codes:
+      - "E10100BF 106FE0E9"
+      - "201CA01C 45030001"
+      - "E10100BF 006FE0E9"
+      - "201CA01C 00000000"
+
+  - name: "Never Fail Mission"
+    author: "Codejunkies"
+    codes:
+      - "20160A18 24100002"
+
+  - name: "No Car Damage"
+    author: "Codejunkies"
+    codes:
+      - "201FA328 03E00008"
+
+  - name: "No Felony Gauge"
+    author: "Codejunkies"
+    codes:
+      - "20136980 03E00008"
+      - "20136984 00000000"
+
+  - name: "Unlock Istanbul"
+    author: "Codejunkies"
+    codes:
+      - "207103B8 00000001"
+
+  - name: "Walk Above Walls"
+    author: "Codejunkies"
+    codes:
+      - "201BFBD8 1040000E"
+
+  - name: "Y-Fix"
+    author: "nemesis01"
+    codes:
+      - "002C5174 00000010"
+      - "002C51E4 00000010"
+      - "002C5228 00000010"
+      - "002C52B4 00000010"

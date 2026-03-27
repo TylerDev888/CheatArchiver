@@ -1,0 +1,227 @@
+# Sengoku Basara HD Collection cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM60488
+
+game: "Sengoku Basara HD Collection"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM60488"
+cheat_type: "Save Editor"
+source: "From Keha World"
+
+cheats:
+  - name: "Basara - All Characters Exp 999999"
+    notes: "[Sengoku Basara]  File: DATA_1"
+    codes:
+      - "42000000 000F423F"
+      - "4010028C 00000000"
+
+  - name: "Basara - Date Masamune Exp 999999"
+    notes: "[Sengoku Basara]  File: DATA_1"
+    codes:
+      - "2000028C 000F423F"
+
+  - name: "Basara - Nou Hime Exp 999999"
+    notes: "[Sengoku Basara]  File: DATA_1"
+    codes:
+      - "20000A30 000F423F"
+
+  - name: "Basara - All Characters All Weapon Lv.255"
+    notes: "[Sengoku Basara]  File: DATA_1"
+    codes:
+      - "4200001B FFFFFFFF"
+      - "4016028C 00000000"
+      - "4100001F 0000FFFF"
+      - "4016028C 00000000"
+
+  - name: "Basara - Date Masamune All Weapon Lv.255"
+    notes: "[Sengoku Basara]  File: DATA_1"
+    codes:
+      - "200002A7 FFFFFFFF"
+      - "100002AB 0000FFFF"
+
+  - name: "Basara - Nou Hime All Weapon Lv.255"
+    notes: "[Sengoku Basara]  File: DATA_1"
+    codes:
+      - "20000A4B FFFFFFFF"
+      - "10000A4F 0000FFFF"
+
+  - name: "Basara - Item Complete"
+    notes: "[Sengoku Basara]  File: DATA_1"
+    codes:
+      - "200028C0 63636363"
+      - "400028C4 00000001"
+      - "404C0001 00000000"
+
+  - name: "Basara 2 - Money 999999"
+    notes: "[Sengoku Basara 2]  File: DATA_2"
+    codes:
+      - "20017568 000F423F"
+
+  - name: "Basara 2 - All Characters(22) Exp 999999"
+    notes: "[Sengoku Basara 2]  File: DATA_2"
+    codes:
+      - "42000000 000F423F"
+      - "401610F8 00000000"
+
+  - name: "Basara 2 - Sanada Yukimura Exp 999999"
+    notes: "[Sengoku Basara 2]  File: DATA_2"
+    codes:
+      - "200021F0 000F423F"
+
+  - name: "Basara 2 - Maeda Keiji Exp 999999"
+    notes: "[Sengoku Basara 2]  File: DATA_2"
+    codes:
+      - "20013170 000F423F"
+
+  - name: "Basara 2 - All Characters(22) All Weapon Lv.max"
+    notes: "[Sengoku Basara 2]  File: DATA_2"
+    codes:
+      - "42000028 FFFFFFFF"
+      - "401610F8 00000000"
+      - "4200002C FFFFFFFF"
+      - "401610F8 00000000"
+
+  - name: "Basara 2 - Sanada Yukimura All Weapon Lv.max"
+    notes: "[Sengoku Basara 2]  File: DATA_2"
+    codes:
+      - "20002218 FFFFFFFF"
+      - "2000221C FFFFFFFF"
+
+  - name: "Basara 2 - Maeda Keiji All Weapon Lv.max"
+    notes: "[Sengoku Basara 2]  File: DATA_2"
+    codes:
+      - "20013198 FFFFFFFF"
+      - "2001319C FFFFFFFF"
+
+  - name: "Basara 2 - All Characters(22) All Armor Lv.max"
+    notes: "[Sengoku Basara 2]  File: DATA_2"
+    codes:
+      - "42000030 00FFFFFF"
+      - "401610F8 00000000"
+
+  - name: "Basara 2 - Item Complete"
+    notes: "[Sengoku Basara 2]  File: DATA_2"
+    codes:
+      - "200175B2 64646464"
+      - "000175B6 00000064"
+      - "400175B7 00000001"
+      - "40600001 00000000"
+      - "40017581 00000001"
+      - "40170001 00000000"
+      - "00017593 00000000"
+      - "000175CA 00000000"
+      - "00017607 00000000"
+      - "00017615 00000000"
+      - "00017615 00000000"
+
+  - name: "Heroes - Imagawa Yoshimoto Exp 999999"
+    notes: "[Sengoku Basara 2 Heroes]  File: DATA_3"
+    codes:
+      - "2001B030 000F423F"
+
+  - name: "Heroes - Katakura Kojuro Exp 999999"
+    notes: "[Sengoku Basara 2 Heroes]  File: DATA_3"
+    codes:
+      - "20021C3C 000F423F"
+
+  - name: "Heroes - Azai Nagamasa Exp 999999"
+    notes: "[Sengoku Basara 2 Heroes]  File: DATA_3"
+    codes:
+      - "200231D8 000F423F"
+
+  - name: "Heroes - Oichi Exp 999999"
+    notes: "[Sengoku Basara 2 Heroes]  File: DATA_3"
+    codes:
+      - "20024774 000F423F"
+
+  - name: "Heroes - Honganji Kennyo Exp 999999"
+    notes: "[Sengoku Basara 2 Heroes]  File: DATA_3"
+    codes:
+      - "20025D10 000F423F"
+
+  - name: "Heroes - Fuma Kotaro Exp 999999"
+    notes: "[Sengoku Basara 2 Heroes]  File: DATA_3"
+    codes:
+      - "200272AC 000F423F"
+
+  - name: "Heroes - All Characters(30) All Weapon Lv.max"
+    notes: "[Sengoku Basara 2 Heroes]  File: DATA_3"
+    codes:
+      - "42000028 FFFFFFFF"
+      - "401E159C 00000000"
+      - "4200002C FFFFFFFF"
+      - "401E159C 00000000"
+
+  - name: "Heroes - Imagawa Yoshimoto All Weapon Lv.max"
+    notes: "[Sengoku Basara 2 Heroes]  File: DATA_3"
+    codes:
+      - "2001B058 FFFFFFFF"
+      - "2001B05C FFFFFFFF"
+
+  - name: "Heroes - Katakura Kojuro All Weapon Lv.max"
+    notes: "[Sengoku Basara 2 Heroes]  File: DATA_3"
+    codes:
+      - "20021C64 FFFFFFFF"
+      - "20021C68 FFFFFFFF"
+
+  - name: "Heroes - Azai Nagamasa All Weapon Lv.max"
+    notes: "[Sengoku Basara 2 Heroes]  File: DATA_3"
+    codes:
+      - "20023200 FFFFFFFF"
+      - "20023204 FFFFFFFF"
+
+  - name: "Heroes - Oichi All Weapon Lv.max"
+    notes: "[Sengoku Basara 2 Heroes]  File: DATA_3"
+    codes:
+      - "2002479C FFFFFFFF"
+      - "200247A0 FFFFFFFF"
+
+  - name: "Heroes - Honganji Kennyo All Weapon Lv.max"
+    notes: "[Sengoku Basara 2 Heroes]  File: DATA_3"
+    codes:
+      - "20025D38 FFFFFFFF"
+      - "20025D3C FFFFFFFF"
+
+  - name: "Heroes - Fuma Kotaro All Weapon Lv.max"
+    notes: "[Sengoku Basara 2 Heroes]  File: DATA_3"
+    codes:
+      - "200272D4 FFFFFFFF"
+      - "200272D8 FFFFFFFF"
+
+  - name: "Heroes - All Characters(30) All Armor Lv.max"
+    notes: "[Sengoku Basara 2 Heroes]  File: DATA_3"
+    codes:
+      - "42000030 00FFFFFF"
+      - "401E159C 00000000"
+
+  - name: "Heroes - Imagawa Yoshimoto All Armor Lv.max"
+    notes: "[Sengoku Basara 2 Heroes]  File: DATA_3"
+    codes:
+      - "2001B060 00FFFFFF"
+
+  - name: "Heroes - Katakura Kojuro All Armor Lv.max"
+    notes: "[Sengoku Basara 2 Heroes]  File: DATA_3"
+    codes:
+      - "20021C6C 00FFFFFF"
+
+  - name: "Heroes - Azai Nagamasa All Armor Lv.max"
+    notes: "[Sengoku Basara 2 Heroes]  File: DATA_3"
+    codes:
+      - "20023208 00FFFFFF"
+
+  - name: "Heroes - Oichi All Armor Lv.max"
+    notes: "[Sengoku Basara 2 Heroes]  File: DATA_3"
+    codes:
+      - "200247A4 00FFFFFF"
+
+  - name: "Heroes - Honganji Kennyo All Armor Lv.max"
+    notes: "[Sengoku Basara 2 Heroes]  File: DATA_3"
+    codes:
+      - "20025D40 00FFFFFF"
+
+  - name: "Heroes - Fuma Kotaro All Armor Lv.max"
+    notes: "[Sengoku Basara 2 Heroes]  File: DATA_3"
+    codes:
+      - "200272DC 00FFFFFF"

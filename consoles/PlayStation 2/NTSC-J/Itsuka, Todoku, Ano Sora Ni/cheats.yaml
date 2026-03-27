@@ -1,0 +1,24 @@
+# Itsuka, Todoku, Ano Sora Ni cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66858
+
+game: "Itsuka, Todoku, Ano Sora Ni"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66858"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90174A60 0C05D240"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "401F26C8 001E0001"
+      - "FFFFFFFF 00000000"

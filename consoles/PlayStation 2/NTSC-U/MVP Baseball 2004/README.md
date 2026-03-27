@@ -1,0 +1,243 @@
+# MVP Baseball 2004
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-20868  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Enable Code (Must Be On)
+**Author:** Code Master  
+**Notes:** [Master Codes]
+
+```
+F0100008 0060AB57
+```
+
+---
+
+### [M] Must Be On
+**Author:** MadCatz  
+**Notes:** [Master Codes]
+
+```
+90103618 0C182A8C
+```
+
+---
+
+### 1 Ball And You Walk
+**Author:** Code Master
+
+```
+200C0240 8ED2000C
+200C0244 52400001
+200C0248 24120003
+200C024C 03E00008
+200C0250 AED2000C
+202CEC48 0C030090
+```
+
+---
+
+### 1 Out And You Are Out
+**Author:** Code Master
+
+```
+200C0260 8E030004
+200C0264 8ED10020
+200C0268 52200001
+200C026C 24110002
+200C0270 03E00008
+200C0274 AED10020
+202CEC2C 0C030098
+```
+
+---
+
+### 1 Strike And You Are Out
+**Author:** Code Master
+
+```
+200C0220 8ED00010
+200C0224 52000001
+200C0228 24100002
+200C022C 03E00008
+200C0230 AED00010
+202CEC40 0C030088
+```
+
+---
+
+### 2 Balls And You Walk
+**Author:** Code Master
+
+```
+200C0240 8ED2000C
+200C0244 52400001
+200C0248 24120002
+200C024C 03E00008
+200C0250 AED2000C
+202CEC48 0C030090
+```
+
+---
+
+### 2 Outs And You Are Out
+**Author:** Code Master
+
+```
+200C0260 8E030004
+200C0264 8ED10020
+200C0268 52200001
+200C026C 24110001
+200C0270 03E00008
+200C0274 AED10020
+202CEC2C 0C030098
+```
+
+---
+
+### 2 Strikes And You Are Out
+**Author:** Code Master
+
+```
+200C0220 8ED00010
+200C0224 52000001
+200C0228 24100001
+200C022C 03E00008
+200C0230 AED00010
+202CEC40 0C030088
+```
+
+---
+
+### 3 Balls And You Walk
+**Author:** Code Master
+
+```
+200C0240 8ED2000C
+200C0244 52400001
+200C0248 24120001
+200C024C 03E00008
+200C0250 AED2000C
+202CEC48 0C030090
+```
+
+---
+
+### Away Team Box Score Modifier
+**Author:** Code Master
+
+```
+200C0280 240400??
+200C0284 080B41D0
+200C0288 AC440000
+202CED34 0C0300A0
+```
+
+---
+
+### Home Team Box Score Modifier
+**Author:** Code Master
+
+```
+200C0290 240400??
+200C0294 080B41D0
+200C0298 AC440000
+202CEDB4 0C0300A4
+```
+
+---
+
+### Infinite Balls
+**Author:** Code Master
+
+```
+200C0240 24120000
+200C0244 03E00008
+200C0248 AED2000C
+202CEC48 0C030090
+```
+
+---
+
+### Infinite Outs
+**Author:** Code Master
+
+```
+200C0260 8E030004
+200C0260 24110000
+200C0260 03E00008
+200C0260 AED10020
+202CEC2C 0C030098
+```
+
+---
+
+### Infinite Strikes
+**Author:** Code Master
+
+```
+200C0220 24100000
+200C0224 03E00008
+200C0228 AED00010
+202CEC40 0C030088
+```
+
+---
+
+### Everything Unlocked
+**Author:** MadCatz  
+**Notes:** [Profile 1]
+
+```
+20CB08EC FFFFFFFF
+20CB08F0 FFFFFFFF
+20CB08F4 FFFFFFFF
+20CB08F8 FFFFFFFF
+```
+
+---
+
+### Lots Of MVP Points
+**Author:** MadCatz  
+**Notes:** [Profile 1]
+
+```
+20CB07A0 FFFFFFFF
+```
+
+---
+
+### Always Hit Homerun : Hold R1
+**Author:** nolberto82
+
+```
+200A0000 3C1700BA
+200A0004 92F75592
+200A0008 12E00002
+200A000C 3C1745E0
+200A0010 AE370188
+200A0014 3C170067
+200A0018 080F973D
+203E5CEC 08028000
+```
+
+---
+
+### Unlock All MVP Rewards
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+20CB08EC FFFFFFFF
+20CB08F0 FFFFFFFF
+20CB08F4 FFFFFFFF
+20CB08F8 FFFFFFFF
+```
+
+---

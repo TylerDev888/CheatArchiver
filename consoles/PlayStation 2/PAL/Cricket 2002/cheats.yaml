@@ -1,0 +1,66 @@
+# Cricket 2002 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50424
+
+game: "Cricket 2002"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50424"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01003F4 002A2FA7"
+
+  - name: "0 Men Out"
+    author: "Codejunkies"
+    notes: "[Team 1 Men Out Codes]"
+    codes:
+      - "10335B30 00000000"
+
+  - name: "9 Men Out"
+    author: "Codejunkies"
+    notes: "[Team 1 Men Out Codes]"
+    codes:
+      - "10335B30 00000009"
+
+  - name: "0 Points"
+    author: "Codejunkies"
+    notes: "[Team 1 Points Codes]"
+    codes:
+      - "10335AF8 00000000"
+
+  - name: "4095 Points"
+    author: "Codejunkies"
+    notes: "[Team 1 Points Codes]"
+    codes:
+      - "10335AF8 00000FFF"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 002A380F"
+
+  - name: "Batting Stats"
+    author: "Xploder"
+    notes: "[All Teams]"
+    codes:
+      - "2014C564 34060005"
+
+  - name: "Bowling Stats"
+    author: "Xploder"
+    notes: "[All Teams]"
+    codes:
+      - "2014C568 34070005"
+
+  - name: "Fielding Stats"
+    author: "Xploder"
+    notes: "[All Teams]"
+    codes:
+      - "2014C564 34080005"

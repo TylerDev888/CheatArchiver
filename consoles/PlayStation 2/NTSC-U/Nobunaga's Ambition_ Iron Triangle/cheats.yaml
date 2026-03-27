@@ -1,0 +1,118 @@
+# Nobunaga's Ambition_ Iron Triangle cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21868
+
+game: "Nobunaga's Ambition_ Iron Triangle"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21868"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9017AB50 0C05EA7C"
+
+  - name: "Activator For Below Codes (MUST BE ON)"
+    notes: "[Cheats]"
+    codes:
+      - "200A0038 8C520008"
+      - "200A003C 8E520020"
+      - "200A0040 1240003C"
+      - "200A0138 08159E30"
+      - "200A013C 8C520014"
+      - "205678BC 08028000"
+      - "200A01C4 080B5203"
+      - "200A01C8 AE300008"
+      - "202D4808 08028051"
+
+  - name: "Cash"
+    notes: "[Base Codes:{#below Codes Will Affect Your Cash/Food And Your First Town Always}]"
+    codes:
+      - "200A0000 3C12[Amount:05F5:HEX:BIG]"
+      - "200A0004 3652[Amount:E0FF:HEX:BIG]"
+      - "200A0008 AC520014"
+
+  - name: "Food"
+    notes: "[Base Codes:{#below Codes Will Affect Your Cash/Food And Your First Town Always}]"
+    codes:
+      - "200A000C 3C12[Amount:05F5:HEX:BIG]"
+      - "200A0010 3652[Amount:E0FF:HEX:BIG]"
+      - "200A0014 AC520018"
+
+  - name: "Troops"
+    notes: "[Base Codes:{#below Codes Will Affect Your Cash/Food And Your First Town Always}]"
+    codes:
+      - "200A0048 3C11[Amount:05F5:HEX:BIG]"
+      - "200A004C 3631[Amount:E0FF:HEX:BIG]"
+      - "200A0050 AE510020"
+
+  - name: "Always 0 Injured"
+    notes: "[Base Codes:{#below Codes Will Affect Your Cash/Food And Your First Town Always}]"
+    codes:
+      - "200A0054 AE400024"
+
+  - name: "Horses"
+    notes: "[Base Codes:{#below Codes Will Affect Your Cash/Food And Your First Town Always}]"
+    codes:
+      - "200A0058 3C11[Amount:05F5:HEX:BIG]"
+      - "200A005C 3631[Amount:E0FF:HEX:BIG]"
+      - "200A0060 AE51002C"
+
+  - name: "Muskets"
+    notes: "[Base Codes:{#below Codes Will Affect Your Cash/Food And Your First Town Always}]"
+    codes:
+      - "200A0064 3C11[Amount:05F5:HEX:BIG]"
+      - "200A0068 3631[Amount:E0FF:HEX:BIG]"
+      - "200A006C AE510030"
+
+  - name: "Rams"
+    notes: "[Base Codes:{#below Codes Will Affect Your Cash/Food And Your First Town Always}]"
+    codes:
+      - "200A0070 3C11[Amount:05F5:HEX:BIG]"
+      - "200A0074 3631[Amount:E0FF:HEX:BIG]"
+      - "200A0078 AE510034"
+
+  - name: "Towers"
+    notes: "[Base Codes:{#below Codes Will Affect Your Cash/Food And Your First Town Always}]"
+    codes:
+      - "200A007C 3C11[Amount:05F5:HEX:BIG]"
+      - "200A0080 3631[Amount:E0FF:HEX:BIG]"
+      - "200A0084 AE510038"
+
+  - name: "Cannons"
+    notes: "[Base Codes:{#below Codes Will Affect Your Cash/Food And Your First Town Always}]"
+    codes:
+      - "200A0088 3C11[Amount:05F5:HEX:BIG]"
+      - "200A008C 3631[Amount:E0FF:HEX:BIG]"
+      - "200A0090 AE51003C"
+
+  - name: "Boats"
+    notes: "[Base Codes:{#below Codes Will Affect Your Cash/Food And Your First Town Always}]"
+    codes:
+      - "200A0094 3C11[Amount:05F5:HEX:BIG]"
+      - "200A0098 3631[Amount:E0FF:HEX:BIG]"
+      - "200A009C AE510040"
+
+  - name: "Warships"
+    notes: "[Base Codes:{#below Codes Will Affect Your Cash/Food And Your First Town Always}]"
+    codes:
+      - "200A00A0 3C11[Amount:05F5:HEX:BIG]"
+      - "200A00A4 3631[Amount:E0FF:HEX:BIG]"
+      - "200A00A8 AE510044"
+
+  - name: "Battleships"
+    notes: "[Base Codes:{#below Codes Will Affect Your Cash/Food And Your First Town Always}]"
+    codes:
+      - "200A00AC 3C11[Amount:05F5:HEX:BIG]"
+      - "200A00B0 3631[Amount:E0FF:HEX:BIG]"
+      - "200A00B4 AE510048"
+
+  - name: "Always 100 Moral"
+    notes: "[Base Codes:{#below Codes Will Affect Your Cash/Food And Your First Town Always}]"
+    codes:
+      - "200A00B8 24110064"
+      - "200A00BC AE51004C"

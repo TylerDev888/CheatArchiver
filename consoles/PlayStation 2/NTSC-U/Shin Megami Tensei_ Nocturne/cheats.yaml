@@ -1,0 +1,339 @@
+# Shin Megami Tensei_ Nocturne cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20911
+
+game: "Shin Megami Tensei_ Nocturne"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20911"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Master]"
+    codes:
+      - "902DE2D8 0C0B785E"
+
+  - name: "Player 1"
+    notes: "[Joker]"
+    codes:
+      - "0058F0C2 0000[Joker:PS2]"
+
+  - name: "Max Money"
+    notes: "[Misc]  Money Mod"
+    codes:
+      - "20244258 00A01021"
+      - "21248F48 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "No Random Battles"
+    notes: "[Misc]"
+    codes:
+      - "0124A1F8 00000000"
+
+  - name: "Random Battles Every Step"
+    notes: "[Misc]"
+    codes:
+      - "1124A1F8 00000201"
+
+  - name: "Main Intro"
+    notes: "[Movie Viewer:{Look In Digit Section}]"
+    codes:
+      - "20343E10 [MOVIE]"
+
+  - name: "2 Intro (after Wating At Start Menu)"
+    notes: "[Movie Viewer:{Look In Digit Section}]"
+    codes:
+      - "20343E28 [MOVIE]"
+
+  - name: "Click On The Special To Play Movie"
+    notes: "[Movie Viewer:{Look In Digit Section}]"
+    codes:
+      - "20343BE8 [MOVIE]"
+
+  - name: "EXP Modifier"
+    notes: "[After Battle Codes]"
+    codes:
+      - "2026A86C 0004[EXP]"
+
+  - name: "Money Multiplter"
+    notes: "[After Battle Codes]"
+    codes:
+      - "2026A89C 0004[EXP]"
+
+  - name: "Magatama(25 In Total) All In Possession"
+    notes: "[Game Items]"
+    codes:
+      - "0124A1FB 00000001"
+      - "2124A1FC 05040302"
+      - "2124A200 09080706"
+      - "2124A204 0D0C0B0A"
+      - "2124A208 11100F0E"
+      - "2124A20C 15141312"
+      - "2124A210 19181716"
+      - "0124A27B 00000019"
+
+  - name: "All Items 99 In Inventory"
+    notes: "[Game Items]"
+    codes:
+      - "20243F58 34050063"
+
+  - name: "All Items"
+    notes: "[Game Items]"
+    codes:
+      - "21249E28 63636300"
+      - "41249E2C 00070001"
+      - "63636363 00000000"
+      - "21249E48 63630063"
+      - "21249E4C 00636363"
+      - "21249E50 63636363"
+      - "21249E54 00636363"
+      - "21249E5C 63636363"
+      - "21249E60 00630063"
+      - "21249E64 00006300"
+
+  - name: "Diamond"
+    notes: "[Jewels]"
+    codes:
+      - "01249E88 00000063"
+
+  - name: "Pearl"
+    notes: "[Jewels]"
+    codes:
+      - "01249E89 00000063"
+
+  - name: "Sapphire"
+    notes: "[Jewels]"
+    codes:
+      - "01249E8A 00000063"
+
+  - name: "Emerald"
+    notes: "[Jewels]"
+    codes:
+      - "01249E8B 00000063"
+
+  - name: "Ruby"
+    notes: "[Jewels]"
+    codes:
+      - "01249E8C 00000063"
+
+  - name: "Jade"
+    notes: "[Jewels]"
+    codes:
+      - "01249E8D 00000063"
+
+  - name: "Opal"
+    notes: "[Jewels]"
+    codes:
+      - "01249E8E 00000063"
+
+  - name: "Amethyst"
+    notes: "[Jewels]"
+    codes:
+      - "01249E8F 00000063"
+
+  - name: "Agate"
+    notes: "[Jewels]"
+    codes:
+      - "01249E90 00000063"
+
+  - name: "Turquoise"
+    notes: "[Jewels]"
+    codes:
+      - "01249E91 00000063"
+
+  - name: "Garnet"
+    notes: "[Jewels]"
+    codes:
+      - "01249E92 00000063"
+
+  - name: "Onyx"
+    notes: "[Jewels]"
+    codes:
+      - "01249E94 00000063"
+
+  - name: "Coral"
+    notes: "[Jewels]"
+    codes:
+      - "01249E96 00000063"
+
+  - name: "Aquamarine"
+    notes: "[Jewels]"
+    codes:
+      - "01249E97 00000063"
+
+  - name: "99 Jewels"
+    notes: "[Jewels]"
+    codes:
+      - "21249E88 63636363"
+      - "21249E8C 63636363"
+      - "21249E90 63636363"
+      - "01249E96 00000063"
+      - "01249E97 00000063"
+
+  - name: "Total Accumulated EXP Mod"
+    notes: "[Hero]"
+    codes:
+      - "21248F64 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Status Always Good"
+    notes: "[Hero]"
+    codes:
+      - "11248F62 00000000"
+
+  - name: "Heros Magatama Selecter"
+    notes: "[Hero]"
+    codes:
+      - "0124A1FA 0000[Maga]"
+
+  - name: "Race Mods"
+    notes: "[Hero]"
+    codes:
+      - "11248F58 0000[RM]"
+
+  - name: "Current MP/HP 999"
+    notes: "[Hero]"
+    codes:
+      - "11248F5E 000003E7"
+      - "11248F5A 000003E7"
+
+  - name: "Inf HP/MP 999"
+    notes: "[Hero]"
+    codes:
+      - "11248F5C 000003E7"
+      - "11248F60 000003E7"
+
+  - name: "Max Lvl 99"
+    notes: "[Hero]"
+    codes:
+      - "01248F68 00000063"
+
+  - name: "Max At 50"
+    notes: "[Hero]"
+    codes:
+      - "01248F6A 00000032"
+
+  - name: "Max Ma 50"
+    notes: "[Hero]"
+    codes:
+      - "01248F6C 00000032"
+
+  - name: "Max Vit 50"
+    notes: "[Hero]"
+    codes:
+      - "01248F6D 00000032"
+
+  - name: "Max Ag 50"
+    notes: "[Hero]"
+    codes:
+      - "01248F6E 00000032"
+
+  - name: "Max Lu 40"
+    notes: "[Hero]"
+    codes:
+      - "01248F6F 00000028"
+
+  - name: "Max All Stats"
+    notes: "[Hero]"
+    codes:
+      - "01248F6A 00000032"
+      - "21248F6C 28323232"
+
+  - name: "Skill Activator"
+    notes: "[Skill Mod Codes:{If Your Goin To Use Less Then 8 Skills Set The Activator To How Many Slots U Need Activated}]"
+    codes:
+      - "11248F8C 00000008"
+
+  - name: "Slot 1"
+    notes: "[Skill Mod]"
+    codes:
+      - "11248F8E 0000[SKIL]"
+
+  - name: "Slot 2"
+    notes: "[Skill Mod]"
+    codes:
+      - "11248F90 0000[SKIL]"
+
+  - name: "Slot 3"
+    notes: "[Skill Mod]"
+    codes:
+      - "11248F92 0000[SKIL]"
+
+  - name: "Slot 4"
+    notes: "[Skill Mod]"
+    codes:
+      - "11248F94 0000[SKIL]"
+
+  - name: "Slot 5"
+    notes: "[Skill Mod]"
+    codes:
+      - "11248F96 0000[SKIL]"
+
+  - name: "Slot 6"
+    notes: "[Skill Mod]"
+    codes:
+      - "11248F98 0000[SKIL]"
+
+  - name: "Slot 7"
+    notes: "[Skill Mod]"
+    codes:
+      - "11248F9A 0000[SKIL]"
+
+  - name: "Slot 8"
+    notes: "[Skill Mod]"
+    codes:
+      - "11248F9C 0000[SKIL]"
+
+  - name: "Max HP/MP"
+    notes: "[Reserve Monster 1]"
+    codes:
+      - "1124930C 000003E7"
+      - "11249310 000003E7"
+
+  - name: "Infinite HP/MP"
+    notes: "[Reserve Monster 1]"
+    codes:
+      - "1124930A 000003E7"
+      - "1124930E 000003E7"
+
+  - name: "Max St 40"
+    notes: "[Reserve Monster 1]"
+    codes:
+      - "0124931A 00000028"
+
+  - name: "Max Ma 40"
+    notes: "[Reserve Monster 1]"
+    codes:
+      - "0124931C 00000028"
+
+  - name: "Max Vit 40"
+    notes: "[Reserve Monster 1]"
+    codes:
+      - "0124931D 00000028"
+
+  - name: "Max Ag 40"
+    notes: "[Reserve Monster 1]"
+    codes:
+      - "0124931E 00000028"
+
+  - name: "Max HP/MP 999"
+    notes: "[Reserve Monster 4]"
+    codes:
+      - "112495D0 000003E7"
+      - "112495D4 000003E7"
+
+  - name: "Infinite HP/MP 999"
+    notes: "[Reserve Monster 4]"
+    codes:
+      - "112495CE 000003E7"
+      - "112495D2 000003E7"
+
+  - name: "Max Stats 40"
+    notes: "[Reserve Monster 4]"
+    codes:
+      - "012495DE 00000028"
+      - "212495E0 28282828"
+
+  - name: "Slot"
+    notes: "[Skill Mod]"

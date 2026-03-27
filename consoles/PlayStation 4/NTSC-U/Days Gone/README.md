@@ -1,0 +1,1456 @@
+# Days Gone
+
+**Console:** PlayStation 4  
+**Region:** NTSC-U  
+**Serial:** CUSA08966  
+**Cheat Type:** AP  
+**Source:** [source: xdgmods](source: xdgmods)  
+
+---
+
+## Cheats
+
+### Primary Weapon
+**Author:**   
+**Notes:** File: *
+
+```
+8001001C 506C6179
+65724571 7569706D
+656E7453 746F7261
+67654250 5F435F30
+8801000D 496E7665
+6E746F72 79536C6F
+74000000 00000000
+88010003 00001C00
+28000003 7F800000
+88010001 10000000
+28000001 7F800000
+88010003 00001C00
+28000003 7F800000
+88010001 10000000
+28000001 7F800000
+```
+
+---
+
+### Special Weapon
+**Author:**   
+**Notes:** File: *
+
+```
+8001001C 506C6179
+65724571 7569706D
+656E7453 746F7261
+67654250 5F435F30
+8802000D 496E7665
+6E746F72 79536C6F
+74000000 00000000
+88010003 00001C00
+28000003 7F800000
+88010001 10000000
+28000001 7F800000
+88010003 00001C00
+28000003 7F800000
+88010001 10000000
+28000001 7F800000
+```
+
+---
+
+### Sidearm Weapon
+**Author:**   
+**Notes:** File: *
+
+```
+8001001C 506C6179
+65724571 7569706D
+656E7453 746F7261
+67654250 5F435F30
+8803000D 496E7665
+6E746F72 79536C6F
+74000000 00000000
+88010003 00001C00
+28000003 7F800000
+88010001 10000000
+28000001 7F800000
+88010003 00001C00
+28000003 7F800000
+88010001 10000000
+28000001 7F800000
+```
+
+---
+
+### All Camps 175000 Money
+**Author:**   
+**Notes:** File: *
+
+```
+80010004 72656469
+2800001F 0002AB98
+80030004 72656469
+2800001F 0002AB98
+80050004 72656469
+2800001F 0002AB98
+80070004 72656469
+2800001F 0002AB98
+80090004 72656469
+2800001F 0002AB98
+800A0004 72656469
+```
+
+---
+
+### All Camps 999999 Money
+**Author:**   
+**Notes:** File: *
+
+```
+80010004 72656469
+2800001F 000F423F
+80030004 72656469
+2800001F 000F423F
+80050004 72656469
+2800001F 000F423F
+80070004 72656469
+2800001F 000F423F
+80090004 72656469
+2800001F 000F423F
+800A0004 72656469
+```
+
+---
+
+### 45 Skill Points (all Skills)
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 536B696C
+6C506F69 6E747300
+18000024 0000002D
+```
+
+---
+
+### Reset Skill Points
+**Author:**   
+**Notes:** File: *  (Individual Loot Codes (Bounties) setting Max Amount to 9999. You need to have at least 1 of each item you want to mod.)
+
+```
+8001000C 536B696C
+6C506F69 6E747300
+18000024 00000000
+```
+
+---
+
+### Swarmer Ears Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 E9D270E5
+93000000 00000004
+28000000 0000270F
+28000008 0000270F
+```
+
+---
+
+### Runner Ears Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 536C6F74
+93000000 00000004
+28000000 0000270F
+28000008 0000270F
+```
+
+---
+
+### Newt Ears Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 23C6727A
+93000000 00000004
+28000000 0000270F
+28000008 0000270F
+```
+
+---
+
+### Breaker Ears Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 BCFB9DB0
+93000000 00000004
+28000000 0000270F
+28000008 0000270F
+```
+
+---
+
+### Screamer Ears Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 9E99BDA8
+93000000 00000004
+28000000 0000270F
+28000008 0000270F
+```
+
+---
+
+### Bleacher Ears Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 365CBF5A
+93000000 00000004
+28000000 0000270F
+28000008 0000270F
+```
+
+---
+
+### Reacher Ears Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 E8768D1B
+93000000 00000004
+28000000 0000270F
+28000008 0000270F
+```
+
+---
+
+### Deer Meat Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 0E5DBE11
+93000000 00000004
+28000000 0000270F
+28000008 0000270F
+```
+
+---
+
+### Bear Meat Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 AF9DDB8F
+93000000 00000004
+28000000 0000270F
+28000008 0000270F
+```
+
+---
+
+### Wolf Meat Loot Mod
+**Author:**   
+**Notes:** File: *  (Individual Loot Codes (Items) setting Max Amount to 9999. You need to have at least 1 of each item you want to mod.)
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 97303824
+93000000 00000004
+28000000 0000270F
+28000008 0000270F
+```
+
+---
+
+### Medikits Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 BE17078A
+93000000 00000004
+28000000 000003E7
+28000008 000003E7
+```
+
+---
+
+### Scrap Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 87615C89
+93000000 00000004
+28000000 000003E7
+28000008 000003E7
+```
+
+---
+
+### Beer Bottle Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 A8A77A39
+93000000 00000004
+28000000 000003E7
+28000008 000003E7
+```
+
+---
+
+### Cedar Sapling Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 6EBB6783
+93000000 00000004
+28000000 000003E7
+28000008 000003E7
+```
+
+---
+
+### Kerosene Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 7288D6D5
+93000000 00000004
+28000000 000003E7
+28000008 000003E7
+```
+
+---
+
+### Rag Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 AB75E1A6
+93000000 00000004
+28000000 000003E7
+28000008 000003E7
+```
+
+---
+
+### Steriliser Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 762BD837
+93000000 00000004
+28000000 000003E7
+28000008 000003E7
+```
+
+---
+
+### Berry Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 5423AB8A
+93000000 00000004
+28000000 000003E7
+28000008 000003E7
+```
+
+---
+
+### Box Of Nails Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 0520F964
+93000000 00000004
+28000000 000003E7
+28000008 000003E7
+```
+
+---
+
+### Air Bags Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 2245C5F4
+93000000 00000004
+28000000 000003E7
+28000008 000003E7
+```
+
+---
+
+### Herb Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 855AD28B
+93000000 00000004
+28000000 000003E7
+28000008 000003E7
+```
+
+---
+
+### Alarm Clock Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 208B9D59
+93000000 00000004
+28000000 000003E7
+28000008 000003E7
+```
+
+---
+
+### Gun Powder Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 A9D2B5EA
+93000000 00000004
+28000000 000003E7
+28000008 000003E7
+```
+
+---
+
+### Small Pipe Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 7AF26A53
+93000000 00000004
+28000000 000003E7
+28000008 000003E7
+```
+
+---
+
+### Can Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 663401E2
+93000000 00000004
+28000000 000003E7
+28000008 000003E7
+```
+
+---
+
+### Nest Residue Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 FEB82D55
+93000000 00000004
+28000000 000003E7
+28000008 000003E7
+```
+
+---
+
+### Water Hemlock Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 DCC84700
+93000000 00000004
+28000000 000003E7
+28000008 000003E7
+```
+
+---
+
+### Growler Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 ADDFEEF6
+93000000 00000004
+28000000 000003E7
+28000008 000003E7
+```
+
+---
+
+### Spark Igniter Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 DF651B00
+93000000 00000004
+28000000 000003E7
+28000008 000003E7
+```
+
+---
+
+### Poison Loot Mod
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 123F0BC9
+93000000 00000004
+28000000 000003E7
+28000008 000003E7
+```
+
+---
+
+### Car Alarm Loot Mod
+**Author:**   
+**Notes:** File: *  (Polystryrene has two IDs. If one doesn’t work, try the other. Use AFTER mission “I Tried To Hit That Once”)
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 ADDFEEF6
+93000000 00000004
+28000000 000003E7
+28000008 000003E7
+```
+
+---
+
+### Polystryrene Loot Mod 1
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 68B766C5
+93000000 00000004
+28000000 000003E7
+28000008 000003E7
+```
+
+---
+
+### Polystryrene Loot Mod 2
+**Author:**   
+**Notes:** File: *
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 3DA5A93C
+93000000 00000004
+28000000 000003E7
+28000008 000003E7
+```
+
+---
+
+### Max Health (fully Upgraded 350)
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 07000000
+4865616C 746800D5
+280000D8 43AF0000
+080000E0 0000000B
+```
+
+---
+
+### Max Stamina (fully Upgraded 350)
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 08000000
+5374616D 696E6100
+280000D9 43AF0000
+280000D5 43AF0000
+080000E1 0000000B
+```
+
+---
+
+### Max Focus (fully Upgraded 375)
+**Author:**   
+**Notes:** File: *  (Modded Permanent Stats to 999)
+
+```
+8001000C 06000000
+466F6375 7300D500
+280000D7 43BB8000
+280000D3 43BB8000
+080000DF 0000000B
+```
+
+---
+
+### Max Health (fully Upgraded 999)
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 07000000
+4865616C 746800D5
+280000D8 4479C000
+080000E0 0000000B
+```
+
+---
+
+### Max Stamina (fully Upgraded 999)
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 08000000
+5374616D 696E6100
+280000D9 4479C000
+280000D5 4479C000
+080000E1 0000000B
+```
+
+---
+
+### Max Focus (fully Upgraded 999)
+**Author:**   
+**Notes:** File: *  (Modded Permanent Stats to 9999)
+
+```
+8001000C 06000000
+466F6375 7300D500
+280000D7 4479C000
+280000D3 4479C000
+080000DF 0000000B
+```
+
+---
+
+### Max Health (fully Upgraded 9999)
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 07000000
+4865616C 746800D5
+280000D8 461C3C00
+080000E0 0000000B
+```
+
+---
+
+### Max Stamina (fully Upgraded 9999)
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 08000000
+5374616D 696E6100
+280000D9 461C3C00
+280000D5 461C3C00
+080000E1 0000000B
+```
+
+---
+
+### Max Focus (fully Upgraded 9999)
+**Author:**   
+**Notes:** File: *  (Code made by krustytoe) (Set all Guns Ammo to Max 9999 you can buy 9999 ammo) (for every gun and can craft 9999 throwables)
+
+```
+8001000C 06000000
+466F6375 7300D500
+280000D7 461C3C00
+280000D3 461C3C00
+080000DF 0000000B
+```
+
+---
+
+### All Weapon Ammo Capacity 9999
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 416D6D6F
+536C6F74 5F300031
+4A00001C 0000270F
+400A0044 00000000
+8001000C 416D6D6F
+536C6F74 5F313000
+4A00001D 0000270F
+40510045 00000000
+```
+
+---
+
+### Unlock The Recipe For Health Cocktail
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F48
+65616C74 68436F63
+18000036 00000001
+```
+
+---
+
+### Unlock The Recipe For Stamina Cocktail
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F53
+74616D69 6E61436F
+18000037 00000001
+```
+
+---
+
+### Unlock The Recipe For Focus Cocktail
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F46
+6F637573 436F636B
+18000035 00000001
+```
+
+---
+
+### Unlock The Recipe For Napalm Molotov
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F4E
+6170616C 6D4D6F6C
+18000035 00000001
+```
+
+---
+
+### Unlock The Recipe For Pipe Bomb
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F50
+69706562 6F6D6200
+18000030 00000001
+```
+
+---
+
+### Unlock The Recipe For Smoke Bomb
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 445F536D
+6F6B6542 6F6D6200
+18000030 00000001
+```
+
+---
+
+### Unlock The Recipe For Attractor
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F41
+74747261 63746F72
+18000031 00000001
+```
+
+---
+
+### Unlock The Recipe For Attractor Grenade
+**Author:**   
+**Notes:** File: *
+
+```
+8002000C 49445F41
+74747261 63746F72
+18000038 00000001
+```
+
+---
+
+### Unlock The Recipe For Proximity Bomb
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F49
+4544002C 000000CA
+1800002B 00000001
+```
+
+---
+
+### Unlock The Recipe For Remote Bomb
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F41
+69726261 67426F6D
+18000032 00000001
+```
+
+---
+
+### Unlock The Recipe For Stun Gun
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F54
+61736572 002C0000
+1800002D 00000001
+```
+
+---
+
+### Unlock The Recipe For Incendiary Bolt
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F49
+6E63656E 64696172
+18000036 00000001
+```
+
+---
+
+### Unlock The Recipe For Explosive Bolt
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F45
+78706C6F 73697665
+18000035 00000001
+```
+
+---
+
+### Unlock The Recipe For Residue Bolt
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F50
+4350426F 6C74002C
+1800002F 00000001
+```
+
+---
+
+### Unlock The Recipe For Poison Bolt
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F50
+6F69736F 6E426F6C
+18000032 00000001
+```
+
+---
+
+### Unlock The Recipe For Bolt
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F42
+6F6C7400 2C000000
+1800002C 00000001
+```
+
+---
+
+### Unlock The Recipe For Ripper Axe
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F52
+69707065 72417865
+18000031 00000001
+```
+
+---
+
+### Unlock The Recipe For Ripper Blade
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F52
+69707065 72426C61
+18000034 00000001
+```
+
+---
+
+### Unlock The Recipe For Ripper Club
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F52
+69707065 72426C75
+18000033 00000001
+```
+
+---
+
+### Unlock The Recipe For Superior Club
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F53
+75706572 696F7243
+18000034 00000001
+```
+
+---
+
+### Unlock The Recipe For Bat Axe
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F42
+61744178 65002C00
+1800002E 00000001
+```
+
+---
+
+### Unlock The Recipe For Spiked Bat
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F53
+70696B65 64426174
+18000031 00000001
+```
+
+---
+
+### Unlock The Recipe For 2x2 Axe
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F32
+78344178 65002C00
+1800002E 00000001
+```
+
+---
+
+### Unlock The Recipe For Spiked2x4
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F53
+70696B65 64327834
+18000031 00000001
+```
+
+---
+
+### Unlock The Recipe For Fencepost Axe
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F46
+656E6365 506F7374
+18000034 00000001
+```
+
+---
+
+### Unlock The Recipe For Spiked Fencepost
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F53
+70696B65 6446656E
+18000037 00000001
+```
+
+---
+
+### Unlock The Recipe For Stool Leg Axe
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F53
+746F6F6C 4C656741
+18000033 00000001
+```
+
+---
+
+### Unlock The Recipe For Spiked Stool Leg
+**Author:**   
+**Notes:** File: *
+
+```
+8001000C 49445F53
+70696B65 6453746F
+18000036 00000001
+```
+
+---
+
+### Reset Polystryrene To 0
+**Author:**   
+**Notes:** [Individual Loot (items) Codes:{Max Amount To 9999. You Need To Have At Least 1 Of Each Item You Want To Mod}]  File: (DaysGone[0-9a-zA-Z]{4}|DaysGoneAutoSave[0-9a-zA-Z]{5})\\bendsavegame.ps4.sav
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 3DA5A93C
+93000000 00000004
+28000000 00000000
+28000008 00000000
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 68B766C5
+93000000 00000004
+28000000 00000000
+28000008 00000000
+```
+
+---
+
+### Reset Scrap To 0
+**Author:**   
+**Notes:** [Individual Loot (items) Codes:{Max Amount To 9999. You Need To Have At Least 1 Of Each Item You Want To Mod}]  File: (DaysGone[0-9a-zA-Z]{4}|DaysGoneAutoSave[0-9a-zA-Z]{5})\\bendsavegame.ps4.sav
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 87615C89
+93000000 00000004
+28000000 00000014
+28000008 00000000
+```
+
+---
+
+### Max Allowed Loot Allowance(1)
+**Author:**   
+**Notes:** [Other Loot Codes]  File: (DaysGone[0-9a-zA-Z]{4}|DaysGoneAutoSave[0-9a-zA-Z]{5})\\bendsavegame.ps4.sav
+
+```
+8001000C 4C6F6F74
+536C6F74 5F300031
+4A00001C 0098967F
+400A0044 00000000
+8001000C 4C6F6F74
+536C6F74 5F313000
+4A00001D 0098967F
+405A0045 00000000
+8001000C 4C6F6F74
+536C6F74 5F313030
+4A00001E 0098967F
+40640046 00000000
+```
+
+---
+
+### Max Allowed Loot Allowance(2) (999999)
+**Author:**   
+**Notes:** [Other Loot Codes]  File: (DaysGone[0-9a-zA-Z]{4}|DaysGoneAutoSave[0-9a-zA-Z]{5})\\bendsavegame.ps4.sav
+
+```
+8001000C 4C6F6F74
+536C6F74 5F300031
+4A00001C 0098967F
+400A0044 00000000
+4A000024 0098967E
+400A0044 00000000
+8001000C 4C6F6F74
+536C6F74 5F313000
+4A00001D 0098967F
+405A0045 00000000
+4A000025 0098967E
+405A0045 00000000
+8001000C 4C6F6F74
+536C6F74 5F313030
+4A00001E 0098967F
+40400046 00000000
+4A000026 0098967E
+40400046 00000000
+```
+
+---
+
+### Delete All Loot Slots
+**Author:**   
+**Notes:** [Other Loot Codes]  File: (DaysGone[0-9a-zA-Z]{4}|DaysGoneAutoSave[0-9a-zA-Z]{5})\\bendsavegame.ps4.sav
+
+```
+8001000C 4C6F6F74
+536C6F74 5F300031
+4A00001C FFFFFFFF
+400A0044 00000000
+4A000024 00000000
+400A0044 00000000
+4A000020 00000000
+400A0044 00000000
+8001000C 4C6F6F74
+536C6F74 5F313000
+4A00001D FFFFFFFF
+405A0045 00000000
+4A000021 00000000
+405A0045 00000000
+4A000025 00000000
+405A0045 00000000
+8001000C 4C6F6F74
+536C6F74 5F313030
+4A00001E FFFFFFFF
+40640046 00000000
+4A000022 00000000
+40640046 00000000
+4A000026 00000000
+40640046 00000000
+```
+
+---
+
+### Inf Health
+**Author:**   
+**Notes:** [Infinte Stats]  File: (DaysGone[0-9a-zA-Z]{4}|DaysGoneAutoSave[0-9a-zA-Z]{5})\\bendsavegame.ps4.sav
+
+```
+8001000C 07000000
+4865616C 746800D5
+280000D8 7F800000
+```
+
+---
+
+### Inf Stamina
+**Author:**   
+**Notes:** [Infinte Stats]  File: (DaysGone[0-9a-zA-Z]{4}|DaysGoneAutoSave[0-9a-zA-Z]{5})\\bendsavegame.ps4.sav
+
+```
+8001000C 08000000
+5374616D 696E6100
+280000D9 7F800000
+280000D5 7F800000
+```
+
+---
+
+### Inf Focus
+**Author:**   
+**Notes:** [Infinte Stats]  File: (DaysGone[0-9a-zA-Z]{4}|DaysGoneAutoSave[0-9a-zA-Z]{5})\\bendsavegame.ps4.sav
+
+```
+8001000C 06000000
+466F6375 7300D500
+280000D7 7F800000
+280000D3 7F800000
+```
+
+---
+
+### Infinite Health Alternate
+**Author:**   
+**Notes:** [Infinte Stats]  File: (DaysGone[0-9a-zA-Z]{4}|DaysGoneAutoSave[0-9a-zA-Z]{5})\\bendsavegame.ps4.sav
+
+```
+80010004 746800D5
+280000CC 4C000000
+280000D0 4C000000
+280000D8 00000063
+```
+
+---
+
+### Mod Loot Individual Items Amount
+**Author:**   
+**Notes:** [Mod Codes]  File: (DaysGone[0-9a-zA-Z]{4}|DaysGoneAutoSave[0-9a-zA-Z]{5})\\bendsavegame.ps4.sav
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 [Item]
+28000004 [Amount:0000270F:HEX:BIG]
+```
+
+---
+
+### Mod Inventory Individual Items Amount
+**Author:**   
+**Notes:** [Mod Codes]  File: (DaysGone[0-9a-zA-Z]{4}|DaysGoneAutoSave[0-9a-zA-Z]{5})\\bendsavegame.ps4.sav
+
+```
+8001001C 506C6179
+65724571 7569706D
+656E7453 746F7261
+67654250 5F435F30
+88010004 [Item]
+28000004 [Amount:0000270F:HEX:BIG]
+```
+
+---
+
+### Loot Item Swap
+**Author:**   
+**Notes:** [Mod Codes]  File: (DaysGone[0-9a-zA-Z]{4}|DaysGoneAutoSave[0-9a-zA-Z]{5})\\bendsavegame.ps4.sav
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 [Item]
+A8000000 00000004
+[Item] 00000000
+```
+
+---
+
+### Loot Item Add
+**Author:**   
+**Notes:** [Mod Codes]  File: (DaysGone[0-9a-zA-Z]{4}|DaysGoneAutoSave[0-9a-zA-Z]{5})\\bendsavegame.ps4.sav
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010008 FFFFFFFF
+00000000 00000000
+A8000004 00000008
+[Item] [Amount:0000270F:HEX:BIG]
+```
+
+---
+
+### Loot Item Delete
+**Author:**   
+**Notes:** [Mod Codes]  File: (DaysGone[0-9a-zA-Z]{4}|DaysGoneAutoSave[0-9a-zA-Z]{5})\\bendsavegame.ps4.sav
+
+```
+80010017 506C6179
+65724C6F 6F745374
+6F726167 6542505F
+435F3000 00000000
+88010004 [Item]
+93000000 00000004
+28000000 FFFFFFFF
+28000004 00000000
+28000008 00000000
+```
+
+---
+
+### Mod Ammo
+**Author:**   
+**Notes:** [Mod Codes]  File: (DaysGone[0-9a-zA-Z]{4}|DaysGoneAutoSave[0-9a-zA-Z]{5})\\bendsavegame.ps4.sav
+
+```
+80010017 506C6179
+6572416D 6D6F5374
+6F726167 6542505F
+435F3000 00000000
+88010004 [Ammo]
+93000000 00000004
+28000000 [Amount:0000270F:HEX:BIG]
+28000008 [Amount:0000270F:HEX:BIG]
+```
+
+---

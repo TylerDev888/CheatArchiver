@@ -1,0 +1,229 @@
+# Tomb Raider-Underworld cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21858
+
+game: "Tomb Raider-Underworld"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21858"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Lajos Szalay"
+    notes: "[Masters]"
+    codes:
+      - "90539B90 0C145CB1"
+
+  - name: "Invincible"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 3C01447A"
+      - "200C0224 AC410638"
+      - "200C0228 AC410650"
+      - "200C022C 03E00008"
+      - "200C0230 C4400638"
+      - "20272D94 0C030088"
+      - "10272932 00001000"
+
+  - name: "1-Shot Kills (Enemies)"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "201B5A50 ACC00004"
+
+  - name: "Infinite Ammmo With No Reload"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "20254DCC 00000000"
+
+  - name: "Infinite Grenades"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "2022CE5C 00000000"
+
+  - name: "Max Infinite Grenades"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "2022CE54 2402000A"
+
+  - name: "Have All Max Treasures"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "2015BAB4 240203E7"
+      - "2015BA5C 240203E7"
+
+  - name: "P1 Press L2 & X To Moon Jump"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "200C0240 3C0142E0"
+      - "200C0244 AC4100F8"
+      - "200C0248 080A8784"
+      - "200C024C 784400F0"
+      - "D05B50C0 0000BEFF"
+      - "202A14A0 0C030090"
+      - "D05B50C0 0000FFFF"
+      - "202A14A0 0C0A875C"
+
+  - name: "God Mode"
+    author: "Lajos Szalay"
+    notes: "[Debug Menu Codes]"
+    codes:
+      - "205FF440 00000001"
+
+  - name: "1-Shot Kills"
+    author: "Lajos Szalay"
+    notes: "[Debug Menu Codes]"
+    codes:
+      - "205FF17C 00000001"
+
+  - name: "P1 Press R3+Up To No Clipping Enable"
+    author: "Lajos Szalay"
+    notes: "[Debug Menu Codes]"
+    codes:
+      - "D05B50C0 0000FFEB"
+      - "006020BC 00000001"
+
+  - name: "P1 Press R3+Down To No Clipping Disable"
+    author: "Lajos Szalay"
+    notes: "[Debug Menu Codes]"
+    codes:
+      - "D05B50C0 0000FFBB"
+      - "006020BC 00000000"
+
+  - name: "P1 Press R3+Left To Walk Thru Walls Enable"
+    author: "Lajos Szalay"
+    notes: "[Debug Menu Codes]"
+    codes:
+      - "D05B50C0 0000FF7B"
+      - "10297CE2 00001000"
+
+  - name: "P1 Press R3+Right To Walk Thru Walls Disable"
+    author: "Lajos Szalay"
+    notes: "[Debug Menu Codes]"
+    codes:
+      - "D05B50C0 0000FFDB"
+      - "10297CE2 00001440"
+
+  - name: "P1 Press L1+L2+R1+R2 To Reload Checkpoint"
+    author: "Lajos Szalay"
+    notes: "[Debug Menu Codes]"
+    codes:
+      - "D05B50C0 0000F0FF"
+      - "006020B8 00000001"
+
+  - name: "P1 Press L3+Up Show Enemy Health Enable"
+    author: "Lajos Szalay"
+    notes: "[Debug Menu Codes]"
+    codes:
+      - "D05B50C0 0000FFED"
+      - "005FEF3C 00000001"
+
+  - name: "P1 Press L3+Down Show Enemy Health Disable"
+    author: "Lajos Szalay"
+    notes: "[Debug Menu Codes]"
+    codes:
+      - "D05B50C0 0000FFBD"
+      - "005FEF3C 00000000"
+
+  - name: "P1 Press L3+Left No Texture Enable"
+    author: "Lajos Szalay"
+    notes: "[Debug Menu Codes]"
+    codes:
+      - "D05B50C0 0000FF7D"
+      - "00606838 00000001"
+
+  - name: "P1 Press L3+Right No Texture Disable"
+    author: "Lajos Szalay"
+    notes: "[Debug Menu Codes]"
+    codes:
+      - "D05B50C0 0000FFDD"
+      - "00606838 00000000"
+
+  - name: "P1 Press L2+Up Quicker Player"
+    author: "Lajos Szalay"
+    notes: "[Speed Modifier Codes]"
+    codes:
+      - "D05B50C0 0000FEEF"
+      - "20602150 3FC00000"
+
+  - name: "P1 Press L2+Down Hyper Mode"
+    author: "Lajos Szalay"
+    notes: "[Speed Modifier Codes]"
+    codes:
+      - "D05B50C0 0000FEBF"
+      - "20602150 40200000"
+
+  - name: "P1 Press L2+Left Slow Motion"
+    author: "Lajos Szalay"
+    notes: "[Speed Modifier Codes]"
+    codes:
+      - "D05B50C0 0000FE7F"
+      - "20602150 3F000000"
+
+  - name: "P1 Press L2+Right Normal Speed"
+    author: "Lajos Szalay"
+    notes: "[Speed Modifier Codes]"
+    codes:
+      - "D05B50C0 0000FEDF"
+      - "20602150 3F800000"
+
+  - name: "P1 Press L1+Up Zoom In"
+    author: "Lajos Szalay"
+    notes: "[Camera Zoom Modifier Codes]"
+    codes:
+      - "D05B50C0 0000FBEF"
+      - "2067DC14 41340000"
+
+  - name: "P1 Press L1+Down Zoom Really In"
+    author: "Lajos Szalay"
+    notes: "[Camera Zoom Modifier Codes]"
+    codes:
+      - "D05B50C0 0000FBBF"
+      - "2067DC14 40340000"
+
+  - name: "P1 Press L1+Left Zoom Out"
+    author: "Lajos Szalay"
+    notes: "[Camera Zoom Modifier Codes]"
+    codes:
+      - "D05B50C0 0000FB7F"
+      - "2067DC14 42F40000"
+
+  - name: "P1 Press L1+Right Default"
+    author: "Lajos Szalay"
+    notes: "[Camera Zoom Modifier Codes]"
+    codes:
+      - "D05B50C0 0000FBDF"
+      - "2067DC14 42340000"
+
+  - name: "Revisit Location & Story Boards"
+    author: "Lajos Szalay"
+    notes: "[Have All Unlockable Codes]"
+    codes:
+      - "20104AD4 2402000F"
+
+  - name: "Environment Concepts"
+    author: "Lajos Szalay"
+    notes: "[Have All Unlockable Codes]"
+    codes:
+      - "1010635E 00001000"
+
+  - name: "Character Concepts"
+    author: "Lajos Szalay"
+    notes: "[Have All Unlockable Codes]"
+    codes:
+      - "10106EBE 00001000"
+
+  - name: "Gear Concepts"
+    author: "Lajos Szalay"
+    notes: "[Have All Unlockable Codes]"
+    codes:
+      - "1010725E 00001000"

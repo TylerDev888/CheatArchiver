@@ -1,0 +1,36 @@
+# Dune, Frank Herbert's
+
+**Console:** PlayStation 2  
+**Region:** PAL  
+**Serial:** SLES-50654  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### (M) Must Be On
+**Author:** Codejunkies  
+**Notes:** [Master Codes]
+
+```
+F0245188 000001FD
+```
+
+---
+
+### Infinite Health
+**Author:** Codejunkies
+
+```
+200FFF00 3C03004D
+200FFF04 8C6308C0
+200FFF08 24040190
+200FFF0C 10030004
+200FFF24 24030070
+200FFF28 0804ABA4
+2012AE8C 0803FFC0
+200FFF14 A4640060
+```
+
+---

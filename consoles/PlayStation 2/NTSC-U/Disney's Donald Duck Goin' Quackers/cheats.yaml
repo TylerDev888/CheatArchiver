@@ -1,0 +1,36 @@
+# Disney's Donald Duck Goin' Quackers cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20077
+
+game: "Disney's Donald Duck Goin' Quackers"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20077"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0200008 00232403"
+
+  - name: "Infinite Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "105C2D6C 00009F9F"
+
+  - name: "Max Cogs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1087F070 00000064"
+
+  - name: "Infinite Lives"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1087F074 00000005"

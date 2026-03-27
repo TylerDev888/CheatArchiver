@@ -1,0 +1,122 @@
+# Metropolismania cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20377
+
+game: "Metropolismania"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20377"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F011C31C 0011C31F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0011C31F"
+
+  - name: "Max 100% Approval Rating"
+    author: "Code Master"
+    codes:
+      - "1074A11C 00000064"
+
+  - name: "Max 120% Approval Rating"
+    author: "Code Master"
+    codes:
+      - "1074A11C 00000078"
+
+  - name: "Max Cash"
+    author: "InterAct"
+    codes:
+      - "201C5540 05F5E0FF"
+      - "201C5544 05F5E0FF"
+
+  - name: "Max Money"
+    author: "Codejunkies"
+    notes: "[Money Codes]"
+    codes:
+      - "201C5540 05F5E0FF"
+
+  - name: "Max Salary"
+    author: "Codejunkies"
+    notes: "[Money Codes]"
+    codes:
+      - "201C5544 05F5E0FF"
+
+  - name: "Never Have More Than 1000 Money"
+    author: "Codejunkies"
+    notes: "[Money Codes]"
+    codes:
+      - "E00203E8 301C5540"
+      - "E0010000 301C5542"
+      - "201C5540 000003E8"
+
+  - name: "Never Have More Than 5000 Money"
+    author: "Codejunkies"
+    notes: "[Money Codes]"
+    codes:
+      - "E0021388 301C5540"
+      - "E0010000 301C5542"
+      - "201C5540 00001388"
+
+  - name: "Never Have More Than 10000 Money"
+    author: "Codejunkies"
+    notes: "[Money Codes]"
+    codes:
+      - "E0022710 301C5540"
+      - "E0010000 301C5542"
+      - "201C5540 00002710"
+
+  - name: "Never Have More Than 25000 Money"
+    author: "Codejunkies"
+    notes: "[Money Codes]"
+    codes:
+      - "E00261A8 301C5540"
+      - "E0010000 301C5542"
+      - "201C5540 000061A8"
+
+  - name: "Never Have More Than 50000 Money"
+    author: "Codejunkies"
+    notes: "[Money Codes]"
+    codes:
+      - "E002C350 301C5540"
+      - "E0010000 301C5542"
+      - "201C5540 0000C350"
+
+  - name: "Never Have More Than 100000 Money"
+    author: "Codejunkies"
+    notes: "[Money Codes]"
+    codes:
+      - "E00286A0 301C5540"
+      - "E0010001 301C5542"
+      - "201C5540 000186A0"
+
+  - name: "Only Need Town With 1 Person To Reach Target"
+    author: "Code Master"
+    codes:
+      - "D01C554C 00300001"
+      - "101C554C 00000001"
+
+  - name: "Population Modifier"
+    author: "Code Master"
+    codes:
+      - "10799154 0000????"
+
+  - name: "Quick Money Gain"
+    author: "Code Master"
+    codes:
+      - "101C5540 0000FFFF"
+
+  - name: "Quick Salary Gain"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101C5540 0000FFFF"

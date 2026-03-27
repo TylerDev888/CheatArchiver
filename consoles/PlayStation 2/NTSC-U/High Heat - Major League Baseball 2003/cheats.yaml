@@ -1,0 +1,491 @@
+# High Heat - Major League Baseball 2003 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20298
+
+game: "High Heat - Major League Baseball 2003"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20298"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F02A21AC 000001FD"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F035BF88 0034474F"
+
+  - name: "Always 3-2 Pitch For The Away Team Only"
+    author: "Codejunkies"
+    notes: "[3-2 Pitch Counts]"
+    codes:
+      - "D1A58748 00000001"
+      - "11A58754 00000003"
+      - "D1A58748 00000001"
+      - "11A58758 00000002"
+
+  - name: "1 Ball For Walk - Away Only"
+    author: "InterAct"
+    notes: "[Away Only Codes]"
+    codes:
+      - "9D320420 1CDE2FE4"
+      - "9D32042C 1CDE2FEB"
+      - "DD32042C 1CDE2FE6"
+
+  - name: "1 Out Per Inning - Away Only"
+    author: "InterAct"
+    notes: "[Away Only Codes]"
+    codes:
+      - "9D320420 1CDE2FE4"
+      - "9D320428 1CDE2FEB"
+      - "DD320428 1CDE2FE5"
+
+  - name: "1 Strike Per Out - Away Only"
+    author: "InterAct"
+    notes: "[Away Only Codes]"
+    codes:
+      - "9D320420 1CDE2FE4"
+      - "9D320430 1CDE2FEB"
+      - "DD320430 1CDE2FE5"
+
+  - name: "2 Balls For Walk - Away Only"
+    author: "InterAct"
+    notes: "[Away Only Codes]"
+    codes:
+      - "9D320420 1CDE2FE4"
+      - "9D32042C 1CDE2FEB"
+      - "DD32042C 1CDE2FE5"
+
+  - name: "2 Outs Per Inning - Away Only"
+    author: "InterAct"
+    notes: "[Away Only Codes]"
+    codes:
+      - "9D320420 1CDE2FE4"
+      - "9D320428 1CDE2FEB"
+      - "DD320428 1CDE2FE4"
+
+  - name: "2 Strikes Per Out - Away Only"
+    author: "InterAct"
+    notes: "[Away Only Codes]"
+    codes:
+      - "9D320420 1CDE2FE4"
+      - "9D320430 1CDE2FEB"
+      - "DD320430 1CDE2FE4"
+
+  - name: "3 Balls For Walk - Away Only"
+    author: "InterAct"
+    notes: "[Away Only Codes]"
+    codes:
+      - "9D320420 1CDE2FE4"
+      - "9D32042C 1CDE2FEB"
+      - "DD32042C 1CDE2FE4"
+
+  - name: "No Balls - Away Only"
+    author: "InterAct"
+    notes: "[Away Only Codes]"
+    codes:
+      - "9D320420 1CDE2FE4"
+      - "DD32042C 1CDE2FEB"
+
+  - name: "No Strikes - Away Only"
+    author: "InterAct"
+    notes: "[Away Only Codes]"
+    codes:
+      - "9D320420 1CDE2FE4"
+      - "DD320430 1CDE2FEB"
+
+  - name: "1 Ball And Walk (Away Team)"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "D1A58748 00000001"
+      - "D1A58754 00000000"
+      - "11A58754 00000003"
+
+  - name: "1 Out And Change (Away Team)"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "D1A58748 00000001"
+      - "D1A58750 00000000"
+      - "11A58750 00000002"
+
+  - name: "1 Strike And Out (Away Team)"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "D1A58748 00000001"
+      - "D1A58758 00000000"
+      - "11A58758 00000002"
+
+  - name: "2 Balls And Walk (Away Team)"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "D1A58748 00000001"
+      - "D1A58754 00000000"
+      - "11A58754 00000002"
+
+  - name: "2 Outs And Change (Away Team)"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "D1A58748 00000001"
+      - "D1A58750 00000000"
+      - "11A58750 00000001"
+
+  - name: "2 Strikes And Out (Away Team)"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "D1A58748 00000001"
+      - "D1A58758 00000000"
+      - "11A58758 00000001"
+
+  - name: "3 Balls And Walk (Away Team)"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "D1A58748 00000001"
+      - "D1A58754 00000000"
+      - "11A58754 00000001"
+
+  - name: "First Run Is A Grand Slam (Away Team)"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "D1A58764 00000001"
+      - "11A58764 00000004"
+
+  - name: "No Balls (Away Team)"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "D1A58748 00000001"
+      - "11A58754 00000000"
+
+  - name: "No Strikes (Away Team)"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "D1A58748 00000001"
+      - "11A58758 00000000"
+
+  - name: "Scores 50 Runs (Away Team)"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "11A58764 00000032"
+
+  - name: "Scores No Runs (Away Team)"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "11A58764 00000000"
+
+  - name: "Start With 5 Runs (Away Team)"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "D1A58764 00000000"
+      - "11A58764 00000005"
+
+  - name: "Start With 9 Runs (Away Team)"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "D1A58764 00000000"
+      - "11A58764 00000009"
+
+  - name: "1 Ball And You Walk"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020001 01A58748"
+      - "D1A58754 00000000"
+      - "11A58754 00000003"
+
+  - name: "1 Out And You Are Out"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020001 01A58748"
+      - "D1A58750 00000000"
+      - "11A58750 00000002"
+
+  - name: "1 Strike And You Are Out"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020001 01A58748"
+      - "D1A58758 00000000"
+      - "11A58758 00000002"
+
+  - name: "2 Balls And You Walk"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020001 01A58748"
+      - "D1A58754 00000000"
+      - "11A58754 00000002"
+
+  - name: "2 Outs And You Are Out"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020001 01A58748"
+      - "D1A58750 00000000"
+      - "11A58750 00000001"
+
+  - name: "2 Strikes And You Are Out"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020001 01A58748"
+      - "D1A58758 00000000"
+      - "11A58758 00000001"
+
+  - name: "3 Balls And You Walk"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020001 01A58748"
+      - "D1A58754 00000000"
+      - "11A58754 00000001"
+
+  - name: "Always Full Count"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020001 01A58748"
+      - "11A58754 00000003"
+      - "11A58758 00000002"
+
+  - name: "Always Full Count & 2 Outs"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0030001 01A58748"
+      - "11A58750 00000002"
+      - "11A58754 00000003"
+      - "11A58758 00000002"
+
+  - name: "Infinite Outs"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D1A58748 00000001"
+      - "11A58750 00000000"
+
+  - name: "Infinite Balls"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "11A58754 00000000"
+
+  - name: "Infinite Strikes"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "11A58758 00000000"
+
+  - name: "1 Ball And Walk (Home Team)"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "D1A58748 00000000"
+      - "D1A58754 00000000"
+      - "11A58754 00000003"
+
+  - name: "1 Out And Change (Home Team)"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "D1A58748 00000000"
+      - "D1A58750 00000000"
+      - "11A58750 00000002"
+
+  - name: "1 Strike And Out (Home Team)"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "D1A58748 00000000"
+      - "D1A58758 00000000"
+      - "11A58758 00000002"
+
+  - name: "2 Balls And Walk (Home Team)"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "D1A58748 00000000"
+      - "D1A58754 00000000"
+      - "11A58754 00000002"
+
+  - name: "2 Outs And Change (Home Team)"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "D1A58748 00000000"
+      - "D1A58750 00000000"
+      - "11A58750 00000001"
+
+  - name: "2 Strikes And Out (Home Team)"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "D1A58748 00000000"
+      - "D1A58758 00000000"
+      - "11A58758 00000001"
+
+  - name: "3 Balls And Walk (Home Team)"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "D1A58748 00000000"
+      - "D1A58754 00000000"
+      - "11A58754 00000001"
+
+  - name: "First Run Is A Grand Slam (Home Team)"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "D1A58760 00000001"
+      - "11A58760 00000004"
+
+  - name: "No Balls (Home Team)"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "D1A58748 00000000"
+      - "11A58754 00000000"
+
+  - name: "No Strikes (Home Team)"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "D1A58748 00000000"
+      - "11A58758 00000000"
+
+  - name: "One Chance Mode: (Home Team)"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "D1A58748 00000000"
+      - "11A58754 00000003"
+      - "D1A58748 00000000"
+      - "11A58758 00000002"
+      - "D1A58748 00000000"
+      - "11A58750 00000002"
+
+  - name: "Scores 50 Runs (Home Team)"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "11A58760 00000032"
+
+  - name: "Scores No Runs (Home Team)"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "11A58760 00000000"
+
+  - name: "Start With 5 Runs (Home Team)"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "D1A58760 00000000"
+      - "11A58760 00000005"
+
+  - name: "Start With 9 Runs (Home Team)"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "D1A58760 00000000"
+      - "11A58760 00000009"
+
+  - name: "One Chance Mode"
+    author: "Codejunkies"
+    notes: "[One Chance Modes]"
+    codes:
+      - "11A58754 00000003"
+      - "11A58758 00000002"
+      - "11A58750 00000002"
+
+  - name: "One Chance Mode For The Away Team Only"
+    author: "Codejunkies"
+    notes: "[One Chance Modes]"
+    codes:
+      - "D1A58748 00000001"
+      - "11A58754 00000003"
+      - "D1A58748 00000001"
+      - "11A58758 00000002"
+      - "D1A58748 00000001"
+      - "11A58750 00000002"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "11A58764 0000????"
+
+  - name: "Away Team Start With Runs Modifier"
+    author: "Code Master"
+    codes:
+      - "D1A58764 00000000"
+      - "11A58764 0000????"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "11A58760 0000????"
+
+  - name: "Home Team Start With Runs Modifier"
+    author: "Code Master"
+    codes:
+      - "D1A58760 00000000"
+      - "11A58760 0000????"
+
+  - name: "P1 Press L1+R1 For No Outs, No Strikes & 3 Balls"
+    author: "Code Master"
+    codes:
+      - "E003F3FF 00E33462"
+      - "11A58750 00000000"
+      - "11A58754 00000003"
+      - "11A58758 00000000"
+
+  - name: "P1 Press L2+R2 For 2 Outs, 2 Strikes & No Balls"
+    author: "Code Master"
+    codes:
+      - "E003FCFF 00E33462"
+      - "11A58750 00000002"
+      - "11A58754 00000000"
+      - "11A58758 00000002"
+
+  - name: "P2 Press L1+R1 For No Outs, No Strikes & 3 Balls"
+    author: "Code Master"
+    codes:
+      - "E003F3FF 00E334EA"
+      - "11A58750 00000000"
+      - "11A58754 00000003"
+      - "11A58758 00000000"
+
+  - name: "P2 Press L2+R2 For 2 Outs, 2 Strikes & No Balls"
+    author: "Code Master"
+    codes:
+      - "E003FCFF 00E334EA"
+      - "11A58750 00000002"
+      - "11A58754 00000000"
+      - "11A58758 00000002"
+
+  - name: "Start On Inning Modifier (02-09)"
+    author: "Code Master"
+    codes:
+      - "D1A5874C 00000001"
+      - "11A5874C 000000??"

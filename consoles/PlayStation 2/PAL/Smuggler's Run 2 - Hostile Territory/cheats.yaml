@@ -1,0 +1,35 @@
+# Smuggler's Run 2 - Hostile Territory cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50341
+
+game: "Smuggler's Run 2 - Hostile Territory"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50341"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0359E10 0034E8B7"
+
+  - name: "Unlock All Counter-Measures"
+    author: "Codejunkies"
+    codes:
+      - "103B15BC 0000FFFF"
+
+  - name: "Unlock All Mission Vehicles"
+    author: "Codejunkies"
+    codes:
+      - "103B15C4 0000FFFF"
+
+  - name: "Unlock All Missions"
+    author: "Codejunkies"
+    codes:
+      - "103B15B0 0000FFFF"
+      - "103B15B2 0000FFFF"
+      - "103B15B4 0000FFFF"

@@ -1,0 +1,287 @@
+# American Chopper 2-Full Throttle
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-21288  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Enable Code (Must Be On) [Read Note]
+**Author:** Code Master  
+**Notes:** [Masters]
+
+```
+9011E8C0 00832021
+200C022C 24010001
+200C0298 0807AAC6
+200C029C 00000000
+201EAB08 08030088
+```
+
+---
+
+### Idiot AI-Cars
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+20214E10 03E00008
+20214E14 00000000
+```
+
+---
+
+### Max Fabrication Points Available
+**Author:** Code Master  
+**Notes:** [Upon Loading Game Save Codes]
+
+```
+200C0220 3C0105F5
+200C0224 3421E0FF
+200C0228 AE210030
+```
+
+---
+
+### Paul Sr-Race 1
+**Author:** Code Master  
+**Notes:** [Have Gold Medal Codes]
+
+```
+200C0230 A2210014
+```
+
+---
+
+### Paul Sr-Race 2
+**Author:** Code Master  
+**Notes:** [Have Gold Medal Codes]
+
+```
+200C0234 A2210015
+```
+
+---
+
+### Paul Sr-Race 3
+**Author:** Code Master  
+**Notes:** [Have Gold Medal Codes]
+
+```
+200C0238 A2210016
+```
+
+---
+
+### Paul Sr-Race 4
+**Author:** Code Master  
+**Notes:** [Have Gold Medal Codes]
+
+```
+200C023C A2210017
+```
+
+---
+
+### Paul Sr-Race 5
+**Author:** Code Master  
+**Notes:** [Have Gold Medal Codes]
+
+```
+200C0240 A2210018
+```
+
+---
+
+### Paul Sr-Race 6
+**Author:** Code Master  
+**Notes:** [Have Gold Medal Codes]
+
+```
+200C0244 A2210019
+```
+
+---
+
+### Paul Jr-Race 1
+**Author:** Code Master  
+**Notes:** [Have Gold Medal Codes]
+
+```
+200C0248 A221001B
+```
+
+---
+
+### Paul Jr-Race 2
+**Author:** Code Master  
+**Notes:** [Have Gold Medal Codes]
+
+```
+200C024C A221001C
+```
+
+---
+
+### Paul Jr-Race 3
+**Author:** Code Master  
+**Notes:** [Have Gold Medal Codes]
+
+```
+200C0250 A221001D
+```
+
+---
+
+### Paul Jr-Race 4
+**Author:** Code Master  
+**Notes:** [Have Gold Medal Codes]
+
+```
+200C0254 A221001E
+```
+
+---
+
+### Paul Jr-Race 5
+**Author:** Code Master  
+**Notes:** [Have Gold Medal Codes]
+
+```
+200C0258 A221001F
+```
+
+---
+
+### Paul Jr-Race 6
+**Author:** Code Master  
+**Notes:** [Have Gold Medal Codes]
+
+```
+200C025C A2210020
+```
+
+---
+
+### Mikey-Race 1
+**Author:** Code Master  
+**Notes:** [Have Gold Medal Codes]
+
+```
+200C0260 A2210022
+```
+
+---
+
+### Mikey-Race 2
+**Author:** Code Master  
+**Notes:** [Have Gold Medal Codes]
+
+```
+200C0264 A2210023
+```
+
+---
+
+### Mikey-Race 3
+**Author:** Code Master  
+**Notes:** [Have Gold Medal Codes]
+
+```
+200C0268 A2210024
+```
+
+---
+
+### Mikey-Race 4
+**Author:** Code Master  
+**Notes:** [Have Gold Medal Codes]
+
+```
+200C026C A2210025
+```
+
+---
+
+### Mikey-Race 5
+**Author:** Code Master  
+**Notes:** [Have Gold Medal Codes]
+
+```
+200C0270 A2210026
+```
+
+---
+
+### Mikey-Race 6
+**Author:** Code Master  
+**Notes:** [Have Gold Medal Codes]
+
+```
+200C0274 A2210027
+```
+
+---
+
+### Vinnie-Race 1
+**Author:** Code Master  
+**Notes:** [Have Gold Medal Codes]
+
+```
+200C0278 A2210029
+```
+
+---
+
+### Vinnie-Race 2
+**Author:** Code Master  
+**Notes:** [Have Gold Medal Codes]
+
+```
+200C027C A221002A
+```
+
+---
+
+### Vinnie-Race 3
+**Author:** Code Master  
+**Notes:** [Have Gold Medal Codes]
+
+```
+200C0280 A221002B
+```
+
+---
+
+### Vinnie-Race 4
+**Author:** Code Master  
+**Notes:** [Have Gold Medal Codes]
+
+```
+200C0284 A221002C
+```
+
+---
+
+### Vinnie-Race 5
+**Author:** Code Master  
+**Notes:** [Have Gold Medal Codes]
+
+```
+200C0288 A221002D
+```
+
+---
+
+### Vinnie-Race 6
+**Author:** Code Master  
+**Notes:** [Have Gold Medal Codes]
+
+```
+200C028C A221002E
+```
+
+---

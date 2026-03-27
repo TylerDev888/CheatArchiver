@@ -1,0 +1,169 @@
+# NHL Faceoff 2001 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97110
+
+game: "NHL Faceoff 2001"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97110"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01A9238 000001FD"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0136270 00221DAB"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "10817230 0000????"
+
+  - name: "Away Winning: Press L1 R1"
+    author: "Codejunkies"
+    codes:
+      - "D081CBC2 0000F3FF"
+      - "10817230 00000063"
+      - "D081CBC2 0000F3FF"
+      - "1081722E 00000000"
+
+  - name: "Infinite Creation Points"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "10289F8C 000001F4"
+
+  - name: "Max Aggression"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "10289F2C 00000063"
+
+  - name: "Max All Stats"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "40289F10 000B0001"
+      - "00000063 00000000"
+
+  - name: "Max Checking"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "10289F30 00000063"
+
+  - name: "Max Endurance"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "10289F28 00000063"
+
+  - name: "Max Fighting"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "10289F38 00000063"
+
+  - name: "Max Passing Ability"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "10289F20 00000063"
+
+  - name: "Max Puck Handling"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "10289F24 00000063"
+
+  - name: "Max Shot Accuracy"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "10289F1C 00000063"
+
+  - name: "Max Skating"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "10289F10 00000063"
+
+  - name: "Max Slap Shot Power"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "10289F18 00000063"
+
+  - name: "Max Speed"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "10289F14 00000063"
+
+  - name: "Max Wrist Shot Power"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "10289F34 00000063"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "1081722E 0000????"
+
+  - name: "Home Winning: Press L2 R2"
+    author: "Codejunkies"
+    codes:
+      - "D081CBC2 0000FCFF"
+      - "10817230 00000000"
+      - "D081CBC2 0000FCFF"
+      - "1081722E 00000063"
+
+  - name: "P1 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "E002FAFF 0081D3C2"
+      - "10313870 0000000A"
+      - "10313874 00000000"
+
+  - name: "P1 Press R1+R2 To End Period"
+    author: "Code Master"
+    codes:
+      - "E002F5FF 0081D3C2"
+      - "10313870 00000000"
+      - "10313874 00000001"
+
+  - name: "P2 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "E002FAFF 0081D562"
+      - "10313870 0000000A"
+      - "10313874 00000000"
+
+  - name: "P2 Press R1+R2 To End Period"
+    author: "Code Master"
+    codes:
+      - "E002F5FF 0081D562"
+      - "10313870 00000000"
+      - "10313874 00000001"
+
+  - name: "Start On 2Nd Period"
+    author: "Code Master"
+    codes:
+      - "D0313868 00000000"
+      - "10313868 00000001"
+
+  - name: "Start On 3Rd Period"
+    author: "Code Master"
+    codes:
+      - "D0313868 00000000"
+      - "10313868 00000002"

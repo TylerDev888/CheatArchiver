@@ -1,0 +1,32 @@
+# Akiba's Trip cheat data
+# Console: PSP
+# Region:  Unknown
+# Serial:  NPJH50412
+
+game: "Akiba's Trip"
+console: "PSP"
+region: "Unknown"
+serial: "NPJH50412"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Money 9999999 Yen"
+    notes: "File: STRIP.BIN"
+    codes:
+      - "20000A38 0098967F"
+
+  - name: "Experience 99999999"
+    notes: "File: STRIP.BIN"
+    codes:
+      - "20000A3C 05F5E0FF"
+
+  - name: "Strength 9999"
+    notes: "File: STRIP.BIN"
+    codes:
+      - "10000B80 0000270F"
+
+  - name: "Commitment 9999"
+    notes: "File: STRIP.BIN"
+    codes:
+      - "10000B7E 0000270F"

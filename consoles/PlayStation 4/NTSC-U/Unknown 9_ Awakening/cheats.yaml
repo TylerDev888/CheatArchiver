@@ -1,0 +1,38 @@
+# Unknown 9_ Awakening cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA44553
+
+game: "Unknown 9_ Awakening"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA44553"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Skill Points"
+    notes: "File: Slot[0-9]+|Autosave\\ue4savegame.ps4.sav"
+    codes:
+      - "80010013 43757272"
+      - "656E6379 5F536B69"
+      - "6C6C506F 696E7400"
+      - "18000014 0000[Amount:2710:BIG:HEX]"
+
+  - name: "Flow Upgrade"
+    notes: "File: Slot[0-9]+|Autosave\\ue4savegame.ps4.sav"
+    codes:
+      - "8001001A 5065726D"
+      - "616E656E 74537461"
+      - "74496E63 72656173"
+      - "655F466C 6F770000"
+      - "1800001B 0000[Amount:2710:BIG:HEX]"
+
+  - name: "Health Upgrade"
+    notes: "File: Slot[0-9]+|Autosave\\ue4savegame.ps4.sav"
+    codes:
+      - "8001001C 5065726D"
+      - "616E656E 74537461"
+      - "74496E63 72656173"
+      - "655F4865 616C7468"
+      - "1800001D 0000[Amount:2710:BIG:HEX]"

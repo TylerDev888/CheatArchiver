@@ -1,0 +1,120 @@
+# Trinity Universe cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00971
+
+game: "Trinity Universe"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00971"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Money"
+    notes: "File: BLES00971-L*\\GAME.BIN"
+    codes:
+      - "200358E8 05F5E0FF"
+      - "20035A10 05F5E0FF"
+
+  - name: "Max Black Market Points"
+    notes: "File: BLES00971-L*\\GAME.BIN"
+    codes:
+      - "20037090 3B9AC9FF"
+
+  - name: "Max Hp"
+    notes: "[Kanata Stats]  File: BLES00971-L*\\GAME.BIN"
+    codes:
+      - "20000534 05F5E0FF"
+
+  - name: "Max Ap"
+    notes: "[Kanata Stats]  File: BLES00971-L*\\GAME.BIN"
+    codes:
+      - "20000538 000000FA"
+
+  - name: "Max Atk"
+    notes: "[Kanata Stats]  File: BLES00971-L*\\GAME.BIN"
+    codes:
+      - "2000053C 0001869F"
+
+  - name: "Max Def"
+    notes: "[Kanata Stats]  File: BLES00971-L*\\GAME.BIN"
+    codes:
+      - "20000540 0001869F"
+
+  - name: "Max Int"
+    notes: "[Kanata Stats]  File: BLES00971-L*\\GAME.BIN"
+    codes:
+      - "20000544 0001869F"
+
+  - name: "Max Res"
+    notes: "[Kanata Stats]  File: BLES00971-L*\\GAME.BIN"
+    codes:
+      - "20000548 0001869F"
+
+  - name: "Max Hit"
+    notes: "[Kanata Stats]  File: BLES00971-L*\\GAME.BIN"
+    codes:
+      - "2000054C 0001869F"
+
+  - name: "Max Spd"
+    notes: "[Kanata Stats]  File: BLES00971-L*\\GAME.BIN"
+    codes:
+      - "20000550 0001869F"
+
+  - name: "Max Luk"
+    notes: "[Kanata Stats]  File: BLES00971-L*\\GAME.BIN"
+    codes:
+      - "20000554 0001869F"
+
+  - name: "Level"
+    notes: "[Kanata Stats]  File: BLES00971-L*\\GAME.BIN"
+    codes:
+      - "20000644 00000001"
+
+  - name: "To Next Level (1)"
+    notes: "[Kanata Stats]  File: BLES00971-L*\\GAME.BIN"
+    codes:
+      - "2000064C 00000001"
+
+  - name: "Tlame"
+    notes: "[Kanata Stats]  File: BLES00971-L*\\GAME.BIN"
+    codes:
+      - "200005C4 00000064"
+      - "200005E4 00000064"
+
+  - name: "Water"
+    notes: "[Kanata Stats]  File: BLES00971-L*\\GAME.BIN"
+    codes:
+      - "200005C8 00000064"
+      - "200005E8 00000064"
+
+  - name: "Lightni"
+    notes: "[Kanata Stats]  File: BLES00971-L*\\GAME.BIN"
+    codes:
+      - "200005CC 00000064"
+      - "200005EC 00000064"
+
+  - name: "Wind"
+    notes: "[Kanata Stats]  File: BLES00971-L*\\GAME.BIN"
+    codes:
+      - "200005D0 00000064"
+      - "200005F0 00000064"
+
+  - name: "Earth"
+    notes: "[Kanata Stats]  File: BLES00971-L*\\GAME.BIN"
+    codes:
+      - "200005D4 00000064"
+      - "200005F4 00000064"
+
+  - name: "Light"
+    notes: "[Kanata Stats]  File: BLES00971-L*\\GAME.BIN"
+    codes:
+      - "200005D8 00000064"
+      - "200005F8 00000064"
+
+  - name: "Dark"
+    notes: "[Kanata Stats]  File: BLES00971-L*\\GAME.BIN"
+    codes:
+      - "200005DC 00000064"
+      - "200005FC 00000064"

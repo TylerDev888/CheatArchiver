@@ -1,0 +1,34 @@
+# Bass Strike cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50512
+
+game: "Bass Strike"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50512"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01000A0 0011102F"
+
+  - name: "Opponent Has 0 Fish"
+    author: "Codejunkies"
+    codes:
+      - "203B846C 00000000"
+
+  - name: "P1 Has 5 Fish - Arcade"
+    author: "Codejunkies"
+    codes:
+      - "203B8464 00000005"
+
+  - name: "P1 Has Big Weight - Press L2"
+    author: "Codejunkies"
+    codes:
+      - "102B20C6 0000FEFF"
+      - "203B844C 000007D0"

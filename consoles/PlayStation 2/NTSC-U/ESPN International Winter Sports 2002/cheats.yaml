@@ -1,0 +1,48 @@
+# ESPN International Winter Sports 2002 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20320
+
+game: "ESPN International Winter Sports 2002"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20320"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00125D47"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90125D44 0C04513A"
+
+  - name: "Enable All Special Outfits"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "0081B454 0000000F"
+
+  - name: "Bronze"
+    author: "Code Master"
+    notes: "[Max Men K120=Individual/Ski Jumping Medal Codes]"
+    codes:
+      - "10818E6A 00000063"
+
+  - name: "Silver"
+    author: "Code Master"
+    notes: "[Max Men K120=Individual/Ski Jumping Medal Codes]"
+    codes:
+      - "10818E6C 00000063"
+
+  - name: "Gold"
+    author: "Code Master"
+    notes: "[Max Men K120=Individual/Ski Jumping Medal Codes]"
+    codes:
+      - "10818E6E 00000063"

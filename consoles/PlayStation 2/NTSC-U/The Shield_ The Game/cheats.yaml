@@ -1,0 +1,34 @@
+# The Shield_ The Game cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21040
+
+game: "The Shield_ The Game"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21040"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9025D848 0C0975BA"
+
+  - name: "Activator (MUST BE ON For Fallowing Codes)"
+    author: "Creditx: SkillerCMP"
+    codes:
+      - "D02E07B6 00100000"
+      - "2024D02C 08028000"
+      - "200A0000 3C01002E"
+      - "200A0004 8C2107B4"
+      - "200A0010 3C0240A0"
+      - "200A0014 3C0540A0"
+      - "200A0040 03E00008"
+
+  - name: "Inf HP"
+    author: "Creditx: SkillerCMP"
+    codes:
+      - "200A0020 AC2201E8"
+      - "200A0024 AC2201EC"

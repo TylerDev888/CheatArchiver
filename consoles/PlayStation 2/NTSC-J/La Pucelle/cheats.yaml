@@ -1,0 +1,27 @@
+# La Pucelle cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-20165
+
+game: "La Pucelle"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-20165"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "902083D8 0C08209E"
+
+  - name: "Enable Debug Mode [Read Note]"
+    author: "punk7890"
+    codes:
+      - "202C3190 0C08445C"
+      - "20211170 34420002"
+      - "20211174 AF828474"
+      - "20211178 03E00008"
+      - "2021117C 8F828474"

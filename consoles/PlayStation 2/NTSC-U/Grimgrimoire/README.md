@@ -1,0 +1,228 @@
+# Grimgrimoire
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-21604  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Always Have 9999 Mana
+**Author:** bungholio
+
+```
+1198060C 0000270F
+```
+
+---
+
+### Can Make Any Grimoire
+**Author:** bungholio
+
+```
+E002FEEF 00262F9C
+401A4038 000C0011
+0C0722D8 00000000
+E002FEDF 00262F9C
+401A4038 000C0011
+0C07280C 00000000
+E002FEBF 00262F9C
+401A4038 000C0011
+0C0728A0 00000000
+E002FEBF 00262F9C
+401A4038 000C0011
+0C072778 00000000
+E002FEBF 00262F9C
+401A4038 000C0011
+0C072494 00000000
+E002FEBF 00262F9C
+401A4038 000C0011
+0C072528 00000000
+E002FEBF 00262F9C
+401A4038 000C0011
+0C0726E4 00000000
+E002FEBF 00262F9C
+401A4038 000C0011
+0C072400 00000000
+E002FEBF 00262F9C
+401A4038 000C0011
+0C0725BC 00000000
+E002FEBF 00262F9C
+401A4038 000C0011
+0C072650 00000000
+E002FEBF 00262F9C
+401A4038 000C0011
+0C07236C 00000000
+E002FEBF 00262F9C
+401A4038 000C0011
+0C0775E0 00000000
+```
+
+---
+
+### Flash Build Advents, Talismen, And Crystal Sanctuaries
+**Author:** bungholio
+
+```
+200A0094 863901DC
+200A0098 A63901DE
+200A009C 3C19447A
+200A00A0 08064BE5
+200A00A4 AE3901E0
+20192F8C 08028025
+```
+
+---
+
+### Flash Build Crystal Sanctuaries
+**Author:** bungholio
+
+```
+10192DD2 00001000
+20192E08 82020004
+20192E34 A6040008
+20192E38 08064B7D
+20192E3C A6040006
+```
+
+---
+
+### Flash Dragon Incubation
+**Author:** bungholio
+
+```
+200A00A8 3C02447A
+200A00AC AE2201E0
+200A00B0 0807A459
+200A00B4 862201DC
+201E915C 0802802A
+201E9160 2405000E
+```
+
+---
+
+### Grimoire Levels Can Be Upgraded To Max
+**Author:** bungholio
+
+```
+2198061C 05050505
+21980620 05050505
+21980624 05040504
+```
+
+---
+
+### Have All Stages Completed On All Difficulties
+**Author:** bungholio
+
+```
+41C6FC40 00370001
+0000000F 00000000
+```
+
+---
+
+### Infinite Building
+**Author:** bungholio
+
+```
+2019B590 00000000
+2019A984 00000000
+```
+
+---
+
+### Infinite Health For Everyone
+**Author:** bungholio
+
+```
+2019BBCC 00000000
+2019BBD4 00000000
+```
+
+---
+
+### Infinite Health For Only Your Entities
+**Author:** bungholio
+
+```
+2019BBB4 0802802E
+200A00B8 92190004
+200A00BC 13200003
+200A00C0 86030006
+200A00C4 08066EEF
+200A00CC 08066EFB
+```
+
+---
+
+### Infinite MP
+**Author:** bungholio
+
+```
+2019BAF4 00000000
+2019BAFC 00000000
+```
+
+---
+
+### Infinite Time
+**Author:** bungholio
+
+```
+20185DE4 00000000
+```
+
+---
+
+### Reveal All Entities On The Map
+**Author:** bungholio
+
+```
+20189FC4 24030000
+```
+
+---
+
+### Selected Troops Have Infinite/Full Health & MP
+**Author:** bungholio
+
+```
+20193210 0C03FFC0
+200FFF00 34020032
+200FFF04 A6420006
+200FFF08 A642000A
+200FFF0C 03E00008
+```
+
+---
+
+### Test Events Menu (Fonts Do Not Display)
+**Author:** bungholio
+
+```
+201865C4 24110065
+10186662 00001000
+```
+
+---
+
+### Unlock All Storyline Stages
+**Author:** bungholio
+
+```
+01C6F934 00000055
+```
+
+---
+
+### Unlock All Trial Stages
+**Author:** bungholio
+
+```
+01C6F938 0000007D
+```
+
+---

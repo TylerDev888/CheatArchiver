@@ -1,0 +1,70 @@
+# Knight Rider 2 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52836
+
+game: "Knight Rider 2"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52836"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "902538B8 0C094DD6"
+
+  - name: "Always SPM"
+    author: "Datel"
+    codes:
+      - "005B478E 00000001"
+
+  - name: "Invincible"
+    author: "Datel"
+    codes:
+      - "005B478F 00000001"
+
+  - name: "Open Everything"
+    author: "Datel"
+    codes:
+      - "005B478D 00000001"
+
+  - name: "Pal2ntsc"
+    author: "lee4"
+    codes:
+      - "20250EA0 34050002"
+      - "20250EA4 24030002"
+      - "20250EA8 0000000C"
+      - "20250EAC 03E00008"
+
+  - name: "Skip FMV"
+    author: "lee4"
+    codes:
+      - "2026A988 8C620000"
+      - "D0597FC2 0000FFFE"
+      - "2026A988 24020001"
+
+  - name: "Y Fix (MAX)"
+    author: "lee4"
+    codes:
+      - "400FFF80 00040001"
+      - "64638000 00000000"
+      - "400FFF90 00040001"
+      - "64638000 00000000"
+      - "200FFFA0 FC2300A0"
+      - "200FFFA4 03E00008"
+      - "200FFFA8 DFBF0040"
+      - "204E28A8 0C03FFE0"
+      - "204E28AC 00000000"
+      - "400FFFC0 00040001"
+      - "64638000 00000000"
+      - "400FFFD0 00040001"
+      - "64638000 00000000"
+      - "200FFFE0 FC230080"
+      - "200FFFE4 03E00008"
+      - "200FFFE8 DE6309C0"
+      - "204E289C 0C03FFF0"
+      - "204E28A0 00000000"

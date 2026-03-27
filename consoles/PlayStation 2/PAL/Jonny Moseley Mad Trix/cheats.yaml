@@ -1,0 +1,46 @@
+# Jonny Moseley Mad Trix cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50362
+
+game: "Jonny Moseley Mad Trix"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50362"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01004B8 0025EB97"
+
+  - name: "Infinite Time"
+    author: "InterAct"
+    codes:
+      - "2042B318 42C5E760"
+
+  - name: "Massive Score"
+    author: "InterAct"
+    codes:
+      - "203A2D44 4E6E6B28"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0025EB97"
+
+  - name: "Unlimited Time"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2042B318 42C52809"
+
+  - name: "High Score"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "203A2D44 682809FF"

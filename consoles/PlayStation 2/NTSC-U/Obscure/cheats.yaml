@@ -1,0 +1,133 @@
+# Obscure cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20777
+
+game: "Obscure"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20777"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F011DC34 0011DC37"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "9011DC34 0C0C193C"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "9011DC48 0C0C694A"
+
+  - name: "All Music"
+    author: "Codejunkies"
+    codes:
+      - "10CDCEE4 00000FFF"
+
+  - name: "Infinite Ammo"
+    author: "MadCatz"
+    codes:
+      - "20360BBC 24420000"
+
+  - name: "Infinite Ammo/Reserve"
+    author: "Codejunkies"
+    codes:
+      - "20168C04 00000000"
+
+  - name: "Infinite Health"
+    author: "MadCatz"
+    codes:
+      - "200C2000 3C1B42C8"
+      - "200C2004 449B0000"
+      - "200C2008 0805A5AB"
+      - "200C200C E640005C"
+      - "201696A8 08030800"
+
+  - name: "Infinite Items"
+    author: "MadCatz"
+    codes:
+      - "202C236C 34030063"
+      - "202C2370 AC430050"
+
+  - name: "Infinite Save Disc Usage"
+    author: "MadCatz"
+    codes:
+      - "202DE564 24630000"
+
+  - name: "Extra Ammo"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20168C04 00441021"
+
+  - name: "Flashlight Never Overheats"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20364F78 00000000"
+
+  - name: "Infinite Save Discs"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202DE568 00000000"
+
+  - name: "Infinite Stamina"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2015EC48 00000000"
+      - "20160490 AE200110"
+
+  - name: "Max Infinite Ammo"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20168C04 24020063"
+
+  - name: "Max Items (Upon Pickup)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202C2370 24030063"
+      - "202C2378 AC430050"
+
+  - name: "Never Reload"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20360BC0 00000000"
+
+  - name: "Unlock All Extra/Special Mode"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20CDCEEC FFFFFFFF"
+
+  - name: "Unlock All Music"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20CDCEE4 FFFFFFFF"
+
+  - name: "Unlock All Bonus Material"
+    author: "MadCatz"
+    codes:
+      - "40CDCEE4 00030001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9011DC34 0C0C193C"

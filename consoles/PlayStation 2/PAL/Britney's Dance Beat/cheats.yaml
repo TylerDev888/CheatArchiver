@@ -1,0 +1,43 @@
+# Britney's Dance Beat cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50947
+
+game: "Britney's Dance Beat"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50947"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F020092C 002B6927"
+
+  - name: "Infinite Points"
+    author: "Codejunkies"
+    codes:
+      - "103582E0 0000FFFF"
+      - "10358724 0000FFFF"
+
+  - name: "Unlock All Scenes & Videos"
+    author: "Codejunkies"
+    codes:
+      - "10358760 00000009"
+      - "10358728 00000009"
+      - "10358730 00000030"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0200008 002B6927"
+
+  - name: "Unlock All Videos"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "203582E8 00010006"

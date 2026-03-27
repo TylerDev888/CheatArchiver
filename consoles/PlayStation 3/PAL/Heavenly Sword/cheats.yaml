@@ -1,0 +1,19 @@
+# Heavenly Sword cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BCES00078
+
+game: "Heavenly Sword"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BCES00078"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Userdata.dat (required)"
+    notes: "File: USERDATA.DAT"
+    codes:
+      - "set range:0x000004,0x00783F"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"

@@ -1,0 +1,24 @@
+# NeverDead cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01303
+
+game: "NeverDead"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01303"
+cheat_type: "Save Editor"
+source: "From SHAkA"
+
+cheats:
+  - name: "Max Xp"
+    notes: "File: PROFILE"
+    codes:
+      - "write at 0x000004DD:0x98967F00"
+      - "write at 0x000004E1:0x98967F00"
+
+  - name: "Max Xp By Chaoszage"
+    notes: "File: PROFILE"
+    codes:
+      - "search 0x021DBD877D"
+      - "write next 0x14:0098967F0098967F"

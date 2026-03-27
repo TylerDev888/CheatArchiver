@@ -1,0 +1,52 @@
+# Star Ocean_ The Last Hope_ 4K And Full HD Remaster cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA09485
+
+game: "Star Ocean_ The Last Hope_ 4K And Full HD Remaster"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA09485"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "All Battle Trophy Data"
+    author: "zombiechopper"
+    notes: "File: USR-DATA[0-9]+.BIN\\USR-DATA[0-2][0-9]\\.BIN"
+    codes:
+      - "0006B5F4 000000FB"
+      - "4006B604 000000FF"
+      - "40080010 00000000"
+      - "4206B5F5 FFFFFFFF"
+      - "40090010 00000000"
+      - "4206B5F9 FFFFFFFF"
+      - "40090010 00000000"
+      - "4206B5FD 0FFFFFFF"
+      - "40090010 00000000"
+
+  - name: "All Spaceship Data"
+    author: "zombiechopper"
+    notes: "File: USR-DATA[0-9]+.BIN\\USR-DATA[0-2][0-9]\\.BIN"
+    codes:
+      - "2006B684 003FFFFE"
+
+  - name: "All Weapon Data"
+    author: "zombiechopper"
+    notes: "File: USR-DATA[0-9]+.BIN\\USR-DATA[0-2][0-9]\\.BIN"
+    codes:
+      - "2006B688 FFFFFFFE"
+      - "2006B68C FFFFFFFF"
+      - "2006B690 FFFFFFFF"
+      - "2006B694 FFFFFFFF"
+      - "2006B698 0007FFFF"
+
+  - name: "All Monster Data"
+    author: "zombiechopper"
+    notes: "File: USR-DATA[0-9]+.BIN\\USR-DATA[0-2][0-9]\\.BIN"
+    codes:
+      - "2006B6A0 00000000"
+      - "4106B6A4 00000001"
+      - "40990004 00000000"
+      - "4006B6A6 000000FF"
+      - "40990004 00000000"

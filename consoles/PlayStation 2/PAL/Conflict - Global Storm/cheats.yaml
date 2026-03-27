@@ -1,0 +1,110 @@
+# Conflict - Global Storm cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52573
+
+game: "Conflict - Global Storm"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52573"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0170918 0017091B"
+      - "90100198 0C137198"
+
+  - name: "AR MAX < 3.14 Fix"
+    author: "Codejunkies"
+    notes: "[Armax Fix]"
+    codes:
+      - "204DC338 3C03200F"
+      - "204DC340 8C65FFF8"
+      - "204DC344 24040079"
+      - "204DC348 24030074"
+      - "204DC34C 0000000C"
+
+  - name: "Fix"
+    notes: "[Armax Fix]"
+    codes:
+      - "E00EAE5C 00170918"
+      - "E00D0C05 0017091A"
+      - "20344E68 0813780E"
+      - "204DE038 3C0401E0"
+      - "204DE03C 3C050008"
+      - "204DE040 0C131C73"
+      - "204DE044 3C060008"
+      - "204DE048 0C1360E6"
+      - "204DE04C 0000202D"
+      - "204DE050 3C0501E0"
+      - "204DE054 3C040008"
+      - "204DE058 0C131C73"
+      - "204DE05C 3C060008"
+      - "204DE060 080D139C"
+      - "204DE064 00000000"
+
+  - name: "Disable AI"
+    author: "Codejunkies"
+    codes:
+      - "2022E6B4 00000000"
+
+  - name: "Disable Player Damage"
+    author: "Codejunkies"
+    codes:
+      - "2054EF6C 00000000"
+
+  - name: "Enable Player Damage"
+    author: "Codejunkies"
+    codes:
+      - "2054EF6C 00000001"
+
+  - name: "Hyper Mode (Press L3+R2)"
+    author: "Codejunkies"
+    notes: "[Game Speed Codes]"
+    codes:
+      - "E002FDFD 0083DDC0"
+      - "204C4C00 3C014020"
+      - "204C4C18 44811000"
+
+  - name: "Normal Speed (Press L3+L2)"
+    author: "Codejunkies"
+    notes: "[Game Speed Codes]"
+    codes:
+      - "E002FEFD 0083DDC0"
+      - "204C4C00 3C013F80"
+      - "204C4C18 44811000"
+
+  - name: "Quicker Game (Press L3+R1)"
+    author: "Codejunkies"
+    notes: "[Game Speed Codes]"
+    codes:
+      - "E002FEFD 0083DDC0"
+      - "204C4C00 3C013FC0"
+      - "204C4C18 44811000"
+
+  - name: "Slow Motion (Press L3+L1)"
+    author: "Codejunkies"
+    notes: "[Game Speed Codes]"
+    codes:
+      - "E002FBFD 0083DDC0"
+      - "204C4C00 3C013E80"
+      - "204C4C18 44811000"
+
+  - name: "Infinite Ammo (Guns)"
+    author: "Codejunkies"
+    codes:
+      - "2023622C 10000007"
+
+  - name: "Infinite Grenades"
+    author: "Codejunkies"
+    codes:
+      - "20235644 00000000"
+
+  - name: "Toggle Route Marquer Display"
+    author: "Codejunkies"
+    codes:
+      - "205520F4 00000001"

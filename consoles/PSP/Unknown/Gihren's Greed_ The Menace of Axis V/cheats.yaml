@@ -1,0 +1,53 @@
+# Gihren's Greed_ The Menace of Axis V cheat data
+# Console: PSP
+# Region:  Unknown
+# Serial:  ULJS00178
+
+game: "Gihren's Greed_ The Menace of Axis V"
+console: "PSP"
+region: "Unknown"
+serial: "ULJS00178"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Funds 10485xx"
+    notes: "File: *"
+    codes:
+      - "10000AD7 0000FFFF"
+
+  - name: "Resources 99999xx"
+    notes: "File: *"
+    codes:
+      - "00000AD9 000000F9"
+      - "10000ADA 00006789"
+
+  - name: "Strategy Phase Number Of Turns 1 (+ 80h Per Turn)"
+    notes: "File: *  (Difficulty change)"
+    codes:
+      - "10000222 00000100"
+
+  - name: "(very Easy)"
+    notes: "File: *"
+    codes:
+      - "00000901 00000000"
+
+  - name: "(easy)"
+    notes: "File: *"
+    codes:
+      - "00000901 00000002"
+
+  - name: "(normal)"
+    notes: "File: *"
+    codes:
+      - "00000901 00000004"
+
+  - name: "(hell)"
+    notes: "File: *"
+    codes:
+      - "00000901 0000000A"
+
+  - name: "(special)"
+    notes: "File: *"
+    codes:
+      - "00000901 0000000C"

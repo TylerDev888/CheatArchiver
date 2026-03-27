@@ -1,0 +1,48 @@
+# Metal Gear Solid 2-Substance-Skateboarding cheat data
+# Console: PlayStation 2
+# Region:  Unknown
+# Serial:  SKATE2ELF
+
+game: "Metal Gear Solid 2-Substance-Skateboarding"
+console: "PlayStation 2"
+region: "Unknown"
+serial: "SKATE2ELF"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90136154 0C0443D2"
+
+  - name: "Infinite Time"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "20260848 00000000"
+
+  - name: "Do 1 Trick For Max Score"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "1024AF16 00001000"
+
+  - name: "Quick Score Gain"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "2024AF0C 2483270F"
+
+  - name: "Infinite Stock (Upon Retrieval)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "20262320 00000000"
+
+  - name: "Do 1 Trick To Retrieve 1 Stock"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "202623B0 24060064"

@@ -1,0 +1,21 @@
+# God of War Collection cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BCES00791
+
+game: "God of War Collection"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BCES00791"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Dwadd (required)"
+    notes: "File: DATA*.BIN  (set [csum]:dwadd(0x000000,0x013FFB)) (write at 0x013FFC:[csum])"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof-4"
+      - "set [csum]:dwadd(0x000000,pointer)"
+      - "set pointer:eof-3"
+      - "write next (0):[csum]"

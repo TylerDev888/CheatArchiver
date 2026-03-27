@@ -1,0 +1,67 @@
+# Tom Clancy's Rainbow Six - Lockdown
+
+**Console:** PlayStation 2  
+**Region:** PAL  
+**Serial:** SLES-53104  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### (M) Must Be On
+**Author:** Codejunkies  
+**Notes:** [Master Codes]
+
+```
+E00FC328 005F963C
+E00E0C11 005F963E
+2010086C 080434A2
+2010D288 3C0401E0
+2010D28C 3C050008
+2010D290 0C040F3B
+2010D294 3C060008
+2010D298 0C041D02
+2010D29C 3C160070
+2010D2A0 3C0501E0
+2010D2A4 3C040008
+2010D2A8 0C040F3B
+2010D2AC 3C060008
+2010D2B0 0804021D
+2010D2B4 00000000
+F05F963C 005F963F
+901001E8 0C042B04
+```
+
+---
+
+### AR MAX < 3.14 Fix
+**Author:** Codejunkies
+
+```
+2010A8E8 3C03200F
+2010A8F0 8C65FFF8
+2010A8F4 24040079
+2010A8F8 24030074
+2010A8FC 0000000C
+```
+
+---
+
+### Infinite Ammo
+**Author:** Codejunkies
+
+```
+20274AA0 00000000
+```
+
+---
+
+### Infinite Grenades
+**Author:** Codejunkies
+
+```
+206BBA7C 8C82000C
+```
+
+---

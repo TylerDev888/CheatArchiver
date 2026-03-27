@@ -1,0 +1,53 @@
+# Afterimage cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA41096
+
+game: "Afterimage"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA41096"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Max Divine Seeds"
+    author: "Zeraf3000"
+    notes: "File: GameSave[0-9]+\\ue4savegame.ps4.sav"
+    codes:
+      - "80010009 76000000"
+      - "00000000 00000000"
+      - "28000009 42C60000"
+
+  - name: "Super Max HP Regen"
+    author: "Zeraf3000"
+    notes: "File: GameSave[0-9]+\\ue4savegame.ps4.sav"
+    codes:
+      - "80010009 69000000"
+      - "00000000 00000000"
+      - "28000009 4B18967F"
+
+  - name: "Super Max MP Regen"
+    author: "Zeraf3000"
+    notes: "File: GameSave[0-9]+\\ue4savegame.ps4.sav"
+    codes:
+      - "80010009 6A000000"
+      - "00000000 00000000"
+      - "28000009 4B18967F"
+
+  - name: "Super Max Stats"
+    author: "Zeraf3000"
+    notes: "[Code For No. 42:{Ng+ Must Be Unlocked And You Must Have Played At Least Chapter 1}]  File: GameSave[0-9]+\\ue4savegame.ps4.sav"
+    codes:
+      - "80010021 50006C00"
+      - "61007900 65007200"
+      - "43006800 61007200"
+      - "61006300 74006500"
+      - "72003400 32000000"
+      - "2800002B 70000000"
+      - "28000038 70000000"
+      - "28000045 70000000"
+      - "28000052 70000000"
+      - "2800005F 447A0000"
+      - "28000086 447A0000"
+      - "28000093 447A0000"

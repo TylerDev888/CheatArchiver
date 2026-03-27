@@ -1,0 +1,60 @@
+# Turning Point_ Fall Of Liberty cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00196
+
+game: "Turning Point_ Fall Of Liberty"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00196"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Gewehr 47(you Must Have This Weapon Equipped.)"
+    notes: "[Max Ammo]  File: BLES00196-AUTO-\\DEF_CHKP.SAV"
+    codes:
+      - "8000000C 436F6E74"
+      - "656E742E 47343700"
+      - "2800000C 00000032"
+      - "28000010 000003E7"
+
+  - name: "Grenades(you Must Have This Weapon Equipped.)"
+    notes: "[Max Ammo]  File: BLES00196-AUTO-\\DEF_CHKP.SAV"
+    codes:
+      - "8000000C 656E742E"
+      - "4772656E 61646500"
+      - "2800000C 00000001"
+      - "28000010 00000003"
+
+  - name: "M1 Garand(you Must Have This Weapon Equipped.)"
+    notes: "[Max Ammo]  File: BLES00196-AUTO-\\DEF_CHKP.SAV"
+    codes:
+      - "8000000C 65436F6E"
+      - "74656E74 2E4D3100"
+      - "2800000C 00000008"
+      - "28000010 000003E7"
+
+  - name: "Mp50(you Must Have This Weapon Equipped.)"
+    notes: "[Max Ammo]  File: BLES00196-AUTO-\\DEF_CHKP.SAV"
+    codes:
+      - "8000000C 6F6E7465"
+      - "6E742E4D 50353000"
+      - "2800000C 00000032"
+      - "28000010 000003E7"
+
+  - name: "Thompson Submachine Gun(you Must Have This Weapon Equipped.)"
+    notes: "[Max Ammo]  File: BLES00196-AUTO-\\DEF_CHKP.SAV"
+    codes:
+      - "8000000C 6E742E54"
+      - "686F6D70 736F6E00"
+      - "2800000C 00000032"
+      - "28000010 000003E7"
+
+  - name: "Update Sha1 For Profile.bin (required)"
+    notes: "File: BLES00196-AUTO-\\DEF_CHKP.SAV  (set range:0x000014,0x000129)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000014,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x000000:[hash]"

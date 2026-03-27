@@ -1,0 +1,68 @@
+# Mummy Returns, The cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50510
+
+game: "Mummy Returns, The"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50510"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0215F10 000001FD"
+
+  - name: "Collision Debug"
+    author: "InterAct"
+    codes:
+      - "20B458D4 64DA29D4"
+
+  - name: "Infinite Health (1St Life Only -- Imhotep)"
+    author: "InterAct"
+    codes:
+      - "30170715 64DA6B3F"
+
+  - name: "Big Rick"
+    author: "Codejunkies"
+    notes: "[Size Codes]"
+    codes:
+      - "209DB930 3FF00000"
+      - "209DB934 3FF00000"
+      - "209DB938 3FF00000"
+
+  - name: "Mini Rick"
+    author: "Codejunkies"
+    notes: "[Size Codes]"
+    codes:
+      - "209DB930 3E800000"
+      - "209DB934 3E800000"
+      - "209DB938 3E800000"
+
+  - name: "Show Lighting"
+    author: "Codejunkies"
+    notes: "[Size Codes]"
+    codes:
+      - "002CAD28 00000001"
+
+  - name: "Show Player Debug"
+    author: "Codejunkies"
+    notes: "[Size Codes]"
+    codes:
+      - "002CAD38 00000001"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Works For 1st Life Only]"
+    codes:
+      - "109DB75E 000042CE"
+
+  - name: "Infinite Pistol Bullets"
+    author: "Codejunkies"
+    notes: "[Works For 1st Life Only]"
+    codes:
+      - "109DBE00 00000063"

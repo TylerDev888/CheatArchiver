@@ -1,0 +1,20 @@
+# Shantae_ Risky's Revenge cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA01587
+
+game: "Shantae_ Risky's Revenge"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA01587"
+cheat_type: "AP"
+source: "checksum by Zhaxxy"
+
+cheats:
+  - name: "Update Jhash Savedata.dat (required)"
+    notes: "File: savedata.sav"
+    codes:
+      - "set range:0x027C,0x048F"
+      - "set [csum]:jhash"
+      - "set [csum]:endian_swap"
+      - "write at 0x0278:[csum]"

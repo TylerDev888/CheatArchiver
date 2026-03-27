@@ -1,0 +1,23 @@
+# Kanon [Best] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65842
+
+game: "Kanon [Best]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65842"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "901ACFB8 0C06B396"
+
+  - name: "Enable Debug Mode In Pause Menu"
+    author: "punk7890"
+    codes:
+      - "202164D0 00000001"

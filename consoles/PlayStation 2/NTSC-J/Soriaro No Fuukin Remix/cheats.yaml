@@ -1,0 +1,29 @@
+# Soriaro No Fuukin Remix cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65848
+
+game: "Soriaro No Fuukin Remix"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65848"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9015B898 0C056DCE"
+
+  - name: "Unlock Everything"
+    author: "punk7890"
+    codes:
+      - "20193948 FFFFFFFF"
+      - "10193A36 0000FFFF"
+      - "40193A38 00070001"
+      - "FFFFFFFF 00000000"
+      - "10193A54 0000FFFF"
+      - "20109C98 240EFFFF"
+      - "20109C9C A1EE0000"

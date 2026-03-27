@@ -1,0 +1,30 @@
+# Langrisser I & II cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA16120
+
+game: "Langrisser I & II"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA16120"
+cheat_type: "AP"
+source: "source:"
+
+cheats:
+  - name: "Unlock All Skills For All Characters (inc Hidden)"
+    notes: "File: *"
+    codes:
+      - "41003C9C 000001C0"
+      - "401100FA 00000000"
+
+  - name: "4000 Number Of Kills"
+    notes: "File: *"
+    codes:
+      - "41003BFD 00001000"
+      - "401100FA 00000000"
+
+  - name: "Number of Kills"
+    notes: "File: LR1(INTR|[0-9]+)\\Data.dat Langrisser 1"
+    codes:
+      - "41003BFD 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "401100FA 00000000"

@@ -1,0 +1,30 @@
+# Grand Kingdom Limited Edition cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA04630
+
+game: "Grand Kingdom Limited Edition"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA04630"
+cheat_type: "AP"
+source: "source: discord"
+
+cheats:
+  - name: "Max Items (needs Testing)"
+    notes: "File: *"
+    codes:
+      - "4003B454 00000064"
+      - "400E0001 00000000"
+
+  - name: "Max Tome"
+    notes: "File: *"
+    codes:
+      - "40038E1C 00000063"
+      - "40130001 00000000"
+
+  - name: "Max Coin Item"
+    notes: "File: *"
+    codes:
+      - "40038E08 00000063"
+      - "40140001 00000000"

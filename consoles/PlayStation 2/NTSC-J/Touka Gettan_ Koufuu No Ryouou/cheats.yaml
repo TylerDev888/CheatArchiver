@@ -1,0 +1,25 @@
+# Touka Gettan_ Koufuu No Ryouou cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-55200
+
+game: "Touka Gettan_ Koufuu No Ryouou"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-55200"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "902699A0 0C09A610"
+
+  - name: "Enable Test Menu In Main Menu (Select Continue)"
+    author: "punk7890"
+    codes:
+      - "008A6D0F 00000001"
+      - "00282611 00000001"
+      - "001696A0 00000000"

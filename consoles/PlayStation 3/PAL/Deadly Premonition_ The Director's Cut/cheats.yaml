@@ -1,0 +1,77 @@
+# Deadly Premonition_ The Director's Cut cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01776
+
+game: "Deadly Premonition_ The Director's Cut"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01776"
+cheat_type: "Save Editor"
+source: "From bruticus0 (CMP)"
+
+cheats:
+  - name: "$100000000(from Primetime00)"
+    notes: "File: USER.DAT"
+    codes:
+      - "100001C8 4CBEBC20"
+
+  - name: "99 Cheese Wedge Lol"
+    notes: "[Current Inventory Mods]  File: USER.DAT"
+    codes:
+      - "1000BFD4 00000063"
+
+  - name: "99 Smokes"
+    notes: "[Current Inventory Mods]  File: USER.DAT"
+    codes:
+      - "1000BFA8 00000063"
+
+  - name: "99 Bullettworm Bait"
+    notes: "[Current Inventory Mods]  File: USER.DAT"
+    codes:
+      - "1000C00C 00000063"
+
+  - name: "99 Knifeworm Bait"
+    notes: "[Current Inventory Mods]  File: USER.DAT"
+    codes:
+      - "1000C010 00000063"
+
+  - name: "99 Capsuleworm Bait"
+    notes: "[Current Inventory Mods]  File: USER.DAT"
+    codes:
+      - "1000C014 00000063"
+
+  - name: "9999 10mm Bulletts"
+    notes: "[Current Inventory Mods]  File: USER.DAT"
+    codes:
+      - "1000BF58 0000270F"
+
+  - name: "First Aid Small 99"
+    notes: "[Tool Chest Inventory Mods]  File: USER.DAT"
+    codes:
+      - "1000B984 00000063"
+
+  - name: "First Aid Medium 99"
+    notes: "[Tool Chest Inventory Mods]  File: USER.DAT"
+    codes:
+      - "1000B988 00000063"
+
+  - name: "First Aid Large 99"
+    notes: "[Tool Chest Inventory Mods]  File: USER.DAT"
+    codes:
+      - "1000B98C 00000063"
+
+  - name: "Coffee (milk) 99"
+    notes: "[Tool Chest Inventory Mods]  File: USER.DAT"
+    codes:
+      - "1000B990 00000063"
+
+  - name: "Coffee (black) 99"
+    notes: "[Tool Chest Inventory Mods]  File: USER.DAT"
+    codes:
+      - "1000B998 00000063"
+
+  - name: "Root Beer 99"
+    notes: "[Tool Chest Inventory Mods]  File: USER.DAT"
+    codes:
+      - "1000B99C 00000063"

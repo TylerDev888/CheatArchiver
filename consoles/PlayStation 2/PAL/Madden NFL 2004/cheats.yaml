@@ -1,0 +1,58 @@
+# Madden NFL 2004 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51797
+
+game: "Madden NFL 2004"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51797"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F04C853C 004C853F"
+
+  - name: "Big Ball"
+    author: "Codejunkies"
+    codes:
+      - "205E4C60 40400000"
+      - "205E4C64 40400000"
+      - "205E4C68 40400000"
+
+  - name: "Infinite Timers"
+    author: "Codejunkies"
+    codes:
+      - "20139950 24420000"
+
+  - name: "Max Tokens For 1St Profile"
+    author: "Codejunkies"
+    codes:
+      - "11DB2EF8 0000270F"
+
+  - name: "Next Team Scoring Has 0 Points (Press Select+Down To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D05F0042 0000FFBE"
+      - "204AFE28 3C020000"
+
+  - name: "Next Team Scoring Has 90 Points (Press Select+Up To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D05F0042 0000FFEE"
+      - "204AFE28 3C020060"
+
+  - name: "Normal Scoring Mode (Press Select+Left To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D05F0042 0000FF7E"
+      - "204AFE28 00431024"
+
+  - name: "Timers Go Twice Quicker"
+    author: "Codejunkies"
+    codes:
+      - "20139950 2442FFFE"

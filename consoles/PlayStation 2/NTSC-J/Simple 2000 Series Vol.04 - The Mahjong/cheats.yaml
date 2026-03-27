@@ -1,0 +1,24 @@
+# Simple 2000 Series Vol.04 - The Mahjong cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62198
+
+game: "Simple 2000 Series Vol.04 - The Mahjong"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62198"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Master Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90110040 0C043FB8"
+
+  - name: "Master Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90122E14 0C046712"

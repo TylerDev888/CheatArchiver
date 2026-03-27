@@ -1,0 +1,116 @@
+# Labyrinth of Galleria cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA13995
+
+game: "Labyrinth of Galleria"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA13995"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Set Games Version Number to 1.00 for Re-Regioning"
+    notes: "File: data[0-9]+\\.bin"
+    codes:
+      - "20000000 00000100"
+
+  - name: "Item - Amount Mod"
+    notes: "File: data[0-9]+\\.bin"
+    codes:
+      - "80010004 [Item]"
+      - "08000004 000000[AMOUNT:63:HEX:BIG<Amount>]"
+
+  - name: "Item/Equipment Swap (Swap with same type)"
+    notes: "File: data[0-9]+\\.bin"
+    codes:
+      - "80010004 [Item<Item You have>]"
+      - "A8000000 00000004"
+      - "[Item<Item You have>] 00000000"
+
+  - name: "Max HP First 50 Puppets"
+    notes: "File: data[0-9]+\\.bin"
+    codes:
+      - "42000470 0001869F"
+      - "40320473 00000000"
+
+  - name: "Max DP First 50 Puppets"
+    notes: "File: data[0-9]+\\.bin"
+    codes:
+      - "42000474 0001869F"
+      - "40320473 00000000"
+
+  - name: "Max Strength First 50 Puppets"
+    notes: "File: data[0-9]+\\.bin"
+    codes:
+      - "42000478 0001869F"
+      - "40320473 00000000"
+
+  - name: "Max Constitution First 50 puppets"
+    notes: "File: data[0-9]+\\.bin"
+    codes:
+      - "4200047C 0001869F"
+      - "40320473 00000000"
+
+  - name: "Max DMP First 50 puppets"
+    notes: "File: data[0-9]+\\.bin"
+    codes:
+      - "42000480 0001869F"
+      - "40320473 00000000"
+
+  - name: "Max Agility First 50 puppets"
+    notes: "File: data[0-9]+\\.bin"
+    codes:
+      - "42000484 0001869F"
+      - "40320473 00000000"
+
+  - name: "Max Dexterity First 50 puppets"
+    notes: "File: data[0-9]+\\.bin"
+    codes:
+      - "42000488 0001869F"
+      - "40320473 00000000"
+
+  - name: "Max Charm First 50 puppets"
+    notes: "File: data[0-9]+\\.bin"
+    codes:
+      - "4200048C 0001869F"
+      - "40320473 00000000"
+
+  - name: "Max Luck First 50 puppets"
+    notes: "File: data[0-9]+\\.bin"
+    codes:
+      - "42000490 0001869F"
+      - "40320473 00000000"
+
+  - name: "Progress Points"
+    notes: "File: data[0-9]+\\.bin"
+    codes:
+      - "200EA599 0001869F"
+
+  - name: "Pact Exp"
+    notes: "File: data[0-9]+\\.bin"
+    codes:
+      - "80[AMOUNT:01:HEX:BIG<Instance>]0004 [Pact]"
+      - "18000031 0000[AMOUNT:270F:HEX:BIG<Amount>]"
+
+  - name: "Change Number Of Pact Skill Slots"
+    notes: "File: data[0-9]+\\.bin"
+    codes:
+      - "80[AMOUNT:01:HEX:BIG<Instance>]0004 [Pact]"
+      - "08000033 000000[AMOUNT:0A:HEX:BIG<Instance>]"
+
+  - name: "Edit Pact Skills"
+    notes: "File: data[0-9]+\\.bin"
+    codes:
+      - "80[AMOUNT:01:HEX:BIG<Instance>]0004 [Pact]"
+      - "18000044 0000[Skill<Skill 1>]"
+      - "18000048 0000[Skill<Skill 2>]"
+      - "1800004C 0000[Skill<Skill 3>]"
+      - "18000050 0000[Skill<Skill 4>]"
+      - "18000054 0000[Skill<Skill 5>]"
+      - "18000058 0000[Skill<Skill 6>]"
+      - "1800005C 0000[Skill<Skill 7>]"
+      - "18000060 0000[Skill<Skill 8>]"
+      - "18000064 0000[Skill<Skill 9>]"
+      - "18000068 0000[Skill<Skill 10>]"

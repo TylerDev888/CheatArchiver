@@ -1,0 +1,24 @@
+# Ps2infogb cheat data
+# Console: PlayStation 2
+# Region:  Unknown
+# Serial:  No
+
+game: "Ps2infogb"
+console: "PlayStation 2"
+region: "Unknown"
+serial: "No"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "90125C88 0C0496C8"
+
+  - name: "GS RAM Code Pointer"
+    author: "lee4"
+    notes: "[version 0.6a]"
+    codes:
+      - "60155980 000000??"

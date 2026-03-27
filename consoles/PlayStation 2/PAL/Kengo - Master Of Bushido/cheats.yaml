@@ -1,0 +1,161 @@
+# Kengo - Master Of Bushido cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50114
+
+game: "Kengo - Master Of Bushido"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50114"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01003B8 000001FD"
+
+  - name: "Alt Mastercode"
+    author: "RyTheHexer"
+    notes: "[Master Codes]"
+    codes:
+      - "F010009C 0000000E"
+
+  - name: "Blur Mode"
+    author: "InterAct"
+    codes:
+      - "201A6760 FFFFFFFF"
+      - "201A6764 FFFFFFFF"
+      - "201A6768 FFFFFFFF"
+      - "201A676C FFFFFFFF"
+
+  - name: "CPU Cannot Charge KI"
+    author: "RyTheHexer"
+    codes:
+      - "10225DC8 00000000"
+
+  - name: "CPU Cannot Move OFF (L1+L2+D-Right):"
+    author: "RyTheHexer"
+    codes:
+      - "E002FADF 001E5CDE"
+      - "20136FFC 8F82924C"
+      - "20137000 FFB10010"
+
+  - name: "CPU Cannot Move ON (L1+L2+D-Left):"
+    author: "RyTheHexer"
+    codes:
+      - "E002FA7F 001E5CDE"
+      - "20136FFC 03E00008"
+      - "20137000 00000000"
+
+  - name: "CPU Never Attacks OFF (L1+L2+D-Down):"
+    author: "RyTheHexer"
+    codes:
+      - "D01E5CDE 0000FABF"
+      - "00137C3B 00000010"
+
+  - name: "CPU Never Attacks ON (L1+L2+D-Up)"
+    author: "RyTheHexer"
+    codes:
+      - "D01E5CDE 0000FAEF"
+      - "00137C3B 00000014"
+
+  - name: "Extra Time (Press L2 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D01E5BC2 0000FEFF"
+      - "20299F10 00000BB8"
+
+  - name: "Freeze Timers"
+    author: "RyTheHexer"
+    codes:
+      - "0013D2E7 0000008C"
+
+  - name: "Kill CPU Opponent (L1+L2+R1+R2)"
+    author: "RyTheHexer"
+    codes:
+      - "D01E5CDE 0000F0FF"
+      - "20225DC0 00000000"
+
+  - name: "Max All Player Stats"
+    author: "RyTheHexer"
+    codes:
+      - "40296BC4 00050001"
+      - "270F270F 00000000"
+      - "10296BA8 000003E7"
+
+  - name: "Max Player Stats (Non-Condensed)"
+    author: "RyTheHexer"
+    codes:
+      - "10296BC4 0000270F"
+      - "10296BC6 0000270F"
+      - "10296BC8 0000270F"
+      - "10296BCA 0000270F"
+      - "10296BCC 0000270F"
+      - "10296BCE 0000270F"
+      - "10296BD0 0000270F"
+      - "10296BD2 0000270F"
+      - "10296BD4 0000270F"
+      - "10296BD6 0000270F"
+      - "10296BA8 000003E7"
+
+  - name: "Dancing Blade"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "101EA26A 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "101EC282 00003F80"
+      - "101EC286 00003F80"
+
+  - name: "Infinite Ki"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "101EC288 00001000"
+
+  - name: "Max Agility"
+    author: "Codejunkies"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "10296BD0 0000270F"
+      - "10296BC6 0000270F"
+
+  - name: "Max Attack Power"
+    author: "Codejunkies"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "10296BD6 0000270F"
+      - "10296BCC 0000270F"
+
+  - name: "Max Attack Speed"
+    author: "Codejunkies"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "10296BCE 0000270F"
+      - "10296BC4 0000270F"
+
+  - name: "Max Insight"
+    author: "Codejunkies"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "10296BD2 0000270F"
+      - "10296BC8 0000270F"
+
+  - name: "Max Spirit"
+    author: "Codejunkies"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "10296BD4 0000270F"
+      - "10296BCA 0000270F"
+
+  - name: "Unlock All Characters"
+    author: "RyTheHexer"
+    codes:
+      - "20161F18 00000000"

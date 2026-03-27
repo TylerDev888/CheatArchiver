@@ -1,0 +1,109 @@
+# Atelier Yumia The Alchemist Of Memories & The Envisioned Land
+
+**Console:** PlayStation 4  
+**Region:** NTSC-U  
+**Serial:** CUSA50766  
+**Cheat Type:** SaveWizard  
+
+---
+
+## Cheats
+
+### Replace Material In Basket
+**Author:**   
+**Notes:** File: save\\user_data_[0-9]+.dat
+
+```
+80010008 23494E44
+14000000 00000000
+A800[Slot] 0000000B
+[Material] 0100E703
+04000500 00000000
+```
+
+---
+
+### Particles/Energy
+**Author:**   
+**Notes:** File: save\\user_data_[0-9]+.dat
+
+```
+80010004 23535444
+93000000 00000055
+280000[EnergyParticle] [AMOUNT:0000270F:HEX:BIG]
+```
+
+---
+
+### Skill Points
+**Author:**   
+**Notes:** File: save\\user_data_[0-9]+.dat
+
+```
+80010004 23415444
+28000014 [AMOUNT:0000270F:HEX:BIG]
+```
+
+---
+
+### Simple Synthesis Material 999
+**Author:**   
+**Notes:** File: save\\user_data_[0-9]+.dat
+
+```
+80010004 23504C44
+93000000 000000F0
+88010004 [Simple]
+18000004 000003E7
+```
+
+---
+
+### Mod Equipped Equipment Stats (hp,attack,defense,speed)
+**Author:**   
+**Notes:** File: save\\user_data_[0-9]+.dat
+
+```
+80010004 23504C44
+B8010004 [Equipment]
+180000A0 0000[AMOUNT:270F:HEX:BIG<HP>]
+180000A2 0000[AMOUNT:270F:HEX:BIG<Attack>]
+180000A4 0000[AMOUNT:270F:HEX:BIG<Defense>]
+180000A6 0000[AMOUNT:270F:HEX:BIG<Speed>]
+```
+
+---
+
+### Mod Equipped Equipment Effects, Traits And Stats
+**Author:**   
+**Notes:** File: save\\user_data_[0-9]+.dat
+
+```
+80010004 23504C44
+B8010004 [Equipment]
+18000008 0000[TraitSlot<Number Of Unlocked Trait Slots>]
+2800000E [Effect<Effect 1>]
+08000012 000000[AMOUNT:63:HEX:BIG<Effect 1 Level>]
+28000013 [Effect<Effect 2>]
+08000017 000000[AMOUNT:63:HEX:BIG<Effect 2 Level>]
+28000018 [Effect<Effect 3>]
+0800001C 000000[AMOUNT:63:HEX:BIG<Effect 3 Level>]
+2800001D [Effect<Effect 4>]
+08000021 000000[AMOUNT:63:HEX:BIG<Effect 4 Level>]
+28000022 [Effect<Effect 5>]
+08000026 000000[AMOUNT:63:HEX:BIG<Effect 5 Level>]
+28000027 [Effect<Effect 6>]
+0800002B 000000[AMOUNT:63:HEX:BIG<Effect 1 Level>]
+2800002C [Trait<Trait 1>]
+08000030 000000[AMOUNT:63:HEX:BIG<Trait 1 Level>]
+28000031 [Trait<Trait 2>]
+08000035 000000[AMOUNT:63:HEX:BIG<Trait 2 level>]
+28000036 [Trait<Trait 3><Trait 3 Level>]
+0800003A 000000[AMOUNT:63:HEX:BIG]
+180000A0 0000[AMOUNT:270F:HEX:BIG<HP>]
+180000A2 0000[AMOUNT:270F:HEX:BIG<Attack>]
+180000A4 0000[AMOUNT:270F:HEX:BIG<Defense>]
+180000A6 0000[AMOUNT:270F:HEX:BIG<Speed>]
+```
+
+---

@@ -1,0 +1,49 @@
+# Resident Evil 5
+
+**Console:** PlayStation 4  
+**Region:** NTSC-U  
+**Serial:** CUSA04437  
+**Cheat Type:** AP  
+**Source:** [ported by krustytoe@hackinformer](ported by krustytoe@hackinformer)  
+
+---
+
+## Cheats
+
+### Have All Treasures X999
+**Author:**   
+**Notes:** File: *
+
+```
+41003B04 00000417
+400F0004 00000001
+41003B40 00000450
+40050004 00000001
+41003B54 00000457
+40050004 00000001
+41003B68 0000045E
+40050004 00000001
+41003B7C 00000465
+40050004 00000001
+41003B90 0000046C
+40050004 00000001
+41003BA4 00000473
+40050004 00000001
+41003BB8 0000047A
+40050004 00000001
+41003B06 000003E7
+40320004 00000000
+```
+
+---
+
+### Increase All Items In Storage Box To 9999
+**Author:**   
+**Notes:** File: *
+
+```
+4100387E 0000270F
+4036000C 00000000
+```
+
+---

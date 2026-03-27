@@ -1,0 +1,803 @@
+# Shin Megami Tensei_ Digital Devil Saga I cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20974
+
+game: "Shin Megami Tensei_ Digital Devil Saga I"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20974"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9030CE58 0C0C333E"
+
+  - name: "Player 1 Controller"
+    notes: "[Joker]"
+    codes:
+      - "003F9902 0000[Joker:PS2]"
+
+  - name: "Infinite Macca"
+    author: "SkillerCMP"
+    notes: "[Misc Codes]"
+    codes:
+      - "2114133C 0098967F"
+
+  - name: "Max Money When Buy/Sell"
+    author: "SkillerCMP"
+    notes: "[Misc Codes]"
+    codes:
+      - "201198E0 ACC5003C"
+
+  - name: "Random Battles(l1+select To Disable, L2+select To Enable)"
+    author: "CMX"
+    notes: "[Misc Codes]"
+    codes:
+      - "D03F9902 0000FBFE"
+      - "2011CC88 00000000"
+      - "D03F9902 0000FEFE"
+      - "2011CC88 A4831364"
+
+  - name: "Moon Control"
+    author: "Japan Hackers"
+    notes: "[Misc Codes]"
+    codes:
+      - "2011CCA4 3C180040"
+      - "2011CCA8 93189DC8"
+      - "2011CCBC 3B020002"
+
+  - name: "Debug Items - Change How Game Starts"
+    author: "SkillerCMP"
+    notes: "[Misc Codes]"
+    codes:
+      - "203297DC [DEBUG]"
+
+  - name: "When Setting Skill List Full Opening"
+    author: "Japan Hackers"
+    notes: "[Party Stats Codes]"
+    codes:
+      - "202785A8 00000000"
+
+  - name: "Inf HP/MP (out Of Battle)"
+    author: "SkillerCMP"
+    notes: "[Party Leader Codes]"
+    codes:
+      - "11141D66 000003E7"
+      - "11141D6A 000003E7"
+
+  - name: "Next Lvl 1"
+    author: "SkillerCMP"
+    notes: "[Party Leader Codes]"
+    codes:
+      - "11141D70 00000001"
+
+  - name: "Always Good Statis"
+    author: "SkillerCMP"
+    notes: "[Party Leader Codes]"
+    codes:
+      - "11141D6E 00000000"
+
+  - name: "Max HP/MP"
+    author: "SkillerCMP"
+    notes: "[Party Leader Codes]"
+    codes:
+      - "11141D68 000003E7"
+      - "11141D6C 000003E7"
+
+  - name: "Max Lvl"
+    author: "SkillerCMP"
+    notes: "[Party Leader Codes]"
+    codes:
+      - "01141D74 00000063"
+
+  - name: "Max All Stats"
+    author: "SkillerCMP"
+    notes: "[Party Leader Codes]"
+    codes:
+      - "11141D76 00006363"
+      - "21141D78 00636363"
+
+  - name: "All Skills In Set"
+    author: "SkillerCMP"
+    notes: "[Party Leader Codes]"
+    codes:
+      - "41141DB8 004C0001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Slot 1 Skill Modifier"
+    author: "SkillerCMP"
+    notes: "[Skill MOD]"
+    codes:
+      - "11141D82 00000[SM]"
+
+  - name: "Slot 2 Skill Modifier"
+    author: "SkillerCMP"
+    notes: "[Skill MOD]"
+    codes:
+      - "11141D84 00000[SM]"
+
+  - name: "Slot 3 Skill Modifier"
+    author: "SkillerCMP"
+    notes: "[Skill MOD]"
+    codes:
+      - "11141D86 00000[SM]"
+
+  - name: "Slot 4 Skill Modifier"
+    author: "SkillerCMP"
+    notes: "[Skill MOD]"
+    codes:
+      - "11141D88 00000[SM]"
+
+  - name: "Slot 5 Skill Modifier"
+    author: "SkillerCMP"
+    notes: "[Skill MOD]"
+    codes:
+      - "11141D8A 00000[SM]"
+
+  - name: "Slot 6 Skill Modifier"
+    author: "SkillerCMP"
+    notes: "[Skill MOD]"
+    codes:
+      - "11141D8C 00000[SM]"
+
+  - name: "Slot 7 Skill Modifier"
+    author: "SkillerCMP"
+    notes: "[Skill MOD]"
+    codes:
+      - "11141D8E 00000[SM]"
+
+  - name: "Slot 8 Skill Modifier"
+    author: "SkillerCMP"
+    notes: "[Skill MOD]"
+    codes:
+      - "11141D90 00000[SM]"
+
+  - name: "Always Good Stats"
+    author: "SkillerCMP"
+    notes: "[Support 3 Codes]"
+    codes:
+      - "1114225A 00000000"
+
+  - name: "Inf/Max MP/HP (player)"
+    author: "SkillerCMP"
+    notes: "[In Battle Codes]"
+    codes:
+      - "201BC490 2406270F"
+      - "201BC4A0 A6660126"
+      - "201BC4D4 2406270F"
+      - "201BC4E4 A666012A"
+
+  - name: "Never Abnormal Statise"
+    author: "SkillerCMP"
+    notes: "[In Battle Codes]"
+    codes:
+      - "201BC270 A660012E"
+      - "201BC27C 30047FFF"
+
+  - name: "1hit Kills Monsters (hp1/Mp0)"
+    author: "SkillerCMP"
+    notes: "[In Battle Codes]"
+    codes:
+      - "201A1AD0 24030001"
+      - "201A1AD8 24040001"
+      - "201A1AE0 24030000"
+      - "201A1AE8 24040000"
+
+  - name: "Analyzing Always Successful (only The ?? Enemy)"
+    author: "Japan Hackers"
+    notes: "[In Battle Codes]"
+    codes:
+      - "201AE7BC 00000000"
+      - "201AE95C 00000000"
+      - "201AEA24 00000000"
+      - "201AEB2C 00000000"
+      - "201AEC4C 00000000"
+      - "201AE990 10000003"
+      - "201AEA58 10000003"
+
+  - name: "Death In Battle Does Not = Game Over"
+    author: "SkillerCMP"
+    notes: "[In Battle Codes]"
+    codes:
+      - "201C6B08 0C071ABC"
+
+  - name: "Use Item Gain 96"
+    author: "Japan Hackers"
+    notes: "[Item Codes]"
+    codes:
+      - "2011993C 34060060"
+
+  - name: "Sell Item Gain 96"
+    author: "Japan Hackers"
+    notes: "[Item Codes]"
+    codes:
+      - "20247518 34020060"
+      - "2024754C 34020060"
+
+  - name: "Have All Norm Items"
+    author: "SkillerCMP"
+    notes: "[Item Codes]"
+    codes:
+      - "20272E04 0040C02D"
+      - "20272E08 340F0062"
+      - "20272E20 54400005"
+      - "20272E24 A30F0000"
+
+  - name: "Have All Items"
+    author: "SkillerCMP"
+    notes: "[Item Codes]"
+    codes:
+      - "211425A0 63636300"
+      - "401425A4 001A0001"
+      - "63636363 00000000"
+      - "0114260C 00000063"
+
+  - name: "Have All Ammo"
+    author: "SkillerCMP"
+    notes: "[Item Codes]"
+    codes:
+      - "21142640 63636300"
+      - "40142644 00030001"
+      - "63636363 00000000"
+      - "11142650 00006363"
+      - "21142640 63636300"
+
+  - name: "Have\\Max All Sp Items"
+    author: "SkillerCMP"
+    notes: "[Item Codes]"
+    codes:
+      - "21141C80 FFFFFFFF"
+
+  - name: "Have\\Max Ration"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425A1 00000063"
+
+  - name: "Have\\Max Brave Ration"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425A2 00000063"
+
+  - name: "Have\\Max Hero Ration"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425A3 00000063"
+
+  - name: "Have\\Max Graven Shard"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425A4 00000063"
+
+  - name: "Have\\Max Graven Image"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425A5 00000063"
+
+  - name: "Have\\Max Medical Kit"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425A6 00000063"
+
+  - name: "Have\\Max Chakra Drop"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425A7 00000063"
+
+  - name: "Have\\Max Chakra Elixir"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425A8 00000063"
+
+  - name: "Have\\Max Chakra Pot"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425A9 00000063"
+
+  - name: "Have\\Max Great Chakra"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425AA 00000063"
+
+  - name: "Have\\Max Soma Drop"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425AB 00000063"
+
+  - name: "Have\\Max Soma"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425AC 00000063"
+
+  - name: "Have\\Max Muscle Drink"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425AD 00000063"
+
+  - name: "Have\\Max Revival Bead"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425AE 00000063"
+
+  - name: "Have\\Max Revival Gem"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425AF 00000063"
+
+  - name: "Have\\Max Revival Orb"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425B0 00000063"
+
+  - name: "Have\\Max Dis-Poison"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425B3 00000063"
+
+  - name: "Have\\Max Dis-Ache"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425B4 00000063"
+
+  - name: "Have\\Max Dis-Mute"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425B5 00000063"
+
+  - name: "Have\\Max Dis-Stun"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425B6 00000063"
+
+  - name: "Have\\Max Dis-Stone"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425B7 00000063"
+
+  - name: "Have\\Max Dis-Curse"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425B8 00000063"
+
+  - name: "Have\\Max Panacea"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425B9 00000063"
+
+  - name: "Have\\Max Odd Morsel"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425BA 00000063"
+
+  - name: "Have\\Max Moldy Roll"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425BB 00000063"
+
+  - name: "Have\\Max Rancid Gravy"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425BC 00000063"
+
+  - name: "Have\\Max Magic Mirror"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425C0 00000063"
+
+  - name: "Have\\Max Attack Mirror"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425C1 00000063"
+
+  - name: "Have\\Max Dekaja Rock"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425C2 00000063"
+
+  - name: "Have\\Max Molotov"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425C4 00000063"
+
+  - name: "Have\\Max Fire Bomb"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425C5 00000063"
+
+  - name: "Have\\Max Ice Blast"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425C6 00000063"
+
+  - name: "Have\\Max Frost Bomb"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425C7 00000063"
+
+  - name: "Have\\Max Thunder Rod"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425C8 00000063"
+
+  - name: "Have\\Max Shock Bomb"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425C9 00000063"
+
+  - name: "Have\\Max Sonic Stone"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425CA 00000063"
+
+  - name: "Have\\Max Blast"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425CB 00000063"
+
+  - name: "Have\\Max Land Mine"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425CC 00000063"
+
+  - name: "Have\\Max Magni Bomb"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425CD 00000063"
+
+  - name: "Have\\Max Holy Arrow"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425CE 00000063"
+
+  - name: "Have\\Max Dark Veil"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425CF 00000063"
+
+  - name: "Have\\Max Al Azif"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425D0 00000063"
+
+  - name: "Have\\Max Murder Rock"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425D1 00000063"
+
+  - name: "Have\\Max Wild Card"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425D4 00000063"
+
+  - name: "Have\\Max Megido Fire"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425D5 00000063"
+
+  - name: "Have\\Max Wild Bomb"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425D6 00000063"
+
+  - name: "Have\\Max Spyglass"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425D8 00000063"
+
+  - name: "Have\\Max Estoma Spray"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425D9 00000063"
+
+  - name: "Have\\Max Magic Reed"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425DA 00000063"
+
+  - name: "Have\\Max Core Shield"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425DB 00000063"
+
+  - name: "Have\\Max Fire Wall"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425E0 00000063"
+
+  - name: "Have\\Max Ice Wall"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425E1 00000063"
+
+  - name: "Have\\Max Bolt Wall"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425E2 00000063"
+
+  - name: "Have\\Max Wind Wall"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425E3 00000063"
+
+  - name: "Have\\Max Earth Wall"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425E4 00000063"
+
+  - name: "Have\\Max Power Noise"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425F0 00000063"
+
+  - name: "Have\\Max Vital Noise"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425F1 00000063"
+
+  - name: "Have\\Max Magic Noise"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425F2 00000063"
+
+  - name: "Have\\Max Quick Noise"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425F3 00000063"
+
+  - name: "Have\\Max Luck Noise"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425F4 00000063"
+
+  - name: "Have\\Max HP Noise"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425F5 00000063"
+
+  - name: "Have\\Max MP Noise"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "011425F6 00000063"
+
+  - name: "Have\\Max Devil Cell"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "01142601 00000063"
+
+  - name: "Have\\Max Active Cell"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "01142602 00000063"
+
+  - name: "Have\\Max Error"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "01142603 00000063"
+
+  - name: "Have\\Max Code Cell"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "01142604 00000063"
+
+  - name: "Have\\Max Quantum Cell"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "01142605 00000063"
+
+  - name: "Have\\Max Organic Cell"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "01142606 00000063"
+
+  - name: "Have\\Max Theory Cell"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "01142607 00000063"
+
+  - name: "Have\\Max Logic Cell"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "01142608 00000063"
+
+  - name: "Have\\Max Fusion Cell"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "01142609 00000063"
+
+  - name: "Have\\Max Layer Cell"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "0114260A 00000063"
+
+  - name: "Have\\Max Entity Cell"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "0114260B 00000063"
+
+  - name: "Have\\Max Jack Cell"
+    author: "SkillerCMP"
+    notes: "[Consumables]"
+    codes:
+      - "0114260C 00000063"
+
+  - name: "Have\\Max Bullet"
+    author: "SkillerCMP"
+    notes: "[Ammo Codes]"
+    codes:
+      - "01142641 00000063"
+
+  - name: "Have\\Max Charge Shot"
+    author: "SkillerCMP"
+    notes: "[Ammo Codes]"
+    codes:
+      - "01142642 00000063"
+
+  - name: "Have\\Max Tranq Shot"
+    author: "SkillerCMP"
+    notes: "[Ammo Codes]"
+    codes:
+      - "01142643 00000063"
+
+  - name: "Have\\Max Shot Shell"
+    author: "SkillerCMP"
+    notes: "[Ammo Codes]"
+    codes:
+      - "01142644 00000063"
+
+  - name: "Have\\Max Nerve Shot"
+    author: "SkillerCMP"
+    notes: "[Ammo Codes]"
+    codes:
+      - "01142645 00000063"
+
+  - name: "Have\\Max Frigid Shot"
+    author: "SkillerCMP"
+    notes: "[Ammo Codes]"
+    codes:
+      - "01142646 00000063"
+
+  - name: "Have\\Max Metal Jacket"
+    author: "SkillerCMP"
+    notes: "[Ammo Codes]"
+    codes:
+      - "01142647 00000063"
+
+  - name: "Have\\Max Hollow Point"
+    author: "SkillerCMP"
+    notes: "[Ammo Codes]"
+    codes:
+      - "01142648 00000063"
+
+  - name: "Have\\Max Charm Shot"
+    author: "SkillerCMP"
+    notes: "[Ammo Codes]"
+    codes:
+      - "01142649 00000063"
+
+  - name: "Have\\Max Iron Shot"
+    author: "SkillerCMP"
+    notes: "[Ammo Codes]"
+    codes:
+      - "0114264A 00000063"
+
+  - name: "Have\\Max Neutron Shot"
+    author: "SkillerCMP"
+    notes: "[Ammo Codes]"
+    codes:
+      - "0114264B 00000063"
+
+  - name: "Have\\Max Reserve"
+    author: "SkillerCMP"
+    notes: "[Ammo Codes]"
+    codes:
+      - "0114264C 00000063"
+
+  - name: "Have\\Max Silver Shot"
+    author: "SkillerCMP"
+    notes: "[Ammo Codes]"
+    codes:
+      - "0114264D 00000063"
+
+  - name: "Have\\Max Forged Shot"
+    author: "SkillerCMP"
+    notes: "[Ammo Codes]"
+    codes:
+      - "0114264E 00000063"
+
+  - name: "Have\\Max Dead End"
+    author: "SkillerCMP"
+    notes: "[Ammo Codes]"
+    codes:
+      - "0114264F 00000063"
+
+  - name: "Have\\Max Theif Shot"
+    author: "SkillerCMP"
+    notes: "[Ammo Codes]"
+    codes:
+      - "01142650 00000063"
+
+  - name: "Have\\Max Magatama"
+    author: "SkillerCMP"
+    notes: "[Ammo Codes]"
+    codes:
+      - "01142651 00000063"
+
+  - name: "Main Starting Video To ??"
+    author: "SkillerCMP"
+    notes: "[Video Mods]  2037B768 [MOVIE]"

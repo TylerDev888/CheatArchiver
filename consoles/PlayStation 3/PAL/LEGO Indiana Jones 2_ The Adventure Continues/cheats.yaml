@@ -1,0 +1,27 @@
+# LEGO Indiana Jones 2_ The Adventure Continues cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00763
+
+game: "LEGO Indiana Jones 2_ The Adventure Continues"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00763"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Studs"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "8001000C 45610000"
+      - "00000000 00000000"
+      - "28000108 000000E8"
+      - "2800010C D4A50FFF"
+
+  - name: "Update Dwadd For Savedata.dat(required)"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "set [csum]:0x5C0999"
+      - "set [csum]:dwadd(0x000000,0x0813DF)"
+      - "write at 0x0813E0:[csum]"

@@ -1,0 +1,64 @@
+# 18 Wheeler - American Pro Trucker cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20210
+
+game: "18 Wheeler - American Pro Trucker"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20210"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enabler Code (Must Be On)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01EE10C 001EE10F"
+
+  - name: "Have K.I.T.A. Turbo"
+    author: "Codejunkies"
+    codes:
+      - "D05F8D02 0000FDFD"
+      - "1075458A 000042B0"
+
+  - name: "Have More Mission Time"
+    author: "Codejunkies"
+    codes:
+      - "D05F8D02 0000FBFF"
+      - "103037A4 0000EA30"
+
+  - name: "Infinite Money"
+    author: "Code Master"
+    codes:
+      - "1030379C 0000FFFF"
+
+  - name: "Infinite Time"
+    author: "Code Master"
+    codes:
+      - "203037A4 00001740"
+
+  - name: "Max Cash"
+    author: "Codejunkies"
+    codes:
+      - "D05F8D02 0000F7FF"
+      - "2030379C 0098967F"
+      - "D05F8D02 0000F7FF"
+      - "205AEF6C 0098967F"
+
+  - name: "Max Money"
+    author: "Code Master"
+    codes:
+      - "2030379C 0098967F"
+
+  - name: "Max Value"
+    author: "Code Master"
+    codes:
+      - "203037C0 0001869F"
+
+  - name: "Press R1+X For Hella Speed"
+    author: "Code Master"
+    codes:
+      - "D05F8D02 0000B7FF"
+      - "20754588 42C80000"

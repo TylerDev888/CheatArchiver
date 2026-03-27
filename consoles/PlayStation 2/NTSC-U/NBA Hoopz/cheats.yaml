@@ -1,0 +1,400 @@
+# NBA Hoopz cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20050
+
+game: "NBA Hoopz"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20050"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F019E88C 000001FD"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001B38FF"
+
+  - name: "Blizzard Beach"
+    author: "Codejunkies"
+    notes: "[Beach Weather Condition Codes]"
+    codes:
+      - "004F1B24 00000001"
+      - "104F1B74 00000001"
+
+  - name: "Rainy Beach"
+    author: "Codejunkies"
+    notes: "[Beach Weather Condition Codes]"
+    codes:
+      - "004F1B24 00000001"
+      - "004F1B7C 00000001"
+
+  - name: "Snowy Beach"
+    author: "Codejunkies"
+    notes: "[Beach Weather Condition Codes]"
+    codes:
+      - "004F1B24 00000001"
+      - "004F1B78 00000001"
+
+  - name: "Dunk From Anywhere"
+    author: "nolberto82"
+    codes:
+      - "20146678 106200CF"
+      - "2014690C 45000029"
+      - "2013FE38 45000005"
+      - "2013FD94 14400021"
+      - "2013FC10 10400018"
+      - "E0058400 005015B8"
+      - "20146678 1000002C"
+      - "2014690C 10000025"
+      - "2013FE38 00000000"
+      - "2013FD94 10000021"
+      - "2013FC10 10000018"
+
+  - name: "No Goal Tending Both Teams"
+    author: "Codejunkies"
+    notes: "[Goal Tending Codes]"
+    codes:
+      - "004F1B08 00000003"
+
+  - name: "No Goal Tending Team 1"
+    author: "Codejunkies"
+    notes: "[Goal Tending Codes]"
+    codes:
+      - "004F1B08 00000001"
+
+  - name: "No Goal Tending Team 2"
+    author: "Codejunkies"
+    notes: "[Goal Tending Codes]"
+    codes:
+      - "004F1B08 00000002"
+
+  - name: "Unlock Beach Court"
+    author: "InterAct"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "004F1B24 00000001"
+
+  - name: "Unlock Street Court"
+    author: "InterAct"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "004F1B28 00000001"
+
+  - name: "Unlock Tournament Mode"
+    author: "InterAct"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "004F1B2C 00000001"
+
+  - name: "Weather: Blizzard Beach (Only Use One Of The Following!)"
+    author: "InterAct"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "004F1B24 00000001"
+      - "104F1B74 00000001"
+      - "004F1B28 00000001"
+      - "104F1B74 00000001"
+
+  - name: "Weather: Rainy Streets (Only Use One Of The Following!)"
+    author: "InterAct"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "004F1B28 00000001"
+      - "004F1B7C 00000001"
+
+  - name: "Weather: Snowy Streets (Only Use One Of The Following!)"
+    author: "InterAct"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "004F1B28 00000001"
+      - "004F1B78 00000001"
+
+  - name: "No Replays"
+    author: "InterAct"
+    codes:
+      - "004F1B00 00000001"
+
+  - name: "Do Granny Shots"
+    author: "Codejunkies"
+    notes: "[Show Shot % Codes]"
+    codes:
+      - "004F1B20 00000001"
+
+  - name: "No Pushes Happen"
+    author: "Codejunkies"
+    notes: "[Show Shot % Codes]"
+    codes:
+      - "004F1B38 00000003"
+
+  - name: "Show Hotspots"
+    author: "Codejunkies"
+    notes: "[Show Shot % Codes]"
+    codes:
+      - "004F1B3C 00000001"
+
+  - name: "Show Shot % Both Teams"
+    author: "Codejunkies"
+    notes: "[Show Shot % Codes]"
+    codes:
+      - "004F1B34 00000003"
+
+  - name: "Show Shot % Team 1"
+    author: "Codejunkies"
+    notes: "[Show Shot % Codes]"
+    codes:
+      - "004F1B34 00000001"
+
+  - name: "Show Shot % Team 2"
+    author: "Codejunkies"
+    notes: "[Show Shot % Codes]"
+    codes:
+      - "004F1B34 00000002"
+
+  - name: "There Are No Fouls"
+    author: "Codejunkies"
+    notes: "[Show Shot % Codes]"
+    codes:
+      - "004F1B68 00000001"
+
+  - name: "There Are No Hotspots"
+    author: "Codejunkies"
+    notes: "[Show Shot % Codes]"
+    codes:
+      - "004F1B40 00000001"
+
+  - name: "Blizzard Streets"
+    author: "Codejunkies"
+    notes: "[Street's Weather Condition Codes]"
+    codes:
+      - "004F1B28 00000001"
+      - "104F1B74 00000001"
+
+  - name: "Team 1 & Team 2 Infinite Turbo"
+    author: "InterAct"
+    notes: "[Team 1 & Team 2 Codes]"
+    codes:
+      - "004F1AFC 00000003"
+
+  - name: "Team 1 & Team 2 Tiny Heads"
+    author: "InterAct"
+    notes: "[Team 1 & Team 2 Codes]"
+    codes:
+      - "004F1B10 00000003"
+
+  - name: "Team 1 & Team 2 Tiny Players"
+    author: "InterAct"
+    notes: "[Team 1 & Team 2 Codes]"
+    codes:
+      - "004F1B14 00000003"
+
+  - name: "Team 1: Infinite Turbo"
+    author: "InterAct"
+    notes: "[Team 1 Codes]"
+    codes:
+      - "004F1AFC 00000001"
+
+  - name: "Team 1: Tiny Heads"
+    author: "InterAct"
+    notes: "[Team 1 Codes]"
+    codes:
+      - "004F1B10 00000001"
+
+  - name: "Team 1: Tiny Players"
+    author: "InterAct"
+    notes: "[Team 1 Codes]"
+    codes:
+      - "004F1B14 00000001"
+
+  - name: "Team 2: Infinite Turbo"
+    author: "InterAct"
+    notes: "[Team 2 Codes]"
+    codes:
+      - "004F1AFC 00000002"
+
+  - name: "Team 2: Tiny Heads"
+    author: "InterAct"
+    notes: "[Team 2 Codes]"
+    codes:
+      - "004F1B10 00000002"
+
+  - name: "Team 2: Tiny Players"
+    author: "InterAct"
+    notes: "[Team 2 Codes]"
+    codes:
+      - "004F1B14 00000002"
+
+  - name: "Ultra Quarters"
+    author: "InterAct"
+    codes:
+      - "004F1B1C 00000001"
+
+  - name: "Infinite Turbo Team 1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1AFC 00000001"
+
+  - name: "Infinite Turbo Team 2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1AFC 00000002"
+
+  - name: "Infinite Turbo Team 1 & 2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1AFC 00000003"
+
+  - name: "No Goaltending Team 1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1B08 00000001"
+
+  - name: "No Goaltending Team 2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1B08 00000002"
+
+  - name: "No Goaltending Team 1 & 2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1B08 00000003"
+
+  - name: "Small Heads Team 1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1B10 00000001"
+
+  - name: "Small Heads Team 2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1B10 00000002"
+
+  - name: "Small Heads Team 1 & 2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1B10 00000003"
+
+  - name: "Small Players Team 1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1B14 00000001"
+
+  - name: "Small Players Team 2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1B14 00000002"
+
+  - name: "Small Players Team 1 & 2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1B14 00000003"
+
+  - name: "Granny Shots"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1B20 00000001"
+
+  - name: "Beach Court"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1B24 00000001"
+
+  - name: "Blizzard Beach Court"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1B24 00000001"
+      - "104F1B74 00000001"
+
+  - name: "Snowy Beach Court"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1B24 00000001"
+      - "004F1B78 00000001"
+
+  - name: "Rainy Beach Court"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1B24 00000001"
+      - "004F1B7C 00000001"
+
+  - name: "Street Court"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1B28 00000001"
+
+  - name: "Blizzard Street Court"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1B28 00000001"
+      - "104F1B74 00000001"
+
+  - name: "Snowy Street Court"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1B28 00000001"
+      - "004F1B78 00000001"
+
+  - name: "Rainy Street Court"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1B28 00000001"
+      - "004F1B7C 00000001"
+
+  - name: "Tournament Mode"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1B2C 00000001"
+
+  - name: "Show Shot % Team 1 & 2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1B34 00000003"
+
+  - name: "No Pushes"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1B38 00000003"
+
+  - name: "No Hotspots"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1B40 00000001"
+
+  - name: "No Fouls"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004F1B68 00000001"

@@ -1,0 +1,30 @@
+# Whiteout cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Whiteout"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9011424C 0C0483B4"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20295CFC 3C014370"
+      - "20295D00 AE01009C"
+
+  - name: "Money"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "208692FC 47C34F80"

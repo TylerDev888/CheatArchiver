@@ -1,0 +1,34 @@
+# Ultraman Fighting Evolution - Rebirth cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25529
+
+game: "Ultraman Fighting Evolution - Rebirth"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25529"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "902BD458 0C0AF4BE"
+
+  - name: "Hit Anywhere Both Players"
+    author: "nolberto82"
+    codes:
+      - "201F73B0 34120001"
+
+  - name: "Infinite Health P1"
+    author: "nolberto82"
+    codes:
+      - "20216050 0272782A"
+
+  - name: "Press L3 For Debug Menu"
+    author: "punk7890"
+    codes:
+      - "D0342582 0000FFFD"
+      - "2033E3A0 00000000"

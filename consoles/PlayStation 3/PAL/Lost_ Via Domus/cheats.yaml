@@ -1,0 +1,19 @@
+# Lost_ Via Domus cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00221
+
+game: "Lost_ Via Domus"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00221"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 (required)"
+    notes: "File: LOST00"
+    codes:
+      - "set range:0x00003C,0x20003B"
+      - "set [hash]:CRC32"
+      - "write at 0x000008:[hash]"

@@ -1,0 +1,49 @@
+# Gakuen Utopia - Manabi Straight! Kirakira Happy Festa! cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25752
+
+game: "Gakuen Utopia - Manabi Straight! Kirakira Happy Festa!"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25752"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010F858 0C043DBE"
+
+  - name: "Unlock All Album"
+    author: "punk7890"
+    codes:
+      - "2031CDC0 FFFFFFFF"
+      - "2031CDC4 FFFFFFFF"
+      - "2031CDC8 FFFFFFFF"
+      - "2031CDCC FFFFFFFF"
+
+  - name: "Unlock All Collection"
+    author: "punk7890"
+    codes:
+      - "2031DF68 FFFFFFFF"
+      - "2031DF6C FFFFFFFF"
+      - "2031DF70 FFFFFFFF"
+      - "1031DF74 0000FFFF"
+      - "0031DF76 000000FF"
+
+  - name: "Unlock All Scene Recollection"
+    author: "punk7890"
+    codes:
+      - "0031DE93 000000FF"
+      - "2031DE94 FFFFFFFF"
+      - "2031DE98 FFFFFFFF"
+      - "1031DE9C 0000FFFF"
+      - "0031DE9E 000000FF"
+
+  - name: "Unlock All Sound"
+    author: "punk7890"
+    codes:
+      - "2031DEA8 FFFFFFFF"

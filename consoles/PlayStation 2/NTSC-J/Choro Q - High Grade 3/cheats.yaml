@@ -1,0 +1,19 @@
+# Choro Q - High Grade 3 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62244
+
+game: "Choro Q - High Grade 3"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62244"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Opponents Don't Move And Are Invisible"
+    author: "luc-ita"
+    codes:
+      - "20218178 3C020101"
+      - "2021817C 34424EE0"
+      - "20218180 00441026"

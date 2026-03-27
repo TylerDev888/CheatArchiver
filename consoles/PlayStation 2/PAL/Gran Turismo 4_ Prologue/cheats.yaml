@@ -1,0 +1,76 @@
+# Gran Turismo 4_ Prologue cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Gran Turismo 4_ Prologue"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "904946C0 0C12B0D1"
+
+  - name: "All Cars"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "200C2000 24050003"
+      - "200C2004 080AC1EE"
+      - "200C2008 AC650004"
+      - "2012FF78 0C030800"
+
+  - name: "Half Speed"
+    author: "Xploder"
+    notes: "[Timer]"
+    codes:
+      - "2033C6B8 2442001E"
+
+  - name: "Quarter Speed"
+    author: "Xploder"
+    notes: "[Timer]"
+    codes:
+      - "2033C6B8 2442000F"
+
+  - name: "Frozen"
+    author: "Xploder"
+    notes: "[Timer]"
+    codes:
+      - "2033C6B8 24020BB8"
+
+  - name: "No Crash Time Penalty"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "20342A98 24050000"
+
+  - name: "Hong Kong"
+    author: "Xploder"
+    notes: "[Unlock Tracks]"
+    codes:
+      - "20823E54 7400616E"
+      - "20823E58 756B7573"
+      - "20823E5C 00006162"
+
+  - name: "Grand Canyon North"
+    author: "Xploder"
+    notes: "[Unlock Tracks]"
+    codes:
+      - "20823E3C 6B757374"
+      - "20823E40 00616275"
+      - "20823E44 00000000"
+      - "20823E48 00000000"
+      - "20823E4C 79670000"
+
+  - name: "Driving Park (Gymkhana)"
+    author: "Xploder"
+    notes: "[Unlock Tracks]"
+    codes:
+      - "10823E4E 00007374"
+      - "20823E50 62756B75"
+      - "20823E54 68000061"

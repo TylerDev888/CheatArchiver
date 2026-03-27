@@ -1,0 +1,420 @@
+# Harvest Moon - A Wonderful Life [Special Edition] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21171
+
+game: "Harvest Moon - A Wonderful Life [Special Edition]"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21171"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0457D9C 00457D9F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master>Skiller"
+    notes: "[Master Codes]"
+    codes:
+      - "90457E74 0C117560"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "90130060 0C117560"
+
+  - name: "Auto Run"
+    author: "RENEGADE"
+    notes: "[ASM Codes]"
+    codes:
+      - "201BA4AC 00000000"
+
+  - name: "Cow #1 Full Health"
+    author: "RENEGADE"
+    notes: "[ASM Codes]"
+    codes:
+      - "214A057C 00004E20"
+
+  - name: "Cow #1 Full Hearts"
+    author: "RENEGADE"
+    notes: "[ASM Codes]"
+    codes:
+      - "214A0570 000007D0"
+
+  - name: "Cow #1 Mood Status Good"
+    author: "RENEGADE"
+    notes: "[ASM Codes]"
+    codes:
+      - "214A0588 00000000"
+
+  - name: "Farming Tool Uses Maximum Degree Of Skill"
+    author: "RENEGADE"
+    notes: "[ASM Codes]"
+    codes:
+      - "2148FD90 0000C350"
+      - "2148FD98 0000C350"
+      - "2148FD9C 0000C350"
+      - "2148FDA4 0000C350"
+      - "2148FDA8 0000C350"
+      - "2148FDB0 0000C350"
+      - "2148FDB4 0000C350"
+      - "2148FDBC 0000C350"
+      - "2148FDC0 0000C350"
+      - "2148FDC8 0000C350"
+      - "2148FDCC 0000C350"
+      - "2148FDD4 0000C350"
+      - "2148FDD8 0000C350"
+      - "2148FDE0 0000C350"
+      - "2148FDE4 0000C350"
+      - "2148FDEC 0000C350"
+
+  - name: "Full Ap Bar"
+    author: "RENEGADE"
+    notes: "[ASM Codes]"
+    codes:
+      - "2148FD64 003186A0"
+
+  - name: "Full Sp Bar"
+    author: "RENEGADE"
+    notes: "[ASM Codes]"
+    codes:
+      - "2148FD74 0000869F"
+
+  - name: "Full St Bar"
+    author: "RENEGADE"
+    notes: "[ASM Codes]"
+    codes:
+      - "2148FD54 000186A0"
+
+  - name: "Giant Char Mod"
+    author: "RENEGADE"
+    notes: "[ASM Codes]"
+    codes:
+      - "2143C17C 40800000"
+      - "2143C180 40800000"
+      - "2143C184 40800000"
+      - "2143C188 40800000"
+
+  - name: "Player Speed Mod"
+    author: "RENEGADE"
+    notes: "[ASM Codes]"
+    codes:
+      - "204D01F0 3E99999A"
+      - "204D0200 3E99999A"
+
+  - name: "Remote Char"
+    author: "RENEGADE"
+    notes: "[ASM Codes]"
+    codes:
+      - "20111250 00000000"
+
+  - name: "Super Fast Jump (Over Fence)"
+    author: "RENEGADE"
+    notes: "[ASM Codes]"
+    codes:
+      - "20544028 40800000"
+
+  - name: "Time Control L1+X = Add Time L1+O = Subtract Time"
+    author: "RENEGADE"
+    notes: "[ASM Codes]"
+    codes:
+      - "201BADA4 0803C000"
+      - "200F0000 3C0801AA"
+      - "200F0004 3C09005E"
+      - "200F0008 3508C1C0"
+      - "200F000C 85299842"
+      - "200F0010 240ABBFF"
+      - "200F0014 112A0006"
+      - "200F0018 00000000"
+      - "200F001C 240ADBFF"
+      - "200F0020 112A0008"
+      - "200F0024 00000000"
+      - "200F0028 1000000A"
+      - "200F002C 00000000"
+      - "200F0030 8D0B0000"
+      - "200F0034 256B1000"
+      - "200F0038 AD0B0000"
+      - "200F003C 10000005"
+      - "200F0040 00000000"
+      - "200F0044 8D0B0000"
+      - "200F0048 240C1000"
+      - "200F004C 016C5822"
+      - "200F0050 AD0B0000"
+      - "200F0054 03E00008"
+
+  - name: "Train Dog 1 Time For Full Training"
+    author: "RENEGADE"
+    notes: "[ASM Codes]"
+    codes:
+      - "20D73B3C 000007D0"
+
+  - name: "Walk Through Walls L1+X"
+    author: "RENEGADE"
+    notes: "[ASM Codes]"
+    codes:
+      - "D05D9842 0000BBFF"
+      - "201BA968 00000000"
+      - "D05D9842 0010BBFF"
+      - "201BA968 0C0C2A00"
+
+  - name: "Full Crop Bin"
+    author: "MadCatz"
+    codes:
+      - "4148E7E8 00FB0001"
+      - "03E7001F 00000001"
+
+  - name: "Full Dairy Bin"
+    author: "MadCatz"
+    codes:
+      - "4148E70C 00130001"
+      - "03E70006 00000001"
+      - "4148E758 00030001"
+      - "03E7001C 00000001"
+      - "4148E764 000C0001"
+      - "03E70514 00000001"
+      - "2148E794 03E70510"
+      - "2148E798 03E70511"
+
+  - name: "Full Freezer"
+    author: "MadCatz"
+    codes:
+      - "4148D074 00100001"
+      - "03E70433 00000001"
+      - "4148D0B2 00200001"
+      - "03E7046F 00000001"
+      - "4148D132 000B0001"
+      - "03E7048F 00000001"
+      - "4148D132 00210001"
+      - "03E7049C 00000001"
+      - "4148D1B4 00300001"
+      - "03E704BE 00000001"
+
+  - name: "Full Tool Shed"
+    author: "MadCatz"
+    codes:
+      - "1148E6EC 0000FFFF"
+      - "1148E6EE 0000FFFF"
+      - "1148E6F0 0000FFFF"
+      - "1148E6F2 0000FFFF"
+      - "1148E6F4 0000FFFF"
+      - "1148E6F6 0000FFFF"
+      - "1148E6F8 0000FFFF"
+      - "1148E6FA 0000FFFF"
+      - "1148E6FC 0000FFFF"
+      - "1148E6FE 0000FFFF"
+      - "1148E700 0000FFFF"
+
+  - name: "Full Tool Shed Shelf"
+    author: "MadCatz"
+    codes:
+      - "4148D5B0 03170001"
+      - "03E7011B 00000001"
+      - "4148E20C 00180001"
+      - "03E70442 00000001"
+      - "4148E26C 00120001"
+      - "03E70520 00000001"
+      - "2148E2B4 03E7045E"
+      - "2148E2B8 03E70460"
+      - "2148E2BC 03E70462"
+      - "2148E2BE 03E70464"
+      - "2148E2C2 03E70466"
+      - "4148E2C4 00070001"
+      - "03E70468 00000001"
+      - "4148E2E0 00050001"
+      - "03E70001 00000001"
+
+  - name: "All Tools"
+    author: "Code Master>Skiller"
+    notes: "[Have Tool Codes]"
+    codes:
+      - "4148E6EC 00050001"
+      - "81818181 00000000"
+
+  - name: "Brush"
+    author: "Code Master>Skiller"
+    notes: "[Have Tool Codes]"
+    codes:
+      - "0148E6EE 00000081"
+
+  - name: "Clippers"
+    author: "Code Master>Skiller"
+    notes: "[Have Tool Codes]"
+    codes:
+      - "0148E6EF 00000081"
+
+  - name: "Cow Milker"
+    author: "Code Master>Skiller"
+    notes: "[Have Tool Codes]"
+    codes:
+      - "0148E6FB 00000081"
+
+  - name: "Fishing Pole"
+    author: "Code Master>Skiller"
+    notes: "[Have Tool Codes]"
+    codes:
+      - "0148E6F9 00000081"
+
+  - name: "Fishing Rod"
+    author: "Code Master>Skiller"
+    notes: "[Have Tool Codes]"
+    codes:
+      - "0148E6F8 00000081"
+
+  - name: "Goat Milker"
+    author: "Code Master>Skiller"
+    notes: "[Have Tool Codes]"
+    codes:
+      - "0148E6FA 00000081"
+
+  - name: "Heavy Hoe"
+    author: "Code Master>Skiller"
+    notes: "[Have Tool Codes]"
+    codes:
+      - "20578F16 42CC71C8"
+
+  - name: "Heavy Sickle"
+    author: "Code Master>Skiller"
+    notes: "[Have Tool Codes]"
+    codes:
+      - "0148E6F1 00000081"
+
+  - name: "Hoe"
+    author: "Code Master>Skiller"
+    notes: "[Have Tool Codes]"
+    codes:
+      - "0148E6F4 00000081"
+
+  - name: "Light Hoe"
+    author: "Code Master>Skiller"
+    notes: "[Have Tool Codes]"
+    codes:
+      - "0148E6F5 00000081"
+
+  - name: "Light Sickle"
+    author: "Code Master>Skiller"
+    notes: "[Have Tool Codes]"
+    codes:
+      - "0148E6F2 00000081"
+
+  - name: "Sickle"
+    author: "Code Master>Skiller"
+    notes: "[Have Tool Codes]"
+    codes:
+      - "0148E6F0 00000081"
+
+  - name: "Strange Hoe"
+    author: "Code Master>Skiller"
+    notes: "[Have Tool Codes]"
+    codes:
+      - "0148E6F6 00000081"
+
+  - name: "Watering Can"
+    author: "Code Master>Skiller"
+    notes: "[Have Tool Codes]"
+    codes:
+      - "0148E6FD 00000081"
+
+  - name: "Watering Can L"
+    author: "Code Master>Skiller"
+    notes: "[Have Tool Codes]"
+    codes:
+      - "0148E6EC 00000081"
+
+  - name: "Watering Can S"
+    author: "Code Master>Skiller"
+    notes: "[Have Tool Codes]"
+    codes:
+      - "0148E6ED 00000081"
+
+  - name: "Watering Can W"
+    author: "Code Master>Skiller"
+    notes: "[Have Tool Codes]"
+    codes:
+      - "0148E6FC 00000081"
+
+  - name: "Weird Hoe"
+    author: "Code Master>Skiller"
+    notes: "[Have Tool Codes]"
+    codes:
+      - "0148E6F7 00000081"
+
+  - name: "Whool Shears"
+    author: "Code Master>Skiller"
+    notes: "[Have Tool Codes]"
+    codes:
+      - "0148E6FF 00000081"
+
+  - name: "Wool Clippers"
+    author: "Code Master>Skiller"
+    notes: "[Have Tool Codes]"
+    codes:
+      - "0148E6FE 00000081"
+
+  - name: "Infinite Gold"
+    author: "MadCatz"
+    codes:
+      - "2148FBE8 00FFFFFF"
+
+  - name: "Press L1+L2 For All Tools"
+    author: "Codejunkies"
+    codes:
+      - "E002FAFF 005D98C2"
+      - "4148E6EC 00060001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Barn Can Hold Max Capacity"
+    author: "Code Master>Skiller"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "1149F73C 000003E8"
+
+  - name: "Max Gold"
+    author: "Code Master>Skiller"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2148FBE8 05F5E0FF"
+
+  - name: "Max Skill-Farm Tools"
+    author: "Code Master>Skiller"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "4148FD90 00080003"
+      - "0000C350 00000000"
+
+  - name: "Max Tolerances"
+    author: "Code Master>Skiller"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "4148FE74 00050002"
+      - "005B7CB0 00000000"
+
+  - name: "Never Hungry"
+    author: "Code Master>Skiller"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2148FD64 00149970"
+
+  - name: "Never Tired"
+    author: "Code Master>Skiller"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2148FD54 000186A0"
+      - "2148FD70 0001869F"
+
+  - name: "Pet 1-Always Happy"
+    author: "Code Master>Skiller"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "21493034 00000064"
+
+  - name: "Quick Dog Training"
+    author: "Code Master>Skiller"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2032631C 00000000"

@@ -1,0 +1,57 @@
+# Steel Dragon Ex cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Steel Dragon Ex"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9010F264 00832021"
+      - "90154620 0C048F5E"
+
+  - name: "Lives P1"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "E002B570 001344F8"
+      - "20134500 24020005"
+      - "20134508 A7828780"
+
+  - name: "Bombs P1"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "E002B570 001344F8"
+      - "20145FAC 24030063"
+      - "20145FB8 A7838778"
+
+  - name: "Lives P2"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "E002B570 001344F8"
+      - "201345F8 24020005"
+      - "201345FC A7828782"
+
+  - name: "Bombs P2"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "E002B570 001344F8"
+      - "20146324 24030063"
+      - "20146330 A783877A"
+
+  - name: "Invincibility (Both Players)"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "E001B570 001344F8"
+      - "201498A8 1000003A"

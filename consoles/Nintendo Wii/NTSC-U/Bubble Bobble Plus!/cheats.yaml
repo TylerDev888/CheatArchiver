@@ -1,0 +1,22 @@
+# Bubble Bobble Plus! cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  WBLE
+
+game: "Bubble Bobble Plus!"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "WBLE"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Inf Lives"
+    author: "Skiller"
+    codes:
+      - "0201E1EA 00000000"
+
+  - name: "Gain Life When Die"
+    author: "Skiller"
+    codes:
+      - "0201E1EA 00000001"

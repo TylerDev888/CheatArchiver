@@ -1,0 +1,76 @@
+# Akiba's Trip 2 cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM61105
+
+game: "Akiba's Trip 2"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM61105"
+cheat_type: "Save Editor"
+source: "From savedata.jp"
+
+cheats:
+  - name: "Equipment Head Power Up Point 999"
+    notes: "File: USR-DATA.BIN"
+    codes:
+      - "200000C4 000003E7"
+
+  - name: "Equipment Outer Power Up Point 999"
+    notes: "File: USR-DATA.BIN"
+    codes:
+      - "20000124 000003E7"
+
+  - name: "Equipment Under Power Up Point 999"
+    notes: "File: USR-DATA.BIN"
+    codes:
+      - "20000184 000003E7"
+
+  - name: "Equipment Weapon Power Up Point 999"
+    notes: "File: USR-DATA.BIN"
+    codes:
+      - "200005A4 000003E7"
+
+  - name: "Player Defense 999999(max300)"
+    notes: "File: USR-DATA.BIN"
+    codes:
+      - "20000604 000F423F"
+
+  - name: "Player Attack 999999(max300)"
+    notes: "File: USR-DATA.BIN"
+    codes:
+      - "20000608 000F423F"
+
+  - name: "Player Exp 999999"
+    notes: "File: USR-DATA.BIN"
+    codes:
+      - "2000060C 000F423F"
+
+  - name: "Player Datsui Skill All Max"
+    notes: "File: USR-DATA.BIN"
+    codes:
+      - "4200061C 00000064"
+      - "401E0004 00000000"
+
+  - name: "Money 9999999"
+    notes: "File: USR-DATA.BIN"
+    codes:
+      - "2000B49C 0098967F"
+
+  - name: "All Use Item Stcok 99"
+    notes: "File: USR-DATA.BIN"
+    codes:
+      - "42039FCC 00000063"
+      - "405D0004 00000000"
+
+  - name: "All Food Stock 99"
+    notes: "File: USR-DATA.BIN"
+    codes:
+      - "4203A154 00000063"
+      - "40170004 00000000"
+
+  - name: "All Innerwear Stock 15"
+    notes: "File: USR-DATA.BIN"
+    codes:
+      - "4003F740 0000000F"
+      - "40330001 00000000"

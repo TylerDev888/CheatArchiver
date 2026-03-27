@@ -1,0 +1,18 @@
+# Conflict_ Denied Ops cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00182
+
+game: "Conflict_ Denied Ops"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00182"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Have All Citations"
+    notes: "File: BLES00182-PROFILE\\SAVEGAME"
+    codes:
+      - "200003C0 FFFFFFFF"
+      - "200003C4 FFFFFFFF"

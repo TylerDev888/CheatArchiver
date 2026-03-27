@@ -1,0 +1,70 @@
+# Hokuto No Ken cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66660
+
+game: "Hokuto No Ken"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66660"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "9029A448 0C046952"
+
+  - name: "Master Code"
+    author: "VisitntX"
+    notes: "[Master Codes]"
+    codes:
+      - "F01234DC 000001FD"
+      - "F01234DC 0000000E"
+
+  - name: "Hit Anywhere Both Players"
+    author: "nolberto82"
+    codes:
+      - "201385B4 00000000"
+
+  - name: "Infinite Energy"
+    author: "VisitntX"
+    codes:
+      - "00AAED58 000000C0"
+      - "00AAED5E 000000C0"
+      - "01E6F1A4 000000C0"
+      - "01E6F1AA 000000C0"
+
+  - name: "Invincibility P1"
+    author: "nolberto82"
+    codes:
+      - "20138514 02B4102A"
+      - "20138518 5040004F"
+
+  - name: "P1 Aura"
+    author: "lee4"
+    codes:
+      - "20AAED70 ????????"
+
+  - name: "P1 Boost"
+    author: "lee4"
+    codes:
+      - "20AAEDA0 00??0001"
+
+  - name: "P2 Aura"
+    author: "lee4"
+    codes:
+      - "20AB0D90 ????????"
+
+  - name: "P2 Boost"
+    author: "lee4"
+    codes:
+      - "20AB0DC0 00??0001"
+
+  - name: "P2 HP"
+    author: "lee4"
+    codes:
+      - "20AB0D78 000000??"
+      - "20AB0D7C 00??0001"

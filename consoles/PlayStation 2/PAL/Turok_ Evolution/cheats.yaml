@@ -1,0 +1,59 @@
+# Turok_ Evolution cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Turok_ Evolution"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001C9707"
+
+  - name: "Level Select"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "207D8868 00000001"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20103D04 3C0142C8"
+      - "20103D08 44810000"
+      - "20103D0C E4400000"
+
+  - name: "Ammunition"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20150018 24130063"
+
+  - name: "Unlock Built-In Cheats"
+    author: "Xploder"
+    notes: "[Built-In Cheats]"
+    codes:
+      - "207D8848 00000001"
+      - "207D8850 00000001"
+      - "207D8858 00000001"
+      - "207D8860 00000001"
+      - "207D8870 00000001"
+
+  - name: "Target Practice"
+    author: "Xploder"
+    notes: "[Built-In Cheats]"
+    codes:
+      - "207D8878 00000001"
+
+  - name: "Bonus Level"
+    author: "Xploder"
+    notes: "[Built-In Cheats]"
+    codes:
+      - "207D8880 00000001"

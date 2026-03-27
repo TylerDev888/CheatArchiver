@@ -1,0 +1,24 @@
+# NBA Street_ Homecourt cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00038
+
+game: "NBA Street_ Homecourt"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00038"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Get Eachecksum For Usr-data (required)"
+    notes: "File: USR-DATA  (set range:0x0,0x001DC7)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x0,pointer"
+      - "set [hash]:EAChecksum"
+
+  - name: "Update Eachecksum In Hed-data (required)"
+    notes: "File: HED-DATA"
+    codes:
+      - "write at 0x8:[hash]"

@@ -1,0 +1,269 @@
+# biohazard HD REMASTER cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM61211
+
+game: "biohazard HD REMASTER"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM61211"
+cheat_type: "Save Editor"
+source: "RESIDENT EVIL� HD Remaster / BioHazard HD Remaster"
+
+cheats:
+  - name: "Decrypt Data0.dat (required)"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "set range:0x000000,eof+1"
+      - "DECRYPT blowfish_ecb(\"SBmdYgEamc=#sA0)Mhs9#>/4iiXbMPxW\")"
+
+  - name: "Have All Weapons In Chest (saveslot 1) Codes By H0rr0r0"
+    notes: "[Slot 1]  File: DATA0.DAT  (NOTE this will overwrite other items in the first 11 rows/slots down,) (so if you have items there move them to other slots) (all the weapons will be in the chest first time you open it)"
+    codes:
+      - "2001643C 00000001"
+      - "20016440 00000001"
+      - "20016444 00000003"
+      - "20016448 0000000F"
+      - "2001644C 00000005"
+      - "20016450 0000000F"
+      - "20016454 0000000B"
+      - "20016458 0000000F"
+      - "2001645C 00000006"
+      - "20016460 0000000F"
+      - "20016464 0000000D"
+      - "20016468 0000000F"
+      - "2001646C 0000000C"
+      - "20016470 0000000F"
+      - "20016474 00000008"
+      - "20016478 0000000F"
+      - "2001647C 00000007"
+      - "20016480 0000000F"
+      - "20016484 00000009"
+      - "20016488 0000000F"
+      - "2001648C 0000000A"
+      - "20016490 0000000F"
+
+  - name: "Ink Ribbons 9999"
+    notes: "[Slot 1]  File: DATA0.DAT"
+    codes:
+      - "200163FC 00000044"
+
+  - name: "Time Play 00:00:00"
+    notes: "[Slot 1]  File: DATA0.DAT"
+    codes:
+      - "2000E074 00000000"
+
+  - name: "0 Times Save"
+    notes: "[Slot 1]  File: DATA0.DAT"
+    codes:
+      - "0000DFB3 00000000"
+
+  - name: "Change Difficulty Super Easy"
+    notes: "[Slot 1]  File: DATA0.DAT"
+    codes:
+      - "00000466 00000003"
+
+  - name: "Change Difficulty Easy"
+    notes: "[Slot 1]  File: DATA0.DAT"
+    codes:
+      - "00000466 00000000"
+
+  - name: "Change Difficulty Normal"
+    notes: "[Slot 1]  File: DATA0.DAT"
+    codes:
+      - "00000466 00000001"
+
+  - name: "Change Difficulty Hard"
+    notes: "[Slot 1]  File: DATA0.DAT"
+    codes:
+      - "00000466 00000002"
+
+  - name: "Max Self-defense Dagger"
+    notes: "[Slot 1]  File: DATA0.DAT"
+    codes:
+      - "0001B454 000000FF"
+
+  - name: "Shoot Fired"
+    notes: "[Slot 1]  File: DATA0.DAT"
+    codes:
+      - "1001BE2E 0000FFFF"
+
+  - name: "Healing Object Use"
+    notes: "[Slot 1]  File: DATA0.DAT"
+    codes:
+      - "1001BE32 0000FFFF"
+
+  - name: "9999 Ammo All Weapon/item Box"
+    notes: "[Slot 1]  File: DATA0.DAT"
+    codes:
+      - "4101644A 0000270F"
+      - "42580008 00000000"
+
+  - name: "Self-defense Stungun Battery Packs / Flash Grenades 999"
+    notes: "[Slot 1]  File: DATA0.DAT"
+    codes:
+      - "2001B458 000003E7"
+
+  - name: "Handgun - Stars Custom 9mm"
+    notes: "[Have weapon in inventory-slot 1 (SAVESLOT 1) (Choose one)]  File: DATA0.DAT"
+    codes:
+      - "200163EC 00000003"
+      - "200163F0 0000000F"
+
+  - name: "Handgun - S&w .40"
+    notes: "[Have weapon in inventory-slot 1 (SAVESLOT 1) (Choose one)]  File: DATA0.DAT"
+    codes:
+      - "200163EC 00000004"
+      - "200163F0 0000000F"
+
+  - name: "Handgun - S&w .40 (infinite Ammo)"
+    notes: "[Have weapon in inventory-slot 1 (SAVESLOT 1) (Choose one)]  File: DATA0.DAT"
+    codes:
+      - "200163EC 00000005"
+      - "200163F0 0000000F"
+
+  - name: "Shotgun"
+    notes: "[Have weapon in inventory-slot 1 (SAVESLOT 1) (Choose one)]  File: DATA0.DAT"
+    codes:
+      - "200163EC 00000006"
+      - "200163F0 0000000F"
+
+  - name: "Grenade Launcher - Normal (jill)"
+    notes: "[Have weapon in inventory-slot 1 (SAVESLOT 1) (Choose one)]  File: DATA0.DAT"
+    codes:
+      - "200163EC 00000007"
+      - "200163F0 0000000F"
+
+  - name: "Grenade Launcher - Acid (jill)"
+    notes: "[Have weapon in inventory-slot 1 (SAVESLOT 1) (Choose one)]  File: DATA0.DAT"
+    codes:
+      - "200163EC 00000008"
+      - "200163F0 0000000F"
+
+  - name: "Grenade Launcher - Incendiary (jill)"
+    notes: "[Have weapon in inventory-slot 1 (SAVESLOT 1) (Choose one)]  File: DATA0.DAT"
+    codes:
+      - "200163EC 00000009"
+      - "200163F0 0000000F"
+
+  - name: "Rocket Launcher"
+    notes: "[Have weapon in inventory-slot 1 (SAVESLOT 1) (Choose one)]  File: DATA0.DAT"
+    codes:
+      - "200163EC 0000000A"
+      - "200163F0 0000000F"
+
+  - name: "Magnum Revolver"
+    notes: "[Have weapon in inventory-slot 1 (SAVESLOT 1) (Choose one)]  File: DATA0.DAT"
+    codes:
+      - "200163EC 0000000B"
+      - "200163F0 0000000F"
+
+  - name: "Flame Thrower (chris)"
+    notes: "[Have weapon in inventory-slot 1 (SAVESLOT 1) (Choose one)]  File: DATA0.DAT"
+    codes:
+      - "200163EC 0000000C"
+      - "200163F0 0000000F"
+
+  - name: "Assault Shotgun"
+    notes: "[Have weapon in inventory-slot 1 (SAVESLOT 1) (Choose one)]  File: DATA0.DAT"
+    codes:
+      - "200163EC 0000000D"
+      - "200163F0 0000000F"
+
+  - name: "Barrys 44 Magnum"
+    notes: "[Have weapon in inventory-slot 1 (SAVESLOT 1) (Choose one)]  File: DATA0.DAT"
+    codes:
+      - "200163EC 0000000F"
+      - "200163F0 0000000F"
+
+  - name: "Grenade Shells"
+    notes: "[Have ammo in inventory-slot 2 (SAVESLOT 1) (Choose one)]  File: DATA0.DAT"
+    codes:
+      - "200163F4 00000010"
+      - "200163F8 000003E7"
+
+  - name: "Handgun Magazine Clip"
+    notes: "[Have ammo in inventory-slot 2 (SAVESLOT 1) (Choose one)]  File: DATA0.DAT"
+    codes:
+      - "200163F4 00000011"
+      - "200163F8 000003E7"
+
+  - name: "Shotgun Shells"
+    notes: "[Have ammo in inventory-slot 2 (SAVESLOT 1) (Choose one)]  File: DATA0.DAT"
+    codes:
+      - "200163F4 00000012"
+      - "200163F8 000003E7"
+
+  - name: "Acid Shells"
+    notes: "[Have ammo in inventory-slot 2 (SAVESLOT 1) (Choose one)]  File: DATA0.DAT"
+    codes:
+      - "200163F4 00000013"
+      - "200163F8 000003E7"
+
+  - name: "Incendiary Shells"
+    notes: "[Have ammo in inventory-slot 2 (SAVESLOT 1) (Choose one)]  File: DATA0.DAT"
+    codes:
+      - "200163F4 00000014"
+      - "200163F8 000003E7"
+
+  - name: "Magnum Rounds"
+    notes: "[Have ammo in inventory-slot 2 (SAVESLOT 1) (Choose one)]  File: DATA0.DAT"
+    codes:
+      - "200163F4 00000019"
+      - "200163F8 000003E7"
+
+  - name: "Ink Ribbons 999"
+    notes: "[Have item in inventory-slot 3 (SAVESLOT 1) (Choose one)]  File: DATA0.DAT"
+    codes:
+      - "200163FC 00000044"
+      - "20016400 000003E7"
+
+  - name: "Fuel Canteen 999"
+    notes: "[Have item in inventory-slot 3 (SAVESLOT 1) (Choose one)]  File: DATA0.DAT"
+    codes:
+      - "200163FC 0000001B"
+      - "20016400 000003E7"
+
+  - name: "Have Item In Inventory Slot 4"
+    notes: "File: DATA0.DAT  (replace [ITEMID] with an ID from item-list below)"
+    codes:
+      - "20016404 [ITEMID]"
+      - "20016408 00000001"
+
+  - name: "Have Item In Inventory Slot 5"
+    notes: "File: DATA0.DAT  (replace [ITEMID] with an ID from item-list below)"
+    codes:
+      - "2001640c [ITEMID]"
+      - "20016410 00000001"
+
+  - name: "Have Item In Inventory Slot 6"
+    notes: "File: DATA0.DAT  (replace [ITEMID] with an ID from item-list below)"
+    codes:
+      - "20016414 [ITEMID]"
+      - "20016418 00000001"
+
+  - name: "Have Item In Inventory Slot 7"
+    notes: "File: DATA0.DAT  (replace [ITEMID] with an ID from item-list below)"
+    codes:
+      - "2001641c [ITEMID]"
+      - "20016420 00000001"
+
+  - name: "Have Item In Inventory Slot 8"
+    notes: "File: DATA0.DAT  (replace [ITEMID] with an ID from item-list below)"
+    codes:
+      - "20016424 [ITEMID]"
+      - "20016428 00000001"
+
+  - name: "Update Sha1 For Data0.dat (required)"
+    notes: "File: DATA0.DAT  (set range:0x000040,0x06FA9F)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000040,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x00000C:[hash]"
+
+  - name: "Encrypt Data0.dat (required)"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "set range:0x000000,eof+1"
+      - "ENCRYPT blowfish_ecb(\"SBmdYgEamc=#sA0)Mhs9#>/4iiXbMPxW\")"

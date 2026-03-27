@@ -1,0 +1,252 @@
+# Family Guy - The Video Game
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-21560  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Mastercode
+**Author:** MadCatz  
+**Notes:** [Master Codes]
+
+```
+901B9FE8 0C070BD6
+```
+
+---
+
+### (M) Must Be On
+**Author:** Codejunkies  
+**Notes:** [Master Codes]
+
+```
+F01BA01C 001BA01F
+```
+
+---
+
+### Enable Code (Must Be On)
+**Author:** Code Master  
+**Notes:** [Master Codes]
+
+```
+901BA148 00832021
+200C0220 3C030027
+200C0224 8C633DB8
+200C0228 10600013
+200C022C 00000000
+200C0230 8C6301E8
+200C0234 10600018
+200C0278 03E00008
+200C027C 00000000
+201BA18C 08030088
+```
+
+---
+
+### Alternate Quick Level Up Ray Gun
+**Author:** Codejunkies
+
+```
+E0020013 2035E884
+E0010000 2035E886
+2035E884 00000013
+E0040063 2035E884
+E0030000 2035E886
+E0020013 3035E884
+E0010000 3035E886
+2035E884 00000063
+E00400C7 2035E884
+E0030000 2035E886
+E0020063 3035E884
+E0010000 3035E886
+2035E884 000000C7
+E004012B 2035E884
+E0030000 2035E886
+E00200C7 3035E884
+E0010000 3035E886
+2035E884 0000012B
+E004018F 2035E884
+E0030000 2035E886
+E002012B 3035E884
+E0010000 3035E886
+2035E884 0000018F
+E00401F3 2035E884
+E0030000 2035E886
+E002018F 3035E884
+E0010000 3035E886
+2035E884 000001F3
+E0040257 2035E884
+E0030000 2035E886
+E00201F3 3035E884
+E0010000 3035E886
+2035E884 00000257
+```
+
+---
+
+### FOV Modifier
+**Author:** Brandondorf9999
+
+```
+2011B3E8 3C01????
+```
+
+---
+
+### Get One Component To Fully Upgrade Ray Gun
+**Author:** MadCatz
+
+```
+D035E884 002002BB
+2035E884 000002BB
+```
+
+---
+
+### Infinite Health
+**Author:** Code Master  
+**Notes:** [Peter Codes]
+
+```
+200C0248 3C0142C8
+200C024C 8C640338
+200C0250 50240001
+200C0254 AC6102E8
+```
+
+---
+
+### P1 Press X For Moon Jump
+**Author:** Code Master  
+**Notes:** [Peter Codes]
+
+```
+E002BFFF 00257DC2
+200C0268 3C0140A0
+200C026C AC6101A4
+D0257DC2 0000FFFF
+200C026C 00000000
+```
+
+---
+
+### Quick Level Up Ray Gun
+**Author:** Codejunkies
+
+```
+E0020013 2035E884
+E0010000 2035E886
+2035E884 00000013
+E0020014 0035E884
+D035E886 00000000
+2035E884 00000063
+E0020064 0035E884
+D035E886 00000000
+2035E884 000000C7
+E00200C8 0035E884
+D035E886 00000000
+2035E884 0000012B
+E002012C 0035E884
+D035E886 00000000
+2035E884 0000018F
+E0020190 0035E884
+D035E886 00000000
+2035E884 000001F3
+E00201F4 0035E884
+D035E886 00000000
+2035E884 00000257
+```
+
+---
+
+### Level 2
+**Author:** Code Master  
+**Notes:** [Quick Weapon Power Up Codes]
+
+```
+D035E884 00200013
+2035E884 00000013
+```
+
+---
+
+### Level 3
+**Author:** Code Master  
+**Notes:** [Quick Weapon Power Up Codes]
+
+```
+D035E884 00200063
+2035E884 00000063
+```
+
+---
+
+### Level 4
+**Author:** Code Master  
+**Notes:** [Quick Weapon Power Up Codes]
+
+```
+D035E884 002000C7
+2035E884 000000C7
+```
+
+---
+
+### Level 5
+**Author:** Code Master  
+**Notes:** [Quick Weapon Power Up Codes]
+
+```
+D035E884 0020012B
+2035E884 0000012B
+```
+
+---
+
+### Level 6
+**Author:** Code Master  
+**Notes:** [Quick Weapon Power Up Codes]
+
+```
+D035E884 0020018F
+2035E884 0000018F
+```
+
+---
+
+### Level 7
+**Author:** Code Master  
+**Notes:** [Quick Weapon Power Up Codes]
+
+```
+D035E884 002001F3
+2035E884 000001F3
+```
+
+---
+
+### Level 8
+**Author:** Code Master  
+**Notes:** [Quick Weapon Power Up Codes]
+
+```
+D035E884 00200257
+2035E884 00000257
+```
+
+---
+
+### Unlock All Cut Away Games
+**Author:** Code Master  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+20272F90 00000000
+```
+
+---

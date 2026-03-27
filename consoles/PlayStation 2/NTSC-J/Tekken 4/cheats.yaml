@@ -1,0 +1,201 @@
+# Tekken 4 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25100
+
+game: "Tekken 4"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25100"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0180088 0029374F"
+
+  - name: "All Characters"
+    author: "Code Master"
+    notes: "[Enable Character Codes]"
+    codes:
+      - "403C8A38 00050001"
+      - "03030303 00000000"
+
+  - name: "Bryan"
+    author: "Code Master"
+    notes: "[Enable Character Codes]"
+    codes:
+      - "003C8A44 00000003"
+
+  - name: "Combot"
+    author: "Code Master"
+    notes: "[Enable Character Codes]"
+    codes:
+      - "003C8A4A 00000003"
+
+  - name: "Heihachi"
+    author: "Code Master"
+    notes: "[Enable Character Codes]"
+    codes:
+      - "003C8A45 00000003"
+
+  - name: "Jin"
+    author: "Code Master"
+    notes: "[Enable Character Codes]"
+    codes:
+      - "003C8A41 00000003"
+
+  - name: "Julia"
+    author: "Code Master"
+    notes: "[Enable Character Codes]"
+    codes:
+      - "003C8A42 00000003"
+
+  - name: "Kuma"
+    author: "Code Master"
+    notes: "[Enable Character Codes]"
+    codes:
+      - "003C8A43 00000003"
+
+  - name: "Lei"
+    author: "Code Master"
+    notes: "[Enable Character Codes]"
+    codes:
+      - "003C8A3A 00000003"
+
+  - name: "Nina"
+    author: "Code Master"
+    notes: "[Enable Character Codes]"
+    codes:
+      - "003C8A3D 00000003"
+
+  - name: "Violet"
+    author: "Code Master"
+    notes: "[Enable Character Codes]"
+    codes:
+      - "003C8A47 00000003"
+
+  - name: "1-Hit Death P1"
+    author: "Code Master"
+    codes:
+      - "D02A9D06 000000A5"
+      - "102A9D06 00000001"
+
+  - name: "1-Hit Death P2"
+    author: "Code Master"
+    codes:
+      - "D02AAC26 000000A5"
+      - "102AAC26 00000001"
+
+  - name: "25% Health P1"
+    author: "Code Master"
+    codes:
+      - "D02A9D06 000000A5"
+      - "102A9D06 00000029"
+
+  - name: "25% Health P2"
+    author: "Code Master"
+    codes:
+      - "D02AAC26 000000A5"
+      - "102AAC26 00000029"
+
+  - name: "50% Health P1"
+    author: "Code Master"
+    codes:
+      - "D02A9D06 000000A5"
+      - "102A9D06 00000052"
+
+  - name: "50% Health P2"
+    author: "Code Master"
+    codes:
+      - "D02AAC26 000000A5"
+      - "102AAC26 00000052"
+
+  - name: "75% Health P1"
+    author: "Code Master"
+    codes:
+      - "D02A9D06 000000A5"
+      - "102A9D06 0000007B"
+
+  - name: "75% Health P2"
+    author: "Code Master"
+    codes:
+      - "D02AAC26 000000A5"
+      - "102AAC26 0000007B"
+
+  - name: "Boost Mode Enabled"
+    author: "AceKombat"
+    codes:
+      - "003B5E8C 00000001"
+
+  - name: "Enable All Movies"
+    author: "Code Master"
+    codes:
+      - "203C8A20 FFFFFFFF"
+
+  - name: "Enable Theater"
+    author: "Code Master"
+    codes:
+      - "003C8A4D 00000001"
+
+  - name: "Infinite Health (Tekken Force Mode)"
+    author: "Code Master"
+    codes:
+      - "102A9D06 00000106"
+
+  - name: "Infinite Health P1"
+    author: "Code Master"
+    codes:
+      - "102A9D06 000000A5"
+
+  - name: "Infinite Health P2"
+    author: "Code Master"
+    codes:
+      - "102AAC26 000000A5"
+
+  - name: "No Health P1"
+    author: "Code Master"
+    codes:
+      - "102A9D06 00000000"
+
+  - name: "No Health P2"
+    author: "Code Master"
+    codes:
+      - "102AAC26 00000000"
+
+  - name: "P1 Needs 1 Win To Win"
+    author: "Code Master"
+    codes:
+      - "D02A96EE 00000000"
+      - "102A96EE 00000001"
+
+  - name: "P1 Never Wins"
+    author: "Code Master"
+    codes:
+      - "102A96EE 00000000"
+
+  - name: "P1 Press L1+L2 For Death Blow On P2"
+    author: "Code Master"
+    codes:
+      - "D03B3AD8 00000005"
+      - "102AAC26 00000000"
+
+  - name: "P2 Needs 1 Win To Win"
+    author: "Code Master"
+    codes:
+      - "D02AA60E 00000000"
+      - "102AA60E 00000001"
+
+  - name: "P2 Never Wins"
+    author: "Code Master"
+    codes:
+      - "102AA60E 00000000"
+
+  - name: "P2 Press L1+L2 For Death Blow On P1"
+    author: "Code Master"
+    codes:
+      - "D03B3ADC 00000005"
+      - "102A9D06 00000000"

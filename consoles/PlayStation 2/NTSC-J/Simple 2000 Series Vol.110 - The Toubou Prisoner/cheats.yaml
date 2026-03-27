@@ -1,0 +1,24 @@
+# Simple 2000 Series Vol.110 - The Toubou Prisoner cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-20480
+
+game: "Simple 2000 Series Vol.110 - The Toubou Prisoner"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-20480"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90219CD8 0C0866DE"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "901EB79C 0C0840D2"

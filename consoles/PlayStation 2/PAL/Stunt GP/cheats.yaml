@@ -1,0 +1,74 @@
+# Stunt GP cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50064
+
+game: "Stunt GP"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50064"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F02A771C 002A3767"
+
+  - name: "Comp Cars Dead On The Line"
+    author: "Codejunkies"
+    codes:
+      - "20201F10 03E00008"
+      - "20201F14 00000000"
+
+  - name: "Have All Cars"
+    author: "InterAct"
+    codes:
+      - "20542B88 FFFFFFFF"
+      - "20542B8C FFFFFFFF"
+      - "20542B90 FFFFFFFF"
+      - "20542B94 FFFFFFFF"
+      - "20542B98 FFFFFFFF"
+      - "20542B84 FFFFFFFF"
+      - "20542B80 FFFFFFFF"
+
+  - name: "Low Fuel Consumption"
+    author: "Codejunkies"
+    codes:
+      - "2020F4FC 03E00008"
+      - "2020F500 00000000"
+
+  - name: "No Slow Down On Low Battery"
+    author: "Codejunkies"
+    codes:
+      - "2020E218 03E00008"
+      - "2020E21C 00000000"
+
+  - name: "Pots Of Cash (Championship Mode)"
+    author: "Codejunkies"
+    codes:
+      - "1055C870 0000FFFF"
+      - "1055C872 0000000A"
+
+  - name: "Stupid Opponents"
+    author: "Codejunkies"
+    codes:
+      - "20202CA0 03E00008"
+      - "20202CA4 00000000"
+
+  - name: "Ultra Grip Stat"
+    author: "Codejunkies"
+    codes:
+      - "105BB118 00000070"
+
+  - name: "Ultra Power Stat"
+    author: "Codejunkies"
+    codes:
+      - "105BB11C 00000070"
+
+  - name: "Ultra Stunt Stat"
+    author: "Codejunkies"
+    codes:
+      - "105BB114 00000070"

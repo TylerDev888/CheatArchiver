@@ -1,0 +1,27 @@
+# PokePark Wii_ Pikachu's Adventure cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  R8AE01
+
+game: "PokePark Wii_ Pikachu's Adventure"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "R8AE01"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Max Berries (gain)"
+    author: "Skiller"
+    codes:
+      - "041279F0 60000000"
+
+  - name: "Stop/Start Timer"
+    author: "Skiller"
+    codes:
+      - "2837336A EFF71008"
+      - "040A64C4 38030000"
+      - "E0000000 80008000"
+      - "2837336A EFFB1004"
+      - "040A64C4 38030001"
+      - "E0000000 80008000"

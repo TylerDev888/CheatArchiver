@@ -1,0 +1,33 @@
+# Oshiete! Popotan cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65535
+
+game: "Oshiete! Popotan"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65535"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010F9F8 0C043E26"
+
+  - name: "New Game = Test Script"
+    author: "punk7890"
+    codes:
+      - "D0BD8F46 00000085"
+      - "20BD8F44 003C0003"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "20B13668 FFFFFFFF"
+      - "20B1366C FFFFFFFF"
+      - "20B13670 FFFFFFFF"
+      - "20B13674 FFFFFFFF"
+      - "20B13678 FFFFFFFF"

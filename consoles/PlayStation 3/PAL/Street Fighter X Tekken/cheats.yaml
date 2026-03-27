@@ -1,0 +1,33 @@
+# Street Fighter X Tekken cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01252
+
+game: "Street Fighter X Tekken"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01252"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Unlock All Battle Titles"
+    notes: "File: SAVEDATA"
+    codes:
+      - "80010004 55544600"
+      - "4A000015 FFFFFFFF"
+      - "40130004 00000000"
+
+  - name: "Unlock All Ex Battle Titles"
+    notes: "File: SAVEDATA"
+    codes:
+      - "80010004 55544600"
+      - "4A00006D FFFFFFFF"
+      - "40030004 00000000"
+
+  - name: "Default:update Crc32 (required)"
+    notes: "File: SAVEDATA"
+    codes:
+      - "set range:0x4,0x11E676"
+      - "set [crc]:crc32"
+      - "write at 0x0:[crc]"

@@ -1,0 +1,24 @@
+# Kao No Nai Tsuki - Select Story cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62784
+
+game: "Kao No Nai Tsuki - Select Story"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62784"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9025C7A0 0C097190"
+
+  - name: "Enable Test Menu In Main Menu (Select Continue)"
+    author: "punk7890"
+    codes:
+      - "007EF40F 00000001"
+      - "002717A1 00000001"

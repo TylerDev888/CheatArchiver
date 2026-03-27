@@ -1,0 +1,56 @@
+# God Of War Ragnarok cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA34384
+
+game: "God Of War Ragnarok"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA34384"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Item Replace"
+    notes: "File: GOWRSAVE[0-9]+"
+    codes:
+      - "80010008 [Item<Item you Have>] 00000000"
+      - "A8000000 00000008"
+      - "[Item<Item You Want>]"
+
+  - name: "Item Quantity"
+    notes: "File: GOWRSAVE[0-9]+"
+    codes:
+      - "80010008 [Item] 00000000"
+      - "28000008 [AMOUNT:05F5E0FF:HEX:BIG<Quantity>]"
+
+  - name: "Item Replace and Quantity (Can use this to move Things from Base Game to DLC to)"
+    notes: "File: GOWRSAVE[0-9]+"
+    codes:
+      - "80010008 [Item<Item you Have>] 00000000"
+      - "A8000000 00000008"
+      - "[Item<Item You Want>]"
+      - "28000008 [AMOUNT:05F5E0FF:HEX:BIG<Quantity>]"
+
+  - name: "Increase Dew Stats (Need to have one Dew for code to work)"
+    notes: "File: GOWRSAVE[0-9]+"
+    codes:
+      - "80010008 [Dew] 00000000"
+      - "28000008 [AMOUNT:05F5E0FF:HEX:BIG<1 Equal 2 so 500 in save is 1000 in game>]"
+
+  - name: "Add Item To Blacksmith Chest(Need to have got at least 1 item from it before)"
+    notes: "File: GOWRSAVE[0-9]+"
+    codes:
+      - "80010008 B0BDD5E2"
+      - "372DB672 00000000"
+      - "D8000008 03020000"
+      - "A8000014 0000000C"
+      - "[Item<Item You Want>]"
+      - "[AMOUNT:05F5E0FF:HEX:BIG<Quantity>] 00000000"
+
+  - name: "Change Difficulty (Re-save to see change) provided by xxunkn0wnxx$0001"
+    notes: "File: GOWRSAVE[0-9]+"
+    codes:
+      - "95000000 0002F440"
+      - "D8000000 01000002"
+      - "18000002 0000[Diff]"

@@ -1,0 +1,378 @@
+# Gradius III & IV cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20040
+
+game: "Gradius III & IV"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20040"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100A50 0023EAD3"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0023EAD3"
+
+  - name: "! Select (Press L1+R1 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D08BD846 0000F3FF"
+      - "1100106A 00000007"
+
+  - name: "? Select (Press R1+R2 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D08BD846 0000F5FF"
+      - "1100106A 00000006"
+
+  - name: "Double Select (Press R1 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D08BD846 0000F7FF"
+      - "1100106A 00000003"
+
+  - name: "Infinite Lives"
+    author: "InterAct"
+    notes: "[Gradius III Codes]"
+    codes:
+      - "11001056 00001000"
+
+  - name: "Infinite Lives P1"
+    author: "Code Master"
+    notes: "[Gradius III Codes]"
+    codes:
+      - "11001050 00000063"
+
+  - name: "Invincibility (Both Players)"
+    author: "Code Master"
+    notes: "[Gradius III Codes]"
+    codes:
+      - "2013C6E4 00000000"
+      - "2013C6EC 00000000"
+
+  - name: "Max Score P1"
+    author: "Code Master"
+    notes: "[Gradius III Codes]"
+    codes:
+      - "21001054 09999999"
+
+  - name: "P1 Press Select+L1+L2 To Select Level 5 Powerup"
+    author: "Code Master"
+    notes: "[Gradius III Codes]"
+    codes:
+      - "D04FECA8 00000105"
+      - "1100106A 00000005"
+
+  - name: "P1 Press Select+L1+L2+R1+R2 To Select Level 7 Powerup"
+    author: "Code Master"
+    notes: "[Gradius III Codes]"
+    codes:
+      - "D04FECA8 0000010F"
+      - "1100106A 00000007"
+
+  - name: "P1 Press Select+L2 To Select Level 1 Powerup"
+    author: "Code Master"
+    notes: "[Gradius III Codes]"
+    codes:
+      - "D04FECA8 00000101"
+      - "1100106A 00000001"
+
+  - name: "P1 Press Select+R1 To Select Level 4 Powerup"
+    author: "Code Master"
+    notes: "[Gradius III Codes]"
+    codes:
+      - "D04FECA8 00000108"
+      - "1100106A 00000004"
+
+  - name: "P1 Press Select+R1+R2 To Select Level 6 Powerup"
+    author: "Code Master"
+    notes: "[Gradius III Codes]"
+    codes:
+      - "D04FECA8 0000010A"
+      - "1100106A 00000006"
+
+  - name: "P1 Press Select+R2 To Select Level 3 Powerup"
+    author: "Code Master"
+    notes: "[Gradius III Codes]"
+    codes:
+      - "D04FECA8 00000102"
+      - "1100106A 00000003"
+
+  - name: "Player 1 - Mega Shield"
+    author: "InterAct"
+    notes: "[Gradius III Codes]"
+    codes:
+      - "11001F72 000000FF"
+
+  - name: "Quick Score Gain P1"
+    author: "Code Master"
+    notes: "[Gradius III Codes]"
+    codes:
+      - "11001054 00009999"
+
+  - name: "Extra Lives (Both Players)"
+    author: "Code Master"
+    notes: "[Gradius IV Codes]"
+    codes:
+      - "1018594C 00000001"
+
+  - name: "Hi-Score"
+    author: "InterAct"
+    notes: "[Gradius IV Codes]"
+    codes:
+      - "20896004 05F5E0FF"
+
+  - name: "Infinite Lives (Both Players)"
+    author: "Code Master"
+    notes: "[Gradius IV Codes]"
+    codes:
+      - "20185958 00000000"
+
+  - name: "Max Power Up/Immune To Bullets/Enemies (Both Players)"
+    author: "Code Master"
+    notes: "[Gradius IV Codes]"
+    codes:
+      - "E0030000 00896142"
+      - "20896140 04050400"
+      - "20896150 0000000A"
+      - "10896154 00000028"
+
+  - name: "Powered-Up Ship"
+    author: "InterAct"
+    notes: "[Gradius IV Codes]"
+    codes:
+      - "E0060000 00896142"
+      - "10896142 00000405"
+      - "10896140 00000400"
+      - "10896154 00000008"
+
+  - name: "Hit Anywhere"
+    author: "nolberto82"
+    codes:
+      - "2013797C 30420000"
+      - "20141FEC 0C03C000"
+      - "200F0000 30E20020"
+      - "200F0004 10400002"
+      - "200F0008 00000000"
+      - "200F000C 23FF0078"
+      - "200F0010 03E00008"
+      - "200F0014 84C20004"
+
+  - name: "Laser Select (Press R2 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D08BD846 0000FDFF"
+      - "1100106A 00000004"
+
+  - name: "Missile Select (Press L2 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D08BD846 0000FEFF"
+      - "1100106A 00000002"
+
+  - name: "Option Select (Press L1+L2 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D08BD846 0000FAFF"
+      - "1100106A 00000005"
+
+  - name: "Infinite Lives P2"
+    author: "Code Master"
+    notes: "[P1 Speedup Codes]"
+    codes:
+      - "110010D0 00000003"
+
+  - name: "Level 1"
+    author: "Code Master"
+    notes: "[P1 Speedup Codes]"
+    codes:
+      - "01001069 00000001"
+
+  - name: "Level 2"
+    author: "Code Master"
+    notes: "[P1 Speedup Codes]"
+    codes:
+      - "01001069 00000002"
+
+  - name: "Level 3"
+    author: "Code Master"
+    notes: "[P1 Speedup Codes]"
+    codes:
+      - "01001069 00000003"
+
+  - name: "Level 4"
+    author: "Code Master"
+    notes: "[P1 Speedup Codes]"
+    codes:
+      - "01001069 00000004"
+
+  - name: "Level 5"
+    author: "Code Master"
+    notes: "[P1 Speedup Codes]"
+    codes:
+      - "01001069 00000005"
+
+  - name: "Max Score P2"
+    author: "Code Master"
+    notes: "[P1 Speedup Codes]"
+    codes:
+      - "210010D4 09999999"
+
+  - name: "P2 Press Select+L1+L2 To Select Level 5 Powerup"
+    author: "Code Master"
+    notes: "[P1 Speedup Codes]"
+    codes:
+      - "D04FECAC 00000105"
+      - "110010EA 00000005"
+
+  - name: "P2 Press Select+L1+L2+R1+R2 To Select Level 7 Powerup"
+    author: "Code Master"
+    notes: "[P1 Speedup Codes]"
+    codes:
+      - "D04FECAC 0000010F"
+      - "110010EA 00000007"
+
+  - name: "P2 Press Select+L2 To Select Level 1 Powerup"
+    author: "Code Master"
+    notes: "[P1 Speedup Codes]"
+    codes:
+      - "D04FECAC 00000101"
+      - "110010EA 00000001"
+
+  - name: "P2 Press Select+R1 To Select Level 4 Powerup"
+    author: "Code Master"
+    notes: "[P1 Speedup Codes]"
+    codes:
+      - "D04FECAC 00000108"
+      - "110010EA 00000004"
+
+  - name: "P2 Press Select+R1+R2 To Select Level 6 Powerup"
+    author: "Code Master"
+    notes: "[P1 Speedup Codes]"
+    codes:
+      - "D04FECAC 0000010A"
+      - "110010EA 00000006"
+
+  - name: "P2 Press Select+R2 To Select Level 3 Powerup"
+    author: "Code Master"
+    notes: "[P1 Speedup Codes]"
+    codes:
+      - "D04FECAC 00000102"
+      - "110010EA 00000003"
+
+  - name: "Quick Score Gain P2"
+    author: "Code Master"
+    notes: "[P1 Speedup Codes]"
+    codes:
+      - "110010D4 00009999"
+
+  - name: "Unlock All Stages (Stage Select)"
+    author: "Code Master"
+    notes: "[P2 Speedup Codes]"
+    codes:
+      - "0088D774 0000002A"
+
+  - name: "Power Ship"
+    author: "Codejunkies"
+    codes:
+      - "E0030000 00896142"
+      - "10896142 00000405"
+      - "10896140 00000400"
+      - "10896154 00000008"
+
+  - name: "Shots Pierce Through Enemies"
+    author: "nolberto82"
+    codes:
+      - "2013797C 30420000"
+
+  - name: "Speed Select (Press L1 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D08BD846 0000FBFF"
+      - "1100106A 00000001"
+
+  - name: "Max Power Up (Both Players)"
+    author: "Code Master"
+    notes: "[Speedup Codes (Both Players)]"
+    codes:
+      - "E0020000 00896142"
+      - "20896140 04050400"
+      - "10896154 00000008"
+
+  - name: "P1 Press Select+L1 To Select Level 2 Powerup"
+    author: "Code Master"
+    notes: "[Speedup Codes (Both Players)]"
+    codes:
+      - "D0892C16 00000104"
+      - "10896042 00000002"
+
+  - name: "P2 Press Select+L1 To Select Level 2 Powerup"
+    author: "Code Master"
+    notes: "[Speedup Codes (Both Players)]"
+    codes:
+      - "D0892C1A 00000104"
+      - "10896042 00000002"
+
+  - name: "Pause For Hit Disp On/Off"
+    author: "Code Master"
+    notes: "[Speedup Codes (Both Players)]"
+    codes:
+      - "0089413A 00000002"
+
+  - name: "Unlock Stage Select Mode"
+    author: "Code Master"
+    notes: "[Speedup Codes (Both Players)]"
+    codes:
+      - "0089413A 00000001"
+
+  - name: "Unlock Stage Select Mode & Pause For Hit Disp On/Off"
+    author: "Code Master"
+    notes: "[Speedup Codes (Both Players)]"
+    codes:
+      - "0089413A 00000003"
+
+  - name: "Cube Attack"
+    author: "Code Master"
+    notes: "[Unlock Extra Mode Codes]"
+    codes:
+      - "0088D7E3 00000001"
+
+  - name: "Extra Edit"
+    author: "Code Master"
+    notes: "[Unlock Extra Mode Codes]"
+    codes:
+      - "0088D7E1 00000001"
+
+  - name: "Gradius"
+    author: "Code Master"
+    notes: "[Unlock Extra Mode Codes]"
+    codes:
+      - "0088D775 00000001"
+
+  - name: "Salamander"
+    author: "Code Master"
+    notes: "[Unlock Extra Mode Codes]"
+    codes:
+      - "0088D776 00000001"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0023EAD3"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9023EAD0 0C084CF7"

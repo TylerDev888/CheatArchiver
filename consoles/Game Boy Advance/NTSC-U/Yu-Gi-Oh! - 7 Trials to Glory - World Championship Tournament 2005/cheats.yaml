@@ -1,0 +1,49 @@
+# Yu-Gi-Oh! - 7 Trials to Glory - World Championship Tournament 2005 cheat data
+# Console: Game Boy Advance
+# Region:  NTSC-U
+# Serial:  AGB-BY7E-USA
+
+game: "Yu-Gi-Oh! - 7 Trials to Glory - World Championship Tournament 2005"
+console: "Game Boy Advance"
+region: "NTSC-U"
+serial: "AGB-BY7E-USA"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Possible Enable Code (Pad method):"
+    notes: "File: NTSC"
+    codes:
+      - "00000D88 000A"
+      - "1011AA16 0007"
+
+  - name: "Money 99999999"
+    notes: "File: NTSC"
+    codes:
+      - "8200180A 05F5"
+      - "82001808 E0FF"
+
+  - name: "Cards Cost nothing"
+    notes: "File: NTSC"
+    codes:
+      - "8201A1E0 0000"
+
+  - name: "Instint Win"
+    notes: "File: NTSC"
+    codes:
+      - "82023374 0000"
+
+  - name: "Max/Inf Health"
+    notes: "File: NTSC"
+    codes:
+      - "82020AB0 270F"
+
+  - name: "Max Wins 9999"
+    notes: "File: NTSC"
+    codes:
+      - "820047DE 270F"
+
+  - name: "Buy 300 limit Broken"
+    notes: "File: NTSC"
+    codes:
+      - "8201A178 0000"

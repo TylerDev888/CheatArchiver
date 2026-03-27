@@ -1,0 +1,100 @@
+# Socom-US Navy Seals (Version 1.1) cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97134
+
+game: "Socom-US Navy Seals (Version 1.1)"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97134"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0140008 001700C7"
+
+  - name: "Immune To Bullets"
+    author: "Code Master"
+    notes: "[With this game, if these codes dont work, Try These!]"
+    codes:
+      - "200C0220 92410000"
+      - "200C0224 14200003"
+      - "200C0228 00000000"
+      - "200C022C 080AE294"
+      - "200C0230 00000000"
+      - "200C0234 03E00008"
+      - "200C0238 00000000"
+      - "202BA59C 0C030088"
+
+  - name: "P1 Press L1+Select To Enable No Vertical Clipping"
+    author: "Code Master"
+    notes: "[With this game, if these codes dont work, Try These!]"
+    codes:
+      - "D04EBF42 0000FBFE"
+      - "202B1590 00000000"
+
+  - name: "P1 Press L2+Select To Disable No Vertical Clipping"
+    author: "Code Master"
+    notes: "[With this game, if these codes dont work, Try These!]"
+    codes:
+      - "D04EBF42 0000FEFE"
+      - "202B1590 0200902D"
+
+  - name: "Less Enemies"
+    author: "Code Master"
+    notes: "[With this game, if these codes dont work, Try These!]"
+    codes:
+      - "202B4630 00000000"
+
+  - name: "Infinite Ammo"
+    author: "Code Master"
+    notes: "[With this game, if these codes dont work, Try These!]"
+    codes:
+      - "202B8F9C 00000000"
+
+  - name: "Extra Ammo"
+    author: "Code Master"
+    notes: "[With this game, if these codes dont work, Try These!]"
+    codes:
+      - "102B8F94 00000001"
+
+  - name: "Most Terrorists Have No Ammo"
+    author: "Code Master"
+    notes: "[With this game, if these codes dont work, Try These!]"
+    codes:
+      - "202B77D0 03E00008"
+      - "202B77D4 24020000"
+
+  - name: "Infinite Grenades"
+    author: "Code Master"
+    notes: "[With this game, if these codes dont work, Try These!]"
+    codes:
+      - "202BB5B8 00000000"
+
+  - name: "Extra Grenades"
+    author: "Code Master"
+    notes: "[With this game, if these codes dont work, Try These!]"
+    codes:
+      - "102BB5B4 00000001"
+
+  - name: "No Recoil"
+    author: "Code Master"
+    notes: "[With this game, if these codes dont work, Try These!]"
+    codes:
+      - "202BBD4C 00000000"
+
+  - name: "Lesser AI"
+    author: "Code Master"
+    notes: "[With this game, if these codes dont work, Try These!]"
+    codes:
+      - "20488998 00000000"
+
+  - name: "Always Complete Missions"
+    author: "Code Master"
+    notes: "[With this game, if these codes dont work, Try These!]"
+    codes:
+      - "201D8270 24020001"

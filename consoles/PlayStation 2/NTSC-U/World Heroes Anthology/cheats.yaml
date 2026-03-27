@@ -1,0 +1,25 @@
+# World Heroes Anthology cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21725
+
+game: "World Heroes Anthology"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21725"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "90179110 0C05E3EC"
+
+  - name: "Force Videout To 480I Instead Of 240P"
+    author: "lee4"
+    codes:
+      - "20141534 24110001"
+      - "20141538 24120002"
+      - "20141544 24130001"

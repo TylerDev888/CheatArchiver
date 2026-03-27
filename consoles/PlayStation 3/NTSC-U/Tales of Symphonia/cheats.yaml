@@ -1,0 +1,1654 @@
+# Tales of Symphonia cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUB31194
+
+game: "Tales of Symphonia"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUB31194"
+cheat_type: "AP"
+source: ""
+
+cheats:
+  - name: "Money 99999999"
+    notes: "File: SAVEDATA.BIN"
+    codes:
+      - "2000000C 05F5E0FF"
+      - "20000280 05F5E0FF"
+
+  - name: "Hp:9999/9999"
+    notes: "[Emil]  File: SAVEDATA.BIN"
+    codes:
+      - "20000B68 270F270F"
+      - "10000B6C 0000270F"
+
+  - name: "Tp:999/999"
+    notes: "[Emil]  File: SAVEDATA.BIN"
+    codes:
+      - "20000B6E 03E703E7"
+      - "10000B72 000003E7"
+
+  - name: "Exp:99999999"
+    notes: "[Emil]  File: SAVEDATA.BIN"
+    codes:
+      - "20000B58 05F5E0FF"
+
+  - name: "P.attack:9999"
+    notes: "[Emil]  File: SAVEDATA.BIN"
+    codes:
+      - "10000B74 0000270F"
+
+  - name: "A.attack:9999"
+    notes: "[Emil]  File: SAVEDATA.BIN"
+    codes:
+      - "10000B78 0000270F"
+
+  - name: "P.def:9999"
+    notes: "[Emil]  File: SAVEDATA.BIN"
+    codes:
+      - "10000B76 0000270F"
+
+  - name: "A.def:9999"
+    notes: "[Emil]  File: SAVEDATA.BIN"
+    codes:
+      - "10000B7A 0000270F"
+
+  - name: "Dex:9999"
+    notes: "[Emil]  File: SAVEDATA.BIN"
+    codes:
+      - "10000B7C 0000270F"
+
+  - name: "Luck:9999"
+    notes: "[Emil]  File: SAVEDATA.BIN"
+    codes:
+      - "10000B7E 0000270F"
+
+  - name: "Weapons/armors/accessories"
+    notes: "[Equipment]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012590:0xFF"
+      - "write at 0x00012591:0xFF"
+      - "write at 0x00012592:0xFF"
+      - "write at 0x00012593:0xFF"
+      - "write at 0x00012594:0xFF"
+      - "write at 0x00012595:0xFF"
+      - "write at 0x00012596:0xFF"
+      - "write at 0x00012597:0xFF"
+      - "write at 0x00012598:0xFF"
+      - "write at 0x00012599:0xFF"
+      - "write at 0x0001259A:0xFF"
+      - "write at 0x0001259B:0xFF"
+      - "write at 0x0001259C:0xFF"
+      - "write at 0x0001259D:0xFF"
+      - "write at 0x0001259E:0xFF"
+      - "write at 0x0001259F:0xFF"
+      - "write at 0x000125A0:0xFF"
+      - "write at 0x000125A1:0xFF"
+      - "write at 0x000125A2:0xFF"
+      - "write at 0x000125A3:0xFF"
+      - "write at 0x000125A4:0xFF"
+      - "write at 0x000125A5:0xFF"
+      - "write at 0x000125A6:0xFF"
+      - "write at 0x000125A7:0xFF"
+      - "write at 0x000125A8:0xFF"
+      - "write at 0x000125A9:0xFF"
+      - "write at 0x000125AA:0xFF"
+      - "write at 0x000125AB:0xFF"
+      - "write at 0x000125AC:0xFF"
+      - "write at 0x000125AD:0xFF"
+      - "write at 0x000125AE:0xFF"
+      - "write at 0x000125AF:0xFF"
+      - "write at 0x000125B0:0xFF"
+      - "write at 0x000125B1:0xFF"
+      - "write at 0x000125B2:0xFF"
+      - "write at 0x000125B3:0xFF"
+      - "write at 0x000125B4:0xFF"
+      - "write at 0x000125B5:0xFF"
+      - "write at 0x000125B6:0xFF"
+      - "write at 0x000125B7:0xFF"
+      - "write at 0x000125B8:0xFF"
+      - "write at 0x000125B9:0xFF"
+      - "write at 0x000125BA:0xFF"
+      - "write at 0x000125BB:0xFF"
+      - "write at 0x000125BC:0xFF"
+      - "write at 0x000125BD:0xFF"
+      - "write at 0x000125BE:0xFF"
+      - "write at 0x000125BF:0xFF"
+      - "write at 0x000125C0:0xFF"
+      - "write at 0x000125C1:0xFF"
+      - "write at 0x000125C2:0xFF"
+      - "write at 0x000125C3:0xFF"
+      - "write at 0x000125C4:0xFF"
+      - "write at 0x000125C5:0xFF"
+      - "write at 0x000125C6:0xFF"
+      - "write at 0x000125C7:0xFF"
+      - "write at 0x000125C8:0xFF"
+      - "write at 0x000125C9:0xFF"
+      - "write at 0x000125CA:0xFF"
+      - "write at 0x000125CB:0xFF"
+      - "write at 0x000125CC:0xFF"
+      - "write at 0x000125CD:0xFF"
+      - "write at 0x000125CE:0xFF"
+      - "write at 0x000125CF:0xFF"
+      - "write at 0x000125D0:0xFF"
+      - "write at 0x000125D1:0xFF"
+      - "write at 0x000125D2:0xFF"
+      - "write at 0x000125D3:0xFF"
+      - "write at 0x000125D4:0xFF"
+      - "write at 0x000125D5:0xFF"
+      - "write at 0x000125D6:0xFF"
+      - "write at 0x000125D7:0xFF"
+      - "write at 0x000125D8:0xFF"
+      - "write at 0x000125D9:0xFF"
+      - "write at 0x000125DA:0xFF"
+      - "write at 0x000125DB:0xFF"
+      - "write at 0x000125DC:0xFF"
+      - "write at 0x000125DD:0xFF"
+      - "write at 0x000125DE:0xFF"
+      - "write at 0x000125DF:0xFF"
+      - "write at 0x000125E0:0xFF"
+      - "write at 0x000125E1:0xFF"
+      - "write at 0x000125E2:0xFF"
+      - "write at 0x000125E3:0xFF"
+      - "write at 0x000125E4:0xFF"
+      - "write at 0x000125E5:0xFF"
+      - "write at 0x000125E6:0xFF"
+      - "write at 0x000125E7:0xFF"
+      - "write at 0x000125E8:0xFF"
+      - "write at 0x000125E9:0xFF"
+      - "write at 0x000125EA:0xFF"
+      - "write at 0x000125EB:0xFF"
+      - "write at 0x000125EC:0xFF"
+      - "write at 0x000125ED:0xFF"
+      - "write at 0x000125EE:0xFF"
+      - "write at 0x000125EF:0xFF"
+      - "write at 0x000125F0:0xFF"
+      - "write at 0x000125F1:0xFF"
+      - "write at 0x000125F2:0xFF"
+      - "write at 0x000125F3:0xFF"
+      - "write at 0x000125F4:0xFF"
+      - "write at 0x000125F5:0xFF"
+      - "write at 0x000125F6:0xFF"
+      - "write at 0x000125F7:0xFF"
+      - "write at 0x000125F8:0xFF"
+      - "write at 0x000125F9:0xFF"
+      - "write at 0x000125FA:0xFF"
+      - "write at 0x000125FB:0xFF"
+      - "write at 0x000125FC:0xFF"
+      - "write at 0x000125FD:0xFF"
+      - "write at 0x000125FE:0xFF"
+      - "write at 0x000125FF:0xFF"
+      - "write at 0x00012600:0xFF"
+      - "write at 0x00012601:0xFF"
+      - "write at 0x00012602:0xFF"
+      - "write at 0x00012603:0xFF"
+      - "write at 0x00012604:0xFF"
+      - "write at 0x00012605:0xFF"
+      - "write at 0x00012606:0xFF"
+      - "write at 0x00012607:0xFF"
+      - "write at 0x00012608:0xFF"
+      - "write at 0x00012609:0xFF"
+      - "write at 0x0001260A:0xFF"
+      - "write at 0x0001260B:0xFF"
+      - "write at 0x0001260C:0xFF"
+      - "write at 0x0001260D:0xFF"
+      - "write at 0x0001260E:0xFF"
+      - "write at 0x0001260F:0xFF"
+      - "write at 0x00012610:0xFF"
+      - "write at 0x00012611:0xFF"
+      - "write at 0x00012612:0xFF"
+      - "write at 0x00012603:0xFF"
+      - "write at 0x00012614:0xFF"
+      - "write at 0x00012615:0xFF"
+      - "write at 0x00012616:0xFF"
+      - "write at 0x00012617:0xFF"
+      - "write at 0x00012618:0xFF"
+      - "write at 0x00012619:0xFF"
+      - "write at 0x0001261A:0xFF"
+      - "write at 0x0001261B:0xFF"
+      - "write at 0x0001261C:0xFF"
+      - "write at 0x0001261D:0xFF"
+      - "write at 0x0001261E:0xFF"
+      - "write at 0x0001261F:0xFF"
+      - "write at 0x00012620:0xFF"
+      - "write at 0x00012621:0xFF"
+      - "write at 0x00012622:0xFF"
+      - "write at 0x00012623:0xFF"
+      - "write at 0x00012624:0xFF"
+      - "write at 0x00012625:0xFF"
+      - "write at 0x00012626:0xFF"
+      - "write at 0x00012627:0xFF"
+      - "write at 0x00012628:0xFF"
+      - "write at 0x00012629:0xFF"
+      - "write at 0x0001262A:0xFF"
+      - "write at 0x0001262B:0xFF"
+      - "write at 0x0001262C:0xFF"
+      - "write at 0x0001262D:0xFF"
+      - "write at 0x0001262E:0xFF"
+      - "write at 0x0001262F:0xFF"
+      - "write at 0x00012630:0xFF"
+      - "write at 0x00012631:0xFF"
+      - "write at 0x00012632:0xFF"
+      - "write at 0x00012633:0xFF"
+      - "write at 0x00012634:0xFF"
+      - "write at 0x00012635:0xFF"
+      - "write at 0x00012636:0xFF"
+      - "write at 0x00012637:0xFF"
+      - "write at 0x00012638:0xFF"
+      - "write at 0x00012639:0xFF"
+      - "write at 0x0001263A:0xFF"
+      - "write at 0x0001263B:0xFF"
+      - "write at 0x0001263C:0xFF"
+      - "write at 0x0001263D:0xFF"
+      - "write at 0x0001263E:0xFF"
+      - "write at 0x0001263F:0xFF"
+      - "write at 0x00012640:0xFF"
+      - "write at 0x00012641:0xFF"
+      - "write at 0x00012642:0xFF"
+      - "write at 0x00012643:0xFF"
+      - "write at 0x00012644:0xFF"
+      - "write at 0x00012645:0xFF"
+      - "write at 0x00012646:0xFF"
+      - "write at 0x00012647:0xFF"
+      - "write at 0x00012648:0xFF"
+      - "write at 0x00012649:0xFF"
+      - "write at 0x0001264A:0xFF"
+      - "write at 0x0001264B:0xFF"
+      - "write at 0x0001264C:0xFF"
+      - "write at 0x0001264D:0xFF"
+      - "write at 0x0001264E:0xFF"
+      - "write at 0x0001264F:0xFF"
+      - "write at 0x00012650:0xFF"
+      - "write at 0x00012651:0xFF"
+      - "write at 0x00012652:0xFF"
+      - "write at 0x00012653:0xFF"
+      - "write at 0x00012654:0xFF"
+      - "write at 0x00012655:0xFF"
+      - "write at 0x00012656:0xFF"
+      - "write at 0x00012657:0xFF"
+      - "write at 0x00012658:0xFF"
+      - "write at 0x00012659:0xFF"
+      - "write at 0x0001265A:0xFF"
+      - "write at 0x0001265B:0xFF"
+      - "write at 0x0001265C:0xFF"
+      - "write at 0x0001265D:0xFF"
+      - "write at 0x0001265E:0xFF"
+      - "write at 0x0001265F:0xFF"
+      - "write at 0x00012660:0xFF"
+      - "write at 0x00012661:0xFF"
+      - "write at 0x00012662:0xFF"
+      - "write at 0x00012663:0xFF"
+      - "write at 0x00012664:0xFF"
+      - "write at 0x00012665:0xFF"
+      - "write at 0x00012666:0xFF"
+      - "write at 0x00012667:0xFF"
+      - "write at 0x00012668:0xFF"
+      - "write at 0x00012669:0xFF"
+      - "write at 0x0001266A:0xFF"
+      - "write at 0x0001266B:0xFF"
+      - "write at 0x0001266C:0xFF"
+      - "write at 0x0001266D:0xFF"
+      - "write at 0x0001266E:0xFF"
+      - "write at 0x0001266F:0xFF"
+      - "write at 0x00012670:0xFF"
+      - "write at 0x00012671:0xFF"
+      - "write at 0x00012672:0xFF"
+      - "write at 0x00012673:0xFF"
+      - "write at 0x00012674:0xFF"
+      - "write at 0x00012675:0xFF"
+      - "write at 0x00012676:0xFF"
+      - "write at 0x00012677:0xFF"
+      - "write at 0x00012678:0xFF"
+      - "write at 0x00012679:0xFF"
+      - "write at 0x0001267A:0xFF"
+      - "write at 0x0001267B:0xFF"
+      - "write at 0x0001267C:0xFF"
+      - "write at 0x0001267D:0xFF"
+      - "write at 0x0001267E:0xFF"
+      - "write at 0x0001267F:0xFF"
+      - "write at 0x00012680:0xFF"
+      - "write at 0x00012681:0xFF"
+      - "write at 0x00012682:0xFF"
+      - "write at 0x00012683:0xFF"
+      - "write at 0x00012684:0xFF"
+      - "write at 0x00012685:0xFF"
+      - "write at 0x00012686:0xFF"
+      - "write at 0x00012687:0xFF"
+      - "write at 0x00012688:0xFF"
+      - "write at 0x00012689:0xFF"
+      - "write at 0x0001268A:0xFF"
+      - "write at 0x0001268B:0xFF"
+      - "write at 0x0001268C:0xFF"
+      - "write at 0x0001268D:0xFF"
+      - "write at 0x0001268E:0xFF"
+      - "write at 0x0001268F:0xFF"
+      - "write at 0x00012690:0xFF"
+      - "write at 0x00012691:0xFF"
+      - "write at 0x00012692:0xFF"
+      - "write at 0x00012693:0xFF"
+      - "write at 0x00012694:0xFF"
+      - "write at 0x00012695:0xFF"
+      - "write at 0x00012696:0xFF"
+      - "write at 0x00012697:0xFF"
+      - "write at 0x00012698:0xFF"
+      - "write at 0x00012699:0xFF"
+      - "write at 0x0001269A:0xFF"
+      - "write at 0x0001269B:0xFF"
+      - "write at 0x0001269C:0xFF"
+      - "write at 0x0001269D:0xFF"
+      - "write at 0x0001269E:0xFF"
+      - "write at 0x0001269F:0xFF"
+
+  - name: "Seen All Skits"
+    notes: "[Battle Items]  File: SAVEDATA.BIN"
+    codes:
+      - "40012740 000000FF"
+      - "40700001 00000000"
+
+  - name: "All-divide"
+    notes: "[Battle Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012484:0xFF"
+
+  - name: "Apple Gel"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012451:0xFF"
+
+  - name: "Orange Gel"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012452:0xFF"
+
+  - name: "Melange Gel"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012453:0xFF"
+
+  - name: "Lemon Gel"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012454:0xFF"
+
+  - name: "Pineapple Gel"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012455:0xFF"
+
+  - name: "Miracle Gel"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012456:0xFF"
+
+  - name: "Specific"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012457:0xFF"
+
+  - name: "Treat"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012458:0xFF"
+
+  - name: "Special Gel"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012459:0xFF"
+
+  - name: "Lottery Gel"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001245A:0xFF"
+
+  - name: "Nectar Bottle"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001245C:0xFF"
+
+  - name: "Cure Bottle"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001245D:0xFF"
+
+  - name: "Dark Bottle"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001245E:0xFF"
+
+  - name: "Dinei Bottle"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001245F:0xFF"
+
+  - name: "Holy Bottle"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012460:0xFF"
+
+  - name: "Life Bottle"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012461:0xFF"
+
+  - name: "Syrup Bottle"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012462:0xFF"
+
+  - name: "Panacea Bottle"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012463:0xFF"
+
+  - name: "Paralysis Bottle"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012464:0xFF"
+
+  - name: "Poison Bottle"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012465:0xFF"
+
+  - name: "Seal Bottle"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012466:0xFF"
+
+  - name: "Shock Bottle"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012467:0xFF"
+
+  - name: "Stone Bottle"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012468:0xFF"
+
+  - name: "Virus Bottle"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012469:0xFF"
+
+  - name: "Weak Bottle"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001246A:0xFF"
+
+  - name: "Wing Bottle"
+    notes: "[Heal Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001246B:0xFF"
+
+  - name: "Sage"
+    notes: "[Powerup Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001246C:0xFF"
+
+  - name: "Savory"
+    notes: "[Powerup Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001246D:0xFF"
+
+  - name: "Lavender"
+    notes: "[Powerup Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001246E:0xFF"
+
+  - name: "Verbena"
+    notes: "[Powerup Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001246F:0xFF"
+
+  - name: "Chamomile"
+    notes: "[Powerup Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012470:0xFF"
+
+  - name: "Basil"
+    notes: "[Powerup Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012471:0xFF"
+
+  - name: "Saffron"
+    notes: "[Powerup Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012472:0xFF"
+
+  - name: "Blue Sage"
+    notes: "[Powerup Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012473:0xFF"
+
+  - name: "Blue Savory"
+    notes: "[Powerup Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012474:0xFF"
+
+  - name: "Blue Lavender"
+    notes: "[Powerup Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012475:0xFF"
+
+  - name: "Blue Verbena"
+    notes: "[Powerup Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012476:0xFF"
+
+  - name: "Blue Chamomile"
+    notes: "[Powerup Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012477:0xFF"
+
+  - name: "Blue Basil"
+    notes: "[Powerup Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012478:0xFF"
+
+  - name: "Blue Saffron"
+    notes: "[Powerup Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012479:0xFF"
+
+  - name: "Red Sage"
+    notes: "[Powerup Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001247A:0xFF"
+
+  - name: "Red Savory"
+    notes: "[Powerup Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001247B:0xFF"
+
+  - name: "Red Lavender"
+    notes: "[Powerup Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001247C:0xFF"
+
+  - name: "Red Verbena"
+    notes: "[Powerup Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001247D:0xFF"
+
+  - name: "Red Chamomile"
+    notes: "[Powerup Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001247E:0xFF"
+
+  - name: "Red Basil"
+    notes: "[Powerup Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001247F:0xFF"
+
+  - name: "Red Saffron"
+    notes: "[Powerup Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012480:0xFF"
+
+  - name: "Grey Manusscript Exp By 500"
+    notes: "[Monster Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012486:0xFF"
+
+  - name: "White Manusscript Exp By 1000"
+    notes: "[Monster Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012487:0xFF"
+
+  - name: "Yellow Manusscript Exp By 3000"
+    notes: "[Monster Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012488:0xFF"
+
+  - name: "Peach Manusscript Exp By 5000"
+    notes: "[Monster Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012489:0xFF"
+
+  - name: "Scarlet Manusscript Exp By 8000"
+    notes: "[Monster Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001248A:0xFF"
+
+  - name: "Azure Manusscript Exp By 15000"
+    notes: "[Monster Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001248B:0xFF"
+
+  - name: "Purple Manusscript Exp By 30000"
+    notes: "[Monster Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001248C:0xFF"
+
+  - name: "Silver Manusscript Exp By 50000"
+    notes: "[Monster Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001248D:0xFF"
+
+  - name: "Gold Manusscript Exp By 70000"
+    notes: "[Monster Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001248E:0xFF"
+
+  - name: "Rainbow Manusscript Exp By 100000"
+    notes: "[Monster Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001248F:0xFF"
+
+  - name: "Message:near Death"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012490:0xFF"
+
+  - name: "Message:fatal Blow"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012491:0xFF"
+
+  - name: "Message:strength"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012492:0xFF"
+
+  - name: "Message:mental"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012493:0xFF"
+
+  - name: "Message:warlord"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012494:0xFF"
+
+  - name: "Message:sage"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012495:0xFF"
+
+  - name: "Message:artist"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012496:0xFF"
+
+  - name: "Message:stronghold"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012497:0xFF"
+
+  - name: "Message:fortress"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012498:0xFF"
+
+  - name: "Message:hawkeye"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012499:0xFF"
+
+  - name: "Undine's Whisper"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001249A:0xFF"
+
+  - name: "Volt's Whim"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001249B:0xFF"
+
+  - name: "Undine's Affection"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001249C:0xFF"
+
+  - name: "Efreet's Help"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001249D:0xFF"
+
+  - name: "Undine's Charity"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001249E:0xFF"
+
+  - name: "Gnome's Dust"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001249F:0xFF"
+
+  - name: "Shadow's Language"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124A0:0xFF"
+
+  - name: "Aska's Embrace"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124A1:0xFF"
+
+  - name: "Sylph's Circle"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124A2:0xFF"
+
+  - name: "Gnome's Flip Out"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124A3:0xFF"
+
+  - name: "Efreet's Hammer"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124A4:0xFF"
+
+  - name: "Gnome's Dance"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124A5:0xFF"
+
+  - name: "Undine's Tears"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124A6:0xFF"
+
+  - name: "Sylph's Mischief"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124A7:0xFF"
+
+  - name: "Celciu's Sigh"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124A8:0xFF"
+
+  - name: "Volt's Melangcholy"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124A9:0xFF"
+
+  - name: "Shadow's Walk"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124AA:0xFF"
+
+  - name: "Gnome's Frustration"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124AB:0xFF"
+
+  - name: "Luna's Punishment"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124AC:0xFF"
+
+  - name: "Efreet's Anger"
+    notes: "[Monster Skill Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124AD:0xFF"
+
+  - name: "Tenebrea's Core"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124AE:0x01"
+
+  - name: "Tenebrae"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124AF:0x01"
+
+  - name: "Aua's Core"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124B0:0x01"
+
+  - name: "Aqua"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124B1:0x01"
+
+  - name: "Glacie's Core"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124B2:0x01"
+
+  - name: "Glacies"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124B3:0x01"
+
+  - name: "Tonitrus'core"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124B4:0x01"
+
+  - name: "Tonitrus"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124B5:0x01"
+
+  - name: "Lumen's Core"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124B6:0x01"
+
+  - name: "Lumen"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124B7:0x01"
+
+  - name: "Solum's Core"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124B8:0x01"
+
+  - name: "Solum"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124B9:0x01"
+
+  - name: "Ventus'core"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124BA:0x01"
+
+  - name: "Ventus"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124BB:0x01"
+
+  - name: "Igni's Core"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124BC:0x01"
+
+  - name: "Ignis"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124BD:0x01"
+
+  - name: "Eau De Seduction"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124BE:0x01"
+
+  - name: "Lloyd's Mask 1"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124BF:0x01"
+
+  - name: "Lloyd's Mask 2"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124C0:0x01"
+
+  - name: "Lloyd's Mask 3"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124C1:0x01"
+
+  - name: "Lloyd's Card 1"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124C2:0x01"
+
+  - name: "Lloyd's Card 2"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124C3:0x01"
+
+  - name: "Seafood Gel"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124C4:0x01"
+
+  - name: "Research Notes 1"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124C5:0x01"
+
+  - name: "Research Notes 2"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124C6:0x01"
+
+  - name: "High-speed Transport"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124C9:0x01"
+
+  - name: "Rheaird"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124CA:0x01"
+
+  - name: "Sorcerer's Ring"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124CB:0x01"
+
+  - name: "Baby Winged Dragon"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124CC:0x01"
+
+  - name: "Stone Dais Key"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124CD:0x01"
+
+  - name: "Maiden's Cane"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124CE:0x01"
+
+  - name: "Bartek"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124CF:0x01"
+
+  - name: "Rosemary"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124D0:0x01"
+
+  - name: "Jellyfish"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124D1:0x01"
+
+  - name: "Letter Of Passage"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124D2:0x01"
+
+  - name: "Card Key 1"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124D3:0x01"
+
+  - name: "Elevator Key"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124D4:0x01"
+
+  - name: "Card Key 3"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124D5:0x01"
+
+  - name: "Card Key 2"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124D6:0x01"
+
+  - name: "Pass Card"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124D8:0x01"
+
+  - name: "Pass Card A"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124D9:0x01"
+
+  - name: "Pass Card B"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124DA:0x01"
+
+  - name: "Pass Card C"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124DB:0x01"
+
+  - name: "Pass Card D"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124DC:0x01"
+
+  - name: "Training Manual"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124DD:0x01"
+
+  - name: "Journal"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124DE:0x01"
+
+  - name: "Balacruf Symbol"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124DF:0x01"
+
+  - name: "Balacruf Tombstone"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124E0:0x01"
+
+  - name: "Angelatops"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124E1:0x01"
+
+  - name: "Pendant"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124E2:0x01"
+
+  - name: "Special Bait"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124E3:0x01"
+
+  - name: "Water Spider"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124E4:0x01"
+
+  - name: "Lloyd's Mask 4"
+    notes: "[Key Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124E5:0x01"
+
+  - name: "Pasta"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124E6:0xFF"
+
+  - name: "Rice"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124E7:0xFF"
+
+  - name: "Flour"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124E8:0xFF"
+
+  - name: "Bread"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124E9:0xFF"
+
+  - name: "Roll"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124EA:0xFF"
+
+  - name: "Barley Rice"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124EB:0xFF"
+
+  - name: "Juicy Meat"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124EC:0xFF"
+
+  - name: "Beef"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124ED:0xFF"
+
+  - name: "Chicken"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124EE:0xFF"
+
+  - name: "Pork"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124EF:0xFF"
+
+  - name: "Beef Strips"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124F0:0xFF"
+
+  - name: "Konjac"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124F1:0xFF"
+
+  - name: "Tofu"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124F2:0xFF"
+
+  - name: "Snapper"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124F3:0xFF"
+
+  - name: "Squid"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124F4:0xFF"
+
+  - name: "Cod"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124F5:0xFF"
+
+  - name: "Tuna"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124F6:0xFF"
+
+  - name: "Shellfish"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124F7:0xFF"
+
+  - name: "Octopus"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124F8:0xFF"
+
+  - name: "Shrimp"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124F9:0xFF"
+
+  - name: "Bell Pepper"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124FA:0xFF"
+
+  - name: "Lettuce"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124FB:0xFF"
+
+  - name: "Cucumber"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124FC:0xFF"
+
+  - name: "Onion"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124FD:0xFF"
+
+  - name: "Radish"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124FE:0xFF"
+
+  - name: "Tomato"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x000124FF:0xFF"
+
+  - name: "Carrot"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012500:0xFF"
+
+  - name: "Mushroom"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012501:0xFF"
+
+  - name: "Cabbage"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012502:0xFF"
+
+  - name: "Potato"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012503:0xFF"
+
+  - name: "Amango"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012504:0xFF"
+
+  - name: "Kirima"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012505:0xFF"
+
+  - name: "Melon"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012506:0xFF"
+
+  - name: "Pineapple"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012507:0xFF"
+
+  - name: "Strawberry"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012508:0xFF"
+
+  - name: "Grapes"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012509:0xFF"
+
+  - name: "Peach"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001250A:0xFF"
+
+  - name: "Pear"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001250B:0xFF"
+
+  - name: "Banana"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001250C:0xFF"
+
+  - name: "Apple"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001250D:0xFF"
+
+  - name: "Lemon"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001250E:0xFF"
+
+  - name: "Purple Satay"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001250F:0xFF"
+
+  - name: "Black Satay"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012510:0xFF"
+
+  - name: "White Satay"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012511:0xFF"
+
+  - name: "Red Satay"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012512:0xFF"
+
+  - name: "Cheese"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012513:0xFF"
+
+  - name: "Miso"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012514:0xFF"
+
+  - name: "Kelp"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012515:0xFF"
+
+  - name: "Seaweed"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012516:0xFF"
+
+  - name: "Egg"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012517:0xFF"
+
+  - name: "Milk"
+    notes: "[Cooking Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012518:0xFF"
+
+  - name: "Plant Vine"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012519:0xFF"
+
+  - name: "Thick Leaf"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001251A:0xFF"
+
+  - name: "Flower Petals"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001251B:0xFF"
+
+  - name: "Leaf Mold"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001251C:0xFF"
+
+  - name: "Tree Sap"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001251D:0xFF"
+
+  - name: "Lumber"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001251E:0xFF"
+
+  - name: "Treant Bulb"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001251F:0xFF"
+
+  - name: "Charcoal"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012520:0xFF"
+
+  - name: "Beautiful Flower"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012521:0xFF"
+
+  - name: "Moss"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012522:0xFF"
+
+  - name: "Slime Mold"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012523:0xFF"
+
+  - name: "Fragrant Wood"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012524:0xFF"
+
+  - name: "Small Fang"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012525:0xFF"
+
+  - name: "Fluffy Fur"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012526:0xFF"
+
+  - name: "Sharp Claw"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012527:0xFF"
+
+  - name: "Slough"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012528:0xFF"
+
+  - name: "Mane"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012529:0xFF"
+
+  - name: "Lizar Tail"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001252A:0xFF"
+
+  - name: "Wolf Fur"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001252B:0xFF"
+
+  - name: "Rabbit Tail"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001252C:0xFF"
+
+  - name: "Bear Skin"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001252D:0xFF"
+
+  - name: "Lizard Skin"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001252E:0xFF"
+
+  - name: "Ogre's Blood"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001252F:0xFF"
+
+  - name: "Evil Eye"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012530:0xFF"
+
+  - name: "Horn"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012531:0xFF"
+
+  - name: "Insect's Wing"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012532:0xFF"
+
+  - name: "Cocoon"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012533:0xFF"
+
+  - name: "Stinger"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012534:0xFF"
+
+  - name: "Crawler's Silk"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012535:0xFF"
+
+  - name: "Elastic Leather"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012536:0xFF"
+
+  - name: "Twisted Horn"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012537:0xFF"
+
+  - name: "Insect Fluid"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012538:0xFF"
+
+  - name: "Deadly Poison"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012539:0xFF"
+
+  - name: "Spider's Net"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001253A:0xFF"
+
+  - name: "Ore"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001253B:0xFF"
+
+  - name: "Large Scythe"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001253C:0xFF"
+
+  - name: "Bird Feather"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001253D:0xFF"
+
+  - name: "Beak"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001253E:0xFF"
+
+  - name: "Spoiled Meat"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001253F:0xFF"
+
+  - name: "Roc's Feather"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012540:0xFF"
+
+  - name: "Chicken's Bones"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012541:0xFF"
+
+  - name: "Bat Wing"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012542:0xFF"
+
+  - name: "Rough Leather"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012543:0xFF"
+
+  - name: "Phoenix Wing"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012544:0xFF"
+
+  - name: "Hawk's Eye"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012545:0xFF"
+
+  - name: "Harpy's Feather"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012546:0xFF"
+
+  - name: "Bat Fang"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012547:0xFF"
+
+  - name: "Bird Egg"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012548:0xFF"
+
+  - name: "Turtle Shell"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012549:0xFF"
+
+  - name: "Ink"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001254A:0xFF"
+
+  - name: "Fish Scale"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001254B:0xFF"
+
+  - name: "Seashell"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001254C:0xFF"
+
+  - name: "Frog Eggs"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001254D:0xFF"
+
+  - name: "Spongy Skin"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001254E:0xFF"
+
+  - name: "Quality Shell"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x0001254F:0xFF"
+
+  - name: "Jar Fragment"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012550:0xFF"
+
+  - name: "Quality Scale"
+    notes: "[Monster/synthesize Items]  File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x00012551:0xFF"
+      - "write at 0x00012552:0xFF"
+      - "write at 0x00012553:0xFF"
+      - "write at 0x00012554:0xFF"
+      - "write at 0x00012555:0xFF"
+      - "write at 0x00012556:0xFF"
+      - "write at 0x00012557:0xFF"
+      - "write at 0x00012558:0xFF"
+      - "write at 0x00012559:0xFF"
+      - "write at 0x0001255A:0xFF"
+      - "write at 0x0001255B:0xFF"
+      - "write at 0x0001255C:0xFF"
+      - "write at 0x0001255D:0xFF"
+      - "write at 0x0001255E:0xFF"
+      - "write at 0x0001255F:0xFF"
+      - "write at 0x00012560:0xFF"
+      - "write at 0x00012561:0xFF"
+      - "write at 0x00012562:0xFF"
+      - "write at 0x00012563:0xFF"
+      - "write at 0x00012564:0xFF"
+      - "write at 0x00012565:0xFF"
+      - "write at 0x00012566:0xFF"
+      - "write at 0x00012567:0xFF"
+      - "write at 0x00012568:0xFF"
+      - "write at 0x00012569:0xFF"
+      - "write at 0x0001256A:0xFF"
+      - "write at 0x0001256B:0xFF"
+      - "write at 0x0001256C:0xFF"
+      - "write at 0x0001256D:0xFF"
+      - "write at 0x0001256E:0xFF"
+      - "write at 0x0001256F:0xFF"
+      - "write at 0x00012570:0xFF"
+      - "write at 0x00012571:0xFF"
+      - "write at 0x00012572:0xFF"
+      - "write at 0x00012573:0xFF"
+      - "write at 0x00012574:0xFF"
+      - "write at 0x00012575:0xFF"
+      - "write at 0x00012576:0xFF"
+      - "write at 0x00012577:0xFF"
+      - "write at 0x00012578:0xFF"
+      - "write at 0x00012579:0xFF"
+      - "write at 0x0001257A:0xFF"
+      - "write at 0x0001257B:0xFF"
+      - "write at 0x0001257C:0xFF"
+      - "write at 0x0001257D:0xFF"
+      - "write at 0x0001257E:0xFF"
+      - "write at 0x0001257F:0xFF"
+      - "write at 0x00012580:0xFF"
+      - "write at 0x00012581:0xFF"
+      - "write at 0x00012582:0xFF"
+      - "write at 0x00012583:0xFF"
+      - "write at 0x00012584:0xFF"
+      - "write at 0x00012585:0xFF"
+      - "write at 0x00012586:0xFF"
+      - "write at 0x00012587:0xFF"
+      - "write at 0x00012588:0xFF"
+      - "write at 0x00012589:0xFF"
+      - "write at 0x0001258A:0xFF"
+      - "write at 0x0001258B:0xFF"
+      - "write at 0x0001258C:0xFF"
+      - "write at 0x0001258D:0xFF"
+      - "write at 0x0001258E:0xFF"
+      - "write at 0x0001258F:0xFF"

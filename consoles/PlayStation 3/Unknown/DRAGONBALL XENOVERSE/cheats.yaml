@@ -1,0 +1,103 @@
+# DRAGONBALL XENOVERSE cheat data
+# Console: PlayStation 3
+# Region:  Unknown
+# Serial:  BLET70059
+
+game: "DRAGONBALL XENOVERSE"
+console: "PlayStation 3"
+region: "Unknown"
+serial: "BLET70059"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Max Money Zeni"
+    notes: "File: SDATA000.DAT"
+    codes:
+      - "write next 0x28:0x7FFFFFFF"
+
+  - name: "1000000 Zeni"
+    notes: "File: SDATA000.DAT"
+    codes:
+      - "20000028 000F4240"
+
+  - name: "Goku Shinraido Max"
+    notes: "File: SDATA000.DAT"
+    codes:
+      - "2003269C 000003E8"
+      - "200326A0 00000001"
+
+  - name: "Piccolo Shinraido Max"
+    notes: "File: SDATA000.DAT"
+    codes:
+      - "200326A4 000003E8"
+      - "200326A8 00000001"
+
+  - name: "Krillin Shinraido Max"
+    notes: "File: SDATA000.DAT"
+    codes:
+      - "200326AC 000003E8"
+      - "200326B0 00000001"
+
+  - name: "Vegeta Shinraido Max"
+    notes: "File: SDATA000.DAT"
+    codes:
+      - "200326B4 000003E8"
+      - "200326B8 00000001"
+
+  - name: "Gohan And Videl Shinraido Max"
+    notes: "File: SDATA000.DAT"
+    codes:
+      - "200326BC 000003E8"
+      - "200326C0 00000001"
+
+  - name: "Ginyu Shinraido Max"
+    notes: "File: SDATA000.DAT"
+    codes:
+      - "200326C4 000003E8"
+      - "200326C8 00000001"
+
+  - name: "Frueza Shinraido Max"
+    notes: "File: SDATA000.DAT"
+    codes:
+      - "200326CC 000003E8"
+      - "200326D0 00000001"
+
+  - name: "#18 Shinraido Max"
+    notes: "File: SDATA000.DAT"
+    codes:
+      - "200326D4 000003E8"
+      - "200326D8 00000001"
+
+  - name: "Cell Shinraido Max"
+    notes: "File: SDATA000.DAT"
+    codes:
+      - "200326DC 000003E8"
+      - "200326E0 00000001"
+
+  - name: "Mr Satan Shinraido Max"
+    notes: "File: SDATA000.DAT"
+    codes:
+      - "200326E4 000003E8"
+      - "200326E8 00000001"
+
+  - name: "Gotenks Shinraido Max"
+    notes: "File: SDATA000.DAT"
+    codes:
+      - "200326EC 000003E8"
+      - "200326F0 00000001"
+
+  - name: "Beerus Shinraido Max"
+    notes: "File: SDATA000.DAT"
+    codes:
+      - "200326F4 000003E8"
+      - "200326F8 00000001"
+
+  - name: "Update Md5 Hashes (required)"
+    notes: "File: SDATA000.DAT"
+    codes:
+      - "set pointer:read(0x20)"
+      - "set pointer:pointer -0x8"
+      - "set range:0x8, pointer"
+      - "set [md5]:md5"
+      - "write at 0x10:[md5]"

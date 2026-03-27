@@ -1,0 +1,23 @@
+# We Are cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66449
+
+game: "We Are"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66449"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010FC58 0C043EBE"
+
+  - name: "Replace New Game With Debug Menu"
+    author: "punk7890"
+    codes:
+      - "21CEF310 00000004"

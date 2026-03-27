@@ -1,0 +1,88 @@
+# Scaler cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20957
+
+game: "Scaler"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20957"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F012C2E4 0012C2E7"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "9012C2E4 0C04E66A"
+
+  - name: "Have All Abilities"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2045BAD4 FFFFFFFF"
+
+  - name: "Have All Crystal Gems"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "1045BA4E 0000FFFF"
+      - "4045BA50 00030001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Have All Eggs"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2045BA3C FFFFFFFF"
+
+  - name: "Infinite Electric Bombs"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "0045B795 00000006"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D041A326 0010FFFE"
+      - "2031D8A4 41200000"
+
+  - name: "Max Electric Bombs"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "0045BA95 00000005"
+
+  - name: "Max Klokkies Counter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2045BA38 000F423F"
+
+  - name: "All Abilities"
+    author: "Codejunkies"
+    codes:
+      - "0045BAD4 0000000C"
+
+  - name: "All Gems"
+    author: "Codejunkies"
+    codes:
+      - "0045BA4F 000000FF"
+      - "2045BA50 FFFFFFFF"
+      - "2045BA57 FFFFFFFF"
+      - "2045BA58 0FFFFFFF"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9012C2E4 0C04E66A"

@@ -1,0 +1,20 @@
+# FIFA Soccer 10 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00615
+
+game: "FIFA Soccer 10"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00615"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Sys-data (required)"
+    notes: "File: SYS-DATA  (set range:0x00001C,0x01CC23)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x00001C,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000010:[hash]"

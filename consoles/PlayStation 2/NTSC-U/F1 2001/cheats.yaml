@@ -1,0 +1,60 @@
+# F1 2001 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20264
+
+game: "F1 2001"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20264"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01000D8 001171B7"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001171B7"
+
+  - name: "All Races Are One Lap Only"
+    author: "Codejunkies"
+    codes:
+      - "10376010 00000001"
+
+  - name: "Have Track Challenge Complete"
+    author: "Code Master"
+    codes:
+      - "403B2750 00050001"
+      - "64646464 00000000"
+
+  - name: "Have Training Complete"
+    author: "Code Master"
+    codes:
+      - "403B2738 00060001"
+      - "64646464 00000000"
+
+  - name: "Track Chal. Complete"
+    author: "InterAct"
+    codes:
+      - "203B2750 64646464"
+      - "203B2754 64646464"
+      - "203B2758 64646464"
+      - "203B275C 64646464"
+      - "203B2760 64646464"
+
+  - name: "Training Challenges Are Complete"
+    author: "Codejunkies"
+    codes:
+      - "203B2738 64646464"
+      - "203B273C 64646464"
+      - "203B2740 64646464"
+      - "203B2744 64646464"
+      - "203B2748 64646464"
+      - "203B274C 64646464"

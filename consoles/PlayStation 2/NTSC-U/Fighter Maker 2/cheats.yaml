@@ -1,0 +1,107 @@
+# Fighter Maker 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20524
+
+game: "Fighter Maker 2"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20524"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0200008 002AA2B7"
+
+  - name: "1-Hit Death P1"
+    author: "Code Master"
+    codes:
+      - "200C0220 24010001"
+      - "200C0224 AC810038"
+      - "200C0228 03E00008"
+      - "200C022C 248508F0"
+      - "2027CB74 0C030088"
+
+  - name: "1-Hit Death P2"
+    author: "Code Master"
+    codes:
+      - "200C0230 24010001"
+      - "200C0234 AC81003C"
+      - "200C0238 03E00008"
+      - "200C023C 01034021"
+      - "2027CB7C 0C03008C"
+
+  - name: "Always Low Total Time"
+    author: "Code Master"
+    codes:
+      - "2027F0A4 00000000"
+
+  - name: "Disable Blocking Both Players"
+    author: "nolberto82"
+    codes:
+      - "2028E910 1000006D"
+      - "2028E520 100000F9"
+
+  - name: "Hit Anywhere Both Players"
+    author: "nolberto82"
+    codes:
+      - "2028E1A8 00000000"
+      - "2028E2B8 00000000"
+      - "2028E468 1000002B"
+
+  - name: "Infinite Health P1"
+    author: "Code Master"
+    codes:
+      - "200C0220 240100C8"
+      - "200C0224 AC810038"
+      - "200C0228 03E00008"
+      - "200C022C 248508F0"
+      - "2027CB74 0C030088"
+
+  - name: "Infinite Health P2"
+    author: "Code Master"
+    codes:
+      - "200C0230 240100C8"
+      - "200C0234 AC81003C"
+      - "200C0238 03E00008"
+      - "200C023C 01034021"
+      - "2027CB7C 0C03008C"
+
+  - name: "Infinite Time"
+    author: "Code Master"
+    codes:
+      - "2027DB64 00000000"
+
+  - name: "No Health P1"
+    author: "Code Master"
+    codes:
+      - "200C0220 24010000"
+      - "200C0224 AC810038"
+      - "200C0228 03E00008"
+      - "200C022C 248508F0"
+      - "2027CB74 0C030088"
+
+  - name: "No Health P2"
+    author: "Code Master"
+    codes:
+      - "200C0230 24010000"
+      - "200C0234 AC81003C"
+      - "200C0238 03E00008"
+      - "200C023C 01034021"
+      - "2027CB7C 0C03008C"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0200008 002AA2B7"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "902AA2B4 0C0B2867"

@@ -1,0 +1,23 @@
+# Ace Combat X2 Joint Assault cheat data
+# Console: PSP
+# Region:  PAL
+# Serial:  ULES01408
+
+game: "Ace Combat X2 Joint Assault"
+console: "PSP"
+region: "PAL"
+serial: "ULES01408"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Possession Money 99999999"
+    notes: "File: *"
+    codes:
+      - "200060AC 05F5E0FF"
+
+  - name: "All Aircraft And Weapons Release"
+    notes: "File: *"
+    codes:
+      - "420060C0 F33F807F"
+      - "402C0004 00000000"

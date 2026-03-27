@@ -1,0 +1,93 @@
+# King Of Fighters '98, The - Ultimate Match [Neogeo Online Collection Vol.10] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25783
+
+game: "King Of Fighters '98, The - Ultimate Match [Neogeo Online Collection Vol.10]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25783"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "901105D8 0C04411E"
+
+  - name: "English Mode (Neogeo MODE GAME ONLY)"
+    author: "lee4"
+    codes:
+      - "00684BD8 00000001"
+
+  - name: "Inf Time (P1 Press L1+R1)"
+    author: "lee4"
+    codes:
+      - "D1681942 0010F3FF"
+      - "106781C8 00000099"
+
+  - name: "P1 Inf HP"
+    author: "lee4"
+    codes:
+      - "00680688 00000067"
+      - "D06806A2 00000000"
+      - "00680688 00000077"
+
+  - name: "P1 Inf Power"
+    author: "lee4"
+    codes:
+      - "20680638 40008000"
+      - "00680733 00000004"
+      - "1068066C 00000202"
+
+  - name: "P1 No HP (P2 Press Select)"
+    author: "lee4"
+    codes:
+      - "D1681842 0000FFFE"
+      - "00680688 00000000"
+
+  - name: "P1 No Power"
+    author: "lee4"
+    codes:
+      - "20680638 00000000"
+      - "00680733 00000000"
+
+  - name: "P2 Inf HP"
+    author: "lee4"
+    codes:
+      - "00680888 00000067"
+      - "D06808A2 00000000"
+      - "00680888 00000077"
+
+  - name: "P2 Inf Power"
+    author: "lee4"
+    codes:
+      - "20680838 40008000"
+      - "00680933 00000004"
+      - "1068086C 00000202"
+
+  - name: "P2 No HP (P1 Press Select)"
+    author: "lee4"
+    codes:
+      - "D1681942 0000FFFE"
+      - "00680888 00000000"
+
+  - name: "P2 No Power"
+    author: "lee4"
+    codes:
+      - "20680838 00000000"
+      - "00680933 00000000"
+
+  - name: "Unlock ALL Characters"
+    author: "lee4"
+    codes:
+      - "10684D50 000001FF"
+
+  - name: "Unlock All Gallery"
+    author: "lee4"
+    codes:
+      - "40684D60 003F0001"
+      - "01010101 00000000"
+      - "10684E5C 00000101"

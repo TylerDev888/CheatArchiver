@@ -1,0 +1,22 @@
+# Braid (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00150
+
+game: "Braid (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00150"
+cheat_type: "Save Editor"
+source: "By DarkOverlord"
+
+cheats:
+  - name: "8 Stars"
+    notes: "File: BRAID.SAV"
+    codes:
+      - "00000018 000000FF"
+
+  - name: "Speed Run Below 45 Mins - Must Have Completed Game First (unlocks Trophy)"
+    notes: "File: BRAID.SAV"
+    codes:
+      - "write at 37E: A14C0200A14C0200A14C0200"

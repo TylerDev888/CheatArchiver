@@ -1,0 +1,763 @@
+# Rocky-Legends cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20890
+
+game: "Rocky-Legends"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20890"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901155E4 0C046BAC"
+
+  - name: "Infinite Health P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20440178 3F800000"
+
+  - name: "75% Health P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D044017A 00003F80"
+      - "20440178 3F400000"
+
+  - name: "50% Health P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D044017A 00003F80"
+      - "20440178 3F000000"
+
+  - name: "25% Health P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D044017A 00003F80"
+      - "20440178 3E800000"
+
+  - name: "No Health P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20440178 00000000"
+
+  - name: "Max Health Rebuild P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2044017C 3F800000"
+
+  - name: "No Health Rebuild P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2044017C 00000000"
+
+  - name: "Infinite Punch Power P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20440190 3F800000"
+
+  - name: "No Punch Power P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20440190 00000000"
+
+  - name: "Always 0 Knockdowns P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2043FFCC 00000000"
+
+  - name: "Start With 1 Knockdown P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D043FFCC 00000000"
+      - "2043FFCC 00000001"
+
+  - name: "Start With 2 Knockdown P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D043FFCC 00000000"
+      - "2043FFCC 00000002"
+
+  - name: "Start With 3 Knockdown P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D043FFCC 00000000"
+      - "2043FFCC 00000003"
+
+  - name: "Infinite Health P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20442178 3F800000"
+
+  - name: "75% Health P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D044217A 00003F80"
+      - "20442178 3F400000"
+
+  - name: "50% Health P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D044217A 00003F80"
+      - "20442178 3F000000"
+
+  - name: "25% Health P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D044217A 00003F80"
+      - "20442178 3E800000"
+
+  - name: "No Health P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20442178 00000000"
+
+  - name: "Max Health Rebuild P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2044217C 3F800000"
+
+  - name: "No Health Rebuild P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2044217C 00000000"
+
+  - name: "Infinite Punch Power P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20442190 3F800000"
+
+  - name: "No Punch Power P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20442190 00000000"
+
+  - name: "Always 0 Knockdowns P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20441FCC 00000000"
+
+  - name: "Start With 1 Knockdown P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0441FCC 00000000"
+      - "20441FCC 00000001"
+
+  - name: "Start With 2 Knockdown P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0441FCC 00000000"
+      - "20441FCC 00000002"
+
+  - name: "Start With 3 Knockdown P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0441FCC 00000000"
+      - "20441FCC 00000003"
+
+  - name: "P1 Press L1+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D041A5C2 0000FBFE"
+      - "201EB894 00000000"
+
+  - name: "P1 Press L2+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D041A5C2 0000FEFE"
+      - "201EB894 E44000B4"
+
+  - name: "P2 Press L1+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D041A742 0000FBFE"
+      - "201EB894 00000000"
+
+  - name: "P2 Press L2+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D041A742 0000FEFE"
+      - "201EB894 E44000B4"
+
+  - name: "Infinite Current Funds"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1059BFE4 0000FFFF"
+
+  - name: "Max Current Funds"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2059BFE4 05F5E0FF"
+
+  - name: "Buying Items Does Not Decrease Funds"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2029B00C 00000000"
+
+  - name: "Buying Items Increases Funds"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2029B008 00441021"
+
+  - name: "Max Strength"
+    author: "Code Master"
+    notes: "[Rocky Balboa Codes]"
+    codes:
+      - "2059C300 00000064"
+
+  - name: "Max Speed"
+    author: "Code Master"
+    notes: "[Rocky Balboa Codes]"
+    codes:
+      - "2059C304 00000064"
+
+  - name: "Max Determination"
+    author: "Code Master"
+    notes: "[Rocky Balboa Codes]"
+    codes:
+      - "2059C308 00000064"
+
+  - name: "Max Stamina"
+    author: "Code Master"
+    notes: "[Rocky Balboa Codes]"
+    codes:
+      - "2059C30C 00000064"
+
+  - name: "Max Movement"
+    author: "Code Master"
+    notes: "[Rocky Balboa Codes]"
+    codes:
+      - "2059C310 00000064"
+
+  - name: "Apollo Creed"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B38C 00000001"
+
+  - name: "Ernie Roman"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B39C 00000001"
+
+  - name: "Billy Snow"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B3AC 00000001"
+
+  - name: "Yuri Denisov"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B3BC 00000001"
+
+  - name: "Floyd Mccallum"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B3CC 00000001"
+
+  - name: "Jose Mendoza"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B3DC 00000001"
+
+  - name: "Carlos Arguello"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B3EC 00000001"
+
+  - name: "Clubber Lang"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B3FC 00000001"
+
+  - name: "Ivan Drago"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B40C 00000001"
+
+  - name: "Joe Zale"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B41C 00000001"
+
+  - name: "John Barkley"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B43C 00000001"
+
+  - name: "Brendan Doyle"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B44C 00000001"
+
+  - name: "Tony Duke"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B45C 00000001"
+
+  - name: "Dipper Brow"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B46C 00000001"
+
+  - name: "Burt Judge"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B47C 00000001"
+
+  - name: "Jack Jarrell"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B48C 00000001"
+
+  - name: "George Fullmer"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B49C 00000001"
+
+  - name: "Salvador Martinez"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B4AC 00000001"
+
+  - name: "Alexel Baluk"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B4BC 00000001"
+
+  - name: "Wolfgang Peltzer"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B4CC 00000001"
+
+  - name: "Ken Kiaassen"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B4DC 00000001"
+
+  - name: "Big Yank Ball"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B4EC 00000001"
+
+  - name: "Troy Miller"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B4FC 00000001"
+
+  - name: "Virgil Abrams"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B52C 00000001"
+
+  - name: "Tommy Gunn"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B54C 00000001"
+
+  - name: "Paulie Klein"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B56C 00000001"
+
+  - name: "Marco Chavez"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B57C 00000001"
+
+  - name: "Kofi Langton"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B58C 00000001"
+
+  - name: "Maurizio Medina"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B59C 00000001"
+
+  - name: "Union Cane"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B5AC 00000001"
+
+  - name: "Spider Rico"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B5BC 00000001"
+
+  - name: "Big Chuck Smith"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B5CC 00000001"
+
+  - name: "Sergei Ishora"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B5FC 00000001"
+
+  - name: "Mickey Goldmill"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B60C 00000001"
+
+  - name: "Sam Monroe"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B61C 00000001"
+
+  - name: "Jack Czak"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "2059B62C 00000001"
+
+  - name: "All Boxers"
+    author: "Code Master"
+    notes: "[Unlock Boxer Codes]"
+    codes:
+      - "4059B38C 002B0004"
+      - "00000001 00000000"
+
+  - name: "Rocky Balboa, 1978"
+    author: "Code Master"
+    notes: "[Unlock Misc. Codes]"
+    codes:
+      - "2059B65C 00000001"
+
+  - name: "Rocky Balboa, 1983"
+    author: "Code Master"
+    notes: "[Unlock Misc. Codes]"
+    codes:
+      - "2059B66C 00000001"
+
+  - name: "Rocky Balboa, 1985"
+    author: "Code Master"
+    notes: "[Unlock Misc. Codes]"
+    codes:
+      - "2059B67C 00000001"
+
+  - name: "Apollo Creed, 1972"
+    author: "Code Master"
+    notes: "[Unlock Misc. Codes]"
+    codes:
+      - "2059B68C 00000001"
+
+  - name: "Apollo Creed, 1985"
+    author: "Code Master"
+    notes: "[Unlock Misc. Codes]"
+    codes:
+      - "2059B69C 00000001"
+
+  - name: "Alexei Baluk III"
+    author: "Code Master"
+    notes: "[Unlock Misc. Codes]"
+    codes:
+      - "2059B6AC 00000001"
+
+  - name: "Union Cane III"
+    author: "Code Master"
+    notes: "[Unlock Misc. Codes]"
+    codes:
+      - "2059B6BC 00000001"
+
+  - name: "Bob Cray III"
+    author: "Code Master"
+    notes: "[Unlock Misc. Codes]"
+    codes:
+      - "2059B6CC 00000001"
+
+  - name: "Ivan Drago III"
+    author: "Code Master"
+    notes: "[Unlock Misc. Codes]"
+    codes:
+      - "2059B6DC 00000001"
+
+  - name: "Burt Judge III"
+    author: "Code Master"
+    notes: "[Unlock Misc. Codes]"
+    codes:
+      - "2059B6EC 00000001"
+
+  - name: "Clubber Lang III"
+    author: "Code Master"
+    notes: "[Unlock Misc. Codes]"
+    codes:
+      - "2059B6FC 00000001"
+
+  - name: "Jose Mendoza III"
+    author: "Code Master"
+    notes: "[Unlock Misc. Codes]"
+    codes:
+      - "2059B70C 00000001"
+
+  - name: "Troy Miller III"
+    author: "Code Master"
+    notes: "[Unlock Misc. Codes]"
+    codes:
+      - "2059B71C 00000001"
+
+  - name: "Sam Monroe III"
+    author: "Code Master"
+    notes: "[Unlock Misc. Codes]"
+    codes:
+      - "2059B72C 00000001"
+
+  - name: "Razor Robinson III"
+    author: "Code Master"
+    notes: "[Unlock Misc. Codes]"
+    codes:
+      - "2059B73C 00000001"
+
+  - name: "Big Chuck Smith III"
+    author: "Code Master"
+    notes: "[Unlock Misc. Codes]"
+    codes:
+      - "2059B74C 00000001"
+
+  - name: "Rocky I Trailer"
+    author: "Code Master"
+    notes: "[Unlock Misc. Codes]"
+    codes:
+      - "2059B75C 00000001"
+
+  - name: "Rocky II Trailer"
+    author: "Code Master"
+    notes: "[Unlock Misc. Codes]"
+    codes:
+      - "2059B76C 00000001"
+
+  - name: "Rocky III Trailer"
+    author: "Code Master"
+    notes: "[Unlock Misc. Codes]"
+    codes:
+      - "2059B77C 00000001"
+
+  - name: "Rocky IV Trailer"
+    author: "Code Master"
+    notes: "[Unlock Misc. Codes]"
+    codes:
+      - "2059B78C 00000001"
+
+  - name: "Rocky V Trailer"
+    author: "Code Master"
+    notes: "[Unlock Misc. Codes]"
+    codes:
+      - "2059B79C 00000001"
+
+  - name: "Chicken Chase"
+    author: "Code Master"
+    notes: "[Unlock Misc. Codes]"
+    codes:
+      - "2059B7AC 00000001"
+
+  - name: "Survival Mode"
+    author: "Code Master"
+    notes: "[Unlock Misc. Codes]"
+    codes:
+      - "2059B7BC 00000001"
+
+  - name: "All Misc."
+    author: "Code Master"
+    notes: "[Unlock Misc. Codes]"
+    codes:
+      - "4059B65C 00170004"
+      - "00000001 00000000"
+
+  - name: "Alley At Night"
+    author: "Code Master"
+    notes: "[Unlock Venue Codes]"
+    codes:
+      - "2059B7CC 00000001"
+
+  - name: "On The Docks"
+    author: "Code Master"
+    notes: "[Unlock Venue Codes]"
+    codes:
+      - "2059B7DC 00000001"
+
+  - name: "Ice Arena"
+    author: "Code Master"
+    notes: "[Unlock Venue Codes]"
+    codes:
+      - "2059B7EC 00000001"
+
+  - name: "Philadelphia 76"
+    author: "Code Master"
+    notes: "[Unlock Venue Codes]"
+    codes:
+      - "2059B7FC 00000001"
+
+  - name: "Philadelphia 77"
+    author: "Code Master"
+    notes: "[Unlock Venue Codes]"
+    codes:
+      - "2059B80C 00000001"
+
+  - name: "New York"
+    author: "Code Master"
+    notes: "[Unlock Venue Codes]"
+    codes:
+      - "2059B81C 00000001"
+
+  - name: "Moscow"
+    author: "Code Master"
+    notes: "[Unlock Venue Codes]"
+    codes:
+      - "2059B82C 00000001"
+
+  - name: "Mccarthy Hall"
+    author: "Code Master"
+    notes: "[Unlock Venue Codes]"
+    codes:
+      - "2059B84C 00000001"
+
+  - name: "City Hall"
+    author: "Code Master"
+    notes: "[Unlock Venue Codes]"
+    codes:
+      - "2059B85C 00000001"
+
+  - name: "MGM Grand Hotel"
+    author: "Code Master"
+    notes: "[Unlock Venue Codes]"
+    codes:
+      - "2059B86C 00000001"
+
+  - name: "Times Square"
+    author: "Code Master"
+    notes: "[Unlock Venue Codes]"
+    codes:
+      - "2059B87C 00000001"
+
+  - name: "Chicago State Pen."
+    author: "Code Master"
+    notes: "[Unlock Venue Codes]"
+    codes:
+      - "2059B88C 00000001"
+
+  - name: "Warehouse"
+    author: "Code Master"
+    notes: "[Unlock Venue Codes]"
+    codes:
+      - "2059B89C 00000001"
+
+  - name: "Carnival"
+    author: "Code Master"
+    notes: "[Unlock Venue Codes]"
+    codes:
+      - "2059B8AC 00000001"
+
+  - name: "Art Museum"
+    author: "Code Master"
+    notes: "[Unlock Venue Codes]"
+    codes:
+      - "2059B8BC 00000001"
+
+  - name: "Siberian Barn"
+    author: "Code Master"
+    notes: "[Unlock Venue Codes]"
+    codes:
+      - "2059B8CC 00000001"
+
+  - name: "Odessa Stadium"
+    author: "Code Master"
+    notes: "[Unlock Venue Codes]"
+    codes:
+      - "2059B8DC 00000001"
+
+  - name: "Tank Factory"
+    author: "Code Master"
+    notes: "[Unlock Venue Codes]"
+    codes:
+      - "2059B8EC 00000001"
+
+  - name: "Aircraft Carrier"
+    author: "Code Master"
+    notes: "[Unlock Venue Codes]"
+    codes:
+      - "2059B8FC 00000001"
+
+  - name: "Mickeys Gym"
+    author: "Code Master"
+    notes: "[Unlock Venue Codes]"
+    codes:
+      - "2059B90C 00000001"
+
+  - name: "All Venues"
+    author: "Code Master"
+    notes: "[Unlock Venue Codes]"
+    codes:
+      - "4059B7CC 00150004"
+      - "00000001 00000000"

@@ -1,0 +1,49 @@
+# Monster Hunter Freedom Unite cheat data
+# Console: PSP
+# Region:  PAL
+# Serial:  ULES01213
+
+game: "Monster Hunter Freedom Unite"
+console: "PSP"
+region: "PAL"
+serial: "ULES01213"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Decrypt Mhp2ndg.bin (required)"
+    notes: "File: MHP2NDG.BIN"
+    codes:
+      - "set range:0x0000,EOF+1"
+      - "DECRYPT monster_hunter(2)"
+
+  - name: "Unlock Bonus Content"
+    notes: "File: MHP2NDG.BIN"
+    codes:
+      - "20000020 07FFF9FF"
+
+  - name: "Quest MOD"
+    notes: "File: MHP2NDG.BIN"
+    codes:
+      - "95000000 [XXXXXXXX]"
+      - "[QUESTNAME]"
+      - "[QUESTDATA]"
+
+  - name: "Update Custom Sha1 (required)"
+    notes: "File: MHP2NDG.BIN"
+    codes:
+      - "add salt at (size-36), then calc sha1"
+      - "hash stored at (size-24)"
+      - "set pointer:EOF-0x23"
+      - "set [temp]:read(pointer, 0x14)"
+      - "write next (0):\"3Nc94Hq1zOLh8d62Sb69\""
+      - "set range:0x0000,EOF-0x10"
+      - "set [shasum]:SHA1"
+      - "write next (0):[temp]"
+      - "write next (12):[shasum]"
+
+  - name: "Encrypt Mhp2ndg.bin (required)"
+    notes: "File: MHP2NDG.BIN"
+    codes:
+      - "set range:0x0000,EOF+1"
+      - "ENCRYPT monster_hunter(2)"

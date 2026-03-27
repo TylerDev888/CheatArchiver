@@ -1,0 +1,95 @@
+# King Of Fighters 2002, The cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53381
+
+game: "King Of Fighters 2002, The"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53381"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "GodShin"
+    notes: "[Master Codes]"
+    codes:
+      - "903A6A4C 0C0E4686"
+
+  - name: "Freeze Timer"
+    author: "lee4"
+    codes:
+      - "00962F20 000000FF"
+
+  - name: "Have All Time Attack Challenges Completed"
+    author: "lee4>CMX"
+    codes:
+      - "209717F0 00000028"
+
+  - name: "Hit Anywhere (Both Players)"
+    author: "lee4>CMX"
+    codes:
+      - "201B0474 00000000"
+
+  - name: "Hit Anywhere P1 & P2 Cant Hit P2"
+    author: "lee4>CMX"
+    codes:
+      - "201B0468 30820400"
+      - "201B046C 38420400"
+
+  - name: "Infinite Time (ASM)"
+    author: "Azagthoth"
+    codes:
+      - "2019FB04 00000000"
+
+  - name: "Infinite Time (RAM)"
+    author: "Azagthoth"
+    codes:
+      - "00962F28 00000090"
+
+  - name: "P1 Infinite Health"
+    author: "GodShin"
+    codes:
+      - "0096EDE8 00000066"
+
+  - name: "P1 Special Bar Full"
+    author: "GodShin"
+    codes:
+      - "0096ED99 00000048"
+
+  - name: "P1 Special Level 3"
+    author: "GodShin"
+    codes:
+      - "0096EE93 00000003"
+
+  - name: "P2 Infinite Health"
+    author: "GodShin"
+    codes:
+      - "0096EFF8 00000066"
+
+  - name: "P2 Special Bar Full"
+    author: "GodShin"
+    codes:
+      - "0096EFA9 00000048"
+
+  - name: "P2 Special Level 3"
+    author: "GodShin"
+    codes:
+      - "0096F0A3 00000003"
+
+  - name: "Pal2ntsc"
+    author: "GodShin"
+    codes:
+      - "2038A748 24120002"
+
+  - name: "Unlock All Character Art Gallery"
+    author: "lee4>CMX"
+    codes:
+      - "209712E8 FFFFFFFF"
+      - "009712EC 000000FF"
+
+  - name: "Unlock All Characters"
+    author: "lee4>CMX"
+    codes:
+      - "20971814 FFFFFFFF"

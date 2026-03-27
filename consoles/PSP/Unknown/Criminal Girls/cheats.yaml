@@ -1,0 +1,17 @@
+# Criminal Girls cheat data
+# Console: PSP
+# Region:  Unknown
+# Serial:  NPJH50316
+
+game: "Criminal Girls"
+console: "PSP"
+region: "Unknown"
+serial: "NPJH50316"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Money 99999"
+    notes: "File: *"
+    codes:
+      - "20010FC0 0001869F"

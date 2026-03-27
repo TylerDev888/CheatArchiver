@@ -1,0 +1,27 @@
+# Dot Hack Fragment cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25527
+
+game: "Dot Hack Fragment"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25527"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code(MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90114BD0 0C04529C"
+
+  - name: "Inf Points (making Player)"
+    codes:
+      - "D01B68AA 0000A4A3"
+      - "201B68A8 00000000"
+
+  - name: "Max Stats (making Player)"
+    codes:
+      - "D01B67D8 00000001"
+      - "201B67D8 20020063"

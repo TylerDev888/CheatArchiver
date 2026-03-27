@@ -1,0 +1,49 @@
+# Grand Prix Challenge cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20630
+
+game: "Grand Prix Challenge"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20630"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F013274C 0013274F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00132827"
+
+  - name: "1 Lap Championship"
+    author: "Codejunkies"
+    codes:
+      - "10AE35D0 00000001"
+
+  - name: "1 Lap Grand Prix"
+    author: "Codejunkies"
+    codes:
+      - "10AE3620 00000001"
+
+  - name: "1 Lap Quick Race"
+    author: "Codejunkies"
+    codes:
+      - "10AE35A8 00000001"
+
+  - name: "Stop Lap Timer"
+    author: "Code Master"
+    codes:
+      - "2021CC30 00000000"
+
+  - name: "Total Laps Modifier (01-63)"
+    author: "Code Master"
+    codes:
+      - "2033A7C0 240600??"

@@ -1,0 +1,44 @@
+# Action Girlz Racing cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52956
+
+game: "Action Girlz Racing"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52956"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enabler Code(MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90368C60 0C0DA2C0"
+
+  - name: "Max Flowers On Pickup"
+    author: "Skiller"
+    codes:
+      - "2010CF08 3C02000F"
+      - "20104C34 3442423F"
+
+  - name: "Instantly finish Race (First)"
+    author: "Skiller"
+    codes:
+      - "2011E4AC 8C620054"
+
+  - name: "Max Flowers (Memory)"
+    author: "Skiller"
+    codes:
+      - "2046216C 000F423F"
+
+  - name: "Unlock All Stages/CCs"
+    author: "LuC-iTA"
+    notes: "Can Select Locked Engine Classes"
+    codes:
+      - "2046216C 00000004"
+      - "20462170 00000004"
+      - "20462174 00000004"
+      - "20462178 00000004"
+      - "2046217C 00000004"
+      - "2012167C 00000000"

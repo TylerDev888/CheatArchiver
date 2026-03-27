@@ -1,0 +1,96 @@
+# Garfield - Saving Arlene cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53587
+
+game: "Garfield - Saving Arlene"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53587"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "Combusto Dragon"
+    notes: "[Master Codes]"
+    codes:
+      - "9017FA90 0C05FE4C"
+
+  - name: "Disable AI Of Enemy Dogs"
+    author: "luc-ita"
+    codes:
+      - "201DD63C 00000000"
+
+  - name: "Enemies Ignore Garfield"
+    author: "luc-ita"
+    codes:
+      - "201DD430 00000000"
+
+  - name: "Enemy Dogs Don't Do Damage"
+    author: "luc-ita"
+    codes:
+      - "201DD5B0 10000018"
+
+  - name: "Godmode"
+    author: "luc-ita"
+    codes:
+      - "201AA1F0 00000000"
+
+  - name: "Godmode From High Falls"
+    author: "luc-ita"
+    codes:
+      - "201A8BA4 00000000"
+
+  - name: "Infinite Food When Taken"
+    author: "luc-ita"
+    codes:
+      - "201E5D84 34420003"
+
+  - name: "Jump In Midair"
+    author: "luc-ita"
+    codes:
+      - "E008BFFF 0047C042"
+      - "60657F58 00000000"
+      - "00020001 0000025C"
+      - "60657F58 00000001"
+      - "00000001 00000260"
+      - "60657F58 00000002"
+      - "00020001 0000042C"
+      - "60657F58 00000001"
+      - "00020001 00000460"
+
+  - name: "Many Keys After Opening A Door"
+    author: "luc-ita"
+    codes:
+      - "201B4694 A0630214"
+
+  - name: "No Food Consumption"
+    author: "luc-ita"
+    codes:
+      - "201E5CFC 24420000"
+
+  - name: "No Food Needed To Use Powers"
+    author: "luc-ita"
+    codes:
+      - "201E5C08 10000003"
+
+  - name: "No Keys Consumption"
+    author: "luc-ita"
+    codes:
+      - "201B4674 24630001"
+
+  - name: "Select Hat To Wear"
+    author: "luc-ita"
+    codes:
+      - "21C0FE2C 0000000?"
+
+  - name: "Super Jump"
+    author: "luc-ita"
+    codes:
+      - "201507A4 00000000"
+
+  - name: "Super Run And Super Jump"
+    author: "luc-ita"
+    codes:
+      - "20150788 00000000"

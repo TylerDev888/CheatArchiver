@@ -1,0 +1,94 @@
+# Batman_ Arkham Asylum
+
+**Console:** PlayStation 3  
+**Region:** NTSC-U  
+**Serial:** BLUS30279  
+**Cheat Type:** AP  
+**Source:** [From Game Genie For PS3](From Game Genie For PS3)  
+
+---
+
+## Cheats
+
+### Decompress Save (required)
+**Author:**   
+**Notes:** File: BLUS30279-SAVE*\\PAYLOAD
+
+```
+Decompress(*, 15)
+```
+
+---
+
+### Level Up (not Working)
+**Author:**   
+**Notes:** File: BLUS30279-SAVE*\\PAYLOAD
+
+```
+80010009 52426174
+6172616E 67000000
+93000000 00000024
+58000008 00000004
+58000000 00000000
+8001000C 0D524261
+74446973 74726163
+93000000 00000023
+58000008 00000004
+58000000 00000000
+8001000C 0F524861
+72706F6F 6E47756E
+93000000 00000023
+58000008 00000004
+58000000 00000000
+8001000C 10525265
+736F6E61 746F7254
+93000000 00000023
+58000008 00000004
+58000000 00000000
+8001000C 0A52476F
+6F537072 61790000
+93000000 00000023
+58000008 00000004
+58000000 00000000
+8001000C 0E524C69
+6E654C61 756E6368
+93000000 00000023
+58000008 00000004
+58000000 00000000
+```
+
+---
+
+### Unlock All Character Bios (not Working)
+**Author:**   
+**Notes:** File: BLUS30279-SAVE*\\PAYLOAD
+
+```
+94000000 00000108
+4A000000 00000001
+402A0004 00000000
+```
+
+---
+
+### Unlock All Character Trophies (not Working)
+**Author:**   
+**Notes:** File: BLUS30279-SAVE*\\PAYLOAD
+
+```
+94000000 0000005C
+4A000000 00000001
+40140004 00000000
+```
+
+---
+
+### Compress Save (required)
+**Author:**   
+**Notes:** File: PAYLOAD
+
+```
+Compress(*)
+```
+
+---

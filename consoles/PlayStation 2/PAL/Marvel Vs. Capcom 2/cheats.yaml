@@ -1,0 +1,166 @@
+# Marvel Vs. Capcom 2 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51174
+
+game: "Marvel Vs. Capcom 2"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51174"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F010D96C 0010D96F"
+
+  - name: "1 Hit Kill"
+    author: "Codejunkies"
+    notes: "[1st Character Codes]"
+    codes:
+      - "D04F3A6C 00000090"
+      - "204F3A6C 00000001"
+
+  - name: "Pocket Fighter"
+    author: "Codejunkies"
+    notes: "[1st Character Codes]"
+    codes:
+      - "204F38D0 3F200000"
+      - "204F38D4 3F200000"
+
+  - name: "Assist Type Modifier"
+    author: "HackFreak"
+    notes: "[2nd Character Codes]"
+    codes:
+      - "004F40CD 000000??"
+
+  - name: "Character Modifier"
+    author: "HackFreak"
+    notes: "[2nd Character Codes]"
+    codes:
+      - "004F4130 000000??"
+
+  - name: "Control Modifier"
+    author: "HackFreak"
+    notes: "[2nd Character Codes]"
+    codes:
+      - "004F4129 000000??"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[2nd Character Codes]"
+    codes:
+      - "204F4024 00000090"
+
+  - name: "Max Power Gauge"
+    author: "Codejunkies"
+    notes: "[3rd Character Codes]"
+    codes:
+      - "004D28CA 00000009"
+
+  - name: "No Power Gauge"
+    author: "Codejunkies"
+    notes: "[3rd Character Codes]"
+    codes:
+      - "004D28CB 00000000"
+
+  - name: "All Characters"
+    author: "Codejunkies"
+    codes:
+      - "204F5300 FFFFFFFF"
+      - "204F5304 FFFFFFFF"
+
+  - name: "All Colors"
+    author: "HackFreak"
+    codes:
+      - "EED82062 A0B6D565"
+      - "EED8205E 51B6D565"
+
+  - name: "All Gallery"
+    author: "HackFreak"
+    codes:
+      - "204F8F84 FFFFFFFF"
+      - "204F8F88 FFFFFFFF"
+
+  - name: "All Stages"
+    author: "HackFreak"
+    codes:
+      - "004D2768 00000007"
+
+  - name: "Never Have More Than 25% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0020024 304F34B4"
+      - "E0010000 304F34B6"
+      - "204F34B4 00000024"
+
+  - name: "Never Have More Than 50% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0020048 304F34B4"
+      - "E0010000 304F34B6"
+      - "204F34B4 00000048"
+
+  - name: "Never Have More Than 75% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E002006C 304F34B4"
+      - "E0010000 304F34B6"
+      - "204F34B4 0000006C"
+
+  - name: "Hit Anywhere Both Players"
+    author: "HackFreak"
+    codes:
+      - "201E8820 00000000"
+      - "201E8740 00000000"
+
+  - name: "Max Money"
+    author: "Codejunkies"
+    codes:
+      - "104F8F62 0000270F"
+
+  - name: "Max Score"
+    author: "Codejunkies"
+    codes:
+      - "204F3568 99999990"
+
+  - name: "Background Modifier"
+    author: "HackFreak"
+    notes: "[Misc. Codes]"
+    codes:
+      - "004C3758 000000??"
+
+  - name: "Invisible Life Bars (Color)"
+    author: "HackFreak"
+    notes: "[Misc. Codes]"
+    codes:
+      - "2043EDD8 00000000"
+      - "2043EDDC 00000000"
+      - "2043EDE0 00000000"
+
+  - name: "P1 Max Reverse Joker Command"
+    author: "HackFreak"
+    codes:
+      - "D062D6C2 0000????"
+
+  - name: "P2 Max Reverse Joker Command"
+    author: "HackFreak"
+    codes:
+      - "D062D642 0000????"
+
+  - name: "Quick Power Gauge Gain"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "004D28C6 00000090"
+
+  - name: "Players Can Select The Same Character"
+    author: "HackFreak"
+    codes:
+      - "2032E00C 00000000"

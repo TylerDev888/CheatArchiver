@@ -1,0 +1,112 @@
+# Pride Fighting Championship cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20406
+
+game: "Pride Fighting Championship"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20406"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001134BF"
+
+  - name: "Infinite Health P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202A54DC 43200000"
+      - "202A54E0 43200000"
+
+  - name: "No Health P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202A54DC 43200000"
+      - "202A54E0 00000000"
+
+  - name: "Max Health Regeneration P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202A54E4 43200000"
+
+  - name: "No Health Regeneration P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202A54E4 00000000"
+
+  - name: "Infinite Health P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202A6FDC 43200000"
+      - "202A6FE0 43200000"
+
+  - name: "No Health P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202A6FDC 43200000"
+      - "202A6FE0 00000000"
+
+  - name: "Max Health Regeneration P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202A6FE4 43200000"
+
+  - name: "No Health Regeneration P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202A6FE4 00000000"
+
+  - name: "Infinite Skill Points"
+    author: "Code Master"
+    notes: "[Create A Fighter Codes]"
+    codes:
+      - "107FA71A 00002828"
+
+  - name: "Max Stand Punch"
+    author: "Code Master"
+    notes: "[Create A Fighter Codes]"
+    codes:
+      - "007FA714 0000000A"
+
+  - name: "Max Stand Kick"
+    author: "Code Master"
+    notes: "[Create A Fighter Codes]"
+    codes:
+      - "007FA715 0000000A"
+
+  - name: "Max Mount Pounding"
+    author: "Code Master"
+    notes: "[Create A Fighter Codes]"
+    codes:
+      - "007FA716 0000000A"
+
+  - name: "Max Takedown"
+    author: "Code Master"
+    notes: "[Create A Fighter Codes]"
+    codes:
+      - "007FA717 0000000A"
+
+  - name: "Max Submission"
+    author: "Code Master"
+    notes: "[Create A Fighter Codes]"
+    codes:
+      - "007FA718 0000000A"
+
+  - name: "Max Endurance"
+    author: "Code Master"
+    notes: "[Create A Fighter Codes]"
+    codes:
+      - "007FA719 0000000A"

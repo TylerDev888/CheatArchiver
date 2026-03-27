@@ -1,0 +1,35 @@
+# Puzzle Quest_ Challenge of the Warlords cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  RQWEG9
+
+game: "Puzzle Quest_ Challenge of the Warlords"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "RQWEG9"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Inf Money In Citadel"
+    author: "Skiller"
+    codes:
+      - "0403E824 60000000"
+
+  - name: "Enemy First, Press - To Keep The Turn On You"
+    author: "Skiller"
+    codes:
+      - "283124E0 00001000"
+      - "040F28D8 3C000001"
+      - "CC000000 00000001"
+      - "040F28D8 3C000000"
+      - "E0000000 80008000"
+
+  - name: "Enemy Instant Death"
+    author: "Skiller"
+    codes:
+      - "C203B1FC 00000004"
+      - "7C1DA800 4182000C"
+      - "60000000 92A30060"
+      - "80030060 60000000"
+      - "60000000 00000000"

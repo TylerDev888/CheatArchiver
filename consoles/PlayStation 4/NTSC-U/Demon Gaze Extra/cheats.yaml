@@ -1,0 +1,18 @@
+# Demon Gaze Extra cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA30305
+
+game: "Demon Gaze Extra"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA30305"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Max Current Items"
+    notes: "File: DemonGaze\\(DGAZ_[0-9]+|DGAUTO).SAV"
+    codes:
+      - "40001D76 00000063"
+      - "40630020 00000000"

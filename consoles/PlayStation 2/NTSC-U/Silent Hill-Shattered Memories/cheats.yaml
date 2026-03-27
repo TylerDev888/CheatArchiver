@@ -1,0 +1,87 @@
+# Silent Hill-Shattered Memories cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21899
+
+game: "Silent Hill-Shattered Memories"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21899"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Lajos Szalay"
+    notes: "[Masters]"
+    codes:
+      - "90346468 00832021"
+
+  - name: "P1 Press Select To Skip FMV"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "2038A290 8C620000"
+      - "D0596402 0000FFFE"
+      - "2038A290 24020001"
+
+  - name: "Infinite Health"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "2016B4D0 C48117A8"
+      - "2016B4D8 E48117A4"
+
+  - name: "Infinite Run (Never Exhausted)"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "102353BE 00001000"
+      - "102353F6 00001000"
+
+  - name: "Enemies Don't Grab You"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "1015CBD6 00001000"
+
+  - name: "Nosie Filter"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "2047ABC0 00000000"
+
+  - name: "P1 Press L3+L1 Enable Goggels Mode"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "D0596402 0000FBFD"
+      - "2047ABC4 00000001"
+
+  - name: "P1 Press L3+L2 Disable Goggels Mode"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "D0596402 0000FEFD"
+      - "2047ABC4 00000000"
+
+  - name: "P1 Press R3+L1 For Quicker"
+    author: "Lajos Szalay"
+    notes: "[Game Speed Codes]"
+    codes:
+      - "D0596402 0000FBFB"
+      - "2047B73C 40000000"
+
+  - name: "P1 Press R3+L2 For Hypermode"
+    author: "Lajos Szalay"
+    notes: "[Game Speed Codes]"
+    codes:
+      - "D0596402 0000FEFB"
+      - "2047B73C 40900000"
+
+  - name: "P1 Press R3+R2 For Normal"
+    author: "Lajos Szalay"
+    notes: "[Game Speed Codes]"
+    codes:
+      - "D0596402 0000FDFB"
+      - "2047B73C 3F800000"

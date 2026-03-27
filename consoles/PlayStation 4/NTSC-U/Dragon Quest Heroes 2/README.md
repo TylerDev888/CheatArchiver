@@ -1,0 +1,90 @@
+# Dragon Quest Heroes 2
+
+**Console:** PlayStation 4  
+**Region:** NTSC-U  
+**Serial:** CUSA06740  
+**Cheat Type:** AP  
+**Source:** [source: web-save.editor.com](source: web-save.editor.com)  
+
+---
+
+## Cheats
+
+### Materials 99
+**Author:**   
+**Notes:** File: *
+
+```
+400122E0 00000000
+408C001C 00000001
+400122E1 00000000
+408C001C 00000000
+400122E2 00000003
+408C001C 00000000
+400122E3 00000063
+408C001C 00000000
+400122E4 00000002
+408C001C 00000000
+410122E6 00000002
+408C001C 00000001
+```
+
+---
+
+### Hero Skill Points
+**Author:**   
+**Notes:** File: *
+
+```
+1000CDE0 00000F27
+1000CDE2 00000F27
+1000CDE4 00000F27
+1000CDE6 00000F27
+1000CDE8 00000F27
+1000CDEA 00000F27
+1000CDEC 00000F27
+```
+
+---
+
+### Heroine Skill Points
+**Author:**   
+**Notes:** File: *
+
+```
+1000D630 00000F27
+1000D632 00000F27
+1000D634 00000F27
+1000D636 00000F27
+1000D638 00000F27
+1000D63A 00000F27
+1000D63C 00000F27
+```
+
+---
+
+### Others Skill Points
+**Author:**   
+**Notes:** File: *
+
+```
+1000D630 00000F27
+1000D632 00000F27
+1000D634 00000F27
+1000D636 00000F27
+1000D638 00000F27
+1000D63A 00000F27
+1000D63C 00000F27
+```
+
+---
+
+### Max Mini Medals
+**Author:**   
+**Notes:** File: *
+
+```
+10022974 000003E7
+```
+
+---

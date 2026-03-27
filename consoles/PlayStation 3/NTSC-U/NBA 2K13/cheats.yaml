@@ -1,0 +1,25 @@
+# NBA 2K13 cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS31028
+
+game: "NBA 2K13"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS31028"
+cheat_type: "AP"
+source: ""
+
+cheats:
+  - name: "Max Fans"
+    notes: "File: USERDATA"
+    codes:
+      - "2068833C 3B9AC9FF"
+
+  - name: "Update Crc32 (required)"
+    notes: "File: USERDATA  (set range:0x000004,0x737206)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"

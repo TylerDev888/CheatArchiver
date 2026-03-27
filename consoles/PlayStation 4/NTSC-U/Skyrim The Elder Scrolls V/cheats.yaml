@@ -1,0 +1,77 @@
+# Skyrim The Elder Scrolls V cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA05333
+
+game: "Skyrim The Elder Scrolls V"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA05333"
+cheat_type: "AP"
+source: "source: xdgmods"
+
+cheats:
+  - name: "All Skills Level 100"
+    notes: "File: *"
+    codes:
+      - "8001000C 04000000"
+      - "00000000 06000000"
+      - "4A00000C 42C80000"
+      - "40120008 00000000"
+
+  - name: "V2 All Skills Level 100"
+    notes: "File: *"
+    codes:
+      - "8001000C 05000000"
+      - "00000000 06000000"
+      - "4A00000C 42C80000"
+      - "40120008 00000000"
+
+  - name: "Apply ‘extra Pockets’ Perk In Pickpocketing Skill Tree To Increase Cw To 400, Then Use 0400 Or 0500 Mod!"
+    notes: "File: *"
+    codes:
+      - "8001000C 04000000"
+      - "00000000 06000000"
+      - "88020004 20000000"
+      - "28000004 4E6E6B23"
+
+  - name: "V2 Apply ‘extra Pockets’ Perk In Pickpocketing Skill Tree To Increase Cw To 400, Then Use 0400 Or 0500 Mod!"
+    notes: "File: *"
+    codes:
+      - "8001000C 05000000"
+      - "00000000 06000000"
+      - "88020004 20000000"
+      - "28000004 4E6E6B23"
+
+  - name: "Magicka/health/stamina [god Mode] 1billion Each"
+    notes: "File: *"
+    codes:
+      - "8001000C 04000000"
+      - "00000000 06000000"
+      - "4A00009C 4E6E6B28"
+      - "40060008 00000000"
+
+  - name: "V2 Magicka/health/stamina [god Mode] 1billion Each"
+    notes: "File: *"
+    codes:
+      - "8001000C 05000000"
+      - "00000000 06000000"
+      - "4A00009C 4E6E6B28"
+      - "40060008 00000000"
+
+  - name: "+100,000 Exp: – Lvl 87 W/86 Perk Points"
+    notes: "File: *"
+    codes:
+      - "8001000A 80BF0000"
+      - "00000000 80BF0000"
+      - "28000034 47C35000"
+      - "28000038 00000000"
+
+  - name: "Max Perk Points (ensure Your Character Is Not About To Level Up) – 255"
+    notes: "File: *"
+    codes:
+      - "80010008 00000041"
+      - "37464137 00000000"
+      - "8801000C 01000000"
+      - "00000000 00000000"
+      - "2800000C 000000FF"

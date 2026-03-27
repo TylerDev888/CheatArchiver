@@ -1,0 +1,60 @@
+# Heracles - Battle With The Gods cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53855
+
+game: "Heracles - Battle With The Gods"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53855"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "1 Killed Enemy Is Worth 50 Killed Enemies"
+    author: "luc-ita"
+    codes:
+      - "204ACFC0 24420032"
+
+  - name: "1Hitkill All Bosses"
+    author: "luc-ita"
+    codes:
+      - "204B7E24 24020000"
+      - "204B0D5C 24020000"
+      - "204B4144 24020000"
+      - "204B9FD4 24020000"
+      - "204B6488 24020000"
+
+  - name: "Always Have 99 Lives"
+    author: "luc-ita"
+    codes:
+      - "2051E7C4 00000063"
+
+  - name: "Always Invulnerable - Reworked Code"
+    author: "luc-ita"
+    codes:
+      - "204A1780 10000003"
+      - "204A1790 24020064"
+
+  - name: "Jump In Midair"
+    author: "luc-ita"
+    codes:
+      - "204A27F4 24020004"
+      - "204A4F7C 00000000"
+
+  - name: "Only 1 Enemy Must Be Killed To Unlock The Bonus Level"
+    author: "luc-ita"
+    codes:
+      - "204D9A00 00000000"
+
+  - name: "Take Coins And Shields Anywhere - Reworked Code"
+    author: "luc-ita"
+    codes:
+      - "204AEDB4 00000000"
+      - "20497758 00000000"
+
+  - name: "Untouchable In The Boss Levels"
+    author: "luc-ita"
+    codes:
+      - "204947AC 1000004E"
+      - "204B01DC 1000003F"

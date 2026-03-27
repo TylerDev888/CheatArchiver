@@ -1,0 +1,24 @@
+# New Century GPX Cyber Formula - Road To The Infinity cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25307
+
+game: "New Century GPX Cyber Formula - Road To The Infinity"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25307"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90314DF8 0C0C5326"
+
+  - name: "Main Menu Extra Movie = Debug Menu"
+    author: "punk7890"
+    codes:
+      - "00180370 00000032"
+      - "1018037C 000019B0"

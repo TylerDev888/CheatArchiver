@@ -1,0 +1,131 @@
+# Men In Black 2 - Alien Escape cheat data
+# Console: PlayStation 2
+# Region:  Unknown
+# Serial:  No
+
+game: "Men In Black 2 - Alien Escape"
+console: "PlayStation 2"
+region: "Unknown"
+serial: "No"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0295C60 000001FD"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "208E498C 42C80000"
+
+  - name: "Infinite Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "208E4984 00000003"
+
+  - name: "Never Have More Than 2 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E0020002 308E4984"
+      - "E0010000 308E4986"
+      - "208E4984 00000002"
+
+  - name: "Never Have More Than 5 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E0020005 308E4984"
+      - "E0010000 308E4986"
+      - "208E4984 00000005"
+
+  - name: "Never Have More Than 9 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E0020009 308E4984"
+      - "E0010000 308E4986"
+      - "208E4984 00000009"
+
+  - name: "Monster Score"
+    author: "Codejunkies"
+    codes:
+      - "208E49B8 501502F9"
+
+  - name: "No Body Agent Jay"
+    author: "Codejunkies"
+    codes:
+      - "203E2560 03E00008"
+      - "203E2564 00000000"
+
+  - name: "Unlock Everything"
+    author: "Codejunkies"
+    codes:
+      - "20608028 01010101"
+      - "2060802C 01010101"
+
+  - name: "Bullets Can't Hit"
+    author: "Codejunkies"
+    notes: "[Xeno Bombs Codes]"
+    codes:
+      - "2017DBF0 03E00008"
+      - "2017DBF4 00000000"
+
+  - name: "Enemies Can't Shoot"
+    author: "Codejunkies"
+    notes: "[Xeno Bombs Codes]"
+    codes:
+      - "2070516C 00000000"
+
+  - name: "Have Stupid Opponents"
+    author: "Codejunkies"
+    notes: "[Xeno Bombs Codes]"
+    codes:
+      - "206E3380 00000000"
+
+  - name: "Infinite Xeno Bombs"
+    author: "Codejunkies"
+    notes: "[Xeno Bombs Codes]"
+    codes:
+      - "208E49AC 00000009"
+
+  - name: "Maniac Runner"
+    author: "Codejunkies"
+    notes: "[Xeno Bombs Codes]"
+    codes:
+      - "20705078 3FFF0000"
+
+  - name: "Never Have More Than 1 Xeno Bomb"
+    author: "Codejunkies"
+    notes: "[Xeno Bombs Codes]"
+    codes:
+      - "E0020001 308E49AC"
+      - "E0010000 308E49AE"
+      - "208E49AC 00000001"
+
+  - name: "Never Have More Than 5 Xeno Bombs"
+    author: "Codejunkies"
+    notes: "[Xeno Bombs Codes]"
+    codes:
+      - "E0020005 308E49AC"
+      - "E0010000 308E49AE"
+      - "208E49AC 00000005"
+
+  - name: "No Clipping"
+    author: "Codejunkies"
+    notes: "[Xeno Bombs Codes]"
+    codes:
+      - "20183A40 03E00008"
+      - "20183A44 00000000"
+
+  - name: "No Pickup Timer"
+    author: "Codejunkies"
+    notes: "[Xeno Bombs Codes]"
+    codes:
+      - "20280EF0 03E00008"
+      - "20280EF4 00000000"

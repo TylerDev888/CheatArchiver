@@ -1,0 +1,29 @@
+# WWF Smackdown! Just Bring It cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "WWF Smackdown! Just Bring It"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001115EF"
+
+  - name: "Disabled Timer"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "102E33C8 07230000"
+
+  - name: "Unlock All Movies"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "0072B418 6809283F"

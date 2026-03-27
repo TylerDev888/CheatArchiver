@@ -1,0 +1,83 @@
+# Monster Jam cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21635
+
+game: "Monster Jam"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21635"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F017C78C 001BFD67"
+
+  - name: "Airborne Ranger"
+    author: "Codejunkies"
+    codes:
+      - "90A9D467 8FEB7DDA"
+
+  - name: "Dead Ai"
+    author: "Codejunkies"
+    codes:
+      - "20111DE8 03E00008"
+      - "20111DEC 00000000"
+      - "20218518 00000001"
+
+  - name: "Hit Kills-Flamer"
+    author: "Codejunkies"
+    codes:
+      - "20218868 51000000"
+
+  - name: "Hit Kills-Lighting"
+    author: "Codejunkies"
+    codes:
+      - "202188A8 51000000"
+
+  - name: "Hit Kills-Machine Gun"
+    author: "Codejunkies"
+    codes:
+      - "20218880 51000000"
+
+  - name: "Hit Kills-Pulse Gun"
+    author: "Codejunkies"
+    codes:
+      - "20218894 51000000"
+
+  - name: "Hit Kills-Railgun"
+    author: "Codejunkies"
+    codes:
+      - "202188D0 51000000"
+
+  - name: "Hit Kills-Shotgun"
+    author: "Codejunkies"
+    codes:
+      - "202188BC 51000000"
+
+  - name: "Infinite Money"
+    author: "Codejunkies"
+    codes:
+      - "2035718C 05F5E0FF"
+
+  - name: "Max Stats All Trucks"
+    author: "Codejunkies"
+    codes:
+      - "90B1D467 8FEB7DDA"
+
+  - name: "Moon Jump: Press X R1"
+    author: "Codejunkies"
+    codes:
+      - "D02BAEC2 0000B7FF"
+      - "202186B4 3E800000"
+      - "D02BAEC2 0010B7FF"
+      - "202186B4 40000000"
+
+  - name: "Unlock All Cars"
+    author: "Codejunkies"
+    codes:
+      - "90A5D467 FC6A7BD1"

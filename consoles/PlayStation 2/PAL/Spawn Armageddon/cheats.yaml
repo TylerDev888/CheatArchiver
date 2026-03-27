@@ -1,0 +1,78 @@
+# Spawn Armageddon cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Spawn Armageddon"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "902565C4 0C099CAF"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C2000 3C01437A"
+      - "200C2004 44810000"
+      - "200C2008 E62001F0"
+      - "200C200C 03E00008"
+      - "200C2010 E62001F4"
+      - "20161984 0C030800"
+
+  - name: "Necroplasm"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2033DD00 437A0000"
+      - "2033DD04 437A0000"
+
+  - name: "Ammunition"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2016C660 24013634"
+
+  - name: "Souls"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "20341BC8 4479C000"
+
+  - name: "Enemy Kills"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "20341BCC 4479C000"
+
+  - name: "Breakable Items"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "20341BD8 4479C000"
+
+  - name: "Technique Points"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "20341BDC 4479C000"
+
+  - name: "All Weapons"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "1033E0C4 0000FFFF"
+
+  - name: "Encylopedia/Comic Gallery"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "20130B84 2402FFFF"
+      - "20130B88 AC620000"

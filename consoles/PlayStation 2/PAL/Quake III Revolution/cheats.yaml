@@ -1,0 +1,29 @@
+# Quake III Revolution cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Quake III Revolution"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 003012FF"
+
+  - name: "Unlimited Health"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "105B9190 072300C8"
+
+  - name: "Unlock All Arenas"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "106A074C 0723001A"

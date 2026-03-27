@@ -1,0 +1,41 @@
+# Trouble Fortune Comany - Happy Cure [Limited Edition] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66625
+
+game: "Trouble Fortune Comany - Happy Cure [Limited Edition]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66625"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90196BB8 0C065A96"
+
+  - name: "Press L3 For Texture Viewer, R3 To Disable"
+    author: "punk7890"
+    codes:
+      - "2015F64C 0C0562A2"
+      - "10158AC8 00004CB4"
+      - "D05550A2 0000FFFD"
+      - "00226C78 00000001"
+      - "D05550A2 0000FFFB"
+      - "00226C78 00000000"
+
+  - name: "Unlock All CG Mode Images"
+    author: "punk7890"
+    codes:
+      - "201B8910 FFFFFFFF"
+      - "201B8914 FFFFFFFF"
+      - "201B8918 FFFFFFFF"
+
+  - name: "Unlock All Memories And Omake Menu"
+    author: "punk7890"
+    codes:
+      - "401B8930 000E0001"
+      - "FFFFFFFF 00000000"

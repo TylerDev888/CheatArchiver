@@ -1,0 +1,21 @@
+# Onimusha_ Warlords cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA11300
+
+game: "Onimusha_ Warlords"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA11300"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "SUPER MAX HP"
+    author: "Doomguy"
+    notes: "File: SAVEDATA\\FILENAME.DAT"
+    codes:
+      - "[SLOT]"
+      - "28000008 0F270F27"
+      - "1800000E 000000FF"
+      - "1800081C 000000FF"

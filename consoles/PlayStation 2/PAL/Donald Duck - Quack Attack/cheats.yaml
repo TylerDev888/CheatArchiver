@@ -1,0 +1,249 @@
+# Donald Duck - Quack Attack cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50048
+
+game: "Donald Duck - Quack Attack"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50048"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0235274 000001FD"
+
+  - name: "Donald Always Happy"
+    author: "luc-ita"
+    codes:
+      - "2085509C 00000001"
+
+  - name: "Donald Moves Twice As Fast"
+    author: "luc-ita"
+    codes:
+      - "20652398 40000000"
+
+  - name: "Infinite Lives"
+    author: "InterAct"
+    codes:
+      - "10886074 00000005"
+
+  - name: "Jump In Mid-Air (ASM)"
+    author: "luc-ita"
+    codes:
+      - "200A0000 C6010618"
+      - "200A0004 3C1541B0"
+      - "200A0008 4495F000"
+      - "200A000C E61E0618"
+      - "200A0010 3C15000A"
+      - "200A0014 36B50060"
+      - "200A0018 AEB00000"
+      - "200A001C 0000A821"
+      - "200A0020 0808FDF3"
+      - "200A0024 00000000"
+      - "200A0028 00000000"
+      - "200A002C 00000000"
+      - "200A0030 7A0305B0"
+      - "200A0034 3C0A000A"
+      - "200A0038 354A0060"
+      - "200A003C 8D4A0000"
+      - "200A0040 11500003"
+      - "200A0044 00000000"
+      - "200A0048 7E030610"
+      - "200A004C 00000000"
+      - "200A0050 0808FFF4"
+      - "2023F7C8 C6010618"
+      - "2023FFC8 7A0305B0"
+      - "2023FFCC 7E030610"
+      - "E0037FBF 0039EB43"
+      - "2023F7C8 08028000"
+      - "2023FFC8 0802800C"
+      - "2023FFCC 00000000"
+      - "E00300BF 0039EB43"
+      - "2023F7C8 08028000"
+      - "2023FFC8 0802800C"
+      - "2023FFCC 00000000"
+
+  - name: "Jump In Midair (RAM)"
+    author: "luc-ita"
+    codes:
+      - "E00200BE 0039EB43"
+      - "60C61C70 41B00000"
+      - "00020001 00000618"
+      - "E0027FBE 0039EB43"
+      - "60C61C70 41B00000"
+      - "00020001 00000618"
+
+  - name: "99 Cogs"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "10886070 00000063"
+
+  - name: "All Special Move Challenges Are Complete"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "10885670 00000001"
+      - "10885680 00000001"
+      - "10885690 00000001"
+      - "108856A0 00000001"
+      - "108856B0 00000001"
+      - "108856C0 00000001"
+      - "108856D0 00000001"
+      - "108856E0 00000001"
+      - "108856F0 00000001"
+      - "10885700 00000001"
+      - "10885710 00000001"
+      - "10885720 00000001"
+      - "10885730 00000001"
+      - "10885740 00000001"
+      - "10885750 00000001"
+      - "10885760 00000001"
+
+  - name: "Infinite Time"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "105C3E8C 0000A62A"
+
+  - name: "Never Have More Than 1 Life"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E0010001 30886074"
+      - "10886074 00000001"
+
+  - name: "Never Have More Than 2 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E0010002 30886074"
+      - "10886074 00000002"
+
+  - name: "Never Have More Than 3 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E0010003 30886074"
+      - "10886074 00000003"
+
+  - name: "Never Have More Than 4 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E0010004 30886074"
+      - "10886074 00000004"
+
+  - name: "Time Attacks Are Completed"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "10885510 00000001"
+      - "10885510 00000001"
+      - "10885530 00000001"
+      - "10885540 00000001"
+      - "10885550 00000001"
+      - "10885560 00000001"
+      - "10885570 00000001"
+      - "10885580 00000001"
+      - "10885590 00000001"
+      - "108855A0 00000001"
+      - "108855B0 00000001"
+      - "108855C0 00000001"
+      - "108855D0 00000001"
+      - "108855E0 00000001"
+      - "108855F0 00000001"
+      - "10885600 00000001"
+      - "10885610 00000001"
+      - "10885620 00000001"
+      - "10885630 00000001"
+      - "10885640 00000001"
+
+  - name: "Unlock Duckburg"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "008874C0 00000001"
+      - "008873B0 00000001"
+      - "008873C0 00000001"
+      - "008873D0 00000001"
+      - "008873E0 00000001"
+      - "008873F0 00000001"
+
+  - name: "Unlock Duckie Mountain"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "00887380 00000001"
+      - "00887390 00000001"
+      - "008873A0 00000001"
+      - "008873B0 00000001"
+
+  - name: "Unlock Magica Despell Manor"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "008874D0 00000001"
+      - "008873F0 00000001"
+      - "00887400 00000001"
+      - "00887410 00000001"
+      - "00887420 00000001"
+      - "00887430 00000001"
+
+  - name: "Unlock Merlock's Temple"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "008874E0 00000001"
+      - "00887430 00000001"
+      - "00887440 00000001"
+      - "00887450 00000001"
+      - "00887460 00000001"
+      - "00887470 00000001"
+
+  - name: "Open Magica Despell Manor"
+    author: "Codejunkies"
+    codes:
+      - "028874D0 00000001"
+      - "028873F0 00000001"
+      - "02887400 00000001"
+      - "02887410 00000001"
+      - "02887420 00000001"
+      - "02887430 00000001"
+
+  - name: "Open Merlock's Temple"
+    author: "InterAct"
+    codes:
+      - "028874E0 00000001"
+      - "02887430 00000001"
+      - "02887440 00000001"
+      - "02887450 00000001"
+      - "02887460 00000001"
+      - "02887470 00000001"
+
+  - name: "Skip All Videos"
+    author: "luc-ita"
+    codes:
+      - "202BE0C0 03E00008"
+      - "202BE0C4 00000000"
+
+  - name: "Special Effect (Invincible)"
+    author: "luc-ita"
+    codes:
+      - "20854E30 00000001"
+
+  - name: "Time Always Stopped"
+    author: "luc-ita"
+    codes:
+      - "202D9670 03E00008"
+      - "202D9674 00000000"
+
+  - name: "When Time Ends, Donald Doesn't Die"
+    author: "luc-ita"
+    codes:
+      - "202D9740 00000000"

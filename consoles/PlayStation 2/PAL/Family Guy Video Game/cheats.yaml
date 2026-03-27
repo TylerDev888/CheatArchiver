@@ -1,0 +1,30 @@
+# Family Guy Video Game cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Family Guy Video Game"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "901B9FE8 0C070BD6"
+
+  - name: "Unlock All Cut Away Games"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20272F90 FFFC0000"
+
+  - name: "Get One Component To Fully Upgrade Ray Gun"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "D035E884 002002BB"
+      - "2035E884 000002BB"

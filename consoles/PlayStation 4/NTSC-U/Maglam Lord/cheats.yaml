@@ -1,0 +1,19 @@
+# Maglam Lord cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA28850
+
+game: "Maglam Lord"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA28850"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "All Characters Bond Level SS(Max Hearts)"
+    author: "Zeraf3000"
+    notes: "File: savedata[0-9]+\\data.bin"
+    codes:
+      - "4200785C 0000270F"
+      - "40070004 00000000"

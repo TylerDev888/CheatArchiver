@@ -1,0 +1,135 @@
+# Tom Clancy's Ghost Recon - Advanced Warfighter cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21422
+
+game: "Tom Clancy's Ghost Recon - Advanced Warfighter"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21422"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "E0025400 0010029C"
+      - "D010029E 00000C04"
+      - "2010029C 080400B6"
+      - "9014B45C 0C04AF46"
+      - "901001E8 0C04D1C2"
+      - "E002FFF0 006CF0C0"
+      - "D06CF0C2 000027BD"
+      - "206CF0C0 03E00008"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Master Codes]"
+    codes:
+      - "9014B5FC 0C0505A8"
+
+  - name: "Master Code"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "9015A1D0 0C052D36"
+
+  - name: "Disable Ammo HUD"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Single-Player Codes]"
+    codes:
+      - "104C78AE 00001000"
+
+  - name: "Disable FMV"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Single-Player Codes]"
+    codes:
+      - "20129620 24020001"
+
+  - name: "Display FPS Debug Info"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Single-Player Codes]"
+    codes:
+      - "20352724 00000000"
+
+  - name: "Idiot AI"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Single-Player Codes]"
+    codes:
+      - "20232954 24020000"
+
+  - name: "Infinite Ammo"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Single-Player Codes]"
+    codes:
+      - "204C6A28 24060063"
+      - "104C6A2E 00001000"
+      - "204C6A30 AE060504"
+
+  - name: "Infinite Health"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Single-Player Codes]"
+    codes:
+      - "204C4030 24020078"
+      - "204C4034 AD420384"
+      - "104C403A 00001000"
+
+  - name: "Infinite Health (Your Team)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Single-Player Codes]"
+    codes:
+      - "200C0220 8C410380"
+      - "200C0224 AC410384"
+      - "200C0228 0811D32F"
+      - "200C022C 24220000"
+      - "20474CB8 08030088"
+
+  - name: "Infinite Running Stamina"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Single-Player Codes]"
+    codes:
+      - "20473A84 00000000"
+
+  - name: "Max Infinite Clip"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Single-Player Codes]"
+    codes:
+      - "20105DA0 24030063"
+
+  - name: "Never Reload"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Single-Player Codes]"
+    codes:
+      - "20105DA4 00000000"
+
+  - name: "No Enemies"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Single-Player Codes]"
+    codes:
+      - "203FFC20 24020001"
+
+  - name: "Unlock All Quick Start Missions"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Single-Player Codes]"
+    codes:
+      - "207B5F0C 00000016"
+
+  - name: "Infinite Ammo (No Reload)"
+    author: "MadCatz"
+    codes:
+      - "20105DA0 24830000"
+
+  - name: "Open All Missions"
+    author: "Codejunkies"
+    codes:
+      - "007B5F10 00000001"
+      - "007B5F0C 00000016"
+
+  - name: "Unlock All Quick Missions"
+    author: "MadCatz"
+    codes:
+      - "204B9124 24020020"
+      - "204B9128 AC225F0C"
+      - "204B912C 1000000F"

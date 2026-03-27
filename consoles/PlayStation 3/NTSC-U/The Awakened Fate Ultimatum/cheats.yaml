@@ -1,0 +1,53 @@
+# The Awakened Fate Ultimatum cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUB31613
+
+game: "The Awakened Fate Ultimatum"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUB31613"
+cheat_type: "Save Editor"
+source: "From savedata.jp"
+
+cheats:
+  - name: "Cp 99"
+    codes:
+      - "2002C1B4 00000063"
+
+  - name: "Exp 99999999"
+    codes:
+      - "2002C590 05F5E0FF"
+
+  - name: "Item Picture Book"
+    codes:
+      - "400009FD 00000001"
+      - "40C10001 00000000"
+      - "000009FC 00000000"
+
+  - name: "Enemy Encyclopedia"
+    codes:
+      - "40000809 00000001"
+      - "40BE0001 00000000"
+      - "00000808 00000000"
+
+  - name: "Lv 99"
+    codes:
+      - "0002C56B 00000063"
+
+  - name: "Hp Atk Def 9999999"
+    codes:
+      - "2002C598 0098967F"
+      - "2002C5B4 0098967F"
+      - "2002C5B8 0098967F"
+
+  - name: "Cp99 (angel Devil)"
+    codes:
+      - "0002C1B7 00000063"
+      - "0002C1DB 00000063"
+      - "0002C1FF 00000063"
+
+  - name: "Sp 9999"
+    codes:
+      - "2002C580 0000270F"
+      - "2002C5AC 0000270F"

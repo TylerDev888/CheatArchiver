@@ -1,0 +1,39 @@
+# Saints Row_ Gat out of Hell cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES02095
+
+game: "Saints Row_ Gat out of Hell"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES02095"
+cheat_type: "Save Editor"
+source: "From gold972 and aldostools"
+
+cheats:
+  - name: "Max Money"
+    notes: "File: SYS-DATA"
+    codes:
+      - "write at 0xFF90:0x3B9AC9FF"
+
+  - name: "Max Datacluster"
+    notes: "File: SYS-DATA"
+    codes:
+      - "write at 0xFF94:0x3B9AC9FF"
+
+  - name: "God Mod With Weapons"
+    notes: "File: SYS-DATA"
+    codes:
+      - "write at 0xFF48:0xBF800000"
+      - "write at 0xFF4C:0xBF800000"
+      - "write at 0xFF54:0xBF800000"
+      - "write at 0xFF5C:0xBF800000"
+
+  - name: "Update Crc32:0 For Sys-data (required)"
+    notes: "File: SYS-DATA  (set range:0x000004,0x025FFF)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x000000:[hash]"

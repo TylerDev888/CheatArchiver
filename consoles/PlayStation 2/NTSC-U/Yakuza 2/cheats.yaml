@@ -1,0 +1,238 @@
+# Yakuza 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21769
+
+game: "Yakuza 2"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21769"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "Lajos Szalay"
+    notes: "[Master Codes]"
+    codes:
+      - "90148418 0C04E74E"
+
+  - name: "Have All Power Up Skills"
+    author: "Lajos Szalay"
+    codes:
+      - "401A3A5C 00030001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Have All Status Lv To MAX"
+    author: "Lajos Szalay"
+    codes:
+      - "201A3A50 000203A0"
+      - "201A3A54 000203A0"
+      - "201A3A58 000203A0"
+
+  - name: "Infinite Experience"
+    author: "Lajos Szalay"
+    codes:
+      - "20454DF4 00000000"
+
+  - name: "Infinite Health"
+    author: "Lajos Szalay"
+    codes:
+      - "101A3A44 000004B0"
+
+  - name: "Infinite Money"
+    author: "Lajos Szalay"
+    codes:
+      - "101A3580 0000FFFF"
+
+  - name: "Max Damage Dealt"
+    author: "Lajos Szalay"
+    codes:
+      - "101A398E 0000270F"
+
+  - name: "Max Experience"
+    author: "Lajos Szalay"
+    codes:
+      - "201A3A4C 05F5E0FF"
+
+  - name: "Max Health"
+    author: "Lajos Szalay"
+    codes:
+      - "101A3A46 000004B0"
+
+  - name: "Max Infinite Health"
+    author: "Lajos Szalay"
+    codes:
+      - "201A3A44 04B004B0"
+
+  - name: "P1 Press L3+R3 To Max Money"
+    author: "Lajos Szalay"
+    codes:
+      - "D1F6399C 0000FFF9"
+      - "201A3580 05F5E0FF"
+
+  - name: "P1 Press R3+Down 1-Hit Kill Disable"
+    author: "Lajos Szalay"
+    codes:
+      - "D1F6399C 0000FFBB"
+      - "206950BC 00621023"
+
+  - name: "P1 Press R3+L1 Infinite Weapon Usage Enable"
+    author: "Lajos Szalay"
+    codes:
+      - "D1F6399C 0000FBFB"
+      - "20481C04 00000000"
+
+  - name: "P1 Press R3+L2 Infinite Weapon Usage Disable"
+    author: "Lajos Szalay"
+    codes:
+      - "D1F6399C 0000FEFB"
+      - "20481C04 A2A20718"
+
+  - name: "P1 Press R3+Up 1-Hit Kill Enable"
+    author: "Lajos Szalay"
+    codes:
+      - "D1F6399C 0000FFEB"
+      - "206950BC 24020000"
+
+  - name: "P1 Press Select To Skip FMV"
+    author: "Lajos Szalay"
+    codes:
+      - "20152F60 8C620000"
+      - "D1F6399C 0000FFFE"
+      - "20152F60 24020001"
+
+  - name: "Quick Experience Gain"
+    author: "Lajos Szalay"
+    codes:
+      - "101A3A4C 0000FFFF"
+
+  - name: "Quick Max Body"
+    author: "Lajos Szalay"
+    codes:
+      - "D01A3A59 003003E8"
+      - "201A3A58 000184AC"
+
+  - name: "Quick Max Soul"
+    author: "Lajos Szalay"
+    codes:
+      - "D01A3A50 003003E8"
+      - "201A3A50 000184AC"
+
+  - name: "Quick Max Technique"
+    author: "Lajos Szalay"
+    codes:
+      - "D01A3A54 003003E8"
+      - "201A3A54 000184AC"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Lajos Szalay"
+    notes: "[Masters]"
+    codes:
+      - "90148418 0C04E74E"
+
+  - name: "Max Infinite Heat"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "201A3A7C 50000000"
+
+  - name: "Food"
+    author: "Lajos Szalay"
+    notes: "[Completion Codes]"
+    codes:
+      - "401A35A0 00050001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Drink"
+    author: "Lajos Szalay"
+    notes: "[Completion Codes]"
+    codes:
+      - "201A35C0 FFFFFFFF"
+      - "201A35C4 FFFFFFFF"
+
+  - name: "Heat Actions"
+    author: "Lajos Szalay"
+    notes: "[Completion Codes]"
+    codes:
+      - "401A4F84 00060001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Have All Lockers Can Open"
+    author: "Lajos Szalay"
+    notes: "[Locker Codes]"
+    codes:
+      - "401A3F88 00030001"
+      - "FFFFFFFF 00000000"
+      - "001A3F94 000000FF"
+
+  - name: "Have All Lockers Opened"
+    author: "Lajos Szalay"
+    notes: "[Locker Codes]"
+    codes:
+      - "401A3F98 00030001"
+      - "FFFFFFFF 00000000"
+      - "001A3FA4 000000FF"
+
+  - name: "Batting Cage Most Home Runs"
+    author: "Lajos Szalay"
+    notes: "[Mini-Game Codes]"
+    codes:
+      - "201A5394 FFFFFFFF"
+
+  - name: "Driving Range High Score"
+    author: "Lajos Szalay"
+    notes: "[Mini-Game Codes]"
+    codes:
+      - "101A5398 000003E8"
+      - "101A539C 000003E8"
+      - "101A53A0 000003E8"
+      - "101A53A4 000003E8"
+
+  - name: "Bowling High Score"
+    author: "Lajos Szalay"
+    notes: "[Mini-Game Codes]"
+    codes:
+      - "101A53AE 0000965A"
+
+  - name: "Shogi Current Rank"
+    author: "Lajos Szalay"
+    notes: "[Mini-Game Codes]"
+    codes:
+      - "001A538F 00000001"
+
+  - name: "Pachi-Slot Most Medals"
+    author: "Lajos Szalay"
+    notes: "[Mini-Game Codes]"
+    codes:
+      - "101A5388 00002710"
+
+  - name: "Mahjong High Score"
+    author: "Lajos Szalay"
+    notes: "[Mini-Game Codes]"
+    codes:
+      - "101A4214 0000C350"
+
+  - name: "UFO Catcher Total Acquired"
+    author: "Lajos Szalay"
+    notes: "[Mini-Game Codes]"
+    codes:
+      - "101A5390 00000064"
+
+  - name: "YF6 Result"
+    author: "Lajos Szalay"
+    notes: "[Mini-Game Codes]"
+    codes:
+      - "001A318B 00000060"
+
+  - name: "Casinos Total Chips"
+    author: "Lajos Szalay"
+    notes: "[Mini-Game Codes]"
+    codes:
+      - "201A4204 000F4240"
+
+  - name: "Gambler's Den Total Points"
+    author: "Lajos Szalay"
+    notes: "[Mini-Game Codes]"
+    codes:
+      - "201A359C 00030D40"

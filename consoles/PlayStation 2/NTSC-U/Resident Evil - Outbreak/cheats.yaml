@@ -1,0 +1,686 @@
+# Resident Evil - Outbreak cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20765
+
+game: "Resident Evil - Outbreak"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20765"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01001E8 001001EB"
+      - "40239368 003F0001"
+      - "00000000 00000000"
+      - "10239464 00000000"
+      - "00239466 00000000"
+      - "201BA164 0808E4DA"
+      - "20239460 0806E85B"
+      - "20239464 3C010031"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Master Codes]"
+    codes:
+      - "90180558 0C041EAC"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "9012D460 0C04939E"
+
+  - name: "Have All Collection Available For Purchase"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Collection Codes]"
+    codes:
+      - "40323274 00060001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Have All Collection Purchased"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Collection Codes]"
+    codes:
+      - "403232D4 00060001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Infinite Reward Points"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Collection Codes]"
+    codes:
+      - "1031F1E0 0000FFFF"
+
+  - name: "Infinite Rewards Points Usage"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Collection Codes]"
+    codes:
+      - "E0020832 0057ADF4"
+      - "2057AE08 00000000"
+      - "1057AE16 00001000"
+
+  - name: "Max Reward Points"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Collection Codes]"
+    codes:
+      - "2031F1E0 05F5E0FF"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "20239380 3C01004A"
+      - "20239384 842260F6"
+      - "2023938C A42260F4"
+
+  - name: "Infinite Health & Max Health (Never Bleed)"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "20239380 3C01004A"
+      - "20239384 2402270F"
+      - "2023938C A42260F4"
+      - "20239390 A42260F6"
+
+  - name: "Player 1 Item Slot 1"
+    author: "bungholio"
+    notes: "[Player 1 Item Slot Modifiers]"
+    codes:
+      - "004A68B4 000000[IT]"
+
+  - name: "Player 1 Item Slot 2"
+    author: "bungholio"
+    notes: "[Player 1 Item Slot Modifiers]"
+    codes:
+      - "004A68B5 000000[IT]"
+
+  - name: "Player 1 Item Slot 3"
+    author: "bungholio"
+    notes: "[Player 1 Item Slot Modifiers]"
+    codes:
+      - "004A68B6 000000[IT]"
+
+  - name: "Player 1 Item Slot 4"
+    author: "bungholio"
+    notes: "[Player 1 Item Slot Modifiers]"
+    codes:
+      - "004A68B7 000000[IT]"
+
+  - name: "Player 1 Special Item Slot"
+    author: "bungholio"
+    notes: "[Player 1 Item Slot Modifiers]"
+    codes:
+      - "004A68B8 000000[IT]"
+
+  - name: "Player 1 Yoko Item Slot 5"
+    author: "bungholio"
+    notes: "[Player 1 Item Slot Modifiers]"
+    codes:
+      - "004A68B9 000000[IT]"
+
+  - name: "Player 1 Yoko Item Slot 6"
+    author: "bungholio"
+    notes: "[Player 1 Item Slot Modifiers]"
+    codes:
+      - "004A68BA 000000[IT]"
+
+  - name: "Player 1 Yoko Item Slot 7"
+    author: "bungholio"
+    notes: "[Player 1 Item Slot Modifiers]"
+    codes:
+      - "004A68BB 000000[IT]"
+
+  - name: "Player 1 Yoko Item Slot 8"
+    author: "bungholio"
+    notes: "[Player 1 Item Slot Modifiers]"
+    codes:
+      - "004A68BC 000000[IT]"
+
+  - name: "Completed Events Modifier 1 Of 2"
+    author: "bungholio"
+    notes: "[Scenario Completion Codes]"
+    codes:
+      - "203B84F8 ????????"
+
+  - name: "Completed Events Modifier 2 Of 2"
+    author: "bungholio"
+    notes: "[Scenario Completion Codes]"
+    codes:
+      - "203B84FC ????????"
+
+  - name: "Determines Whether Your Result Points Are A New Best Record"
+    author: "bungholio"
+    notes: "[Scenario Completion Codes]"
+    codes:
+      - "003B8505 000000??"
+
+  - name: "Determines Whether Your Scenario Completion Time Is A New Best Record"
+    author: "bungholio"
+    notes: "[Scenario Completion Codes]"
+    codes:
+      - "003B8506 000000??"
+
+  - name: "No Damage Clear"
+    author: "bungholio"
+    notes: "[Scenario Completion Codes]"
+    codes:
+      - "003B84F4 00000000"
+
+  - name: "No Weapon Clear"
+    author: "bungholio"
+    notes: "[Scenario Completion Codes]"
+    codes:
+      - "003B84F5 00000000"
+
+  - name: "Result Points Modifier"
+    author: "bungholio"
+    notes: "[Scenario Completion Codes]"
+    codes:
+      - "203B84B4 ????????"
+
+  - name: "Scenario Completion Time Rank Modifier"
+    author: "bungholio"
+    notes: "[Scenario Completion Codes]"
+    codes:
+      - "003B8507 000000??"
+
+  - name: "Survivor Modifier"
+    author: "bungholio"
+    notes: "[Scenario Completion Codes]"
+    codes:
+      - "003B84F6 000000??"
+
+  - name: "Infinite Ammo (All Weapons)"
+    author: "MadCatz"
+    notes: "[Single Play Codes]"
+    codes:
+      - "205B2008 24820000"
+
+  - name: "Max Result Points"
+    author: "MadCatz"
+    notes: "[Single Play Codes]"
+    codes:
+      - "2031FB60 0001869F"
+
+  - name: "Press And Hold L2 To Freeze Escape Time"
+    author: "MadCatz"
+    notes: "[Single Play Codes]"
+    codes:
+      - "D02B081C 0000FEFF"
+      - "2068C77C 24630000"
+
+  - name: "Ultimate Ammo Code"
+    author: "MadCatz"
+    notes: "[Single Play Codes]"
+    codes:
+      - "205B1FDC A6020024"
+
+  - name: "Unlock All Levels"
+    author: "MadCatz"
+    notes: "[Single Play Codes]"
+    codes:
+      - "20323BD8 FFFFFFFF"
+
+  - name: "Unlock Entire Collection"
+    author: "MadCatz"
+    notes: "[Single Play Codes]"
+    codes:
+      - "40323C54 00060001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Unlock Infinity Mode"
+    author: "MadCatz"
+    notes: "[Single Play Codes]"
+    codes:
+      - "2031FB7C FFFFFFFF"
+
+  - name: "Virus Level Never Goes Up"
+    author: "MadCatz"
+    notes: "[Single Play Codes]"
+    codes:
+      - "20667DF8 34100000"
+
+  - name: "Collection Opened"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "20239394 3C010058"
+      - "20239398 9424C3E8"
+      - "2023939C 2402100A"
+      - "202393A0 14820002"
+      - "202393A8 AC20C3E8"
+
+  - name: "Fast Hero"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "202393AC 3C02004A"
+      - "202393B0 3C013FC0"
+      - "202393B4 AC415CA0"
+      - "202393B8 AC416770"
+
+  - name: "Giant Hero"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "202393CC 3C013FC0"
+      - "202393D0 3C02004A"
+      - "202393D4 AC415C6C"
+      - "202393D8 AC415C68"
+      - "202393DC AC415C64"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "20239368 3C01005B"
+      - "2023936C AC201FDC"
+
+  - name: "Infinite Time"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "202393E0 3C010069"
+      - "202393E4 AC20C780"
+
+  - name: "Max Collection Pts"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "20239378 3C010032"
+      - "2023937C AC21F1E0"
+
+  - name: "Scenarii Opened"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "202393C4 3C010058"
+      - "202393C8 AC201AE0"
+
+  - name: "Super Fast Hero"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "202393AC 3C02004A"
+      - "202393B0 3C014000"
+      - "202393B4 AC415CA0"
+      - "202393B8 AC416770"
+
+  - name: "Zero Virus Gauge"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "20239370 3C01004A"
+      - "20239374 AC20675C"
+
+  - name: "Zombies Don't Move"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "202393BC 3C010069"
+      - "202393C0 AC2064B4"
+
+  - name: "All Costumes"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "2031F1E4 FFFFFFFF"
+      - "2031F1E8 FFFFFFFF"
+
+  - name: "Alyssa-All Types"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "7031F1E9 00000003"
+
+  - name: "Alyssa-Type B"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "7031F1E9 00000001"
+
+  - name: "Alyssa-Type C"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "7031F1E9 00000002"
+
+  - name: "Cindy-All Types"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "7031F1EB 00000003"
+
+  - name: "Cindy-Type B"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "7031F1EB 00000001"
+
+  - name: "Cindy-Type C"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "7031F1EB 00000002"
+
+  - name: "David-All Types"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "7031F1E8 00000003"
+
+  - name: "David-Type B"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "7031F1E8 00000001"
+
+  - name: "David-Type C"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "7031F1E8 00000002"
+
+  - name: "George-All Types"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "7031F1E7 00000003"
+
+  - name: "George-Type B"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "7031F1E7 00000001"
+
+  - name: "George-Type C"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "7031F1E7 00000002"
+
+  - name: "Jim-All Types"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "7031F1E6 00000003"
+
+  - name: "Jim-Type B"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "7031F1E6 00000001"
+
+  - name: "Jim-Type C"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "7031F1E6 00000002"
+
+  - name: "Kevin-All Types"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "7031F1E4 00000003"
+
+  - name: "Kevin-Type B"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "7031F1E4 00000001"
+
+  - name: "Kevin-Type C"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "7031F1E4 00000002"
+
+  - name: "Mark-All Types"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "7031F1E5 00000003"
+
+  - name: "Mark-Type B"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "7031F1E5 00000001"
+
+  - name: "Mark-Type C"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "7031F1E5 00000002"
+
+  - name: "Yoko-All Types"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "7031F1EA 00000003"
+
+  - name: "Yoko-Type B"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "7031F1EA 00000001"
+
+  - name: "Yoko-Type C"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "7031F1EA 00000002"
+
+  - name: "1-Hit Deaths (Enemies)"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    codes:
+      - "D0640794 0000882D"
+      - "206407A0 A6620138"
+
+  - name: "Alternate [M] Must Be On"
+    author: "MadCatz"
+    codes:
+      - "9013FC80 0C041EAC"
+
+  - name: "Animation Sequence Picker Player 1"
+    author: "bungholio"
+    codes:
+      - "004A67CB 000000??"
+
+  - name: "AR Max Below 3.14 Fix"
+    author: "Codejunkies"
+    codes:
+      - "2011CD00 3C03200F"
+      - "2011CD08 8C65FFF8"
+      - "2011CD0C 24040079"
+      - "2011CD10 24030074"
+      - "2011CD14 0000000C"
+
+  - name: "Become A Zombie After Death (Offline Mode)"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    codes:
+      - "D065FCB4 0000202D"
+      - "1065FCDA 00001000"
+
+  - name: "Don't Become A Zombie Over Time"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    codes:
+      - "D0667DF4 00009F8C"
+      - "20667DFC 00000000"
+
+  - name: "Don't Become A Zombie When Bitten"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    codes:
+      - "D06600FC 00009FCC"
+      - "20660100 00000000"
+
+  - name: "Enemies Can't Touch Player 1"
+    author: "bungholio"
+    codes:
+      - "004A67D2 00000020"
+
+  - name: "Enemies Don't Damage You With Attacks"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    codes:
+      - "D0660AAC 0000802D"
+      - "20660AB8 00000000"
+
+  - name: "Enemies Don't Notice Player 1 (Because You Are Dead) (L2+UP=ON, L2+DOWN=OFF)"
+    author: "bungholio"
+    codes:
+      - "D02B081C 0000FEEF"
+      - "004A67D1 00000001"
+      - "D02B081C 0000FEBF"
+      - "004A67D1 00000000"
+
+  - name: "Extra Ammo"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    codes:
+      - "D05B1FC8 00001E3C"
+      - "105B1FD8 00000001"
+
+  - name: "Have All Files"
+    author: "bungholio"
+    codes:
+      - "104B9C80 0000FFFF"
+
+  - name: "Infinite Item Usage"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    codes:
+      - "E0031E3C 005B2148"
+      - "205B215C 00000000"
+      - "205B2170 00000000"
+      - "205B5184 00000000"
+
+  - name: "Infinite: Press L2 To Reset Escape Time"
+    author: "MadCatz"
+    codes:
+      - "D02AFE1C 0000FEFF"
+      - "2068C77C 24630000"
+
+  - name: "Max Infinite Ammo"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    codes:
+      - "D05B1FC8 00001E3C"
+      - "205B1FD8 24030063"
+
+  - name: "Number Of Players Present"
+    author: "bungholio"
+    codes:
+      - "004BAEA0 0000000?"
+
+  - name: "P1 Press L1+Select For Infection 100%"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    codes:
+      - "D02AFE9C 0000FBFE"
+      - "20667DC8 24900000"
+      - "D02AFE9C 0000FFFF"
+      - "20667DC8 4410B800"
+
+  - name: "Player 1 Alternative Costume Modifier"
+    author: "bungholio"
+    codes:
+      - "004A67EC 000000??"
+
+  - name: "Player 1 Character Model Modifier"
+    author: "bungholio"
+    codes:
+      - "104A67E4 0000????"
+
+  - name: "Player 1 Character Type Modifier"
+    author: "bungholio"
+    codes:
+      - "004A67C8 000000??"
+
+  - name: "Player 1 Damage Modifier [Or Is It Multiplier?]"
+    author: "bungholio"
+    codes:
+      - "204A67F4 ????????"
+
+  - name: "Player 1 Speed Modifier #1"
+    author: "bungholio"
+    codes:
+      - "204A67D8 ????????"
+
+  - name: "Player 1 Speed Modifier #2"
+    author: "bungholio"
+    codes:
+      - "204A67F0 ????????"
+
+  - name: "Player 1 Status Modifier"
+    author: "bungholio"
+    codes:
+      - "004A67D0 000000??"
+
+  - name: "Player 1 Virus Gauge Modifier #1"
+    author: "bungholio"
+    codes:
+      - "204A67DC ????????"
+
+  - name: "Player 1 Virus Gauge Modifier #2"
+    author: "bungholio"
+    codes:
+      - "204A67E8 ????????"
+
+  - name: "Player 1 Walk Through Walls"
+    author: "bungholio"
+    codes:
+      - "204A68E0 FFFFFFFF"
+      - "204A68FC FFFFFFFF"
+
+  - name: "Rapid Fire Player 1"
+    author: "bungholio"
+    codes:
+      - "D02B081C 0000B7FF"
+      - "004A67D3 000000FF"
+
+  - name: "Single Play Codes: Infinite: Ammo (All Weapons)"
+    author: "MadCatz"
+    codes:
+      - "205B1FD8 24820000"
+
+  - name: "Single Play Codes: Infinite: Escape Time"
+    author: "MadCatz"
+    codes:
+      - "2068C77C 24630000"
+
+  - name: "Single Play Codes: Infinite: Health"
+    author: "MadCatz"
+    codes:
+      - "204A60F4 08FC08FC"
+
+  - name: "Single Play Codes: Max: Result Points"
+    author: "MadCatz"
+    codes:
+      - "2031F1E0 0001869F"
+
+  - name: "Single Play Codes: Unlock: Levels"
+    author: "MadCatz"
+    codes:
+      - "20323258 FFFFFFFF"
+
+  - name: "Unlock All Npc's"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    codes:
+      - "4031F1EC 00030001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Unlock All Scenarios"
+    author: "Code Master>Lajos Szalay>Jay007>VirusPunk>Jarnold83"
+    codes:
+      - "20323260 FFFFFFFF"
+
+  - name: "Unlock: Entire Collection"
+    author: "MadCatz"
+    codes:
+      - "203232D4 FFFFFFFF"
+      - "203232D8 FFFFFFFF"
+      - "203232DC FFFFFFFF"
+      - "203232E0 FFFFFFFF"
+      - "203232E4 FFFFFFFF"
+      - "203232E8 FFFFFFFF"

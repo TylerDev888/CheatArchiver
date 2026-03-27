@@ -1,0 +1,69 @@
+# Buffy The Vampire Slayer - Chaos Bleeds cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51890
+
+game: "Buffy The Vampire Slayer - Chaos Bleeds"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51890"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F029FB1C 0029FB1F"
+
+  - name: "1 Hit Ko"
+    author: "Codejunkies"
+    notes: "[Enemies Codes]"
+    codes:
+      - "20168FD4 AE000604"
+      - "20168FD8 AE000604"
+
+  - name: "Health Never Refills"
+    author: "Codejunkies"
+    notes: "[Enemies Codes]"
+    codes:
+      - "201734A8 AE200604"
+
+  - name: "Ko Never Wake Up"
+    author: "Codejunkies"
+    notes: "[Enemies Codes]"
+    codes:
+      - "20304120 0017369C"
+
+  - name: "Infinite Energy Power"
+    author: "Codejunkies"
+    codes:
+      - "20164EB8 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "2019BD84 00000000"
+
+  - name: "Infinite Stake Use"
+    author: "Codejunkies"
+    codes:
+      - "201C8950 00000000"
+
+  - name: "Infinite Item Usage"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "2015898C 00000000"
+
+  - name: "Item Increase When Used"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "2015898C 01261021"
+
+  - name: "Open All Extras"
+    author: "Codejunkies"
+    codes:
+      - "1032588E 00000001"

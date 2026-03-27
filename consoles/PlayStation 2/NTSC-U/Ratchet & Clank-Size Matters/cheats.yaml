@@ -1,0 +1,917 @@
+# Ratchet & Clank-Size Matters cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97615
+
+game: "Ratchet & Clank-Size Matters"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97615"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Skiller>Azagthoth"
+    notes: "[Masters]"
+    codes:
+      - "91ED3B38 0C7B4E76"
+
+  - name: "Infinite HP"
+    author: "Skiller>Azagthoth"
+    notes: "[Challax Codes]"
+    codes:
+      - "E0020007 01F4C76C"
+      - "50F80F30 00000004"
+      - "00F80F2C 00000000"
+
+  - name: "Max HP"
+    author: "Skiller>Azagthoth"
+    notes: "[Challax Codes]"
+    codes:
+      - "D1F4C76C 00000007"
+      - "20F80F30 42480000"
+
+  - name: "Current Level"
+    author: "Skiller>Azagthoth"
+    notes: "[Weapon Lacerator Codes]"
+    codes:
+      - "D1F4C76C 00000007"
+      - "20F3D544 00000007"
+
+  - name: "Max/Infinite Ammo"
+    author: "Skiller>Azagthoth"
+    notes: "[Weapon Lacerator Codes]"
+    codes:
+      - "D1F4C76C 00000007"
+      - "20F3D548 0000270F"
+
+  - name: "Max EXP"
+    author: "Skiller>Azagthoth"
+    notes: "[Weapon Lacerator Codes]"
+    codes:
+      - "D1F4C76C 00000007"
+      - "20F3D54C 05000000"
+
+  - name: "Have"
+    author: "Skiller>Azagthoth"
+    notes: "[Weapon Lacerator Codes]"
+    codes:
+      - "D1F4C76C 00000007"
+      - "00F3D55C 00000001"
+
+  - name: "Gadget Hypershot"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Gadgets/Items Codes]"
+    codes:
+      - "E0030007 01F4C76C"
+      - "20F3D9E0 3F800000"
+      - "20F3D9E4 3F800000"
+      - "20F3DA2C 00000001"
+
+  - name: "Gadget Sprout-O-Matic"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Gadgets/Items Codes]"
+    codes:
+      - "E0030007 01F4C76C"
+      - "20F3DA38 3F800000"
+      - "20F3DA3C 3F800000"
+      - "20F3DA84 00000001"
+
+  - name: "Gadget Polarizer"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Gadgets/Items Codes]"
+    codes:
+      - "E0030007 01F4C76C"
+      - "20F3DA90 3F800000"
+      - "20F3DA94 3F800000"
+      - "20F3DADC 00000001"
+
+  - name: "Gadget PDA"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Gadgets/Items Codes]"
+    codes:
+      - "E0030007 01F4C76C"
+      - "20F3DAE8 3F800000"
+      - "20F3DAEC 3F800000"
+      - "20F3DB34 00000001"
+
+  - name: "Item Shrinkray"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Gadgets/Items Codes]"
+    codes:
+      - "E0030007 01F4C76C"
+      - "20F3DB40 3F800000"
+      - "20F3DB44 3F800000"
+      - "20F3DB8C 00000001"
+
+  - name: "Item Boltgrabber"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Gadgets/Items Codes]"
+    codes:
+      - "E0030007 01F4C76C"
+      - "20F3DB98 3F800000"
+      - "20F3DB9C 3F800000"
+      - "20F3DBE4 00000001"
+
+  - name: "Item Grindboots (Seems To Be Missing)"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Gadgets/Items Codes]"
+    codes:
+      - "E0030007 01F4C76C"
+      - "20F3DBF0 3F800000"
+      - "20F3DBF4 3F800000"
+      - "20F3DC3C 00000001"
+
+  - name: "Item Mapomatic"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Gadgets/Items Codes]"
+    codes:
+      - "E0030007 01F4C76C"
+      - "20F3DC48 3F800000"
+      - "20F3DC4C 3F800000"
+      - "20F3DC94 00000001"
+
+  - name: "Item Boxbreaker"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Gadgets/Items Codes]"
+    codes:
+      - "E0030007 01F4C76C"
+      - "20F3DCA0 3F800000"
+      - "20F3DCA4 3F800000"
+      - "20F3DCEC 00000001"
+
+  - name: "All Wild Fire"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Armor Codes]"
+    codes:
+      - "01F4B35A 0000001F"
+
+  - name: "All Sludge MK.9"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Armor Codes]"
+    codes:
+      - "01F4B35B 0000001F"
+
+  - name: "All Crystanix"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Armor Codes]"
+    codes:
+      - "01F4B35C 0000001F"
+
+  - name: "All Electroshock"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Armor Codes]"
+    codes:
+      - "01F4B35D 0000001F"
+
+  - name: "All Mega-Bomb Set"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Armor Codes]"
+    codes:
+      - "01F4B35E 0000001F"
+
+  - name: "All Hyperborean"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Armor Codes]"
+    codes:
+      - "01F4B35F 0000001F"
+
+  - name: "All Chameleon"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Armor Codes]"
+    codes:
+      - "01F4B360 0000001F"
+
+  - name: "Have All Armors"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Armor Codes]"
+    codes:
+      - "11F4B35A 00001F1F"
+      - "21F4B35C 1F1F1F1F"
+      - "01F4B360 0000001F"
+
+  - name: "Wildfire"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Armor Sets Codes]"
+    codes:
+      - "71F4B442 00010001"
+
+  - name: "Sludge Mk.9"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Armor Sets Codes]"
+    codes:
+      - "71F4B442 00010002"
+
+  - name: "Crystallix"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Armor Sets Codes]"
+    codes:
+      - "71F4B442 00010004"
+
+  - name: "Electroshock"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Armor Sets Codes]"
+    codes:
+      - "71F4B442 00010008"
+
+  - name: "Mega-Bomb"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Armor Sets Codes]"
+    codes:
+      - "71F4B442 00010010"
+
+  - name: "Hyperborean"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Armor Sets Codes]"
+    codes:
+      - "71F4B442 00010020"
+
+  - name: "Chameleon"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Armor Sets Codes]"
+    codes:
+      - "71F4B442 00010040"
+
+  - name: "Fire-Bomb"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Armor Sets Codes]"
+    codes:
+      - "71F4B442 00010080"
+
+  - name: "Shock Crystal"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Armor Sets Codes]"
+    codes:
+      - "71F4B442 00010100"
+
+  - name: "Wild Burst"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Armor Sets Codes]"
+    codes:
+      - "71F4B442 00010200"
+
+  - name: "Triple Wave"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Armor Sets Codes]"
+    codes:
+      - "71F4B442 00010400"
+
+  - name: "Ice 2"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Armor Sets Codes]"
+    codes:
+      - "71F4B442 00010800"
+
+  - name: "Stalker"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Armor Sets Codes]"
+    codes:
+      - "71F4B442 00011000"
+
+  - name: "Have All Armor Sets"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Armor Sets Codes]"
+    codes:
+      - "11F4B442 00001FFF"
+
+  - name: "Trash Can Outfit (Politary)"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Hidden Skin Codes]"
+    codes:
+      - "E0030001 01F4C76C"
+      - "01F4B45B 00000003"
+      - "20E184B0 00000000"
+      - "20E184CC 00000000"
+
+  - name: "Trash Can Outfit (Rullus)"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Hidden Skin Codes]"
+    codes:
+      - "E0030002 01F4C76C"
+      - "01F4B45B 00000003"
+      - "20E06640 00000000"
+      - "20E0665C 00000000"
+
+  - name: "Trash Can Outfit (Kalidon)"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Hidden Skin Codes]"
+    codes:
+      - "E0030003 01F4C76C"
+      - "01F4B45B 00000003"
+      - "20DFC298 00000000"
+      - "20DFC2B4 00000000"
+
+  - name: "Trash Can Outfit (Metalis)"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Hidden Skin Codes]"
+    codes:
+      - "E0030004 01F4C76C"
+      - "01F4B45B 00000003"
+      - "20E01D48 00000000"
+      - "20E01D64 00000000"
+
+  - name: "Trash Can Outfit (Dream Time)"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Hidden Skin Codes]"
+    codes:
+      - "E0030005 01F4C76C"
+      - "01F4B45B 00000003"
+      - "20E20A58 00000000"
+      - "20E20A74 00000000"
+
+  - name: "Trash Can Outfit (Medical Outpoust Omega)"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Hidden Skin Codes]"
+    codes:
+      - "E0030006 01F4C76C"
+      - "01F4B45B 00000003"
+      - "20E275B0 00000000"
+      - "20E275CC 00000000"
+
+  - name: "Trash Can Outfit (Challax)"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Hidden Skin Codes]"
+    codes:
+      - "E0030007 01F4C76C"
+      - "01F4B45B 00000003"
+      - "20E04D10 00000000"
+      - "20E04D2C 00000000"
+
+  - name: "Trash Can Outfit (Dayni Moon)"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Hidden Skin Codes]"
+    codes:
+      - "E0030008 01F4C76C"
+      - "01F4B45B 00000003"
+      - "20DCD458 00000000"
+      - "20DCD474 00000000"
+
+  - name: "Trash Can Outfit (Inside Clank)"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Hidden Skin Codes]"
+    codes:
+      - "E0030009 01F4C76C"
+      - "01F4B45B 00000003"
+      - "20E2FF60 00000000"
+      - "20E2FF7C 00000000"
+
+  - name: "Trash Can Outfit (Quadrona)"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Hidden Skin Codes]"
+    codes:
+      - "E003000A 01F4C76C"
+      - "01F4B45B 00000003"
+      - "20E108F0 00000000"
+      - "20E1090C 00000000"
+
+  - name: "Trash Can Outfit (Destroued Outpoust Omega)"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Hidden Skin Codes]"
+    codes:
+      - "E0030017 01F4C76C"
+      - "01F4B45B 00000003"
+      - "20E442E8 00000000"
+      - "20E44304 00000000"
+
+  - name: "Trash Can Outfit (Hig Treehouse)"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Hidden Skin Codes]"
+    codes:
+      - "E0030018 01F4C76C"
+      - "01F4B45B 00000003"
+      - "20E4B5F8 00000000"
+      - "20E4B614 00000000"
+
+  - name: "Set Back To Normal Ratchet"
+    author: "Skiller>Azagthoth"
+    notes: "[Have Hidden Skin Codes]"
+    codes:
+      - "01F4B45B 00000000"
+
+  - name: "Infinite Big Clank Special Ammo (Metalis)"
+    author: "Skiller>Azagthoth"
+    notes: "[Mini-Game Only Codes]"
+    codes:
+      - "E002000F 01F4C76C"
+      - "20F2C308 AC6501FC"
+      - "20F2C3F8 AC6501FC"
+
+  - name: "Infinite Big Clank Health (Metalis)"
+    author: "Skiller>Azagthoth"
+    notes: "[Mini-Game Only Codes]"
+    codes:
+      - "D1F4C76C 0000000F"
+      - "20F2E89C AC41096C"
+
+  - name: "Infinite Big Clank Health V2 (Metalis)"
+    author: "Skiller>Azagthoth"
+    notes: "[Mini-Game Only Codes]"
+    codes:
+      - "E002000F 01F4C76C"
+      - "50F74FB0 00000004"
+      - "00F74FAC 00000000"
+
+  - name: "Infinite Big Clank Special Ammo V2 (Metalis)"
+    author: "Skiller>Azagthoth"
+    notes: "[Mini-Game Only Codes]"
+    codes:
+      - "D1F4C76C 0000000F"
+      - "010EC504 00000014"
+
+  - name: "Max Big Clank Health (Metalis)"
+    author: "Skiller>Azagthoth"
+    notes: "[Mini-Game Only Codes]"
+    codes:
+      - "D1F4C76C 0000000F"
+      - "20F74FB0 42C80000"
+
+  - name: "Infinite Giant Clank Missiles (Challax)"
+    author: "Skiller>Azagthoth"
+    notes: "[Mini-Game Only Codes]"
+    codes:
+      - "E0020015 01F4C76C"
+      - "20F2C308 AC6501FC"
+      - "20F2C3F8 AC6501FC"
+
+  - name: "Infinite Giant Clank Health (Challax)"
+    author: "Skiller>Azagthoth"
+    notes: "[Mini-Game Only Codes]"
+    codes:
+      - "D1F4C76C 00000015"
+      - "20F2E89C AC41096C"
+
+  - name: "Infinite HP-Buzzsaw Blitz"
+    author: "Skiller>Azagthoth"
+    notes: "[Mini-Game Only Codes]"
+    codes:
+      - "D1F4C76C 00000004"
+      - "20E96808 00000000"
+
+  - name: "Infinite HP-Buzzsaw Blitz V2"
+    author: "Skiller>Azagthoth"
+    notes: "[Mini-Game Only Codes]"
+    codes:
+      - "E0020004 01F4C76C"
+      - "50F7F640 00000004"
+      - "00F7F63C 00000000"
+
+  - name: "Max Buzzsaw Blitz HP"
+    author: "Skiller>Azagthoth"
+    notes: "[Mini-Game Only Codes]"
+    codes:
+      - "D1F4C76C 00000004"
+      - "20F7F640 42C80000"
+
+  - name: "Infinite Boost Skyboard Challenge 1"
+    author: "Skiller>Azagthoth"
+    notes: "[Mini-Game Only Codes]"
+    codes:
+      - "D1F4C76C 00000016"
+      - "20F8E828 44160000"
+
+  - name: "Infinite Boost Skyboard Challenge 2"
+    author: "Skiller>Azagthoth"
+    notes: "[Mini-Game Only Codes]"
+    codes:
+      - "D1F4C76C 00000017"
+      - "20F868A8 44160000"
+
+  - name: "Infinite HP P1"
+    author: "Skiller>Azagthoth"
+    notes: "[Moon Cow Disease (2-Player) Only Codes]"
+    codes:
+      - "E0020013 01F4C76C"
+      - "5106FF00 00000004"
+      - "0106FEFC 00000000"
+
+  - name: "Max HP P1"
+    author: "Skiller>Azagthoth"
+    notes: "[Moon Cow Disease (2-Player) Only Codes]"
+    codes:
+      - "D1F4C76C 00000013"
+      - "2106FF00 42480000"
+
+  - name: "Infinite HP P2"
+    author: "Skiller>Azagthoth"
+    notes: "[Moon Cow Disease (2-Player) Only Codes]"
+    codes:
+      - "E0020013 01F4C76C"
+      - "510738F0 00000004"
+      - "010738EC 00000000"
+
+  - name: "Max HP P2"
+    author: "Skiller>Azagthoth"
+    notes: "[Moon Cow Disease (2-Player) Only Codes]"
+    codes:
+      - "D1F4C76C 00000013"
+      - "210738F0 42480000"
+
+  - name: "Save Time Always 0"
+    author: "Skiller>Azagthoth"
+    notes: "[Misc. Codes]"
+    codes:
+      - "21F5EA40 00000000"
+
+  - name: "Max/Infinite Bolts"
+    author: "Skiller>Azagthoth"
+    notes: "[Misc. Codes]"
+    codes:
+      - "21F4C768 05F5E0FF"
+
+  - name: "Have All Skins"
+    author: "Skiller>Azagthoth"
+    notes: "[Misc. Codes]"
+    codes:
+      - "01F4B45A 00000077"
+
+  - name: "Max/Infinite Titanium Bolts"
+    author: "Skiller>Azagthoth"
+    notes: "[Misc. Codes]"
+    codes:
+      - "01F4B449 000000FF"
+
+  - name: "All Skill Point Quests Done"
+    author: "Skiller>Azagthoth"
+    notes: "[Misc. Codes]"
+    codes:
+      - "01F4B437 00000077"
+      - "21F4B438 33771377"
+
+  - name: "Have All Clanks Challenges (Metalis)"
+    author: "Skiller>Azagthoth"
+    notes: "[Misc. Codes]"
+    codes:
+      - "01F4B3DB 00000005"
+      - "11F4B3DC 00000505"
+
+  - name: "Big Headed Clank"
+    author: "Skiller>Azagthoth"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "71F4C440 00010001"
+
+  - name: "Big Headed Giant Clank"
+    author: "Skiller>Azagthoth"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "71F4C440 00010002"
+
+  - name: "Big Headed Ratchet"
+    author: "Skiller>Azagthoth"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "71F4C440 00010004"
+
+  - name: "Big Headed Enemies"
+    author: "Skiller>Azagthoth"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "71F4C440 00010008"
+
+  - name: "Mirrored Levels"
+    author: "Skiller>Azagthoth"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "71F4C440 00010010"
+
+  - name: "Old Timey"
+    author: "Skiller>Azagthoth"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "71F4C440 00010020"
+
+  - name: "Bolt Confusion"
+    author: "Skiller>Azagthoth"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "71F4C440 00010040"
+
+  - name: "Weapon Switching"
+    author: "Skiller>Azagthoth"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "71F4C440 00010080"
+
+  - name: "She's On Fire"
+    author: "Skiller>Azagthoth"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "71F4C440 00010200"
+
+  - name: "Mooo!"
+    author: "Skiller>Azagthoth"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "71F4C440 00010400"
+
+  - name: "Hardcore Mode"
+    author: "Skiller>Azagthoth"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "71F4C440 00010800"
+
+  - name: "More Cowbells"
+    author: "Skiller>Azagthoth"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "71F4C440 00011000"
+
+  - name: "Super Bloom"
+    author: "Skiller>Azagthoth"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "71F4C440 00012000"
+
+  - name: "Climb The Treehouse"
+    author: "Skiller>Azagthoth"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "71F4C440 00014000"
+
+  - name: "Pokitary"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Planet Codes]"
+    codes:
+      - "01F4C661 00000003"
+
+  - name: "Ryllus"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Planet Codes]"
+    codes:
+      - "01F4C662 00000003"
+
+  - name: "Kalidon"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Planet Codes]"
+    codes:
+      - "01F4C663 00000003"
+
+  - name: "Metalis"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Planet Codes]"
+    codes:
+      - "01F4C664 00000003"
+
+  - name: "Medical Outpost Omega"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Planet Codes]"
+    codes:
+      - "01F4C666 00000003"
+
+  - name: "Challax"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Planet Codes]"
+    codes:
+      - "01F4C667 00000003"
+
+  - name: "Dayni Moon"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Planet Codes]"
+    codes:
+      - "01F4C668 00000003"
+
+  - name: "Quodrona"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Planet Codes]"
+    codes:
+      - "01F4C66A 00000003"
+
+  - name: "Introduction"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B462 00010001"
+
+  - name: "Abduction"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B462 00010002"
+
+  - name: "Tachnomites?"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B462 00010004"
+
+  - name: "Jungle Planet"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B464 00010001"
+
+  - name: "Mysterious Cameras"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B464 00010002"
+
+  - name: "Professor Sprout"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B464 00010004"
+
+  - name: "Temple Exterior"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B464 00010008"
+
+  - name: "Map Room"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B464 00010010"
+
+  - name: "Arrival"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B466 00010001"
+
+  - name: "Luna"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B466 00010004"
+
+  - name: "Skyboarder"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B466 00010008"
+
+  - name: "Shrink Ray"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B466 00010010"
+
+  - name: "Clank Wakes"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B468 00010001"
+
+  - name: "Skrunch"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B468 00010002"
+
+  - name: "Ratchet's Dream"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B46A 00010001"
+
+  - name: "Clank Shakes Ratchet"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B46A 00010002"
+
+  - name: "Ratchet Wakes"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B46A 00010004"
+
+  - name: "Dreamtime Gian Clank"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B46A 00010008"
+
+  - name: "Recollection"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B46C 00010001"
+
+  - name: "Test Subject"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B46C 00010002"
+
+  - name: "Luna's Coordinates"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B46C 00010004"
+
+  - name: "Skyboarder Returns"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B46C 00010008"
+
+  - name: "Polarizer"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B46C 00010010"
+
+  - name: "Tiny Car"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B46E 00010001"
+
+  - name: "She's A Robot"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B46E 00010004"
+
+  - name: "Plot Thickens"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B470 00010002"
+
+  - name: "Tiny Invasion"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B470 00010004"
+
+  - name: "Clank Restored"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B470 00010020"
+
+  - name: "Enter Clank"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B472 00010001"
+
+  - name: "Anti-Virus"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B472 00010002"
+
+  - name: "Find Otto"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B474 00010001"
+
+  - name: "Tiny Ride"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B474 00010002"
+
+  - name: "Monologueing"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B474 00010004"
+
+  - name: "Not Half As Good"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B474 00010008"
+
+  - name: "Growing Up"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B474 00010010"
+
+  - name: "Shrink Back"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B474 00010020"
+
+  - name: "Make The Switch"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B474 00010040"
+
+  - name: "Ending"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "71F4B474 00010100"
+
+  - name: "All Cinematics"
+    author: "Skiller>Azagthoth"
+    notes: "[Unlock Cinematics Codes]"
+    codes:
+      - "21F4B460 00000007"
+      - "21F4B464 001D001F"
+      - "21F4B468 000F0003"
+      - "21F4B46C 0005001F"
+      - "21F4B470 00030026"
+      - "11F4B474 0000016F"

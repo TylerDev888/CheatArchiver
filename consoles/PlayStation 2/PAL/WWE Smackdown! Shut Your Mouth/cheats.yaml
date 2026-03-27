@@ -1,0 +1,51 @@
+# WWE Smackdown! Shut Your Mouth cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "WWE Smackdown! Shut Your Mouth"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001155B7"
+
+  - name: "Creation Points"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "202B383C 24020001"
+
+  - name: "Unlimited Specials"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "D03D0110 00100000"
+      - "2078D04C 00000005"
+
+  - name: "No Specials"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "D03D0110 00100000"
+      - "2078D04C 00000000"
+
+  - name: "Items"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "2042F028 FFFFFFFF"
+      - "2042F02C FFFFFFFF"
+      - "2042F030 FFFFFFFF"
+
+  - name: "Movies"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "00432AEA 000000FF"

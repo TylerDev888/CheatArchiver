@@ -1,0 +1,31 @@
+# Ryu ga Gotoku Kenzan! cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM60064
+
+game: "Ryu ga Gotoku Kenzan!"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM60064"
+cheat_type: "Save Editor"
+source: "From savedata.jp"
+
+cheats:
+  - name: "Exp 999999(please Use It After Tutorial Is Over)"
+    notes: "File: USERDATA"
+    codes:
+      - "20004800 000F423F"
+
+  - name: "Some Great Items Unlocked(please Use It After Chapter 4)"
+    notes: "File: USERDATA"
+    codes:
+      - "2000484E 000001D9"
+      - "20004852 00000218"
+      - "20004856 00000243"
+      - "2000485A 0000026B"
+      - "2000485E 0000026F"
+      - "20004862 00000273"
+      - "20004866 00000119"
+      - "2000486A 00000125"
+      - "2000486E 00000136"
+      - "20004872 00000137"

@@ -1,0 +1,42 @@
+# Blade II cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Blade II"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0012A517"
+
+  - name: "50,000 Points"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2075C91C 0000C350"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2013105C 244203E7"
+
+  - name: "Ammunition"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "107C7F06 00000063"
+
+  - name: "Blood Lust"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20177058 34012710"
+      - "20177074 A441001A"

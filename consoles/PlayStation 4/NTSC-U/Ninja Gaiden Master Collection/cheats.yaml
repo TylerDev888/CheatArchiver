@@ -1,0 +1,46 @@
+# Ninja Gaiden Master Collection cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA15609
+
+game: "Ninja Gaiden Master Collection"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA15609"
+cheat_type: "AP"
+source: "source: hackinformer forum"
+
+cheats:
+  - name: "God Mode(Ryu Codes:)"
+    notes: "File: *"
+    codes:
+      - "95000000 000384A0"
+      - "28000000 7FFF7FFF"
+      - "18000004 00007FFF"
+      - "18000014 00007FFF"
+
+  - name: "Unlimited Magic"
+    notes: "File: *"
+    codes:
+      - "95000000 000384A0"
+      - "28000024 7FFF7FFF"
+
+  - name: "Max. Essence"
+    notes: "File: *"
+    codes:
+      - "95000000 000384A0"
+      - "280003F0 05F5E0FF"
+
+  - name: "Max. Karma"
+    notes: "File: *"
+    codes:
+      - "95000000 000384A0"
+      - "2800038C 3B9AC9FF"
+
+  - name: "God Mode(Rachel Codes:)"
+    notes: "File: *"
+    codes:
+      - "95000000 000398F0"
+      - "28000000 7FFF7FFF"
+      - "18000004 00007FFF"
+      - "18000014 00007FFF"

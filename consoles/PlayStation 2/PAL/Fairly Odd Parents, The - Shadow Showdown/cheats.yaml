@@ -1,0 +1,49 @@
+# Fairly Odd Parents, The - Shadow Showdown cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52857
+
+game: "Fairly Odd Parents, The - Shadow Showdown"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52857"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Godmode"
+    author: "luc-ita"
+    codes:
+      - "201C82E8 03E00008"
+      - "201C82EC 00000000"
+
+  - name: "Infinite Sprint To Run"
+    author: "luc-ita"
+    codes:
+      - "2016A828 00000000"
+
+  - name: "Jump In Mid-Air"
+    author: "luc-ita"
+    codes:
+      - "2017E0C0 08028000"
+      - "200A0000 C4810004"
+      - "200A0004 3C1B4158"
+      - "200A0008 00000000"
+      - "200A000C 0805F832"
+      - "D048D30E 000000FF"
+      - "200A0008 AC9B0004"
+
+  - name: "Suit Spray Shoot Even Without Ammo"
+    author: "luc-ita"
+    codes:
+      - "201855A0 00000000"
+
+  - name: "Take Coins Anywhere"
+    author: "luc-ita"
+    codes:
+      - "20219754 00000000"
+
+  - name: "Take Stars Anywhere"
+    author: "luc-ita"
+    codes:
+      - "201CF238 00000000"

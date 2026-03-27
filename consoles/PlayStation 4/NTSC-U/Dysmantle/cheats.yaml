@@ -1,0 +1,15 @@
+# Dysmantle cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA15099
+
+game: "Dysmantle"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA15099"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "There Is Info In Code Archive"
+    notes: "File: save\\[0-9]+\\profile.xml"

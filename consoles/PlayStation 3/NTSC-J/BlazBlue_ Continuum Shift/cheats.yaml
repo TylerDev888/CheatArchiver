@@ -1,0 +1,62 @@
+# BlazBlue_ Continuum Shift cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM60237
+
+game: "BlazBlue_ Continuum Shift"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM60237"
+cheat_type: "AP"
+source: "From Game Genie For PS3 & Keha World"
+
+cheats:
+  - name: "Unlock All Gallery Visuals"
+    notes: "File: BLJM60237-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "42000160 02020202"
+      - "40600004 00000000"
+
+  - name: "Unlock All Gallery Visuals (alt)"
+    notes: "File: BLJM60237-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "40000160 00000001"
+      - "40D90001 00000000"
+
+  - name: "Challenge Mode Clear All Characters"
+    notes: "File: BLJM60237-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "400D45F0 00000001"
+      - "41280001 00000000"
+
+  - name: "Story Mode Complete"
+    notes: "File: BLJM60237-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "42012622 FFFFFFFF"
+      - "40500004 00000000"
+      - "42000560 00000FFF"
+      - "40100004 00000000"
+
+  - name: "Legion Mode Character 1 Unlimited And Health Max"
+    notes: "File: BLJM60237-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "000D48D3 00000002"
+      - "200D48C8 00002710"
+      - "200D48CC 00002710"
+
+  - name: "Legion Mode Character 2 Unlimited And Health Max"
+    notes: "File: BLJM60237-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "000D48E7 00000002"
+      - "200D48DC 00002710"
+      - "200D48E0 00002710"
+
+  - name: "Update Wadd Checksum (required)"
+    notes: "File: BLJM60237-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "set [csum]:0"
+      - "carry(2)"
+      - "set pointer:eof+1"
+      - "set [csum]:wadd(0x000004,pointer)"
+      - "set [csum]:xor:FFFF"
+      - "write at 0x000000:[csum]"

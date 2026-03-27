@@ -1,0 +1,19 @@
+# SEGA Rally Revo cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00107
+
+game: "SEGA Rally Revo"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00107"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 (required)"
+    notes: "File: SR.DAT"
+    codes:
+      - "set range:0x000008,0x005C8F"
+      - "set [hash]:CRC32"
+      - "write at 0x000004:[hash]"

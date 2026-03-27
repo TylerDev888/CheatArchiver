@@ -1,0 +1,574 @@
+# Persona5 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB02436
+
+game: "Persona5"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB02436"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Money 9999999"
+    notes: "File: GAME.DAT"
+    codes:
+      - "20002D5A 0098967F"
+
+  - name: "Fishing Points"
+    notes: "File: GAME.DAT"
+    codes:
+      - "20003336 0098967F"
+
+  - name: "Hero Exp Max"
+    notes: "File: GAME.DAT"
+    codes:
+      - "2000006C 0098967F"
+
+  - name: "Hero 6 Equipped Personas Exp Max"
+    notes: "File: GAME.DAT"
+    codes:
+      - "4200009C 0098967F"
+      - "40060030 00000000"
+
+  - name: "Hero 6 Equipped Persona Max Stat"
+    notes: "File: GAME.DAT"
+    codes:
+      - "420000B0 63636363"
+      - "40060030 00000000"
+      - "400000B4 00000063"
+      - "40060030 00000000"
+
+  - name: "Ryuji Sakamoto - Exp Max"
+    notes: "File: GAME.DAT"
+    codes:
+      - "20000344 0098967F"
+
+  - name: "Ryuji Sakamoto - Persona Max Stat"
+    notes: "File: GAME.DAT"
+    codes:
+      - "20000358 63636363"
+      - "0000035C 00000063"
+
+  - name: "Morgana - Exp Max"
+    notes: "File: GAME.DAT"
+    codes:
+      - "200005EC 0098967F"
+
+  - name: "Morgana - Persona Max Stat"
+    notes: "File: GAME.DAT"
+    codes:
+      - "20000600 63636363"
+      - "00000604 00000063"
+
+  - name: "Ann Takamaki - Exp Max"
+    notes: "File: GAME.DAT"
+    codes:
+      - "20000894 0098967F"
+
+  - name: "Ann Takamaki - Persona Max Stat"
+    notes: "File: GAME.DAT"
+    codes:
+      - "200008A8 63636363"
+      - "000008AC 00000063"
+
+  - name: "Yusuke Kitagawa - Exp Max"
+    notes: "File: GAME.DAT"
+    codes:
+      - "20000B3C 0098967F"
+
+  - name: "Yusuke Kitagawa - Persona Max Stat"
+    notes: "File: GAME.DAT"
+    codes:
+      - "20000B50 63636363"
+      - "00000B54 00000063"
+
+  - name: "Makoto Niijima - Exp Max"
+    notes: "File: GAME.DAT"
+    codes:
+      - "20000DE4 0098967F"
+
+  - name: "Makoto Niijima - Persona Max Stat"
+    notes: "File: GAME.DAT"
+    codes:
+      - "20000DE8 63636363"
+      - "00000DEC 00000063"
+
+  - name: "Haru Okumura - Exp Max"
+    notes: "File: GAME.DAT"
+    codes:
+      - "2000108C 0098967F"
+
+  - name: "Haru Okumura - Persona Max Stat"
+    notes: "File: GAME.DAT"
+    codes:
+      - "200010A0 63636363"
+      - "000010A4 00000063"
+
+  - name: "Futaba Sakura - Exp Max"
+    notes: "File: GAME.DAT"
+    codes:
+      - "20001334 0098967F"
+
+  - name: "Futaba Sakura - Persona Max Stat"
+    notes: "File: GAME.DAT"
+    codes:
+      - "20001338 63636363"
+      - "0000133C 00000063"
+
+  - name: "Goro Akechi - Exp Max"
+    notes: "File: GAME.DAT"
+    codes:
+      - "200015DC 0098967F"
+
+  - name: "Goro Akechi - Persona Max Stat"
+    notes: "File: GAME.DAT"
+    codes:
+      - "200015F0 63636363"
+      - "000015F4 00000063"
+
+  - name: "All Characters - Exp Max"
+    notes: "File: GAME.DAT"
+    codes:
+      - "42000344 0098967F"
+      - "400802A8 00000000"
+
+  - name: "All Characters - Persona Max Stat Other Than The Hero"
+    notes: "File: GAME.DAT"
+    codes:
+      - "42000358 63636363"
+      - "400802A8 00000000"
+      - "4000035C 00000063"
+      - "400802A8 00000000"
+
+  - name: "Knowledge Lv. 4 (just Do One To Max It)"
+    notes: "File: GAME.DAT"
+    codes:
+      - "00012513 000000BF"
+
+  - name: "Charm Lv. 4(just Do One To Max It)"
+    notes: "File: GAME.DAT"
+    codes:
+      - "00012515 00000083"
+
+  - name: "Proficiency Lv. 4(just Do One To Max It)"
+    notes: "File: GAME.DAT"
+    codes:
+      - "00012517 00000056"
+
+  - name: "Guts Lv. 4(just Do One To Max It)"
+    notes: "File: GAME.DAT"
+    codes:
+      - "00012519 00000070"
+
+  - name: "Kindness Lv. 4(just Do One To Max It)"
+    notes: "File: GAME.DAT"
+    codes:
+      - "0001251B 00000087"
+
+  - name: "Max Friendship Points For All Confidants"
+    notes: "File: GAME.DAT"
+    codes:
+      - "400122DF 000000FF"
+      - "40160010 00000000"
+
+  - name: "Futaba 249 Navi For Trophy"
+    notes: "File: GAME.DAT"
+    codes:
+      - "0001470B 000000F9"
+
+  - name: "Consumables & Materials 98 V2.0"
+    notes: "File: GAME.DAT"
+    codes:
+      - "40002253 00000062"
+      - "40100001 00000000"
+      - "40002264 00000062"
+      - "40030001 00000000"
+      - "40002269 00000062"
+      - "40070001 00000000"
+      - "40002271 00000062"
+      - "40220001 00000000"
+      - "40002294 00000062"
+      - "40030001 00000000"
+      - "4000229C 00000062"
+      - "40040001 00000000"
+      - "400022B6 00000062"
+      - "40020001 00000000"
+      - "000022B9 00000062"
+      - "400022BB 00000062"
+      - "40030001 00000000"
+      - "400022BF 00000062"
+      - "400B0001 00000000"
+      - "400022D2 00000062"
+      - "40020001 00000000"
+      - "000022E1 00000062"
+      - "400022E5 00000062"
+      - "40020001 00000000"
+      - "400022EE 00000062"
+      - "40030001 00000000"
+      - "4000230D 00000062"
+      - "40080001 00000000"
+      - "4000231A 00000062"
+      - "40070001 00000000"
+      - "40002327 00000062"
+      - "400C0001 00000000"
+      - "00002334 00000062"
+      - "40002336 00000062"
+      - "40040001 00000000"
+      - "4000233C 00000062"
+      - "400B0001 00000000"
+      - "4000234A 00000062"
+      - "40040001 00000000"
+      - "4000238A 00000062"
+      - "40030001 00000000"
+      - "4000238E 00000062"
+      - "40080001 00000000"
+      - "400023A2 00000062"
+      - "40030001 00000000"
+      - "000023A6 00000062"
+      - "400023A8 00000062"
+      - "400A0001 00000000"
+      - "400023B3 00000062"
+      - "40020001 00000000"
+      - "400023B7 00000062"
+      - "40040001 00000000"
+      - "000026BD 00000062"
+      - "400023F0 00000062"
+      - "400A0001 00000000"
+      - "400023FB 00000062"
+      - "40040001 00000000"
+      - "40002401 00000062"
+      - "40060001 00000000"
+      - "4000240B 00000062"
+      - "40090001 00000000"
+      - "00002420 00000062"
+      - "40002424 00000062"
+      - "400B0001 00000000"
+      - "4000243A 00000062"
+      - "40070001 00000000"
+      - "40002445 00000062"
+      - "40020001 00000000"
+      - "4000244B 00000062"
+      - "40050001 00000000"
+
+  - name: "Materials 98"
+    notes: "File: GAME.DAT"
+    codes:
+      - "400022BF 00000062"
+      - "400B0001 00000000"
+
+  - name: "All Skill Cards"
+    notes: "File: GAME.DAT"
+    codes:
+      - "40002953 0000005A"
+      - "40CF0001 00000000"
+      - "40002A24 0000005A"
+      - "403C0001 00000000"
+      - "40002A61 0000005A"
+      - "40260001 00000000"
+      - "40002A88 0000005A"
+      - "40080001 00000000"
+      - "40002A91 0000005A"
+      - "40100001 00000000"
+      - "40002AA2 0000005A"
+      - "40200001 00000000"
+      - "00002AD4 0000005A"
+
+  - name: "Eternal Lockpick - Open Any Treasure Chests"
+    notes: "File: GAME.DAT"
+    codes:
+      - "000023A3 00000001"
+
+  - name: "Reserve Ammo X99"
+    notes: "File: GAME.DAT"
+    codes:
+      - "000023A4 00000063"
+
+  - name: "Omnipotent Orb - Null All Except Almighty"
+    notes: "File: GAME.DAT"
+    codes:
+      - "0000213A 00000009"
+
+  - name: "Black Weapons"
+    notes: "File: GAME.DAT"
+    codes:
+      - "40002C62 00000009"
+      - "40C20001 00000000"
+      - "2000193B 00000900"
+
+  - name: "Weapons"
+    notes: "File: GAME.DAT"
+    codes:
+      - "40001854 00000002"
+      - "40180001 00000000"
+      - "1000186D 00000202"
+      - "40001870 00000002"
+      - "401D0001 00000000"
+      - "4000188E 00000002"
+      - "400A0001 00000000"
+      - "0000189B 00000002"
+      - "2000189D 02020202"
+      - "200018B1 02020202"
+      - "400018B6 00000002"
+      - "402C0001 00000000"
+      - "400018E3 00000002"
+      - "40130001 00000000"
+      - "400018F7 00000002"
+      - "40210001 00000000"
+      - "4000191B 00000002"
+      - "400D0001 00000000"
+      - "2000192A 02020202"
+      - "10001930 00000202"
+      - "00001933 00000002"
+      - "10001935 00000202"
+      - "2000193B 00020202"
+      - "0000193F 00000002"
+      - "20001941 00020202"
+      - "10001945 00020202"
+
+  - name: "Guns"
+    notes: "File: GAME.DAT"
+    codes:
+      - "40002C62 00000002"
+      - "40C20001 00000000"
+      - "40002D26 00000002"
+      - "400A0001 00000000"
+      - "40002D32 00000002"
+      - "401D0001 00000000"
+
+  - name: "Armours"
+    notes: "File: GAME.DAT"
+    codes:
+      - "40001C53 0000000A"
+      - "400A0001 00000000"
+      - "40001C5F 0000000A"
+      - "40250001 00000000"
+      - "40001C86 0000000A"
+      - "40120001 00000000"
+      - "40001C9A 0000000A"
+      - "40120001 00000000"
+      - "40001CAE 0000000A"
+      - "40120001 00000000"
+      - "40001CC2 0000000A"
+      - "40120001 00000000"
+      - "40001CD6 0000000A"
+      - "40120001 00000000"
+      - "40001CEA 0000000A"
+      - "40120001 00000000"
+      - "40001CFE 0000000A"
+      - "40120001 00000000"
+
+  - name: "All Accessories"
+    notes: "File: GAME.DAT"
+    codes:
+      - "40002053 0000000F"
+      - "40BD0001 00000000"
+      - "40002112 0000000F"
+      - "40040001 00000000"
+      - "40002118 0000000F"
+      - "403A0001 00000000"
+
+  - name: "All Costumes"
+    notes: "File: GAME.DAT"
+    codes:
+      - "40002B54 00000001"
+      - "40B40001 00000000"
+
+  - name: "100% Personas In Compendium"
+    notes: "File: GAME.DAT  (=OP Skills=) (035D Victory Cry HP/SP FULL AFTER BATTLE***) (00D7 Hassou Tobi Light Physical damage to all foes 8x. 25% HP) (02C4 Shining Arrows Light Bless damage to all foes 4x to 8x. 22 SP) (03D2 Bless Boost Strengthen (non instant death) Bless attacks by 25%.) (03D3 Bless Amp ..."
+    codes:
+      - "42003607 01000101"
+      - "41410030 00000100"
+      - "4200360E 0098967F"
+      - "41410030 00000000"
+      - "42003612 00000000"
+      - "41410030 00000000"
+      - "42003616 00000000"
+      - "41410030 00000000"
+      - "4200361A 00000000"
+      - "41410030 00000000"
+      - "4200361E 00000000"
+      - "41410030 00000000"
+      - "42003622 63636363"
+      - "41410030 00000000"
+      - "40003626 00000063"
+      - "41410030 00000000"
+
+  - name: "Hero - Persona 1 Skills 1-8"
+    notes: "File: GAME.DAT"
+    codes:
+      - "100000A0 0000[SKILLS]"
+      - "100000A2 0000[SKILLS]"
+      - "100000A4 0000[SKILLS]"
+      - "100000A6 0000[SKILLS]"
+      - "100000A8 0000[SKILLS]"
+      - "100000AA 0000[SKILLS]"
+      - "100000AC 0000[SKILLS]"
+      - "100000AE 0000[SKILLS]"
+
+  - name: "Hero - Persona 2 Skills 1-8"
+    notes: "File: GAME.DAT"
+    codes:
+      - "100000D0 0000[SKILLS]"
+      - "100000D2 0000[SKILLS]"
+      - "100000D4 0000[SKILLS]"
+      - "100000D6 0000[SKILLS]"
+      - "100000D8 0000[SKILLS]"
+      - "100000DA 0000[SKILLS]"
+      - "100000DC 0000[SKILLS]"
+      - "100000DE 0000[SKILLS]"
+
+  - name: "Hero - Persona 3 Skills 1-8"
+    notes: "File: GAME.DAT"
+    codes:
+      - "10000100 0000[SKILLS]"
+      - "10000102 0000[SKILLS]"
+      - "10000104 0000[SKILLS]"
+      - "10000106 0000[SKILLS]"
+      - "10000108 0000[SKILLS]"
+      - "1000010A 0000[SKILLS]"
+      - "1000010C 0000[SKILLS]"
+      - "1000010E 0000[SKILLS]"
+
+  - name: "Hero - Persona 4 Skills 1-8"
+    notes: "File: GAME.DAT"
+    codes:
+      - "10000140 0000[SKILLS]"
+      - "10000142 0000[SKILLS]"
+      - "10000144 0000[SKILLS]"
+      - "10000146 0000[SKILLS]"
+      - "10000148 0000[SKILLS]"
+      - "1000014A 0000[SKILLS]"
+      - "1000014C 0000[SKILLS]"
+      - "1000014E 0000[SKILLS]"
+
+  - name: "Hero - Persona 5 Skills 1-8"
+    notes: "File: GAME.DAT"
+    codes:
+      - "10000170 0000[SKILLS]"
+      - "10000172 0000[SKILLS]"
+      - "10000174 0000[SKILLS]"
+      - "10000176 0000[SKILLS]"
+      - "10000178 0000[SKILLS]"
+      - "1000017A 0000[SKILLS]"
+      - "1000017C 0000[SKILLS]"
+      - "1000017E 0000[SKILLS]"
+
+  - name: "Hero - Persona 6 Skills 1-8"
+    notes: "File: GAME.DAT"
+    codes:
+      - "100001A0 0000[SKILLS]"
+      - "100001A2 0000[SKILLS]"
+      - "100001A4 0000[SKILLS]"
+      - "100001A6 0000[SKILLS]"
+      - "100001A8 0000[SKILLS]"
+      - "100001AA 0000[SKILLS]"
+      - "100001AC 0000[SKILLS]"
+      - "100001AE 0000[SKILLS]"
+
+  - name: "Ryuji Sakamoto - Skills 1-8"
+    notes: "File: GAME.DAT"
+    codes:
+      - "10000348 0000[SKILLS]"
+      - "1000034A 0000[SKILLS]"
+      - "1000034C 0000[SKILLS]"
+      - "1000034E 0000[SKILLS]"
+      - "10000350 0000[SKILLS]"
+      - "10000352 0000[SKILLS]"
+      - "10000354 0000[SKILLS]"
+      - "10000356 0000[SKILLS]"
+
+  - name: "Morgana - Skills 1-8"
+    notes: "File: GAME.DAT"
+    codes:
+      - "100005F0 0000[SKILLS]"
+      - "100005F2 0000[SKILLS]"
+      - "100005F4 0000[SKILLS]"
+      - "100005F6 0000[SKILLS]"
+      - "100005F8 0000[SKILLS]"
+      - "100005FA 0000[SKILLS]"
+      - "100005FC 0000[SKILLS]"
+      - "100005FE 0000[SKILLS]"
+
+  - name: "Ann Takamaki - Skills 1-8"
+    notes: "File: GAME.DAT"
+    codes:
+      - "10000898 0000[SKILLS]"
+      - "1000089A 0000[SKILLS]"
+      - "1000089C 0000[SKILLS]"
+      - "1000089E 0000[SKILLS]"
+      - "100008A0 0000[SKILLS]"
+      - "100008A2 0000[SKILLS]"
+      - "100008A4 0000[SKILLS]"
+      - "100008A6 0000[SKILLS]"
+
+  - name: "Yusuke Kitagawa - Skills 1-8"
+    notes: "File: GAME.DAT"
+    codes:
+      - "10000B40 0000[SKILLS]"
+      - "10000B42 0000[SKILLS]"
+      - "10000B44 0000[SKILLS]"
+      - "10000B46 0000[SKILLS]"
+      - "10000B48 0000[SKILLS]"
+      - "10000B4A 0000[SKILLS]"
+      - "10000B4C 0000[SKILLS]"
+      - "10000B4E 0000[SKILLS]"
+
+  - name: "Makoto Niijima - Skill 1-8"
+    notes: "File: GAME.DAT"
+    codes:
+      - "10000DE8 0000[SKILLS]"
+      - "10000DEA 0000[SKILLS]"
+      - "10000DEC 0000[SKILLS]"
+      - "10000DEE 0000[SKILLS]"
+      - "10000DF0 0000[SKILLS]"
+      - "10000DF2 0000[SKILLS]"
+      - "10000DF4 0000[SKILLS]"
+      - "10000DF6 0000[SKILLS]"
+
+  - name: "Haru Okumura Skills 1-8"
+    notes: "File: GAME.DAT"
+    codes:
+      - "10001090 0000[SKILLS]"
+      - "10001092 0000[SKILLS]"
+      - "10001094 0000[SKILLS]"
+      - "10001096 0000[SKILLS]"
+      - "10001098 0000[SKILLS]"
+      - "1000109A 0000[SKILLS]"
+      - "1000109C 0000[SKILLS]"
+      - "1000109E 0000[SKILLS]"
+
+  - name: "Futaba Sakura - Skills 1-8"
+    notes: "File: GAME.DAT"
+    codes:
+      - "10001338 0000[SKILLS]"
+      - "1000133A 0000[SKILLS]"
+      - "1000133C 0000[SKILLS]"
+      - "1000133E 0000[SKILLS]"
+      - "10001340 0000[SKILLS]"
+      - "10001342 0000[SKILLS]"
+      - "10001344 0000[SKILLS]"
+      - "10001346 0000[SKILLS]"
+
+  - name: "Goro Akechi - Skills 1-8"
+    notes: "File: GAME.DAT"
+    codes:
+      - "100015E0 0000[SKILLS]"
+      - "100015E2 0000[SKILLS]"
+      - "100015E4 0000[SKILLS]"
+      - "100015E6 0000[SKILLS]"
+      - "100015E8 0000[SKILLS]"
+      - "100015EA 0000[SKILLS]"
+      - "100015EC 0000[SKILLS]"
+      - "100015EE 0000[SKILLS]"
+
+  - name: "Hero Persona Slot 1-6"
+    notes: "File: GAME.DAT"
+    codes:
+      - "10000096 0000[ID]"
+      - "100000C6 0000[ID]"
+      - "100000F6 0000[ID]"
+      - "10000126 0000[ID]"
+      - "10000156 0000[ID]"
+      - "10000186 0000[ID]"

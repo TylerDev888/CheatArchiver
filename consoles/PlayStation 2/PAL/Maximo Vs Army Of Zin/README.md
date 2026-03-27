@@ -1,0 +1,304 @@
+# Maximo Vs Army Of Zin
+
+**Console:** PlayStation 2  
+**Region:** PAL  
+**Cheat Type:** Xploder  
+
+---
+
+## Cheats
+
+### Mastercode
+**Author:** Xploder  
+**Notes:** [Masters]
+
+```
+9012DA24 0C04B7AA
+200C20B8 03E00008
+200C20BC A2040063
+200C20C0 27BDFFF0
+200C20C4 AFA40000
+200C20C8 AFBF0004
+200C20CC 0C0495CC
+200C20D0 24900010
+200C20D4 0C030804
+200C20D8 24040004
+200C20DC 8FBF0004
+200C20E0 8FA40000
+200C20E4 03E00008
+200C20E8 27BD0010
+20167484 0C030804
+201534D8 0C030830
+```
+
+---
+
+### Health
+**Author:** Xploder  
+**Notes:** [Unlimited]
+
+```
+200C2000 240103E8
+200C2004 ACC10008
+200C2008 03E00008
+200C200C 8C750014
+20142268 0C030800
+```
+
+---
+
+### Super Meter
+**Author:** Xploder  
+**Notes:** [Unlimited]
+
+```
+20141B28 8F8183D8
+20141B30 24050780
+20141B3C AC25003C
+```
+
+---
+
+### Grim Meter
+**Author:** Xploder  
+**Notes:** [Unlimited]
+
+```
+201415A0 24030029
+201415A8 AC430000
+```
+
+---
+
+### Double Jumps
+**Author:** Xploder  
+**Notes:** [Unlimited]
+
+```
+2015FCC0 24020001
+201653D0 24030001
+```
+
+---
+
+### Gold Key Use
+**Author:** Xploder  
+**Notes:** [Unlimited]
+
+```
+2016668C 0805935C
+```
+
+---
+
+### 99 Hit Count
+**Author:** Xploder  
+**Notes:** [Unlimited]
+
+```
+20167880 24700063
+```
+
+---
+
+### Maximum Koin, Death Coins, Keys & Spirit
+**Author:** Xploder  
+**Notes:** [View Inventory For]
+
+```
+200C2200 240103E7
+200C2204 AC610000
+200C2208 00011821
+200C220C 03E00008
+200C2210 00628023
+20143934 0C030880
+20143938 00000000
+```
+
+---
+
+### All Swords
+**Author:** Xploder  
+**Notes:** [Have]
+
+```
+200C2010 24010001
+200C2014 A201005C
+```
+
+---
+
+### All Shields
+**Author:** Xploder  
+**Notes:** [Have]
+
+```
+200C2040 24010005
+200C2044 A2010064
+200C2048 24010006
+200C204C A2010065
+```
+
+---
+
+### All Hammers
+**Author:** Xploder  
+**Notes:** [Have]
+
+```
+200C2060 24010002
+200C2064 A201006B
+200C2068 24010003
+200C206C A201006C
+```
+
+---
+
+### All Boxers
+**Author:** Xploder  
+**Notes:** [Have]
+
+```
+200C2098 24010016
+200C209C A2010074
+200C20A0 24010017
+200C20A4 A2010075
+200C20A8 24010018
+200C20AC A2010076
+200C20B0 24010019
+200C20B4 A2010077
+```
+
+---
+
+### Mighty Blow
+**Author:** Xploder  
+**Notes:** [Have Ability]
+
+```
+200C2018 24010008
+200C201C A201005D
+```
+
+---
+
+### Piercing Blow
+**Author:** Xploder  
+**Notes:** [Have Ability]
+
+```
+200C2020 24010009
+200C2024 A201005E
+```
+
+---
+
+### Whirling Blades
+**Author:** Xploder  
+**Notes:** [Have Ability]
+
+```
+200C2028 24010007
+200C202C A201005F
+```
+
+---
+
+### Ring Of Pain
+**Author:** Xploder  
+**Notes:** [Have Ability]
+
+```
+200C2030 2401000A
+200C2034 A2010060
+```
+
+---
+
+### Fire Doomstrike
+**Author:** Xploder  
+**Notes:** [Have Ability]
+
+```
+200C2038 2401000B
+200C203C A2010061
+```
+
+---
+
+### Mighty Throw
+**Author:** Xploder  
+**Notes:** [Have Ability]
+
+```
+200C2050 24010011
+200C2054 A2010066
+```
+
+---
+
+### Ricochet
+**Author:** Xploder  
+**Notes:** [Have Ability]
+
+```
+200C2058 24010014
+200C205C A2010067
+```
+
+---
+
+### Mighty Drill
+**Author:** Xploder  
+**Notes:** [Have Ability]
+
+```
+200C2070 2401000D
+200C2074 A201006D
+```
+
+---
+
+### Punishing Drill
+**Author:** Xploder  
+**Notes:** [Have Ability]
+
+```
+200C2078 2401000E
+200C207C A201006E
+```
+
+---
+
+### Crushing Spin
+**Author:** Xploder  
+**Notes:** [Have Ability]
+
+```
+200C2080 2401000C
+200C2084 A201006F
+```
+
+---
+
+### Quake Shot
+**Author:** Xploder  
+**Notes:** [Have Ability]
+
+```
+200C2088 2401000F
+200C208C A2010070
+```
+
+---
+
+### Ice Doomstrike
+**Author:** Xploder  
+**Notes:** [Have Ability]
+
+```
+200C2090 24010010
+200C2094 A2010071
+```
+
+---

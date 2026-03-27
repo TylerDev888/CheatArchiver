@@ -1,0 +1,76 @@
+# DT Racer cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21095
+
+game: "DT Racer"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21095"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "90208408 0C089777"
+
+  - name: "Always Low Lap Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201BED74 00000000"
+
+  - name: "Always Low Total Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201BED6C 00000000"
+
+  - name: "Infinite Fuel"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2012FF6C 00000000"
+
+  - name: "No Car Damage"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2016D040 00000000"
+
+  - name: "P1 Press L1+Select To Stop Total Timer"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D02C2FC2 0000FBFE"
+      - "201BED6C 00000000"
+
+  - name: "P1 Press L2+Select To Restart Total Timer"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D02C2FC2 0000FEFE"
+      - "201BED6C E6010048"
+
+  - name: "P1 Press R1+Select To Stop Total Timer"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D02C2FC2 0000F7FE"
+      - "201BED74 00000000"
+
+  - name: "P1 Press R2+Select To Restart Total Timer"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D02C2FC2 0000FDFE"
+      - "201BED74 E6000044"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90208408 0C089777"

@@ -1,0 +1,36 @@
+# FateExtella_ The Umbral Star cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA03274
+
+game: "FateExtella_ The Umbral Star"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA03274"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Max Bond Level For All Characters"
+    author: "Zeraf3000"
+    notes: "File: FESAVSYSTEM.bin\\FESAVSYSTEM.bin"
+    codes:
+      - "420115D0 0000001E"
+      - "401F0104 00000000"
+      - "420115D4 000004C1"
+      - "401F0104 00000000"
+
+  - name: "Max Upgrade Parts"
+    author: "Zeraf3000"
+    notes: "File: FESAVSYSTEM.bin\\FESAVSYSTEM.bin"
+    codes:
+      - "20009398 0000270F"
+      - "2000939C 0000270F"
+      - "200093A0 0000270F"
+
+  - name: "Super Level For Skills In Inventory"
+    author: "Zeraf3000"
+    notes: "File: FESAVSYSTEM.bin\\FESAVSYSTEM.bin"
+    codes:
+      - "410093AC 00000063"
+      - "405C0010 00000000"

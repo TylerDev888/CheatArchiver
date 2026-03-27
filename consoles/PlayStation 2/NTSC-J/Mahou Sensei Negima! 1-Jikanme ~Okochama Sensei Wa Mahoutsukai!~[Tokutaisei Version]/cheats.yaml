@@ -1,0 +1,57 @@
+# Mahou Sensei Negima! 1-Jikanme ~Okochama Sensei Wa Mahoutsukai!~[Tokutaisei Version] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65871
+
+game: "Mahou Sensei Negima! 1-Jikanme ~Okochama Sensei Wa Mahoutsukai!~[Tokutaisei Version]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65871"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90108250 0C04203C"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "901DF5C0 0C04698A"
+
+  - name: "Enable Debug Info"
+    author: "punk7890"
+    codes:
+      - "2027FE8C 00000001"
+
+  - name: "Enable Debug Menus [View Note]"
+    author: "punk7890"
+    codes:
+      - "D03403DC 0000DBFF"
+      - "00236F68 00000026"
+      - "D03403DC 0000DBFF"
+      - "10236F70 00003C90"
+      - "D03403DC 0000DEFF"
+      - "00236F68 00000026"
+      - "D03403DC 0000DEFF"
+      - "10236F70 00003D00"
+      - "D03403DC 0000FFFF"
+      - "00236F68 00000027"
+      - "D03403DC 0000FFFF"
+      - "10236F70 0000DB20"
+
+  - name: "Unlock All Gallery"
+    author: "punk7890"
+    codes:
+      - "4033A7D0 00400001"
+      - "01010101 00000000"
+      - "0033A8D0 00000001"
+      - "1033A8DE 00000101"
+      - "4033A8E0 00060001"
+      - "01010101 00000000"
+      - "1033A8F8 00000101"
+      - "0033A8FA 00000001"

@@ -1,0 +1,45 @@
+# Castle Shikigami 2 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53518
+
+game: "Castle Shikigami 2"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53518"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "901F8DAC 0C083326"
+
+  - name: "Infinite Credits"
+    author: "MadCatz"
+    codes:
+      - "202A3010 00000063"
+
+  - name: "Infinite Time"
+    author: "MadCatz"
+    codes:
+      - "20154474 24420000"
+
+  - name: "Max Score"
+    author: "MadCatz"
+    codes:
+      - "202C0950 05F5E0FF"
+
+  - name: "Infinite Bombs"
+    author: "MadCatz"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "202C083A 00000063"
+
+  - name: "Infinite Life"
+    author: "MadCatz"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "202C0824 00000003"

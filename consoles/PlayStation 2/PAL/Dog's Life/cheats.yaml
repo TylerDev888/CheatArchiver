@@ -1,0 +1,79 @@
+# Dog's Life cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-51248
+
+game: "Dog's Life"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-51248"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F032CF74 000001FD"
+
+  - name: "Character Model Parameters"
+    author: "Codejunkies"
+    notes: "[Debug Codes]"
+    codes:
+      - "20791830 00000001"
+
+  - name: "Display Actors Name"
+    author: "Codejunkies"
+    notes: "[Debug Codes]"
+    codes:
+      - "20791824 00000001"
+
+  - name: "Display Centre Of Entity"
+    author: "Codejunkies"
+    notes: "[Debug Codes]"
+    codes:
+      - "2079182C 00000001"
+
+  - name: "Display Front & Rear Entity"
+    author: "Codejunkies"
+    notes: "[Debug Codes]"
+    codes:
+      - "20791828 00000001"
+
+  - name: "Edge Of Movement Spheres"
+    author: "Codejunkies"
+    notes: "[Debug Codes]"
+    codes:
+      - "20791820 00000001"
+
+  - name: "Hyper Mode (Press R3)"
+    author: "Codejunkies"
+    codes:
+      - "D0494482 0000FFFB"
+      - "20791504 40000000"
+
+  - name: "Normal Speed (Press L3+R3)"
+    author: "Codejunkies"
+    codes:
+      - "D0494482 0000FFFA"
+      - "20791504 3F800000"
+
+  - name: "Slow Motion (Press L3)"
+    author: "Codejunkies"
+    codes:
+      - "D0494482 0000FFFD"
+      - "20791504 3E000000"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0032D4B7"
+
+  - name: "One Smell For 99"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "201DCD1C 34050063"
+      - "201DCD20 AE050020"

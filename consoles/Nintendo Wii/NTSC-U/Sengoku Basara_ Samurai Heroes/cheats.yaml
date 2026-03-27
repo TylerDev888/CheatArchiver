@@ -1,0 +1,56 @@
+# Sengoku Basara_ Samurai Heroes cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  SB3E08
+
+game: "Sengoku Basara_ Samurai Heroes"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "SB3E08"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Player 1 - WII Remote + Nunchuck"
+    notes: "[Jokers]"
+    codes:
+      - "808A7D82 0000[Joker:Wii]"
+
+  - name: "Player 1 - Classic Controller"
+    notes: "[Jokers]"
+    codes:
+      - "808A7DE2 0000[Joker:ALL]"
+
+  - name: "Unlock Materials + All 99"
+    author: "Skiller"
+    codes:
+      - "051FD598 FFFFFFFF"
+      - "051FD59C FFFFFFFF"
+      - "051FD5A0 FFFFFFFF"
+      - "091FD4E4 00630063"
+      - "202C0004 00000000"
+
+  - name: "Max Money (z)"
+    author: "Skiller"
+    notes: "[Kill Enemy Codes Activate]"
+    codes:
+      - "040DB290 48000008"
+
+  - name: "Max EXP"
+    author: "Skiller"
+    notes: "[Kill Enemy Codes Activate]"
+    codes:
+      - "040EE1D8 7C040378"
+
+  - name: "Hits Max"
+    author: "Skiller"
+    notes: "[Kill Enemy Codes Activate]"
+    codes:
+      - "040EDF40 901F03A4"
+
+  - name: "Max Kills"
+    author: "Skiller"
+    notes: "[Kill Enemy Codes Activate]"
+    codes:
+      - "043D8740 40810004"
+      - "043D875C 40810004"

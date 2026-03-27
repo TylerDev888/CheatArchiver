@@ -1,0 +1,39 @@
+# DisneyPixar's Toy Story 3 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-55622
+
+game: "DisneyPixar's Toy Story 3"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-55622"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Go Through Objects And Walls"
+    author: "luc-ita"
+    codes:
+      - "20512E40 03E00008"
+      - "20512E44 00000000"
+
+  - name: "Jump And Walk In Mid-Air"
+    author: "luc-ita"
+    codes:
+      - "D0B09E94 00000001"
+      - "2049864C FC890068"
+      - "D0B09E94 00000008"
+      - "2049864C FC890068"
+      - "D0B09E94 00002004"
+      - "2049864C 00000000"
+
+  - name: "Unlock Content With Any Amount Of Money"
+    author: "luc-ita"
+    codes:
+      - "20345084 00000000"
+      - "202D69B8 00000000"
+
+  - name: "You Can Activate Or Deactivate Any Cheat, Even If It Has Not Been Unlocked"
+    author: "luc-ita"
+    codes:
+      - "2065A0A4 00000000"

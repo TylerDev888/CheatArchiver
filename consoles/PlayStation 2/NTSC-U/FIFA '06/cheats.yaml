@@ -1,0 +1,930 @@
+# FIFA '06 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21280
+
+game: "FIFA '06"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21280"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F061FE24 0061FE27"
+      - "2035F760 52504F49"
+      - "2035F764 30303350"
+      - "2035F768 474D492E"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "905D0DB0 00832021"
+
+  - name: "Away Team Scores 0"
+    author: "Codejunkies"
+    codes:
+      - "10890D84 00000000"
+
+  - name: "Away Team Scores 10"
+    author: "Codejunkies"
+    codes:
+      - "10890D84 0000000A"
+
+  - name: "Away Team Scores 50"
+    author: "Codejunkies"
+    codes:
+      - "10890D84 00000032"
+
+  - name: "Away Team Starts With 2"
+    author: "Codejunkies"
+    codes:
+      - "D0890D84 00000000"
+      - "10890D84 00000002"
+
+  - name: "Away Team Starts With 5"
+    author: "Codejunkies"
+    codes:
+      - "D0890D84 00000000"
+      - "10890D84 00000005"
+
+  - name: "Away Team Starts With 10"
+    author: "Codejunkies"
+    codes:
+      - "D0890D84 00000000"
+      - "10890D84 0000000A"
+
+  - name: "Max Bookings"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "2080A74C 00000063"
+
+  - name: "Max Corners"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "2080A72C 00000063"
+
+  - name: "Max Fouls"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "2080A748 00000063"
+
+  - name: "Max Offsides"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "2080A730 00000063"
+
+  - name: "Max Shots On Target"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "2080A738 00000063"
+
+  - name: "Max Tackles"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "2080A758 00000063"
+
+  - name: "Max Total Shots"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "2080A734 00000063"
+
+  - name: "No Bookings"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "2080A74C 00000000"
+
+  - name: "No Corners"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "2080A72C 00000000"
+
+  - name: "No Fouls"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "2080A748 00000000"
+
+  - name: "No Offsides"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "2080A730 00000000"
+
+  - name: "No Shots On Target"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "2080A738 00000000"
+
+  - name: "No Tackles"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "2080A758 00000000"
+
+  - name: "No Total Shots"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "2080A734 00000000"
+
+  - name: "Buying Items Doesn't Decrease Points"
+    author: "Code Master"
+    notes: "[Fan Shop Codes]"
+    codes:
+      - "20241D90 00000000"
+
+  - name: "Buying Items Increases Points"
+    author: "Code Master"
+    notes: "[Fan Shop Codes]"
+    codes:
+      - "20241D88 00461021"
+
+  - name: "Infinite Points"
+    author: "Code Master"
+    notes: "[Fan Shop Codes]"
+    codes:
+      - "10765DFC 0000FFFF"
+
+  - name: "Max Points"
+    author: "Code Master"
+    notes: "[Fan Shop Codes]"
+    codes:
+      - "20765DFC 05F5E0FF"
+
+  - name: "Home Team Scores 0"
+    author: "Codejunkies"
+    codes:
+      - "1088AE80 00000000"
+
+  - name: "Home Team Scores 10"
+    author: "Codejunkies"
+    codes:
+      - "1088AE80 0000000A"
+
+  - name: "Home Team Scores 50"
+    author: "Codejunkies"
+    codes:
+      - "1088AE80 00000032"
+
+  - name: "Home Team Starts With 2"
+    author: "Codejunkies"
+    codes:
+      - "D088AE80 00000000"
+      - "1088AE80 00000002"
+
+  - name: "Home Team Starts With 5"
+    author: "Codejunkies"
+    codes:
+      - "D088AE80 00000000"
+      - "1088AE80 00000005"
+
+  - name: "Home Team Starts With 10"
+    author: "Codejunkies"
+    codes:
+      - "D088AE80 00000000"
+      - "1088AE80 0000000A"
+
+  - name: "Infinite Points-Fan Shop"
+    author: "Codejunkies"
+    codes:
+      - "2022FF88 24026F00"
+
+  - name: "Buying Staff Upgrades Doesn't Decrease Budget"
+    author: "Code Master"
+    notes: "[Manager Mode Codes]"
+    codes:
+      - "20165D48 00000000"
+
+  - name: "Max Available Budget"
+    author: "Code Master"
+    notes: "[Manager Mode Codes]"
+    codes:
+      - "20E03910 4CBEBC20"
+
+  - name: "Press L1+L2 For Away Wins"
+    author: "Codejunkies"
+    codes:
+      - "D08C80C2 0000FAFF"
+      - "10890D84 00000032"
+      - "D08C80C2 0000FAFF"
+      - "1088AE80 00000000"
+
+  - name: "Press R1+R2 For Home Wins"
+    author: "Codejunkies"
+    codes:
+      - "D08C80C2 0000F5FF"
+      - "10890D84 00000000"
+      - "D08C80C2 0000F5FF"
+      - "1088AE80 00000032"
+
+  - name: "All Goal's Score For Away Team"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "9065B564 6B85A15A"
+
+  - name: "All Goal's Score For Home Team"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2032A4E4 24030000"
+
+  - name: "Always Display Debug Info"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20142A70 24040001"
+
+  - name: "Away Team Scores 20"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2080A73C 00000014"
+
+  - name: "Away Team Starts With 20"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D080A73C 00000000"
+      - "2080A73C 00000014"
+
+  - name: "Away Team Starts With 50"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D080A73C 00000000"
+      - "2080A73C 00000032"
+
+  - name: "Goal's Score 2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "1032A4F4 00000002"
+
+  - name: "Goal's Score 5"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "1032A4F4 00000005"
+
+  - name: "Goal's Score 10"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "1032A4F4 0000000A"
+
+  - name: "Home Team Scores 20"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2080555C 00000014"
+
+  - name: "Home Team Starts With 20"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D080555C 00000000"
+      - "2080555C 00000014"
+
+  - name: "Home Team Starts With 50"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D080555C 00000000"
+      - "2080555C 00000032"
+
+  - name: "P1 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D0840FC2 0000FAFF"
+      - "1081EA30 00000000"
+
+  - name: "P1 Press L1+Select To Display Debug Info"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D0840FC2 0000FBFE"
+      - "20142A70 24040001"
+
+  - name: "P1 Press L2+Select To Hide Debug Info"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D0840FC2 0000FEFE"
+      - "20142A70 24040000"
+
+  - name: "P1 Press R1+R2 To End Half"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D0840FC2 0000F5FF"
+      - "1081EA30 00000170"
+
+  - name: "P2 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D08410C2 0000FAFF"
+      - "1081EA30 00000000"
+
+  - name: "P2 Press R1+R2 To End Half"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D08410C2 0000F5FF"
+      - "1081EA30 00000170"
+
+  - name: "P3 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D08411C2 0000FAFF"
+      - "1081EA30 00000000"
+
+  - name: "P3 Press R1+R2 To End Half"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D08411C2 0000F5FF"
+      - "1081EA30 00000170"
+
+  - name: "P4 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D08412C2 0000FAFF"
+      - "1081EA30 00000000"
+
+  - name: "P4 Press R1+R2 To End Half"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D08412C2 0000F5FF"
+      - "1081EA30 00000170"
+
+  - name: "P5 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D08413C2 0000FAFF"
+      - "1081EA30 00000000"
+
+  - name: "P5 Press R1+R2 To End Half"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D08413C2 0000F5FF"
+      - "1081EA30 00000170"
+
+  - name: "P6 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D08414C2 0000FAFF"
+      - "1081EA30 00000000"
+
+  - name: "P6 Press R1+R2 To End Half"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D08414C2 0000F5FF"
+      - "1081EA30 00000170"
+
+  - name: "P7 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D08415C2 0000FAFF"
+      - "1081EA30 00000000"
+
+  - name: "P7 Press R1+R2 To End Half"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D08415C2 0000F5FF"
+      - "1081EA30 00000170"
+
+  - name: "P8 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D08416C2 0000FAFF"
+      - "1081EA30 00000000"
+
+  - name: "P8 Press R1+R2 To End Half"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D08416C2 0000F5FF"
+      - "1081EA30 00000170"
+
+  - name: "AC Milan"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765BF4 00000001"
+
+  - name: "Ajax"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C04 00000001"
+
+  - name: "All 3Rd Kits"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "40765BF0 001D0001"
+      - "00000001 00000000"
+
+  - name: "Arsenal"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C2C 00000001"
+
+  - name: "Borussia Dortmund"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C10 00000001"
+
+  - name: "Celtic"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C24 00000001"
+
+  - name: "Chelsea"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C50 00000001"
+
+  - name: "Chievo Verona"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C44 00000001"
+
+  - name: "Everton"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C54 00000001"
+
+  - name: "F.C. Porto"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C18 00000001"
+
+  - name: "FC Barcelona"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C28 00000001"
+
+  - name: "FC Schalke 04"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765BF0 00000001"
+
+  - name: "Getafe"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C60 00000001"
+
+  - name: "Inter Milan"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C08 00000001"
+
+  - name: "Juventus"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C0C 00000001"
+
+  - name: "KRC Genk"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C3C 00000001"
+
+  - name: "Manchester City"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C58 00000001"
+
+  - name: "Manchester United"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C20 00000001"
+
+  - name: "Marseille"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765BF8 00000001"
+
+  - name: "Newcastle United"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765BFC 00000001"
+
+  - name: "Palermo"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C48 00000001"
+
+  - name: "Paris Saint-Germain"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C1C 00000001"
+
+  - name: "Rangers"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C4C 00000001"
+
+  - name: "Real Betis"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C40 00000001"
+
+  - name: "Real Madrid"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C00 00000001"
+
+  - name: "Sampdoria"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C38 00000001"
+
+  - name: "SC Freiburg"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C5C 00000001"
+
+  - name: "Tottenham Hotspur"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C34 00000001"
+
+  - name: "Valencia"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C14 00000001"
+
+  - name: "Wigan Athletic"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kits Codes]"
+    codes:
+      - "20765C30 00000001"
+
+  - name: "Abedi Pele"
+    author: "Code Master"
+    notes: "[Unlock Classic Player Bios Codes]"
+    codes:
+      - "20765BB0 00000001"
+
+  - name: "All Classic Player Bios"
+    author: "Code Master"
+    notes: "[Unlock Classic Player Bios Codes]"
+    codes:
+      - "40765B68 00160001"
+      - "00000001 00000000"
+
+  - name: "Amancio"
+    author: "Code Master"
+    notes: "[Unlock Classic Player Bios Codes]"
+    codes:
+      - "20765B68 00000001"
+
+  - name: "Andrew Brehme"
+    author: "Code Master"
+    notes: "[Unlock Classic Player Bios Codes]"
+    codes:
+      - "20765B70 00000001"
+
+  - name: "Bruno Conti"
+    author: "Code Master"
+    notes: "[Unlock Classic Player Bios Codes]"
+    codes:
+      - "20765BAC 00000001"
+
+  - name: "Carlos Alberto"
+    author: "Code Master"
+    notes: "[Unlock Classic Player Bios Codes]"
+    codes:
+      - "20765BA4 00000001"
+
+  - name: "Eric Cantona"
+    author: "Code Master"
+    notes: "[Unlock Classic Player Bios Codes]"
+    codes:
+      - "20765BA8 00000001"
+
+  - name: "Franco Baresi"
+    author: "Code Master"
+    notes: "[Unlock Classic Player Bios Codes]"
+    codes:
+      - "90259AD8 017D9A14"
+
+  - name: "Franz Beckenbauer"
+    author: "Code Master"
+    notes: "[Unlock Classic Player Bios Codes]"
+    codes:
+      - "20765BBC 00000001"
+
+  - name: "Gheorghe Hagi"
+    author: "Code Master"
+    notes: "[Unlock Classic Player Bios Codes]"
+    codes:
+      - "20765B80 00000001"
+
+  - name: "Giacinto Facchetti"
+    author: "Code Master"
+    notes: "[Unlock Classic Player Bios Codes]"
+    codes:
+      - "20765B74 00000001"
+
+  - name: "Gianni Rivera"
+    author: "Code Master"
+    notes: "[Unlock Classic Player Bios Codes]"
+    codes:
+      - "20765B9C 00000001"
+
+  - name: "Hans Krankl"
+    author: "Code Master"
+    notes: "[Unlock Classic Player Bios Codes]"
+    codes:
+      - "20765B88 00000001"
+
+  - name: "Hugo Sanchez"
+    author: "Code Master"
+    notes: "[Unlock Classic Player Bios Codes]"
+    codes:
+      - "20765B84 00000001"
+
+  - name: "Jean-Pierre Papin"
+    author: "Code Master"
+    notes: "[Unlock Classic Player Bios Codes]"
+    codes:
+      - "9125BCBA 6F4A8301"
+
+  - name: "Leonardo"
+    author: "Code Master"
+    notes: "[Unlock Classic Player Bios Codes]"
+    codes:
+      - "20765B7C 00000001"
+
+  - name: "Marius Tresor"
+    author: "Code Master"
+    notes: "[Unlock Classic Player Bios Codes]"
+    codes:
+      - "20765B78 00000001"
+
+  - name: "Ronald Koeman"
+    author: "Code Master"
+    notes: "[Unlock Classic Player Bios Codes]"
+    codes:
+      - "20765BB8 00000001"
+
+  - name: "Rudi Voller"
+    author: "Code Master"
+    notes: "[Unlock Classic Player Bios Codes]"
+    codes:
+      - "20765B8C 00000001"
+
+  - name: "Thomas Ravelli"
+    author: "Code Master"
+    notes: "[Unlock Classic Player Bios Codes]"
+    codes:
+      - "20765B90 00000001"
+
+  - name: "Wynton Rufer"
+    author: "Code Master"
+    notes: "[Unlock Classic Player Bios Codes]"
+    codes:
+      - "20765BB4 00000001"
+
+  - name: "Zbigniew Boniek"
+    author: "Code Master"
+    notes: "[Unlock Classic Player Bios Codes]"
+    codes:
+      - "20765B6C 00000001"
+
+  - name: "Zico"
+    author: "Code Master"
+    notes: "[Unlock Classic Player Bios Codes]"
+    codes:
+      - "20765B94 00000001"
+
+  - name: "Player Celebrations Pack 1"
+    author: "Code Master"
+    notes: "[Unlock Creation Control Codes]"
+    codes:
+      - "20765C64 00000001"
+
+  - name: "Player Celebrations Pack 2"
+    author: "Code Master"
+    notes: "[Unlock Creation Control Codes]"
+    codes:
+      - "20765C68 00000001"
+
+  - name: "All Extras"
+    author: "Code Master"
+    notes: "[Unlock Extras Codes]"
+    codes:
+      - "40765BC0 00030001"
+      - "00000001 00000000"
+      - "40765C7C 00020001"
+      - "00000001 00000000"
+
+  - name: "Career Teams"
+    author: "Code Master"
+    notes: "[Unlock Extras Codes]"
+    codes:
+      - "20765BC8 00000001"
+
+  - name: "Classic XI Team"
+    author: "Code Master"
+    notes: "[Unlock Extras Codes]"
+    codes:
+      - "20765BC4 00000001"
+
+  - name: "Funny SFX"
+    author: "Code Master"
+    notes: "[Unlock Extras Codes]"
+    codes:
+      - "20765C7C 00000001"
+
+  - name: "Overhead Camera"
+    author: "Code Master"
+    notes: "[Unlock Extras Codes]"
+    codes:
+      - "20765C80 00000001"
+
+  - name: "World XI Team"
+    author: "Code Master"
+    notes: "[Unlock Extras Codes]"
+    codes:
+      - "20765BC0 00000001"
+
+  - name: "All Footballs"
+    author: "Code Master"
+    notes: "[Unlock Footballs Codes]"
+    codes:
+      - "40765BCC 00090001"
+      - "00000001 00000000"
+
+  - name: "Generic Blue"
+    author: "Code Master"
+    notes: "[Unlock Footballs Codes]"
+    codes:
+      - "20765BEC 00000001"
+
+  - name: "Generic Brown"
+    author: "Code Master"
+    notes: "[Unlock Footballs Codes]"
+    codes:
+      - "20765BD4 00000001"
+
+  - name: "Generic Gold"
+    author: "Code Master"
+    notes: "[Unlock Footballs Codes]"
+    codes:
+      - "20765BDC 00000001"
+
+  - name: "Generic Grey"
+    author: "Code Master"
+    notes: "[Unlock Footballs Codes]"
+    codes:
+      - "20765BE8 00000001"
+
+  - name: "Generic Orange"
+    author: "Code Master"
+    notes: "[Unlock Footballs Codes]"
+    codes:
+      - "20765BD8 00000001"
+
+  - name: "Generic Silver"
+    author: "Code Master"
+    notes: "[Unlock Footballs Codes]"
+    codes:
+      - "20765BE4 00000001"
+
+  - name: "Generic Yellow"
+    author: "Code Master"
+    notes: "[Unlock Footballs Codes]"
+    codes:
+      - "20765BCC 00000001"
+
+  - name: "Gneric Red"
+    author: "Code Master"
+    notes: "[Unlock Footballs Codes]"
+    codes:
+      - "20765BE0 00000001"
+
+  - name: "Traditional"
+    author: "Code Master"
+    notes: "[Unlock Footballs Codes]"
+    codes:
+      - "20765BD0 00000001"
+
+  - name: "All Practice Stadiums"
+    author: "Code Master"
+    notes: "[Unlock Practice Stadium Codes]"
+    codes:
+      - "40765C6C 00040001"
+      - "00000001 00000000"
+
+  - name: "Stadium Pack 1"
+    author: "Code Master"
+    notes: "[Unlock Practice Stadium Codes]"
+    codes:
+      - "20765C6C 00000001"
+
+  - name: "Stadium Pack 2"
+    author: "Code Master"
+    notes: "[Unlock Practice Stadium Codes]"
+    codes:
+      - "20765C70 00000001"
+
+  - name: "Stadium Pack 3"
+    author: "Code Master"
+    notes: "[Unlock Practice Stadium Codes]"
+    codes:
+      - "20765C74 00000001"
+
+  - name: "Stadium Pack 4"
+    author: "Code Master"
+    notes: "[Unlock Practice Stadium Codes]"
+    codes:
+      - "20765C78 00000001"
+
+  - name: "All Season Highlights"
+    author: "Code Master"
+    notes: "[Unlock Season Highlights Codes]"
+    codes:
+      - "40765C84 00000001"
+      - "00000001 00000000"
+
+  - name: "FA Premier League"
+    author: "Code Master"
+    notes: "[Unlock Season Highlights Codes]"
+    codes:
+      - "20765C88 00000001"
+
+  - name: "French Division 1"
+    author: "Code Master"
+    notes: "[Unlock Season Highlights Codes]"
+    codes:
+      - "20765C8C 00000001"
+
+  - name: "German Bundesliga"
+    author: "Code Master"
+    notes: "[Unlock Season Highlights Codes]"
+    codes:
+      - "20765C84 00000001"
+
+  - name: "Italian Serie A"
+    author: "Code Master"
+    notes: "[Unlock Season Highlights Codes]"
+    codes:
+      - "20765C90 00000001"

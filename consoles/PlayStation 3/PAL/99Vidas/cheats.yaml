@@ -1,0 +1,71 @@
+# 99Vidas cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB02458
+
+game: "99Vidas"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB02458"
+cheat_type: "Save Editor"
+source: "by bucanero"
+
+cheats:
+  - name: "Unlock Game Mode 99 Vidas"
+    notes: "File: SAVGAME.DAT"
+    codes:
+      - "search \"gameMode99VidasUnlocked\""
+      - "write next (26):\"1\""
+
+  - name: "Unlock New Game Plus"
+    notes: "File: SAVGAME.DAT"
+    codes:
+      - "search \"isNewGamePlus\""
+      - "write next (16):\" true\""
+
+  - name: "99 Remaining Lives"
+    notes: "File: SAVGAME.DAT"
+    codes:
+      - "search \"remainingLives\""
+      - "write next (16):\"99\""
+
+  - name: "99 Remaining Continues"
+    notes: "File: SAVGAME.DAT"
+    codes:
+      - "search \"remainingContinues\""
+      - "write next (20):\"99\""
+
+  - name: "Unlock Character"
+    notes: "[King]  File: SAVGAME.DAT"
+    codes:
+      - "search 0x724944223A20312C"
+      - "search next \"isUnlocked\""
+      - "write next (13):\" true\""
+
+  - name: "Max Combo Punch"
+    notes: "[King]  File: SAVGAME.DAT"
+    codes:
+      - "search 0x724944223A20312C"
+      - "search next \"comboPunch\""
+      - "write next (13):\"3\""
+
+  - name: "Max Combo Kick"
+    notes: "[King]  File: SAVGAME.DAT"
+    codes:
+      - "search 0x724944223A20312C"
+      - "search next \"comboKick\""
+      - "write next (12):\"3\""
+
+  - name: "Max Blitz Punch"
+    notes: "[King]  File: SAVGAME.DAT"
+    codes:
+      - "search 0x724944223A20312C"
+      - "search next \"blitzPunch\""
+      - "write next (13):\"3\""
+
+  - name: "Max Blitz Kick"
+    notes: "[King]  File: SAVGAME.DAT"
+    codes:
+      - "search 0x724944223A20312C"
+      - "search next \"blitzKick\""
+      - "write next (12):\"3\""

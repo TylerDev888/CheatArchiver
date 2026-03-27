@@ -1,0 +1,114 @@
+# Dot Hack - Part 2 - Mutation cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52467
+
+game: "Dot Hack - Part 2 - Mutation"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52467"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "90100A68 0C0482AA"
+
+  - name: "1000 Experience Per Enemy Defeated"
+    author: "Codejunkies"
+    notes: "[Experience Codes]"
+    codes:
+      - "2048F608 241103E8"
+
+  - name: "10000 Experience Per Enemy Defeated"
+    author: "Codejunkies"
+    notes: "[Experience Codes]"
+    codes:
+      - "2048F608 24112710"
+
+  - name: "Max Health All"
+    author: "Codejunkies"
+    notes: "[Max Health Codes]"
+    codes:
+      - "20489A78 2402270F"
+
+  - name: "Max Health All (Saveable)"
+    author: "Codejunkies"
+    notes: "[Max Health Codes]"
+    codes:
+      - "2048EA04 2401270F"
+      - "20489A78 A6410024"
+      - "20489A7C A6210074"
+
+  - name: "Max Money After Shopping"
+    author: "Codejunkies"
+    codes:
+      - "2046E554 00000000"
+
+  - name: "All Party Available"
+    author: "Codejunkies"
+    notes: "[Max SP Codes]"
+    codes:
+      - "200FFF40 3C017FFF"
+      - "200FFF44 3421FFFF"
+      - "200FFF48 ACA12220"
+      - "200FFF4C 8CA32220"
+      - "200FFF50 081143D1"
+      - "20450F3C 0803FFD0"
+
+  - name: "Ifinite Trade Item Use"
+    author: "Codejunkies"
+    notes: "[Max SP Codes]"
+    codes:
+      - "2017BA98 00000000"
+      - "2017BAB4 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Max SP Codes]"
+    codes:
+      - "20435EA0 0803FFC0"
+      - "200FFF00 2401270F"
+      - "200FFF04 A6210070"
+      - "200FFF08 A6210074"
+      - "200FFF0C 0810D7AA"
+
+  - name: "Infinite SP"
+    author: "Codejunkies"
+    notes: "[Max SP Codes]"
+    codes:
+      - "200FFF10 240103E7"
+      - "200FFF14 A6210072"
+      - "200FFF18 A6210076"
+      - "200FFF1C 0810D7AE"
+      - "20435EB0 0803FFC4"
+
+  - name: "Max SP"
+    author: "Codejunkies"
+    notes: "[Max SP Codes]"
+    codes:
+      - "20489A80 240203E7"
+
+  - name: "Max SP All (Saveable)"
+    author: "Codejunkies"
+    notes: "[Max SP Codes]"
+    codes:
+      - "20489A80 A6460026"
+      - "20489A84 A6260076"
+
+  - name: "Team Have Faster Animations"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "20435EF4 3C014040"
+      - "204390DC AE210028"
+
+  - name: "Team Run Faster"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "20435EF4 AE210104"
+      - "204390DC 3C014280"

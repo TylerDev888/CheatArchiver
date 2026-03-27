@@ -1,0 +1,42 @@
+# Memories Off #6 Next Relation cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-55197
+
+game: "Memories Off #6 Next Relation"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-55197"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Debug Unlock Album"
+    author: "punk7890"
+    codes:
+      - "109BC50A 00000001"
+
+  - name: "Debug Unlock All Menu Options"
+    author: "punk7890"
+    codes:
+      - "109BC506 00000001"
+
+  - name: "Debug Unlock All Movies"
+    author: "punk7890"
+    codes:
+      - "109BC50E 00000001"
+
+  - name: "Unlock All Album"
+    author: "punk7890"
+    codes:
+      - "40322970 000E0001"
+      - "FFFFFFFF 00000000"
+      - "003229A8 000000FF"
+
+  - name: "Unlock All Memories"
+    author: "punk7890"
+    codes:
+      - "003228F1 000000FF"
+      - "103228F2 0000FFFF"
+      - "403228F4 00050001"
+      - "FFFFFFFF 00000000"

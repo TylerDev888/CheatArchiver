@@ -1,0 +1,32 @@
+# Alien Rage (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB01088
+
+game: "Alien Rage (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB01088"
+cheat_type: "Save Editor"
+source: "From SHAkA"
+
+cheats:
+  - name: "Max Perks Points(will Unlock Trophy And All Perks!)"
+    notes: "File: PAYLOAD2"
+    codes:
+      - "write at 0x00000003:0x1A3B9AC9"
+
+  - name: "Change Dificulty Easy"
+    notes: "File: PAYLOAD1"
+    codes:
+      - "20000017 01010000"
+
+  - name: "Change Dificulty Normal"
+    notes: "File: PAYLOAD1"
+    codes:
+      - "20000017 02020000"
+
+  - name: "Change Dificulty Extreme"
+    notes: "File: PAYLOAD1"
+    codes:
+      - "20000017 03030000"

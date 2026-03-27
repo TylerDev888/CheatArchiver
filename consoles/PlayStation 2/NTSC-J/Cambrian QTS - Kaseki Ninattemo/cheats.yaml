@@ -1,0 +1,28 @@
+# Cambrian QTS - Kaseki Ninattemo cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65448
+
+game: "Cambrian QTS - Kaseki Ninattemo"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65448"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9012FDB0 0C04BF14"
+
+  - name: "Unlock Everything"
+    author: "punk7890"
+    codes:
+      - "41768A94 000F0001"
+      - "01010101 00000000"
+      - "01768AC7 00000001"
+      - "21768AC8 01010101"
+      - "11768ACC 00000101"
+      - "01768A81 00000001"

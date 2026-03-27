@@ -1,0 +1,120 @@
+# The Elder Scrolls V_ Skyrim cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01329
+
+game: "The Elder Scrolls V_ Skyrim"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01329"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3 & Keha World"
+
+cheats:
+  - name: "Max Gold"
+    notes: "File: BLES01329-SAVE-*\\SYS-DATA"
+    codes:
+      - "80010004 40001422"
+      - "88010003 40000F00"
+      - "28000003 FFE0F505"
+
+  - name: "Max Gold @ Whiterun House(empty The Chest Beside The Bed In Whiterun House And Only Place 206 Gold In It. Save Game And Then Use This Cheat.)"
+    notes: "File: BLES01329-SAVE-*\\SYS-DATA  (Step 1: It puts into a barrel 261G and save to it.) (Step 2: A code is edited.) (*xxxxxx=Item ID) (For Item ID Visit http://savedata.jp/save-editor/img/1680.txt) (7F969800=Stock(7F969800=9,999,999 / 01000000=1))"
+    codes:
+      - "80010006 000FCE00"
+      - "00000000 00000000"
+      - "28000002 FFE0F505"
+
+  - name: "Item Change In A Barrel *261g Is Put Into The Barrel"
+    notes: "File: BLES01329-SAVE-*\\SYS-DATA"
+    codes:
+      - "search 40000F0501000000"
+      - "write next 0: xxxxxx7F969800"
+
+  - name: "Max Health"
+    notes: "File: BLES01329-SAVE-*\\SYS-DATA"
+    codes:
+      - "80010006 41711D41"
+      - "711F0000 00000000"
+      - "93000000 00000258"
+      - "88000004 09000000"
+      - "93000000 00000014"
+      - "88000004 07000000"
+      - "92000000 0000008C"
+      - "28000000 00007A45"
+
+  - name: "Max Majic"
+    notes: "File: BLES01329-SAVE-*\\SYS-DATA"
+    codes:
+      - "80010006 41711D41"
+      - "711F0000 00000000"
+      - "93000000 00000258"
+      - "88000004 09000000"
+      - "93000000 00000014"
+      - "88000004 07000000"
+      - "92000000 00000094"
+      - "28000000 00007A45"
+
+  - name: "Max Stamina"
+    notes: "File: BLES01329-SAVE-*\\SYS-DATA"
+    codes:
+      - "80010006 41711D41"
+      - "711F0000 00000000"
+      - "93000000 00000258"
+      - "88000004 09000000"
+      - "93000000 00000014"
+      - "88000004 07000000"
+      - "92000000 0000009C"
+      - "28000000 00007A45"
+
+  - name: "Skills @ 1000"
+    notes: "File: BLES01329-SAVE-*\\SYS-DATA"
+    codes:
+      - "80010006 41711D41"
+      - "711F0000 00000000"
+      - "93000000 00000258"
+      - "88000004 09000000"
+      - "93000000 00000014"
+      - "88000004 07000000"
+      - "93000000 00000004"
+      - "4A000000 00007A44"
+      - "40120008 00000000"
+      - "28000000 00007A45"
+
+  - name: "Add 10000 Xp"
+    notes: "File: BLES01329-SAVE-*\\SYS-DATA"
+    codes:
+      - "8001002C 86848868"
+      - "817346C2 079FC70D"
+      - "2D00463C A0E9A540"
+      - "003CECFF 03004C28"
+      - "D1240000 00FFFF7F"
+      - "7FFFFF7F 7FFFFF7F"
+      - "280000EB 00401C46"
+
+  - name: "9999 Steel Arrows"
+    notes: "[Must Have 1 In Your Inventory]  File: BLES01329-SAVE-*\\SYS-DATA"
+    codes:
+      - "80010008 01020000"
+      - "00130042 00000000"
+      - "93000000 00000350"
+      - "88000003 41397F00"
+      - "28000003 0F270000"
+
+  - name: "9999 Forsworn Arrows"
+    notes: "[Must Have 1 In Your Inventory]  File: BLES01329-SAVE-*\\SYS-DATA"
+    codes:
+      - "80010008 01020000"
+      - "00130042 00000000"
+      - "93000000 00000350"
+      - "88000003 4CEE9E00"
+      - "28000003 0F270000"
+
+  - name: "9999 Iron Arrows"
+    notes: "[Must Have 1 In Your Inventory]  File: BLES01329-SAVE-*\\SYS-DATA"
+    codes:
+      - "80010008 01020000"
+      - "00130042 00000000"
+      - "93000000 00000350"
+      - "88000003 41397D00"
+      - "28000003 0F270000"

@@ -1,0 +1,1685 @@
+# Digimon World Data Squad cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21598
+
+game: "Digimon World Data Squad"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21598"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90259D98 0C09670E"
+
+  - name: "Player 1 Controller"
+    notes: "[Jokers]"
+
+  - name: "D0304b82 0000[joker:ps2]"
+    notes: "[Jokers]"
+
+  - name: "Max/Inf Money"
+    notes: "[Misc Codes]"
+    codes:
+      - "2094D8F4 4CBEBC20"
+
+  - name: "No Random Battles"
+    notes: "[Misc Codes]"
+    codes:
+      - "2094DA48 40A00000"
+
+  - name: "Every Step Battle"
+    notes: "[Misc Codes]"
+    codes:
+      - "2094DA48 43878000"
+
+  - name: "Max Digi Eggs"
+    notes: "[Salamon Info Codes:{Everyone}]"
+    codes:
+      - "2094E728 447A0000"
+
+  - name: "Treasure Chests Opend"
+    notes: "[Salamon Info Codes:{Everyone}]"
+    codes:
+      - "2094DA5C 461C3C00"
+
+  - name: "Digimon Encounters"
+    notes: "[Salamon Info Codes:{Everyone}]"
+    codes:
+      - "2094DA84 461C3C00"
+
+  - name: "Toltal Number Of Steps"
+    notes: "[Salamon Info Codes:{Everyone}]"
+    codes:
+      - "2094DA88 4B18967F"
+
+  - name: "Bits Used"
+    notes: "[Salamon Info Codes:{Everyone}]"
+    codes:
+      - "2094D8F0 4B18967F"
+
+  - name: "Level 99"
+    notes: "[Agumon]"
+    codes:
+      - "20A04FC0 42C60000"
+
+  - name: "Max/Inf HP"
+    notes: "[Agumon]"
+    codes:
+      - "20A04FC4 461C3C00"
+
+  - name: "Current EXP"
+    notes: "[Agumon]"
+    codes:
+      - "20A04FC8 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Activator For Item Codes"
+    notes: "[Items Codes]"
+    codes:
+      - "E003FFFE 00304B82"
+      - "2030472C 000A0000"
+      - "10304730 00000131"
+      - "10304734 00000131"
+
+  - name: "All Of Items (compleat)"
+    notes: "[All]"
+    codes:
+      - "400A0000 00670001"
+      - "00630001 00000001"
+      - "400A019C 003B0001"
+      - "0063006A 00000001"
+      - "400A0288 003B0001"
+      - "006300A6 00000001"
+      - "400A0374 00050001"
+      - "006300E2 00000001"
+      - "400A0388 002F0001"
+      - "006300E8 00000001"
+      - "400A0444 000A0001"
+      - "0063011F 00000001"
+      - "400A046C 00050001"
+      - "0063012D 00000001"
+      - "400A0480 00050001"
+      - "006302C3 00000001"
+      - "200A0494 00080001"
+      - "006302C9 00000001"
+
+  - name: "HP Chip"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0000 00630001"
+
+  - name: "Str Chip"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0004 00630002"
+
+  - name: "Int Chip"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0008 00630003"
+
+  - name: "Def Chip"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A000C 00630004"
+
+  - name: "Agl Chip"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0010 00630005"
+
+  - name: "Dex Chip"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0014 00630006"
+
+  - name: "Luck Chip"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0018 00630007"
+
+  - name: "Power Boost"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A001C 00630008"
+
+  - name: "M Power Boost"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0020 00630009"
+
+  - name: "G Power Boost"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0024 0063000A"
+
+  - name: "T Power Boost"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0028 0063000B"
+
+  - name: "Intelli-Boost"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A002C 0063000C"
+
+  - name: "M Int-Boost"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0030 0063000D"
+
+  - name: "G Int-Boost"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0034 0063000E"
+
+  - name: "T Int-Boost"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0038 0063000F"
+
+  - name: "Armor Boost"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A003C 00630010"
+
+  - name: "M Armor Boost"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0040 00630011"
+
+  - name: "G Armor Boost"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0044 00630012"
+
+  - name: "T Armor Boost"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0048 00630013"
+
+  - name: "Speed Boost"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A004C 00630014"
+
+  - name: "M Speed Boost"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0050 00630015"
+
+  - name: "G Speed Boost"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0054 00630016"
+
+  - name: "T Speed Boost"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0058 00630017"
+
+  - name: "Hit Boost"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A005C 00630018"
+
+  - name: "M Hit Boost"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0060 00630019"
+
+  - name: "G Hit Boost"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0064 0063001A"
+
+  - name: "T Hit Boost"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0068 0063001B"
+
+  - name: "Luck Boost"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A006C 0063001C"
+
+  - name: "M Luck Boost"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0070 0063001D"
+
+  - name: "G Luck Boost"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0074 0063001E"
+
+  - name: "T Luck Boost"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0078 0063001F"
+
+  - name: "Boost H"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A007C 00630020"
+
+  - name: "M Boost H"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0080 00630021"
+
+  - name: "G Boost H"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0084 00630022"
+
+  - name: "T Boost H"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0088 00630023"
+
+  - name: "Power Worm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A008C 00630024"
+
+  - name: "M Power Worm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0090 00630025"
+
+  - name: "G Power Worm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0094 00630026"
+
+  - name: "T Power Worm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0098 00630027"
+
+  - name: "Intelliworm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A009C 00630028"
+
+  - name: "M Intelliworm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A00A0 00630029"
+
+  - name: "G Intelliworm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A00A4 0063002A"
+
+  - name: "T Intelliworm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A00A8 0063002B"
+
+  - name: "Armor Worm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A00AC 0063002C"
+
+  - name: "M Armor Worm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A00B0 0063002D"
+
+  - name: "G Armor Worm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A00B4 0063002E"
+
+  - name: "T Armor Worm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A00B8 0063002F"
+
+  - name: "Speed Worm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A00BC 00630030"
+
+  - name: "M Speed Worm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A00C0 00630031"
+
+  - name: "G Speed Worm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A00C4 00630032"
+
+  - name: "T Speed Worm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A00C8 00630033"
+
+  - name: "Heat Worm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A00CC 00630034"
+
+  - name: "M Heat Worm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A00D0 00630035"
+
+  - name: "G Heat Worm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A00D4 00630036"
+
+  - name: "T Heat Worm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A00D8 00630037"
+
+  - name: "Luck Worm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A00DC 00630038"
+
+  - name: "M Luck Worm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A00E0 00630039"
+
+  - name: "G Luck Worm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A00E4 0063003A"
+
+  - name: "T Luck Worm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A00E8 0063003B"
+
+  - name: "Worm H"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A00EC 0063003C"
+
+  - name: "M Worm H"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A00F0 0063003D"
+
+  - name: "G Worm H"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A00F4 0063003E"
+
+  - name: "T Worm H"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A00F8 0063003F"
+
+  - name: "Power 100"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A00FC 00630040"
+
+  - name: "Power 200"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0100 00630041"
+
+  - name: "Power 500"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0104 00630042"
+
+  - name: "Int 100"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0108 00630043"
+
+  - name: "Int 200"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A010C 00630044"
+
+  - name: "Int 500"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0110 00630045"
+
+  - name: "Armor 100"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0114 00630046"
+
+  - name: "Armor 200"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0118 00630047"
+
+  - name: "Armor 500"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A011C 00630048"
+
+  - name: "Speed 100"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0120 00630049"
+
+  - name: "Speed 200"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0124 0063004A"
+
+  - name: "Speed 500"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0128 0063004B"
+
+  - name: "Hit 100"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A012C 0063004C"
+
+  - name: "Hit 200"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0130 0063004D"
+
+  - name: "Hit 500"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0134 0063004E"
+
+  - name: "Luck 100"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0138 0063004F"
+
+  - name: "Luck 200"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A013C 00630050"
+
+  - name: "Luck 500"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0140 00630051"
+
+  - name: "Poison Bomb"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0144 00630052"
+
+  - name: "M Poison Bomb"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0148 00630053"
+
+  - name: "V Poison Bomb"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A014C 00630054"
+
+  - name: "Clear Poison"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0150 00630055"
+
+  - name: "Sleep Bomb"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0154 00630056"
+
+  - name: "V Sleep Bomb"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0158 00630057"
+
+  - name: "Clear Sleep"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A015C 00630058"
+
+  - name: "Charm Bomb"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0160 00630059"
+
+  - name: "V Charm Bomb"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0164 0063005A"
+
+  - name: "Clear Charm"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0168 0063005B"
+
+  - name: "Panic Bomb"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A016C 0063005C"
+
+  - name: "V Panic Bomb"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0170 0063005D"
+
+  - name: "Clear Panic"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0174 0063005E"
+
+  - name: "Freeze Bomb"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0178 0063005F"
+
+  - name: "V Freeze Bomb"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A017C 00630060"
+
+  - name: "Clear Freeze"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0180 00630061"
+
+  - name: "Curse Bomb"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0184 00630062"
+
+  - name: "V Curse Bomb"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0188 00630063"
+
+  - name: "Clear Curse"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A018C 00630064"
+
+  - name: "Resist H"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0190 00630065"
+
+  - name: "Anti H"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0194 00630066"
+
+  - name: "Clear H"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0198 00630067"
+
+  - name: "D Smoke Screen"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A019C 0063006A"
+
+  - name: "Steal Guard"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A01A0 0063006B"
+
+  - name: "G Anger -"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A01A4 0063006C"
+
+  - name: "M Anger -"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A01A8 0063006D"
+
+  - name: "Anger -"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A01AC 0063006E"
+
+  - name: "Anger +"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A01B0 0063006F"
+
+  - name: "M Anger +"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A01B4 00630070"
+
+  - name: "G Anger +"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A01B8 00630071"
+
+  - name: "Anger -40"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A01BC 00630072"
+
+  - name: "Anger -20"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A01C0 00630073"
+
+  - name: "Anger 0"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A01C4 00630074"
+
+  - name: "Anger +20"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A01C8 00630075"
+
+  - name: "Anger +40"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A01CC 00630076"
+
+  - name: "G Tension -"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A01D0 00630077"
+
+  - name: "M Tension -"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A01D4 00630078"
+
+  - name: "Tension -"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A01D8 00630079"
+
+  - name: "Tension +"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A01DC 0063007A"
+
+  - name: "M Tension +"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A01E0 0063007B"
+
+  - name: "G Tension +"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A01E4 0063007C"
+
+  - name: "Tension -40"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A01E8 0063007D"
+
+  - name: "Tension -20"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A01EC 0063007E"
+
+  - name: "Tension 0"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A01F0 0063007F"
+
+  - name: "Tension +20"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A01F4 00630080"
+
+  - name: "Tension +40"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A01F8 00630081"
+
+  - name: "G Sympathy -"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A01FC 00630082"
+
+  - name: "M Sympathy -"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0200 00630083"
+
+  - name: "Sympathy -"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0204 00630084"
+
+  - name: "Sympathy +"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0208 00630085"
+
+  - name: "M Sympathy +"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A020C 00630086"
+
+  - name: "G Sympathy +"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0210 00630087"
+
+  - name: "Sympathy -40"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0214 00630088"
+
+  - name: "Sympathy -20"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0218 00630089"
+
+  - name: "Sympathy 0"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A021C 0063008A"
+
+  - name: "Sympathy +20"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0220 0063008B"
+
+  - name: "Sympathy +40"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0224 0063008C"
+
+  - name: "G Str-Will -"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0228 0063008D"
+
+  - name: "M Str-Will -"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A022C 0063008E"
+
+  - name: "Strong-Will -"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0230 0063008F"
+
+  - name: "Strong-Will +"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0234 00630090"
+
+  - name: "M Str-Will +"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0238 00630091"
+
+  - name: "G Str-Will +"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A023C 00630092"
+
+  - name: "Str-Will -40"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0240 00630093"
+
+  - name: "Str-Will -20"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0244 00630094"
+
+  - name: "Strong-Will 0"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0248 00630095"
+
+  - name: "Str-Will +20"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A024C 00630096"
+
+  - name: "Str-Will +40"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0250 00630097"
+
+  - name: "Death Egg"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0254 00630098"
+
+  - name: "Dr Death Egg"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0258 00630099"
+
+  - name: "Nsp Death Egg"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A025C 0063009A"
+
+  - name: "Jt Death Egg"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0260 0063009B"
+
+  - name: "Me Death Egg"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0264 0063009C"
+
+  - name: "Ds Death Egg"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0268 0063009D"
+
+  - name: "Wg Death Egg"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A026C 0063009E"
+
+  - name: "Vb Death Egg"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0270 0063009F"
+
+  - name: "Nso Death Egg"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0274 006300A0"
+
+  - name: "Rke Death Egg"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0278 006300A1"
+
+  - name: "Chmp Death Egg"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A027C 006300A2"
+
+  - name: "Ult Death Egg"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0280 006300A3"
+
+  - name: "Mega Death Egg"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0284 006300A4"
+
+  - name: "Death Guard"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0288 006300A6"
+
+  - name: "Digiscope"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A028C 006300A7"
+
+  - name: "M Digiscope"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0290 006300A8"
+
+  - name: "Mirage Barrier"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0294 006300A9"
+
+  - name: "Mmiragebarrier"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0298 006300AA"
+
+  - name: "Recover Key"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A029C 006300AB"
+
+  - name: "M Recover Key"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A02A0 006300AC"
+
+  - name: "HP Charge"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A02A4 006300AD"
+
+  - name: "Khp Charge"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A02A8 006300AE"
+
+  - name: "Mhp Charge"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A02AC 006300AF"
+
+  - name: "Ghp Charge"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A02B0 006300B0"
+
+  - name: "Thp Charge"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A02B4 006300B1"
+
+  - name: "HP Charge H"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A02B8 006300B2"
+
+  - name: "Khp Charge H"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A02BC 006300B3"
+
+  - name: "Mhp Charge H"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A02C0 006300B4"
+
+  - name: "Ghp Charge H"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A02C4 006300B5"
+
+  - name: "Thp Charge H"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A02C8 006300B6"
+
+  - name: "HP Heal"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A02CC 006300B7"
+
+  - name: "Mhp Heal"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A02D0 006300B8"
+
+  - name: "Ghp Heal"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A02D4 006300B9"
+
+  - name: "HP Heal H"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A02D8 006300BA"
+
+  - name: "Mhp Heal H"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A02DC 006300BB"
+
+  - name: "Ghp Heal H"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A02E0 006300BC"
+
+  - name: "A Attack Seal"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A02E4 006300BD"
+
+  - name: "A Guard Seal"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A02E8 006300BE"
+
+  - name: "A Escape Seal"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A02EC 006300BF"
+
+  - name: "A Support Seal"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A02F0 006300C0"
+
+  - name: "Dr Enchant"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A02F4 006300C1"
+
+  - name: "Nsp Enchant"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A02F8 006300C2"
+
+  - name: "Jt Enchant"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A02FC 006300C3"
+
+  - name: "Me Enchant"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0300 006300C4"
+
+  - name: "Ds Enchant"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0304 006300C5"
+
+  - name: "Wg Enchant"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0308 006300C6"
+
+  - name: "Vb Enchant"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A030C 006300C7"
+
+  - name: "Nso Enchant"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0310 006300C8"
+
+  - name: "Resist Dr"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0314 006300C9"
+
+  - name: "Resist Nsp"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0318 006300CA"
+
+  - name: "Resist Jt"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A031C 006300CB"
+
+  - name: "Resist Me"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0320 006300CC"
+
+  - name: "Resist Ds"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0324 006300CD"
+
+  - name: "Resist Wg"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0328 006300CE"
+
+  - name: "Resist Vb"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A032C 006300CF"
+
+  - name: "Resist Nso"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0330 006300D0"
+
+  - name: "Dr Drive"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0334 006300D1"
+
+  - name: "Nsp Drive"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0338 006300D2"
+
+  - name: "Jt Drive"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A033C 006300D3"
+
+  - name: "Me Drive"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0340 006300D4"
+
+  - name: "Ds Drive"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0344 006300D5"
+
+  - name: "Wg Drive"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0348 006300D6"
+
+  - name: "Vb Drive"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A034C 006300D7"
+
+  - name: "Nso Drive"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0350 006300D8"
+
+  - name: "Mine 100"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0354 006300D9"
+
+  - name: "Mine 500"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0358 006300DA"
+
+  - name: "Mine 1000"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A035C 006300DB"
+
+  - name: "Mine 2000"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0360 006300DC"
+
+  - name: "Eternalcourage"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0364 006300DD"
+
+  - name: "Low Encounter"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0368 006300DE"
+
+  - name: "High Encounter"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A036C 006300DF"
+
+  - name: "No Encounter"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0370 006300E0"
+
+  - name: "Anti-Ability"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0374 006300E2"
+
+  - name: "Normal Status"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0378 006300E3"
+
+  - name: "HP Recharge"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A037C 006300E4"
+
+  - name: "Auto-Recover"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0380 006300E5"
+
+  - name: "Double Attack"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0384 006300E6"
+
+  - name: "Crt Damage"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0388 006300E8"
+
+  - name: "M Crt Damage"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A038C 006300E9"
+
+  - name: "Resist Steal"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0390 006300EA"
+
+  - name: "M Cut Damage"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0394 006300EB"
+
+  - name: "G Cut Damage"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0398 006300EC"
+
+  - name: "T Cut Damage"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A039C 006300ED"
+
+  - name: "Cut Damage H"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A03A0 006300EE"
+
+  - name: "M Cut Damage H"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A03A4 006300EF"
+
+  - name: "T Cut Damage H"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A03A8 006300F0"
+
+  - name: "Str Guard"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A03AC 006300F1"
+
+  - name: "Int Guard"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A03B0 006300F2"
+
+  - name: "Perfect Guard"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A03B4 006300F3"
+
+  - name: "Invisible"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A03B8 006300F4"
+
+  - name: "Consent"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A03BC 006300F5"
+
+  - name: "Escape Up"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A03C0 006300F6"
+
+  - name: "Escape Guard"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A03C4 006300F7"
+
+  - name: "Perfect Hit"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A03C8 006300F8"
+
+  - name: "Attack Up"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A03CC 006300F9"
+
+  - name: "Attack Up H"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A03D0 006300FA"
+
+  - name: "Attackweakness"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A03D4 006300FB"
+
+  - name: "Impulsedrink"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A03D8 006300FC"
+
+  - name: "Changedrink"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A03DC 006300FD"
+
+  - name: "Angerdrink"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A03E0 006300FE"
+
+  - name: "Uncertaindrink"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A03E4 006300FF"
+
+  - name: "Restlessdrink"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A03E8 00630100"
+
+  - name: "Distractdrink"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A03EC 00630101"
+
+  - name: "No Emotion"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A03F0 00630102"
+
+  - name: "Reflect"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A03F4 00630103"
+
+  - name: "Dr Reflect"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A03F8 00630104"
+
+  - name: "Nsp Reflect"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A03FC 00630105"
+
+  - name: "Jt Reflect"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0400 00630106"
+
+  - name: "Me Reflect"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0404 00630107"
+
+  - name: "Ds Reflect"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0408 00630108"
+
+  - name: "Wg Reflect"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A040C 00630109"
+
+  - name: "Vb Reflect"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0410 0063010A"
+
+  - name: "Nso Reflect"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0414 0063010B"
+
+  - name: "Persevere Atk"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0418 0063010C"
+
+  - name: "All Or Nothing"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A041C 0063010D"
+
+  - name: "Lonely Command"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0420 0063010E"
+
+  - name: "Open Command"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0424 0063010F"
+
+  - name: "Searchweakness"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0428 00630110"
+
+  - name: "Str-Int Change"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A042C 00630111"
+
+  - name: "Half Damage"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0430 00630112"
+
+  - name: "Affectiondrink"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0434 00630113"
+
+  - name: "Frienddrink"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0438 00630114"
+
+  - name: "Animositydrink"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A043C 00630115"
+
+  - name: "Loathingdrink"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0440 00630116"
+
+  - name: "Steal Up"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0444 0063011F"
+
+  - name: "Critical Up"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0448 00630120"
+
+  - name: "M Critical Up"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A044C 00630121"
+
+  - name: "Acquire Item"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0450 00630122"
+
+  - name: "M Acquire Item"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0454 00630123"
+
+  - name: "Anger Rvrs"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0458 00630124"
+
+  - name: "Tension Rvrs"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A045C 00630125"
+
+  - name: "Sympathy Rvrs"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0460 00630126"
+
+  - name: "Str-Will Rvrs"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0464 00630127"
+
+  - name: "Return Key"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0468 00630128"
+
+  - name: "Whitebox Lunch"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A046C 0063012D"
+
+  - name: "Blackbox Lunch"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0470 0063012E"
+
+  - name: "Omelet Curry"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0474 0063012F"
+
+  - name: "Curry Rice"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0478 00630130"
+
+  - name: "Command All"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A047C 00630131"
+
+  - name: "Blue Jewel"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0480 006302C3"
+
+  - name: "Red Jewel"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0484 006302C4"
+
+  - name: "Yellow Jewel"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0488 006302C5"
+
+  - name: "Rainbow Jewel"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A048C 006302C6"
+
+  - name: "Fishing String"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0490 006302C7"
+
+  - name: "X Antibody"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0494 006302C9"
+
+  - name: "Swiss Cheese"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A0498 006302CA"
+
+  - name: "Knowledge De"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A049C 006302CB"
+
+  - name: "Honesty De"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A04A0 006302CC"
+
+  - name: "Hope De"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A04A4 006302CD"
+
+  - name: "Light De"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A04A8 006302CE"
+
+  - name: "Love De"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A04AC 006302CF"
+
+  - name: "Discountticket"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A04B0 006302D0"
+
+  - name: "Holy Ring"
+    notes: "[Item Codes - Individual]"
+    codes:
+      - "200A04B4 006302D2"
+
+  - name: "Activator (press L1+l2)"
+    notes: "[Character Sub Codes]"
+    codes:
+      - "200C002C 3C010029"
+      - "200C0030 34219F08"
+      - "200C0034 20223FE0"
+      - "200C0038 20433FE0"
+      - "200C003C 20643FE0"
+      - "200C0040 20853FE0"
+      - "200C0044 20A63FE0"
+      - "200C0048 8C210000"
+      - "200C004C 8C420000"
+      - "200C0050 8C630000"
+      - "200C0054 8C840000"
+      - "200C0058 8CA50000"
+      - "200C005C 8CC60000"
+      - "200C0060 10200027"
+      - "200C0068 3C07461C"
+      - "200C006C 34E73C00"
+      - "200C0100 03E00008"
+      - "D0304B82 0000FAFF"
+      - "20232110 0803000B"
+
+  - name: "Character 1 Max/Inf HP"
+    notes: "[Character Sub Codes]"
+    codes:
+      - "200C0070 AC2700CC"
+
+  - name: "Character 2 Max/Inf HP"
+    notes: "[Character Sub Codes]"
+    codes:
+      - "200C0074 AC4700CC"
+
+  - name: "Character 3 Max/Inf HP"
+    notes: "[Character Sub Codes]"
+    codes:
+      - "200C0078 AC6700CC"
+
+  - name: "Character 4 Max/Inf HP"
+    notes: "[Character Sub Codes]"
+    codes:
+      - "200C007C AC8700CC"
+
+  - name: "Character 5 Max/Inf HP"
+    notes: "[Character Sub Codes]"
+    codes:
+      - "200C0080 ACA700CC"
+
+  - name: "Character 6 Max/Inf HP"
+    notes: "[Character Sub Codes]"
+    codes:
+      - "200C0080 ACC700CC"
+
+  - name: "EXP Gain Mod (per Battle)"
+    notes: "[Character Sub Codes]"
+    codes:
+      - "200C0000 C5E00000"
+      - "200C0004 24030034"
+      - "200C0008 14700005"
+      - "200C0018 4483A000"
+      - "200C0020 08049675"
+      - "200C0024 46140000"
+      - "201259D0 08030000"
+      - "201259D4 00000000"
+      - "200C0010 3C03[MOD]"
+      - "200C0014 34630000"

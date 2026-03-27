@@ -1,0 +1,47 @@
+# Conan cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Conan"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90124DA8 0C09D75C"
+
+  - name: "Unlimited Health"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "201E8A84 E44300AC"
+
+  - name: "Unlimited Stamina"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20156620 E4810390"
+
+  - name: "Maximum Skill Points"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "201F44C0 08030800"
+      - "200C2000 3C01000F"
+      - "200C2004 3421423F"
+      - "200C2008 ACE10004"
+      - "200C200C 03E00008"
+      - "200C2010 ACE10008"
+
+  - name: "Have All Abilities"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "201A4FC4 ACE2000C"
+      - "201A4FC8 03E00008"

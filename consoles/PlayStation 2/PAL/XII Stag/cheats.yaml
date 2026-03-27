@@ -1,0 +1,27 @@
+# XII Stag cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51704
+
+game: "XII Stag"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51704"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Infinite Bombs"
+    author: "nolberto82"
+    codes:
+      - "20150DD0 34020002"
+
+  - name: "Infinite Lives"
+    author: "nolberto82"
+    codes:
+      - "20151334 34030002"
+
+  - name: "Invincibility"
+    author: "nolberto82"
+    codes:
+      - "20150C70 340200FD"

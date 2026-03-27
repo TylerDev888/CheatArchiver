@@ -1,0 +1,34 @@
+# Ace Combat - The Belkan War cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-54041
+
+game: "Ace Combat - The Belkan War"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-54041"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F030AC78 0030AC7B"
+
+  - name: "Infinite Missiles"
+    author: "Codejunkies"
+    codes:
+      - "20230F60 25EF0000"
+
+  - name: "Infinite Special Weapons"
+    author: "Codejunkies"
+    codes:
+      - "20233BAC 25EF0000"
+
+  - name: "Press L1+ L2 For Infinite Funds"
+    author: "Codejunkies"
+    codes:
+      - "D069951C 0000FAFF"
+      - "203B4F68 05F5E0FF"

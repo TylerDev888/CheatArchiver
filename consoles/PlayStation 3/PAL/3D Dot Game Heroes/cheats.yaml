@@ -1,0 +1,235 @@
+# 3D Dot Game Heroes cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00875
+
+game: "3D Dot Game Heroes"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00875"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Money"
+    notes: "[Possibly Not Working]  File: BLES00875GAME-DATA*\\DATA.SAV"
+    codes:
+      - "62000000 00000000"
+      - "62010100 00000010"
+      - "62200100 00000048"
+      - "61400000 0000270F"
+
+  - name: "Max Arrows"
+    notes: "[Possibly Not Working]  File: BLES00875GAME-DATA*\\DATA.SAV"
+    codes:
+      - "62000000 00000000"
+      - "62010100 00000010"
+      - "62200100 0000004B"
+      - "60400000 0000000F"
+
+  - name: "Reset Save Game Time"
+    notes: "[Possibly Not Working]  File: BLES00875GAME-DATA*\\DATA.SAV"
+    codes:
+      - "62000000 00000000"
+      - "62010100 00000010"
+      - "62200100 0000002E"
+      - "62400000 00000000"
+
+  - name: "Sun Stone"
+    notes: "[Items]  File: BLES00875GAME-DATA*\\DATA.SAV"
+    codes:
+      - "62000000 00000000"
+      - "62010100 00000010"
+      - "62200100 0000006F"
+      - "60400000 00000063"
+
+  - name: "Sleeping Bag"
+    notes: "[Items]  File: BLES00875GAME-DATA*\\DATA.SAV"
+    codes:
+      - "62000000 00000000"
+      - "62010100 00000010"
+      - "62200100 00000071"
+      - "60400000 00000063"
+
+  - name: "Magical Bag"
+    notes: "[Items]  File: BLES00875GAME-DATA*\\DATA.SAV"
+    codes:
+      - "62000000 00000000"
+      - "62010100 00000010"
+      - "62200100 00000072"
+      - "60400000 00000063"
+
+  - name: "Tent"
+    notes: "[Items]  File: BLES00875GAME-DATA*\\DATA.SAV"
+    codes:
+      - "62000000 00000000"
+      - "62010100 00000010"
+      - "62200100 00000073"
+      - "60400000 00000063"
+
+  - name: "Candle"
+    notes: "[Items]  File: BLES00875GAME-DATA*\\DATA.SAV"
+    codes:
+      - "62000000 00000000"
+      - "62010100 00000010"
+      - "62200100 00000074"
+      - "60400000 00000063"
+
+  - name: "Lamp"
+    notes: "[Items]  File: BLES00875GAME-DATA*\\DATA.SAV"
+    codes:
+      - "62000000 00000000"
+      - "62010100 00000010"
+      - "62200100 00000075"
+      - "60400000 00000063"
+
+  - name: "Silver Keys"
+    notes: "[Items]  File: BLES00875GAME-DATA*\\DATA.SAV"
+    codes:
+      - "62000000 00000000"
+      - "62010100 00000010"
+      - "62200100 00000070"
+      - "60400000 00000063"
+
+  - name: "Red Key"
+    notes: "[Items]  File: BLES00875GAME-DATA*\\DATA.SAV"
+    codes:
+      - "62000000 00000000"
+      - "62010100 00000010"
+      - "62200100 00000078"
+      - "60400000 00000063"
+
+  - name: "Blue Key"
+    notes: "[Items]  File: BLES00875GAME-DATA*\\DATA.SAV"
+    codes:
+      - "62000000 00000000"
+      - "62010100 00000010"
+      - "62200100 00000079"
+      - "60400000 00000063"
+
+  - name: "Green Key"
+    notes: "[Items]  File: BLES00875GAME-DATA*\\DATA.SAV"
+    codes:
+      - "62000000 00000000"
+      - "62010100 00000010"
+      - "62200100 0000007A"
+      - "60400000 00000063"
+
+  - name: "9999 Money"
+    author: "zeick"
+    notes: "File: BLUS30490SYSTEM\\SYS.DAT"
+    codes:
+      - "search 0x00000003000000030000000300000000000000"
+      - "write next (48):270F"
+
+  - name: "Give Hero Shield"
+    author: "zeick"
+    notes: "File: BLUS30490SYSTEM\\SYS.DAT"
+    codes:
+      - "search 0x00000003000000030000000300000000000000"
+      - "write next (53):05"
+
+  - name: "Bombs Full_needs Bomb Pouch"
+    author: "zeick"
+    notes: "File: BLUS30490SYSTEM\\SYS.DAT"
+    codes:
+      - "search 0x00000003000000030000000300000000000000"
+      - "write next (50):63"
+
+  - name: "Arrows Full_needs Bow"
+    author: "zeick"
+    notes: "File: BLUS30490SYSTEM\\SYS.DAT"
+    codes:
+      - "search 0x00000003000000030000000300000000000000"
+      - "write next (51):63"
+
+  - name: "Reset Time"
+    author: "zeick"
+    notes: "File: BLUS30490SYSTEM\\SYS.DAT"
+    codes:
+      - "search 0x00000003000000030000000300000000000000"
+      - "write next (24):0000"
+
+  - name: "99 Small Blocks"
+    author: "zeick"
+    notes: "[Items]  File: BLUS30490SYSTEM\\SYS.DAT"
+    codes:
+      - "search 0x00000003000000030000000300000000000000"
+      - "write next (121):63"
+
+  - name: "10 Silver Keys"
+    author: "zeick"
+    notes: "[Items]  File: BLUS30490SYSTEM\\SYS.DAT"
+    codes:
+      - "search 0x00000003000000030000000300000000000000"
+      - "write next (88):0A"
+
+  - name: "10 Red Keys"
+    author: "zeick"
+    notes: "[Items]  File: BLUS30490SYSTEM\\SYS.DAT"
+    codes:
+      - "search 0x00000003000000030000000300000000000000"
+      - "write next (96):0A"
+
+  - name: "10 Blue Keys"
+    author: "zeick"
+    notes: "[Items]  File: BLUS30490SYSTEM\\SYS.DAT"
+    codes:
+      - "search 0x00000003000000030000000300000000000000"
+      - "write next (97):0A"
+
+  - name: "10 Green Keys"
+    author: "zeick"
+    notes: "[Items]  File: BLUS30490SYSTEM\\SYS.DAT"
+    codes:
+      - "search 0x00000003000000030000000300000000000000"
+      - "write next (98):0A"
+
+  - name: "Candle Max"
+    author: "zeick"
+    notes: "[Items]  File: BLUS30490SYSTEM\\SYS.DAT"
+    codes:
+      - "search 0x00000003000000030000000300000000000000"
+      - "write next (92):0A"
+
+  - name: "Lamp Max"
+    author: "zeick"
+    notes: "[Items]  File: BLUS30490SYSTEM\\SYS.DAT"
+    codes:
+      - "search 0x00000003000000030000000300000000000000"
+      - "write next (93):0A"
+
+  - name: "Sun Stone Max"
+    author: "zeick"
+    notes: "[Items]  File: BLUS30490SYSTEM\\SYS.DAT"
+    codes:
+      - "search 0x00000003000000030000000300000000000000"
+      - "write next (87):0A"
+
+  - name: "Sleeping Bag Max"
+    author: "zeick"
+    notes: "[Items]  File: BLUS30490SYSTEM\\SYS.DAT"
+    codes:
+      - "search 0x00000003000000030000000300000000000000"
+      - "write next (89):0A"
+
+  - name: "Magical Bag Max"
+    author: "zeick"
+    notes: "[Items]  File: BLUS30490SYSTEM\\SYS.DAT"
+    codes:
+      - "search 0x00000003000000030000000300000000000000"
+      - "write next (90):0A"
+
+  - name: "Red Potion X99"
+    author: "chaoszage"
+    notes: "[Items]  File: BLUS30490SYSTEM\\SYS.DAT"
+    codes:
+      - "search 0x00000003000000030000000300000000000000"
+      - "write next (51):63"
+
+  - name: "Blue Potion X99"
+    author: "chaoszage"
+    notes: "[Items]  File: BLUS30490SYSTEM\\SYS.DAT"
+    codes:
+      - "search 0x00000003000000030000000300000000000000"
+      - "write next (53):63"

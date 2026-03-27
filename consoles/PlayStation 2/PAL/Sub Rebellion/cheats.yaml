@@ -1,0 +1,93 @@
+# Sub Rebellion cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51160
+
+game: "Sub Rebellion"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51160"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0114AA8 000001FD"
+
+  - name: "All Equipment"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "20257A7C 02020202"
+
+  - name: "All Specials"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "20257A74 02020202"
+      - "20257A78 02020202"
+
+  - name: "All Weapons"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "20257A64 02020202"
+      - "20257A68 02020202"
+      - "20257A6C 02020202"
+      - "20257A70 02020202"
+
+  - name: "Infinite Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "20257A60 3B9AC9FF"
+
+  - name: "Never Have More Than 999 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E00203E7 30257A60"
+      - "E0010000 30257A62"
+      - "20257A60 000003E7"
+
+  - name: "Never Have More Than 9999 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E002270F 30257A60"
+      - "E0010000 30257A62"
+      - "20257A60 0000270F"
+
+  - name: "Never Have More Than 99999 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E002869F 30257A60"
+      - "E0010001 30257A62"
+      - "20257A60 0001869F"
+
+  - name: "Never Have More Than 999999 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E002423F 30257A60"
+      - "E001000F 30257A62"
+      - "20257A60 000F423F"
+
+  - name: "Never Have More Than 9999999 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E002967F 30257A60"
+      - "E0010098 30257A62"
+      - "20257A60 0098967F"
+
+  - name: "No Collision"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "2013B420 03E00008"
+      - "2013B424 00000000"

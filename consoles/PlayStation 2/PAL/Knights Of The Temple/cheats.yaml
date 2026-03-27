@@ -1,0 +1,41 @@
+# Knights Of The Temple cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Knights Of The Temple"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "905B7084 0C170BB6"
+      - "200C2000 C4420004"
+      - "200C2008 C442000C"
+      - "200C2010 C4420014"
+      - "200C2018 03E00008"
+      - "200C201C 44800000"
+      - "2056CE10 0C030800"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2004 E4420000"
+
+  - name: "Stamina"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C200C E4420008"
+
+  - name: "Mana"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2014 E4420010"

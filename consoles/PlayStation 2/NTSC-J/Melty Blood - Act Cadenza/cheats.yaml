@@ -1,0 +1,23 @@
+# Melty Blood - Act Cadenza cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66438
+
+game: "Melty Blood - Act Cadenza"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66438"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90111098 0C0443CE"
+
+  - name: "Enable Debug Menu At Startup"
+    author: "punk7890"
+    codes:
+      - "20317DB0 00000001"

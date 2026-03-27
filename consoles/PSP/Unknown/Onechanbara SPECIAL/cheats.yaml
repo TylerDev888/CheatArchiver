@@ -1,0 +1,62 @@
+# Onechanbara SPECIAL cheat data
+# Console: PSP
+# Region:  Unknown
+# Serial:  ULJS00367
+
+game: "Onechanbara SPECIAL"
+console: "PSP"
+region: "Unknown"
+serial: "ULJS00367"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "999 Health"
+    notes: "File: *"
+    codes:
+      - "1000619C 0000270F"
+
+  - name: "999 Attack"
+    notes: "File: *"
+    codes:
+      - "10000186 0000270F"
+
+  - name: "999 Combo"
+    notes: "File: *"
+    codes:
+      - "10000196 0000270F"
+
+  - name: "999 Flame"
+    notes: "File: *"
+    codes:
+      - "10000188 0000270F"
+
+  - name: "999 Ice"
+    notes: "File: *"
+    codes:
+      - "1000018A 0000270F"
+
+  - name: "999 Heaven"
+    notes: "File: *"
+    codes:
+      - "1000018C 0000270F"
+
+  - name: "999 Holy"
+    notes: "File: *"
+    codes:
+      - "1000018E 0000270F"
+
+  - name: "999 Slash"
+    notes: "File: *"
+    codes:
+      - "10000190 0000270F"
+
+  - name: "999 Break"
+    notes: "File: *"
+    codes:
+      - "10000192 0000270F"
+
+  - name: "999 Gun"
+    notes: "File: *"
+    codes:
+      - "10000194 0000270F"

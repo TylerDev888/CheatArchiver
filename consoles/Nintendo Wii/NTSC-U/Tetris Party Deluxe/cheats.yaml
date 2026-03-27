@@ -1,0 +1,30 @@
+# Tetris Party Deluxe cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  STEETR
+
+game: "Tetris Party Deluxe"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "STEETR"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Delete Blocks Press B"
+    author: "Skiller"
+    codes:
+      - "C206C8E8 00000004"
+      - "3CE08063 60E7F900"
+      - "54E7056B 4182000C"
+      - "38E00000 90E50010"
+      - "80E50010 00000000"
+
+  - name: "Full Blocks Press B"
+    author: "Skiller"
+    codes:
+      - "C206C8E8 00000004"
+      - "3CE08063 60E7F900"
+      - "54E7056B 4182000C"
+      - "38E00008 90E50010"
+      - "80E50010 00000000"

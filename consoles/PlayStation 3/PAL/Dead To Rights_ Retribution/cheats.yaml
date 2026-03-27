@@ -1,0 +1,27 @@
+# Dead To Rights_ Retribution cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00824
+
+game: "Dead To Rights_ Retribution"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00824"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Unlock All Chapters & Extras"
+    notes: "File: GAMESAVE"
+    codes:
+      - "42000150 00000001"
+      - "400B0004 00000000"
+
+  - name: "Update Crc32big:0 (required)"
+    notes: "File: GAMESAVE  (set range:0x000010,0x04900F)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000010,pointer"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x000008:[hash]"

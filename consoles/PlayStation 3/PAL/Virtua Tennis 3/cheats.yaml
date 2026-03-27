@@ -1,0 +1,21 @@
+# Virtua Tennis 3 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00027
+
+game: "Virtua Tennis 3"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00027"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Dwadd For System_l.dat (required)"
+    notes: "File: SYSTEM_L.DAT  (set [csum]:dwadd(0x000000,0x01CEEF)) (write at 0x01CEF0:[csum])"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof-4"
+      - "set [csum]:dwadd(0x000000,pointer)"
+      - "set pointer:eof-3"
+      - "write next (0):[csum]"

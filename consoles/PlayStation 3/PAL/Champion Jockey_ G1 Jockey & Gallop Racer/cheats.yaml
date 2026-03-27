@@ -1,0 +1,19 @@
+# Champion Jockey_ G1 Jockey & Gallop Racer cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01235
+
+game: "Champion Jockey_ G1 Jockey & Gallop Racer"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01235"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Add For Savedata"
+    notes: "File: BLES01235-STORY-*\\SAVEDATA"
+    codes:
+      - "set [csum]:0x190518"
+      - "set [csum]:add(0x000010,0x190527)"
+      - "write at 0xC:[csum]"

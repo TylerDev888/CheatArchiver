@@ -1,0 +1,25 @@
+# Kaitou Apricot - Complete Edition [Limited Edition] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25423
+
+game: "Kaitou Apricot - Complete Edition [Limited Edition]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25423"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9019B140 0C066BF8"
+
+  - name: "New Game = Debug Menu"
+    author: "punk7890"
+    codes:
+      - "205359E4 07808910"
+      - "205359E8 808A1000"
+      - "205359EC 8B10001E"

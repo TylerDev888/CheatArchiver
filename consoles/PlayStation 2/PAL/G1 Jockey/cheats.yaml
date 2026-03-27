@@ -1,0 +1,67 @@
+# G1 Jockey cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50584
+
+game: "G1 Jockey"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50584"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F012CAA8 0012CAAB"
+
+  - name: "Must Be On (M)"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F012CAA8 000001FD"
+
+  - name: "100 Wins"
+    author: "InterAct"
+    codes:
+      - "20864150 00000064"
+      - "208641D8 00000064"
+
+  - name: "Air Jockeys"
+    author: "InterAct"
+    codes:
+      - "20155380 03E00008"
+      - "20155384 00000000"
+      - "201555C0 03E00008"
+      - "201555C4 00000000"
+
+  - name: "Great Finishing Speed"
+    author: "InterAct"
+    codes:
+      - "2013AF20 03E00008"
+      - "2013AF24 00000000"
+
+  - name: "Infinite Riding Points"
+    author: "InterAct"
+    codes:
+      - "208641C8 00008000"
+
+  - name: "Infinite Stamina"
+    author: "InterAct"
+    codes:
+      - "20116610 03E00008"
+      - "20116614 00000000"
+
+  - name: "Pots Of Cash"
+    author: "InterAct"
+    codes:
+      - "208641B8 00009999"
+      - "208641BC 00009999"
+
+  - name: "Turbo Horses"
+    author: "InterAct"
+    codes:
+      - "201165C0 03E00008"
+      - "201165C4 00000000"

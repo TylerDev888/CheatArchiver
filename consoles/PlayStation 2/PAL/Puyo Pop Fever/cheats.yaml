@@ -1,0 +1,49 @@
+# Puyo Pop Fever cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51951
+
+game: "Puyo Pop Fever"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51951"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9011DFB8 0C047796"
+
+  - name: "Enable Dev Menu (Press R1+X At Main Menu)"
+    author: "punk7890"
+    codes:
+      - "D03CA042 0000B7FF"
+      - "003C259C 00000004"
+
+  - name: "Enable Japanese Text In Options Menu"
+    author: "punk7890"
+    codes:
+      - "201D2580 24030005"
+      - "201D24CC 24030005"
+
+  - name: "Enable Japanese Voices"
+    author: "punk7890"
+    codes:
+      - "D03CA042 0000FAFF"
+      - "006EE549 00000000"
+      - "D03CA042 0000F5FF"
+      - "006EE549 00000001"
+
+  - name: "Gray Orbs Never Fall On P1"
+    author: "nolberto82"
+    codes:
+      - "20152FEC 0000202D"
+
+  - name: "Max Gray Orbs Fall On P2"
+    author: "nolberto82"
+    codes:
+      - "20152FEC 0000202D"
+      - "2014DD08 3407FFFF"

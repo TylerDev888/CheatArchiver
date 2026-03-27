@@ -1,0 +1,500 @@
+# Singstar-80'S
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SCUS-97616  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Enable Code (Must Be On) [Read Note]
+**Author:** Skiller  
+**Notes:** [Masters]
+
+```
+902B86B0 0C0AE154
+```
+
+---
+
+### Notes X2
+**Author:** Skiller  
+**Notes:** [Notes Multiplier Codes]
+
+```
+20146358 08028000
+2014635C 00000000
+200A0000 00021040
+200A0004 AE220030
+200A0008 080518D7
+200A000C 8C8300E8
+```
+
+---
+
+### Notes X4
+**Author:** Skiller  
+**Notes:** [Notes Multiplier Codes]
+
+```
+20146358 08028000
+2014635C 00000000
+200A0000 00021080
+200A0004 AE220030
+200A0008 080518D7
+200A000C 8C8300E8
+```
+
+---
+
+### Notes X8
+**Author:** Skiller  
+**Notes:** [Notes Multiplier Codes]
+
+```
+20146358 08028000
+2014635C 00000000
+200A0000 000210C0
+200A0004 AE220030
+200A0008 080518D7
+200A000C 8C8300E8
+```
+
+---
+
+### Notes X16
+**Author:** Skiller  
+**Notes:** [Notes Multiplier Codes]
+
+```
+20146358 08028000
+2014635C 00000000
+200A0000 00021100
+200A0004 AE220030
+200A0008 080518D7
+200A000C 8C8300E8
+```
+
+---
+
+### Notes X32
+**Author:** Skiller  
+**Notes:** [Notes Multiplier Codes]
+
+```
+20146358 08028000
+2014635C 00000000
+200A0000 00021140
+200A0004 AE220030
+200A0008 080518D7
+200A000C 8C8300E8
+```
+
+---
+
+### Notes X64
+**Author:** Skiller  
+**Notes:** [Notes Multiplier Codes]
+
+```
+20146358 08028000
+2014635C 00000000
+200A0000 00021180
+200A0004 AE220030
+200A0008 080518D7
+200A000C 8C8300E8
+```
+
+---
+
+### Notes X128
+**Author:** Skiller  
+**Notes:** [Notes Multiplier Codes]
+
+```
+20146358 08028000
+2014635C 00000000
+200A0000 000211C0
+200A0004 AE220030
+200A0008 080518D7
+200A000C 8C8300E8
+```
+
+---
+
+### Notes X256
+**Author:** Skiller  
+**Notes:** [Notes Multiplier Codes]
+
+```
+20146358 08028000
+2014635C 00000000
+200A0000 00021200
+200A0004 AE220030
+200A0008 080518D7
+200A000C 8C8300E8
+```
+
+---
+
+### Rap X2
+**Author:** Skiller  
+**Notes:** [Rap Multiplier Codes]
+
+```
+201463B8 08028004
+201463BC 00000000
+200A0010 00021040
+200A0014 AE220034
+200A0018 080518EF
+200A001C 8CA300E8
+```
+
+---
+
+### Rap X4
+**Author:** Skiller  
+**Notes:** [Rap Multiplier Codes]
+
+```
+201463B8 08028004
+201463BC 00000000
+200A0010 00021080
+200A0014 AE220034
+200A0018 080518EF
+200A001C 8CA300E8
+```
+
+---
+
+### Rap X8
+**Author:** Skiller  
+**Notes:** [Rap Multiplier Codes]
+
+```
+201463B8 08028004
+201463BC 00000000
+200A0010 000210C0
+200A0014 AE220034
+200A0018 080518EF
+200A001C 8CA300E8
+```
+
+---
+
+### Rap X16
+**Author:** Skiller  
+**Notes:** [Rap Multiplier Codes]
+
+```
+201463B8 08028004
+201463BC 00000000
+200A0010 00021100
+200A0014 AE220034
+200A0018 080518EF
+200A001C 8CA300E8
+```
+
+---
+
+### Rap X32
+**Author:** Skiller  
+**Notes:** [Rap Multiplier Codes]
+
+```
+201463B8 08028004
+201463BC 00000000
+200A0010 00021140
+200A0014 AE220034
+200A0018 080518EF
+200A001C 8CA300E8
+```
+
+---
+
+### Rap X64
+**Author:** Skiller  
+**Notes:** [Rap Multiplier Codes]
+
+```
+201463B8 08028004
+201463BC 00000000
+200A0010 00021180
+200A0014 AE220034
+200A0018 080518EF
+200A001C 8CA300E8
+```
+
+---
+
+### Rap X128
+**Author:** Skiller  
+**Notes:** [Rap Multiplier Codes]
+
+```
+201463B8 08028004
+201463BC 00000000
+200A0010 000211C0
+200A0014 AE220034
+200A0018 080518EF
+200A001C 8CA300E8
+```
+
+---
+
+### Rap X256
+**Author:** Skiller  
+**Notes:** [Rap Multiplier Codes]
+
+```
+201463B8 08028004
+201463BC 00000000
+200A0010 00021200
+200A0014 AE220034
+200A0018 080518EF
+200A001C 8CA300E8
+```
+
+---
+
+### Line X2
+**Author:** Skiller  
+**Notes:** [Line Bonus Multiplier Codes]
+
+```
+201463F4 08028008
+201463F8 00000000
+200A0020 00108040
+200A0024 AE300038
+200A0028 080518FE
+200A002C 00641821
+```
+
+---
+
+### Line X4
+**Author:** Skiller  
+**Notes:** [Line Bonus Multiplier Codes]
+
+```
+201463F4 08028008
+201463F8 00000000
+200A0020 00108080
+200A0024 AE300038
+200A0028 080518FE
+200A002C 00641821
+```
+
+---
+
+### Line X8
+**Author:** Skiller  
+**Notes:** [Line Bonus Multiplier Codes]
+
+```
+201463F4 08028008
+201463F8 00000000
+200A0020 001080C0
+200A0024 AE300038
+200A0028 080518FE
+200A002C 00641821
+```
+
+---
+
+### Line X16
+**Author:** Skiller  
+**Notes:** [Line Bonus Multiplier Codes]
+
+```
+201463F4 08028008
+201463F8 00000000
+200A0020 00108100
+200A0024 AE300038
+200A0028 080518FE
+200A002C 00641821
+```
+
+---
+
+### Line X32
+**Author:** Skiller  
+**Notes:** [Line Bonus Multiplier Codes]
+
+```
+201463F4 08028008
+201463F8 00000000
+200A0020 00108140
+200A0024 AE300038
+200A0028 080518FE
+200A002C 00641821
+```
+
+---
+
+### Line X64
+**Author:** Skiller  
+**Notes:** [Line Bonus Multiplier Codes]
+
+```
+201463F4 08028008
+201463F8 00000000
+200A0020 00108180
+200A0024 AE300038
+200A0028 080518FE
+200A002C 00641821
+```
+
+---
+
+### Line X128
+**Author:** Skiller  
+**Notes:** [Line Bonus Multiplier Codes]
+
+```
+201463F4 08028008
+201463F8 00000000
+200A0020 001081C0
+200A0024 AE300038
+200A0028 080518FE
+200A002C 00641821
+```
+
+---
+
+### Line X256
+**Author:** Skiller  
+**Notes:** [Line Bonus Multiplier Codes]
+
+```
+201463F4 08028008
+201463F8 00000000
+200A0020 00108200
+200A0024 AE300038
+200A0028 080518FE
+200A002C 00641821
+```
+
+---
+
+### Golden X2
+**Author:** Skiller  
+**Notes:** [Golden Notes Multiplier Codes]
+
+```
+201463FC 0802800C
+20146400 00000000
+200A0030 00021040
+200A0034 AE22003C
+200A0038 08051900
+200A003C 00701821
+```
+
+---
+
+### Golden X4
+**Author:** Skiller  
+**Notes:** [Golden Notes Multiplier Codes]
+
+```
+201463FC 0802800C
+20146400 00000000
+200A0030 00021080
+200A0034 AE22003C
+200A0038 08051900
+200A003C 00701821
+```
+
+---
+
+### Golden X8
+**Author:** Skiller  
+**Notes:** [Golden Notes Multiplier Codes]
+
+```
+201463FC 0802800C
+20146400 00000000
+200A0030 000210C0
+200A0034 AE22003C
+200A0038 08051900
+200A003C 00701821
+```
+
+---
+
+### Golden X16
+**Author:** Skiller  
+**Notes:** [Golden Notes Multiplier Codes]
+
+```
+201463FC 0802800C
+20146400 00000000
+200A0030 00021000
+200A0034 AE22003C
+200A0038 08051900
+200A003C 00701821
+```
+
+---
+
+### Golden X32
+**Author:** Skiller  
+**Notes:** [Golden Notes Multiplier Codes]
+
+```
+201463FC 0802800C
+20146400 00000000
+200A0030 00021140
+200A0034 AE22003C
+200A0038 08051900
+200A003C 00701821
+```
+
+---
+
+### Golden X64
+**Author:** Skiller  
+**Notes:** [Golden Notes Multiplier Codes]
+
+```
+201463FC 0802800C
+20146400 00000000
+200A0030 00021180
+200A0034 AE22003C
+200A0038 08051900
+200A003C 00701821
+```
+
+---
+
+### Golden X128
+**Author:** Skiller  
+**Notes:** [Golden Notes Multiplier Codes]
+
+```
+201463FC 0802800C
+20146400 00000000
+200A0030 000211C0
+200A0034 AE22003C
+200A0038 08051900
+200A003C 00701821
+```
+
+---
+
+### Golden X256
+**Author:** Skiller  
+**Notes:** [Golden Notes Multiplier Codes]
+
+```
+201463FC 0802800C
+20146400 00000000
+200A0030 00021200
+200A0034 AE22003C
+200A0038 08051900
+200A003C 00701821
+```
+
+---

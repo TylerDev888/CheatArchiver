@@ -1,0 +1,83 @@
+# Ultimate Marvel Vs Capcom 3 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01355
+
+game: "Ultimate Marvel Vs Capcom 3"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01355"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Player Points"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "20000054 05F5E0FF"
+
+  - name: "Max Wins"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "20000548 000F423F"
+
+  - name: "No Losses"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "20000554 00000000"
+
+  - name: "No Draws"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "20000560 00000000"
+
+  - name: "Max Longest Win Streak"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "20000550 000F423F"
+
+  - name: "Max Hyper Combo Wins"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "20000570 000F423F"
+
+  - name: "Max Time Over Wins"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "20000568 000F423F"
+
+  - name: "Max Perfects"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "20000564 000F423F"
+
+  - name: "No Cheap Wins"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "20000578 00000000"
+
+  - name: "Unlock All Characters"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "20000910 FFFFFFFF"
+      - "20000914 FFFFFFFF"
+
+  - name: "Gallery Full Throttle"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "42000910 FFFFFFFF"
+      - "40160004 00000000"
+
+  - name: "All Mission Cleared"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "420006BC 000003FF"
+      - "40320004 00000000"
+
+  - name: "Update (required)"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "set range:0x20,0x24AF"
+      - "set [hash]:crc32:0xFFFFFFFF"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x10:[hash]"

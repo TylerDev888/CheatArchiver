@@ -1,0 +1,51 @@
+# Lord of the Rings The Aragorns Quest cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21915
+
+game: "Lord of the Rings The Aragorns Quest"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21915"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "902629E0 0C098A20"
+
+  - name: "Inf HP"
+    codes:
+      - "200A0000 96030030"
+      - "200A0004 08063CD6"
+      - "200A0008 A603002E"
+      - "2018F354 08028000"
+
+  - name: "Inf/Max Morale"
+    codes:
+      - "200A000C 8C6800DC"
+      - "200A0010 AC6800D4"
+      - "200A0014 08053430"
+      - "200A0018 8C6600D4"
+      - "2014D0BC 08028003"
+
+  - name: "Morale (mem)"
+    codes:
+      - "002BD9FC 000000A5"
+
+  - name: "Inf Bow Ammo"
+    codes:
+      - "1012278C 00000000"
+
+  - name: "Inf/Max Bow Ammo"
+    codes:
+      - "002CEE50 000000FF"
+
+  - name: "Unlock All Equipment/Journal"
+    codes:
+      - "002CEE57 000000FF"
+      - "202CEE58 FFFFFFFF"
+      - "202CEE5C FFFFFFFF"
+      - "102CEE60 000003FF"

@@ -1,0 +1,40 @@
+# Shin Megami Tensei - Persona 4 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21782
+
+game: "Shin Megami Tensei - Persona 4"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21782"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "All Positive Arcana Effects - Press Start To Enable, Select To Disable"
+    author: "DarkSerge"
+    codes:
+      - "E002FFF7 008C0142"
+      - "2079B44C 00405108"
+      - "1079B450 00000551"
+      - "E002FFFE 008C0142"
+      - "2079B44C 00000000"
+      - "1079B450 00000000"
+
+  - name: "Arcana Effect Modifier - Press Start To Enable, Select To Disable"
+    author: "DarkSerge"
+    notes: "2079B44C ??YYZZ08"
+    codes:
+      - "E002FFF7 008C0142"
+      - "1079B450 0000AABB"
+      - "E002FFFE 008C0142"
+      - "2079B44C 00000000"
+      - "1079B450 00000000"
+
+  - name: "Enable Debug Options - Press Square To Enable, X To Disable"
+    author: "DarkSerge"
+    codes:
+      - "D08C0142 00007FFF"
+      - "0079B34C 000000FF"
+      - "D08C0142 0000BFFF"
+      - "0079B34C 000000??"

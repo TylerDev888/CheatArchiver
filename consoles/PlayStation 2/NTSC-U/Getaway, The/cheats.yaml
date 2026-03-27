@@ -1,0 +1,498 @@
+# Getaway, The cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97133
+
+game: "Getaway, The"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97133"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F030E6BC 0030E6BF"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0030E6BF"
+
+  - name: "Alternate Character-Free Roam"
+    author: "Codejunkies"
+    codes:
+      - "20105C38 00000000"
+
+  - name: "Be Able To Drive Through Cars"
+    author: "Codejunkies"
+    codes:
+      - "202EA530 00000000"
+
+  - name: "Be Able To Drive Through Lamposts"
+    author: "Codejunkies"
+    codes:
+      - "202F4814 00000000"
+
+  - name: "Be Able To Walk/Drive Through Walls"
+    author: "Codejunkies"
+    codes:
+      - "201C60D0 00000000"
+
+  - name: "Bullet Proof"
+    author: "Codejunkies"
+    codes:
+      - "201ACBA0 03E00008"
+      - "201ACBA4 00000000"
+
+  - name: "Faster Characters Toggle"
+    author: "Code Master"
+    notes: "[Character Movement Toggle Codes]"
+    codes:
+      - "D03DCD42 0000FBFE"
+      - "203741F8 42000000"
+      - "D03DCD42 0000FEFE"
+      - "203741F8 42700000"
+
+  - name: "Super Slow Characters Toggle"
+    author: "Code Master"
+    notes: "[Character Movement Toggle Codes]"
+    codes:
+      - "D03DCD42 0000FF7E"
+      - "203741F8 42C80000"
+      - "D03DCD42 0000FFDE"
+      - "203741F8 42700000"
+
+  - name: "Ultra Fast Characters Toggle"
+    author: "Code Master"
+    notes: "[Character Movement Toggle Codes]"
+    codes:
+      - "D03DCD42 0000F7FE"
+      - "203741F8 41C00000"
+      - "D03DCD42 0000FDFE"
+      - "203741F8 42700000"
+
+  - name: "Civilians Turn Into Cops In Cars"
+    author: "Code Master"
+    codes:
+      - "00104EB4 00000003"
+
+  - name: "Civilians Turn Into Cops On Foot"
+    author: "Code Master"
+    codes:
+      - "00104EB4 00000002"
+
+  - name: "Civilians Turn Into Nurses"
+    author: "Code Master"
+    codes:
+      - "00104EB4 00000004"
+
+  - name: "Civilians Turn Into Pure Generics"
+    author: "Code Master"
+    codes:
+      - "00104EB4 00000005"
+
+  - name: "Cops Are Everywhere"
+    author: "Codejunkies"
+    notes: "[Cops Codes]"
+    codes:
+      - "10104EB8 00000003"
+
+  - name: "Cops Turn Into Civilians"
+    author: "Codejunkies"
+    notes: "[Cops Codes]"
+    codes:
+      - "10104EF0 00000001"
+      - "10104F14 00000001"
+
+  - name: "Cops In Cars Turn Into Civilians"
+    author: "Code Master"
+    codes:
+      - "00104EF0 00000001"
+
+  - name: "Cops In Cars Turn Into Cops On Foot"
+    author: "Code Master"
+    codes:
+      - "00104EF0 00000002"
+
+  - name: "Cops In Cars Turn Into Nurses"
+    author: "Code Master"
+    codes:
+      - "00104EF0 00000004"
+
+  - name: "Cops In Cars Turn Into Pure Generics"
+    author: "Code Master"
+    codes:
+      - "00104EF0 00000005"
+
+  - name: "Cops N' Baddies Don't Shoot"
+    author: "Codejunkies"
+    codes:
+      - "20178E70 03E00008"
+      - "20178E74 00000000"
+
+  - name: "Cops On Foot Turn Into Civilians"
+    author: "Code Master"
+    codes:
+      - "00104F24 00000001"
+
+  - name: "Cops On Foot Turn Into Cops In Cars"
+    author: "Code Master"
+    codes:
+      - "00104F24 00000003"
+
+  - name: "Cops On Foot Turn Into Nurses"
+    author: "Code Master"
+    codes:
+      - "00104F24 00000004"
+
+  - name: "Cops On Foot Turn Into Pure Generics"
+    author: "Code Master"
+    codes:
+      - "00104F24 00000005"
+
+  - name: "Disable Baddies Ai"
+    author: "Codejunkies"
+    codes:
+      - "2015D644 00000000"
+
+  - name: "Double Health And Double Guns"
+    author: "Codejunkies"
+    codes:
+      - "20393758 FFFFFFFF"
+
+  - name: "Drive Thru Walls"
+    author: "Code Master"
+    codes:
+      - "101C15B6 00001000"
+
+  - name: "Faster Characters"
+    author: "Code Master"
+    codes:
+      - "203741F8 42000000"
+
+  - name: "Hyper Mode"
+    author: "Codejunkies"
+    notes: "[Game And Character Speed Codes]"
+    codes:
+      - "203741F8 41000000"
+
+  - name: "Maniac Runners"
+    author: "Codejunkies"
+    notes: "[Game And Character Speed Codes]"
+    codes:
+      - "20114484 3C014100"
+      - "2011448C 3C014100"
+
+  - name: "Mega Speed"
+    author: "Codejunkies"
+    notes: "[Game And Character Speed Codes]"
+    codes:
+      - "203741F8 41800000"
+
+  - name: "Quicker Character"
+    author: "Codejunkies"
+    notes: "[Game And Character Speed Codes]"
+    codes:
+      - "20114484 3C014080"
+      - "2011448C 3C014080"
+
+  - name: "Hella Ultra Fast Characters"
+    author: "Code Master"
+    codes:
+      - "203741F8 42C80000"
+
+  - name: "Inf Ammo Most Weapons"
+    author: "Codejunkies"
+    codes:
+      - "201AD9CC 00000000"
+      - "201AD930 00000000"
+
+  - name: "Infinite Ammo"
+    author: "InterAct"
+    codes:
+      - "201751B4 00000000"
+      - "201751B8 00000000"
+
+  - name: "Infinite Health"
+    author: "InterAct"
+    codes:
+      - "200C0000 0C065D58"
+      - "200C0004 00000000"
+      - "200C0008 3C0140C0"
+      - "200C000C 080638EB"
+      - "200C0010 AE010360"
+      - "2018E3A4 08030000"
+
+  - name: "2 - Burning Bridge"
+    author: "Codejunkies"
+    notes: "[Load A Saved Game From Slot 1 To Access The Selected Level]"
+    codes:
+      - "0039270C 00000002"
+
+  - name: "3 - Art Appreciation"
+    author: "Codejunkies"
+    notes: "[Load A Saved Game From Slot 1 To Access The Selected Level]"
+    codes:
+      - "0039270C 00000003"
+
+  - name: "4 - Aiding And Abetting"
+    author: "Codejunkies"
+    notes: "[Load A Saved Game From Slot 1 To Access The Selected Level]"
+    codes:
+      - "0039270C 00000004"
+
+  - name: "5 - Taxi For Mr Chai"
+    author: "Codejunkies"
+    notes: "[Load A Saved Game From Slot 1 To Access The Selected Level]"
+    codes:
+      - "0039270C 00000005"
+
+  - name: "6 - Out Of The Frying Pan"
+    author: "Codejunkies"
+    notes: "[Load A Saved Game From Slot 1 To Access The Selected Level]"
+    codes:
+      - "0039270C 00000006"
+
+  - name: "7 - Filthy Business"
+    author: "Codejunkies"
+    notes: "[Load A Saved Game From Slot 1 To Access The Selected Level]"
+    codes:
+      - "0039270C 00000007"
+
+  - name: "8 - A Touch Of Class"
+    author: "Codejunkies"
+    notes: "[Load A Saved Game From Slot 1 To Access The Selected Level]"
+    codes:
+      - "0039270C 00000008"
+
+  - name: "9 - The Cowgirl And The Cash"
+    author: "Codejunkies"
+    notes: "[Load A Saved Game From Slot 1 To Access The Selected Level]"
+    codes:
+      - "0039270C 00000009"
+
+  - name: "10 - A Cat In A Bag"
+    author: "Codejunkies"
+    notes: "[Load A Saved Game From Slot 1 To Access The Selected Level]"
+    codes:
+      - "0039270C 0000000A"
+
+  - name: "11 - The Prodigal Son"
+    author: "Codejunkies"
+    notes: "[Load A Saved Game From Slot 1 To Access The Selected Level]"
+    codes:
+      - "0039270C 0000000B"
+
+  - name: "12 - Abroad The Sol Vita"
+    author: "Codejunkies"
+    notes: "[Load A Saved Game From Slot 1 To Access The Selected Level]"
+    codes:
+      - "0039270C 0000000C"
+
+  - name: "13 - The Bargain Basement"
+    author: "Codejunkies"
+    notes: "[Load A Saved Game From Slot 1 To Access The Selected Level]"
+    codes:
+      - "0039270C 0000000D"
+
+  - name: "14 - Show Some Remorse"
+    author: "Codejunkies"
+    notes: "[Load A Saved Game From Slot 1 To Access The Selected Level]"
+    codes:
+      - "0039270C 0000000E"
+
+  - name: "15 - Disturbance In Soho"
+    author: "Codejunkies"
+    notes: "[Load A Saved Game From Slot 1 To Access The Selected Level]"
+    codes:
+      - "0039270C 0000000F"
+
+  - name: "16 - Painting The Town Red"
+    author: "Codejunkies"
+    notes: "[Load A Saved Game From Slot 1 To Access The Selected Level]"
+    codes:
+      - "0039270C 00000010"
+
+  - name: "17 - Escort Duty"
+    author: "Codejunkies"
+    notes: "[Load A Saved Game From Slot 1 To Access The Selected Level]"
+    codes:
+      - "0039270C 00000011"
+
+  - name: "18 - The Vigilante"
+    author: "Codejunkies"
+    notes: "[Load A Saved Game From Slot 1 To Access The Selected Level]"
+    codes:
+      - "0039270C 00000012"
+
+  - name: "19 - Stalking Mccormack"
+    author: "Codejunkies"
+    notes: "[Load A Saved Game From Slot 1 To Access The Selected Level]"
+    codes:
+      - "0039270C 00000013"
+
+  - name: "20 - Do The World A Favor"
+    author: "Codejunkies"
+    notes: "[Load A Saved Game From Slot 1 To Access The Selected Level]"
+    codes:
+      - "0039270C 00000014"
+
+  - name: "21 - The Jolson Files"
+    author: "Codejunkies"
+    notes: "[Load A Saved Game From Slot 1 To Access The Selected Level]"
+    codes:
+      - "0039270C 00000015"
+
+  - name: "22 - Meet Mark Hammond"
+    author: "Codejunkies"
+    notes: "[Load A Saved Game From Slot 1 To Access The Selected Level]"
+    codes:
+      - "0039270C 00000016"
+
+  - name: "23 - Showdown With Jake"
+    author: "Codejunkies"
+    notes: "[Load A Saved Game From Slot 1 To Access The Selected Level]"
+    codes:
+      - "0039270C 00000017"
+
+  - name: "24 - Land Of Hope And Glory"
+    author: "Codejunkies"
+    notes: "[Load A Saved Game From Slot 1 To Access The Selected Level]"
+    codes:
+      - "0039270C 00000018"
+
+  - name: "Load Game For Level Modifier"
+    author: "Code Master"
+    codes:
+      - "1039270C 000000??"
+
+  - name: "Load Game To Access All Levels"
+    author: "Code Master"
+    codes:
+      - "103932B2 00000018"
+
+  - name: "Never Reload"
+    author: "Code Master"
+    codes:
+      - "201AD938 00000000"
+      - "201AD9D0 00000000"
+
+  - name: "Nurses Turn Into Civilians"
+    author: "Code Master"
+    codes:
+      - "00104ED4 00000001"
+
+  - name: "Nurses Turn Into Cops In Cars"
+    author: "Code Master"
+    codes:
+      - "00104ED4 00000003"
+
+  - name: "Nurses Turn Into Cops On Foot"
+    author: "Code Master"
+    codes:
+      - "00104ED4 00000002"
+
+  - name: "Nurses Turn Into Pure Generics"
+    author: "Code Master"
+    codes:
+      - "00104ED4 00000005"
+
+  - name: "Pure Generics Turn Into Civilians"
+    author: "Code Master"
+    codes:
+      - "00104F14 00000001"
+
+  - name: "Pure Generics Turn Into Cops In Cars"
+    author: "Code Master"
+    codes:
+      - "00104F14 00000003"
+
+  - name: "Pure Generics Turn Into Cops On Foot"
+    author: "Code Master"
+    codes:
+      - "00104F14 00000002"
+
+  - name: "Pure Generics Turn Into Nurses"
+    author: "Code Master"
+    codes:
+      - "00104F14 00000004"
+
+  - name: "Super Slow Characters"
+    author: "Code Master"
+    codes:
+      - "203741F8 3F000000"
+
+  - name: "Ultra Fast Characters"
+    author: "Code Master"
+    codes:
+      - "203741F8 41C00000"
+
+  - name: "Unlock All Levels"
+    author: "InterAct"
+    codes:
+      - "103932B2 00000012"
+
+  - name: "Unlock Extra Features"
+    author: "Code Master"
+    codes:
+      - "20392708 00000002"
+
+  - name: "Walk & Drive Thru Walls"
+    author: "Code Master"
+    codes:
+      - "001C60E4 00000000"
+
+  - name: "Walk Thru Walls"
+    author: "Code Master"
+    codes:
+      - "101CE69E 00001000"
+      - "101D0D9E 00001000"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0030E6BF"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9030E6BC 0C0C4639"
+
+  - name: "Idiot AI"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2015D644 00000000"
+
+  - name: "Enemies Dont Shoot"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20178E70 03E00008"
+      - "20178E74 00000000"
+
+  - name: "Immune To Bullets"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201ACBA0 03E00008"
+      - "201ACBA4 00000000"
+
+  - name: "Drive Thru Cars"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202EA530 00000000"
+
+  - name: "Drive Thru Telephone Polls/Stop Lights/Lamp Posts"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202F4814 00000000"

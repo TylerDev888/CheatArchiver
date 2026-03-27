@@ -1,0 +1,65 @@
+# Borderlands cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00697
+
+game: "Borderlands"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00697"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Level 50 (not Working)"
+    notes: "File: BLES00697-SAVE-*\\SAVE*.SAV"
+    codes:
+      - "62000000 0000000F"
+      - "62100000 00000013"
+      - "62400000 00000032"
+
+  - name: "Max Exp (not Working)(*** Not Supported By Bsd ***)"
+    notes: "File: BLES00697-SAVE-*\\SAVE*.SAV"
+    codes:
+      - "62000000 0000000F"
+      - "62100000 00000017"
+      - "62400000 05F5E100"
+
+  - name: "Max Skills Points (not Working)"
+    notes: "File: BLES00697-SAVE-*\\SAVE*.SAV"
+    codes:
+      - "62000000 0000000F"
+      - "62100000 0000001B"
+      - "62400000 0000006A"
+
+  - name: "Max Money (not Working)"
+    notes: "File: BLES00697-SAVE-*\\SAVE*.SAV"
+    codes:
+      - "62000000 0000000F"
+      - "62100000 00000023"
+      - "62400000 05F5E0FF"
+
+  - name: "Unlock Playthrough 2 (not Working)"
+    notes: "File: BLES00697-SAVE-*\\SAVE*.SAV  (From Keha World)"
+    codes:
+      - "62000000 0000000F"
+      - "62100000 00000027"
+      - "62400000 00000001"
+
+  - name: "Lilith And Roland - Xp 99999999"
+    notes: "File: BLES00697-SAVE-*\\SAVE*.SAV"
+    codes:
+      - "search 436C6173735F"
+      - "write next 11: 05F5E0FF"
+
+  - name: "Lilith And Roland - Skill Points 99"
+    notes: "File: BLES00697-SAVE-*\\SAVE*.SAV"
+    codes:
+      - "search 436C6173735F"
+      - "write next 15: 00000063"
+
+  - name: "Lilith And Roland - Money 9999999"
+    notes: "File: BLES00697-SAVE-*\\SAVE*.SAV"
+    codes:
+      - "search 436C6173735F"
+      - "write next 1D: 0098967F"

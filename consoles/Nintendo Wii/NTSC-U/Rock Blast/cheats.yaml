@@ -1,0 +1,56 @@
+# Rock Blast cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  R7KE6K
+
+game: "Rock Blast"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "R7KE6K"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Gain 10000 Money Per Stone"
+    author: "Skiller"
+    codes:
+      - "0405E794 38032710"
+      - "0405E3D4 38032710"
+      - "0405E5B4 38032710"
+      - "C205EEE4 00000002"
+      - "3A202710 800F01E4"
+      - "60000000 00000000"
+
+  - name: "Gain 10000 Score"
+    author: "Skiller"
+    codes:
+      - "C205EEE0 00000002"
+      - "3A002710 806F01E0"
+      - "60000000 00000000"
+
+  - name: "Inf Time"
+    author: "Skiller"
+    codes:
+      - "04059478 60000000"
+
+  - name: "Inf Money For Feeding"
+    author: "Skiller"
+    codes:
+      - "0408BBC0 60000000"
+
+  - name: "Always Low Time"
+    author: "Skiller"
+    codes:
+      - "045D91F0 3E800000"
+
+  - name: "Lots Of Score"
+    author: "Skiller"
+    codes:
+      - "045D9200 05F5E0FF"
+      - "045D9208 05F5E0FF"
+
+  - name: "Lots Of Money"
+    author: "Skiller"
+    codes:
+      - "045D9204 05F5E0FF"
+      - "045D920C 05F5E0FF"

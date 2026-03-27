@@ -1,0 +1,22 @@
+# The 3rd Birthday cheat data
+# Console: PSP
+# Region:  PAL
+# Serial:  ULES01513
+
+game: "The 3rd Birthday"
+console: "PSP"
+region: "PAL"
+serial: "ULES01513"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Bp 999999999"
+    notes: "File: 3RDDATA.BIN  (* Please modify the 3RDDATA.BIN file.)"
+    codes:
+      - "200018B4 3B9AC9FF"
+
+  - name: "Release All Costumes"
+    notes: "File: SYSDATA.BIN  (* Please modify the system data (SYSDATA.BIN file in the ULJM05798SYSDATA folder).)"
+    codes:
+      - "10000618 000007FF"

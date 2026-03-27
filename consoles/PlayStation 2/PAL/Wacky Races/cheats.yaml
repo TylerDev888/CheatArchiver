@@ -1,0 +1,121 @@
+# Wacky Races cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50183
+
+game: "Wacky Races"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50183"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0226964 000001FD"
+
+  - name: "Auto Drive"
+    author: "luc-ita"
+    codes:
+      - "201D8F08 8E230624"
+      - "201D8F0C 10600007"
+      - "E002000B 002D3C5C"
+      - "201D8F08 24030001"
+      - "201D8F0C AE230624"
+
+  - name: "Can Choose Any Character Even If It's Written Not Available"
+    author: "luc-ita"
+    codes:
+      - "201909A8 10000005"
+
+  - name: "Can Use Powers Even Without Coins (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "2020E438 10000003"
+
+  - name: "One Lap To Finish Races"
+    author: "luc-ita"
+    codes:
+      - "201E0D00 00000000"
+
+  - name: "Opponents Don't Move And Drive Through Them"
+    author: "luc-ita"
+    codes:
+      - "201ECA2C 24160001"
+
+  - name: "Skip Intro Video"
+    author: "luc-ita"
+    codes:
+      - "201161B4 00000000"
+
+  - name: "Skip Warner Bros Logo"
+    author: "luc-ita"
+    codes:
+      - "20113D68 03E00008"
+
+  - name: "Take Wacky Tokens Anywhere"
+    author: "luc-ita"
+    codes:
+      - "2020ED38 00000000"
+      - "2020ED44 00000000"
+      - "2020ED60 00000000"
+
+  - name: "Always 10 Wacky Tokens"
+    author: "Codejunkies"
+    notes: "[Wacky Token Codes]"
+    codes:
+      - "10434DEC 0000000A"
+
+  - name: "Freeze Timer"
+    author: "Codejunkies"
+    notes: "[Wacky Token Codes]"
+    codes:
+      - "202C4524 00000007"
+
+  - name: "Moon Gravity"
+    author: "Codejunkies"
+    notes: "[Wacky Token Codes]"
+    codes:
+      - "202CD578 3A00126F"
+
+  - name: "Never Have More Than 2 Wacky Tokens"
+    author: "Codejunkies"
+    notes: "[Wacky Token Codes]"
+    codes:
+      - "E0010002 30434DEC"
+      - "10434DEC 00000002"
+
+  - name: "Never Have More Than 4 Wacky Tokens"
+    author: "Codejunkies"
+    notes: "[Wacky Token Codes]"
+    codes:
+      - "E0010004 30434DEC"
+      - "10434DEC 00000004"
+
+  - name: "Never Have More Than 6 Wacky Tokens"
+    author: "Codejunkies"
+    notes: "[Wacky Token Codes]"
+    codes:
+      - "E0010006 30434DEC"
+      - "10434DEC 00000006"
+
+  - name: "Never Have More Than 8 Wacky Tokens"
+    author: "Codejunkies"
+    notes: "[Wacky Token Codes]"
+    codes:
+      - "E0010008 30434DEC"
+      - "10434DEC 00000008"
+
+  - name: "Start On Last Lap"
+    author: "Codejunkies"
+    notes: "[Wacky Token Codes]"
+    codes:
+      - "10434DD0 00000007"
+
+  - name: "Water Effect/Floatcar"
+    author: "luc-ita"
+    codes:
+      - "2016DAA0 00000000"

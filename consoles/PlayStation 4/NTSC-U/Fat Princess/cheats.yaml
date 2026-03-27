@@ -1,0 +1,22 @@
+# Fat Princess cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA00836
+
+game: "Fat Princess"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA00836"
+cheat_type: "AP"
+source: "source: Discord"
+
+cheats:
+  - name: "Profile Slot 1, 999999999 Coins, Gems, And Exp"
+    notes: "File: *"
+    codes:
+      - "80010014 66697374"
+      - "00000000 00000000"
+      - "00000000 00000000"
+      - "28000014 3B9AC9FF"
+      - "28000018 3B9AC9FF"
+      - "2800001C 3B9AC9FF"

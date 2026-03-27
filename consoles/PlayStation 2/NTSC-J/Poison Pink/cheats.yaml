@@ -1,0 +1,87 @@
+# Poison Pink cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25854
+
+game: "Poison Pink"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25854"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code(MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90364C58 0C0D92BE"
+
+  - name: "Max Money"
+    notes: "[Misc Codes]"
+    codes:
+      - "204C74E8 0098967F"
+
+  - name: "Pp Max"
+    notes: "[Misc Codes]"
+    codes:
+      - "204C7520 0098967F"
+
+  - name: "Easy Overkill (??)"
+    notes: "[Misc Codes]"
+    codes:
+      - "20185134 00000000"
+
+  - name: "Always Capture"
+    notes: "[Misc Codes]"
+    codes:
+      - "20173598 00000000"
+
+  - name: "Debug Mode"
+    notes: "[Misc Codes]"
+    codes:
+      - "0054F963 00000001"
+
+  - name: "Overkill HP 0"
+    notes: "[Misc Codes]"
+    codes:
+      - "2026BDC8 100000F1"
+      - "2026BDCC A440004C"
+
+  - name: "Skill & Pp & Dictionary Fiend View Item"
+    notes: "[Misc Codes]"
+    codes:
+      - "202E2314 35EF00E0"
+      - "202E2318 A04F0002"
+
+  - name: "Max Item In Inventory On Use 99"
+    notes: "[Misc Codes]"
+    codes:
+      - "202B6E84 01C0300A"
+      - "202B6F88 240F0063"
+
+  - name: "Max Item On Hand On Use X99"
+    notes: "[Misc Codes]"
+    codes:
+      - "20276250 01C0300A"
+      - "20276320 240F0063"
+
+  - name: "Fluctuations In X99 Skill"
+    notes: "[Misc Codes]"
+    codes:
+      - "202766C8 01C0900A"
+      - "202767AC 240F0063"
+
+  - name: "Capture X99 (camille House)"
+    notes: "[Misc Codes]"
+    codes:
+      - "20278330 01E0280A"
+
+  - name: "Infinite Possible Action"
+    notes: "[Misc Codes]"
+    codes:
+      - "20147A44 0000102D"
+
+  - name: "Not Decrease The Number Of Skills"
+    notes: "[Misc Codes]"
+    codes:
+      - "20272FA8 00000000"

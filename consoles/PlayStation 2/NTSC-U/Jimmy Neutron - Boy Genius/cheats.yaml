@@ -1,0 +1,53 @@
+# Jimmy Neutron - Boy Genius cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20537
+
+game: "Jimmy Neutron - Boy Genius"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20537"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9033D290 0C0CF44C"
+
+  - name: "[M] Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F03437C8 00341EEF"
+
+  - name: "Display Debug Info"
+    author: "punk7890"
+    codes:
+      - "20499CA4 FFFFFFFF"
+
+  - name: "Pause Menu \"Options\" = Debug Menu"
+    author: "punk7890"
+    codes:
+      - "D0B05734 0000049D"
+      - "20B05734 9BF18517"
+
+  - name: "Quick Neutrons-Level 1A"
+    author: "InterAct"
+    codes:
+      - "D049856C 00000001"
+      - "1049856C 0000003B"
+
+  - name: "Quick Neutrons-Level 1B"
+    author: "InterAct"
+    codes:
+      - "D049902C 00000001"
+      - "1049902C 0000003B"
+
+  - name: "Quick Neutrons-Midway"
+    author: "InterAct"
+    codes:
+      - "D04986C4 00000001"
+      - "104986C4 00000027"

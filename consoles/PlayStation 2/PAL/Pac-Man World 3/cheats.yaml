@@ -1,0 +1,35 @@
+# Pac-Man World 3 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53959
+
+game: "Pac-Man World 3"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53959"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F041CEA8 0041CEAB"
+
+  - name: "Eat A Pellet For 10 Million Points"
+    author: "Codejunkies"
+    codes:
+      - "20320E4C 00000000"
+      - "202822C0 3C02000F"
+      - "20320DF4 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "20320B5C 00000000"
+
+  - name: "Infinite Lives"
+    author: "Codejunkies"
+    codes:
+      - "20320D00 00000000"

@@ -1,0 +1,18 @@
+# Everybody's Golf (AUS) cheat data
+# Console: PlayStation Vita
+# Region:  Unknown
+# Serial:  PCSF00006
+
+game: "Everybody's Golf (AUS)"
+console: "PlayStation Vita"
+region: "Unknown"
+serial: "PCSF00006"
+cheat_type: "Save Editor"
+source: "Credits: Slade"
+
+cheats:
+  - name: "50,000,000 Points"
+    notes: "File: data2_EU.bin"
+    codes:
+      - "20058EF8 02FAF080"
+      - "20058EFC 02FAF080"

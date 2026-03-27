@@ -1,0 +1,40 @@
+# Dance_UK cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Dance_UK"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00172733"
+
+  - name: "Best Star Rating"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2011CB6C 3C024120"
+
+  - name: "Score X10"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2011D72C 24631388"
+
+  - name: "Score 999999999"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2011D72C 28030000"
+      - "2011D730 00000000"
+      - "200C0000 3C033B9A"
+      - "200C0004 3463C9FF"
+      - "200C0008 ACC30000"
+      - "200C000C 080475CD"

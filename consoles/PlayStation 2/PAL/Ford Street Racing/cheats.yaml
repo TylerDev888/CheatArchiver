@@ -1,0 +1,26 @@
+# Ford Street Racing cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53639
+
+game: "Ford Street Racing"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53639"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F025E44C 0025E44F"
+
+  - name: "Max Cash"
+    author: "Codejunkies"
+    codes:
+      - "202495EC 0803FFC0"
+      - "200FFF00 3C0205F0"
+      - "200FFF04 AC620050"
+      - "200FFF08 03E00008"

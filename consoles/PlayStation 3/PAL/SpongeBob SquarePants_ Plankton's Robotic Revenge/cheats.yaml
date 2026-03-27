@@ -1,0 +1,50 @@
+# SpongeBob SquarePants_ Plankton's Robotic Revenge cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01911
+
+game: "SpongeBob SquarePants_ Plankton's Robotic Revenge"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01911"
+cheat_type: "Save Editor"
+source: "From SHAkA"
+
+cheats:
+  - name: "99,999,999 Botls - Spongegbob"
+    notes: "File: SBSP_0"
+    codes:
+      - "search 0x5846E8C7"
+      - "write next 0x4:05F5E0FF"
+
+  - name: "99,999,999 Botls - Mr Krabs"
+    notes: "File: SBSP_0"
+    codes:
+      - "search 0x51AD48BD"
+      - "write next 0x4:05F5E0FF"
+
+  - name: "99,999,999 Botls - Patric"
+    notes: "File: SBSP_0"
+    codes:
+      - "search 0xB78483F9"
+      - "write next 0x4:05F5E0FF"
+
+  - name: "99,999,999 Botls - Sandy"
+    notes: "File: SBSP_0"
+    codes:
+      - "search 0x5CB338FA"
+      - "write next 0x4:05F5E0FF"
+
+  - name: "99,999,999 Botls - Squidward"
+    notes: "File: SBSP_0"
+    codes:
+      - "search 0xB37153C4"
+      - "write next 0x4:05F5E0FF"
+
+  - name: "Update Crc32 For Sbsp_0 (required)"
+    notes: "File: SBSP_0  (set range:0x00000C,0x00014F)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x00000C,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000004:[hash]"

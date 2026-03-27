@@ -1,0 +1,24 @@
+# Simple 2000 Series Vol.63 - The Suieitaikai cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62534
+
+game: "Simple 2000 Series Vol.63 - The Suieitaikai"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62534"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "902847D8 0C0A119E"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9025CD58 0C09E6A6"

@@ -1,0 +1,75 @@
+# Code Lyoko Quest For Infinity cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21743
+
+game: "Code Lyoko Quest For Infinity"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21743"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "904112B0 0C104454"
+
+  - name: "Max Pts On Pickup"
+    author: "SkillerCMP"
+    notes: "[Misc Codes]"
+    codes:
+      - "004FC392 00000081"
+
+  - name: "Max Pts On Pickup (alt)"
+    author: "SkillerCMP"
+    notes: "[Misc Codes]"
+    codes:
+      - "004FC39C 00000001"
+
+  - name: "Max/Inf Pts"
+    author: "SkillerCMP"
+    notes: "[Misc Codes]"
+    codes:
+      - "205E9034 000F423F"
+
+  - name: "Buying Upgrades Dont Decrease Pts"
+    author: "SkillerCMP"
+    notes: "[Misc Codes]"
+    codes:
+      - "204F332C 00000000"
+
+  - name: "Buying Upgrades Increase Pts"
+    author: "SkillerCMP"
+    notes: "[Misc Codes]"
+    codes:
+      - "004F332C 00000021"
+
+  - name: "Power Upgrades Cost Nothing"
+    author: "SkillerCMP"
+    notes: "[Misc Codes]"
+    codes:
+      - "204FC49C AC400578"
+      - "204FC4A0 03E00008"
+      - "204FC4A4 8C420578"
+
+  - name: "Weapon Upgrades Cost Nothing"
+    author: "SkillerCMP"
+    notes: "[Misc Codes]"
+    codes:
+      - "204FC464 AC4002F8"
+      - "204FC468 03E00008"
+      - "204FC46C 8C4202F8"
+
+  - name: "Inf HP (characters)"
+    author: "SkillerCMP"
+    notes: "[Misc Codes]"
+    codes:
+      - "204FC25C 00000000"
+
+  - name: "Inf Power (characters)"
+    author: "SkillerCMP"
+    notes: "[Misc Codes]"
+    codes:
+      - "204FC334 00000000"

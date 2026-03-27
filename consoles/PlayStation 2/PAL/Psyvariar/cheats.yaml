@@ -1,0 +1,42 @@
+# Psyvariar cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Psyvariar"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "901E2904 0C07BDA9"
+      - "901EAD04 0C07DEA9"
+
+  - name: "Unlimited Credits"
+    author: "Xploder"
+    notes: "[Medium Unit]"
+    codes:
+      - "2023A6A4 00000009"
+
+  - name: "Unlimited Smart Bombs"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "2091EEB0 00000008"
+
+  - name: "Unlimited Lives"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "2091EEAC 00000009"
+
+  - name: "Maximum Level"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "2091EEB8 000003E7"

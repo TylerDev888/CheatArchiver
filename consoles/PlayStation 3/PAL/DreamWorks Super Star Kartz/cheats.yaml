@@ -1,0 +1,20 @@
+# DreamWorks Super Star Kartz cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01373
+
+game: "DreamWorks Super Star Kartz"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01373"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Savegame.bin (required)"
+    notes: "File: SAVEGAME.BIN  (set range:0x000008,0x0011C7)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000008,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000004:[hash]"

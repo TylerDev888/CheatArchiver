@@ -1,0 +1,22 @@
+# Plants Vs Zombies (PSN) cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUA30059
+
+game: "Plants Vs Zombies (PSN)"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUA30059"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Money(use This Cheat If You Are Using V1.01.)"
+    notes: "File: USER.DAT"
+    codes:
+      - "20000024 000F423F"
+
+  - name: "Max Money(use This Cheat If You Are Using V1.00 Or Lower.)"
+    notes: "File: USER.DAT"
+    codes:
+      - "20000034 000F423F"

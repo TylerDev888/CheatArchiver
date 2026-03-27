@@ -1,0 +1,72 @@
+# Sonic Unleashed cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-55580
+
+game: "Sonic Unleashed"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-55580"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Skiller"
+    notes: "[Master Codes]"
+    codes:
+      - "9065B7D8 0C196D9E"
+
+  - name: "Dark Gaia Force Points"
+    author: "Skiller"
+    codes:
+      - "2089507C 05F5E0FF"
+
+  - name: "Gain Max Special/Coins"
+    author: "Skiller"
+    codes:
+      - "2024F058 C4602718"
+
+  - name: "Have Max Moon After Pickup"
+    author: "Skiller"
+    codes:
+      - "20420570 24050064"
+      - "20420574 03E00008"
+      - "20420578 A0850001"
+
+  - name: "Have Max Sun After Pickup"
+    author: "Skiller"
+    codes:
+      - "20420560 24050064"
+      - "20420564 03E00008"
+      - "20420568 A0850000"
+
+  - name: "Infinite Health"
+    author: "Skiller"
+    codes:
+      - "2024E3A0 461F0841"
+
+  - name: "Main Timer Freeze(Not Mission Timer)"
+    author: "Skiller"
+    codes:
+      - "201ECD4C 461F0800"
+
+  - name: "Max Moons"
+    author: "Skiller"
+    codes:
+      - "00892371 000000FF"
+
+  - name: "Max Suns"
+    author: "Skiller"
+    codes:
+      - "00892370 000000FF"
+
+  - name: "Other Timer(Mission Time Freeze Code)"
+    author: "Skiller"
+    codes:
+      - "201ECDD4 461F0800"
+
+  - name: "Refill Health On Coin Pickup"
+    author: "Skiller"
+    codes:
+      - "2025000C C4802708"

@@ -1,0 +1,36 @@
+# Bass Master Fishing cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51862
+
+game: "Bass Master Fishing"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51862"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0116F2C 00116F2F"
+
+  - name: "Press L2 For Instant Reel In"
+    author: "Codejunkies"
+    codes:
+      - "D04569C2 0000FEFF"
+      - "20390FC0 00000000"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90116F2C 0C048BAC"
+
+  - name: "Unbreakable Line"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "2021FD1C 44800000"

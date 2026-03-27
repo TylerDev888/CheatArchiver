@@ -1,0 +1,34 @@
+# WWII - Tank Battles cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52954
+
+game: "WWII - Tank Battles"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52954"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0121270 00121273"
+
+  - name: "Master Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90113750 0C044D7C"
+
+  - name: "Infinite Special Ammo"
+    author: "Codejunkies"
+    codes:
+      - "201F7184 24750000"
+
+  - name: "PAL To NTSC (60Hz)"
+    author: "punk7890"
+    codes:
+      - "2010FCB8 24120002"

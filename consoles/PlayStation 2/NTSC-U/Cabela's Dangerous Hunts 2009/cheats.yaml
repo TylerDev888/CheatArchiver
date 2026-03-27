@@ -1,0 +1,78 @@
+# Cabela's Dangerous Hunts 2009 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21841
+
+game: "Cabela's Dangerous Hunts 2009"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21841"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9011E678 0C047946"
+
+  - name: "Infinite Health"
+    author: "Azagthoth>SkillerCMP"
+    codes:
+      - "205D0D28 3C0142C8"
+      - "205D0D2C AC61018C"
+
+  - name: "God Mode"
+    author: "Azagthoth>SkillerCMP"
+    codes:
+      - "007712D0 00000001"
+
+  - name: "Inf Ammo"
+    author: "Azagthoth>SkillerCMP"
+    codes:
+      - "2052D5D8 24420000"
+
+  - name: "Alt. Never Reload"
+    author: "Azagthoth>SkillerCMP"
+    codes:
+      - "007A4638 00000001"
+
+  - name: "Mission Timer Never Decreases"
+    author: "Azagthoth>SkillerCMP"
+    codes:
+      - "20596FD4 00000000"
+
+  - name: "Max/Infinite Upgrade Points"
+    author: "Azagthoth>SkillerCMP"
+    codes:
+      - "2078E750 05F5E0FF"
+
+  - name: "Freeze Animals"
+    author: "Azagthoth>SkillerCMP"
+    codes:
+      - "007B3D60 00000001"
+
+  - name: "Stealthy"
+    author: "Azagthoth>SkillerCMP"
+    codes:
+      - "007A36A0 00000001"
+
+  - name: "God Mode/Inf HP (alt)"
+    author: "Azagthoth>SkillerCMP"
+    codes:
+      - "0050298C 00000001"
+
+  - name: "Inf Ammo (alt)"
+    author: "Azagthoth>SkillerCMP"
+    codes:
+      - "2051C878 2402000A"
+
+  - name: "Freeze Animals (alt)"
+    author: "Azagthoth>SkillerCMP"
+    codes:
+      - "005A7908 00000001"
+
+  - name: "Stealthy (alt)"
+    author: "Azagthoth>SkillerCMP"
+    codes:
+      - "00508AD8 00000001"

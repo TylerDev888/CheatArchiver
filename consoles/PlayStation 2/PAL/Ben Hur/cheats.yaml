@@ -1,0 +1,185 @@
+# Ben Hur cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51350
+
+game: "Ben Hur"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51350"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01D04CC 001D04CF"
+
+  - name: "Body Cheat (Press R3+Down To Activate)"
+    author: "Codejunkies"
+    notes: "[All Character Codes]"
+    codes:
+      - "D05986E2 0000FFBB"
+      - "20178CB0 0805E36E"
+      - "D05986E2 0000FFBB"
+      - "20178AA4 1000001C"
+
+  - name: "Disable AI (Press R3+Up To Activate)"
+    author: "Codejunkies"
+    notes: "[All Character Codes]"
+    codes:
+      - "D05986E2 0000FFEB"
+      - "20178AA4 1000001C"
+      - "D05986E2 0000FFEB"
+      - "20178CB0 0805E3AA"
+
+  - name: "End Of The Race (Press L3+Up To Activate)"
+    author: "Codejunkies"
+    notes: "[All Character Codes]"
+    codes:
+      - "D05986E2 0000FFED"
+      - "20178CB0 0805E38A"
+      - "D05986E2 0000FFED"
+      - "20178AA4 1000001C"
+
+  - name: "Horse Has Infinite Energy"
+    author: "Codejunkies"
+    notes: "[All Character Codes]"
+    codes:
+      - "20105228 00000000"
+
+  - name: "Horse Is Never Exhausted"
+    author: "Codejunkies"
+    notes: "[All Character Codes]"
+    codes:
+      - "2012F9B8 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[All Character Codes]"
+    codes:
+      - "201524CC 240300FF"
+
+  - name: "Life Cheat (Press R3+Left To Activate)"
+    author: "Codejunkies"
+    notes: "[All Character Codes]"
+    codes:
+      - "D05986E2 0000FF7B"
+      - "20178CB0 0805E32E"
+      - "D05986E2 0000FF7B"
+      - "20178AA4 1000001C"
+
+  - name: "Mana Cheat (Press R3+Right To Activate)"
+    author: "Codejunkies"
+    notes: "[All Character Codes]"
+    codes:
+      - "D05986E2 0000FFDB"
+      - "20178CB0 0805E34E"
+      - "D05986E2 0000FFDB"
+      - "20178AA4 1000001C"
+
+  - name: "Quick Magic Regen"
+    author: "Codejunkies"
+    notes: "[All Character Codes]"
+    codes:
+      - "20196D30 240300FF"
+
+  - name: "Restart AI (Press L3+Down To Activate)"
+    author: "Codejunkies"
+    notes: "[All Character Codes]"
+    codes:
+      - "D05986E2 0000FFBD"
+      - "20178CB0 0805E3CE"
+      - "D05986E2 0000FFBD"
+      - "20178AA4 1000001C"
+
+  - name: "This Code Must Always Be On (This Is To Activate The Cheat Codes Below)"
+    author: "Codejunkies"
+    notes: "[All Character Codes]"
+    codes:
+      - "D05986E2 0000FFFF"
+      - "20178AA4 0805E2B6"
+      - "20178C68 00000000"
+
+  - name: "Body Cheat"
+    author: "Codejunkies"
+    notes: "[Cheats - Use Only One of These]"
+    codes:
+      - "20178B10 00000000"
+      - "20178CB0 0805E36E"
+      - "20178C68 00000000"
+
+  - name: "Disable A.I."
+    author: "Codejunkies"
+    notes: "[Cheats - Use Only One of These]"
+    codes:
+      - "20178B10 00000000"
+      - "20178CB0 0805E3AA"
+      - "20178C68 00000000"
+
+  - name: "Life Cheat"
+    author: "Codejunkies"
+    notes: "[Cheats - Use Only One of These]"
+    codes:
+      - "20178B10 00000000"
+      - "20178CB0 00000000"
+      - "20178C68 00000000"
+
+  - name: "Mana Cheat"
+    author: "Codejunkies"
+    notes: "[Cheats - Use Only One of These]"
+    codes:
+      - "20178B10 00000000"
+      - "20178CB0 0805E34E"
+      - "20178C68 00000000"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001D04CF"
+
+  - name: "Gems"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "202B40DC 00000000"
+
+  - name: "Gold"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "202B3FD4 00000000"
+      - "202B4054 00000000"
+      - "202B4158 00000000"
+      - "202B41C4 00000000"
+      - "202B4234 00000000"
+      - "202B42B4 00000000"
+
+  - name: "Horses' Stamina"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2012EED0 00000000"
+      - "2012F9B8 00000000"
+      - "201E5B68 00000000"
+
+  - name: "Chariot Resistance"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20105238 00000000"
+
+  - name: "Life"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "201524DC 00000000"
+
+  - name: "Mana"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2019B890 00000000"

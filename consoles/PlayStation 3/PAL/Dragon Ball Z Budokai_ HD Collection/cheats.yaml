@@ -1,0 +1,52 @@
+# Dragon Ball Z Budokai_ HD Collection cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01658
+
+game: "Dragon Ball Z Budokai_ HD Collection"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01658"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Zenie"
+    notes: "File: BLES01658DBZ1\\DBZ1DATA"
+    codes:
+      - "200000B8 000186A0"
+
+  - name: "Unlock All Characters"
+    notes: "File: BLES01658DBZ1\\DBZ1DATA"
+    codes:
+      - "720000BC 003FFFFF"
+
+  - name: "Unlock Story Mode"
+    notes: "File: BLES01658DBZ1\\DBZ1DATA"
+    codes:
+      - "700000C0 00000001"
+      - "A00000A3 00000011"
+      - "7F03FF0F FF007F03"
+      - "FF0FFF00 7F03FF0F"
+      - "FF000000 00000000"
+
+  - name: "Unlock All Dual Mode Stages"
+    notes: "File: BLES01658DBZ1\\DBZ1DATA"
+    codes:
+      - "000000B4 00000009"
+
+  - name: "Unlock All World Match Difficulties"
+    notes: "File: BLES01658DBZ1\\DBZ1DATA"
+    codes:
+      - "0000009F 00000002"
+
+  - name: "Unlock The Legend Of Mr Satan"
+    notes: "File: BLES01658DBZ1\\DBZ1DATA"
+    codes:
+      - "000000A0 00000001"
+
+  - name: "Unlock All System Capsules"
+    notes: "File: BLES01658DBZ3\\DBZ3DATA"
+    codes:
+      - "4000D626 00000001"
+      - "40790001 00000000"

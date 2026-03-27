@@ -1,0 +1,17 @@
+# Dragon Age II cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLAS50317
+
+game: "Dragon Age II"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLAS50317"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Money 999999999(from Chaoszage)"
+    codes:
+      - "search 0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF"
+      - "write next 0x30:0x3B9AC9FF"

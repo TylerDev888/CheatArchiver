@@ -1,0 +1,24 @@
+# Simple 2000 Series Vol.82 - The Kung-Fu cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62650
+
+game: "Simple 2000 Series Vol.82 - The Kung-Fu"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62650"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90112450 0C0448BC"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9011BCA0 0C049B64"

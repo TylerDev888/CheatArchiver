@@ -1,0 +1,29 @@
+# TG Dare Devil cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "TG Dare Devil"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001E0B63"
+
+  - name: "Continues"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "11711904 07230063"
+
+  - name: "Time"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "117118BA 07237FFF"

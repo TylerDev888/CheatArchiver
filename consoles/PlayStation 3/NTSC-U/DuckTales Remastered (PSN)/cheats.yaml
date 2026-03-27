@@ -1,0 +1,55 @@
+# DuckTales Remastered (PSN) cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUB31126
+
+game: "DuckTales Remastered (PSN)"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUB31126"
+cheat_type: "Save Editor"
+source: "From Azagthoth (CMP)"
+
+cheats:
+  - name: "Max Cash"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "200000D0 05F5E0FF"
+
+  - name: "99 Lives On Hard You Must First Kill The 1st Boss For Patch To Work"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "20000019 02620000"
+
+  - name: "9 Hards"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "2000001B 09020000"
+
+  - name: "Change The Dificulty Easy"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "20000016 00010000"
+
+  - name: "Change The Dificulty Normal"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "20000016 00010001"
+
+  - name: "Change The Dificulty Hard"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "20000016 00010002"
+
+  - name: "Change The Dificulty Extreme"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "20000016 00010003"
+
+  - name: "Update Checksum For Save.dat (required)"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x10,pointer"
+      - "set [hash]:lookup3_little2(0x04D2, 0x162E)"
+      - "write at 0x0000:[hash]"

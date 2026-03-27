@@ -1,0 +1,92 @@
+# Alias cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51822
+
+game: "Alias"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51822"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0283714 00283717"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "2016F698 00000000"
+
+  - name: "Press Select+L1 For Normal Vision"
+    author: "Codejunkies"
+    notes: "[Vision Modifier]"
+    codes:
+      - "D0381FC2 0000FBFE"
+      - "20385BA0 00000000"
+
+  - name: "Press Select+L1+L2 For Negative Vision"
+    author: "Codejunkies"
+    notes: "[Vision Modifier]"
+    codes:
+      - "D0381FC2 0000FAFE"
+      - "20385BA0 00000004"
+
+  - name: "Press Select+L2 For Thermal Vision"
+    author: "Codejunkies"
+    notes: "[Vision Modifier]"
+    codes:
+      - "D0381FC2 0000FEFE"
+      - "20385BA0 00000001"
+
+  - name: "Press Select+R1 For Fog Vision"
+    author: "Codejunkies"
+    notes: "[Vision Modifier]"
+    codes:
+      - "D0381FC2 0000F7FE"
+      - "20385BA0 00000002"
+
+  - name: "Press Select+R1+R2 For Drunk Vision"
+    author: "Codejunkies"
+    notes: "[Vision Modifier]"
+    codes:
+      - "D0381FC2 0000F5FE"
+      - "20385BA0 00000005"
+
+  - name: "Press Select+R2 For Enhanced Vision"
+    author: "Codejunkies"
+    notes: "[Vision Modifier]"
+    codes:
+      - "D0381FC2 0000FDFE"
+      - "20385BA0 00000003"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90244DA8 0220282D"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C2000 C60C0188"
+      - "200C2004 03E00008"
+      - "200C2008 E60C0194"
+      - "201D09BC 0C030800"
+
+  - name: "Ammunition"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2016F698 24003634"
+
+  - name: "One Hit Kill"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "201642A4 46000001"

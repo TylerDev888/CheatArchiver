@@ -1,0 +1,182 @@
+# BLAZBLUE  CHRONOPHANTASMA cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB01978
+
+game: "BLAZBLUE  CHRONOPHANTASMA"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB01978"
+cheat_type: "AP"
+source: ""
+
+cheats:
+  - name: "999999p$ Money Abyss"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "write at 0x00006840:0x000F423F"
+
+  - name: "Abyss Mode Ragna Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006AA0 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode Jin Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006AB0 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode Noel Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006AC0 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode Rachel Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006AD0 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode Taokaka Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006AE0 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode Tager Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006AF0 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode Litchi Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006B00 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode Arakune Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006B10 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode Bang Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006B20 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode Carl Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006B30 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode Haku-men Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006B40 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode ?-13- Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006B50 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode Tsubaki Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006B60 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode Hazama Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006B70 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode ?-12- Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006B80 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode Makoto Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006B90 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode Valkenhayn Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006BA0 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode Platinum Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006BB0 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode Relius Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006BC0 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode Izayoi Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006BD0 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode Amane Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006BE0 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode Bullet Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006BF0 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode Azrael Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT  (DLC Characters Abyss Max Stats)"
+    codes:
+      - "42006C00 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode Kagura Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006C10 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode Terumi Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006C20 000003E7"
+      - "40040004 00000000"
+
+  - name: "Abyss Mode Kokonoe Atk/def/heat/spd +999"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "42006C30 000003E7"
+      - "40040004 00000000"
+
+  - name: "Default:update Csum"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "carry(2)"
+      - "set [csum]:0"
+      - "set [csum]:wadd(4,2528F)"
+      - "write at 0x0:[csum]"
+      - "write at 0x0:xor:FFFF"

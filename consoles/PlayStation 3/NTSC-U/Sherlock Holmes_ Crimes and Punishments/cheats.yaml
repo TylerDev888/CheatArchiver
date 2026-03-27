@@ -1,0 +1,26 @@
+# Sherlock Holmes_ Crimes and Punishments cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS31412
+
+game: "Sherlock Holmes_ Crimes and Punishments"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS31412"
+cheat_type: "Save Editor"
+source: "from aldo tools"
+
+cheats:
+  - name: "Update Sha1 For Sh7sa_1 (required)"
+    notes: "File: SH7SA_1"
+    codes:
+      - "set range:0x000018,eof+1"
+      - "set [hash]:SHA1"
+      - "write at 0x000000:[hash]"
+
+  - name: "Update Sha1 For Sh7sa_2 (required)"
+    notes: "File: SH7SA_2"
+    codes:
+      - "set range:0x000018,eof+1"
+      - "set [hash]:SHA1"
+      - "write at 0x000000:[hash]"

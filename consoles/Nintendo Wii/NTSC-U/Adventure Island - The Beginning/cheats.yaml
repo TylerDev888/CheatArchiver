@@ -1,0 +1,38 @@
+# Adventure Island - The Beginning cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  WTME
+
+game: "Adventure Island - The Beginning"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "WTME"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Inf Lives"
+    author: "Skiller"
+    codes:
+      - "0406648C 60000000"
+
+  - name: "Inf HP"
+    author: "Skiller"
+    codes:
+      - "04070284 60000000"
+      - "040697E8 60000000"
+
+  - name: "Lives Max"
+    author: "Skiller"
+    codes:
+      - "0032C78F 00000063"
+
+  - name: "Food Gained Max"
+    author: "Skiller"
+    codes:
+      - "0032C78B 00000063"
+
+  - name: "Always Have Weapons X"
+    author: "Skiller"
+    codes:
+      - "0058B720 0000[WE]"

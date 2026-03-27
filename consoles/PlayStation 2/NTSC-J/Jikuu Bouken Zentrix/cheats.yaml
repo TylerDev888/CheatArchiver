@@ -1,0 +1,27 @@
+# Jikuu Bouken Zentrix cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25498
+
+game: "Jikuu Bouken Zentrix"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25498"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90111D70 0C044704"
+
+  - name: "Unlock Everything"
+    author: "punk7890"
+    codes:
+      - "20585870 FFFFFFFF"
+      - "20585874 FFFFFFFF"
+      - "20585878 FFFFFFFF"
+      - "20585880 FFFFFFFF"
+      - "20585884 FFFFFFFF"

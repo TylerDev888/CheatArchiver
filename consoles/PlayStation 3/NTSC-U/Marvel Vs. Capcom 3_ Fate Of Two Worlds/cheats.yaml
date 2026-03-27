@@ -1,0 +1,76 @@
+# Marvel Vs. Capcom 3_ Fate Of Two Worlds cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS30410
+
+game: "Marvel Vs. Capcom 3_ Fate Of Two Worlds"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS30410"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Player Points"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "2000003C 05F5E0FF"
+
+  - name: "Max Battles Fought"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "200004A8 000F423F"
+
+  - name: "Max Wins"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "200004B0 000F423F"
+
+  - name: "No Losses"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "200004BC 00000000"
+
+  - name: "No Draws"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "200004C8 00000000"
+
+  - name: "Max Longest Win Streak"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "200004B8 000F423F"
+
+  - name: "Max Hyper Combo Wins"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "200004D8 000F423F"
+
+  - name: "Max Time Over Wins"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "200004D0 000F423F"
+
+  - name: "Max Perfects"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "200004CC 000F423F"
+
+  - name: "No Cheap Wins"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "200004E0 00000000"
+
+  - name: "Unlock All Characters"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "200008D0 FFFFFFFF"
+      - "200008D4 FFFFFFFF"
+
+  - name: "Update (required)"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "set range:0x20,0x19CF"
+      - "set [hash]:crc32:0xFFFFFFFF"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x10:[hash]"

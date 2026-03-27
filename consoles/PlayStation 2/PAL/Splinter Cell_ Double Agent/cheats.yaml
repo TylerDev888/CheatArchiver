@@ -1,0 +1,44 @@
+# Splinter Cell_ Double Agent cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Splinter Cell_ Double Agent"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9012A7A0 0C042572"
+
+  - name: "Infinite Health"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2059AE74 C4610770"
+      - "2059AE78 E46102C0"
+      - "2059AE7C 468008A0"
+
+  - name: "Infinite Ammo"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20498F30 00000000"
+      - "20498F3C 00000000"
+
+  - name: "Never Make Noise"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "205EEB84 00000000"
+
+  - name: "Always Hidden"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2039251C 44800000"

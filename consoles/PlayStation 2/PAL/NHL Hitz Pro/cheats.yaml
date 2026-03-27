@@ -1,0 +1,61 @@
+# NHL Hitz Pro cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51840
+
+game: "NHL Hitz Pro"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51840"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100088 0010008B"
+
+  - name: "All Cheats"
+    author: "Codejunkies"
+    codes:
+      - "203212F8 2402FFFF"
+      - "203212FC AEA203E0"
+
+  - name: "AR Max Below 3.14 Fix"
+    author: "Codejunkies"
+    codes:
+      - "20118E40 3C03200F"
+      - "20118E48 8C65FFF8"
+      - "20118E4C 24040079"
+      - "20118E50 24030074"
+      - "20118E54 0000000C"
+
+  - name: "Disable AI"
+    author: "Codejunkies"
+    codes:
+      - "201803D4 03E00008"
+      - "201803D0 00000000"
+
+  - name: "Never Stressed"
+    author: "Codejunkies"
+    codes:
+      - "201C7654 00000000"
+
+  - name: "No Heads"
+    author: "Codejunkies"
+    codes:
+      - "20155C3C 1000006A"
+
+  - name: "No Offside"
+    author: "Codejunkies"
+    codes:
+      - "2018C200 03E00008"
+      - "2018C204 00000000"
+
+  - name: "Ultra Powerful Strikes"
+    author: "Codejunkies"
+    codes:
+      - "201D7550 00000000"
+      - "201D7558 3C024300"

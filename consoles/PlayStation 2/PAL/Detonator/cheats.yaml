@@ -1,0 +1,35 @@
+# Detonator cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Detonator"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9017D19C 0C05C1C0"
+
+  - name: "Turns"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "2014ACB8 24030000"
+
+  - name: "Dynamite"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "2014AD10 00001821"
+
+  - name: "Special Dynamites"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "2014AD98 24040063"

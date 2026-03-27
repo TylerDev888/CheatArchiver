@@ -1,0 +1,31 @@
+# Rugby 2004 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Rugby 2004"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "903B038C 0C0F1E17"
+
+  - name: "Stop Clock"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "D0450AC2 0000FFFD"
+      - "20184AD0 00000000"
+
+  - name: "Start Clock"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "D0450AC2 0000FFFB"
+      - "20184AD0 E6200000"

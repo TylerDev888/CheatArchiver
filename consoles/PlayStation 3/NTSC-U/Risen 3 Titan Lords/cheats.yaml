@@ -1,0 +1,103 @@
+# Risen 3 Titan Lords cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS31432
+
+game: "Risen 3 Titan Lords"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS31432"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Decompress Save (required)"
+    notes: "File: SAVEGAME.SAV"
+    codes:
+      - "Decompress(0x00000008, -15)"
+
+  - name: "Max Melee"
+    notes: "File: ~extracted\\00000008.dat"
+    codes:
+      - "search \"Player\":2"
+      - "write next 75:0x64"
+
+  - name: "Max Ranged"
+    notes: "File: ~extracted\\00000008.dat"
+    codes:
+      - "search \"Player\":2"
+      - "write next 81:0x64"
+
+  - name: "Max Cunning"
+    notes: "File: ~extracted\\00000008.dat"
+    codes:
+      - "search \"Player\":2"
+      - "write next 8D:0x64"
+
+  - name: "Max Influence"
+    notes: "File: ~extracted\\00000008.dat"
+    codes:
+      - "search \"Player\":2"
+      - "write next 99:0x64"
+
+  - name: "Max Toughness"
+    notes: "File: ~extracted\\00000008.dat"
+    codes:
+      - "search \"Player\":2"
+      - "write next A5:0x64"
+
+  - name: "Max Dexterity"
+    notes: "File: ~extracted\\00000008.dat"
+    codes:
+      - "search \"Player\":2"
+      - "write next B1:0x64"
+
+  - name: "Max Magic"
+    notes: "File: ~extracted\\00000008.dat"
+    codes:
+      - "search \"Player\":2"
+      - "write next BD:0x64"
+
+  - name: "Max Spirit"
+    notes: "File: ~extracted\\00000008.dat"
+    codes:
+      - "search \"Player\":2"
+      - "write next C9:0x64"
+
+  - name: "Max All Stats"
+    notes: "File: ~extracted\\00000008.dat"
+    codes:
+      - "search \"Player\":2"
+      - "write next 75:0x64"
+      - "write next 81:0x64"
+      - "write next 8D:0x64"
+      - "write next 99:0x64"
+      - "write next A5:0x64"
+      - "write next B1:0x64"
+      - "write next BD:0x64"
+      - "write next C9:0x64"
+
+  - name: "Max Health"
+    notes: "File: ~extracted\\00000008.dat"
+    codes:
+      - "search \"Player\":2"
+      - "write next D2:0x77359400"
+      - "search \"Player\":2"
+      - "write next DE:0x77359400"
+
+  - name: "Max Glory"
+    notes: "File: ~extracted\\00000008.dat"
+    codes:
+      - "search \"Player\":2"
+      - "write next EA:0x77359400"
+
+  - name: "Max Souls"
+    notes: "File: ~extracted\\00000008.dat"
+    codes:
+      - "search \"Player\":2"
+      - "write next F9:0x64"
+
+  - name: "Compress Save (required)"
+    notes: "File: SAVEGAME.SAV"
+    codes:
+      - "Compress(0x00000008)"

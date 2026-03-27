@@ -1,0 +1,36 @@
+# Painkiller_ Hell & Damnation cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01791
+
+game: "Painkiller_ Hell & Damnation"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01791"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Shotgun Ammo 32767 By Chaoszage"
+    notes: "File: PKSAVE"
+    codes:
+      - "search \"Shotgun\""
+      - "write next A:7FFF"
+
+  - name: "Soul Reaper Ammo 32767 By Chaoszage"
+    notes: "File: PKSAVE"
+    codes:
+      - "search \"SoulReaper\""
+      - "write next D:7FFF"
+
+  - name: "Armor 32767 By Chaoszage"
+    notes: "File: PKSAVE"
+    codes:
+      - "search \"PainItem\""
+      - "write next (-6):7FFF"
+
+  - name: "Halt 32767 By Chaoszage"
+    notes: "File: PKSAVE"
+    codes:
+      - "search \"PainItem\""
+      - "write next (-14):7FFF"

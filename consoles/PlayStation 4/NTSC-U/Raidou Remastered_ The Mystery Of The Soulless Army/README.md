@@ -1,0 +1,106 @@
+# Raidou Remastered_ The Mystery Of The Soulless Army
+
+**Console:** PlayStation 4  
+**Region:** NTSC-U  
+**Serial:** CUSA42359  
+**Cheat Type:** SaveWizard  
+
+---
+
+## Cheats
+
+### Max Stats Demon In Party
+**Author:**   
+**Notes:** [Demons And Items:{Demon Slot Order Matches In Games Order From Top To Bottom Including If Demon Is Equipped Or Not}]  File: raidou\\SaveData
+
+```
+6C410001 00000000
+6C340001 00059EA3
+92000000 [Slot]
+18000014 000003E7
+28000024 00280028
+28000028 00280028
+1800002C 000003E7
+2800003C 00280028
+28000040 00280028
+```
+
+---
+
+### Change Demon In Party
+**Author:**   
+**Notes:** [Demons And Items:{Demon Slot Order Matches In Games Order From Top To Bottom Including If Demon Is Equipped Or Not}]  File: raidou\\SaveData
+
+```
+6C410001 00000000
+6C340001 00059EA3
+92000000 [Slot]
+28000003 [ID+Type]
+```
+
+---
+
+### Change Demons Combat Skills In Party
+**Author:**   
+**Notes:** [Demons And Items:{Demon Slot Order Matches In Games Order From Top To Bottom Including If Demon Is Equipped Or Not}]  File: raidou\\SaveData
+
+```
+6C410001 00000000
+6C340001 00059EA3
+92000000 [Slot]
+180000BC 0000[Combat<Skill 1>]
+180000CO 0000[Combat<Skill 2>]
+180000C4 0000[Combat<Skill 3>]
+180000C8 0000[Combat<Skill 4>]
+180000CC 0000[Combat<Skill 5>]
+180000DO 0000[Combat<Skill 6>]
+180000D4 0000[Combat<Skill 7>]
+180000D8 0000[Combat<Skill 8>]
+```
+
+---
+
+### Change Demons Passive Skills In Party
+**Author:**   
+**Notes:** [Demons And Items:{Demon Slot Order Matches In Games Order From Top To Bottom Including If Demon Is Equipped Or Not}]  File: raidou\\SaveData
+
+```
+6C410001 00000000
+6C340001 00059EA3
+92000000 [Slot]
+18000197 0000[Passive<Skill 1>]
+1800019B 0000[Passive<Skill 2>]
+1800019F 0000[Passive<Skill 3>]
+180001A3 0000[Passive<Skill 4>]
+180001A7 0000[Passive<Skill 5>]
+180001A8 0000[Passive<Skill 6>]
+```
+
+---
+
+### Change Demons Investigation Skills In Party
+**Author:**   
+**Notes:** [Demons And Items:{Demon Slot Order Matches In Games Order From Top To Bottom Including If Demon Is Equipped Or Not}]  File: raidou\\SaveData
+
+```
+6C410001 00000000
+6C340001 00059EA3
+92000000 [Slot]
+18000139 0000[Invest<Skill 1>]
+1800013D 0000[Invest<Skill 2>]
+```
+
+---
+
+### Add/Change Quantity Of Item
+**Author:**   
+**Notes:** [Items]  File: raidou\\SaveData
+
+```
+6C410001 00000000
+6C340001 00059EA3
+92000000 00002F08
+[Item] 000000[Amount:63:HEX:BIG<Item Amount>]
+```
+
+---

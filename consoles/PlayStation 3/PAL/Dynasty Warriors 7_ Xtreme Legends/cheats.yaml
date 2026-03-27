@@ -1,0 +1,59 @@
+# Dynasty Warriors 7_ Xtreme Legends cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01496
+
+game: "Dynasty Warriors 7_ Xtreme Legends"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01496"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3 & krustytoe"
+
+cheats:
+  - name: "Max Money"
+    notes: "File: BLES01496-SAVEDATA\\APP.BIN"
+    codes:
+      - "20000C7C 000F423F"
+
+  - name: "Max Hp"
+    notes: "File: BLES01496-SAVEDATA\\APP.BIN"
+    codes:
+      - "4100203F 000003E8"
+      - "40410080 00000000"
+
+  - name: "Max Attack"
+    notes: "File: BLES01496-SAVEDATA\\APP.BIN"
+    codes:
+      - "41002041 00000578"
+      - "40410080 00000000"
+
+  - name: "Max Defense"
+    notes: "File: BLES01496-SAVEDATA\\APP.BIN"
+    codes:
+      - "40002043 00000578"
+      - "40410080 00000000"
+
+  - name: "Max Power"
+    notes: "File: BLES01496-SAVEDATA\\APP.BIN"
+    codes:
+      - "40002046 00000064"
+      - "40410080 00000000"
+
+  - name: "Max Speed"
+    notes: "File: BLES01496-SAVEDATA\\APP.BIN"
+    codes:
+      - "40002048 00000064"
+      - "40410080 00000000"
+
+  - name: "Guardian Beast (red Hare)"
+    notes: "File: BLES01496-SAVEDATA\\APP.BIN"
+    codes:
+      - "41002051 00000007"
+      - "40410080 00000000"
+
+  - name: "Max Skill Points"
+    notes: "File: BLES01496-SAVEDATA\\APP.BIN"
+    codes:
+      - "41002053 0000270F"
+      - "40410080 00000000"

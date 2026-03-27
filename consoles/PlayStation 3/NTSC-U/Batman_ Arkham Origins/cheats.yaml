@@ -1,0 +1,53 @@
+# Batman_ Arkham Origins cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS31147
+
+game: "Batman_ Arkham Origins"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS31147"
+cheat_type: "AP"
+source: "From zeick"
+
+cheats:
+  - name: "Decompress Save (required)"
+    notes: "File: SPBATMAN"
+    codes:
+      - "Decompress(*, 15)"
+
+  - name: "9000000 Xp"
+    notes: "File: ~extracted\\*.dat"
+    codes:
+      - "search \"VoiceOfThePeople\""
+      - "write next (73):0x00895440"
+
+  - name: "99 Upgrade Points"
+    notes: "File: ~extracted\\*.dat"
+    codes:
+      - "search \"VoiceOfThePeople\""
+      - "write next (32):0x63"
+
+  - name: "Compress Save (required)"
+    notes: "File: SPBATMAN"
+    codes:
+      - "Compress(*)"
+
+  - name: "Update Crc32big For Spbatman (required)"
+    notes: "File: SPBATMAN  (write at 0x047FFC:[hash])"
+    codes:
+      - "set range:0x000000,0x047FFB"
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:CRC32Big"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"
+
+  - name: "Update Sha1 For Mpsave (required)"
+    notes: "File: MPSAVE"
+    codes:
+      - "set range:0x000014,0x00074E"
+      - "set pointer:eof+1"
+      - "set range:0x000014,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x000000:[hash]"

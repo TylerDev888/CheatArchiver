@@ -1,0 +1,94 @@
+# LEGO Racers 2 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50443
+
+game: "LEGO Racers 2"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50443"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0207A6C 002482EF"
+
+  - name: "All Golden Bricks"
+    author: "InterAct"
+    codes:
+      - "10E9F4D4 0000FFFF"
+      - "10E9F4F6 0000FFFF"
+      - "10E9F4F8 0000FFFF"
+
+  - name: "Don't Need Gold Bricks To Change Zones"
+    author: "luc-ita"
+    codes:
+      - "2034C0C4 34020001"
+      - "2034DCA8 00000000"
+
+  - name: "No Car Damage"
+    author: "InterAct"
+    codes:
+      - "20286D68 00000000"
+
+  - name: "Always On Last Lap"
+    author: "Codejunkies"
+    notes: "[On Last Lap Codes]"
+    codes:
+      - "110C37FC 000000FF"
+
+  - name: "On Last Lap Racing Fireman"
+    author: "Codejunkies"
+    notes: "[On Last Lap Codes]"
+    codes:
+      - "11098F1C 000000FF"
+
+  - name: "On Last Lap Racing Postman"
+    author: "Codejunkies"
+    notes: "[On Last Lap Codes]"
+    codes:
+      - "1107FDAC 000000FF"
+
+  - name: "On Last Lap Racing Worker"
+    author: "Codejunkies"
+    notes: "[On Last Lap Codes]"
+    codes:
+      - "1108B74C 000000FF"
+
+  - name: "One Lap To Finish Races"
+    author: "luc-ita"
+    codes:
+      - "0043A6D8 00000001"
+
+  - name: "Open All Worlds"
+    author: "InterAct"
+    codes:
+      - "10E9F4C4 000000FF"
+
+  - name: "Open Portal"
+    author: "InterAct"
+    codes:
+      - "10E9F4DC 0000FFFF"
+
+  - name: "Opponents Don't Move"
+    author: "luc-ita"
+    codes:
+      - "20284D70 08028000"
+      - "200A0000 8C8301AC"
+      - "200A0004 3C01003A"
+      - "200A0008 8C21126C"
+      - "200A000C 8C21000C"
+      - "200A0010 8C210180"
+      - "200A0014 10240003"
+      - "200A001C 03E00008"
+      - "200A0024 080A135E"
+
+  - name: "Skip Logo E Intro Videos"
+    author: "luc-ita"
+    codes:
+      - "202BB950 03E00008"
+      - "202BB954 00000000"

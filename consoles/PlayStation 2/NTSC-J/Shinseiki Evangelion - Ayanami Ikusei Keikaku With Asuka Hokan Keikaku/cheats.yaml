@@ -1,0 +1,51 @@
+# Shinseiki Evangelion - Ayanami Ikusei Keikaku With Asuka Hokan Keikaku cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65334
+
+game: "Shinseiki Evangelion - Ayanami Ikusei Keikaku With Asuka Hokan Keikaku"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65334"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "901176F8 0C045D66"
+
+  - name: "All Asuka Endings"
+    author: "punk7890"
+    codes:
+      - "2028D9B4 FFFFFFFF"
+      - "2028D9B8 FFFFFFFF"
+
+  - name: "All Asuka Events"
+    author: "punk7890"
+    codes:
+      - "2028D9A4 FFFFFFFF"
+      - "2028D9A8 FFFFFFFF"
+      - "2028D9AC FFFFFFFF"
+      - "2028D9B0 FFFFFFFF"
+
+  - name: "All Ayanami Endings"
+    author: "punk7890"
+    codes:
+      - "2028D958 FFFFFFFF"
+      - "2028D95C FFFFFFFF"
+
+  - name: "All Ayanami Events"
+    author: "punk7890"
+    codes:
+      - "2028D940 FFFFFFFF"
+      - "2028D944 FFFFFFFF"
+      - "2028D948 FFFFFFFF"
+      - "2028D94C FFFFFFFF"
+
+  - name: "Unlock Asuka (In Main Menu)"
+    author: "punk7890"
+    codes:
+      - "0028D9C8 0000001F"

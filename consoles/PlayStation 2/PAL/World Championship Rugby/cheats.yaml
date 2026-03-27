@@ -1,0 +1,159 @@
+# World Championship Rugby cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52312
+
+game: "World Championship Rugby"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52312"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0116AA4 00116AA7"
+
+  - name: "Press L2 To Restart Timer"
+    author: "Codejunkies"
+    codes:
+      - "E002FEFF 00336082"
+      - "2013E65C E600000C"
+      - "2013E638 E6000008"
+
+  - name: "Press R2 To Freeze Timer"
+    author: "Codejunkies"
+    codes:
+      - "E002FDFF 00336082"
+      - "2013E65C 00000000"
+      - "2013E638 00000000"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9010AFEC 0C045A60"
+
+  - name: "Home Team Lead 130-0"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "E005FEFE 00336082"
+      - "2036D254 00000082"
+      - "4036D25C 00040002"
+      - "0000000A 00000000"
+      - "4036D258 00050002"
+      - "00000000 00000000"
+
+  - name: "Away Team Lead 130-0"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "E005FDFE 00336082"
+      - "2036D258 00000082"
+      - "4036D260 00040002"
+      - "0000000A 00000000"
+      - "4036D254 00050002"
+      - "00000000 00000000"
+
+  - name: "End Half/Match"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "E001FBFE 00336082"
+      - "2036D224 00000000"
+
+  - name: "Match 4"
+    author: "Xploder"
+    notes: "[Classic Matches]"
+    codes:
+      - "0051655B 00000001"
+
+  - name: "Match 5"
+    author: "Xploder"
+    notes: "[Classic Matches]"
+    codes:
+      - "0051655C 00000001"
+
+  - name: "Match 6"
+    author: "Xploder"
+    notes: "[Classic Matches]"
+    codes:
+      - "0051655D 00000001"
+
+  - name: "Match 7"
+    author: "Xploder"
+    notes: "[Classic Matches]"
+    codes:
+      - "0051655E 00000001"
+
+  - name: "Match 8"
+    author: "Xploder"
+    notes: "[Classic Matches]"
+    codes:
+      - "0051655F 00000001"
+
+  - name: "Match 9"
+    author: "Xploder"
+    notes: "[Classic Matches]"
+    codes:
+      - "00516560 00000001"
+
+  - name: "Big Heads Mode"
+    author: "Xploder"
+    notes: "[Secrets]"
+    codes:
+      - "00516561 00000001"
+
+  - name: "Paranoia Mode"
+    author: "Xploder"
+    notes: "[Secrets]"
+    codes:
+      - "00516562 00000001"
+
+  - name: "Metal Players Mode"
+    author: "Xploder"
+    notes: "[Secrets]"
+    codes:
+      - "00516563 00000001"
+
+  - name: "All Stars"
+    author: "Xploder"
+    notes: "[Teams]"
+    codes:
+      - "00516534 00000001"
+
+  - name: "Swordfish"
+    author: "Xploder"
+    notes: "[Teams]"
+    codes:
+      - "00516552 00000001"
+
+  - name: "The Cougars"
+    author: "Xploder"
+    notes: "[Teams]"
+    codes:
+      - "00516553 00000001"
+
+  - name: "Classic Matches"
+    author: "Xploder"
+    notes: "[Complete]"
+    codes:
+      - "4051CDC8 00090001"
+      - "00000001 00000000"
+
+  - name: "Beat All-Stars Mode"
+    author: "Xploder"
+    notes: "[Complete]"
+    codes:
+      - "2051CDEC 00000014"
+
+  - name: "Survival Mode"
+    author: "Xploder"
+    notes: "[Complete]"
+    codes:
+      - "2051CDF4 000003E7"
+      - "2051CDF8 000003E7"

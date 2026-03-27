@@ -1,0 +1,92 @@
+# Trinity_ Souls Of Zill O'll cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS30503
+
+game: "Trinity_ Souls Of Zill O'll"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS30503"
+cheat_type: "Save Editor"
+source: "Patch created by haxxxen - 2013-02-18"
+
+cheats:
+  - name: "Max Money"
+    notes: "File: PLAY.DAT"
+    codes:
+      - "20000058 0098967F"
+
+  - name: "Max Sp"
+    notes: "File: PLAY.DAT"
+    codes:
+      - "2000006C 0001869F"
+
+  - name: "Areus - Hp"
+    notes: "File: PLAY.DAT"
+    codes:
+      - "10000072 0000270F"
+
+  - name: "Areus - Atk"
+    notes: "File: PLAY.DAT"
+    codes:
+      - "10000076 000003E7"
+
+  - name: "Areus - Def"
+    notes: "File: PLAY.DAT"
+    codes:
+      - "1000007A 000003E7"
+
+  - name: "Areus - Spr"
+    notes: "File: PLAY.DAT"
+    codes:
+      - "1000007E 000003E7"
+
+  - name: "Areus - Mag"
+    notes: "File: PLAY.DAT"
+    codes:
+      - "10000082 000003E7"
+
+  - name: "Dagda - Hp"
+    notes: "File: PLAY.DAT"
+    codes:
+      - "1000024A 0000270F"
+
+  - name: "Dagda - Atk"
+    notes: "File: PLAY.DAT"
+    codes:
+      - "1000024E 000003E7"
+
+  - name: "Dagda - Spr"
+    notes: "File: PLAY.DAT"
+    codes:
+      - "10000256 000003E7"
+
+  - name: "Dagda - Mag"
+    notes: "File: PLAY.DAT"
+    codes:
+      - "1000025A 000003E7"
+
+  - name: "Selene - Hp"
+    notes: "File: PLAY.DAT"
+    codes:
+      - "10000422 0000270F"
+
+  - name: "Selene - Atk"
+    notes: "File: PLAY.DAT"
+    codes:
+      - "10000426 000003E7"
+
+  - name: "Selene - Def"
+    notes: "File: PLAY.DAT"
+    codes:
+      - "1000042A 000003E7"
+
+  - name: "Selene - Spr"
+    notes: "File: PLAY.DAT"
+    codes:
+      - "1000042E 000003E7"
+
+  - name: "Selene - Mag"
+    notes: "File: PLAY.DAT"
+    codes:
+      - "10000432 000003E7"

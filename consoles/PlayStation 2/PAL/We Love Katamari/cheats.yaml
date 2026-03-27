@@ -1,0 +1,26 @@
+# We Love Katamari cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "We Love Katamari"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "901CF660 0C07BC4A"
+
+  - name: "Time"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "D0AAE5C2 0000FFFD"
+      - "20115E94 24440000"
+      - "D0AAE5C2 0000FFFB"
+      - "20115E94 2444FFFF"

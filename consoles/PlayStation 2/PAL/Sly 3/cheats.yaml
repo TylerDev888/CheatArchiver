@@ -1,0 +1,56 @@
+# Sly 3 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-53409
+
+game: "Sly 3"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-53409"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01A8E64 001A8E67"
+
+  - name: "9999 Gold Coins"
+    author: "Codejunkies"
+    codes:
+      - "1046A45C 0000270F"
+
+  - name: "Godmode"
+    author: "luc-ita"
+    codes:
+      - "2021E4B0 8E04013C"
+      - "2021E4B4 8C820170"
+      - "2021E4BC AC82016C"
+
+  - name: "Have All Gadgets"
+    author: "lee4>CMX"
+    codes:
+      - "2046A44C FFFFFFFF"
+      - "2046A450 FFFFFFFF"
+
+  - name: "Press L1 To Top Up Gadget Power"
+    author: "Codejunkies"
+    codes:
+      - "E002FBFF 0036F202"
+      - "603702CC 00000064"
+      - "00000001 00000174"
+
+  - name: "Press R1 To Top Up Health"
+    author: "Codejunkies"
+    codes:
+      - "E002F7FF 0036F202"
+      - "603702CC 00000064"
+      - "00000001 0000016C"
+
+  - name: "Take Items Anywhere"
+    author: "luc-ita"
+    codes:
+      - "201F766C 00000000"
+      - "201F7548 00000000"

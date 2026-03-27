@@ -1,0 +1,29 @@
+# Simple 2000 Series Vol.34 - Love Horror Adventure cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62343
+
+game: "Simple 2000 Series Vol.34 - Love Horror Adventure"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62343"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90144058 0C050FBE"
+
+  - name: "Replace CG Mode With Invisible Debug Menu"
+    author: "punk7890"
+    codes:
+      - "201003A0 0C0474F4"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "21FAB5E0 FFFFFFFF"
+      - "21FAB5E4 FFFFFFFF"

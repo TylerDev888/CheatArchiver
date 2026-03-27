@@ -1,0 +1,75 @@
+# Run Like Hell - Hunt Or Be Hunted cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20037
+
+game: "Run Like Hell - Hunt Or Be Hunted"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20037"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01ADFB8 00280A6F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00280A6F"
+
+  - name: "Ammo Increase If Used"
+    author: "Codejunkies"
+    notes: "[Ammo Codes]"
+    codes:
+      - "20148488 00431021"
+
+  - name: "Have Infinite Armor"
+    author: "Codejunkies"
+    notes: "[Ammo Codes]"
+    codes:
+      - "20173B54 2402000A"
+      - "20173B5C AC620224"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    notes: "[Ammo Codes]"
+    codes:
+      - "20148488 00000000"
+
+  - name: "Max Weapon Statistics"
+    author: "Codejunkies"
+    notes: "[Ammo Codes]"
+    codes:
+      - "20178A14 24820020"
+      - "20178A18 AEA2002C"
+      - "20178CC0 AEA20048"
+
+  - name: "Infinite Health"
+    author: "InterAct"
+    codes:
+      - "2013F128 00000000"
+
+  - name: "View Weapon In Inventory For Max Burst"
+    author: "Code Master"
+    codes:
+      - "20178CC0 AEA20048"
+
+  - name: "View Weapon In Inventory For Max Clips"
+    author: "Code Master"
+    codes:
+      - "200C0230 8E820090"
+      - "200C0234 03E00008"
+      - "200C0238 AEA20044"
+      - "20178B78 0C03008C"
+
+  - name: "View Weapon In Inventory For Max Damage"
+    author: "Code Master"
+    codes:
+      - "20178A14 24820020"
+      - "20178A18 AEA2002C"

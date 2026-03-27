@@ -1,0 +1,53 @@
+# Prince Of Persia_ The Two Thrones cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Prince Of Persia_ The Two Thrones"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90103F10 0C046740"
+      - "200C2020 03E00008"
+      - "200C2024 AFA0008C"
+      - "20439690 0C030800"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2008 8EC11C00"
+      - "200C200C AEC102B0"
+
+  - name: "Sand Slots"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2010 24010006"
+      - "200C2014 AEC10D08"
+
+  - name: "Secondary Weapon"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20241730 00000000"
+
+  - name: "Sand Credits"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "20A956F4 0098967F"
+
+  - name: "All Sand Powers"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "200C2018 240100FF"
+      - "200C201C AEC1177C"

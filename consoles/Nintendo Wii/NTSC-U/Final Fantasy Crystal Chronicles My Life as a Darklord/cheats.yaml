@@ -1,0 +1,32 @@
+# Final Fantasy Crystal Chronicles My Life as a Darklord cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  WF2E
+
+game: "Final Fantasy Crystal Chronicles My Life as a Darklord"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "WF2E"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Max Np"
+    author: "Skiller"
+    codes:
+      - "28C12878 00000000"
+      - "04C12878 0000270F"
+      - "E0000000 00000000"
+
+  - name: "Max Karma"
+    author: "Skiller"
+    codes:
+      - "28C12878 00000000"
+      - "04C12870 0000270F"
+      - "E0000000 00000000"
+
+  - name: "First Hero Always Enters"
+    author: "Skiller"
+    codes:
+      - "045DB558 00000001"
+      - "04C6AFA0 00000001"

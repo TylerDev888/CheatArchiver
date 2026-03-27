@@ -1,0 +1,88 @@
+# Star Wars_ The Force Unleashed cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00262
+
+game: "Star Wars_ The Force Unleashed"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00262"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Unlock Sith Master Difficulty"
+    notes: "File: BLES00262SAVEDATA\\SWTFU.BIN"
+    codes:
+      - "0000004E 00000001"
+
+  - name: "Unlock All Cinematics"
+    notes: "[Extras]  File: BLES00262SAVEDATA\\SWTFU.BIN"
+    codes:
+      - "4000008F 00000003"
+      - "40200001 00000000"
+
+  - name: "Unlock All Art"
+    notes: "[Extras]  File: BLES00262SAVEDATA\\SWTFU.BIN"
+    codes:
+      - "4000004F 00000003"
+      - "40360001 00000000"
+
+  - name: "Unlock All Lightsabers"
+    notes: "[Save Slot 1]  File: BLES00262SAVEDATA\\SWTFU.BIN"
+    codes:
+      - "200000B4 0007FFFF"
+      - "000000BB 000000FF"
+
+  - name: "Force Combos"
+    notes: "[Max Force Spheres]  File: BLES00262SAVEDATA\\SWTFU.BIN"
+    codes:
+      - "20000154 00000063"
+
+  - name: "Force Powers"
+    notes: "[Max Force Spheres]  File: BLES00262SAVEDATA\\SWTFU.BIN"
+    codes:
+      - "2000014C 00000063"
+
+  - name: "Force Talent"
+    notes: "[Max Force Spheres]  File: BLES00262SAVEDATA\\SWTFU.BIN"
+    codes:
+      - "20000150 00000063"
+
+  - name: "Darth Vader(if You Experience Issues, Use The Training Gear Cheat To Restore To The Default Character.)"
+    notes: "[Play As]  File: BLES00262SAVEDATA\\SWTFU.BIN"
+    codes:
+      - "200000C4 706C6179"
+      - "200000C8 65726461"
+      - "200000CC 72746876"
+      - "200000D0 61646572"
+      - "200000D4 2E616374"
+      - "200000D8 6F722E78"
+      - "200000DC 6D6C0000"
+
+  - name: "Starkiller(if You Experience Issues, Use The Training Gear Cheat To Restore To The Default Character.)"
+    notes: "[Play As]  File: BLES00262SAVEDATA\\SWTFU.BIN"
+    codes:
+      - "200000C4 706C6179"
+      - "200000C8 6572756C"
+      - "200000CC 74696D61"
+      - "200000D0 74656576"
+      - "200000D4 696C2E61"
+      - "200000D8 63746F72"
+      - "200000DC 2E786D6C"
+
+  - name: "Training Gear"
+    notes: "[Play As]  File: BLES00262SAVEDATA\\SWTFU.BIN"
+    codes:
+      - "200000C4 706C6179"
+      - "200000C8 65722E61"
+      - "200000CC 63746F72"
+      - "200000D0 2E786D6C"
+      - "200000D4 00000000"
+      - "200000D8 00000000"
+      - "200000DC 00000000"
+
+  - name: "Force Talents"
+    notes: "[Max Force Spheres]  File: BLES00262SAVEDATA\\SWTFU.BIN"
+    codes:
+      - "200083F0 00000063"

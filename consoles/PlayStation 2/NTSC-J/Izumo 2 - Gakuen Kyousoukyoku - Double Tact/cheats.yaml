@@ -1,0 +1,25 @@
+# Izumo 2 - Gakuen Kyousoukyoku - Double Tact cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66908
+
+game: "Izumo 2 - Gakuen Kyousoukyoku - Double Tact"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66908"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "902103A0 0C084090"
+
+  - name: "Enable Debug Menu [View Note]"
+    author: "punk7890"
+    codes:
+      - "0010D880 00000000"
+      - "D04CFD82 0000FFFE"
+      - "2027F86C 00000000"

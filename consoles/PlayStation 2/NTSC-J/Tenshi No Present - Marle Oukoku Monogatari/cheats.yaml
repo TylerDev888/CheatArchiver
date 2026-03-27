@@ -1,0 +1,60 @@
+# Tenshi No Present - Marle Oukoku Monogatari cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-20053
+
+game: "Tenshi No Present - Marle Oukoku Monogatari"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-20053"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Master Code"
+    author: "luc-ita"
+    notes: "[Master Codes]"
+    codes:
+      - "90107C60 0C041EC0"
+
+  - name: "Master Code - Alternative"
+    author: "luc-ita"
+    notes: "[Master Codes]"
+    codes:
+      - "9014D72C 0C040796"
+
+  - name: "Always Full Life During Battles"
+    author: "luc-ita"
+    codes:
+      - "2017A930 8FA10058"
+      - "2017A934 AC220014"
+
+  - name: "Buy Even Without Money"
+    author: "luc-ita"
+    codes:
+      - "2017FA38 10000005"
+      - "2017FE38 10000007"
+      - "2017FF70 00000000"
+      - "20180004 10000008"
+      - "20180324 00000000"
+
+  - name: "Use Spells Even Without SP"
+    author: "luc-ita"
+    codes:
+      - "2017C2F0 10000005"
+      - "20126B34 00000000"
+
+  - name: "Win A Battle To Max Out The Characters"
+    author: "luc-ita"
+    codes:
+      - "20129AE8 00000000"
+
+  - name: "Enable Developer Mode (Con 1 R3 = Debug Info, Con 2 L3 / R3 = Open Debug Menu)"
+    author: "punk7890"
+    codes:
+      - "2019075C 00000001"
+      - "20190758 00000001"
+      - "D031832A 0000FFFB"
+      - "102306D0 00000001"
+      - "D031832A 0000FFFD"
+      - "102306D0 00000000"

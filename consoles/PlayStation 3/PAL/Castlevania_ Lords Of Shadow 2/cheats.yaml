@@ -1,0 +1,20 @@
+# Castlevania_ Lords Of Shadow 2 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01644
+
+game: "Castlevania_ Lords Of Shadow 2"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01644"
+cheat_type: "Save Editor"
+source: "checksum by bucanero"
+
+cheats:
+  - name: "Update Data.dat Checksum (required)"
+    notes: "File: DATA.DAT"
+    codes:
+      - "set pointer:EOF-3"
+      - "set range:0x0,pointer"
+      - "set [csum]:castlevania_checksum"
+      - "write next (0):[csum]"

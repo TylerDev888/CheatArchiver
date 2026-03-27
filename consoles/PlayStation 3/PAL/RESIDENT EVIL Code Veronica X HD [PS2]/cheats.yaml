@@ -1,0 +1,67 @@
+# RESIDENT EVIL Code Veronica X HD [PS2] cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00553
+
+game: "RESIDENT EVIL Code Veronica X HD [PS2]"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00553"
+cheat_type: "Save Editor"
+source: "From zeick"
+
+cheats:
+  - name: "Infinite Rocket Launcher"
+    notes: "[Save Slot 1 Claire Only]  File: DATA0.DAT"
+    codes:
+      - "write at 0x00000204:08010001"
+
+  - name: "Combat Knife"
+    notes: "[Save Slot 1 Claire Only]  File: DATA0.DAT"
+    codes:
+      - "write at 0x00000208:00080000"
+
+  - name: "Infinite Magnum"
+    notes: "[Save Slot 1 Claire Only]  File: DATA0.DAT"
+    codes:
+      - "write at 0x0000020C:08200001"
+
+  - name: "Infinite First Aid Spray"
+    notes: "[Save Slot 1 Claire Only]  File: DATA0.DAT"
+    codes:
+      - "write at 0x00000210:08140002"
+
+  - name: "Infinite Ink Ribbon"
+    notes: "[Save Slot 1 Claire Only]  File: DATA0.DAT"
+    codes:
+      - "write at 0x00000214:081F0002"
+
+  - name: "Infinite Mixed Herb (r+g+b)"
+    notes: "[Save Slot 1 Claire Only]  File: DATA0.DAT  (From wilhitewarrior)"
+    codes:
+      - "write at 0x00000210:081D0002"
+
+  - name: "Complete 1 Battle Mode Stage For Linear Launcher"
+    notes: "[Save Slot 1 Claire Only]  File: DATA0.DAT"
+    codes:
+      - "10007B56 0000FFFF"
+      - "20007B60 00005000"
+      - "20007B64 00005000"
+      - "20007B68 00005000"
+      - "20007B6C 00010000"
+      - "20007B70 00005000"
+
+  - name: "0 Saves Slot 1"
+    notes: "[Save Slot 1 Stats Codes]  File: DATA0.DAT"
+    codes:
+      - "0000000F 00000000"
+
+  - name: "0 Retries Slot 1"
+    notes: "[Save Slot 1 Stats Codes]  File: DATA0.DAT"
+    codes:
+      - "00000837 00000000"
+
+  - name: "Low Overall Time"
+    notes: "[Save Slot 1 Stats Codes]  File: DATA0.DAT"
+    codes:
+      - "2000082C 00000000"

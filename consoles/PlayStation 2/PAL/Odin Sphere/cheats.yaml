@@ -1,0 +1,69 @@
+# Odin Sphere cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-55110
+
+game: "Odin Sphere"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-55110"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "1Hitkill All Bosses"
+    author: "luc-ita"
+    codes:
+      - "201AD31C AE800468"
+
+  - name: "1Hitkill All Enemies"
+    author: "luc-ita"
+    codes:
+      - "201AD440 00000000"
+
+  - name: "Buy Even Without Coins"
+    author: "luc-ita"
+    codes:
+      - "202B3050 00000000"
+      - "202B3040 00000000"
+
+  - name: "Each Coin Worth 999"
+    author: "luc-ita"
+    codes:
+      - "201FF0D8 340203E7"
+
+  - name: "Each Fragment Of Psilite Levels You Up"
+    author: "luc-ita"
+    codes:
+      - "2018CF50 8E260480"
+
+  - name: "Infinite Cyclone Charges"
+    author: "luc-ita"
+    codes:
+      - "20321A28 00000000"
+
+  - name: "Infinite Energy"
+    author: "luc-ita"
+    codes:
+      - "20326E50 00000000"
+      - "2030618C 00000000"
+
+  - name: "Life Doesn't Go Down When There Is A Timer"
+    author: "luc-ita"
+    codes:
+      - "20328058 00000000"
+
+  - name: "Life Doesn't Go Down When You're On Fire"
+    author: "luc-ita"
+    codes:
+      - "2018D300 03E00008"
+
+  - name: "No Damage/No Reaction"
+    author: "luc-ita"
+    codes:
+      - "203233E0 03E00008"
+
+  - name: "Shoot Cyclones Even With Zero Charges"
+    author: "luc-ita"
+    codes:
+      - "2031EA60 24030384"

@@ -1,0 +1,62 @@
+# Motogp 2 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-50409
+
+game: "Motogp 2"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-50409"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01000A4 00294E6F"
+
+  - name: "All Challenges"
+    author: "Codejunkies"
+    codes:
+      - "909BD467 FC6D7BD0"
+
+  - name: "All Challenges Complete"
+    author: "InterAct"
+    codes:
+      - "2030ED14 02020202"
+      - "2030ED18 02020202"
+      - "2030ED1C 02020202"
+      - "2030ED20 02020202"
+      - "2030ED24 02020202"
+      - "2030ED28 02020202"
+      - "2030ED2C 02020202"
+      - "2030ED30 02020202"
+      - "2030ED34 02020202"
+      - "2030ED38 02020202"
+      - "2030ED3C 02020202"
+      - "2030ED40 02020202"
+      - "2030ED44 02020202"
+      - "2030ED48 02020202"
+      - "2030ED4C 02020202"
+      - "2030ED50 02020202"
+      - "2030ED54 02020202"
+      - "2030ED58 02020202"
+
+  - name: "Drive Anywhere (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "2024D5E0 00000000"
+
+  - name: "No Loss Of Speed If You Go Off The Road Or Collide With Walls"
+    author: "luc-ita"
+    codes:
+      - "20268294 00000000"
+      - "20266C1C 00000000"
+      - "20266C34 00000000"
+
+  - name: "Opponents Don't Move"
+    author: "luc-ita"
+    codes:
+      - "2024CA4C 00000000"

@@ -1,0 +1,49 @@
+# Spartan Total War cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Spartan Total War"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90239AD0 0C08CB0E"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2000 8F818B90"
+      - "200C2004 A42402FA"
+      - "200C2008 03E00008"
+      - "200C200C 000427C2"
+      - "203BB660 0C030800"
+
+  - name: "Rage"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20450C30 24022710"
+      - "20450C34 03E00008"
+      - "20450C38 AC82000C"
+
+  - name: "Arrows"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "2030DDAC 00000000"
+      - "2030D050 00C01823"
+
+  - name: "Single Mission Replay"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "D0F188E4 00000000"
+      - "00F188E4 00000001"

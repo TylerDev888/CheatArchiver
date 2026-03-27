@@ -1,0 +1,962 @@
+# Rygar - The Legendary Adventure cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20471
+
+game: "Rygar - The Legendary Adventure"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20471"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01F9440 0020799F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0020799F"
+
+  - name: "Max Combo"
+    author: "Codejunkies"
+    notes: "[Arcadia Codes]"
+    codes:
+      - "203F73C8 000003E7"
+
+  - name: "Max Total"
+    author: "Codejunkies"
+    notes: "[Arcadia Codes]"
+    codes:
+      - "203F73CC 0098967F"
+
+  - name: "S Rank"
+    author: "Codejunkies"
+    notes: "[Arcadia Codes]"
+    codes:
+      - "203F73D0 00000000"
+
+  - name: "Time 00:00:00"
+    author: "Codejunkies"
+    notes: "[Arcadia Codes]"
+    codes:
+      - "203F73C4 0000000F"
+
+  - name: "Enemies Self Destruct"
+    author: "Codejunkies"
+    codes:
+      - "20401634 00000000"
+      - "20405474 00000000"
+      - "204025C4 00000000"
+      - "20403554 00000000"
+      - "204044E4 00000000"
+      - "20406404 00000000"
+      - "20407394 00000000"
+      - "20408324 00000000"
+
+  - name: "Music Complete"
+    author: "Codejunkies"
+    notes: "[Gallery Codes]"
+    codes:
+      - "104AC2EE 0000FFFF"
+      - "204AC2F0 FFFFFFFF"
+      - "204AC2F4 FFFFFFFF"
+      - "204AC2F8 FFFFFFFF"
+      - "204AC300 FFFFFFFF"
+      - "204AC304 FFFFFFFF"
+      - "104AC308 0000FFFF"
+      - "004AC30A 000000FF"
+
+  - name: "Pictures Complete"
+    author: "Codejunkies"
+    notes: "[Gallery Codes]"
+    codes:
+      - "004AC30B 000000FF"
+      - "204AC30C FFFFFFFF"
+      - "204AC310 FFFFFFFF"
+      - "204AC314 FFFFFFFF"
+      - "204AC318 FFFFFFFF"
+      - "204AC31C FFFFFFFF"
+      - "104AC320 0000FFFF"
+
+  - name: "Theater Complete"
+    author: "Codejunkies"
+    notes: "[Gallery Codes]"
+    codes:
+      - "204AC2D8 FFFFFFFF"
+      - "204AC2DC FFFFFFFF"
+      - "204AC2E0 FFFFFFFF"
+      - "204AC2E4 FFFFFFFF"
+      - "204AC2E8 FFFFFFFF"
+      - "104AC2EC 0000FFFF"
+
+  - name: "Have Grapple Orange/Yellow Ability"
+    author: "Codejunkies"
+    notes: "[Gravity Codes]"
+    codes:
+      - "004B148C 00000001"
+
+  - name: "Have Grapple Purple Ability"
+    author: "Codejunkies"
+    notes: "[Gravity Codes]"
+    codes:
+      - "004B148B 00000001"
+
+  - name: "Have Slide Ability"
+    author: "Codejunkies"
+    notes: "[Gravity Codes]"
+    codes:
+      - "004B148A 00000001"
+
+  - name: "Have Stomp Ability"
+    author: "Codejunkies"
+    notes: "[Gravity Codes]"
+    codes:
+      - "004B148D 00000001"
+
+  - name: "Have Tackle Ability"
+    author: "Codejunkies"
+    notes: "[Gravity Codes]"
+    codes:
+      - "004B148E 00000001"
+
+  - name: "Huge Combo"
+    author: "Codejunkies"
+    notes: "[Gravity Codes]"
+    codes:
+      - "D041D3B8 00000001"
+      - "1041D3B8 0000270F"
+
+  - name: "Huge Kill Combo"
+    author: "Codejunkies"
+    notes: "[Gravity Codes]"
+    codes:
+      - "D041D3E0 00000001"
+      - "1041D3D8 00000063"
+
+  - name: "Infinite Icol Gauge"
+    author: "Codejunkies"
+    notes: "[Gravity Codes]"
+    codes:
+      - "204B12FC 0000270F"
+
+  - name: "Infinite Life Gauge"
+    author: "Codejunkies"
+    notes: "[Gravity Codes]"
+    codes:
+      - "204B12F4 00001FFF"
+
+  - name: "Low Gravity"
+    author: "Codejunkies"
+    notes: "[Gravity Codes]"
+    codes:
+      - "203F3118 3FFFF000"
+
+  - name: "Max Attack"
+    author: "Codejunkies"
+    notes: "[Gravity Codes]"
+    codes:
+      - "104B1304 000003E7"
+
+  - name: "Max Build Up Points"
+    author: "Codejunkies"
+    notes: "[Gravity Codes]"
+    codes:
+      - "104B1318 0000270F"
+
+  - name: "Max Chain Reaction"
+    author: "Codejunkies"
+    notes: "[Gravity Codes]"
+    codes:
+      - "D03F465C 00000001"
+      - "103F465C 00000063"
+
+  - name: "Max Defense"
+    author: "Codejunkies"
+    notes: "[Gravity Codes]"
+    codes:
+      - "104B1308 000003E7"
+
+  - name: "Max Icol Gauge"
+    author: "Codejunkies"
+    notes: "[Gravity Codes]"
+    codes:
+      - "204B12F8 0000270F"
+
+  - name: "Max Life Gauge"
+    author: "Codejunkies"
+    notes: "[Gravity Codes]"
+    codes:
+      - "204B12F0 00001FFF"
+
+  - name: "Zero Gravity"
+    author: "Codejunkies"
+    notes: "[Gravity Codes]"
+    codes:
+      - "203F3118 3F3FFFFF"
+
+  - name: "Have Hades D.A."
+    author: "Codejunkies"
+    notes: "[Hades Diskarmor Codes]"
+    codes:
+      - "004B1320 00000001"
+
+  - name: "Max Level"
+    author: "Codejunkies"
+    notes: "[Hades Diskarmor Codes]"
+    codes:
+      - "004B1321 00000002"
+
+  - name: "Max Stone Slots"
+    author: "Codejunkies"
+    notes: "[Hades Diskarmor Codes]"
+    codes:
+      - "004B132C 00000004"
+
+  - name: "Ancient Tablet 1"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "104B1486 00000134"
+
+  - name: "Ancient Tablet 2"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "104B1488 00000135"
+
+  - name: "Have Ambrosia"
+    author: "Codejunkies"
+    notes: "[Have Item Codes]"
+    codes:
+      - "104B1462 00006322"
+
+  - name: "Have Caduceus"
+    author: "Codejunkies"
+    notes: "[Have Item Codes]"
+    codes:
+      - "104B1466 00006324"
+
+  - name: "Have Letter 1"
+    author: "Codejunkies"
+    notes: "[Have Item Codes]"
+    codes:
+      - "104B147E 00000130"
+
+  - name: "Have Letter 2"
+    author: "Codejunkies"
+    notes: "[Have Item Codes]"
+    codes:
+      - "104B1480 00000131"
+
+  - name: "Have Letter 3"
+    author: "Codejunkies"
+    notes: "[Have Item Codes]"
+    codes:
+      - "104B1482 00000132"
+
+  - name: "Have Letter 4"
+    author: "Codejunkies"
+    notes: "[Have Item Codes]"
+    codes:
+      - "104B1484 00000133"
+
+  - name: "Have Omphalos"
+    author: "Codejunkies"
+    notes: "[Have Item Codes]"
+    codes:
+      - "104B1464 00006323"
+
+  - name: "Have Tablet 1"
+    author: "Codejunkies"
+    notes: "[Have Item Codes]"
+    codes:
+      - "104B1468 00000125"
+
+  - name: "Have Tablet 2"
+    author: "Codejunkies"
+    notes: "[Have Item Codes]"
+    codes:
+      - "104B146A 00000126"
+
+  - name: "Have Tablet 3"
+    author: "Codejunkies"
+    notes: "[Have Item Codes]"
+    codes:
+      - "104B146C 00000127"
+
+  - name: "Have Vellum Scroll 1"
+    author: "Codejunkies"
+    notes: "[Have Item Codes]"
+    codes:
+      - "104B146E 00000128"
+
+  - name: "Have Vellum Scroll 2"
+    author: "Codejunkies"
+    notes: "[Have Item Codes]"
+    codes:
+      - "104B1470 00000129"
+
+  - name: "Have Vellum Scroll 3"
+    author: "Codejunkies"
+    notes: "[Have Item Codes]"
+    codes:
+      - "104B1472 0000012A"
+
+  - name: "Have Vellum Scroll 4"
+    author: "Codejunkies"
+    notes: "[Have Item Codes]"
+    codes:
+      - "104B1474 0000012B"
+
+  - name: "Have Vellum Scroll 5"
+    author: "Codejunkies"
+    notes: "[Have Item Codes]"
+    codes:
+      - "104B1476 0000012C"
+
+  - name: "Have Vellum Scroll 6"
+    author: "Codejunkies"
+    notes: "[Have Item Codes]"
+    codes:
+      - "104B1478 0000012D"
+
+  - name: "Have Vellum Scroll 7"
+    author: "Codejunkies"
+    notes: "[Have Item Codes]"
+    codes:
+      - "104B147A 0000012E"
+
+  - name: "Have Vellum Scroll 8"
+    author: "Codejunkies"
+    notes: "[Have Item Codes]"
+    codes:
+      - "104B147C 0000012F"
+
+  - name: "One World Available"
+    author: "Codejunkies"
+    notes: "[Have Item Codes]"
+    codes:
+      - "104AC322 0000FFFF"
+
+  - name: "Items: Ambrosia"
+    author: "InterAct"
+    notes: "[Have Items Codes]"
+    codes:
+      - "104B1466 0000012A"
+
+  - name: "Items: Caduceus"
+    author: "InterAct"
+    notes: "[Have Items Codes]"
+    codes:
+      - "104B1462 00000122"
+
+  - name: "Aphrodite"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B1436 00000001"
+
+  - name: "Apollon"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B1438 00000001"
+
+  - name: "Ares +99"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B1430 00006301"
+
+  - name: "Ares +255"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B1430 0000FF01"
+
+  - name: "Artemis"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B143A 00000001"
+
+  - name: "Athena +99"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B1432 00006301"
+
+  - name: "Athena +255"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B1432 0000FF01"
+
+  - name: "Atoropos"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B1454 00000001"
+
+  - name: "Boreas"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B144A 00000001"
+
+  - name: "Clotho"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B1450 00000001"
+
+  - name: "Demeter"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B1434 00000001"
+
+  - name: "Dionysus"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B143E 00000001"
+
+  - name: "Eirene"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B145A 00000001"
+
+  - name: "Eurus"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B144E 00000001"
+
+  - name: "Hephaestus"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B143C 00000001"
+
+  - name: "Hera"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B1442 00000001"
+
+  - name: "Hermes"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B1446 00000001"
+
+  - name: "Hestia"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B1440 00000001"
+
+  - name: "Hypnos"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B145C 00000001"
+
+  - name: "Lachesis"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B1452 00000001"
+
+  - name: "Morpheus"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B1460 00000001"
+
+  - name: "Nemesis"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B1458 00000001"
+
+  - name: "Nike"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B1456 00000001"
+
+  - name: "Notus"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B144C 00000001"
+
+  - name: "Persephone"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B1444 00000001"
+
+  - name: "Tanatos"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B145E 00000001"
+
+  - name: "Zephyrus"
+    author: "Codejunkies"
+    notes: "[Have Mystic Stones Codes]"
+    codes:
+      - "104B1448 00000001"
+
+  - name: "Have Heavenly D.A.."
+    author: "Codejunkies"
+    notes: "[Heavenly Diskarmor Codes]"
+    codes:
+      - "004B1364 00000001"
+
+  - name: "Hella Ultra Jump"
+    author: "Code Master"
+    codes:
+      - "203F3118 3F000000"
+
+  - name: "Infinite Life"
+    author: "InterAct"
+    codes:
+      - "404B12F0 00020001"
+      - "0000029A 28091968"
+
+  - name: "Instant Boss Kills"
+    author: "Codejunkies"
+    codes:
+      - "204006A4 00000000"
+
+  - name: "Low Total Time"
+    author: "InterAct"
+    codes:
+      - "204AC410 00000000"
+      - "204AC420 00000000"
+
+  - name: "Max Life"
+    author: "Code Master"
+    codes:
+      - "204B12F0 0000270F"
+
+  - name: "Max Points"
+    author: "Code Master"
+    codes:
+      - "204B1318 0000270F"
+
+  - name: "Have Sea D.A."
+    author: "Codejunkies"
+    notes: "[Sea Diskarmor Codes]"
+    codes:
+      - "004B13A8 00000001"
+
+  - name: "Super Jump"
+    author: "Code Master"
+    codes:
+      - "203F3118 40000000"
+
+  - name: "Super Ultra Jump"
+    author: "Code Master"
+    codes:
+      - "203F3118 3F400000"
+
+  - name: "Ultra Jump"
+    author: "Code Master"
+    codes:
+      - "203F3118 3F800000"
+
+  - name: "Argo"
+    author: "Codejunkies"
+    notes: "[Unlock Single Movies Codes]"
+    codes:
+      - "004AC2DE 000000FF"
+
+  - name: "Betrayal"
+    author: "Codejunkies"
+    notes: "[Unlock Single Movies Codes]"
+    codes:
+      - "004AC2E2 000000FF"
+
+  - name: "Cleo And Caesarion"
+    author: "Codejunkies"
+    notes: "[Unlock Single Movies Codes]"
+    codes:
+      - "004AC2E0 000000FF"
+
+  - name: "Conflict"
+    author: "Codejunkies"
+    notes: "[Unlock Single Movies Codes]"
+    codes:
+      - "004AC2E5 000000FF"
+
+  - name: "Dog Of Hades"
+    author: "Codejunkies"
+    notes: "[Unlock Single Movies Codes]"
+    codes:
+      - "004AC2DB 000000FF"
+
+  - name: "Gate Of Darkness"
+    author: "Codejunkies"
+    notes: "[Unlock Single Movies Codes]"
+    codes:
+      - "004AC2E3 000000FF"
+
+  - name: "Mother"
+    author: "Codejunkies"
+    notes: "[Unlock Single Movies Codes]"
+    codes:
+      - "004AC2EC 000000FF"
+
+  - name: "Palace Of 3 Knights"
+    author: "Codejunkies"
+    notes: "[Unlock Single Movies Codes]"
+    codes:
+      - "004AC2DC 000000FF"
+
+  - name: "Pledge"
+    author: "Codejunkies"
+    notes: "[Unlock Single Movies Codes]"
+    codes:
+      - "004AC2E9 000000FF"
+
+  - name: "Prologue"
+    author: "Codejunkies"
+    notes: "[Unlock Single Movies Codes]"
+    codes:
+      - "004AC2D8 000000FF"
+
+  - name: "Prophecy"
+    author: "Codejunkies"
+    notes: "[Unlock Single Movies Codes]"
+    codes:
+      - "004AC2D9 000000FF"
+
+  - name: "Rage"
+    author: "Codejunkies"
+    notes: "[Unlock Single Movies Codes]"
+    codes:
+      - "004AC2EA 000000FF"
+
+  - name: "Resolution"
+    author: "Codejunkies"
+    notes: "[Unlock Single Movies Codes]"
+    codes:
+      - "004AC2DA 000000FF"
+
+  - name: "Sleeping Lion"
+    author: "Codejunkies"
+    notes: "[Unlock Single Movies Codes]"
+    codes:
+      - "004AC2DF 000000FF"
+
+  - name: "Soul"
+    author: "Codejunkies"
+    notes: "[Unlock Single Movies Codes]"
+    codes:
+      - "004AC2E8 000000FF"
+
+  - name: "Stay Alive"
+    author: "Codejunkies"
+    notes: "[Unlock Single Movies Codes]"
+    codes:
+      - "004AC2ED 000000FF"
+
+  - name: "True Name"
+    author: "Codejunkies"
+    notes: "[Unlock Single Movies Codes]"
+    codes:
+      - "004AC2E1 000000FF"
+
+  - name: "Victory"
+    author: "Codejunkies"
+    notes: "[Unlock Single Movies Codes]"
+    codes:
+      - "004AC2EB 000000FF"
+
+  - name: "War Of Cronus"
+    author: "Codejunkies"
+    notes: "[Unlock Single Movies Codes]"
+    codes:
+      - "004AC2DD 000000FF"
+
+  - name: "Warrior Of Hades"
+    author: "Codejunkies"
+    notes: "[Unlock Single Movies Codes]"
+    codes:
+      - "004AC2E6 000000FF"
+
+  - name: "Warriors Of Argus"
+    author: "Codejunkies"
+    notes: "[Unlock Single Movies Codes]"
+    codes:
+      - "004AC2EE 000000FF"
+
+  - name: "Wish"
+    author: "Codejunkies"
+    notes: "[Unlock Single Movies Codes]"
+    codes:
+      - "004AC2E7 000000FF"
+
+  - name: "Boa-Minotaurs"
+    author: "Codejunkies"
+    notes: "[Unlock Single Picture Codes]"
+    codes:
+      - "004AC319 000000FF"
+
+  - name: "Centaurs"
+    author: "Codejunkies"
+    notes: "[Unlock Single Picture Codes]"
+    codes:
+      - "004AC312 000000FF"
+
+  - name: "Cerberus-Taros"
+    author: "Codejunkies"
+    notes: "[Unlock Single Picture Codes]"
+    codes:
+      - "004AC313 000000FF"
+
+  - name: "Cetus-Icarus"
+    author: "Codejunkies"
+    notes: "[Unlock Single Picture Codes]"
+    codes:
+      - "004AC30F 000000FF"
+
+  - name: "Chariot"
+    author: "Codejunkies"
+    notes: "[Unlock Single Picture Codes]"
+    codes:
+      - "004AC321 000000FF"
+
+  - name: "Cronus-Echidna 2"
+    author: "Codejunkies"
+    notes: "[Unlock Single Picture Codes]"
+    codes:
+      - "004AC31F 000000FF"
+
+  - name: "Cyclopes"
+    author: "Codejunkies"
+    notes: "[Unlock Single Picture Codes]"
+    codes:
+      - "004AC30B 000000FF"
+
+  - name: "Harmonia-Echidna"
+    author: "Codejunkies"
+    notes: "[Unlock Single Picture Codes]"
+    codes:
+      - "004AC31E 000000FF"
+
+  - name: "Harpuiai"
+    author: "Codejunkies"
+    notes: "[Unlock Single Picture Codes]"
+    codes:
+      - "004AC31B 000000FF"
+
+  - name: "Hyacinthus"
+    author: "Codejunkies"
+    notes: "[Unlock Single Picture Codes]"
+    codes:
+      - "004AC318 000000FF"
+
+  - name: "Main Field"
+    author: "Codejunkies"
+    notes: "[Unlock Single Picture Codes]"
+    codes:
+      - "004AC31C 000000FF"
+
+  - name: "Roller"
+    author: "Codejunkies"
+    notes: "[Unlock Single Picture Codes]"
+    codes:
+      - "004AC31A 000000FF"
+
+  - name: "Roller Bike"
+    author: "Codejunkies"
+    notes: "[Unlock Single Picture Codes]"
+    codes:
+      - "004AC320 000000FF"
+
+  - name: "Siren"
+    author: "Codejunkies"
+    notes: "[Unlock Single Picture Codes]"
+    codes:
+      - "004AC310 000000FF"
+
+  - name: "Sphinx"
+    author: "Codejunkies"
+    notes: "[Unlock Single Picture Codes]"
+    codes:
+      - "004AC30D 000000FF"
+
+  - name: "Typhoon"
+    author: "Codejunkies"
+    notes: "[Unlock Single Picture Codes]"
+    codes:
+      - "004AC317 000000FF"
+
+  - name: "World 1"
+    author: "Codejunkies"
+    notes: "[Unlock Single Picture Codes]"
+    codes:
+      - "004AC30C 000000FF"
+
+  - name: "World 2"
+    author: "Codejunkies"
+    notes: "[Unlock Single Picture Codes]"
+    codes:
+      - "004AC30E 000000FF"
+
+  - name: "World 3"
+    author: "Codejunkies"
+    notes: "[Unlock Single Picture Codes]"
+    codes:
+      - "004AC311 000000FF"
+
+  - name: "World 4"
+    author: "Codejunkies"
+    notes: "[Unlock Single Picture Codes]"
+    codes:
+      - "004AC314 000000FF"
+
+  - name: "World 5"
+    author: "Codejunkies"
+    notes: "[Unlock Single Picture Codes]"
+    codes:
+      - "004AC315 000000FF"
+
+  - name: "World 6"
+    author: "Codejunkies"
+    notes: "[Unlock Single Picture Codes]"
+    codes:
+      - "004AC316 000000FF"
+
+  - name: "World 7"
+    author: "Codejunkies"
+    notes: "[Unlock Single Picture Codes]"
+    codes:
+      - "004AC31D 000000FF"
+
+  - name: "Argus"
+    author: "Codejunkies"
+    notes: "[Unlock Single Songs]"
+    codes:
+      - "004AC307 000000FF"
+
+  - name: "Battle"
+    author: "Codejunkies"
+    notes: "[Unlock Single Songs]"
+    codes:
+      - "004AC2F5 000000FF"
+
+  - name: "Broken Silence"
+    author: "Codejunkies"
+    notes: "[Unlock Single Songs]"
+    codes:
+      - "004AC2F8 000000FF"
+
+  - name: "Catastrophe"
+    author: "Codejunkies"
+    notes: "[Unlock Single Songs]"
+    codes:
+      - "004AC2F1 000000FF"
+
+  - name: "Crisis"
+    author: "Codejunkies"
+    notes: "[Unlock Single Songs]"
+    codes:
+      - "004AC2F4 000000FF"
+
+  - name: "Cronus"
+    author: "Codejunkies"
+    notes: "[Unlock Single Songs]"
+    codes:
+      - "004AC30A 000000FF"
+
+  - name: "Echidna 1"
+    author: "Codejunkies"
+    notes: "[Unlock Single Songs]"
+    codes:
+      - "004AC2F3 000000FF"
+
+  - name: "Echidna 2"
+    author: "Codejunkies"
+    notes: "[Unlock Single Songs]"
+    codes:
+      - "004AC301 000000FF"
+
+  - name: "Echidna 3"
+    author: "Codejunkies"
+    notes: "[Unlock Single Songs]"
+    codes:
+      - "004AC309 000000FF"
+
+  - name: "Holy War"
+    author: "Codejunkies"
+    notes: "[Unlock Single Songs]"
+    codes:
+      - "004AC2FA 000000FF"
+
+  - name: "Icarus"
+    author: "Codejunkies"
+    notes: "[Unlock Single Songs]"
+    codes:
+      - "004AC308 000000FF"
+
+  - name: "Legendary Warriors"
+    author: "Codejunkies"
+    notes: "[Unlock Single Songs]"
+    codes:
+      - "004AC2F9 000000FF"
+
+  - name: "New World"
+    author: "Codejunkies"
+    notes: "[Unlock Single Songs]"
+    codes:
+      - "004AC306 000000FF"
+
+  - name: "Ritual For Rebirth"
+    author: "Codejunkies"
+    notes: "[Unlock Single Songs]"
+    codes:
+      - "004AC303 000000FF"
+
+  - name: "Rygar"
+    author: "Codejunkies"
+    notes: "[Unlock Single Songs]"
+    codes:
+      - "004AC304 000000FF"
+
+  - name: "Titan 1"
+    author: "Codejunkies"
+    notes: "[Unlock Single Songs]"
+    codes:
+      - "004AC2F7 000000FF"
+
+  - name: "Titan 2"
+    author: "Codejunkies"
+    notes: "[Unlock Single Songs]"
+    codes:
+      - "004AC300 000000FF"
+
+  - name: "Triumph"
+    author: "Codejunkies"
+    notes: "[Unlock Single Songs]"
+    codes:
+      - "004AC2F0 000000FF"
+
+  - name: "You Are Still Here"
+    author: "Codejunkies"
+    notes: "[Unlock Single Songs]"
+    codes:
+      - "004AC305 000000FF"

@@ -1,0 +1,517 @@
+# Metal Gear Rising_ Revengance cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01750
+
+game: "Metal Gear Rising_ Revengance"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01750"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3 & Skiller & KE-HA"
+
+cheats:
+  - name: "Max Hp"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002EF7 00000005"
+
+  - name: "Super Max Hp(this Cheat Gives You Even More Hp! If You Have Issues, Revert To Using The Standard Max Hp.)"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002EF7 00000064"
+
+  - name: "Max Bp"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "20002EF0 05F5E0FF"
+
+  - name: "Unlock All Main Weapons"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "4000291A 00000003"
+      - "40070006 00000000"
+
+  - name: "Unlock All Skills"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "410029AA 00000302"
+      - "400E0006 00000000"
+
+  - name: "Unlock Ripper Mode"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002EEF 00000001"
+
+  - name: "Reset Save Time"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "20002828 00000000"
+
+  - name: "Main Weapons: Armor Breaker: Unlock Armor Breaker"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002926 00000003"
+
+  - name: "Main Weapons: Armor Breaker: Max Attack Power"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002928 00000005"
+
+  - name: "Main Weapons: Armor Breaker: Max Uptake Rate"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002929 00000005"
+
+  - name: "Main Weapons: Armor Breaker: Max Energy Use"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "0000292A 00000005"
+
+  - name: "Main Weapons: Armor Breaker: Max Special Effect"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "0000292B 00000005"
+
+  - name: "Main Weapons: Hf Blade: Unlock Hf Blade"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "0000291A 00000003"
+
+  - name: "Main Weapons: Hf Blade: Max Attack Power"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "0000291C 00000005"
+
+  - name: "Main Weapons: Hf Blade: Max Uptake Rate"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "0000291D 00000005"
+
+  - name: "Main Weapons: Hf Blade: Max Energy Use"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "0000291E 00000005"
+
+  - name: "Main Weapons: Hf Blade: Max Special Effect"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "0000291F 00000005"
+
+  - name: "Main Weapons: Hf Long Sword: Unlock Hf Long Sword"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "0000292C 00000003"
+
+  - name: "Main Weapons: Hf Long Sword: Max Attack Power"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "0000292E 00000005"
+
+  - name: "Main Weapons: Hf Long Sword: Max Uptake Rate"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "0000292F 00000005"
+
+  - name: "Main Weapons: Hf Long Sword: Max Energy Use"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002930 00000005"
+
+  - name: "Main Weapons: Hf Long Sword: Max Special Effect"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002931 00000005"
+
+  - name: "Main Weapons: Hf Machete: Unlock Mf Machete"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "0000293E 00000003"
+
+  - name: "Main Weapons: Hf Machete: Max Attack Power"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002940 00000005"
+
+  - name: "Main Weapons: Hf Machete: Max Uptake Rate"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002941 00000005"
+
+  - name: "Main Weapons: Hf Machete: Max Energy Use"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002942 00000005"
+
+  - name: "Main Weapons: Hf Machete: Max Special Effect"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002943 00000005"
+
+  - name: "Main Weapons: Hf Murasaka: Unlock Hf Murasake Blade"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002938 00000003"
+
+  - name: "Main Weapons: Hf Murasaka: Max Attack Power"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "0000293A 00000005"
+
+  - name: "Main Weapons: Hf Murasaka: Max Uptake Rate"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "0000293B 00000005"
+
+  - name: "Main Weapons: Hf Murasaka: Max Energy Use"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "0000293C 00000005"
+
+  - name: "Main Weapons: Hf Murasaka: Max Special Effect"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "0000293D 00000005"
+
+  - name: "Main Weapons: Wooden Sword: Unlock Hf Wooden Sword"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002932 00000003"
+
+  - name: "Main Weapons: Wooden Sword: Max Attack Power"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002934 00000005"
+
+  - name: "Main Weapons: Wooden Sword: Max Uptake Rate"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002935 00000005"
+
+  - name: "Main Weapons: Wooden Sword: Max Energy Use"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002936 00000005"
+
+  - name: "Main Weapons: Wooden Sword: Max Special Effect"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002937 00000005"
+
+  - name: "Main Weapons: Stun Blade: Unlock Stun Blade"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002920 00000003"
+
+  - name: "Main Weapons: Stun Blade: Max Attack Power"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002922 00000005"
+
+  - name: "Main Weapons: Stun Blade: Max Uptake Rate"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002923 00000005"
+
+  - name: "Main Weapons: Stun Blade: Max Energy Use"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002924 00000005"
+
+  - name: "Main Weapons: Stun Blade: Max Special Effect"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002925 00000005"
+
+  - name: "Unique Weapons: Princer Blades (bloodlust): Unlock Princer Blades (bloodlust)"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "1000295C 00000003"
+
+  - name: "Unique Weapons: Princer Blades (bloodlust): Max Strength"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "0000295E 00000005"
+
+  - name: "Unique Weapons: Polearm (l'etranger): Unlocke Polearm (l'etranger)"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002950 00000003"
+
+  - name: "Unique Weapons: Polearm (l'etranger): Max Strength"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002952 00000005"
+
+  - name: "Unique Weapons: Tactical Sai (dystopia): Unlock Tactical Sai (dystopia)"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002956 00000003"
+
+  - name: "Unique Weapons: Tactical Sai (dystopia): Max Strength"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002958 00000005"
+
+  - name: "Items: Max 3d Photo Frame"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "20002F18 00000005"
+
+  - name: "Items: Max Cardboard Box"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "20002F1C 00000005"
+
+  - name: "Items: Max Drum Can"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "20002F20 00000005"
+
+  - name: "Items: Max Electrolyte Pack"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "20002F24 00000005"
+
+  - name: "Items: Max Elecrtomagnetic Greande"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "20002F14 00000005"
+
+  - name: "Items: Max Grenade"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "20002F08 00000005"
+
+  - name: "Items: Max Homing Missle"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "20002F04 00000005"
+
+  - name: "Items: Max Jamming Grenade"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "20002F10 00000005"
+
+  - name: "Items: Max Red Phosphorus Grenade"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "20002F0C 00000005"
+
+  - name: "Items: Max Repair Nodepaste"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "20002F28 00000005"
+
+  - name: "Items: Max Rocket Launcher"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "20002F00 00000005"
+
+  - name: "Life Hobo Mugen"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002EF7 000000FF"
+
+  - name: "Life Hobo Mugen - Kaijyo Tsuujyougenkai"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "00002EF7 00000006"
+
+  - name: "Custmize Store All Unlocked"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "400028D2 00000001"
+      - "40070006 00000000"
+      - "40002920 00000001"
+      - "40060006 00000000"
+      - "40002950 00000001"
+      - "40680006 00000000"
+      - "40002C20 00000001"
+      - "400F0006 00000000"
+      - "40002C7A 00000001"
+      - "402D0006 00000000"
+
+  - name: "Sub Item All 5/5"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "42002F00 00000005"
+      - "40090004 00000000"
+
+  - name: "Recovery Item All 5/5"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "42002F24 00000005"
+      - "40020004 00000000"
+
+  - name: "Chapter Result All Clear S-rank"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "400038AB 00000001"
+      - "40080014 00000000"
+      - "420003F8 00000000"
+      - "40080398 00000000"
+      - "420003FC 00000000"
+      - "40080398 00000000"
+      - "42000798 000F423F"
+      - "40070398 00000000"
+      - "4200079C 000003E7"
+      - "40070398 00000000"
+      - "420007A0 000003E7"
+      - "40070398 00000000"
+      - "42000420 000003E7"
+      - "40080398 00000000"
+      - "42000448 00000001"
+      - "40080398 00000000"
+      - "400038AF 00000001"
+      - "40080014 00000000"
+      - "420004B0 00000000"
+      - "40080398 00000000"
+      - "420004B4 00000000"
+      - "40080398 00000000"
+      - "42000850 000F423F"
+      - "40070398 00000000"
+      - "42000854 000003E7"
+      - "40070398 00000000"
+      - "42000858 000003E7"
+      - "40070398 00000000"
+      - "420004D8 000003E7"
+      - "40080398 00000000"
+      - "42000500 00000001"
+      - "40080398 00000000"
+      - "400038B3 00000001"
+      - "40080014 00000000"
+      - "42000568 00000000"
+      - "40080398 00000000"
+      - "4200056C 00000000"
+      - "40080398 00000000"
+      - "42000908 000F423F"
+      - "40070398 00000000"
+      - "4200090C 000003E7"
+      - "40070398 00000000"
+      - "42000910 000003E7"
+      - "40070398 00000000"
+      - "42000590 000003E7"
+      - "40080398 00000000"
+      - "420005B8 00000001"
+      - "40080398 00000000"
+      - "400038B7 00000001"
+      - "40080014 00000000"
+      - "42000620 00000000"
+      - "40080398 00000000"
+      - "42000624 00000000"
+      - "40080398 00000000"
+      - "420009C0 000F423F"
+      - "40070398 00000000"
+      - "420009C4 000003E7"
+      - "40070398 00000000"
+      - "420009C8 000003E7"
+      - "40070398 00000000"
+      - "42000648 000003E7"
+      - "40080398 00000000"
+      - "42000670 00000001"
+      - "40080398 00000000"
+      - "400038BB 00000001"
+      - "40080014 00000000"
+      - "420006D8 00000000"
+      - "40080398 00000000"
+      - "420006DC 00000000"
+      - "40080398 00000000"
+      - "42000A78 000F423F"
+      - "40070398 00000000"
+      - "42000A7C 000003E7"
+      - "40070398 00000000"
+      - "42000A80 000003E7"
+      - "40070398 00000000"
+      - "42000700 000003E7"
+      - "40080398 00000000"
+      - "42000728 00000001"
+      - "40080398 00000000"
+
+  - name: "Title Completed"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "200003D8 FFFFFFFF"
+
+  - name: "Mib Completed"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "200003DC FFFFFFFF"
+
+  - name: "Id Completed"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "200003C0 FFFFFFFF"
+
+  - name: "Data Storage Completed"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "200003D0 FFFFFFFF"
+
+  - name: "Vr Mission 01-20 Unlock"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "200003D4 FFFFFFFF"
+
+  - name: "Vr Mission 01-20 Completed 1st(00:13.63)"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "4000000F 00000007"
+      - "40140010 00000000"
+      - "42000000 415A1903"
+      - "40140010 00000000"
+
+  - name: "Vr Mission 01 1st(00:39.02)"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "20000000 421C19BD"
+      - "0000000F 00000007"
+
+  - name: "Vr Mission 17 1st(03:19.40)"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "20000000 4347683C"
+      - "00000100 00000007"
+
+  - name: "Vr Mission 18 1st(06:46.90)"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "20000110 43CB733B"
+      - "0000011F 00000007"
+
+  - name: "Vr Mission 19 1st(06:46.90)"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "20000120 43CB733B"
+      - "0000012F 00000007"
+
+  - name: "Difficulty Change Easy"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "0000381B 00000000"
+
+  - name: "Difficulty Change Normal"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "0000381B 00000001"
+
+  - name: "Difficulty Change Hard"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "0000381B 00000002"
+
+  - name: "Difficulty Change Very Hard"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "0000381B 00000003"
+
+  - name: "Difficulty Change Revengeance"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "0000381B 00000004"
+
+  - name: "Completed 30 Dlc-vr-mission 1st Place(from .c0dy)"
+    notes: "File: BLES01750-SAVEDATA0\\SAVEDATA"
+    codes:
+      - "42000150 415076B7"
+      - "401D0010 00000000"

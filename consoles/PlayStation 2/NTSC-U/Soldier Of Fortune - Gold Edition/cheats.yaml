@@ -1,0 +1,304 @@
+# Soldier Of Fortune - Gold Edition cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20084
+
+game: "Soldier Of Fortune - Gold Edition"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20084"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "[M] Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00435A5F"
+
+  - name: "Code Breaker Version 1-5 Enable Code (Must Be On)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00435A5F"
+      - "200C0298 03E00008"
+      - "200C029C 3C040056"
+      - "2025CAD8 0C030088"
+
+  - name: "Code Breaker Version 6+ Enable Code (Must Be On)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Master Codes]"
+    codes:
+      - "90435A5C 0C110DE5"
+      - "200C0298 03E00008"
+      - "200C029C 3C040056"
+      - "2025CAD8 0C030088"
+
+  - name: "Show Baseline"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Show Debug Info Codes]"
+    codes:
+      - "20172BE4 00000000"
+
+  - name: "Show Debug Location"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Show Debug Info Codes]"
+    codes:
+      - "20113F28 00000000"
+
+  - name: "Show Delta"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Show Debug Info Codes]"
+    codes:
+      - "20172B58 00000000"
+
+  - name: "Show Frame Delta"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Show Debug Info Codes]"
+    codes:
+      - "201735D8 00000000"
+
+  - name: "Show High Clamp"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Show Debug Info Codes]"
+    codes:
+      - "10175634 0000000A"
+
+  - name: "Show Low Clamp"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Show Debug Info Codes]"
+    codes:
+      - "101756B0 00000009"
+
+  - name: "Show More Info"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Show Debug Info Codes]"
+    codes:
+      - "203F6A40 00000000"
+
+  - name: "Show Moving Entity"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Show Debug Info Codes]"
+    codes:
+      - "10216960 00000004"
+
+  - name: "Show Packets"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Show Debug Info Codes]"
+    codes:
+      - "20117D74 00000000"
+
+  - name: "Show Remove"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Show Debug Info Codes]"
+    codes:
+      - "20172AF0 00000000"
+
+  - name: "Show Rotating Entity"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Show Debug Info Codes]"
+    codes:
+      - "10216E24 00000004"
+
+  - name: "Show Trace/Points"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Show Debug Info Codes]"
+    codes:
+      - "203CF468 00000000"
+
+  - name: "Show Unchanged"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Show Debug Info Codes]"
+    codes:
+      - "20172A54 00000000"
+
+  - name: "P1 Press L3+Down For Slow Animations"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Speed Modifier Codes]"
+    codes:
+      - "D06CF482 0000FFBD"
+      - "2036FBEC 3C014400"
+
+  - name: "P1 Press L3+R3 For Normal Motion"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Speed Modifier Codes]"
+    codes:
+      - "D06CF482 0000FFF9"
+      - "2036FBEC 3C01447A"
+
+  - name: "P1 Press R3+Down For Hyper Animations"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Speed Modifier Codes]"
+    codes:
+      - "D06CF482 0000FFBB"
+      - "2036FBEC 3C014EFF"
+
+  - name: "P1 Press R3+Up For Fast Animations"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Speed Modifier Codes]"
+    codes:
+      - "D06CF482 0000FFEB"
+      - "2036FBEC 3C0144FF"
+
+  - name: "Change Weapons For Max Ammo In Clip"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "203C4220 00000000"
+      - "203C4228 24020063"
+      - "203C4230 AE020000"
+
+  - name: "Extra Ammo (9MM Pistol)"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "203B913C 00431021"
+
+  - name: "Extra Ammo (Shotgun)"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "103B9098 00000001"
+
+  - name: "Extra Ammo (Throwing Knives)"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "103C1FC0 00000001"
+
+  - name: "Extra Flash Paks & Plastiques"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "103B6F04 00000001"
+
+  - name: "God Mode"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "200C0220 8C4101A0"
+      - "200C0224 34210010"
+      - "200C0228 AC4101A0"
+
+  - name: "Infinite Ammo (9MM Pistol)"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "203B9144 00000000"
+
+  - name: "Infinite Ammo (Shotgun)"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "203B909C 00000000"
+
+  - name: "Infinite Ammo (Throwing Knives)"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "203C1FC4 00000000"
+
+  - name: "Infinite Armor"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "203B920C 00000000"
+
+  - name: "Infinite Flash Pak & Plastique"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "203B6F0C 00000000"
+
+  - name: "Infinite Stealth"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "202D0870 E61500CC"
+      - "202D0874 E60000CC"
+
+  - name: "Max Infinite Ammo-9MM Pistol"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "203B913C 24030063"
+
+  - name: "Max Infinite Ammo-Shotgun"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "203B9098 240303E7"
+
+  - name: "Max Infinite Flash Pak & Plastique"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "203B6F04 24020063"
+
+  - name: "Max Infinite Throwing Knives"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "203C1FC0 240203E7"
+
+  - name: "Never Reload (All Other Weapons-Primary Fire)"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "203C3ED0 00000000"
+
+  - name: "Never Reload (Flame Thrower-Primary Fire)"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "203C16BC 00000000"
+
+  - name: "Never Reload (Flame Thrower-Secondary Fire)"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "203C17CC 00000000"
+
+  - name: "Never Reload (Heavy Mg-Secondary Fire)"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "203C2390 00000000"
+
+  - name: "Never Reload (Mpg-Secondary Fire)"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "203C0F50 00000000"
+
+  - name: "Never Reload (Rocket Launcher-Secondary Fire)"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "203C3F98 00000000"
+
+  - name: "Never Reload (Shotgun-Primary Fire)"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "203C0074 00000000"
+
+  - name: "Never Reload (Slugthrower-Secondary Fire)"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "203C2098 00000000"
+
+  - name: "No Target"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "200C022C 8C4101A0"
+      - "200C0230 34210020"
+      - "200C0234 AC4101A0"
+
+  - name: "P1 Press L1+L2 To Have All Weapons"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "200C02A0 24030001"
+      - "200C02A4 24050063"
+      - "200C02A8 AC830044"
+      - "200C02AC AC850040"
+      - "200C02B0 24630001"
+      - "200C02B4 2C61000D"
+      - "200C02B8 1420FFFB"
+      - "200C02BC 2484000C"
+      - "200C02C0 080EF4F4"
+      - "200C02C4 8C420004"
+      - "D06CF482 0000FAFF"
+      - "203BD3C8 080300A8"
+      - "D06CF482 0000FFFF"
+      - "203BD3C8 8C420004"
+
+  - name: "P1 Press L1+Select For No Clipping On"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "D043A1C2 0000FBFE"
+      - "202DC27C 24030001"
+
+  - name: "P1 Press L2+Select For No Clipping Off"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "D043A1C2 0000FEFE"
+      - "202DC27C 8E23019C"

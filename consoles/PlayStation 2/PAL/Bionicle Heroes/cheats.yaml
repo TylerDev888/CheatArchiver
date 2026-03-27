@@ -1,0 +1,30 @@
+# Bionicle Heroes cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54150
+
+game: "Bionicle Heroes"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54150"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Buy Even Without Lego Pieces At The Store"
+    author: "luc-ita"
+    codes:
+      - "20350EF0 34020001"
+
+  - name: "Take Lego Pieces Anywhere - Light Effect"
+    author: "luc-ita"
+    codes:
+      - "2035BD10 00000000"
+      - "2035B954 00000000"
+
+  - name: "Take Lego Pieces Anywhere - Strong Effect"
+    author: "luc-ita"
+    codes:
+      - "2035BD10 00000000"
+      - "2035BC94 00000000"
+      - "2035B954 00000000"

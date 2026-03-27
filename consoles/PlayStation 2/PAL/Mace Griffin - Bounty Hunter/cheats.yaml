@@ -1,0 +1,28 @@
+# Mace Griffin - Bounty Hunter cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51653
+
+game: "Mace Griffin - Bounty Hunter"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51653"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100A48 000001FD"
+
+  - name: "(Debug) Enable Room Name"
+    author: "Codejunkies"
+    codes:
+      - "001335A0 00000001"
+
+  - name: "God Mode"
+    author: "Codejunkies"
+    codes:
+      - "0013359C 00000001"

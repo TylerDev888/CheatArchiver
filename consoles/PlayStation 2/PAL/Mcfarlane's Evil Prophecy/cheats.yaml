@@ -1,0 +1,42 @@
+# Mcfarlane's Evil Prophecy cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Mcfarlane's Evil Prophecy"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9022CAC4 0C090981"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C2010 86E20036"
+      - "200C2014 A6E20038"
+      - "200C2018 03E00008"
+      - "200C201C 26D00008"
+
+  - name: "MP"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C2000 92A40001"
+      - "200C2004 03E00008"
+      - "200C2008 A2A40002"
+      - "20143438 0C030800"
+
+  - name: "All Monster Cards/Gallery"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "4031E7A4 00040001"
+      - "FFFFFFFF 00000000"

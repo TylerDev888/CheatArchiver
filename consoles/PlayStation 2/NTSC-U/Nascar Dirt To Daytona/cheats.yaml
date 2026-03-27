@@ -1,0 +1,104 @@
+# Nascar Dirt To Daytona cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20441
+
+game: "Nascar Dirt To Daytona"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20441"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 002F9287"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "902F9284 0C0C34D9"
+
+  - name: "Fastest Lap Always 0:00.0"
+    author: "Code Master"
+    notes: "[Cup Mode-Atlanta Motor Speedway Codes]"
+    codes:
+      - "10959952 00000001"
+      - "20959958 00000000"
+
+  - name: "Rookie"
+    author: "Code Master"
+    notes: "[Have Win Completed Codes]"
+    codes:
+      - "2095995C 00000001"
+
+  - name: "Pro"
+    author: "Code Master"
+    notes: "[Have Win Completed Codes]"
+    codes:
+      - "20959960 00000001"
+
+  - name: "Veteran"
+    author: "Code Master"
+    notes: "[Have Win Completed Codes]"
+    codes:
+      - "20959964 00000001"
+
+  - name: "Champion"
+    author: "Code Master"
+    notes: "[Have Win Completed Codes]"
+    codes:
+      - "20959968 00000001"
+
+  - name: "Legend"
+    author: "Code Master"
+    notes: "[Have Win Completed Codes]"
+    codes:
+      - "2095996C 00000001"
+
+  - name: "All Wins"
+    author: "Code Master"
+    notes: "[Have Win Completed Codes]"
+    codes:
+      - "4095995C 00050001"
+      - "00000001 00000000"
+
+  - name: "All Top-5"
+    author: "Code Master"
+    notes: "[Have Top-5 Completed Codes]"
+    codes:
+      - "40959974 00050001"
+      - "00000001 00000000"
+
+  - name: "All Top-10"
+    author: "Code Master"
+    notes: "[Have Top-10 Completed Codes]"
+    codes:
+      - "4095998C 00050001"
+      - "00000001 00000000"
+
+  - name: "Max Money (Career Mode)"
+    author: "Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "200C0220 3C0205F5"
+      - "200C0224 3442E0FF"
+      - "200C0228 03E00008"
+      - "200C022C AC620004"
+      - "20286F88 08030088"
+
+  - name: "Buying Parts Doesnt Decrease Money (Career Mode)"
+    author: "Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "20286F54 00000000"
+
+  - name: "Buying Parts Increases Money (Career Mode)"
+    author: "Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "20286F4C 00641821"

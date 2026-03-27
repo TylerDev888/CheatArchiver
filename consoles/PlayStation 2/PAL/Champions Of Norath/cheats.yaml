@@ -1,0 +1,85 @@
+# Champions Of Norath cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Champions Of Norath"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90169F04 0C0B9AA4"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "5041BD28 00000004"
+      - "0041BD24 00003634"
+
+  - name: "Mana"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "5041BD40 00000004"
+      - "0041BD3C 00003634"
+
+  - name: "Carrying Capacity"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2041BDAC 00000000"
+
+  - name: "Skill Points"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2041BD64 000003E7"
+
+  - name: "Level"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "1041BCD0 00006363"
+
+  - name: "EXP"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "2041BCD4 05F5E0FF"
+
+  - name: "Strength"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "2041BCF0 000003E7"
+
+  - name: "Intelligence"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "2041BCF4 000003E7"
+
+  - name: "Dexterity"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "2041BCF8 000003E7"
+
+  - name: "Stamina"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "2041BCFC 000003E7"
+
+  - name: "Gold"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "2041BD60 05F5E0FF"

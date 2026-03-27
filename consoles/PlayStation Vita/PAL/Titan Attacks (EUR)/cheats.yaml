@@ -1,0 +1,57 @@
+# Titan Attacks (EUR) cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00504
+
+game: "Titan Attacks (EUR)"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00504"
+cheat_type: "Save Editor"
+source: "Credits: Slade"
+
+cheats:
+  - name: "Max Shields"
+    notes: "File: data_0.bin"
+    codes:
+      - "0000001A 00000008"
+
+  - name: "Max Gun Power"
+    notes: "File: data_0.bin"
+    codes:
+      - "0000001B 00000008"
+
+  - name: "Max Smart Bomb"
+    notes: "File: data_0.bin"
+    codes:
+      - "0000001D 00000003"
+
+  - name: "Max Add-ons"
+    notes: "File: data_0.bin"
+    codes:
+      - "0000001E 00000004"
+
+  - name: "Max Recharge"
+    notes: "File: data_0.bin"
+    codes:
+      - "0000001F 00000004"
+
+  - name: "Max Xtra Bullets"
+    notes: "File: data_0.bin"
+    codes:
+      - "0000001C 00000005"
+
+  - name: "Max Bonus"
+    notes: "File: data_0.bin"
+    codes:
+      - "00000019 00000009"
+
+  - name: "Max Smarts"
+    notes: "File: data_0.bin"
+    codes:
+      - "00000018 00000003"
+
+  - name: "9,99,999 Cash"
+    notes: "File: data_0.bin"
+    codes:
+      - "20000010 0098967F"

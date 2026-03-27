@@ -1,0 +1,95 @@
+# Prisoner Of War cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50397
+
+game: "Prisoner Of War"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50397"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F03AF2EC 003AF2EF"
+
+  - name: "All Secrets"
+    author: "Codejunkies"
+    codes:
+      - "2068DE00 00000002"
+      - "2068DE04 00000002"
+      - "2068DE08 00000002"
+      - "2068DE0C 00000001"
+      - "2068DE10 00000001"
+      - "2068DE14 00000001"
+
+  - name: "Freeze Timer (Press R2+L2+Up To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D0653A82 0000FCEF"
+      - "203097AC AC40001C"
+      - "D0653A82 0000FCEF"
+      - "203097B0 4481A000"
+
+  - name: "Press R2+L2+Down To Restart Timer"
+    author: "Codejunkies"
+    codes:
+      - "D0653A82 0000FCBF"
+      - "203097AC C454001C"
+      - "D0653A82 0000FCBF"
+      - "203097B0 4680A520"
+
+  - name: "Unlock 2Nd Level"
+    author: "Codejunkies"
+    codes:
+      - "00683E11 00000003"
+
+  - name: "Unlock 3Rd Level"
+    author: "Codejunkies"
+    codes:
+      - "00683E7A 00000003"
+
+  - name: "Unlock 4Th Level"
+    author: "Codejunkies"
+    codes:
+      - "00683EE3 00000003"
+
+  - name: "Unlock 5Th Level"
+    author: "Codejunkies"
+    codes:
+      - "00683F4C 00000003"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 003AF2EF"
+      - "903AF2EC 0C0F6CB5"
+
+  - name: "All Chapters"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "E00603E0 003ABEA6"
+      - "2044B6BC FFFFFFFF"
+      - "00683DA8 00000003"
+      - "00683E11 00000003"
+      - "00683E7A 00000003"
+      - "00683EE3 00000003"
+      - "00683F4C 00000003"
+
+  - name: "Secrets Menu"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "E00603E0 003ABEA6"
+      - "2067F6C4 00000002"
+      - "2067F6EC 00000002"
+      - "2067F714 00000002"
+      - "2067F73C 00000001"
+      - "2067F764 00000001"
+      - "2067F78C 00000001"

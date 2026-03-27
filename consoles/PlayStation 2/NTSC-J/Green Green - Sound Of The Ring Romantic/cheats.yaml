@@ -1,0 +1,29 @@
+# Green Green - Sound Of The Ring Romantic cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65283
+
+game: "Green Green - Sound Of The Ring Romantic"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65283"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90118638 0C046136"
+
+  - name: "Unlock All Scene Replay"
+    author: "punk7890"
+    codes:
+      - "408ACC1C 000A0001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Unlock Secret Menu"
+    author: "punk7890"
+    codes:
+      - "208ACBEC FFFFFFFF"

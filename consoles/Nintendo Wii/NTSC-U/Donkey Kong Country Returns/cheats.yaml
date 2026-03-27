@@ -1,0 +1,24 @@
+# Donkey Kong Country Returns cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  SF8E01
+
+game: "Donkey Kong Country Returns"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "SF8E01"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Mini Game Timer (gains)"
+    author: "Skiller"
+    notes: "File: Version 1 Codes"
+    codes:
+      - "041145AC EC00082A"
+
+  - name: "Mini Game Timer (frozen)"
+    author: "Skiller"
+    notes: "File: Version 1 Codes"
+    codes:
+      - "041145AC EC00D828"

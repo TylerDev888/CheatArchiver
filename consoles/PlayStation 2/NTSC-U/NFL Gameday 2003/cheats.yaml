@@ -1,0 +1,530 @@
+# NFL Gameday 2003 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97194
+
+game: "NFL Gameday 2003"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97194"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01CF250 0019D597"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0019D597"
+
+  - name: "Always 1St Down"
+    author: "Code Master"
+    codes:
+      - "1057FBD4 00000001"
+      - "105AD0A8 00000001"
+
+  - name: "Always 4Th Down"
+    author: "Code Master"
+    codes:
+      - "1057FBD4 00000004"
+      - "105AD0A8 00000004"
+
+  - name: "Always Start On 2Nd Down"
+    author: "Code Master"
+    codes:
+      - "D057FBD4 00000001"
+      - "1057FBD4 00000002"
+      - "D05AD0A8 00000001"
+      - "105AD0A8 00000002"
+
+  - name: "Always Start On 3Rd Down"
+    author: "Code Master"
+    codes:
+      - "D057FBD4 00000001"
+      - "1057FBD4 00000003"
+      - "D05AD0A8 00000001"
+      - "105AD0A8 00000003"
+
+  - name: "Away Team Extra Point's Score Modifier"
+    author: "Code Master"
+    codes:
+      - "20529244 248400??"
+
+  - name: "Away Team Field Goal's Score Modifier"
+    author: "Code Master"
+    codes:
+      - "1052A4AC 000000??"
+
+  - name: "Away Team Safety's Score Modifier"
+    author: "Code Master"
+    codes:
+      - "1052AB60 000000??"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "1057FAD0 0000????"
+
+  - name: "Away Team Start With Score Modifier"
+    author: "Code Master"
+    codes:
+      - "D057FAD0 00000000"
+      - "1057FAD0 0000????"
+
+  - name: "Away Team Touch Down's Score Modifier"
+    author: "Code Master"
+    codes:
+      - "1052AA04 000000??"
+
+  - name: "Home Team Extra Point's Score Modifier"
+    author: "Code Master"
+    codes:
+      - "20529220 248400??"
+
+  - name: "Home Team Field Goal's Score Modifier"
+    author: "Code Master"
+    codes:
+      - "1052A490 000000??"
+
+  - name: "Home Team Safety's Score Modifier"
+    author: "Code Master"
+    codes:
+      - "1052AB7C 000000??"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "1057FAC8 0000????"
+
+  - name: "Home Team Start With Score Modifier"
+    author: "Code Master"
+    codes:
+      - "D057FAC8 00000000"
+      - "1057FAC8 0000????"
+
+  - name: "Home Team Touch Down's Score Modifier"
+    author: "Code Master"
+    codes:
+      - "1052A9B8 000000??"
+
+  - name: "Infinite Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "1057FBA4 00002800"
+
+  - name: "L1+L2=Home Win"
+    author: "InterAct"
+    codes:
+      - "D03611C2 0000FAFF"
+      - "1057FAC8 00000032"
+      - "D03611C2 0000FAFF"
+      - "1057FAD0 00000000"
+
+  - name: "P1 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D0361582 0000FAFF"
+      - "1057FB8C 00000005"
+
+  - name: "P1 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D0361582 0000FBFE"
+      - "1057FBA4 00000100"
+
+  - name: "P1 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "E002FEFE 00361582"
+      - "1057FBD4 00000001"
+      - "105AD0A8 00000001"
+
+  - name: "P1 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    codes:
+      - "D0361582 0000F5FF"
+      - "1057FB8C 00000100"
+
+  - name: "P1 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D0361582 0000F7FE"
+      - "1057FBA4 00002800"
+
+  - name: "P1 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "E002FDFE 00361582"
+      - "1057FBD4 00000004"
+      - "105AD0A8 00000004"
+
+  - name: "P2 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D0361682 0000FAFF"
+      - "1057FB8C 00000005"
+
+  - name: "P2 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D0361682 0000FBFE"
+      - "1057FBA4 00000100"
+
+  - name: "P2 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "E002FEFE 00361682"
+      - "1057FBD4 00000001"
+      - "105AD0A8 00000001"
+
+  - name: "P2 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    codes:
+      - "D0361682 0000F5FF"
+      - "1057FB8C 00000100"
+
+  - name: "P2 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D0361682 0000F7FE"
+      - "1057FBA4 00002800"
+
+  - name: "P2 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "E002FDFE 00361682"
+      - "1057FBD4 00000004"
+      - "105AD0A8 00000004"
+
+  - name: "P3 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D0361782 0000FAFF"
+      - "1057FB8C 00000005"
+
+  - name: "P3 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D0361782 0000FBFE"
+      - "1057FBA4 00000100"
+
+  - name: "P3 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "E002FEFE 00361782"
+      - "1057FBD4 00000001"
+      - "105AD0A8 00000001"
+
+  - name: "P3 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    codes:
+      - "D0361782 0000F5FF"
+      - "1057FB8C 00000100"
+
+  - name: "P3 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D0361782 0000F7FE"
+      - "1057FBA4 00002800"
+
+  - name: "P3 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "E002FDFE 00361782"
+      - "1057FBD4 00000004"
+      - "105AD0A8 00000004"
+
+  - name: "P4 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D0361882 0000FAFF"
+      - "1057FB8C 00000005"
+
+  - name: "P4 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D0361882 0000FBFE"
+      - "1057FBA4 00000100"
+
+  - name: "P4 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "E002FEFE 00361882"
+      - "1057FBD4 00000001"
+      - "105AD0A8 00000001"
+
+  - name: "P4 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    codes:
+      - "D0361882 0000F5FF"
+      - "1057FB8C 00000100"
+
+  - name: "P4 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D0361882 0000F7FE"
+      - "1057FBA4 00002800"
+
+  - name: "P4 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "E002FDFE 00361882"
+      - "1057FBD4 00000004"
+      - "105AD0A8 00000004"
+
+  - name: "P5 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D0361982 0000FAFF"
+      - "1057FB8C 00000005"
+
+  - name: "P5 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D0361982 0000FBFE"
+      - "1057FBA4 00000100"
+
+  - name: "P5 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "E002FEFE 00361982"
+      - "1057FBD4 00000001"
+      - "105AD0A8 00000001"
+
+  - name: "P5 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    codes:
+      - "D0361982 0000F5FF"
+      - "1057FB8C 00000100"
+
+  - name: "P5 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D0361982 0000F7FE"
+      - "1057FBA4 00002800"
+
+  - name: "P5 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "E002FDFE 00361982"
+      - "1057FBD4 00000004"
+      - "105AD0A8 00000004"
+
+  - name: "P6 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D0361A82 0000FAFF"
+      - "1057FB8C 00000005"
+
+  - name: "P6 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D0361A82 0000FBFE"
+      - "1057FBA4 00000100"
+
+  - name: "P6 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "E002FEFE 00361A82"
+      - "1057FBD4 00000001"
+      - "105AD0A8 00000001"
+
+  - name: "P6 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    codes:
+      - "D0361A82 0000F5FF"
+      - "1057FB8C 00000100"
+
+  - name: "P6 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D0361A82 0000F7FE"
+      - "1057FBA4 00002800"
+
+  - name: "P6 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "E002FDFE 00361A82"
+      - "1057FBD4 00000004"
+      - "105AD0A8 00000004"
+
+  - name: "P7 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D0361B82 0000FAFF"
+      - "1057FB8C 00000005"
+
+  - name: "P7 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D0361B82 0000FBFE"
+      - "1057FBA4 00000100"
+
+  - name: "P7 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "E002FEFE 00361B82"
+      - "1057FBD4 00000001"
+      - "105AD0A8 00000001"
+
+  - name: "P7 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    codes:
+      - "D0361B82 0000F5FF"
+      - "1057FB8C 00000100"
+
+  - name: "P7 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D0361B82 0000F7FE"
+      - "1057FBA4 00002800"
+
+  - name: "P7 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "E002FDFE 00361B82"
+      - "1057FBD4 00000004"
+      - "105AD0A8 00000004"
+
+  - name: "P8 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D0361C82 0000FAFF"
+      - "1057FB8C 00000005"
+
+  - name: "P8 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D0361C82 0000FBFE"
+      - "1057FBA4 00000100"
+
+  - name: "P8 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "E002FEFE 00361C82"
+      - "1057FBD4 00000001"
+      - "105AD0A8 00000001"
+
+  - name: "P8 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    codes:
+      - "D0361C82 0000F5FF"
+      - "1057FB8C 00000100"
+
+  - name: "P8 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D0361C82 0000F7FE"
+      - "1057FBA4 00002800"
+
+  - name: "P8 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "E002FDFE 00361C82"
+      - "1057FBD4 00000004"
+      - "105AD0A8 00000004"
+
+  - name: "Infinite Play Time"
+    author: "Codejunkies"
+    notes: "[Play Time Codes]"
+    codes:
+      - "2057FBA4 01120512"
+
+  - name: "No Play Time (Press Select To Activate)"
+    author: "Codejunkies"
+    notes: "[Play Time Codes]"
+    codes:
+      - "D03611C2 0000FFFE"
+      - "2057FBA4 01114368"
+
+  - name: "R1+R2=Away Win"
+    author: "InterAct"
+    codes:
+      - "D03611C2 0000F5FF"
+      - "1057FAC8 00000000"
+      - "D03611C2 0000F5FF"
+      - "1057FAD0 00000032"
+
+  - name: "Always Score 0"
+    author: "Codejunkies"
+    notes: "[Score Codes]"
+    codes:
+      - "1057FAC8 00000000"
+
+  - name: "Always Score 50"
+    author: "Codejunkies"
+    notes: "[Score Codes]"
+    codes:
+      - "1057FAC8 00000032"
+
+  - name: "Start On 2Nd Quarter"
+    author: "Code Master"
+    codes:
+      - "D057FBD6 00000000"
+      - "1057FBD6 00000001"
+
+  - name: "Start On 3Rd Quarter"
+    author: "Code Master"
+    codes:
+      - "D057FBD6 00000000"
+      - "1057FBD6 00000002"
+
+  - name: "Start On 4Th Quarter"
+    author: "Code Master"
+    codes:
+      - "D057FBD6 00000000"
+      - "1057FBD6 00000003"
+
+  - name: "Infinite Creation Points"
+    author: "Codejunkies"
+    notes: "[Time Outs Codes]"
+    codes:
+      - "1063C186 00000078"
+
+  - name: "Infinite Time Outs"
+    author: "Codejunkies"
+    notes: "[Time Outs Codes]"
+    codes:
+      - "1057FAD8 00000003"
+
+  - name: "Low Created Salaries"
+    author: "Codejunkies"
+    notes: "[Time Outs Codes]"
+    codes:
+      - "10633B14 00000001"
+
+  - name: "No Time Outs"
+    author: "Codejunkies"
+    notes: "[Time Outs Codes]"
+    codes:
+      - "1057FAD8 00000000"
+
+  - name: "Home Team Infinite Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1057FAD8 00000003"
+
+  - name: "Home Team No Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1057FAD8 00000000"
+
+  - name: "Away Team Infinite Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1057FADA 00000003"
+
+  - name: "Away Team No Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1057FADA 00000000"

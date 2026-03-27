@@ -1,0 +1,88 @@
+# Simpsons Game, The cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21665
+
+game: "Simpsons Game, The"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21665"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Unlimited Upgraded Slingshot Ammo [ASM]"
+    author: "Josh_7774"
+    notes: "[Bart Simpson]"
+    codes:
+      - "D02AB444 AC620000"
+      - "202AB444 00000000"
+
+  - name: "P1 - 1"
+    author: "Josh_7774"
+    notes: "[Button Activator Address]"
+    codes:
+      - "D047C2C2 0000????"
+
+  - name: "P1 - 2"
+    author: "Josh_7774"
+    notes: "[Button Activator Address]"
+    codes:
+      - "D047C342 0000????"
+
+  - name: "P1 - 3"
+    author: "Josh_7774"
+    notes: "[Button Activator Address]"
+    codes:
+      - "D05A1722 0000????"
+
+  - name: "Unlimited Gumi-Homer [ASM]"
+    author: "Josh_7774"
+    notes: "[Homer Simpson]"
+    codes:
+      - "D02BA900 E60000F8"
+      - "202BA900 00000000"
+      - "D02BAA78 E62000F8"
+      - "202BAA78 00000000"
+
+  - name: "Unlimited Heli-Homer [ASM]"
+    author: "Josh_7774"
+    notes: "[Homer Simpson]"
+    codes:
+      - "D02B9AD4 E66000F4"
+      - "202B9AD4 00000000"
+      - "D02BA8EC E60000F4"
+      - "202BA8EC 00000000"
+
+  - name: "Unlimited Homer Ball [ASM]"
+    author: "Josh_7774"
+    notes: "[Homer Simpson]"
+    codes:
+      - "D02BA8A0 46010001"
+      - "202BA8A0 00000000"
+
+  - name: "Deaths Counter Doesn't Increment On Death [ASM]"
+    author: "Josh_7774"
+    notes: "[Miscellaneous]"
+    codes:
+      - "D0242280 24420001"
+      - "20242280 00000000"
+
+  - name: "Shield Powerup Doesn't Get Taken Away When Switching Characters [ASM]"
+    author: "Josh_7774"
+    notes: "[Miscellaneous]"
+    codes:
+      - "D029E858 AE0000D4"
+      - "2029E858 00000000"
+
+  - name: "Blue Power Bar Never Decreases [ASM]"
+    author: "Josh_7774"
+    codes:
+      - "D029E274 E48000E4"
+      - "2029E274 00000000"
+
+  - name: "Infinite Shield Powerup On Pickup [ASM]"
+    author: "Josh_7774"
+    codes:
+      - "D029C568 E68000D4"
+      - "2029C568 00000000"

@@ -1,0 +1,71 @@
+# Alone In The Dark 4 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50185
+
+game: "Alone In The Dark 4"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50185"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F02FD144 000001FD"
+
+  - name: "All Items Available"
+    author: "Codejunkies"
+    codes:
+      - "20258E68 24020035"
+
+  - name: "All Weapons, Items, Infinite Health And Ammo"
+    author: "Codejunkies"
+    codes:
+      - "20264678 2402FFFF"
+      - "20264684 2402FFFF"
+
+  - name: "Beacon Carnby"
+    author: "InterAct"
+    codes:
+      - "10ACF3C8 00000001"
+
+  - name: "Can't Turn Torch Off"
+    author: "InterAct"
+    codes:
+      - "10BCB584 00000001"
+
+  - name: "Carnby Ready To Run"
+    author: "InterAct"
+    codes:
+      - "10BD7F5C 00000008"
+
+  - name: "Cyborg Eyes Carnby"
+    author: "InterAct"
+    codes:
+      - "1069DF08 00000001"
+
+  - name: "God Mode"
+    author: "Codejunkies"
+    codes:
+      - "2024BA68 24030015"
+
+  - name: "Infinite Ammo (Guns)"
+    author: "Codejunkies"
+    codes:
+      - "2025F1D4 00000000"
+
+  - name: "Infinite Health"
+    author: "InterAct"
+    codes:
+      - "10BCB58C 00000064"
+      - "10BCB6CC 00000064"
+
+  - name: "Infinite Revolver Ammo"
+    author: "InterAct"
+    codes:
+      - "10BCB77C 00000012"
+      - "10BCB8BC 00000012"

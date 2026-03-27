@@ -1,0 +1,23 @@
+# Mortal Kombat cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01132
+
+game: "Mortal Kombat"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01132"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Krypt Koins"
+    notes: "File: BLES01132MK9PSET\\MK9PSET"
+    codes:
+      - "2000014C 05F5E0FF"
+
+  - name: "Unlock All Characters & Costumes"
+    notes: "File: BLES01132MK9PSET\\MK9PSET"
+    codes:
+      - "20000FC8 FFFFFFFF"
+      - "20000FCC FFFFFFFF"

@@ -1,0 +1,82 @@
+# God Of War_ Ascension cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BCAS25016
+
+game: "God Of War_ Ascension"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BCAS25016"
+cheat_type: "Save Editor"
+source: "From KE-HA"
+
+cheats:
+  - name: "Max Red Orbs(for Your Current Game Progress, Apply This Cheat To Dat-31. If You Plan To Restart A Chapter, Apply The Cheat To The Relevant File, Eg Dat-9 For Chapter 9, Dat-23 For Chapter 23.)"
+    notes: "File: BCAS25016-PROFDATA-*\\DAT-*"
+    codes:
+      - "80010004 00000324"
+      - "28000030 49742400"
+
+  - name: "Red Orb 1000000"
+    notes: "File: BCAS25016-PROFDATA-*\\DAT-*"
+    codes:
+      - "80010004 00000324"
+      - "28000030 49742400"
+
+  - name: "Difficulty Change Titan"
+    notes: "File: BCAS25016-PROFDATA-*\\DAT-*"
+    codes:
+      - "80010004 2C04FF00"
+      - "08000014 00000003"
+
+  - name: "Difficulty Change Hard"
+    notes: "File: BCAS25016-PROFDATA-*\\DAT-*"
+    codes:
+      - "80010004 2C04FF00"
+      - "08000014 00000002"
+
+  - name: "Difficulty Change Normal"
+    notes: "File: BCAS25016-PROFDATA-*\\DAT-*"
+    codes:
+      - "80010004 2C04FF00"
+      - "08000014 00000001"
+
+  - name: "Difficulty Change Easy"
+    notes: "File: BCAS25016-PROFDATA-*\\DAT-*"
+    codes:
+      - "80010004 2C04FF00"
+      - "08000014 00000001"
+
+  - name: "Game Mode Normal"
+    notes: "File: BCAS25016-PROFDATA-*\\DAT-*"
+    codes:
+      - "80010004 2C04FF00"
+      - "18000017 00000100"
+
+  - name: "Game Mode +"
+    notes: "File: BCAS25016-PROFDATA-*\\DAT-*  (System)"
+    codes:
+      - "80010004 2C04FF00"
+      - "18000017 00000001"
+
+  - name: "Artifacts 9/10 *the Remainder Is Chapter 28"
+    notes: "File: BCAS25016-SYSDATA\\SAVEDATA"
+    codes:
+      - "1000001A 000005FF"
+
+  - name: "Selection Of All Difficulty Is Possible & New Game +"
+    notes: "File: BCAS25016-SYSDATA\\SAVEDATA"
+    codes:
+      - "00000017 00000008"
+
+  - name: "255 Gorgon's Eyes(from Zirak)"
+    notes: "File: BCAS25016-SYSDATA\\SAVEDATA"
+    codes:
+      - "80010004 00032400"
+      - "280002FF 000000FF"
+
+  - name: "255 Pheonix Feather's(from Zirak)"
+    notes: "File: BCAS25016-SYSDATA\\SAVEDATA"
+    codes:
+      - "80010004 00032400"
+      - "28000303 000000FF"

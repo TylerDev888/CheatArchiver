@@ -1,0 +1,28 @@
+# Payday_ The Heist (PSN) cheat data
+# Console: PlayStation 3
+# Region:  Unknown
+# Serial:  NPEA00331
+
+game: "Payday_ The Heist (PSN)"
+console: "PlayStation 3"
+region: "Unknown"
+serial: "NPEA00331"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Md5 For Header.bin (required)"
+    notes: "File: HEADER.BIN  (set range:0x000004,0x000514)"
+    codes:
+      - "set pointer:lastbyte-0xF"
+      - "set range:0x000004,pointer"
+      - "set [hash]:MD5"
+      - "write next (0):[hash]"
+
+  - name: "Update Md5 For Info.bin (required)"
+    notes: "File: INFO.BIN  (set range:0x000004,0x00380B)"
+    codes:
+      - "set pointer:lastbyte-0xF"
+      - "set range:0x000004,pointer"
+      - "set [hash]:MD5"
+      - "write next (0):[hash]"

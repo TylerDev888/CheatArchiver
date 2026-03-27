@@ -1,0 +1,87 @@
+# NBA Street 3 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53001
+
+game: "NBA Street 3"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53001"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F04335E4 004335E7"
+      - "200FFF20 03E00008"
+      - "201653CC 0803FFC0"
+
+  - name: "Attribute Cost Nothing (Edit Custom Baller Code)"
+    author: "Codejunkies"
+    codes:
+      - "20282084 24060000"
+
+  - name: "Player 1 Max Gamebreaker"
+    author: "Codejunkies"
+    notes: "[Gamebreaker Codes]"
+    codes:
+      - "201187D8 AC41000C"
+
+  - name: "Player 1 No Gamebreaker"
+    author: "Codejunkies"
+    notes: "[Gamebreaker Codes]"
+    codes:
+      - "201187D8 AC40000C"
+
+  - name: "Player 2 Max Gamebreaker"
+    author: "Codejunkies"
+    notes: "[Gamebreaker Codes]"
+    codes:
+      - "201187B4 AC41000C"
+
+  - name: "Player 2 No Gamebreaker"
+    author: "Codejunkies"
+    notes: "[Gamebreaker Codes]"
+    codes:
+      - "201187B4 AC40000C"
+
+  - name: "Max SP Points After Shopping"
+    author: "Codejunkies"
+    codes:
+      - "2020C8D4 3C0205F5"
+
+  - name: "P1 Instant Win"
+    author: "Codejunkies"
+    notes: "[Score Codes]"
+    codes:
+      - "200FFF0C 10005003"
+      - "200FFF14 24010063"
+      - "200FFF18 AC810000"
+
+  - name: "P1 Never Score"
+    author: "Codejunkies"
+    notes: "[Score Codes]"
+    codes:
+      - "200FFF00 10050002"
+      - "200FFF08 AC800000"
+
+  - name: "P1 Press R1+L1+R2+L2 For 20 Pts"
+    author: "Codejunkies"
+    notes: "[Score Codes]"
+    codes:
+      - "D0570302 0000F0FF"
+      - "200FFF18 AC810000"
+      - "E001F0FF 20570302"
+      - "200FFF18 00000000"
+      - "200FFF0C 10005003"
+      - "200FFF14 24010014"
+
+  - name: "P2 Never Score"
+    author: "Codejunkies"
+    notes: "[Score Codes]"
+    codes:
+      - "200FFF00 14050002"
+      - "200FFF08 AC800000"

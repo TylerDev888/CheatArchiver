@@ -1,0 +1,98 @@
+# Tak 2 - The Staff Of Dreams cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53129
+
+game: "Tak 2 - The Staff Of Dreams"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53129"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F044DF64 0044DF67"
+
+  - name: "Big Head (Press L3+Up)"
+    author: "Codejunkies"
+    notes: "[Head Codes]"
+    codes:
+      - "E10400ED 0054B1C2"
+      - "E0030000 105495D4"
+      - "E0020000 105495D6"
+      - "605495D4 00003FE0"
+      - "00010001 000036BD"
+
+  - name: "Big Head Mullet Mode (Press L3+Down)"
+    author: "Codejunkies"
+    notes: "[Head Codes]"
+    codes:
+      - "E10400BD 0054B1C2"
+      - "E0030000 105495D4"
+      - "E0020000 105495D6"
+      - "605495D4 00004040"
+      - "00010001 000036BD"
+
+  - name: "Normal Head (Press L3+Left)"
+    author: "Codejunkies"
+    notes: "[Head Codes]"
+    codes:
+      - "E104007D 0054B1C2"
+      - "E0030000 105495D4"
+      - "E0020000 105495D6"
+      - "605495D4 00003F80"
+      - "00010001 000036BD"
+
+  - name: "Even Slower Motion (Press R3+Down)"
+    author: "Codejunkies"
+    notes: "[Pause To De-Activate Any Of The Game Engine Speed Codes]"
+    codes:
+      - "E10100BB 0054B1C2"
+      - "21FEAB28 3E800000"
+
+  - name: "Hyper Mode (Press R3+Right)"
+    author: "Codejunkies"
+    notes: "[Pause To De-Activate Any Of The Game Engine Speed Codes]"
+    codes:
+      - "E10100DB 0054B1C2"
+      - "21FEAB28 40000000"
+
+  - name: "Quicker Game (Press R3+Left)"
+    author: "Codejunkies"
+    notes: "[Pause To De-Activate Any Of The Game Engine Speed Codes]"
+    codes:
+      - "E101007B 0054B1C2"
+      - "21FEAB28 3FC00000"
+
+  - name: "Slow Motion (Press R3+Up)"
+    author: "Codejunkies"
+    notes: "[Pause To De-Activate Any Of The Game Engine Speed Codes]"
+    codes:
+      - "E10100EB 0054B1C2"
+      - "21FEAB28 3F000000"
+
+  - name: "Display Profiler Gauges"
+    author: "Codejunkies"
+    codes:
+      - "20178360 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "E0030000 105495D4"
+      - "E0020000 105495D6"
+      - "605495D4 00003F80"
+      - "00010001 00000131"
+
+  - name: "Moon Jump"
+    author: "Codejunkies"
+    codes:
+      - "E10400BF 0054B1C3"
+      - "E0030000 105495D4"
+      - "E0020000 105495D6"
+      - "605495D4 00004060"
+      - "00010001 00000043"

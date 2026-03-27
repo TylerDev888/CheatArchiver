@@ -1,0 +1,139 @@
+# Spongebob Squarepants - Battle For Bikini Bottom cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51968
+
+game: "Spongebob Squarepants - Battle For Bikini Bottom"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51968"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "No Damage"
+    author: "luc-ita"
+    notes: "[Internal Debug Features]"
+    codes:
+      - "2052CCF4 00000000"
+
+  - name: "Nomusic"
+    author: "luc-ita"
+    notes: "[Internal Debug Features]"
+    codes:
+      - "0052CAD8 00000001"
+
+  - name: "1Hitkill First Boss"
+    author: "luc-ita"
+    codes:
+      - "20373170 24020001"
+      - "2036EE78 1000003D"
+
+  - name: "Always Have The Bubble Bowl"
+    author: "luc-ita"
+    codes:
+      - "0052CDCD 00000001"
+
+  - name: "Always Have The Cruise Bubble"
+    author: "luc-ita"
+    codes:
+      - "0052CDCE 00000001"
+
+  - name: "Fly Mode (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "D0532C42 0000FFFA"
+      - "0052DF6C 00000001"
+      - "D0532C42 0000FFFC"
+      - "0052DF6C 00000000"
+
+  - name: "Invulnerable And Can Walk On Water"
+    author: "luc-ita"
+    codes:
+      - "2014D19C 00000000"
+      - "20153AB0 1000002F"
+
+  - name: "Jump Higher"
+    author: "luc-ita"
+    codes:
+      - "2052CE20 C1A00000"
+
+  - name: "Jump Higher - Spongebob And Sally"
+    author: "luc-ita"
+    codes:
+      - "2052CE3C 412CB23D"
+      - "2052D6FC 41311668"
+
+  - name: "Jump In Midair - Spongebob"
+    author: "luc-ita"
+    codes:
+      - "2052DB34 00000000"
+
+  - name: "Jump In Midair With Slow Descent"
+    author: "luc-ita"
+    codes:
+      - "201D2EA4 24061F01"
+
+  - name: "Jump Much Higher"
+    author: "luc-ita"
+    codes:
+      - "2052CE20 C2480000"
+
+  - name: "Jump Much Higher - Spongebob And Sally"
+    author: "luc-ita"
+    codes:
+      - "2052CE3C 41A6591F"
+      - "2052D6FC 41B08B34"
+
+  - name: "Low Gravity"
+    author: "luc-ita"
+    codes:
+      - "2052CD34 41200000"
+
+  - name: "Unlock Things And Take Taxi Even Without Shiny Objects Or Spatulas Or Socks"
+    author: "luc-ita"
+    codes:
+      - "2012F958 00000000"
+
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01B080C 001B080F"
+
+  - name: "10 Lost Socks"
+    author: "Codejunkies"
+    notes: "[Pants Codes]"
+    codes:
+      - "2052E134 0000000A"
+      - "2052E078 0000000A"
+
+  - name: "Infinite Pants (Health)"
+    author: "Codejunkies"
+    notes: "[Pants Codes]"
+    codes:
+      - "2052DC10 00000003"
+
+  - name: "Press L2 To Set Pants To 3"
+    author: "Codejunkies"
+    notes: "[Pants Codes]"
+    codes:
+      - "D0532D42 0000FEFF"
+      - "2052DC10 00000003"
+
+  - name: "Press R2 To Set Pants To 0"
+    author: "Codejunkies"
+    notes: "[Pants Codes]"
+    codes:
+      - "D0532D42 0000FDFF"
+      - "2052DC10 00000000"
+
+  - name: "999 Golden Stapulas"
+    author: "Codejunkies"
+    codes:
+      - "2052E074 000003E7"
+
+  - name: "9999 Shiney Objects"
+    author: "Codejunkies"
+    codes:
+      - "2052E070 0000270F"

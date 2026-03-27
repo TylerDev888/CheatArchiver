@@ -1,0 +1,75 @@
+# Disney's Kim Possible - What's The Switch cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21437
+
+game: "Disney's Kim Possible - What's The Switch"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21437"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F011DD04 0011DD07"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "9011DEA4 0C04AC58"
+
+  - name: "Godmode"
+    author: "ColdFusion73"
+    codes:
+      - "212EFB40 24020001"
+
+  - name: "Infinite Lives"
+    author: "Codejunkies"
+    codes:
+      - "20D07444 00000009"
+
+  - name: "Extra Lives"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D0D217BC 0000F02D"
+      - "20D217F4 00431021"
+
+  - name: "Have All Coins"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "205FEB98 00000064"
+      - "205FEB9C 00000064"
+
+  - name: "Infinite Double Jumps"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D133DF80 00003DCC"
+      - "2133DF9C 00000000"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002382D 013507FC"
+      - "21350810 24030005"
+      - "21350818 AC4307E0"
+
+  - name: "P1 Press X For Moon Jump"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "200C0220 3C0140CB"
+      - "200C0224 03E00008"
+      - "200C0228 AD01002C"
+      - "D030EC02 0000BFFF"
+      - "202245E8 0C030088"
+      - "D030EC02 0000FFFF"
+      - "202245E8 E501002C"

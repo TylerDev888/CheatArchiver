@@ -1,0 +1,146 @@
+# All-Star Baseball 2002 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20008
+
+game: "All-Star Baseball 2002"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20008"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 002B60D7"
+
+  - name: "1 Ball And You Walk"
+    author: "Code Master"
+    codes:
+      - "200C0240 92660931"
+      - "200C0244 50C00001"
+      - "200C0248 24060003"
+      - "200C024C 03E00008"
+      - "200C0250 A2660931"
+      - "2020479C 0C030090"
+
+  - name: "1 Out And You Are Out"
+    author: "Code Master"
+    codes:
+      - "200C0260 92660932"
+      - "200C0264 50C00001"
+      - "200C0268 24060002"
+      - "200C026C 03E00008"
+      - "200C0270 A2660932"
+      - "20204788 0C030098"
+
+  - name: "1 Strike And You Are Out"
+    author: "Code Master"
+    codes:
+      - "200C0220 92660930"
+      - "200C0224 50C00001"
+      - "200C0228 24060002"
+      - "200C022C 03E00008"
+      - "200C0230 A2660930"
+      - "20204774 0C030088"
+
+  - name: "2 Balls And You Walk"
+    author: "Code Master"
+    codes:
+      - "200C0240 92660931"
+      - "200C0244 50C00001"
+      - "200C0248 24060002"
+      - "200C024C 03E00008"
+      - "200C0250 A2660931"
+      - "2020479C 0C030090"
+
+  - name: "2 Outs And You Are Out"
+    author: "Code Master"
+    codes:
+      - "200C0260 92660932"
+      - "200C0264 50C00001"
+      - "200C0268 24060001"
+      - "200C026C 03E00008"
+      - "200C0270 A2660932"
+      - "20204788 0C030098"
+
+  - name: "2 Strikes And You Are Out"
+    author: "Code Master"
+    codes:
+      - "200C0220 92660930"
+      - "200C0224 50C00001"
+      - "200C0228 24060001"
+      - "200C022C 03E00008"
+      - "200C0230 A2660930"
+      - "20204774 0C030088"
+
+  - name: "3 Balls And You Walk"
+    author: "Code Master"
+    codes:
+      - "200C0240 92660931"
+      - "200C0244 50C00001"
+      - "200C0248 24060001"
+      - "200C024C 03E00008"
+      - "200C0250 A2660931"
+      - "2020479C 0C030090"
+
+  - name: "All Runs Score For Away Team"
+    author: "Code Master"
+    codes:
+      - "20107ED0 24030000"
+
+  - name: "All Runs Score For Home Team"
+    author: "Code Master"
+    codes:
+      - "20107ED0 24030002"
+
+  - name: "Away Team Box Score Modifier"
+    author: "Code Master"
+    codes:
+      - "200C0290 240100??"
+      - "200C0294 08081338"
+      - "200C0298 A6610778"
+      - "20204794 0C0300A8"
+
+  - name: "Home Team Box Score Modifier"
+    author: "Code Master"
+    codes:
+      - "200C0280 240100??"
+      - "200C0284 08081338"
+      - "200C0288 A661077A"
+      - "20204780 0C0300A0"
+
+  - name: "Infinite Balls"
+    author: "Code Master"
+    codes:
+      - "2020479C A2600931"
+
+  - name: "Infinite Outs"
+    author: "Code Master"
+    codes:
+      - "20204788 A2600932"
+
+  - name: "Infinite Strikes"
+    author: "Code Master"
+    codes:
+      - "20204774 A2600930"
+
+  - name: "Runs Score Modifier"
+    author: "Code Master"
+    codes:
+      - "10107EDC 000000??"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 002B60D7"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "902B60D4 0C0A3734"

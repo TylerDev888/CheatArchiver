@@ -1,0 +1,199 @@
+# Super Bust-A-Move cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20115
+
+game: "Super Bust-A-Move"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20115"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0112C00 000001FD"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001D07F7"
+
+  - name: "Always Get Bubbles P1"
+    author: "Code Master"
+    codes:
+      - "103401C4 00000230"
+
+  - name: "Always Get Bubbles P2"
+    author: "Code Master"
+    codes:
+      - "10393994 00000230"
+
+  - name: "Always Have Guide Line"
+    author: "InterAct"
+    codes:
+      - "1031E544 00000001"
+
+  - name: "Always Have Guide Line (All Modes)"
+    author: "Code Master"
+    codes:
+      - "10144206 00001000"
+      - "1031E544 00000001"
+
+  - name: "Always Have Piece Modifier P1"
+    author: "Code Master"
+    codes:
+      - "103316F0 000000??"
+
+  - name: "Always Have Piece Modifier P2"
+    author: "Code Master"
+    codes:
+      - "10384EC0 000000??"
+
+  - name: "Always Low Time (Puzzle Mode Only)"
+    author: "Code Master"
+    codes:
+      - "2031E448 00000000"
+
+  - name: "Ceiling Always Closes In P1"
+    author: "Code Master"
+    codes:
+      - "D03D7F20 00000000"
+      - "103D7F20 00000008"
+
+  - name: "Ceiling Always Closes In P2"
+    author: "Code Master"
+    codes:
+      - "D046EA60 00000000"
+      - "1046EA60 00000008"
+
+  - name: "Ceiling Never Closes In (Both Players)"
+    author: "Code Master"
+    codes:
+      - "2014D348 00000000"
+
+  - name: "Ceiling Never Closes In P1"
+    author: "Code Master"
+    codes:
+      - "103D7F20 00000000"
+
+  - name: "Ceiling Never Closes In P2"
+    author: "Code Master"
+    codes:
+      - "1046EA60 00000000"
+
+  - name: "Have 'Super' Bubble"
+    author: "InterAct"
+    codes:
+      - "103316F0 00000020"
+
+  - name: "Infinite Time To Shoot Bubble Out (Both Players)"
+    author: "Code Master"
+    codes:
+      - "20136CB8 00000000"
+
+  - name: "Infinite Time To Shoot Bubble Out P1"
+    author: "Code Master"
+    codes:
+      - "1032FB48 00000000"
+
+  - name: "Infinite Time To Shoot Bubble Out P2"
+    author: "Code Master"
+    codes:
+      - "10383318 00000000"
+
+  - name: "Max Score P1"
+    author: "Code Master"
+    codes:
+      - "2032FB20 05F5E0FF"
+
+  - name: "Max Score P2"
+    author: "Code Master"
+    codes:
+      - "203832F0 05F5E0FF"
+
+  - name: "Never Get Bubbles P1"
+    author: "Code Master"
+    codes:
+      - "103401C4 00000000"
+
+  - name: "Never Get Bubbles P2"
+    author: "Code Master"
+    codes:
+      - "10393994 00000000"
+
+  - name: "Next Piece Modifier P1"
+    author: "Code Master"
+    codes:
+      - "10332550 000000??"
+
+  - name: "Next Piece Modifier P2"
+    author: "Code Master"
+    codes:
+      - "10385D20 000000??"
+
+  - name: "P1 Needs 1 Win To Win"
+    author: "Code Master"
+    codes:
+      - "D031E484 00000000"
+      - "1031E484 00000001"
+
+  - name: "P1 Never Wins"
+    author: "Code Master"
+    codes:
+      - "1031E484 00000000"
+
+  - name: "P1 Press L3 For Super Bubble"
+    author: "Code Master"
+    codes:
+      - "D0582A02 0000FFFD"
+      - "103316F0 00000020"
+
+  - name: "P2 Needs 1 Win To Win"
+    author: "Code Master"
+    codes:
+      - "D031E486 00000000"
+      - "1031E486 00000001"
+
+  - name: "P2 Never Wins"
+    author: "Code Master"
+    codes:
+      - "1031E486 00000000"
+
+  - name: "P2 Press L3 For Super Bubble"
+    author: "Code Master"
+    codes:
+      - "D0582C02 0000FFFD"
+      - "10384EC0 00000020"
+
+  - name: "Quick Score Gain P1"
+    author: "Code Master"
+    codes:
+      - "1032FB20 0000FFFF"
+
+  - name: "Quick Score Gain P2"
+    author: "Code Master"
+    codes:
+      - "103832F0 0000FFFF"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001D07F7"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901D07F4 0C07743D"
+
+  - name: "Always Have Guide Line (Puzzle Mode Only)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1031E544 00000001"

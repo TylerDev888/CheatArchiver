@@ -1,0 +1,23 @@
+# Ninja Gaiden 3 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01524
+
+game: "Ninja Gaiden 3"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01524"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Reset Total Play Time"
+    notes: "File: BLES01524SYSTEM_SAVE\\SAVE_SYS.DAT"
+    codes:
+      - "20000520 00000000"
+
+  - name: "Ryu Super Health Bar"
+    notes: "File: BLES01524SYSTEM_SAVE\\SAVE_SYS.DAT"
+    codes:
+      - "200008C4 9F9F9F9F"
+      - "200008C8 9F9F9F9F"

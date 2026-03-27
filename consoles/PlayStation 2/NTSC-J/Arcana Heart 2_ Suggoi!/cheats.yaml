@@ -1,0 +1,89 @@
+# Arcana Heart 2_ Suggoi! cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-55147
+
+game: "Arcana Heart 2_ Suggoi!"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-55147"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "Skiller"
+    notes: "[Master Codes]"
+    codes:
+      - "90116918 0C0459EE"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9010FAE8 0C0493E2"
+
+  - name: "P1 Arcana Mod[MOD1]"
+    author: "lee4"
+    codes:
+      - "00794238 000000??"
+
+  - name: "P1 Character Mod[MOD2]"
+    author: "lee4"
+    codes:
+      - "00794220 000000??"
+
+  - name: "P1 Inf Homing"
+    author: "lee4"
+    codes:
+      - "10795F00 00001068"
+      - "10795F04 00001068"
+      - "10795F08 00001068"
+
+  - name: "P1 Inf HP"
+    author: "lee4"
+    codes:
+      - "1079614C 00007000"
+      - "10796150 00007000"
+
+  - name: "P1 Inf Super"
+    author: "lee4"
+    codes:
+      - "20795EFC 00026000"
+
+  - name: "P1 No HP (P2 Press Select)"
+    author: "lee4"
+    codes:
+      - "D09F511C 0000FFFE"
+      - "1079614C 00000000"
+
+  - name: "P2 Arcana Mod[MOD1]"
+    author: "lee4"
+    codes:
+      - "0079423C 000000??"
+
+  - name: "P2 Character Mod[MOD2]"
+    author: "lee4"
+    codes:
+      - "00794224 000000??"
+
+  - name: "P2 Inf Homing"
+    author: "lee4"
+    codes:
+      - "10797FD4 00001068"
+      - "10797FD8 00001068"
+      - "10797FDC 00001068"
+
+  - name: "P2 Inf HP"
+    author: "lee4"
+    codes:
+      - "10798220 00007000"
+      - "10798224 00007000"
+
+  - name: "P2 Inf Super"
+    author: "lee4"
+    codes:
+      - "20797FD0 00026000"
+
+  - name: "P2 No HP (P1 Press Select)"
+    author: "lee4"

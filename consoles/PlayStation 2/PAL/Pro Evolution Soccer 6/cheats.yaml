@@ -1,0 +1,49 @@
+# Pro Evolution Soccer 6 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Pro Evolution Soccer 6"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9015546C 0C0447BE"
+
+  - name: "99 Goals (Press L1 + Select)"
+    author: "Xploder"
+    notes: "[Home Team Goals]"
+    codes:
+      - "E002FBFE 0050D4B0"
+      - "10CBD8E0 00000063"
+      - "10CBD8E8 00000063"
+
+  - name: "0 Goals (Press L2 + Select)"
+    author: "Xploder"
+    notes: "[Home Team Goals]"
+    codes:
+      - "E002FEFE 0050D4B0"
+      - "10CBD8E0 00000000"
+      - "10CBD8E8 00000000"
+
+  - name: "99 Goals (Press R1 + Select)"
+    author: "Xploder"
+    notes: "[Away Team Goals]"
+    codes:
+      - "E002F7FE 0050D4B0"
+      - "10CBDBD4 00000063"
+      - "10CBDBDC 00000063"
+
+  - name: "0 Goals (Press R2 + Select)"
+    author: "Xploder"
+    notes: "[Away Team Goals]"
+    codes:
+      - "E002FDFE 0050D4B0"
+      - "10CBDBD4 00000000"
+      - "10CBDBDC 00000000"

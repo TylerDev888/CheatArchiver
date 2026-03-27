@@ -1,0 +1,177 @@
+# Tribes - Aerial Assault cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20149
+
+game: "Tribes - Aerial Assault"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20149"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F013AAD0 0022DA77"
+
+  - name: "Circle Modifier"
+    author: "Code Master"
+    notes: "[Button Configuration Modifier Codes [Special Note 1]]"
+    codes:
+      - "00188A4C 000000??"
+      - "00188A60 000000??"
+
+  - name: "Down Modifier"
+    author: "Code Master"
+    notes: "[Button Configuration Modifier Codes [Special Note 1]]"
+    codes:
+      - "001889EC 000000??"
+      - "00188A00 000000??"
+
+  - name: "L1 Modifier"
+    author: "Code Master"
+    notes: "[Button Configuration Modifier Codes [Special Note 1]]"
+    codes:
+      - "00188974 000000??"
+      - "00188988 000000??"
+
+  - name: "L2 Modifier"
+    author: "Code Master"
+    notes: "[Button Configuration Modifier Codes [Special Note 1]]"
+    codes:
+      - "00188944 000000??"
+      - "00188958 000000??"
+
+  - name: "Left Modifier"
+    author: "Code Master"
+    notes: "[Button Configuration Modifier Codes [Special Note 1]]"
+    codes:
+      - "00188B84 000000??"
+      - "00188B98 000000??"
+
+  - name: "R1 Modifier"
+    author: "Code Master"
+    notes: "[Button Configuration Modifier Codes [Special Note 1]]"
+    codes:
+      - "0018895C 000000??"
+      - "00188970 000000??"
+
+  - name: "R2 Modifier"
+    author: "Code Master"
+    notes: "[Button Configuration Modifier Codes [Special Note 1]]"
+    codes:
+      - "0018898C 000000??"
+      - "001889A0 000000??"
+
+  - name: "R3 Modifier"
+    author: "Code Master"
+    notes: "[Button Configuration Modifier Codes [Special Note 1]]"
+    codes:
+      - "001889A4 000000??"
+      - "001889B8 000000??"
+
+  - name: "Right Modifier"
+    author: "Code Master"
+    notes: "[Button Configuration Modifier Codes [Special Note 1]]"
+    codes:
+      - "00188B6C 000000??"
+      - "00188B80 000000??"
+
+  - name: "Special Note 1"
+    author: "NA"
+    notes: "[Button Configuration Modifier Codes [Special Note 1]]  N/A"
+
+  - name: "Square Modifier"
+    author: "Code Master"
+    notes: "[Button Configuration Modifier Codes [Special Note 1]]"
+    codes:
+      - "00188B54 000000??"
+      - "00188B68 000000??"
+
+  - name: "Triangle Modifier"
+    author: "Code Master"
+    notes: "[Button Configuration Modifier Codes [Special Note 1]]"
+    codes:
+      - "00188A34 000000??"
+      - "00188A48 000000??"
+
+  - name: "Up Modifier"
+    author: "Code Master"
+    notes: "[Button Configuration Modifier Codes [Special Note 1]]"
+    codes:
+      - "001889D4 000000??"
+      - "001889E8 000000??"
+
+  - name: "X Modifier"
+    author: "Code Master"
+    notes: "[Button Configuration Modifier Codes [Special Note 1]]"
+    codes:
+      - "001889BC 000000??"
+      - "001889D0 000000??"
+
+  - name: "Always 3Rd Person Mode"
+    author: "Code Master"
+    codes:
+      - "2034E348 00000001"
+
+  - name: "Display Debug Info"
+    author: "Code Master"
+    codes:
+      - "2035D338 00000001"
+
+  - name: "Don't Take Damage From Falling Great Distances"
+    author: "Code Master"
+    codes:
+      - "10240C80 0000010B"
+
+  - name: "Enable Maniac Mode"
+    author: "Code Master"
+    codes:
+      - "20337430 00000001"
+
+  - name: "Hide HUD"
+    author: "Code Master"
+    codes:
+      - "2035D33C 00000001"
+
+  - name: "Idiot AI"
+    author: "Code Master"
+    codes:
+      - "20369800 00000001"
+
+  - name: "Infinite Ammo"
+    author: "Code Master"
+    codes:
+      - "2034E2D8 00000001"
+
+  - name: "Infinite Jetpack"
+    author: "Code Master"
+    codes:
+      - "20197EF8 00000000"
+      - "20197F14 00000000"
+      - "2015B2FC 00000000"
+      - "2015B35C 00000000"
+
+  - name: "Legacy Analog Setup"
+    author: "Code Master"
+    codes:
+      - "2018A584 C7A00024"
+      - "2018A5CC C7A3001C"
+
+  - name: "Never Overheat"
+    author: "Code Master"
+    codes:
+      - "20197E74 00000000"
+
+  - name: "Player Look Around Speed Modifier (Default 3F800000)"
+    author: "Code Master"
+    codes:
+      - "2034E340 ????????"
+
+  - name: "Unlock All Levels"
+    author: "Code Master"
+    codes:
+      - "2031A3AC 00000010"

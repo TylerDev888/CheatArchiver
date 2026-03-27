@@ -1,0 +1,49 @@
+# Hokenshitsu E Youkoso cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66440
+
+game: "Hokenshitsu E Youkoso"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66440"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90182EF8 0C060B66"
+
+  - name: "Press L3 For Texture Viewer, R3 To Disable"
+    author: "punk7890"
+    codes:
+      - "2014B994 0C051374"
+      - "00144E10 00000034"
+      - "D0542E12 0000FFFD"
+      - "002149E8 00000001"
+      - "D0542E12 0000FFFB"
+      - "002149E8 00000000"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "401A2FF8 00040001"
+      - "FFFFFFFF 00000000"
+      - "101A3008 0000FFFF"
+
+  - name: "Unlock All Memories"
+    author: "punk7890"
+    codes:
+      - "001A3023 000000FF"
+      - "401A3024 000B0001"
+      - "FFFFFFFF 00000000"
+      - "101A3050 0000FFFF"
+      - "001A3052 000000FF"
+
+  - name: "Unlock Omake Menu"
+    author: "punk7890"
+    codes:
+      - "101A3072 0000FFFF"

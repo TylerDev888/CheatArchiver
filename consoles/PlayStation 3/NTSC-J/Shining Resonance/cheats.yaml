@@ -1,0 +1,37 @@
+# Shining Resonance cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM61156
+
+game: "Shining Resonance"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM61156"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Time Play 00:00:00"
+    notes: "File: PLAYDATA"
+    codes:
+      - "2000007C 00000000"
+
+  - name: "Max Gold"
+    notes: "File: PLAYDATA"
+    codes:
+      - "2000D080 0098967F"
+
+  - name: "Max Xp"
+    notes: "[Sonima]  File: PLAYDATA"
+    codes:
+      - "20057368 0098967F"
+
+  - name: "Max Hp"
+    notes: "[Sonima]  File: PLAYDATA"
+    codes:
+      - "1005736E 0000270F"
+
+  - name: "Max Mp"
+    notes: "[Sonima]  File: PLAYDATA"
+    codes:
+      - "10057372 0000270F"

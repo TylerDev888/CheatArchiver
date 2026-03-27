@@ -1,0 +1,155 @@
+# Mobile Suit Gundam-Federation Vs. Zeon cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20382
+
+game: "Mobile Suit Gundam-Federation Vs. Zeon"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20382"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0010D0B7"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9010D0B4 0C045DAE"
+
+  - name: "Infinite Armor P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "208659D0 03E703E7"
+      - "108659D4 000003E7"
+
+  - name: "Infinite Boost P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20865B00 0FA00FA0"
+
+  - name: "Infinite Weapon 1 P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10865DFA 000003E7"
+      - "20865DFC 03E703E7"
+
+  - name: "Infinite Weapon 2 P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10865E06 000003E7"
+      - "20865E08 03E703E7"
+
+  - name: "No Armor P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "208659D0 00000000"
+      - "108659D4 00000000"
+
+  - name: "No Weapon 1 P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10865DFA 00000000"
+      - "20865DFC 00000000"
+
+  - name: "No Weapon 2 P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10865E06 00000000"
+      - "20865E08 00000000"
+
+  - name: "Infinite Armor P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20867AD0 03E703E7"
+      - "10867AD4 000003E7"
+
+  - name: "Infinite Boost P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20867C00 0FA00FA0"
+
+  - name: "No Armor P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20867AD0 00000000"
+      - "10867AD4 00000000"
+
+  - name: "Confederation Never Defeated"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "208703A0 03E703E7"
+      - "108703A4 000003E7"
+
+  - name: "Confederation Always Defeated"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "208703A0 00000000"
+      - "108703A4 00000000"
+
+  - name: "Confederation 1-Hit Death"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E0020001 308703A2"
+      - "208703A0 000103E7"
+      - "108703A4 000003E7"
+
+  - name: "Zeon Never Defeated"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "108703A6 03E703E7"
+      - "208703A8 000003E7"
+
+  - name: "Zeon Always Defeated"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "108703A6 00000000"
+      - "208703A8 00000000"
+
+  - name: "Zeon 1-Hit Death"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E0020001 308703A8"
+      - "108703A6 000003E7"
+      - "208703A8 000103E7"
+
+  - name: "Max Operation Points"
+    author: "Code Master"
+    notes: "[Campaign Mode Codes]"
+    codes:
+      - "107A6350 0000270F"
+
+  - name: "Start With Units Defeated Modifier"
+    author: "Code Master"
+    notes: "[Campaign Mode Codes]"
+    codes:
+      - "D07A697C 00000000"
+      - "007A697D 000000??"
+
+  - name: "Infinite Time"
+    author: "Code Master"
+    notes: "[Campaign Mode Codes]"
+    codes:
+      - "108703AE 00002F00"

@@ -1,0 +1,36 @@
+# XG3_ Extreme-G Racing cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "XG3_ Extreme-G Racing"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001B721F"
+
+  - name: "Begin On Second Lap"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "101E102C 07230003"
+
+  - name: "Money"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "D01DF684 00000000"
+      - "201DF684 0160D02C"
+
+  - name: "Ammunition, Shield & Turbo"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "101FC5F8 07230003"

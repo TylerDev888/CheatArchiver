@@ -1,0 +1,116 @@
+# Sven-Goran Eriksson's World Challenge cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50852
+
+game: "Sven-Goran Eriksson's World Challenge"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50852"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100104 00100107"
+
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100104 000001FD"
+
+  - name: "Bouncing Ball"
+    author: "Codejunkies"
+    notes: "[Ball Bounce Codes]"
+    codes:
+      - "20281208 3FE00000"
+
+  - name: "No Rebound"
+    author: "Codejunkies"
+    notes: "[Ball Bounce Codes]"
+    codes:
+      - "20281208 30000000"
+
+  - name: "Max Terrain Friction"
+    author: "Codejunkies"
+    notes: "[Zoom Codes]"
+    codes:
+      - "20281204 3F420000"
+
+  - name: "Speedy Ball"
+    author: "Codejunkies"
+    notes: "[Zoom Codes]"
+    codes:
+      - "20281204 3F822F1B"
+
+  - name: "Zoom In"
+    author: "Codejunkies"
+    notes: "[Zoom Codes]"
+    codes:
+      - "1027CCFE 00004180"
+
+  - name: "Zoom Out"
+    author: "Codejunkies"
+    notes: "[Zoom Codes]"
+    codes:
+      - "1027CCFE 00003F80"
+
+  - name: "Away Team Score 0: Press Select+L2"
+    author: "Codejunkies"
+    codes:
+      - "D02C2B00 0000FEFE"
+      - "00281012 00000000"
+
+  - name: "Away Team Score 99: Press Select+R2"
+    author: "Codejunkies"
+    codes:
+      - "D02C2B00 0000FDFE"
+      - "00281012 00000063"
+
+  - name: "Dumb A.I"
+    author: "Codejunkies"
+    codes:
+      - "2015F90C 03E00008"
+      - "2015F910 00000000"
+      - "20160228 03E00008"
+      - "2016022C 00000000"
+
+  - name: "Go To Half Time (Press L1+L2+R1+R2 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D02C2B00 0000F0FF"
+      - "102811A8 00003A00"
+
+  - name: "Home Team Score 0: Press Select+Up"
+    author: "Codejunkies"
+    codes:
+      - "D02C2B00 0000FFEE"
+      - "00281010 00000000"
+
+  - name: "Home Team Score 99: Press Select+Down"
+    author: "Codejunkies"
+    codes:
+      - "D02C2B00 0000FFBE"
+      - "00281010 00000063"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100104 000001FD"
+
+  - name: "Home Team Always Wins"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20281010 00000063"
+
+  - name: "Away Team Always Wins"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20281010 00630000"

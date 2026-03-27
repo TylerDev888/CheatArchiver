@@ -1,0 +1,24 @@
+# Kamiwaza cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66477
+
+game: "Kamiwaza"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66477"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90118B50 0C04627C"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "901267C0 0C04B224"

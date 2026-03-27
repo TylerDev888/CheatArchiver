@@ -1,0 +1,82 @@
+# TOCA Race Driver 2
+
+**Console:** PlayStation 2  
+**Region:** Unknown  
+**Serial:** No  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### (M) Must Be On
+**Author:** Codejunkies  
+**Notes:** [Master Codes]
+
+```
+E012F173 0041D86C
+E0110C10 0041D86E
+203CA6D8 080E00F6
+203803D8 3C0401F0
+203803DC 24840000
+203803E0 3C05000F
+203803E4 24A5FFF0
+203803E8 0C10F173
+203803EC 24064000
+203803F0 0C112F8A
+203803F4 0000202D
+203803F8 3C0501F0
+203803FC 24A50000
+20380400 3C04000F
+20380404 2484FFF0
+20380408 0C10F173
+2038040C 24064000
+20380410 080F29B8
+20380414 00000000
+F041D86C 0041D86F
+```
+
+---
+
+### Below Version 3.14 Fix
+**Author:** Codejunkies
+
+```
+2044F4E0 3C03200F
+2044F4E8 8C65FFF8
+2044F4EC 24040079
+2044F4F0 24030074
+2044F4F4 0000000C
+```
+
+---
+
+### Press L1+L2 To Unfreeze Time
+**Author:** Codejunkies
+
+```
+D05D7442 0000FAFF
+2025DFE0 FE020010
+```
+
+---
+
+### Press L2 To Freeze Time
+**Author:** Codejunkies
+
+```
+D05D7442 0000FEFF
+2025DFE0 00000000
+```
+
+---
+
+### Press L3 To Finish Race
+**Author:** Codejunkies
+
+```
+D05D7442 0000FFFD
+30400000 00510464
+```
+
+---

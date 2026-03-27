@@ -1,0 +1,49 @@
+# Shirachuu Tankenbu cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65328
+
+game: "Shirachuu Tankenbu"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65328"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010CA38 0C043236"
+
+  - name: "All Endings"
+    author: "punk7890"
+    codes:
+      - "2034EE88 FFFFFFFF"
+      - "2034EE8C FFFFFFFF"
+
+  - name: "Unlock All Album"
+    author: "punk7890"
+    codes:
+      - "2034F45C FFFFFFFF"
+      - "2034F1EC FFFFFFFF"
+      - "2034F1F0 FFFFFFFF"
+      - "2034F1F4 FFFFFFFF"
+      - "2034F1F8 FFFFFFFF"
+      - "2034F1FC FFFFFFFF"
+      - "2034F200 FFFFFFFF"
+      - "2034F46C FFFFFFFF"
+      - "2034F204 FFFFFFFF"
+      - "2034F208 FFFFFFFF"
+      - "2034F268 FFFFFFFF"
+      - "2034F26C FFFFFFFF"
+
+  - name: "Unlock Special Menu"
+    author: "punk7890"
+    codes:
+      - "2017758C 0C0480C4"
+      - "20177590 8C22F6F8"
+      - "20120310 34420010"
+      - "20120314 03E00008"
+      - "20120318 AC22F6F8"

@@ -1,0 +1,39 @@
+# Wonder Blade cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA18590
+
+game: "Wonder Blade"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA18590"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Super Stats(spend At Least 1 Point On Each Stat Before Use.)"
+    author: "Zeraf3000"
+    notes: "File: sce_sdmemory\\memory.dat"
+    codes:
+      - "80010004 781FE1C4"
+      - "28000008 0000270A"
+      - "80010004 368664B1"
+      - "28000008 0000270A"
+      - "80010004 AD9A5E79"
+      - "28000008 0000270A"
+      - "80010004 88FC9877"
+      - "28000008 0000270A"
+
+  - name: "Set Level At 40 (max)"
+    author: "Zeraf3000"
+    notes: "File: sce_sdmemory\\memory.dat"
+    codes:
+      - "80010004 285EEBAD"
+      - "28000008 00000028"
+
+  - name: "Super Max Healing Potions (16 Mill)"
+    author: "Zeraf3000"
+    notes: "File: sce_sdmemory\\memory.dat"
+    codes:
+      - "80010004 A44F274B"
+      - "28000008 00FFFFFF"

@@ -1,0 +1,36 @@
+# SCAR cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "SCAR"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "901C39A8 0C0498B4"
+
+  - name: "Car Condition"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "202D1100 E4800004"
+      - "202D1104 44800000"
+
+  - name: "Level"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "21BC71C8 00000064"
+
+  - name: "Tiger Effect"
+    author: "Xploder"
+    notes: "[Always]"
+    codes:
+      - "202E95E8 E6410078"

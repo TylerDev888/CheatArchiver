@@ -1,0 +1,305 @@
+# King Of Fighters 2000 & 2001 [Disc2of2] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20839
+
+game: "King Of Fighters 2000 & 2001 [Disc2of2]"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20839"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0113C74 00113C77"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00113C77"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "90247C2C 0C091F48"
+
+  - name: "1-Hit Death P1"
+    author: "Code Master"
+    codes:
+      - "D104FD78 00000066"
+      - "1104FD78 00000001"
+
+  - name: "1-Hit Death P2"
+    author: "Code Master"
+    codes:
+      - "D104FF78 00000066"
+      - "1104FF78 00000001"
+
+  - name: "25% Health P1"
+    author: "Code Master"
+    codes:
+      - "D104FD78 00000066"
+      - "1104FD78 00000019"
+
+  - name: "25% Health P2"
+    author: "Code Master"
+    codes:
+      - "D104FF78 00000066"
+      - "1104FF78 00000019"
+
+  - name: "50% Health P1"
+    author: "Code Master"
+    codes:
+      - "D104FD78 00000066"
+      - "1104FD78 00000033"
+
+  - name: "50% Health P2"
+    author: "Code Master"
+    codes:
+      - "D104FF78 00000066"
+      - "1104FF78 00000033"
+
+  - name: "75% Health P1"
+    author: "Code Master"
+    codes:
+      - "D104FD78 00000066"
+      - "1104FD78 0000004C"
+
+  - name: "75% Health P2"
+    author: "Code Master"
+    codes:
+      - "D104FF78 00000066"
+      - "1104FF78 0000004C"
+
+  - name: "Disable Blocking Both Players"
+    author: "nolberto82"
+    codes:
+      - "202DE6BC 00000000"
+
+  - name: "Hit Anywhere (Both Players)"
+    author: "Code Master"
+    codes:
+      - "1028597E 00001000"
+
+  - name: "Hit Anywhere P1/P2 Can't Hit P1"
+    author: "Code Master"
+    codes:
+      - "20285974 8C2298B4"
+      - "10285978 00000200"
+      - "1028597E 00001040"
+
+  - name: "Hit Anywhere P2/P1 Can't Hit P2"
+    author: "Code Master"
+    codes:
+      - "20285974 8C2298B4"
+      - "10285978 00000200"
+      - "1028597E 00001440"
+
+  - name: "Infinite Health P1"
+    author: "MadCatz"
+    codes:
+      - "2104FD78 000003E7"
+
+  - name: "Infinite Health P2"
+    author: "MadCatz"
+    codes:
+      - "2104FF78 000003E7"
+
+  - name: "Infinite Power Gauge P1"
+    author: "MadCatz"
+    codes:
+      - "0104FD29 0000002C"
+
+  - name: "Infinite Power Gauge P2"
+    author: "MadCatz"
+    codes:
+      - "0104FF29 0000002C"
+
+  - name: "Infinite Summons P1"
+    author: "MadCatz"
+    codes:
+      - "0104FE23 00000003"
+
+  - name: "Infinite Summons P2"
+    author: "MadCatz"
+    codes:
+      - "01050023 00000003"
+
+  - name: "Infinite Time"
+    author: "Code Master"
+    codes:
+      - "11052312 00004299"
+
+  - name: "Max Score P1"
+    author: "Code Master"
+    codes:
+      - "2104FD3C 09999990"
+
+  - name: "Max Score P2"
+    author: "Code Master"
+    codes:
+      - "2104FF3C 09999990"
+
+  - name: "Max Special-Level 4 P1"
+    author: "Code Master"
+    codes:
+      - "0104FE23 00000004"
+
+  - name: "Max Special-Level 4 P2"
+    author: "Code Master"
+    codes:
+      - "01050023 00000004"
+
+  - name: "No Health P1"
+    author: "Code Master"
+    codes:
+      - "1104FD78 00000000"
+
+  - name: "No Health P2"
+    author: "Code Master"
+    codes:
+      - "1104FF78 00000000"
+
+  - name: "No Special P1"
+    author: "Code Master"
+    codes:
+      - "0104FE23 00000000"
+
+  - name: "No Special P2"
+    author: "Code Master"
+    codes:
+      - "01050023 00000000"
+
+  - name: "P1 Never Wins"
+    author: "Code Master"
+    codes:
+      - "01052332 00000000"
+
+  - name: "P1 Starts With 1 Win"
+    author: "Code Master"
+    codes:
+      - "D1052332 00000000"
+      - "01052332 00000001"
+
+  - name: "P1 Starts With 2 Wins"
+    author: "Code Master"
+    codes:
+      - "D1052332 00000000"
+      - "01052332 00000002"
+
+  - name: "P2 Never Wins"
+    author: "Code Master"
+    codes:
+      - "01052358 00000000"
+
+  - name: "P2 Starts With 1 Win"
+    author: "Code Master"
+    codes:
+      - "D1052358 00000000"
+      - "01052358 00000001"
+
+  - name: "P2 Starts With 2 Wins"
+    author: "Code Master"
+    codes:
+      - "D1052358 00000000"
+      - "01052358 00000002"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "1104FD78 00000066"
+
+  - name: "Level 0"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "1104FE22 00000000"
+
+  - name: "Level 1"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "1104FE22 00000100"
+
+  - name: "Level 2"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "1104FE22 00000200"
+
+  - name: "Level 3"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "1104FE22 00000300"
+
+  - name: "Level 4"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "1104FE22 00000400"
+
+  - name: "Low Health"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "1104FD78 00000001"
+
+  - name: "Never Power Up"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "1104FD28 00000000"
+
+  - name: "Quick Power Up"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "1104FD28 00002400"
+
+  - name: "Quick Score Gain P1"
+    author: "Code Master"
+    codes:
+      - "1104FD3C 00009990"
+
+  - name: "Quick Score Gain P2"
+    author: "Code Master"
+    codes:
+      - "1104FF3C 00009990"
+
+  - name: "Quick Special Gain P1"
+    author: "Code Master"
+    codes:
+      - "1104FD28 00002500"
+
+  - name: "Quick Special Gain P2"
+    author: "Code Master"
+    codes:
+      - "1104FF28 00002500"
+
+  - name: "Special-Level 1 P1"
+    author: "Code Master"
+    codes:
+      - "0104FE23 00000001"
+
+  - name: "Special-Level 1 P2"
+    author: "Code Master"
+    codes:
+      - "01050023 00000001"
+
+  - name: "Special-Level 2 P1"
+    author: "Code Master"
+    codes:
+      - "0104FE23 00000002"
+
+  - name: "Special-Level 2 P2"
+    author: "Code Master"
+    codes:
+      - "01050023 00000002"

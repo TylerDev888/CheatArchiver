@@ -1,0 +1,42 @@
+# Supersonic Acrobatic Rocket-Powered Battle-Cars (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00062
+
+game: "Supersonic Acrobatic Rocket-Powered Battle-Cars (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00062"
+cheat_type: "Save Editor"
+source: "By DarkOverlord"
+
+cheats:
+  - name: "1 Star"
+    notes: "[Blue:scavenger (1-1) Stars Modifier (p1)]  File: PAYLOAD"
+    codes:
+      - "search 0x01470CA000:6"
+      - "write next (-180):19"
+
+  - name: "2 Stars"
+    notes: "[Blue:scavenger (1-1) Stars Modifier (p1)]  File: PAYLOAD"
+    codes:
+      - "search 0x01470CA000:6"
+      - "write next (-180):23"
+
+  - name: "3 Stars"
+    notes: "[Blue:scavenger (1-1) Stars Modifier (p1)]  File: PAYLOAD"
+    codes:
+      - "search 0x01470CA000:6"
+      - "write next (-180):28"
+
+  - name: "4 Stars"
+    notes: "[Blue:scavenger (1-1) Stars Modifier (p1)]  File: PAYLOAD"
+    codes:
+      - "search 0x01470CA000:6"
+      - "write next (-180):31"
+
+  - name: "5 Stars"
+    notes: "[Blue:scavenger (1-1) Stars Modifier (p1)]  File: PAYLOAD"
+    codes:
+      - "search 0x01470CA000:6"
+      - "write next (-180):32"

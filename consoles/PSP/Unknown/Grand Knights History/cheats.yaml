@@ -1,0 +1,17 @@
+# Grand Knights History cheat data
+# Console: PSP
+# Region:  Unknown
+# Serial:  ULJS00394
+
+game: "Grand Knights History"
+console: "PSP"
+region: "Unknown"
+serial: "ULJS00394"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Possession Money 9999999 G"
+    notes: "File: SYSDATA.BIN"
+    codes:
+      - "2000003C 0098967F"

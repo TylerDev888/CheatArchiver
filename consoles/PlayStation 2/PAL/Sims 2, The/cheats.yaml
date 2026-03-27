@@ -1,0 +1,62 @@
+# Sims 2, The cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53718
+
+game: "Sims 2, The"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53718"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F03EAF14 003EAF17"
+
+  - name: "Aspiration Meter Does Not Decrease Over Time"
+    author: "Codejunkies"
+    codes:
+      - "20534A50 00000000"
+      - "20485994 00000000"
+      - "20485998 00000000"
+      - "2048599C 00000000"
+      - "204859A0 00000000"
+
+  - name: "Blader Does Not Decrease"
+    author: "Codejunkies"
+    codes:
+      - "20534A40 C61C0000"
+      - "20534A44 C61C0000"
+      - "20534A48 C61C0000"
+      - "201BA8F4 3C01C61C"
+
+  - name: "Comfort Decreases Slower"
+    author: "Codejunkies"
+    codes:
+      - "20534A1C C61C0000"
+      - "201BA724 3C01C61C"
+      - "201BA758 3C01C61C"
+
+  - name: "Entertainment Does Not Decrease"
+    author: "Codejunkies"
+    codes:
+      - "20534A34 C61C0000"
+
+  - name: "Hunger Does Not Decrease"
+    author: "Codejunkies"
+    codes:
+      - "20534A28 C61C0000"
+
+  - name: "Hygiene Does Not Decrease"
+    author: "Codejunkies"
+    codes:
+      - "20534A3C C61C0000"
+
+  - name: "Social Does Not Decrease"
+    author: "Codejunkies"
+    codes:
+      - "20534A30 C61C0000"

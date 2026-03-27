@@ -1,0 +1,282 @@
+# X-Files - Resist Or Serve cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52341
+
+game: "X-Files - Resist Or Serve"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52341"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Lajos Szalay"
+    notes: "[Master Codes]"
+    codes:
+      - "F024C46C 0024C46F"
+
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90243D00 0C090EE8"
+
+  - name: "Grenade Bullets"
+    author: "Lajos Szalay"
+    notes: "[Cheat Codes]"
+    codes:
+      - "20326F6C 00000001"
+
+  - name: "Infinite Ammo/Items"
+    author: "Lajos Szalay"
+    notes: "[Cheat Codes]"
+    codes:
+      - "20326FC0 00000001"
+
+  - name: "One Shot Kills"
+    author: "Lajos Szalay"
+    notes: "[Cheat Codes]"
+    codes:
+      - "20326F68 00000001"
+
+  - name: "Press L1+L2 For The Invisible Dead"
+    author: "Lajos Szalay"
+    notes: "[Cheat Codes]"
+    codes:
+      - "D04DAC02 0000FAFF"
+      - "20326FC8 00000001"
+
+  - name: "Press R1+R2 For Normal Dead"
+    author: "Lajos Szalay"
+    notes: "[Cheat Codes]"
+    codes:
+      - "D04DAC02 0000F5FF"
+      - "20326FC8 00000000"
+
+  - name: "Action Info"
+    author: "Lajos Szalay"
+    notes: "[Debug Display Codes]"
+    codes:
+      - "20325B64 00000006"
+
+  - name: "Bound Boxf"
+    author: "Lajos Szalay"
+    notes: "[Debug Display Codes]"
+    codes:
+      - "20327230 00000001"
+
+  - name: "Camera Info"
+    author: "Lajos Szalay"
+    notes: "[Debug Display Codes]"
+    codes:
+      - "20325B64 00000001"
+
+  - name: "Character Info"
+    author: "Lajos Szalay"
+    notes: "[Debug Display Codes]"
+    codes:
+      - "20325B64 00000009"
+
+  - name: "Collision Map"
+    author: "Lajos Szalay"
+    notes: "[Debug Display Codes]"
+    codes:
+      - "203270FC 00000001"
+
+  - name: "Color Info"
+    author: "Lajos Szalay"
+    notes: "[Debug Display Codes]"
+    codes:
+      - "20325B64 00000003"
+
+  - name: "Contour"
+    author: "Lajos Szalay"
+    notes: "[Debug Display Codes]"
+    codes:
+      - "20325D48 00000002"
+
+  - name: "Damage Info"
+    author: "Lajos Szalay"
+    notes: "[Debug Display Codes]"
+    codes:
+      - "20325B64 00000008"
+
+  - name: "Fog Info"
+    author: "Lajos Szalay"
+    notes: "[Debug Display Codes]"
+    codes:
+      - "20325B64 00000004"
+
+  - name: "Menu Info"
+    author: "Lajos Szalay"
+    notes: "[Debug Display Codes]"
+    codes:
+      - "20325B64 00000010"
+
+  - name: "Music Info"
+    author: "Lajos Szalay"
+    notes: "[Debug Display Codes]"
+    codes:
+      - "20325B64 00000005"
+
+  - name: "Not Parallax"
+    author: "Lajos Szalay"
+    notes: "[Debug Display Codes]"
+    codes:
+      - "20325D44 00000000"
+
+  - name: "Not Shadows"
+    author: "Lajos Szalay"
+    notes: "[Debug Display Codes]"
+    codes:
+      - "20325B78 00000000"
+
+  - name: "Not Terrain"
+    author: "Lajos Szalay"
+    notes: "[Debug Display Codes]"
+    codes:
+      - "20325D40 00000000"
+
+  - name: "Parallax"
+    author: "Lajos Szalay"
+    notes: "[Debug Display Codes]"
+    codes:
+      - "20325D44 00000001"
+
+  - name: "Paths"
+    author: "Lajos Szalay"
+    notes: "[Debug Display Codes]"
+    codes:
+      - "20325B74 00000001"
+
+  - name: "Player Info"
+    author: "Lajos Szalay"
+    notes: "[Debug Display Codes]"
+    codes:
+      - "20325B64 00000002"
+
+  - name: "Shadows"
+    author: "Lajos Szalay"
+    notes: "[Debug Display Codes]"
+    codes:
+      - "20325B78 00000001"
+
+  - name: "Terrain"
+    author: "Lajos Szalay"
+    notes: "[Debug Display Codes]"
+    codes:
+      - "20325D40 00000001"
+
+  - name: "Enable Debug Menus [View Note]"
+    author: "punk7890"
+    codes:
+      - "20325944 00000000"
+      - "E003FFFD 004DAC02"
+      - "202C77E0 001AE4D0"
+      - "203261C4 FFFFFFFF"
+      - "203261C0 00000000"
+      - "E002FFFB 004DAC02"
+      - "203261C4 0000001E"
+      - "202C77E0 001AAAF8"
+      - "E004FDFB 004DAC02"
+      - "203261C4 0000001E"
+      - "202C77E0 001AAAF8"
+      - "203261C0 00000001"
+      - "203261C8 00000000"
+      - "D03261C0 00000000"
+      - "203261C8 00000055"
+
+  - name: "Infinite Ammo"
+    author: "Lajos Szalay"
+    codes:
+      - "20111434 00000000"
+
+  - name: "Infinite First Aid Kits"
+    author: "Lajos Szalay"
+    codes:
+      - "201113A8 00000000"
+
+  - name: "Infinite Health"
+    author: "Lajos Szalay"
+    codes:
+      - "20193DF8 24060032"
+      - "20193DFC AE460540"
+
+  - name: "99 Item Slot 1"
+    author: "Lajos Szalay"
+    notes: "[Item Slot Codes]"
+    codes:
+      - "2032F384 00000063"
+
+  - name: "99 Item Slot 2"
+    author: "Lajos Szalay"
+    notes: "[Item Slot Codes]"
+    codes:
+      - "2032F390 00000063"
+
+  - name: "99 Item Slot 3"
+    author: "Lajos Szalay"
+    notes: "[Item Slot Codes]"
+    codes:
+      - "2032F39C 00000063"
+
+  - name: "99 Item Slot 4"
+    author: "Lajos Szalay"
+    notes: "[Item Slot Codes]"
+    codes:
+      - "2032F3A8 00000063"
+
+  - name: "99 Item Slot 5"
+    author: "Lajos Szalay"
+    notes: "[Item Slot Codes]"
+    codes:
+      - "2032F3B4 00000063"
+
+  - name: "99 Item Slot 6"
+    author: "Lajos Szalay"
+    notes: "[Item Slot Codes]"
+    codes:
+      - "2032F3C0 00000063"
+
+  - name: "99 Item Slot 7"
+    author: "Lajos Szalay"
+    notes: "[Item Slot Codes]"
+    codes:
+      - "2032F3CC 00000063"
+
+  - name: "99 Item Slot 8"
+    author: "Lajos Szalay"
+    notes: "[Item Slot Codes]"
+    codes:
+      - "2032F3D8 00000063"
+
+  - name: "No Reload"
+    author: "Lajos Szalay"
+    codes:
+      - "20111404 00000000"
+
+  - name: "Slo-Mo"
+    author: "Lajos Szalay"
+    notes: "[Speed Codes]"
+    codes:
+      - "20326F78 3F000000"
+
+  - name: "Super Slo-Mo"
+    author: "Lajos Szalay"
+    notes: "[Speed Codes]"
+    codes:
+      - "20326F78 3E000000"
+
+  - name: "Super-Turbo Mode"
+    author: "Lajos Szalay"
+    notes: "[Speed Codes]"
+    codes:
+      - "20326F78 41000000"
+
+  - name: "Turbo Mode"
+    author: "Lajos Szalay"
+    notes: "[Speed Codes]"
+    codes:
+      - "20326F78 40000000"

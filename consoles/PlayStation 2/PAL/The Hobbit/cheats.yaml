@@ -1,0 +1,238 @@
+# The Hobbit cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "The Hobbit"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9037FFF0 0C0F5062"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2046DFBC 42F00000"
+
+  - name: "Courage"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2046DFCC 447A0000"
+
+  - name: "Weapon Meter"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2014BA7C 24013634"
+
+  - name: "Rocks"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2046C634 42C60000"
+
+  - name: "Fire Rocks"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2046DFB4 42480000"
+
+  - name: "Ice Rocks"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2046E08C 42480000"
+
+  - name: "Health Potions"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2046E06C 41700000"
+
+  - name: "Antidote Potions"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2046E070 41700000"
+
+  - name: "Waters Of Vigour"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2046E074 40400000"
+
+  - name: "Silver Pennies"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2046DFB0 42C80000"
+
+  - name: "Skeleton Keys"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2046E008 42C60000"
+
+  - name: "Sword"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "2046E078 3F800000"
+
+  - name: "Walking Stick"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "2046E080 3F800000"
+
+  - name: "Maximum Stick Chain Attack"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "4046E020 00030001"
+      - "3F800000 00000000"
+
+  - name: "Maximum Stick Jump Attack"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "4046E02C 00030001"
+      - "3F800000 00000000"
+
+  - name: "Maximum Sword Chain Attack"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "4046E044 00030001"
+      - "3F800000 00000000"
+
+  - name: "Maximum Sword Jump Attack"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "4046E050 00030001"
+      - "3F800000 00000000"
+
+  - name: "Maximum Rock Damage"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "4046E05C 00030001"
+      - "3F800000 00000000"
+
+  - name: "Medium Rock Bag"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "2046E000 3F800000"
+
+  - name: "Large Rock Bag"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "2046E000 40000000"
+
+  - name: "Medium Medicine Chest"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "2046E004 3F800000"
+
+  - name: "Large Medicine Chest"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "2046E004 40000000"
+
+  - name: "Lit Torch"
+    author: "Xploder"
+    notes: "[Have Item]"
+    codes:
+      - "2046E0B4 3F800000"
+
+  - name: "Tea-Cakes"
+    author: "Xploder"
+    notes: "[Have Item]"
+    codes:
+      - "2046E164 3F800000"
+
+  - name: "Apples"
+    author: "Xploder"
+    notes: "[Have Item]"
+    codes:
+      - "2046E170 3F800000"
+
+  - name: "Hammer"
+    author: "Xploder"
+    notes: "[Have Item]"
+    codes:
+      - "2046E174 3F800000"
+
+  - name: "Nails"
+    author: "Xploder"
+    notes: "[Have Item]"
+    codes:
+      - "2046E178 41100000"
+
+  - name: "Eggs"
+    author: "Xploder"
+    notes: "[Have Item]"
+    codes:
+      - "2046E180 41100000"
+
+  - name: "Berries"
+    author: "Xploder"
+    notes: "[Have Item]"
+    codes:
+      - "2046E184 41100000"
+
+  - name: "Sack Of Wheat"
+    author: "Xploder"
+    notes: "[Have Item]"
+    codes:
+      - "2046E188 3F800000"
+
+  - name: "Sugar"
+    author: "Xploder"
+    notes: "[Have Item]"
+    codes:
+      - "2046E18C 3F800000"
+
+  - name: "Spice"
+    author: "Xploder"
+    notes: "[Have Item]"
+    codes:
+      - "2046E190 3F800000"
+
+  - name: "Sausage"
+    author: "Xploder"
+    notes: "[Have Item]"
+    codes:
+      - "2046E194 3F800000"
+
+  - name: "Wheat"
+    author: "Xploder"
+    notes: "[Have Item]"
+    codes:
+      - "2046E198 3F800000"
+
+  - name: "Quilting Needle"
+    author: "Xploder"
+    notes: "[Have Item]"
+    codes:
+      - "2046E1A0 3F800000"
+
+  - name: "Healing Draught"
+    author: "Xploder"
+    notes: "[Have Item]"
+    codes:
+      - "2046E224 3F800000"

@@ -1,0 +1,101 @@
+# Pitfall - The Lost Expedition cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51689
+
+game: "Pitfall - The Lost Expedition"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51689"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Buy Even Without Idols"
+    author: "luc-ita"
+    codes:
+      - "20181D14 24020001"
+
+  - name: "Disable AI Of Ground Mouths And Some Other Npcs (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "D0572A02 0000EFFE"
+      - "20111F78 10000020"
+      - "D0572A02 0000E7FF"
+      - "20111F78 52600020"
+
+  - name: "Infinite Health"
+    author: "luc-ita"
+    codes:
+      - "20181B40 8C820684"
+
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F044E0C4 0044E0C7"
+
+  - name: "Enable Lost Caverns"
+    author: "Codejunkies"
+    codes:
+      - "2055C28C 00000001"
+
+  - name: "Enable Pitfall!"
+    author: "Codejunkies"
+    codes:
+      - "2055C288 00000001"
+
+  - name: "Idol Is Worth 999 Idols"
+    author: "Codejunkies"
+    codes:
+      - "20267C64 240203E7"
+
+  - name: "Low Gravity Objects"
+    author: "Codejunkies"
+    codes:
+      - "2055C274 00000001"
+
+  - name: "Multi-Jumps"
+    author: "Codejunkies"
+    codes:
+      - "201764A0 24030001"
+
+  - name: "No Gravity Objects"
+    author: "Codejunkies"
+    codes:
+      - "2055C270 00000001"
+
+  - name: "Play As Classic Harry"
+    author: "Codejunkies"
+    codes:
+      - "2055C284 00000001"
+
+  - name: "Play As Native"
+    author: "Codejunkies"
+    codes:
+      - "2055C26C 00000001"
+
+  - name: "Play As Nicole"
+    author: "Codejunkies"
+    codes:
+      - "2055C268 00000001"
+
+  - name: "Slow Mode"
+    author: "Codejunkies"
+    codes:
+      - "2055C278 00000001"
+
+  - name: "Speedy Mode"
+    author: "Codejunkies"
+    codes:
+      - "2055C280 00000001"
+
+  - name: "Spend Idols For 999 Idols"
+    author: "Codejunkies"
+    codes:
+      - "20181CB8 240203E7"
+
+  - name: "Super-Slow Mode"
+    author: "Codejunkies"
+    codes:
+      - "2055C27C 00000001"

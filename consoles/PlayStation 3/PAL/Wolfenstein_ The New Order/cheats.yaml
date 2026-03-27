@@ -1,0 +1,67 @@
+# Wolfenstein_ The New Order cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01909
+
+game: "Wolfenstein_ The New Order"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01909"
+cheat_type: "Save Editor"
+source: "By Dark Nacho"
+
+cheats:
+  - name: "Laserkraftwerk Max Ammo"
+    notes: "File: _MAPCHK0"
+    codes:
+      - "search \"ammo/laserkraftwerk\":2"
+      - "write next (70):0x270F"
+
+  - name: "Assualt Rifle 1960 Max Ammo"
+    notes: "File: _MAPCHK0"
+    codes:
+      - "search \"ammo/assaultrifle1960\":3"
+      - "write next (24):0xFF"
+      - "search \"ammo/assaultrifle1960\":4"
+      - "write next (24):0xFF"
+
+  - name: "Shotgun Ammo"
+    notes: "File: _MAPCHK0"
+    codes:
+      - "search \"ammo/shotgun\":2"
+      - "write next (15):0xFF"
+
+  - name: "Handgun Max Ammo *without Suppressor"
+    notes: "File: _MAPCHK0"
+    codes:
+      - "search \"ammo/handgun\":3"
+      - "write next (15):0xFF"
+      - "search \"ammo/handgun\":5"
+      - "write next (15):0xFF"
+
+  - name: "Update Md5_xor For _prof (required)"
+    notes: "File: _PROF  (set range:0x000000,0x000590) (write at 0x000591:[hash])"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:MD5_XOR"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"
+
+  - name: "Update Md5_xor For _mapstr0 (required)"
+    notes: "File: _MAPSTR0  (set range:0x000000,0x000BF2) (write at 0x000BF3:[hash])"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:MD5_XOR"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"
+
+  - name: "Update Md5_xor For _mapchk0 (required)"
+    notes: "File: _MAPCHK0  (set range:0x000000,0x00BCAE) (write at 0x00BCAF:[hash])"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:MD5_XOR"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"

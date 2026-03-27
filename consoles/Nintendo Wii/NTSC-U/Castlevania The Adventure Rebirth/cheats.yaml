@@ -1,0 +1,42 @@
+# Castlevania The Adventure Rebirth cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  WD9E
+
+game: "Castlevania The Adventure Rebirth"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "WD9E"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Inf HP (asm Version)"
+    author: "Skiller"
+    codes:
+      - "040A0598 60000000"
+
+  - name: "One Pick Up For Flame Wip"
+    author: "Skiller"
+    codes:
+      - "040A368C 38600001"
+
+  - name: "Inf Magic (flame)"
+    author: "Skiller"
+    codes:
+      - "044979D4 00000700"
+
+  - name: "Inf Timer"
+    author: "Skiller"
+    codes:
+      - "044979CC 0000A1AB"
+
+  - name: "Inf Lives"
+    author: "Skiller"
+    codes:
+      - "004979BF 0000000A"
+
+  - name: "Quick Score Gain"
+    author: "Skiller"
+    codes:
+      - "024979C2 0000FFFF"

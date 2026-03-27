@@ -1,0 +1,37 @@
+# TOCA Race Driver 3 [Demo] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-29178
+
+game: "TOCA Race Driver 3 [Demo]"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-29178"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F041ED3C 0041ED3F"
+
+  - name: "Infinite Upgrade Slots"
+    author: "Codejunkies"
+    codes:
+      - "2012F104 00000000"
+
+  - name: "Start On 2Nd Lap"
+    author: "Codejunkies"
+    codes:
+      - "E0020001 00504614"
+      - "D0504616 00000000"
+      - "20504614 00000002"
+
+  - name: "Start On 3Rd Lap"
+    author: "Codejunkies"
+    codes:
+      - "E0020001 00504614"
+      - "D0504616 00000000"
+      - "20504614 00000003"

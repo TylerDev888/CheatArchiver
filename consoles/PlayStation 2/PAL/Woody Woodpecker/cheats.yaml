@@ -1,0 +1,35 @@
+# Woody Woodpecker cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50613
+
+game: "Woody Woodpecker"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50613"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100128 000001FD"
+
+  - name: "Brightness (True Cartoon Colour Mode)"
+    author: "Codejunkies"
+    codes:
+      - "2020F470 40800000"
+      - "2020F474 40800000"
+      - "2020F478 40800000"
+
+  - name: "Feather Hop"
+    author: "Codejunkies"
+    codes:
+      - "20173FD8 3C024000"
+
+  - name: "Start With 999 Lives"
+    author: "Codejunkies"
+    codes:
+      - "2091DEBC 000003E8"

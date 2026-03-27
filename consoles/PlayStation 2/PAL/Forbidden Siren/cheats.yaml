@@ -1,0 +1,75 @@
+# Forbidden Siren cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-52328
+
+game: "Forbidden Siren"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-52328"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "901001E8 0C046472"
+      - "90120E6C 0C049AA0"
+
+  - name: "60 Hertz"
+    author: "Codejunkies"
+    codes:
+      - "20103188 24120002"
+
+  - name: "Archives Opened"
+    author: "Codejunkies"
+    codes:
+      - "201F91DC 240A0001"
+
+  - name: "Disable AI"
+    author: "Codejunkies"
+    codes:
+      - "201550D4 10000016"
+
+  - name: "Enemies 1 Hit K.O."
+    author: "Codejunkies"
+    codes:
+      - "201599A8 24030000"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "20162590 00000000"
+
+  - name: "Invincible (Main Character)"
+    author: "Codejunkies"
+    codes:
+      - "2019908C 10000168"
+
+  - name: "Invincible Npcs"
+    author: "Codejunkies"
+    codes:
+      - "201599BC 080567A2"
+
+  - name: "Y-Fix"
+    author: "Codejunkies"
+    codes:
+      - "200FFF00 3C010003"
+      - "200FFF04 0061182F"
+      - "200FFF08 FCA30000"
+      - "200FFF0C 08040E0D"
+      - "20103830 0803FFC0"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90147270 0C048352"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20199224 24003634"

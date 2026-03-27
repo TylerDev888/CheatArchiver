@@ -1,0 +1,98 @@
+# Knack cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA00006
+
+game: "Knack"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA00006"
+cheat_type: "AP"
+source: "source: krustytoe@hackinformer"
+
+cheats:
+  - name: "Difficulty Easy"
+    notes: "File: *"
+    codes:
+      - "000005C4 00000002"
+
+  - name: "Difficulty Normal"
+    notes: "File: *"
+    codes:
+      - "000005C4 00000003"
+
+  - name: "Difficulty Hard"
+    notes: "File: *"
+    codes:
+      - "000005C4 00000004"
+
+  - name: "Difficulty Very Hard"
+    notes: "File: *"
+    codes:
+      - "000005C4 00000005"
+
+  - name: "Sunstone (19)"
+    notes: "File: *"
+    codes:
+      - "00007314 00000013"
+
+  - name: "Ruby (14)"
+    notes: "File: *"
+    codes:
+      - "000073C4 0000000E"
+
+  - name: "Amethyst (19)"
+    notes: "File: *"
+    codes:
+      - "00007474 00000013"
+
+  - name: "Emerald (14)"
+    notes: "File: *"
+    codes:
+      - "00007524 0000000E"
+
+  - name: "Aqua (9)"
+    notes: "File: *"
+    codes:
+      - "000075D4 00000009"
+
+  - name: "Diamond (9)"
+    notes: "File: *"
+    codes:
+      - "00007684 00000009"
+
+  - name: "Current Knack Mod - Diamond Knack"
+    notes: "File: *"
+    codes:
+      - "00000CA4 00000006"
+
+  - name: "Sun Energy Gain Multiplier"
+    notes: "File: *"
+    codes:
+      - "00001174 00000009"
+
+  - name: "All Secret Room Opened (except First Room In 1-2)"
+    notes: "File: *"
+    codes:
+      - "40002984 00000001"
+      - "404300B0 00000000"
+      - "000028D4 00000000"
+
+  - name: "All Secret Room And Treasure Box Unopened (for Farming Parts And Jewels/relics)"
+    notes: "File: *"
+    codes:
+      - "400028D4 00000000"
+      - "404400B0 00000000"
+
+  - name: "Have All Gadgets Parts"
+    notes: "File: *"
+    codes:
+      - "40005794 00000001"
+      - "402800B0 00000000"
+
+  - name: "Have All Gadgets Parts (except 1)"
+    notes: "File: *"
+    codes:
+      - "40005794 00000001"
+      - "402800B0 00000000"
+      - "00005794 00000000"

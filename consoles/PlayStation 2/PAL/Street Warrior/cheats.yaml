@@ -1,0 +1,44 @@
+# Street Warrior cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54675
+
+game: "Street Warrior"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54675"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Alt.Enable Code(Must Be On)"
+    author: "Azagthoth"
+    notes: "[Master Codes]"
+    codes:
+      - "9020F82C 00861021"
+
+  - name: "Enable Code(Must Be On)"
+    author: "Azagthoth"
+    notes: "[Master Codes]"
+    codes:
+      - "9020F880 0C08DE49"
+
+  - name: "1 Hit Kill"
+    author: "Azagthoth"
+    codes:
+      - "201E5114 AE000120"
+
+  - name: "Infinite Health"
+    author: "Azagthoth"
+    codes:
+      - "201E6744 00000000"
+
+  - name: "Joker Command"
+    author: "Azagthoth"
+    codes:
+      - "D08D7E9C 0000????"
+
+  - name: "Kill Enemy For Max Score"
+    author: "Azagthoth"
+    codes:
+      - "201E66A4 AE030110"

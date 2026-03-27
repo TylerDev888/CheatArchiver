@@ -1,0 +1,137 @@
+# Metal Slug 3 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52599
+
+game: "Metal Slug 3"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52599"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F011472C 0011472F"
+
+  - name: "Freeze Mission Time"
+    author: "Codejunkies"
+    codes:
+      - "2037CE8C 00000000"
+
+  - name: "Infinite Explosives In Vehicles"
+    author: "Codejunkies"
+    codes:
+      - "203E4C48 00000000"
+      - "204294B4 00000000"
+
+  - name: "Infinite Explosives On Foot"
+    author: "Codejunkies"
+    codes:
+      - "2040151C 00000000"
+
+  - name: "Infinite Lives"
+    author: "Codejunkies"
+    codes:
+      - "20423E98 24020063"
+
+  - name: "Infinite Power Up Ammo"
+    author: "Codejunkies"
+    codes:
+      - "203E73C0 00000000"
+      - "204295E4 00000000"
+
+  - name: "Invincible Mode"
+    author: "Codejunkies"
+    codes:
+      - "203F7348 00000000"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9011472C 0C049142"
+
+  - name: "Unlimited Lives"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "0067A667 00000063"
+
+  - name: "Unlimited Bombs"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "00688EC5 00000063"
+
+  - name: "Unlimited Arms"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "00688ECA 000003E7"
+
+  - name: "Max Score"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "10688FEA 00009999"
+      - "10688FEC 00009999"
+
+  - name: "Unlimited Health"
+    author: "Xploder"
+    notes: "[Vehicle]"
+    codes:
+      - "204296E0 24040050"
+
+  - name: "Invincible"
+    author: "Xploder"
+    notes: "[Both Players]"
+    codes:
+      - "203F7334 00000000"
+      - "203F7348 24020001"
+
+  - name: "Rapid Fire"
+    author: "Xploder"
+    notes: "[Both Players]"
+    codes:
+      - "200C2000 30A5FF7F"
+      - "200C2004 03E00008"
+      - "200C2008 A5050000"
+      - "204DE6B4 0C030800"
+
+  - name: "Unlimited Missiles"
+    author: "Xploder"
+    notes: "[Both Players]"
+    codes:
+      - "204294B4 00000000"
+
+  - name: "Max Arms"
+    author: "Xploder"
+    notes: "[Both Players]"
+    codes:
+      - "203E7270 240203E8"
+
+  - name: "Max Pow's Rescued"
+    author: "Xploder"
+    notes: "[Both Players]"
+    codes:
+      - "200C2010 24080063"
+      - "200C2014 A4680000"
+      - "200C2018 03E00008"
+      - "200C201C 94630000"
+      - "20425F88 0C030804"
+
+  - name: "Unlimited Time"
+    author: "Xploder"
+    notes: "[Both Players]"
+    codes:
+      - "00688F95 00000099"
+
+  - name: "Quick Score Gain"
+    author: "Xploder"
+    notes: "[Both Players]"
+    codes:
+      - "2042EA3C 2404000A"

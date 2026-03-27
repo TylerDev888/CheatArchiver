@@ -1,0 +1,255 @@
+# Scorpion King, The - Rise Of The Akkadian cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20424
+
+game: "Scorpion King, The - Rise Of The Akkadian"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20424"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0209F50 001E4E87"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001E4E87"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001E4E87"
+      - "200C2000 00000000"
+      - "200C2004 00000000"
+      - "200C2008 00000000"
+      - "200C200C 0806C4AC"
+      - "200C2010 00000000"
+      - "200C2014 0C06C4AC"
+
+  - name: "All Bonuses Are Unlocked"
+    author: "Codejunkies"
+    codes:
+      - "202D9858 FFFFFFFF"
+      - "202D985C FFFFFFFF"
+      - "202D9860 FFFFFFFF"
+      - "202D9864 FFFFFFFF"
+      - "202D9868 FFFFFFFF"
+      - "202D986C FFFFFFFF"
+      - "202D9870 FFFFFFFF"
+
+  - name: "Always 1St Save"
+    author: "Code Master"
+    codes:
+      - "202E8764 00000000"
+
+  - name: "Be Able To Save Anywhere"
+    author: "Codejunkies"
+    codes:
+      - "10293AD0 00000000"
+
+  - name: "Big Head Enemies"
+    author: "InterAct"
+    codes:
+      - "202C160C 00000001"
+
+  - name: "Draw Debug Axis"
+    author: "Code Master"
+    codes:
+      - "20113F24 00000000"
+
+  - name: "Draw Debug Bones"
+    author: "Code Master"
+    codes:
+      - "20113FD4 00000000"
+
+  - name: "Draw Debug Collisions"
+    author: "Code Master"
+    codes:
+      - "20113FB8 00000000"
+
+  - name: "Draw Debug Names"
+    author: "Code Master"
+    codes:
+      - "20113F78 00000000"
+
+  - name: "Draw Debug Spheres"
+    author: "Code Master"
+    codes:
+      - "20113F3C 00000000"
+
+  - name: "Enemies Can't Do Anything!"
+    author: "Code Master"
+    codes:
+      - "20114020 08057CD2"
+
+  - name: "Enemies Can't Hit You"
+    author: "Code Master"
+    codes:
+      - "2014F298 00000000"
+      - "2014F2C8 00000000"
+
+  - name: "Gorgan Can't Hit You"
+    author: "Code Master"
+    codes:
+      - "20161A78 00000000"
+      - "20161AC8 00000000"
+
+  - name: "Have Best Gauntlet"
+    author: "InterAct"
+    codes:
+      - "202E8740 00000005"
+
+  - name: "Have Best Large Sword"
+    author: "InterAct"
+    codes:
+      - "202E8748 00000005"
+
+  - name: "Have Best Spear"
+    author: "InterAct"
+    codes:
+      - "202E874C 00000005"
+
+  - name: "Have Best Sword"
+    author: "InterAct"
+    codes:
+      - "202E8744 00000005"
+
+  - name: "Have Gauntlet Modifier"
+    author: "Code Master"
+    codes:
+      - "202E8740 000000??"
+
+  - name: "Have Spear Modifier"
+    author: "Code Master"
+    codes:
+      - "202E8748 000000??"
+
+  - name: "Have Sword Modifier"
+    author: "Code Master"
+    codes:
+      - "202E8744 000000??"
+
+  - name: "Hit Anyhwere/Collect Everything"
+    author: "InterAct"
+    codes:
+      - "20100808 03E00008"
+      - "2010080C 00000000"
+
+  - name: "Hold Circle For Moon Jump"
+    author: "Code Master"
+    codes:
+      - "2022A1FC 447A0000"
+
+  - name: "Infinite Health"
+    author: "MadCatz"
+    codes:
+      - "200C2000 8E01016C"
+      - "200C2004 0806C4AC"
+
+  - name: "Infinite Stamina"
+    author: "MadCatz"
+    codes:
+      - "200C2008 8E2103A4"
+      - "200C2010 AE2103A0"
+
+  - name: "Infinite Time"
+    author: "MadCatz"
+    codes:
+      - "201BCBF8 AC403AD0"
+
+  - name: "Instant Object Pickup"
+    author: "Code Master"
+    codes:
+      - "201CC994 00000000"
+      - "201CC9CC 00000000"
+
+  - name: "Low Gravity Moon Jump"
+    author: "InterAct"
+    codes:
+      - "2022A1D4 C1000000"
+
+  - name: "Magus Brute Can't Hit You"
+    author: "Code Master"
+    codes:
+      - "201653E4 00000000"
+
+  - name: "Max Endurance"
+    author: "InterAct"
+    codes:
+      - "102E7BF2 000044C0"
+
+  - name: "Max Rubies (All Game)"
+    author: "Code Master"
+    codes:
+      - "202E8758 0098967F"
+
+  - name: "Max Rubies (Current Level)"
+    author: "Code Master"
+    codes:
+      - "202E8758 0000270F"
+
+  - name: "Max Strength"
+    author: "InterAct"
+    codes:
+      - "102E7BEE 000044C0"
+
+  - name: "Minotaur Can't Hit You"
+    author: "Code Master"
+    codes:
+      - "20167EFC 00000000"
+
+  - name: "Other Npc's Can't Hit You"
+    author: "Code Master"
+    codes:
+      - "201C6794 00000000"
+
+  - name: "Player Hits Enemies Anywhere"
+    author: "Code Master"
+    codes:
+      - "2015EB28 00000000"
+      - "2015EB34 00000000"
+
+  - name: "Prison Guards Can't Hit You"
+    author: "Code Master"
+    codes:
+      - "201633EC 00000000"
+      - "2016343C 00000000"
+
+  - name: "Raising Jump"
+    author: "InterAct"
+    codes:
+      - "2022A1FC 44CCCCCD"
+
+  - name: "Save Anywhere"
+    author: "Code Master"
+    codes:
+      - "20293AD0 00000000"
+
+  - name: "Shrink Npc's"
+    author: "Code Master"
+    codes:
+      - "202C1628 00000001"
+
+  - name: "Statue Can't Hit You"
+    author: "Code Master"
+    codes:
+      - "201694FC 00000000"
+
+  - name: "Super Jump"
+    author: "Code Master"
+    codes:
+      - "2022A1D4 C1800000"
+
+  - name: "Ultra Jump"
+    author: "Code Master"
+    codes:
+      - "2022A1D4 C0000000"

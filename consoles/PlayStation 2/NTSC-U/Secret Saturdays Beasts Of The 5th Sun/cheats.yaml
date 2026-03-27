@@ -1,0 +1,23 @@
+# Secret Saturdays Beasts Of The 5th Sun cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21896
+
+game: "Secret Saturdays Beasts Of The 5th Sun"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21896"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "901D8458 0C0760BE"
+
+  - name: "Max/Inf HP"
+    author: "SkillerCMP"
+    codes:
+      - "207E275C 43160000"
+      - "207E2760 43160000"

@@ -1,0 +1,57 @@
+# SingStar_ Operacion Triunfo cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-55173
+
+game: "SingStar_ Operacion Triunfo"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-55173"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "902BBCF0 0C0AEEE4"
+
+  - name: "Notes Multiplyer"
+    notes: "[Codes Affect All Players]"
+    codes:
+      - "20146BA8 08028000"
+      - "20146BAC 00000000"
+      - "200A0000 00021[MOD1]"
+      - "200A0004 AE220030"
+      - "200A0008 08051AEB"
+      - "200A000C 8C8300E0"
+
+  - name: "Rap Multiplyer"
+    notes: "[Codes Affect All Players]"
+    codes:
+      - "20146C08 08028004"
+      - "20146C0C 00000000"
+      - "200A0010 00021[MOD1]"
+      - "200A0014 AE220034"
+      - "200A0018 08051B03"
+      - "200A001C 8CA300E0"
+
+  - name: "Line Bonus Multiplyer"
+    notes: "[Codes Affect All Players]"
+    codes:
+      - "20146C44 08028008"
+      - "20146C48 00000000"
+      - "200A0020 00108[MOD1]"
+      - "200A0024 AE300038"
+      - "200A0028 08051B12"
+      - "200A002C 00641821"
+
+  - name: "Golden Notes Multiplyer"
+    notes: "[Codes Affect All Players]"
+    codes:
+      - "20146C4C 0802800C"
+      - "20146C50 00000000"
+      - "200A0030 00021[MOD1]"
+      - "200A0034 AE22003C"
+      - "200A0038 08051B14"
+      - "200A003C 00701821"

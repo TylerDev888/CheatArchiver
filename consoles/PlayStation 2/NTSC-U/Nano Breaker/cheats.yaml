@@ -1,0 +1,428 @@
+# Nano Breaker cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21010
+
+game: "Nano Breaker"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21010"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F011C02C 0011C02F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "9011C120 0C101A54"
+
+  - name: "Master Code"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "9011C120 0C101A54"
+      - "200C2028 03E00008"
+      - "2018FA78 08030800"
+
+  - name: "All Movies/Splatter Mode"
+    author: "Codejunkies"
+    codes:
+      - "404CB5D0 00040001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Aut-Laser Reflect-Slot 4"
+    author: "Code Master"
+    notes: "[Have Booster Codes]"
+    codes:
+      - "204CF698 00010017"
+
+  - name: "Capture Critical-Slot 5"
+    author: "Code Master"
+    notes: "[Have Booster Codes]"
+    codes:
+      - "204CF69C 00010018"
+
+  - name: "Fauchard Rampage-Slot 1"
+    author: "Code Master"
+    notes: "[Have Booster Codes]"
+    codes:
+      - "204CF68C 00010014"
+
+  - name: "Gatling Gun-Slot 9"
+    author: "Code Master"
+    notes: "[Have Booster Codes]"
+    codes:
+      - "204CF6AC 0001001D"
+
+  - name: "Laser Shower-Slot 8"
+    author: "Code Master"
+    notes: "[Have Booster Codes]"
+    codes:
+      - "204CF6A8 0001001C"
+
+  - name: "Plasma Orbs-Slot 3"
+    author: "Code Master"
+    notes: "[Have Booster Codes]"
+    codes:
+      - "F07AA714 36181D26"
+
+  - name: "Plasma Storm-Slot 2"
+    author: "Code Master"
+    notes: "[Have Booster Codes]"
+    codes:
+      - "204CF690 00010015"
+
+  - name: "Speed Up-Slot 6"
+    author: "Code Master"
+    notes: "[Have Booster Codes]"
+    codes:
+      - "204CF6A0 00010019"
+
+  - name: "Status Boost-Slot 7"
+    author: "Code Master"
+    notes: "[Have Booster Codes]"
+    codes:
+      - "204CF6A4 0001001B"
+
+  - name: "Have One Hit Kill"
+    author: "MadCatz"
+    codes:
+      - "2013E8EC 44800000"
+      - "2026D894 44800000"
+
+  - name: "Infinite Booster"
+    author: "Codejunkies"
+    codes:
+      - "204CF61C 447A0000"
+
+  - name: "All Chips"
+    author: "Code Master"
+    notes: "[Infinite Combo Chip Codes]"
+    codes:
+      - "4061570C 00030001"
+      - "00090009 00000000"
+
+  - name: "Blue-Lv. 1"
+    author: "Code Master"
+    notes: "[Infinite Combo Chip Codes]"
+    codes:
+      - "1061570C 00000009"
+
+  - name: "Green-Lv. 3"
+    author: "Code Master"
+    notes: "[Infinite Combo Chip Codes]"
+    codes:
+      - "10615710 00000009"
+
+  - name: "Orange Lv. 4"
+    author: "Code Master"
+    notes: "[Infinite Combo Chip Codes]"
+    codes:
+      - "10615712 00000009"
+
+  - name: "Red Lv. 5"
+    author: "Code Master"
+    notes: "[Infinite Combo Chip Codes]"
+    codes:
+      - "10615714 00000009"
+
+  - name: "Silver-Lv. X"
+    author: "Code Master"
+    notes: "[Infinite Combo Chip Codes]"
+    codes:
+      - "10615716 00000009"
+
+  - name: "Turquoise-Lv. 2"
+    author: "Code Master"
+    notes: "[Infinite Combo Chip Codes]"
+    codes:
+      - "1061570E 00000009"
+
+  - name: "Infinite Health"
+    author: "MadCatz"
+    codes:
+      - "200C2008 8C410000"
+      - "200C200C AC410008"
+
+  - name: "Infinite HP-Michelle"
+    author: "Codejunkies"
+    codes:
+      - "204A8AB8 42C80000"
+
+  - name: "Infinite Life"
+    author: "Codejunkies"
+    codes:
+      - "204CF618 447A0000"
+
+  - name: "Always Low Play Time"
+    author: "Code Master"
+    notes: "[Info Codes]"
+    codes:
+      - "20616B28 00000000"
+
+  - name: "Have Jaguar Playable"
+    author: "Code Master"
+    notes: "[Info Codes]"
+    codes:
+      - "704CB5DD 00000002"
+
+  - name: "Have Keith Playable"
+    author: "Code Master"
+    notes: "[Info Codes]"
+    codes:
+      - "704CB5DD 00000001"
+
+  - name: "Max Capture-Counters"
+    author: "Code Master"
+    notes: "[Info Codes]"
+    codes:
+      - "204CF658 0001869F"
+
+  - name: "Max Continues"
+    author: "Code Master"
+    notes: "[Info Codes]"
+    codes:
+      - "20616B38 05F5E0FF"
+
+  - name: "Max Enemies Defeated"
+    author: "Code Master"
+    notes: "[Info Codes]"
+    codes:
+      - "204BFC64 05F5E0FF"
+
+  - name: "Max Enemies Sliced-Horizontal"
+    author: "Code Master"
+    notes: "[Info Codes]"
+    codes:
+      - "204BFC68 05F5E0FF"
+
+  - name: "Max Enemies Sliced-Vertical"
+    author: "Code Master"
+    notes: "[Info Codes]"
+    codes:
+      - "204BFC6C 05F5E0FF"
+
+  - name: "Max Enemies Smashed"
+    author: "Code Master"
+    notes: "[Info Codes]"
+    codes:
+      - "204BFC70 05F5E0FF"
+
+  - name: "Max Laser Reflects"
+    author: "Code Master"
+    notes: "[Info Codes]"
+    codes:
+      - "204CF654 0001869F"
+
+  - name: "Max Saves"
+    author: "Code Master"
+    notes: "[Info Codes]"
+    codes:
+      - "20616B3C 05F5E0FF"
+
+  - name: "Max Total Gallons"
+    author: "Code Master"
+    notes: "[Info Codes]"
+    codes:
+      - "20616B2C 05F5E0FF"
+
+  - name: "No Capture-Counters"
+    author: "Code Master"
+    notes: "[Info Codes]"
+    codes:
+      - "204CF658 00000000"
+
+  - name: "No Continues"
+    author: "Code Master"
+    notes: "[Info Codes]"
+    codes:
+      - "20616B38 00000000"
+
+  - name: "No Enemies Defeated"
+    author: "Code Master"
+    notes: "[Info Codes]"
+    codes:
+      - "204BFC64 00000000"
+
+  - name: "No Enemies Sliced-Horizontal"
+    author: "Code Master"
+    notes: "[Info Codes]"
+    codes:
+      - "204BFC68 00000000"
+
+  - name: "No Enemies Sliced-Vertical"
+    author: "Code Master"
+    notes: "[Info Codes]"
+    codes:
+      - "204BFC6C 00000000"
+
+  - name: "No Enemies Smashed"
+    author: "Code Master"
+    notes: "[Info Codes]"
+    codes:
+      - "204BFC70 00000000"
+
+  - name: "No Laser Reflects"
+    author: "Code Master"
+    notes: "[Info Codes]"
+    codes:
+      - "204CF654 00000000"
+
+  - name: "No Saves"
+    author: "Code Master"
+    notes: "[Info Codes]"
+    codes:
+      - "20616B3C 00000000"
+
+  - name: "No Total Gallons"
+    author: "Code Master"
+    notes: "[Info Codes]"
+    codes:
+      - "20616B2C 00000000"
+
+  - name: "Unlock All Movies (In Movie Viewer)"
+    author: "Code Master"
+    notes: "[Info Codes]"
+    codes:
+      - "204CB5D0 FFFFFFFF"
+
+  - name: "Unlock Movie Viewer"
+    author: "Code Master"
+    notes: "[Info Codes]"
+    codes:
+      - "704CB5DC 00000010"
+
+  - name: "Unlock Splatter Mode"
+    author: "Code Master"
+    notes: "[Info Codes]"
+    codes:
+      - "704CB5DC 00000008"
+
+  - name: "Low Play Time"
+    author: "Codejunkies"
+    codes:
+      - "20616B28 00000B05"
+
+  - name: "Max Booster"
+    author: "MadCatz"
+    codes:
+      - "200C2010 3C01437A"
+      - "200C2014 AC410004"
+
+  - name: "All Booster Levels"
+    author: "Code Master"
+    notes: "[Max Booster Level Codes]"
+    codes:
+      - "404CF6B8 00070001"
+      - "00000046 00000000"
+
+  - name: "Aut-Laser Reflect"
+    author: "Code Master"
+    notes: "[Max Booster Level Codes]"
+    codes:
+      - "204CF6C0 00000046"
+
+  - name: "Capture Critical"
+    author: "Code Master"
+    notes: "[Max Booster Level Codes]"
+    codes:
+      - "204CF6C4 00000046"
+
+  - name: "Plasma Orbs"
+    author: "Code Master"
+    notes: "[Max Booster Level Codes]"
+    codes:
+      - "204CF6BC 00000046"
+
+  - name: "Plasma Storm"
+    author: "Code Master"
+    notes: "[Max Booster Level Codes]"
+    codes:
+      - "204CF6B8 00000046"
+
+  - name: "Speed Up"
+    author: "Code Master"
+    notes: "[Max Booster Level Codes]"
+    codes:
+      - "204CF6C8 00000046"
+
+  - name: "Status Boost"
+    author: "Code Master"
+    notes: "[Max Booster Level Codes]"
+    codes:
+      - "204CF6D0 00000046"
+
+  - name: "Max Combo Chips"
+    author: "MadCatz"
+    codes:
+      - "201E29F8 00000000"
+      - "201E2AC8 24040009"
+      - "201E2ACC A604001C"
+
+  - name: "Max Health"
+    author: "MadCatz"
+    codes:
+      - "200C2000 3C0143FA"
+      - "200C2004 AC410000"
+
+  - name: "Max Life"
+    author: "Codejunkies"
+    codes:
+      - "204CF610 447A0000"
+
+  - name: "1-Hit Death (Enemies)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "200C0220 080EFC33"
+      - "200C0224 AC400168"
+      - "203BF09C 08030088"
+
+  - name: "Infinite Booster Gauge"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204CF61C 4479C000"
+
+  - name: "Infinite Health (Michelle)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204A8AB8 4479C000"
+
+  - name: "Infinite Life Gauge"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204CF618 4479C000"
+
+  - name: "Max Booster Gauge"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204CF614 4479C000"
+
+  - name: "Max Life Gauge"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204CF610 4479C000"
+
+  - name: "Unlock All Extras"
+    author: "MadCatz"
+    codes:
+      - "20153D0C 24020001"
+      - "20154080 24020001"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9011C120 0C101A54"

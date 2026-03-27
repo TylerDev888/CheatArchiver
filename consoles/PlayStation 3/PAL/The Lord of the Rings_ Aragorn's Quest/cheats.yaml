@@ -1,0 +1,32 @@
+# The Lord of the Rings_ Aragorn's Quest cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00998
+
+game: "The Lord of the Rings_ Aragorn's Quest"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00998"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Lotr.dat (required)"
+    notes: "File: LOTR.DAT  (set range:0x000000,0x03E393) (write at 0x03E394:[hash])"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:CRC32"
+      - "set [hash]:xor:FFFFFFFF"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"
+
+  - name: "Update Crc32 For Cutsflag.dat (required)"
+    notes: "File: CUTSFLAG.DAT  (set range:0x000000,0x000137) (write at 0x000138:[hash])"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:CRC32"
+      - "set [hash]:xor:FFFFFFFF"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"

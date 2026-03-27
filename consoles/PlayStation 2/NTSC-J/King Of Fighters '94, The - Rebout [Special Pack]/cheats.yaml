@@ -1,0 +1,23 @@
+# King Of Fighters '94, The - Rebout [Special Pack] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25448
+
+game: "King Of Fighters '94, The - Rebout [Special Pack]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25448"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Disable Blocking Both Players"
+    author: "nolberto82"
+    codes:
+      - "202B87B4 34030003"
+      - "202B87B8 A4430FDC"
+
+  - name: "Hit Anywhere Both Players"
+    author: "nolberto82"
+    codes:
+      - "2037D468 10000042"

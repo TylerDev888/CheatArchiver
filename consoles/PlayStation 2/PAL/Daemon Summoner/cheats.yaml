@@ -1,0 +1,31 @@
+# Daemon Summoner cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53652
+
+game: "Daemon Summoner"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53652"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0255B58 00255B5B"
+
+  - name: "Disable A.I."
+    author: "Codejunkies"
+    codes:
+      - "2014D66C 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "200FFF00 24020064"
+      - "200FFF04 AC820140"
+      - "200FFF08 03E00008"
+      - "20112344 0C03FFC0"

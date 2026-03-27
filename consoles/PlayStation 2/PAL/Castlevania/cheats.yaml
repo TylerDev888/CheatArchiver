@@ -1,0 +1,120 @@
+# Castlevania cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Castlevania"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode:"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "906EF474 0C1BDABB"
+
+  - name: "HP"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20B6B528 442F0000"
+      - "20B6B240 442F0000"
+
+  - name: "MP"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20B6B288 00000300"
+      - "20B6B284 00000300"
+
+  - name: "Hearts"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20B6B52C 4479C000"
+      - "20B6B244 4479C000"
+      - "20B6B248 4479C000"
+
+  - name: "All Equip"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "40B6B290 00220001"
+      - "00010001 00000001"
+
+  - name: "All Relics"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "40B6B4BC 000A0001"
+      - "00010086 00000001"
+
+  - name: "All Skills"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "20B6B4E4 FFFFFFFF"
+
+  - name: "All Orbs"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "40B6B4A0 00070001"
+      - "0001007F 00000001"
+
+  - name: "Gold"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "20B6B260 05F5E0FF"
+
+  - name: "ATK"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "20B6B5C0 4479C000"
+
+  - name: "DEF"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "20B6B5E0 4479C000"
+
+  - name: "CON"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "20B6B5CC 4479C000"
+
+  - name: "INT"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "20B6B5C4 4479C000"
+
+  - name: "LCK"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "20B6B5D0 4479C000"
+
+  - name: "Curse 100%"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "20B675F8 24C80000"
+
+  - name: "Stone 100%"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "20B675F0 24C80000"
+
+  - name: "Poison 100%"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "20B675F4 24C80000"

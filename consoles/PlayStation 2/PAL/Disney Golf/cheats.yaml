@@ -1,0 +1,80 @@
+# Disney Golf cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51042
+
+game: "Disney Golf"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51042"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F010CEF4 0010CEF7"
+
+  - name: "All Characters"
+    author: "Codejunkies"
+    codes:
+      - "00346214 000000FF"
+
+  - name: "Kid Mode"
+    author: "Codejunkies"
+    codes:
+      - "201464AC 24020001"
+
+  - name: "P1 Always First Hole"
+    author: "Codejunkies"
+    codes:
+      - "200FFF00 3C010033"
+      - "200FFF04 3421FED4"
+      - "200FFF08 0022082A"
+      - "200FFF0C 14010003"
+      - "200FFF14 A4400406"
+      - "200FFF1C 0C118D14"
+      - "200FFF24 08054B18"
+      - "20152C58 0803FFC0"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0010CEF7"
+      - "200C0000 23BDFFD0"
+      - "200C0004 7FB00000"
+      - "200C0008 7FB10010"
+      - "200C000C 7FB20020"
+      - "200C0010 24100000"
+      - "200C0014 3C11000C"
+      - "200C0018 36310068"
+      - "200C001C 02308820"
+      - "200C0020 92310000"
+      - "200C0024 12200007"
+      - "200C0028 8F919030"
+      - "200C002C 16300005"
+      - "200C0030 8F82902C"
+      - "200C0034 8F838E58"
+      - "200C0038 00031840"
+      - "200C003C 00431020"
+      - "200C0040 A4400406"
+      - "200C0044 22100001"
+      - "200C0048 2A110004"
+      - "200C004C 1620FFF1"
+      - "200C0050 00000000"
+      - "200C0054 7BB10010"
+      - "200C0058 7BB20020"
+      - "200C005C 7BB00000"
+      - "200C0060 0811D84C"
+      - "200C0064 23BD0030"
+      - "200C0068 00000000"
+      - "204614C4 0C030000"
+
+  - name: "Always Score 1"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "000C0068 00000001"

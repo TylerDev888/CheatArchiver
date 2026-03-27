@@ -1,0 +1,23 @@
+# The Orange Box cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00153
+
+game: "The Orange Box"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00153"
+cheat_type: "Save Editor"
+source: "by bucanero"
+
+cheats:
+  - name: "Calculate Crc32 For .cfg"
+    notes: "File: *.CFG"
+    codes:
+      - "set range:0x00,eof+1"
+      - "set [hash]:crc32"
+
+  - name: "Write New Crc32 To .chk"
+    notes: "File: *.CHK"
+    codes:
+      - "write at 0x00:[hash]"

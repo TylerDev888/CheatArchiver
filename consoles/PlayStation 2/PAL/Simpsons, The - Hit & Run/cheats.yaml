@@ -1,0 +1,190 @@
+# Simpsons, The - Hit & Run cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51897
+
+game: "Simpsons, The - Hit & Run"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51897"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F040878C 0040878F"
+
+  - name: "Blur Mode"
+    author: "Codejunkies"
+    notes: "[Open cheats]"
+    codes:
+      - "2021C9CC 00000000"
+
+  - name: "Car Jump (Press L3)"
+    author: "Codejunkies"
+    notes: "[Open cheats]"
+    codes:
+      - "20254C20 00000000"
+
+  - name: "Character Modifier (Square) - Press R3 To Activate, L3 To Stop)"
+    author: "Codejunkies"
+    notes: "[Open cheats]"
+    codes:
+      - "D0516702 0000FFFD"
+      - "20107FC8 24020001"
+      - "D0516702 0000FFFB"
+      - "20107FC8 24020001"
+
+  - name: "Disable Car Damage"
+    author: "Codejunkies"
+    notes: "[Open cheats]"
+    codes:
+      - "2028AD3C 24020001"
+
+  - name: "Display Grid"
+    author: "Codejunkies"
+    notes: "[Open cheats]"
+    codes:
+      - "201EF8CC 00000000"
+
+  - name: "Display Lines"
+    author: "Codejunkies"
+    notes: "[Open cheats]"
+    codes:
+      - "2021CE60 00000000"
+
+  - name: "Display Speed"
+    author: "Codejunkies"
+    notes: "[Open cheats]"
+    codes:
+      - "201D4FBC 00000000"
+
+  - name: "Exploding Cars"
+    author: "Codejunkies"
+    notes: "[Open cheats]"
+    codes:
+      - "2028A948 24020001"
+
+  - name: "Turbo"
+    author: "Codejunkies"
+    notes: "[Open cheats]"
+    codes:
+      - "2028152C 24020001"
+
+  - name: "Character Modifier (Press Square)"
+    author: "Codejunkies"
+    notes: "[Open Cheats]"
+    codes:
+      - "20107FC8 24020001"
+
+  - name: "Better Acceleration (Car)"
+    author: "Codejunkies"
+    codes:
+      - "20152170 3C014000"
+      - "20152180 3C01C000"
+
+  - name: "Big Acceleration"
+    author: "Codejunkies"
+    codes:
+      - "204AF434 41800000"
+
+  - name: "Big Double Jump"
+    author: "Codejunkies"
+    codes:
+      - "204AF454 40800000"
+
+  - name: "Big Jump"
+    author: "Codejunkies"
+    codes:
+      - "204AF3B0 40800000"
+
+  - name: "Disable Hit & Run"
+    author: "Codejunkies"
+    codes:
+      - "20251CBC AE400004"
+
+  - name: "Drive Thru Walls"
+    author: "Codejunkies"
+    codes:
+      - "202D08A0 03E00008"
+
+  - name: "Drive Thru Walls - Press R3 To Activate, L3 To Stop"
+    author: "Codejunkies"
+    codes:
+      - "D0516702 0000FFFD"
+      - "202D08A0 03E00008"
+      - "D0516702 0000FFFB"
+      - "202D08A0 27BDFF50"
+
+  - name: "Freeze Timers"
+    author: "Codejunkies"
+    codes:
+      - "20173F14 00000000"
+
+  - name: "Giant Characters"
+    author: "Codejunkies"
+    codes:
+      - "20107E24 3C014000"
+
+  - name: "Max Double Jump"
+    author: "Codejunkies"
+    codes:
+      - "204AF454 41000000"
+
+  - name: "Max Jump"
+    author: "Codejunkies"
+    codes:
+      - "204AF3B0 41000000"
+
+  - name: "Money Increase When Used"
+    author: "Codejunkies"
+    codes:
+      - "20189874 00461021"
+
+  - name: "Open Chapters"
+    author: "Codejunkies"
+    codes:
+      - "00425EF4 000000FF"
+
+  - name: "Press L2 For Max Acceleration"
+    author: "Codejunkies"
+    codes:
+      - "D0516702 0000FEFF"
+      - "204AF434 41F00000"
+      - "D0516702 0000FFFF"
+      - "204AF434 40800000"
+
+  - name: "Press R2 For Big Acceleration"
+    author: "Codejunkies"
+    codes:
+      - "D0516702 0000FDFF"
+      - "204AF434 41800000"
+      - "D0516702 0000FFFF"
+      - "204AF434 40800000"
+
+  - name: "Receive 100 Coins Per Coin"
+    author: "Codejunkies"
+    codes:
+      - "2025BA90 24060064"
+
+  - name: "Slow Jumps"
+    author: "Codejunkies"
+    codes:
+      - "204AF438 BFC80000"
+
+  - name: "Small Characters"
+    author: "Codejunkies"
+    codes:
+      - "20107E24 3C013F00"
+
+  - name: "Ultra Quick Run"
+    author: "Codejunkies"
+    codes:
+      - "20267BE4 0803FFC0"
+      - "200FFF00 46010000"
+      - "200FFF04 46010000"
+      - "200FFF08 46010000"
+      - "200FFF0C 03E00008"

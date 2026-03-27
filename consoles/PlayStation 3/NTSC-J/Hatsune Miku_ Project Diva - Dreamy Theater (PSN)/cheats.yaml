@@ -1,0 +1,20 @@
+# Hatsune Miku_ Project Diva - Dreamy Theater (PSN) cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  NPJB00047
+
+game: "Hatsune Miku_ Project Diva - Dreamy Theater (PSN)"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "NPJB00047"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For System.dat (required)"
+    notes: "File: SYSTEM.DAT  (set range:0x10,0x050077)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x10,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000008:[hash]"

@@ -1,0 +1,17 @@
+# Carnival Island cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUA80696
+
+game: "Carnival Island"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUA80696"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "9999 Tickets"
+    notes: "File: SYS-DATA"
+    codes:
+      - "write at 0x00000482:0x270F"

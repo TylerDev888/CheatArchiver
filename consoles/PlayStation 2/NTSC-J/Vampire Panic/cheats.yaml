@@ -1,0 +1,26 @@
+# Vampire Panic cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62506
+
+game: "Vampire Panic"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62506"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90111810 0C0445AC"
+
+  - name: "Debug Menu (Hold L3 + R3 While The Game Is First Booting Up)"
+    author: "punk7890"
+    codes:
+      - "D03CEB82 0000FFF9"
+      - "201A4A48 2404001C"
+      - "D03CEB82 0000FFFF"
+      - "201A4A48 8C24C4F8"

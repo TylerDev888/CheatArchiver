@@ -1,0 +1,23 @@
+# Super Robot Taisen Alpha 2Nd cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25228
+
+game: "Super Robot Taisen Alpha 2Nd"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25228"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010E778 0C043986"
+
+  - name: "Enable Debug Menu At Main Menu [Read Note]"
+    author: "punk7890"
+    codes:
+      - "00136930 00000004"

@@ -1,0 +1,27 @@
+# Simple 2000 Series Vol.71 - The Fantasy Renai Adventure - Kanojo No Densetsu cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65874
+
+game: "Simple 2000 Series Vol.71 - The Fantasy Renai Adventure - Kanojo No Densetsu"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65874"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90153878 0C054DC6"
+
+  - name: "Unlock Everything"
+    author: "punk7890"
+    codes:
+      - "201784D8 FFFFFFFF"
+      - "40178548 000D0001"
+      - "FFFFFFFF 00000000"
+      - "1017857C 0000FFFF"
+      - "0017857E 000000FF"

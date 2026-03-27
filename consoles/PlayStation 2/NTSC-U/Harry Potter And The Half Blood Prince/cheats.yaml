@@ -1,0 +1,48 @@
+# Harry Potter And The Half Blood Prince cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21808
+
+game: "Harry Potter And The Half Blood Prince"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21808"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "904976E8 00832021"
+
+  - name: "Infinite Health"
+    author: "Azagthoth"
+    codes:
+      - "200C0200 3C010063"
+      - "200C0204 8C215208"
+      - "200C0208 10200004"
+      - "200C0210 8C2225D8"
+      - "200C0214 AC2225DC"
+      - "200C021C 03E00008"
+      - "20484384 08030080"
+
+  - name: "Skip Fmv"
+    author: "Azagthoth"
+    codes:
+      - "204903F8 24020001"
+
+  - name: "Max/Infinite Mini-Crests (# In Parentheses)"
+    author: "Azagthoth"
+    codes:
+      - "2055D678 05F5E0FF"
+
+  - name: "Max Mini-Crests"
+    author: "Azagthoth"
+    codes:
+      - "20550BB0 00000019"
+
+  - name: "Infinite Time(potions)"
+    author: "Azagthoth"
+    codes:
+      - "202EE848 00000000"

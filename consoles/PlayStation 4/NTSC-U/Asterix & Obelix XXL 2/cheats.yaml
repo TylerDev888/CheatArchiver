@@ -1,0 +1,48 @@
+# Asterix & Obelix XXL 2 cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA13367
+
+game: "Asterix & Obelix XXL 2"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA13367"
+cheat_type: "AP"
+source: "source: xdgmods.com forum"
+
+cheats:
+  - name: "All But One Figurine"
+    notes: "File: *  ((Buy the first one to get the trophy))"
+    codes:
+      - "200052BC 01010100"
+      - "200052C0 01010101"
+      - "200052C4 01010101"
+      - "200052C8 01010101"
+      - "200052CC 01010101"
+      - "200052D0 01010118"
+
+  - name: "9998 Helmets"
+    notes: "File: *  ((just get 1 more yourself to get the trophy))"
+    codes:
+      - "10005263 0000270E"
+
+  - name: "All But One Postcard"
+    notes: "File: *  ((Collect the first one in the first level to get the trophy)"
+    codes:
+      - "200052D7 01010100"
+      - "200052DB 01010101"
+      - "200052DF 01010101"
+      - "200052E3 01010101"
+      - "200052E7 01010101"
+      - "200052EB 01010101"
+
+  - name: "All But One Figurines"
+    author: "Wosley#0001"
+    notes: "File: SAVEDATA00\\Profile.ob"
+    codes:
+      - "200052BC 01010100"
+      - "200052C0 01010101"
+      - "200052C4 01010101"
+      - "200052C8 01010101"
+      - "200052CC 01010101"
+      - "200052D0 01010118"

@@ -1,0 +1,49 @@
+# Home Alone cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54469
+
+game: "Home Alone"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54469"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "902176B8 0C085D56"
+
+  - name: "Invisible To Enemies"
+    author: "LuC-iTA"
+    codes:
+      - "2011C234 10000063"
+      - "201297A4 1000001E"
+      - "202BF1A0 00124B28"
+
+  - name: "Infinite Ammo"
+    author: "LuC-iTA"
+    codes:
+      - "2012A3C0 00000000"
+
+  - name: "1HitKill"
+    author: "LuC-iTA"
+    codes:
+      - "2011C1B0 AE000010"
+
+  - name: "No Damage"
+    author: "LuC-iTA"
+    codes:
+      - "2012C974 00000000"
+
+  - name: "Instantly Lock Doors/Windows"
+    author: "LuC-iTA"
+    codes:
+      - "20129F28 00000000"
+
+  - name: "Lock Doors/Windows Even Without Toolboxes"
+    author: "LuC-iTA"
+    codes:
+      - "20129E3C 00000000"

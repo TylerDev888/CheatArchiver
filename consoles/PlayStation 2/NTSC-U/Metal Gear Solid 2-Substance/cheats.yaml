@@ -1,0 +1,629 @@
+# Metal Gear Solid 2-Substance cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20554
+
+game: "Metal Gear Solid 2-Substance"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20554"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-4Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100010 001673EF"
+      - "E004003D 00080234"
+      - "20080234 00000000"
+      - "20080108 000D0C02"
+      - "2008010C 00812021"
+      - "20080114 A48D0000"
+
+  - name: "Code Breaker Version 5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100010 001673EF"
+      - "E004003D 000802AC"
+      - "200802AC 00000000"
+      - "20080180 000D0C02"
+      - "20080184 00812021"
+      - "2008018C A48D0000"
+
+  - name: "Code Breaker Version 6Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901673EC 0C05BE4E"
+      - "E004003D 0008039C"
+      - "2008039C 00000000"
+      - "20080270 000D0C02"
+      - "20080274 00812021"
+      - "2008027C A48D0000"
+
+  - name: "Code Breaker Version 7+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901673EC 0C05BE4E"
+      - "B0000001 00000000"
+      - "E0038C86 000802E6"
+      - "200802E8 00050C02"
+      - "200802EC 00C13021"
+      - "200802F4 A4C50000"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[HUGE NOTE: The Enable Code is Code Breaker Revision specific, there are currently 4 different Enable Codes. Use the Enable Code for your Version Code Breaker. If you dont know what version you have, then you probably have Version 1-4 that doesnt have a version # on the CD itself, I believe V5 & ..."
+    codes:
+      - "E0020792 0027B7F0"
+      - "2027B7F4 240200C8"
+      - "2027B7F8 A6020792"
+
+  - name: "Infinite Ammo"
+    author: "Code Master"
+    notes: "[HUGE NOTE: The Enable Code is Code Breaker Revision specific, there are currently 4 different Enable Codes. Use the Enable Code for your Version Code Breaker. If you dont know what version you have, then you probably have Version 1-4 that doesnt have a version # on the CD itself, I believe V5 & ..."
+    codes:
+      - "2015E0A0 00000000"
+
+  - name: "Extra Ammo"
+    author: "Code Master"
+    notes: "[HUGE NOTE: The Enable Code is Code Breaker Revision specific, there are currently 4 different Enable Codes. Use the Enable Code for your Version Code Breaker. If you dont know what version you have, then you probably have Version 1-4 that doesnt have a version # on the CD itself, I believe V5 & ..."
+    codes:
+      - "2015E09C 00711821"
+
+  - name: "Never Reload"
+    author: "Code Master"
+    notes: "[HUGE NOTE: The Enable Code is Code Breaker Revision specific, there are currently 4 different Enable Codes. Use the Enable Code for your Version Code Breaker. If you dont know what version you have, then you probably have Version 1-4 that doesnt have a version # on the CD itself, I believe V5 & ..."
+    codes:
+      - "D02B9F14 000032DC"
+      - "202B9F24 00000000"
+
+  - name: "Infinite M9"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 015E03E7"
+
+  - name: "Infinite USP"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 01600063"
+
+  - name: "Infinite Chaff Grenades"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 017003E7"
+
+  - name: "Infinite Stun Grenades"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 01720063"
+
+  - name: "Infinite Magazines"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 017C03E7"
+
+  - name: "Infinite Grenades"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 017E0063"
+
+  - name: "Infinite Socom"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02B2270F"
+
+  - name: "Infinite PSG1"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02B4270F"
+
+  - name: "Infinite RGB6"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02B6270F"
+
+  - name: "Infinite Nikita"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02B8270F"
+
+  - name: "Infinite Stinger"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02BA270F"
+
+  - name: "Infinite Claymores"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02BC270F"
+
+  - name: "Infinite C4"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02BE270F"
+
+  - name: "Have D. Mic"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02C40001"
+
+  - name: "Have HF Blade"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02C60001"
+
+  - name: "Have Coolant"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02C80001"
+
+  - name: "Infinite AKS-74U"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02CA270F"
+
+  - name: "Infinite M4"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02D0270F"
+
+  - name: "Infinite PSG1-T"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02D2270F"
+
+  - name: "Have D. Mic 2"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02D40001"
+
+  - name: "Infinite BOOK"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02D6270F"
+
+  - name: "Max M9"
+    author: "Code Master"
+    notes: "[Max Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 01A603E7"
+
+  - name: "Max USP"
+    author: "Code Master"
+    notes: "[Max Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 01A80063"
+
+  - name: "Max Chaff Grenades"
+    author: "Code Master"
+    notes: "[Max Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 01B803E7"
+
+  - name: "Max Stun Grenades"
+    author: "Code Master"
+    notes: "[Max Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 01BA0063"
+
+  - name: "Max Magazines"
+    author: "Code Master"
+    notes: "[Max Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 01C403E7"
+
+  - name: "Max Grenades"
+    author: "Code Master"
+    notes: "[Max Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 01C60063"
+
+  - name: "Max Socom"
+    author: "Code Master"
+    notes: "[Max Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02FA270F"
+
+  - name: "Max PSG1"
+    author: "Code Master"
+    notes: "[Max Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02FC270F"
+
+  - name: "Max RGB6"
+    author: "Code Master"
+    notes: "[Max Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02FE270F"
+
+  - name: "Max Nikita"
+    author: "Code Master"
+    notes: "[Max Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 0300270F"
+
+  - name: "Max Stinger"
+    author: "Code Master"
+    notes: "[Max Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 0302270F"
+
+  - name: "Max Claymores"
+    author: "Code Master"
+    notes: "[Max Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 0304270F"
+
+  - name: "Max C4"
+    author: "Code Master"
+    notes: "[Max Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 0306270F"
+
+  - name: "Max AKS-74U"
+    author: "Code Master"
+    notes: "[Max Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 0312270F"
+
+  - name: "Max M4"
+    author: "Code Master"
+    notes: "[Max Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 0318270F"
+
+  - name: "Max PSG1-T"
+    author: "Code Master"
+    notes: "[Max Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 031A270F"
+
+  - name: "Max BOOK"
+    author: "Code Master"
+    notes: "[Max Ammo Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 031E270F"
+
+  - name: "None"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 01EC0001"
+
+  - name: "Rations"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 01EE0001"
+
+  - name: "Binoculars"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 01F00001"
+
+  - name: "Medicine"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 01F20001"
+
+  - name: "Bandage"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 01F40001"
+
+  - name: "Pentazemin"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 01F60001"
+
+  - name: "Body Armor"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 01FA0001"
+
+  - name: "Stealth"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 01FC0001"
+
+  - name: "Mine Detector"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 01FE0001"
+
+  - name: "Sensor A"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02000001"
+
+  - name: "Sensor B"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02020001"
+
+  - name: "Thermal Goggles"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02060001"
+
+  - name: "Binoculars 2"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02080001"
+
+  - name: "Digital Camera"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 020A0001"
+
+  - name: "Cardboard Box 1"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 020C0001"
+
+  - name: "Cigarettes"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 020E0001"
+
+  - name: "Keycard Lv. 255"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 021000FF"
+
+  - name: "Shaver"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02120001"
+
+  - name: "Phone"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02140001"
+
+  - name: "Camera"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02160001"
+
+  - name: "Wet Cardboard Box"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 021C0001"
+
+  - name: "AP Sensor"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 021E0001"
+
+  - name: "Socom Suppressor"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02260001"
+
+  - name: "AK Suppressor"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02280001"
+
+  - name: "Camera 2"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 022A0001"
+
+  - name: "Bandana"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 022C0001"
+
+  - name: "Dog Tags"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 022E0001"
+
+  - name: "MO Disc"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02300001"
+
+  - name: "USP Suppressor"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02320001"
+
+  - name: "Infinity Wig"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02340001"
+
+  - name: "Wig A"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02360001"
+
+  - name: "Wig B"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 02380001"
+
+  - name: "Wig C"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 023A0001"
+
+  - name: "Wig D"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 023C0001"
+
+  - name: "Field Uniform"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 03480001"
+
+  - name: "N.V.G."
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 03540001"
+
+  - name: "Cardboard Box 2"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 03680001"
+
+  - name: "Cardboard Box 3"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 036A0001"
+
+  - name: "Cardboard Box 4"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 03700001"
+
+  - name: "Cardboard Box 5"
+    author: "Code Master"
+    notes: "[Have Item Codes]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 03720001"

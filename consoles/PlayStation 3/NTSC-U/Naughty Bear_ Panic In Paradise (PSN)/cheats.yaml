@@ -1,0 +1,20 @@
+# Naughty Bear_ Panic In Paradise (PSN) cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUB30828
+
+game: "Naughty Bear_ Panic In Paradise (PSN)"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUB30828"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 (required)"
+    notes: "File: TOSG.DAT  (set range:0x00000C,0x0020CA)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x00000C,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000004:[hash]"

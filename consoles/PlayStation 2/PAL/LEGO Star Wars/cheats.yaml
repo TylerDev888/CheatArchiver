@@ -1,0 +1,99 @@
+# LEGO Star Wars cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53194
+
+game: "LEGO Star Wars"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53194"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02E8D88 002E8D8B"
+
+  - name: "Display FPS"
+    author: "Codejunkies"
+    codes:
+      - "20345DC8 00000001"
+
+  - name: "Have Red Lightsaber"
+    author: "Codejunkies"
+    codes:
+      - "2022EAF0 24040008"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "1035FC1A 00000001"
+
+  - name: "Max Cash"
+    author: "Codejunkies"
+    codes:
+      - "2054791C 05F5E0FF"
+
+  - name: "Max Cash/Jedi Status After Hit"
+    author: "Codejunkies"
+    codes:
+      - "2025D690 3C0205F9"
+
+  - name: "Moon Jump"
+    author: "Codejunkies"
+    codes:
+      - "E10100BF 01F90503"
+      - "2026FE58 03E00008"
+      - "E10100BF 11F90503"
+      - "2026FE58 27BDFFB0"
+
+  - name: "No Gravity (Press L1+L2 To Activate; R1+R2 To Stop)"
+    author: "Codejunkies"
+    codes:
+      - "E10100FA 01F90503"
+      - "2026FEC8 24020001"
+      - "E10100F5 01F90503"
+      - "2026FEC8 30420001"
+
+  - name: "Replace Option Menu Into Level Select/Test Menu"
+    author: "Codejunkies"
+    codes:
+      - "E0020013 00528A1C"
+      - "D0528A1E 0000FF11"
+      - "20528A1C FF110016"
+
+  - name: "Run Even Faster"
+    author: "Codejunkies"
+    notes: "[Run Codes]"
+    codes:
+      - "2022C2E4 3C014080"
+      - "2022C2E8 44810000"
+
+  - name: "Run Faster"
+    author: "Codejunkies"
+    notes: "[Run Codes]"
+    codes:
+      - "2022C2E4 3C014000"
+      - "2022C2E8 44810000"
+
+  - name: "Take Studs Anywhere"
+    author: "luc-ita"
+    codes:
+      - "202CFF78 080B400C"
+
+  - name: "Walking Even Faster"
+    author: "Codejunkies"
+    notes: "[Walk Codes]"
+    codes:
+      - "E1010080 3022C2AC"
+      - "E1000000 3022C2B4"
+
+  - name: "Walking Faster"
+    author: "Codejunkies"
+    notes: "[Walk Codes]"
+    codes:
+      - "E1010000 3022C2AC"
+      - "E1000000 3022C2B4"

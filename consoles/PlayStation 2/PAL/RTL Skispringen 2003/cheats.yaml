@@ -1,0 +1,113 @@
+# RTL Skispringen 2003 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51391
+
+game: "RTL Skispringen 2003"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51391"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0185E74 001863B7"
+
+  - name: "Infinite Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "206E1BF0 05F5E0FF"
+
+  - name: "Infinite Creation Points"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "206F0FB4 42480000"
+
+  - name: "Infinite Experience Points (Press R2 To Activate And L2 To De-Activate)"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "206F0FBC 00000064"
+
+  - name: "Infinite Training Points"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "D01CD102 0000FDFF"
+      - "000FFF00 00000001"
+      - "D00FFF00 00000001"
+      - "206F0F60 00000064"
+      - "D01CD102 0000FEFF"
+      - "000FFF00 00000000"
+      - "D00FFF00 00000000"
+      - "206F0F60 00000000"
+
+  - name: "Max Experience - Career"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "207A3EEC 05F5E0FF"
+
+  - name: "Never More Than 99 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E0020063 306E1BF0"
+      - "E0010000 306E1BF2"
+      - "206E1BF0 00000063"
+
+  - name: "Never More Than 999 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E00203E7 306E1BF0"
+      - "E0010000 306E1BF2"
+      - "206E1BF0 000003E7"
+
+  - name: "Never More Than 9999 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E002270F 306E1BF0"
+      - "E0010000 306E1BF2"
+      - "206E1BF0 0000270F"
+
+  - name: "Never More Than 99999 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E002869F 306E1BF0"
+      - "E0010001 306E1BF2"
+      - "206E1BF0 0001869F"
+
+  - name: "Never More Than 999999 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E002423F 306E1BF0"
+      - "E001000F 306E1BF2"
+      - "206E1BF0 000F423F"
+
+  - name: "Never More Than 9999999 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E002967F 306E1BF0"
+      - "E0010098 306E1BF2"
+      - "206E1BF0 0098967F"
+
+  - name: "Infinite Power Points"
+    author: "Codejunkies"
+    codes:
+      - "20525B38 00000064"
+
+  - name: "Infinite Skill Points"
+    author: "Codejunkies"
+    codes:
+      - "20525B30 42480000"

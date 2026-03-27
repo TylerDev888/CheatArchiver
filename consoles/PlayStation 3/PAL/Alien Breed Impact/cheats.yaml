@@ -1,0 +1,108 @@
+# Alien Breed Impact cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00260
+
+game: "Alien Breed Impact"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00260"
+cheat_type: "Save Editor"
+source: "From zeick & chaoszage"
+
+cheats:
+  - name: "Max Credits"
+    notes: "File: GAME.DAT"
+    codes:
+      - "20000091 0098967F"
+
+  - name: "Max Blaster Ammo"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABWeap_Blaster_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (10):270F0000270F"
+
+  - name: "Max Assault Rifle Ammo"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABWeap_AssaultRifle_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (10):270F0000270F"
+
+  - name: "Max Shotcannon Ammo"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABWeap_ShotCannon_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (10):270F0000270F"
+
+  - name: "Max Flamethrower Ammo"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABWeap_FlameThrower_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (10):270F0000270F"
+
+  - name: "Max Laserrifle Ammo"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABWeap_LaserRifle_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (10):270F0000270F"
+
+  - name: "Max Ionspike Ammo"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABWeap_IonSpike_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (10):270F0000270F"
+
+  - name: "99 Largehealthkits"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABItem_LargeHealthKit\""
+      - "search next 0xFFFFFFFF"
+      - "write next (11):63"
+
+  - name: "99 Smallhealthkits"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABItem_SmallHealthKit_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (11):63"
+
+  - name: "99 Fraggrenades"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABItem_FragGrenade_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (11):63"
+
+  - name: "99 Stungrenades"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABItem_Flare_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (11):63"
+
+  - name: "99 Sentryguns"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABItem_SentryGun1_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (11):63"
+
+  - name: "99 Hardenedarmour"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABItem_Armour_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (11):63"
+
+  - name: "Default:update Crc32 (required)"
+    notes: "File: GAME.DAT"
+    codes:
+      - "set range:0x8,0x17FFFF"
+      - "set [crc]:crc32big"
+      - "write at 0x0:[crc]"

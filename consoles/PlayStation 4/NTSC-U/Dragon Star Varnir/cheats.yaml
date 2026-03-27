@@ -1,0 +1,176 @@
+# Dragon Star Varnir cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA14503
+
+game: "Dragon Star Varnir"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA14503"
+cheat_type: "AP"
+source: "source: XxUnkn0wnxX"
+
+cheats:
+  - name: "Money (gold) X999999999999"
+    notes: "File: *"
+    codes:
+      - "A0009670 00000008"
+      - "FF0FA5D4 E8000000"
+
+  - name: "Main Character's Madness 0%"
+    notes: "File: *"
+    codes:
+      - "100005B8 00000000"
+
+  - name: "Main Character's Madness 15%"
+    notes: "File: *"
+    codes:
+      - "100005B8 000005DC"
+
+  - name: "Main Character's Madness 30%"
+    notes: "File: *"
+    codes:
+      - "100005B8 00000BB8"
+
+  - name: "Main Character's Madness 45%"
+    notes: "File: *"
+    codes:
+      - "100005B8 00001194"
+
+  - name: "Main Character's Madness 60%"
+    notes: "File: *"
+    codes:
+      - "100005B8 00001770"
+
+  - name: "Main Character's Madness 75%"
+    notes: "File: *"
+    codes:
+      - "100005B8 00001D4C"
+
+  - name: "Main Character's Madness 100%"
+    notes: "File: *  (Uncomment & fill out template if you need a custom value) ([Main Character's Madness Levels Template]) (100005B8 0000ZZZZ)"
+    codes:
+      - "100005B8 00002710"
+
+  - name: "Max All Items & Best Quality Gear +10 X255"
+    notes: "[+10 Quality:(4FFB0030 00000000)]  File: *"
+    codes:
+      - "95000000 00009694"
+      - "48000000 000000FF"
+      - "4FFB0030 00000000"
+      - "48000014 000000FF"
+      - "4FFB0030 00000000"
+
+  - name: "All Characters Xp, Factor Points(ENABLED CHEATS START HERE)"
+    notes: "[Faria:(2000962C 000003E7)]  File: *"
+    codes:
+      - "95000000 00001080"
+
+  - name: "All Characters Bond X999"
+    notes: "[Factor Points]  File: *"
+    codes:
+      - "42009620 000003E7"
+      - "40050004 00000000"
+
+  - name: "Monet Max Growth, Fullness, Insane"
+    notes: "[Mm]  File: *"
+    codes:
+      - "10009636 0000270F"
+      - "10009638 000003E8"
+      - "1000963A 00000384"
+
+  - name: "Chiquita Max Growth, Fullness, Insane"
+    notes: "[Mm]  File: *"
+    codes:
+      - "10009642 0000270F"
+      - "10009644 000003E8"
+      - "10009646 00000384"
+
+  - name: "Pio Max Growth, Fullness, Insane"
+    notes: "[Mm]  File: *"
+    codes:
+      - "1000964E 0000270F"
+      - "10009650 000003E8"
+      - "10009652 00000384"
+
+  - name: "All Little Sisters No Growth, No Fullness & Happy"
+    notes: "[Mm]  File: *"
+    codes:
+      - "41009636 00000000"
+      - "4003000C 00000000"
+      - "41009638 00000000"
+      - "4003000C 00000000"
+      - "4100963A 00000000"
+      - "4003000C 00000000"
+
+  - name: "All Little Sisters Max Growth, Fullness, Insane"
+    notes: "[Mm]  File: *"
+    codes:
+      - "41009636 0000270F"
+      - "4003000C 00000000"
+      - "41009638 000003E8"
+      - "4003000C 00000000"
+      - "4100963A 00000384"
+      - "4003000C 00000000"
+
+  - name: "All Little Sisters Runaway On Load"
+    notes: "[Mm]  File: *"
+    codes:
+      - "41009636 00002710"
+      - "4003000C 00000000"
+      - "41009638 000003E8"
+      - "4003000C 00000000"
+      - "4100963A 000003E8"
+      - "4003000C 00000000"
+
+  - name: "Add Back Monet"
+    notes: "[Little Sisters Remove/add Back]  File: *"
+    codes:
+      - "00009634 00000000"
+      - "0000963C 00000000"
+
+  - name: "Add Back Chiquita"
+    notes: "[Little Sisters Remove/add Back]  File: *"
+    codes:
+      - "00009640 00000000"
+      - "00009648 00000000"
+
+  - name: "Add Back Pio"
+    notes: "[Little Sisters Remove/add Back]  File: *"
+    codes:
+      - "0000964C 00000000"
+      - "00009654 00000000"
+
+  - name: "Add Back All Sisters"
+    notes: "[Little Sisters Remove/add Back]  File: *"
+    codes:
+      - "40009634 00000000"
+      - "4003000C 00000000"
+      - "4000963C 00000000"
+      - "4003000C 00000000"
+
+  - name: "Remove Monet"
+    notes: "[Little Sisters Remove/add Back]  File: *"
+    codes:
+      - "00009634 00000001"
+      - "0000963C 00000007"
+
+  - name: "Remove Chiquita"
+    notes: "[Little Sisters Remove/add Back]  File: *"
+    codes:
+      - "00009640 00000001"
+      - "00009648 00000007"
+
+  - name: "Remove Pio"
+    notes: "[Little Sisters Remove/add Back]  File: *"
+    codes:
+      - "0000964C 00000001"
+      - "00009654 00000007"
+
+  - name: "Remove All Sisters"
+    notes: "[Little Sisters Remove/add Back]  File: *"
+    codes:
+      - "40009634 00000001"
+      - "4003000C 00000000"
+      - "4000963C 00000007"
+      - "4003000C 00000000"

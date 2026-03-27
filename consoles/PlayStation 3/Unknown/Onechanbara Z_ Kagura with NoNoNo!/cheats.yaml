@@ -1,0 +1,29 @@
+# Onechanbara Z_ Kagura with NoNoNo! cheat data
+# Console: PlayStation 3
+# Region:  Unknown
+# Serial:  BLJS10221
+
+game: "Onechanbara Z_ Kagura with NoNoNo!"
+console: "PlayStation 3"
+region: "Unknown"
+serial: "BLJS10221"
+cheat_type: "Save Editor"
+source: "From savedata.jp"
+
+cheats:
+  - name: "Story - Yerrow Orb 999999999"
+    notes: "File: GAMESAVE.DAT"
+    codes:
+      - "2000E538 3B9AC9FF"
+      - "2000FE18 3B9AC9FF"
+
+  - name: "Story - Item All 99"
+    notes: "File: GAMESAVE.DAT"
+    codes:
+      - "4000E30B 00000063"
+      - "40080004 00000000"
+
+  - name: "Kagura Weapon Lv.4"
+    notes: "File: GAMESAVE.DAT"
+    codes:
+      - "2000E25C FFFFFFFF"

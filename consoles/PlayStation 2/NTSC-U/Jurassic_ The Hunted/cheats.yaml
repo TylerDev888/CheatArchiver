@@ -1,0 +1,37 @@
+# Jurassic_ The Hunted cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21907
+
+game: "Jurassic_ The Hunted"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21907"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9049C118 0C126FEE"
+
+  - name: "Inf Ammo"
+    author: "SkillerCMP"
+    codes:
+      - "10291D6C 00000000"
+
+  - name: "Inf Clips"
+    author: "SkillerCMP"
+    codes:
+      - "20280418 00000000"
+
+  - name: "Max Clip (after 1 Use)"
+    author: "SkillerCMP"
+    codes:
+      - "20280414 240203E7"
+
+  - name: "999 Rounds (use With Max Clip)"
+    author: "SkillerCMP"
+    codes:
+      - "202910F8 240603E7"

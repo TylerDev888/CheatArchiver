@@ -1,0 +1,40 @@
+# Little Britain - The Video Game cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54494
+
+game: "Little Britain - The Video Game"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54494"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90235E18 0C08D72E"
+
+  - name: "Enable Code(Must Be On)"
+    author: "Azagthoth"
+    notes: "[Master Codes]"
+    codes:
+      - "9021C288 0C089D85"
+
+  - name: "Infinite Time"
+    author: "Azagthoth"
+    codes:
+      - "2019D8E0 00000000"
+
+  - name: "Max Bar"
+    author: "Azagthoth"
+    codes:
+      - "2019EDB0 AE830260"
+
+  - name: "Pickup is Worth 99,999,999 Points"
+    author: "Azagthoth"
+    codes:
+      - "2019EBD8 3C023B9A"
+      - "2019EBE0 2442C9FF"

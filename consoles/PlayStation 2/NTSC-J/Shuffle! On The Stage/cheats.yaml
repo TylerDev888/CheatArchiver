@@ -1,0 +1,29 @@
+# Shuffle! On The Stage cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66134
+
+game: "Shuffle! On The Stage"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66134"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90112950 0C0449FC"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "403622C0 000A0001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Unlock All Sound"
+    author: "punk7890"
+    codes:
+      - "20363420 FFFFFFFF"

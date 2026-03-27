@@ -1,0 +1,99 @@
+# SWAT - Global Strike Team cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51997
+
+game: "SWAT - Global Strike Team"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51997"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02F3604 002F3607"
+
+  - name: "All Levels Unlocked"
+    author: "Codejunkies"
+    codes:
+      - "201DACA8 A04103CC"
+      - "201DAC1C A041010C"
+      - "201C13C0 0803FFD0"
+      - "200FFF44 03E00008"
+      - "200FFF40 24010001"
+
+  - name: "All Medals Unlocked"
+    author: "Codejunkies"
+    codes:
+      - "201DA2D8 24010001"
+      - "201DA2DC A0A2010D"
+
+  - name: "Cheat Black And White Effect (Press Start & Right-Pad 2)"
+    author: "Nachbrenner"
+    codes:
+      - "D1AC60C2 0000FFD7"
+      - "00444D6A 00000001"
+
+  - name: "Cheat Glow Effect (Press Start & Left-Pad 2)"
+    author: "Nachbrenner"
+    codes:
+      - "D1AC60C2 0000FF77"
+      - "00444D69 00000001"
+
+  - name: "Cheat Negative Effect (Press Start & Down-Pad 2)"
+    author: "Nachbrenner"
+    codes:
+      - "D1AC60C2 0000FFE7"
+      - "00444D68 00000001"
+
+  - name: "Debug Menu"
+    author: "Codejunkies"
+    codes:
+      - "203BAF08 8C454F0C"
+
+  - name: "Debug Show FPS"
+    author: "Nachbrenner"
+    codes:
+      - "204458D0 00000001"
+
+  - name: "Disable HUD"
+    author: "Nachbrenner"
+    codes:
+      - "10444EE4 00000001"
+
+  - name: "God Mode & Infinite Ammo"
+    author: "Nachbrenner"
+    codes:
+      - "10444EE8 0000FFFF"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "20178BA8 00000000"
+
+  - name: "Infinite Continues"
+    author: "Codejunkies"
+    codes:
+      - "01B2D2D9 00000063"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "2028E808 10000007"
+
+  - name: "Pal2ntsc"
+    author: "Nachbrenner"
+    codes:
+      - "202F4EC4 3C060002"
+
+  - name: "Y-Fix"
+    author: "Codejunkies"
+    codes:
+      - "0032B858 00000000"
+      - "0032B820 00000000"
+      - "0032B7C0 00000010"
+      - "0032B7FC 00000010"

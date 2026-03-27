@@ -1,0 +1,31 @@
+# Centre Court Hard Hitter cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Centre Court Hard Hitter"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 002553A7"
+
+  - name: "Player 1"
+    author: "Xploder"
+    notes: "[One Point Win]"
+    codes:
+      - "D02ABA02 2809FBFE"
+      - "0031FB78 28096806"
+
+  - name: "Player 2"
+    author: "Xploder"
+    notes: "[One Point Win]"
+    codes:
+      - "D02ABA02 2809FEFE"
+      - "0031FB7C 28096806"

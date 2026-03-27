@@ -1,0 +1,104 @@
+# ESPN International Track & Field cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20041
+
+game: "ESPN International Track & Field"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20041"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0239EE4 000001FD"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0200008 002579CB"
+
+  - name: "Animals Sound Effects"
+    author: "Code Master"
+    codes:
+      - "007E14D3 00000001"
+
+  - name: "Cartoon Sound Effects"
+    author: "Code Master"
+    codes:
+      - "007E14D3 00000003"
+
+  - name: "Bronze"
+    author: "Code Master"
+    notes: "[Max 100M Dash Medal Codes]"
+    codes:
+      - "107E15C6 00000063"
+
+  - name: "Gold"
+    author: "Code Master"
+    notes: "[Max 100M Dash Medal Codes]"
+    codes:
+      - "107E15CA 00000063"
+
+  - name: "Silver"
+    author: "Code Master"
+    notes: "[Max 100M Dash Medal Codes]"
+    codes:
+      - "107E15C8 00000063"
+
+  - name: "Max Score"
+    author: "Code Master"
+    notes: "[Rhythmic Gymnastics Codes]"
+    codes:
+      - "20AFD18C 41200000"
+
+  - name: "Robot Sound Effects"
+    author: "Code Master"
+    codes:
+      - "007E14D3 00000002"
+
+  - name: "Silly Animal Noises"
+    author: "InterAct"
+    codes:
+      - "107E14D2 00000101"
+
+  - name: "Silly Cartoon Noises"
+    author: "InterAct"
+    codes:
+      - "107E14D2 00000301"
+
+  - name: "Silly Robot Noises"
+    author: "InterAct"
+    codes:
+      - "107E14D2 00000201"
+
+  - name: "Infinite Bullets"
+    author: "Code Master"
+    notes: "[Trap Shooting Codes]"
+    codes:
+      - "D15A8CE0 00001880"
+      - "215A8CD0 00000000"
+
+  - name: "Max Score In 1-Shot"
+    author: "Code Master"
+    notes: "[Trap Shooting Codes]"
+    codes:
+      - "D15A8D50 0000A35C"
+      - "215A8D3C 240203E7"
+
+  - name: "Score Modifier (Per Shot)"
+    author: "Code Master"
+    notes: "[Trap Shooting Codes]"
+    codes:
+      - "D15A8D50 0000A35C"
+      - "215A8D3C 24420???"
+
+  - name: "Unlock All Gifts"
+    author: "Code Master"
+    codes:
+      - "107E14D4 0000FFFF"

@@ -1,0 +1,107 @@
+# Digimon_ Next Order (JP) cheat data
+# Console: PlayStation Vita
+# Region:  NTSC-J
+# Serial:  PCSG00792
+
+game: "Digimon_ Next Order (JP)"
+console: "PlayStation Vita"
+region: "NTSC-J"
+serial: "PCSG00792"
+cheat_type: "Save Editor"
+source: "Credits: hippotamamus, ness151"
+
+cheats:
+  - name: "Max Bit"
+    notes: "File: data0000.bin"
+    codes:
+      - "20019590 0098967F"
+
+  - name: "Max Tp"
+    notes: "File: data0000.bin"
+    codes:
+      - "20019590 0098967F"
+
+  - name: "1st Partner Max Hp"
+    notes: "File: data0000.bin"
+    codes:
+      - "20002210 00000F27"
+
+  - name: "1st Partner Max Mp"
+    notes: "File: data0000.bin"
+    codes:
+      - "20002218 00000F27"
+
+  - name: "1st Partner Max Str"
+    notes: "File: data0000.bin"
+    codes:
+      - "2000221C 0000E703"
+
+  - name: "1st Partner Max Sta"
+    notes: "File: data0000.bin"
+    codes:
+      - "20002220 0000E703"
+
+  - name: "1st Partner Max Wis"
+    notes: "File: data0000.bin"
+    codes:
+      - "20002224 0000E703"
+
+  - name: "1st Partner Max Spd"
+    notes: "File: data0000.bin"
+    codes:
+      - "20002228 0000E703"
+
+  - name: "1st Partner Weight Modifier"
+    notes: "File: data0000.bin"
+    codes:
+      - "20002208 00000000"
+
+  - name: "1st Partner Happiness Modifier"
+    notes: "File: data0000.bin"
+    codes:
+      - "200023F0 00000F27"
+
+  - name: "1st Partner Bond Trainer"
+    notes: "File: data0000.bin"
+    codes:
+      - "200023D4 00000F27"
+
+  - name: "2nd Partner Max Hp"
+    notes: "File: data0000.bin"
+    codes:
+      - "20001AE4 0000E703"
+
+  - name: "2nd Partner Max Mp"
+    notes: "File: data0000.bin"
+    codes:
+      - "20001AEC 0000E703"
+
+  - name: "2nd Partner Max Str"
+    notes: "File: data0000.bin"
+    codes:
+      - "20001AF0 0000E703"
+
+  - name: "2nd Partner Max Sta"
+    notes: "File: data0000.bin"
+    codes:
+      - "20001AF4 0000E703"
+
+  - name: "2nd Partner Max Wis"
+    notes: "File: data0000.bin"
+    codes:
+      - "20001AF8 0000E703"
+
+  - name: "2nd Partner Max Spd"
+    notes: "File: data0000.bin"
+    codes:
+      - "20001AFC 0000E703"
+
+  - name: "2nd Partner Weight Modifier"
+    notes: "File: data0000.bin"
+    codes:
+      - "20001ADC 00000000"
+
+  - name: "2nd Partner Happiness Modifier"
+    notes: "File: data0000.bin"
+    codes:
+      - "20001CC4 00000F27"

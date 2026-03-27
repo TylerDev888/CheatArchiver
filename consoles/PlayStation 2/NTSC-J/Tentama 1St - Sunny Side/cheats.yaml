@@ -1,0 +1,23 @@
+# Tentama 1St - Sunny Side cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25298
+
+game: "Tentama 1St - Sunny Side"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25298"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010E870 0C0439C4"
+
+  - name: "Replace New Game With Debug Menu"
+    author: "punk7890"
+    codes:
+      - "2027D758 00000003"

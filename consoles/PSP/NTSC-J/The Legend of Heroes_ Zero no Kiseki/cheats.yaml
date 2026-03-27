@@ -1,0 +1,27 @@
+# The Legend of Heroes_ Zero no Kiseki cheat data
+# Console: PSP
+# Region:  NTSC-J
+# Serial:  ULJM05733
+
+game: "The Legend of Heroes_ Zero no Kiseki"
+console: "PSP"
+region: "NTSC-J"
+serial: "ULJM05733"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Possession 99999999 Mira"
+    notes: "File: *"
+    codes:
+      - "20001BB4 05F5E0FF"
+
+  - name: "Protagonist Experience Max (lv50)"
+    notes: "File: *"
+    codes:
+      - "100000A4 00008D5D"
+
+  - name: "Ellie Experience Max (lv50)"
+    notes: "File: *"
+    codes:
+      - "100000D8 00008D5D"

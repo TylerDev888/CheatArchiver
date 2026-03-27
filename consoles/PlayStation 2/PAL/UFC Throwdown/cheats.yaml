@@ -1,0 +1,131 @@
+# UFC Throwdown cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50999
+
+game: "UFC Throwdown"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50999"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01004E0 000001FD"
+
+  - name: "Crazy Ring Mode"
+    author: "Codejunkies"
+    notes: "[Career Mode Codes]"
+    codes:
+      - "1049D808 000000FF"
+      - "1049D80A 000000FF"
+
+  - name: "Endurance Skill Maxed"
+    author: "Codejunkies"
+    notes: "[Career Mode Codes]"
+    codes:
+      - "1049D7F6 00000024"
+
+  - name: "Grappling Skill Maxed"
+    author: "Codejunkies"
+    notes: "[Career Mode Codes]"
+    codes:
+      - "1049D804 00000026"
+
+  - name: "Kick Skill Maxed"
+    author: "Codejunkies"
+    notes: "[Career Mode Codes]"
+    codes:
+      - "1049D800 00000024"
+
+  - name: "Massive Skill Points"
+    author: "Codejunkies"
+    notes: "[Career Mode Codes]"
+    codes:
+      - "1049D80C 000003E7"
+
+  - name: "Punch Skill Maxed"
+    author: "Codejunkies"
+    notes: "[Career Mode Codes]"
+    codes:
+      - "1049D7FC 00000024"
+
+  - name: "Speed Skill Maxed"
+    author: "Codejunkies"
+    notes: "[Career Mode Codes]"
+    codes:
+      - "1049D808 00000026"
+
+  - name: "Stamina Skill Maxed"
+    author: "Codejunkies"
+    notes: "[Career Mode Codes]"
+    codes:
+      - "1049D7FA 00000024"
+
+  - name: "Unlock All Characters"
+    author: "Codejunkies"
+    codes:
+      - "204A00E0 00000FFF"
+
+  - name: "Unlock All Fighting Styles"
+    author: "Codejunkies"
+    codes:
+      - "2049F25C 0000000F"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00206017"
+
+  - name: "Fighting Styles"
+    author: "Xploder"
+    notes: "[Unlock All]"
+    codes:
+      - "0049F25C 28096807"
+
+  - name: "Characters"
+    author: "Xploder"
+    notes: "[Unlock All]"
+    codes:
+      - "104A00E0 28090FFF"
+
+  - name: "Endurance"
+    author: "Xploder"
+    notes: "[Maximum Skill Levels]"
+    codes:
+      - "0049D7F6 28096863"
+
+  - name: "Stamina"
+    author: "Xploder"
+    notes: "[Maximum Skill Levels]"
+    codes:
+      - "0049D7FA 28096863"
+
+  - name: "Punch"
+    author: "Xploder"
+    notes: "[Maximum Skill Levels]"
+    codes:
+      - "0049D7FC 28096863"
+
+  - name: "Kick"
+    author: "Xploder"
+    notes: "[Maximum Skill Levels]"
+    codes:
+      - "0049D800 28096863"
+
+  - name: "Grappling"
+    author: "Xploder"
+    notes: "[Maximum Skill Levels]"
+    codes:
+      - "0049D804 28096863"
+
+  - name: "Speed"
+    author: "Xploder"
+    notes: "[Maximum Skill Levels]"
+    codes:
+      - "0049D808 28096863"

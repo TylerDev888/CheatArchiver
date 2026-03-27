@@ -1,0 +1,92 @@
+# Sekiro_ Shadows Die Twice cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA12047
+
+game: "Sekiro_ Shadows Die Twice"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA12047"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "MOD"
+    notes: "[HP]  File: S0000\\userdata000[0-9]"
+    codes:
+      - "4203446C [HEALTH]"
+      - "40030004 00000000"
+
+  - name: "Infinity Stamina (Guard)"
+    notes: "[Stamina]  File: S0000\\userdata000[0-9]"
+    codes:
+      - "42034488 3B9AC9FF"
+      - "40030004 00000000"
+
+  - name: "Infinity Stamina (ALT - Guard)"
+    notes: "[Stamina]  File: S0000\\userdata000[0-9]"
+    codes:
+      - "80010008 DAB50100"
+      - "DFB50100 00000000"
+      - "28000420 3B9AC9FF"
+      - "28000424 3B9AC9FF"
+      - "28000428 3B9AC9FF"
+
+  - name: "Max Skill Point EXP"
+    notes: "[Skill Points]  File: S0000\\userdata000[0-9]"
+    codes:
+      - "200345B4 3B9AC9FF"
+
+  - name: "Reset Skill Point EXP"
+    notes: "[Skill Points]  File: S0000\\userdata000[0-9]"
+    codes:
+      - "A00345A8 00000010"
+      - "00000000 00000000"
+      - "00000000 00000000"
+
+  - name: "Infinite Spirit Emblems"
+    notes: "[Spirit Emblems]  File: S0000\\userdata000[0-9]"
+    codes:
+      - "1003459A 0000FFFF"
+      - "1008E854 0000FFFF"
+      - "100977A8 0000FFFF"
+
+  - name: "Max Spirit Emblems (Value Changed)"
+    notes: "[Spirit Emblems]  File: S0000\\userdata000[0-9]"
+    codes:
+      - "2003459A 0000FFFF"
+      - "80010008 E80300B0"
+      - "E8030040 00000000"
+      - "28000008 0000FFFF"
+      - "80020008 E80300B0"
+      - "E8030040 00000000"
+      - "28000008 0000FFFF"
+
+  - name: "Playtime 999:59:59"
+    notes: "File: S0000\\userdata000[0-9]"
+    codes:
+      - "20033F80 0036EE7F"
+
+  - name: "Low Playtime"
+    notes: "File: S0000\\userdata000[0-9]"
+    codes:
+      - "20033F80 00000001"
+
+  - name: "Max Money"
+    notes: "File: S0000\\userdata000[0-9]"
+    codes:
+      - "200344D0 3B9AC9FF"
+
+  - name: "Max Guard"
+    notes: "File: S0000\\userdata000[0-9]"
+    codes:
+      - "40034488 7FFFFFFF"
+      - "40030004 00000000"
+
+  - name: "Max Items"
+    notes: "File: S0000\\userdata000[0-9]"
+    codes:
+      - "4208E704 0000270F"
+      - "49000010 00000000"
+      - "42097798 0000270F"
+      - "49000010 00000000"

@@ -1,0 +1,54 @@
+# Frequency cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-50791
+
+game: "Frequency"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-50791"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F051CDC8 000001FD"
+
+  - name: "Infinite Energy"
+    author: "Codejunkies"
+    codes:
+      - "200FFF00 3C030094"
+      - "200FFF04 8C637D10"
+      - "200FFF0C 10030008"
+      - "200FFF34 24030070"
+      - "200FFF38 08169A6A"
+      - "205A69A4 0803FFC0"
+      - "200FFF20 24020016"
+      - "200FFF24 A0620030"
+
+  - name: "Max Score"
+    author: "Codejunkies"
+    codes:
+      - "200FFF00 3C030094"
+      - "200FFF04 8C637D10"
+      - "200FFF0C 10030008"
+      - "200FFF34 24030070"
+      - "200FFF38 08169A6A"
+      - "205A69A4 0803FFC0"
+      - "200FFF14 24022700"
+      - "200FFF18 A4620038"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0495C10 005A69FF"
+
+  - name: "Unlimited Energy"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20130188 24030016"

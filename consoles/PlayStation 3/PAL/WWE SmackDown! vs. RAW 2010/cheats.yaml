@@ -1,0 +1,20 @@
+# WWE SmackDown! vs. RAW 2010 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00651
+
+game: "WWE SmackDown! vs. RAW 2010"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00651"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Add For Save.dat (required)"
+    notes: "File: SAVE.DAT  (set [csum]:add(0x20,0x17572F))"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof-8"
+      - "set [csum]:add(0x20,pointer)"
+      - "write at 0x000018:[csum]"

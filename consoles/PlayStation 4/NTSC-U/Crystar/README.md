@@ -1,0 +1,687 @@
+# Crystar
+
+**Console:** PlayStation 4  
+**Region:** NTSC-U  
+**Serial:** CUSA15175  
+**Cheat Type:** SaveWizard  
+
+---
+
+## Cheats
+
+### Set Essence (money)
+**Author:**   
+**Notes:** File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+94000000 00000028
+28000000 [Amount:05F5E0FF:HEX:BIG]
+```
+
+---
+
+### Set All Max Xp/Lvl
+**Author:**   
+**Notes:** File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+42000010 001386AE
+400401E8 00000000
+```
+
+---
+
+### Set HP
+**Author:**   
+**Notes:** [Kokoro]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+200001FC [Amount:000F423F:HEX:BIG]
+```
+
+---
+
+### Set Sp
+**Author:**   
+**Notes:** [Kokoro]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+20000200 [Amount:000F423F:HEX:BIG]
+```
+
+---
+
+### Set Physical Attack
+**Author:**   
+**Notes:** [Kokoro]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+20000204 [Amount:000F423F:HEX:BIG]
+```
+
+---
+
+### Set Physical Defence
+**Author:**   
+**Notes:** [Kokoro]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+20000208 [Amount:000F423F:HEX:BIG]
+```
+
+---
+
+### Set Magical Attack
+**Author:**   
+**Notes:** [Kokoro]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+2000020C [Amount:000F423F:HEX:BIG]
+```
+
+---
+
+### Set Magical Defence
+**Author:**   
+**Notes:** [Kokoro]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+20000210 [Amount:000F423F:HEX:BIG]
+```
+
+---
+
+### Set Luck -
+**Author:**   
+**Notes:** [Kokoro]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+20000214 [Amount:000F423F:HEX:BIG]
+```
+
+---
+
+### Set Ment -
+**Author:**   
+**Notes:** [Kokoro]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+20000218 [Amount:000F423F:HEX:BIG]
+```
+
+---
+
+### Set Luck
+**Author:**   
+**Notes:** [Nanana]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+200005E4 [Amount:000F423F:HEX:BIG]
+```
+
+---
+
+### Set Ment
+**Author:**   
+**Notes:** [Nanana]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+200005E8 [Amount:000F423F:HEX:BIG]
+```
+
+---
+
+### Replace Joy With
+**Author:**   
+**Notes:** [Thoughts (Materials) Swap]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+80010004 06010000
+08000000 000000[Thought]
+```
+
+---
+
+### Replace Anger With
+**Author:**   
+**Notes:** [Thoughts (Materials) Swap]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+80010004 07010000
+08000000 000000[Thought]
+```
+
+---
+
+### Replace Sorrow With
+**Author:**   
+**Notes:** [Thoughts (Materials) Swap]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+80010004 08010000
+08000000 000000[Thought]
+```
+
+---
+
+### Replace Humor With
+**Author:**   
+**Notes:** [Thoughts (Materials) Swap]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+80010004 09010000
+08000000 000000[Thought]
+```
+
+---
+
+### Set All Material To 999999999 (read Note)
+**Author:**   
+**Notes:** File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+80010004 06010000
+28000004 3B9AC9FF
+80010004 07010000
+28000004 3B9AC9FF
+80010004 08010000
+28000004 3B9AC9FF
+80010004 09010000
+28000004 3B9AC9FF
+80010004 0A010000
+28000004 3B9AC9FF
+80010004 0B010000
+28000004 3B9AC9FF
+80010004 0C010000
+28000004 3B9AC9FF
+80010004 0D010000
+28000004 3B9AC9FF
+80010004 0E010000
+28000004 3B9AC9FF
+80010004 0F010000
+28000004 3B9AC9FF
+80010004 10010000
+28000004 3B9AC9FF
+80010004 11010000
+28000004 3B9AC9FF
+80010004 12010000
+28000004 3B9AC9FF
+80010004 13010000
+28000004 3B9AC9FF
+80010004 14010000
+28000004 3B9AC9FF
+```
+
+---
+
+### Consumables (food) Swap And Amount
+**Author:**   
+**Notes:** File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+80010008 [Food]000000
+[Amount:14:HEX:LITTLE]000000 00000000
+08000000 000000[Food]
+28000004 [Amount:3B9AC9FF:HEX:BIG]
+```
+
+---
+
+### Set All Consumables To 999999999 (read Note)
+**Author:**   
+**Notes:** File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+80010008 01000000
+14000000 00000000
+28000004 3B9AC9FF
+80010008 02000000
+0A000000 00000000
+28000004 3B9AC9FF
+80010008 03000000
+05000000 00000000
+28000004 3B9AC9FF
+80010008 04000000
+02000000 00000000
+28000004 3B9AC9FF
+80010008 05000000
+0A000000 00000000
+28000004 3B9AC9FF
+80010008 06000000
+0A000000 00000000
+28000004 3B9AC9FF
+80010008 07000000
+0A000000 00000000
+28000004 3B9AC9FF
+80010008 08000000
+0A000000 00000000
+28000004 3B9AC9FF
+80010008 09000000
+0A000000 00000000
+28000004 3B9AC9FF
+80010008 0A000000
+0A000000 00000000
+28000004 3B9AC9FF
+80010008 0B000000
+05000000 00000000
+28000004 3B9AC9FF
+80010008 0C000000
+01000000 00000000
+28000004 3B9AC9FF
+80010008 0D000000
+04000000 00000000
+28000004 3B9AC9FF
+80010008 0E000000
+04000000 00000000
+28000004 3B9AC9FF
+80010008 0F000000
+04000000 00000000
+28000004 3B9AC9FF
+```
+
+---
+
+### Words (gear)
+**Author:**   
+**Notes:** File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+95000000 0000B310
+48000000 000000[Word]
+40020030 00000000
+48000004 000000[Amount:1E:HEX:BIG]
+40020030 00000000
+48000060 000000[Word]
+40020030 00000000
+48000064 000000[Amount:1E:HEX:BIG]
+40020030 00000000
+480000C0 000000[Word]
+40020030 00000000
+480000C4 000000[Amount:1E:HEX:BIG]
+40020030 00000000
+48000120 000000[Word]
+40020030 00000000
+48000124 000000[Amount:1E:HEX:BIG]
+40020030 00000000
+48000180 000000[Word]
+40020030 00000000
+48000184 000000[Amount:1E:HEX:BIG]
+40020030 00000000
+A000CD44 00000025
+31000000 31000000
+31000000 31000000
+31000000 31000000
+62000000 62000000
+62000000 62000000
+```
+
+---
+
+### Replace Bitter Chocolate With Sweet Chocolate
+**Author:**   
+**Notes:** [Ready Made Codes]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+80010008 01000000
+14000000 00000000
+08000000 00000002
+28000004 0000000A
+```
+
+---
+
+### Replace Stablé With Milk Chocolate
+**Author:**   
+**Notes:** [Ready Made Codes]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+80010008 05000000
+0A000000 00000000
+08000000 00000003
+28000004 00000005
+```
+
+---
+
+### Replace Cat Tonguee With White Chocolate
+**Author:**   
+**Notes:** [Ready Made Codes]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+80010008 06000000
+0A000000 00000000
+08000000 00000004
+28000004 00000002
+```
+
+---
+
+### Replace Shortbread With Checkerboard Cookie
+**Author:**   
+**Notes:** [Ready Made Codes]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+80010008 07000000
+0A000000 00000000
+08000000 0000000B
+28000004 00000005
+```
+
+---
+
+### Replace Flapjack With Shortcake
+**Author:**   
+**Notes:** [Ready Made Codes]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+80010008 08000000
+0A000000 00000000
+08000000 0000000C
+28000004 00000001
+```
+
+---
+
+### Replace Biscotti With Paskha
+**Author:**   
+**Notes:** [Ready Made Codes]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+80010008 09000000
+0A000000 00000000
+08000000 0000000F
+28000004 00000004
+```
+
+---
+
+### Set Joy Quantity To 999999999
+**Author:**   
+**Notes:** [Ready Made Codes]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+80010004 06010000
+28000004 3B9AC9FF
+```
+
+---
+
+### Loot Pool: (atk/Down) [rare - I] - Slot 1
+**Author:**   
+**Notes:** [Ready Made Codes]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+95000000 0000B310
+48000000 000000ED
+40020030 00000000
+48000004 00000014
+40020030 00000000
+A000CD44 00000025
+31000000 31000000
+31000000 31000000
+31000000 31000000
+62000000 62000000
+62000000 62000000
+```
+
+---
+
+### Loot Pool: (atk/Middle) [rare - Ii] - Slot 2
+**Author:**   
+**Notes:** [Ready Made Codes]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+95000000 0000B310
+48000060 000000EE
+40020030 00000000
+48000064 00000014
+40020030 00000000
+A000CD44 00000025
+31000000 31000000
+31000000 31000000
+31000000 31000000
+62000000 62000000
+62000000 62000000
+```
+
+---
+
+### Loot Pool: (atk/Up) [rare - Iii] - Slot 3
+**Author:**   
+**Notes:** [Ready Made Codes]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+95000000 0000B310
+480000C0 000000EF
+40020030 00000000
+480000C4 00000014
+40020030 00000000
+A000CD44 00000025
+31000000 31000000
+31000000 31000000
+31000000 31000000
+62000000 62000000
+62000000 62000000
+```
+
+---
+
+### Loot Pool: (def/Down) [rare - I] - Slot 4
+**Author:**   
+**Notes:** [Ready Made Codes]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+95000000 0000B310
+48000120 000000F0
+40020030 00000000
+48000124 00000014
+40020030 00000000
+A000CD44 00000025
+31000000 31000000
+31000000 31000000
+31000000 31000000
+62000000 62000000
+62000000 62000000
+```
+
+---
+
+### Loot Pool: (def/Middle) [rare - Ii] - Slot 5
+**Author:**   
+**Notes:** [Ready Made Codes]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+95000000 0000B310
+48000180 000000F1
+40020030 00000000
+48000184 00000014
+40020030 00000000
+A000CD44 00000025
+31000000 31000000
+31000000 31000000
+31000000 31000000
+62000000 62000000
+62000000 62000000
+```
+
+---
+
+### Loot Pool: (def/Up) [rare - Iii] - Slot 1
+**Author:**   
+**Notes:** [Ready Made Codes]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+95000000 0000B310
+48000000 000000F2
+40020030 00000000
+48000004 00000014
+40020030 00000000
+A000CD44 00000025
+31000000 31000000
+31000000 31000000
+31000000 31000000
+62000000 62000000
+62000000 62000000
+```
+
+---
+
+### Loot Pool: Kuon's Feelings (atk) [rare - Iii] - Slot 2
+**Author:**   
+**Notes:** [Ready Made Codes]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+95000000 0000B310
+48000060 000000F3
+40020030 00000000
+48000064 00000014
+40020030 00000000
+A000CD44 00000025
+31000000 31000000
+31000000 31000000
+31000000 31000000
+62000000 62000000
+62000000 62000000
+```
+
+---
+
+### Loot Pool: Parting Thought (atk) [rare - Iii] - Slot 3
+**Author:**   
+**Notes:** [Ready Made Codes]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+95000000 0000B310
+480000C0 000000F4
+40020030 00000000
+480000C4 00000014
+40020030 00000000
+A000CD44 00000025
+31000000 31000000
+31000000 31000000
+31000000 31000000
+62000000 62000000
+62000000 62000000
+```
+
+---
+
+### Loot Pool: Evil Thought (atk) [rare - Iii] - Slot 4
+**Author:**   
+**Notes:** [Ready Made Codes]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+95000000 0000B310
+48000120 000000F5
+40020030 00000000
+48000124 00000014
+40020030 00000000
+A000CD44 00000025
+31000000 31000000
+31000000 31000000
+31000000 31000000
+62000000 62000000
+62000000 62000000
+```
+
+---
+
+### Loot Pool: Pure Thought (atk) [rare - Iii] - Slot 5
+**Author:**   
+**Notes:** [Ready Made Codes]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+95000000 0000B310
+48000180 000000F6
+40020030 00000000
+48000184 00000014
+40020030 00000000
+A000CD44 00000025
+31000000 31000000
+31000000 31000000
+31000000 31000000
+62000000 62000000
+62000000 62000000
+```
+
+---
+
+### Loot Pool: Kuon's Thought (def) [rare - Iii] - Slot 1
+**Author:**   
+**Notes:** [Ready Made Codes]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+48000000 000000F7
+40020030 00000000
+48000004 00000014
+40020030 00000000
+95000000 0000B310
+A000CD44 00000025
+31000000 31000000
+31000000 31000000
+31000000 31000000
+62000000 62000000
+62000000 62000000
+```
+
+---
+
+### Loot Pool: Parting Thought (def) [rare - Iii] - Slot 2
+**Author:**   
+**Notes:** [Ready Made Codes]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+95000000 0000B310
+48000060 000000F8
+40020030 00000000
+48000064 00000014
+40020030 00000000
+A000CD44 00000025
+31000000 31000000
+31000000 31000000
+31000000 31000000
+62000000 62000000
+62000000 62000000
+```
+
+---
+
+### Loot Pool: Evil Thought (def) [rare - Iii] - Slot 3
+**Author:**   
+**Notes:** [Ready Made Codes]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+95000000 0000B310
+480000C0 000000F9
+40020030 00000000
+480000C4 00000014
+40020030 00000000
+A000CD44 00000025
+31000000 31000000
+31000000 31000000
+31000000 31000000
+62000000 62000000
+62000000 62000000
+```
+
+---
+
+### Loot Pool: Pure Thought (def) [rare - Iii] - Slot 4
+**Author:**   
+**Notes:** [Ready Made Codes]  File: (AutoSaveData|SaveData\\d+)\\CRYSTAR
+
+```
+95000000 0000B310
+48000120 000000FA
+40020030 00000000
+48000124 00000014
+40020030 00000000
+A000CD44 00000025
+31000000 31000000
+31000000 31000000
+31000000 31000000
+62000000 62000000
+62000000 62000000
+```
+
+---

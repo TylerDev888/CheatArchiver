@@ -1,0 +1,55 @@
+# Agassi - Tennis Generation cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20446
+
+game: "Agassi - Tennis Generation"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20446"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0023B51F"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001724DB"
+
+  - name: "Always Scores 0"
+    author: "Code Master"
+    notes: "[P1 Game 1 Codes]"
+    codes:
+      - "003380C0 00000000"
+
+  - name: "Start With Score Modifier"
+    author: "Code Master"
+    notes: "[P1 Game 1 Codes]"
+    codes:
+      - "D03380C0 00000000"
+      - "003380C0 000000??"
+
+  - name: "Set 1"
+    author: "Code Master"
+    notes: "[P1 Wins Modifier Codes]"
+    codes:
+      - "0033809D 000000??"
+
+  - name: "Set 2"
+    author: "Code Master"
+    notes: "[P1 Wins Modifier Codes]"
+    codes:
+      - "003380A5 000000??"
+
+  - name: "Set 3"
+    author: "Code Master"
+    notes: "[P1 Wins Modifier Codes]"
+    codes:
+      - "003380AD 000000??"

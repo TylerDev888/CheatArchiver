@@ -1,0 +1,175 @@
+# High Heat Major League Baseball 2003 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20298
+
+game: "High Heat Major League Baseball 2003"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20298"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F035BF88 0034474F"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9034474C 0C0CB3D8"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "11A58760 0000????"
+
+  - name: "Home Team Start With Runs Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D1A58760 00000000"
+      - "11A58760 0000????"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "11A58764 0000????"
+
+  - name: "Away Team Start With Runs Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D1A58764 00000000"
+      - "11A58764 0000????"
+
+  - name: "Start On Inning Modifier (02-09)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D1A5874C 00000001"
+      - "11A5874C 000000??"
+
+  - name: "P1 Press L1+R1 For No Outs, No Strikes & 3 Balls"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E003F3FF 00E33462"
+      - "11A58750 00000000"
+      - "11A58754 00000003"
+      - "11A58758 00000000"
+
+  - name: "P1 Press L2+R2 For 2 Outs, 2 Strikes & No Balls"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E003FCFF 00E33462"
+      - "11A58750 00000002"
+      - "11A58754 00000000"
+      - "11A58758 00000002"
+
+  - name: "P2 Press L1+R1 For No Outs, No Strikes & 3 Balls"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E003F3FF 00E334EA"
+      - "11A58750 00000000"
+      - "11A58754 00000003"
+      - "11A58758 00000000"
+
+  - name: "P2 Press L2+R2 For 2 Outs, 2 Strikes & No Balls"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E003FCFF 00E334EA"
+      - "11A58750 00000002"
+      - "11A58754 00000000"
+      - "11A58758 00000002"
+
+  - name: "Infinite Outs"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "11A58750 00000000"
+
+  - name: "1 Out And You Are Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D1A58750 00000000"
+      - "11A58750 00000002"
+
+  - name: "2 Outs And You Are Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D1A58750 00000000"
+      - "11A58750 00000001"
+
+  - name: "Infinite Balls"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "11A58754 00000000"
+
+  - name: "1 Ball And You Walk"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D1A58754 00000000"
+      - "11A58754 00000003"
+
+  - name: "2 Balls And You Walk"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D1A58754 00000000"
+      - "11A58754 00000002"
+
+  - name: "3 Balls And You Walk"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D1A58754 00000000"
+      - "11A58754 00000001"
+
+  - name: "Infinite Strikes"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "11A58758 00000000"
+
+  - name: "1 Strike And You Are Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D1A58758 00000000"
+      - "11A58758 00000002"
+
+  - name: "2 Strikes And You Are Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D1A58758 00000000"
+      - "11A58758 00000001"
+
+  - name: "Always Full Count"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "11A58754 00000003"
+      - "11A58758 00000002"
+
+  - name: "Always Full Count & 2 Outs"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "11A58750 00000002"
+      - "11A58754 00000003"
+      - "11A58758 00000002"

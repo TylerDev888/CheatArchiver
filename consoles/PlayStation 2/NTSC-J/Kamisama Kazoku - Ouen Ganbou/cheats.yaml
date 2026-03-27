@@ -1,0 +1,29 @@
+# Kamisama Kazoku - Ouen Ganbou cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66499
+
+game: "Kamisama Kazoku - Ouen Ganbou"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66499"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90112110 0C0447EC"
+
+  - name: "Controller Fix For Emulators"
+    author: "punk7890"
+    codes:
+      - "007B2C47 00000000"
+      - "007B2A47 00000000"
+
+  - name: "Enable Debug Mode [Note]"
+    author: "punk7890"
+    codes:
+      - "2012D204 24020001"

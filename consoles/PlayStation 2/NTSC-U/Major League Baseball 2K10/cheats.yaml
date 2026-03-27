@@ -1,0 +1,168 @@
+# Major League Baseball 2K10 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21929
+
+game: "Major League Baseball 2K10"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21929"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "907D5188 0C1F540A"
+
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "907DA4D4 0C040036"
+
+  - name: "Player 1 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "006D49C2 0000[Joker:PS2]"
+
+  - name: "Cant Throw Pitcher Out Of Game For Hit Batsman"
+    codes:
+      - "20418304 00000000"
+
+  - name: "Run's Score 10"
+    codes:
+      - "10274CEC 0000000A"
+
+  - name: "Run's Score 5"
+    codes:
+      - "10274CEC 00000005"
+
+  - name: "Run's Score 2"
+    codes:
+      - "10274CEC 00000002"
+
+  - name: "All Runs Score For Away Team"
+    codes:
+      - "D08D6AE0 00000000"
+      - "10277318 00000018"
+      - "D08D6AE0 00000001"
+      - "10277318 00000014"
+
+  - name: "All Runs Score For Home Team"
+    codes:
+      - "D08D6AE0 00000000"
+      - "10277318 00000014"
+      - "D08D6AE0 00000001"
+      - "10277318 00000018"
+
+  - name: "Most Trades Accepted"
+    codes:
+      - "203C676A 00001000"
+
+  - name: "Using Tokens Doesn't Decrease Tokens"
+    notes: "[The Skybox Codes]"
+    codes:
+      - "201F6F70 00000000"
+
+  - name: "Using Tokens Increases Tokens"
+    notes: "[The Skybox Codes]"
+    codes:
+      - "201F6F68 00621821"
+
+  - name: "Infinite Outs L3,have Outs R3"
+    author: "Azagthoth"
+    notes: "[The Skybox Codes]"
+    codes:
+      - "E002FFFD 006D49C2"
+      - "20170F5C 24030000"
+      - "20170F60 AC430074"
+      - "E002FFFB 006D49C2"
+      - "20170F5C 8C430074"
+      - "20170F60 14640010"
+
+  - name: "Infinite Strikes R1+r2, Have Strikes L1+2"
+    author: "Azagthoth"
+    notes: "[The Skybox Codes]"
+    codes:
+      - "E002FAFF 006D49C2"
+      - "2018CE68 24020000"
+      - "2018CE6C AC82007C"
+      - "E002F5FF 006D49C2"
+      - "2018CE68 8C82007C"
+      - "2018CE6C 14430009"
+
+  - name: "Infinite Available Tokens"
+    notes: "[Profile 1 Codes]"
+    codes:
+      - "2085CCEC 0000FFFF"
+
+  - name: "Max Available Tokens"
+    notes: "[Profile 1 Codes]"
+    codes:
+      - "2085CCEC 05F5E0FF"
+
+  - name: "Unlock All Unlockables"
+    notes: "[Profile 1 Codes]"
+    codes:
+      - "4085D188 00040001"
+      - "FFFFFFFF 00000000"
+
+  - name: "1 Out And You Are Out"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D08D6AE4 00000000"
+      - "208D6AE4 00000002"
+
+  - name: "2 Outs And You Are Out"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D08D6AE4 00000000"
+      - "208D6AE4 00000001"
+
+  - name: "Infinite Balls"
+    notes: "[Both Team Codes]"
+    codes:
+      - "208D6AE8 00000000"
+
+  - name: "1 Ball And You Walk"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D08D6AE8 00000000"
+      - "208D6AE8 00000003"
+
+  - name: "2 Balls And You Walk"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D08D6AE8 00000000"
+      - "208D6AE8 00000002"
+
+  - name: "3 Balls And You Walk"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D08D6AE8 00000000"
+      - "208D6AE8 00000001"
+
+  - name: "Infinite Strikes"
+    notes: "[Both Team Codes]"
+    codes:
+      - "208D6AEC 00000001"
+
+  - name: "1 Strike And You Are Out"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D08D6AEC 00000000"
+      - "208D6AEC 00000002"
+
+  - name: "2 Strikes And You Are Out"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D08D6AEC 00000000"
+      - "208D6AEC 00000001"
+
+  - name: "Infinite Outs"
+    notes: "[Home Team Only Codes]"
+    codes:
+      - "E0010001 008D6AE0"
+      - "208D6AE4 00000000"

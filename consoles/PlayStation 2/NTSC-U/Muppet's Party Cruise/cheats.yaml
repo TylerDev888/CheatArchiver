@@ -1,0 +1,78 @@
+# Muppet's Party Cruise cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20635
+
+game: "Muppet's Party Cruise"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20635"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0026A6E7"
+
+  - name: "Disable FMV"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20280A10 24020001"
+
+  - name: "Max Points P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2052A354 0000270F"
+
+  - name: "No Points P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2052A354 00000000"
+
+  - name: "Max Points P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2052A3E4 0000270F"
+
+  - name: "No Points P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2052A3E4 00000000"
+
+  - name: "Max Points P3"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2052A474 0000270F"
+
+  - name: "No Points P3"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2052A474 00000000"
+
+  - name: "Max Points P4"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2052A504 0000270F"
+
+  - name: "No Points P4"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2052A504 00000000"
+
+  - name: "Points Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2014B5DC 2442????"

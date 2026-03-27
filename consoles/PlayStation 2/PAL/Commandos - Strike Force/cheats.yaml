@@ -1,0 +1,131 @@
+# Commandos - Strike Force cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52768
+
+game: "Commandos - Strike Force"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52768"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F011B49C 0011B49F"
+
+  - name: "All Levels"
+    author: "Codejunkies"
+    codes:
+      - "007AE92A 00000001"
+
+  - name: "Big Jumps"
+    author: "Codejunkies"
+    codes:
+      - "2028289C 44816000"
+      - "20282890 44816000"
+      - "20282874 3C014696"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "202505B4 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "20234E00 240207D0"
+      - "20234E04 AC820008"
+
+  - name: "Invisible"
+    author: "Codejunkies"
+    codes:
+      - "202D7C58 24030000"
+      - "20130E40 00114968"
+      - "20130F64 00114968"
+      - "2042587C 24020001"
+
+  - name: "Max Experiencelosion Multiplier"
+    author: "Codejunkies"
+    codes:
+      - "207AEFE0 48000000"
+
+  - name: "Max Impact Multiplier (Power Bullet Mode)"
+    author: "Codejunkies"
+    codes:
+      - "207AEFDC 48000000"
+
+  - name: "No Damage From Falls"
+    author: "Codejunkies"
+    codes:
+      - "207ABBB8 00000000"
+      - "207ABBBC 00000000"
+
+  - name: "Playeraimfactor"
+    author: "Codejunkies"
+    notes: "[Player Aim Factorisation Codes]"
+    codes:
+      - "207AF01C 3E800000"
+
+  - name: "Playeraimfactor X2"
+    author: "Codejunkies"
+    notes: "[Player Aim Factorisation Codes]"
+    codes:
+      - "207AF01C 3F800000"
+
+  - name: "Player Crawfactor X4"
+    author: "Codejunkies"
+    notes: "[Player Crawl Factorisation Codes]"
+    codes:
+      - "207AF014 40000000"
+
+  - name: "Playercrawlfactor X2"
+    author: "Codejunkies"
+    notes: "[Player Crawl Factorisation Codes]"
+    codes:
+      - "207AF014 3F800000"
+
+  - name: "Playerrunfactor X2"
+    author: "Codejunkies"
+    notes: "[Player Run Factorisation Codes]"
+    codes:
+      - "207AF010 40600000"
+
+  - name: "Playerrunfactor X4"
+    author: "Codejunkies"
+    notes: "[Player Run Factorisation Codes]"
+    codes:
+      - "207AF010 40E00000"
+
+  - name: "Playerswimfactor X2"
+    author: "Codejunkies"
+    notes: "[Player Swim Factorisation Codes]"
+    codes:
+      - "207AF018 40000000"
+
+  - name: "Player Moves 2X Quicker"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "207AEFF8 44610000"
+      - "207AEFFC 442F0000"
+      - "207AF000 442F0000"
+
+  - name: "Player Moves 3X Quicker"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "207AEFF8 44A80000"
+      - "207AEFFC 44834000"
+      - "207AF000 44834000"
+
+  - name: "Player Moves 4X Quicker"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "207AEFF8 44E10000"
+      - "207AEFFC 44AF0000"
+      - "207AF000 44AF0000"

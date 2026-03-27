@@ -1,0 +1,85 @@
+# Conflict Zone cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50221
+
+game: "Conflict Zone"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50221"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F011E6A0 000001FD"
+
+  - name: "All Mission Opened"
+    author: "Codejunkies"
+    codes:
+      - "2042CD04 00000001"
+
+  - name: "Hyper Mode"
+    author: "Codejunkies"
+    codes:
+      - "2042BDE8 41800000"
+
+  - name: "Infinite Cash"
+    author: "InterAct"
+    codes:
+      - "D0508B02 0000FEFF"
+      - "204A5280 497423F0"
+      - "2042CB94 497423F0"
+
+  - name: "Infinite CP"
+    author: "Codejunkies"
+    codes:
+      - "200FFF00 3C014E00"
+      - "200FFF04 AC810280"
+      - "200FFF08 44810000"
+      - "200FFF0C 0807031F"
+      - "201C0C78 0803FFC0"
+
+  - name: "Instant Win"
+    author: "Codejunkies"
+    codes:
+      - "2026E9C8 24020001"
+
+  - name: "Max Popularity Rating"
+    author: "InterAct"
+    codes:
+      - "D0508B02 0000FDFF"
+      - "2042CB90 42C80000"
+      - "204A527C 42C80000"
+
+  - name: "Must Be On (M)"
+    author: "InterAct"
+    codes:
+      - "F011E6A0 0011B24F"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F03BB730 0011B24F"
+
+  - name: "Unlimited Money"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "D0508B02 2809FDFE"
+      - "204A5281 7423F000"
+      - "D0508B02 2809FDFE"
+      - "2042CB95 7423F000"
+
+  - name: "Maximum Popularity Rating"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "D0508B02 2809FEFE"
+      - "1042CB92 280942C8"
+      - "D0508B02 2809FEFE"
+      - "104A527E 280942C8"

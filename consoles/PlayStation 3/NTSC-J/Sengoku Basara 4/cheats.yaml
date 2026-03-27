@@ -1,0 +1,49 @@
+# Sengoku Basara 4 cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM61063
+
+game: "Sengoku Basara 4"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM61063"
+cheat_type: "Save Editor"
+source: "From savedata.jp"
+
+cheats:
+  - name: "Gold Held 9999999"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "2021D8A0 0098967F"
+
+  - name: "Strengthen India Cage 9999999"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "2021D8A4 0098967F"
+
+  - name: "Whetstone 9999999"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "2021D8A8 0098967F"
+
+  - name: "Jade Steel 9999999"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "2021D8AC 0098967F"
+
+  - name: "Fortune Gavel 9999999"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "2021D8B0 0098967F"
+
+  - name: "All Playable Characters Level Max"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "4221D23C 000F4240"
+      - "40280028 00000000"
+      - "4221D240 00000000"
+      - "40280028 00000000"
+      - "4221D244 00000001"
+      - "40280028 00000000"
+      - "4221D248 00000002"
+      - "40280028 00000000"

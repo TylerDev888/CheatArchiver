@@ -1,0 +1,272 @@
+# Destroy All Humans! 2-Make War Not Love cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21439
+
+game: "Destroy All Humans! 2-Make War Not Love"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21439"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90153008 0C059C95"
+
+  - name: "One Hit Kills Enemys/Inf HP Player"
+    codes:
+      - "200A0000 8E2300E0"
+      - "200A0004 3C046974"
+      - "200A0008 34846341"
+      - "200A000C 10830004"
+      - "200A0014 4615A841"
+      - "200A001C 10000002"
+      - "200A0024 461FA841"
+      - "200A002C 080B1497"
+      - "200A0030 240F0001"
+      - "202C5254 08028000"
+      - "202C5258 00000000"
+
+  - name: "One Hit Kills Enemys"
+    codes:
+      - "200A0000 8E2300E0"
+      - "200A0004 3C046974"
+      - "200A0008 34846341"
+      - "200A000C 10830004"
+      - "200A0014 4615A841"
+      - "200A001C 10000002"
+      - "200A0024 4614A841"
+      - "200A002C 080B1497"
+      - "200A0030 240F0001"
+      - "202C5254 08028000"
+      - "202C5258 00000000"
+
+  - name: "Water Dont Kill You"
+    codes:
+      - "20251988 A20F0260"
+
+  - name: "Infinite Health"
+    codes:
+      - "200C0880 8C8100D0"
+      - "200C0884 01800008"
+      - "200C0888 AC8100CC"
+      - "20205F78 0C030220"
+
+  - name: "Infinite Zap-O-Matic"
+    codes:
+      - "202BAC28 00000000"
+      - "202BB544 00000000"
+
+  - name: "Infinite Dislocator"
+    codes:
+      - "202AE0D4 00000000"
+
+  - name: "Infinite Jetpack"
+    codes:
+      - "201EC188 00000000"
+
+  - name: "Super High Jetpack"
+    codes:
+      - "201EC188 00000000"
+      - "20501940 40000000"
+
+  - name: "Ultra High Jetpack"
+    codes:
+      - "201EC188 00000000"
+      - "20501940 40800000"
+
+  - name: "Infinite Anal Probe"
+    codes:
+      - "20299F58 00000000"
+
+  - name: "Max Infinite Anal Probe"
+    codes:
+      - "20299F54 241103E7"
+
+  - name: "Infinite Burrow Beast"
+    codes:
+      - "202A0C94 00000000"
+
+  - name: "Max Infinite Burrow Beast"
+    codes:
+      - "202A0C90 241503E7"
+
+  - name: "Infinite Disintegrator Ray"
+    codes:
+      - "202AAAC0 00000000"
+
+  - name: "Max Infinite Disintegrator Ray"
+    codes:
+      - "202AAABC 241703E7"
+
+  - name: "Infinite Ion Detonator/Gastro"
+    codes:
+      - "202AFDAC 00000000"
+
+  - name: "Max Infinite Ion Detonator/Gastro"
+    codes:
+      - "202AFDA8 241103E7"
+
+  - name: "Infinite Meteor Strike"
+    codes:
+      - "202B6120 00000000"
+
+  - name: "Max Infinite Meteor Strike"
+    codes:
+      - "202B611C 240503E7"
+
+  - name: "Infinite Mind Blast"
+    codes:
+      - "203E4914 00000000"
+
+  - name: "Infinite Cloak"
+    notes: "[Saucer Codes]"
+    codes:
+      - "202553D4 00000000"
+      - "20255248 00000000"
+      - "2025524C 00000000"
+      - "202554E4 00000000"
+
+  - name: "Infinite Death Ray"
+    notes: "[Saucer Codes]"
+    codes:
+      - "202A2F18 00000000"
+
+  - name: "Infinite Ammo-All Other Weapons"
+    notes: "[Saucer Codes]"
+    codes:
+      - "202B5054 00000000"
+
+  - name: "Max Infinite Ammo-All Other Weapons"
+    notes: "[Saucer Codes]"
+    codes:
+      - "202B5050 241003E7"
+
+  - name: "Activation Code (MUST BE ON For Below Codes)"
+    notes: "[Invasion Report Codes]"
+    codes:
+      - "200C0800 3C010050"
+      - "200C0804 8C24276C"
+      - "200C0808 1080000E"
+      - "200C080C 24843E18"
+      - "200C0810 3C05000C"
+      - "200C0814 24060100"
+      - "200C0818 8C810000"
+      - "200C081C 10200009"
+      - "200C0820 8CA30000"
+      - "200C0824 8CA70004"
+      - "200C0828 50230004"
+      - "200C082C AC870008"
+      - "200C0830 24C6FFFF"
+      - "200C0834 1CC0FFF8"
+      - "200C0838 24A50008"
+      - "200C083C 1000FFF4"
+      - "200C0840 2484000C"
+      - "200C0844 03E00008"
+      - "200C0848 00000000"
+      - "20153054 08030200"
+
+  - name: "Max Jetpack Upgrades"
+    notes: "[Invasion Report Codes]"
+    codes:
+      - "200C0700 A9CD1442"
+      - "200C0704 00000002"
+
+  - name: "Max Crypto's Shields Upgrades"
+    notes: "[Invasion Report Codes]"
+    codes:
+      - "200C0700 010C29F9"
+      - "200C0704 00000003"
+
+  - name: "Have All Datacores Recovered"
+    notes: "[Bay City Codes]"
+    codes:
+      - "200C0000 09D61EBE"
+      - "200C0004 00000007"
+
+  - name: "Have All Furotech Cells Retrieved"
+    notes: "[Bay City Codes]"
+    codes:
+      - "200C0008 02DCFC18"
+      - "200C000C 00000028"
+
+  - name: "Have All Alien Artifacts"
+    notes: "[Bay City Codes]"
+    codes:
+      - "200C0010 280BB42C"
+      - "200C0014 0000000A"
+
+  - name: "Max Upgrade Points"
+    notes: "[Pox-Mart Codes]"
+    codes:
+      - "200E0000 4829C177"
+      - "200E0004 4479C000"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Masters]"
+    codes:
+      - "90153008 0C059C95"
+
+  - name: "Alert Level Never Increases"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Alert Level Codes]"
+    codes:
+      - "201D6488 AE000098"
+
+  - name: "Alert Level Always Level 0"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Alert Level Codes]"
+    codes:
+      - "200C0880 240D0000"
+      - "200C0884 03E00008"
+      - "200C0888 ADED0098"
+      - "20205244 0C030220"
+
+  - name: "Alert Level Always Level 1"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Alert Level Codes]"
+    codes:
+      - "200C0880 240D0001"
+      - "200C0884 03E00008"
+      - "200C0888 ADED0098"
+      - "20205244 0C030220"
+
+  - name: "Alert Level Always Level 2"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Alert Level Codes]"
+    codes:
+      - "200C0880 240D0002"
+      - "200C0884 03E00008"
+      - "200C0888 ADED0098"
+      - "20205244 0C030220"
+
+  - name: "Alert Level Always Level 3"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Alert Level Codes]"
+    codes:
+      - "200C0880 240D0003"
+      - "200C0884 03E00008"
+      - "200C0888 ADED0098"
+      - "20205244 0C030220"
+
+  - name: "Alert Level Always Level 4"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Alert Level Codes]"
+    codes:
+      - "200C0880 240D0004"
+      - "200C0884 03E00008"
+      - "200C0888 ADED0098"
+      - "20205244 0C030220"
+
+  - name: "Alert Level Always Level 5"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Alert Level Codes]"
+    codes:
+      - "200C0880 240D0005"
+      - "200C0884 03E00008"
+      - "200C0888 ADED0098"
+      - "20205244 0C030220"

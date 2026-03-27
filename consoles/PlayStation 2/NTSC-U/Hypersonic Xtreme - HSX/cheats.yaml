@@ -1,0 +1,208 @@
+# Hypersonic Xtreme - HSX cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20592
+
+game: "Hypersonic Xtreme - HSX"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20592"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F023B894 0023B897"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0023B96F"
+
+  - name: "Always Low Time"
+    author: "Code Master"
+    codes:
+      - "20596AB4 00000000"
+      - "20596AB8 00000000"
+
+  - name: "Have Max Points"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "105AC018 000003E7"
+
+  - name: "Infinite Credits"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "10596948 00000009"
+
+  - name: "Never Have Any Credits"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "E0010000 30596948"
+      - "10596948 00000000"
+
+  - name: "Never Have More Than 1 Credits"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "E0010001 30596948"
+      - "10596948 00000001"
+
+  - name: "Never Have More Than 2 Credits"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "E0010002 30596948"
+      - "10596948 00000002"
+
+  - name: "Never Have More Than 3 Credits"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "E0010003 30596948"
+      - "10596948 00000003"
+
+  - name: "Unlock All Series"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "10599118 0000FFFF"
+
+  - name: "Have All Series"
+    author: "Code Master"
+    codes:
+      - "20599118 FFFFFFFF"
+
+  - name: "Infinite Damage P1"
+    author: "Code Master"
+    codes:
+      - "10371958 00000000"
+
+  - name: "Infinite Damage P2"
+    author: "Code Master"
+    codes:
+      - "10371DE4 00000000"
+
+  - name: "Infinite Restart Races"
+    author: "Code Master"
+    codes:
+      - "20596948 00000006"
+
+  - name: "Infinite Turbo P1"
+    author: "Code Master"
+    codes:
+      - "0037196A 00000080"
+
+  - name: "Infinite Turbo P2"
+    author: "Code Master"
+    codes:
+      - "00371DF6 00000080"
+
+  - name: "Lesser Widescreen"
+    author: "Code Master"
+    codes:
+      - "205969BC 3F400000"
+
+  - name: "Racer 1"
+    author: "Code Master"
+    notes: "[Max Points (Series Standings) Codes]"
+    codes:
+      - "205AC010 000003E7"
+
+  - name: "Racer 2"
+    author: "Code Master"
+    notes: "[Max Points (Series Standings) Codes]"
+    codes:
+      - "205AC014 000003E7"
+
+  - name: "Racer 3"
+    author: "Code Master"
+    notes: "[Max Points (Series Standings) Codes]"
+    codes:
+      - "205AC018 000003E7"
+
+  - name: "Racer 4"
+    author: "Code Master"
+    notes: "[Max Points (Series Standings) Codes]"
+    codes:
+      - "205AC01C 000003E7"
+
+  - name: "Racer 5"
+    author: "Code Master"
+    notes: "[Max Points (Series Standings) Codes]"
+    codes:
+      - "205AC020 000003E7"
+
+  - name: "Racer 6"
+    author: "Code Master"
+    notes: "[Max Points (Series Standings) Codes]"
+    codes:
+      - "205AC024 000003E7"
+
+  - name: "Racer 7"
+    author: "Code Master"
+    notes: "[Max Points (Series Standings) Codes]"
+    codes:
+      - "205AC028 000003E7"
+
+  - name: "Racer 8"
+    author: "Code Master"
+    notes: "[Max Points (Series Standings) Codes]"
+    codes:
+      - "205AC02C 000003E7"
+
+  - name: "Racer 9"
+    author: "Code Master"
+    notes: "[Max Points (Series Standings) Codes]"
+    codes:
+      - "205AC030 000003E7"
+
+  - name: "Racer 10"
+    author: "Code Master"
+    notes: "[Max Points (Series Standings) Codes]"
+    codes:
+      - "205AC034 000003E7"
+
+  - name: "No Turbo P1"
+    author: "Code Master"
+    codes:
+      - "0037196A 00000000"
+
+  - name: "No Turbo P2"
+    author: "Code Master"
+    codes:
+      - "00371DF6 00000000"
+
+  - name: "Normal Screen"
+    author: "Code Master"
+    codes:
+      - "205969BC 3F800000"
+
+  - name: "Super Widescreen"
+    author: "Code Master"
+    codes:
+      - "205969BC 40000000"
+
+  - name: "Weather Always Off"
+    author: "Code Master"
+    codes:
+      - "20596A9C 00000000"
+      - "205974AC 00000000"
+
+  - name: "Weather Always On"
+    author: "Code Master"
+    codes:
+      - "20596A9C 00000001"
+      - "205974AC 00000001"
+
+  - name: "Widescreen"
+    author: "Code Master"
+    codes:
+      - "205969BC 3FAA0000"

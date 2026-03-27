@@ -1,0 +1,28 @@
+# Monkey Island_ Special Edition Collection (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00191
+
+game: "Monkey Island_ Special Edition Collection (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00191"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Gamedata (required)"
+    notes: "File: GAMEDATA  (set range:0x000008,0x00001F)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000008,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"
+
+  - name: "Update Crc32 For Monkey1.bin (required)"
+    notes: "File: MONKEY1.BIN  (set range:0x000008,0x089AD7)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000008,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"

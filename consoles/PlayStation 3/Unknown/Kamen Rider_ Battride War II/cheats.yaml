@@ -1,0 +1,121 @@
+# Kamen Rider_ Battride War II cheat data
+# Console: PlayStation 3
+# Region:  Unknown
+# Serial:  BLJS10262
+
+game: "Kamen Rider_ Battride War II"
+console: "PlayStation 3"
+region: "Unknown"
+serial: "BLJS10262"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Shop Points 9999999"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "20000024 0098967F"
+
+  - name: "Gaimu Exp 9999999"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "2000012C 0098967F"
+
+  - name: "All Stages Rank S - Easy Trophy"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "420001CC 00000000"
+      - "40520004 00000000"
+
+  - name: "All Cards Level 9"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "42000B44 00000009"
+      - "40B4002C 00000000"
+
+  - name: "All Cards Rank S"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "42000B48 00000003"
+      - "40B4002C 00000000"
+
+  - name: "All Cards Upgraded"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "42000B5C 00000001"
+      - "40B4002C 00000000"
+
+  - name: "All Cards Exp Max"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "42000B60 0098967F"
+      - "40B5002C 00000000"
+
+  - name: "All Riders Exp Max"
+    author: "chaoszage"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "20000028 0098967F"
+      - "20000030 0098967F"
+      - "20000038 0098967F"
+      - "20000044 0098967F"
+      - "20000048 0098967F"
+      - "2000004C 0098967F"
+      - "20000050 0098967F"
+      - "20000058 0098967F"
+      - "20000060 0098967F"
+      - "20000068 0098967F"
+      - "2000006C 0098967F"
+      - "20000070 0098967F"
+      - "20000074 0098967F"
+      - "2000007C 0098967F"
+      - "20000088 0098967F"
+      - "200000CC 0098967F"
+      - "200000D0 0098967F"
+      - "20000108 0098967F"
+      - "20000114 0098967F"
+      - "20000118 0098967F"
+      - "2000012C 0098967F"
+      - "20000130 0098967F"
+      - "2000016C 0098967F"
+
+  - name: "Dlc Zangetsu Shin Exp Max"
+    author: "chaoszage"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "20000138 0098967F"
+
+  - name: "Dlc Gaim Kiwami Arms Exp Max"
+    author: "chaoszage"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "20000178 0098967F"
+
+  - name: "Card All Stats 9999999(stats Will Be Reset After One Battle)"
+    author: "chaoszage"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "42000B4C 0098967F"
+      - "40B4002C 00000000"
+      - "42000B50 0098967F"
+      - "40B4002C 00000000"
+      - "42000B54 0098967F"
+      - "40B4002C 00000000"
+      - "42000B58 0098967F"
+      - "40B4002C 00000000"
+
+  - name: "Everything Unlocked(characters Skills,figures,survival Modes,avoices And Bgms)"
+    author: "chaoszage"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "4211A64C 01010101"
+      - "410C0004 00000000"
+
+  - name: "Default:update Crc32 (required)(by Six Man From Savedata.jp)"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "write at 0x4: 00000000"
+      - "set range:0x0,0x11AE77"
+      - "set [crc]:crc32big"
+      - "write at 0x4:[crc]"
+      - "write at 0x4:xor:F8808812"

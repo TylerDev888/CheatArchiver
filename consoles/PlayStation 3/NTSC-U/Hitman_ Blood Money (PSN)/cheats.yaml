@@ -1,0 +1,32 @@
+# Hitman_ Blood Money (PSN) cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUB30781
+
+game: "Hitman_ Blood Money (PSN)"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUB30781"
+cheat_type: "Save Editor"
+source: "From krustytoe (CMP)"
+
+cheats:
+  - name: "Max Money - Rookie Mode"
+    notes: "File: HEADER.DAT"
+    codes:
+      - "20000074 05F5E0FF"
+
+  - name: "Max Money - Normal Mode"
+    notes: "File: HEADER.DAT"
+    codes:
+      - "20001764 05F5E0FF"
+
+  - name: "Max Money - Expert Mode"
+    notes: "File: HEADER.DAT"
+    codes:
+      - "20002E54 05F5E0FF"
+
+  - name: "Max Money - Pro Mode"
+    notes: "File: HEADER.DAT"
+    codes:
+      - "20004544 05F5E0FF"

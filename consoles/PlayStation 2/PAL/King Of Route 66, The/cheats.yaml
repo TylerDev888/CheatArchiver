@@ -1,0 +1,33 @@
+# King Of Route 66, The cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51615
+
+game: "King Of Route 66, The"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51615"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Rivals Don't Move"
+    author: "luc-ita"
+    codes:
+      - "201BAC40 03E00008"
+
+  - name: "Take 66 Emblems Anywhere"
+    author: "luc-ita"
+    codes:
+      - "2014C0BC 00000000"
+
+  - name: "Timer Stopped"
+    author: "luc-ita"
+    codes:
+      - "20149258 1000004F"
+
+  - name: "Turbo Always Usable"
+    author: "luc-ita"
+    codes:
+      - "201A3288 10000028"
+      - "201405D8 10000003"

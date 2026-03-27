@@ -1,0 +1,66 @@
+# Atv Off-Road Fury 3 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54688
+
+game: "Atv Off-Road Fury 3"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54688"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F04C9F0C 004C9F0F"
+
+  - name: "Disable A.I."
+    author: "Codejunkies"
+    codes:
+      - "006F3970 00000001"
+
+  - name: "Disable A.I. Catchup"
+    author: "Codejunkies"
+    codes:
+      - "006F3974 00000001"
+
+  - name: "Everything Available"
+    author: "Codejunkies"
+    codes:
+      - "2022F7E0 24020001"
+      - "2022F7E4 AC820004"
+      - "2022F7EC 24020000"
+
+  - name: "Max Credits (Go To Shop To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "20199B38 3C03005F"
+      - "20199B48 AC430034"
+      - "20199B50 24130000"
+
+  - name: "1"
+    author: "Codejunkies"
+    notes: "[Opponent Modifier (Amount)]"
+    codes:
+      - "006F3978 00000001"
+
+  - name: "2"
+    author: "Codejunkies"
+    notes: "[Opponent Modifier (Amount)]"
+    codes:
+      - "006F3978 00000002"
+
+  - name: "3"
+    author: "Codejunkies"
+    notes: "[Opponent Modifier (Amount)]"
+    codes:
+      - "006F3978 00000003"
+
+  - name: "4"
+    author: "Codejunkies"
+    notes: "[Opponent Modifier (Amount)]"
+    codes:
+      - "006F3978 00000004"

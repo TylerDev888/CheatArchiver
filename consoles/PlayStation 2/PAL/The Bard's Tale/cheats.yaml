@@ -1,0 +1,79 @@
+# The Bard's Tale cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "The Bard's Tale"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "901CDAE4 0C058A2E"
+      - "200C2000 3C010060"
+      - "200C2004 24080063"
+      - "200C2008 24090014"
+      - "200C2040 03E00008"
+      - "200C2044 44820800"
+      - "2019641C 0C030800"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "201963F4 E4800068"
+
+  - name: "Mana"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C200C A422DA3C"
+
+  - name: "Cash"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "200C2028 3C0805F5"
+      - "200C202C 3508E0FF"
+      - "200C2030 AC28D98C"
+
+  - name: "Strength"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "200C2010 A028DABD"
+
+  - name: "Vitality"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "200C2014 A028DABE"
+
+  - name: "Luck"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "200C2018 A029DABF"
+
+  - name: "Dexterity"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "200C201C A028DAC0"
+
+  - name: "Charisma"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "200C2020 A028DAC1"
+
+  - name: "Rhythm"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "200C2024 A028DAC2"

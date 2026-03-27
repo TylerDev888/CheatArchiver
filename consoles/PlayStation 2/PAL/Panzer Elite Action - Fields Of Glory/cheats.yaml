@@ -1,0 +1,35 @@
+# Panzer Elite Action - Fields Of Glory cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53444
+
+game: "Panzer Elite Action - Fields Of Glory"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53444"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01C613C 001C613F"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "202E9EDC 00000000"
+
+  - name: "Infinite Tank Armour"
+    author: "Codejunkies"
+    codes:
+      - "202DC860 3C0442C8"
+      - "202DC864 AC440058"
+      - "202DC868 00000000"
+
+  - name: "Rapid Fire Cannon"
+    author: "Codejunkies"
+    codes:
+      - "202EA4A0 00000000"

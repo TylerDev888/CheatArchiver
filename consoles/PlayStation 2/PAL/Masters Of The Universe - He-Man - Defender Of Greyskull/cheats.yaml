@@ -1,0 +1,35 @@
+# Masters Of The Universe - He-Man - Defender Of Greyskull cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53035
+
+game: "Masters Of The Universe - He-Man - Defender Of Greyskull"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53035"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F011CE64 0011CE67"
+
+  - name: "99 Lives"
+    author: "Codejunkies"
+    codes:
+      - "20272D3C 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "202A35F4 3C014F00"
+      - "202A35F8 AE2101E0"
+
+  - name: "Infinite Skull Power"
+    author: "Codejunkies"
+    codes:
+      - "202A35E4 00000000"
+      - "202A35CC 00000000"

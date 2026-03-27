@@ -1,0 +1,84 @@
+# Spongebob - IL Film cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52897
+
+game: "Spongebob - IL Film"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52897"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Nocutscenes"
+    author: "luc-ita"
+    notes: "[Internal Debug Features]"
+    codes:
+      - "007AD461 00000001"
+
+  - name: "Nomovies"
+    author: "luc-ita"
+    notes: "[Internal Debug Features]"
+    codes:
+      - "207AF08C 00000001"
+
+  - name: "Nomusic"
+    author: "luc-ita"
+    notes: "[Internal Debug Features]"
+    codes:
+      - "207AD460 00000001"
+
+  - name: "Fly Mode (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "D07C07C2 0000FFFA"
+      - "007AEA48 00000001"
+      - "D07C07C2 0000FFFC"
+      - "007AEA48 00000000"
+
+  - name: "Have All Moves"
+    author: "luc-ita"
+    codes:
+      - "007AD779 00000001"
+      - "107AD77A 00000101"
+      - "207AD77C 01010101"
+      - "007AD780 00000001"
+
+  - name: "Invulnerable And Can Walk On Water"
+    author: "luc-ita"
+    codes:
+      - "2032B800 00000000"
+      - "20333DB4 1000005A"
+
+  - name: "Jump Higher"
+    author: "luc-ita"
+    codes:
+      - "207AD7FC 412CB23D"
+      - "207ADC6C 41411668"
+
+  - name: "Jump In Midair"
+    author: "luc-ita"
+    codes:
+      - "207AE528 00000000"
+
+  - name: "Jump In Midair With Slow Descent"
+    author: "luc-ita"
+    codes:
+      - "203F83F0 24061F01"
+
+  - name: "Jump Much Higher"
+    author: "luc-ita"
+    codes:
+      - "207AD7FC 41A6591F"
+      - "207ADC6C 41B08B34"
+
+  - name: "Low Gravity"
+    author: "luc-ita"
+    codes:
+      - "207AD6D8 41200000"
+
+  - name: "Take One Gym Weight To Have One Upgrade Point"
+    author: "luc-ita"
+    codes:
+      - "20304F10 00000000"

@@ -1,0 +1,2166 @@
+# Grand Theft Auto-Liberty City Stories cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21423
+
+game: "Grand Theft Auto-Liberty City Stories"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21423"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90380278 0C0E0046"
+
+  - name: "Player 1 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "D060B8C2 0000[JOKER:PS2]"
+
+  - name: "Player 2 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "D060BA82 0000[JOKER:PS2]"
+
+  - name: "Memcard Sub"
+    notes: "[Live Dump]"
+    codes:
+      - "200A0000 27BDFFC0"
+      - "200A0004 3C06000A"
+      - "200A0008 FFB20020"
+      - "200A0010 FFB10010"
+      - "200A0014 24C60104"
+      - "200A0018 FFB00000"
+      - "200A0020 FFBF0030"
+      - "200A0028 24070203"
+      - "200A002C 0040802D"
+      - "200A0030 0220282D"
+      - "200A0034 0240302D"
+      - "200A003C 0200202D"
+      - "200A0040 3C050010"
+      - "200A0044 0200202D"
+      - "200A004C 3C060070"
+      - "200A0050 0220282D"
+      - "200A0054 0240302D"
+      - "200A005C 0200202D"
+      - "200A0064 0200202D"
+      - "200A0068 0200282D"
+      - "200A006C 0200302D"
+      - "200A0074 0200202D"
+      - "200A0078 DFBF0030"
+      - "200A007C DFB20020"
+      - "200A0080 DFB10010"
+      - "200A0084 DFB00000"
+      - "200A0088 03E00008"
+      - "200A008C 27BD0040"
+
+  - name: "Memcardport-Multitap 1-4"
+    notes: "[Live Dump]"
+    codes:
+      - "200A000C 24040000"
+
+  - name: "Memcardslot-Slot 1-2"
+    notes: "[Live Dump]"
+    codes:
+      - "200A001C 24050000"
+
+  - name: "Start And Stop"
+    notes: "[Live Dump]"
+    codes:
+      - "200A0040 3C05[Amount:0010:HEX:BIG<Start>]"
+      - "200A004C 3C06[Amount:0070:HEX:BIG<Size-End>]"
+
+  - name: "Live Dump"
+    notes: "[Live Dump]"
+    codes:
+      - "200A0038 0C0D9C56"
+      - "200A0070 0C0D9C56"
+      - "200A0058 0C0D9C56"
+      - "200A0024 0C0D9AFE"
+      - "200A0048 0C0D9BF8"
+      - "200A0060 0C0D9B56"
+      - "D060B8C2 0000FFFD"
+      - "203607CC 08028000"
+      - "D060B8C2 0010FFFD"
+      - "203607CC 03E00008"
+
+  - name: "Save Dump"
+    notes: "[Save Dump]  2063AB18 [Amount:0010:HEX:BIG<Start>]0000 2063AB0C [Amount:0070:HEX:BIG<Size-End>]0000"
+    codes:
+      - "20367078 3C03[Amount:0010:HEX:BIG<Start>]"
+      - "2036707C 3C05[Amount:0070:HEX:BIG<Size-End>]"
+      - "203679B4 24020000"
+
+  - name: "Can Not Be Arrested"
+    author: "Azagthoth"
+    notes: "[Misc Codes]"
+    codes:
+      - "203551E0 03E00008"
+      - "203551E4 00000000"
+      - "20355418 03E00008"
+      - "2035541C 00000000"
+
+  - name: "Infinite Cash"
+    author: "Armax"
+    notes: "[Misc Codes]"
+    codes:
+      - "20408EFC 05F5E0FF"
+      - "20408F00 05F5E0FF"
+
+  - name: "Infinite Ammo"
+    author: "Armax"
+    notes: "[Misc Codes]"
+    codes:
+      - "202A2E30 24420000"
+
+  - name: "Never Reload"
+    author: "Armax"
+    notes: "[Misc Codes]"
+    codes:
+      - "202A2DCC 24420000"
+
+  - name: "Restore Health (select+r1)"
+    author: "Armax"
+    notes: "[Misc Codes]"
+    codes:
+      - "E003FFFE 0060B942"
+      - "20408CF0 32533100"
+      - "20408CF4 31325831"
+      - "20408CF8 32533120"
+
+  - name: "Restore Armor (start+r1)"
+    author: "Armax"
+    notes: "[Misc Codes]"
+    codes:
+      - "E003FFF7 0060B942"
+      - "20408CF0 32583100"
+      - "20408CF4 31324331"
+      - "20408CF8 20323232"
+
+  - name: "Game Speed Mod"
+    author: "Armax"
+    notes: "[Misc Codes]  203D9CE4 [Amount:40000000:FLOAT:BIG]"
+
+  - name: "Infinite Ammo (in Car) **ported**"
+    author: "Azagthoth"
+    notes: "[Misc Codes]"
+    codes:
+      - "202A31C4 24420000"
+      - "202A3224 24420000"
+
+  - name: "Press Left To Disable Out Of Car Timer"
+    author: "Armax"
+    notes: "[Misc Codes]"
+    codes:
+      - "D060B942 0000FF7F"
+      - "2010D9C8 00000000"
+
+  - name: "Press Right To Enable Out Of Car Timer"
+    author: "Armax"
+    notes: "[Misc Codes]"
+    codes:
+      - "D060B942 0000FFDF"
+      - "2010D9C8 AE630000"
+
+  - name: "Press Up To Disable Mission Timer"
+    author: "Armax"
+    notes: "[Misc Codes]"
+    codes:
+      - "D060B942 0000FFEF"
+      - "202E4058 00000000"
+
+  - name: "Press Down To Enable Mission Timer"
+    author: "Armax"
+    notes: "[Misc Codes]"
+    codes:
+      - "D060B942 0000FFBF"
+      - "202E4058 AC620000"
+
+  - name: "Armor Never Decreases (seems To Affect Peds To)"
+    author: "Armax"
+    notes: "[Misc Codes]"
+    codes:
+      - "201C2AFC 00000000"
+
+  - name: "Bike Tires Mod"
+    author: "Armax"
+    notes: "[Misc Codes]  203D0908 [Amount:3F800000:FLOAT:BIG<SIZE>]"
+
+  - name: "Reverse Gravity While Pressing L1"
+    author: "EdisonCarter"
+    notes: "[Gravity]"
+    codes:
+      - "102BCF60 00003C00"
+      - "D060B8C2 0000FBFF"
+      - "102BCF60 0000BC00"
+
+  - name: "Double Gravity While Pressing L1"
+    author: "EdisonCarter"
+    notes: "[Gravity]"
+    codes:
+      - "102BCF60 00003C00"
+      - "D060B8C2 0000FBFF"
+      - "102BCF60 00003C80"
+
+  - name: "Smoke From Exhaust Is Red"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "201CC91C 24844460"
+
+  - name: "Collision Smoke Is Red"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "201CCD9C 24844460"
+
+  - name: "Never Fall Off Your Bike"
+    author: "EdisonCarter"
+    notes: "[World Codes]"
+    codes:
+      - "20155D18 24020000"
+      - "201577C8 24020000"
+      - "201C5934 24020000"
+
+  - name: "Rocket Boost"
+    author: "EdisonCarter"
+    notes: "[World Codes]"
+    codes:
+      - "200FFF4C 3C0EXXXX"
+      - "200FFF50 3C01003E"
+      - "200FFF54 448E3000"
+      - "200FFF58 C4279B8C"
+      - "200FFF5C 46073182"
+      - "200FFF60 C6270010"
+      - "200FFF64 460639C2"
+      - "200FFF68 C6280070"
+      - "200FFF6C 46074200"
+      - "200FFF70 E6280070"
+      - "200FFF74 C6270014"
+      - "200FFF78 460639C2"
+      - "200FFF7C C6280074"
+      - "200FFF80 46074200"
+      - "200FFF84 E6280074"
+      - "200FFF88 C6270018"
+      - "200FFF8C 460639C2"
+      - "200FFF90 C6280078"
+      - "200FFF94 46074200"
+      - "200FFF98 E6280078"
+      - "200FFF9C 03E00008"
+      - "200FFFA0 DFB100B8"
+      - "202BCF80 DFB100B8"
+      - "D060B8C2 0000BFFF"
+      - "202BCF80 0C03FFD3"
+
+  - name: "Tons Of Rampage Time (max)"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "203D9FB0 7FFF0000"
+
+  - name: "One Kill Needed To Complete Rampage"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "003D9FB8 00000001"
+
+  - name: "Helicopters After You (mod)"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "202F4EE8 03E00008"
+      - "202F4EEC 2402[Amount:0006:HEX:BIG]"
+
+  - name: "Disable Horn Sound"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "101A314E 00001000"
+
+  - name: "Pedestrians Never Feel Threatened"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "201D3FB0 03E00008"
+      - "201D3FB4 00000000"
+
+  - name: "Infinite Health & Armor (everyone)"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "201C1F78 03E00008"
+      - "201C1F7C 00000000"
+
+  - name: "Disable Sirens & Alarms Sounds"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "101A33F6 00001000"
+
+  - name: "Jump (mod)"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "101EFA14 0000[Amount:3F80:HEX:BIG]"
+
+  - name: "Take No Damage From Falling From High Places"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "201DB8CC 00000000"
+      - "201DB97C 00000000"
+
+  - name: "Gangs Never Feel Threatened"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "20318140 03E00008"
+      - "20318144 00000000"
+
+  - name: "Idiot Ai-Civilians"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "202661C8 03E00008"
+      - "202661CC 00000000"
+
+  - name: "Idiot Ai-Firemen"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "202942B8 03E00008"
+      - "202942BC 00000000"
+
+  - name: "Idiot Ai-Medics"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "202E4B58 03E00008"
+      - "202E4B5C 00000000"
+
+  - name: "Cops Get Out And Walk Away"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "20354DC8 03E00008"
+      - "20354DCC 00000000"
+
+  - name: "Idiot Ai-Cops(cops Get Out Of Cars And Walk Away)"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "20353C48 03E00008"
+      - "20353C4C 00000000"
+
+  - name: "No Damage To Collisions(Your Car Only)"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "201258AC 00000000"
+      - "201258C0 00000000"
+      - "201258D0 00000000"
+
+  - name: "No Car Damage"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "2012A33C 00000000"
+
+  - name: "All Cars Receive No Damage To Collisions"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "20125470 03E00008"
+      - "20125474 00000000"
+
+  - name: "All Cars Are Immune To Weapons"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "20328F18 03E00008"
+      - "20328F1C 00000000"
+
+  - name: "Only You Car Is Immune To Weapons"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "20328FB8 00000000"
+      - "20328FCC 00000000"
+
+  - name: "Cars Never Blow Up(infinite Car Burn)"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "20137BA0 03E00008"
+      - "20137BA4 00000000"
+
+  - name: "No Visual Car Damage"
+    author: "HF*"
+    notes: "[World Codes]"
+    codes:
+      - "2032FE10 03E00008"
+      - "2032FE14 00000000"
+
+  - name: "Car Tires Never Pop"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "2032FC58 00000000"
+
+  - name: "No Motorcycle Damage From Crashing"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "20155920 03E00008"
+      - "20155924 00000000"
+
+  - name: "Motorcyles Never Blow Up(infinite Burn)"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "20161230 03E00008"
+      - "20161234 00000000"
+
+  - name: "Motorcycle Tires Never Pop"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "201616B8 03E00008"
+      - "201616BC 00000000"
+
+  - name: "Boats Never Blow Up"
+    author: "Azagthoth"
+    notes: "[World Codes]"
+    codes:
+      - "20182ED8 03E00008"
+      - "20182EDC 00000000"
+
+  - name: "Money Cheat Gives Max Money (l1, R1, Triangle, L1, R1, Circle, L1, R1)"
+    author: "Skiller"
+    notes: "[Button Cheat Mods]"
+    codes:
+      - "1016DBC4 000005F5"
+      - "1016DBCC 0000E0FF"
+
+  - name: "Rhino Cheat Spawns ??? (l1, L1, Left, L1, L1, Right, Triangle, Circle)"
+    author: "EdisonCarter"
+    notes: "[Button Cheat Mods]"
+    codes:
+      - "1016D4F4 000000[CAR]"
+
+  - name: "Trashmaster Cheat Spawns ??? (triangle, Circle, Down, Triangle, Circle, Up, L1, L1)"
+    author: "EdisonCarter"
+    notes: "[Button Cheat Mods]"
+    codes:
+      - "1016D514 000000[CAR]"
+
+  - name: "Weapon Set 1 (weapon Mod)"
+    author: "EdisonCarter"
+    notes: "[Button Cheat Mods]"
+    codes:
+      - "1016C90C 000000[WEP]"
+      - "1016C928 000000[WEP]"
+      - "1016C944 000000[WEP]"
+      - "1016C960 000000[WEP]"
+      - "1016C97C 000000[WEP]"
+      - "1016C998 000000[WEP]"
+      - "1016C9B4 000000[WEP]"
+      - "1016C9D0 000000[WEP]"
+      - "1016C9E8 000000[WEP]"
+
+  - name: "Weapon Set 2 (weapon Mod)"
+    author: "EdisonCarter>Skiller"
+    notes: "[Button Cheat Mods]"
+    codes:
+      - "1016CB44 000000[WEP]"
+      - "1016CB60 000000[WEP]"
+      - "1016CB7C 000000[WEP]"
+      - "1016CB98 000000[WEP]"
+      - "1016CBB4 000000[WEP]"
+      - "1016CBD0 000000[WEP]"
+      - "1016CBEC 000000[WEP]"
+      - "1016CC04 000000[WEP]"
+
+  - name: "Weapon Set 3 (weapon Mod)"
+    author: "EdisonCarter>Skiller"
+    notes: "[Button Cheat Mods]"
+    codes:
+      - "1016CD54 000000[WEP]"
+      - "1016CD70 000000[WEP]"
+      - "1016CD8C 000000[WEP]"
+      - "1016CDA8 000000[WEP]"
+      - "1016CDC4 000000[WEP]"
+      - "1016CDE0 000000[WEP]"
+      - "1016CDFC 000000[WEP]"
+      - "1016CE14 000000[WEP]"
+
+  - name: "Weapon Set 1 (ammo Mod)"
+    author: "EdisonCarter>Skiller"
+    notes: "[Button Cheat Mods]"
+    codes:
+      - "1016C910 0000270F"
+      - "1016C92C 0000270F"
+      - "1016C948 0000270F"
+      - "1016C964 0000270F"
+      - "1016C980 0000270F"
+      - "1016C99C 0000270F"
+      - "1016C9B8 0000270F"
+      - "1016C9D4 0000270F"
+      - "1016C9EC 0000270F"
+
+  - name: "Weapon Set 2 (ammo Mod)"
+    author: "EdisonCarter>Skiller"
+    notes: "[Button Cheat Mods]"
+    codes:
+      - "1016CB48 0000270F"
+      - "1016CB64 0000270F"
+      - "1016CB80 0000270F"
+      - "1016CB9C 0000270F"
+      - "1016CBB8 0000270F"
+      - "1016CBD4 0000270F"
+      - "1016CBF0 0000270F"
+      - "1016CC08 0000270F"
+
+  - name: "Weapon Set 3 (ammo Mod)"
+    author: "EdisonCarter>Skiller"
+    notes: "[Button Cheat Mods]"
+    codes:
+      - "1016CD58 0000270F"
+      - "1016CD74 0000270F"
+      - "1016CD90 0000270F"
+      - "1016CDAC 0000270F"
+      - "1016CDC8 0000270F"
+      - "1016CDE4 0000270F"
+      - "1016CE00 0000270F"
+      - "1016CE18 0000270F"
+
+  - name: "Unknown Cheat 1"
+    notes: "[Always Active Button Cheats]"
+    codes:
+      - "003D02DC 00000001"
+
+  - name: "Unknown Cheat 2"
+    notes: "[Always Active Button Cheats]"
+    codes:
+      - "003D02E0 00000001"
+
+  - name: "Unknown Cheat 3"
+    notes: "[Always Active Button Cheats]"
+    codes:
+      - "003D02E4 00000001"
+
+  - name: "Unknown Cheat 4"
+    notes: "[Always Active Button Cheats]"
+    codes:
+      - "003D02E8 00000001"
+
+  - name: "Unknown Cheat 5"
+    notes: "[Always Active Button Cheats]"
+    codes:
+      - "003D4E84 00000001"
+
+  - name: "Big Head Mode"
+    notes: "[Always Active Button Cheats]"
+    codes:
+      - "003D4E88 00000001"
+
+  - name: "Pedestrians Follow Mode"
+    notes: "[Always Active Button Cheats]"
+    codes:
+      - "003D4E8C 00000001"
+
+  - name: "Homicidal Drivers"
+    notes: "[Always Active Button Cheats]"
+    codes:
+      - "003D56E8 00000001"
+      - "003D56EC 00000001"
+
+  - name: "All Lights Green"
+    notes: "[Always Active Button Cheats]"
+    codes:
+      - "003D6480 00000001"
+
+  - name: "All Black Cars"
+    notes: "[Always Active Button Cheats]"
+    codes:
+      - "003D7430 00000001"
+
+  - name: "All White Cars"
+    notes: "[Always Active Button Cheats]"
+    codes:
+      - "003D7434 00000001"
+
+  - name: "Pedestrians Have Weapons"
+    notes: "[Always Active Button Cheats]  Invisible Car Bodies"
+    codes:
+      - "003D7CE4 00000001"
+      - "003D88B8 00000001"
+
+  - name: "Exploding Cars"
+    notes: "[Always Active Button Cheats]  Super Car Traction"
+    codes:
+      - "003D88BC 00000001"
+      - "003D88C0 00000001"
+
+  - name: "Unknown Cheat 6"
+    notes: "[Always Active Button Cheats]"
+    codes:
+      - "003D88C4 00000001"
+
+  - name: "Unknown Cheat 7"
+    notes: "[Always Active Button Cheats]"
+    codes:
+      - "003D88C8 00000001"
+
+  - name: "Unknown Cheat 8"
+    notes: "[Always Active Button Cheats]"
+    codes:
+      - "003D88CC 00000001"
+
+  - name: "Drive On Water"
+    notes: "[Always Active Button Cheats]"
+    codes:
+      - "003D88D0 00000001"
+
+  - name: "Unknown Cheat 9"
+    notes: "[Always Active Button Cheats]"
+    codes:
+      - "003D88D4 00000001"
+
+  - name: "Unknown Cheat 10"
+    notes: "[Always Active Button Cheats]"
+    codes:
+      - "003D88D8 00000001"
+
+  - name: "Unknown Cheat 11"
+    notes: "[Always Active Button Cheats]"
+    codes:
+      - "003D88DC 00000001"
+
+  - name: "Super Fast Time Mode"
+    notes: "[Always Active Button Cheats]"
+    codes:
+      - "003D91F0 00000001"
+
+  - name: "Unknown Cheat 12"
+    notes: "[Always Active Button Cheats]"
+    codes:
+      - "003D9CE8 00000001"
+
+  - name: "Activator (MUST BE ON)"
+    author: "Skiller>Pyriel"
+    notes: "[Player]"
+    codes:
+      - "D0408E40 00100000"
+      - "203607CC 08028000"
+      - "200A0000 3C010041"
+      - "200A0004 3C190044"
+      - "200A0008 8C218E40"
+      - "200A000C 8F39C794"
+      - "200A00C0 1321002F"
+      - "200A0180 03E00008"
+      - "200A0010 3C02447A"
+      - "200A0014 3C032000"
+      - "200A0018 24040000"
+      - "200A001C 240500E2"
+      - "200A0020 2406000F"
+      - "200A0024 24070006"
+      - "200A00C8 3C020000"
+      - "200A00CC 3C030000"
+      - "200A00D0 24040000"
+      - "200A00D4 24050010"
+      - "200A00D8 24060002"
+      - "200A00DC 24070000"
+
+  - name: "Infinite HP (nothing Kills U Don't Fall In Water)"
+    author: "PSP Codemakers"
+    notes: "[Player]"
+    codes:
+      - "200A0038 AC2204B8"
+
+  - name: "Infinite Vest (nothing Kills U Don't Fall In Water)"
+    author: "PSP Codemakers"
+    notes: "[Player]"
+    codes:
+      - "200A003C AC2204BC"
+
+  - name: "No Reload All Weapons"
+    author: "PSP Codemakers"
+    notes: "[Player]"
+    codes:
+      - "200A0040 A02405EC"
+      - "200A0044 A0240608"
+      - "200A0048 A0240624"
+      - "200A004C A0240640"
+      - "200A0050 A024065C"
+      - "200A0054 A0240668"
+      - "200A0058 A0240674"
+
+  - name: "Invisible Toni (shadow Only)"
+    author: "PSP Codemakers"
+    notes: "[Player]"
+    codes:
+      - "200A005C A025019A"
+
+  - name: "Toni Always Bleeding"
+    author: "PSP Codemakers"
+    notes: "[Player]"
+    codes:
+      - "200A0060 A0260197"
+
+  - name: "Moon Jump"
+    author: "PSP Codemakers"
+    notes: "[Player]"
+    codes:
+      - "200A0064 AC2300D0"
+
+  - name: "Never Wanted (only Turn On One Wanted Code)"
+    author: "PSP Codemakers"
+    notes: "[Player]"
+    codes:
+      - "200A0068 A0240810"
+
+  - name: "Always Wanted (max) (only Turn On One Wanted Code)"
+    author: "PSP Codemakers"
+    notes: "[Player]"
+    codes:
+      - "200A006C A0270810"
+
+  - name: "Police Brutality (more Aggressive To U)"
+    author: "PSP Codemakers"
+    notes: "[Player]"
+    codes:
+      - "200A0070 AC24080C"
+
+  - name: "Car Never Flips Over"
+    author: "PSP Codemakers"
+    notes: "[Player Car]"
+    codes:
+      - "200A00F0 AF220008"
+      - "200A00F4 AF220018"
+
+  - name: "No Damage"
+    author: "PSP Codemakers"
+    notes: "[Player Car]"
+    codes:
+      - "200A00F8 A3240140"
+
+  - name: "Vehicle Invisible/Toni"
+    author: "PSP Codemakers"
+    notes: "[Player Car]"
+    codes:
+      - "200A00FC A3250046"
+
+  - name: "Car Floats (hold Select+r1 To Make Car Float"
+    author: "PSP Codemakers"
+    notes: "[Player Car]"
+    codes:
+      - "D060B942 0000F7FE"
+      - "200A0100 A3240142"
+      - "D060B942 0010F7FE"
+      - "200A0100 A3260142"
+
+  - name: "Power Breaks (hold L3 To Activate)"
+    author: "PSP Codemakers"
+    notes: "[Player Car]"
+    codes:
+      - "E002FFFD 0060B942"
+      - "200A0104 AF220070"
+      - "200A0108 AF220074"
+
+  - name: "Car Mod"
+    author: "Skiller"
+    notes: "[Car 1]"
+    codes:
+      - "006619A0 000000[CAR]"
+
+  - name: "Proofing"
+    author: "Vettefan8"
+    notes: "[Car 1]"
+    codes:
+      - "006619C0 000000[PRO]"
+
+  - name: "Top Of Car Color"
+    author: "Skiller>Vettefan88"
+    notes: "[Car 1]"
+    codes:
+      - "006619C4 000000[COL]"
+
+  - name: "Bottom Of Car Color"
+    author: "Skiller"
+    notes: "[Car 1]"
+    codes:
+      - "006619C5 000000[COL]"
+
+  - name: "Percentage Completed 100% (gives You The Goods)"
+    notes: "[Stats]"
+    codes:
+      - "203D9E58 447A0000"
+
+  - name: "Mission Attempts"
+    notes: "[Stats]"
+    codes:
+      - "203D9E80 0098967F"
+
+  - name: "Rampages Passed"
+    notes: "[Stats]"
+    codes:
+      - "203D9EAC 00000014"
+      - "203D9EB8 00000014"
+
+  - name: "People You've Wasted"
+    notes: "[Stats]"
+    codes:
+      - "203D9E44 0098967F"
+
+  - name: "People Wasted By Others"
+    notes: "[Stats]"
+    codes:
+      - "203D9E40 0098967F"
+
+  - name: "Cars Exploded"
+    notes: "[Stats]"
+    codes:
+      - "203D9E48 0098967F"
+
+  - name: "Boats Destroyed"
+    notes: "[Stats]"
+    codes:
+      - "203D9E4C 0098967F"
+
+  - name: "Helicopter Destroyed"
+    notes: "[Stats]"
+    codes:
+      - "203D9E54 0098967F"
+
+  - name: "Total Number Of Wanted Stars Attained"
+    notes: "[Stats]"
+    codes:
+      - "203D9E60 0098967F"
+
+  - name: "Bullets Fired"
+    notes: "[Stats]"
+    codes:
+      - "203D9E50 0098967F"
+
+  - name: "Bullets That Hit"
+    notes: "[Stats]"
+    codes:
+      - "203D9E5C 0098967F"
+
+  - name: "Max Insane Jump Flips"
+    notes: "[Stats]"
+    codes:
+      - "203D9E6C 0098967F"
+
+  - name: "Max Insane Jump Rotation"
+    notes: "[Stats]"
+    codes:
+      - "203D9E70 0098967F"
+
+  - name: "Unique Jumps Completed"
+    notes: "[Stats]"
+    codes:
+      - "203D9E78 0000001A"
+      - "203D9E7C 0000001A"
+
+  - name: "Criminals Killed On Vigilante Mission"
+    notes: "[Stats]"
+    codes:
+      - "203D9E98 0098967F"
+
+  - name: "Highest Vigilante Level"
+    notes: "[Stats]"
+    codes:
+      - "203D9E94 0098967F"
+
+  - name: "People Saved In An Ambulance"
+    notes: "[Stats]"
+    codes:
+      - "203D9E90 0098967F"
+
+  - name: "Highest Paramedic Level"
+    notes: "[Stats]"
+    codes:
+      - "203D9E9C 0098967F"
+
+  - name: "Passengers Dropped Off"
+    notes: "[Stats]"
+    codes:
+      - "203D9E88 0098967F"
+
+  - name: "Crash Made In Taxi"
+    notes: "[Stats]"
+    codes:
+      - "203D9E8C 0098967F"
+
+  - name: "Total Fires Extinguished"
+    notes: "[Stats]"
+    codes:
+      - "203D9EA4 0098967F"
+
+  - name: "Highest Firefighter Level"
+    notes: "[Stats]"
+    codes:
+      - "203D9EA0 0098967F"
+
+  - name: "Photos Taken"
+    notes: "[Stats]"
+    codes:
+      - "203D9EA8 0098967F"
+
+  - name: "Most Kills In Rc Triad Take Down"
+    notes: "[Stats]"
+    codes:
+      - "203D9EB4 0098967F"
+
+  - name: "Most Time Left In Karmageddon"
+    notes: "[Stats]"
+    codes:
+      - "203D9EB0 00000E0F"
+
+  - name: "Seagulls Sniped"
+    notes: "[Stats]"
+    codes:
+      - "203D9EC0 0098967F"
+
+  - name: "Max Insane Jump Dist.(m) **float**"
+    notes: "[Stats]  203D9E64 [Amount:447A0000:FLOAT:BIG]"
+
+  - name: "Max Insane Jump Height (m) **float**"
+    notes: "[Stats]  203D9E68 [Amount:447A0000:FLOAT:BIG]"
+
+  - name: "Kgs Of Explosives Used"
+    notes: "[Stats]  203D9D80 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Tires Popped"
+    notes: "[Stats]  203D9C94 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Cars Crushed"
+    notes: "[Stats]  203D9D84 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Bikes Sold"
+    notes: "[Stats]  203D9F44 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Cash Made Selling Bikes"
+    notes: "[Stats]  203D9F48 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Sprayings"
+    notes: "[Stats]  203D9D78 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Times Busted"
+    notes: "[Stats]  203D9BE8 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Number Of Saves"
+    notes: "[Stats]  203D9E34 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Days Passed In Game"
+    notes: "[Stats]  203D9DE0 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Total Number Of Wanted Stars Evaded"
+    notes: "[Stats]  203D9D74 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Hospital Visits"
+    notes: "[Stats]  203D9BE4 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Number Of Headshots"
+    notes: "[Stats]  203D9D98 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Distance Traveled On Foot **float**"
+    notes: "[Stats]  203D9BDC [Amount:447A0000:FLOAT:BIG]"
+
+  - name: "Distanced Traveled By Car **float**"
+    notes: "[Stats]  203D9BD0 [Amount:447A0000:FLOAT:BIG]"
+
+  - name: "Distance Traveled By Bike **float**"
+    notes: "[Stats]  203D9BD4 [Amount:447A0000:FLOAT:BIG]"
+
+  - name: "Distance Traveled By Boat **float**"
+    notes: "[Stats]  203D9BD8 [Amount:447A0000:FLOAT:BIG]"
+
+  - name: "Longest Wheelie Time (sec)"
+    notes: "[Stats]  203D9BB0 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Longest Wheeling Distance (m)**float**"
+    notes: "[Stats]  203D9BB4 [Amount:447A0000:FLOAT:BIG]"
+
+  - name: "Longest Stopie Time (sec)"
+    notes: "[Stats]  203D9BB8 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Longest Stopie Distance( M)**float**"
+    notes: "[Stats]  203D9BBC [Amount:447A0000:FLOAT:BIG]"
+
+  - name: "Longest Face Plant Distance (m)**float**"
+    notes: "[Stats]  203D9F00 [Amount:447A0000:FLOAT:BIG]"
+
+  - name: "Longest 2 Wheels Time (sec)"
+    notes: "[Stats]  203D9BA8 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Longest 2 Wheels Distance (m)**float**"
+    notes: "[Stats]  203D9BAC [Amount:447A0000:FLOAT:BIG]"
+
+  - name: "Cars Sold"
+    notes: "[Stats]  203D9F3C [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Cash Made Selling Cars"
+    notes: "[Stats]  203D9F40 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Total Cash Made On 'slash Tv'"
+    notes: "[Stats]  203D9F58 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Opponents Killed In 'slash Tv'"
+    notes: "[Stats]  203D9F5C [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Cash Made Collecting Trash"
+    notes: "[Stats]  203D9F70 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Number Of 'avenging Angel' Missions Passed"
+    notes: "[Stats]  203D9F7C [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Total 'avenging Angel' Justice Dished Out"
+    notes: "[Stats]  203D9F78 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Highest 'avenging Angel' Level"
+    notes: "[Stats]  203D9F88 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Outfit Changes"
+    notes: "[Stats]  203D9FA0 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Weapon Budget**float**"
+    notes: "[Stats]  203D9EC4 [Amount:447A0000:FLOAT:BIG]"
+
+  - name: "Property Destroyed"
+    notes: "[Stats]  203D9C90 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Cars Found For 'love Media'"
+    notes: "[Stats]"
+    codes:
+      - "203D9F4C 00000010"
+      - "203D9F50 00000010"
+
+  - name: "Pizzas Delivered**float**"
+    notes: "[Stats]  203D9ED0 [Amount:447A0000:FLOAT:BIG]"
+
+  - name: "Noodles Delivered**float**"
+    notes: "[Stats]  203D9ED4 [Amount:447A0000:FLOAT:BIG]"
+
+  - name: "Cash Made From Tourists**float**"
+    notes: "[Stats]  203D9ED8 [Amount:447A0000:FLOAT:BIG]"
+
+  - name: "Tourists Taken To Tourists Spots**float**"
+    notes: "[Stats]  203D9EDC [Amount:447A0000:FLOAT:BIG]"
+
+  - name: "Highest Score In ' Scrap Yard Challenge'**float**"
+    notes: "[Stats]  203D9EF0 [Amount:447A0000:FLOAT:BIG]"
+
+  - name: "Highest Score In '9mm Mayhem'**float**"
+    notes: "[Stats]  203D9EF4 [Amount:447A0000:FLOAT:BIG]"
+
+  - name: "Highest Score In 'scooter Shooter'**float**"
+    notes: "[Stats]  203D9EF8 [Amount:447A0000:FLOAT:BIG]"
+
+  - name: "Highest Score In 'awol Angel'**float**"
+    notes: "[Stats]  203D9EFC [Amount:447A0000:FLOAT:BIG]"
+
+  - name: "Most Kills In 'rc Triad Take-Down'"
+    notes: "[Stats]  203D9EB4 [Amount:447A0000:FLOAT:BIG]"
+
+  - name: "Fish Fed"
+    notes: "[Stats]  203D9D94 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Auto Repair And Painting Budget**float**"
+    notes: "[Stats]  203D9D7C [Amount:447A0000:FLOAT:BIG][Amount:447A0000:FLOAT:BIG]"
+
+  - name: "100% Accuracy"
+    notes: "[Other]"
+    codes:
+      - "203D9E50 00000064"
+      - "203D9E5C 00000064"
+
+  - name: "Change Cash To Double Hex (00000000:00000000)"
+    notes: "[Other]"
+    codes:
+      - "203D66C8 382E3825"
+      - "203D66CC 3A3A2078"
+      - "203D66D0 2E382520"
+      - "203D66D4 00007838"
+
+  - name: "Change Cash To Hex (00000000)"
+    notes: "[Other]"
+    codes:
+      - "003D66CC 00000078"
+
+  - name: "Showed Rampage Timer In Hex (00:00)"
+    notes: "[Other]"
+    codes:
+      - "003D6459 00000078"
+      - "003D645E 00000078"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Masters]"
+    codes:
+      - "90360788 00832021"
+
+  - name: "Infinite Health"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MORE COMING SOON!!]"
+    codes:
+      - "200C0220 3C0142C8"
+      - "200C0224 AC6104B8"
+      - "200C0228 0809022F"
+      - "200C022C C46004B8"
+      - "202408B8 08030088"
+
+  - name: "Infinite Armor"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MORE COMING SOON!!]"
+    codes:
+      - "200C0230 3C0142C8"
+      - "200C0234 AC6104BC"
+      - "200C0238 08090263"
+      - "200C023C C46004BC"
+      - "20240988 0803008C"
+
+  - name: "Quick Money Gain"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MORE COMING SOON!!]"
+    codes:
+      - "10408EFC 0000FFFF"
+      - "10408F00 0000FFFF"
+
+  - name: "Max Money"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MORE COMING SOON!!]"
+    codes:
+      - "20408EFC 05F5E0FF"
+      - "20408F00 05F5E0FF"
+
+  - name: "Infinite Run"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MORE COMING SOON!!]"
+    codes:
+      - "20408FAC 00000001"
+
+  - name: "Infinite Ammo-All Weapons"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MORE COMING SOON!!]"
+    codes:
+      - "202A2DD0 00000000"
+      - "202A2E34 00000000"
+
+  - name: "Max Infinite Ammo-All Weapons"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MORE COMING SOON!!]"
+    codes:
+      - "202A2DCC 24020063"
+      - "202A2E30 240203E7"
+
+  - name: "Extra Ammo-All Weapons"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MORE COMING SOON!!]"
+    codes:
+      - "102A2DCC 00000001"
+      - "102A2E30 00000001"
+
+  - name: "Infinite Ammo-All Weapons (Inside Car)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MORE COMING SOON!!]"
+    codes:
+      - "202A31C8 00000000"
+      - "202A3228 00000000"
+
+  - name: "Max Infinite Ammo-All Weapons (Inside Car)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MORE COMING SOON!!]"
+    codes:
+      - "202A31C4 24020063"
+      - "202A3224 24020063"
+
+  - name: "Extra Ammo-All Weapons (Inside Car)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MORE COMING SOON!!]"
+    codes:
+      - "102A31C4 00000001"
+      - "102A3224 00000001"
+
+  - name: "Infinite Armor (Alternate)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MORE COMING SOON!!]"
+    codes:
+      - "201C2AFC 00000000"
+
+  - name: "Riot Mode"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MORE COMING SOON!!]"
+    codes:
+      - "201D28E8 2404FFFF"
+
+  - name: "Freeze Daily Time"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MORE COMING SOON!!]"
+    codes:
+      - "201F88C0 03E00008"
+      - "201F88C4 00000000"
+
+  - name: "Infinite Time"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MORE COMING SOON!!]"
+    codes:
+      - "202E3FF0 03E00008"
+      - "202E3FF4 00000000"
+
+  - name: "Crimes Never Registered"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MORE COMING SOON!!]"
+    codes:
+      - "202F5458 03E00008"
+      - "202F545C 00000000"
+
+  - name: "Infinite Run (Alternate)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MORE COMING SOON!!]"
+    codes:
+      - "20348E78 00000000"
+
+  - name: "100X Game Speed"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MORE COMING SOON!!]"
+    codes:
+      - "203D9CE4 42C80000"
+
+  - name: "4X Game Speed"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MORE COMING SOON!!]"
+    codes:
+      - "203D9CE4 40800000"
+
+  - name: "2X Game Speed"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MORE COMING SOON!!]"
+    codes:
+      - "203D9CE4 40000000"
+
+  - name: "1/2 Game Speed"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MORE COMING SOON!!]"
+    codes:
+      - "203D9CE4 3F000000"
+
+  - name: "Never Wanted"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MORE COMING SOON!!]"
+    codes:
+      - "202F4C48 03E00008"
+      - "202F4C4C 00000000"
+
+  - name: "None"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Always Wanted Level Codes]"
+    codes:
+      - "202F4C74 24110000"
+
+  - name: "Level 1"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Always Wanted Level Codes]"
+    codes:
+      - "202F4C74 24110001"
+
+  - name: "Level 2"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Always Wanted Level Codes]"
+    codes:
+      - "202F4C74 24110002"
+
+  - name: "Level 3"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Always Wanted Level Codes]"
+    codes:
+      - "202F4C74 24110003"
+
+  - name: "Level 4"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Always Wanted Level Codes]"
+    codes:
+      - "202F4C74 24110004"
+
+  - name: "Level 5"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Always Wanted Level Codes]"
+    codes:
+      - "202F4C74 24110005"
+
+  - name: "Level 6"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Always Wanted Level Codes]"
+    codes:
+      - "202F4C74 24110006"
+
+  - name: "Bobble Head World"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "203D4E88 00000001"
+
+  - name: "Have People Follow You"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "203D4E8C 00000001"
+
+  - name: "Aggressive Drivers"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "203D56EC 00000001"
+
+  - name: "Cars Only Have Tires Visible"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "203D88B8 00000001"
+
+  - name: "Cars Go Crazy Upon Driving"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "203D88BC 00000001"
+
+  - name: "Perfect Traction"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "203D88C0 00000001"
+
+  - name: "Faster Clock"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "203D91F0 00000001"
+
+  - name: "No Tires"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Motorcyle Tire Size Modifier Codes]"
+    codes:
+      - "203D0908 00000000"
+
+  - name: "1/2 Size"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Motorcyle Tire Size Modifier Codes]"
+    codes:
+      - "203D0908 3F000000"
+
+  - name: "2X Size"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Motorcyle Tire Size Modifier Codes]"
+    codes:
+      - "203D0908 40000000"
+
+  - name: "4X Size"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Motorcyle Tire Size Modifier Codes]"
+    codes:
+      - "203D0908 40800000"
+
+  - name: "8X Size"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Motorcyle Tire Size Modifier Codes]"
+    codes:
+      - "203D0908 41000000"
+
+  - name: "12 A.M."
+    author: "Code Master>Lajos Szalay"
+    notes: "[Time Of Day Modifier Codes]"
+    codes:
+      - "203D9B74 00000000"
+      - "203D9B80 00000000"
+
+  - name: "1 A.M."
+    author: "Code Master>Lajos Szalay"
+    notes: "[Time Of Day Modifier Codes]"
+    codes:
+      - "203D9B74 00000001"
+      - "203D9B80 00000000"
+
+  - name: "2 A.M."
+    author: "Code Master>Lajos Szalay"
+    notes: "[Time Of Day Modifier Codes]"
+    codes:
+      - "203D9B74 00000002"
+      - "203D9B80 00000000"
+
+  - name: "3 A.M."
+    author: "Code Master>Lajos Szalay"
+    notes: "[Time Of Day Modifier Codes]"
+    codes:
+      - "203D9B74 00000003"
+      - "203D9B80 00000000"
+
+  - name: "4 A.M."
+    author: "Code Master>Lajos Szalay"
+    notes: "[Time Of Day Modifier Codes]"
+    codes:
+      - "203D9B74 00000004"
+      - "203D9B80 00000000"
+
+  - name: "5 A.M."
+    author: "Code Master>Lajos Szalay"
+    notes: "[Time Of Day Modifier Codes]"
+    codes:
+      - "203D9B74 00000005"
+      - "203D9B80 00000000"
+
+  - name: "6 A.M."
+    author: "Code Master>Lajos Szalay"
+    notes: "[Time Of Day Modifier Codes]"
+    codes:
+      - "203D9B74 00000006"
+      - "203D9B80 00000000"
+
+  - name: "7 A.M."
+    author: "Code Master>Lajos Szalay"
+    notes: "[Time Of Day Modifier Codes]"
+    codes:
+      - "203D9B74 00000007"
+      - "203D9B80 00000000"
+
+  - name: "8 A.M."
+    author: "Code Master>Lajos Szalay"
+    notes: "[Time Of Day Modifier Codes]"
+    codes:
+      - "203D9B74 00000008"
+      - "203D9B80 00000000"
+
+  - name: "9 A.M."
+    author: "Code Master>Lajos Szalay"
+    notes: "[Time Of Day Modifier Codes]"
+    codes:
+      - "203D9B74 00000009"
+      - "203D9B80 00000000"
+
+  - name: "10 A.M."
+    author: "Code Master>Lajos Szalay"
+    notes: "[Time Of Day Modifier Codes]"
+    codes:
+      - "203D9B74 0000000A"
+      - "203D9B80 00000000"
+
+  - name: "11 A.M."
+    author: "Code Master>Lajos Szalay"
+    notes: "[Time Of Day Modifier Codes]"
+    codes:
+      - "203D9B74 0000000B"
+      - "203D9B80 00000000"
+
+  - name: "12 P.M."
+    author: "Code Master>Lajos Szalay"
+    notes: "[Time Of Day Modifier Codes]"
+    codes:
+      - "203D9B74 0000000C"
+      - "203D9B80 00000000"
+
+  - name: "1 P.M."
+    author: "Code Master>Lajos Szalay"
+    notes: "[Time Of Day Modifier Codes]"
+    codes:
+      - "203D9B74 0000000D"
+      - "203D9B80 00000000"
+
+  - name: "2 P.M."
+    author: "Code Master>Lajos Szalay"
+    notes: "[Time Of Day Modifier Codes]"
+    codes:
+      - "203D9B74 0000000E"
+      - "203D9B80 00000000"
+
+  - name: "3 P.M."
+    author: "Code Master>Lajos Szalay"
+    notes: "[Time Of Day Modifier Codes]"
+    codes:
+      - "203D9B74 0000000F"
+      - "203D9B80 00000000"
+
+  - name: "4 P.M."
+    author: "Code Master>Lajos Szalay"
+    notes: "[Time Of Day Modifier Codes]"
+    codes:
+      - "203D9B74 00000010"
+      - "203D9B80 00000000"
+
+  - name: "5 P.M."
+    author: "Code Master>Lajos Szalay"
+    notes: "[Time Of Day Modifier Codes]"
+    codes:
+      - "203D9B74 00000011"
+      - "203D9B80 00000000"
+
+  - name: "6 P.M."
+    author: "Code Master>Lajos Szalay"
+    notes: "[Time Of Day Modifier Codes]"
+    codes:
+      - "203D9B74 00000012"
+      - "203D9B80 00000000"
+
+  - name: "7 P.M."
+    author: "Code Master>Lajos Szalay"
+    notes: "[Time Of Day Modifier Codes]"
+    codes:
+      - "203D9B74 00000013"
+      - "203D9B80 00000000"
+
+  - name: "8 P.M."
+    author: "Code Master>Lajos Szalay"
+    notes: "[Time Of Day Modifier Codes]"
+    codes:
+      - "203D9B74 00000014"
+      - "203D9B80 00000000"
+
+  - name: "9 P.M."
+    author: "Code Master>Lajos Szalay"
+    notes: "[Time Of Day Modifier Codes]"
+    codes:
+      - "203D9B74 00000015"
+      - "203D9B80 00000000"
+
+  - name: "10 P.M."
+    author: "Code Master>Lajos Szalay"
+    notes: "[Time Of Day Modifier Codes]"
+    codes:
+      - "203D9B74 00000016"
+      - "203D9B80 00000000"
+
+  - name: "11 P.M."
+    author: "Code Master>Lajos Szalay"
+    notes: "[Time Of Day Modifier Codes]"
+    codes:
+      - "203D9B74 00000017"
+      - "203D9B80 00000000"
+
+  - name: "Always Sunny"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Weather Modifier Codes]"
+    codes:
+      - "103D9CAA 00000000"
+      - "103D9CAC 00000000"
+      - "103DA190 00000000"
+
+  - name: "Always Overcast"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Weather Modifier Codes]"
+    codes:
+      - "103D9CAA 00000001"
+      - "103D9CAC 00000001"
+      - "103DA190 00000001"
+
+  - name: "Always Raining"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Weather Modifier Codes]"
+    codes:
+      - "103D9CAA 00000002"
+      - "103D9CAC 00000002"
+      - "103DA190 00000002"
+
+  - name: "Always Foggy"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Weather Modifier Codes]"
+    codes:
+      - "103D9CAA 00000003"
+      - "103D9CAC 00000003"
+      - "103DA190 00000003"
+
+  - name: "Always Clear Weather"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Weather Modifier Codes]"
+    codes:
+      - "103D9CAA 00000004"
+      - "103D9CAC 00000004"
+      - "103DA190 00000004"
+
+  - name: "Deimos SP"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 24040082"
+
+  - name: "Landstalker"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 24040083"
+
+  - name: "Idaho"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 24040084"
+
+  - name: "Stinger"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 24040085"
+
+  - name: "Linerunner"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 24040086"
+
+  - name: "Perennial"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 24040087"
+
+  - name: "Sentinel"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 24040088"
+
+  - name: "Patriot"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 24040089"
+
+  - name: "Firetruck"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 2404008A"
+
+  - name: "Trashmaster"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 2404008B"
+
+  - name: "Stretch"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 2404008C"
+
+  - name: "Manana"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 2404008D"
+
+  - name: "Infernus"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 2404008E"
+
+  - name: "Blista"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 2404008F"
+
+  - name: "Pony"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 24040090"
+
+  - name: "Mule"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 24040091"
+
+  - name: "Cheetah"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 24040092"
+
+  - name: "Ambulance"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 24040093"
+
+  - name: "FBI Cruiser"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 24040094"
+
+  - name: "Moonbeam"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 24040095"
+
+  - name: "Esperanto"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 24040096"
+
+  - name: "Taxi"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 24040097"
+
+  - name: "Kuruma"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 24040098"
+
+  - name: "Bobcat"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 24040099"
+
+  - name: "Mr Whoopee"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 2404009A"
+
+  - name: "BF Injection"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 2404009B"
+
+  - name: "Hearse"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 2404009C"
+
+  - name: "Police"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 2404009D"
+
+  - name: "Enforcer"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 2404009E"
+
+  - name: "Securicar"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 2404009F"
+
+  - name: "Banshee"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400A0"
+
+  - name: "Bus"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400A1"
+
+  - name: "Rhino"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400A2"
+
+  - name: "Barracks OL"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400A3"
+
+  - name: "Dodo"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400A4"
+
+  - name: "Coach"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400A5"
+
+  - name: "Cabbie"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400A6"
+
+  - name: "Stallion"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400A7"
+
+  - name: "Rumpo"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400A8"
+
+  - name: "RC Bandit"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400A9"
+
+  - name: "Triad Fish Van"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400AA"
+
+  - name: "Mr Wongs"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400AB"
+
+  - name: "Leone Sentinel"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400AC"
+
+  - name: "Yardie Lobo"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400AD"
+
+  - name: "Yakuza Stinger"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400AE"
+
+  - name: "Diablo Stallion"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400AF"
+
+  - name: "Cartel Cruiser"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400B0"
+
+  - name: "Hoods Rumpo XL"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400B1"
+
+  - name: "Panlantic"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400B2"
+
+  - name: "Flatbed"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400B3"
+
+  - name: "Yankee"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400B4"
+
+  - name: "Bickle '76"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400B5"
+
+  - name: "Toyz"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400B6"
+
+  - name: "Campaign Rumpo"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400B7"
+
+  - name: "Ballot Van"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400B8"
+
+  - name: "Hellenbach GT"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400B9"
+
+  - name: "Phobos GT"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400BA"
+
+  - name: "V8 Ghost"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400BB"
+
+  - name: "Thunder-Rodd"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400BD"
+
+  - name: "Sindacco Argento"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400BE"
+
+  - name: "Forelli Express"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400BF"
+
+  - name: "Hunter (Chopper)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400D5"
+
+  - name: "Helicopter"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400D6"
+
+  - name: "LCPD Helicopter"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400D7"
+
+  - name: "VCN Helicopter"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Press Select For Car Codes]"
+    codes:
+      - "10170A20 00000024"
+      - "10170A2C 00000054"
+      - "20170A3C 0C05B48A"
+      - "20170A40 240400D8"

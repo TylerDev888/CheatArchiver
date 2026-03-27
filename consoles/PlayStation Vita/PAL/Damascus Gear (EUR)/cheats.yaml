@@ -1,0 +1,17 @@
+# Damascus Gear (EUR) cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00704
+
+game: "Damascus Gear (EUR)"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00704"
+cheat_type: "Save Editor"
+source: "Credits: Slade"
+
+cheats:
+  - name: "999,999,999 Eyn"
+    notes: "File: gear_save_00.bin"
+    codes:
+      - "2000003C 3B9AC9FF"

@@ -1,0 +1,45 @@
+# Pirates, The Legend Of Black Kat cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Pirates, The Legend Of Black Kat"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F02A7D98 002C964F"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2021E864 00000000"
+
+  - name: "Doubloons"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20411F68 05F5E0FF"
+
+  - name: "Wind Dancer Hull"
+    author: "Xploder"
+    notes: "[Invulnerable]"
+    codes:
+      - "E0020000 10320644"
+      - "50320644 00000010"
+      - "0032066C 00000000"
+
+  - name: "Wind Dancer Sails"
+    author: "Xploder"
+    notes: "[Invulnerable]"
+    codes:
+      - "E0020000 10320644"
+      - "50320654 00000004"
+      - "0032067C 00000000"

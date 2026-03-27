@@ -1,0 +1,64 @@
+# Da Vinci Code, The cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54031
+
+game: "Da Vinci Code, The"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54031"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F011F710 0011F713"
+
+  - name: "Disable A.I. (Press L3 To Disable A.I.; R3 To Restart)"
+    author: "Codejunkies"
+    codes:
+      - "E10100FD 00760902"
+      - "01FD7024 00000001"
+      - "E10100FB 00760902"
+      - "01FD7024 00000000"
+
+  - name: "God Mode"
+    author: "Codejunkies"
+    codes:
+      - "01FD7029 00000001"
+
+  - name: "Hyper Mode (Press Right)"
+    author: "Codejunkies"
+    notes: "[Speed Modifier Codes]"
+    codes:
+      - "E10100DF 00760902"
+      - "21FD7054 40400000"
+
+  - name: "Normal Speed (Press Left)"
+    author: "Codejunkies"
+    notes: "[Speed Modifier Codes]"
+    codes:
+      - "E101007F 00760902"
+      - "21FD7054 3F800000"
+
+  - name: "Quicker Game (Press Up)"
+    author: "Codejunkies"
+    notes: "[Speed Modifier Codes]"
+    codes:
+      - "E10100EF 00760902"
+      - "21FD7054 3FC00000"
+
+  - name: "Slow Motion (Press Down)"
+    author: "Codejunkies"
+    notes: "[Speed Modifier Codes]"
+    codes:
+      - "E10100BF 00760902"
+      - "21FD7054 3E800000"
+
+  - name: "Unlock All Levels"
+    author: "Codejunkies"
+    codes:
+      - "20401FA0 24020100"

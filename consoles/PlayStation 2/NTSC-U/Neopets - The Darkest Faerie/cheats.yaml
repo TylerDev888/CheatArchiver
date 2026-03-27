@@ -1,0 +1,108 @@
+# Neopets - The Darkest Faerie cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97367
+
+game: "Neopets - The Darkest Faerie"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97367"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "9029E128 00832021"
+
+  - name: "Master Code"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "90260CAC 0C0A785E"
+
+  - name: "Infinite Health"
+    author: "MadCatz"
+    codes:
+      - "503353C8 00000002"
+      - "003353C4 00000000"
+
+  - name: "Infinite Magic"
+    author: "MadCatz"
+    codes:
+      - "503353D0 00000002"
+      - "003353CC 00000000"
+
+  - name: "Infinite Neopoints"
+    author: "MadCatz"
+    codes:
+      - "2037F2CC 0000270F"
+
+  - name: "Buying Items Doesn't Decrease Neo Points"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201767AC 24050000"
+
+  - name: "Buying Items Increases Neo Points"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201767AC 00000000"
+
+  - name: "Extra Items"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201AA35C 00651021"
+
+  - name: "Infinite HP"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "200C0220 8C820158"
+      - "200C0224 03E00008"
+      - "200C0228 AC820154"
+      - "201E2CD8 0C030088"
+
+  - name: "Infinite Item Usage"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201AA364 00000000"
+
+  - name: "Max HP"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "200C0230 240201F4"
+      - "200C0234 03E00008"
+      - "200C0238 AC820158"
+      - "201E2D0C 0C03008C"
+
+  - name: "Max Infinite Items"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201AA35C 24020064"
+
+  - name: "Max Magic"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "200C0250 240201F4"
+      - "200C0254 03E00008"
+      - "200C0258 AC820160"
+      - "201E2E28 0C030094"
+
+  - name: "Max Neo Points"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "200C0260 3C060098"
+      - "200C0264 34C6967F"
+      - "200C0268 0806A37E"
+      - "200C026C AC460014"
+      - "2019EC80 0C030098"

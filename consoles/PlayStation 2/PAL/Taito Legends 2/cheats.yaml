@@ -1,0 +1,127 @@
+# Taito Legends 2 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53852
+
+game: "Taito Legends 2"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53852"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01306F0 001306F3"
+
+  - name: "Enable Code (Must Be On)"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "90112950 0C0449FC"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Arabian Magic Codes]"
+    codes:
+      - "00802B94 00000020"
+
+  - name: "Infinite Time"
+    author: "Codejunkies"
+    notes: "[Arabian Magic Codes]"
+    codes:
+      - "00803FAA 00000061"
+
+  - name: "Infinite Bombs"
+    author: "Codejunkies"
+    notes: "[Darius Gaiden Codes]"
+    codes:
+      - "00820632 00000003"
+
+  - name: "Infinite Lives"
+    author: "Codejunkies"
+    notes: "[Darius Gaiden Codes]"
+    codes:
+      - "0082061E 00000002"
+
+  - name: "Invincible"
+    author: "Codejunkies"
+    notes: "[Darius Gaiden Codes]"
+    codes:
+      - "00820622 000000F0"
+
+  - name: "Player 1 Inf Bombs (CB7+ Only)"
+    author: "lee4"
+    notes: "[Darius Gaiden Codes]"
+    codes:
+      - "E002000E 00227544"
+      - "60228165 0001B1F2"
+      - "00010001 00000001"
+
+  - name: "Player 1 Inf Lives (CB7+ Only)"
+    author: "lee4"
+    notes: "[Darius Gaiden Codes]"
+    codes:
+      - "E002000E 00227544"
+      - "60228165 0001B1DE"
+      - "00010001 00000001"
+
+  - name: "Player 1 Invincibility (CB7+ Only)"
+    author: "lee4"
+    notes: "[Darius Gaiden Codes]"
+    codes:
+      - "E002000E 00227544"
+      - "60228165 0001B1E2"
+      - "00010001 00000001"
+
+  - name: "Player 2 Inf Bombs (CB7+ Only)"
+    author: "lee4"
+    notes: "[Darius Gaiden Codes]"
+    codes:
+      - "E002000E 00227544"
+      - "60228165 0001B278"
+      - "00010001 00000001"
+
+  - name: "Player 2 Inf Lives (CB7+ Only)"
+    author: "lee4"
+    notes: "[Darius Gaiden Codes]"
+    codes:
+      - "E002000E 00227544"
+      - "60228165 0001B264"
+      - "00010001 00000001"
+
+  - name: "Player 2 Invincibility (CB7+ Only)"
+    author: "lee4"
+    notes: "[Darius Gaiden Codes]"
+    codes:
+      - "E002000E 00227544"
+      - "60228165 0001B268"
+      - "00010001 00000001"
+
+  - name: "Infinite Power Move"
+    author: "Codejunkies"
+    notes: "[Dungeon Magic Codes]"
+    codes:
+      - "007CD686 00000003"
+
+  - name: "Max Beam"
+    author: "Codejunkies"
+    notes: "[Metal Black Codes]"
+    codes:
+      - "006B1443 00000028"
+
+  - name: "60Hz"
+    author: "lee4"
+    codes:
+      - "00227800 00000001"
+
+  - name: "Skip FMV (Press Start)"
+    author: "lee4"
+    codes:
+      - "D023209C 0000FFFE"
+      - "2010A290 8C620000"
+      - "D023209C 0000FFF7"
+      - "2010A290 24020001"

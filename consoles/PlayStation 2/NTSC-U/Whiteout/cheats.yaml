@@ -1,0 +1,38 @@
+# Whiteout cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20599
+
+game: "Whiteout"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20599"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0011428F"
+
+  - name: "Hella Score Gain"
+    author: "Code Master"
+    codes:
+      - "202FBA00 24C27FFF"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    codes:
+      - "2029C6F8 00000000"
+
+  - name: "Max Money (Career Mode)"
+    author: "Code Master"
+    codes:
+      - "208A1FDC 4B18967F"
+
+  - name: "Quick Score Gain"
+    author: "Code Master"
+    codes:
+      - "202FBA00 24C2270F"

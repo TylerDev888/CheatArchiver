@@ -1,0 +1,73 @@
+# Syphon Filter_ The Omega Strain cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Syphon Filter_ The Omega Strain"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9026B90C 0C09AF8C"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C2000 24052710"
+      - "200C2004 44850000"
+      - "200C2008 46800020"
+      - "200C200C 0808E824"
+      - "200C2010 E6200040"
+      - "20242E00 0C030800"
+
+  - name: "Armor"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20187E18 00000000"
+
+  - name: "Ammunition (No Reload)"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2014404C 00000000"
+
+  - name: "Grenades"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20145508 24003634"
+
+  - name: "Ammunition (All Weapons)"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "20146CD8 00820821"
+      - "20146CE0 240203E7"
+      - "20146CF0 AC220010"
+
+  - name: "Timer"
+    author: "Xploder"
+    notes: "[Stop]"
+    codes:
+      - "2023AE8C 3C104270"
+      - "2023AE94 44900000"
+
+  - name: "All Weapons"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "20338AF0 2003FFFF"
+
+  - name: "All Levels"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "20338FC0 2002FFFF"

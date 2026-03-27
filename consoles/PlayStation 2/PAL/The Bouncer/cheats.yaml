@@ -1,0 +1,24 @@
+# The Bouncer cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "The Bouncer"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 002DD157"
+
+  - name: "Unlimited BP"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "103C88F0 0723FFFF"
+      - "103C88F8 0723FFFF"

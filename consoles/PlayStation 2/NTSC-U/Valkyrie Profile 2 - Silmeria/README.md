@@ -1,0 +1,1161 @@
+# Valkyrie Profile 2 - Silmeria
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-21452  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Enable Code (Must Be On)
+**Author:** Code Master  
+**Notes:** [Master Codes]
+
+```
+9013A550 0C04E8FC
+E0033B40 0035EC8C
+104234AA 00001000
+10423662 00001000
+1042382A 00001000
+E0027EC0 0049550C
+2049BCB0 03E00008
+2049BCB4 00000000
+E007E140 0036D90C
+203683D4 00000000
+103AD16A 00001000
+103AD61E 00001000
+10430B76 00001000
+10430BE2 00001000
+10431A66 00001000
+10431C1E 00001000
+D0397CAC 0000102A
+20397CB0 00000000
+```
+
+---
+
+### Mastercode
+**Author:** MadCatz  
+**Notes:** [Master Codes]
+
+```
+90121500 0C04CB22
+```
+
+---
+
+### 99 Minutes, First Time Entered Ravine Caverns ( Press Square+L1 )
+**Author:** 12345
+
+```
+E0027BFF 001CA1DC
+601D3698 00000063
+00000000 00000218
+```
+
+---
+
+### Gain 5000 Crystals Per Battle
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+D036D90C 0000E140
+203D39EC 34101388
+```
+
+---
+
+### Gain 5000 EXP Per Battle
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+D036D90C 0000E140
+203D0544 34021388
+```
+
+---
+
+### Gain 5000 Oth Per Battle
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+D036D90C 0000E140
+203D3654 34101388
+```
+
+---
+
+### Gain 10000 Crystals Per Battle
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+D036D90C 0000E140
+203D39EC 34102710
+```
+
+---
+
+### Gain 10000 EXP Per Battle
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+D036D90C 0000E140
+203D0544 34022710
+```
+
+---
+
+### Gain 10000 Oth Per Battle
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+D036D90C 0000E140
+203D3654 34102710
+```
+
+---
+
+### Gain 20000 Crystals Per Battle
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+D036D90C 0000E140
+203D39EC 34104E20
+```
+
+---
+
+### Gain 20000 EXP Per Battle
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+D036D90C 0000E140
+203D0544 34024E20
+```
+
+---
+
+### Gain 20000 Oth Per Battle
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+D036D90C 0000E140
+203D3654 34104E20
+```
+
+---
+
+### Gain 30000 Crystals Per Battle
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+D036D90C 0000E140
+203D39EC 34107530
+```
+
+---
+
+### Gain 30000 EXP Per Battle
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+D036D90C 0000E140
+203D0544 34027530
+```
+
+---
+
+### Gain 30000 Oth Per Battle
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+D036D90C 0000E140
+203D3654 34107530
+```
+
+---
+
+### Gain 40000 Crystals Per Battle
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+D036D90C 0000E140
+203D39EC 34109C40
+```
+
+---
+
+### Gain 40000 EXP Per Battle
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+D036D90C 0000E140
+203D0544 34029C40
+```
+
+---
+
+### Gain 40000 Oth Per Battle
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+D036D90C 0000E140
+203D3654 34109C40
+```
+
+---
+
+### Gain 50000 Crystals Per Battle
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+D036D90C 0000E140
+203D39EC 3410C350
+```
+
+---
+
+### Gain 50000 EXP Per Battle
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+D036D90C 0000E140
+203D0544 3402C350
+```
+
+---
+
+### Gain 50000 Oth Per Battle
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+D036D90C 0000E140
+203D3654 3410C350
+```
+
+---
+
+### Gain 100000 EXP Per Battle
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+E002E140 0036D90C
+203D0538 3C020001
+203D0544 344286A0
+```
+
+---
+
+### Gain 200000 EXP Per Battle
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+E002E140 0036D90C
+203D0538 3C020003
+203D0544 34420D40
+```
+
+---
+
+### Gain 500000 EXP Per Battle
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+E002E140 0036D90C
+203D0538 3C020007
+203D0544 3442A120
+```
+
+---
+
+### Gain 1000000 EXP Per Battle
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+E002E140 0036D90C
+203D0538 3C02000F
+203D0544 34424240
+```
+
+---
+
+### Gain Max Agl Upon Level Up
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+D01E7E0C 0000BFB0
+202F7390 2403270F
+```
+
+---
+
+### Gain Max Con Upon Level Up
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+D01E7E0C 0000BFB0
+202F7A7C 2402270F
+```
+
+---
+
+### Gain Max Dex Upon Level Up
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+D01E7E0C 0000BFB0
+202F7718 2403270F
+```
+
+---
+
+### Gain Max EXP After 1 Battle
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+E002E140 0036D90C
+203D0538 3C023B9A
+203D0544 3442C9FF
+```
+
+---
+
+### Gain Max Int Upon Level Up
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+D01E7E0C 0000BFB0
+202F6F88 2403270F
+```
+
+---
+
+### Gain Max Str Upon Level Up
+**Author:** Code Master  
+**Notes:** [After Battle Codes]
+
+```
+D01E7E0C 0000BFB0
+202F6C18 2403270F
+```
+
+---
+
+### Weapon 1 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+10314C04 0000FFFF
+10314C08 0000FFFF
+10314C0C 0000FFFF
+10314C10 0000FFFF
+10314C14 0000FFFF
+10314C18 0000FFFF
+10314C22 00006464
+40314C24 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 2 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+10314C3C 0000FFFF
+10314C40 0000FFFF
+10314C44 0000FFFF
+10314C48 0000FFFF
+10314C4C 0000FFFF
+10314C50 0000FFFF
+10314C5A 00006464
+40314C5C 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 3 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+10314C74 0000FFFF
+10314C78 0000FFFF
+10314C7C 0000FFFF
+10314C80 0000FFFF
+10314C84 0000FFFF
+10314C88 0000FFFF
+10314C92 00006464
+40314C94 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 4 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+10314CAC 0000FFFF
+10314CB0 0000FFFF
+10314CB4 0000FFFF
+10314CB8 0000FFFF
+10314CBC 0000FFFF
+10314CC0 0000FFFF
+10314CCA 00006464
+40314CCC 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 5 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+10314CE4 0000FFFF
+10314CE8 0000FFFF
+10314CEC 0000FFFF
+10314CF0 0000FFFF
+10314CF4 0000FFFF
+10314CF8 0000FFFF
+10314D02 00006464
+40314D04 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 6 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+10314D1C 0000FFFF
+10314D20 0000FFFF
+10314D24 0000FFFF
+10314D28 0000FFFF
+10314D2C 0000FFFF
+10314D30 0000FFFF
+10314D3A 00006464
+40314D3C 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 7 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+10314D54 0000FFFF
+10314D58 0000FFFF
+10314D5C 0000FFFF
+10314D60 0000FFFF
+10314D64 0000FFFF
+10314D68 0000FFFF
+10314D72 00006464
+40314D74 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 8 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+10314D8C 0000FFFF
+10314D90 0000FFFF
+10314D94 0000FFFF
+10314D98 0000FFFF
+10314D9C 0000FFFF
+10314DA0 0000FFFF
+10314DAA 00006464
+40314DAC 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 9 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+10314DC4 0000FFFF
+10314DC8 0000FFFF
+10314DCC 0000FFFF
+10314DD0 0000FFFF
+10314DD4 0000FFFF
+10314DD8 0000FFFF
+10314DE2 00006464
+40314DE4 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 10 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+10314DFC 0000FFFF
+10314E00 0000FFFF
+10314E04 0000FFFF
+10314E08 0000FFFF
+10314E0C 0000FFFF
+10314E10 0000FFFF
+10314E1A 00006464
+40314E1C 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 11 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+10314E34 0000FFFF
+10314E38 0000FFFF
+10314E3C 0000FFFF
+10314E40 0000FFFF
+10314E44 0000FFFF
+10314E48 0000FFFF
+10314E52 00006464
+40314E54 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 12 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+10314E6C 0000FFFF
+10314E70 0000FFFF
+10314E74 0000FFFF
+10314E78 0000FFFF
+10314E7C 0000FFFF
+10314E80 0000FFFF
+10314E8A 00006464
+40314E8C 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 13 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+10314EA4 0000FFFF
+10314EA8 0000FFFF
+10314EAC 0000FFFF
+10314EB0 0000FFFF
+10314EB4 0000FFFF
+10314EB8 0000FFFF
+10314EC2 00006464
+40314EC4 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 14 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+10314EDC 0000FFFF
+10314EE0 0000FFFF
+10314EE4 0000FFFF
+10314EE8 0000FFFF
+10314EEC 0000FFFF
+10314EF0 0000FFFF
+10314EFA 00006464
+40314EFC 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 15 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+10314F14 0000FFFF
+10314F18 0000FFFF
+10314F1C 0000FFFF
+10314F20 0000FFFF
+10314F24 0000FFFF
+10314F28 0000FFFF
+10314F32 00006464
+40314F34 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 16 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+10314F4C 0000FFFF
+10314F50 0000FFFF
+10314F54 0000FFFF
+10314F58 0000FFFF
+10314F5C 0000FFFF
+10314F60 0000FFFF
+10314F6A 00006464
+40314F6C 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 17 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+10314F84 0000FFFF
+10314F88 0000FFFF
+10314F8C 0000FFFF
+10314F90 0000FFFF
+10314F94 0000FFFF
+10314F98 0000FFFF
+10314FA2 00006464
+40314FA4 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 18 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+10314FBC 0000FFFF
+10314FC0 0000FFFF
+10314FC4 0000FFFF
+10314FC8 0000FFFF
+10314FCC 0000FFFF
+10314FD0 0000FFFF
+10314FDA 00006464
+40314FDC 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 19 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+10314FF4 0000FFFF
+10314FF8 0000FFFF
+10314FFC 0000FFFF
+10315000 0000FFFF
+10315004 0000FFFF
+10315008 0000FFFF
+10315012 00006464
+40315014 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 20 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+1031502C 0000FFFF
+10315030 0000FFFF
+10315034 0000FFFF
+10315038 0000FFFF
+1031503C 0000FFFF
+10315040 0000FFFF
+1031504A 00006464
+4031504C 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 21 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+10315064 0000FFFF
+10315068 0000FFFF
+1031506C 0000FFFF
+10315070 0000FFFF
+10315074 0000FFFF
+10315078 0000FFFF
+10315082 00006464
+40315084 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 22 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+1031509C 0000FFFF
+103150A0 0000FFFF
+103150A4 0000FFFF
+103150A8 0000FFFF
+103150AC 0000FFFF
+103150B0 0000FFFF
+103150BA 00006464
+403150BC 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 23 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+103150D4 0000FFFF
+103150D8 0000FFFF
+103150DC 0000FFFF
+103150E0 0000FFFF
+103150E4 0000FFFF
+103150E8 0000FFFF
+103150F2 00006464
+403150F4 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 24 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+1031510C 0000FFFF
+10315110 0000FFFF
+10315114 0000FFFF
+10315118 0000FFFF
+1031511C 0000FFFF
+10315120 0000FFFF
+1031512A 00006464
+4031512C 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 25 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+10315144 0000FFFF
+10315148 0000FFFF
+1031514C 0000FFFF
+10315150 0000FFFF
+10315154 0000FFFF
+10315158 0000FFFF
+10315162 00006464
+40315164 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 26 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+1031517C 0000FFFF
+10315180 0000FFFF
+10315184 0000FFFF
+10315188 0000FFFF
+1031518C 0000FFFF
+10315190 0000FFFF
+1031519A 00006464
+4031519C 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 27 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+103151B4 0000FFFF
+103151B8 0000FFFF
+103151BC 0000FFFF
+103151C0 0000FFFF
+103151C4 0000FFFF
+103151C8 0000FFFF
+103151D2 00006464
+403151D4 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 28 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+103151EC 0000FFFF
+103151F0 0000FFFF
+103151F4 0000FFFF
+103151F8 0000FFFF
+103151FC 0000FFFF
+10315200 0000FFFF
+1031520A 00006464
+4031520C 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 29 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+10315224 0000FFFF
+10315228 0000FFFF
+1031522C 0000FFFF
+10315230 0000FFFF
+10315234 0000FFFF
+10315238 0000FFFF
+10315242 00006464
+40315244 00030001
+64646464 00000000
+```
+
+---
+
+### Weapon 30 High Status
+**Author:** MadCatz  
+**Notes:** [Alicia]
+
+```
+1031525C 0000FFFF
+10315260 0000FFFF
+10315264 0000FFFF
+10315268 0000FFFF
+1031526C 0000FFFF
+10315270 0000FFFF
+1031527A 00006464
+4031527C 00030001
+64646464 00000000
+```
+
+---
+
+### All Items 99
+**Author:** Skiller
+
+```
+2030D1B8 240F03E7
+2030D1BC 0080702D
+2030D1C0 240D0063
+2030D1C4 A1CD0002
+2030D1C8 25EFFFFF
+2030D1CC 15E0FFFD
+2030D1D0 25CE0004
+```
+
+---
+
+### View Menu For Max Current HP
+**Author:** Code Master  
+**Notes:** [Camp Menu Codes]
+
+```
+E0093B40 0035EC8C
+200C025C 3C017DB9
+200C0260 3421FC97
+200C0264 8C47000C
+200C0268 00E13826
+200C026C 3C011C6F
+200C0270 34217603
+200C0274 00E13826
+200C0278 03E00008
+200C027C AC470010
+2045EFC8 0C030097
+1045EFEE 00001000
+2045EFF0 AC430018
+```
+
+---
+
+### View Menu For Max Oth
+**Author:** Code Master  
+**Notes:** [Camp Menu Codes]
+
+```
+E0085821 00460AB4
+200C0240 3C01323B
+200C0244 3421875C
+200C0248 AD01006C
+200C024C 03E00008
+200C0250 8D0B0004
+20460968 0C030090
+10460AC6 00001000
+20460AC8 AD0B0018
+```
+
+---
+
+### View Menu For Max Overall HP
+**Author:** Code Master  
+**Notes:** [Camp Menu Codes]
+
+```
+E00A3B40 0035EC8C
+200C0280 3C077DB8
+200C0284 34E7A307
+200C0288 AC47000C
+200C028C 3C04358E
+200C0290 348472F4
+200C0294 03E00008
+200C0298 AC440008
+2045F068 0C0300A0
+1045F08A 00001000
+2045F08C AC440018
+```
+
+---
+
+### Floated In Dungeon Areas ( Press And Hold Circle+L1) Use Left Analog Sticks To Move Backward Or Forward
+**Author:** 12345
+
+```
+E004DBFF 001CA1DC
+6048E1E8 00000100
+00010000 000002BC
+6048E1E8 C1061000
+00020000 000002C4
+```
+
+---
+
+### Full Special Attack Gauge After 1 Hits
+**Author:** 12345
+
+```
+E002E140 0036D90C
+2040D910 00000000
+204139C0 00000000
+```
+
+---
+
+### Have Overall Map Seraphic Gate, Floor 1-5 (Press L2+R2)
+**Author:** 12345
+
+```
+E006FCFF 001CA1DC
+601D3698 000000FF
+00000000 000006C3
+601D3698 FFFFFFFF
+00020000 000006C4
+601D3698 FFFFFFFF
+00020000 000006C8
+```
+
+---
+
+### Infinite AP (For Press Square Or Triangle Or Cross Or Circle)
+**Author:** MasterGrand  
+**Notes:** [In-Battle Codes]
+
+```
+10419FFC 00000000
+```
+
+---
+
+### Infinite HP
+**Author:** Code Master  
+**Notes:** [In-Battle Codes]
+
+```
+E008E140 0036D90C
+200C02A0 3C011C6F
+200C02A4 34217603
+200C02A8 00614826
+200C02AC 03E00008
+200C02B0 AC890010
+2038A5E8 0C0300A8
+1038A60E 00001000
+2038A610 AC850018
+```
+
+---
+
+### Infinite AP
+**Author:** 12345
+
+```
+E003E140 0036D90C
+203A8CA0 00000000
+20405E18 00000000
+2041A00C 00000000
+```
+
+---
+
+### Infinite AP For (Dash R1)
+**Author:** MasterGrand
+
+```
+203A8CA0 00000000
+```
+
+---
+
+### Items Not Decreased In Battle And Field
+**Author:** 12345
+
+```
+D05A11F8 00000000
+2030D194 00000000
+```
+
+---
+
+### Max 99999 Crystals
+**Author:** Skiller
+
+```
+D049A844 000000FF
+2049A844 24030000
+```
+
+---
+
+### Negate Encounters In Dungeon Areas ( Press L1+L2 )
+**Author:** 12345
+
+```
+E003FAFF 001CA1DC
+2042FEAC 00000000
+6048E1E8 00004110
+00010000 00000762
+```
+
+---
+
+### Rearm/Magic/Items In Battle Menu Always Available After Used
+**Author:** 12345
+
+```
+D036D90C 0000E140
+203972A0 00000000
+```
+
+---
+
+### Save Anywhere
+**Author:** 12345
+
+```
+E0020200 0048E2AE
+2039FBE8 00000000
+0048E2AF 00000006
+```
+
+---
+
+### Buy 1 Item For Max Money
+**Author:** Code Master  
+**Notes:** [This Game Has Major Protection Against Cheating]
+
+```
+E0021026 00496D9C
+20496DA0 3C0205F5
+20496DA8 3442E0FF
+```
+
+---
+
+### Buying Items Doesn't Decrease Money
+**Author:** Code Master  
+**Notes:** [This Game Has Major Protection Against Cheating]
+
+```
+D0496D9C 00001026
+20496DA0 00000000
+```
+
+---
+
+### Buying Items Increase Money
+**Author:** Code Master  
+**Notes:** [This Game Has Major Protection Against Cheating]
+
+```
+D0496D9C 00001026
+20496DA0 00541021
+```
+
+---

@@ -1,0 +1,41 @@
+# Rally Fusion cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Rally Fusion"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0030B4A7"
+
+  - name: "Multiplayer Cars"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "20918E98 FFFFFFFF"
+
+  - name: "Multiplayer Tracks"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "20918E9C FFFFFFFF"
+
+  - name: "Multiplayer Modes"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "20918EA0 FFFFFFFF"
+
+  - name: "All Tracks"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "20918EA8 FFFFFFFF"

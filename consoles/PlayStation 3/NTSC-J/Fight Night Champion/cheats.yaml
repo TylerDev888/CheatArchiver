@@ -1,0 +1,154 @@
+# Fight Night Champion cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLAS50313
+
+game: "Fight Night Champion"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLAS50313"
+cheat_type: "Save Editor"
+source: "From zeick & unostar"
+
+cheats:
+  - name: "Money $9999999"
+    notes: "[Legacy Mode\\created Boxer]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0DD8:0098967F"
+
+  - name: "Xp 99999"
+    notes: "[Legacy Mode\\created Boxer]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0D48:0001869F"
+
+  - name: "Strength 100"
+    notes: "[Legacy Mode\\created Boxer]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0C28:00000064"
+
+  - name: "Speed 100"
+    notes: "[Legacy Mode\\created Boxer]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0C2C:00000064"
+
+  - name: "Endurance 100"
+    notes: "[Legacy Mode\\created Boxer]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0C30:00000064"
+
+  - name: "Conditioning 100"
+    notes: "[Legacy Mode\\created Boxer]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0C34:00000064"
+
+  - name: "Toughness 100"
+    notes: "[Legacy Mode\\created Boxer]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0C38:00000064"
+
+  - name: "Reflexes 100"
+    notes: "[Legacy Mode\\created Boxer]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0C3C:00000064"
+
+  - name: "Cuts 100"
+    notes: "[Legacy Mode\\created Boxer]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0C40:00000064"
+
+  - name: "Swelling 100"
+    notes: "[Legacy Mode\\created Boxer]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0C44:00000064"
+
+  - name: "Jab Head 20"
+    notes: "[Legacy Mode\\max Skills]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0BE4:00000014"
+
+  - name: "Straight Head 20"
+    notes: "[Legacy Mode\\max Skills]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0BE8:00000014"
+
+  - name: "Jab Body 20"
+    notes: "[Legacy Mode\\max Skills]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0BEC:00000014"
+
+  - name: "Straight Body 20"
+    notes: "[Legacy Mode\\max Skills]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0BF0:00000014"
+
+  - name: "Left Hook Head 20"
+    notes: "[Legacy Mode\\max Skills]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0BF4:00000014"
+
+  - name: "Right Hook Head 20"
+    notes: "[Legacy Mode\\max Skills]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0BF8:00000014"
+
+  - name: "Left Uppercut Head 20"
+    notes: "[Legacy Mode\\max Skills]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0BFC:00000014"
+
+  - name: "Right Uppercut Head 20"
+    notes: "[Legacy Mode\\max Skills]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0C00:00000014"
+
+  - name: "Left Hook Body 20"
+    notes: "[Legacy Mode\\max Skills]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0C04:00000014"
+
+  - name: "Right Hook Body 20"
+    notes: "[Legacy Mode\\max Skills]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0C08:00000014"
+
+  - name: "Left Uppercut Body 20"
+    notes: "[Legacy Mode\\max Skills]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0C0C:00000014"
+
+  - name: "Right Uppercut Body 20"
+    notes: "[Legacy Mode\\max Skills]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0C10:00000014"
+
+  - name: "Combinations 20"
+    notes: "[Legacy Mode\\max Skills]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0C14:00000014"
+
+  - name: "Blocking 20"
+    notes: "[Legacy Mode\\max Skills]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0C18:00000014"
+
+  - name: "Head Movement 20"
+    notes: "[Legacy Mode\\max Skills]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0C1C:00000014"
+
+  - name: "Heart 20"
+    notes: "[Legacy Mode\\max Skills]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0C20:00000014"
+
+  - name: "Chin 20"
+    notes: "[Legacy Mode\\max Skills]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "write at 0x1D0C24:00000014"
+
+  - name: "Default:update Crc32 (required)"
+    notes: "[Legacy Mode\\checksum]  File: BLAS5031302*\\SYS-DATA"
+    codes:
+      - "set range:0x1C,0x81B33B"
+      - "set [hash]:crc32"
+      - "write at 0x10:[hash]"

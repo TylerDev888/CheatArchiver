@@ -1,0 +1,36 @@
+# Hunter The Reckoning_ Wayward cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Hunter The Reckoning_ Wayward"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00126827"
+
+  - name: "Health / Conviction"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2012FBE4 00000000"
+
+  - name: "Ammunition"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2014D2B4 20050063"
+      - "2014D2B8 AC8504D4"
+
+  - name: "Continues"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2109C4FC 000003E7"

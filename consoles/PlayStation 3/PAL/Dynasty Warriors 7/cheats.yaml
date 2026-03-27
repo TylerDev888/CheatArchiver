@@ -1,0 +1,59 @@
+# Dynasty Warriors 7 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01149
+
+game: "Dynasty Warriors 7"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01149"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Gold"
+    notes: "File: BLES01149-SAVEDATA\\APP.BIN  (All Characters Code)"
+    codes:
+      - "20000A48 000F423F"
+
+  - name: "Max Hp"
+    notes: "File: BLES01149-SAVEDATA\\APP.BIN"
+    codes:
+      - "410014B7 000003E8"
+      - "403E0080 00000000"
+
+  - name: "Max Attack"
+    notes: "File: BLES01149-SAVEDATA\\APP.BIN"
+    codes:
+      - "410014B9 000003E8"
+      - "403E0080 00000000"
+
+  - name: "Max Defense"
+    notes: "File: BLES01149-SAVEDATA\\APP.BIN"
+    codes:
+      - "410014BB 000003E8"
+      - "403E0080 00000000"
+
+  - name: "Max Power"
+    notes: "File: BLES01149-SAVEDATA\\APP.BIN"
+    codes:
+      - "400014BE 00000064"
+      - "403E0080 00000000"
+
+  - name: "Max Speed"
+    notes: "File: BLES01149-SAVEDATA\\APP.BIN"
+    codes:
+      - "400014C0 00000064"
+      - "403E0080 00000000"
+
+  - name: "Max Skill Points"
+    notes: "File: BLES01149-SAVEDATA\\APP.BIN"
+    codes:
+      - "410014CB 0000270F"
+      - "403E0080 00000000"
+
+  - name: "Guardian Beast (red Hare)"
+    notes: "File: BLES01149-SAVEDATA\\APP.BIN"
+    codes:
+      - "410014C9 00000007"
+      - "403E0080 00000000"

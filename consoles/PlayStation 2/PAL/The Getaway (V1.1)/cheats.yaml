@@ -1,0 +1,32 @@
+# The Getaway (V1.1) cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "The Getaway (V1.1)"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90310E2C 0C0C501D"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C2000 3C0140C0"
+      - "200C2004 08065EF0"
+      - "200C2008 AE0102F0"
+      - "2018EC74 0C030800"
+
+  - name: "Ammunition"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "201AE37C 00000000"

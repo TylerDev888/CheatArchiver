@@ -1,0 +1,3199 @@
+# Grand Theft Auto III cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20062
+
+game: "Grand Theft Auto III"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20062"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F027ED20 0011F347"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0011F347"
+
+  - name: "Aim Of Death"
+    author: "Azagthoth"
+    codes:
+      - "200A0000 3C010051"
+      - "200A0004 8C210380"
+      - "200A0008 10200006"
+      - "200A0010 8C210350"
+      - "200A0014 10200003"
+      - "200A001C AC220300"
+      - "200A0024 03E00008"
+      - "20115ECC 08028000"
+
+  - name: "Amount Of Ammunition Modifier (Default 001E)"
+    author: "Various Creators"
+    notes: "[AK-47 Codes]"
+    codes:
+      - "1043F924 0000????"
+
+  - name: "Damage Modifier (Default 0013)"
+    author: "Various Creators"
+    notes: "[AK-47 Codes]"
+    codes:
+      - "1043F928 0000????"
+
+  - name: "Firing Rate Modifier (Default 0001)"
+    author: "Various Creators"
+    notes: "[AK-47 Codes]"
+    codes:
+      - "1043F91C 0000????"
+
+  - name: "Reload Time Modifier (Default 03E8)"
+    author: "Various Creators"
+    notes: "[AK-47 Codes]"
+    codes:
+      - "1043F920 0000????"
+
+  - name: "1 Helicopter"
+    author: "Various Creators"
+    notes: "[Always Have Helicopters After You Codes]"
+    codes:
+      - "202A2870 03E00008"
+      - "202A2874 24020001"
+
+  - name: "2 Helicopters"
+    author: "Various Creators"
+    notes: "[Always Have Helicopters After You Codes]"
+    codes:
+      - "202A2870 03E00008"
+      - "202A2874 24020002"
+
+  - name: "3 Helicopters"
+    author: "Various Creators"
+    notes: "[Always Have Helicopters After You Codes]"
+    codes:
+      - "202A2870 03E00008"
+      - "202A2874 24020003"
+
+  - name: "4 Helicopters"
+    author: "Various Creators"
+    notes: "[Always Have Helicopters After You Codes]"
+    codes:
+      - "202A2870 03E00008"
+      - "202A2874 24020004"
+
+  - name: "5 Helicopters"
+    author: "Various Creators"
+    notes: "[Always Have Helicopters After You Codes]"
+    codes:
+      - "202A2870 03E00008"
+      - "202A2874 24020005"
+
+  - name: "6 Helicopters"
+    author: "Various Creators"
+    notes: "[Always Have Helicopters After You Codes]"
+    codes:
+      - "202A2870 03E00008"
+      - "202A2874 24020006"
+
+  - name: "Never Wanted"
+    author: "Various Creators"
+    notes: "[Always Have Helicopters After You Codes]"
+    codes:
+      - "202A2BD0 03E00008"
+      - "202A2BD4 00000000"
+
+  - name: "None"
+    author: "Various Creators"
+    notes: "[Always Have Helicopters After You Codes]"
+    codes:
+      - "202A2870 03E00008"
+      - "202A2874 24020000"
+
+  - name: "All Cars Are Immune To Weapons"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "201BF600 03E00008"
+      - "201BF604 00000000"
+
+  - name: "All Law Enforcement Vehicles Can't Move"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "201F4410 03E00008"
+      - "201F4414 24020000"
+
+  - name: "Cannot Drive Through Glass"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "20372450 03E00008"
+      - "20372454 00000000"
+
+  - name: "Cars Don't Make Way For Cars With Sirens"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "201F3DE0 03E00008"
+      - "201F3DE4 00000000"
+
+  - name: "Cars Don't Stop For Bridges"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "202213C0 03E00008"
+      - "202213C4 00000000"
+
+  - name: "Cars Don't Stop For Other Cars"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "201FE290 03E00008"
+      - "201FE294 00000000"
+
+  - name: "Cars Don't Stop For Pedestrians"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "201FE830 03E00008"
+      - "201FE834 00000000"
+
+  - name: "Cars Don't Stop For Traffic Lights"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "202220C0 03E00008"
+      - "202220C4 24020000"
+
+  - name: "Cops Get Out And Walk Away"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "201C9A90 03E00008"
+      - "201C9A94 00000000"
+
+  - name: "Default Level Geometry"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "202E1170 03E00008"
+      - "202E1174 00000000"
+
+  - name: "Disable Between-City Load Screen"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "2027D2C0 03E00008"
+      - "2027D2C4 00000000"
+
+  - name: "Disable Horn Sound"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "1023F08A 00001000"
+
+  - name: "Disable Hud"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "202CF5F0 03E00008"
+      - "202CF5F4 00000000"
+
+  - name: "Disable Sirens & Alarms Sounds"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "1023EDE2 00001000"
+
+  - name: "Everyone Is A Gang Member (Not Visually)"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "201D0E50 03E00008"
+      - "201D0E54 24020001"
+
+  - name: "Freeze Daily Time"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "20268860 03E00008"
+      - "20268864 00000000"
+
+  - name: "Futuristic Vehicles"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "202B1DB8 00000000"
+
+  - name: "Gangs Never Feel Threatened"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "202E7700 03E00008"
+      - "202E7704 00000000"
+
+  - name: "Glass Does Not Break If Shot"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "20372270 03E00008"
+      - "20372274 00000000"
+
+  - name: "Hella Explosions"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "201BF730 00000000"
+
+  - name: "Idiot Ai-Civilians"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "201C7D70 03E00008"
+      - "201C7D74 00000000"
+
+  - name: "Idiot Ai-Cops"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "201C9DF0 03E00008"
+      - "201C9DF4 00000000"
+
+  - name: "Idiot Ai-Firemen"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "201CB870 03E00008"
+      - "201CB874 00000000"
+
+  - name: "Idiot Ai-Medics"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "201CBA60 03E00008"
+      - "201CBA64 00000000"
+
+  - name: "Idiot Ai-Medics & Firemen"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "201CC920 03E00008"
+      - "201CC924 00000000"
+
+  - name: "Infinite Ammo-All Weapons"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "201A34E8 00000000"
+      - "201A3508 00000000"
+
+  - name: "Infinite Ammo-All Weapons (Inside Car)"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "201A2FB4 00000000"
+      - "201A2FD4 00000000"
+
+  - name: "Infinite Health & Armor (Everyone)"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "2033E690 03E00008"
+      - "2033E694 00000000"
+
+  - name: "Infinite Time"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "202B88F0 03E00008"
+      - "202B88F4 00000000"
+
+  - name: "Invisible Ground"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "2029EFF0 03E00008"
+      - "2029EFF4 00000000"
+
+  - name: "Invisible People"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "201D7C30 03E00008"
+      - "201D7C34 00000000"
+
+  - name: "Invisible Sky"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "203174B0 03E00008"
+      - "203174B4 00000000"
+
+  - name: "Invisible Water (Use With Disable Water)"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "201C25F0 03E00008"
+      - "201C25F4 00000000"
+
+  - name: "Level 1"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "202A2BDC 24060028"
+
+  - name: "Level 2"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "202A2BDC 240600C8"
+
+  - name: "Level 3"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "202A2BDC 24060190"
+
+  - name: "Level 4"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "202A2BDC 24060320"
+
+  - name: "Level 5"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "202A2BDC 24060640"
+
+  - name: "Level 6"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "202A2BDC 24060C80"
+
+  - name: "Makes Cars Bullet Proof"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "201BF730 100000B0"
+
+  - name: "Never"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "202A2BDC 24060000"
+
+  - name: "No Colors On Cars (All Cars Black)"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "202AFFD0 03E00008"
+      - "202AFFD4 00000000"
+
+  - name: "Noone Is A Gang Member (Not Visually)"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "201D0E50 03E00008"
+      - "201D0E54 24020000"
+
+  - name: "Pedestrians Can't Open Car Doors"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "201C9104 00000000"
+      - "201D19BC 00000000"
+      - "201D1AAC 00000000"
+
+  - name: "Pedestrians Don't Have Weapons"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "201A36A0 03E00008"
+      - "201A36A4 00000000"
+
+  - name: "Pedestrians Don't Stop For Traffic Lights"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "20203790 03E00008"
+      - "20203794 24020000"
+
+  - name: "Pedestrians Never Feel Threatened"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "201E4D00 03E00008"
+      - "201E4D04 00000000"
+
+  - name: "Riot Mode"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "101E7DD0 00000008"
+      - "101E7DD4 00000000"
+
+  - name: "Trippin' Mode"
+    author: "Various Creators"
+    notes: "[Always Wanted Codes]"
+    codes:
+      - "201C25F0 03E00008"
+      - "201C25F4 00000000"
+      - "2029EFF0 03E00008"
+      - "2029EFF4 00000000"
+      - "203174B0 03E00008"
+      - "203174B4 00000000"
+
+  - name: "Infinite Armor"
+    author: "Codejunkies"
+    notes: "[Armor Codes]"
+    codes:
+      - "10B65316 000042C8"
+
+  - name: "Never Have More Than 10 Armor"
+    author: "Codejunkies"
+    notes: "[Armor Codes]"
+    codes:
+      - "E0014120 30B65316"
+      - "10B65316 00004120"
+
+  - name: "Never Have More Than 25 Armor"
+    author: "Codejunkies"
+    notes: "[Armor Codes]"
+    codes:
+      - "E00141C8 30B65316"
+      - "10B65316 000041C8"
+
+  - name: "Never Have More Than 50 Armor"
+    author: "Codejunkies"
+    notes: "[Armor Codes]"
+    codes:
+      - "E0014248 30B65316"
+      - "10B65316 00004248"
+
+  - name: "Never Have More Than 75 Armor"
+    author: "Codejunkies"
+    notes: "[Armor Codes]"
+    codes:
+      - "E0014296 30B65316"
+      - "10B65316 00004296"
+
+  - name: "Damage Modifier (Default 0015)"
+    author: "Various Creators"
+    notes: "[Baseball Bat Codes]"
+    codes:
+      - "1043F7D8 0000????"
+
+  - name: "Firing Rate Modifier (Default 02EE)"
+    author: "Various Creators"
+    notes: "[Baseball Bat Codes]"
+    codes:
+      - "1043F7CC 0000????"
+
+  - name: "Reload Time Modifier (Default 012C)"
+    author: "Various Creators"
+    notes: "[Baseball Bat Codes]"
+    codes:
+      - "1043F7D0 0000????"
+
+  - name: "Car Is Black (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C0 00000000"
+
+  - name: "Car Is Black (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A0 00000000"
+
+  - name: "Car Is Black (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B0 00000000"
+
+  - name: "Car Is Blue (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C0 00000036"
+
+  - name: "Car Is Blue (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A0 00000036"
+
+  - name: "Car Is Blue (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B0 00000036"
+
+  - name: "Car Is Dark Blue (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C0 00000034"
+
+  - name: "Car Is Dark Blue (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A0 00000034"
+
+  - name: "Car Is Dark Blue (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B0 00000034"
+
+  - name: "Car Is Gold (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C0 00000027"
+
+  - name: "Car Is Gold (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A0 00000027"
+
+  - name: "Car Is Gold (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B0 00000027"
+
+  - name: "Car Is Light Blue (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C0 00000007"
+
+  - name: "Car Is Light Blue (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A0 00000007"
+
+  - name: "Car Is Light Blue (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B0 00000007"
+
+  - name: "Car Is Light Purple (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C0 00000005"
+
+  - name: "Car Is Light Purple (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A0 00000005"
+
+  - name: "Car Is Light Purple (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B0 00000005"
+
+  - name: "Car Is Metal Green (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C0 0000002E"
+
+  - name: "Car Is Metal Green (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A0 0000002E"
+
+  - name: "Car Is Metal Green (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B0 0000002E"
+
+  - name: "Car Is Metal Purple (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C0 00000037"
+
+  - name: "Car Is Metal Purple (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A0 00000037"
+
+  - name: "Car Is Metal Purple (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B0 00000037"
+
+  - name: "Car Is Metal Yellow (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C0 00000021"
+
+  - name: "Car Is Metal Yellow (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A0 00000021"
+
+  - name: "Car Is Metal Yellow (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B0 00000021"
+
+  - name: "Car Is Orange (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C0 00000016"
+
+  - name: "Car Is Orange (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A0 00000016"
+
+  - name: "Car Is Orange (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B0 00000016"
+
+  - name: "Car Is Red (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C0 0000001B"
+
+  - name: "Car Is Red (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A0 0000001B"
+
+  - name: "Car Is Red (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B0 0000001B"
+
+  - name: "Car Is Silver (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C0 0000001E"
+
+  - name: "Car Is Silver (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A0 0000001E"
+
+  - name: "Car Is Silver (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B0 0000001E"
+
+  - name: "Car Is Turquoise (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C0 00000002"
+
+  - name: "Car Is Turquoise (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A0 00000002"
+
+  - name: "Car Is Turquoise (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B0 00000002"
+
+  - name: "Car Is White (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C0 00000026"
+
+  - name: "Car Is White (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A0 00000026"
+
+  - name: "Car Is White (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B0 00000026"
+
+  - name: "Car Is Yellow (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C0 00000006"
+
+  - name: "Car Is Yellow (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A0 00000006"
+
+  - name: "Car Is Yellow (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B0 00000006"
+
+  - name: "Stripe Or Top Is Black (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C1 00000000"
+
+  - name: "Stripe Or Top Is Black (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A1 00000000"
+
+  - name: "Stripe Or Top Is Black (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B1 00000000"
+
+  - name: "Stripe Or Top Is Blue (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C1 00000036"
+
+  - name: "Stripe Or Top Is Blue (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A1 00000036"
+
+  - name: "Stripe Or Top Is Blue (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B1 00000036"
+
+  - name: "Stripe Or Top Is Dark Blue (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C1 00000034"
+
+  - name: "Stripe Or Top Is Dark Blue (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A1 00000034"
+
+  - name: "Stripe Or Top Is Dark Blue (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B1 00000034"
+
+  - name: "Stripe Or Top Is Gold (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C1 00000027"
+
+  - name: "Stripe Or Top Is Gold (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A1 00000027"
+
+  - name: "Stripe Or Top Is Gold (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B1 00000027"
+
+  - name: "Stripe Or Top Is Light Blue (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C1 00000007"
+
+  - name: "Stripe Or Top Is Light Blue (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A1 00000007"
+
+  - name: "Stripe Or Top Is Light Blue (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B1 00000007"
+
+  - name: "Stripe Or Top Is Light Purple (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C1 00000005"
+
+  - name: "Stripe Or Top Is Light Purple (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A1 00000005"
+
+  - name: "Stripe Or Top Is Light Purple (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B1 00000005"
+
+  - name: "Stripe Or Top Is Metal Green (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C1 0000002E"
+
+  - name: "Stripe Or Top Is Metal Green (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A1 0000002E"
+
+  - name: "Stripe Or Top Is Metal Green (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B1 0000002E"
+
+  - name: "Stripe Or Top Is Metal Purple (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C1 00000037"
+
+  - name: "Stripe Or Top Is Metal Purple (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A1 00000037"
+
+  - name: "Stripe Or Top Is Metal Purple (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B1 00000037"
+
+  - name: "Stripe Or Top Is Metal Yellow (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C1 00000021"
+
+  - name: "Stripe Or Top Is Metal Yellow (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A1 00000021"
+
+  - name: "Stripe Or Top Is Metal Yellow (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B1 00000021"
+
+  - name: "Stripe Or Top Is Orange (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C1 00000016"
+
+  - name: "Stripe Or Top Is Orange (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A1 00000016"
+
+  - name: "Stripe Or Top Is Orange (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B1 00000016"
+
+  - name: "Stripe Or Top Is Red (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C1 0000001B"
+
+  - name: "Stripe Or Top Is Red (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A1 0000001B"
+
+  - name: "Stripe Or Top Is Red (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B1 0000001B"
+
+  - name: "Stripe Or Top Is Silver (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C1 0000001E"
+
+  - name: "Stripe Or Top Is Silver (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A1 0000001E"
+
+  - name: "Stripe Or Top Is Silver (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B1 0000001E"
+
+  - name: "Stripe Or Top Is Turquoise (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C1 00000002"
+
+  - name: "Stripe Or Top Is Turquoise (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A1 00000002"
+
+  - name: "Stripe Or Top Is Turquoise (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B1 00000002"
+
+  - name: "Stripe Or Top Is White (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C1 00000026"
+
+  - name: "Stripe Or Top Is White (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A1 00000026"
+
+  - name: "Stripe Or Top Is White (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B1 00000026"
+
+  - name: "Stripe Or Top Is Yellow (Portland Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006774C1 00000006"
+
+  - name: "Stripe Or Top Is Yellow (Shoreside Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006776A1 00000006"
+
+  - name: "Stripe Or Top Is Yellow (Staunton Garage)"
+    author: "InterAct"
+    notes: "[Car Color Codes]"
+    codes:
+      - "006775B1 00000006"
+
+  - name: "Portland-Car 1"
+    author: "Various Creators"
+    notes: "[Cars In Garage Modifier Codes (00-94)]"
+    codes:
+      - "006774A0 000000??"
+
+  - name: "Press L3 For Car Modifier"
+    author: "Various Creators"
+    notes: "[Cars In Garage Modifier Codes (00-94)]"
+    codes:
+      - "D05F5768 00000000"
+      - "005F5768 00000001"
+      - "102809DC 00000024"
+      - "102809EC 0000004C"
+      - "2028264C 86020024"
+      - "20282658 10400070"
+      - "10282680 00000000"
+
+  - name: "Shoreside Vale-Car 1"
+    author: "Various Creators"
+    notes: "[Cars In Garage Modifier Codes (00-94)]"
+    codes:
+      - "00677680 000000??"
+
+  - name: "Staunton-Car 1"
+    author: "Various Creators"
+    notes: "[Cars In Garage Modifier Codes (00-94)]"
+    codes:
+      - "00677590 000000??"
+
+  - name: "Staunton-Car 2"
+    author: "Various Creators"
+    notes: "[Cars In Garage Modifier Codes (00-94)]"
+    codes:
+      - "006775B8 000000??"
+
+  - name: "Staunton-Car 3"
+    author: "Various Creators"
+    notes: "[Cars In Garage Modifier Codes (00-94)]"
+    codes:
+      - "006775E0 000000??"
+
+  - name: "Cops Walk Away (Stupid AI)"
+    author: "InterAct"
+    codes:
+      - "201C9A94 00000000"
+
+  - name: "Deserted City"
+    author: "Zane"
+    codes:
+      - "2018FB54 000000EB"
+
+  - name: "Everyone Is Disfigured"
+    author: "Zane"
+    codes:
+      - "2017AFF0 000000EB"
+
+  - name: "Everyone Jump Fall's When Getting Out Of There Cars"
+    author: "Zane"
+    codes:
+      - "201AF63C 00010000"
+
+  - name: "Explosions Don't Stun You/Can Still Control Claude"
+    author: "Josh_7774"
+    codes:
+      - "D0B65274 00000023"
+      - "00B65274 00000001"
+      - "D0B65274 00000024"
+      - "00B65274 00000001"
+
+  - name: "Amount Of Ammunition Modifier (Default 01F4)"
+    author: "Various Creators"
+    notes: "[Flame Thrower Codes]"
+    codes:
+      - "1043FA74 0000????"
+
+  - name: "Damage Modifier (Default 0019)"
+    author: "Various Creators"
+    notes: "[Flame Thrower Codes]"
+    codes:
+      - "1043FA78 0000????"
+
+  - name: "Firing Rate Modifier (Default 0064)"
+    author: "Various Creators"
+    notes: "[Flame Thrower Codes]"
+    codes:
+      - "1043FA6C 0000????"
+
+  - name: "Reload Time Modifier (Default 0064)"
+    author: "Various Creators"
+    notes: "[Flame Thrower Codes]"
+    codes:
+      - "1043FA70 0000????"
+
+  - name: "Fuzz Ball: Max Girls"
+    author: "Azagthoth"
+    codes:
+      - "204A215C 0000000A"
+
+  - name: "Amount Of Ammunition Modifier (Default 0001)"
+    author: "Various Creators"
+    notes: "[Grenade Codes]"
+    codes:
+      - "1043FB1C 0000????"
+
+  - name: "Damage Modifier (Default 004B)"
+    author: "Various Creators"
+    notes: "[Grenade Codes]"
+    codes:
+      - "1043FB20 0000????"
+
+  - name: "Reload Time Modifier (Default 0001)"
+    author: "Various Creators"
+    notes: "[Grenade Codes]"
+    codes:
+      - "1043FB18 0000????"
+
+  - name: "Amount Of Ammunition Modifier (Default 000C)"
+    author: "Various Creators"
+    notes: "[Handgun Codes]"
+    codes:
+      - "1043F828 0000????"
+
+  - name: "Firing Rate Modifier (Default 00FA)"
+    author: "Various Creators"
+    notes: "[Handgun Codes]"
+    codes:
+      - "1043F820 0000????"
+
+  - name: "Reload Time Modifier (Default 015E)"
+    author: "Various Creators"
+    notes: "[Handgun Codes]"
+    codes:
+      - "1043F824 0000????"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "10B65312 000042C8"
+
+  - name: "Never Have More Than 10 Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0014120 30B65312"
+      - "10B65312 00004120"
+
+  - name: "Never Have More Than 25 Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E00141C8 30B65312"
+      - "10B65312 000041C8"
+
+  - name: "Never Have More Than 50 Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0014248 30B65312"
+      - "10B65312 00004248"
+
+  - name: "Never Have More Than 75 Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0014296 30B65312"
+      - "10B65312 00004296"
+
+  - name: "Infinite Ammo - AK-47"
+    author: "Josh_7774"
+    codes:
+      - "10B65428 0000001E"
+      - "10B6542C 0000270F"
+
+  - name: "Infinite Ammo - Flamethrower"
+    author: "Josh_7774"
+    codes:
+      - "10B65478 000001F4"
+      - "10B6547C 0000270F"
+
+  - name: "Infinite Ammo - Grenades"
+    author: "Josh_7774"
+    codes:
+      - "10B654A4 0000270F"
+
+  - name: "Infinite Ammo - M16"
+    author: "Josh_7774"
+    codes:
+      - "10B6543C 0000003C"
+      - "10B65440 0000270F"
+
+  - name: "Infinite Ammo - Molotovs"
+    author: "Josh_7774"
+    codes:
+      - "10B65490 0000270F"
+
+  - name: "Infinite Ammo - Pistol"
+    author: "Josh_7774"
+    codes:
+      - "10B653EC 0000000C"
+      - "10B653F0 0000270F"
+
+  - name: "Infinite Ammo - Rocket Launcher"
+    author: "Josh_7774"
+    codes:
+      - "10B65468 0000270F"
+
+  - name: "Infinite Ammo - Shotgun"
+    author: "Josh_7774"
+    codes:
+      - "10B65418 0000270F"
+
+  - name: "Infinite Ammo - Sniper Rifle"
+    author: "Josh_7774"
+    codes:
+      - "10B65454 0000270F"
+
+  - name: "Infinite Ammo - Uzi"
+    author: "Josh_7774"
+    codes:
+      - "10B65400 00000014"
+      - "10B65404 0000270F"
+
+  - name: "Infinite Molotov Cocktails"
+    author: "InterAct"
+    codes:
+      - "10B65490 00000063"
+      - "10B654A4 00000063"
+
+  - name: "Jumping Away From Vehicles Doesn't Stunlock You"
+    author: "Josh_7774"
+    codes:
+      - "D0B65274 00000026"
+      - "00B65274 00000001"
+
+  - name: "Less People Everywhere"
+    author: "Zane"
+    codes:
+      - "00415E04 000000EB"
+
+  - name: "Amount Of Ammunition Modifier (Default 003C)"
+    author: "Various Creators"
+    notes: "[M-16 Codes]"
+    codes:
+      - "1043F978 0000????"
+
+  - name: "Damage Modifier (Default 0034)"
+    author: "Various Creators"
+    notes: "[M-16 Codes]"
+    codes:
+      - "1043F97C 0000????"
+
+  - name: "Have All Weapons"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 1)]"
+    codes:
+      - "00510430 00000064"
+
+  - name: "Max Money"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 1)]"
+    codes:
+      - "20510428 05F5E0FF"
+      - "2051042C 05F5E0FF"
+
+  - name: "Absorbing Ground"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2018E29C 00000000"
+
+  - name: "Abstract World (Extremely Wild Effects)"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017339C 00000000"
+
+  - name: "Air Cushion"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2018F260 00000000"
+
+  - name: "All Cars Chrome Or White"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201A8CE8 00000000"
+
+  - name: "All Cars Stopped"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201AF744 00000000"
+
+  - name: "Autodrive When Shot"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201BF770 00000000"
+
+  - name: "Automatic Rotating Doors/Hoods/Trunks"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201BC964 00000000"
+      - "201BC9B4 00000000"
+
+  - name: "Awesome Cars"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201B738C 00000000"
+      - "201B758C 00000000"
+
+  - name: "Back To The Future"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201B6E28 00000000"
+
+  - name: "Backwards People"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017C9B8 00000000"
+
+  - name: "Bad Handling"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201AF7E8 00000000"
+
+  - name: "Better Head Between Legs"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017C040 00000000"
+
+  - name: "Black Smokies"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201B4398 00000000"
+
+  - name: "Boats Will Never Explode"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201B84D0 03E00008"
+      - "201B84D4 00000000"
+
+  - name: "Body Mangler"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017D644 00000000"
+
+  - name: "Bouncy Shocks"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017B23C 00000000"
+
+  - name: "Boxed In"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017C934 00000000"
+
+  - name: "Cars In The Ground"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201B6EE4 00000000"
+
+  - name: "Cars In The Ground 2"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201B6EF4 00000000"
+
+  - name: "Cars In The Ground 3"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201B6F34 00000000"
+
+  - name: "Cars Really Sensitive"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201B4340 0000001A"
+
+  - name: "Cars Tip Easily"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "20183370 00000000"
+
+  - name: "Cars Underground Dissapear When You Touch Some Of Them"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201B6E54 00000000"
+
+  - name: "Cars Will Never Explode"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201A67E0 03E00008"
+      - "201A67E4 00000000"
+
+  - name: "Cops Don't Get Out"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201A5EB8 00000000"
+
+  - name: "Custom Suspension (Lowrider Style)"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201B6E24 00000000"
+      - "201BD6B4 00000000"
+      - "201BD728 00000000"
+
+  - name: "Da's Funk EFX"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201871D8 00000000"
+      - "201872D8 00000000"
+      - "201875D8 00000000"
+
+  - name: "Disable Water For Cars (Boats Work)"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201B1A70 03E00008"
+      - "201B1A74 00000000"
+
+  - name: "Disable Water For Cars/Player/No Boats"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201BD1F4 00000000"
+
+  - name: "Doors On Cars Open Cool"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201B758C 00000000"
+
+  - name: "Double Vision"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017C990 00000000"
+
+  - name: "Extreme Turning"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201BD57C 00000000"
+
+  - name: "Faster Cars"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201AF704 00000000"
+
+  - name: "Fidgetting People"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017C98C 00000000"
+
+  - name: "Floating Mangled People"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "20179CD0 00000000"
+
+  - name: "Freaky Feet"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017C928 00000000"
+
+  - name: "Freaky Wheels"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201B6E9C 00000000"
+
+  - name: "Frog Mode"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017AE24 00000000"
+
+  - name: "Funny Runners"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017AC18 00000000"
+
+  - name: "Go Ahead"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017ACFC 00000000"
+
+  - name: "Green Light Special"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017389C 00000000"
+
+  - name: "Gremlin Mode"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017C9B4 00000000"
+
+  - name: "Hands Up"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017C9F8 00000000"
+
+  - name: "Head Between My Legz"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017B338 00000000"
+
+  - name: "Head In The Clouds"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017C938 00000000"
+
+  - name: "Heavy Car"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017B370 00000000"
+
+  - name: "HEY! Look At Me (Backward Arms)"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017C994 00000000"
+
+  - name: "Hot Rides"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201BD6E4 00000000"
+
+  - name: "I Can Bend All The Way Back"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017C998 00000000"
+
+  - name: "Infinite Car Burn"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201B145C 00000000"
+
+  - name: "Insane World"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017419C 00000000"
+
+  - name: "Instant Speed"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201AF738 00010000"
+
+  - name: "Levitating Car"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201B239C 00000000"
+
+  - name: "Look Up In The Sky"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017B34C 00000000"
+
+  - name: "Lower Front End Suspension (Front End Scrapes The Ground)"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201BD728 00000000"
+
+  - name: "Lowrider Suspension"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201BD714 00000000"
+
+  - name: "Makes Cars Semi-Bullet Proof (Bot EP Or FP)"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201BF728 00000000"
+
+  - name: "Mini Launch Pads"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2018F35C 00000000"
+
+  - name: "No Car Damage From Collisions"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201B32A0 03E00008"
+      - "201B32A4 00000000"
+
+  - name: "No Car Damage From Collisions (Your Car Only)"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201B3558 00000000"
+      - "201B3568 00000000"
+
+  - name: "On Your Side"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017AC78 00000000"
+
+  - name: "Out Of Control Arms"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017BCA8 00000000"
+
+  - name: "Polygon Mode (No Textures)"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017249C 00000000"
+
+  - name: "Power Bombs"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201BF514 00000000"
+
+  - name: "Psy Powers Lite"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201AF730 00008756"
+
+  - name: "Psycho Day"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201AF730 00000000"
+
+  - name: "Raining People (Around The Stadium Only)"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2018FB54 00000000"
+
+  - name: "Rapid Opening & Shutting Doors/Hoods/Trunks"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201BC954 00000000"
+
+  - name: "Retarded People"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017C9A0 00000000"
+
+  - name: "Rock'n Rides"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201BD6B4 00000000"
+
+  - name: "Rocket Rides"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201BF514 00000000"
+      - "201BF730 00000000"
+
+  - name: "Rocky Shocks"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201B6E34 00000000"
+
+  - name: "Rotating Doors/Hoods/Trunks"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201BC9B4 00000000"
+
+  - name: "Screwed Up Cars"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2018FAF4 00000000"
+
+  - name: "Semi-Monster Truck Suspension"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201B6E24 00000000"
+
+  - name: "Silly People"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017C9A8 00000000"
+
+  - name: "Slick Roads"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201AF738 24050000"
+
+  - name: "Slip Speed-(Warp9)"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017ACC8 000028EA"
+
+  - name: "Smoking Rides 2"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201BC164 00000000"
+
+  - name: "Smoking Rides"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201BC160 00000000"
+
+  - name: "Solid Arm Between Legz Mode"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017C9B0 00000000"
+
+  - name: "Space Shuttle Mode"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2018F854 00000000"
+
+  - name: "Spider Mode"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017C9AC 00000000"
+
+  - name: "Spiderman Ability"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2018FBE4 00000000"
+
+  - name: "Stiff As A Rock"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017B33C 00000000"
+
+  - name: "Stiff Doors/Hoods/Trunks"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201BC9F4 00000000"
+
+  - name: "Teleporting UFO Cars"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201AF740 000028EA"
+
+  - name: "Up Side Down With Backward Limbs People"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "20179CD4 00000000"
+
+  - name: "Vehicles Are Immune To Weapons (Only Your Car)"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201BF64C 00000000"
+      - "201BF65C 00000000"
+
+  - name: "Walk & Drive Through Most Walls"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2018F264 00000000"
+      - "2018F27C 00000000"
+
+  - name: "Walls Eat You"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2018F25C 00000000"
+
+  - name: "Warp Speed"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201AF704 00000000"
+      - "201BD504 00000000"
+      - "201BD604 00000000"
+
+  - name: "Weak Rockets"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201BF50C 00000000"
+
+  - name: "Weird Feet People"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017C9A4 00000000"
+
+  - name: "Weird Running"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "2017C880 00000000"
+
+  - name: "Weird Wheels"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201B6F54 00000000"
+
+  - name: "Wheels Fall Off Some Cars When You Touch A Car"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201B6E44 00000000"
+
+  - name: "Your Car Is Slow"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 2)]"
+    codes:
+      - "201AF724 00000000"
+
+  - name: "100% Accuracy"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416E80 00000064"
+      - "20416E84 00000064"
+
+  - name: "100% Complete"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "10416E74 000002FF"
+
+  - name: "A Ride In The Park In Secs Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416EDC ????????"
+
+  - name: "Activate All Cars Fly Cheat"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "00415E48 00000001"
+
+  - name: "Activate Great Handling Cheat"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "00415E4C 00000001"
+
+  - name: "Activate Wheels Only Cheat"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "00415E44 00000001"
+
+  - name: "All 20 Rampages Passed"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "00416F00 00000014"
+
+  - name: "All 20 Unique Jumps Completed"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "00416EB4 00000014"
+
+  - name: "All 73 Missions Passed"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "00416EC0 00000049"
+
+  - name: "Best Time For Bomb Defusal Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416EFC ????????"
+
+  - name: "Best Turismo Time In Secs Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416ECC ????????"
+
+  - name: "Can Not Be Arrested"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "201C9410 03E00008"
+      - "201C9410 00000000"
+      - "201C95C0 03E00008"
+      - "201C95C4 00000000"
+
+  - name: "Cars Crushed Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416E88 ????????"
+
+  - name: "Cars Exploded Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416E68 ????????"
+
+  - name: "Criminals Killed On Vigilante Mission Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416EEC ????????"
+
+  - name: "Days Passed In Game Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416E98 ????????"
+
+  - name: "Dist. Traveled By Car (Miles) Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416ED4 ????????"
+
+  - name: "Dist. Traveled On Foot (Miles) Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416ED0 ????????"
+
+  - name: "Everything Proof Garage Cars"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "006774BC 0000000F"
+      - "006775AC 0000000F"
+      - "006775D4 0000000F"
+      - "0067769C 0000000F"
+      - "006776C4 0000000F"
+      - "006776EC 0000000F"
+
+  - name: "Free Bombs"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "00416F8C 00000001"
+
+  - name: "Free Resprays"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "00416F90 00000001"
+
+  - name: "Gore Code Always On"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "00415EB0 00000001"
+
+  - name: "Gripped! In Secs Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416EE0 ????????"
+
+  - name: "Helicopters Are Disabled"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "00417014 00000003"
+
+  - name: "Helicopters Destroyed Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416E70 ????????"
+
+  - name: "Highest Paramedic Mission Level Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416EF0 ????????"
+
+  - name: "Hospital Visits Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416E94 ????????"
+
+  - name: "Infinite Run"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20510492 00000064"
+
+  - name: "Insane Stunt Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "00416EB0 000000??"
+
+  - name: "Kgs Of Explosives Used Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416E7C ????????"
+
+  - name: "Longest Fight In Dodo Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416EF8 ????????"
+
+  - name: "Max. Insane Jump Dist. (Ft) Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416EA0 ????????"
+
+  - name: "Max. Insane Jump Flips Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416EA8 ????????"
+
+  - name: "Max. Insane Jump Height (Ft) Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416EA4 ????????"
+
+  - name: "Max. Insane Jump Rotation Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416EAC ????????"
+
+  - name: "Mission Attempts Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416EBC ????????"
+
+  - name: "Mm Rain Fallen Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416E9C ????????"
+
+  - name: "Money Earned In Taxi Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416EC8 ????????"
+
+  - name: "Multistorey Mayhem In Secs Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416EE4 ????????"
+
+  - name: "No Pedestrians At All"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "00415EE8 000000EB"
+
+  - name: "No Traffic In Streets"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "00415F3C 00000063"
+
+  - name: "No Traffic Or Parked Cars"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "00415F48 00000063"
+
+  - name: "One Kill Needed To Complete Rampage"
+    author: "Code Master>floydfan>GameMasterZer0>Unknown>GXP>Fiber>Dark-Agent>The GFCC>Fugitive>Mr. DNA>GodOfWine>Garkel>Bouncer62>rotagivaN ehT>brainlord>gta3 masta>JDoubleT123>Lil Pimp>PumPMaster>hellion00>GTA_LIVE_TO_PLAY>routine_error"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "00416E38 00000001"
+
+  - name: "P1 Press L3+Circle For Rotating Camera"
+    author: "Code Master>floydfan>GameMasterZer0>Unknown>GXP>Fiber>Dark-Agent>The GFCC>Fugitive>Mr. DNA>GodOfWine>Garkel>Bouncer62>rotagivaN ehT>brainlord>gta3 masta>JDoubleT123>Lil Pimp>PumPMaster>hellion00>GTA_LIVE_TO_PLAY>routine_error"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "D0508DC2 0000DFFD"
+      - "20416388 00000015"
+
+  - name: "P1 Press L3+X For Backseat Camera 2"
+    author: "Code Master>floydfan>GameMasterZer0>Unknown>GXP>Fiber>Dark-Agent>The GFCC>Fugitive>Mr. DNA>GodOfWine>Garkel>Bouncer62>rotagivaN ehT>brainlord>gta3 masta>JDoubleT123>Lil Pimp>PumPMaster>hellion00>GTA_LIVE_TO_PLAY>routine_error"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "D0508DC2 0000BFFD"
+      - "20416388 00000014"
+
+  - name: "P1 Press O+Triangle For Backseat Camera"
+    author: "Code Master>floydfan>GameMasterZer0>Unknown>GXP>Fiber>Dark-Agent>The GFCC>Fugitive>Mr. DNA>GodOfWine>Garkel>Bouncer62>rotagivaN ehT>brainlord>gta3 masta>JDoubleT123>Lil Pimp>PumPMaster>hellion00>GTA_LIVE_TO_PLAY>routine_error"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "D0508DC2 0000CFFF"
+      - "20416388 00000013"
+
+  - name: "P1 Press R1+L3 For Normal Camera"
+    author: "Code Master>floydfan>GameMasterZer0>Unknown>GXP>Fiber>Dark-Agent>The GFCC>Fugitive>Mr. DNA>GodOfWine>Garkel>Bouncer62>rotagivaN ehT>brainlord>gta3 masta>JDoubleT123>Lil Pimp>PumPMaster>hellion00>GTA_LIVE_TO_PLAY>routine_error"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "D0508DC2 0000F7FD"
+      - "20416388 00000000"
+
+  - name: "P1 Press X+Square For Bad Camera"
+    author: "Code Master>floydfan>GameMasterZer0>Unknown>GXP>Fiber>Dark-Agent>The GFCC>Fugitive>Mr. DNA>GodOfWine>Garkel>Bouncer62>rotagivaN ehT>brainlord>gta3 masta>JDoubleT123>Lil Pimp>PumPMaster>hellion00>GTA_LIVE_TO_PLAY>routine_error"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "D0508DC2 00003FFF"
+      - "20416388 00000004"
+
+  - name: "Patriot Playground In Secs Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416ED8 ????????"
+
+  - name: "Pedestrians Shut Up"
+    author: "Code Master>floydfan>GameMasterZer0>Unknown>GXP>Fiber>Dark-Agent>The GFCC>Fugitive>Mr. DNA>GodOfWine>Garkel>Bouncer62>rotagivaN ehT>brainlord>gta3 masta>JDoubleT123>Lil Pimp>PumPMaster>hellion00>GTA_LIVE_TO_PLAY>routine_error"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "202286B0 03E00008"
+      - "202286B4 00000000"
+
+  - name: "People Saved In Ambulance Mission Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416EE8 ????????"
+
+  - name: "People Wasted By Others Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416E64 ????????"
+
+  - name: "People You've Wasted Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416E60 ????????"
+
+  - name: "Portland Base Color Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "006774C0 000000??"
+
+  - name: "Portland Other Color Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "006774C1 000000??"
+
+  - name: "Shoreside Base Color Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "006776A0 000000??"
+      - "006776C8 000000??"
+      - "006776F0 000000??"
+
+  - name: "Shoreside Other Color Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "006776A1 000000??"
+      - "006776C9 000000??"
+      - "006776F1 000000??"
+
+  - name: "Sniper Rockets"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20267A48 0C09702C"
+
+  - name: "Staunton Base Color Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "006775B0 000000??"
+      - "006775D8 000000??"
+
+  - name: "Staunton Other Color Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "006775B1 000000??"
+      - "006775D9 000000??"
+
+  - name: "Taxi Light Always On"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "00415DD4 00000001"
+
+  - name: "Taxi Passengers Dropped Off Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416EC4 ????????"
+
+  - name: "Times Busted Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416E90 ????????"
+
+  - name: "Tons Of Rampage Time"
+    author: "Code Master>floydfan>GameMasterZer0>Unknown>GXP>Fiber>Dark-Agent>The GFCC>Fugitive>Mr. DNA>GodOfWine>Garkel>Bouncer62>rotagivaN ehT>brainlord>gta3 masta>JDoubleT123>Lil Pimp>PumPMaster>hellion00>GTA_LIVE_TO_PLAY>routine_error"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "10416E3E 000000FF"
+
+  - name: "Total Fires Extinguished Modifier"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "20416EF4 ????????"
+
+  - name: "Turn On The Helicopter"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "00417020 00000001"
+
+  - name: "Unlock All Cars"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "201BC4E4 00000000"
+
+  - name: "Walkman"
+    author: "Various Creators"
+    notes: "[Misc. Codes (Part 3)]"
+    codes:
+      - "202F6BD8 1000003C"
+
+  - name: "Can't Be Busted"
+    author: "InterAct"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "201C9410 03E00008"
+      - "201C9414 00000000"
+      - "201C95C0 03E00008"
+      - "201C95C4 00000000"
+
+  - name: "Disable All Car Radios"
+    author: "InterAct"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "202F70F0 03E00008"
+      - "202F70F4 00000000"
+
+  - name: "Gangs Ignore You"
+    author: "InterAct"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "201C7D70 03E00008"
+      - "201C7D74 00000000"
+      - "202E7700 03E00008"
+      - "202E7704 00000000"
+
+  - name: "Insane Drivers"
+    author: "InterAct"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "201FE290 03E00008"
+      - "201FE294 00000000"
+      - "201FE830 03E00008"
+      - "201FE834 00000000"
+
+  - name: "Quick Fire - Rockets"
+    author: "InterAct"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "1043FA18 00000005"
+
+  - name: "Mission Codes: Turismo Always 1St Place"
+    author: "Azagthoth"
+    codes:
+      - "204A2B88 00000000"
+      - "204A2B90 00000001"
+      - "204A2B8C 00000002"
+      - "204A2B84 00000000"
+
+  - name: "Mission Codes: Turismo No Time"
+    author: "Azagthoth"
+    codes:
+      - "204A2B6C 00000000"
+
+  - name: "Mission Codes: Van Heist"
+    author: "Azagthoth"
+    codes:
+      - "204A2294 0000012C"
+
+  - name: "No One Anywhere"
+    author: "Zane"
+    codes:
+      - "00415EE4 000000EB"
+
+  - name: "Ambulance"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 0000006A"
+
+  - name: "Banshee"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000077"
+
+  - name: "Barracks Ol"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 0000007B"
+
+  - name: "Bf Injection (Buggy)"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000072"
+
+  - name: "Blista"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000066"
+
+  - name: "Bobcat"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000070"
+
+  - name: "Borgnine (Special Taxi)"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000094"
+
+  - name: "Bus"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000079"
+
+  - name: "Cabbie"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000080"
+
+  - name: "Cartel Cruiser"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 0000008A"
+
+  - name: "Cheetah"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000069"
+
+  - name: "Coach"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 0000007F"
+
+  - name: "Diablo Stallion"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000089"
+
+  - name: "Dodo (Plane)"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 0000007E"
+
+  - name: "Enforcer (Swat)"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000075"
+
+  - name: "Esperanto"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 0000006D"
+
+  - name: "Fbi Car"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 0000006B"
+
+  - name: "Firetruck"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000061"
+
+  - name: "Flatbed"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000091"
+
+  - name: "Have AK47"
+    author: "InterAct"
+    notes: "[Page 1]"
+    codes:
+      - "00B65420 00000005"
+
+  - name: "Have Big Gun"
+    author: "InterAct"
+    notes: "[Page 1]"
+    codes:
+      - "00B65434 00000006"
+
+  - name: "Have Flamethrower"
+    author: "InterAct"
+    notes: "[Page 1]"
+    codes:
+      - "00B65470 00000009"
+
+  - name: "Have Grenades"
+    author: "InterAct"
+    notes: "[Page 1]"
+    codes:
+      - "00B65498 0000000B"
+
+  - name: "Have Handgun"
+    author: "InterAct"
+    notes: "[Page 1]"
+    codes:
+      - "00B653E4 00000002"
+
+  - name: "Have Molotovs"
+    author: "InterAct"
+    notes: "[Page 1]"
+    codes:
+      - "00B65484 0000000A"
+
+  - name: "Have R. Launcher"
+    author: "InterAct"
+    notes: "[Page 1]"
+    codes:
+      - "00B6545C 00000008"
+
+  - name: "Have Shotgun"
+    author: "InterAct"
+    notes: "[Page 1]"
+    codes:
+      - "00B6540C 00000004"
+
+  - name: "Have Sniper Rifle"
+    author: "InterAct"
+    notes: "[Page 1]"
+    codes:
+      - "00B65448 00000007"
+
+  - name: "Have Stick"
+    author: "InterAct"
+    notes: "[Page 1]"
+    codes:
+      - "00B653D0 00000001"
+
+  - name: "Have Uzi"
+    author: "InterAct"
+    notes: "[Page 1]"
+    codes:
+      - "00B653F8 00000003"
+
+  - name: "Hoods Rumpo Xl"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 0000008B"
+
+  - name: "Idaho"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 0000005B"
+
+  - name: "Infernus"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000065"
+
+  - name: "Infinite Ammo AK47"
+    author: "InterAct"
+    notes: "[Page 1]"
+    codes:
+      - "10B65428 00000063"
+      - "10B6542C 000003E7"
+
+  - name: "Infinite Ammo Heavy Machine Gun"
+    author: "InterAct"
+    notes: "[Page 1]"
+    codes:
+      - "10B6543C 00000063"
+      - "10B65440 000003E7"
+
+  - name: "Infinite Flame Thrower"
+    author: "InterAct"
+    notes: "[Page 1]"
+    codes:
+      - "10B65478 00000063"
+
+  - name: "Infinite Grenades"
+    author: "InterAct"
+    notes: "[Page 1]"
+    codes:
+      - "10B654A4 00000063"
+
+  - name: "Infinite Handgun Ammo"
+    author: "InterAct"
+    notes: "[Page 1]"
+    codes:
+      - "10B653EC 00000063"
+      - "10B653F0 000003E7"
+
+  - name: "Infinite Molotovs"
+    author: "InterAct"
+    notes: "[Page 1]"
+    codes:
+      - "10B65490 00000063"
+
+  - name: "Infinite Rockets"
+    author: "InterAct"
+    notes: "[Page 1]"
+    codes:
+      - "10B65468 00000063"
+
+  - name: "Infinite Shotgun Ammo"
+    author: "InterAct"
+    notes: "[Page 1]"
+    codes:
+      - "10B65418 00000063"
+      - "10B6541C 000003E7"
+
+  - name: "Infinite Sniper Ammo"
+    author: "InterAct"
+    notes: "[Page 1]"
+    codes:
+      - "10B65454 000003E7"
+
+  - name: "Infinite Uzi Ammo"
+    author: "InterAct"
+    notes: "[Page 1]"
+    codes:
+      - "10B65400 00000063"
+      - "10B65404 000003E7"
+
+  - name: "Kuruma"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 0000006F"
+
+  - name: "Landstalker"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 0000005A"
+
+  - name: "Mafia Sentinel"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000086"
+
+  - name: "Manana"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000064"
+
+  - name: "Moonbeam"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 0000006C"
+
+  - name: "Mr Whoopie (Icecream Truck)"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000071"
+
+  - name: "Mr Wongs"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000085"
+
+  - name: "Mule"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000068"
+
+  - name: "Panlantic Van"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000090"
+
+  - name: "Patriot (Hummer)"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000060"
+
+  - name: "Perennial"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 0000005E"
+
+  - name: "Police"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000074"
+
+  - name: "Pony"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000067"
+
+  - name: "Rhino (Tank)"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 0000007A"
+
+  - name: "Rumpo"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000082"
+
+  - name: "Securicar"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000076"
+
+  - name: "Semi"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 0000005D"
+
+  - name: "Sentinel"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 0000005F"
+
+  - name: "Stallion"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000081"
+
+  - name: "Stinger"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 0000005C"
+
+  - name: "Stretch (Limo)"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000063"
+
+  - name: "Taxi"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 0000006E"
+
+  - name: "Toyz Van"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "00677590 00000095"
+
+  - name: "Trashmaster"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000062"
+
+  - name: "Triad Fish Van"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000084"
+
+  - name: "Yakuza Stinger"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000088"
+
+  - name: "Yankee"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000092"
+
+  - name: "Yardie Lobo"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "006774A0 00000087"
+
+  - name: "0 Times Busted"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "00416E90 00000000"
+
+  - name: "0 Visits To Hospital"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "00416E94 00000000"
+
+  - name: "1 Day Passed"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "00416E98 00000001"
+
+  - name: "73 Mission Attempts"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "00416EBC 00000049"
+
+  - name: "A Ride In The Park In Secs"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "00416EDC 00000014"
+
+  - name: "ALOT OF Cash Made In Taxi"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "00416ECA 00000014"
+
+  - name: "Alotta Helicopters Destroyed"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "00416E72 00000014"
+
+  - name: "Alotta Kgs Of Explosives Used"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "00416E7E 00000014"
+
+  - name: "Best Stunt - Quad Insane Stunt"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "00416EB0 00000007"
+
+  - name: "Black Taxis Ride In The Street"
+    author: "GrandTheftAutoMasta"
+    notes: "[Page 2]"
+    codes:
+      - "202B04EB 00000000"
+
+  - name: "Car Modifier - Portland Garage"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "D0508DC2 0000????"
+
+  - name: "Cars Tip Over"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "201B6E36 00000000"
+
+  - name: "Cars Tip Really Easily (But Not Yours)"
+    author: "Skorpyion"
+    notes: "[Page 2]"
+    codes:
+      - "20183372 00000000"
+
+  - name: "Cars Underground Dissapear When You Touch (Some Of) Them"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "201B6E56 00000000"
+
+  - name: "Freakin Lot Of Cars Crushed"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "00416E8A 00000014"
+
+  - name: "Gripped! In Secs"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "00416EE0 00000014"
+
+  - name: "Hell Of A Lot Of Crimals Killed On Vigilante Mission"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "00416EEE 00000014"
+
+  - name: "Hell Of Alot Of Total Fires Extinguished"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "00416EF6 00000014"
+
+  - name: "Hell Of ALOT People Saves In An Ambulence"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "00416EEA 00000014"
+
+  - name: "HUGE Amount Passengers Dropped Off"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "00416EC6 00000014"
+
+  - name: "Huge Highest Paramedic Mission Level"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "00416EF2 00000014"
+
+  - name: "Improved Infinite Armor"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "10B65316 00004479"
+
+  - name: "L2 Stop Timer"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "D0508DC2 0000FEFF"
+      - "202A1C88 00000000"
+
+  - name: "Levitating Car (L2+Square)"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "D0508DC2 00007EFF"
+      - "201B239F 00000000"
+
+  - name: "Lots Of Cars Exploded"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "20416E68 04277DC9"
+
+  - name: "Low Time Best Time For Bomb Defusal"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "00416EFC 00000014"
+
+  - name: "Low Total Turismo Time"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "10416ECC 00000001"
+
+  - name: "Max Insane Jump Flips"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "00416EAA 00000014"
+
+  - name: "Max Insane Jump Rotations"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "00416EAE 00000014"
+
+  - name: "Multistorey Mayhem In Secs"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "00416EE4 00000014"
+
+  - name: "Others Wasted Lots Of People"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "20416E64 04277DC9"
+
+  - name: "Patriot Playground In Secs"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "00416ED8 00000014"
+
+  - name: "Press X+Circle For Nitro Boost"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "D0508DC2 00009FFF"
+      - "201AF706 00000000"
+
+  - name: "Psy Powers Uber-Heavy Duty"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "201AF733 000028EA"
+
+  - name: "R2 Restart Timer"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "D0508DC2 0000FDFF"
+      - "202A1C88 468000A0"
+
+  - name: "Rumpo Wheels"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "201B6E47 00000000"
+
+  - name: "Semi-Automatic Rocket Launcher"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "10B65468 00000063"
+      - "10B6546C 000003E7"
+
+  - name: "Semi-Automatic Sniper"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "10B65450 00000063"
+      - "10B65454 000003E7"
+      - "201B239F 00000000"
+
+  - name: "Tons Of Rain Fallen"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "20416E9C 05F5E0FF"
+
+  - name: "Weird Wheelz"
+    author: "Dark-Agent"
+    notes: "[Page 2]"
+    codes:
+      - "201B6F56 00000000"
+
+  - name: "Wheels Fall Off (Some Cars) When You Touch A Car"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "201B6E46 00000000"
+
+  - name: "You've Wasted Lots Of People"
+    author: "GXP>Fiber"
+    notes: "[Page 2]"
+    codes:
+      - "20416E60 04277DC9"
+
+  - name: "Base Paint"
+    author: "InterAct"
+    notes: "[Paint Modifier Shoreside Car 1]"
+    codes:
+      - "006776A0 000000??"
+
+  - name: "Car 1 Stripes/Convertible Tops"
+    author: "InterAct"
+    notes: "[Paint Modifier Shoreside Car 1]"
+    codes:
+      - "006776A1 000000??"
+
+  - name: "Reload Time Modifier (Default 04B0)"
+    author: "Various Creators"
+    notes: "[Rocket Launcher Codes]"
+    codes:
+      - "1043FA1C 0000????"
+
+  - name: "Semi-Walk Through Walls"
+    author: "Zane"
+    codes:
+      - "2018F27E 000000EA"
+
+  - name: "Amount Of Ammunition Modifier (Default 03E8)"
+    author: "Various Creators"
+    notes: "[Shotgun Codes]"
+    codes:
+      - "1043F8D0 0000????"
+
+  - name: "Damage Modifier (Default 0064)"
+    author: "Various Creators"
+    notes: "[Shotgun Codes]"
+    codes:
+      - "1043F8D4 0000????"
+
+  - name: "Reload Time Modifier (Default 02EE)"
+    author: "Various Creators"
+    notes: "[Shotgun Codes]"
+    codes:
+      - "1043F8CC 0000????"
+
+  - name: "Damage Modifier (Default 007D)"
+    author: "Various Creators"
+    notes: "[Sniper Rifle Codes]"
+    codes:
+      - "1043F9D0 0000????"
+
+  - name: "Firing Rate Modifier (Default 01F4)"
+    author: "Various Creators"
+    notes: "[Sniper Rifle Codes]"
+    codes:
+      - "1043F9C4 0000????"
+
+  - name: "Reload Time Modifier (Default 0579)"
+    author: "Various Creators"
+    notes: "[Sniper Rifle Codes]"
+    codes:
+      - "1043F9C8 0000????"
+
+  - name: "Stop Mission Timer Press L3, Start Mission Timer R3"
+    author: "Azagthoth"
+    codes:
+      - "D0508D42 0000FFFD"
+      - "202B8990 00000000"
+      - "D0508D42 0000FFFB"
+      - "202B8990 AE650000"
+
+  - name: "Damage Modifier (Default 0008)"
+    author: "Various Creators"
+    notes: "[Unarmed Codes]"
+    codes:
+      - "1043F784 0000????"
+
+  - name: "Amount Of Ammunition Modifier (Default 0019)"
+    author: "Various Creators"
+    notes: "[Uzi Codes]"
+    codes:
+      - "1043F87C 0000????"
+
+  - name: "Damage Modifier (Default 0014)"
+    author: "Various Creators"
+    notes: "[Uzi Codes]"
+    codes:
+      - "1043F880 0000????"
+
+  - name: "Reload Time Modifier (Default 01F4)"
+    author: "Various Creators"
+    notes: "[Uzi Codes]"
+    codes:
+      - "1043F878 0000????"
+
+  - name: "Variable Rapid Fire - Rocket Launcher"
+    author: "Josh_7774"
+    codes:
+      - "00B65460 00000000"
+      - "00B65464 00000001"
+
+  - name: "Variable Rapid Fire - Sniper Rifle"
+    author: "Josh_7774"
+    codes:
+      - "00B6544C 00000000"
+      - "00B65450 00000001"

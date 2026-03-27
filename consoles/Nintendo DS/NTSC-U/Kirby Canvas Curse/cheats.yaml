@@ -1,0 +1,47 @@
+# Kirby Canvas Curse cheat data
+# Console: Nintendo DS
+# Region:  NTSC-U
+# Serial:  ATKE
+
+game: "Kirby Canvas Curse"
+console: "Nintendo DS"
+region: "NTSC-U"
+serial: "ATKE"
+cheat_type: "Action Replay"
+source: ""
+
+cheats:
+  - name: "Max Stars"
+    notes: "File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "020DA494 00000063"
+
+  - name: "INF lives"
+    notes: "File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "020DA41C 00000063"
+
+  - name: "Inf HP"
+    notes: "File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "021121C8 00000040"
+      - "020DA2D8 00000040"
+      - "020EB742 00000040"
+      - "021121A0 00000040"
+
+  - name: "Medals 999 (In Swap Store)"
+    notes: "File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "120DA390 000003E7"
+      - "120DA394 000003E7"
+
+  - name: "Inf Time"
+    notes: "[Time Trials]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "220DA6FA  00000000"
+
+  - name: "Best Time Mod"
+    notes: "[Time Trials]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "220DA700  00[Amount:09:HEX:BIG<Seconds>]00[Amount:09:HEX:BIG<Milliseconds>]"
+      - "020DA704  000000[Amount:09:HEX:BIG<Minutes >]"

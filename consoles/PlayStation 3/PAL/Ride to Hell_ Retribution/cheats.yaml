@@ -1,0 +1,36 @@
+# Ride to Hell_ Retribution cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01581
+
+game: "Ride to Hell_ Retribution"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01581"
+cheat_type: "Save Editor"
+source: "From SHAkA"
+
+cheats:
+  - name: "Max Cash"
+    notes: "File: PAYLOAD"
+    codes:
+      - "write at 0x00000E50:0x3B9AC9FF"
+      - "write at 0x00001269:0x3B9AC9FF"
+      - "write at 0x00001682:0x3B9AC9FF"
+
+  - name: "Update Crc32big For Payload (required)(from Zeick. Thank You!)"
+    notes: "File: PAYLOAD"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:CRC32Big"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"
+
+  - name: "Update Sha1 For Payload (required)"
+    notes: "File: BLES01581-PROFILE\\PAYLOAD  (set range:0x000014,0x0000A7)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000014,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x000000:[hash]"

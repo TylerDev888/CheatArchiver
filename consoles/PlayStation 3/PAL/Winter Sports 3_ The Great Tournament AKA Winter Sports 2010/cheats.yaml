@@ -1,0 +1,21 @@
+# Winter Sports 3_ The Great Tournament AKA Winter Sports 2010 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00600
+
+game: "Winter Sports 3_ The Great Tournament AKA Winter Sports 2010"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00600"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Savegame.dat(required)"
+    notes: "File: SAVEGAME.DAT  (set range:0x000004,0x00FBFF)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32"
+      - "set [hash]:[hash]-1"
+      - "write at 0x000000:[hash]"

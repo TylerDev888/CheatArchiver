@@ -1,0 +1,26 @@
+# Bouken-Ou Beat - Dark Next Century cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25470
+
+game: "Bouken-Ou Beat - Dark Next Century"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25470"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9028D800 0C0A35A8"
+
+  - name: "Enable Debug Menu (Press Select)"
+    author: "punk7890"
+    codes:
+      - "E003FFFE 00323B82"
+      - "202D84D8 0010F3F0"
+      - "202D84DC 002B5EC8"
+      - "202D84E0 00000180"

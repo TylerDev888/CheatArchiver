@@ -1,0 +1,37 @@
+# Spongebob Squarepants - Revenge Of The Flying Dutchman cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51285
+
+game: "Spongebob Squarepants - Revenge Of The Flying Dutchman"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51285"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Invulnerable"
+    author: "luc-ita"
+    codes:
+      - "20228C1C 08028000"
+      - "200A0000 24010050"
+      - "200A0004 A221001E"
+      - "200A0008 DE230018"
+      - "200A000C 0808A309"
+
+  - name: "Moonjump"
+    author: "luc-ita"
+    codes:
+      - "2023BB1C 3C0140A0"
+      - "2023BB20 AC810354"
+      - "2023BB24 03E00008"
+      - "2023BB28 27BD0010"
+
+  - name: "Super Moon Jump"
+    author: "luc-ita"
+    codes:
+      - "2023BB1C 3C014000"
+      - "2023BB20 AC810354"
+      - "2023BB24 03E00008"
+      - "2023BB28 27BD0010"

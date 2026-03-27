@@ -1,0 +1,113 @@
+# King Of Fighters '98 Ultimate Match cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21816
+
+game: "King Of Fighters '98 Ultimate Match"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21816"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "901105D8 0C04411E"
+
+  - name: "Enable Code (MUST BE ON)(cbv1+/Xpv1+)"
+    notes: "[Masters]"
+    codes:
+      - "F0100208 00119CCB"
+
+  - name: "Enable Code (MUST BE ON)(ar2v2/Gs2v2/Sm3.8coder Only)"
+    notes: "[Masters]"
+    codes:
+      - "0E3C7DF2 1456E7A5"
+      - "F0100208 00119CCB"
+
+  - name: "Player 1 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "D150F982 0000FFFE"
+
+  - name: "Player 2 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "D150F882 0000FFFE"
+
+  - name: "Inf Time (p1 Hold L1+r1 Off)"
+    author: "Lee4"
+    codes:
+      - "D150F982 0010F3FF"
+      - "10504E68 00000099"
+
+  - name: "Inf HP"
+    author: "Lee4"
+    notes: "[Player 1]"
+    codes:
+      - "1050F348 00000067"
+      - "D050F362 00000000"
+      - "1050F348 00000077"
+
+  - name: "Inf Power"
+    author: "Lee4"
+    notes: "[Player 1]"
+    codes:
+      - "2050F2F8 40008000"
+      - "1050F32C 00000202"
+      - "0050F3F3 00000004"
+
+  - name: "Player 2 No HP (player 1 Press Select)"
+    author: "Lee4"
+    notes: "[Player 1]"
+    codes:
+      - "D150F982 0000FFFE"
+      - "1050F548 00000000"
+
+  - name: "No Power"
+    author: "Lee4"
+    notes: "[Player 1]"
+    codes:
+      - "2050F2F8 00000000"
+      - "0050F3F3 00000000"
+
+  - name: "Player 1 No HP (player 2 Press Select)"
+    author: "Lee4"
+    notes: "[Player 2]"
+    codes:
+      - "D150F882 0000FFFE"
+      - "1050F348 00000000"
+
+  - name: "Unlock All Characters"
+    author: "Lee4"
+    codes:
+      - "10513A10 0000FFFF"
+
+  - name: "All Challenge Cleared"
+    author: "Lee4"
+    codes:
+      - "405139E0 00070001"
+      - "02020202 00000000"
+      - "105139FC 00000202"
+
+  - name: "Unlock Art Work For \"playstation 2\""
+    author: "Lee4"
+    notes: "[Gallery Codes]"
+    codes:
+      - "40513A50 00040001"
+      - "01010101 00000000"
+
+  - name: "Unlock Art Work For \"dream Match 1999\""
+    author: "Lee4"
+    notes: "[Gallery Codes]"
+    codes:
+      - "20513AC0 01010101"
+
+  - name: "Unlock Demo & Movies"
+    author: "Lee4"
+    notes: "[Gallery Codes]"
+    codes:
+      - "40513B10 00040001"
+      - "01010101 00000000"

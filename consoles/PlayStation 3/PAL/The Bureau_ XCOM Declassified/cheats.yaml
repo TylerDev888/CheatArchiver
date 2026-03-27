@@ -1,0 +1,38 @@
+# The Bureau_ XCOM Declassified cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01322
+
+game: "The Bureau_ XCOM Declassified"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01322"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Decompress Save (required)"
+    notes: "File: BLES01322-XPROFILE\\PAYLOAD"
+    codes:
+      - "Decompress(*, 15)"
+
+  - name: "Compress Save (required)"
+    notes: "File: BLES01322-XPROFILE\\PAYLOAD"
+    codes:
+      - "Compress(*)"
+
+  - name: "Update Sha1 (required)"
+    notes: "File: BLES01322-XPROFILE\\PAYLOAD"
+    codes:
+      - "set range:0x000014,0x031243"
+      - "set [hash]:SHA1"
+      - "write at 0x000000:[hash]"
+
+  - name: "Update Crc32big For Payload (required)"
+    notes: "File: BLES01322-XSAVEA1_0\\PAYLOAD  (Checksum offset is located within the checksum range.) (Initializing checksum with null bytes) (set range:0x0,0x13CFEF)"
+    codes:
+      - "write at 0x000004:00000000"
+      - "set pointer:eof+1"
+      - "set range:0x0,pointer"
+      - "set [hash]:CRC32Big"
+      - "write at 0x000004:[hash]"

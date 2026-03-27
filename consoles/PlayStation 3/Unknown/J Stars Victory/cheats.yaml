@@ -1,0 +1,33 @@
+# J Stars Victory cheat data
+# Console: PlayStation 3
+# Region:  Unknown
+# Serial:  BLJS10257
+
+game: "J Stars Victory"
+console: "PlayStation 3"
+region: "Unknown"
+serial: "BLJS10257"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "J Points 999999"
+    notes: "File: SYS-DATA"
+    codes:
+      - "20029A88 000F423F"
+      - "20029A8C 000F423F"
+
+  - name: "Bronze Coin 99"
+    notes: "File: SYS-DATA"
+    codes:
+      - "00029AD7 00000063"
+
+  - name: "Silver Coin 99"
+    notes: "File: SYS-DATA"
+    codes:
+      - "00029ADB 00000063"
+
+  - name: "Gold Coin 99"
+    notes: "File: SYS-DATA"
+    codes:
+      - "00029ADF 00000063"

@@ -1,0 +1,62 @@
+# Shin Megami Tensei-Persona 3 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21569
+
+game: "Shin Megami Tensei-Persona 3"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21569"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Skiller"
+    notes: "[Masters]"
+    codes:
+      - "90514A88 00832021"
+
+  - name: "Infinite Money"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "10810ADC 0000FFFF"
+
+  - name: "Max Money"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "20810ADC 0098967F"
+
+  - name: "Use Item For Max Item"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "2016ED38 20110063"
+
+  - name: "Always Good Stats"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "2016BDD8 A46FC66E"
+      - "2016BE04 A46F0000"
+      - "2016BD08 A4600000"
+
+  - name: "Max Academics"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "1080C660 000003E7"
+
+  - name: "Max Charm"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "1080C662 000003E7"
+
+  - name: "Max Courage"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "1080C664 000003E7"

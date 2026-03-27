@@ -1,0 +1,38 @@
+# Spec Ops_ The Line cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01157
+
+game: "Spec Ops_ The Line"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01157"
+cheat_type: "AP"
+source: ""
+
+cheats:
+  - name: "Decompress Save (required)"
+    notes: "File: PAYLOAD0"
+    codes:
+      - "Decompress(*, 15)"
+
+  - name: "Compress Save (required)"
+    notes: "File: PAYLOAD0"
+    codes:
+      - "Compress(*)"
+
+  - name: "Update Sha1 (required)"
+    notes: "File: PAYLOAD0  (set range:0x000014,0x0004DB)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000014,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x000000:[hash]"
+
+  - name: "Update Sha1 For Payload0 (required)"
+    notes: "File: PAYLOAD0  (set range:0x000014,0x0004DB)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000014,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x000000:[hash]"

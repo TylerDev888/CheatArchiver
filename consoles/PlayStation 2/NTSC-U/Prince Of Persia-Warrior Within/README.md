@@ -1,0 +1,233 @@
+# Prince Of Persia-Warrior Within
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-21022  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Enable Code (Must Be On) [Read Note]
+**Author:** Code Master  
+**Notes:** [Masters]
+
+```
+90103F10 0C046750
+```
+
+---
+
+### Infinite Health
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+202173FC 24030176
+20217404 AE0301F4
+```
+
+---
+
+### Max Health
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+20317244 8C410048
+2031724C 24030176
+20317254 AC231490
+```
+
+---
+
+### Infinite Sand Meter
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+200C0240 2401000C
+200C0244 AC610A94
+200C0248 080F0E8B
+200C024C AF849FD0
+203C3A24 08030090
+```
+
+---
+
+### Max Sand Meter
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+200C0250 2401000C
+200C0254 AC4111C8
+200C0258 03E00008
+200C025C 0240202D
+203199C4 0C030094
+```
+
+---
+
+### Have All Sand Powers
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+200C0260 2401FFFF
+200C0264 AE2111C4
+200C0268 03E00008
+200C026C 24430014
+203C72A8 0C030098
+```
+
+---
+
+### Have All Life Upgrades Found
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+200C0270 8C611328
+200C0274 342101FF
+200C0278 AC611328
+200C027C 080A9769
+200C0280 AF869F10
+202A5D9C 0803009C
+```
+
+---
+
+### Infinite Check Point Meter
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+2046C198 00000000
+2046D060 00000000
+2046D128 00000000
+```
+
+---
+
+### Infinite Sand Usage
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+203C3EB0 00000000
+```
+
+---
+
+### 1-Hit Death (Enemies)
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+201ED4BC 44806000
+20390DDC 24050000
+```
+
+---
+
+### 1-Hit Death (Bosses)
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+20277B20 24020000
+```
+
+---
+
+### Unlock All Video & Artwork Gallery
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+207DE440 FFFFFFFF
+207DE444 FFFFFFFF
+```
+
+---
+
+### Unlock All Weapon Gallery
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+207DE448 FFFFFFFF
+207DE44C FFFFFFFF
+```
+
+---
+
+### Enemies Cant Attack
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+20254F40 03E00008
+20254F44 00000000
+20256F40 03E00008
+20256F44 00000000
+```
+
+---
+
+### Enemies Cant Perform Combo Attacks
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+20255840 03E00008
+20255844 00000000
+```
+
+---
+
+### P1 Press L1+Select For Normal Speed
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+D07F9082 0000FBFE
+207B7E88 3F800000
+```
+
+---
+
+### P1 Press L2+Select For Super Speed
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+D07F9082 0000FEFE
+207B7E88 3FC00000
+```
+
+---
+
+### P1 Press R1+Select For Turbo Speed
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+D07F9082 0000F7FE
+207B7E88 40000000
+```
+
+---
+
+### P1 Press R2+Select For Ultra Speed
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+D07F9082 0000FDFE
+207B7E88 40800000
+```
+
+---

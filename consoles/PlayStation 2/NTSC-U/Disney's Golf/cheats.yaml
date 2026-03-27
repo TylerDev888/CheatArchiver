@@ -1,0 +1,169 @@
+# Disney's Golf cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20532
+
+game: "Disney's Golf"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20532"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90105FD0 0C04179C"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0010CEF7"
+
+  - name: "Enable Debug Setup Menu"
+    author: "punk7890"
+    codes:
+      - "202DF244 00000002"
+
+  - name: "Enable Demo Challenge Debug Menu"
+    author: "punk7890"
+    codes:
+      - "202DF0EC 00000001"
+
+  - name: "Enable Traject Debug Mode"
+    author: "punk7890"
+    codes:
+      - "202DFA68 00000001"
+
+  - name: "Only One Shot Recorded"
+    author: "Code Master"
+    codes:
+      - "20152978 00000000"
+
+  - name: "Hole 1"
+    author: "Code Master"
+    notes: "[P1 Only One Shot Recorded Codes]"
+    codes:
+      - "1033F8C6 00000000"
+
+  - name: "Hole 2"
+    author: "Code Master"
+    notes: "[P1 Only One Shot Recorded Codes]"
+    codes:
+      - "1033F8C8 00000000"
+
+  - name: "Hole 3"
+    author: "Code Master"
+    notes: "[P1 Only One Shot Recorded Codes]"
+    codes:
+      - "1033F8CA 00000000"
+
+  - name: "Hole 4"
+    author: "Code Master"
+    notes: "[P1 Only One Shot Recorded Codes]"
+    codes:
+      - "1033F8CC 00000000"
+
+  - name: "Hole 5"
+    author: "Code Master"
+    notes: "[P1 Only One Shot Recorded Codes]"
+    codes:
+      - "1033F8CE 00000000"
+
+  - name: "Hole 6"
+    author: "Code Master"
+    notes: "[P1 Only One Shot Recorded Codes]"
+    codes:
+      - "1033F8D0 00000000"
+
+  - name: "Hole 7"
+    author: "Code Master"
+    notes: "[P1 Only One Shot Recorded Codes]"
+    codes:
+      - "1033F8D2 00000000"
+
+  - name: "Hole 8"
+    author: "Code Master"
+    notes: "[P1 Only One Shot Recorded Codes]"
+    codes:
+      - "1033F8D4 00000000"
+
+  - name: "Hole 9"
+    author: "Code Master"
+    notes: "[P1 Only One Shot Recorded Codes]"
+    codes:
+      - "1033F8D6 00000000"
+
+  - name: "Hole 10"
+    author: "Code Master"
+    notes: "[P1 Only One Shot Recorded Codes]"
+    codes:
+      - "1033F8D8 00000000"
+
+  - name: "Hole 11"
+    author: "Code Master"
+    notes: "[P1 Only One Shot Recorded Codes]"
+    codes:
+      - "1033F8DA 00000000"
+
+  - name: "Hole 12"
+    author: "Code Master"
+    notes: "[P1 Only One Shot Recorded Codes]"
+    codes:
+      - "1033F8DC 00000000"
+
+  - name: "Hole 13"
+    author: "Code Master"
+    notes: "[P1 Only One Shot Recorded Codes]"
+    codes:
+      - "1033F8DE 00000000"
+
+  - name: "Hole 14"
+    author: "Code Master"
+    notes: "[P1 Only One Shot Recorded Codes]"
+    codes:
+      - "1033F8E0 00000000"
+
+  - name: "Hole 15"
+    author: "Code Master"
+    notes: "[P1 Only One Shot Recorded Codes]"
+    codes:
+      - "1033F8E2 00000000"
+
+  - name: "Hole 16"
+    author: "Code Master"
+    notes: "[P1 Only One Shot Recorded Codes]"
+    codes:
+      - "1033F8E4 00000000"
+
+  - name: "Hole 17"
+    author: "Code Master"
+    notes: "[P1 Only One Shot Recorded Codes]"
+    codes:
+      - "1033F8E6 00000000"
+
+  - name: "Hole 18"
+    author: "Code Master"
+    notes: "[P1 Only One Shot Recorded Codes]"
+    codes:
+      - "1033F8E8 00000000"
+
+  - name: "Shot's Recorded Score Modifier"
+    author: "Code Master"
+    codes:
+      - "10152974 000000??"
+
+  - name: "Unlock All Characters"
+    author: "Code Master"
+    codes:
+      - "20345814 000000FF"
+
+  - name: "View Character Status For Max Total Coins (Members Room)"
+    author: "Code Master"
+    codes:
+      - "E002AAE2 0045E4B4"
+      - "2045E4B0 2406270F"
+      - "2045E4B8 AC660234"

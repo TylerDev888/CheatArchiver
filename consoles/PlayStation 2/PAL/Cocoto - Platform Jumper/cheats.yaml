@@ -1,0 +1,34 @@
+# Cocoto - Platform Jumper cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52523
+
+game: "Cocoto - Platform Jumper"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52523"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Always Invulnerable"
+    author: "luc-ita"
+    codes:
+      - "20161B68 24090064"
+
+  - name: "Jump And Walk In Midair"
+    author: "luc-ita"
+    codes:
+      - "20167468 A4C8005C"
+      - "20164134 00000000"
+
+  - name: "Stay Alive Even Without Golden Apples"
+    author: "luc-ita"
+    codes:
+      - "20163864 00000000"
+
+  - name: "Take Gems Anywhere"
+    author: "luc-ita"
+    codes:
+      - "2017260C 00000000"
+      - "2017FE60 00000000"

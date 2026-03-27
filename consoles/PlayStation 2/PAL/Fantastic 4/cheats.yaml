@@ -1,0 +1,94 @@
+# Fantastic 4 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Fantastic 4"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9016A89C 0C09A8E0"
+
+  - name: "Energy"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2000 0C070FE2"
+      - "200C2004 00040820"
+      - "200C2008 0808EFF1"
+      - "200C200C A422000E"
+      - "2023BFBC 08030800"
+
+  - name: "Cosmic Power"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2010 00641821"
+      - "200C2014 84610002"
+      - "200C2018 03E00008"
+      - "200C201C A4610000"
+      - "201B4D68 00B01821"
+      - "201B4D64 0C030804"
+
+  - name: "Lives"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2030 24020064"
+      - "200C2034 A0623091"
+      - "200C2038 03E00008"
+      - "200C203C 0280282D"
+      - "2017F8DC 0C03080C"
+
+  - name: "Supers"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2040 24100009"
+      - "200C2044 03E00008"
+      - "200C2048 A2303092"
+      - "2017F944 0C030810"
+
+  - name: "Balance"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "20320D24 05F5E0FF"
+
+  - name: "All Upgrades"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "200C2020 8C470000"
+      - "200C2024 34E701FF"
+      - "200C2028 03E00008"
+      - "200C202C AC470000"
+      - "2012F254 0C030808"
+
+  - name: "All Levels"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "00320D28 00000009"
+
+  - name: "All Bonus Levels"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "00320D2D 00000001"
+      - "10320D2E 00000101"
+
+  - name: "All Unlockables"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "00320DEF 000000FF"
+      - "20320DF0 FFFFFFFF"
+      - "00320DF4 000000FF"

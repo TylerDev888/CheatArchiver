@@ -1,0 +1,69 @@
+# I-Ninja cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-52099
+
+game: "I-Ninja"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-52099"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F018DDD4 0018DDD7"
+
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90193620 0C064D30"
+
+  - name: "Enable Debug Options [View Note]"
+    author: "punk7890"
+    codes:
+      - "20120A00 24020075"
+
+  - name: "Infinite Coinage"
+    author: "Codejunkies"
+    codes:
+      - "1032D23C 000003E7"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "2032D1C8 44000000"
+
+  - name: "Max Coinage"
+    author: "Codejunkies"
+    codes:
+      - "1032D248 0000270F"
+
+  - name: "Max Continues"
+    author: "Codejunkies"
+    codes:
+      - "1032D268 000003E7"
+
+  - name: "Max Health"
+    author: "Codejunkies"
+    codes:
+      - "2032D1CC 44000000"
+
+  - name: "Max Score"
+    author: "Codejunkies"
+    codes:
+      - "2032D260 05F5E0FF"
+
+  - name: "Open Debug Option: Flag Setters"
+    author: "Codejunkies"
+    codes:
+      - "001FDC40 00000008"
+
+  - name: "PAL To NTSC (60Hz)"
+    author: "punk7890"
+    codes:
+      - "2018B3A8 24120002"

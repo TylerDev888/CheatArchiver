@@ -1,0 +1,38 @@
+# Asterix & Obelix At The Olympic Games cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-55034
+
+game: "Asterix & Obelix At The Olympic Games"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-55034"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "1Hitkill"
+    author: "luc-ita"
+    codes:
+      - "20439B28 00000000"
+
+  - name: "Camera Will Always Follow The Player When Jump"
+    author: "luc-ita"
+    codes:
+      - "20146C5C 10000027"
+
+  - name: "Jump In Midair"
+    author: "luc-ita"
+    codes:
+      - "203242F0 240500FF"
+
+  - name: "Take Objects Anywhere"
+    author: "luc-ita"
+    codes:
+      - "20284F74 00000000"
+      - "20285304 00000000"
+
+  - name: "Untouchable"
+    author: "luc-ita"
+    codes:
+      - "2031B134 100000BA"

@@ -1,0 +1,99 @@
+# WWE Smackdown! - Shut Your Mouth cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51283
+
+game: "WWE Smackdown! - Shut Your Mouth"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51283"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01155B4 001155B7"
+
+  - name: "Disable A.I"
+    author: "Codejunkies"
+    codes:
+      - "201F831C 24020000"
+
+  - name: "Freeze Timer"
+    author: "Codejunkies"
+    codes:
+      - "203D01B8 00000010"
+
+  - name: "Hyper Mode (Press Select+L2 To Activate; Select+R2 To Deactivate)"
+    author: "Codejunkies"
+    codes:
+      - "D04EE1C2 0000FEFE"
+      - "20100B2C 00000000"
+      - "D04EE1C2 0000FDFE"
+      - "20100B2C 0C04310C"
+
+  - name: "Infinite Smackdown Usage"
+    author: "Codejunkies"
+    codes:
+      - "20152FF0 00000000"
+
+  - name: "100 Opponent Slobber Knocker"
+    author: "Codejunkies"
+    notes: "[Ring Out Codes]"
+    codes:
+      - "10456DE4 00000064"
+
+  - name: "All Fmvs"
+    author: "Codejunkies"
+    notes: "[Ring Out Codes]"
+    codes:
+      - "00432AEA 000000FF"
+
+  - name: "All Unlockable Items"
+    author: "Codejunkies"
+    notes: "[Ring Out Codes]"
+    codes:
+      - "2042F028 FFFFFFFF"
+      - "2042F02C FFFFFFFF"
+      - "2042F030 FFFFFFFF"
+
+  - name: "Always Have Mike"
+    author: "Codejunkies"
+    notes: "[Ring Out Codes]"
+    codes:
+      - "2013DED0 00000000"
+
+  - name: "Always Have Tables"
+    author: "Codejunkies"
+    notes: "[Ring Out Codes]"
+    codes:
+      - "2013DE98 00000000"
+
+  - name: "Always Ring Out Count"
+    author: "Codejunkies"
+    notes: "[Ring Out Codes]"
+    codes:
+      - "003D0334 00000001"
+
+  - name: "Max Ability Points"
+    author: "Codejunkies"
+    notes: "[Ring Out Codes]"
+    codes:
+      - "202B2584 240203E7"
+      - "202B257C 00000000"
+
+  - name: "Never Ring Out Count"
+    author: "Codejunkies"
+    notes: "[Ring Out Codes]"
+    codes:
+      - "003D0334 00000000"
+
+  - name: "No Disqualification"
+    author: "Codejunkies"
+    notes: "[Ring Out Codes]"
+    codes:
+      - "2015C0A0 03E00008"
+      - "2015C0A4 00000000"

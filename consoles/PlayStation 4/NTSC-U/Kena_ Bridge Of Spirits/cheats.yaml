@@ -1,0 +1,35 @@
+# Kena_ Bridge Of Spirits cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA24853
+
+game: "Kena_ Bridge Of Spirits"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA24853"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Rot Count"
+    notes: "File: Autosave|SaveSlot[0-9]+\\ue4savegame.ps4.sav"
+    codes:
+      - "80010008 526F7443"
+      - "6F756E74 00000000"
+      - "08000022 000000[Amount:64:HEX:BIG]"
+
+  - name: "Meditation Spots"
+    notes: "File: Autosave|SaveSlot[0-9]+\\ue4savegame.ps4.sav"
+    codes:
+      - "80010010 004D6564"
+      - "69746174 696F6E53"
+      - "706F7400 00000000"
+      - "0800003C 000000[Amount:64:HEX:BIG]"
+
+  - name: "Max Health Upgrades"
+    notes: "File: Autosave|SaveSlot[0-9]+\\ue4savegame.ps4.sav"
+    codes:
+      - "80010014 55706772"
+      - "6164652E 4D617848"
+      - "65616C74 68000500"
+      - "0800003E 000000[Amount:64:HEX:BIG]"

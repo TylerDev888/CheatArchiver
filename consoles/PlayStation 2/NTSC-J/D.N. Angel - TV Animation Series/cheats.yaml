@@ -1,0 +1,24 @@
+# D.N. Angel - TV Animation Series cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65368
+
+game: "D.N. Angel - TV Animation Series"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65368"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010CA78 0C043246"
+
+  - name: "Unlock All Omake"
+    author: "punk7890"
+    codes:
+      - "403B6300 00140001"
+      - "FFFFFFFF 00000000"

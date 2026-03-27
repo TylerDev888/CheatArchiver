@@ -1,0 +1,24 @@
+# Hakuoki - Reimeiroku cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM 55273
+
+game: "Hakuoki - Reimeiroku"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM 55273"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90116A70 0C045A44"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90214EC8 0C085498"

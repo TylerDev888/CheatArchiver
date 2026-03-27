@@ -1,0 +1,2146 @@
+# Tales Of Graces f cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLAS50501
+
+game: "Tales Of Graces f"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLAS50501"
+cheat_type: "AP"
+source: "From Game Genie For PS3,Tripate"
+
+cheats:
+  - name: "Max Amount Of Times Cleared"
+    notes: "File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "00000001 000000FF"
+
+  - name: "Enable Chaos Mode"
+    notes: "File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "00000003 00000001"
+
+  - name: "Max Money"
+    notes: "File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "200076D4 0098967F"
+
+  - name: "Max Eleth Mixer Energy"
+    notes: "File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "2000ABF8 270E270E"
+
+  - name: "Max Eleth Mixer Slots"
+    notes: "File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000AC1C 00000010"
+
+  - name: "Asbel"
+    notes: "[Have All Titles/master]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "42000118 00040706"
+      - "40A10008 00010000"
+
+  - name: "Asbel (child)"
+    notes: "[Have All Titles/master]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "42005400 00010506"
+      - "40A10008 00010000"
+
+  - name: "Cheria"
+    notes: "[Have All Titles/master]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "420024A0 01EF0506"
+      - "40A10008 00010000"
+
+  - name: "Hubert"
+    notes: "[Have All Titles/master]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "420018C8 01580506"
+      - "40A10008 00010000"
+
+  - name: "Hubert (child)"
+    notes: "[Have All Titles/master]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "42005FD8 01560506"
+      - "40A10008 00010000"
+
+  - name: "Malik"
+    notes: "[Have All Titles/master]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "42003080 02880506"
+      - "40A10008 00010000"
+
+  - name: "Pascal"
+    notes: "[Have All Titles/master]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "42003C50 03200506"
+      - "40A10008 00010000"
+
+  - name: "Richard"
+    notes: "[Have All Titles/master]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "42004828 03BB0506"
+      - "40A10008 00010000"
+
+  - name: "Richard (child)"
+    notes: "[Have All Titles/master]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "42006BB0 03B90506"
+      - "40A10008 00010000"
+
+  - name: "Sophie"
+    notes: "[Have All Titles/master]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "42000CF0 00AB0506"
+      - "40A10008 00010000"
+
+  - name: "Increase Max Item Capacity(use This To Allow Up To 99 Of Most Items To Be Stored.)"
+    notes: "[Have All]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "2000A635 63636363"
+      - "1000A639 00006363"
+      - "0000A63A 00000063"
+
+  - name: "Consumables(you Must Use The Increase Max Item Capacity Cheat With This Cheat.)"
+    notes: "[Have All]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "4000A641 0000000F"
+      - "40220001 00000000"
+
+  - name: "Food(you Must Use The Increase Max Item Capacity Cheat With This Cheat.)"
+    notes: "[Have All]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "4000A654 00000032"
+      - "406C0001 00000000"
+
+  - name: "Materials(you Must Use The Increase Max Item Capacity Cheat With This Cheat.)"
+    notes: "[Have All]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "4000A6E1 00000032"
+      - "407A0001 00000000"
+
+  - name: "Cashables(you Must Use The Increase Max Item Capacity Cheat With This Cheat.)"
+    notes: "[Have All]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "4000A75C 00000032"
+      - "40410001 00000000"
+
+  - name: "Ingredients(you Must Use The Increase Max Item Capacity Cheat With This Cheat.)"
+    notes: "[Have All]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "4000A79E 00000032"
+      - "402E0001 00000000"
+
+  - name: "Unique Equipment(you Must Use The Increase Max Item Capacity Cheat With This Cheat. Do Not Use With Child Characters.)"
+    notes: "[Have All]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "4000A8D1 0000000F"
+      - "40550001 00000000"
+
+  - name: "Weapons(do Not Use With Child Characters.)"
+    notes: "[Have All]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "42007AEE 030003E7"
+      - "407F001A 00010000"
+      - "42007AF2 03E703E7"
+      - "407F001A 00000000"
+      - "41007AF6 00001E1E"
+      - "407F001A 00000000"
+      - "40007AFE 00000017"
+      - "407F001A 00000000"
+      - "42007B02 0000270F"
+      - "407F001A 00000000"
+
+  - name: "Armors(do Not Use With Child Characters.)"
+    notes: "[Have All]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "42008F4E 040003E7"
+      - "403C0016 00010000"
+      - "42008F52 03E703E7"
+      - "403C0016 00000000"
+      - "40008F5C 00000017"
+      - "403C0016 00000000"
+      - "41008F62 0000270F"
+      - "403C0016 00000000"
+
+  - name: "Apple Gel"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A641 00000001"
+
+  - name: "Peach Gel"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A642 00000001"
+
+  - name: "Grape Gel"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A643 00000001"
+
+  - name: "Melon Gel"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A644 00000001"
+
+  - name: "Panacea Bottle"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A645 00000001"
+
+  - name: "Syrup Bottle"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A646 00000001"
+
+  - name: "Life Bottle"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A647 00000001"
+
+  - name: "Elixir"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A648 00000001"
+
+  - name: "All-divide"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A649 00000001"
+
+  - name: "Hourglass"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A64A 00000001"
+
+  - name: "Drop Bottle"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A64B 00000001"
+
+  - name: "Arcane Bottle"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A64C 00000001"
+
+  - name: "Holy Bottle"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A64D 00000001"
+
+  - name: "Dark Bottle"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A64E 00000001"
+
+  - name: "Sage"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A64F 00000001"
+
+  - name: "Lavender"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A650 00000001"
+
+  - name: "Verbena"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A651 00000001"
+
+  - name: "Rosemary"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A652 00000001"
+
+  - name: "Saffron"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A653 00000001"
+
+  - name: "Chamomile"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A654 00000001"
+
+  - name: "Savory"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A655 00000001"
+
+  - name: "Red Sage"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A656 00000001"
+
+  - name: "Red Lavender"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A657 00000001"
+
+  - name: "Red Verbena"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A658 00000001"
+
+  - name: "Red Rosemary"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A659 00000001"
+
+  - name: "Red Saffron"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A65A 00000001"
+
+  - name: "Red Chamomile"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A65B 00000001"
+
+  - name: "Red Savory"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A65C 00000001"
+
+  - name: "Mastery Tonic C"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A65D 00000001"
+
+  - name: "Mastery Tonic Ex"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A65E 00000001"
+
+  - name: "Mastery Tonic G"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A65F 00000001"
+
+  - name: "Eleth Bottle C"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A660 00000001"
+
+  - name: "Eleth Bottle Ex"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A661 00000001"
+
+  - name: "Eleth Bottle G"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A662 00000001"
+
+  - name: "Ice Pop"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A663 00000001"
+
+  - name: "Rice Ball"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A664 00000001"
+
+  - name: "Plum Rice Ball"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A665 00000001"
+
+  - name: "Roe Rice Ball"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A666 00000001"
+
+  - name: "Salmon Rice Ball"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A667 00000001"
+
+  - name: "Fried Rice"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A668 00000001"
+
+  - name: "Crab Fried Rice"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A669 00000001"
+
+  - name: "Doria"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A66A 00000001"
+
+  - name: "Paella"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A66B 00000001"
+
+  - name: "Bouillabaisse"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A66C 00000001"
+
+  - name: "Fisherman's Rice"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A66D 00000001"
+
+  - name: "Sweet And Sour Eel"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A66E 00000001"
+
+  - name: "Natto Rice"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A66F 00000001"
+
+  - name: "Rice Porridge"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A670 00000001"
+
+  - name: "Plum Porridge"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A671 00000001"
+
+  - name: "Salmon Porridge"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A672 00000001"
+
+  - name: "Sea Bream Porridge"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A673 00000001"
+
+  - name: "Eel Porridge"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A674 00000001"
+
+  - name: "Grilled Chicken Bowl"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A675 00000001"
+
+  - name: "Chicken And Egg Bowl"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A676 00000001"
+
+  - name: "Pork Cutlet Bowl"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A677 00000001"
+
+  - name: "Roe Bowl"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A678 00000001"
+
+  - name: "Beef Bowl"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A679 00000001"
+
+  - name: "Tuna Bowl"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A67A 00000001"
+
+  - name: "Salmon And Roe Bowl"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A67B 00000001"
+
+  - name: "Sushi Roll"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A67C 00000001"
+
+  - name: "Natto Roll"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A67D 00000001"
+
+  - name: "Omelette"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A67E 00000001"
+
+  - name: "Rice Omelette"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A67F 00000001"
+
+  - name: "Soba Omelette"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A680 00000001"
+
+  - name: "Pizza"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A681 00000001"
+
+  - name: "Pasta Carbonara"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A682 00000001"
+
+  - name: "Meat Souce Pasta"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A683 00000001"
+
+  - name: "Pasta Vongole"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A684 00000001"
+
+  - name: "Yakisoba Noodles"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A685 00000001"
+
+  - name: "Sandwich"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A686 00000001"
+
+  - name: "Fench Toast"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A687 00000001"
+
+  - name: "Grilled Cheese"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A688 00000001"
+
+  - name: "Pudding Cake"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A689 00000001"
+
+  - name: "Natto On Toast"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A68A 00000001"
+
+  - name: "Fried Manju"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A68B 00000001"
+
+  - name: "Potato Salad"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A68C 00000001"
+
+  - name: "Baked Potato"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A68D 00000001"
+
+  - name: "Gratin"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A68E 00000001"
+
+  - name: "Soup Au Gratin"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A68F 00000001"
+
+  - name: "Pasta Au Gratin"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A690 00000001"
+
+  - name: "Croquettes"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A691 00000001"
+
+  - name: "Beef Croquettes"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A692 00000001"
+
+  - name: "Crab Croquettes"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A693 00000001"
+
+  - name: "Steak"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A694 00000001"
+
+  - name: "Radish Steak"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A695 00000001"
+
+  - name: "Marbled Stake"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A696 00000001"
+
+  - name: "Marbled Radish Steak"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A697 00000001"
+
+  - name: "Salisbury Steak"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A698 00000001"
+
+  - name: "Radish Salisbury Steak"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A699 00000001"
+
+  - name: "Tofu Salisbury Stake"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A69A 00000001"
+
+  - name: "Hamburger"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A69B 00000001"
+
+  - name: "Cheeseburger"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A69C 00000001"
+
+  - name: "Double Cheeseburger"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A69D 00000001"
+
+  - name: "Cabbage Rolls"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A69E 00000001"
+
+  - name: "Scottish Eggs"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A69F 00000001"
+
+  - name: "Fried Chicken"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6A0 00000001"
+
+  - name: "Twice Cooked Pork"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6A1 00000001"
+
+  - name: "Pork Potato Stew"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6A2 00000001"
+
+  - name: "Beef Potato Stew"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6A3 00000001"
+
+  - name: "Best With Red Wine Sauce"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6A4 00000001"
+
+  - name: "Dry Curry"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6A5 00000001"
+
+  - name: "Curry"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6A6 00000001"
+
+  - name: "Pork Curry"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6A7 00000001"
+
+  - name: "Chicken Curry"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6A8 00000001"
+
+  - name: "Beef Curry"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6A9 00000001"
+
+  - name: "Seafood Curry"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6AA 00000001"
+
+  - name: "Stew"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6AB 00000001"
+
+  - name: "Beef Stew"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6AC 00000001"
+
+  - name: "Seafood Stew"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6AD 00000001"
+
+  - name: "Pot Au Fru"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6AE 00000001"
+
+  - name: "Borscht"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6AF 00000001"
+
+  - name: "Fish N Chips"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6B0 00000001"
+
+  - name: "Salmon Pie"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6B1 00000001"
+
+  - name: "Chili Shrimp"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6B2 00000001"
+
+  - name: "Curried Cod"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6B3 00000001"
+
+  - name: "Miso-glazed Cod"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6B4 00000001"
+
+  - name: "Crablettes"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6B5 00000001"
+
+  - name: "Seafood Salad"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6B6 00000001"
+
+  - name: "Clam Miso Soup"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6B7 00000001"
+
+  - name: "Radish Miso Soup"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6B8 00000001"
+
+  - name: "Tofu Miso Soup"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6B9 00000001"
+
+  - name: "Beef Tofu"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6BA 00000001"
+
+  - name: "Mabo Tofu"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6BB 00000001"
+
+  - name: "Mabo Eggplant"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6BC 00000001"
+
+  - name: "Mabo Curry"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6BD 00000001"
+
+  - name: "Dashi Stew"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6BE 00000001"
+
+  - name: "Miso Stew"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6BF 00000001"
+
+  - name: "Quiche"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6C0 00000001"
+
+  - name: "Apple Pie"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6C1 00000001"
+
+  - name: "Pumpkin Pie"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6C2 00000001"
+
+  - name: "Bannana Pie"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6C3 00000001"
+
+  - name: "Meat Pie"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6C4 00000001"
+
+  - name: "Peach Pie"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6C5 00000001"
+
+  - name: "Chocolate Pie"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6C6 00000001"
+
+  - name: "Apple Parfait"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6C7 00000001"
+
+  - name: "Tomato Parfait"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6C8 00000001"
+
+  - name: "Peach Parfait"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6C9 00000001"
+
+  - name: "Grape Parfait"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6CA 00000001"
+
+  - name: "Cheesecake"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6CB 00000001"
+
+  - name: "Pudding"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6CC 00000001"
+
+  - name: "Pumpkin Pudding"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6CD 00000001"
+
+  - name: "Truffle"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6CE 00000001"
+
+  - name: "Chocolate-covered Banana"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6CF 00000001"
+
+  - name: "Chocolate Pudding"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6D0 00000001"
+
+  - name: "Soaring Crystal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6E1 00000001"
+
+  - name: "Wriggler Crystal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6E2 00000001"
+
+  - name: "Submerged Crystal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6E3 00000001"
+
+  - name: "Seascale Crystal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6E4 00000001"
+
+  - name: "Overgrown Crystal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6E5 00000001"
+
+  - name: "Fangtear Crystal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6E6 00000001"
+
+  - name: "Formless Crystal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6E7 00000001"
+
+  - name: "Mighty Crystal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6E8 00000001"
+
+  - name: "Bloodsucker Crystal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6E9 00000001"
+
+  - name: "Possessed Crystal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6EA 00000001"
+
+  - name: "Reticent Crystal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6EB 00000001"
+
+  - name: "Glacierfall Crystal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6EC 00000001"
+
+  - name: "Hyperdense Crystal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6ED 00000001"
+
+  - name: "High-grade Crystal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6EE 00000001"
+
+  - name: "Artificial Crystal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6EF 00000001"
+
+  - name: "Violent Crystal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6F0 00000001"
+
+  - name: "Blazing Crystal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6F1 00000001"
+
+  - name: "Mosit Crystal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6F2 00000001"
+
+  - name: "Earthshudder Crystal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6F3 00000001"
+
+  - name: "Bluster Crystal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6F4 00000001"
+
+  - name: "Lightshimmer Crystal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6F5 00000001"
+
+  - name: "Darkshine Crystal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6F6 00000001"
+
+  - name: "Epic Neck"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6F7 00000001"
+
+  - name: "Kitty's Paw"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6F8 00000001"
+
+  - name: "Gillshiner"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6F9 00000001"
+
+  - name: "Charbroiler"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6FA 00000001"
+
+  - name: "Forktorquer"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6FB 00000001"
+
+  - name: "Pondslopper"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6FC 00000001"
+
+  - name: "Enasphere"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6FD 00000001"
+
+  - name: "Diosphere"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6FE 00000001"
+
+  - name: "Triasphere"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A6FF 00000001"
+
+  - name: "Tesserasphere"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A700 00000001"
+
+  - name: "Pentesphere"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A701 00000001"
+
+  - name: "Eksisphere"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A702 00000001"
+
+  - name: "Core Dust"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A703 00000001"
+
+  - name: "Core Fragment"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A704 00000001"
+
+  - name: "Clear Core"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A705 00000001"
+
+  - name: "Luminous Core"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A706 00000001"
+
+  - name: "Fur"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A707 00000001"
+
+  - name: "Fancy Fur"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A708 00000001"
+
+  - name: "Finest Fur"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A709 00000001"
+
+  - name: "Fantabulous Fur"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A70A 00000001"
+
+  - name: "Feather"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A70B 00000001"
+
+  - name: "Fretty Feather"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A70C 00000001"
+
+  - name: "Elegant Feather"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A70D 00000001"
+
+  - name: "Alluring Feather"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A70E 00000001"
+
+  - name: "Nameless Seed"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A70F 00000001"
+
+  - name: "Anonymous Seed"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A710 00000001"
+
+  - name: "Secret Seed"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A711 00000001"
+
+  - name: "Classified Seed"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A712 00000001"
+
+  - name: "Mysterious Liquid"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A713 00000001"
+
+  - name: "Hazardouse Liquid"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A714 00000001"
+
+  - name: "Dangerous Liquid"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A715 00000001"
+
+  - name: "Perilous Liquid"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A716 00000001"
+
+  - name: "Scale"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A717 00000001"
+
+  - name: "Hard Scale"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A718 00000001"
+
+  - name: "Dragon Scale"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A719 00000001"
+
+  - name: "Mythical Scale"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A71A 00000001"
+
+  - name: "Shattered Bone"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A71B 00000001"
+
+  - name: "Strong Bone"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A71C 00000001"
+
+  - name: "Amazing Bone"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A71D 00000001"
+
+  - name: "Incredible Bone"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A71E 00000001"
+
+  - name: "Broken Gear"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A71F 00000001"
+
+  - name: "Working Gear"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A720 00000001"
+
+  - name: "Strange Gear"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A721 00000001"
+
+  - name: "Arcane Gear"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A722 00000001"
+
+  - name: "Decaying Fang"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A723 00000001"
+
+  - name: "Pointy Fang"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A724 00000001"
+
+  - name: "Sharp Fang"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A725 00000001"
+
+  - name: "Killer Gang"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A726 00000001"
+
+  - name: "Rusted Nail"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A727 00000001"
+
+  - name: "Busted Blade"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A728 00000001"
+
+  - name: "Decaying Sword"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A729 00000001"
+
+  - name: "Corrupted Edge"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A72A 00000001"
+
+  - name: "Poison Needle"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A72B 00000001"
+
+  - name: "Venomous Needle"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A72C 00000001"
+
+  - name: "Killer Needle"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A72D 00000001"
+
+  - name: "Needle Of Extinction"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A72E 00000001"
+
+  - name: "Seashell"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A72F 00000001"
+
+  - name: "Whirling Seashell"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A730 00000001"
+
+  - name: "Crystal Seashell"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A731 00000001"
+
+  - name: "Giant's Shield"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A732 00000001"
+
+  - name: "Wood Chunk"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A733 00000001"
+
+  - name: "Fine Wood"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A734 00000001"
+
+  - name: "Golden Bough"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A735 00000001"
+
+  - name: "Godwood"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A736 00000001"
+
+  - name: "Chipped Claw"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A737 00000001"
+
+  - name: "Sharp Claw"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A738 00000001"
+
+  - name: "Emperor's Claw"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A739 00000001"
+
+  - name: "Demon's Claw"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A73A 00000001"
+
+  - name: "Quarry Stone"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A73B 00000001"
+
+  - name: "Upper Quarry Stone"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A73C 00000001"
+
+  - name: "Earthen Pot"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A73D 00000001"
+
+  - name: "Meteorite"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A73E 00000001"
+
+  - name: "Dragon's Blood"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A73F 00000001"
+
+  - name: "Darkened Ore"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A740 00000001"
+
+  - name: "Purebright Cloth"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A741 00000001"
+
+  - name: "Otherworldly Seed"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A742 00000001"
+
+  - name: "Water Of Absolution"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A743 00000001"
+
+  - name: "Morino Flower"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A744 00000001"
+
+  - name: "Deathglow Algae"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A745 00000001"
+
+  - name: "Puffpetal Down"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A746 00000001"
+
+  - name: "Truth Salt"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A747 00000001"
+
+  - name: "Strahtan Cactus"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A748 00000001"
+
+  - name: "Kaigar's Script"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A749 00000001"
+
+  - name: "Gel Seed"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A74A 00000001"
+
+  - name: "Common Metal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A74B 00000001"
+
+  - name: "Rare Metal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A74C 00000001"
+
+  - name: "Legendary Metal"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A74D 00000001"
+
+  - name: "Torchflame"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A74E 00000001"
+
+  - name: "Icicle"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A74F 00000001"
+
+  - name: "Lump Of Clay"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A750 00000001"
+
+  - name: "Torn Page"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A751 00000001"
+
+  - name: "Strahteme Horn"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A752 00000001"
+
+  - name: "Win Stick"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A753 00000001"
+
+  - name: "Lose Stick"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A754 00000001"
+
+  - name: "Jade Figure"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A755 00000001"
+
+  - name: "Silver Figure"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A756 00000001"
+
+  - name: "Seablue Figure"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A757 00000001"
+
+  - name: "Amber Gihure"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A758 00000001"
+
+  - name: "Abyssal Figure"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A759 00000001"
+
+  - name: "Scarlet Figure"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A75A 00000001"
+
+  - name: "Golden Figure"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A75B 00000001"
+
+  - name: "Glowfruit"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A75C 00000001"
+
+  - name: "Tanned Leather"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A75D 00000001"
+
+  - name: "Hairpin"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A75E 00000001"
+
+  - name: "Poison Fruit"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A75F 00000001"
+
+  - name: "Pyrogen"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A760 00000001"
+
+  - name: "Ring"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A761 00000001"
+
+  - name: "Animal Glue"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A762 00000001"
+
+  - name: "Music Box"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A763 00000001"
+
+  - name: "Horn"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A764 00000001"
+
+  - name: "Fly Lure"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A765 00000001"
+
+  - name: "Poison Brew"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A766 00000001"
+
+  - name: "Shell Chalk"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A767 00000001"
+
+  - name: "Fishing Rod"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A768 00000001"
+
+  - name: "Earring"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A769 00000001"
+
+  - name: "Stone Clock"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A76A 00000001"
+
+  - name: "Lantern"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A76B 00000001"
+
+  - name: "Vellum"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A76C 00000001"
+
+  - name: "Quill Pen"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A76D 00000001"
+
+  - name: "Deathwing Wine"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A76E 00000001"
+
+  - name: "Fine File"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A76F 00000001"
+
+  - name: "Collar Frills"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A770 00000001"
+
+  - name: "Gelatin"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A771 00000001"
+
+  - name: "Gear Puzzle"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A772 00000001"
+
+  - name: "Bracelet"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A773 00000001"
+
+  - name: "Kitchen Knife"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A774 00000001"
+
+  - name: "Caustic"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A775 00000001"
+
+  - name: "Bone Key"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A776 00000001"
+
+  - name: "Spirit Mask"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A777 00000001"
+
+  - name: "Necklace"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A778 00000001"
+
+  - name: "Expensive Desk"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A779 00000001"
+
+  - name: "Imperial Egg"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A77A 00000001"
+
+  - name: "Fireproof Cloth"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A77B 00000001"
+
+  - name: "Wings Of Icarus"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A77C 00000001"
+
+  - name: "The Theory Of Evolution"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A77D 00000001"
+
+  - name: "Soft Stone"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A77E 00000001"
+
+  - name: "Black Ring"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A77F 00000001"
+
+  - name: "Hand Of Glory"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A780 00000001"
+
+  - name: "Decide Blade"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A781 00000001"
+
+  - name: "White Ring"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A782 00000001"
+
+  - name: "Damascus Steel"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A783 00000001"
+
+  - name: "Cantarella"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A784 00000001"
+
+  - name: "All-seeing Eye"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A785 00000001"
+
+  - name: "Demonsbane Arrow"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A786 00000001"
+
+  - name: "Decisive Dice"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A787 00000001"
+
+  - name: "Arc Of The Covenant"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A788 00000001"
+
+  - name: "Ashen Ring"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A789 00000001"
+
+  - name: "Stream Rod"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A78A 00000001"
+
+  - name: "Carbon Rod"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A78B 00000001"
+
+  - name: "Neptune's Rod"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A78C 00000001"
+
+  - name: "Balloon Cloth"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A78D 00000001"
+
+  - name: "Stuffed Doll"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A78E 00000001"
+
+  - name: "Annals Of The Almesera"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A78F 00000001"
+
+  - name: "Imperial Crest"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A790 00000001"
+
+  - name: "Toxic Fluid"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A791 00000001"
+
+  - name: "Stinky Bag"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A792 00000001"
+
+  - name: "Rainbow Lens"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A793 00000001"
+
+  - name: "Magical Mirror"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A794 00000001"
+
+  - name: "Bizarre Clump"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A795 00000001"
+
+  - name: "Knightwater"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A796 00000001"
+
+  - name: "Frying Pan"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A797 00000001"
+
+  - name: "Suspicious Powder"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A798 00000001"
+
+  - name: "Heavenly Ore"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A799 00000001"
+
+  - name: "Feather Badge"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A79A 00000001"
+
+  - name: "Masklike Object"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A79B 00000001"
+
+  - name: "Expensive Crown"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A79C 00000001"
+
+  - name: "Everlight"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A79D 00000001"
+
+  - name: "Tomato"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A79E 00000001"
+
+  - name: "Lettuce"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A79F 00000001"
+
+  - name: "Onion"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7A0 00000001"
+
+  - name: "Potato"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7A1 00000001"
+
+  - name: "Carrot"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7A2 00000001"
+
+  - name: "Cabbage"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7A3 00000001"
+
+  - name: "Pumpkin"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7A4 00000001"
+
+  - name: "Radish"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7A5 00000001"
+
+  - name: "Eggplant"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7A6 00000001"
+
+  - name: "Melon"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7A7 00000001"
+
+  - name: "Apple"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7A8 00000001"
+
+  - name: "Peach"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7A9 00000001"
+
+  - name: "Grapes"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7AA 00000001"
+
+  - name: "Banana"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7AB 00000001"
+
+  - name: "Chicken"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7AC 00000001"
+
+  - name: "Pork"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7AD 00000001"
+
+  - name: "Beef"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7AE 00000001"
+
+  - name: "High-grade Beef"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7AF 00000001"
+
+  - name: "Minced Meat"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7B0 00000001"
+
+  - name: "Tuna"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7B1 00000001"
+
+  - name: "Clam"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7B2 00000001"
+
+  - name: "Roe"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7B3 00000001"
+
+  - name: "Shrimp"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7B4 00000001"
+
+  - name: "Salmon"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7B5 00000001"
+
+  - name: "Crap"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7B6 00000001"
+
+  - name: "Cod"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7B7 00000001"
+
+  - name: "Eel"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7B8 00000001"
+
+  - name: "Sea Bream"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7B9 00000001"
+
+  - name: "Rice"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7BA 00000001"
+
+  - name: "Bread"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7BB 00000001"
+
+  - name: "Pasta"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7BC 00000001"
+
+  - name: "Pie Sheet"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7BD 00000001"
+
+  - name: "Veggie Set"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7BE 00000001"
+
+  - name: "Seafood Set"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7BF 00000001"
+
+  - name: "Spice Set"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7C0 00000001"
+
+  - name: "Egg"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7C1 00000001"
+
+  - name: "Milk"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7C2 00000001"
+
+  - name: "Cheese"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7C3 00000001"
+
+  - name: "Pickled Plum"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7C4 00000001"
+
+  - name: "Dried Seaweed"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7C5 00000001"
+
+  - name: "Tofu"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7C6 00000001"
+
+  - name: "Natto"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7C7 00000001"
+
+  - name: "Miso"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7C8 00000001"
+
+  - name: "Chocolate"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7C9 00000001"
+
+  - name: "Tea Leaves"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7CA 00000001"
+
+  - name: "Red Wine"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7CB 00000001"
+
+  - name: "White Wine"
+    notes: "[Individual]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "0000A7CC 00000001"
+
+  - name: "Total Encounters"
+    notes: "[Reset User's Guide Book]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "2000B9B0 00000000"
+
+  - name: "Best Equip.resell"
+    notes: "[Reset User's Guide Book]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "2000B9B4 00000000"
+
+  - name: "Disance Traveled"
+    notes: "[Reset User's Guide Book]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "2000B9B8 00000000"
+
+  - name: "Eieth Consumed"
+    notes: "[Reset User's Guide Book]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "2000B9DC 00000000"
+
+  - name: "Play Time"
+    notes: "[Reset User's Guide Book]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "2000B9E0 00000000"
+
+  - name: "Chests Opened"
+    notes: "[Reset User's Guide Book]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "1000B9E4 00000000"
+
+  - name: "People Spoken To"
+    notes: "[Reset User's Guide Book]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "1000B9E6 00000000"
+
+  - name: "Best Combo"
+    notes: "[Reset User's Guide Book]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "1000B9E8 00000000"
+
+  - name: "Sophie Lvl 102"
+    notes: "[Alpha Level]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "write at 0x00000C67:66"
+
+  - name: "Cheria Lvl 102"
+    notes: "[Alpha Level]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "write at 0x00002417:66"
+
+  - name: "Malik Lvl 102"
+    notes: "[Alpha Level]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "write at 0x00002FEF:66"
+
+  - name: "Pascal Lvl 102"
+    notes: "[Alpha Level]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "write at 0x00003BC7:66"
+
+  - name: "Asbel Lvl 102"
+    notes: "[Alpha Level]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "write at 0x00005377:66"
+      - "write at 0x0000008F:66"
+
+  - name: "Hubert Lvl 102"
+    notes: "[Alpha Level]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "write at 0x0000183F:66"
+
+  - name: "Alpha Stat"
+    notes: "[Untested Alpha Stat]  File: BLUS30903-APPDATA*\\TOGAPP.BIN"
+    codes:
+      - "write at 0x0000009E:2310"
+      - "write at 0x00000C76:2310"
+      - "write at 0x0000184E:2310"
+      - "write at 0x00002FFE:2310"
+      - "write at 0x00003BD6:2310"

@@ -1,0 +1,64 @@
+# Tom Clancy's Rainbow Six 3 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52288
+
+game: "Tom Clancy's Rainbow Six 3"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52288"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "E0180008 0140079C"
+      - "E0170040 0140079E"
+      - "21422B80 3C0401F3"
+      - "21422B84 24846080"
+      - "21422B88 3C05000F"
+      - "21422B8C 24A5FFF0"
+      - "21422B90 0850544A"
+      - "21422B94 24064000"
+      - "21422BA0 3C0501F3"
+      - "21422BA4 24A56080"
+      - "21422BA8 3C04000F"
+      - "21422BAC 2484FFF0"
+      - "21422BB0 0850544A"
+      - "21422BB4 24064000"
+      - "21400284 0C508AE0"
+      - "2140028C 24020000"
+      - "21400358 0C508AE8"
+      - "2140035C 00000000"
+      - "21400360 085000DE"
+      - "2140B2F0 3C03200F"
+      - "2140B2F8 8C65FFF8"
+      - "2140B2FC 24040079"
+      - "2140B300 24030074"
+      - "2140B304 0000000C"
+      - "F140079C 0140079F"
+      - "9013585C 0C04ADCC"
+      - "201C4CE0 24020001"
+
+  - name: "Infinite Ammo (Main Weapon)"
+    author: "Codejunkies"
+    codes:
+      - "203F0BAC 00000000"
+
+  - name: "Infinite Grenades"
+    author: "Codejunkies"
+    codes:
+      - "2015D498 24830000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "20100264 14170003"
+      - "20100268 24830000"
+      - "2010026C 8FA3004C"
+      - "20100270 00831823"
+      - "20100274 080570A9"
+      - "2015C2A0 08040099"

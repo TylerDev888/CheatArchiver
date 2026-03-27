@@ -1,0 +1,56 @@
+# Area 51 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53075
+
+game: "Area 51"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53075"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F037B3AC 0037B3AF"
+
+  - name: "All Databanks Found"
+    author: "Codejunkies"
+    codes:
+      - "104F980C 0000FFFF"
+
+  - name: "All Secret Files Unlocked"
+    author: "Codejunkies"
+    codes:
+      - "204F9828 00000015"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "201569D4 00000000"
+      - "20156A94 00000000"
+
+  - name: "Infinite Grenades"
+    author: "Codejunkies"
+    codes:
+      - "20207AC8 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "2026ADC8 00000000"
+      - "2026ADD8 00000000"
+      - "2026ADE0 00000000"
+
+  - name: "Infinite Mutagen"
+    author: "Codejunkies"
+    codes:
+      - "20222AEC 00000000"
+
+  - name: "Steady Aiming (No Reticule Expansion)"
+    author: "Codejunkies"
+    codes:
+      - "20227D14 00000000"

@@ -1,0 +1,20 @@
+# Pirates of the Caribbean_ At World's End cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00066
+
+game: "Pirates of the Caribbean_ At World's End"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00066"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 (required)"
+    notes: "File: SAVE.DAT  (set range:0x000004,0x184F17)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"

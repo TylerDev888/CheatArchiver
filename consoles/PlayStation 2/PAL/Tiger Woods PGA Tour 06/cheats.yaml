@@ -1,0 +1,76 @@
+# Tiger Woods PGA Tour 06 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Tiger Woods PGA Tour 06"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9032BB3C 0C0F7B32"
+
+  - name: "Hole In 1 P1"
+    author: "Xploder"
+    notes: "[Always]"
+    codes:
+      - "404D9E70 00120001"
+      - "00000001 00000000"
+
+  - name: "Hole In 1 P2"
+    author: "Xploder"
+    notes: "[Always]"
+    codes:
+      - "404DAE90 00120001"
+      - "00000001 00000000"
+
+  - name: "Hole In 1 P3"
+    author: "Xploder"
+    notes: "[Always]"
+    codes:
+      - "404DBEB0 00120001"
+      - "00000001 00000000"
+
+  - name: "Hole In 1 P4"
+    author: "Xploder"
+    notes: "[Always]"
+    codes:
+      - "404DCED0 00120001"
+      - "00000001 00000000"
+
+  - name: "P1"
+    author: "Xploder"
+    notes: "[Always Full Gamebreaker]"
+    codes:
+      - "204DAAB0 3F800000"
+
+  - name: "P2"
+    author: "Xploder"
+    notes: "[Always Full Gamebreaker]"
+    codes:
+      - "204DBAD0 3F800000"
+
+  - name: "P3"
+    author: "Xploder"
+    notes: "[Always Full Gamebreaker]"
+    codes:
+      - "204DCAF0 3F800000"
+
+  - name: "P4"
+    author: "Xploder"
+    notes: "[Always Full Gamebreaker]"
+    codes:
+      - "204DDB10 3F800000"
+
+  - name: "All Golfers/Courses"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "404D9A68 00040001"
+      - "FFFFFFFF 00000000"

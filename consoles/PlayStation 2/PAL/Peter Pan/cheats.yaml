@@ -1,0 +1,126 @@
+# Peter Pan cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54684
+
+game: "Peter Pan"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54684"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0127810 000001FD"
+
+  - name: "99 Crystals"
+    author: "Codejunkies"
+    codes:
+      - "1026C68C 00000000"
+
+  - name: "99 Fairy Jars"
+    author: "Codejunkies"
+    codes:
+      - "0026C67C 00000063"
+      - "1026C678 0000270F"
+
+  - name: "99 Keys"
+    author: "Codejunkies"
+    codes:
+      - "1026C6AC 00000063"
+
+  - name: "All Treasure"
+    author: "Codejunkies"
+    codes:
+      - "1026C69C 0000FFFF"
+      - "1026C69E 0000FFF0"
+
+  - name: "Always Have Knife"
+    author: "Codejunkies"
+    codes:
+      - "2027F8F0 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "1027EE26 000040A0"
+
+  - name: "Infinite Lives"
+    author: "Codejunkies"
+    codes:
+      - "1027EE2A 000041CE"
+
+  - name: "Open All Levels"
+    author: "Codejunkies"
+    codes:
+      - "10284E08 00000FFF"
+
+  - name: "1Hitkill - Not All Enemies"
+    author: "luc-ita"
+    codes:
+      - "201A9F28 00000000"
+      - "201ACB30 00000000"
+      - "20198AA4 24030000"
+      - "201A0818 24020000"
+
+  - name: "Always Full Life"
+    author: "luc-ita"
+    codes:
+      - "20151550 00000000"
+
+  - name: "Take Fairy Orbs Anywhere - Flying Levels"
+    author: "luc-ita"
+    codes:
+      - "2016151C 00000000"
+
+  - name: "Take Objects Anywhere - Light Effect"
+    author: "luc-ita"
+    codes:
+      - "2014F868 00000000"
+
+  - name: "Take Objects Anywhere - Strong Effect"
+    author: "luc-ita"
+    codes:
+      - "2014F868 00000000"
+      - "2014F894 00000000"
+      - "2014F8C4 00000000"
+
+  - name: "Walk On Quicksands (Disable Issurfacequicksand)"
+    author: "luc-ita"
+    codes:
+      - "201398A4 24020000"
+
+  - name: "Walk On Rapids (Disable Issurfacewaterrapids)"
+    author: "luc-ita"
+    codes:
+      - "20139894 24020000"
+
+  - name: "Walk On The Marshes (Disable Issurfacemarsh)"
+    author: "luc-ita"
+    codes:
+      - "2013985C 24020000"
+
+  - name: "Walk On The Pits And In The Void"
+    author: "luc-ita"
+    codes:
+      - "201F6C2C 08028000"
+      - "201F6C30 8C620040"
+      - "200A0000 24010007"
+      - "200A0004 14220003"
+      - "200A000C 24020001"
+      - "200A0010 0807DB0D"
+      - "200A0014 AE420074"
+
+  - name: "Walk On The Pits While Sliding (Disable Issurfaceslidepit)"
+    author: "luc-ita"
+    codes:
+      - "201398DC 24020000"
+
+  - name: "Walk On Water (Disable Issurfacewater)"
+    author: "luc-ita"
+    codes:
+      - "2013987C 24020000"

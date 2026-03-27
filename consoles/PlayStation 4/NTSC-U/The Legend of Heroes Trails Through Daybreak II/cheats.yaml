@@ -1,0 +1,136 @@
+# The Legend of Heroes Trails Through Daybreak II cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA32457
+
+game: "The Legend of Heroes Trails Through Daybreak II"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA32457"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "All Characters Bonus HP"
+    notes: "File: user\\.dat"
+    codes:
+      - "421776D0 [AMOUNT:0000270F:HEX:BIG<AMOUNT>]"
+      - "446C001A 00000000"
+
+  - name: "All Characters Bonus STR"
+    notes: "File: user\\.dat"
+    codes:
+      - "421776D4 [AMOUNT:0000270F:HEX:BIG<AMOUNT>]"
+      - "446C001A 00000000"
+
+  - name: "All Characters Bonus DEF"
+    notes: "File: user\\.dat"
+    codes:
+      - "421776D8 [AMOUNT:0000270F:HEX:BIG<AMOUNT>]"
+      - "446C001A 00000000"
+
+  - name: "All Characters Bonus ATS"
+    notes: "File: user\\.dat"
+    codes:
+      - "421776DC [AMOUNT:0000270F:HEX:BIG<AMOUNT>]"
+      - "446C001A 00000000"
+
+  - name: "All Characters Bonus ADF"
+    notes: "File: user\\.dat"
+    codes:
+      - "421776E0 [AMOUNT:0000270F:HEX:BIG<AMOUNT>]"
+      - "446C001A 00000000"
+
+  - name: "All Characters Bonus AGL"
+    notes: "File: user\\.dat"
+    codes:
+      - "421776E4 [AMOUNT:0000270F:HEX:BIG<AMOUNT>]"
+      - "446C001A 00000000"
+
+  - name: "All Characters Bonus DEX"
+    notes: "File: user\\.dat"
+    codes:
+      - "421776E8 [AMOUNT:0000270F:HEX:BIG<AMOUNT>]"
+      - "446C001A 00000000"
+
+  - name: "All Characters Bonus SPD"
+    notes: "File: user\\.dat"
+    codes:
+      - "421776EC [AMOUNT:0000270F:HEX:BIG<AMOUNT>]"
+      - "446C001A 00000000"
+
+  - name: "All Consumable Items, Droplets 99"
+    notes: "File: user\\.dat"
+    codes:
+      - "95000000 00196ADC"
+      - "48000000 00000063"
+      - "40340004 00000000"
+
+  - name: "All Materials 99"
+    notes: "File: user\\.dat"
+    codes:
+      - "95000000 00196ADC"
+      - "4800013C 00000063"
+      - "40080004 00000000"
+
+  - name: "All Skill Stones 99"
+    notes: "File: user\\.dat"
+    codes:
+      - "95000000 00196ADC"
+      - "480000D8 00000063"
+      - "40120004 00000000"
+
+  - name: "All Orbs 99"
+    notes: "File: user\\.dat"
+    codes:
+      - "95000000 00196ADC"
+      - "48000614 00000063"
+      - "40080004 00000000"
+
+  - name: "All Weapons,Armour,Accessories 50"
+    notes: "File: user\\.dat"
+    codes:
+      - "95000000 00196ADC"
+      - "4800063C 00000032"
+      - "455E0004 00000000"
+
+  - name: "All Ingredients,Meals,Snacks 99"
+    notes: "File: user\\.dat"
+    codes:
+      - "95000000 00196ADC"
+      - "48001F3C 00000063"
+      - "41DE0004 00000000"
+
+  - name: "All Costumes"
+    notes: "File: user\\.dat"
+    codes:
+      - "95000000 00196ADC"
+      - "4800270C 00000001"
+      - "42100004 00000000"
+
+  - name: "All Gifts 99"
+    notes: "File: user\\.dat"
+    codes:
+      - "95000000 00196ADC"
+      - "480031FC 00000063"
+      - "403F0004 00000000"
+
+  - name: "All Holo Core, Arts Driver, Arts Plugin 50"
+    notes: "File: user\\.dat"
+    codes:
+      - "95000000 00196ADC"
+      - "4800338C 00000032"
+      - "415A0004 00000000"
+
+  - name: "All Quartz 50"
+    notes: "File: user\\.dat"
+    codes:
+      - "95000000 00196ADC"
+      - "480039CC 00000032"
+      - "42BB0004 00000000"
+
+  - name: "Hollow Core lv.MAX"
+    notes: "File: user\\.dat"
+    codes:
+      - "4119B8FC 00007530"
+      - "402A0008 00000000"

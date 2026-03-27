@@ -1,0 +1,45 @@
+# Super Robot Taisen OG Saga Masoukishin F COFFIN OF THE END cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLAS50731
+
+game: "Super Robot Taisen OG Saga Masoukishin F COFFIN OF THE END"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLAS50731"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Red:use 1 Cheat At A Time Only"
+    notes: "File: DATA-BIN"
+
+  - name: "Red:always Go To Option Setting And Set The Setting Before Going To Battle,let Increase To 3 Byte Again Else It Will Be Frozen"
+    notes: "File: DATA-BIN"
+
+  - name: "More Gold, Setting<->gold"
+    notes: "[Quick Mode]  File: DATA-BIN"
+    codes:
+      - "set [G]:read(0x48F0,4)"
+      - "set [S]:read(0x48E8,4)"
+      - "write at 0x48F0:[S]"
+      - "write at 0x48E8:[G]"
+
+  - name: "Red:please Visit Http://bruteforcesavedata.forumms.net/t1139-super-robot-taisen-og-saga-masoukishin-f-coffin-of"
+    notes: "[Manual Mode]  File: DATA-BIN"
+
+  - name: "4byte Swap,fill In Your Desire Cheat Into 0xaaaa"
+    notes: "[Manual Mode]  File: DATA-BIN"
+    codes:
+      - "set [G]:read(0xAAAA,4)"
+      - "set [S]:read(0x48E8,4)"
+      - "write at 0xAAAA:[S]"
+      - "write at 0x48E8:[G]"
+
+  - name: "2byte Swap,fill In Your Desire Cheat Into 0xaaaa(partial Working)"
+    notes: "[Manual Mode]  File: DATA-BIN"
+    codes:
+      - "set [G]:read(0xAAAA,2)"
+      - "set [S]:read(0x495E,2)"
+      - "write at 0xAAAA:[S]"
+      - "write at 0x495E:[G]"

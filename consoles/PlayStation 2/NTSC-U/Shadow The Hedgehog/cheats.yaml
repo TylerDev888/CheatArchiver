@@ -1,0 +1,393 @@
+# Shadow The Hedgehog cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21261
+
+game: "Shadow The Hedgehog"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21261"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F012F570 0012F573"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "9012F570 0C048DB4"
+
+  - name: "Low Completed Time"
+    author: "Code Master"
+    notes: "[Boss A1 Codes]"
+    codes:
+      - "209BCA4C 00000000"
+      - "209BCA50 00000000"
+
+  - name: "Max Score"
+    author: "Code Master"
+    notes: "[Boss A1 Codes]"
+    codes:
+      - "209BCA58 05F5E0FF"
+
+  - name: "Rank A"
+    author: "Code Master"
+    notes: "[Boss A1 Codes]"
+    codes:
+      - "209BCA48 00000001"
+
+  - name: "Unlock Level"
+    author: "Code Master"
+    notes: "[Boss A1 Codes]"
+    codes:
+      - "209BCA30 00000001"
+
+  - name: "All Keys"
+    author: "Code Master"
+    notes: "[Have Key Codes]"
+    codes:
+      - "409BC098 00050001"
+      - "00000000 00000000"
+
+  - name: "Key 1"
+    author: "Code Master"
+    notes: "[Have Key Codes]"
+    codes:
+      - "209BC098 00000000"
+
+  - name: "Key 2"
+    author: "Code Master"
+    notes: "[Have Key Codes]"
+    codes:
+      - "209BC09C 00000000"
+
+  - name: "Key 3"
+    author: "Code Master"
+    notes: "[Have Key Codes]"
+    codes:
+      - "209BC0A0 00000000"
+
+  - name: "Key 4"
+    author: "Code Master"
+    notes: "[Have Key Codes]"
+    codes:
+      - "209BC0A4 00000000"
+
+  - name: "Key 5"
+    author: "Code Master"
+    notes: "[Have Key Codes]"
+    codes:
+      - "209BC0A8 00000000"
+
+  - name: "Have All Secrets"
+    author: "Code Master"
+    notes: "[Story Mode Codes]"
+    codes:
+      - "209BD214 00000047"
+
+  - name: "Start On Last Level"
+    author: "Code Master"
+    notes: "[Story Mode Codes]"
+    codes:
+      - "209BBE84 00000015"
+      - "409BBE88 00060001"
+      - "08070605 04040404"
+
+  - name: "Unlock All Library"
+    author: "Code Master"
+    notes: "[Story Mode Codes]"
+    codes:
+      - "409BD218 000A0001"
+      - "FFFFFFFF 00000000"
+      - "009BD240 000000FF"
+
+  - name: "Always Low Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "209C7E44 00000000"
+
+  - name: "Extra Lives (Both Players)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "102FC680 00000001"
+
+  - name: "Infinite Ammo (Both Players)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "203294D8 00000000"
+
+  - name: "Infinite Ammo P1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "209BFF30 000003E7"
+
+  - name: "Infinite Ammo P2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "209BFF70 000003E7"
+
+  - name: "Infinite Lives (Both Players)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20329550 00000000"
+
+  - name: "Infinite Lives P1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "209BFF34 00000063"
+
+  - name: "Infinite Lives P2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "209BFF74 00000063"
+
+  - name: "Max Dark Score P1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "209BFF48 05F5E0FF"
+
+  - name: "Max Dark Score P2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "209BFF88 05F5E0FF"
+
+  - name: "Max Hero Score P1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "209BFF44 05F5E0FF"
+
+  - name: "Max Hero Score P2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "209BFF84 05F5E0FF"
+
+  - name: "Max Infinite Ammo (Both Players)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "103294E6 00001000"
+
+  - name: "Max Infinite Lives (Both Players)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "1032955E 00001000"
+
+  - name: "Max Normal Score P1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "209BFF40 05F5E0FF"
+
+  - name: "Max Normal Score P2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "209BFF80 05F5E0FF"
+
+  - name: "Max Rings P1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "209BFF3C 000003E7"
+
+  - name: "Max Rings P2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "209BFF7C 000003E7"
+
+  - name: "No Dark Score P1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "209BFF48 00000000"
+
+  - name: "No Dark Score P2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "209BFF88 00000000"
+
+  - name: "No Hero Score P1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "209BFF44 00000000"
+
+  - name: "No Hero Score P2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "209BFF84 00000000"
+
+  - name: "P1 Press L1+Select For Max Hero Gauge"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1D4A05C 0000FBFE"
+      - "209BFF00 00007530"
+
+  - name: "P1 Press L2+Select For Empty Hero Gauge"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1D4A05C 0000FEFE"
+      - "209BFF00 00007530"
+
+  - name: "P1 Press R1+Select For Max Hero Gauge"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1D4A05C 0000F7FE"
+      - "209BFF00 00007530"
+
+  - name: "P1 Press R2+Select For Empty Hero Gauge"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1D4A05C 0000FDFE"
+      - "209BFF00 00007530"
+
+  - name: "P2 Press L1+Select For Max Hero Gauge"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1D4A15C 0000FBFE"
+      - "209BFF00 00007530"
+
+  - name: "P2 Press L2+Select For Empty Hero Gauge"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1D4A15C 0000FEFE"
+      - "209BFF00 00007530"
+
+  - name: "P2 Press R1+Select For Max Hero Gauge"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1D4A15C 0000F7FE"
+      - "209BFF00 00007530"
+
+  - name: "P2 Press R2+Select For Empty Hero Gauge"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1D4A15C 0000FDFE"
+      - "209BFF00 00007530"
+
+  - name: "Quick Dark Score Gain P1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "109BFF48 0000FFFF"
+
+  - name: "Quick Dark Score Gain P2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "109BFF88 0000FFFF"
+
+  - name: "Quick Hero Score Gain P1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "109BFF44 0000FFFF"
+
+  - name: "Quick Hero Score Gain P2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "109BFF84 0000FFFF"
+
+  - name: "Quick Normal Score Gain P1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "109BFF40 0000FFFF"
+
+  - name: "Quick Normal Score Gain P2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "109BFF80 0000FFFF"
+
+  - name: "9 Lives"
+    author: "Codejunkies"
+    codes:
+      - "209BFF34 00000009"
+
+  - name: "Infinite Time"
+    author: "MadCatz"
+    codes:
+      - "20641288 44800000"
+
+  - name: "Low Time"
+    author: "Codejunkies"
+    codes:
+      - "209C7E44 401775D3"
+
+  - name: "Max Dark Guage (Press L2 To Activate)"
+    author: "MadCatz"
+    codes:
+      - "D1D4A05C 0000FEFF"
+      - "209BFF00 00007530"
+
+  - name: "Max Dark Score"
+    author: "MadCatz"
+    codes:
+      - "209BFF48 0098967F"
+
+  - name: "Max Hero Guage (Press L1 To Activate)"
+    author: "MadCatz"
+    codes:
+      - "D1D4A05C 0000FBFF"
+      - "209BFF0C 00007530"
+
+  - name: "Max Hero Score"
+    author: "MadCatz"
+    codes:
+      - "209BFF44 0098967F"
+
+  - name: "Press L1+L2 To Fill Dark Gauge"
+    author: "Codejunkies"
+    codes:
+      - "D1D4A05C 0000FAFF"
+      - "209BFF0C 00007530"
+
+  - name: "Press R1+R2 To Fill Hero Gauge"
+    author: "Codejunkies"
+    codes:
+      - "D1D4A05C 0000F5FF"
+      - "209BFF00 00007530"
+
+  - name: "Unlock All Levels"
+    author: "Codejunkies"
+    codes:
+      - "409BC058 00160015"
+      - "00000001 00000000"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9012F570 0C048DB4"

@@ -1,0 +1,25 @@
+# Boku No Natsuyasumi 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SCPS-15026
+
+game: "Boku No Natsuyasumi 2"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SCPS-15026"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Master Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90219EF8 0C086766"
+
+  - name: "Debug Menu"
+    author: "punk7890"
+    notes: "[Miscellaneous]"
+    codes:
+      - "0020A970 00000028"
+      - "1020A978 0000EE50"

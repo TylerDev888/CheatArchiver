@@ -1,0 +1,36 @@
+# Rayman 2-Revolution cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20138
+
+game: "Rayman 2-Revolution"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20138"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001C8487"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901C8484 0C089313"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201F3544 00000000"
+
+  - name: "Infinite Air"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203841A0 43960000"

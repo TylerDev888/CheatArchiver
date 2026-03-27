@@ -1,0 +1,117 @@
+# Kill Switch cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52124
+
+game: "Kill Switch"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52124"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "90100084 0C0EA440"
+      - "9036F214 0C0DC0BE"
+
+  - name: "60 Hertz"
+    author: "nemesis01"
+    codes:
+      - "203703DC 3C060002"
+
+  - name: "Freeze Countdown Timers"
+    author: "Codejunkies"
+    codes:
+      - "E0020801 0020ECEC"
+      - "D020ECEE 00004600"
+      - "2020ECEC 46000806"
+
+  - name: "Have All Weapons"
+    author: "Codejunkies"
+    codes:
+      - "201E3D28 24030001"
+
+  - name: "Infinite Ammo In Mag"
+    author: "Codejunkies"
+    codes:
+      - "20263C20 24420000"
+
+  - name: "Infinite Grenades"
+    author: "Codejunkies"
+    codes:
+      - "20191CE8 24630000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "20193168 00000000"
+
+  - name: "Open All Levels"
+    author: "Codejunkies"
+    codes:
+      - "203CA464 00000035"
+
+  - name: "Reloading Does Not Use Up Ammo"
+    author: "Codejunkies"
+    codes:
+      - "202641F0 00000000"
+
+  - name: "Skip FMV"
+    author: "nemesis01"
+    codes:
+      - "20375BD0 24020001"
+
+  - name: "Y-Fix"
+    author: "nemesis01"
+    codes:
+      - "00370754 00000010"
+      - "003707C4 00000010"
+      - "00370808 00000010"
+      - "00370894 00000010"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9036F754 0C0E5257"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2019319C 3C0140C0"
+      - "201931A0 AE01132C"
+
+  - name: "Ammunition (No Reload)"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20263C20 24413634"
+
+  - name: "Grenades"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20191CE8 2461C9CC"
+
+  - name: "Mission Time"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2020ECEC 46000806"
+
+  - name: "Mission Select"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "2026F494 28420001"
+
+  - name: "All Missions"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "203CA464 00000024"

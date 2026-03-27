@@ -1,0 +1,71 @@
+# Mobile Suit Gundam_ Senki Record U.C. 0081 cheat data
+# Console: PlayStation 3
+# Region:  Unknown
+# Serial:  BLJS10050
+
+game: "Mobile Suit Gundam_ Senki Record U.C. 0081"
+console: "PlayStation 3"
+region: "Unknown"
+serial: "BLJS10050"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Money 999999999(from Chaoszage)"
+    notes: "File: USERDATA.BIN"
+    codes:
+      - "20000018 3B9AC9FF"
+
+  - name: "1st Char(player 1) - Lv200,all Stats 255(from Savedata.jp)"
+    notes: "File: USERDATA.BIN"
+    codes:
+      - "000004CF 000000C8"
+      - "000004DF 000000FF"
+      - "000004E3 000000FF"
+      - "000004E7 000000FF"
+      - "000004EB 000000FF"
+
+  - name: "2nd Char - Lv200,all Stats 255"
+    notes: "File: USERDATA.BIN"
+    codes:
+      - "0000052B 000000C8"
+      - "0000053B 000000FF"
+      - "0000053F 000000FF"
+      - "00000543 000000FF"
+      - "00000547 000000FF"
+
+  - name: "3rd Char - Lv200,all Stats 255"
+    notes: "File: USERDATA.BIN"
+    codes:
+      - "00000587 000000C8"
+      - "00000597 000000FF"
+      - "0000059B 000000FF"
+      - "0000059F 000000FF"
+      - "000005A3 000000FF"
+
+  - name: "4rd Char - Lv200,all Stats 255"
+    notes: "File: USERDATA.BIN"
+    codes:
+      - "000005E3 000000C8"
+      - "000005F3 000000FF"
+      - "000005F7 000000FF"
+      - "000005FB 000000FF"
+      - "000005FF 000000FF"
+
+  - name: "5rd Char - Lv200,all Stats 255"
+    notes: "File: USERDATA.BIN"
+    codes:
+      - "0000063F 000000C8"
+      - "0000064F 000000FF"
+      - "00000653 000000FF"
+      - "00000657 000000FF"
+      - "0000065B 000000FF"
+
+  - name: "6rd Char - Lv200,all Stats 255"
+    notes: "File: USERDATA.BIN"
+    codes:
+      - "0000069B 000000C8"
+      - "000006AB 000000FF"
+      - "000006AF 000000FF"
+      - "000006B3 000000FF"
+      - "000006B7 000000FF"

@@ -1,0 +1,26 @@
+# Sanyo Pachinko Paradise 8 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-20261
+
+game: "Sanyo Pachinko Paradise 8"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-20261"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9029CCB8 0C0A72D6"
+
+  - name: "Hold Start At Press Start Screen For Debug Menu"
+    author: "punk7890"
+    codes:
+      - "D0702C02 0000FFF7"
+      - "00116B08 0000000C"
+      - "D0702C02 0000FFFF"
+      - "00116B08 00000007"

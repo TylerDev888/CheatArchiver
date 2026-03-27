@@ -1,0 +1,213 @@
+# SSX On Tour cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53551
+
+game: "SSX On Tour"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53551"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0488810 00488813"
+
+  - name: "Alien Rotations"
+    author: "Codejunkies"
+    notes: "[Jump Rotations]"
+    codes:
+      - "201299AC 3C014100"
+
+  - name: "Crazy Rotation Speed"
+    author: "Codejunkies"
+    notes: "[Jump Rotations]"
+    codes:
+      - "201299AC 3C014080"
+
+  - name: "Elise"
+    author: "Codejunkies"
+    notes: "[Unlock All Tricks]"
+    codes:
+      - "2027D4E4 FFFFFFFF"
+      - "2027D4E8 FFFFFFFF"
+
+  - name: "Hiro"
+    author: "Codejunkies"
+    notes: "[Unlock All Tricks]"
+    codes:
+      - "2027CF88 FFFFFFFF"
+      - "2027CF8C FFFFFFFF"
+
+  - name: "JP"
+    author: "Codejunkies"
+    notes: "[Unlock All Tricks]"
+    codes:
+      - "2027D420 FFFFFFFF"
+      - "2027D424 FFFFFFFF"
+
+  - name: "Jurgen"
+    author: "Codejunkies"
+    notes: "[Unlock All Tricks]"
+    codes:
+      - "2027D110 FFFFFFFF"
+      - "2027D114 FFFFFFFF"
+
+  - name: "Kaori"
+    author: "Codejunkies"
+    notes: "[Unlock All Tricks]"
+    codes:
+      - "2027D04C FFFFFFFF"
+      - "2027D050 FFFFFFFF"
+
+  - name: "Mac"
+    author: "Codejunkies"
+    notes: "[Unlock All Tricks]"
+    codes:
+      - "2027D1D4 FFFFFFFF"
+      - "2027D1D8 FFFFFFFF"
+
+  - name: "Moby"
+    author: "Codejunkies"
+    notes: "[Unlock All Tricks]"
+    codes:
+      - "2027D298 FFFFFFFF"
+      - "2027D29C FFFFFFFF"
+
+  - name: "Zoe"
+    author: "Codejunkies"
+    notes: "[Unlock All Tricks]"
+    codes:
+      - "2027D35C FFFFFFFF"
+      - "2027D360 FFFFFFFF"
+
+  - name: "1St Person View"
+    author: "Codejunkies"
+    notes: "[View Codes]"
+    codes:
+      - "20C7EA58 00000003"
+
+  - name: "Side On View"
+    author: "Codejunkies"
+    notes: "[View Codes]"
+    codes:
+      - "20C7EA58 00000008"
+
+  - name: "Unlock Everything"
+    author: "Codejunkies"
+    notes: "[View Codes]"
+    codes:
+      - "102CBBEC 00000001"
+
+  - name: "All Movies Opened"
+    author: "Codejunkies"
+    codes:
+      - "201B32B8 24060000"
+
+  - name: "Always Win / Easy Races"
+    author: "RyTheHexer"
+    codes:
+      - "0015CE62 00000000"
+
+  - name: "Enable Characters"
+    author: "Codejunkies"
+    codes:
+      - "205AE3AC 00000001"
+
+  - name: "Enable Freeride"
+    author: "Codejunkies"
+    codes:
+      - "205AE3B0 00000001"
+
+  - name: "Freeze (Decreasing) Timer (Press L1+L2 To Activate, R1+R2 To Stop)"
+    author: "Codejunkies"
+    codes:
+      - "E10100FA 006F6883"
+      - "20203490 10000015"
+      - "E10100F5 006F6883"
+      - "20203490 45000015"
+
+  - name: "Freeze Timer"
+    author: "Codejunkies"
+    codes:
+      - "20B6AC54 429965A9"
+
+  - name: "Have A Big Score"
+    author: "Codejunkies"
+    codes:
+      - "20BDE2F0 000F4240"
+
+  - name: "Infinite Boost"
+    author: "Codejunkies"
+    codes:
+      - "204BA7E0 00000001"
+
+  - name: "Kill Timers"
+    author: "RyTheHexer"
+    codes:
+      - "202034E0 00000000"
+      - "202034E4 00000000"
+
+  - name: "Max Cash"
+    author: "Codejunkies"
+    codes:
+      - "205AE3BC 00000001"
+
+  - name: "Max Points (After A Jump)"
+    author: "Codejunkies"
+    codes:
+      - "2010BF64 3C0205F0"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90321364 0C122242"
+
+  - name: "Boost"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2000 3C013F80"
+      - "200C2004 08045860"
+      - "200C2008 AC810000"
+      - "20115AF0 0C030800"
+
+  - name: "Time"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "E002FFFD 006F6882"
+      - "202034D0 00000000"
+      - "201FCCD8 00000000"
+      - "E002FFFB 006F6882"
+      - "202034D0 46140001"
+      - "201FCCD8 24420001"
+
+  - name: "Cash"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "2053BE28 05F5E0FF"
+
+  - name: "Hype Points"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "2053BEEC 05F5E0FF"
+
+  - name: "Total $ Collected"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "2053BEF0 05F5E0FF"
+
+  - name: "All Quickplay Characters"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "205AE3AC 00000001"

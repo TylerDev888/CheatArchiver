@@ -1,0 +1,377 @@
+# Enter The Matrix cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20454
+
+game: "Enter The Matrix"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20454"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F03C8BDC 003C8BDF"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 003C8BDF"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 003C8BDF"
+      - "200C0000 27BDFFF0"
+      - "200C0004 AFA40000"
+      - "200C0008 3C040057"
+      - "200C000C 3484EF04"
+      - "200C0010 8C810000"
+      - "400C0014 00100001"
+      - "00000000 00000000"
+      - "200C0054 AC810000"
+      - "200C0058 8FA40000"
+      - "200C005C 03E00008"
+      - "200C0060 27BD0010"
+      - "203C8BF4 08030000"
+
+  - name: "1-Hit Death (Enemies)"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    codes:
+      - "200C0220 3C040002"
+      - "200C0224 8CE100D8"
+      - "200C0228 00240824"
+      - "200C022C 50200001"
+      - "200C0230 ACE00354"
+      - "200C0234 03E00008"
+      - "200C0238 264601CC"
+      - "201289DC 0C030088"
+
+  - name: "Activate Cheat Modifier"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    codes:
+      - "2057EF04 0000????"
+
+  - name: "All Weapons Unlocked"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    notes: "[Activate Individual Cheat Codes]"
+    codes:
+      - "203BF838 00000000"
+      - "203C4DA0 00000000"
+
+  - name: "Faster Logos Flight Speed"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    notes: "[Activate Individual Cheat Codes]"
+    codes:
+      - "20231800 00000000"
+
+  - name: "Infinite Ammo"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    notes: "[Activate Individual Cheat Codes]"
+    codes:
+      - "1024F38A 00001000"
+      - "1028741A 00001000"
+      - "10287CF8 00001000"
+
+  - name: "Infinite Focus (Alternate)"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    notes: "[Activate Individual Cheat Codes]"
+    codes:
+      - "2029F9A8 00000000"
+
+  - name: "Infinite Health (Alternate)"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    notes: "[Activate Individual Cheat Codes]"
+    codes:
+      - "2012813C 00000000"
+
+  - name: "Invisibility (Stops Enemies From Seeing You)"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    notes: "[Activate Individual Cheat Codes]"
+    codes:
+      - "2013474C 00000000"
+      - "10147BE2 00001000"
+
+  - name: "Unlocked Bonus Test Level"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    notes: "[Activate Individual Cheat Codes]"
+    codes:
+      - "2019A734 00000000"
+      - "2019A738 00000000"
+
+  - name: "All Available Weapons"
+    author: "Codejunkies"
+    codes:
+      - "203BF838 00000000"
+
+  - name: "Disable AI"
+    author: "Codejunkies"
+    notes: "[Damage Codes]"
+    codes:
+      - "2026FDB0 03E00008"
+      - "2026FDB4 00000000"
+
+  - name: "Enemies Can't See You"
+    author: "Codejunkies"
+    notes: "[Damage Codes]"
+    codes:
+      - "2013474C 00000000"
+
+  - name: "Everybody Takes No Damage"
+    author: "Codejunkies"
+    notes: "[Damage Codes]"
+    codes:
+      - "20130880 00000000"
+
+  - name: "One Hit Kills"
+    author: "Codejunkies"
+    notes: "[Damage Codes]"
+    codes:
+      - "200FFF80 3C01004B"
+      - "200FFF84 8C21BF0C"
+      - "200FFF8C 14410002"
+      - "200FFF90 AC400354"
+      - "200FFF94 E4400354"
+      - "200FFF9C 0804C221"
+      - "20130880 0803FFE0"
+
+  - name: "Enemies Can't Shoot"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    codes:
+      - "202873AC 104001CA"
+
+  - name: "Extra Ammo"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    codes:
+      - "10287464 00000001"
+
+  - name: "Enemies Can't Shoot And P1 Has Rapid Fire"
+    author: "Codejunkies"
+    notes: "[Firing Speed Codes]"
+    codes:
+      - "200FFF40 3C01004A"
+      - "200FFF44 8C21B25C"
+      - "200FFF50 14310006"
+      - "200FFF58 24020001"
+      - "200FFF60 10020002"
+      - "200FFF64 3C07004B"
+      - "200FFF68 080A1CE1"
+      - "200FFF70 080A1EB6"
+      - "20287380 0803FFD0"
+
+  - name: "Everybody Has Rapid Fire"
+    author: "Codejunkies"
+    notes: "[Firing Speed Codes]"
+    codes:
+      - "20287380 00000000"
+
+  - name: "Only P1 Has Rapid Fire"
+    author: "Codejunkies"
+    notes: "[Firing Speed Codes]"
+    codes:
+      - "200FFF40 3C01004A"
+      - "200FFF44 8C21B25C"
+      - "200FFF50 14310002"
+      - "200FFF58 24020001"
+      - "200FFF60 10020002"
+      - "200FFF64 3C07004B"
+      - "200FFF68 080A1CE1"
+      - "200FFF70 080A1EB6"
+      - "20287380 0803FFD0"
+
+  - name: "Game Speed: 1/2 Speed ((Select One Only!))"
+    author: "MadCatz"
+    codes:
+      - "204AB65C 3F000000"
+
+  - name: "Game Speed: 1/4 Speed ((Select One Only!))"
+    author: "MadCatz"
+    codes:
+      - "204AB65C 3E800000"
+
+  - name: "Game Speed: 2X Speed ((Select One Only!))"
+    author: "MadCatz"
+    codes:
+      - "204AB65C 40000000"
+
+  - name: "Game Speed: 4X Speed ((Select One Only!))"
+    author: "MadCatz"
+    codes:
+      - "204AB65C 40800000"
+
+  - name: "Hyper Mode"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    codes:
+      - "204ABF7C 40000000"
+
+  - name: "Infinite Focus"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    codes:
+      - "2029FAB0 3C0142C8"
+      - "2029FAB8 ACC10364"
+
+  - name: "Infinite Health"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    codes:
+      - "2019CE3C 3C0143FA"
+      - "2019CE44 AC610354"
+
+  - name: "Infinite Health P1 (Multiplayer)"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    codes:
+      - "20125EEC 00000000"
+
+  - name: "All Cheat Codes Active"
+    author: "Codejunkies"
+    notes: "[Make A Save In 'hacking' To Unlock Levels]"
+    codes:
+      - "0057EF04 0000FFFF"
+
+  - name: "Unlock Bonus Test Level"
+    author: "Codejunkies"
+    notes: "[Make A Save In 'hacking' To Unlock Levels]"
+    codes:
+      - "0057EF04 00002000"
+
+  - name: "Unlock Multiplayer Fighting"
+    author: "Codejunkies"
+    notes: "[Make A Save In 'hacking' To Unlock Levels]"
+    codes:
+      - "0057EF04 00000280"
+
+  - name: "Unlock Test Level/MP Fighting"
+    author: "Codejunkies"
+    notes: "[Make A Save In 'hacking' To Unlock Levels]"
+    codes:
+      - "2057EF04 00002280"
+
+  - name: "Max Infinite Ammo"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    codes:
+      - "20286E9C 24030063"
+      - "20286EA4 AC430060"
+
+  - name: "Mega Hyper Mode"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    codes:
+      - "204ABF7C 41000000"
+
+  - name: "Mega Slow Motion"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    codes:
+      - "204ABF7C 3E400000"
+
+  - name: "Movies Disabled"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    codes:
+      - "203CEDB0 24020001"
+
+  - name: "Rapid Fire"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    codes:
+      - "D048D402 0000F7FF"
+      - "20287AC4 00000000"
+      - "D048D402 0010F7FF"
+      - "20287AC4 AE2200D8"
+
+  - name: "Rapid Fire & Enemies Can't Shoot"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    codes:
+      - "202873AC 104001CA"
+      - "D048D402 0000F7FF"
+      - "20287380 00000000"
+      - "D048D402 0010F7FF"
+      - "20287380 104001D5"
+
+  - name: "Slow Motion"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    codes:
+      - "204ABF7C 3F000000"
+
+  - name: "Hyper Focus"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "2015CFA0 00000000"
+
+  - name: "Hyper Mode X2"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "200FFF00 26E4B650"
+      - "200FFF04 3C014000"
+      - "200FFF08 AC81092C"
+      - "200FFF0C 080573AF"
+      - "2015CEB8 0803FFC0"
+
+  - name: "Hyper Mode X4"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "200FFF00 26E4B650"
+      - "200FFF04 3C014080"
+      - "200FFF08 AC81092C"
+      - "200FFF0C 080573AF"
+      - "2015CEB8 0803FFC0"
+
+  - name: "Hyper Mode X16"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "200FFF00 26E4B650"
+      - "200FFF04 3C014100"
+      - "200FFF08 AC81092C"
+      - "200FFF0C 080573AF"
+      - "2015CEB8 0803FFC0"
+
+  - name: "Super Hyper Mode"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    codes:
+      - "204ABF7C 40800000"
+
+  - name: "Super Slow Motion"
+    author: "Code Master>GameMasterZer0>Liquidvlade Hiraduo>Unreal Fears"
+    codes:
+      - "204ABF7C 3E800000"
+
+  - name: "Unlock All Weapons"
+    author: "MadCatz"
+    codes:
+      - "200C0020 34210002"
+
+  - name: "Unlock Fast Focus Refill"
+    author: "MadCatz"
+    codes:
+      - "200C0038 34210004"
+
+  - name: "Unlock Fast Logos"
+    author: "MadCatz"
+    codes:
+      - "200C002C 34211000"
+
+  - name: "Unlock Invisibility"
+    author: "MadCatz"
+    codes:
+      - "200C0030 34210008"
+
+  - name: "Unlock Low Gravity"
+    author: "MadCatz"
+    codes:
+      - "200C0040 34210400"
+      - "20518D98 3E4CCCCD"
+
+  - name: "Unlock Silent Movement"
+    author: "MadCatz"
+    codes:
+      - "200C0034 34210010"
+
+  - name: "Unlock Turbo Mode"
+    author: "MadCatz"
+    codes:
+      - "200C003C 34210040"

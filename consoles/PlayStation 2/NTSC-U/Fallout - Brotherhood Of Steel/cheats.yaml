@@ -1,0 +1,808 @@
+# Fallout - Brotherhood Of Steel cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20539
+
+game: "Fallout - Brotherhood Of Steel"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20539"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01B749C 001B749F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001B749F"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "90179A64 0C06DD10"
+
+  - name: "1 Hit Kills"
+    author: "MadCatz"
+    codes:
+      - "200C2000 9221000B"
+      - "200C2004 24120005"
+      - "200C2008 10320002"
+      - "200C200C C6200054"
+      - "200C2010 46000506"
+      - "200C2014 03E00008"
+      - "200C2018 242007B4"
+      - "2018437C 0C030800"
+
+  - name: "Weapon Enable Modifier (Must Be On)"
+    author: "Code Master"
+    notes: "[Both Players Weapon Modifier Codes [See Note]]"
+    codes:
+      - "200C0220 3C01000C"
+      - "200C0224 00108880"
+      - "200C0228 02218821"
+      - "200C022C 8E310000"
+      - "200C0230 52200001"
+      - "200C0234 8E510004"
+      - "200C0238 AFA6005C"
+      - "200C023C 03E00008"
+      - "200C0240 AE510004"
+      - "201677BC 0C030088"
+
+  - name: "Weapon-Slot 1 Modifier"
+    author: "Code Master"
+    notes: "[Both Players Weapon Modifier Codes [See Note]]"
+    codes:
+      - "200C0000 ????????"
+
+  - name: "Weapon-Slot 2 Modifier"
+    author: "Code Master"
+    notes: "[Both Players Weapon Modifier Codes [See Note]]"
+    codes:
+      - "200C0004 ????????"
+
+  - name: "Weapon-Slot 3 Modifier"
+    author: "Code Master"
+    notes: "[Both Players Weapon Modifier Codes [See Note]]"
+    codes:
+      - "200C0008 ????????"
+
+  - name: "Weapon-Slot 4 Modifier"
+    author: "Code Master"
+    notes: "[Both Players Weapon Modifier Codes [See Note]]"
+    codes:
+      - "200C000C ????????"
+
+  - name: "P1 = Cain"
+    author: "Josh_7774"
+    notes: "[Character Modifier]"
+    codes:
+      - "202E8B64 75BF16D7"
+
+  - name: "P1 = Cyrus"
+    author: "Josh_7774"
+    notes: "[Character Modifier]"
+    codes:
+      - "202E8B64 DE5A408E"
+
+  - name: "P1 = Nadia"
+    author: "Josh_7774"
+    notes: "[Character Modifier]"
+    codes:
+      - "202E8B64 AD84A160"
+
+  - name: "P1 = Patty"
+    author: "Josh_7774"
+    notes: "[Character Modifier]"
+    codes:
+      - "202E8B64 A48DAB49"
+
+  - name: "P1 = Rhombus"
+    author: "Josh_7774"
+    notes: "[Character Modifier]"
+    codes:
+      - "202E8B64 4BADBAC4"
+
+  - name: "P1 = Vault Dweller"
+    author: "Josh_7774"
+    notes: "[Character Modifier]"
+    codes:
+      - "202E8B64 B6F85910"
+
+  - name: "P2 = Cain"
+    author: "Josh_7774"
+    notes: "[Character Modifier]"
+    codes:
+      - "202E8B68 75BF16D7"
+
+  - name: "P2 = Cyrus"
+    author: "Josh_7774"
+    notes: "[Character Modifier]"
+    codes:
+      - "202E8B68 DE5A408E"
+
+  - name: "P2 = Nadia"
+    author: "Josh_7774"
+    notes: "[Character Modifier]"
+    codes:
+      - "202E8B68 AD84A160"
+
+  - name: "P2 = Patty"
+    author: "Josh_7774"
+    notes: "[Character Modifier]"
+    codes:
+      - "202E8B68 A48DAB49"
+
+  - name: "P2 = Rhombus"
+    author: "Josh_7774"
+    notes: "[Character Modifier]"
+    codes:
+      - "202E8B68 4BADBAC4"
+
+  - name: "P2 = Vault Dweller"
+    author: "Josh_7774"
+    notes: "[Character Modifier]"
+    codes:
+      - "202E8B68 B6F85910"
+
+  - name: "0 = Pansy"
+    author: "Josh_7774"
+    notes: "[Difficulty Modifier]"
+    codes:
+      - "002E8B74 00000000"
+
+  - name: "1 = Normal"
+    author: "Josh_7774"
+    notes: "[Difficulty Modifier]"
+    codes:
+      - "002E8B74 00000001"
+
+  - name: "2 = Wastelander"
+    author: "Josh_7774"
+    notes: "[Difficulty Modifier]"
+    codes:
+      - "002E8B74 00000002"
+
+  - name: "3 = Apocalyptic"
+    author: "Josh_7774"
+    notes: "[Difficulty Modifier]"
+    codes:
+      - "002E8B74 00000003"
+
+  - name: "Disable A.I. (Ignore Enemy)"
+    author: "Josh_7774"
+    codes:
+      - "20109AEC 24020001"
+
+  - name: "Infinite Ammo"
+    author: "MadCatz"
+    codes:
+      - "201A76AC 242007B4"
+
+  - name: "Infinite Caps P1"
+    author: "Code Master"
+    codes:
+      - "10A5A2E4 0000FFFF"
+
+  - name: "Infinite Caps P2"
+    author: "Code Master"
+    codes:
+      - "10A5AE64 0000FFFF"
+
+  - name: "Infinite Double Barrel Ammo P1"
+    author: "Code Master"
+    codes:
+      - "20A59C44 000003E7"
+
+  - name: "Infinite Double Barrel Ammo P2"
+    author: "Code Master"
+    codes:
+      - "20A5A7C4 000003E7"
+
+  - name: "Infinite Dual Pistol Ammo P1"
+    author: "Code Master"
+    codes:
+      - "20A59C38 000003E7"
+
+  - name: "Infinite Dual Pistol Ammo P2"
+    author: "Code Master"
+    codes:
+      - "20A5A7B8 000003E7"
+
+  - name: "Infinite Flamethrower Ammo P1"
+    author: "Code Master"
+    codes:
+      - "20A59C48 000003E7"
+
+  - name: "Infinite Flamethrower Ammo P2"
+    author: "Code Master"
+    codes:
+      - "20A5A7C8 000003E7"
+
+  - name: "Infinite Health P1"
+    author: "Code Master"
+    codes:
+      - "20A59B14 461C3C00"
+
+  - name: "Infinite Health P2"
+    author: "Code Master"
+    codes:
+      - "20A5A694 461C3C00"
+
+  - name: "Infinite Laser Pistol Ammo P1"
+    author: "Code Master"
+    codes:
+      - "20A59C3C 000003E7"
+
+  - name: "Infinite Laser Pistol Ammo P2"
+    author: "Code Master"
+    codes:
+      - "20A5A7BC 000003E7"
+
+  - name: "Infinite Pistol Ammo P1"
+    author: "Code Master"
+    codes:
+      - "20A59C34 000003E7"
+
+  - name: "Infinite Pistol Ammo P2"
+    author: "Code Master"
+    codes:
+      - "20A5A7B4 000003E7"
+
+  - name: "Infinite Rifle Ammo P1"
+    author: "Code Master"
+    codes:
+      - "20A59C40 000003E7"
+
+  - name: "Infinite Rifle Ammo P2"
+    author: "Code Master"
+    codes:
+      - "20A5A7C0 000003E7"
+
+  - name: "Infinite Rocket Launcher Ammo P1"
+    author: "Code Master"
+    codes:
+      - "20A59C4C 000003E7"
+
+  - name: "Infinite Rocket Launcher Ammo P2"
+    author: "Code Master"
+    codes:
+      - "20A5A7CC 000003E7"
+
+  - name: "Infinite Skill Points P2"
+    author: "Code Master"
+    codes:
+      - "20A5AE44 44898000"
+
+  - name: "L1 + Right For No-Clipping, L1 + Left To Disable"
+    author: "Josh_7774"
+    codes:
+      - "D0393082 0000FBDF"
+      - "201A9FD4 00000000"
+      - "D0393082 0000FB7F"
+      - "201A9FD4 C7C10000"
+
+  - name: "Hold Triangle To Moon Jump - P1"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D0393082 0000EFFF"
+      - "6020A2E0 43400000"
+      - "00020000 00000060"
+      - "D0393082 0000EFFF"
+      - "6020A2E0 3F800001"
+      - "00020000 00000078"
+
+  - name: "Hold Triangle To Moon Jump - P2"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D0393182 0000EFFF"
+      - "6020A2E4 43400000"
+      - "00020000 00000060"
+      - "D0393182 0000EFFF"
+      - "6020A2E4 3F800001"
+      - "00020000 00000078"
+
+  - name: "Max Damage (Ranged) - P1"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E0 7FFFFFFF"
+      - "00020000 0000081C"
+
+  - name: "Max Damage (Ranged) - P2"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E4 7FFFFFFF"
+      - "00020000 0000081C"
+
+  - name: "P1 = Infinite Ammo (Bullets)"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E0 0000270F"
+      - "00020000 00000174"
+
+  - name: "P1 = Infinite Ammo (Fuel)"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E0 0000270F"
+      - "00020000 00000188"
+
+  - name: "P1 = Infinite Ammo (Heavy Energy)"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E0 0000270F"
+      - "00020000 00000180"
+
+  - name: "P1 = Infinite Ammo (Large Bullets)"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E0 0000270F"
+      - "00020000 00000178"
+
+  - name: "P1 = Infinite Ammo (Light Energy)"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E0 0000270F"
+      - "00020000 0000017C"
+
+  - name: "P1 = Infinite Ammo (Rockets)"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E0 0000270F"
+      - "00020000 0000018C"
+
+  - name: "P1 = Infinite Ammo (Shotgun Rounds)"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E0 0000270F"
+      - "00020000 00000184"
+
+  - name: "P1 = Infinite Caps"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E0 0098967F"
+      - "00020000 00000824"
+
+  - name: "P1 = Infinite Health"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E0 47C34F80"
+      - "00020000 00000054"
+
+  - name: "P1 = Infinite Skill Points"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E0 497423F0"
+      - "00020000 00000804"
+
+  - name: "P1 = Max Armor"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E0 4B18967F"
+      - "00020000 00000130"
+      - "D05481D0 00000001"
+      - "6020A2E0 4B18967F"
+      - "00020000 00000138"
+
+  - name: "P1 = Max Experience"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E0 4B18967F"
+      - "00020000 00000800"
+
+  - name: "P1 = Max Health"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E0 47C34F80"
+      - "00020000 00000058"
+
+  - name: "P2 = Infinite Ammo (Bullets)"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E4 0000270F"
+      - "00020000 00000174"
+
+  - name: "P2 = Infinite Ammo (Fuel)"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E4 0000270F"
+      - "00020000 00000188"
+
+  - name: "P2 = Infinite Ammo (Heavy Energy)"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E4 0000270F"
+      - "00020000 00000180"
+
+  - name: "P2 = Infinite Ammo (Large Bullets)"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E4 0000270F"
+      - "00020000 00000178"
+
+  - name: "P2 = Infinite Ammo (Light Energy)"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E4 0000270F"
+      - "00020000 0000017C"
+
+  - name: "P2 = Infinite Ammo (Rockets)"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E4 0000270F"
+      - "00020000 0000018C"
+
+  - name: "P2 = Infinite Ammo (Shotgun Rounds)"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E4 0000270F"
+      - "00020000 00000184"
+
+  - name: "P2 = Infinite Caps"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E4 0098967F"
+      - "00020000 00000824"
+
+  - name: "P2 = Infinite Health"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E4 47C34F80"
+      - "00020000 00000054"
+
+  - name: "P2 = Infinite Skill Points"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E4 497423F0"
+      - "00020000 00000804"
+
+  - name: "P2 = Max Armor"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E4 4B18967F"
+      - "00020000 00000130"
+      - "D05481D0 00000001"
+      - "6020A2E4 4B18967F"
+      - "00020000 00000138"
+
+  - name: "P2 = Max Experience"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E4 4B18967F"
+      - "00020000 00000800"
+
+  - name: "P2 = Max Health"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E4 47C34F80"
+      - "00020000 00000058"
+
+  - name: "R3 For Third Person Camera, L3 To Disable"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D0393082 0000FFFB"
+      - "200FFF00 00000001"
+      - "D0393082 0000FFFD"
+      - "200FFF00 00000000"
+      - "D00FFF00 00000001"
+      - "202E2ADC 00000000"
+      - "D0393082 0000FFFB"
+      - "202E2AF0 40000000"
+      - "D0393082 0000FFFD"
+      - "202E2AF0 3F800000"
+      - "D0393082 0000FFFB"
+      - "202E2B60 44000000"
+      - "D0393082 0000FFFD"
+      - "202E2B60 42C80000"
+      - "D0393082 0000FFFB"
+      - "202E2B58 41EF9976"
+      - "D0393082 0000FFFD"
+      - "202E2B58 43AE8000"
+      - "D0393082 0000FFFB"
+      - "202E2B5C 00000000"
+      - "D0393082 0000FFFD"
+      - "202E2B5C 41200000"
+
+  - name: "Reveal Entire Map"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E0 48000000"
+      - "00020000 00000198"
+
+  - name: "Unlock Everything"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "00369D74 00000006"
+
+  - name: "Max Armor P1"
+    author: "Code Master"
+    codes:
+      - "20A59BF0 461C3C00"
+
+  - name: "Max Armor P2"
+    author: "Code Master"
+    codes:
+      - "20A5A770 461C3C00"
+
+  - name: "Max Caps P2"
+    author: "Code Master"
+    codes:
+      - "20A5AE64 0098967F"
+
+  - name: "Max EXP P1"
+    author: "Code Master"
+    codes:
+      - "20A5A2C0 4B18967F"
+
+  - name: "Max EXP P2"
+    author: "Code Master"
+    codes:
+      - "20A5AE40 4B18967F"
+
+  - name: "Max Health P1"
+    author: "Code Master"
+    codes:
+      - "20A59B18 461C3C00"
+
+  - name: "Max Health P2"
+    author: "Code Master"
+    codes:
+      - "20A5A698 461C3C00"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "20A59B14 461C4000"
+
+  - name: "Infinite Skill Points"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "20A5A2C4 44898000"
+
+  - name: "Max Cash"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "20A5A2E4 0098967F"
+
+  - name: "Max Health"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "20A59B18 461C4000"
+
+  - name: "Quick Level Up"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "20A5A2C0 4A000000"
+
+  - name: "Player 1: Infinite Health"
+    author: "MadCatz"
+    codes:
+      - "50A59B18 00000004"
+      - "00A59B14 00000000"
+
+  - name: "Player 1: Infinite Skill Points"
+    author: "MadCatz"
+    codes:
+      - "20A5A2C4 4B18967F"
+
+  - name: "Player 1: Max Armor"
+    author: "MadCatz"
+    codes:
+      - "20A59BF0 4B18967F"
+
+  - name: "Player 2: Infinite Health"
+    author: "MadCatz"
+    codes:
+      - "50A5A698 00000004"
+      - "00A5A694 00000000"
+
+  - name: "Player 2: Infinite Skill Points"
+    author: "MadCatz"
+    codes:
+      - "20A5AE44 4B18967F"
+
+  - name: "Player 2: Max Armor"
+    author: "MadCatz"
+    codes:
+      - "20A5A770 4B18967F"
+
+  - name: "P1 = Huge"
+    author: "Josh_7774"
+    notes: "[Size Modifier]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E0 40400000"
+      - "00020000 00000088"
+
+  - name: "P1 = Large"
+    author: "Josh_7774"
+    notes: "[Size Modifier]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E0 40000000"
+      - "00020000 00000088"
+
+  - name: "P1 = Normal"
+    author: "Josh_7774"
+    notes: "[Size Modifier]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E0 3F666666"
+      - "00020000 00000088"
+
+  - name: "P1 = Small"
+    author: "Josh_7774"
+    notes: "[Size Modifier]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E0 3F000000"
+      - "00020000 00000088"
+
+  - name: "P1 = Tiny"
+    author: "Josh_7774"
+    notes: "[Size Modifier]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E0 3EC00000"
+      - "00020000 00000088"
+
+  - name: "P2 = Huge"
+    author: "Josh_7774"
+    notes: "[Size Modifier]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E4 40400000"
+      - "00020000 00000088"
+
+  - name: "P2 = Large"
+    author: "Josh_7774"
+    notes: "[Size Modifier]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E4 40000000"
+      - "00020000 00000088"
+
+  - name: "P2 = Normal"
+    author: "Josh_7774"
+    notes: "[Size Modifier]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E4 3F666666"
+      - "00020000 00000088"
+
+  - name: "P2 = Small"
+    author: "Josh_7774"
+    notes: "[Size Modifier]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E4 3F000000"
+      - "00020000 00000088"
+
+  - name: "P2 = Tiny"
+    author: "Josh_7774"
+    notes: "[Size Modifier]"
+    codes:
+      - "D05481D0 00000001"
+      - "6020A2E4 3EC00000"
+      - "00020000 00000088"
+
+  - name: "Caps Don't Decrease [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "20169F24 00000000"
+
+  - name: "Health Never Regenerates [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "2013C3E4 00000000"
+
+  - name: "Infinite Ammo [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "201A76B4 00000000"
+
+  - name: "Infinite Health [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "2018438C 00000000"
+
+  - name: "Laser Damage Effect Turned Off [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "20186284 00000000"
+
+  - name: "Never Become Radiated [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "2018310C 00000000"
+
+  - name: "Rapid Fire [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "201A71B0 00000000"
+
+  - name: "Skill Points Don't Decrease [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "2016B1A4 00000000"

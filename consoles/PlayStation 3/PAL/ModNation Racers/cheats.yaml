@@ -1,0 +1,23 @@
+# ModNation Racers cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BCES00764
+
+game: "ModNation Racers"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BCES00764"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Tokens"
+    notes: "File: UP-SAVE"
+    codes:
+      - "1000001E 0000270F"
+
+  - name: "Unlock All Mods"
+    notes: "File: UP-SAVE"
+    codes:
+      - "41000386 00000101"
+      - "45F1000C 00000000"

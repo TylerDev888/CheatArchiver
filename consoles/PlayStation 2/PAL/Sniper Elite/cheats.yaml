@@ -1,0 +1,64 @@
+# Sniper Elite cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53758
+
+game: "Sniper Elite"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53758"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0407A08 00407A0B"
+
+  - name: "Quicker Zoom"
+    author: "Codejunkies"
+    notes: "[Scope Zoom Speed]"
+    codes:
+      - "2037B75C 3C013CFF"
+
+  - name: "Slower Zoom"
+    author: "Codejunkies"
+    notes: "[Scope Zoom Speed]"
+    codes:
+      - "2037B75C 3C013C00"
+
+  - name: "Below 3.14 Fix"
+    author: "Codejunkies"
+    codes:
+      - "2047A320 3C03200F"
+      - "2047A328 8C65FFF8"
+      - "2047A32C 24040079"
+      - "2047A330 24030074"
+      - "2047A334 0000000C"
+
+  - name: "Huge Zoom On Sniper Scopes"
+    author: "Codejunkies"
+    codes:
+      - "2037B714 3C0143C8"
+      - "2037B734 3C0143C8"
+      - "2037B754 3C0143C8"
+
+  - name: "Infinite Ammo In Magazine"
+    author: "Codejunkies"
+    codes:
+      - "2023E5B0 00000000"
+
+  - name: "Infinite Ammo/No Reload"
+    author: "Codejunkies"
+    codes:
+      - "20243844 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "202BB968 3C0342C8"
+      - "202BB96C AC430028"
+      - "202BB970 C4400028"
+      - "202BB978 00000000"

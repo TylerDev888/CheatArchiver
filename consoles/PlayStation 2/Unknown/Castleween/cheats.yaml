@@ -1,0 +1,38 @@
+# Castleween cheat data
+# Console: PlayStation 2
+# Region:  Unknown
+
+game: "Castleween"
+console: "PlayStation 2"
+region: "Unknown"
+serial: ""
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code(Must Be On)"
+    author: "Azagthoth"
+    notes: "[Master Codes]"
+    codes:
+      - "902EDC34 0C0B85BC"
+
+  - name: "Player 1 Controller"
+    author: "Azagthoth"
+    notes: "[Jokers]"
+    codes:
+      - "D0438A02 0000????"
+
+  - name: "Die Once For Max Hearts"
+    author: "Azagthoth"
+    codes:
+      - "203C7194 24120063"
+
+  - name: "Invincibility"
+    author: "Azagthoth"
+    codes:
+      - "2034DF5C 38420000"
+
+  - name: "Pickup A Magic Crystal For Max Magic Crystals"
+    author: "Azagthoth"
+    codes:
+      - "203C7264 24110063"

@@ -1,0 +1,24 @@
+# Let's Make A Soccer Team! cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54151
+
+game: "Let's Make A Soccer Team!"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54151"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F030F748 0030F74B"
+
+  - name: "Max Cash"
+    author: "Codejunkies"
+    codes:
+      - "21E0A1D4 00000005"
+      - "21E0A1D0 7E000000"

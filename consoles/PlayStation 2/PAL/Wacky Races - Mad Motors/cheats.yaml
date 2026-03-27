@@ -1,0 +1,53 @@
+# Wacky Races - Mad Motors cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54670
+
+game: "Wacky Races - Mad Motors"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54670"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Auto Drive"
+    author: "luc-ita"
+    codes:
+      - "20140C24 100000A6"
+
+  - name: "Can Always Use Turbo"
+    author: "luc-ita"
+    codes:
+      - "20146160 10000004"
+      - "201469B0 1000000B"
+
+  - name: "Can Select Locked Races"
+    author: "luc-ita"
+    codes:
+      - "20108018 00000000"
+
+  - name: "Can Select Locked Vehicles"
+    author: "luc-ita"
+    codes:
+      - "20101AE0 24020001"
+
+  - name: "Can Select Locked Vehicles But Need To Race To Unlock Them"
+    author: "luc-ita"
+    codes:
+      - "20101BAC 0042202A"
+
+  - name: "Drive Through Walls - USE WITH Caution!"
+    author: "luc-ita"
+    codes:
+      - "20124824 10000006"
+
+  - name: "Only One Lap To Race"
+    author: "luc-ita"
+    codes:
+      - "20144600 24040001"
+
+  - name: "Take Objects Anywhere"
+    author: "luc-ita"
+    codes:
+      - "2013E9D8 00000000"

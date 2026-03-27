@@ -1,0 +1,585 @@
+# Kengo - Master Of Bushido cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20021
+
+game: "Kengo - Master Of Bushido"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20021"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01003A8 000001FD"
+
+  - name: "Enable Code"
+    author: "nolberto82"
+    notes: "[Master Codes]"
+    codes:
+      - "90113718 0C065014"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001940BB"
+
+  - name: "1 Hit Win - P1"
+    author: "InterAct"
+    codes:
+      - "D0225AC2 003000FF"
+      - "10225AC2 000000FF"
+
+  - name: "1 Hit Win - P2"
+    author: "InterAct"
+    codes:
+      - "D01EBF82 003000FF"
+      - "101EBF82 000000FF"
+
+  - name: "1-Hit Death P1"
+    author: "Code Master"
+    codes:
+      - "D01EBF82 00303C23"
+      - "201EBF80 3C230000"
+
+  - name: "1-Hit Death P2"
+    author: "Code Master"
+    codes:
+      - "D0225AC2 00303C23"
+      - "20225AC0 3C230000"
+
+  - name: "Blur Mode"
+    author: "InterAct"
+    codes:
+      - "201A6468 00080008"
+
+  - name: "Blur Modifier 1"
+    author: "Code Master"
+    codes:
+      - "101A6468 000000??"
+
+  - name: "Blur Modifier 2"
+    author: "Code Master"
+    codes:
+      - "101A646A 000000??"
+
+  - name: "Blur Modifier 3"
+    author: "Code Master"
+    codes:
+      - "101A646C 000000??"
+
+  - name: "Blur Modifier 4"
+    author: "Code Master"
+    codes:
+      - "101A646E 000000??"
+
+  - name: "Easy 1St Lesson"
+    author: "InterAct"
+    codes:
+      - "001E8138 00000005"
+
+  - name: "Easy 2Nd Lesson"
+    author: "InterAct"
+    codes:
+      - "00299C18 0000000A"
+
+  - name: "Easy 3Rd Lesson"
+    author: "InterAct"
+    codes:
+      - "001E810C 00000005"
+
+  - name: "Easy Strike Post"
+    author: "InterAct"
+    codes:
+      - "1037DB3C 00000000"
+
+  - name: "Easy Waterfall"
+    author: "InterAct"
+    codes:
+      - "103815A6 00004400"
+
+  - name: "Easy Zen Meditation"
+    author: "InterAct"
+    codes:
+      - "2035A420 BFE66664"
+
+  - name: "Have All Characters"
+    author: "Code Master"
+    codes:
+      - "20296D74 FFFFFFFF"
+
+  - name: "Hit Anywhere Both Players"
+    author: "nolberto82"
+    codes:
+      - "2011E0E8 00000000"
+
+  - name: "Hyuga Huge Size"
+    author: "InterAct"
+    notes: "[Hyuga]"
+    codes:
+      - "20352ABC 40400000"
+
+  - name: "Hyuga Larger Size"
+    author: "InterAct"
+    notes: "[Hyuga]"
+    codes:
+      - "20352ABC 3FC00000"
+
+  - name: "Hyuga Small Size"
+    author: "InterAct"
+    notes: "[Hyuga]"
+    codes:
+      - "20352ABC 3F300000"
+
+  - name: "Hyuga Tiny Size"
+    author: "InterAct"
+    notes: "[Hyuga]"
+    codes:
+      - "20352ABC 3E800000"
+
+  - name: "Infinite Health - P2"
+    author: "Codejunkies"
+    codes:
+      - "10225AC2 00003F80"
+
+  - name: "Infinite Health P1"
+    author: "Code Master"
+    codes:
+      - "201EBF80 3F800000"
+
+  - name: "Infinite Health P2"
+    author: "Code Master"
+    codes:
+      - "20225AC0 3F800000"
+
+  - name: "Infinite Health-P1"
+    author: "InterAct"
+    codes:
+      - "101EBF82 00003F80"
+
+  - name: "Kiriga Huge Size"
+    author: "InterAct"
+    notes: "[Kiriga]"
+    codes:
+      - "20352AEC 40400000"
+
+  - name: "Kiriga Larger Size"
+    author: "InterAct"
+    notes: "[Kiriga]"
+    codes:
+      - "20352AEC 3FC00000"
+
+  - name: "Kiriga Small Size"
+    author: "InterAct"
+    notes: "[Kiriga]"
+    codes:
+      - "20352AEC 3F300000"
+
+  - name: "Kiriga Tiny Size"
+    author: "InterAct"
+    notes: "[Kiriga]"
+    codes:
+      - "20352AEC 3E800000"
+
+  - name: "Matsui Huge Size"
+    author: "InterAct"
+    notes: "[Matsui]"
+    codes:
+      - "20352AD4 40400000"
+
+  - name: "Matsui Larger Size"
+    author: "InterAct"
+    notes: "[Matsui]"
+    codes:
+      - "20352AD4 3FC00000"
+
+  - name: "Matsui Small Size"
+    author: "InterAct"
+    notes: "[Matsui]"
+    codes:
+      - "20352AD4 3F300000"
+
+  - name: "Matsui Tiny Size"
+    author: "InterAct"
+    notes: "[Matsui]"
+    codes:
+      - "20352AD4 3E800000"
+
+  - name: "Max Agility"
+    author: "Code Master"
+    codes:
+      - "102968C6 0000270F"
+      - "102968D0 0000270F"
+
+  - name: "Max Attack Power"
+    author: "Code Master"
+    codes:
+      - "102968CC 0000270F"
+      - "102968D6 0000270F"
+
+  - name: "Max Attack Speed"
+    author: "InterAct"
+    codes:
+      - "102968CE 0000270F"
+      - "102968C4 0000270F"
+
+  - name: "Max Insight"
+    author: "InterAct"
+    codes:
+      - "102968D2 0000270F"
+      - "102968C8 0000270F"
+
+  - name: "Max Ki - P1"
+    author: "InterAct"
+    codes:
+      - "101EBF88 00001000"
+
+  - name: "Max Ki - P2"
+    author: "InterAct"
+    codes:
+      - "10225AC8 00001000"
+
+  - name: "Max Spirit"
+    author: "Code Master"
+    codes:
+      - "102968CA 0000270F"
+      - "102968D4 0000270F"
+
+  - name: "Moro Huge Size"
+    author: "InterAct"
+    notes: "[Moro]"
+    codes:
+      - "20352AC8 40400000"
+
+  - name: "Moro Larger Size"
+    author: "InterAct"
+    notes: "[Moro]"
+    codes:
+      - "20352AC8 3FC00000"
+
+  - name: "Moro Small Size"
+    author: "InterAct"
+    notes: "[Moro]"
+    codes:
+      - "20352AC8 3F300000"
+
+  - name: "Moro Tiny Size"
+    author: "InterAct"
+    notes: "[Moro]"
+    codes:
+      - "20352AC8 3E800000"
+
+  - name: "Naka Huge Size"
+    author: "InterAct"
+    notes: "[Naka]"
+    codes:
+      - "20352AB8 40400000"
+
+  - name: "Naka Larger Size"
+    author: "InterAct"
+    notes: "[Naka]"
+    codes:
+      - "20352AB8 3FC00000"
+
+  - name: "Naka Small Size"
+    author: "InterAct"
+    notes: "[Naka]"
+    codes:
+      - "20352AB8 3F300000"
+
+  - name: "Naka Tiny Size"
+    author: "InterAct"
+    notes: "[Naka]"
+    codes:
+      - "20352AB8 3E800000"
+
+  - name: "Nimura Huge Size"
+    author: "InterAct"
+    notes: "[Nimura]"
+    codes:
+      - "20352B1C 40400000"
+
+  - name: "Nimura Larger Size"
+    author: "InterAct"
+    notes: "[Nimura]"
+    codes:
+      - "20352B1C 3FC00000"
+
+  - name: "Nimura Small Size"
+    author: "InterAct"
+    notes: "[Nimura]"
+    codes:
+      - "20352B1C 3F300000"
+
+  - name: "Nimura Tiny Size"
+    author: "InterAct"
+    notes: "[Nimura]"
+    codes:
+      - "20352B1C 3E800000"
+
+  - name: "No Ki - P1"
+    author: "InterAct"
+    codes:
+      - "101EBF88 00000000"
+
+  - name: "No Ki - P2"
+    author: "InterAct"
+    codes:
+      - "10225AC8 00000000"
+
+  - name: "Shirai Huge Size"
+    author: "InterAct"
+    notes: "[Shirai]"
+    codes:
+      - "20352B10 40400000"
+
+  - name: "Shirai Larger Size"
+    author: "InterAct"
+    notes: "[Shirai]"
+    codes:
+      - "20352B10 3FC00000"
+
+  - name: "Shirai Small Size"
+    author: "InterAct"
+    notes: "[Shirai]"
+    codes:
+      - "20352B10 3F300000"
+
+  - name: "Shirai Tiny Size"
+    author: "InterAct"
+    notes: "[Shirai]"
+    codes:
+      - "20352B10 3E800000"
+
+  - name: "Suzu: Huge Size (Only Use One Of The Following!)"
+    author: "InterAct"
+    notes: "[Size Codes - Suzu]"
+    codes:
+      - "20352B04 40400000"
+
+  - name: "Suzu: Larger Size (Only Use One Of The Following!)"
+    author: "InterAct"
+    notes: "[Size Codes - Suzu]"
+    codes:
+      - "20352B04 3FC00000"
+
+  - name: "Suzu: Small Size (Only Use One Of The Following!)"
+    author: "InterAct"
+    notes: "[Size Codes - Suzu]"
+    codes:
+      - "20352B04 3F300000"
+
+  - name: "Suzu: Tiny Size (Only Use One Of The Following!)"
+    author: "InterAct"
+    notes: "[Size Codes - Suzu]"
+    codes:
+      - "20352B04 3E800000"
+
+  - name: "Takagi: Huge Size (Only Use One Of The Following!)"
+    author: "InterAct"
+    notes: "[Size Codes - Takagi]"
+    codes:
+      - "20352AF8 40400000"
+
+  - name: "Takagi: Larger Size (Only Use One Of The Following!)"
+    author: "InterAct"
+    notes: "[Size Codes - Takagi]"
+    codes:
+      - "20352AF8 3FC00000"
+
+  - name: "Takagi: Small Size (Only Use One Of The Following!)"
+    author: "InterAct"
+    notes: "[Size Codes - Takagi]"
+    codes:
+      - "20352AF8 3F300000"
+
+  - name: "Takagi: Tiny Size (Only Use One Of The Following!)"
+    author: "InterAct"
+    notes: "[Size Codes - Takagi]"
+    codes:
+      - "20352AF8 3E800000"
+
+  - name: "Tanabe: Huge Size (Only Use One Of The Following!)"
+    author: "InterAct"
+    notes: "[Size Codes - Tanabe]"
+    codes:
+      - "20352AE0 40400000"
+
+  - name: "Tanabe: Larger Size (Only Use One Of The Following!)"
+    author: "InterAct"
+    notes: "[Size Codes - Tanabe]"
+    codes:
+      - "20352AE0 3FC00000"
+
+  - name: "Tanabe: Small Size (Only Use One Of The Following!)"
+    author: "InterAct"
+    notes: "[Size Codes - Tanabe]"
+    codes:
+      - "20352AE0 3F300000"
+
+  - name: "Tanabe: Tiny Size (Only Use One Of The Following!)"
+    author: "InterAct"
+    notes: "[Size Codes - Tanabe]"
+    codes:
+      - "20352AE0 3E800000"
+
+  - name: "Yoshi: Huge Size (Only Use One Of The Following!)"
+    author: "InterAct"
+    notes: "[Size Codes - Yoshi]"
+    codes:
+      - "20352AC0 40400000"
+
+  - name: "Yoshi: Larger Size (Only Use One Of The Following!)"
+    author: "InterAct"
+    notes: "[Size Codes - Yoshi]"
+    codes:
+      - "20352AC0 3FC00000"
+
+  - name: "Yoshi: Small Size (Only Use One Of The Following!)"
+    author: "InterAct"
+    notes: "[Size Codes - Yoshi]"
+    codes:
+      - "20352AC0 3F300000"
+
+  - name: "Yoshi: Tiny Size (Only Use One Of The Following!)"
+    author: "InterAct"
+    notes: "[Size Codes - Yoshi]"
+    codes:
+      - "20352AC0 3E800000"
+
+  - name: "Enshiro Tanabe"
+    author: "Code Master"
+    notes: "[Size Modifier Codes (Default 3F800000)]"
+    codes:
+      - "20352AE0 ????????"
+
+  - name: "Genpo Moriya"
+    author: "Code Master"
+    notes: "[Size Modifier Codes (Default 3F800000)]"
+    codes:
+      - "20352AD0 ????????"
+
+  - name: "Gettan Oaishi"
+    author: "Code Master"
+    notes: "[Size Modifier Codes (Default 3F800000)]"
+    codes:
+      - "20352AE8 ????????"
+
+  - name: "Hideyasu Takagi"
+    author: "Code Master"
+    notes: "[Size Modifier Codes (Default 3F800000)]"
+    codes:
+      - "20352AF8 ????????"
+
+  - name: "Ichiun Kasukabe"
+    author: "Code Master"
+    notes: "[Size Modifier Codes (Default 3F800000)]"
+    codes:
+      - "20352ADC ????????"
+
+  - name: "Jion Nennami"
+    author: "Code Master"
+    notes: "[Size Modifier Codes (Default 3F800000)]"
+    codes:
+      - "20352B2C ????????"
+
+  - name: "Jiroemon Tsubaki"
+    author: "Code Master"
+    notes: "[Size Modifier Codes (Default 3F800000)]"
+    codes:
+      - "20352B0C ????????"
+
+  - name: "Juuro Hirata"
+    author: "Code Master"
+    notes: "[Size Modifier Codes (Default 3F800000)]"
+    codes:
+      - "20352AC4 ????????"
+
+  - name: "Kakuma Udagawa"
+    author: "Code Master"
+    notes: "[Size Modifier Codes (Default 3F800000)]"
+    codes:
+      - "20352B00 ????????"
+
+  - name: "Kanenobu Nimura"
+    author: "Code Master"
+    notes: "[Size Modifier Codes (Default 3F800000)]"
+    codes:
+      - "20352B1C ????????"
+
+  - name: "Kangoro Morobushi"
+    author: "Code Master"
+    notes: "[Size Modifier Codes (Default 3F800000)]"
+    codes:
+      - "20352AC8 ????????"
+
+  - name: "Kotaro Suzucki"
+    author: "Code Master"
+    notes: "[Size Modifier Codes (Default 3F800000)]"
+    codes:
+      - "20352B04 ????????"
+
+  - name: "Naotsuna Yoshioka"
+    author: "Code Master"
+    notes: "[Size Modifier Codes (Default 3F800000)]"
+    codes:
+      - "20352B24 ????????"
+
+  - name: "Nobtsuna Kamiizumi"
+    author: "Code Master"
+    notes: "[Size Modifier Codes (Default 3F800000)]"
+    codes:
+      - "20352B28 ????????"
+
+  - name: "Seiichiro Shirai"
+    author: "Code Master"
+    notes: "[Size Modifier Codes (Default 3F800000)]"
+    codes:
+      - "20352B10 ????????"
+
+  - name: "Shigetoshi Kadokura"
+    author: "Code Master"
+    notes: "[Size Modifier Codes (Default 3F800000)]"
+    codes:
+      - "20352B18 ????????"
+
+  - name: "Shozaemon Hyuga"
+    author: "Code Master"
+    notes: "[Size Modifier Codes (Default 3F800000)]"
+    codes:
+      - "20352ABC ????????"
+
+  - name: "Taketsune Nakayama"
+    author: "Code Master"
+    notes: "[Size Modifier Codes (Default 3F800000)]"
+    codes:
+      - "20352AB8 ????????"
+
+  - name: "Tatsunao Kirigamine"
+    author: "Code Master"
+    notes: "[Size Modifier Codes (Default 3F800000)]"
+    codes:
+      - "20352AEC ????????"
+
+  - name: "Toranosuke Matsui"
+    author: "Code Master"
+    notes: "[Size Modifier Codes (Default 3F800000)]"
+    codes:
+      - "20352AD4 ????????"
+
+  - name: "Yasutomo Yoshimura"
+    author: "Code Master"
+    notes: "[Size Modifier Codes (Default 3F800000)]"
+    codes:
+      - "20352AC0 ????????"
+
+  - name: "Zesuiken Tanbara"
+    author: "Code Master"
+    notes: "[Size Modifier Codes (Default 3F800000)]"
+    codes:
+      - "20352AF4 ????????"

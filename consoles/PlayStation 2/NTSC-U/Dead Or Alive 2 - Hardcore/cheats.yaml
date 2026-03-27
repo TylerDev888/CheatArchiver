@@ -1,0 +1,201 @@
+# Dead Or Alive 2 - Hardcore cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20071
+
+game: "Dead Or Alive 2 - Hardcore"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20071"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F039B1BC 0039B1BF"
+
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "EE403A2E 58AD4B87"
+
+  - name: "Enable Code"
+    author: "CMX"
+    notes: "[Master Codes]"
+    codes:
+      - "9039B1BC 0C0E9662"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0200008 0039B1BF"
+
+  - name: "[M] Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F02B4384 000001FD"
+
+  - name: "1 Hit K.O. P1"
+    author: "Codejunkies"
+    codes:
+      - "1048C330 00000001"
+
+  - name: "1 Hit K.O. P2"
+    author: "Codejunkies"
+    codes:
+      - "1048C398 00000001"
+
+  - name: "1-Hit Death P1"
+    author: "Code Master"
+    codes:
+      - "D048C330 0000012C"
+      - "1048C330 00000001"
+
+  - name: "1-Hit Death P2"
+    author: "Code Master"
+    codes:
+      - "D048C398 0000012C"
+      - "1048C398 00000001"
+
+  - name: "25% Health P1"
+    author: "Code Master"
+    codes:
+      - "D048C330 0000012C"
+      - "1048C330 0000004B"
+
+  - name: "25% Health P2"
+    author: "Code Master"
+    codes:
+      - "D048C398 0000012C"
+      - "1048C398 0000004B"
+
+  - name: "50% Health P1"
+    author: "Code Master"
+    codes:
+      - "D048C330 0000012C"
+      - "1048C330 00000096"
+
+  - name: "50% Health P2"
+    author: "Code Master"
+    codes:
+      - "D048C398 0000012C"
+      - "1048C398 00000096"
+
+  - name: "75% Health P1"
+    author: "Code Master"
+    codes:
+      - "D048C330 0000012C"
+      - "1048C330 000000E1"
+
+  - name: "75% Health P2"
+    author: "Code Master"
+    codes:
+      - "D048C398 0000012C"
+      - "1048C398 000000E1"
+
+  - name: "Blocking Disabled Both Players"
+    author: "nolberto82"
+    codes:
+      - "202CE84C 340200FF"
+
+  - name: "Have 200 Stars [NOTE]"
+    author: "lee4"
+    codes:
+      - "0049116C 000000C8"
+
+  - name: "Have All Costumes"
+    author: "Code Master"
+    codes:
+      - "2048B0D0 FFFFFFFF"
+      - "2048B0D4 FFFFFFFF"
+      - "2048B0D8 FFFFFFFF"
+
+  - name: "Hit Anywhere Both Players"
+    author: "nolberto82"
+    codes:
+      - "20278ABC 00000000"
+      - "20278AF0 00000000"
+      - "202CD130 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "1048C398 0000012C"
+
+  - name: "Never Has More Than 25% Health"
+    author: "Codejunkies"
+    codes:
+      - "E001004B 3048C330"
+      - "1048C330 0000004B"
+
+  - name: "Never Has More Than 50% Health"
+    author: "Codejunkies"
+    codes:
+      - "E0010096 3048C330"
+      - "1048C330 00000096"
+
+  - name: "Never Has More Than 75% Health"
+    author: "Codejunkies"
+    codes:
+      - "E00100E1 3048C330"
+      - "1048C330 000000E1"
+
+  - name: "No Health P1"
+    author: "Code Master"
+    codes:
+      - "1048C330 00000000"
+
+  - name: "No Health P2"
+    author: "Code Master"
+    codes:
+      - "1048C398 00000000"
+
+  - name: "P1 Press Select+L1 To Play Next Match Naked (Choose Kasumi - Parental Advisory - NC 17+)"
+    author: "Code Master"
+    codes:
+      - "D05A5EC2 0000FBFE"
+      - "2064ED70 00000405"
+      - "E0020405 0064ED70"
+      - "10653870 00000001"
+      - "1064E4E0 00000100"
+
+  - name: "Play Next Match Naked: L1+R1"
+    author: "Codejunkies"
+    codes:
+      - "D05A5EC2 0000F3FF"
+      - "2064ED70 00000405"
+      - "D05A5EC2 0000F3FF"
+      - "2064E4E0 0A000100"
+      - "D05A5EC2 0000F3FF"
+      - "20653870 00010001"
+
+  - name: "Unlock Bayman"
+    author: "lee4"
+    codes:
+      - "0049115E 00000001"
+
+  - name: "Unlock CG Gallery"
+    author: "lee4"
+    codes:
+      - "0049115F 00000001"
+
+  - name: "Unlock Collection"
+    author: "lee4"
+    codes:
+      - "00491170 00000001"
+
+  - name: "Unlock Stars In The Collection"
+    author: "lee4"
+    codes:
+      - "00491178 00000001"
+
+  - name: "Unlock Tengu"
+    author: "lee4"
+    codes:
+      - "0049115D 00000001"

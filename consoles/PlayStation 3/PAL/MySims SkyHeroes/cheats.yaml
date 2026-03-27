@@ -1,0 +1,20 @@
+# MySims SkyHeroes cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01088
+
+game: "MySims SkyHeroes"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01088"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 (required)"
+    notes: "File: MSF  (set range:0x00000C,0x005EF7)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x00000C,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000004:[hash]"

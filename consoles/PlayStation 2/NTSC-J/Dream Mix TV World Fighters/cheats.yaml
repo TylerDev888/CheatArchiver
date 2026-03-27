@@ -1,0 +1,39 @@
+# Dream Mix TV World Fighters cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65384
+
+game: "Dream Mix TV World Fighters"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65384"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "902F6678 0C0BD946"
+
+  - name: "All Library"
+    author: "punk7890"
+    codes:
+      - "203DAA9C FFFFFFFF"
+      - "003DAAA0 000000FF"
+
+  - name: "Dumb AI"
+    author: "punk7890"
+    codes:
+      - "2014DAA8 03E00008"
+
+  - name: "Unlock All Characters"
+    author: "punk7890"
+    codes:
+      - "203E3B7C 00000000"
+
+  - name: "Unlock All Stages"
+    author: "punk7890"
+    codes:
+      - "203E3B80 00000000"

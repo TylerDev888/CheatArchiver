@@ -1,0 +1,266 @@
+# Shrek 2 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52383
+
+game: "Shrek 2"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52383"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "902DEA94 0C0B8BA0"
+
+  - name: "Faster Anims"
+    author: "Codejunkies"
+    notes: "[Character 1 Codes]"
+    codes:
+      - "E0030000 103790B0"
+      - "E0020000 103790B2"
+      - "603790B0 00004080"
+      - "00010001 000000CD"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Character 1 Codes]"
+    codes:
+      - "E0030000 103790B0"
+      - "E0020000 103790B2"
+      - "603790B0 00004F00"
+      - "00010001 000000D5"
+
+  - name: "Moon Jump (Hold X)"
+    author: "Codejunkies"
+    notes: "[Character 1 Codes]"
+    codes:
+      - "E0040000 103790B0"
+      - "E0030000 103790B2"
+      - "E10200BF 0037D083"
+      - "603790B0 0000BD02"
+      - "00010001 0000005B"
+
+  - name: "Always Full Life"
+    author: "luc-ita"
+    codes:
+      - "20172FA8 E60101A8"
+
+  - name: "Each Coin Worth 4095 Coins"
+    author: "luc-ita"
+    codes:
+      - "2016B850 24030FFF"
+
+  - name: "Human Enemies Automatically Defeated"
+    author: "luc-ita"
+    codes:
+      - "20118A10 AE0001A8"
+
+  - name: "Jump Higher"
+    author: "luc-ita"
+    codes:
+      - "201741AC 3C014000"
+      - "20114D84 44816000"
+
+  - name: "Jump In Midair"
+    author: "luc-ita"
+    codes:
+      - "20115528 00000000"
+      - "20113494 00000000"
+
+  - name: "Jump Much Higher"
+    author: "luc-ita"
+    codes:
+      - "201741AC 3C014080"
+      - "20114D84 44816000"
+
+  - name: "Powers Always Usable"
+    author: "luc-ita"
+    codes:
+      - "201C18E8 8C820348"
+      - "201C12E8 8E420348"
+      - "201C28E0 8E020348"
+      - "201C2E3C 8CC20348"
+
+  - name: "Take An Eye To Have Them All"
+    author: "luc-ita"
+    codes:
+      - "2024CCC4 8F83E4B8"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "902DEA94 0C0B8BA0"
+
+  - name: "Health All Party Members"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2017885C E48301A8"
+
+  - name: "Cash"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2037916C 0098967F"
+
+  - name: "All Levels"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "00379C78 0000000F"
+
+  - name: "All Snapshots"
+    author: "Xploder"
+    notes: "[Snapshots]"
+    codes:
+      - "40379BBC 000F0001"
+      - "01111111 00000000"
+
+  - name: "Shrek's Swamp"
+    author: "Xploder"
+    notes: "[Snapshots]"
+    codes:
+      - "20379BBC 01111111"
+
+  - name: "Spooky Forrest"
+    author: "Xploder"
+    notes: "[Snapshots]"
+    codes:
+      - "20379BC0 01111111"
+
+  - name: "Far Far Away"
+    author: "Xploder"
+    notes: "[Snapshots]"
+    codes:
+      - "20379BC4 01111111"
+
+  - name: "Ogre Killer"
+    author: "Xploder"
+    notes: "[Snapshots]"
+    codes:
+      - "20379BC8 00000111"
+
+  - name: "Walking The Path"
+    author: "Xploder"
+    notes: "[Snapshots]"
+    codes:
+      - "20379BCC 01111111"
+
+  - name: "Jack And Jill's Farm"
+    author: "Xploder"
+    notes: "[Snapshots]"
+    codes:
+      - "20379BD0 01111111"
+
+  - name: "Fairy Godmother's"
+    author: "Xploder"
+    notes: "[Snapshots]"
+    codes:
+      - "20379BD4 01111111"
+
+  - name: "Prison Break"
+    author: "Xploder"
+    notes: "[Snapshots]"
+    codes:
+      - "20379BE4 01111111"
+
+  - name: "The Mines"
+    author: "Xploder"
+    notes: "[Snapshots]"
+    codes:
+      - "20379BEC 01111111"
+
+  - name: "Cookie, Cookie"
+    author: "Xploder"
+    notes: "[Snapshots]"
+    codes:
+      - "20379BF0 01111111"
+
+  - name: "Final Fight"
+    author: "Xploder"
+    notes: "[Snapshots]"
+    codes:
+      - "20379BF4 00001111"
+
+  - name: "All Upgrades"
+    author: "Xploder"
+    notes: "[Upgrades]"
+    codes:
+      - "40379BF8 00090001"
+      - "00000001 00000000"
+
+  - name: "Three Bears' Porridge"
+    author: "Xploder"
+    notes: "[Upgrades]"
+    codes:
+      - "00379BF8 00000001"
+
+  - name: "Ogre Ring"
+    author: "Xploder"
+    notes: "[Upgrades]"
+    codes:
+      - "00379BFC 00000001"
+
+  - name: "Pot Of Gold"
+    author: "Xploder"
+    notes: "[Upgrades]"
+    codes:
+      - "00379C00 00000001"
+
+  - name: "Green Clover"
+    author: "Xploder"
+    notes: "[Upgrades]"
+    codes:
+      - "00379C04 00000001"
+
+  - name: "Heart Of Gold"
+    author: "Xploder"
+    notes: "[Upgrades]"
+    codes:
+      - "00379C08 00000001"
+
+  - name: "Lucky Horseshoe"
+    author: "Xploder"
+    notes: "[Upgrades]"
+    codes:
+      - "00379C0C 00000001"
+
+  - name: "Nine Lives"
+    author: "Xploder"
+    notes: "[Upgrades]"
+    codes:
+      - "00379C10 00000001"
+
+  - name: "Cupid's Arrow"
+    author: "Xploder"
+    notes: "[Upgrades]"
+    codes:
+      - "00379C14 00000001"
+
+  - name: "Lucky Rabbit's Foot"
+    author: "Xploder"
+    notes: "[Upgrades]"
+    codes:
+      - "00379C18 00000001"
+
+  - name: "Eyeballs"
+    author: "Xploder"
+    notes: "[Upgrades]"
+    codes:
+      - "200C2000 341B0063"
+      - "200C2004 449B0000"
+      - "200C2008 E780E35C"
+      - "200C200C 0809328D"
+      - "2024CA30 08030800"
+
+  - name: "Gold Coins"
+    author: "Xploder"
+    notes: "[Upgrades]"
+    codes:
+      - "201467C4 2442270F"

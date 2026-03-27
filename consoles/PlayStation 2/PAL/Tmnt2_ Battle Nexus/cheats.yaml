@@ -1,0 +1,70 @@
+# Tmnt2_ Battle Nexus cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Tmnt2_ Battle Nexus"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9011E0A8 0C048EE0"
+
+  - name: "Energy"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "202CDC60 8C82000C"
+      - "202CDC64 03E00008"
+      - "202CDC68 AC820008"
+
+  - name: "One Hit Kill (Bosses)"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "20257FE8 00631823"
+
+  - name: "No Damage"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "207940E4 00000000"
+
+  - name: "Infinite Shurikens"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "207940E8 00000063"
+
+  - name: "All Stages"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "200C2000 A4410000"
+      - "200C2004 080E0071"
+      - "200C2008 80420000"
+      - "203801BC 24010702"
+      - "203801B8 08030800"
+
+  - name: "All Bonus Materials"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "200C2010 A0410001"
+      - "200C2014 03E00008"
+      - "200C2018 90420001"
+      - "203806FC 24010002"
+      - "203806F8 08030804"
+
+  - name: "All 2Nd Time Around"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "407254C8 00370004"
+      - "00000002 00000000"

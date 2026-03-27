@@ -1,0 +1,29 @@
+# R.I.P.D. Rest In Peace Department - The Game cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUB31221
+
+game: "R.I.P.D. Rest In Peace Department - The Game"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUB31221"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Max Gold(by Fileover)"
+    notes: "File: SAVES.CFG"
+    codes:
+      - "20000109 0098967F"
+      - "2000010D 0098967F"
+
+  - name: "Update Crc32 For Saves.cfg (required)(checksum By Aldostoos)"
+    notes: "File: SAVES.CFG"
+    codes:
+      - "set range:0x24,0xF8"
+      - "set [hash]:CRC32"
+      - "write at 0x000020:[hash]"
+      - "set [hash]:00000000"
+      - "set range:0x0000FD,0x190"
+      - "set [hash]:CRC32"
+      - "write at 0x0000F9:[hash]"

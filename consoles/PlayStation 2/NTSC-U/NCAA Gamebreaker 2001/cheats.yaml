@@ -1,0 +1,777 @@
+# NCAA Gamebreaker 2001 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97107
+
+game: "NCAA Gamebreaker 2001"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97107"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "90301EA4 0C0C3717"
+      - "90252BB4 0C097C28"
+
+  - name: "Always 1St Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "1033A3D8 00000001"
+      - "1033CC20 00000001"
+
+  - name: "Always 4Th Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "1033A3D8 00000004"
+      - "1033CC20 00000004"
+
+  - name: "Always Start On 2Nd Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D033A3D8 00000001"
+      - "1033A3D8 00000002"
+      - "D033CC20 00000001"
+      - "1033CC20 00000002"
+
+  - name: "Always Start On 3Rd Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D033A3D8 00000001"
+      - "1033A3D8 00000003"
+      - "D033CC20 00000001"
+      - "1033CC20 00000003"
+
+  - name: "Away Team Extra Point's Score 1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "20206498 24620001"
+
+  - name: "Away Team Extra Point's Score 5"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "20206498 24620005"
+
+  - name: "Away Team Extra Point's Score 10"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "20206498 2462000A"
+
+  - name: "Away Team Field Goal's Score 1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "102056B0 00000001"
+
+  - name: "Away Team Field Goal's Score 5"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "102056B0 00000005"
+
+  - name: "Away Team Field Goal's Score 10"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "102056B0 0000000A"
+
+  - name: "Away Team Infinite Time-Outs"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "1033A22A 00000003"
+
+  - name: "Away Team No Time-Outs"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "1033A22A 00000000"
+
+  - name: "Away Team Safety's Score 1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "10205480 00000001"
+
+  - name: "Away Team Safety's Score 5"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "10205480 00000005"
+
+  - name: "Away Team Safety's Score 10"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "10205480 0000000A"
+
+  - name: "Away Team Scores 0"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "1033A220 00000000"
+
+  - name: "Away Team Scores 150"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "1033A220 00000096"
+
+  - name: "Away Team Scores 255"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "1033A220 000000FF"
+
+  - name: "Away Team Starts With 20"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E0023DB2 0018019C"
+      - "D033A220 00000000"
+      - "1033A220 00000014"
+
+  - name: "Away Team Starts With 50"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E0023DB2 0018019C"
+      - "D033A220 00000000"
+      - "1033A220 00000032"
+
+  - name: "Away Team Starts With 100"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E0023DB2 0018019C"
+      - "D033A220 00000000"
+      - "1033A220 00000064"
+
+  - name: "Away Team Starts With 150"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E0023DB2 0018019C"
+      - "D033A220 00000000"
+      - "1033A220 00000096"
+
+  - name: "Away Team Touch Down's Score 1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "102058A0 00000001"
+
+  - name: "Away Team Touch Down's Score 5"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "102058A0 00000005"
+
+  - name: "Away Team Touch Down's Score 10"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "102058A0 0000000A"
+
+  - name: "Don't Show Clock"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "0033A082 00000000"
+
+  - name: "Don't Show Play Clock"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "0033A083 00000000"
+
+  - name: "Home Team Extra Point's Score 1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "20206480 24620001"
+
+  - name: "Home Team Extra Point's Score 5"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "20206480 24620005"
+
+  - name: "Home Team Extra Point's Score 10"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "20206480 2462000A"
+
+  - name: "Home Team Field Goal's Score 1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "1020569C 00000001"
+
+  - name: "Home Team Field Goal's Score 5"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "1020569C 00000005"
+
+  - name: "Home Team Field Goal's Score 10"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "1020569C 0000000A"
+
+  - name: "Home Team Infinite Time-Outs"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "1033A228 00000003"
+
+  - name: "Home Team No Time-Outs"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "1033A228 00000000"
+
+  - name: "Home Team Safety's Score 1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "102054A0 00000001"
+
+  - name: "Home Team Safety's Score 5"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "102054A0 00000005"
+
+  - name: "Home Team Safety's Score 10"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "102054A0 0000000A"
+
+  - name: "Home Team Scores 0"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "1033A218 00000000"
+
+  - name: "Home Team Scores 150"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "1033A218 00000096"
+
+  - name: "Home Team Scores 255"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "1033A218 000000FF"
+
+  - name: "Home Team Starts With 20"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E0023DB2 0018019C"
+      - "D033A218 00000000"
+      - "1033A218 00000014"
+
+  - name: "Home Team Starts With 50"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E0023DB2 0018019C"
+      - "D033A218 00000000"
+      - "1033A218 00000032"
+
+  - name: "Home Team Starts With 100"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E0023DB2 0018019C"
+      - "D033A218 00000000"
+      - "1033A218 00000064"
+
+  - name: "Home Team Starts With 150"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E0023DB2 0018019C"
+      - "D033A218 00000000"
+      - "1033A218 00000096"
+
+  - name: "Home Team Touch Down's Score 1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "10205888 00000001"
+
+  - name: "Home Team Touch Down's Score 5"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "10205888 00000005"
+
+  - name: "Home Team Touch Down's Score 10"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "10205888 0000000A"
+
+  - name: "Infinite Points Remaining"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D02D2CDC 00001823"
+      - "202D2CE0 00000000"
+
+  - name: "Infinite Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "1033A3CC 00000019"
+
+  - name: "Infinite Time-Outs (Both Teams)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D018019C 00003DB2"
+      - "101BDFA2 00001000"
+
+  - name: "P1 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 00CBA20A"
+      - "2033A3C4 00000000"
+      - "2033A3C8 00000005"
+
+  - name: "P1 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D0CBA20A 0000FBFE"
+      - "1033A3CC 00000001"
+
+  - name: "P1 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FEFE 00CBA20A"
+      - "1033A3D8 00000001"
+      - "1033CC20 00000001"
+
+  - name: "P1 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002F5FF 00CBA20A"
+      - "2033A3C4 00000001"
+      - "2033A3C8 00000000"
+
+  - name: "P1 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D0CBA20A 0000FBFE"
+      - "1033A3CC 00000019"
+
+  - name: "P1 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FDFE 00CBA20A"
+      - "1033A3D8 00000004"
+      - "1033CC20 00000004"
+
+  - name: "P2 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 00CBA30A"
+      - "2033A3C4 00000000"
+      - "2033A3C8 00000005"
+
+  - name: "P2 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D0CBA30A 0000FBFE"
+      - "1033A3CC 00000001"
+
+  - name: "P2 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FEFE 00CBA30A"
+      - "1033A3D8 00000001"
+      - "1033CC20 00000001"
+
+  - name: "P2 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002F5FF 00CBA30A"
+      - "2033A3C4 00000001"
+      - "2033A3C8 00000000"
+
+  - name: "P2 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D0CBA30A 0000FBFE"
+      - "1033A3CC 00000019"
+
+  - name: "P2 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FDFE 00CBA30A"
+      - "1033A3D8 00000004"
+      - "1033CC20 00000004"
+
+  - name: "P3 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 00CBA40A"
+      - "2033A3C4 00000000"
+      - "2033A3C8 00000005"
+
+  - name: "P3 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D0CBA40A 0000FBFE"
+      - "1033A3CC 00000001"
+
+  - name: "P3 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FEFE 00CBA40A"
+      - "1033A3D8 00000001"
+      - "1033CC20 00000001"
+
+  - name: "P3 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002F5FF 00CBA40A"
+      - "2033A3C4 00000001"
+      - "2033A3C8 00000000"
+
+  - name: "P3 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D0CBA40A 0000FBFE"
+      - "1033A3CC 00000019"
+
+  - name: "P3 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FDFE 00CBA40A"
+      - "1033A3D8 00000004"
+      - "1033CC20 00000004"
+
+  - name: "P4 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 00CBA50A"
+      - "2033A3C4 00000000"
+      - "2033A3C8 00000005"
+
+  - name: "P4 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D0CBA50A 0000FBFE"
+      - "1033A3CC 00000001"
+
+  - name: "P4 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FEFE 00CBA50A"
+      - "1033A3D8 00000001"
+      - "1033CC20 00000001"
+
+  - name: "P4 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002F5FF 00CBA50A"
+      - "2033A3C4 00000001"
+      - "2033A3C8 00000000"
+
+  - name: "P4 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D0CBA50A 0000FBFE"
+      - "1033A3CC 00000019"
+
+  - name: "P4 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FDFE 00CBA50A"
+      - "1033A3D8 00000004"
+      - "1033CC20 00000004"
+
+  - name: "P5 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 00CBA60A"
+      - "2033A3C4 00000000"
+      - "2033A3C8 00000005"
+
+  - name: "P5 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D0CBA60A 0000FBFE"
+      - "1033A3CC 00000001"
+
+  - name: "P5 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FEFE 00CBA60A"
+      - "1033A3D8 00000001"
+      - "1033CC20 00000001"
+
+  - name: "P5 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002F5FF 00CBA60A"
+      - "2033A3C4 00000001"
+      - "2033A3C8 00000000"
+
+  - name: "P5 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D0CBA60A 0000FBFE"
+      - "1033A3CC 00000019"
+
+  - name: "P5 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FDFE 00CBA60A"
+      - "1033A3D8 00000004"
+      - "1033CC20 00000004"
+
+  - name: "P6 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 00CBA70A"
+      - "2033A3C4 00000000"
+      - "2033A3C8 00000005"
+
+  - name: "P6 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D0CBA70A 0000FBFE"
+      - "1033A3CC 00000001"
+
+  - name: "P6 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FEFE 00CBA70A"
+      - "1033A3D8 00000001"
+      - "1033CC20 00000001"
+
+  - name: "P6 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002F5FF 00CBA70A"
+      - "2033A3C4 00000001"
+      - "2033A3C8 00000000"
+
+  - name: "P6 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D0CBA70A 0000FBFE"
+      - "1033A3CC 00000019"
+
+  - name: "P6 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FDFE 00CBA70A"
+      - "1033A3D8 00000004"
+      - "1033CC20 00000004"
+
+  - name: "P7 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 00CBA80A"
+      - "2033A3C4 00000000"
+      - "2033A3C8 00000005"
+
+  - name: "P7 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D0CBA80A 0000FBFE"
+      - "1033A3CC 00000001"
+
+  - name: "P7 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FEFE 00CBA80A"
+      - "1033A3D8 00000001"
+      - "1033CC20 00000001"
+
+  - name: "P7 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002F5FF 00CBA80A"
+      - "2033A3C4 00000001"
+      - "2033A3C8 00000000"
+
+  - name: "P7 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D0CBA80A 0000FBFE"
+      - "1033A3CC 00000019"
+
+  - name: "P7 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FDFE 00CBA80A"
+      - "1033A3D8 00000004"
+      - "1033CC20 00000004"
+
+  - name: "P8 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 00CBA90A"
+      - "2033A3C4 00000000"
+      - "2033A3C8 00000005"
+
+  - name: "P8 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D0CBA90A 0000FBFE"
+      - "1033A3CC 00000001"
+
+  - name: "P8 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FEFE 00CBA90A"
+      - "1033A3D8 00000001"
+      - "1033CC20 00000001"
+
+  - name: "P8 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002F5FF 00CBA90A"
+      - "2033A3C4 00000001"
+      - "2033A3C8 00000000"
+
+  - name: "P8 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D0CBA90A 0000FBFE"
+      - "1033A3CC 00000019"
+
+  - name: "P8 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FDFE 00CBA90A"
+      - "1033A3D8 00000004"
+      - "1033CC20 00000004"
+
+  - name: "Start On 2Nd Quarter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D033A3DA 00000000"
+      - "1033A3DA 00000001"
+
+  - name: "Start On 3Rd Quarter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D033A3DA 00000000"
+      - "1033A3DA 00000002"
+
+  - name: "Start On 4Th Quarter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D033A3DA 00000000"
+      - "1033A3DA 00000003"

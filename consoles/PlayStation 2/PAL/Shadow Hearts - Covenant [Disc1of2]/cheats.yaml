@@ -1,0 +1,161 @@
+# Shadow Hearts - Covenant [Disc1of2] cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-82030
+
+game: "Shadow Hearts - Covenant [Disc1of2]"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-82030"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F021447C 0021447F"
+
+  - name: "Debug Menu"
+    author: "Codejunkies"
+    notes: "[Load A Chapter From Inventory Menu To Access]"
+    codes:
+      - "E0021040 005625E8"
+      - "D05625EA 00000004"
+      - "205625E8 2402025A"
+
+  - name: "Last Boss"
+    author: "Codejunkies"
+    notes: "[Load A Chapter From Inventory Menu To Access]"
+    codes:
+      - "E0021040 005625E8"
+      - "D05625EA 00000004"
+      - "205625E8 24020268"
+
+  - name: "Max Agl (All)"
+    author: "Codejunkies"
+    notes: "[Max Stats Codes]"
+    codes:
+      - "203C957C 24140063"
+      - "203C9580 A2D4002A"
+
+  - name: "Max Int (All)"
+    author: "Codejunkies"
+    notes: "[Max Stats Codes]"
+    codes:
+      - "203C911C 24140063"
+      - "203C9120 A2D40028"
+
+  - name: "Max Luc (All)"
+    author: "Codejunkies"
+    notes: "[Max Stats Codes]"
+    codes:
+      - "203C97AC 24140063"
+      - "203C97B0 A2D4002B"
+
+  - name: "Max Pow (All)"
+    author: "Codejunkies"
+    notes: "[Max Stats Codes]"
+    codes:
+      - "203C934C 24140063"
+      - "203C9350 A2D40029"
+
+  - name: "Max Str (All)"
+    author: "Codejunkies"
+    notes: "[Max Stats Codes]"
+    codes:
+      - "203C8CBC 24140063"
+      - "203C8CC0 A2D40026"
+
+  - name: "Max Vit (All)"
+    author: "Codejunkies"
+    notes: "[Max Stats Codes]"
+    codes:
+      - "203C8EEC 24140063"
+      - "203C8EF0 A2D40027"
+
+  - name: "1000 XP Per Fight"
+    author: "Codejunkies"
+    notes: "[Quick Experience Codes]"
+    codes:
+      - "2039A9A4 00000000"
+      - "2039A9AC 241203E8"
+
+  - name: "10000 XP Per Fight"
+    author: "Codejunkies"
+    notes: "[Quick Experience Codes]"
+    codes:
+      - "2039A9A4 00000000"
+      - "2039A9AC 24122710"
+
+  - name: "30000 XP Per Fight"
+    author: "Codejunkies"
+    notes: "[Quick Experience Codes]"
+    codes:
+      - "2039A9A4 00000000"
+      - "2039A9AC 24127530"
+
+  - name: "All Items At Infinite"
+    author: "Codejunkies"
+    codes:
+      - "E003009E 0049A784"
+      - "E0021040 0049A786"
+      - "2049A77C 24010063"
+      - "2049A780 A0410000"
+
+  - name: "Infinite Cash"
+    author: "Codejunkies"
+    codes:
+      - "E0020004 0048CAF8"
+      - "D048CAFA 00008C42"
+      - "2048CAF8 0803FFC0"
+      - "200FFF00 3C0105E0"
+      - "200FFF04 AC410004"
+      - "200FFF08 8C420004"
+      - "200FFF0C 081232BF"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "E0030080 006AEDB4"
+      - "E0028FA3 006AEDB6"
+      - "206AEDBC 240103E7"
+      - "206AEDC0 A4610130"
+
+  - name: "Infinite Health & MP"
+    author: "Codejunkies"
+    codes:
+      - "E0030080 006AEDB4"
+      - "E0028FA3 006AEDB6"
+      - "206AEDBC 240103E7"
+      - "206AEDC0 A4610130"
+      - "E0020080 006AEDB4"
+      - "D06AEDB6 00008FA3"
+      - "206AEDC4 A4610136"
+
+  - name: "Infinite SP"
+    author: "Codejunkies"
+    codes:
+      - "E0030080 006AEDB4"
+      - "E0028FA3 006AEDB6"
+      - "206AEDF4 24010063"
+      - "206AEDF8 A461013A"
+
+  - name: "Low Total Time"
+    author: "Codejunkies"
+    codes:
+      - "203F4E04 24020000"
+
+  - name: "Replace Intro Chapter Into Debug Island"
+    author: "Codejunkies"
+    codes:
+      - "20618AF0 5F30305F"
+      - "20618AF4 01150055"
+      - "10618AEE 00004244"
+      - "10618AF8 000000C9"
+
+  - name: "Start A New Game With Max Cash"
+    author: "Codejunkies"
+    codes:
+      - "20102D34 05F5E0FF"

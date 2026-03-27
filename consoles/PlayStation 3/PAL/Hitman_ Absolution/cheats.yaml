@@ -1,0 +1,19 @@
+# Hitman_ Absolution cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01403
+
+game: "Hitman_ Absolution"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01403"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Md5 (required)"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "set range:0x000010,0x07FFFF"
+      - "set [hash]:MD5"
+      - "write at 0x000000:[hash]"

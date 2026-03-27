@@ -1,0 +1,123 @@
+# Robotech - Invasion cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20823
+
+game: "Robotech - Invasion"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20823"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "E00E0CEC 0020EA94"
+      - "E00D0C09 0020EA96"
+      - "201D60B8 080D73C4"
+      - "2035CF10 3C040100"
+      - "2035CF14 3C050008"
+      - "2035CF18 0C0D249F"
+      - "2035CF1C 3C060008"
+      - "2035CF20 0C0D64B6"
+      - "2035CF24 26309728"
+      - "2035CF28 3C050100"
+      - "2035CF2C 3C040008"
+      - "2035CF30 0C0D249F"
+      - "2035CF34 3C060008"
+      - "2035CF38 08075830"
+      - "2035CF3C 00000000"
+      - "F020EA94 0020EA97"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00291163"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "901D7130 0C0A446C"
+
+  - name: "1-Hit Kills"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "2085A648 3F800000"
+
+  - name: "Access To All Levels"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "2085A64C 3F800000"
+
+  - name: "Invincibility"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "2085A640 3F800000"
+
+  - name: "Lancer's Multiplayer Skin"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "2085A650 3F800000"
+
+  - name: "Rand's Multiplayer Skin"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "2085A658 3F800000"
+
+  - name: "Rock's Multiplayer Skin"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "2085A65C 3F800000"
+
+  - name: "Scott Bernard's Multiplayer Skin"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "2085A654 3F800000"
+
+  - name: "Unlimited Ammo"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "2085A644 3F800000"
+
+  - name: "AR Below 3.14 Fix"
+    author: "Codejunkies"
+    codes:
+      - "2035E558 3C03200F"
+      - "2035E560 8C65FFF8"
+      - "2035E564 24040079"
+      - "2035E568 24030074"
+      - "2035E56C 0000000C"
+
+  - name: "1 Hit Kills"
+    author: "MadCatz"
+    notes: "[Unlock Extras]"
+    codes:
+      - "D085A64A 0000BF80"
+      - "2085A648 00000000"
+
+  - name: "Infinite Ammo"
+    author: "MadCatz"
+    notes: "[Unlock Extras]"
+    codes:
+      - "D085A646 0000BF80"
+      - "2085A644 00000000"
+
+  - name: "Rook's Multiplayer Skin"
+    author: "MadCatz"
+    notes: "[Unlock Extras]"
+    codes:
+      - "D085A65E 0000BF80"
+      - "2085A65C 00000000"

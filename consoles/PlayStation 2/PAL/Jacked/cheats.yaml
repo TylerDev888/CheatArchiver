@@ -1,0 +1,24 @@
+# Jacked cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53778
+
+game: "Jacked"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53778"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9039C538 0C0E70F6"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90265E28 0C0E3838"

@@ -1,0 +1,21 @@
+# JASF_ Jane's Advanced Strike Fighters cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS30333
+
+game: "JASF_ Jane's Advanced Strike Fighters"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS30333"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Add (required)"
+    notes: "File: JASF  (set [csum]:add(0x000000,0x007FFB)) (write at 0x007FFC:[hash])"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof-3"
+      - "set [csum]:add(0x000000,pointer)"
+      - "set pointer:eof-3"
+      - "write next (0):[csum]"

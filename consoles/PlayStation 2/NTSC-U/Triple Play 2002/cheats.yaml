@@ -1,0 +1,807 @@
+# Triple Play 2002 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20366
+
+game: "Triple Play 2002"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20366"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F010173C 0031845C"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 003360F7"
+
+  - name: "Always 3-2 Pitch For The Away Only"
+    author: "Codejunkies"
+    notes: "[Always 3-2 Codes]"
+    codes:
+      - "D03C7A3E 00000001"
+      - "003C7A62 00000003"
+      - "D03C7A3E 00000001"
+      - "003C7A61 00000002"
+
+  - name: "Always 3-2 Pitch For The Home Only"
+    author: "Codejunkies"
+    notes: "[Always 3-2 Codes]"
+    codes:
+      - "D03C7A3E 00000000"
+      - "003C7A62 00000003"
+      - "D03C7A3E 00000000"
+      - "003C7A61 00000002"
+
+  - name: "1 Ball To Walk - Away"
+    author: "InterAct"
+    notes: "[Away Only Codes]"
+    codes:
+      - "D038A7E4 00000000"
+      - "D0393B2A 00000000"
+      - "00393B2A 00000003"
+
+  - name: "1 Out Per Inning - Away"
+    author: "InterAct"
+    notes: "[Away Only Codes]"
+    codes:
+      - "D038A7E4 00000000"
+      - "D0393B2B 00000000"
+      - "00393B2B 00000002"
+
+  - name: "1 Strike Per Out - Away"
+    author: "InterAct"
+    notes: "[Away Only Codes]"
+    codes:
+      - "D038A7E4 00000000"
+      - "D0393B29 00000000"
+      - "00393B29 00000002"
+
+  - name: "2 Balls To Walk - Away"
+    author: "InterAct"
+    notes: "[Away Only Codes]"
+    codes:
+      - "D038A7E4 00000000"
+      - "D0393B2A 00000000"
+      - "00393B2A 00000002"
+
+  - name: "2 Outs Per Inning - Away"
+    author: "InterAct"
+    notes: "[Away Only Codes]"
+    codes:
+      - "D038A7E4 00000000"
+      - "D0393B2B 00000000"
+      - "00393B2B 00000001"
+
+  - name: "2 Strikes Per Out - Away"
+    author: "InterAct"
+    notes: "[Away Only Codes]"
+    codes:
+      - "D038A7E4 00000000"
+      - "D0393B29 00000000"
+      - "00393B29 00000001"
+
+  - name: "3 Balls To Walk - Away"
+    author: "InterAct"
+    notes: "[Away Only Codes]"
+    codes:
+      - "D038A7E4 00000000"
+      - "D0393B2A 00000000"
+      - "00393B2A 00000001"
+
+  - name: "Easy Home Run - Away"
+    author: "InterAct"
+    notes: "[Away Only Codes]"
+    codes:
+      - "D038A7E4 00000000"
+      - "20380128 FF600000"
+      - "D038A7E4 00000001"
+      - "20380128 FE000000"
+
+  - name: "1 Ball To Walk"
+    author: "Codejunkies"
+    notes: "[Away Team Ball Codes]"
+    codes:
+      - "E0020001 003C7A3E"
+      - "D03C7A62 00000000"
+      - "003C7A62 00000003"
+
+  - name: "2 Balls To Walk"
+    author: "Codejunkies"
+    notes: "[Away Team Ball Codes]"
+    codes:
+      - "E0020001 003C7A3E"
+      - "D03C7A62 00000000"
+      - "003C7A62 00000002"
+
+  - name: "3 Balls To Walk"
+    author: "Codejunkies"
+    notes: "[Away Team Ball Codes]"
+    codes:
+      - "E0020001 003C7A3E"
+      - "D03C7A62 00000000"
+      - "003C7A62 00000001"
+
+  - name: "No Balls"
+    author: "Codejunkies"
+    notes: "[Away Team Ball Codes]"
+    codes:
+      - "D03C7A3E 00000001"
+      - "003C7A62 00000000"
+
+  - name: "Away Team 1St Run Is A Grand Slam"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "D0393734 00000001"
+      - "10393734 00000004"
+
+  - name: "Away Team Score 0"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "10393734 00000000"
+
+  - name: "Away Team Score 50"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "10393734 00000032"
+
+  - name: "Score 0"
+    author: "Codejunkies"
+    notes: "[Away Team Codes]"
+    codes:
+      - "103C762C 00000000"
+
+  - name: "Score 50"
+    author: "Codejunkies"
+    notes: "[Away Team Codes]"
+    codes:
+      - "103C762C 00000032"
+
+  - name: "1 Out Per Inning"
+    author: "Codejunkies"
+    notes: "[Away Team Inning Codes]"
+    codes:
+      - "E0020001 003C7A3E"
+      - "D03C7A62 00000000"
+      - "003C7A63 00000002"
+
+  - name: "2 Outs Per Inning"
+    author: "Codejunkies"
+    notes: "[Away Team Inning Codes]"
+    codes:
+      - "E0020001 003C7A3E"
+      - "D03C7A62 00000000"
+      - "003C7A63 00000001"
+
+  - name: "1 Ball And You Walk"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020001 003BBA74"
+      - "D03C7A62 00000000"
+      - "003C7A62 00000003"
+
+  - name: "1 Out And You Are Out"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020001 003BBA74"
+      - "D03C7A62 00000000"
+      - "003C7A63 00000002"
+
+  - name: "1 Strike And You Are Out"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020001 003BBA74"
+      - "D03C7A60 00000000"
+      - "003C7A61 00000002"
+
+  - name: "2 Balls And You Walk"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020001 003BBA74"
+      - "D03C7A62 00000000"
+      - "003C7A62 00000002"
+
+  - name: "2 Outs And You Are Out"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020001 003BBA74"
+      - "D03C7A62 00000000"
+      - "003C7A63 00000001"
+
+  - name: "2 Strikes And You Are Out"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020001 003BBA74"
+      - "D03C7A60 00000000"
+      - "003C7A61 00000001"
+
+  - name: "3 Balls And You Walk"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020001 003BBA74"
+      - "D03C7A62 00000000"
+      - "003C7A62 00000001"
+
+  - name: "Always Full Count"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020001 003BBA74"
+      - "003C7A61 00000002"
+      - "003C7A62 00000003"
+
+  - name: "Always Full Count & 2 Outs"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0030001 003BBA74"
+      - "003C7A61 00000002"
+      - "003C7A62 00000003"
+      - "003C7A63 00000002"
+
+  - name: "Infinite Balls"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D03BBA74 00000001"
+      - "003C7A62 00000000"
+
+  - name: "Infinite Outs"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D03BBA74 00000001"
+      - "003C7A63 00000000"
+
+  - name: "Infinite Strikes"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D03BBA74 00000001"
+      - "003C7A61 00000000"
+
+  - name: "Gravity Accel Sec Modifier (Default Fe000000)"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D038A7E4 00000000"
+      - "20380128 ????????"
+
+  - name: "1St Run Is A Grand Slam For The Away Team"
+    author: "Codejunkies"
+    notes: "[Away Team Runs Codes]"
+    codes:
+      - "D03C762C 00000001"
+      - "103C762C 00000004"
+
+  - name: "1St Run Is A Grand Slam For The Home Team"
+    author: "Codejunkies"
+    notes: "[Away Team Runs Codes]"
+    codes:
+      - "D03C7620 00000001"
+      - "103C7620 00000004"
+
+  - name: "Always 3-2 Pitch"
+    author: "Codejunkies"
+    notes: "[Away Team Runs Codes]"
+    codes:
+      - "003C7A62 00000003"
+      - "003C7A61 00000002"
+
+  - name: "One Chance Mode"
+    author: "Codejunkies"
+    notes: "[Away Team Runs Codes]"
+    codes:
+      - "003C7A62 00000003"
+      - "003C7A61 00000002"
+      - "003C7A63 00000002"
+
+  - name: "Start With 10 Runs"
+    author: "Codejunkies"
+    notes: "[Away Team Runs Codes]"
+    codes:
+      - "D03C762C 00000000"
+      - "103C762C 0000000A"
+
+  - name: "Start With 5 Runs"
+    author: "Codejunkies"
+    notes: "[Away Team Runs Codes]"
+    codes:
+      - "D03C762C 00000000"
+      - "103C762C 00000005"
+
+  - name: "1 Strike Per Out"
+    author: "Codejunkies"
+    notes: "[Away Team Stike Codes]"
+    codes:
+      - "E0020001 003C7A3E"
+      - "D03C7A60 00000000"
+      - "003C7A61 00000002"
+
+  - name: "2 Strikes Per Out"
+    author: "Codejunkies"
+    notes: "[Away Team Stike Codes]"
+    codes:
+      - "E0020001 003C7A3E"
+      - "D03C7A60 00000000"
+      - "003C7A61 00000001"
+
+  - name: "No Strikes"
+    author: "Codejunkies"
+    notes: "[Away Team Stike Codes]"
+    codes:
+      - "D03C7A3E 00000001"
+      - "003C7A61 00000000"
+
+  - name: "1 Ball To Walk - Home"
+    author: "InterAct"
+    notes: "[Home Only Codes]"
+    codes:
+      - "D038A7E4 00000001"
+      - "D0393B2A 00000000"
+      - "00393B2A 00000003"
+
+  - name: "1 Out Per Inning - Home"
+    author: "InterAct"
+    notes: "[Home Only Codes]"
+    codes:
+      - "D038A7E4 00000001"
+      - "D0393B2B 00000000"
+      - "00393B2B 00000002"
+
+  - name: "1 Strike Per Out - Home"
+    author: "InterAct"
+    notes: "[Home Only Codes]"
+    codes:
+      - "D038A7E4 00000001"
+      - "D0393B29 00000000"
+      - "00393B29 00000002"
+
+  - name: "2 Balls To Walk - Home"
+    author: "InterAct"
+    notes: "[Home Only Codes]"
+    codes:
+      - "D038A7E4 00000001"
+      - "D0393B2A 00000000"
+      - "00393B2A 00000002"
+
+  - name: "2 Outs Per Inning - Home"
+    author: "InterAct"
+    notes: "[Home Only Codes]"
+    codes:
+      - "D038A7E4 00000001"
+      - "D0393B2B 00000000"
+      - "00393B2B 00000001"
+
+  - name: "2 Strikes Per Out - Home"
+    author: "InterAct"
+    notes: "[Home Only Codes]"
+    codes:
+      - "D038A7E4 00000001"
+      - "D0393B29 00000000"
+      - "00393B29 00000001"
+
+  - name: "3 Balls To Walk - Home"
+    author: "InterAct"
+    notes: "[Home Only Codes]"
+    codes:
+      - "D038A7E4 00000001"
+      - "D0393B2A 00000000"
+      - "00393B2A 00000001"
+
+  - name: "Easy Home Run - Home"
+    author: "InterAct"
+    notes: "[Home Only Codes]"
+    codes:
+      - "D038A7E4 00000001"
+      - "20380128 FF600000"
+      - "D038A7E4 00000000"
+      - "20380128 FE000000"
+
+  - name: "0 Home Runs"
+    author: "Codejunkies"
+    notes: "[Home Run Derby 1st Batter Codes]"
+    codes:
+      - "103C7BA6 00000000"
+
+  - name: "Start With 10 Home Runs"
+    author: "Codejunkies"
+    notes: "[Home Run Derby 1st Batter Codes]"
+    codes:
+      - "D03C7BA6 00000000"
+      - "103C7BA6 0000000A"
+
+  - name: "P1 Home Runs Modifier"
+    author: "Code Master"
+    notes: "[Home Run Derby Mode Codes]"
+    codes:
+      - "103C7BA6 000000??"
+
+  - name: "P1 Start With Home Runs Modifier"
+    author: "Code Master"
+    notes: "[Home Run Derby Mode Codes]"
+    codes:
+      - "D03C7BA6 00000000"
+      - "103C7BA6 000000??"
+
+  - name: "P2 Home Runs Modifier"
+    author: "Code Master"
+    notes: "[Home Run Derby Mode Codes]"
+    codes:
+      - "103C7BA8 000000??"
+
+  - name: "P2 Start With Home Runs Modifier"
+    author: "Code Master"
+    notes: "[Home Run Derby Mode Codes]"
+    codes:
+      - "D03C7BA8 00000000"
+      - "103C7BA8 000000??"
+
+  - name: "Start With 5 Outs"
+    author: "Codejunkies"
+    notes: "[Home Run Derby Out Codes]"
+    codes:
+      - "D03C7BE4 00000000"
+      - "103C7BE4 00000005"
+
+  - name: "Start With 9 Outs"
+    author: "Codejunkies"
+    notes: "[Home Run Derby Out Codes]"
+    codes:
+      - "D03C7BE4 00000000"
+      - "103C7BE4 00000009"
+
+  - name: "Home Team 1St Run And Grand Slam"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "D0393728 00000001"
+      - "10393728 00000004"
+
+  - name: "Home Team Score 0"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "10393728 00000000"
+
+  - name: "Home Team Score 50"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "10393728 00000032"
+
+  - name: "Home Team Start With 5 Runs"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "D0393728 00000000"
+      - "10393728 00000005"
+      - "D0393734 00000000"
+      - "10393734 00000005"
+
+  - name: "One Chance Mode For The Away Only"
+    author: "Codejunkies"
+    notes: "[One Chance Codes]"
+    codes:
+      - "D03C7A3E 00000001"
+      - "003C7A62 00000003"
+      - "D03C7A3E 00000001"
+      - "003C7A61 00000002"
+      - "D03C7A3E 00000001"
+      - "003C7A63 00000002"
+
+  - name: "One Chance Mode For The Home Only"
+    author: "Codejunkies"
+    notes: "[One Chance Codes]"
+    codes:
+      - "D03C7A3E 00000000"
+      - "003C7A62 00000003"
+      - "D03C7A3E 00000000"
+      - "003C7A61 00000002"
+      - "D03C7A3E 00000000"
+      - "003C7A63 00000002"
+
+  - name: "Away Team Start With 5 Runs"
+    author: "InterAct"
+    notes: "[Score Codes]"
+    codes:
+      - "D0393734 00000000"
+      - "10393734 00000005"
+
+  - name: "1 Ball And Walk - Away Only"
+    author: "InterAct"
+    codes:
+      - "D03C7A3F 00000001"
+      - "D03C7A62 00000000"
+      - "003C7A62 00000003"
+
+  - name: "1 Ball And Walk - Home Only"
+    author: "InterAct"
+    codes:
+      - "D03C7A3F 00000000"
+      - "D03C7A62 00000000"
+      - "003C7A62 00000003"
+
+  - name: "1 Out And Change - Away Only"
+    author: "InterAct"
+    codes:
+      - "D03C7A3F 00000001"
+      - "D03C7A63 00000000"
+      - "003C7A63 00000002"
+
+  - name: "1 Out And Change - Home Only"
+    author: "InterAct"
+    codes:
+      - "D03C7A3F 00000000"
+      - "D03C7A63 00000000"
+      - "003C7A63 00000002"
+
+  - name: "1 Strike And Out - Away Only"
+    author: "InterAct"
+    codes:
+      - "D03C7A3F 00000001"
+      - "D03C7A61 00000000"
+      - "003C7A61 00000002"
+
+  - name: "1 Strike And Out - Home Only"
+    author: "InterAct"
+    codes:
+      - "D03C7A3F 00000000"
+      - "D03C7A61 00000000"
+      - "003C7A61 00000002"
+
+  - name: "2 Balls And Walk - Away Only"
+    author: "InterAct"
+    codes:
+      - "D03C7A3F 00000001"
+      - "D03C7A62 00000000"
+      - "003C7A62 00000002"
+
+  - name: "2 Balls And Walk - Home Only"
+    author: "InterAct"
+    codes:
+      - "D03C7A3F 00000000"
+      - "D03C7A62 00000000"
+      - "003C7A62 00000002"
+
+  - name: "2 Outs And Change - Away Only"
+    author: "InterAct"
+    codes:
+      - "D03C7A3F 00000001"
+      - "D03C7A63 00000000"
+      - "003C7A63 00000001"
+
+  - name: "2 Outs And Change - Home Only"
+    author: "InterAct"
+    codes:
+      - "D03C7A3F 00000000"
+      - "D03C7A63 00000000"
+      - "003C7A63 00000001"
+
+  - name: "2 Strikes And Out - Away Only"
+    author: "InterAct"
+    codes:
+      - "D03C7A3F 00000001"
+      - "D03C7A61 00000000"
+      - "003C7A61 00000001"
+
+  - name: "2 Strikes And Out - Home Only"
+    author: "InterAct"
+    codes:
+      - "D03C7A3F 00000000"
+      - "D03C7A61 00000000"
+      - "003C7A61 00000001"
+
+  - name: "3 Balls And Walk - Away Only"
+    author: "InterAct"
+    codes:
+      - "D03C7A3F 00000001"
+      - "D03C7A62 00000000"
+      - "003C7A62 00000001"
+
+  - name: "3 Balls And Walk - Home Only"
+    author: "InterAct"
+    codes:
+      - "D03C7A3F 00000000"
+      - "D03C7A62 00000000"
+      - "003C7A62 00000001"
+
+  - name: "Always 3 - 2 Pitch - Away Only"
+    author: "InterAct"
+    codes:
+      - "D03C7A3F 00000001"
+      - "003C7A62 00000003"
+      - "D03C7A3F 00000001"
+      - "003C7A61 00000002"
+
+  - name: "Always 3 - 2 Pitch - Home Only"
+    author: "InterAct"
+    codes:
+      - "D03C7A3F 00000000"
+      - "003C7A62 00000003"
+      - "D03C7A3F 00000000"
+      - "003C7A61 00000002"
+
+  - name: "Away Team Errors Modifier"
+    author: "Code Master"
+    codes:
+      - "003C762E 000000??"
+
+  - name: "Away Team Hits Modifier"
+    author: "Code Master"
+    codes:
+      - "003C762D 000000??"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "003C762C 000000??"
+
+  - name: "Away Team Start With Errors Modifier"
+    author: "Code Master"
+    codes:
+      - "D03C762E 00000000"
+      - "003C762E 000000??"
+
+  - name: "Away Team Start With Hits Modifier"
+    author: "Code Master"
+    codes:
+      - "D03C762C 00000000"
+      - "003C762D 000000??"
+
+  - name: "Away Team Start With Runs Modifier"
+    author: "Code Master"
+    codes:
+      - "D03C762C 00000000"
+      - "003C762C 000000??"
+
+  - name: "Batter 1 10 HR - HRD"
+    author: "InterAct"
+    codes:
+      - "103C7BA8 00000000"
+      - "D03C7BA6 00000000"
+      - "103C7BA6 0000000A"
+
+  - name: "Easy Home Run Mode"
+    author: "InterAct"
+    codes:
+      - "20380128 FF600000"
+
+  - name: "Home Team Errors Modifier"
+    author: "Code Master"
+    codes:
+      - "003C7622 000000??"
+
+  - name: "Home Team Hits Modifier"
+    author: "Code Master"
+    codes:
+      - "003C7621 000000??"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "003C7620 000000??"
+
+  - name: "Home Team Start With Errors Modifier"
+    author: "Code Master"
+    codes:
+      - "D03C7622 00000000"
+      - "003C7622 000000??"
+
+  - name: "Home Team Start With Hits Modifier"
+    author: "Code Master"
+    codes:
+      - "D03C7620 00000000"
+      - "003C7621 000000??"
+
+  - name: "Home Team Start With Runs Modifier"
+    author: "Code Master"
+    codes:
+      - "D03C7620 00000000"
+      - "003C7620 000000??"
+
+  - name: "No Balls - Away Only"
+    author: "InterAct"
+    codes:
+      - "D03C7A3F 00000001"
+      - "003C7A62 00000000"
+
+  - name: "No Balls - Home Only"
+    author: "InterAct"
+    codes:
+      - "D03C7A3F 00000000"
+      - "003C7A62 00000000"
+
+  - name: "No Strikes - Away Only"
+    author: "InterAct"
+    codes:
+      - "D03C7A3F 00000001"
+      - "003C7A61 00000000"
+
+  - name: "No Strikes - Home Only"
+    author: "InterAct"
+    codes:
+      - "D03C7A3F 00000000"
+      - "003C7A61 00000000"
+
+  - name: "One Chance Mode - Away Only"
+    author: "InterAct"
+    codes:
+      - "D03C7A3F 00000001"
+      - "003C7A62 00000003"
+      - "D03C7A3F 00000001"
+      - "003C7A61 00000002"
+      - "D03C7A3F 00000001"
+      - "003C7A63 00000002"
+
+  - name: "One Chance Mode - Home Only"
+    author: "InterAct"
+    codes:
+      - "D03C7A3F 00000000"
+      - "003C7A62 00000003"
+      - "D03C7A3F 00000000"
+      - "003C7A61 00000002"
+      - "D03C7A3F 00000000"
+      - "003C7A63 00000002"
+
+  - name: "P1 Press L1+R1 For No Outs, No Strikes & 3 Balls"
+    author: "Code Master"
+    codes:
+      - "E0030005 003E988C"
+      - "003C7A61 00000000"
+      - "003C7A62 00000003"
+      - "003C7A63 00000000"
+
+  - name: "P1 Press L2+R2 For 2 Outs, 2 Strikes & No Balls"
+    author: "Code Master"
+    codes:
+      - "E003000A 003E988C"
+      - "003C7A61 00000002"
+      - "003C7A62 00000000"
+      - "003C7A63 00000002"
+
+  - name: "P2 Press L1+R1 For No Outs, No Strikes & 3 Balls"
+    author: "Code Master"
+    codes:
+      - "E0030005 003E989C"
+      - "003C7A61 00000000"
+      - "003C7A62 00000003"
+      - "003C7A63 00000000"
+
+  - name: "P2 Press L2+R2 For 2 Outs, 2 Strikes & No Balls"
+    author: "Code Master"
+    codes:
+      - "E003000A 003E989C"
+      - "003C7A61 00000002"
+      - "003C7A62 00000000"
+      - "003C7A63 00000002"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 003360F7"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "903360F4 0C0CF741"

@@ -1,0 +1,38 @@
+# Umisho cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66864
+
+game: "Umisho"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66864"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90163A20 0C058E30"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "20145224 0C0581F0"
+      - "20145228 01F87821"
+      - "201607C0 240EFFFF"
+      - "201607C4 A1EE0000"
+      - "201607C8 03E00008"
+      - "201607CC 91EE0000"
+
+  - name: "Unlock All Free Talk"
+    author: "punk7890"
+    codes:
+      - "0044B3BE 000000FF"
+
+  - name: "Unlock Special Menu"
+    author: "punk7890"
+    codes:
+      - "21B62268 00000001"

@@ -1,0 +1,64 @@
+# World Soccer_ Winning Eleven 2013 cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM60522
+
+game: "World Soccer_ Winning Eleven 2013"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM60522"
+cheat_type: "Save Editor"
+source: "From Bokosuka Games"
+
+cheats:
+  - name: "Master League - Money Yen 999,999,900,000"
+    notes: "File: BLJM60522ML*\\DATA.BIN"
+    codes:
+      - "001B75FF 000000E8"
+      - "201B7600 D4A38960"
+
+  - name: "Master League - Gp 999,900"
+    notes: "File: BLJM60522ML*\\DATA.BIN"
+    codes:
+      - "201B82C0 000F41DC"
+
+  - name: "Master League - Check Sum Update Crc32"
+    notes: "File: BLJM60522ML*\\DATA.BIN"
+    codes:
+      - "write at 0x8: 00000000"
+      - "set range:0x0,0x891987"
+      - "set [hash]:crc32"
+      - "write at 0x8:[hash]"
+
+  - name: "Become A Legend - Money Yen 999,999,900,000"
+    notes: "File: BLJM60522BL*\\DATA.BIN"
+    codes:
+      - "001B82C7 000000E8"
+      - "201B82C8 D4A38960"
+
+  - name: "Become A Legend - Gp 999,900"
+    notes: "File: BLJM60522BL*\\DATA.BIN"
+    codes:
+      - "201B82C0 000F41DC"
+
+  - name: "Become A Legend - Check Sum Update Crc32"
+    notes: "File: BLJM60522BL*\\DATA.BIN"
+    codes:
+      - "write at 0x8: 00000000"
+      - "set range:0x0,0x891987"
+      - "set [hash]:crc32"
+      - "write at 0x8:[hash]"
+
+  - name: "System Data - Consumption Item All 99"
+    notes: "File: BLJM60522EOPTION/DATA.BIN"
+    codes:
+      - "400123B9 00000063"
+      - "40210002 00000000"
+
+  - name: "System Data - Check Sum Update Crc32"
+    notes: "File: BLJM60522EOPTION/DATA.BIN"
+    codes:
+      - "write at 0x8: 00000000"
+      - "set range:0x0,0x6E3BF"
+      - "set [hash]:crc32"
+      - "write at 0x8:[hash]"

@@ -1,0 +1,231 @@
+# Winback - Covert Operations cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20160
+
+game: "Winback - Covert Operations"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20160"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F010672C 0025442F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master>StalkerX"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0025442F"
+
+  - name: "Always Secret Vs Level"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "002911A4 0000000A"
+
+  - name: "Have No More Than 10% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E1010007 302D3B19"
+      - "002D3B19 00000007"
+
+  - name: "Have No More Than 25% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E1010019 302D3B19"
+      - "002D3B19 00000019"
+
+  - name: "Have No More Than 50% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E1010032 302D3B19"
+      - "002D3B19 00000032"
+
+  - name: "Have No More Than 75% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E101004B 302D3B19"
+      - "002D3B19 0000004B"
+
+  - name: "Infinite C4"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "00347413 00000008"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "002D3B19 00000064"
+
+  - name: "Infinite Rockets"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "0034741B 00000004"
+
+  - name: "No Reload Pistol"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "002D3B15 00000009"
+
+  - name: "No Reload Shotgun"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "002D3B11 00000008"
+
+  - name: "No Reload Silence"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "00347414 00000008"
+
+  - name: "No Reload Smg"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "002D3AFB 0000001E"
+
+  - name: "Map Modifier (VS. Mode)"
+    author: "Code Master>StalkerX"
+    codes:
+      - "002911A4 000000??"
+
+  - name: "Never Reload-Machine Gun P2"
+    author: "Code Master>StalkerX"
+    codes:
+      - "002D6F2B 0000001E"
+
+  - name: "Never Reload-Rocket Launcher P1"
+    author: "Code Master>StalkerX"
+    codes:
+      - "002D3B0F 00000004"
+
+  - name: "Never Reload-Rocket Launcher P2"
+    author: "Code Master>StalkerX"
+    codes:
+      - "002D6F3F 00000004"
+
+  - name: "P1 Press L1+Down For Shotgun Equipped"
+    author: "Code Master>StalkerX"
+    codes:
+      - "D042A3C2 0000FBBF"
+      - "002D3B04 00000002"
+
+  - name: "P1 Press L1+L3 For Handgun W/Silencer Equipped"
+    author: "Code Master>StalkerX"
+    codes:
+      - "D042A3C2 0000FBFD"
+      - "002D3B04 00000014"
+
+  - name: "P1 Press L1+Left For Rocket Launcher Equipped"
+    author: "Code Master>StalkerX"
+    codes:
+      - "D042A3C2 0000FB7F"
+      - "002D3B04 00000003"
+
+  - name: "P1 Press L1+Right For Machine Gun Equipped"
+    author: "Code Master>StalkerX"
+    codes:
+      - "D042A3C2 0000FBDF"
+      - "002D3B04 00000001"
+
+  - name: "P1 Press L1+Up For Handgun Equipped"
+    author: "Code Master>StalkerX"
+    codes:
+      - "D042A3C2 0000FBEF"
+      - "002D3B04 00000000"
+
+  - name: "P2 Press L1+Down For Shotgun Equipped"
+    author: "Code Master>StalkerX"
+    codes:
+      - "D042A4C2 0000FBBF"
+      - "002D6F34 00000002"
+
+  - name: "P2 Press L1+L3 For Handgun W/Silencer Equipped"
+    author: "Code Master>StalkerX"
+    codes:
+      - "D042A4C2 0000FBFD"
+      - "002D6F34 00000014"
+
+  - name: "P2 Press L1+Left For Rocket Launcher Equipped"
+    author: "Code Master>StalkerX"
+    codes:
+      - "D042A4C2 0000FB7F"
+      - "002D6F34 00000003"
+
+  - name: "P2 Press L1+Right For Machine Gun Equipped"
+    author: "Code Master>StalkerX"
+    codes:
+      - "D042A4C2 0000FBDF"
+      - "002D6F34 00000001"
+
+  - name: "P2 Press L1+Up For Handgun Equipped"
+    author: "Code Master>StalkerX"
+    codes:
+      - "D042A4C2 0000FBEF"
+      - "002D6F34 00000000"
+
+  - name: "C4 Detector P1"
+    author: "Code Master>StalkerX"
+    notes: "[Story Mode Only Codes]"
+    codes:
+      - "00347418 00000001"
+
+  - name: "Card Key P1"
+    author: "Code Master>StalkerX"
+    notes: "[Story Mode Only Codes]"
+    codes:
+      - "0034741A 00000001"
+
+  - name: "Flashlight P1"
+    author: "Code Master>StalkerX"
+    notes: "[Story Mode Only Codes]"
+    codes:
+      - "00347415 00000001"
+
+  - name: "Have Handgun W/Silencer P1"
+    author: "Code Master>StalkerX"
+    notes: "[Story Mode Only Codes]"
+    codes:
+      - "00347414 00000063"
+
+  - name: "Infinite C4 P1"
+    author: "Code Master>StalkerX"
+    notes: "[Story Mode Only Codes]"
+    codes:
+      - "00347413 00000063"
+
+  - name: "Key P1"
+    author: "Code Master>StalkerX"
+    notes: "[Story Mode Only Codes]"
+    codes:
+      - "00347419 00000001"
+
+  - name: "Unlock All Characters (VS. Mode)"
+    author: "Code Master>StalkerX"
+    codes:
+      - "203CD10C FFFFFFFF"
+
+  - name: "Weapon Equipped Modifier P1"
+    author: "Code Master>StalkerX"
+    codes:
+      - "002D3B04 000000??"
+
+  - name: "Weapon Equipped Modifier P2"
+    author: "Code Master>StalkerX"
+    codes:
+      - "002D6F34 000000??"

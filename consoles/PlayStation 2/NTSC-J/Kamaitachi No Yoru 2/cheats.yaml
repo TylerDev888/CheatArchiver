@@ -1,0 +1,29 @@
+# Kamaitachi No Yoru 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25135
+
+game: "Kamaitachi No Yoru 2"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25135"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "901CDCA8 0C0736D2"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "901D9024 0C07D19B"
+
+  - name: "Enable Debug Menu"
+    author: "punk7890"
+    codes:
+      - "2017A074 24020001"

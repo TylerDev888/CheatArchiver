@@ -1,0 +1,21 @@
+# Eiyuden Chronicle_ Hundred Heroes cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA29566
+
+game: "Eiyuden Chronicle_ Hundred Heroes"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA29566"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Info In Code Archive"
+    notes: "File: UserData[0-9]+\\data.dat"
+
+  - name: "Saves Are In Jsmin But Can Be Converted To Json"
+    notes: "File: UserData[0-9]+\\data.dat"
+
+  - name: "There Is A Save Editor For This Game"
+    notes: "File: UserData[0-9]+\\data.dat"

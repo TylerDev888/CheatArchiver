@@ -1,0 +1,23 @@
+# PGEN cheat data
+# Console: PlayStation 2
+# Region:  Unknown
+# Serial:  No
+
+game: "PGEN"
+console: "PlayStation 2"
+region: "Unknown"
+serial: "No"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "9020BC60 0C082EFA"
+
+  - name: "PAR RAM Pointer"
+    author: "lee4"
+    codes:
+      - "602430CC 000000??"

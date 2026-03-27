@@ -1,0 +1,43 @@
+# Batman_ Arkham Origins cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01784
+
+game: "Batman_ Arkham Origins"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01784"
+cheat_type: "AP"
+source: ""
+
+cheats:
+  - name: "Decompress Save (required)"
+    notes: "File: SPBATMAN"
+    codes:
+      - "Decompress(*, 15)"
+
+  - name: "9000000 Xp"
+    notes: "File: ~extracted\\*.dat"
+    codes:
+      - "search \"VoiceOfThePeople\""
+      - "write next (73):0x00895440"
+
+  - name: "99 Upgrade Points"
+    notes: "File: ~extracted\\*.dat"
+    codes:
+      - "search \"VoiceOfThePeople\""
+      - "write next (32):0x63"
+
+  - name: "Compress Save (required)"
+    notes: "File: SPBATMAN"
+    codes:
+      - "Compress(*)"
+
+  - name: "Update Crc32big For Spbatman (required)"
+    notes: "File: SPBATMAN  (set range:0x000000,0x047FFB) (write at 0x047FFC:[hash])"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:CRC32Big"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"

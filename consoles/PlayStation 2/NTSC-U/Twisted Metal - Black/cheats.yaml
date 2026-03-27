@@ -1,0 +1,1437 @@
+# Twisted Metal - Black cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97101
+
+game: "Twisted Metal - Black"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97101"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Infinite Special Energy"
+    author: "bungholio"
+    codes:
+      - "204FB4C4 00000000"
+      - "204FB4C8 00000000"
+      - "204FB4CC 00000000"
+      - "204FB4D0 00000000"
+      - "204FB4D4 00000000"
+      - "204FB4D8 00000000"
+
+  - name: "Max Starting Lives In 1 Player Challenge Mode"
+    author: "bungholio"
+    codes:
+      - "10160F44 0000FFFF"
+
+  - name: "Max Starting Lives In 1 Player Story Mode [65535 Lives]"
+    author: "bungholio"
+    codes:
+      - "10160F38 0000FFFF"
+
+  - name: "Max Starting Lives In 2 Player Split Screen Coop"
+    author: "bungholio"
+    codes:
+      - "10160F54 0000FFFF"
+
+  - name: "Player 1 - Die Instantly [Use With Joker]"
+    author: "bungholio"
+    codes:
+      - "00257FC7 000000FF"
+      - "00257FC5 000000FF"
+      - "00257FC6 000000FF"
+
+  - name: "Player 1 - Drive Through Walls Easily, But Can't Use Special Moves"
+    author: "bungholio"
+    codes:
+      - "00257FD0 000000FF"
+
+  - name: "Player 1 - Flying Mode + Perfect Controls, Too!"
+    author: "bungholio"
+    codes:
+      - "10257F32 00000000"
+
+  - name: "Player 1 - Instant Brake Even In Air"
+    author: "bungholio"
+    codes:
+      - "40257F10 00040001"
+      - "00000000 00000000"
+
+  - name: "Player 1 - Turn On All Cheat Codes, Infinite Special Meter"
+    author: "bungholio"
+    codes:
+      - "00257FDC 000000FF"
+
+  - name: "Player 1 Can't Be Frozen"
+    author: "bungholio"
+    codes:
+      - "00257FD3 00000000"
+
+  - name: "Player 1 Joker"
+    author: "bungholio"
+    codes:
+      - "D066F202 0000????"
+
+  - name: "Player 1'S Cloak Is Always Active"
+    author: "bungholio"
+    codes:
+      - "00257FD7 000000FF"
+
+  - name: "Player 1'S Shield Is Always Active"
+    author: "bungholio"
+    codes:
+      - "00257FD4 00000001"
+
+  - name: "Player 2 - Drive Through Walls Easily, But Can't Use Special Moves"
+    author: "bungholio"
+    codes:
+      - "0025ACD0 000000FF"
+
+  - name: "Player 2 - Flying Mode + Perfect Controls, Too!"
+    author: "bungholio"
+    codes:
+      - "1025AC32 00000000"
+
+  - name: "Player 2 - Turn On All Cheat Codes, Infinite Special Meter"
+    author: "bungholio"
+    codes:
+      - "0025ACDC 000000FF"
+
+  - name: "Player 2 Can't Be Frozen"
+    author: "bungholio"
+    codes:
+      - "0025ACD3 00000000"
+
+  - name: "Player 2 Joker"
+    author: "bungholio"
+    codes:
+      - "D066F302 0000????"
+
+  - name: "Player 2'S Cloak Is Always Active"
+    author: "bungholio"
+    codes:
+      - "0025ACD7 000000FF"
+
+  - name: "Player 2'S Shield Is Always Active"
+    author: "bungholio"
+    codes:
+      - "0025ACD4 00000001"
+
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F015E734 000001FD"
+
+  - name: "Code Breaker Version 1-5 Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 002055BF"
+
+  - name: "Code Breaker Version 6+ Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "902055BC 0C087402"
+
+  - name: "Damage Modifier (0000000D)"
+    author: "Code Master"
+    notes: "[Axle Shock Wave Codes]"
+    codes:
+      - "204FB69C ????????"
+
+  - name: "Duration Modifier (00000014)"
+    author: "Code Master"
+    notes: "[Axle Shock Wave Codes]"
+    codes:
+      - "204FB6A4 ????????"
+
+  - name: "Final Height Modifier (41A0000000)"
+    author: "Code Master"
+    notes: "[Axle Shock Wave Codes]"
+    codes:
+      - "204FB6B0 ????????"
+
+  - name: "Final Radius Modifier (42F00000)"
+    author: "Code Master"
+    notes: "[Axle Shock Wave Codes]"
+    codes:
+      - "204FB6B4 ????????"
+
+  - name: "Init Height Modifier (41F00000)"
+    author: "Code Master"
+    notes: "[Axle Shock Wave Codes]"
+    codes:
+      - "204FB6A8 ????????"
+
+  - name: "Init Radius Modifier (40A00000)"
+    author: "Code Master"
+    notes: "[Axle Shock Wave Codes]"
+    codes:
+      - "204FB6AC ????????"
+
+  - name: "Launch Delay Modifier (0000003C)"
+    author: "Code Master"
+    notes: "[Axle Shock Wave Codes]"
+    codes:
+      - "204FABC4 ????????"
+
+  - name: "Range Modifier (43480000)"
+    author: "Code Master"
+    notes: "[Axle Shock Wave Codes]"
+    codes:
+      - "204FB6A0 ????????"
+
+  - name: "Damage Modifier (00000003)"
+    author: "Code Master"
+    notes: "[Boss Ricochet Bomb Codes]"
+    codes:
+      - "204FB748 ????????"
+
+  - name: "Duration Modifier (00000002)"
+    author: "Code Master"
+    notes: "[Boss Ricochet Bomb Codes]"
+    codes:
+      - "204FB74C ????????"
+
+  - name: "Homing Factor Modifier (00000000)"
+    author: "Code Master"
+    notes: "[Boss Ricochet Bomb Codes]"
+    codes:
+      - "204FB754 ????????"
+
+  - name: "Launch Delay Modifier (0000001E)"
+    author: "Code Master"
+    notes: "[Boss Ricochet Bomb Codes]"
+    codes:
+      - "204FAB80 ????????"
+
+  - name: "Miles Per Hour Modifier (43988000)"
+    author: "Code Master"
+    notes: "[Boss Ricochet Bomb Codes]"
+    codes:
+      - "204FB758 ????????"
+
+  - name: "Trans Factor Modifier (3F800000)"
+    author: "Code Master"
+    notes: "[Boss Ricochet Bomb Codes]"
+    codes:
+      - "204FB750 ????????"
+
+  - name: "Opponent 1 Modifier"
+    author: "BigBossman"
+    notes: "[Challenge Mode Codes]"
+    codes:
+      - "00486960 000000??"
+
+  - name: "Opponent 2 Modifier"
+    author: "BigBossman"
+    notes: "[Challenge Mode Codes]"
+    codes:
+      - "00486964 000000??"
+
+  - name: "Opponent 3 Modifier"
+    author: "BigBossman"
+    notes: "[Challenge Mode Codes]"
+    codes:
+      - "00486968 000000??"
+
+  - name: "Opponent 4 Modifier"
+    author: "BigBossman"
+    notes: "[Challenge Mode Codes]"
+    codes:
+      - "0048696C 000000??"
+
+  - name: "Opponent 5 Modifier"
+    author: "BigBossman"
+    notes: "[Challenge Mode Codes]"
+    codes:
+      - "00486970 000000??"
+
+  - name: "Opponent 6 Modifier"
+    author: "BigBossman"
+    notes: "[Challenge Mode Codes]"
+    codes:
+      - "00486974 000000??"
+
+  - name: "Opponent 7 Modifier"
+    author: "BigBossman"
+    notes: "[Challenge Mode Codes]"
+    codes:
+      - "00486978 000000??"
+
+  - name: "Opponent 8 Modifier"
+    author: "BigBossman"
+    notes: "[Challenge Mode Codes]"
+    codes:
+      - "0048697C 000000??"
+
+  - name: "Opponent 9 Modifier"
+    author: "BigBossman"
+    notes: "[Challenge Mode Codes]"
+    codes:
+      - "00486980 000000??"
+
+  - name: "Agent Stone Epilogue"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F58 00000000"
+
+  - name: "Agent Stone Middle"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F20 00000000"
+
+  - name: "Axel Epilogue"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F78 00000000"
+
+  - name: "Billy Ray Epilogue"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F50 00000000"
+
+  - name: "Billy Ray Middle"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F18 00000000"
+
+  - name: "Black Epilogue"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F80 00000000"
+
+  - name: "Bloody Mary Epilogue"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F68 00000000"
+
+  - name: "Bloody Mary Middle"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F30 00000000"
+
+  - name: "Cage Epilogue"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F7C 00000000"
+
+  - name: "Dollface Epilogue"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F6C 00000000"
+
+  - name: "Dollface Middle"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F34 00000000"
+
+  - name: "Enemies Are Sitting Ducks"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "20104818 03E00008"
+      - "2010481C 00000000"
+      - "20105164 00000000"
+      - "2010293C 00000000"
+      - "20102940 00000000"
+
+  - name: "John Doe Epilogue"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F60 00000000"
+
+  - name: "John Doe Middle"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F28 00000000"
+
+  - name: "Most Enemies Don't Move"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "2010293C 00000000"
+      - "20102940 00000000"
+
+  - name: "Mr Grim Epilogue"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F5C 00000000"
+
+  - name: "Mr Grim Middle"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F24 00000000"
+
+  - name: "Mr.Kane & Son Epilogue"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F74 00000000"
+
+  - name: "Mr.Kane & Son Prologue"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F04 00000000"
+
+  - name: "No Face Epilogue"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F64 00000000"
+
+  - name: "No Face Middle"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F2C 00000000"
+
+  - name: "Preacher Epilogue"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F54 00000000"
+
+  - name: "Preacher Middle"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F1C 00000000"
+
+  - name: "Raven Epilogue"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F70 00000000"
+
+  - name: "Raven Middle"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F38 00000000"
+
+  - name: "Sweet Tooth Epilogue"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F84 00000000"
+
+  - name: "Sweet Tooth Middle"
+    author: "Codejunkies"
+    notes: "[Character Movie Unlock Codes]"
+    codes:
+      - "10425F4C 00000000"
+
+  - name: "Axel"
+    author: "Codejunkies"
+    notes: "[Character Unlock Codes]"
+    codes:
+      - "20425E74 00000000"
+
+  - name: "Man Slaughter"
+    author: "Codejunkies"
+    notes: "[Character Unlock Codes]"
+    codes:
+      - "20425E7C 00000000"
+
+  - name: "Minion"
+    author: "Codejunkies"
+    notes: "[Character Unlock Codes]"
+    codes:
+      - "20425E84 00000000"
+
+  - name: "Wart Hog"
+    author: "Codejunkies"
+    notes: "[Character Unlock Codes]"
+    codes:
+      - "20425E78 00000000"
+
+  - name: "Y.Jacket"
+    author: "Codejunkies"
+    notes: "[Character Unlock Codes]"
+    codes:
+      - "20425E70 00000000"
+
+  - name: "Damage Modifier (00000001)"
+    author: "Code Master"
+    notes: "[Copsuv Missile Codes]"
+    codes:
+      - "204FB688 ????????"
+
+  - name: "Duration Modifier (00000005)"
+    author: "Code Master"
+    notes: "[Copsuv Missile Codes]"
+    codes:
+      - "204FB68C ????????"
+
+  - name: "Homing Factor Modifier (3Df5c28f)"
+    author: "Code Master"
+    notes: "[Copsuv Missile Codes]"
+    codes:
+      - "204FB694 ????????"
+
+  - name: "Lock Angle (41A00000)"
+    author: "Code Master"
+    notes: "[Copsuv Missile Codes]"
+    codes:
+      - "204FAC00 ????????"
+
+  - name: "Miles Per Hour Modifier (43Be0000)"
+    author: "Code Master"
+    notes: "[Copsuv Missile Codes]"
+    codes:
+      - "204FB698 ????????"
+
+  - name: "Trans Factor Modifier (3E6147ae)"
+    author: "Code Master"
+    notes: "[Copsuv Missile Codes]"
+    codes:
+      - "204FB690 ????????"
+
+  - name: "Charge Up Modifier (0000003C)"
+    author: "Code Master"
+    notes: "[Drop Mine Codes]"
+    codes:
+      - "204FB5EC ????????"
+
+  - name: "Damage Modifier (0000000B)"
+    author: "Code Master"
+    notes: "[Drop Mine Codes]"
+    codes:
+      - "204FB5E4 ????????"
+
+  - name: "Duration Modifier (0000000F)"
+    author: "Code Master"
+    notes: "[Drop Mine Codes]"
+    codes:
+      - "204FB5E8 ????????"
+
+  - name: "Duration Modifier (00000004)"
+    author: "Code Master"
+    notes: "[Feeze Missile Codes]"
+    codes:
+      - "204FB5D4 ????????"
+
+  - name: "Homing Factor Modifier (3D3851ec)"
+    author: "Code Master"
+    notes: "[Feeze Missile Codes]"
+    codes:
+      - "204FB5DC ????????"
+
+  - name: "Miles Per Hour Modifier (43Aa0000)"
+    author: "Code Master"
+    notes: "[Feeze Missile Codes]"
+    codes:
+      - "204FB5E0 ????????"
+
+  - name: "Trans Factor Modifier (3E19999a)"
+    author: "Code Master"
+    notes: "[Feeze Missile Codes]"
+    codes:
+      - "204FB5D8 ????????"
+
+  - name: "Damage Modifier (00000005)"
+    author: "Code Master"
+    notes: "[Fire Ball Codes]"
+    codes:
+      - "204FB720 ????????"
+
+  - name: "Homing Factor Modifier (3Dcccccd)"
+    author: "Code Master"
+    notes: "[Fire Ball Codes]"
+    codes:
+      - "204FB72C ????????"
+
+  - name: "Miles Per Hour Modifier (43C80000)"
+    author: "Code Master"
+    notes: "[Fire Ball Codes]"
+    codes:
+      - "204FB730 ????????"
+
+  - name: "Trans Factor Modifier (3Dcccccd)"
+    author: "Code Master"
+    notes: "[Fire Ball Codes]"
+    codes:
+      - "204FB728 ????????"
+
+  - name: "Damage Modifier (00000008)"
+    author: "Code Master"
+    notes: "[Fire Missile Codes]"
+    codes:
+      - "204FB4F4 ????????"
+
+  - name: "Home Factor Modifier (3Da3d70a)"
+    author: "Code Master"
+    notes: "[Fire Missile Codes]"
+    codes:
+      - "204FB500 ????????"
+
+  - name: "Homing Radius Modifier (43Fa0000)"
+    author: "Code Master"
+    notes: "[Fire Missile Codes]"
+    codes:
+      - "204FB510 ????????"
+
+  - name: "Lock Angle Modifier (41680000)"
+    author: "Code Master"
+    notes: "[Fire Missile Codes]"
+    codes:
+      - "204FABE8 ????????"
+
+  - name: "Max Homing Change IR Modifier (40733333)"
+    author: "Code Master"
+    notes: "[Fire Missile Codes]"
+    codes:
+      - "204FB50C ????????"
+
+  - name: "Max Homing Change OR Modifier (40066666)"
+    author: "Code Master"
+    notes: "[Fire Missile Codes]"
+    codes:
+      - "204FB508 ????????"
+
+  - name: "Miles Per Hour Modifier (43Ed8000)"
+    author: "Code Master"
+    notes: "[Fire Missile Codes]"
+    codes:
+      - "204FB504 ????????"
+
+  - name: "Chargeup Damage Modifier (0000001E)"
+    author: "Code Master"
+    notes: "[Gas Can Codes]"
+    codes:
+      - "204FB5A0 ????????"
+
+  - name: "Homing Factor Modifier (3Cf5c28f)"
+    author: "Code Master"
+    notes: "[Gas Can Codes]"
+    codes:
+      - "204FB5AC ????????"
+
+  - name: "Launch Delay Modifier (00000028)"
+    author: "Code Master"
+    notes: "[Gas Can Codes]"
+    codes:
+      - "204FAB7C ????????"
+
+  - name: "Miles Per Hour Modifier (44098000)"
+    author: "Code Master"
+    notes: "[Gas Can Codes]"
+    codes:
+      - "204FB5B0 ????????"
+
+  - name: "Range Modifier (42C80000)"
+    author: "Code Master"
+    notes: "[Gas Can Codes]"
+    codes:
+      - "204FB5B4 ????????"
+
+  - name: "Trans Factor Modifier (3Da3d70a)"
+    author: "Code Master"
+    notes: "[Gas Can Codes]"
+    codes:
+      - "204FB5A8 ????????"
+
+  - name: "Damage Modifier (00000017)"
+    author: "Code Master"
+    notes: "[Hal Codes]"
+    codes:
+      - "204FB614 ????????"
+
+  - name: "Homing Radius Modifier (43960000)"
+    author: "Code Master"
+    notes: "[Hal Codes]"
+    codes:
+      - "204FB630 ????????"
+
+  - name: "Lock Angle Modifier (40A00000)"
+    author: "Code Master"
+    notes: "[Hal Codes]"
+    codes:
+      - "204FAC08 ????????"
+
+  - name: "Max Homing Change IR (3Ccccccd)"
+    author: "Code Master"
+    notes: "[Hal Codes]"
+    codes:
+      - "204FB62C ????????"
+
+  - name: "Max Homing Change OR (3Ccccccd)"
+    author: "Code Master"
+    notes: "[Hal Codes]"
+    codes:
+      - "204FB628 ????????"
+
+  - name: "Miles Per Hour Modifier (43870000)"
+    author: "Code Master"
+    notes: "[Hal Codes]"
+    codes:
+      - "204FB624 ????????"
+
+  - name: "Homing Factor Modifier (3E19999a)"
+    author: "Code Master"
+    notes: "[Homing Missile Codes]"
+    codes:
+      - "204FB520 ????????"
+
+  - name: "Lock Angle Modifier (41F40000)"
+    author: "Code Master"
+    notes: "[Homing Missile Codes]"
+    codes:
+      - "204FABEC ????????"
+
+  - name: "Miles Per Hour Modifier (43960000)"
+    author: "Code Master"
+    notes: "[Homing Missile Codes]"
+    codes:
+      - "204FB524 ????????"
+
+  - name: "Freeway-Massive"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "10425E94 00000000"
+
+  - name: "Minion Stadium-Small"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "10425EC4 00000000"
+
+  - name: "Prison Pass-Massive"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "10425E98 00000000"
+
+  - name: "Skyscrapers-Large"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "10425E9C 00000000"
+
+  - name: "Duration Modifier (00000001)"
+    author: "Code Master"
+    notes: "[Machine Gun Codes]"
+    codes:
+      - "204FB4E4 ????????"
+
+  - name: "Launch Delay Modifier (00000006)"
+    author: "Code Master"
+    notes: "[Machine Gun Codes]"
+    codes:
+      - "204FAB44 ????????"
+
+  - name: "Lock Angle Modifier (41700000)"
+    author: "Code Master"
+    notes: "[Machine Gun Codes]"
+    codes:
+      - "204FABE4 ????????"
+
+  - name: "Overheat Modifier (0000000F)"
+    author: "Code Master"
+    notes: "[Machine Gun Codes]"
+    codes:
+      - "204FAB40 ????????"
+
+  - name: "Charger Charge Time Modifier (0000006E)"
+    author: "Code Master"
+    notes: "[Misc. Weapon Codes]"
+    codes:
+      - "204FABBC ????????"
+
+  - name: "Charger Launch Delay Modifier (0000003C)"
+    author: "Code Master"
+    notes: "[Misc. Weapon Codes]"
+    codes:
+      - "204FABB8 ????????"
+
+  - name: "Charger Max Charge Time Modifier (00000090)"
+    author: "Code Master"
+    notes: "[Misc. Weapon Codes]"
+    codes:
+      - "204FABC0 ????????"
+
+  - name: "Charger Missile Lock Angle Modifier (41380000)"
+    author: "Code Master"
+    notes: "[Misc. Weapon Codes]"
+    codes:
+      - "204FABF8 ????????"
+
+  - name: "Derby Arc Dist Modifier (43960000)"
+    author: "Code Master"
+    notes: "[Misc. Weapon Codes]"
+    codes:
+      - "204FABA8 ????????"
+
+  - name: "Derby Arc Duration Modifier (00000096)"
+    author: "Code Master"
+    notes: "[Misc. Weapon Codes]"
+    codes:
+      - "204FABAC ????????"
+
+  - name: "Energy Max Modifier (000003E8)"
+    author: "Code Master"
+    notes: "[Misc. Weapon Codes]"
+    codes:
+      - "204FABE0 ????????"
+
+  - name: "Env Attack Launch Delay Modifier (0000003C)"
+    author: "Code Master"
+    notes: "[Misc. Weapon Codes]"
+    codes:
+      - "204FAB54 ????????"
+
+  - name: "Fast Recharge Max Modifier (00000708)"
+    author: "Code Master"
+    notes: "[Misc. Weapon Codes]"
+    codes:
+      - "204FAB8C ????????"
+
+  - name: "Hearse Shadow Lock Angle Modifier (41B40000)"
+    author: "Code Master"
+    notes: "[Misc. Weapon Codes]"
+    codes:
+      - "204FAC10 ????????"
+
+  - name: "Lightning Damage Modifier (00000011)"
+    author: "Code Master"
+    notes: "[Misc. Weapon Codes]"
+    codes:
+      - "204FAB3C ????????"
+
+  - name: "Medium Recharge Max Modifier (00000A8c)"
+    author: "Code Master"
+    notes: "[Misc. Weapon Codes]"
+    codes:
+      - "204FAB88 ????????"
+
+  - name: "Mr. Grim Special Launch Delay Modifier (0000003C)"
+    author: "Code Master"
+    notes: "[Misc. Weapon Codes]"
+    codes:
+      - "204FABC8 ????????"
+
+  - name: "Semi Launch Delay Modifier (0000000A)"
+    author: "Code Master"
+    notes: "[Misc. Weapon Codes]"
+    codes:
+      - "204FABB0 ????????"
+
+  - name: "Slow Recharge Max Modifier (00000E10)"
+    author: "Code Master"
+    notes: "[Misc. Weapon Codes]"
+    codes:
+      - "204FAB84 ????????"
+
+  - name: "Special Weapon Launch Delay Modifier (0000003C)"
+    author: "Code Master"
+    notes: "[Misc. Weapon Codes]"
+    codes:
+      - "204FAB90 ????????"
+
+  - name: "Sweet Tooth Zoomie Lock Angle Modifier (41B40000)"
+    author: "Code Master"
+    notes: "[Misc. Weapon Codes]"
+    codes:
+      - "204FAC0C ????????"
+
+  - name: "Tankcar Flame Damage Modifier (00000001)"
+    author: "Code Master"
+    notes: "[Misc. Weapon Codes]"
+    codes:
+      - "204FABD8 ????????"
+
+  - name: "Tankcar Flame Duration Modifier (00000002)"
+    author: "Code Master"
+    notes: "[Misc. Weapon Codes]"
+    codes:
+      - "204FABDC ????????"
+
+  - name: "Taxi Spike Lock Angle Modifier (41700000)"
+    author: "Code Master"
+    notes: "[Misc. Weapon Codes]"
+    codes:
+      - "204FABFC ????????"
+
+  - name: "Tow Truck Max Pitch Modifier (3F527c2c)"
+    author: "Code Master"
+    notes: "[Misc. Weapon Codes]"
+    codes:
+      - "204FABD0 ????????"
+
+  - name: "Tow Truck Normal Pitch Modifier (40384E89)"
+    author: "Code Master"
+    notes: "[Misc. Weapon Codes]"
+    codes:
+      - "204FABD4 ????????"
+
+  - name: "Tow Truck Special Launch Delay Modifier (0000003C)"
+    author: "Code Master"
+    notes: "[Misc. Weapon Codes]"
+    codes:
+      - "204FABCC ????????"
+
+  - name: "Extra Ammo"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "101BA0A0 00000001"
+
+  - name: "Idiot AI"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "20104818 03E00008"
+      - "2010481C 00000000"
+
+  - name: "Infinite Ammo"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "201BA050 03E00008"
+      - "201BA054 00000000"
+
+  - name: "Infinite Health (Most Levels)"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "20257F44 447A0000"
+
+  - name: "Infinite Turbo"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "201AAA58 03E00008"
+      - "201AAA5C 00000000"
+
+  - name: "Damage Modifier (00000002)"
+    author: "Code Master"
+    notes: "[Plasma Ball Codes]"
+    codes:
+      - "204FB608 ????????"
+
+  - name: "Front Damage Modifier (00000003)"
+    author: "Code Master"
+    notes: "[Plasma Ball Codes]"
+    codes:
+      - "204FB60C ????????"
+
+  - name: "Side Damage Modifier (00000003)"
+    author: "Code Master"
+    notes: "[Plasma Ball Codes]"
+    codes:
+      - "204FB610 ????????"
+
+  - name: "Damage Modifier (00000014)"
+    author: "Code Master"
+    notes: "[Power Missile Codes]"
+    codes:
+      - "204FB528 ????????"
+
+  - name: "Damage Modifier (00000007)"
+    author: "Code Master"
+    notes: "[Reticle Codes]"
+    codes:
+      - "204FB538 ????????"
+
+  - name: "Duration Modifier (00000007)"
+    author: "Code Master"
+    notes: "[Reticle Codes]"
+    codes:
+      - "204FB53C ????????"
+
+  - name: "Erraticity Modifier (40000000)"
+    author: "Code Master"
+    notes: "[Reticle Codes]"
+    codes:
+      - "204FB548 ????????"
+
+  - name: "Lock Angle Modifier (418C0000)"
+    author: "Code Master"
+    notes: "[Reticle Codes]"
+    codes:
+      - "204FABF0 ????????"
+
+  - name: "Miles Per Hour Modifier (437A0000)"
+    author: "Code Master"
+    notes: "[Reticle Codes]"
+    codes:
+      - "204FB54C ????????"
+
+  - name: "Bankshot Damage Modifier (0000001E)"
+    author: "Code Master"
+    notes: "[Richochet Bomb Codes]"
+    codes:
+      - "204FB5BC ????????"
+
+  - name: "Damage Modifier (00000009)"
+    author: "Code Master"
+    notes: "[Richochet Bomb Codes]"
+    codes:
+      - "204FB5B8 ????????"
+
+  - name: "Trans Factor Modifier (3E3851ec)"
+    author: "Code Master"
+    notes: "[Richochet Bomb Codes]"
+    codes:
+      - "204FB5C4 ????????"
+
+  - name: "Damage Modifier (0000000E)"
+    author: "Code Master"
+    notes: "[Rock Codes]"
+    codes:
+      - "204FB6D0 ????????"
+
+  - name: "Delta Z Modifier (3E19999a)"
+    author: "Code Master"
+    notes: "[Rock Codes]"
+    codes:
+      - "204FB6E4 ????????"
+
+  - name: "Duration Modifier (00000008)"
+    author: "Code Master"
+    notes: "[Rock Codes]"
+    codes:
+      - "204FB6D4 ????????"
+
+  - name: "Miles Per Hour Modifier (43E10000)"
+    author: "Code Master"
+    notes: "[Rock Codes]"
+    codes:
+      - "204FB6E0 ????????"
+
+  - name: "Damage Modifier (0000000C)"
+    author: "Code Master"
+    notes: "[Rotor Blade Codes]"
+    codes:
+      - "204FB734 ????????"
+
+  - name: "Duration Modifier (00000003)"
+    author: "Code Master"
+    notes: "[Rotor Blade Codes]"
+    codes:
+      - "204FB738 ????????"
+
+  - name: "Homing Factor Modifier (3D23d70a)"
+    author: "Code Master"
+    notes: "[Rotor Blade Codes]"
+    codes:
+      - "204FB740 ????????"
+
+  - name: "Bulls Eye Damage Modifier (00000004)"
+    author: "Code Master"
+    notes: "[Sat Codes]"
+    codes:
+      - "204FB560 ????????"
+
+  - name: "Green Damage Modifier (00000007)"
+    author: "Code Master"
+    notes: "[Sat Codes]"
+    codes:
+      - "204FB550 ????????"
+
+  - name: "Homing Factor (3E19999a)"
+    author: "Code Master"
+    notes: "[Sat Codes]"
+    codes:
+      - "204FB570 ????????"
+
+  - name: "Miles Per Hour Modifier (41200000)"
+    author: "Code Master"
+    notes: "[Sat Codes]"
+    codes:
+      - "204FB574 ????????"
+
+  - name: "Red Bulls Eye Damage Modifier (00000008)"
+    author: "Code Master"
+    notes: "[Sat Codes]"
+    codes:
+      - "204FB564 ????????"
+
+  - name: "Red Damage Modifier (0000000B)"
+    author: "Code Master"
+    notes: "[Sat Codes]"
+    codes:
+      - "204FB558 ????????"
+
+  - name: "Red No Tap Damage Modifier (0000000F)"
+    author: "Code Master"
+    notes: "[Sat Codes]"
+    codes:
+      - "204FB55C ????????"
+
+  - name: "Trans Factor (3Dcccccd)"
+    author: "Code Master"
+    notes: "[Sat Codes]"
+    codes:
+      - "204FB56C ????????"
+
+  - name: "Yellow Damage Modifier (00000009)"
+    author: "Code Master"
+    notes: "[Sat Codes]"
+    codes:
+      - "204FB554 ????????"
+
+  - name: "Damage Modifier (00000006)"
+    author: "Code Master"
+    notes: "[Saw Blade Codes]"
+    codes:
+      - "204FB650 ????????"
+
+  - name: "Erraticity Modifier (40400000)"
+    author: "Code Master"
+    notes: "[Saw Blade Codes]"
+    codes:
+      - "204FB660 ????????"
+
+  - name: "Homing Factor Modifier (3E99999a)"
+    author: "Code Master"
+    notes: "[Saw Blade Codes]"
+    codes:
+      - "204FB65C ????????"
+
+  - name: "Max Homing Change IR Modifier (3Ccccccd)"
+    author: "Code Master"
+    notes: "[Saw Blade Codes]"
+    codes:
+      - "204FB66C ????????"
+
+  - name: "Max Homing Change OR Modifier (3Ccccccd)"
+    author: "Code Master"
+    notes: "[Saw Blade Codes]"
+    codes:
+      - "204FB668 ????????"
+
+  - name: "Miles Per Hour Modifier (43Af0000)"
+    author: "Code Master"
+    notes: "[Saw Blade Codes]"
+    codes:
+      - "204FB664 ????????"
+
+  - name: "Trans Factor Modifier (3F7d70a4)"
+    author: "Code Master"
+    notes: "[Saw Blade Codes]"
+    codes:
+      - "204FB658 ????????"
+
+  - name: "Damage Modifier (0000002A)"
+    author: "Code Master"
+    notes: "[Scyhte Codes]"
+    codes:
+      - "204FB6E8 ????????"
+
+  - name: "Damage Modifier (00000019)"
+    author: "Code Master"
+    notes: "[Shadow Codes]"
+    codes:
+      - "204FB6FC ????????"
+
+  - name: "Max Homing Change OR Modifier (3B83126f)"
+    author: "Code Master"
+    notes: "[Shadow Codes]"
+    codes:
+      - "204FB714 ????????"
+
+  - name: "Range Modifier (428C0000)"
+    author: "Code Master"
+    notes: "[Shadow Codes]"
+    codes:
+      - "204FB710 ????????"
+
+  - name: "Attack Launch Delay Modifier (0000003C)"
+    author: "Code Master"
+    notes: "[Skill Codes]"
+    codes:
+      - "204FAB60 ????????"
+
+  - name: "Charge Max Charge Up Modifier (0000000A)"
+    author: "Code Master"
+    notes: "[Skill Codes]"
+    codes:
+      - "204FAB64 ????????"
+
+  - name: "Inside Reticle Time Modifier (00000004)"
+    author: "Code Master"
+    notes: "[Skill Codes]"
+    codes:
+      - "204FAB6C ????????"
+
+  - name: "Reticle Time Modifier (00000005)"
+    author: "Code Master"
+    notes: "[Skill Codes]"
+    codes:
+      - "204FAB68 ????????"
+
+  - name: "Satellite Distance Modifier (42C80000)"
+    author: "Code Master"
+    notes: "[Skill Codes]"
+    codes:
+      - "204FAB70 ????????"
+
+  - name: "Zoomie Count Modifier (0000000A)"
+    author: "Code Master"
+    notes: "[Skill Codes]"
+    codes:
+      - "204FAB74 ????????"
+
+  - name: "Zoomie Launch Delay Modifier (00000007)"
+    author: "Code Master"
+    notes: "[Skill Codes]"
+    codes:
+      - "204FAB78 ????????"
+
+  - name: "Damage Modifier (0000001E)"
+    author: "Code Master"
+    notes: "[Spectre Missile Codes]"
+    codes:
+      - "204FB5F0 ????????"
+
+  - name: "Duration Modifier (0000000A)"
+    author: "Code Master"
+    notes: "[Spectre Missile Codes]"
+    codes:
+      - "204FB5F4 ????????"
+
+  - name: "Homing Factor Modifier (3Ecccccd)"
+    author: "Code Master"
+    notes: "[Spectre Missile Codes]"
+    codes:
+      - "204FB5FC ????????"
+
+  - name: "Lock Angle Modifier (41380000)"
+    author: "Code Master"
+    notes: "[Spectre Missile Codes]"
+    codes:
+      - "204FAC04 ????????"
+
+  - name: "Miles Per Hour Modifier (435C0000)"
+    author: "Code Master"
+    notes: "[Spectre Missile Codes]"
+    codes:
+      - "204FB604 ????????"
+
+  - name: "Ram Damage Modifier (00000014)"
+    author: "Code Master"
+    notes: "[Spike Codes]"
+    codes:
+      - "204FB638 ????????"
+
+  - name: "Turbo Damage Modifier (0000001B)"
+    author: "Code Master"
+    notes: "[Spike Codes]"
+    codes:
+      - "204FB63C ????????"
+
+  - name: "All Characters"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "40425E70 00060001"
+      - "00000000 00000000"
+
+  - name: "Miles Per Hour Modifier (442F0000)"
+    author: "Code Master"
+    notes: "[Wrecking Ball Codes]"
+    codes:
+      - "204FB6C8 ????????"
+
+  - name: "Range Modifier (42F00000)"
+    author: "Code Master"
+    notes: "[Wrecking Ball Codes]"
+    codes:
+      - "204FB6CC ????????"
+
+  - name: "Trans Factor Modifier (3F000000)"
+    author: "Code Master"
+    notes: "[Wrecking Ball Codes]"
+    codes:
+      - "204FB6C0 ????????"
+
+  - name: "Homing Factor Modifier (3Db43958)"
+    author: "Code Master"
+    notes: "[Zoomie Codes]"
+    codes:
+      - "204FB588 ????????"
+
+  - name: "Lock Angle Modifier (41200000)"
+    author: "Code Master"
+    notes: "[Zoomie Codes]"
+    codes:
+      - "204FABF4 ????????"
+
+  - name: "All Special Weapons Don't Deplete When Used (All Players) [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D01BA070 8E032140"
+      - "201BA070 00000000"
+      - "D01BA0A8 AC620000"
+      - "201BA0A8 00000000"
+
+  - name: "Cloaking Ability Doesn't Decrease Ability Meter [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D01AFAB4 AE222214"
+      - "201AFAB4 00000000"
+
+  - name: "Drop Mine Ability Doesn't Decrease Ability Meter [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D01AF934 AE222214"
+      - "201AF934 00000000"
+
+  - name: "Drop Powered-Up Mine Ability Doesn't Decrease Ability Meter [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D01AF8D8 AE232214"
+      - "201AF8D8 00000000"
+
+  - name: "Freeze Projectile Ability Doesn't Decrease Ability Meter [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D01AF81C AE222214"
+      - "201AF81C 00000000"
+
+  - name: "Machine Gun Upgrade Ammo Never Depletes (All Players) [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D01B7968 ACA222C4"
+      - "201B7968 00000000"
+
+  - name: "Machine Guns Never Overheat (All Players) [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D014B864 AE2200E0"
+      - "2014B864 00000000"
+
+  - name: "Shield Ability Doesn't Decrease Ability Meter [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D01AFA38 AE232214"
+      - "201AFA38 00000000"
+
+  - name: "Vehicle Jump Ability Doesn't Decrease Ability Meter [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D0156AB0 AE022214"
+      - "20156AB0 00000000"
+
+  - name: "Always Raining"
+    author: "InterAct"
+    codes:
+      - "204FAB34 00001000"
+
+  - name: "Extra Health (Most Levels)"
+    author: "InterAct"
+    codes:
+      - "10257F46 00004400"
+
+  - name: "God Mode Always On"
+    author: "Josh_7774"
+    codes:
+      - "00257FD9 00000001"
+
+  - name: "Gun Never Overheats"
+    author: "InterAct"
+    codes:
+      - "204FAB40 00000000"
+
+  - name: "Invulnerability Always On"
+    author: "Josh_7774"
+    codes:
+      - "00257FDA 00000001"
+
+  - name: "Killer Weapons Always On"
+    author: "Josh_7774"
+    codes:
+      - "00257FDD 00000001"
+
+  - name: "Mega Machine Guns"
+    author: "InterAct"
+    codes:
+      - "104FAB44 00000000"
+
+  - name: "Never Raining"
+    author: "InterAct"
+    codes:
+      - "204FAB34 00000000"
+
+  - name: "Player 1 - Flying Mode (L1 + R1 + Circle + Right To Turn On, L1 + R1 + Circle + Left To Turn Off)"
+    author: "Josh_7774"
+    codes:
+      - "D066F202 0000D3DF"
+      - "10257F32 00000000"
+      - "D066F202 0000D37F"
+      - "10257F32 00003F81"
+
+  - name: "Player 1 - No Clipping Mode (L1 + R1 + X + Right To Turn On, L1 + R1 + X + Left To Turn Off)"
+    author: "Josh_7774"
+    codes:
+      - "D066F202 0000B3DF"
+      - "10259594 00000000"
+      - "D066F202 0000B37F"
+      - "10259594 00000001"
+
+  - name: "Player 1 Modifier"
+    author: "BigBossman"
+    codes:
+      - "10425A64 0000????"
+
+  - name: "Rapid Fire Missile"
+    author: "InterAct"
+    codes:
+      - "104FAB48 00000000"
+
+  - name: "Rapid Gas Can"
+    author: "InterAct"
+    codes:
+      - "104FAB7C 00000000"
+
+  - name: "Rapid Homing Missile"
+    author: "InterAct"
+    codes:
+      - "104FAB4C 00000000"
+
+  - name: "Rapid Pow Missile"
+    author: "InterAct"
+    codes:
+      - "104FAB50 00000000"
+
+  - name: "Rapid Rico"
+    author: "InterAct"
+    codes:
+      - "104FAB80 00000000"
+
+  - name: "Stupid AI"
+    author: "InterAct"
+    codes:
+      - "2010293C 00000000"

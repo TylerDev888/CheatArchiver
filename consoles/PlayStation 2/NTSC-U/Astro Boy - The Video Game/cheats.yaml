@@ -1,0 +1,34 @@
+# Astro Boy - The Video Game cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21895
+
+game: "Astro Boy - The Video Game"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21895"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "901D6758 0C07597E"
+
+  - name: "Have 99 Supers"
+    author: "lee4"
+    codes:
+      - "01C89DA8 00000063"
+
+  - name: "Pal2ntsc"
+    author: "lee4"
+    codes:
+      - "201CDB38 24120002"
+
+  - name: "Unlock All Cheats"
+    author: "lee4"
+    codes:
+      - "00368E23 000000FF"
+      - "00368E24 000000FF"

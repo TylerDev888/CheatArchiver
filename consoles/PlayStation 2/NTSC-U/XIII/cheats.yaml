@@ -1,0 +1,170 @@
+# XIII cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20677
+
+game: "XIII"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20677"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "40114E98 017D0001"
+      - "00000000 00000000"
+      - "1011548C 00000000"
+      - "0011548E 00000000"
+      - "20114E98 03E00008"
+      - "4011B980 00060001"
+      - "00000000 00000000"
+      - "1011B998 00000000"
+      - "0011B99A 00000000"
+      - "2011B98C 0C0453A8"
+      - "20114EA0 3C03200F"
+      - "20114EA4 8C65FFF8"
+      - "20114EA8 24040079"
+      - "20114EAC 24030074"
+      - "20114EB0 0000000C"
+      - "20114EB4 3C030012"
+      - "20114EB8 03E00008"
+      - "20114EBC AC60B98C"
+      - "20115484 0804B906"
+      - "20125154 0C0453B0"
+      - "20114EC0 00000000"
+      - "20363BA0 240203E7"
+      - "20363BA4 ACA20278"
+      - "20363BA8 03E00008"
+      - "20260DF8 240101E2"
+      - "20260E00 AC6102B4"
+
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "90115AB0 0C045654"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master>tab"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00125157"
+
+  - name: "1 Hit Kill"
+    author: "Azagthoth"
+    codes:
+      - "201EDCCC AE2002B4"
+
+  - name: "Extra Ammo"
+    author: "Code Master>tab"
+    codes:
+      - "201552D8 00831821"
+
+  - name: "Infinite Ammo"
+    author: "Code Master>tab"
+    codes:
+      - "201552DC 00000000"
+
+  - name: "Infinite Health"
+    author: "Code Master>tab"
+    codes:
+      - "200C0220 24010096"
+      - "200C0224 AC6102B4"
+      - "200C0228 03E00008"
+      - "200C022C E68002BC"
+      - "20260DD8 0C030088"
+
+  - name: "25%"
+    author: "MadCatz"
+    notes: "[Limited Health]"
+    codes:
+      - "200C2004 24020026"
+
+  - name: "50%"
+    author: "MadCatz"
+    notes: "[Limited Health]"
+    codes:
+      - "200C2004 2402004B"
+
+  - name: "75%"
+    author: "MadCatz"
+    notes: "[Limited Health]"
+    codes:
+      - "200C2004 24020071"
+
+  - name: "Enable"
+    author: "MadCatz"
+    notes: "[Limited Health]"
+    codes:
+      - "200C2000 24020096"
+      - "200C2008 4482F800"
+      - "200C200C 461F0029"
+      - "200C2010 E46002B4"
+      - "200C2014 03E00008"
+      - "200C2018 8C620024"
+      - "20260DE0 0C030800"
+
+  - name: "Unlimited Ammo"
+    author: "MadCatz"
+    notes: "[Limited Health]"
+    codes:
+      - "200C2020 240303E7"
+      - "200C2024 03E00008"
+      - "200C2028 AC830278"
+      - "200C202C 242007B4"
+      - "20363B60 0C030808"
+
+  - name: "Max/Infinite Ammo"
+    author: "Azagthoth"
+    codes:
+      - "20363B60 24030063"
+      - "20363B64 AC830278"
+
+  - name: "Never Reload"
+    author: "Code Master>tab"
+    codes:
+      - "20153AB0 00000000"
+
+  - name: "Unlimited Health"
+    author: "MadCatz"
+    codes:
+      - "200C2000 240205DB"
+      - "200C2004 AC6202B4"
+      - "200C2008 03E00008"
+      - "200C200C 8C620024"
+      - "20260DE0 0C030800"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master>tab"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00125157"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master>tab"
+    notes: "[Masters]"
+    codes:
+      - "90125154 0C04B906"
+
+  - name: "Max Infinite Ammo"
+    author: "Code Master>tab"
+    notes: "[Codes]"
+    codes:
+      - "20363B60 24030063"
+      - "20363B64 AC830278"
+
+  - name: "P1 Press L1 For Moon Jump"
+    author: "Code Master>tab"
+    notes: "[Codes]"
+    codes:
+      - "200C0230 3C01437A"
+      - "200C0234 03E00008"
+      - "200C0238 AEA100EC"
+      - "D0444082 0000FBFF"
+      - "20240398 0C03008C"
+      - "D0444082 0010FBFF"
+      - "20240398 E6A400EC"

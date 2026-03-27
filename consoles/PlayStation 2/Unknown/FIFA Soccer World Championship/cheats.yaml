@@ -1,0 +1,58 @@
+# FIFA Soccer World Championship cheat data
+# Console: PlayStation 2
+# Region:  Unknown
+# Serial:  No
+
+game: "FIFA Soccer World Championship"
+console: "PlayStation 2"
+region: "Unknown"
+serial: "No"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F023EFE0 0000000E"
+
+  - name: "Away Team Score 0"
+    author: "InterAct"
+    codes:
+      - "102D371C 00000000"
+
+  - name: "Away Team Score 15"
+    author: "InterAct"
+    codes:
+      - "102D371C 0000000F"
+
+  - name: "Bottom Team Scores 0"
+    author: "InterAct"
+    codes:
+      - "102D379C 00000000"
+
+  - name: "Bottom Team Scores 9"
+    author: "InterAct"
+    codes:
+      - "102D379C 00000009"
+
+  - name: "Home Team Score 0"
+    author: "InterAct"
+    codes:
+      - "102D3718 00000000"
+
+  - name: "Home Team Score 15"
+    author: "InterAct"
+    codes:
+      - "102D3718 0000000F"
+
+  - name: "Top Team Scores 0"
+    author: "InterAct"
+    codes:
+      - "102D3798 00000000"
+
+  - name: "Top Team Scores 9"
+    author: "InterAct"
+    codes:
+      - "102D3798 00000009"

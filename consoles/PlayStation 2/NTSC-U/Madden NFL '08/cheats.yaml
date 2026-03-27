@@ -1,0 +1,28 @@
+# Madden NFL '08 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21638
+
+game: "Madden NFL '08"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21638"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Cannot Be Tackled : Hold R1"
+    author: "nolberto82"
+    codes:
+      - "2049E4C0 27BDFF90"
+      - "204E46A4 104000A3"
+      - "D0958D11 02310000"
+      - "2049E4C0 03E00008"
+      - "204E46A4 100000A3"
+
+  - name: "Change Possession After Play : Hold L1"
+    author: "nolberto82"
+    codes:
+      - "205BD34C 10400020"
+      - "D0958D10 01310000"
+      - "205BD34C 100000CB"

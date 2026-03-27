@@ -1,0 +1,371 @@
+# Madden NFL 2010 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21893
+
+game: "Madden NFL 2010"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21893"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90843718 0C210D6E"
+
+  - name: "Player 1 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "D09B0802 0000[Joker:PS2]"
+
+  - name: "Home Team Score Mod"
+    author: "Azagthoth"
+    codes:
+      - "10A0908C 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Home Team Start With Mod"
+    author: "Azagthoth"
+    codes:
+      - "D0A0908C 00000000"
+      - "10A0908C 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Away Team Score Mod"
+    author: "Azagthoth"
+    codes:
+      - "10A0908E 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Away Team Start With Mod"
+    author: "Azagthoth"
+    codes:
+      - "D0A0908E 00000000"
+      - "10A0908E 0000[Amount:2710:HEX:BIG]"
+
+  - name: "P1 Press L1+l2 For More Time"
+    author: "Azagthoth"
+    codes:
+      - "D09B0802 0000FAFF"
+      - "20A074E4 0000012C"
+
+  - name: "P1 Press R1+r2 To End Quarter"
+    author: "Azagthoth"
+    codes:
+      - "D09B0802 0000F5FF"
+      - "20A074E4 00000001"
+
+  - name: "P1 Press L1+select For Low Play Choose Time"
+    author: "Azagthoth"
+    codes:
+      - "D09B0802 0000FBFE"
+      - "20A074CC 00000001"
+
+  - name: "P1 Press R1+select More Play Choose Time"
+    author: "Azagthoth"
+    codes:
+      - "D09B0802 0000F7FE"
+      - "20A074CC 00000028"
+
+  - name: "P1 Press L2+select For 1st Down"
+    author: "Azagthoth"
+    codes:
+      - "D09B0802 0000FEFE"
+      - "10A09080 00000001"
+
+  - name: "P1 Press R2+select For 4th Down"
+    author: "Azagthoth"
+    codes:
+      - "D0958D02 0000FDFE"
+      - "10A09080 00000004"
+
+  - name: "Quarter Mod"
+    author: "Azagthoth"
+    codes:
+      - "10A074C0 000000[Amount:04:HEX:BIG]"
+
+  - name: "Infinite Challenges(home Team)"
+    author: "Azagthoth"
+    codes:
+      - "205585F4 00000000"
+
+  - name: "Infinite Challenges(away Team)"
+    author: "Azagthoth"
+    codes:
+      - "2057EE04 00000000"
+
+  - name: "Infinite Timeouts(home Team)"
+    author: "Azagthoth"
+    codes:
+      - "10A0919C 00000003"
+
+  - name: "Infinite Timeouts(away Team)"
+    author: "Azagthoth"
+    codes:
+      - "10A091A0 00000003"
+
+  - name: "Max Drill Points"
+    author: "Azagthoth"
+    notes: "[Camp Codes]"
+    codes:
+      - "2099BB4C 0098967F"
+
+  - name: "Point Gain Mod"
+    author: "Azagthoth"
+    notes: "[Camp Codes]"
+    codes:
+      - "20456F44 2004[Amount:2710:HEX:BIG]"
+
+  - name: "Max Time"
+    author: "Azagthoth"
+    notes: "[Camp Codes]"
+    codes:
+      - "2099BAF0 42C80000"
+
+  - name: "Alt.infinite Time"
+    author: "Azagthoth"
+    notes: "[Camp Codes]"
+    codes:
+      - "20457900 00000000"
+
+  - name: "Infinite Attribute Points Available"
+    author: "Azagthoth"
+    notes: "[Camp Codes]"
+    codes:
+      - "2095F17C 0000270F"
+
+  - name: "Max Power"
+    author: "Azagthoth"
+    notes: "[40 Yard Dash]"
+    codes:
+      - "2099B454 3FC00000"
+
+  - name: "Alt.max Power (keep Pushing X)"
+    author: "Azagthoth"
+    notes: "[40 Yard Dash]"
+    codes:
+      - "20437D84 AC610004"
+
+  - name: "Alt.max Power (press X Once, Your Player Will Automatically Run)"
+    author: "Azagthoth"
+    notes: "[40 Yard Dash]"
+    codes:
+      - "20438134 AE010004"
+      - "20438138 3C013FC0"
+
+  - name: "No Salary Cap (all Teams)"
+    author: "Azagthoth"
+    notes: "[Franchise Mode]"
+    codes:
+      - "21E40C20 00000000"
+
+  - name: "Bears"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21E9F25C [CAPS]"
+
+  - name: "Bengels"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21E9F310 [CAPS]"
+
+  - name: "Bills"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21E9F3C4 [CAPS]"
+
+  - name: "Broncos"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21E9F478 [CAPS]"
+
+  - name: "Browns"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21E9F52C [CAPS]"
+
+  - name: "Buccaneers"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21E9F5E0 [CAPS]"
+
+  - name: "Cardinals"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21E9F694 [CAPS]"
+
+  - name: "Chargers"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21E9F748 [CAPS]"
+
+  - name: "Chiefs"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21E9F748 [CAPS]"
+
+  - name: "Colts"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21E9F8B0 [CAPS]"
+
+  - name: "Cowboys"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21E9F964 [CAPS]"
+
+  - name: "Dolphins"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21E9FA18 [CAPS]"
+
+  - name: "Eagles"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21E9FACC [CAPS]"
+
+  - name: "Falcons"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21E9FB80 [CAPS]"
+
+  - name: "49ers"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21E9FC34 [CAPS]"
+
+  - name: "Giants"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21E9FCE8 [CAPS]"
+
+  - name: "Jaguars"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21E9FD9C [CAPS]"
+
+  - name: "Jets"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21E9FE50 [CAPS]"
+
+  - name: "Lions"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21E9FF04 [CAPS]"
+
+  - name: "Packers"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21E9FFB8 [CAPS]"
+
+  - name: "Panthers"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21EA006C [CAPS]"
+
+  - name: "Patriots"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21EA0120 [CAPS]"
+
+  - name: "Raiders"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21EA01D4 [CAPS]"
+
+  - name: "Rams"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21EA0288 [CAPS]"
+
+  - name: "Ravens"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21EA033C [CAPS]"
+
+  - name: "Redskins"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21EA03F0 [CAPS]"
+
+  - name: "Saints"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21EA04A4 [CAPS]"
+
+  - name: "Seahawks"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21EA0558 [CAPS]"
+
+  - name: "Steelers"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21EA060C [CAPS]"
+
+  - name: "Texans"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21EA06C0 [CAPS]"
+
+  - name: "Titans"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21EA0774 [CAPS]"
+
+  - name: "Vikings"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21EA0828 [CAPS]"
+
+  - name: "Created Team"
+    author: "Azagthoth"
+    notes: "[Team Has Low Salary Codes:{Default Values (use \"caps\" Default Values To Keep Your Salary From Going Down)}]"
+    codes:
+      - "21EA08DC [CAPS]"
+
+  - name: "Max Tokens"
+    author: "Azagthoth"
+    notes: "[Profile Codes]"
+    codes:
+      - "21DDDE98 05F5E0FF"
+
+  - name: "Have All Cards"
+    author: "Azagthoth"
+    notes: "[Profile Codes]  21DDDEC4 ????0001"
+    codes:
+      - "21DDDF84 00000???"
+      - "00FFE01F 00000010"

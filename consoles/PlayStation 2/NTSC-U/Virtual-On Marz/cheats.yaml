@@ -1,0 +1,147 @@
+# Virtual-On Marz cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20674
+
+game: "Virtual-On Marz"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20674"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00118227"
+
+  - name: "Max Health P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20A3B024 0000270F"
+
+  - name: "Infinite Health P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20A3B020 0000270F"
+
+  - name: "No Health P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20A3B020 00000000"
+
+  - name: "Infinite Repair Discs P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "00CEFA8E 00000005"
+
+  - name: "Infinite Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "206DB664 00000000"
+
+  - name: "Enable More Virtuaroids"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20CEA358 00101410"
+
+  - name: "Infinite Repair Discs (All Players)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20227638 00000000"
+
+  - name: "Extra Repair Discs (All Players)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10227634 00000001"
+
+  - name: "Tap Select For Instant Death (Enemy)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 3C0100A3"
+      - "200C0224 3421AE20"
+      - "200C0228 54300001"
+      - "200C022C AE000200"
+      - "200C0230 03E00008"
+      - "200C0234 00000000"
+      - "D0AC6A82 0000FFFE"
+      - "2013F788 0C030088"
+      - "D0AC6A82 0010FFFE"
+      - "2013F788 00000000"
+
+  - name: "Max Mission Bonus"
+    author: "Code Master"
+    notes: "[Level Completion Stat Codes]"
+    codes:
+      - "20CEFB70 0098967F"
+
+  - name: "Max Number Of VR Destroyed"
+    author: "Code Master"
+    notes: "[Level Completion Stat Codes]"
+    codes:
+      - "20CEFB74 0098967F"
+
+  - name: "Max Number Of Extra Enemies Destroyed"
+    author: "Code Master"
+    notes: "[Level Completion Stat Codes]"
+    codes:
+      - "20CEFB78 0098967F"
+
+  - name: "Max Battle Skill Points"
+    author: "Code Master"
+    notes: "[Level Completion Stat Codes]"
+    codes:
+      - "20CEFB7C 0098967F"
+
+  - name: "Max Life"
+    author: "Code Master"
+    notes: "[Level Completion Stat Codes]"
+    codes:
+      - "20CEFB80 0098967F"
+
+  - name: "No Repair Disk(S) Used"
+    author: "Code Master"
+    notes: "[Level Completion Stat Codes]"
+    codes:
+      - "20CEFB84 00000000"
+
+  - name: "Max Time"
+    author: "Code Master"
+    notes: "[Level Completion Stat Codes]"
+    codes:
+      - "20CEFB88 0098967F"
+
+  - name: "Max Difficulty"
+    author: "Code Master"
+    notes: "[Level Completion Stat Codes]"
+    codes:
+      - "20CEFB8C 0098967F"
+
+  - name: "Max Total Score"
+    author: "Code Master"
+    notes: "[Level Completion Stat Codes]"
+    codes:
+      - "20CEFB8C 05F5E0FF"
+
+  - name: "Always 1 VR Destroyed"
+    author: "Code Master"
+    notes: "[Level Completion Stat Codes]"
+    codes:
+      - "20CEFB98 00000001"
+
+  - name: "Always 1 Extra Enemy Destroyed"
+    author: "Code Master"
+    notes: "[Level Completion Stat Codes]"
+    codes:
+      - "20CEFB9C 00000001"

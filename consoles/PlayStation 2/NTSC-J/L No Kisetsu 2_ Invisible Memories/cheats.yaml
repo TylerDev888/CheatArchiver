@@ -1,0 +1,23 @@
+# L No Kisetsu 2_ Invisible Memories cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-55009
+
+game: "L No Kisetsu 2_ Invisible Memories"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-55009"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010FD98 0C043F0E"
+
+  - name: "Replace New Game With Debug Menu"
+    author: "punk7890"
+    codes:
+      - "10DB6C14 00000006"

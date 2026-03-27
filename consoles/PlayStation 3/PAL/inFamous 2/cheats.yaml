@@ -1,0 +1,17 @@
+# inFamous 2 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BCES01143
+
+game: "inFamous 2"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BCES01143"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Xp"
+    notes: "File: BCES01143_INFAMOUS2_*\\STATE"
+    codes:
+      - "20000014 05F5E0FF"

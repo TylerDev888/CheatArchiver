@@ -1,0 +1,83 @@
+# NBA Jam 2004 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51972
+
+game: "NBA Jam 2004"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51972"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F03C9DBC 003C9DBF"
+
+  - name: "Giant Ball"
+    author: "Codejunkies"
+    codes:
+      - "2013758C 3C014080"
+
+  - name: "Infinite Turbo"
+    author: "Codejunkies"
+    codes:
+      - "20172E24 00000000"
+
+  - name: "Left Player 0 Pts"
+    author: "Codejunkies"
+    codes:
+      - "200FFF04 0240202D"
+      - "200FFF08 A0600024"
+      - "200FFF0C 08087148"
+      - "2021C51C 0803FFC0"
+
+  - name: "Left Player 99 Pts"
+    author: "Codejunkies"
+    codes:
+      - "200FFF00 24010063"
+      - "200FFF04 0240202D"
+      - "200FFF08 A0610024"
+      - "200FFF0C 08087148"
+      - "2021C51C 0803FFC0"
+
+  - name: "Max Jam Pts"
+    author: "Codejunkies"
+    codes:
+      - "201B4CA4 3C020FAB"
+      - "201AF314 3C020FAB"
+
+  - name: "Quick Timers"
+    author: "Codejunkies"
+    codes:
+      - "2015AE70 3C014000"
+
+  - name: "Right Player 0 Pts"
+    author: "Codejunkies"
+    codes:
+      - "200FFF44 0220202D"
+      - "200FFF48 AC600024"
+      - "200FFF4C 08087141"
+      - "2021C500 0803FFD0"
+
+  - name: "Right Player 99 Pts"
+    author: "Codejunkies"
+    codes:
+      - "200FFF40 24010063"
+      - "200FFF44 0220202D"
+      - "200FFF48 AC610024"
+      - "200FFF4C 08087141"
+      - "2021C500 0803FFD0"
+
+  - name: "Shot Clock To 99"
+    author: "Codejunkies"
+    codes:
+      - "2015AF84 24100063"
+
+  - name: "Slow Timers"
+    author: "Codejunkies"
+    codes:
+      - "2015AE70 3C013E00"

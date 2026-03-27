@@ -1,0 +1,46 @@
+# Dragon's Crown (EUR) cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00408
+
+game: "Dragon's Crown (EUR)"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00408"
+cheat_type: "Save Editor"
+source: "Credits: Slade"
+
+cheats:
+  - name: "9,999,999 Gold"
+    notes: "File: SAVE0.DAT"
+    codes:
+      - "200AF288 0098967F"
+
+  - name: "999 Skill Points"
+    notes: "File: SAVE0.DAT"
+    codes:
+      - "1000A4F4 000003E7"
+
+  - name: "Level 255 (depends On Game Difficulty)"
+    notes: "File: SAVE0.DAT"
+    codes:
+      - "0000A4F6 000000FF"
+
+  - name: "999 Current Health"
+    notes: "File: SAVE0.DAT"
+    codes:
+      - "1000A4DC 000003E7"
+
+  - name: "999 Max Health"
+    notes: "File: SAVE0.DAT"
+    codes:
+      - "1000A4E0 000003E7"
+
+  - name: "Update Crc32 For Save0.dat (required)"
+    notes: "File: SAVE0.DAT  (crc32 is stored in little-endian)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x04,pointer"
+      - "set [crc]:crc32"
+      - "set [crc]:endian_swap"
+      - "write at 0x00:[crc]"

@@ -1,0 +1,29 @@
+# Sacred Citadel cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUB30864
+
+game: "Sacred Citadel"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUB30864"
+cheat_type: "Save Editor"
+source: "by minjajef"
+
+cheats:
+  - name: "Put All Codecs On Your First Save If You Put On Your Actual Save May Crash Your Save"
+
+  - name: "All Chars Level 39"
+    codes:
+      - "20000107 00000027"
+      - "2000053C 27000000"
+      - "20000320 00000027"
+      - "20000755 27000000"
+
+  - name: "Attack 62"
+    codes:
+      - "2000010B 62000000"
+
+  - name: "Max All Power"
+    codes:
+      - "2000010B FFFFFFFF"

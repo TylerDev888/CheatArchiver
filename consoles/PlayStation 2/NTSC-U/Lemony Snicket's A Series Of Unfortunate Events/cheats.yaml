@@ -1,0 +1,78 @@
+# Lemony Snicket's A Series Of Unfortunate Events cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21078
+
+game: "Lemony Snicket's A Series Of Unfortunate Events"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21078"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F033FBBC 0033FBBF"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "9033FBBC 0C0D2B69"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "9033FBD0 0C0D7AE6"
+
+  - name: "Max Puzzle Pieces"
+    author: "MadCatz"
+    codes:
+      - "40408610 00050001"
+      - "00000063 00000000"
+
+  - name: "Have All Black Puzzle Pieces"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20408610 0000004B"
+
+  - name: "Have All Blue Puzzle Pieces"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2040861C 00000019"
+
+  - name: "Have All Green Puzzle Pieces"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20408618 0000004B"
+
+  - name: "Have All Red Puzzle Pieces"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20408620 00000019"
+
+  - name: "Have All Yellow Puzzle Pieces"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20408614 00000019"
+
+  - name: "Infinite Misery Meter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2040872C 42C80000"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9033FBBC 0C0D2B69"

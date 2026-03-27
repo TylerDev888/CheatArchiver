@@ -1,0 +1,71 @@
+# Accel World_ Kasoku no Chouten cheat data
+# Console: PlayStation 3
+# Region:  Unknown
+# Serial:  BLJS10176
+
+game: "Accel World_ Kasoku no Chouten"
+console: "PlayStation 3"
+region: "Unknown"
+serial: "BLJS10176"
+cheat_type: "Save Editor"
+source: "From KE-HA"
+
+cheats:
+  - name: "Money 999900"
+    notes: "File: SAVE0.DAT"
+    codes:
+      - "20001088 DC410F00"
+
+  - name: "Haruyuki Condition Very Good / Status Max"
+    notes: "File: SAVE0.DAT"
+    codes:
+      - "2000108C 02000000"
+      - "20001090 00000000"
+      - "20001094 00000000"
+      - "2000104C C8000000"
+      - "20001050 C8000000"
+      - "20001054 32000000"
+
+  - name: "Silver Crow Aerial Combo And Spiral Kick S"
+    notes: "File: SAVE0.DAT"
+    codes:
+      - "10001078 00000600"
+      - "10001074 00009600"
+      - "1000107A 00000600"
+      - "10001076 00009600"
+
+  - name: "Enjoyment Max - Kuroyukihime"
+    notes: "File: SAVE0.DAT"
+    codes:
+      - "20001058 96000000"
+
+  - name: "Enjoyment Max - Takumu"
+    notes: "File: SAVE0.DAT"
+    codes:
+      - "2000105C 96000000"
+
+  - name: "Enjoyment Max - Chiyuri"
+    notes: "File: SAVE0.DAT"
+    codes:
+      - "20001060 96000000"
+
+  - name: "Enjoyment Max - Fuko"
+    notes: "File: SAVE0.DAT"
+    codes:
+      - "20001064 96000000"
+
+  - name: "Enjoyment Max - Niko"
+    notes: "File: SAVE0.DAT"
+    codes:
+      - "2000106C 96000000"
+
+  - name: "Enjoyment Max - Pado"
+    notes: "File: SAVE0.DAT"
+    codes:
+      - "20001070 96000000"
+
+  - name: "Present Item All 99"
+    notes: "File: SAVE0.DAT"
+    codes:
+      - "40001256 00000063"
+      - "40300001 00000000"

@@ -1,0 +1,42 @@
+# Echo Night-Beyond cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20928
+
+game: "Echo Night-Beyond"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20928"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90121E84 0C049DFC"
+
+  - name: "Always Low Elapsed Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202ADBE8 00000000"
+
+  - name: "Always Low Heart Rate"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "209D5FD4 00000000"
+
+  - name: "Infinite Battery"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20AD6DEC 42C80000"
+
+  - name: "Heart Rate Doesnt Increase Over Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202176A0 00000000"

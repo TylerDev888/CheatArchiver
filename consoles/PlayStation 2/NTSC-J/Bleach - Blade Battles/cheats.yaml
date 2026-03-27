@@ -1,0 +1,29 @@
+# Bleach - Blade Battles cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SCPS-15116
+
+game: "Bleach - Blade Battles"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SCPS-15116"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9010BB78 0C042E86"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90114D2C 0C046F9E"
+
+  - name: "Start Training Mode For Debug Menu"
+    author: "punk7890"
+    codes:
+      - "001D4080 00000008"

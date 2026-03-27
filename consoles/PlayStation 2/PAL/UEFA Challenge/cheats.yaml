@@ -1,0 +1,58 @@
+# UEFA Challenge cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50195
+
+game: "UEFA Challenge"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50195"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0224F90 000001FD"
+
+  - name: "0 Goals"
+    author: "Codejunkies"
+    notes: "[Away Team Score]"
+    codes:
+      - "1079E3B8 00000000"
+
+  - name: "20 Goals"
+    author: "Codejunkies"
+    notes: "[Away Team Score]"
+    codes:
+      - "1079E3B8 00000014"
+
+  - name: "Never Score More Than 1 Goal"
+    author: "Codejunkies"
+    notes: "[Away Team Score]"
+    codes:
+      - "E0010001 3079E3B8"
+      - "1079E3B8 00000001"
+
+  - name: "Never Score More Than 5 Goals"
+    author: "Codejunkies"
+    notes: "[Away Team Score]"
+    codes:
+      - "E0010005 3079E3B8"
+      - "1079E3B8 00000005"
+
+  - name: "Never Score More Than 10 Goals"
+    author: "Codejunkies"
+    notes: "[Away Team Score]"
+    codes:
+      - "E001000A 3079E3B8"
+      - "1079E3B8 0000000A"
+
+  - name: "Never Score More Than 15 Goals"
+    author: "Codejunkies"
+    notes: "[Away Team Score]"
+    codes:
+      - "E001000F 3079E3B8"
+      - "1079E3B8 0000000F"

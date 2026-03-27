@@ -1,0 +1,105 @@
+# Prince Of Persia - Warrior Within cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52822
+
+game: "Prince Of Persia - Warrior Within"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52822"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0103ED0 00103ED3"
+
+  - name: "1Hitkill - Except For Bosses"
+    author: "luc-ita"
+    codes:
+      - "20391768 AE600208"
+      - "20391770 C6610208"
+      - "20355E74 10000012"
+      - "201EDD80 AE600200"
+      - "201EDD88 C6610200"
+      - "2027C6E8 AE60018C"
+      - "2027C6F0 C661018C"
+      - "201E880C 1000004E"
+
+  - name: "1Hitkill First Boss"
+    author: "luc-ita"
+    codes:
+      - "20277960 02941023"
+
+  - name: "All Extra Features Open"
+    author: "Codejunkies"
+    codes:
+      - "207DDA40 FFFFFFFF"
+      - "207DDA44 FFFFFFFF"
+      - "207DDA48 FFFFFFFF"
+      - "207DDA4C FFFFFFFF"
+
+  - name: "If You Fall You Do Not Die Immediately"
+    author: "luc-ita"
+    codes:
+      - "203FF660 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "202A6C5C 00000000"
+
+  - name: "Infinite Sand Of Time"
+    author: "Codejunkies"
+    codes:
+      - "203C392C 00000000"
+
+  - name: "Infinite Sand Time When Going Back In Time"
+    author: "luc-ita"
+    codes:
+      - "2046CB68 00000000"
+      - "2046CAA0 00000000"
+
+  - name: "Instant Rewind Power Recharge"
+    author: "Codejunkies"
+    codes:
+      - "2046D6AC 00000000"
+
+  - name: "Max Health"
+    author: "Codejunkies"
+    codes:
+      - "20316E0C 24020190"
+      - "20316E10 AC621490"
+
+  - name: "Max Sand Tanks"
+    author: "Codejunkies"
+    codes:
+      - "20319584 24030006"
+      - "2031958C AC4311C8"
+
+  - name: "Most Enemies Will Not Attack"
+    author: "Codejunkies"
+    codes:
+      - "20254240 03E00008"
+      - "20254244 00000000"
+      - "20255180 03E00008"
+      - "20255184 00000000"
+
+  - name: "Open Video Gallery For Level Select"
+    author: "Codejunkies"
+    codes:
+      - "205D2470 2404000A"
+
+  - name: "Use Sand Time To Go Back In Time Even Without Sand Tanks"
+    author: "luc-ita"
+    codes:
+      - "202A8C4C 1000000F"
+      - "203C3914 00000000"
+
+  - name: "Use Sand Time To Slow Down Time Even Without Sand Tanks"
+    author: "luc-ita"
+    codes:
+      - "203C4D04 00000000"

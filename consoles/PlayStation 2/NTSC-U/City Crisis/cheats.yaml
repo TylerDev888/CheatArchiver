@@ -1,0 +1,198 @@
+# City Crisis cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20274
+
+game: "City Crisis"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20274"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F021708C 0021708F"
+
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0232658 0021708F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0200008 0021708F"
+
+  - name: "All Levels"
+    author: "InterAct"
+    codes:
+      - "105B2230 0000FFFF"
+      - "105B2238 0000FFFF"
+
+  - name: "All Machines"
+    author: "InterAct"
+    codes:
+      - "205B223C 001F001F"
+      - "205B2240 001F001F"
+
+  - name: "Carry Infinite Passengers"
+    author: "Codejunkies"
+    codes:
+      - "003BACA4 00000000"
+
+  - name: "Infinite Damage"
+    author: "Codejunkies"
+    notes: "[Damage Codes]"
+    codes:
+      - "103CBD2C 000003E8"
+
+  - name: "Infinite Water"
+    author: "Codejunkies"
+    notes: "[Damage Codes]"
+    codes:
+      - "103BADC6 00003F80"
+
+  - name: "Infinite Water Bombs"
+    author: "Codejunkies"
+    notes: "[Damage Codes]"
+    codes:
+      - "103BADBC 00000032"
+
+  - name: "Never Have More Than 50 Damage"
+    author: "Codejunkies"
+    notes: "[Damage Codes]"
+    codes:
+      - "E0010032 303CBD2C"
+      - "103CBD2C 00000032"
+
+  - name: "Never Have More Than 100 Damage"
+    author: "Codejunkies"
+    notes: "[Damage Codes]"
+    codes:
+      - "E0010064 303CBD2C"
+      - "103CBD2C 00000064"
+
+  - name: "Never Have More Than 250 Damage"
+    author: "Codejunkies"
+    notes: "[Damage Codes]"
+    codes:
+      - "E00100FA 303CBD2C"
+      - "103CBD2C 000000FA"
+
+  - name: "Never Have More Than 500 Damage"
+    author: "Codejunkies"
+    notes: "[Damage Codes]"
+    codes:
+      - "E00101F4 303CBD2C"
+      - "103CBD2C 000001F4"
+
+  - name: "Never Have More Than 750 Damage"
+    author: "Codejunkies"
+    notes: "[Damage Codes]"
+    codes:
+      - "E00102EE 303CBD2C"
+      - "103CBD2C 000002EE"
+
+  - name: "1 Rescue To Complete"
+    author: "Code Master"
+    notes: "[Final Rescue Codes]"
+    codes:
+      - "D03BA92C 00000001"
+      - "103BA92C 0000001E"
+
+  - name: "None Dead"
+    author: "Code Master"
+    notes: "[Final Rescue Codes]"
+    codes:
+      - "103BA928 00000000"
+
+  - name: "Have A Massive Score"
+    author: "Codejunkies"
+    codes:
+      - "203BA8C8 05F5E0FF"
+
+  - name: "Infinite Time"
+    author: "InterAct"
+    codes:
+      - "203BAB78 00000000"
+
+  - name: "Press Select For No Time"
+    author: "InterAct"
+    codes:
+      - "D03BA738 00000100"
+      - "203BAB78 FFFFFFFF"
+
+  - name: "99 Fire Spot Rescued"
+    author: "Codejunkies"
+    notes: "[These Codes Affects The Final Stats]"
+    codes:
+      - "103BA8D4 00000063"
+
+  - name: "99 Others Rescued"
+    author: "Codejunkies"
+    notes: "[These Codes Affects The Final Stats]"
+    codes:
+      - "103BA8DC 00000063"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0200008 0021708F"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9021708C 0C089554"
+
+  - name: "Max Score"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203BA8C8 05F5E0FF"
+
+  - name: "Infinite Passengers"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "003BACA4 00000000"
+
+  - name: "Have All Levels"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "105B2230 0000FFFF"
+      - "105B2238 0000FFFF"
+
+  - name: "Have All Machines"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "205B223C 001F001F"
+      - "205B2240 001F001F"
+
+  - name: "Press Select For No Time Remaining"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D03BA738 00000100"
+      - "203BAB78 FFFFFFFF"
+
+  - name: "Max Fire Spot Rescued"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "103BA8D4 00000063"
+
+  - name: "Max Others Rescued"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "103BA8DC 00000063"

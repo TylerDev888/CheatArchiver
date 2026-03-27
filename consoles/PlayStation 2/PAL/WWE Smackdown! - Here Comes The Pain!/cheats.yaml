@@ -1,0 +1,52 @@
+# WWE Smackdown! - Here Comes The Pain! cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52036
+
+game: "WWE Smackdown! - Here Comes The Pain!"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52036"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F011F5AC 0011F5AF"
+
+  - name: "Disable A.I. (Press L3 To Activate; R3 To Stop)"
+    author: "Codejunkies"
+    codes:
+      - "D04FDF82 0000FFFD"
+      - "20268F2C 10000003"
+      - "D04FDF82 0000FFFB"
+      - "20268F2C 14400003"
+
+  - name: "Infinite Smackdown Use"
+    author: "Codejunkies"
+    codes:
+      - "201BB9C4 00000000"
+
+  - name: "Items In Shop Cost Nothing"
+    author: "Codejunkies"
+    codes:
+      - "20305F4C 24020000"
+
+  - name: "No Experience For Attribute Pts"
+    author: "Codejunkies"
+    codes:
+      - "2012D638 24020000"
+      - "202EDB74 2403270F"
+
+  - name: "Open All Locked Options"
+    author: "Codejunkies"
+    codes:
+      - "20305D70 24020001"
+
+  - name: "Ymem Display"
+    author: "Codejunkies"
+    codes:
+      - "202E0C40 00000000"

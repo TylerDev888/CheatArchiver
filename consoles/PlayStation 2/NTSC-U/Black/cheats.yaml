@@ -1,0 +1,466 @@
+# Black cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21376
+
+game: "Black"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21376"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F029C8E8 0029C8EB"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Master Codes]"
+    codes:
+      - "9029C8E8 0C0D7151"
+
+  - name: "Can Look Straight Up & Down [ASM]"
+    author: "Josh_7774"
+    codes:
+      - "201406C0 3C0142B4"
+      - "20140724 3C01C2B4"
+
+  - name: "Fly Mode (X + Up To Enable, X + Down To Disable, L1 + Up/Down To Ascend/Descend)"
+    author: "Josh_7774"
+    codes:
+      - "D058545C 0000BFEF"
+      - "01FFFFF0 00000001"
+      - "D058545C 0000BFBF"
+      - "01FFFFF0 00000000"
+      - "D1FFFFF0 00000001"
+      - "205A8D9C 3ED57FFF"
+      - "D058545C 0000FBEF"
+      - "205A8D9C 40C00000"
+      - "D058545C 0000FBBF"
+      - "205A8D9C C0C00000"
+
+  - name: "Have All Missions Completed"
+    author: "MadCatz"
+    codes:
+      - "4048EFAC 00200008"
+      - "00000002 00000000"
+
+  - name: "All Levels"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "4048EFAC 00200008"
+      - "00000001 00000000"
+
+  - name: "Graznei Bridge-Black Ops"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F36C 00000001"
+
+  - name: "Graznei Bridge-Easy"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F06C 00000001"
+
+  - name: "Graznei Bridge-Hard"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "21E8ACDA 63D54D95"
+
+  - name: "Graznei Bridge-Normal"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F16C 00000001"
+
+  - name: "Naszran Foundry-Black Ops"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F30C 00000001"
+
+  - name: "Naszran Foundry-Easy"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F00C 00000001"
+
+  - name: "Naszran Foundry-Hard"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F20C 00000001"
+
+  - name: "Naszran Foundry-Normal"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F10C 00000001"
+
+  - name: "Naszran Town-Black Ops"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F2EC 00000001"
+
+  - name: "Naszran Town-Easy"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048EFEC 00000001"
+
+  - name: "Naszran Town-Hard"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F1EC 00000001"
+
+  - name: "Naszran Town-Normal"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F0EC 00000001"
+
+  - name: "Spetriniv Gulag-Black Ops"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F38C 00000001"
+
+  - name: "Spetriniv Gulag-Easy"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F08C 00000001"
+
+  - name: "Spetriniv Gulag-Hard"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F28C 00000001"
+
+  - name: "Spetriniv Gulag-Normal"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F18C 00000001"
+
+  - name: "Tivliz Asylum-Black Ops"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F32C 00000001"
+
+  - name: "Tivliz Asylum-Easy"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F02C 00000001"
+
+  - name: "Tivliz Asylum-Hard"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F22C 00000001"
+
+  - name: "Tivliz Asylum-Normal"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F12C 00000001"
+
+  - name: "Treneska Border Crossing-Black Ops"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F2CC 00000001"
+
+  - name: "Treneska Border Crossing-Easy"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048EFCC 00000001"
+
+  - name: "Treneska Border Crossing-Hard"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F1CC 00000001"
+
+  - name: "Treneska Border Crossing-Normal"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F0CC 00000001"
+
+  - name: "Veblensk City Street-Black Ops"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F2AC 00000001"
+
+  - name: "Veblensk City Street-Easy"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048EFAC 00000001"
+
+  - name: "Veblensk City Street-Hard"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F1AC 00000001"
+
+  - name: "Veblensk City Street-Normal"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F0AC 00000001"
+
+  - name: "Vratska Dockyard-Black Ops"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F34C 00000001"
+
+  - name: "Vratska Dockyard-Easy"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F04C 00000001"
+
+  - name: "Vratska Dockyard-Hard"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F24C 00000001"
+
+  - name: "Vratska Dockyard-Normal"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "2048F14C 00000001"
+
+  - name: "Hold X To Moon Jump"
+    author: "Josh_7774"
+    codes:
+      - "D058545C 0000BFFF"
+      - "205A8D9C 40C00000"
+
+  - name: "Infinite Ammo (No Reload)"
+    author: "MadCatz"
+    codes:
+      - "20157878 00000000"
+      - "20157888 00000000"
+
+  - name: "Infinite Ammo-All Weapons"
+    author: "Codejunkies"
+    codes:
+      - "20157878 24420000"
+
+  - name: "Infinite Grenades"
+    author: "MadCatz"
+    codes:
+      - "201551B0 00000000"
+
+  - name: "Infinite Health"
+    author: "MadCatz"
+    codes:
+      - "201EEBD8 00000000"
+      - "201EEBEC E4A002F8"
+
+  - name: "Infinite Health Kits"
+    author: "Codejunkies"
+    codes:
+      - "2013CBF4 24840000"
+
+  - name: "Jump"
+    author: "47iscool"
+    codes:
+      - "D058545C 00007FFF"
+      - "205A8D9C 41200000"
+
+  - name: "Number Of Weapons Modifier[MOD1]"
+    author: "BigBossman"
+    codes:
+      - "105A8D72 000000??"
+
+  - name: "Always Low Total Game Time"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Operator Profile Codes]"
+    codes:
+      - "2048F4C8 00000000"
+
+  - name: "Max Enemy Count"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Operator Profile Codes]"
+    codes:
+      - "2048F3B0 05F5E0FF"
+
+  - name: "Max Number Of Headshots"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Operator Profile Codes]"
+    codes:
+      - "2048F3B4 05F5E0FF"
+
+  - name: "Max Total Bullets Fired"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Operator Profile Codes]"
+    codes:
+      - "2048F3B8 05F5E0FF"
+
+  - name: "No Enemy Count"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Operator Profile Codes]"
+    codes:
+      - "2048F3B0 00000000"
+
+  - name: "No Number Of Headshots"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Operator Profile Codes]"
+    codes:
+      - "2048F3B4 00000000"
+
+  - name: "No Total Bullets Fired"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Operator Profile Codes]"
+    codes:
+      - "2048F3B8 00000000"
+
+  - name: "Always Max Health Packs"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2013CBF4 24040003"
+
+  - name: "Disable FMV"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20294BA0 24020001"
+
+  - name: "Extra Ammo"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2015515C 00661821"
+
+  - name: "Extra Grenades"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "101551B0 00000001"
+
+  - name: "Fire Effect!"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201BE0EC 00000000"
+
+  - name: "Infinite Ammo"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20155168 00000000"
+
+  - name: "Infinite Health (Alternate)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "200C0220 3C014700"
+      - "200C0224 AE4102F8"
+      - "200C0228 03E00008"
+      - "200C022C C65402F8"
+      - "2013BC7C 0C030088"
+
+  - name: "Infinite Health Packs"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "005A9351 00000003"
+
+  - name: "Infinite Health Packs Usage"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2013CBF8 00000000"
+
+  - name: "Max Infinite Ammo"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2015515C 240303E7"
+
+  - name: "Max Infinite Grenades"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201551B0 24030009"
+
+  - name: "Never Reload"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2015787C 00000000"
+
+  - name: "Treneska Border-Black Ops"
+    author: "Codejunkies"
+    notes: "[Unlock Levels]"
+    codes:
+      - "2048F2E4 00010000"
+
+  - name: "Treneska Border-Easy"
+    author: "Codejunkies"
+    notes: "[Unlock Levels]"
+    codes:
+      - "2048EFE4 00010000"
+
+  - name: "Treneska Border-Hard"
+    author: "Codejunkies"
+    notes: "[Unlock Levels]"
+    codes:
+      - "2048F1E4 00010000"
+
+  - name: "Treneska Border-Normal"
+    author: "Codejunkies"
+    notes: "[Unlock Levels]"
+    codes:
+      - "2048F0E4 00010000"
+
+  - name: "Walk Through Most Walls (L3 On/R3 Off)"
+    author: "47iscool"
+    codes:
+      - "D058545C 0000FFFD"
+      - "2032FB3C 00000000"
+      - "D058545C 0000FFFB"
+      - "2032FB3C 0C0CBA04"
+
+  - name: "Weapon Modifier[MOD2]"
+    author: "BigBossman"
+    codes:
+      - "005A8D74 000000??"
+
+  - name: "Enemy's Can't Shoot [ASM]"
+    author: "RENEGADE"
+    notes: "[[ASM]]"
+    codes:
+      - "201A6870 00000000"
+
+  - name: "Rapid Fire [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "201570C0 00000000"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Masters]"
+    codes:
+      - "9029C8E8 0C0D7151"

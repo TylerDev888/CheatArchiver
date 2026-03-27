@@ -1,0 +1,43 @@
+# Ant Bully, The cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21415
+
+game: "Ant Bully, The"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21415"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9011DDA4 0C04AC18"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "207BFC40 3F800000"
+
+  - name: "Max Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "207BFC48 3F800000"
+
+  - name: "Start With 99 Fire Crystals"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D07BFB98 00000000"
+      - "207BFB98 00000063"
+
+  - name: "Always Max Fire Crystals"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "207BFB98 00000064"

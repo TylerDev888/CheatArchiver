@@ -1,0 +1,22 @@
+# NBA 2K12 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01418
+
+game: "NBA 2K12"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01418"
+cheat_type: "Save Editor"
+source: "By Nine"
+
+cheats:
+  - name: "Skill Points (2,000,000)"
+    notes: "File: USERDATA"
+    codes:
+      - "2025DD9C 001E8480"
+
+  - name: "Account Balance (500,000,000)"
+    notes: "File: USERDATA"
+    codes:
+      - "200063BC 1DCD6500"

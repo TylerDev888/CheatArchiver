@@ -1,0 +1,713 @@
+# Final Fantasy VII-Dirge Of Cerberus cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21419
+
+game: "Final Fantasy VII-Dirge Of Cerberus"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21419"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90442DC8 0C111B1F"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 240103E7"
+      - "200C0224 03E00008"
+      - "200C0228 AC810020"
+      - "20317660 08030088"
+
+  - name: "Infinite MP"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0230 24100064"
+      - "200C0234 080C5D70"
+      - "200C0238 A6300024"
+      - "20317604 0C03008C"
+
+  - name: "Infinite Gil"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10A0B748 0000FFFF"
+
+  - name: "Max Gil"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20A0B748 05F5E0FF"
+
+  - name: "Buying Items Doesnt Decrease Gil"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2032110C 00000000"
+
+  - name: "Buying Items Increases Gil"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20321100 00641821"
+
+  - name: "Quick EXP Gain"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10A0B750 0000FFFF"
+
+  - name: "Max EXP"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20A0B750 05F5E0FF"
+
+  - name: "Super Strong Attacks"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20A0B764 05F5E0FF"
+
+  - name: "Max DEX"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10A0B772 00000064"
+
+  - name: "Max DEF"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10A0B774 00000064"
+
+  - name: "Max STR"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10A0B776 00000064"
+
+  - name: "Max INT"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10A0B778 00000064"
+
+  - name: "Infinite Item/Ammo Usage"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2031E884 00000000"
+
+  - name: "Never Reload"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20319E58 00000000"
+
+  - name: "Unlock Event Viewer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "704B6D40 00000001"
+
+  - name: "Unlock All Extra Missions"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "704B6D40 00000001"
+      - "404B6D64 00030001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Vincent"
+    author: "Code Master"
+    notes: "[Unlock Character Viewer Codes]"
+    codes:
+      - "704B6D70 00000001"
+
+  - name: "The WRO"
+    author: "Code Master"
+    notes: "[Unlock Character Viewer Codes]"
+    codes:
+      - "704B6D70 00000002"
+
+  - name: "Monsters"
+    author: "Code Master"
+    notes: "[Unlock Character Viewer Codes]"
+    codes:
+      - "704B6D70 00000004"
+
+  - name: "Deepground"
+    author: "Code Master"
+    notes: "[Unlock Character Viewer Codes]"
+    codes:
+      - "704B6D70 00000008"
+
+  - name: "Bosses"
+    author: "Code Master"
+    notes: "[Unlock Character Viewer Codes]"
+    codes:
+      - "704B6D70 00000010"
+
+  - name: "Shinra"
+    author: "Code Master"
+    notes: "[Unlock Character Viewer Codes]"
+    codes:
+      - "704B6D70 00000020"
+
+  - name: "Tsviets"
+    author: "Code Master"
+    notes: "[Unlock Character Viewer Codes]"
+    codes:
+      - "704B6D70 00000040"
+
+  - name: "Omega"
+    author: "Code Master"
+    notes: "[Unlock Character Viewer Codes]"
+    codes:
+      - "704B6D70 00000080"
+
+  - name: "Others"
+    author: "Code Master"
+    notes: "[Unlock Character Viewer Codes]"
+    codes:
+      - "704B6D71 00000001"
+
+  - name: "All Character Viewer"
+    author: "Code Master"
+    notes: "[Unlock Character Viewer Codes]"
+    codes:
+      - "704B6D70 001001FF"
+
+  - name: "Battlefields"
+    author: "Code Master"
+    notes: "[Unlock Sound Gallery Codes]"
+    codes:
+      - "704B6D71 00000004"
+
+  - name: "System"
+    author: "Code Master"
+    notes: "[Unlock Sound Gallery Codes]"
+    codes:
+      - "704B6D71 00000040"
+
+  - name: "WRO"
+    author: "Code Master"
+    notes: "[Unlock Sound Gallery Codes]"
+    codes:
+      - "704B6D71 00000080"
+
+  - name: "Events"
+    author: "Code Master"
+    notes: "[Unlock Sound Gallery Codes]"
+    codes:
+      - "704B6D72 00000002"
+
+  - name: "All Sound Gallery"
+    author: "Code Master"
+    notes: "[Unlock Sound Gallery Codes]"
+    codes:
+      - "704B6D71 000000FE"
+      - "704B6D72 00000003"
+
+  - name: "Deepground Soldiers"
+    author: "Code Master"
+    notes: "[Unlock Art Gallery Codes]"
+    codes:
+      - "704B6D72 00000020"
+
+  - name: "Weapons"
+    author: "Code Master"
+    notes: "[Unlock Art Gallery Codes]"
+    codes:
+      - "704B6D73 00000001"
+
+  - name: "Miscellaneous"
+    author: "Code Master"
+    notes: "[Unlock Art Gallery Codes]"
+    codes:
+      - "704B6D73 00000008"
+
+  - name: "Mako Reactor O"
+    author: "Code Master"
+    notes: "[Unlock Art Gallery Codes]"
+    codes:
+      - "704B6D73 00000010"
+
+  - name: "Attack On Midgar"
+    author: "Code Master"
+    notes: "[Unlock Art Gallery Codes]"
+    codes:
+      - "704B6D73 00000020"
+
+  - name: "Event-Related"
+    author: "Code Master"
+    notes: "[Unlock Art Gallery Codes]"
+    codes:
+      - "704B6D73 00000080"
+
+  - name: "Locations"
+    author: "Code Master"
+    notes: "[Unlock Art Gallery Codes]"
+    codes:
+      - "704B6D74 00000001"
+
+  - name: "Finale Chaotic"
+    author: "Code Master"
+    notes: "[Unlock Art Gallery Codes]"
+    codes:
+      - "704B6D74 00000002"
+
+  - name: "Shinra Building"
+    author: "Code Master"
+    notes: "[Unlock Art Gallery Codes]"
+    codes:
+      - "704B6D74 00000004"
+
+  - name: "WRO Headquarters"
+    author: "Code Master"
+    notes: "[Unlock Art Gallery Codes]"
+    codes:
+      - "704B6D74 00000008"
+
+  - name: "All Art Gallery"
+    author: "Code Master"
+    notes: "[Unlock Art Gallery Codes]"
+    codes:
+      - "704B6D72 0010FFFC"
+      - "704B6D74 0000000F"
+
+  - name: "Max Targets Destroyed"
+    author: "Code Master"
+    notes: "[Chapter Ranking Codes]"
+    codes:
+      - "20A0B450 05F5E0FF"
+
+  - name: "No Targets Destroyed"
+    author: "Code Master"
+    notes: "[Chapter Ranking Codes]"
+    codes:
+      - "20A0B450 00000000"
+
+  - name: "Max Critical Hits"
+    author: "Code Master"
+    notes: "[Chapter Ranking Codes]"
+    codes:
+      - "20A0B45C 05F5E0FF"
+
+  - name: "No Critical Hits"
+    author: "Code Master"
+    notes: "[Chapter Ranking Codes]"
+    codes:
+      - "20A0B45C 00000000"
+
+  - name: "Max Items Used"
+    author: "Code Master"
+    notes: "[Chapter Ranking Codes]"
+    codes:
+      - "20A0B460 05F5E0FF"
+
+  - name: "No Items Used"
+    author: "Code Master"
+    notes: "[Chapter Ranking Codes]"
+    codes:
+      - "20A0B460 00000000"
+
+  - name: "Max Damage Sustained"
+    author: "Code Master"
+    notes: "[Chapter Ranking Codes]"
+    codes:
+      - "20A0B470 05F5E0FF"
+
+  - name: "No Damage Sustained"
+    author: "Code Master"
+    notes: "[Chapter Ranking Codes]"
+    codes:
+      - "20A0B470 00000000"
+
+  - name: "Max Magic Casted"
+    author: "Code Master"
+    notes: "[Chapter Ranking Codes]"
+    codes:
+      - "20A0B484 05F5E0FF"
+
+  - name: "No Magic Casted"
+    author: "Code Master"
+    notes: "[Chapter Ranking Codes]"
+    codes:
+      - "20A0B484 00000000"
+
+  - name: "Slot 1"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B004 000003E7"
+
+  - name: "Slot 2"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B010 000003E7"
+
+  - name: "Slot 3"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B01C 000003E7"
+
+  - name: "Slot 4"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B028 000003E7"
+
+  - name: "Slot 5"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B034 000003E7"
+
+  - name: "Slot 6"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B040 000003E7"
+
+  - name: "Slot 7"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B04C 000003E7"
+
+  - name: "Slot 8"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B058 000003E7"
+
+  - name: "Slot 9"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B064 000003E7"
+
+  - name: "Slot 10"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B070 000003E7"
+
+  - name: "Slot 11"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B07C 000003E7"
+
+  - name: "Slot 12"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B088 000003E7"
+
+  - name: "Slot 13"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B094 000003E7"
+
+  - name: "Slot 14"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B0A0 000003E7"
+
+  - name: "Slot 15"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B0AC 000003E7"
+
+  - name: "Slot 16"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B0B8 000003E7"
+
+  - name: "Slot 17"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B0C4 000003E7"
+
+  - name: "Slot 18"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B0D0 000003E7"
+
+  - name: "Slot 19"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B0DC 000003E7"
+
+  - name: "Slot 20"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B0E8 000003E7"
+
+  - name: "Slot 21"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B0F4 000003E7"
+
+  - name: "Slot 22"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B100 000003E7"
+
+  - name: "Slot 23"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B10C 000003E7"
+
+  - name: "Slot 24"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B118 000003E7"
+
+  - name: "Slot 25"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B124 000003E7"
+
+  - name: "Slot 26"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B130 000003E7"
+
+  - name: "Slot 27"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B13C 000003E7"
+
+  - name: "Slot 28"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B148 000003E7"
+
+  - name: "Slot 29"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B154 000003E7"
+
+  - name: "Slot 30"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B160 000003E7"
+
+  - name: "Slot 31"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B16C 000003E7"
+
+  - name: "Slot 32"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B178 000003E7"
+
+  - name: "Slot 33"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B184 000003E7"
+
+  - name: "Slot 34"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B190 000003E7"
+
+  - name: "Slot 35"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B19C 000003E7"
+
+  - name: "Slot 36"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B1A8 000003E7"
+
+  - name: "Slot 37"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B1B4 000003E7"
+
+  - name: "Slot 38"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B1C0 000003E7"
+
+  - name: "Slot 39"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B1CC 000003E7"
+
+  - name: "Slot 40"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B1D8 000003E7"
+
+  - name: "Slot 41"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B1E4 000003E7"
+
+  - name: "Slot 42"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B1F0 000003E7"
+
+  - name: "Slot 43"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B1FC 000003E7"
+
+  - name: "Slot 44"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B208 000003E7"
+
+  - name: "Slot 45"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B214 000003E7"
+
+  - name: "Slot 46"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B220 000003E7"
+
+  - name: "Slot 47"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B22C 000003E7"
+
+  - name: "Slot 48"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B238 000003E7"
+
+  - name: "Slot 49"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B244 000003E7"
+
+  - name: "Slot 50"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B250 000003E7"
+
+  - name: "Slot 51"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B25C 000003E7"
+
+  - name: "Slot 52"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B268 000003E7"
+
+  - name: "Slot 53"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B274 000003E7"
+
+  - name: "Slot 54"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B280 000003E7"
+
+  - name: "Slot 55"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B28C 000003E7"
+
+  - name: "Slot 56"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B298 000003E7"
+
+  - name: "Slot 57"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B2A4 000003E7"
+
+  - name: "Slot 58"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B2B0 000003E7"
+
+  - name: "Slot 59"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B2BC 000003E7"
+
+  - name: "Slot 60"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "20A0B2C8 000003E7"
+
+  - name: "All Slots"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "40A0B004 003C0003"
+      - "000003E7 00000000"

@@ -1,0 +1,29 @@
+# All-Star Baseball 2003 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "All-Star Baseball 2003"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0034C80F"
+
+  - name: "Player 1 Never Score"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2010DB68 24030001"
+
+  - name: "Player 2 Never Score"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2010DB68 24030000"

@@ -1,0 +1,174 @@
+# MLB Slugfest 20-04 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20618
+
+game: "MLB Slugfest 20-04"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20618"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001B8E4F"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1044A4C4 0000????"
+
+  - name: "Home Team Start With Runs Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D044A4C4 00000000"
+      - "1044A4C4 0000????"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1044A4F8 0000????"
+
+  - name: "Away Team Start With Runs Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D044A4F8 00000000"
+      - "1044A4F8 0000????"
+
+  - name: "Home Team Infinite Turbo"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20444978 42C80000"
+
+  - name: "Home Team No Turbo"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20444978 00000000"
+
+  - name: "Away Team Infinite Turbo"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2044497C 42C80000"
+
+  - name: "Away Team No Turbo"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2044497C 00000000"
+
+  - name: "Home Team Pitcher-Max Special"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2044A4E0 0000000A"
+
+  - name: "Home Team Pitcher-No Special"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2044A4E0 00000000"
+
+  - name: "Away Team Pitcher-Max Special"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2044A514 0000000A"
+
+  - name: "Away Team Pitcher-No Special"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2044A514 00000000"
+
+  - name: "Infinite Strikes"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "1044A480 00000000"
+
+  - name: "1 Strike And You Are Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D044A480 00000000"
+      - "1044A480 00000002"
+
+  - name: "2 Strikes And You Are Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D044A480 00000000"
+      - "1044A480 00000001"
+
+  - name: "Infinite Balls"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "1044A48C 00000000"
+
+  - name: "1 Ball And You Walk"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D044A48C 00000000"
+      - "1044A48C 00000003"
+
+  - name: "2 Balls And You Walk"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D044A48C 00000000"
+      - "1044A48C 00000002"
+
+  - name: "3 Balls And You Walk"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D044A48C 00000000"
+      - "1044A48C 00000001"
+
+  - name: "Infinite Outs"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "1044A490 00000000"
+
+  - name: "1 Out And You Are Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D044A490 00000000"
+      - "1044A490 00000002"
+
+  - name: "2 Outs And You Are Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D044A490 00000000"
+      - "1044A490 00000001"
+
+  - name: "Always Full Count"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "1044A480 00000002"
+      - "1044A48C 00000003"
+
+  - name: "Always Full Count & 2 Outs"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "1044A480 00000002"
+      - "1044A48C 00000003"
+      - "1044A490 00000002"

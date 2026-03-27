@@ -1,0 +1,53 @@
+# Death's Door cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA30423
+
+game: "Death's Door"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA30423"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Super Max Health"
+    author: "Zeraf3000"
+    notes: "File: sce_sdmemory\\memory.dat"
+    codes:
+      - "800[Slot]0006 6D61785F"
+      - "68700000 00000000"
+      - "28000006 000007D0"
+
+  - name: "Melee"
+    author: "Zeraf3000"
+    notes: "[Custom Stats:{Note: If Done Correctly, You'll See Your Stats At Max Normal Level In Game; But You'll See The Actual Effects In Gameplay. Your Character Will Be Faster Than Normal, The Reach Of Your Attacks Will Be Big, You'll Be Able To Use Magic Faster And You'll Be Able To Almost One Hit Kill ..."
+    codes:
+      - "800[Slot]000A 73746174"
+      - "5F6D656C 65650000"
+      - "2800000A 0000001E"
+
+  - name: "Dexterity"
+    author: "Zeraf3000"
+    notes: "[Custom Stats:{Note: If Done Correctly, You'll See Your Stats At Max Normal Level In Game; But You'll See The Actual Effects In Gameplay. Your Character Will Be Faster Than Normal, The Reach Of Your Attacks Will Be Big, You'll Be Able To Use Magic Faster And You'll Be Able To Almost One Hit Kill ..."
+    codes:
+      - "800[Slot]000E 73746174"
+      - "5F646578 74657269"
+      - "74790000 00000000"
+      - "2800000E 0000000A"
+
+  - name: "Haste"
+    author: "Zeraf3000"
+    notes: "[Custom Stats:{Note: If Done Correctly, You'll See Your Stats At Max Normal Level In Game; But You'll See The Actual Effects In Gameplay. Your Character Will Be Faster Than Normal, The Reach Of Your Attacks Will Be Big, You'll Be Able To Use Magic Faster And You'll Be Able To Almost One Hit Kill ..."
+    codes:
+      - "800[Slot]000A 73746174"
+      - "5F686173 74650000"
+      - "2800000A 00000028"
+
+  - name: "Magic"
+    author: "Zeraf3000"
+    notes: "[Custom Stats:{Note: If Done Correctly, You'll See Your Stats At Max Normal Level In Game; But You'll See The Actual Effects In Gameplay. Your Character Will Be Faster Than Normal, The Reach Of Your Attacks Will Be Big, You'll Be Able To Use Magic Faster And You'll Be Able To Almost One Hit Kill ..."
+    codes:
+      - "800[Slot]000A 73746174"
+      - "5F6D6167 69630000"
+      - "2800000A 00000028"

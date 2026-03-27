@@ -1,0 +1,31 @@
+# NFL QB Club 2002 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "NFL QB Club 2002"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001CC657"
+
+  - name: "Scores 9 Touchdowns"
+    author: "Xploder"
+    notes: "[Home Team]"
+    codes:
+      - "D05939C2 2809FBFE"
+      - "00D0CE8A 28096809"
+
+  - name: "Scores No Touchdowns"
+    author: "Xploder"
+    notes: "[Home Team]"
+    codes:
+      - "D05939C2 2809F7FE"
+      - "00D0CE8A 28096800"

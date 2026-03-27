@@ -1,0 +1,42 @@
+# Hyperdimension Neptunia cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01178
+
+game: "Hyperdimension Neptunia"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01178"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Credits"
+    notes: "File: BLES01178-L*\\GAME.BIN"
+    codes:
+      - "200BB148 05F5E0FF"
+
+  - name: "Reflex"
+    notes: "[Items]  File: BLES01178-L*\\GAME.BIN"
+    codes:
+      - "1000E054 000003E7"
+
+  - name: "Detoxin"
+    notes: "[Items]  File: BLES01178-L*\\GAME.BIN"
+    codes:
+      - "1000E056 000003E7"
+
+  - name: "Gelatin"
+    notes: "[Items]  File: BLES01178-L*\\GAME.BIN"
+    codes:
+      - "1000E058 000003E7"
+
+  - name: "Tuffmil"
+    notes: "[Items]  File: BLES01178-L*\\GAME.BIN"
+    codes:
+      - "1000E05A 000003E7"
+
+  - name: "Reset Buttons"
+    notes: "[Items]  File: BLES01178-L*\\GAME.BIN"
+    codes:
+      - "1000E05C 00000001"

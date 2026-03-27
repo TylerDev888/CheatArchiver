@@ -1,0 +1,40 @@
+# Just Cause 2 cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS30400
+
+game: "Just Cause 2"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS30400"
+cheat_type: "AP"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Money"
+    notes: "File: BLUS30400_JUSTCAUSE2SAVE*\\SYS-DATA"
+    codes:
+      - "80010004 F3C2E15D"
+      - "93000000 00000024"
+      - "28000000 0098967F"
+
+  - name: "Max Chaos(unlocks All Weapons And Vehicles.)"
+    notes: "File: BLUS30400_JUSTCAUSE2SAVE*\\SYS-DATA"
+    codes:
+      - "80010004 F3C2E15D"
+      - "93000000 0000001A"
+      - "28000000 000F423F"
+
+  - name: "Max Weapon Parts"
+    notes: "File: BLUS30400_JUSTCAUSE2SAVE*\\SYS-DATA"
+    codes:
+      - "80010004 F3C2E15D"
+      - "93000000 00000042"
+      - "28000000 000003E8"
+
+  - name: "Max Vehicle Parts"
+    notes: "File: BLUS30400_JUSTCAUSE2SAVE*\\SYS-DATA"
+    codes:
+      - "80010004 F3C2E15D"
+      - "93000000 0000002E"
+      - "28000000 000003E8"

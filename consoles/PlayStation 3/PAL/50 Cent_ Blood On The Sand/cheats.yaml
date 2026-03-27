@@ -1,0 +1,71 @@
+# 50 Cent_ Blood On The Sand cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00472
+
+game: "50 Cent_ Blood On The Sand"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00472"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Money"
+    notes: "File: BLES00472-PROFILE\\PAYLOAD"
+    codes:
+      - "80010006 02000000"
+      - "1E010000 00000000"
+      - "28000006 0098967F"
+
+  - name: "Unlock All Videos"
+    notes: "File: BLES00472-PROFILE\\PAYLOAD"
+    codes:
+      - "80010006 02000000"
+      - "2D010000 00000000"
+      - "28000006 FFFFFFFF"
+
+  - name: "Unlock All Stills"
+    notes: "File: BLES00472-PROFILE\\PAYLOAD"
+    codes:
+      - "80010006 02000000"
+      - "30010000 00000000"
+      - "28000006 FFFFFFFF"
+
+  - name: "Unlock All Cheats"
+    notes: "File: BLES00472-PROFILE\\PAYLOAD"
+    codes:
+      - "80010006 02000000"
+      - "2F010000 00000000"
+      - "28000006 FFFFFFFF"
+
+  - name: "Unlock All Songs"
+    notes: "File: BLES00472-PROFILE\\PAYLOAD"
+    codes:
+      - "80010006 02000000"
+      - "45010000 00000000"
+      - "28000006 00000048"
+
+  - name: "Unlock All Missions"
+    notes: "File: BLES00472-PROFILE\\PAYLOAD"
+    codes:
+      - "80010006 02000000"
+      - "28010000 00000000"
+      - "28000006 FFFFFFFF"
+
+  - name: "Have All Badges"
+    notes: "File: BLES00472-PROFILE\\PAYLOAD"
+    codes:
+      - "80010006 02000000"
+      - "4A010000 00000000"
+      - "4A000006 00FFFFFF"
+      - "4018000B 00000000"
+
+  - name: "Update Sha1 For Payload"
+    notes: "File: BLES00472-PROFILE\\PAYLOAD"
+    codes:
+      - "set range:0x000014,0x0002AF"
+      - "set pointer:eof+1"
+      - "set range:0x000014,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x000000:[hash]"

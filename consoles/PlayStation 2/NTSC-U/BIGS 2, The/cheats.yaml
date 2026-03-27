@@ -1,0 +1,47 @@
+# BIGS 2, The cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21860
+
+game: "BIGS 2, The"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21860"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Hit Homeruns Almost Every Time/Make The Batter Swing And Miss Everytime"
+    author: "nolberto82"
+    codes:
+      - "200A0000 3C010049"
+      - "200A0004 24213D90"
+      - "200A0008 8C210000"
+      - "200A000C 90220013"
+      - "200A0010 304200FF"
+      - "200A0014 10400004"
+      - "200A001C 3C014340"
+      - "200A0020 AE010168"
+      - "200A0024 10000006"
+      - "200A0028 90220011"
+      - "200A002C 304200FF"
+      - "200A0030 10400003"
+      - "200A0038 3C014F00"
+      - "200A003C 44810000"
+      - "200A0040 C6340304"
+      - "200A0044 080869D5"
+      - "2021A74C 08028000"
+
+  - name: "One Strike Equals A Strikeout Hold R1"
+    author: "nolberto82"
+    codes:
+      - "200A0060 3C010049"
+      - "200A0064 24213D90"
+      - "200A0068 8C210000"
+      - "200A006C 90220011"
+      - "200A0070 304200FF"
+      - "200A0074 10400002"
+      - "200A0078 34010003"
+      - "200A007C AC81001C"
+      - "200A0080 0809EBDA"
+      - "2027AF24 08028018"

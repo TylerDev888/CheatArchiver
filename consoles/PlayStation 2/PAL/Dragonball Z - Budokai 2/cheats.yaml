@@ -1,0 +1,100 @@
+# Dragonball Z - Budokai 2 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51839
+
+game: "Dragonball Z - Budokai 2"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51839"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0115524 00115527"
+
+  - name: "Fast Player"
+    author: "Codejunkies"
+    notes: "[Left Player]"
+    codes:
+      - "203DFFE0 3FC00000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Left Player]"
+    codes:
+      - "203E9284 453B8000"
+
+  - name: "Infinite Ki"
+    author: "Codejunkies"
+    notes: "[Left Player]"
+    codes:
+      - "203E928C 442E8000"
+
+  - name: "No Health"
+    author: "Codejunkies"
+    notes: "[Left Player]"
+    codes:
+      - "203E9284 3F800000"
+
+  - name: "Slow Motion"
+    author: "Codejunkies"
+    notes: "[Left Player]"
+    codes:
+      - "203DFFE0 3E800000"
+
+  - name: "Ultra Fast Player"
+    author: "Codejunkies"
+    notes: "[Left Player]"
+    codes:
+      - "203DFFE0 40200000"
+
+  - name: "Loads Of Unlocks"
+    author: "Codejunkies"
+    notes: "[Right Player]"
+    codes:
+      - "2069427C 01010101"
+      - "20694278 01010101"
+      - "20694274 01010101"
+      - "20694270 01010101"
+      - "2069426C 01010101"
+      - "20694268 01010101"
+      - "20694264 01010101"
+      - "20694260 01010101"
+      - "2069425C 01010101"
+      - "20694258 01010101"
+      - "20694254 01010101"
+      - "20694250 01010101"
+      - "2069424C 01010101"
+      - "20694248 01010101"
+      - "20694244 01010101"
+      - "20694240 01010101"
+      - "2069423C 01010101"
+
+  - name: "Max Money After Buying 1 Cap"
+    author: "Codejunkies"
+    notes: "[Right Player]"
+    codes:
+      - "20289E58 3C02001F"
+
+  - name: "P1 Infinite Health (Both Sides)"
+    author: "Codejunkies"
+    notes: "[Right Player]"
+    codes:
+      - "D03E94E8 00000000"
+      - "203E9284 453B8000"
+      - "D03E94E8 00000001"
+      - "203F31D4 453B8000"
+
+  - name: "P2 No Health (Both Sides)"
+    author: "Codejunkies"
+    notes: "[Right Player]"
+    codes:
+      - "D03E94E8 00000000"
+      - "203F31D4 3F800000"
+      - "D03E94E8 00000001"
+      - "203E9284 3F800000"

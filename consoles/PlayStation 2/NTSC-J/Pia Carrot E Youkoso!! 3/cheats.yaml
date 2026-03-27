@@ -1,0 +1,36 @@
+# Pia Carrot E Youkoso!! 3 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25222
+
+game: "Pia Carrot E Youkoso!! 3"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25222"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010D978 0C043606"
+
+  - name: "Mini Game Menu = Ending Test Menu"
+    author: "punk7890"
+    codes:
+      - "201F76E0 54444E45"
+      - "201F76E4 00545345"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "4020F4C4 00100001"
+      - "FFFFFFFF 00000000"
+      - "1020F504 0000FFFF"
+
+  - name: "Unlock All Main Menu Options"
+    author: "punk7890"
+    codes:
+      - "1020F508 0000FFFF"

@@ -1,0 +1,22 @@
+# Arcana Heart 3 cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM60248
+
+game: "Arcana Heart 3"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM60248"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Wadd For System.dat (required)"
+    notes: "File: SYSTEM.DAT  (set [csum]:wadd(0x000004,0x001187))"
+    codes:
+      - "set [csum]:0"
+      - "carry(2)"
+      - "set pointer:eof+1"
+      - "set [csum]:wadd(0x000004,pointer)"
+      - "set [csum]:xor:FFFF"
+      - "write at 0x000000:[csum]"

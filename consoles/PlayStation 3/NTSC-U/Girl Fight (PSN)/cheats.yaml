@@ -1,0 +1,17 @@
+# Girl Fight (PSN) cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUB30736
+
+game: "Girl Fight (PSN)"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUB30736"
+cheat_type: "Save Editor"
+source: "From SHAkA"
+
+cheats:
+  - name: "Max Money"
+    notes: "File: PRG-DATA"
+    codes:
+      - "write at 0x00005270:0x3B9AC9FF"

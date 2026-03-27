@@ -1,0 +1,302 @@
+# Metal Slug 4 & 5 [Disc1of2] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20971
+
+game: "Metal Slug 4 & 5 [Disc1of2]"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20971"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F010F32C 0010F32F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "9010F420 0C04645C"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "9010F434 0C04329C"
+
+  - name: "All Soldiers Saved"
+    author: "Codejunkies"
+    codes:
+      - "41070650 00200001"
+      - "FFFFFFFF 00000000"
+
+  - name: "All Trophies Collected"
+    author: "Codejunkies"
+    codes:
+      - "410706D8 00020001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Infinite Arms"
+    author: "MadCatz"
+    notes: "[Both Player Codes]"
+    codes:
+      - "20185968 341B03E7"
+      - "2018596C A05B000C"
+      - "20185970 14400007"
+
+  - name: "Infinite Bombs"
+    author: "MadCatz"
+    notes: "[Both Player Codes]"
+    codes:
+      - "200C2000 34030063"
+      - "200C2004 0805D89B"
+      - "200C2008 A0830007"
+      - "20176268 08030800"
+
+  - name: "Invincibility"
+    author: "MadCatz"
+    notes: "[Both Player Codes]"
+    codes:
+      - "20185660 00000000"
+
+  - name: "Unlock All Missions"
+    author: "MadCatz"
+    notes: "[Both Player Codes]"
+    codes:
+      - "11070640 00000005"
+
+  - name: "Do Not Lose Upgraded Weapons When Dying"
+    author: "Code Master"
+    notes: "[Both Players Codes]"
+    codes:
+      - "200C0220 54600001"
+      - "200C0224 A0430004"
+      - "200C0228 03E00008"
+      - "200C022C 00000000"
+      - "20176DDC 0C030088"
+      - "20175184 00000000"
+      - "20175190 00000000"
+
+  - name: "Extra Bombs"
+    author: "Code Master"
+    notes: "[Both Players Codes]"
+    codes:
+      - "1018E988 00000001"
+
+  - name: "Extra Lives"
+    author: "Code Master"
+    notes: "[Both Players Codes]"
+    codes:
+      - "10154CF8 00000001"
+
+  - name: "Infinite Ammo"
+    author: "Code Master"
+    notes: "[Both Players Codes]"
+    codes:
+      - "20178A80 00000000"
+
+  - name: "Infinite Lives"
+    author: "Code Master"
+    notes: "[Both Players Codes]"
+    codes:
+      - "20154D00 00000000"
+
+  - name: "Max Infinite Bombs"
+    author: "Code Master"
+    notes: "[Both Players Codes]"
+    codes:
+      - "2018E988 24020063"
+
+  - name: "Max Infinite Lives"
+    author: "Code Master"
+    notes: "[Both Players Codes]"
+    codes:
+      - "10154CF8 24020063"
+
+  - name: "Enable All Levels"
+    author: "Codejunkies"
+    codes:
+      - "01070640 00000006"
+
+  - name: "Infinite Time"
+    author: "MadCatz"
+    codes:
+      - "10701190 000060FF"
+
+  - name: "Infinite Ammo (Infinity Symbol)"
+    author: "Code Master"
+    notes: "[P1 Codes]"
+    codes:
+      - "1106F1AC 0000FFFF"
+
+  - name: "Invincible"
+    author: "Code Master"
+    notes: "[P1 Codes]"
+    codes:
+      - "1070BAC0 000000FF"
+
+  - name: "Max Infinite Ammo"
+    author: "Code Master"
+    notes: "[P1 Codes]"
+    codes:
+      - "1106F1AC 000003E7"
+
+  - name: "Max Score"
+    author: "Code Master"
+    notes: "[P1 Codes]"
+    codes:
+      - "2070CC50 09999999"
+
+  - name: "Press X For Moon Jump"
+    author: "Code Master"
+    notes: "[P1 Codes]"
+    codes:
+      - "D06CB582 0000BFFF"
+      - "1070BA6A 00000002"
+
+  - name: "Quick Score Gain"
+    author: "Code Master"
+    notes: "[P1 Codes]"
+    codes:
+      - "1070CC50 00009999"
+
+  - name: "Infinite Vehicle Ammo"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "0106F205 00000063"
+
+  - name: "L1+L2 For Max Rescues"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "D06CB582 0000FAFF"
+      - "0106FA90 0000000E"
+
+  - name: "Press L1 To Warp Left"
+    author: "MadCatz"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "D06CB582 0000FBFF"
+      - "1070BA5F 000000FF"
+
+  - name: "Press L2 For Mega Jump"
+    author: "MadCatz"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "D06CB582 0000FEFF"
+      - "1070BA62 00000090"
+
+  - name: "Press R1 To Warp Right"
+    author: "MadCatz"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "D06CB582 0000F7FF"
+      - "1070BA5E 000000FF"
+
+  - name: "Bubble Gun"
+    author: "Code Master"
+    notes: "[Weapon Modifier Codes]"
+    codes:
+      - "1106F1A4 00000E0E"
+
+  - name: "Drop Shot (D)"
+    author: "Code Master"
+    notes: "[Weapon Modifier Codes]"
+    codes:
+      - "1106F1A4 00000101"
+
+  - name: "Dual Machine Gun (2H)"
+    author: "Code Master"
+    notes: "[Weapon Modifier Codes]"
+    codes:
+      - "1106F1A4 00001212"
+
+  - name: "Enemy Chaser (C)"
+    author: "Code Master"
+    notes: "[Weapon Modifier Codes]"
+    codes:
+      - "1106F1A4 00000C0C"
+
+  - name: "Explosive Rounds"
+    author: "Code Master"
+    notes: "[Weapon Modifier Codes]"
+    codes:
+      - "1106F1A4 00000909"
+
+  - name: "Flame Chop (F)"
+    author: "Code Master"
+    notes: "[Weapon Modifier Codes]"
+    codes:
+      - "1106F1A4 00000404"
+
+  - name: "Heavy Machine Gun (H)"
+    author: "Code Master"
+    notes: "[Weapon Modifier Codes]"
+    codes:
+      - "1106F1A4 00000505"
+
+  - name: "Iron Lizard (I)"
+    author: "Code Master"
+    notes: "[Weapon Modifier Codes]"
+    codes:
+      - "1106F1A4 00000D0D"
+
+  - name: "Laser Gun"
+    author: "Code Master"
+    notes: "[Weapon Modifier Codes]"
+    codes:
+      - "1106F1A4 00000606"
+
+  - name: "Normal Gun"
+    author: "Code Master"
+    notes: "[Weapon Modifier Codes]"
+    codes:
+      - "1106F1A4 00000000"
+
+  - name: "Rocket Launcher (R)"
+    author: "Code Master"
+    notes: "[Weapon Modifier Codes]"
+    codes:
+      - "1106F1A4 00000303"
+
+  - name: "Shotgun (S)"
+    author: "Code Master"
+    notes: "[Weapon Modifier Codes]"
+    codes:
+      - "1106F1A4 00000202"
+
+  - name: "Super Bullet Gun"
+    author: "Code Master"
+    notes: "[Weapon Modifier Codes]"
+    codes:
+      - "1106F1A4 00000F0F"
+
+  - name: "Super Handgun"
+    author: "Code Master"
+    notes: "[Weapon Modifier Codes]"
+    codes:
+      - "1106F1A4 00000A0A"
+
+  - name: "Super Laser"
+    author: "Code Master"
+    notes: "[Weapon Modifier Codes]"
+    codes:
+      - "1106F1A4 00000B0B"
+
+  - name: "Super Rocket Launcher"
+    author: "Code Master"
+    notes: "[Weapon Modifier Codes]"
+    codes:
+      - "1106F1A4 00000808"
+
+  - name: "Super Shotgun"
+    author: "Code Master"
+    notes: "[Weapon Modifier Codes]"
+    codes:
+      - "1106F1A4 00000707"

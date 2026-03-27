@@ -1,0 +1,201 @@
+# Breath Of Fire - Dragon Quarter cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51496
+
+game: "Breath Of Fire - Dragon Quarter"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51496"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01260E8 001260EB"
+
+  - name: "0% D Gauge"
+    author: "Codejunkies"
+    codes:
+      - "2076992C 00000000"
+
+  - name: "0% D Gauge (Press Select+Up)"
+    author: "Codejunkies"
+    codes:
+      - "D02C8EE0 0000FFEE"
+      - "2076992C 00000000"
+
+  - name: "1 Hit Kill Baddies"
+    author: "Codejunkies"
+    codes:
+      - "21013698 24070000"
+
+  - name: "2D Characters"
+    author: "Codejunkies"
+    codes:
+      - "2018AC48 3C013F30"
+      - "2018ACFC AE610020"
+
+  - name: "100 Experience Per Battle"
+    author: "Codejunkies"
+    codes:
+      - "21025F14 24420064"
+      - "21025F08 00000000"
+
+  - name: "500 Experience Per Battle"
+    author: "Codejunkies"
+    codes:
+      - "21025F14 244201F4"
+      - "21025F08 00000000"
+
+  - name: "1000 Experience Per Battle"
+    author: "Codejunkies"
+    codes:
+      - "21025F14 244203E8"
+      - "21025F08 00000000"
+
+  - name: "Bigger Sprites"
+    author: "Codejunkies"
+    codes:
+      - "2018AC48 3C013F90"
+      - "2018ACF4 AE61001C"
+      - "2018ACEC AE610018"
+      - "2018ACFC AE610020"
+
+  - name: "Bigger Zoom In"
+    author: "Codejunkies"
+    codes:
+      - "20103A50 3C013F00"
+
+  - name: "Enemies Have No AP"
+    author: "Codejunkies"
+    codes:
+      - "210136A8 24070000"
+      - "210136EC 24060000"
+
+  - name: "Fast Characters"
+    author: "Codejunkies"
+    codes:
+      - "2014C674 3C023F00"
+
+  - name: "Infinite AP"
+    author: "Codejunkies"
+    codes:
+      - "20181B7C 9607006A"
+      - "20181B80 A607001C"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "20181B1C 8E030064"
+      - "20181B20 AE030018"
+
+  - name: "Infinite Item Upon Use"
+    author: "Codejunkies"
+    codes:
+      - "201BEE00 00000000"
+
+  - name: "Infinite Party XP"
+    author: "Codejunkies"
+    codes:
+      - "20769930 0050FFAB"
+
+  - name: "Infinite Save Upon Use"
+    author: "Codejunkies"
+    codes:
+      - "201BEC58 00000000"
+
+  - name: "Infinite Zennys"
+    author: "Codejunkies"
+    codes:
+      - "20769928 0050FFAB"
+
+  - name: "Low Time"
+    author: "Codejunkies"
+    codes:
+      - "20769DB4 00001000"
+      - "20771324 00001000"
+
+  - name: "No Random Battles (Press L3+Up To Activate;L3+Down To Stop)"
+    author: "Codejunkies"
+    codes:
+      - "D02C8EE0 0000FFED"
+      - "20151614 24020100"
+      - "D02C8EE0 0000FFBD"
+      - "20151614 864201FC"
+
+  - name: "Press Select To Decrease Ratio"
+    author: "Codejunkies"
+    codes:
+      - "D02C8EE0 0000FFFE"
+      - "201C469C 0803FFE0"
+      - "D02C8EE0 0000FFFF"
+      - "201C469C 3C05002C"
+      - "200FFF80 24C6FF00"
+      - "200FFF84 AC26A6E8"
+      - "200FFF88 3C05002C"
+      - "200FFF8C 080711A8"
+
+  - name: "SIMC Slot 2 (Optional)"
+    author: "Codejunkies"
+    codes:
+      - "200FFED8 3C010010"
+      - "200FFEDC 8C25FED0"
+      - "200FFEE4 24A50001"
+      - "200FFEE8 AC25FED0"
+      - "200FFEEC 28A50010"
+      - "200FFEF0 14050012"
+      - "200FFEF8 AC20FED0"
+
+  - name: "Small Sprites"
+    author: "Codejunkies"
+    codes:
+      - "2018AC48 3C013F60"
+      - "2018ACF4 AE61001C"
+      - "2018ACEC AE610018"
+      - "2018ACFC AE610020"
+
+  - name: "Start With 1/2 Ratio"
+    author: "Codejunkies"
+    codes:
+      - "201BB3BC 24021000"
+
+  - name: "Start With 1/4 Ratio"
+    author: "Codejunkies"
+    codes:
+      - "201BB3BC 24020500"
+
+  - name: "Start With 1/8 Ratio"
+    author: "Codejunkies"
+    codes:
+      - "201BB3BC 24020250"
+
+  - name: "Super Item Modifier Code"
+    author: "Codejunkies"
+    codes:
+      - "200FFF00 3C01002D"
+      - "200FFF04 84218EE0"
+      - "200FFF08 2405FFFB"
+      - "200FFF0C 14A1000B"
+      - "200FFF14 92450000"
+      - "200FFF18 24A50001"
+      - "200FFF20 A2450000"
+      - "200FFF2C 24010050"
+      - "200FFF30 14250002"
+      - "200FFF38 A2400000"
+      - "200FFF40 08414835"
+      - "200FFF44 92450000"
+      - "210520D0 0803FFB6"
+
+  - name: "Ultra Fast Characters"
+    author: "Codejunkies"
+    codes:
+      - "2014C674 3C023E80"
+
+  - name: "Zoom In"
+    author: "Codejunkies"
+    codes:
+      - "20103A50 3C013F40"

@@ -1,0 +1,151 @@
+# Utawarerumono_ Prelude to the Fallen cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA16014
+
+game: "Utawarerumono_ Prelude to the Fallen"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA16014"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "ALL UNIT MOVEMENT [14]"
+    notes: "File: slot000\\GAME-(100|0[1-9][0-9]|00[1-9])\\.DAT"
+    codes:
+      - "[REGION]"
+      - "4800B8B4 0000000E"
+      - "40220120 00000000"
+
+  - name: "ALL UNITS current and max BP [50000]"
+    notes: "File: slot000\\GAME-(100|0[1-9][0-9]|00[1-9])\\.DAT"
+    codes:
+      - "[REGION]"
+      - "4A00B90A C350C350"
+      - "40220120 00000000"
+
+  - name: "All units 255 BASE Stats"
+    notes: "File: slot000\\GAME-(100|0[1-9][0-9]|00[1-9])\\.DAT"
+    codes:
+      - "[REGION]"
+      - "4A00B8F8 00FF00FF"
+      - "40220120 00000000"
+      - "4800B8FC 000000FF"
+      - "40220120 00000000"
+
+  - name: "All units 255 BP Stats"
+    notes: "File: slot000\\GAME-(100|0[1-9][0-9]|00[1-9])\\.DAT"
+    codes:
+      - "[REGION]"
+      - "4A00B904 00FF00FF"
+      - "40220120 00000000"
+      - "4800B908 000000FF"
+      - "40220120 00000000"
+
+  - name: "Items and Equipment"
+    notes: "File: slot000\\GAME-(100|0[1-9][0-9]|00[1-9])\\.DAT"
+    codes:
+      - "[REGION]"
+      - "4800E57B 0000000A"
+      - "40470004 00000000"
+
+  - name: "Level"
+    notes: "[Characters]  File: slot000\\GAME-(100|0[1-9][0-9]|00[1-9])\\.DAT"
+    codes:
+      - "[REGION]"
+      - "92000000 [CHARA]"
+      - "18000000 0000[AMOUNT:0063:HEX:BIG]"
+
+  - name: "Exp"
+    notes: "[Characters]  File: slot000\\GAME-(100|0[1-9][0-9]|00[1-9])\\.DAT"
+    codes:
+      - "[REGION]"
+      - "92000000 [CHARA]"
+      - "28000014 [AMOUNT:0063:HEX:BIG]"
+
+  - name: "Health 1"
+    notes: "[Characters]  File: slot000\\GAME-(100|0[1-9][0-9]|00[1-9])\\.DAT"
+    codes:
+      - "[REGION]"
+      - "92000000 [CHARA]"
+      - "18000018 0000[AMOUNT:270F:HEX:BIG]"
+      - "18000060 0000[AMOUNT:270F:HEX:BIG]"
+
+  - name: "Movement"
+    notes: "[Characters]  File: slot000\\GAME-(100|0[1-9][0-9]|00[1-9])\\.DAT"
+    codes:
+      - "[REGION]"
+      - "92000000 [CHARA]"
+      - "18000020 0000[AMOUNT:270F:HEX:BIG]"
+
+  - name: "Base Attack"
+    notes: "[Characters]  File: slot000\\GAME-(100|0[1-9][0-9]|00[1-9])\\.DAT"
+    codes:
+      - "[REGION]"
+      - "92000000 [CHARA]"
+      - "18000064 0000[AMOUNT:270F:HEX:BIG]"
+
+  - name: "Base Defense"
+    notes: "[Characters]  File: slot000\\GAME-(100|0[1-9][0-9]|00[1-9])\\.DAT"
+    codes:
+      - "[REGION]"
+      - "92000000 [CHARA]"
+      - "18000066 0000[AMOUNT:270F:HEX:BIG]"
+
+  - name: "Base Magic Defence"
+    notes: "[Characters]  File: slot000\\GAME-(100|0[1-9][0-9]|00[1-9])\\.DAT"
+    codes:
+      - "[REGION]"
+      - "92000000 [CHARA]"
+      - "18000068 0000[AMOUNT:270F:HEX:BIG]"
+
+  - name: "Bp Attack"
+    notes: "[Characters]  File: slot000\\GAME-(100|0[1-9][0-9]|00[1-9])\\.DAT"
+    codes:
+      - "[REGION]"
+      - "92000000 [CHARA]"
+      - "18000070 0000[AMOUNT:270F:HEX:BIG]"
+
+  - name: "Bp Defense"
+    notes: "[Characters]  File: slot000\\GAME-(100|0[1-9][0-9]|00[1-9])\\.DAT"
+    codes:
+      - "[REGION]"
+      - "92000000 [CHARA]"
+      - "18000072 0000[AMOUNT:270F:HEX:BIG]"
+
+  - name: "Bp Magic Defence"
+    notes: "[Characters]  File: slot000\\GAME-(100|0[1-9][0-9]|00[1-9])\\.DAT"
+    codes:
+      - "[REGION]"
+      - "92000000 [CHARA]"
+      - "18000074 0000[AMOUNT:270F:HEX:BIG]"
+
+  - name: "Current Bp"
+    notes: "[Characters]  File: slot000\\GAME-(100|0[1-9][0-9]|00[1-9])\\.DAT"
+    codes:
+      - "[REGION]"
+      - "92000000 [CHARA]"
+      - "18000076 0000[AMOUNT:270F:HEX:BIG]"
+      - "18000078 0000[AMOUNT:270F:HEX:BIG]"
+
+  - name: "Equipment"
+    notes: "[Characters]  File: slot000\\GAME-(100|0[1-9][0-9]|00[1-9])\\.DAT"
+    codes:
+      - "[REGION]"
+      - "92000000 [CHARA]"
+      - "180000AC 0000[AMOUNT:270F:HEX:BIG]"
+
+  - name: "Item 2"
+    notes: "[Characters]  File: slot000\\GAME-(100|0[1-9][0-9]|00[1-9])\\.DAT"
+    codes:
+      - "[REGION]"
+      - "92000000 [CHARA]"
+      - "180000AE 0000[AMOUNT:270F:HEX:BIG]"
+
+  - name: "Costume"
+    notes: "[Characters]  File: slot000\\GAME-(100|0[1-9][0-9]|00[1-9])\\.DAT"
+    codes:
+      - "[REGION]"
+      - "92000000 [CHARA]"
+      - "180000B2 0000[AMOUNT:270F:HEX:BIG]"

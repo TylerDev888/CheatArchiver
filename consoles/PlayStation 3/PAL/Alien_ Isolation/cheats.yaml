@@ -1,0 +1,32 @@
+# Alien_ Isolation cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01697
+
+game: "Alien_ Isolation"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01697"
+cheat_type: "Save Editor"
+source: "by bucanero"
+
+cheats:
+  - name: "Update Sha1 Xor64 For Sthefile (required)"
+    notes: "File: STHEFILE"
+    codes:
+      - "set [off1]:read(0x18, 4)"
+      - "set [off2]:read(0x1C, 4)"
+      - "set pointer:[off1]+[off2]-1"
+      - "set range:0x20,pointer"
+      - "set [csum]:sha1_xor64"
+      - "write at 0x08:[csum]"
+
+  - name: "Update Sha1 Xor64 For Othefile (required)"
+    notes: "File: OTHEFILE"
+    codes:
+      - "set [off1]:read(0x18, 4)"
+      - "set [off2]:read(0x1C, 4)"
+      - "set pointer:[off1]+[off2]-1"
+      - "set range:0x20,pointer"
+      - "set [csum]:sha1_xor64"
+      - "write at 0x08:[csum]"

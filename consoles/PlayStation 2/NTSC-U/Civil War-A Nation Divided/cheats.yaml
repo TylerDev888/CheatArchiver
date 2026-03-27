@@ -1,0 +1,58 @@
+# Civil War-A Nation Divided cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21474
+
+game: "Civil War-A Nation Divided"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21474"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Masters]"
+    codes:
+      - "902EC058 00832021"
+
+  - name: "P1 Press Select To Skip FMV"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "D065FF02 0000FFFE"
+      - "202DF718 24020001"
+      - "D065FF02 0000FFFF"
+      - "202DF718 8C620000"
+
+  - name: "Infinite Health"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "201D7778 3C0142C8"
+      - "201D7780 AC810008"
+
+  - name: "Infinite Ammo/Grenades"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "20209018 00000000"
+
+  - name: "Max Infinite Ammo/Grenades"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "20208EDC 24160063"
+
+  - name: "Never Reload"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "20346AFC 24020006"
+
+  - name: "Never Reload With Max Clip"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "20346AFC 24020064"

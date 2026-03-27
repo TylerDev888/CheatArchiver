@@ -1,0 +1,28 @@
+# Bakugan_ Defenders of the Core cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  SB6E52
+
+game: "Bakugan_ Defenders of the Core"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "SB6E52"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Gain Core Energy For Max"
+    author: "Skiller"
+    codes:
+      - "041AACC4 90030004"
+      - "041AACD8 90E30008"
+
+  - name: "No Core Energy Loss (traps)"
+    author: "Skiller"
+    codes:
+      - "040A3B40 90A4075C"
+
+  - name: "Dont Lose Cards .."
+    author: "Skiller"
+    codes:
+      - "040A3B58 38040000"

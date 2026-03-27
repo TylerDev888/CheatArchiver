@@ -1,0 +1,35 @@
+# NBA Live 2001 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50024
+
+game: "NBA Live 2001"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50024"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0104090 000001FD"
+
+  - name: "Infinite Stamina P1"
+    author: "Codejunkies"
+    notes: "[1 On 1 Mode Only]"
+    codes:
+      - "103DE5F2 00007FFF"
+
+  - name: "Infinite Stamina P2"
+    author: "Codejunkies"
+    notes: "[1 On 1 Mode Only]"
+    codes:
+      - "103E0C12 00007FFF"
+
+  - name: "Heavy Ball Mode"
+    author: "Codejunkies"
+    codes:
+      - "103E2AC0 00000000"

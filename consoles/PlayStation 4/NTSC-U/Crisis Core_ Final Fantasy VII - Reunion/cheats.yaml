@@ -1,0 +1,276 @@
+# Crisis Core_ Final Fantasy VII - Reunion cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA31348
+
+game: "Crisis Core_ Final Fantasy VII - Reunion"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA31348"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Difficulty"
+    notes: "File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "08008AD4 000000[Diff]"
+
+  - name: "Gil"
+    notes: "File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "28008AB1 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Mission Unlocked"
+    notes: "File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "92000000 0000[Mission]"
+      - "08000108 000000[BOOL]"
+
+  - name: "Mission Clear"
+    notes: "File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "92000000 0000[Mission]"
+      - "0800010B 000000[Clear]"
+
+  - name: "Add And Mod Materia"
+    notes: "File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "92000000 00000005"
+      - "A8[Materia-Slot] 0000000E"
+      - "[Materia-ID]0100[Stat Bonus]00[Amount:6300:HEX:LITTLE<Stat Bonus Amount>]"
+
+  - name: "Add And Mod Amount Item"
+    notes: "File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "92000000 00000005"
+      - "A8[Item-Slot] 00000007"
+      - "[Item][Amount:6300:HEX:LITTLE<Quantity>]01000000"
+
+  - name: "Max Materia Slots"
+    notes: "File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "0800097D 00000006"
+
+  - name: "DMW Level"
+    notes: "File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "08008a7b 000000[DMW]"
+
+  - name: "Sephiroth"
+    notes: "[DMW Emotion]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "08008a91 000000[Emotion]"
+
+  - name: "Angeal"
+    notes: "[DMW Emotion]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "08008a92 000000[Emotion]"
+
+  - name: "Tseng"
+    notes: "[DMW Emotion]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "08008a93 000000[Emotion]"
+
+  - name: "Cloud"
+    notes: "[DMW Emotion]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "08008a94 000000[Emotion]"
+
+  - name: "Aerith"
+    notes: "[DMW Emotion]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "08008a95 000000[Emotion]"
+
+  - name: "Cissnei"
+    notes: "[DMW Emotion]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "08008a96 000000[Emotion]"
+
+  - name: "Genesis"
+    notes: "[DMW Emotion]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "08008a97 000000[Emotion]"
+
+  - name: "Summons"
+    notes: "[DMW Emotion]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "08008a98 000000[Emotion]"
+
+  - name: "Save Portrait"
+    notes: "File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "080009b7 000000[Portrait]"
+
+  - name: "Materia Fusion"
+    notes: "File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "0800097e 000000[BOOL]"
+
+  - name: "SOLDIER Materia Set DLC"
+    notes: "File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "08000de6 000000[BOOL]"
+
+  - name: "Level"
+    notes: "[Character]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "08008a37 000000[Amount:63:HEX:BIG]"
+
+  - name: "Exp"
+    notes: "[Character]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "28008a05 [Amount:3B9AC9FF:HEX:BIG]"
+
+  - name: "SP"
+    notes: "[Character]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "28008a0d [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "HP (Current)"
+    notes: "[HP]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "28008a11 [Amount:0001869F:HEX:BIG]"
+
+  - name: "HP (Max)"
+    notes: "[HP]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "28008a15 [Amount:0001869F:HEX:BIG]"
+
+  - name: "Base Max HP"
+    notes: "[HP]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "28008a19 [Amount:0001869F:HEX:BIG]"
+
+  - name: "MP (Current)"
+    notes: "[MP]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "28008a1d [Amount:0000270F:HEX:BIG]"
+
+  - name: "MP (Max)"
+    notes: "[MP]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "28008a21 [Amount:0000270F:HEX:BIG]"
+
+  - name: "Base Max MP"
+    notes: "[MP]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "28008a25 [Amount:0000270F:HEX:BIG]"
+
+  - name: "AP (Current)"
+    notes: "[AP]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "28008a29 [Amount:0000270F:HEX:BIG]"
+
+  - name: "AP (Max)"
+    notes: "[AP]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "28008a2d [Amount:0000270F:HEX:BIG]"
+
+  - name: "Base Max AP"
+    notes: "[AP]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "28008a31 [Amount:0000270F:HEX:BIG]"
+
+  - name: "Attack"
+    notes: "[Stats]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "08008a38 000000[Amount:63:HEX:BIG]"
+
+  - name: "Vitality"
+    notes: "[Stats]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "08008a39 000000[Amount:63:HEX:BIG]"
+
+  - name: "Magic"
+    notes: "[Stats]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "08008a3a 000000[Amount:63:HEX:BIG]"
+
+  - name: "Spirit"
+    notes: "[Stats]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "08008a3b 000000[Amount:63:HEX:BIG]"
+
+  - name: "Luck"
+    notes: "[Stats]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "08008a3c 000000[Amount:63:HEX:BIG]"
+
+  - name: "???"
+    notes: "[Stats]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "08008a3d 000000[Amount:63:HEX:BIG]"
+
+  - name: "Base Attack"
+    notes: "[Base Stats]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "08008a3e 000000[Amount:63:HEX:BIG]"
+
+  - name: "Base Vitality"
+    notes: "[Base Stats]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "08008a3f 000000[Amount:63:HEX:BIG]"
+
+  - name: "Base Magic"
+    notes: "[Base Stats]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "08008a40 000000[Amount:63:HEX:BIG]"
+
+  - name: "Base Spirit"
+    notes: "[Base Stats]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "08008a41 000000[Amount:63:HEX:BIG]"
+
+  - name: "Base Luck"
+    notes: "[Base Stats]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "08008a42 000000[Amount:63:HEX:BIG]"
+
+  - name: "Base???"
+    notes: "[Base Stats]  File: SAVEDATAPROGRESS\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SaveSlot]0004 53484544"
+      - "08008a43 000000[Amount:63:HEX:BIG]"

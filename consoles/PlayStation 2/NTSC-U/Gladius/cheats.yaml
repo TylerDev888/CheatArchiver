@@ -1,0 +1,803 @@
+# Gladius cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20490
+
+game: "Gladius"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20490"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02AA9B4 002AA9B7"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "902AA9B4 0C0ACA04"
+      - "200C2000 16400006"
+      - "200C2004 00031020"
+      - "200C2008 24013634"
+      - "200C200C 00000000"
+      - "200C2010 24010064"
+      - "200C2014 00000000"
+      - "200C2018 00000000"
+      - "200C201C 03E00008"
+      - "200C2020 84820102"
+      - "2018AAEC 0C030800"
+
+  - name: "1-Hit Death Enemies"
+    author: "Code Master>tab"
+    codes:
+      - "200C0240 56400001"
+      - "200C0244 A4800102"
+      - "200C0248 03E00008"
+      - "200C024C 00000000"
+      - "2018AB00 0C030090"
+
+  - name: "9999 Job Points After Use"
+    author: "12345"
+    codes:
+      - "20142010 2403270F"
+
+  - name: "Can Equip Gladiator With Anything"
+    author: "12345"
+    codes:
+      - "0051C138 00000001"
+
+  - name: "Infinite Defensive Affinity"
+    author: "Code Master>tab"
+    notes: "[Character 1 Codes]"
+    codes:
+      - "D0761C10 00000000"
+      - "20761C44 00000064"
+
+  - name: "Infinite Health"
+    author: "Code Master>tab"
+    notes: "[Character 1 Codes]"
+    codes:
+      - "D0761C10 00000000"
+      - "10761C36 00000032"
+
+  - name: "Infinite Offensive Affinity"
+    author: "Code Master>tab"
+    notes: "[Character 1 Codes]"
+    codes:
+      - "D0761C10 00000000"
+      - "20761C40 00000064"
+
+  - name: "Max Attack"
+    author: "Code Master>tab"
+    notes: "[Character 1 Codes]"
+    codes:
+      - "D0761C10 00000000"
+      - "00761C39 00000032"
+
+  - name: "Max Sub-Attack?"
+    author: "Code Master>tab"
+    notes: "[Character 1 Codes]"
+    codes:
+      - "D0761C10 00000000"
+      - "00761C3D 00000064"
+
+  - name: "Max Sub-Attack"
+    author: "Code Master>tab"
+    notes: "[Character 2 Codes]"
+    codes:
+      - "D0762094 00000000"
+      - "007620C1 00000064"
+
+  - name: "Code Breaker Version 1-5 Enable Code (Must Be On)"
+    author: "Code Master>tab"
+    codes:
+      - "F0110008 002AA9B7"
+
+  - name: "Code Breaker Version 6+ Enable Code (Must Be On)"
+    author: "Code Master>tab"
+    codes:
+      - "902AA9B4 0C0ACA04"
+
+  - name: "Crowd/Popularity Meter Always At 100%"
+    author: "12345"
+    codes:
+      - "005AADE3 00000043"
+
+  - name: "Extra Job Points Usage"
+    author: "Code Master>tab"
+    codes:
+      - "20142010 00641821"
+
+  - name: "All Rogues"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "405BC9A0 00200001"
+      - "01010101 00000000"
+
+  - name: "Rogue 1"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9A0 00000001"
+
+  - name: "Rogue 2"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9A1 00000001"
+
+  - name: "Rogue 3"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9A2 00000001"
+
+  - name: "Rogue 4"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9A3 00000001"
+
+  - name: "Rogue 5"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9A4 00000001"
+
+  - name: "Rogue 6"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9A5 00000001"
+
+  - name: "Rogue 7"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9A6 00000001"
+
+  - name: "Rogue 8"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9A7 00000001"
+
+  - name: "Rogue 9"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9A8 00000001"
+
+  - name: "Rogue 10"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9A9 00000001"
+
+  - name: "Rogue 11"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9AA 00000001"
+
+  - name: "Rogue 12"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9BB 00000001"
+
+  - name: "Rogue 13"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9BE 00000001"
+
+  - name: "Rogue 14"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9C0 00000001"
+
+  - name: "Rogue 15"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9C1 00000001"
+
+  - name: "Rogue 16"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9C2 00000001"
+
+  - name: "Rogue 17"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9C3 00000001"
+
+  - name: "Rogue 18"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9C5 00000001"
+
+  - name: "Rogue 19"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9C6 00000001"
+
+  - name: "Rogue 20"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9C7 00000001"
+
+  - name: "Rogue 21"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9C8 00000001"
+
+  - name: "Rogue 22"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9C9 00000001"
+
+  - name: "Rogue 23"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9CA 00000001"
+
+  - name: "Rogue 24"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9CB 00000001"
+
+  - name: "Rogue 25"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9CC 00000001"
+
+  - name: "Rogue 26"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9CD 00000001"
+
+  - name: "Rogue 27"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9CE 00000001"
+
+  - name: "Rogue 28"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9CF 00000001"
+
+  - name: "Rogue 29"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9D0 00000001"
+
+  - name: "Rogue 30"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9D9 00000001"
+
+  - name: "Rogue 31"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9DA 00000001"
+
+  - name: "Rogue 32"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9DB 00000001"
+
+  - name: "Rogue 33"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9DC 00000001"
+
+  - name: "Rogue 34"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9DE 00000001"
+
+  - name: "Rogue 35"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9E0 00000001"
+
+  - name: "Rogue 36"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9E1 00000001"
+
+  - name: "Rogue 37"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9E3 00000001"
+
+  - name: "Rogue 38"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9E4 00000001"
+
+  - name: "Rogue 39"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9E7 00000001"
+
+  - name: "Rogue 40"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9E8 00000001"
+
+  - name: "Rogue 41"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9E9 00000001"
+
+  - name: "Rogue 42"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9EA 00000001"
+
+  - name: "Rogue 43"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9EB 00000001"
+
+  - name: "Rogue 44"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9F0 00000001"
+
+  - name: "Rogue 45"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9F2 00000001"
+
+  - name: "Rogue 46"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9F3 00000001"
+
+  - name: "Rogue 47"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9F8 00000001"
+
+  - name: "Rogue 48"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9F9 00000001"
+
+  - name: "Rogue 49"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9FA 00000001"
+
+  - name: "Rogue 50"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9FB 00000001"
+
+  - name: "Rogue 51"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9FC 00000001"
+
+  - name: "Rogue 52"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9FD 00000001"
+
+  - name: "Rogue 53"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9FE 00000001"
+
+  - name: "Rogue 54"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BC9FF 00000001"
+
+  - name: "Rogue 55"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BCA00 00000001"
+
+  - name: "Rogue 56"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BCA01 00000001"
+
+  - name: "Rogue 57"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BCA02 00000001"
+
+  - name: "Rogue 58"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BCA03 00000001"
+
+  - name: "Rogue 59"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BCA04 00000001"
+
+  - name: "Rogue 60"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BCA05 00000001"
+
+  - name: "Rogue 61"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BCA0A 00000001"
+
+  - name: "Rogue 62"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BCA0B 00000001"
+
+  - name: "Rogue 63"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BCA0C 00000001"
+
+  - name: "Rogue 64"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BCA0D 00000001"
+
+  - name: "Rogue 65"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BCA0E 00000001"
+
+  - name: "Rogue 66"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BCA0F 00000001"
+
+  - name: "Rogue 67"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BCA10 00000001"
+
+  - name: "Rogue 68"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BCA11 00000001"
+
+  - name: "Rogue 69"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BCA12 00000001"
+
+  - name: "Rogue 70"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BCA13 00000001"
+
+  - name: "Rogue 71"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BCA1D 00000001"
+
+  - name: "Rogue 72"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BCA1E 00000001"
+
+  - name: "Rogue 73"
+    author: "Code Master>tab"
+    notes: "[Have Rogues Gallery Codes]"
+    codes:
+      - "005BCA1F 00000001"
+
+  - name: "High Status After Level Up"
+    author: "12345"
+    codes:
+      - "2014314C 340203D4"
+      - "20143154 A642004E"
+      - "20143158 A6420050"
+      - "2014315C A6420052"
+      - "20143160 A6420054"
+
+  - name: "Immune By Negative Status Effects"
+    author: "12345"
+    codes:
+      - "D051B168 0000FFFF"
+      - "201D0EC0 00000000"
+      - "D051B168 00000000"
+      - "201D0EC0 A2020048"
+
+  - name: "Infinite Health 1St Warrior"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "10761C36 000003E7"
+
+  - name: "Infinite Health 2Nd Warrior"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "107620BA 000003E7"
+
+  - name: "Infinite Job Points-Most Char"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "10577302 000003E7"
+      - "105773AE 000003E7"
+      - "1057745A 000003E7"
+      - "105775B2 000003E7"
+      - "1057770A 000003E7"
+      - "105779BA 000003E7"
+      - "10577A66 000003E7"
+      - "10577B12 000003E7"
+      - "10577F1A 000003E7"
+
+  - name: "Quick Level Gain-Most Char"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "10577304 0000FFFF"
+      - "105773B0 0000FFFF"
+      - "1057745C 0000FFFF"
+      - "105775B4 0000FFFF"
+      - "1057770C 0000FFFF"
+      - "105779BC 0000FFFF"
+      - "10577A68 0000FFFF"
+      - "10577B14 0000FFFF"
+      - "10577F1C 0000FFFF"
+
+  - name: "In-Battle Codes Note"
+    notes: "[In-Battle Codes]  N/A"
+
+  - name: "Infinite Gold"
+    author: "Code Master>tab"
+    codes:
+      - "105BC97C 0000FFFF"
+
+  - name: "Character 1"
+    author: "Code Master>tab"
+    notes: "[Infinite Job Points Codes]"
+    codes:
+      - "10577302 0000270F"
+
+  - name: "Character 2"
+    author: "Code Master>tab"
+    notes: "[Infinite Job Points Codes]"
+    codes:
+      - "105773AE 0000270F"
+
+  - name: "Character 3"
+    author: "Code Master>tab"
+    notes: "[Infinite Job Points Codes]"
+    codes:
+      - "1057745A 0000270F"
+
+  - name: "Character 4"
+    author: "Code Master>tab"
+    notes: "[Infinite Job Points Codes]"
+    codes:
+      - "10577506 0000270F"
+
+  - name: "Character 5"
+    author: "Code Master>tab"
+    notes: "[Infinite Job Points Codes]"
+    codes:
+      - "105775B2 0000270F"
+
+  - name: "Character 6"
+    author: "Code Master>tab"
+    notes: "[Infinite Job Points Codes]"
+    codes:
+      - "1057765E 0000270F"
+
+  - name: "Character 7"
+    author: "Code Master>tab"
+    notes: "[Infinite Job Points Codes]"
+    codes:
+      - "1057770A 0000270F"
+
+  - name: "Character 8"
+    author: "Code Master>tab"
+    notes: "[Infinite Job Points Codes]"
+    codes:
+      - "105777B6 0000270F"
+
+  - name: "Character 9"
+    author: "Code Master>tab"
+    notes: "[Infinite Job Points Codes]"
+    codes:
+      - "10577862 0000270F"
+
+  - name: "Character 10"
+    author: "Code Master>tab"
+    notes: "[Infinite Job Points Codes]"
+    codes:
+      - "1057790E 0000270F"
+
+  - name: "Character 11"
+    author: "Code Master>tab"
+    notes: "[Infinite Job Points Codes]"
+    codes:
+      - "105779BA 0000270F"
+
+  - name: "Character 12"
+    author: "Code Master>tab"
+    notes: "[Infinite Job Points Codes]"
+    codes:
+      - "10577A66 0000270F"
+
+  - name: "Character 13"
+    author: "Code Master>tab"
+    notes: "[Infinite Job Points Codes]"
+    codes:
+      - "10577B12 0000270F"
+
+  - name: "Character 14"
+    author: "Code Master>tab"
+    notes: "[Infinite Job Points Codes]"
+    codes:
+      - "10577BBE 0000270F"
+
+  - name: "Infinite Job Points Usage"
+    author: "Code Master>tab"
+    codes:
+      - "20142014 00000000"
+
+  - name: "Infinite Skill Point (SP)"
+    author: "12345"
+    codes:
+      - "201EFF48 00000000"
+      - "D051B168 00000000"
+      - "201EFEC8 00000000"
+      - "D051B168 0000FFFF"
+      - "201EFEC8 A0830105"
+
+  - name: "Infinite: Health"
+    author: "MadCatz"
+    codes:
+      - "200C2008 A4820102"
+      - "200C200C A4800100"
+
+  - name: "Infinite: Money"
+    author: "MadCatz"
+    codes:
+      - "205BC97C 000F423F"
+
+  - name: "Infinite: Offensive Afinity Bar"
+    author: "MadCatz"
+    codes:
+      - "200C2014 A481010C"
+      - "200C2018 A4810110"
+
+  - name: "Make ALL Recruits Level 1"
+    author: "12345"
+    codes:
+      - "002017F2 00000091"
+      - "00201802 00000080"
+
+  - name: "Max Cash"
+    author: "Codejunkies"
+    codes:
+      - "205BC97C 05F5E0FF"
+
+  - name: "Max Days"
+    author: "Code Master>tab"
+    codes:
+      - "20605884 4A828480"
+
+  - name: "Max Defensive Affinity After Being Hit By Enemy"
+    author: "12345"
+    codes:
+      - "D051B168 0000FFFF"
+      - "201ECB28 24030064"
+      - "D051B168 00000000"
+      - "201ECB28 00651821"
+
+  - name: "Max Offensive Affinity After Hitting Enemy"
+    author: "12345"
+    codes:
+      - "D051B168 00000000"
+      - "201ECAC0 24030064"
+      - "D051B168 0000FFFF"
+      - "201ECAC0 00651821"
+
+  - name: "Money (Press L1+R1=Max//Press L2+R2=Zero)"
+    author: "12345"
+    codes:
+      - "D069DB82 0000F3FF"
+      - "205BC97C 05F5E0FF"
+      - "D069DB82 0000FCFF"
+      - "205BC97C 00000000"
+
+  - name: "Quick Level Up"
+    author: "12345"
+    codes:
+      - "20142EF4 0340882D"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master>tab"
+    notes: "[Masters]"
+    codes:
+      - "F0110008 002AA9B7"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master>tab"
+    notes: "[Masters]"
+    codes:
+      - "902AA9B4 0C0ACA04"
+
+  - name: "Max Gold"
+    author: "Code Master>tab"
+    notes: "[Codes]"
+    codes:
+      - "205BC97C 05F5E0FF"

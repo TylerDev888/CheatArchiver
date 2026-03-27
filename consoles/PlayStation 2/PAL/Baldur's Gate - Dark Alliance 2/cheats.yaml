@@ -1,0 +1,151 @@
+# Baldur's Gate - Dark Alliance 2 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52188
+
+game: "Baldur's Gate - Dark Alliance 2"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52188"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100198 0000000E"
+
+  - name: "60 Hertz Mode"
+    author: "Codejunkies"
+    codes:
+      - "202D2708 2414FFC0"
+      - "202D24A0 24120002"
+
+  - name: "All Skills Maxed Out"
+    author: "Codejunkies"
+    codes:
+      - "202991EC 2410000F"
+
+  - name: "Disable A.I."
+    author: "Codejunkies"
+    codes:
+      - "2025EF98 03E00008"
+      - "2025EF9C 00000000"
+
+  - name: "Infinite Health Potion Use"
+    author: "Codejunkies"
+    codes:
+      - "2029E118 00000000"
+
+  - name: "Infinite Money"
+    author: "Codejunkies"
+    codes:
+      - "2055F0E4 0098967F"
+
+  - name: "Infinite Rejuv Potion Use"
+    author: "Codejunkies"
+    codes:
+      - "2029E42C 00000000"
+
+  - name: "L3 During Pause For Debug Menu"
+    author: "Codejunkies"
+    codes:
+      - "D04CF682 0000FFFD"
+      - "203608C8 00311510"
+
+  - name: "Carry No Weight"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "2055F16C 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "2055F0AC 46C80000"
+      - "2055F0B0 46C80000"
+
+  - name: "Infinite Magic"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "2055F0C4 46C80000"
+      - "2055F0C8 46C80000"
+
+  - name: "Max Charisma"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "0055F090 00000063"
+
+  - name: "Max Constitution"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "0055F084 00000063"
+
+  - name: "Max Dexterity"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "0055F080 00000063"
+
+  - name: "Max Intelligence"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "0055F088 00000063"
+
+  - name: "Max Strength"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "0055F07C 00000063"
+
+  - name: "Max Upgrade Points"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "0055F0E8 00000063"
+
+  - name: "Max Wisdom"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "0055F08C 00000063"
+
+  - name: "Infinite Upgrade Points"
+    author: "Codejunkies"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "00565418 00000063"
+
+  - name: "Press L2 For Max Items"
+    author: "Codejunkies"
+    codes:
+      - "D04CF682 0000FEFF"
+      - "202AE9BC 24060032"
+      - "D04CF682 0000FEFF"
+      - "202AE9C4 A2A60004"
+      - "D04CF682 0000FFFF"
+      - "202AE9BC 86A60004"
+      - "D04CF682 0000FFFF"
+      - "202AE9C4 1440000E"
+
+  - name: "Quick Experience (1000 XP Per Kill)"
+    author: "Codejunkies"
+    codes:
+      - "202B92C4 248503E8"
+
+  - name: "Quick Experience (10000 XP Per Kill)"
+    author: "Codejunkies"
+    codes:
+      - "202B92C4 2485270F"
+
+  - name: "Unlock Extreme Mode & Char"
+    author: "Codejunkies"
+    codes:
+      - "0044C2E0 0000001F"

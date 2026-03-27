@@ -1,0 +1,44 @@
+# FIFA Football 2003 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "FIFA Football 2003"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 003BF1AF"
+
+  - name: "Scores 9 Goals"
+    author: "Xploder"
+    notes: "[Home Team]"
+    codes:
+      - "D05DCA02 28097FFE"
+      - "003DB7F0 28096809"
+
+  - name: "Scores No Goals"
+    author: "Xploder"
+    notes: "[Home Team]"
+    codes:
+      - "D05DCA02 2809BFFE"
+      - "003DB7F0 28096800"
+
+  - name: "Scores No Goal"
+    author: "Xploder"
+    notes: "[Away Team]"
+    codes:
+      - "D05DCA02 2809EFFE"
+      - "003DB7F4 28096800"
+
+  - name: "Start Season With 99 Points"
+    author: "Xploder"
+    notes: "[Away Team]"
+    codes:
+      - "20D772E4 00000063"

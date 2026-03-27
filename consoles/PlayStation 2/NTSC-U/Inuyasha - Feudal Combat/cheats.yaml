@@ -1,0 +1,383 @@
+# Inuyasha - Feudal Combat cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21193
+
+game: "Inuyasha - Feudal Combat"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21193"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F030C004 0030C007"
+
+  - name: "Enable Code"
+    author: "nolberto82"
+    notes: "[Master Codes]"
+    codes:
+      - "9010B634 0C0C3058"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]  Enable Code (Must Be On) 9030C188 00832021"
+    codes:
+      - "9010B350 0C0C3076"
+
+  - name: "100% Cleared"
+    author: "Codejunkies"
+    notes: "[Data 1]"
+    codes:
+      - "20432110 FFFFFFFF"
+
+  - name: "Max Atk"
+    author: "Codejunkies"
+    notes: "[Data 1]"
+    codes:
+      - "20432074 00000063"
+
+  - name: "Max Df"
+    author: "Codejunkies"
+    notes: "[Data 1]"
+    codes:
+      - "20432078 00000063"
+
+  - name: "Max HP"
+    author: "Codejunkies"
+    notes: "[Data 1]"
+    codes:
+      - "2043207C 00000063"
+
+  - name: "Max Spd"
+    author: "Codejunkies"
+    notes: "[Data 1]"
+    codes:
+      - "20432080 00000063"
+
+  - name: "Player"
+    author: "Codejunkies"
+    notes: "[Data 1]"
+
+  - name: "Enable Debug Menu At Startup"
+    author: "punk7890"
+    codes:
+      - "00100374 00000004"
+
+  - name: "Health/Spirit Enabler (Must Be On For Health/Spirit Codes)"
+    author: "MadCatz"
+    codes:
+      - "200C2000 3C08000C"
+      - "200C2004 8E030000"
+      - "200C2008 00230821"
+      - "200C200C 91010000"
+      - "200C2010 10200002"
+      - "200C2014 8E021BE8"
+      - "200C2018 AE021BE4"
+      - "200C201C 91010004"
+      - "200C2020 10200002"
+      - "200C2024 24210384"
+      - "200C2028 AE011BF4"
+      - "200C202C 03E00008"
+      - "200C2020 8E021BE4"
+      - "201D8254 0C030800"
+
+  - name: "Hit Anywhere Both Players"
+    author: "nolberto82"
+    codes:
+      - "201DC7C8 00000000"
+
+  - name: "Infinite Health P1"
+    author: "MadCatz"
+    codes:
+      - "000C0000 00000001"
+
+  - name: "Infinite Health P1 Partner"
+    author: "MadCatz"
+    codes:
+      - "000C0002 00000001"
+
+  - name: "Infinite Health P2"
+    author: "MadCatz"
+    codes:
+      - "000C0001 00000001"
+
+  - name: "Infinite Health P2 Partner"
+    author: "MadCatz"
+    codes:
+      - "000C0003 00000001"
+
+  - name: "Infinite Spirit P1"
+    author: "MadCatz"
+    codes:
+      - "000C0004 00000001"
+      - "000C0006 00000001"
+
+  - name: "Infinite Spirit P2"
+    author: "MadCatz"
+    codes:
+      - "000C0005 00000001"
+      - "000C0007 00000001"
+
+  - name: "Activator For Following Codes"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "200C0220 8E020000"
+      - "200C0298 0807609F"
+      - "200C029C 8E021BE4"
+      - "201D8278 0C030088"
+
+  - name: "Infinite Health P1-Partner"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "200C023C 24010002"
+      - "200C0240 50220001"
+      - "200C0244 AE031BE4"
+
+  - name: "Infinite Health P2-Partner"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "200C023C 24010003"
+      - "200C0240 50220001"
+      - "200C0244 AE031BE4"
+
+  - name: "Infinite Spirit Power P1"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "200C0248 24010000"
+      - "200C024C 50220001"
+      - "200C0250 AE031BF4"
+
+  - name: "Infinite Spirit Power P2"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "200C0254 24010001"
+      - "200C0258 50220001"
+      - "200C025C AE031BF4"
+
+  - name: "No Health P1"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "200C0224 24010000"
+      - "200C0228 50220001"
+      - "200C022C AE001BE4"
+
+  - name: "No Health P1-Partner"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "200C023C 24010002"
+      - "200C0240 50220001"
+      - "200C0244 AE001BE4"
+
+  - name: "No Health P2"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "200C0230 24010001"
+      - "200C0234 50220001"
+      - "200C0238 AE001BE4"
+
+  - name: "No Health P2-Partner"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "200C023C 24010003"
+      - "200C0240 50220001"
+      - "200C0244 AE001BE4"
+
+  - name: "No Spirit Power P1"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "200C0248 24010000"
+      - "200C024C 50220001"
+      - "200C0250 AE001BF4"
+
+  - name: "No Spirit Power P2"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "200C0254 24010001"
+      - "200C0258 50220001"
+      - "200C025C AE001BF4"
+
+  - name: "Max Fire Level"
+    author: "Code Master"
+    notes: "[Mission Mode Data 01 Codes]"
+    codes:
+      - "204320E4 00000064"
+
+  - name: "Max Forest Level"
+    author: "Code Master"
+    notes: "[Mission Mode Data 01 Codes]"
+    codes:
+      - "204320E0 00000064"
+
+  - name: "Max Mountain Level"
+    author: "Code Master"
+    notes: "[Mission Mode Data 01 Codes]"
+    codes:
+      - "204320E8 00000064"
+
+  - name: "Max Wind Level"
+    author: "Code Master"
+    notes: "[Mission Mode Data 01 Codes]"
+    codes:
+      - "204320DC 00000064"
+
+  - name: "Have Cleared 100%"
+    author: "Code Master"
+    notes: "[Mission Mode Data 04 Codes]"
+    codes:
+      - "20432308 FFFFFFFF"
+
+  - name: "Unlock All Characters/Levels/Chapters"
+    author: "MadCatz"
+    codes:
+      - "200C2080 24080020"
+      - "200C2084 24090002"
+      - "200C2088 00055821"
+      - "200C208C AD6921DC"
+      - "200C2090 2108FFFF"
+      - "200C2094 1500FFFD"
+      - "200C2098 256B0004"
+      - "200C209C 03E00008"
+      - "200C20A0 3C060042"
+      - "2022DDAC 0C030820"
+
+  - name: "Miroku/Sango's Chapter"
+    author: "Codejunkies"
+    notes: "[Unlock Chapters]"
+    codes:
+      - "20451E0C 00000002"
+
+  - name: "Sesshomaru's Chapter"
+    author: "Codejunkies"
+    notes: "[Unlock Chapters]"
+    codes:
+      - "20451E04 00000002"
+
+  - name: "Shippo's Chapter"
+    author: "Codejunkies"
+    notes: "[Unlock Chapters]"
+    codes:
+      - "20451E08 00000002"
+
+  - name: "All Characters"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "40434210 00050001"
+      - "00000002 00000000"
+
+  - name: "Bankotsu"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "20434218 00000002"
+
+  - name: "Demon Inuyasha"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "20434220 00000002"
+
+  - name: "Human Inuyasha"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "2043421C 00000002"
+
+  - name: "Naraku"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "20434210 00000002"
+
+  - name: "All Chapters"
+    author: "Code Master"
+    notes: "[Unlock Story Mode Chapter Codes]"
+    codes:
+      - "40434254 00030001"
+      - "00000002 00000000"
+
+  - name: "Miroku-Sango's Chapter"
+    author: "Code Master"
+    notes: "[Unlock Story Mode Chapter Codes]"
+    codes:
+      - "2043425C 00000002"
+
+  - name: "100 Percent Cleared"
+    author: "MadCatz"
+    notes: "[View Mission Data For...]"
+    codes:
+      - "200C206C 2001FFFF"
+      - "200C2070 AE0100A4"
+
+  - name: "Max Partner ATK"
+    author: "MadCatz"
+    notes: "[View Mission Data For...]"
+    codes:
+      - "200C205C AE01005C"
+
+  - name: "Max Partner DF"
+    author: "MadCatz"
+    notes: "[View Mission Data For...]"
+    codes:
+      - "200C2060 AE010060"
+
+  - name: "Max Partner HP"
+    author: "MadCatz"
+    notes: "[View Mission Data For...]"
+    codes:
+      - "200C2064 AE010064"
+
+  - name: "Max Partner SPD"
+    author: "MadCatz"
+    notes: "[View Mission Data For...]"
+    codes:
+      - "200C2068 AE010068"
+
+  - name: "Max Player ATK"
+    author: "MadCatz"
+    notes: "[View Mission Data For...]"
+    codes:
+      - "200C204C AE010008"
+
+  - name: "Max Player DF"
+    author: "MadCatz"
+    notes: "[View Mission Data For...]"
+    codes:
+      - "200C2050 AE01000C"
+
+  - name: "Max Player HP"
+    author: "MadCatz"
+    notes: "[View Mission Data For...]"
+    codes:
+      - "200C2054 AE010010"
+
+  - name: "Max Player SPD"
+    author: "MadCatz"
+    notes: "[View Mission Data For...]"
+    codes:
+      - "200C2058 AE010014"
+
+  - name: "Mission Data Enabler (Must Be On For Mission Data Codes)"
+    author: "MadCatz"
+    notes: "[View Mission Data For...]"
+    codes:
+      - "200C2040 24010001"
+      - "200C2044 AE010000"
+      - "200C2048 24210063"
+      - "200C2074 08080CD0"
+      - "201EF51C 0C030810"

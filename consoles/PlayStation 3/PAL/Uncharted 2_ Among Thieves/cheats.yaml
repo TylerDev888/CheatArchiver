@@ -1,0 +1,70 @@
+# Uncharted 2_ Among Thieves cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BCES00509
+
+game: "Uncharted 2_ Among Thieves"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BCES00509"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Decrypt Usr-data (required)"
+    notes: "File: USR-DATA"
+    codes:
+      - "set [end]:read(EOF-3, 4)"
+      - "set range:0x000008,[end]+7"
+      - "DECRYPT blowfish_ecb(\"(SH[@2>r62%5+QKpy|g6\")"
+
+  - name: "Unlock Crushing Difficulty"
+    notes: "File: BCES00509_NDI_UNCHARTED2_BT_P\\USR-DATA"
+    codes:
+      - "20000A78 0000001F"
+
+  - name: "Unlock All Chapters"
+    notes: "File: BCES00509_NDI_UNCHARTED2_BT_*\\USR-DATA"
+    codes:
+      - "42000AE0 00000000"
+      - "41D90020 00000000"
+
+  - name: "Start With Max Ammo For Left Weapon(you Must Have A Weapon Equipped To Use This Cheat.)"
+    notes: "File: BCES00509_NDI_UNCHARTED2_BT_*\\USR-DATA"
+    codes:
+      - "200048D0 000003E7"
+
+  - name: "Start With Max Ammo For Right Weapon(you Must Have A Weapon Equipped To Use This Cheat.)"
+    notes: "File: BCES00509_NDI_UNCHARTED2_BT_*\\USR-DATA"
+    codes:
+      - "200048DC 000003E7"
+
+  - name: "Start With Max Grenades(you Must Have A Weapon Equipped To Use This Cheat.)"
+    notes: "File: BCES00509_NDI_UNCHARTED2_BT_*\\USR-DATA"
+    codes:
+      - "200048F4 00000009"
+
+  - name: "Update Crc32 Checksum For Usr-data (required)"
+    notes: "File: BCES00509_NDI_UNCHARTED2_BT_*\\USR-DATA"
+    codes:
+      - "set [block_length]:read(0x58C,4)"
+      - "set [block_length]:[block_length]+0x587"
+      - "set range:0x58C,[block_length]"
+      - "set [hash]:crc32"
+      - "write at 0x588:[hash]"
+
+  - name: "Update Hmac Sha1 Checksum For Usr-data (required)"
+    notes: "File: BCES00509_NDI_UNCHARTED2_BT_*\\USR-DATA"
+    codes:
+      - "set pointer:EOF-0x1F"
+      - "set range:0x000008,pointer"
+      - "set [hash]:hmac_sha1(\"xM;6X%/p^L/:}-5QoA+K8:F*M!~sb(WK<E%6sW_un0a[7Gm6,()kHoXY+yI/s;Ba\")"
+      - "set pointer:EOF-0x1F"
+      - "write next (0):[hash]"
+
+  - name: "Encrypt Usr-data (required)"
+    notes: "File: BCES00509_NDI_UNCHARTED2_BT_*\\USR-DATA"
+    codes:
+      - "set [end]:read(EOF-3, 4)"
+      - "set range:0x000008,[end]+7"
+      - "ENCRYPT blowfish_ecb(\"(SH[@2>r62%5+QKpy|g6\")"

@@ -1,0 +1,23 @@
+# Separate Hearts cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66298
+
+game: "Separate Hearts"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66298"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010FA90 0C043E4C"
+
+  - name: "Replace New Game With Debug Menu"
+    author: "punk7890"
+    codes:
+      - "21EC4CD0 00000003"

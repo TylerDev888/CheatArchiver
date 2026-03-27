@@ -1,0 +1,23 @@
+# Chocolat - Maid Cafe Curio cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66001
+
+game: "Chocolat - Maid Cafe Curio"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66001"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9016A758 0C05A97E"
+
+  - name: "Replace New Game With Debug Menu"
+    author: "punk7890"
+    codes:
+      - "10100864 00002EF0"

@@ -1,0 +1,159 @@
+# Prince Of Persia-Warrior Within cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21022
+
+game: "Prince Of Persia-Warrior Within"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21022"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90103F10 0C046750"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202173FC 24030176"
+      - "20217404 AE0301F4"
+
+  - name: "Max Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20317244 8C410048"
+      - "2031724C 24030176"
+      - "20317254 AC231490"
+
+  - name: "Infinite Sand Meter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0240 2401000C"
+      - "200C0244 AC610A94"
+      - "200C0248 080F0E8B"
+      - "200C024C AF849FD0"
+      - "203C3A24 08030090"
+
+  - name: "Max Sand Meter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0250 2401000C"
+      - "200C0254 AC4111C8"
+      - "200C0258 03E00008"
+      - "200C025C 0240202D"
+      - "203199C4 0C030094"
+
+  - name: "Have All Sand Powers"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0260 2401FFFF"
+      - "200C0264 AE2111C4"
+      - "200C0268 03E00008"
+      - "200C026C 24430014"
+      - "203C72A8 0C030098"
+
+  - name: "Have All Life Upgrades Found"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0270 8C611328"
+      - "200C0274 342101FF"
+      - "200C0278 AC611328"
+      - "200C027C 080A9769"
+      - "200C0280 AF869F10"
+      - "202A5D9C 0803009C"
+
+  - name: "Infinite Check Point Meter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2046C198 00000000"
+      - "2046D060 00000000"
+      - "2046D128 00000000"
+
+  - name: "Infinite Sand Usage"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203C3EB0 00000000"
+
+  - name: "1-Hit Death (Enemies)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201ED4BC 44806000"
+      - "20390DDC 24050000"
+
+  - name: "1-Hit Death (Bosses)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20277B20 24020000"
+
+  - name: "Unlock All Video & Artwork Gallery"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "207DE440 FFFFFFFF"
+      - "207DE444 FFFFFFFF"
+
+  - name: "Unlock All Weapon Gallery"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "207DE448 FFFFFFFF"
+      - "207DE44C FFFFFFFF"
+
+  - name: "Enemies Cant Attack"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20254F40 03E00008"
+      - "20254F44 00000000"
+      - "20256F40 03E00008"
+      - "20256F44 00000000"
+
+  - name: "Enemies Cant Perform Combo Attacks"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20255840 03E00008"
+      - "20255844 00000000"
+
+  - name: "P1 Press L1+Select For Normal Speed"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D07F9082 0000FBFE"
+      - "207B7E88 3F800000"
+
+  - name: "P1 Press L2+Select For Super Speed"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D07F9082 0000FEFE"
+      - "207B7E88 3FC00000"
+
+  - name: "P1 Press R1+Select For Turbo Speed"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D07F9082 0000F7FE"
+      - "207B7E88 40000000"
+
+  - name: "P1 Press R2+Select For Ultra Speed"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D07F9082 0000FDFE"
+      - "207B7E88 40800000"

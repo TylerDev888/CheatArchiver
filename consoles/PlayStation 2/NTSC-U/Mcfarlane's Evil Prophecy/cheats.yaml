@@ -1,0 +1,133 @@
+# Mcfarlane's Evil Prophecy cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20657
+
+game: "Mcfarlane's Evil Prophecy"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20657"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90229604 0C08FC51"
+
+  - name: "Have All Monster Cards"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "40318A94 00040001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Have All Movie Interviews"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20318AB4 FFFFFFFF"
+
+  - name: "Have All Gallery"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20319B00 FFFFFFFF"
+
+  - name: "Max Record Hit Chain"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10318D38 0000270F"
+
+  - name: "Max Kills"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10318FF0 0000270F"
+
+  - name: "Max Hit Chain (Current)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10319A06 000003E7"
+
+  - name: "Max Max Hit Chain (Overall)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10319A08 000003E7"
+
+  - name: "Kills Worth 100"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101348E8 00000064"
+
+  - name: "Kills Worth 50"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101348E8 00000032"
+
+  - name: "Kills Worth 10"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101348E8 0000000A"
+
+  - name: "Kills Worth 5"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101348E8 00000005"
+
+  - name: "Kills Worth 4"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101348E8 00000004"
+
+  - name: "Kills Worth 3"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101348E8 00000003"
+
+  - name: "Kills Worth 2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101348E8 00000002"
+
+  - name: "Infinite MP (All Characters)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201382A4 00000000"
+
+  - name: "Infinite Ammo (All Characters-On Pickup)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20116E80 00000000"
+
+  - name: "Max HP"
+    author: "Code Master"
+    notes: "[Logan Codes]"
+    codes:
+      - "102B2B86 0000270F"
+
+  - name: "Infinite HP"
+    author: "Code Master"
+    notes: "[Logan Codes]"
+    codes:
+      - "102B2B88 0000270F"
+
+  - name: "Infinite Ammo (On Pickup)"
+    author: "Code Master"
+    notes: "[Logan Codes]"
+    codes:
+      - "102B2C30 00000006"

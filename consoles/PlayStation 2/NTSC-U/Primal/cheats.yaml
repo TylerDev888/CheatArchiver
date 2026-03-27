@@ -1,0 +1,65 @@
+# Primal cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97142
+
+game: "Primal"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97142"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 003F3C97"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "903F3C94 0C0FF28F"
+
+  - name: "Unlock All Bonus Materials Options"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2048569C 00000005"
+
+  - name: "Unlock All Tarot Card Gallery"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20488410 FFFFFFFF"
+
+  - name: "Have Scene Select"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204884A8 FFFFFFFF"
+      - "204884AC FFFFFFFF"
+
+  - name: "Infinite Health (Human Form)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2017D1DC 3C0142C8"
+      - "2017D1E0 AE210294"
+
+  - name: "Pause For 99 Lode Stones"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 24060063"
+      - "200C0224 03E00008"
+      - "200C0228 AE6603C0"
+      - "20117384 0C030088"
+
+  - name: "Infinite Health (Demon Ferai Form)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2017B4CC E4400000"

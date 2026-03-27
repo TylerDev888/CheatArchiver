@@ -1,0 +1,89 @@
+# Splatterhouse
+
+**Console:** PlayStation 3  
+**Region:** NTSC-J  
+**Serial:** BLAS50259  
+**Cheat Type:** AP  
+**Source:** [From Game Genie For PS3](From Game Genie For PS3)  
+
+---
+
+## Cheats
+
+### Max Blood
+**Author:**   
+**Notes:** File: SYS-DATA
+
+```
+80010003 C0FFEE00
+93000000 00000180
+28000000 000F423F
+```
+
+---
+
+### Unlock Classics
+**Author:**   
+**Notes:** File: SYS-DATA  (Cheats corrected & Created by haxxxen)
+
+```
+80010004 7365315F
+0800000D 00000001
+80010004 7365325F
+0800000D 00000001
+80010004 7365335F
+0800000D 00000001
+```
+
+---
+
+### All Health Upgrades
+**Author:**   
+**Notes:** File: SYS-DATA
+
+```
+8001000C 616C7468
+55706772 61646532
+0800000D 00000001
+8001000C 616C7468
+55706772 61646531
+0800000D 00000001
+8001000C 616C7468
+55706772 61646533
+0800000D 00000001
+```
+
+---
+
+### Max Health Bar
+**Author:**   
+**Notes:** File: SYS-DATA
+
+```
+80010008 000001A8
+0B00DA19 00000000
+2800002C 000F423F
+```
+
+---
+
+### Unlock Survival Mode
+**Author:**   
+**Notes:** File: SYS-DATA
+
+```
+80010004 656E6131
+0800000E 00000001
+80010004 656E6132
+0800000E 00000001
+80010004 656E6134
+0800000E 00000001
+80010004 656E6136
+0800000E 00000001
+80010004 656E6133
+0800000E 00000001
+80010004 656E6135
+0800000E 00000001
+```
+
+---

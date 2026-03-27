@@ -1,0 +1,305 @@
+# Shin Megami Tensei V_ Vengeance
+
+**Console:** PlayStation 4  
+**Region:** NTSC-U  
+**Serial:** CUSA42502  
+**Cheat Type:** AP  
+**Source:** [by bucanero](by bucanero)  
+
+---
+
+## Cheats
+
+### Aes Decrypt Savedata (required)
+**Author:**   
+**Notes:** File: Megaten5.ps4.sav
+
+```
+set range:0x0000,EOF+1
+DECRYPT aes_ecb(\
+```
+
+---
+
+### Money $99999999
+**Author:**   
+**Notes:** File: Megaten5.ps4.sav
+
+```
+20003D32 05F5E0FF
+```
+
+---
+
+### Glory 999
+**Author:**   
+**Notes:** File: Megaten5.ps4.sav
+
+```
+10003D4A 000003E7
+```
+
+---
+
+### Main Character Max Stats
+**Author:**   
+**Notes:** File: Megaten5.ps4.sav
+
+```
+1000098C 000003E7
+1000099C 000003E7
+100009AC 000003E7
+1000098E 000003E7
+1000099E 000003E7
+100009AE 000003E7
+10000990 000003E7
+100009A0 000003E7
+100009B0 000003E7
+10000992 000003E7
+100009A2 000003E7
+100009B2 000003E7
+10000994 000003E7
+100009A4 000003E7
+100009B4 000003E7
+```
+
+---
+
+### Main Character Max Skill Potential
+**Author:**   
+**Notes:** File: Megaten5.ps4.sav
+
+```
+00000B38 00000009
+00000B3A 00000009
+00000B3C 00000009
+00000B3E 00000009
+00000B40 00000009
+00000B42 00000009
+00000B44 00000009
+00000B46 00000009
+00000B48 00000009
+00000B4A 00000005
+00000B4C 00000005
+```
+
+---
+
+### Main Character Max Exp
+**Author:**   
+**Notes:** File: Megaten5.ps4.sav
+
+```
+20000610 05F5E0FF
+200007E8 05F5E0FF
+200009C0 05F5E0FF
+```
+
+---
+
+### Demon 1 Max Stats
+**Author:**   
+**Notes:** File: Megaten5.ps4.sav
+
+```
+10000B64 000003E7
+10000B74 000003E7
+10000B84 000003E7
+10000B66 000003E7
+10000B76 000003E7
+10000B86 000003E7
+10000B68 000003E7
+10000B78 000003E7
+10000B88 000003E7
+10000B6A 000003E7
+10000B7A 000003E7
+10000B8A 000003E7
+10000B6C 000003E7
+10000B7C 000003E7
+10000B8C 000003E7
+```
+
+---
+
+### Demon 1 Max Exp
+**Author:**   
+**Notes:** File: Megaten5.ps4.sav
+
+```
+20000BC8 05F5E0FF
+```
+
+---
+
+### Demon 2 Max Stats
+**Author:**   
+**Notes:** File: Megaten5.ps4.sav
+
+```
+10000D0C 000003E7
+10000D1C 000003E7
+10000D2C 000003E7
+10000D0E 000003E7
+10000D1E 000003E7
+10000D2E 000003E7
+10000D10 000003E7
+10000D20 000003E7
+10000D30 000003E7
+10000D12 000003E7
+10000D22 000003E7
+10000D32 000003E7
+10000D14 000003E7
+10000D24 000003E7
+10000D34 000003E7
+```
+
+---
+
+### Demon 2 Max Exp
+**Author:**   
+**Notes:** File: Megaten5.ps4.sav
+
+```
+20000D70 05F5E0FF
+```
+
+---
+
+### Demon 3 Max Stats
+**Author:**   
+**Notes:** File: Megaten5.ps4.sav
+
+```
+10000EB4 000003E7
+10000EC4 000003E7
+10000ED4 000003E7
+10000EB6 000003E7
+10000EC6 000003E7
+10000ED6 000003E7
+10000EB8 000003E7
+10000EC8 000003E7
+10000ED8 000003E7
+10000EBA 000003E7
+10000ECA 000003E7
+10000EDA 000003E7
+10000EBC 000003E7
+10000ECC 000003E7
+10000EDC 000003E7
+10000F2C 000003E7
+```
+
+---
+
+### Demon 3 Max Exp
+**Author:**   
+**Notes:** File: Megaten5.ps4.sav
+
+```
+20000F18 05F5E0FF
+```
+
+---
+
+### Demon 4 Max Stats
+**Author:**   
+**Notes:** File: Megaten5.ps4.sav
+
+```
+1000105C 000003E7
+1000106C 000003E7
+1000107C 000003E7
+1000105E 000003E7
+1000106E 000003E7
+1000107E 000003E7
+10001060 000003E7
+10001070 000003E7
+10001080 000003E7
+10001062 000003E7
+10001072 000003E7
+10001082 000003E7
+10001064 000003E7
+10001074 000003E7
+10001084 000003E7
+100010D4 000003E7
+```
+
+---
+
+### Demon 4 Max Exp
+**Author:**   
+**Notes:** File: Megaten5.ps4.sav
+
+```
+200010C0 05F5E0FF
+```
+
+---
+
+### All Usable Items
+**Author:**   
+**Notes:** File: Megaten5.ps4.sav
+
+```
+A0004C73 0000006E
+63636363 63636363
+63636363 63636363
+63636363 63636363
+63636363 00000000
+00000000 63636363
+63636363 63636300
+00636363 63006300
+00000063 63636363
+63636363 00636300
+00000000 00000000
+00636363 63636363
+63636363 63636363
+63636363 63636363
+63636363 63630000
+```
+
+---
+
+### Update Sha1 For Savedata (required)(checksum by Skiller)
+**Author:**   
+**Notes:** File: Megaten5.ps4.sav
+
+```
+set pointer:EOF+1
+set range:0x000040,pointer
+set [hash]:SHA1
+write at 0x0000:[hash]
+```
+
+---
+
+### Aes Encrypt Savedata (required)
+**Author:**   
+**Notes:** File: Megaten5.ps4.sav
+
+```
+set range:0x0000,EOF+1
+ENCRYPT aes_ecb(\
+```
+
+---
+
+### Difficulty
+**Author:**   
+**Notes:** File: GameSave[0-9]+\\Megaten5.ps4.sav
+
+```
+000004FC 000000[Diff]
+```
+
+---
+
+### All Miracles
+**Author:**   
+**Notes:** File: GameSave[0-9]+\\Megaten5.ps4.sav
+
+```
+40003D4F 00000007
+40A10001 00000000
+```
+
+---

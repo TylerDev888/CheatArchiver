@@ -1,0 +1,86 @@
+# Dynasty Warriors_ 8 Empires cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUB31656
+
+game: "Dynasty Warriors_ 8 Empires"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUB31656"
+cheat_type: "Save Editor"
+source: "by Krustytoe"
+
+cheats:
+  - name: "Max Materials 999999"
+    notes: "File: APP.BIN"
+    codes:
+      - "42005BF4 905F0100"
+      - "402800E4 00000000"
+
+  - name: "Max Money 999999"
+    notes: "File: APP.BIN"
+    codes:
+      - "42005BF8 9F860100"
+      - "402800E4 00000000"
+
+  - name: "Max Unit 999999"
+    notes: "File: APP.BIN"
+    codes:
+      - "42005BFC 905F0100"
+      - "402800E4 00000000"
+
+  - name: "All Characters Max Stats (except Speed)"
+    notes: "File: APP.BIN"
+    codes:
+      - "4203F63A 9F860100"
+      - "43A6005C 00000000"
+      - "4203F64E E803E803"
+      - "43A6005C 00000000"
+      - "4203F652 E803E803"
+      - "43A6005C 00000000"
+
+  - name: "All Characters - Max Aptitudes"
+    notes: "File: APP.BIN"
+    codes:
+      - "4203F65A 64646464"
+      - "43A6005C 00000000"
+
+  - name: "Max Matterials 90000"
+    notes: "File: APP.BIN"
+    codes:
+      - "20005F84 905F0100"
+
+  - name: "Max Money 99999(might Be Able To Go Higher)"
+    notes: "File: APP.BIN"
+    codes:
+      - "20005F88 9F860100"
+
+  - name: "Max Unit 9999(might Be Able To Go Higher)"
+    notes: "File: APP.BIN"
+    codes:
+      - "20005F8C 0F270000"
+
+  - name: "Health 9999(might Be Able To Go Higher)"
+    notes: "[Xu Shu Codes]  File: APP.BIN"
+    codes:
+      - "10040DAA 0000E703"
+
+  - name: "Attack 9999(might Be Able To Go Higher)"
+    notes: "[Xu Shu Codes]  File: APP.BIN"
+    codes:
+      - "10040DAC 0000E703"
+
+  - name: "Defense 9999(might Be Able To Go Higher)"
+    notes: "[Xu Shu Codes]  File: APP.BIN"
+    codes:
+      - "10040DAE 0000E703"
+
+  - name: "Leadership 9999(might Be Able To Go Higher)"
+    notes: "[Xu Shu Codes]  File: APP.BIN"
+    codes:
+      - "10040DB0 0000E703"
+
+  - name: "Merits 99999(might Be Able To Go Higher)"
+    notes: "[Xu Shu Codes]  File: APP.BIN"
+    codes:
+      - "20040D96 9F860100"

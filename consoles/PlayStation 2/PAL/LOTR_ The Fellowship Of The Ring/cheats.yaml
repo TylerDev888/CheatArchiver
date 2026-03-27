@@ -1,0 +1,35 @@
+# LOTR_ The Fellowship Of The Ring cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "LOTR_ The Fellowship Of The Ring"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0036B887"
+      - "F0100008 0036B873"
+
+  - name: "Frodo Unlimited Health"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2051F000 3C0142C8"
+      - "2051F004 44810000"
+      - "2051F008 E4800014"
+      - "2051F00C 03E00008"
+      - "202395C8 08147C00"
+
+  - name: "Unlimited Purity"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20323FE8 00000000"
+      - "20323F50 00000000"

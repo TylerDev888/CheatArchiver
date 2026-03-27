@@ -1,0 +1,131 @@
+# Freekstyle cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50753
+
+game: "Freekstyle"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50753"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0123628 000001FD"
+
+  - name: "Acid Mode"
+    author: "Codejunkies"
+    codes:
+      - "1024C7D4 00000001"
+
+  - name: "Always Freektime (Except Circuit Mode)"
+    author: "Codejunkies"
+    codes:
+      - "2024C9F4 00000001"
+
+  - name: "Boost Always Usable"
+    author: "luc-ita"
+    codes:
+      - "201F5EAC 00000000"
+
+  - name: "Disable Height Limit"
+    author: "luc-ita"
+    codes:
+      - "201383A0 1000000E"
+
+  - name: "Double The Time To Activate The Freek Time"
+    author: "luc-ita"
+    codes:
+      - "201D5F90 3C034248"
+
+  - name: "Easy Gain Turbo"
+    author: "luc-ita"
+    codes:
+      - "201FED6C 3C024180"
+      - "201FED94 00000000"
+
+  - name: "Easy Gain Turbo For Freek Time"
+    author: "luc-ita"
+    codes:
+      - "201FEEE4 3C033F00"
+      - "201FEEE8 44830000"
+
+  - name: "Freekout Timer Tripled"
+    author: "luc-ita"
+    codes:
+      - "201D5D04 3C0341A8"
+      - "201D5D14 E6010D8C"
+
+  - name: "Infinite Boost (Except Circuit Mode)"
+    author: "Codejunkies"
+    codes:
+      - "10250082 00000001"
+
+  - name: "Infinite Stat Points"
+    author: "Codejunkies"
+    codes:
+      - "00835A70 000000FF"
+
+  - name: "Invisible Bike"
+    author: "Codejunkies"
+    codes:
+      - "102499C4 00000000"
+
+  - name: "Levitate In Midair"
+    author: "luc-ita"
+    codes:
+      - "E0030014 0024AF02"
+      - "6024BC14 41200000"
+      - "00020002 0000000C"
+      - "00000064 00000000"
+
+  - name: "Never Fall Off The Bike"
+    author: "luc-ita"
+    codes:
+      - "201DC298 1000013A"
+
+  - name: "No Logo And No Intro Video"
+    author: "luc-ita"
+    codes:
+      - "2023E1D8 00000000"
+      - "2023E1E8 00000000"
+
+  - name: "Opponents Don' Move"
+    author: "luc-ita"
+    codes:
+      - "201E2E24 00000000"
+
+  - name: "Start Races With Full Turbo"
+    author: "luc-ita"
+    codes:
+      - "201D621C 00000000"
+
+  - name: "Start Races With Turbo For Freek Time Almost Full"
+    author: "luc-ita"
+    codes:
+      - "201D6228 AE430D88"
+
+  - name: "Unlock Everything (Except Circuit Mode)"
+    author: "Codejunkies"
+    codes:
+      - "20281578 FFFFFFFF"
+      - "2028157C FFFFFFFF"
+      - "20281580 FFFFFFFF"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001127F7"
+
+  - name: "Unlock Everything"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20281578 FFFFFFFF"
+      - "2028157C FFFFFFFF"
+      - "20281580 FFFFFFFF"

@@ -1,0 +1,41 @@
+# Guilty Gear X2 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Guilty Gear X2"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0024A20F"
+
+  - name: "Disable Total Timer"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "201099A8 00000000"
+
+  - name: "Strength (Player 1)"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "21E6E816 000001A4"
+
+  - name: "Strength (Player 2)"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "21E6E91A 000001A4"
+
+  - name: "Time"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20153F50 00000000"

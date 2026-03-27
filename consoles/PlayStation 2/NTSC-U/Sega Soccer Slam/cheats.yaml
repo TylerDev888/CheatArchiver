@@ -1,0 +1,66 @@
+# Sega Soccer Slam cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20509
+
+game: "Sega Soccer Slam"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20509"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F03845B0 003C8DE7"
+
+  - name: "Turbo Drain Rate Modifier (Default 3Fc00000)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204E372C ????????"
+
+  - name: "Turbo Recharge Rate Modifier (Default 3F19999a)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204E3730 ????????"
+
+  - name: "Infinite Turbo (All Players)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2025F580 00000000"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "21D3B464 0000????"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "21D3B468 0000????"
+
+  - name: "All Goals Score For Home Team"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20290DB8 24040000"
+
+  - name: "All Goals Score For Away Team"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20290DB8 24040004"
+
+  - name: "Goal's Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10290DD4 000000??"

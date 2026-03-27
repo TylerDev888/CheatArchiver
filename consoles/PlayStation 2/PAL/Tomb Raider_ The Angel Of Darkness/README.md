@@ -1,0 +1,441 @@
+# Tomb Raider_ The Angel Of Darkness
+
+**Console:** PlayStation 2  
+**Region:** PAL  
+**Cheat Type:** Xploder  
+
+---
+
+## Cheats
+
+### Mastercode
+**Author:** Xploder  
+**Notes:** [Masters]
+
+```
+F0100008 00213ED7
+200C0000 27BDFFD8
+200C0004 AFA40000
+200C0008 AFA50004
+200C000C AFA60008
+200C0010 AFBF000C
+200C0174 8FBF000C
+200C0178 8FA40000
+200C017C 8FA50004
+200C0180 8FA60008
+200C0184 03E00008
+200C0188 27BD0028
+2016B484 08030000
+```
+
+---
+
+### Unlock Level Select/Skip
+**Author:** Xploder  
+**Notes:** [Other]
+
+```
+004162B0 00000001
+```
+
+---
+
+### Health
+**Author:** Xploder  
+**Notes:** [Unlimited]
+
+```
+20128150 3C0142C8
+20128154 44810000
+2012815C E4400D54
+201280B4 00000000
+20128134 00000000
+```
+
+---
+
+### Grip
+**Author:** Xploder  
+**Notes:** [Unlimited]
+
+```
+2012C7A4 00000000
+```
+
+---
+
+### Oxygen
+**Author:** Xploder  
+**Notes:** [Unlimited]
+
+```
+2012CA50 00000000
+```
+
+---
+
+### Ammunition For All Guns
+**Author:** Xploder  
+**Notes:** [Unlimited]
+
+```
+201381DC 00000000
+```
+
+---
+
+### Money
+**Author:** Xploder  
+**Notes:** [Unlimited]
+
+```
+20416008 000F423F
+```
+
+---
+
+### M-V9
+**Author:** Xploder  
+**Notes:** [Start Game With]
+
+```
+200C0014 2404011B
+200C0018 24050003
+200C001C 0C05AC50
+200C0020 24060001
+```
+
+---
+
+### Desert Ranger
+**Author:** Xploder  
+**Notes:** [Start Game With]
+
+```
+200C0024 24040110
+200C0028 24050003
+200C002C 0C05AC50
+200C0030 24060001
+```
+
+---
+
+### Pair Of Vector-R35's
+**Author:** Xploder  
+**Notes:** [Start Game With]
+
+```
+200C0034 24040121
+200C0038 24050003
+200C003C 0C05AC50
+200C0040 24060001
+```
+
+---
+
+### V-Packer
+**Author:** Xploder  
+**Notes:** [Start Game With]
+
+```
+200C0044 24040126
+200C0048 24050003
+200C004C 0C05AC50
+200C0050 24060001
+```
+
+---
+
+### Rigg 09
+**Author:** Xploder  
+**Notes:** [Start Game With]
+
+```
+200C0054 2404011D
+200C0058 24050003
+200C005C 0C05AC50
+200C0060 24060001
+```
+
+---
+
+### Viper SMG
+**Author:** Xploder  
+**Notes:** [Start Game With]
+
+```
+200C0064 24040129
+200C0068 24050003
+200C006C 0C05AC50
+200C0070 24060001
+```
+
+---
+
+### Boran-X
+**Author:** Xploder  
+**Notes:** [Start Game With]
+
+```
+200C0074 24040264
+200C0078 24050003
+200C007C 0C05AC50
+200C0080 24060001
+```
+
+---
+
+### 99 M-V9 Clips
+**Author:** Xploder  
+**Notes:** [Start Game With]
+
+```
+200C0084 2404011C
+200C0088 24050007
+200C008C 0C05AC50
+200C0090 24060063
+```
+
+---
+
+### 99 Desert Ranger Clips
+**Author:** Xploder  
+**Notes:** [Start Game With]
+
+```
+200C0094 2404011A
+200C0098 24050007
+200C009C 0C05AC50
+200C00A0 24060063
+```
+
+---
+
+### 99 Vector R-35 Clips
+**Author:** Xploder  
+**Notes:** [Start Game With]
+
+```
+200C00A4 24040122
+200C00A8 24050007
+200C00AC 0C05AC50
+200C00B0 24060063
+```
+
+---
+
+### 99 V-Packer Standard Cartridges
+**Author:** Xploder  
+**Notes:** [Start Game With]
+
+```
+200C00B4 24040127
+200C00B8 24050007
+200C00BC 0C05AC50
+200C00C0 24060063
+```
+
+---
+
+### 99 Rigg 09 Clips
+**Author:** Xploder  
+**Notes:** [Start Game With]
+
+```
+200C00C4 2404011E
+200C00C8 24050007
+200C00CC 0C05AC50
+200C00D0 24060063
+```
+
+---
+
+### 99 Viper SMG Clips
+**Author:** Xploder  
+**Notes:** [Start Game With]
+
+```
+200C00D4 2404012A
+200C00D8 24050007
+200C00DC 0C05AC50
+200C00E0 24060063
+```
+
+---
+
+### 99 Boran-X Clips
+**Author:** Xploder  
+**Notes:** [Start Game With]
+
+```
+200C00E4 24040265
+200C00E8 24050007
+200C00EC 0C05AC50
+200C00F0 24060063
+```
+
+---
+
+### 99 Antique Doubloons
+**Author:** Xploder  
+**Notes:** [Start Game With]
+
+```
+200C00F4 2404003A
+200C00F8 24050001
+200C00FC 0C05AC50
+200C0100 24060063
+```
+
+---
+
+### Crowbar
+**Author:** Xploder  
+**Notes:** [Start Game With]
+
+```
+200C0104 24040036
+200C0108 24050002
+200C010C 0C05AC50
+200C0110 24060001
+```
+
+---
+
+### Socket Spanner
+**Author:** Xploder  
+**Notes:** [Start Game With]
+
+```
+200C0114 24040042
+200C0118 24050002
+200C011C 0C05AC50
+200C0120 24060001
+```
+
+---
+
+### 99 Chocolate Bars
+**Author:** Xploder  
+**Notes:** [Start Game With]
+
+```
+200C0124 24040094
+200C0128 24050004
+200C012C 0C05AC50
+200C0130 24060063
+```
+
+---
+
+### 99 Health Bandages
+**Author:** Xploder  
+**Notes:** [Start Game With]
+
+```
+200C0134 24040096
+200C0138 24050004
+200C013C 0C05AC50
+200C0140 24060063
+```
+
+---
+
+### 99 Health Pills
+**Author:** Xploder  
+**Notes:** [Start Game With]
+
+```
+200C0144 24040092
+200C0148 24050004
+200C014C 0C05AC50
+200C0150 24060063
+```
+
+---
+
+### 99 Small Medipacks
+**Author:** Xploder  
+**Notes:** [Start Game With]
+
+```
+200C0154 24040206
+200C0158 24050004
+200C015C 0C05AC50
+200C0160 24060063
+```
+
+---
+
+### 99 Large Medipacks
+**Author:** Xploder  
+**Notes:** [Start Game With]
+
+```
+200C0164 24040095
+200C0168 24050004
+200C016C 0C05AC50
+200C0170 24060063
+```
+
+---
+
+### Maximum Strength (Doors)
+**Author:** Xploder  
+**Notes:** [Have]
+
+```
+201885D4 24027FFF
+```
+
+---
+
+### Super Jump
+**Author:** Xploder  
+**Notes:** [Have]
+
+```
+20143770 3C014280
+```
+
+---
+
+### Super Running Jump
+**Author:** Xploder  
+**Notes:** [Have]
+
+```
+2014380C 3C014280
+```
+
+---
+
+### Super Sideways Jump
+**Author:** Xploder  
+**Notes:** [Have]
+
+```
+20143730 3C014280
+```
+
+---
+
+### Matrix Jumps
+**Author:** Xploder  
+**Notes:** [Have]
+
+```
+200C0200 3C010065
+200C0204 3421DC82
+200C0208 84210000
+200C020C 30210080
+200C0210 50200002
+200C0214 3C013DC0
+200C0218 3C013FC0
+200C021C 44811000
+200C0220 0804AC8D
+2012B22C 08030080
+2012B230 00000000
+```
+
+---

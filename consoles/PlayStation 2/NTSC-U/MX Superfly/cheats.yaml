@@ -1,0 +1,117 @@
+# MX Superfly cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20381
+
+game: "MX Superfly"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20381"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F017FC0C 0012C6A7"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0012C6A7"
+
+  - name: "1 Lap Races"
+    author: "InterAct"
+    codes:
+      - "10412340 00000000"
+
+  - name: "Have All Bikes"
+    author: "Code Master"
+    codes:
+      - "20412D24 0000FFFF"
+
+  - name: "Have All Mini-Games"
+    author: "Code Master"
+    codes:
+      - "20412D28 0000FFFF"
+
+  - name: "Have Max Cash"
+    author: "Codejunkies"
+    codes:
+      - "204204A8 05F5E0FF"
+
+  - name: "Have Max Points"
+    author: "Codejunkies"
+    codes:
+      - "1041FEE4 000003E7"
+
+  - name: "Have No Opponents"
+    author: "Codejunkies"
+    codes:
+      - "1041232C 00000000"
+
+  - name: "Idiot A.I"
+    author: "Codejunkies"
+    codes:
+      - "201AB610 03E00008"
+      - "201AB614 00000000"
+
+  - name: "Idiot AI"
+    author: "Code Master"
+    codes:
+      - "201E0C10 03E00008"
+      - "201E0C14 00000000"
+
+  - name: "Infinite Money"
+    author: "Code Master"
+    codes:
+      - "104204A8 0000FFFF"
+
+  - name: "Number Of Opponents Modifier"
+    author: "Code Master"
+    codes:
+      - "1041232C 000000??"
+
+  - name: "Total Laps Modifier"
+    author: "Code Master"
+    codes:
+      - "10412340 000000??"
+
+  - name: "All Bikes"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "00412D24 000000FF"
+
+  - name: "All Mini-Games"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "10412D28 0000FFFF"
+
+  - name: "All Racers"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "20412D20 00000000"
+
+  - name: "Max Race Points"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1041FEE4 000003E7"
+
+  - name: "Max Money"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204204A8 05F5E0FF"
+
+  - name: "Have All Riders"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20412D20 00000000"

@@ -1,0 +1,82 @@
+# Silent Scope cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20078
+
+game: "Silent Scope"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20078"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01AC8F4 0000000E"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00108DEB"
+
+  - name: "Always Have 1 Bullet"
+    author: "InterAct"
+    codes:
+      - "102D6922 00000001"
+
+  - name: "Extra Credits"
+    author: "Code Master"
+    codes:
+      - "20158EBC 24830001"
+
+  - name: "Infinite Bullets"
+    author: "Code Master"
+    codes:
+      - "102D6922 00000005"
+
+  - name: "Infinite Credits"
+    author: "Code Master"
+    codes:
+      - "102A1984 00000009"
+
+  - name: "Infinite Health"
+    author: "InterAct"
+    codes:
+      - "102D68F8 00000192"
+      - "102D68FA 00000192"
+
+  - name: "Infinite Time"
+    author: "InterAct"
+    codes:
+      - "102D6852 00000050"
+
+  - name: "Max Score"
+    author: "InterAct"
+    codes:
+      - "202D68D4 05F5E0FF"
+
+  - name: "No Reload"
+    author: "InterAct"
+    codes:
+      - "102D6922 00000007"
+
+  - name: "Quick Score Gain"
+    author: "Code Master"
+    codes:
+      - "102D68D4 0000FFFF"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00108DEB"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90108DE8 0C0442A6"

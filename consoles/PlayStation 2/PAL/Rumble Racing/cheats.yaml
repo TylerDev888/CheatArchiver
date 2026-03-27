@@ -1,0 +1,160 @@
+# Rumble Racing cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50120
+
+game: "Rumble Racing"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50120"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01215E8 000001FD"
+
+  - name: "All Tracks Open"
+    author: "InterAct"
+    codes:
+      - "2022CFB4 01010101"
+      - "2022CFB8 01010101"
+      - "2022CFBC 01010101"
+
+  - name: "Big Score In Stunt Challenge"
+    author: "Codejunkies"
+    codes:
+      - "1024E940 0000FFFF"
+      - "1024E942 0000FFFF"
+      - "101F6BBC 0000FFFF"
+      - "101F6BBE 00000FFF"
+
+  - name: "Open All Cars 1"
+    author: "InterAct"
+    codes:
+      - "2022CF40 01010101"
+      - "2022CF44 01010101"
+      - "2022CF48 01010101"
+      - "2022CF4C 01010101"
+      - "2022CF50 01010101"
+      - "2022CF54 01010101"
+      - "2022CF58 01010101"
+      - "2022CF5C 01010101"
+      - "2022CF60 01010101"
+      - "2022CF64 01010101"
+      - "2022CF68 01010101"
+
+  - name: "Open All Cars 2"
+    author: "InterAct"
+    codes:
+      - "2022CF6C 01010101"
+      - "2022CF70 01010101"
+      - "2022CF74 01010101"
+      - "2022CF78 01010101"
+      - "2022CF7C 01010101"
+      - "2022CF80 01010101"
+      - "2022CF84 01010101"
+      - "2022CF88 01010101"
+      - "2022CF8C 01010101"
+      - "2022CF90 01010101"
+      - "2022CF94 01010101"
+      - "2022CF98 01010101"
+      - "2022CF9C 01010101"
+      - "2022CFA0 01010101"
+      - "2022CFA4 01010101"
+      - "2022CFA8 01010101"
+      - "2022CFAC 01010101"
+
+  - name: "Opponents Don't Move"
+    author: "luc-ita"
+    codes:
+      - "20137CE8 20137CE8"
+      - "200A0000 808109F4"
+      - "200A000C 0804DF3C"
+      - "200A0014 0804D9FC"
+
+  - name: "Super Traction"
+    author: "Codejunkies"
+    codes:
+      - "20F43EB4 10000005"
+
+  - name: "Constant Boost"
+    author: "Codejunkies"
+    notes: "[Use Only One At A Time]"
+    codes:
+      - "20F3F8F4 10000021"
+
+  - name: "Dodgy Steering"
+    author: "Codejunkies"
+    notes: "[Use Only One At A Time]"
+    codes:
+      - "20F3F8F4 10000091"
+
+  - name: "Sunday Driver Mode"
+    author: "Codejunkies"
+    notes: "[Use Only One At A Time]"
+    codes:
+      - "20F3F8F4 10000041"
+
+  - name: "Super Smokey Tyres"
+    author: "Codejunkies"
+    notes: "[Use Only One At A Time]"
+    codes:
+      - "20F3F8F4 10000011"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0010EC4F"
+
+  - name: "All Vehicles"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "1022CF42 00000101"
+      - "2022CF44 01010101"
+      - "2022CF48 01010101"
+      - "2022CF4C 01010101"
+      - "2022CF50 01010101"
+      - "2022CF54 01010101"
+      - "2022CF58 01010101"
+      - "2022CF5C 01010101"
+      - "2022CF60 01010101"
+      - "2022CF64 01010101"
+      - "2022CF68 01010101"
+      - "2022CF6C 01010101"
+      - "2022CF70 01010101"
+      - "2022CF74 01010101"
+      - "2022CF78 01010101"
+      - "2022CF7C 01010101"
+      - "2022CF80 01010101"
+
+  - name: "All Bonus Vehicles"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "2022CF84 01010101"
+      - "2022CF88 01010101"
+      - "2022CF8C 01010101"
+      - "2022CF90 01010101"
+      - "2022CF94 01010101"
+      - "2022CF98 01010101"
+      - "2022CF9C 01010101"
+      - "2022CFA0 01010101"
+      - "2022CFA4 01010101"
+      - "2022CFA8 01010101"
+      - "1022CFAC 00000101"
+
+  - name: "All Tracks"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "1022CFBE 00000101"
+      - "2022CFC0 01010101"
+      - "2022CFC4 01010101"
+      - "2022CFC8 01010101"
+      - "0022CFCC 00000001"

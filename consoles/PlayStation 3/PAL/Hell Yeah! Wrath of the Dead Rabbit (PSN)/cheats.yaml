@@ -1,0 +1,17 @@
+# Hell Yeah! Wrath of the Dead Rabbit (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00831
+
+game: "Hell Yeah! Wrath of the Dead Rabbit (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00831"
+cheat_type: "Save Editor"
+source: "From zeick"
+
+cheats:
+  - name: "$99999 Money"
+    notes: "File: DATA18"
+    codes:
+      - "write at 0x00000010:0001869F"

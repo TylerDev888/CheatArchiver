@@ -1,0 +1,23 @@
+# Monopoly Party cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20348
+
+game: "Monopoly Party"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20348"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0027F7CF"
+
+  - name: "Infinite Money (All Players)"
+    author: "Code Master"
+    codes:
+      - "201E87EC 00000000"

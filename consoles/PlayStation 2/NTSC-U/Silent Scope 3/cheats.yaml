@@ -1,0 +1,186 @@
+# Silent Scope 3 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20514
+
+game: "Silent Scope 3"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20514"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F010C18C 0010C18F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0010C18F"
+
+  - name: "Always Low Mission Time"
+    author: "Code Master"
+    notes: "[All Mode Codes]"
+    codes:
+      - "20530CB8 00000000"
+
+  - name: "Better Rank"
+    author: "Code Master"
+    notes: "[All Mode Codes]"
+    codes:
+      - "10530D0E 00000001"
+
+  - name: "Infinite Bullets"
+    author: "Code Master"
+    notes: "[All Mode Codes]"
+    codes:
+      - "10530D86 00000006"
+
+  - name: "Infinite Critical Time"
+    author: "Code Master"
+    notes: "[All Mode Codes]"
+    codes:
+      - "10530D9C 00000016"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[All Mode Codes]"
+    codes:
+      - "20530D60 3F800000"
+
+  - name: "Instant Death (All Enemies)"
+    author: "Code Master"
+    notes: "[All Mode Codes]"
+    codes:
+      - "201C1EB8 24030000"
+      - "201C1EC0 A603000A"
+
+  - name: "Max Score"
+    author: "Code Master"
+    notes: "[All Mode Codes]"
+    codes:
+      - "20530CD4 05F5E0FF"
+
+  - name: "Press Select To Kill Any Enemy"
+    author: "Code Master"
+    notes: "[All Mode Codes]"
+    codes:
+      - "201C1EC0 A603000A"
+      - "D05803C6 0010FFFE"
+      - "201C1EB8 8603000A"
+      - "D05803C6 0000FFFE"
+      - "201C1EB8 24030000"
+
+  - name: "Quick Score Gain"
+    author: "Code Master"
+    notes: "[All Mode Codes]"
+    codes:
+      - "10530CD4 0000FFFF"
+
+  - name: "Low Cleared Time"
+    author: "MadCatz"
+    notes: "[Canal]"
+    codes:
+      - "20597374 00000000"
+
+  - name: "Have Finished"
+    author: "Code Master"
+    notes: "[Canal Codes]"
+    codes:
+      - "2059737C 000000FF"
+
+  - name: "Always Low Cleared Time"
+    author: "Code Master"
+    notes: "[Harbor Stage Codes]"
+    codes:
+      - "20597324 00000000"
+
+  - name: "Max Cleared Score"
+    author: "Code Master"
+    notes: "[Harbor Stage Codes]"
+    codes:
+      - "20597320 05F5E0FF"
+
+  - name: "Infinite Credits"
+    author: "Codejunkies"
+    notes: "[Have Credits Codes]"
+    codes:
+      - "1056BD50 00000009"
+
+  - name: "Never Have More Than 1 Credit"
+    author: "Codejunkies"
+    notes: "[Have Credits Codes]"
+    codes:
+      - "E0010001 3056BD50"
+      - "1056BD50 00000001"
+
+  - name: "Never Have More Than 2 Credits"
+    author: "Codejunkies"
+    notes: "[Have Credits Codes]"
+    codes:
+      - "E0010002 3056BD50"
+      - "1056BD50 00000002"
+
+  - name: "Never Have More Than 5 Credits"
+    author: "Codejunkies"
+    notes: "[Have Credits Codes]"
+    codes:
+      - "E0010005 3056BD50"
+      - "1056BD50 00000005"
+
+  - name: "Bull"
+    author: "Codejunkies"
+    notes: "[Quick Kill Codes]"
+    codes:
+      - "11EFE486 00000000"
+
+  - name: "Cobra"
+    author: "Codejunkies"
+    notes: "[Quick Kill Codes]"
+    codes:
+      - "11EF978A 00000000"
+
+  - name: "Mosquito"
+    author: "Codejunkies"
+    notes: "[Quick Kill Codes]"
+    codes:
+      - "11EF85C6 00000000"
+
+  - name: "Shaker"
+    author: "Codejunkies"
+    notes: "[Quick Kill Codes]"
+    codes:
+      - "11EE98E6 00000000"
+
+  - name: "Extra Credits (Silent Scope Ex-Story Mode)"
+    author: "Code Master"
+    codes:
+      - "101F3908 00000001"
+
+  - name: "Infinite Time Dam"
+    author: "Codejunkies"
+    codes:
+      - "10530D9C 0000001C"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0010C18F"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9010C18C 0C04570E"
+
+  - name: "Infinite Credits (Silent Scope EX-Story Mode)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1056BD50 00000063"

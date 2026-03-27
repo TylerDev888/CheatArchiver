@@ -1,0 +1,46 @@
+# Sonic's Ultimate Genesis Collection cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS30259
+
+game: "Sonic's Ultimate Genesis Collection"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS30259"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "999,999 Gold"
+    notes: "[Shining Force]  File: PAYLOAD"
+    codes:
+      - "write at 0x00009D3C:0x0F423F"
+
+  - name: "Main Character 255 Hp 99 Mp"
+    notes: "[Shining Force]  File: PAYLOAD"
+    codes:
+      - "write at 0x00009D51:0x00FF00FF"
+      - "write at 0x00009D55:0x6363"
+
+  - name: "Main Character Chaos Breaker & Kindan Nohako"
+    notes: "[Shining Force]  File: PAYLOAD"
+    codes:
+      - "write at 0x00009D59:0xA75CFFFF"
+
+  - name: "Main Character Aura 4 & Bolt 4"
+    notes: "[Shining Force]  File: PAYLOAD"
+    codes:
+      - "write at 0x00009D5D:0x0DC1CBFF"
+
+  - name: "Main Character 99 Atk.def.mov.agi."
+    notes: "[Shining Force]  File: PAYLOAD"
+    codes:
+      - "write at 0x00009D4B:0x63636363"
+
+  - name: "Update Crc32 (required)"
+    notes: "File: PAYLOAD  (set range:0x000004,0x0B8481)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"

@@ -1,0 +1,28 @@
+# Rogue Legacy cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUB31512
+
+game: "Rogue Legacy"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUB31512"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Money 999999999"
+    notes: "File: SAVEDAT0"
+    codes:
+      - "Search \".rcdat\":5"
+      - "write next (22):FFC99A3B"
+      - "Search \".rcdat\":10"
+      - "write next (22):FFC99A3B"
+
+  - name: "Money 999999999 Edited By Chaoszage"
+    notes: "File: SAVEDAT0"
+    codes:
+      - "Search \".rcdat\":5"
+      - "write next 0x16:0xFFC99A3B"
+      - "Search \".rcdat\":10"
+      - "write next 0x1E:0xFFC99A3B"

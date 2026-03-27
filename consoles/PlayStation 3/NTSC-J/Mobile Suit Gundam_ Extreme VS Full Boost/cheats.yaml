@@ -1,0 +1,20 @@
+# Mobile Suit Gundam_ Extreme VS Full Boost cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  NPJB00512
+
+game: "Mobile Suit Gundam_ Extreme VS Full Boost"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "NPJB00512"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Sha1 For Save.dat (required)"
+    notes: "File: SAVE.DAT  (set range:0x000020,0x025A4F)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000020,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x00000C:[hash]"

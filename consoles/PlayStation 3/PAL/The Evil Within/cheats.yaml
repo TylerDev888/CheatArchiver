@@ -1,0 +1,407 @@
+# The Evil Within cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01916
+
+game: "The Evil Within"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01916"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Upgrade Points 999999 (green Gel)"
+    notes: "File: _PLAYER"
+    codes:
+      - "search 0x7A7765692F706C617965722F757067726164655F6974656D"
+      - "write next (24):0x000F423F"
+
+  - name: "Ordinary Keys 45"
+    notes: "File: _PLAYER"
+    codes:
+      - "search 0x73617665726F6F6D5F6B65792F64656661756C74"
+      - "write next (20):0x0000002D"
+
+  - name: "Max Out Abilities"
+    notes: "File: _PLAYER"
+    codes:
+      - "search 0x93688362:10"
+      - "write next (167):0x00000005"
+      - "write next (171):0x00000006"
+      - "write next (175):0x00000005"
+      - "write next (179):0x00000005"
+      - "write next (183):0x00000005"
+      - "write next (187):0x00000005"
+      - "write next (191):0x00000005"
+      - "write next (195):0x00000005"
+      - "write next (199):0x00000005"
+      - "write next (203):0x00000003"
+      - "write next (207):0x00000005"
+      - "write next (211):0x00000005"
+      - "write next (215):0x00000005"
+      - "write next (219):0x00000005"
+      - "write next (223):0x00000005"
+      - "write next (227):0x00000005"
+      - "write next (231):0x00000005"
+
+  - name: "Max Health"
+    notes: "[Health (Choose one)]  File: _PLAYER"
+    codes:
+      - "search 0x93688362:10"
+      - "write next (159):0x434800004348"
+
+  - name: "Infinite Health"
+    notes: "[Health (Choose one)]  File: _PLAYER"
+    codes:
+      - "search 0x93688362:10"
+      - "write next (159):0x636300006363"
+
+  - name: "Reset Time To 0:00"
+    notes: "[Total time played (Choose one)]  File: _PLAYER"
+    codes:
+      - "search 0xDA610A5C:3"
+      - "write next (-248):0x000000"
+
+  - name: "Time Played Is 1 Hour"
+    notes: "[Total time played (Choose one)]  File: _PLAYER"
+    codes:
+      - "search 0xDA610A5C:3"
+      - "write next (-248):0x000E10"
+
+  - name: "Casual"
+    notes: "[Change difficulty to (Choose one)]  File: _PLAYER"
+    codes:
+      - "search 0x93688362:10"
+      - "write next (11):0x00"
+
+  - name: "Survival"
+    notes: "[Change difficulty to (Choose one)]  File: _PLAYER"
+    codes:
+      - "search 0x93688362:10"
+      - "write next (11):0x01"
+
+  - name: "Nightmare"
+    notes: "[Change difficulty to (Choose one)]  File: _PLAYER"
+    codes:
+      - "search 0x93688362:10"
+      - "write next (11):0x02"
+
+  - name: "Akumu"
+    notes: "[Change difficulty to (Choose one)]  File: _PLAYER"
+    codes:
+      - "search 0x93688362:10"
+      - "write next (11):0x03"
+
+  - name: "Experimental (some Enemies Already Dead)"
+    notes: "[Change difficulty to (Choose one)]  File: _PLAYER  (maybe only has effect on QUICKSAVE) (might get stuck if the story depends on killing an enemy to) (open a door to get further)"
+    codes:
+      - "search 0x93688362:10"
+      - "write next (11):0x04"
+
+  - name: "Syringes 99"
+    notes: "[Max out items]  File: _PLAYER"
+    codes:
+      - "search 0x66697273746169642F737972696E6765"
+      - "write next (16):0x00000063"
+      - "write next (24):0x00000063"
+
+  - name: "Med Kits 99"
+    notes: "[Max out items]  File: _PLAYER"
+    codes:
+      - "search 0x66697273746169642F6D65646963616C5F6B6974"
+      - "write next (20):0x00000063"
+
+  - name: "Matchsticks 99"
+    notes: "[Max out items]  File: _PLAYER"
+    codes:
+      - "search 0x7A7765692F706C617965722F6D61746368737469636B"
+      - "write next (22):0x00000063"
+      - "write next (30):0x00000063"
+
+  - name: "Trap Parts 999"
+    notes: "[Max out items]  File: _PLAYER"
+    codes:
+      - "search 0x7A7765692F706C617965722F747261705F7061727473"
+      - "write next (22):0x000003E7"
+
+  - name: "Grenades 999"
+    notes: "[Max out items]  File: _PLAYER"
+    codes:
+      - "search 0x7A7765692F7468726F7761626C652F6772656E6164652F6D3234"
+      - "write next (26):0x000003E7"
+      - "write next (34):0x000003E7"
+
+  - name: "Replace Handgun With Magnum"
+    notes: "[Replace Handgun with Magnum *]  File: _PLAYER"
+    codes:
+      - "search 0x776561706F6E2F706973746F6C00000001FFFFFFFFFFFFFFFF14000000616D6D6F2F706973746F6C2F7374616E64617264"
+      - "write next (0):0x776561706F6E2F6D61676E756D00000001FFFFFFFFFFFFFFFF14000000616D6D6F2F6D61676E756D2F7374616E64617264"
+
+  - name: "Replace Handgun Ammo Stock With Magnum Ammo Stock"
+    notes: "[Replace Handgun with Magnum *]  File: _PLAYER"
+    codes:
+      - "search 0x616D6D6F2F706973746F6C2F7374616E64617264"
+      - "write next (0):0x616D6D6F2F6D61676E756D2F7374616E64617264"
+      - "search 0x616D6D6F2F706973746F6C2F7374616E64617264:2"
+      - "write next (0):0x616D6D6F2F6D61676E756D2F7374616E64617264"
+
+  - name: "Change Magnum Back To Handgun"
+    notes: "[Change Magnum back to Handgun * (chp.6)]  File: _PLAYER"
+    codes:
+      - "search 0x776561706F6E2F6D61676E756D00000001FFFFFFFFFFFFFFFF14000000616D6D6F2F6D61676E756D2F7374616E64617264"
+      - "write next (0):0x776561706F6E2F706973746F6C00000001FFFFFFFFFFFFFFFF14000000616D6D6F2F706973746F6C2F7374616E64617264"
+
+  - name: "Change Magnum Ammo Stock Back To Handgun Ammo Stock"
+    notes: "[Change Magnum back to Handgun * (chp.6)]  File: _PLAYER"
+    codes:
+      - "search 0x616D6D6F2F6D61676E756D2F7374616E64617264"
+      - "write next (0):0x616D6D6F2F706973746F6C2F7374616E64617264"
+      - "search 0x616D6D6F2F6D61676E756D2F7374616E64617264:2"
+      - "write next (0):0x616D6D6F2F706973746F6C2F7374616E64617264"
+
+  - name: "Handgun Max Clip + 9999"
+    notes: "[Max clip ammo + stock]  File: _PLAYER"
+    codes:
+      - "search 0x776561706F6E2F706973746F6C00000001FFFFFFFFFFFFFFFF14000000616D6D6F2F706973746F6C2F7374616E64617264"
+      - "write next (49):0x0000270F"
+      - "search 0x616D6D6F2F706973746F6C2F7374616E64617264:2"
+      - "write next (20):0x0000270F"
+      - "write next (28):0x0000270F"
+
+  - name: "Rifle Max Clip + 9999"
+    notes: "[Max clip ammo + stock]  File: _PLAYER"
+    codes:
+      - "search 0x776561706F6E2F7269666C6500000001FFFFFFFFFFFFFFFF13000000616D6D6F2F7269666C652F7374616E64617264"
+      - "write next (47):0x0000270F"
+      - "search 0x616D6D6F2F7269666C652F7374616E64617264:2"
+      - "write next (19):0x0000270F"
+      - "write next (27):0x0000270F"
+
+  - name: "Magnum Max Clip + 9999"
+    notes: "[Max clip ammo + stock]  File: _PLAYER"
+    codes:
+      - "search 0x776561706F6E2F6D61676E756D00000001FFFFFFFFFFFFFFFF14000000616D6D6F2F6D61676E756D2F7374616E64617264"
+      - "write next (49):0x0000270F"
+      - "search 0x616D6D6F2F6D61676E756D2F7374616E64617264:2"
+      - "write next (20):0x0000270F"
+      - "write next (28):0x0000270F"
+
+  - name: "Machinegun Max Clip + 9999"
+    notes: "[Max clip ammo + stock]  File: _PLAYER"
+    codes:
+      - "search 0x776561706F6E2F6D616368696E6567756E00000001FFFFFFFFFFFFFFFF18000000616D6D6F2F6D616368696E6567756E2F7374616E64617264"
+      - "write next (57):0x0000270F"
+      - "search 0x616D6D6F2F6D616368696E6567756E2F7374616E64617264:2"
+      - "write next (24):0x0000270F"
+      - "write next (32):0x0000270F"
+
+  - name: "Rocketlauncher Max Clip + 999"
+    notes: "[Max clip ammo + stock]  File: _PLAYER"
+    codes:
+      - "search 0x776561706F6E2F726F636B65746C61756E6368657200000001FFFFFFFFFFFFFFFF1C000000616D6D6F2F726F636B65746C61756E636865722F7374616E64617264"
+      - "write next (65):0x000003E7"
+      - "search 0x616D6D6F2F726F636B65746C61756E636865722F7374616E64617264:2"
+      - "write next (28):0x000003E7"
+      - "write next (36):0x000003E7"
+
+  - name: "Rocketlauncher Ammo 99 (final Boss)"
+    notes: "[Max clip ammo + stock]  File: _PLAYER"
+    codes:
+      - "search 0x776561706F6E2F726F636B65746C61756E636865725F6C61737400000001FFFFFFFFFFFFFFFF1E000000616D6D6F2F726F636B65746C61756E636865722F666F725F616C70686133"
+      - "write next (72):0x00000063"
+      - "search 0x616D6D6F2F726F636B65746C61756E636865722F666F725F616C70686133:2"
+      - "write next (30):0x00000063"
+      - "write next (38):0x00000063"
+
+  - name: "Burst Handgun Max Clip"
+    notes: "[Max clip ammo + stock]  File: _PLAYER"
+    codes:
+      - "search 0x776561706F6E2F62757273745F68616E6467756E00000001FFFFFFFFFFFFFFFF14000000616D6D6F2F706973746F6C2F7374616E64617264"
+      - "write next (56):0x0000270F"
+
+  - name: "High Penetrating Sniper Rifle Max Clip"
+    notes: "[Max clip ammo + stock]  File: _PLAYER"
+    codes:
+      - "search 0x776561706F6E2F70656E6574726174696E675F7269666C6500000001FFFFFFFFFFFFFFFF13000000616D6D6F2F7269666C652F7374616E64617264"
+      - "write next (59):0x0000270F"
+
+  - name: "Shotgun Max Clip + 9999, Look Below For Alt.code** Dont Use Both Codes"
+    notes: "[Max clip ammo + stock]  File: _PLAYER"
+    codes:
+      - "search 0x776561706F6E2F726567696D6573686F7467756E00000001FFFFFFFFFFFFFFFF1C000000616D6D6F2F73686F7467756E2F6275636B73686F745F737072656164"
+      - "write next (64):0x0000270F"
+      - "search 0x616D6D6F2F73686F7467756E2F6275636B73686F745F737072656164:2"
+      - "write next (28):0x0000270F"
+      - "write next (36):0x0000270F"
+
+  - name: "Normal Shotgun, Only Use If You Dont Have The Double B.shotgun"
+    notes: "[Shotgun max clip + 9999 (Choose one) ONLY **]  File: _PLAYER"
+    codes:
+      - "search 0x776561706F6E2F726567696D6573686F7467756E00000001FFFFFFFFFFFFFFFF1C000000616D6D6F2F73686F7467756E2F6275636B73686F745F737072656164"
+      - "write next (64):0x0000270F"
+      - "search 0x616D6D6F2F73686F7467756E2F6275636B73686F745F737072656164:2"
+      - "write next (28):0x0000270F"
+      - "write next (36):0x0000270F"
+
+  - name: "Double B.shotgun, Only Use If You Dont Have Picked Up Normal"
+    notes: "[Shotgun max clip + 9999 (Choose one) ONLY **]  File: _PLAYER"
+    codes:
+      - "search 0x776561706F6E2F646F75626C6562617272656C5F73686F7467756E00000001FFFFFFFFFFFFFFFF1C000000616D6D6F2F73686F7467756E2F6275636B7368 6F745F737072656164"
+      - "write next (143):0x0000270F"
+      - "search 0x616D6D6F2F73686F7467756E2F6275636B73686F745F737072656164:2"
+      - "write next (28):0x0000270F"
+      - "write next (36):0x0000270F"
+
+  - name: "Normal And Double B.shotgun, Only Use If You Have Both Shotguns"
+    notes: "[Shotgun max clip + 9999 (Choose one) ONLY **]  File: _PLAYER"
+    codes:
+      - "search 0x776561706F6E2F726567696D6573686F7467756E00000001FFFFFFFFFFFFFFFF1C000000616D6D6F2F73686F7467756E2F6275636B73686F745F737072656164"
+      - "write next (64):0x0000270F"
+      - "search 0x776561706F6E2F646F75626C6562617272656C5F73686F7467756E00000001FFFFFFFFFFFFFFFF1C000000616D6D6F2F73686F7467756E2F6275636B73686F745F737072656164"
+      - "write next (143):0x0000270F"
+      - "search 0x616D6D6F2F73686F7467756E2F6275636B73686F745F737072656164:3"
+      - "write next (28):0x0000270F"
+      - "write next (36):0x0000270F"
+
+  - name: "Handgun(s) Max Clip + 9999"
+    notes: "[Alternative weapon codes (if others dont work)]  File: _PLAYER"
+    codes:
+      - "search 0x616D6D6F2F706973746F6C2F7374616E64617264"
+      - "write next (20):0x0000270F"
+      - "write next (28):0x0000270F"
+      - "search 0x616D6D6F2F706973746F6C2F7374616E64617264:2"
+      - "write next (20):0x0000270F"
+      - "write next (28):0x0000270F"
+      - "search 0x616D6D6F2F706973746F6C2F7374616E64617264:3"
+      - "write next (20):0x0000270F"
+      - "write next (28):0x0000270F"
+      - "search 0x616D6D6F2F706973746F6C2F7374616E64617264:4"
+      - "write next (20):0x0000270F"
+      - "write next (28):0x0000270F"
+
+  - name: "Shotgun(s) Max Clip + 9999"
+    notes: "[Alternative weapon codes (if others dont work)]  File: _PLAYER"
+    codes:
+      - "search 0x616D6D6F2F73686F7467756E2F6275636B73686F745F737072656164"
+      - "write next (28):0x0000270F"
+      - "write next (36):0x0000270F"
+      - "search 0x616D6D6F2F73686F7467756E2F6275636B73686F745F737072656164:2"
+      - "write next (28):0x0000270F"
+      - "write next (36):0x0000270F"
+      - "search 0x616D6D6F2F73686F7467756E2F6275636B73686F745F737072656164:3"
+      - "write next (28):0x0000270F"
+      - "write next (36):0x0000270F"
+
+  - name: "Rifle(s) Max Clip + 9999"
+    notes: "[Alternative weapon codes (if others dont work)]  File: _PLAYER"
+    codes:
+      - "search 0x616D6D6F2F7269666C652F7374616E64617264"
+      - "write next (19):0x0000270F"
+      - "write next (27):0x0000270F"
+      - "search 0x616D6D6F2F7269666C652F7374616E64617264:2"
+      - "write next (19):0x0000270F"
+      - "write next (27):0x0000270F"
+      - "search 0x616D6D6F2F7269666C652F7374616E64617264:3"
+      - "write next (19):0x0000270F"
+      - "write next (27):0x0000270F"
+      - "search 0x616D6D6F2F7269666C652F7374616E64617264:4"
+      - "write next (19):0x0000270F"
+      - "write next (27):0x0000270F"
+
+  - name: "Explosive Bolts(you Need At Least One Of Each Stock Item To Be Able To Max Them Out And Overload Values)"
+    notes: "[Agony Crossbow ammo 99]  File: _PLAYER"
+    codes:
+      - "search 0x616D6D6F2F747261705F67756E2F626F6D62"
+      - "write next (18):0x00000063"
+      - "write next (26):0x00000063"
+      - "search 0x616D6D6F2F747261705F67756E2F626F6D62:2"
+      - "write next (18):0x00000063"
+      - "write next (26):0x00000063"
+
+  - name: "Shock Bolts"
+    notes: "[Agony Crossbow ammo 99]  File: _PLAYER"
+    codes:
+      - "search 0x616D6D6F2F747261705F67756E2F7465736C61"
+      - "write next (19):0x00000063"
+      - "write next (27):0x00000063"
+      - "search 0x616D6D6F2F747261705F67756E2F7465736C61:2"
+      - "write next (19):0x00000063"
+      - "write next (27):0x00000063"
+
+  - name: "Flash Bolts"
+    notes: "[Agony Crossbow ammo 99]  File: _PLAYER"
+    codes:
+      - "search 0x616D6D6F2F747261705F67756E2F666C617368"
+      - "write next (19):0x00000063"
+      - "write next (27):0x00000063"
+      - "search 0x616D6D6F2F747261705F67756E2F666C617368:2"
+      - "write next (19):0x00000063"
+      - "write next (27):0x00000063"
+
+  - name: "Freeze Bolts"
+    notes: "[Agony Crossbow ammo 99]  File: _PLAYER"
+    codes:
+      - "search 0x616D6D6F2F747261705F67756E2F667265657A65"
+      - "write next (20):0x00000063"
+      - "write next (28):0x00000063"
+      - "search 0x616D6D6F2F747261705F67756E2F667265657A65:2"
+      - "write next (20):0x00000063"
+      - "write next (28):0x00000063"
+
+  - name: "Harpoon Bolts"
+    notes: "[Agony Crossbow ammo 99]  File: _PLAYER"
+    codes:
+      - "search 0x616D6D6F2F747261705F67756E2F686172706F6F6E"
+      - "write next (21):0x00000063"
+      - "write next (29):0x00000063"
+      - "search 0x616D6D6F2F747261705F67756E2F686172706F6F6E:2"
+      - "write next (21):0x00000063"
+      - "write next (29):0x00000063"
+
+  - name: "Fire Bolts"
+    notes: "[Agony Crossbow ammo 99]  File: _PLAYER"
+    codes:
+      - "search 0x616D6D6F2F747261705F67756E2F66697265"
+      - "write next (18):0x00000063"
+      - "write next (26):0x00000063"
+      - "search 0x616D6D6F2F747261705F67756E2F66697265:2"
+      - "write next (18):0x00000063"
+      - "write next (26):0x00000063"
+
+  - name: "Poison Bolts"
+    notes: "[Agony Crossbow ammo 99]  File: _PLAYER"
+    codes:
+      - "search 0x616D6D6F2F747261705F67756E2F706F69736F6E"
+      - "write next (20):0x00000063"
+      - "write next (28):0x00000063"
+      - "search 0x616D6D6F2F747261705F67756E2F706F69736F6E:2"
+      - "write next (20):0x00000063"
+      - "write next (28):0x00000063"
+
+  - name: "Update Md5_xor For _player (required)"
+    notes: "File: _PLAYER  (set range:0x000000,0x01FFFB) (write at 0x01FFFC:[hash])"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:MD5_XOR"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"
+
+  - name: "Update Md5_xor For _details (required)"
+    notes: "File: _DETAILS  (set range:0x000000,0x00018F) (write at 0x000190:[hash])"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:MD5_XOR"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"
+
+  - name: "Update Md5_xor For _map (required)"
+    notes: "File: _MAP  (set range:0x000000,0x007FFB) (write at 0x007FFC:[hash])"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:MD5_XOR"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"

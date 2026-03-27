@@ -1,0 +1,84 @@
+# Fatal Fury Battle Archives 1 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21537
+
+game: "Fatal Fury Battle Archives 1"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21537"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "901D1920 0C0745F0"
+
+  - name: "Joker Player 1 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "D024AE5C 0000[Joker:PS2]"
+
+  - name: "Joker Player 2 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "D024AF5C 0000[Joker:PS2]"
+
+  - name: "Player 1 Infinite Energy (ff1, Ffs, Ff3)"
+    author: "SkillerCMP"
+    codes:
+      - "200A000C 03E00008"
+      - "200A0010 27BD0010"
+      - "200A001C 20060060"
+      - "200A0020 A1C60000"
+      - "200A0024 03E00008"
+      - "200A0028 27BD0010"
+      - "201534E8 08028000"
+      - "201534EC 00000000"
+      - "E0020000 00222D30"
+      - "200A0000 341703B8"
+      - "200A0004 12EF0005"
+      - "E0020003 00222D30"
+      - "200A0000 3417049B"
+      - "200A0004 12EF0005"
+      - "E0020004 00222D30"
+      - "200A0000 34170488"
+      - "200A0004 12EF0005"
+
+  - name: "P1 Infinite Energy"
+    author: "Lee4"
+    notes: "File: Fatal Fury 1 - King of Fighters:{The codes only works on first boot/loading if you get out of game the codes will stop working}"
+    codes:
+      - "D0222D30 00000000"
+      - "114387B8 00006060"
+
+  - name: "P2 No Energy"
+    author: "Lee4"
+    notes: "File: Fatal Fury 1 - King of Fighters:{The codes only works on first boot/loading if you get out of game the codes will stop working}"
+    codes:
+      - "E0020000 00222D30"
+      - "D14388B8 00006060"
+      - "114388B8 00000000"
+
+  - name: "Play As Ryo"
+    author: "Lee4"
+    notes: "File: Fatal Fury Special:{The codes only works on first boot/loading if you get out of game the codes will stop working}"
+    codes:
+      - "D0222D30 00000003"
+      - "015003EA 00000010"
+
+  - name: "Japanese Mode"
+    author: "Lee4"
+    notes: "File: Fatal Fury 3 - Road to the Final Victory:{The codes only works on first boot/loading if you get out of game the codes will stop working}"
+    codes:
+      - "D0222D30 00000004"
+      - "014D787E 00000000"
+
+  - name: "English Mode"
+    author: "Lee4"
+    notes: "File: Fatal Fury 3 - Road to the Final Victory:{The codes only works on first boot/loading if you get out of game the codes will stop working}"
+    codes:
+      - "D0222D30 00000004"
+      - "014D787E 00000001"

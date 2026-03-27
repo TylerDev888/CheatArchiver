@@ -1,0 +1,59 @@
+# The Terminator_ Dawn Of Fate cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "The Terminator_ Dawn Of Fate"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 003D3D87"
+      - "200C0000 0080802D"
+      - "200C0004 3C040047"
+      - "200C0008 8C83E734"
+      - "200C000C 8C630000"
+      - "200C0010 3C0142C8"
+      - "200C0014 00000000"
+      - "200C0018 03E00008"
+      - "200C001C 00000000"
+      - "201C30BC 0C030000"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C0014 AC610040"
+
+  - name: "Armour"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C001C AC610044"
+
+  - name: "Ammunition"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "201905C0 00000000"
+
+  - name: "Adrenalin"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20220568 00000000"
+
+  - name: "Unlock All Levels"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "201FBE20 00000000"
+      - "201FC730 24030000"
+      - "201FBE1C 24030000"
+      - "201FC0A0 00000000"

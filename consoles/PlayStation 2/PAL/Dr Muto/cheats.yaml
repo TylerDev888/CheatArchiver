@@ -1,0 +1,41 @@
+# Dr Muto cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Dr Muto"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 002863A7"
+
+  - name: "Unlimited Health"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "102B92A0 00000006"
+
+  - name: "Have All Isotopes"
+    author: "Xploder"
+    notes: "[The Lab-Home Sweet Home]"
+    codes:
+      - "10396178 00000064"
+
+  - name: "Have All DNA"
+    author: "Xploder"
+    notes: "[Totitec-The Junkyard]"
+    codes:
+      - "0039617F 00000011"
+
+  - name: "Have All Terra"
+    author: "Xploder"
+    notes: "[Totitec-The Junkyard]"
+    codes:
+      - "0039617E 00000007"

@@ -1,0 +1,84 @@
+# LEGO Racers 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20042
+
+game: "LEGO Racers 2"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20042"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F02079F0 002482EF"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0200008 002482EF"
+
+  - name: "Access All Bonus"
+    author: "Code Master"
+    codes:
+      - "203256D0 03E00008"
+      - "203256D4 24020001"
+
+  - name: "Access All Cars"
+    author: "Code Master"
+    codes:
+      - "203259B0 03E00008"
+      - "203259B4 24020001"
+
+  - name: "Access All Tracks"
+    author: "Code Master"
+    codes:
+      - "20325610 03E00008"
+      - "20325614 24020001"
+
+  - name: "Access All Worlds"
+    author: "Code Master"
+    codes:
+      - "203255C0 03E00008"
+      - "203255C4 24020001"
+
+  - name: "Dead A.I"
+    author: "Codejunkies"
+    codes:
+      - "2027D600 03E00008"
+      - "2027D604 00000000"
+
+  - name: "Have All Bonus"
+    author: "Code Master"
+    codes:
+      - "20432C2C FFFFFFFF"
+
+  - name: "Have All Cars"
+    author: "Code Master"
+    codes:
+      - "20432C48 FFFFFFFF"
+
+  - name: "Have All Tracks & Worlds"
+    author: "Code Master"
+    codes:
+      - "20432C28 FFFFFFFF"
+
+  - name: "Stupid AI"
+    author: "InterAct"
+    codes:
+      - "2027D600 03E00008"
+
+  - name: "Unlock All Worlds, Tracks And Racers"
+    author: "Codejunkies"
+    codes:
+      - "203255C8 03E00008"
+      - "203255CC 00000000"
+      - "203255D4 00000000"
+      - "2032562C 03E00008"
+      - "20325630 00000000"
+      - "20325638 00000000"

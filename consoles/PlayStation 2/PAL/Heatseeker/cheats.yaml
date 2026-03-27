@@ -1,0 +1,45 @@
+# Heatseeker cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Heatseeker"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9032E3F8 0C0C1D98"
+
+  - name: "Unlock All Bonus Codes"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "40A39C38 00030001"
+      - "01010101 00000000"
+
+  - name: "Unlock All Missions"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "40A39B08 00040001"
+      - "01010101 00000000"
+      - "10A39B06 00000101"
+
+  - name: "Unlock Most Planes"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "40A39BF8 00120001"
+      - "01010101 00000000"
+
+  - name: "Unlock Bonus Levels"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20A39B00 01010100"

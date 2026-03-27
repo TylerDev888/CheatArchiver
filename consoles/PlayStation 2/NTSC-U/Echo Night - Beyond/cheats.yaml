@@ -1,0 +1,82 @@
+# Echo Night - Beyond cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20928
+
+game: "Echo Night - Beyond"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20928"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0121E84 00121E87"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00121E87"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "90121E70 0C04875E"
+
+  - name: "Always 1St Save"
+    author: "Codejunkies"
+    codes:
+      - "202ADBEC 00000000"
+
+  - name: "Low Heart Rate"
+    author: "Codejunkies"
+    codes:
+      - "209D5FD4 3F800000"
+
+  - name: "Low Play Time"
+    author: "Codejunkies"
+    codes:
+      - "202ADBE8 42000000"
+
+  - name: "Only 1 Save Used (All Slots)"
+    author: "MadCatz"
+    codes:
+      - "200C2000 34030000"
+      - "200C2004 080968F6"
+      - "200C2008 AE030968"
+      - "2025A3D4 08030800"
+
+  - name: "Stop Game Timer"
+    author: "MadCatz"
+    codes:
+      - "20196000 00000000"
+
+  - name: "Always Low Elapsed Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202ADBE8 00000000"
+
+  - name: "Always Low Heart Rate"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "209D5FD4 00000000"
+
+  - name: "Heart Rate Doesn't Increase Over Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202176A0 00000000"
+
+  - name: "Infinite Battery"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20AD6DEC 42C80000"

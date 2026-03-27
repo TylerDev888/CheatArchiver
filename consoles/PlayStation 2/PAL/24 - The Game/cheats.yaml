@@ -1,0 +1,34 @@
+# 24 - The Game cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-53358
+
+game: "24 - The Game"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-53358"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enabler Code (Must Be On)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0486DC0 00486DC3"
+
+  - name: "Health Packs Never Decrease"
+    author: "Codejunkies"
+    codes:
+      - "2036FC24 00000000"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "20170744 00000000"
+
+  - name: "Infinite Body Armor"
+    author: "Codejunkies"
+    codes:
+      - "201F2808 00000000"
+      - "201F27BC 00000000"

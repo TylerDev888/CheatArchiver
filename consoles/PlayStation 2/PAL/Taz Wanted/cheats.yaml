@@ -1,0 +1,128 @@
+# Taz Wanted cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50649
+
+game: "Taz Wanted"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50649"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0282260 000001FD"
+
+  - name: "Bank Of Samerica"
+    author: "Codejunkies"
+    notes: "[Open Games]"
+    codes:
+      - "201505A8 24020064"
+
+  - name: "Cartoon Strip-Mine"
+    author: "Codejunkies"
+    notes: "[Open Games]"
+    codes:
+      - "20150678 24020064"
+
+  - name: "Gallery Unlocked"
+    author: "Codejunkies"
+    notes: "[Open Games]"
+    codes:
+      - "2010AD24 24020001"
+      - "2010AD28 AC6202EC"
+
+  - name: "Granny Canyon"
+    author: "Codejunkies"
+    notes: "[Open Games]"
+    codes:
+      - "20150610 24020064"
+
+  - name: "Ice Burg"
+    author: "Codejunkies"
+    notes: "[Open Games]"
+    codes:
+      - "20150408 24020064"
+
+  - name: "Loney Lagoon"
+    author: "Codejunkies"
+    notes: "[Open Games]"
+    codes:
+      - "20150470 24020064"
+
+  - name: "Looningdale's"
+    author: "Codejunkies"
+    notes: "[Open Games]"
+    codes:
+      - "201504D8 24020064"
+
+  - name: "Samsonian"
+    author: "Codejunkies"
+    notes: "[Open Games]"
+    codes:
+      - "20150540 24020064"
+
+  - name: "Taz: Haunted"
+    author: "Codejunkies"
+    notes: "[Open Games]"
+    codes:
+      - "201506E0 24020064"
+
+  - name: "Zooney Tunes"
+    author: "Codejunkies"
+    notes: "[Open Games]"
+    codes:
+      - "20150378 24020064"
+
+  - name: "Debug Info"
+    author: "Codejunkies"
+    codes:
+      - "202C8600 00000000"
+
+  - name: "Debug Position"
+    author: "Codejunkies"
+    codes:
+      - "202853C0 00000000"
+
+  - name: "Fly Mode (Press L3 To Activate And R3 To Deactivate)"
+    author: "Codejunkies"
+    codes:
+      - "D0520602 0000FFFD"
+      - "203D16BC 00000001"
+      - "D0520602 0000FFFB"
+      - "203D16BC 00000000"
+
+  - name: "Freeze Timer"
+    author: "Codejunkies"
+    codes:
+      - "203FEEE8 3F800FAB"
+
+  - name: "Guards Ignore Taz"
+    author: "luc-ita"
+    codes:
+      - "201615D8 10000030"
+
+  - name: "Jump Higher"
+    author: "luc-ita"
+    codes:
+      - "2024F3C0 3C01458A"
+      - "2024F3A4 3C01458A"
+
+  - name: "Play Without Guards"
+    author: "luc-ita"
+    codes:
+      - "20162CDC 10000016"
+
+  - name: "Take Objects Anywhere"
+    author: "luc-ita"
+    codes:
+      - "2024AAD4 00000000"
+
+  - name: "Walk Underwater"
+    author: "luc-ita"
+    codes:
+      - "20225888 00000000"

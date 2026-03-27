@@ -1,0 +1,32 @@
+# Kikou Heidan - J-Phoenix 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65343
+
+game: "Kikou Heidan - J-Phoenix 2"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65343"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9030AC58 0C0C2ABE"
+
+  - name: "Debug Camera Mode [View Note]"
+    author: "punk7890"
+    codes:
+      - "D0830DC2 0000FCFF"
+      - "20466E54 00000004"
+      - "D0830DC2 0000FFFD"
+      - "20466E54 00000001"
+
+  - name: "Debug Info Display"
+    author: "punk7890"
+    codes:
+      - "201AD7A4 1000020C"
+      - "201ADFE8 00000000"

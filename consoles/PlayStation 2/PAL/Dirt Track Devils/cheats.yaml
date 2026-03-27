@@ -1,0 +1,42 @@
+# Dirt Track Devils cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51621
+
+game: "Dirt Track Devils"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51621"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90179CF8 0C05E6E6"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9010B57C 0C04504C"
+
+  - name: "Opponents Don't Move"
+    author: "luc-ita"
+    codes:
+      - "2012C850 00000000"
+      - "2012C858 8E83028C"
+      - "2012C85C 24020002"
+      - "2012C860 14620003"
+
+  - name: "Time Laps Races Always Zero"
+    author: "luc-ita"
+    codes:
+      - "2013156C AC800000"
+
+  - name: "Total Time Races Always Zero"
+    author: "luc-ita"
+    codes:
+      - "20131514 AE0000E8"

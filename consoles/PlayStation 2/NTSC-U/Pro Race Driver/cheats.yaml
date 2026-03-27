@@ -1,0 +1,106 @@
+# Pro Race Driver cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20329
+
+game: "Pro Race Driver"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20329"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F017D2D8 0038E83F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F01277F8 0038E83F"
+
+  - name: "Enhanced Damage"
+    author: "Code Master"
+    notes: "[Activate Bonus Codes]"
+    codes:
+      - "00403821 00000001"
+
+  - name: "Have All Cars"
+    author: "Code Master"
+    notes: "[Activate Bonus Codes]"
+    codes:
+      - "00403800 00000001"
+
+  - name: "Have All Challenges"
+    author: "Code Master"
+    notes: "[Activate Bonus Codes]"
+    codes:
+      - "00403842 00000001"
+
+  - name: "Have All Championships"
+    author: "Code Master"
+    notes: "[Activate Bonus Codes]"
+    codes:
+      - "0040382C 00000001"
+
+  - name: "Have All Pro Race Driver Tracks"
+    author: "Code Master"
+    notes: "[Activate Bonus Codes]"
+    codes:
+      - "00403837 00000001"
+
+  - name: "Have All Tracks"
+    author: "Code Master"
+    notes: "[Activate Bonus Codes]"
+    codes:
+      - "0040380B 00000001"
+
+  - name: "No Damage"
+    author: "Code Master"
+    notes: "[Activate Bonus Codes]"
+    codes:
+      - "0040384D 00000001"
+
+  - name: "Simulation Mode"
+    author: "Code Master"
+    notes: "[Activate Bonus Codes]"
+    codes:
+      - "00403816 00000001"
+
+  - name: "View Credits"
+    author: "Code Master"
+    notes: "[Activate Bonus Codes]"
+    codes:
+      - "00403858 00000001"
+
+  - name: "Enable All Cheats"
+    author: "Codejunkies"
+    codes:
+      - "10429700 000001FF"
+
+  - name: "Have All Bonus Codes"
+    author: "Code Master"
+    codes:
+      - "20429700 FFFFFFFF"
+
+  - name: "Start On Lap Modifier (02-09)"
+    author: "Code Master"
+    codes:
+      - "D042CD04 00000001"
+      - "1042CD04 000000??"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F01277F8 0038E83F"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9038E83C 0C0DEC8F"

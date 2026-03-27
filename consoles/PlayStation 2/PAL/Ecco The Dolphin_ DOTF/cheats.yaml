@@ -1,0 +1,25 @@
+# Ecco The Dolphin_ DOTF cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Ecco The Dolphin_ DOTF"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0038C627"
+
+  - name: "Unlock Levels & Soccer"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20486150 FFFFFFFF"
+      - "20486154 FFFFFFFF"
+      - "20486158 FFFFFFFF"

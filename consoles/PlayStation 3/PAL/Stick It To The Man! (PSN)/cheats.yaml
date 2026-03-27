@@ -1,0 +1,17 @@
+# Stick It To The Man! (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB01798
+
+game: "Stick It To The Man! (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB01798"
+cheat_type: "Save Editor"
+source: "From SHAkA"
+
+cheats:
+  - name: "Unlock All Levels"
+    notes: "File: APPDATA.DAT"
+    codes:
+      - "write at 0x000000B0:0x3130"

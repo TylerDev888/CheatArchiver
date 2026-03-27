@@ -1,0 +1,35 @@
+# Dears cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25372
+
+game: "Dears"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25372"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010DB30 0C043674"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "40270430 00260001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Unlock All Characters"
+    author: "punk7890"
+    codes:
+      - "20270504 FFFFFFFF"
+      - "20270508 FFFFFFFF"
+
+  - name: "Unlock All Music"
+    author: "punk7890"
+    codes:
+      - "102704D0 0000FFFF"

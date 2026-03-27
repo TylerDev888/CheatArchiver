@@ -1,0 +1,51 @@
+# Silpheed - The Lost Planet cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50193
+
+game: "Silpheed - The Lost Planet"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50193"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0137B48 00266E4B"
+
+  - name: "All Weapons"
+    author: "InterAct"
+    codes:
+      - "102BF2D4 0000000A"
+
+  - name: "All Weapons Available"
+    author: "Codejunkies"
+    codes:
+      - "2015B2F4 2402FFFF"
+
+  - name: "Health"
+    author: "InterAct"
+    codes:
+      - "21F41C0C 0098967F"
+      - "D02BF2D4 00000002"
+
+  - name: "Infinite Shield"
+    author: "Codejunkies"
+    codes:
+      - "002BF2D4 0000000A"
+
+  - name: "Massive Score"
+    author: "Codejunkies"
+    codes:
+      - "21F41C00 0098967F"
+      - "21F41C0C 0098967F"
+
+  - name: "Score"
+    author: "InterAct"
+    codes:
+      - "102A0484 00000005"
+      - "21F41C00 0098967F"

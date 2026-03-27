@@ -1,0 +1,106 @@
+# Flipnic - Ultimate Pinball cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21157
+
+game: "Flipnic - Ultimate Pinball"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21157"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01F5F5C 001F5F5F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "901F6034 0C07FE0E"
+
+  - name: "Enable All Levels"
+    author: "Codejunkies"
+    codes:
+      - "4044919C 00040001"
+      - "03030303 00000000"
+
+  - name: "Max Stage Select Points"
+    author: "Code Master"
+    notes: "[Original Game Codes]"
+    codes:
+      - "20446A78 4876E7FF"
+      - "20446A7C 00000017"
+
+  - name: "Unlock All Stages"
+    author: "Code Master"
+    notes: "[Original Game Codes]"
+    codes:
+      - "4044919C 00040001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Max Bumpers"
+    author: "Codejunkies"
+    notes: "[P1 Codes]"
+    codes:
+      - "2044928C 000003E7"
+
+  - name: "Max Current Coins"
+    author: "Codejunkies"
+    notes: "[P1 Codes]"
+    codes:
+      - "2044929C 000003E7"
+
+  - name: "Max EXP"
+    author: "Codejunkies"
+    notes: "[P1 Codes]"
+    codes:
+      - "20449288 000003E7"
+
+  - name: "Max Lanes"
+    author: "Codejunkies"
+    notes: "[P1 Codes]"
+    codes:
+      - "20449290 000003E7"
+
+  - name: "Max Score"
+    author: "Codejunkies"
+    notes: "[P1 Codes]"
+    codes:
+      - "20449268 540BE3FF"
+      - "2044926C 00000002"
+
+  - name: "Max Total Coins"
+    author: "Codejunkies"
+    notes: "[P1 Codes]"
+    codes:
+      - "20449298 000003E7"
+
+  - name: "Press L2 For More Balls"
+    author: "Codejunkies"
+    notes: "[P1 Codes]"
+    codes:
+      - "D03984A6 0000FBFF"
+      - "10449334 00000004"
+
+  - name: "Infinite Balls"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20449334 00000009"
+
+  - name: "Max EXP Bonus"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2044932C 000003E7"
+
+  - name: "Quick Score Gain"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "10449268 0000FFFF"

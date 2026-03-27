@@ -1,0 +1,41 @@
+# Hyper Street Fighter II cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Hyper Street Fighter II"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9012ADF0 0C062740"
+
+  - name: "Infinite Health"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "11B00366 00000090"
+
+  - name: "Infinite Super Combo"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "11B005F0 00000030"
+
+  - name: "No Health"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "11B00366 00000000"
+
+  - name: "No Super Combo"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "11B005F0 00000000"

@@ -1,0 +1,2112 @@
+# WWE Smackdown! Vs. RAW 2006 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21286
+
+game: "WWE Smackdown! Vs. RAW 2006"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21286"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "E00FF7F0 00112C10"
+      - "E00E0C04 00112C12"
+      - "201C00CC 0804C2BE"
+      - "20130AF8 3C040140"
+      - "20130AFC 3C050008"
+      - "20130B00 0C0BDF46"
+      - "20130B04 3C060008"
+      - "20130B08 0C04A968"
+      - "20130B0C 0000202D"
+      - "20130B10 3C050140"
+      - "20130B14 3C040008"
+      - "20130B18 0C0BDF46"
+      - "20130B1C 3C060008"
+      - "20130B20 08070035"
+      - "20130B24 00000000"
+      - "F0112C10 00112C13"
+      - "90131360 0C04C442"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "9013DF70 00832021"
+
+  - name: "Master Code"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "90112C10 0C04F7F0"
+
+  - name: "Brian Hebner"
+    author: "Code Master"
+    notes: "[Access More Hidden Character Codes]"
+    codes:
+      - "003DCEC4 00000001"
+
+  - name: "Earl Hebner"
+    author: "Code Master"
+    notes: "[Access More Hidden Character Codes]"
+    codes:
+      - "003DD004 00000001"
+
+  - name: "Eric Bischoff"
+    author: "Code Master"
+    notes: "[Access More Hidden Character Codes]"
+    codes:
+      - "003DBDE4 00000001"
+
+  - name: "Jerry Lawler"
+    author: "Code Master"
+    notes: "[Access More Hidden Character Codes]"
+    codes:
+      - "003DD144 00000001"
+
+  - name: "Jim Ross"
+    author: "Code Master"
+    notes: "[Access More Hidden Character Codes]"
+    codes:
+      - "003DD0A4 00000001"
+
+  - name: "Jonathan Coachman"
+    author: "Code Master"
+    notes: "[Access More Hidden Character Codes]"
+    codes:
+      - "003DD1E4 00000001"
+
+  - name: "Lilian Garcia"
+    author: "Code Master"
+    notes: "[Access More Hidden Character Codes]"
+    codes:
+      - "003DE7C4 00000001"
+
+  - name: "Michael Cole"
+    author: "Code Master"
+    notes: "[Access More Hidden Character Codes]"
+    codes:
+      - "003DCF64 00000001"
+
+  - name: "Mr. Mcmahon"
+    author: "Code Master"
+    notes: "[Access More Hidden Character Codes]"
+    codes:
+      - "003DBD44 00000001"
+
+  - name: "Tazz"
+    author: "Code Master"
+    notes: "[Access More Hidden Character Codes]"
+    codes:
+      - "003DD284 00000001"
+
+  - name: "Theodore Long"
+    author: "Code Master"
+    notes: "[Access More Hidden Character Codes]"
+    codes:
+      - "003DE5E4 00000001"
+
+  - name: "Tony Chimmel"
+    author: "Code Master"
+    notes: "[Access More Hidden Character Codes]"
+    codes:
+      - "003DE724 00000001"
+
+  - name: "All Wrestlers Available (8-10-05 Test Build)"
+    author: "47iscool"
+    codes:
+      - "201EAE84 24020001"
+
+  - name: "AR < 3.14 Fix"
+    author: "Codejunkies"
+    codes:
+      - "20130768 3C03200F"
+      - "20130770 8C65FFF8"
+      - "20130774 24040079"
+      - "20130778 24030074"
+      - "2013077C 0000000C"
+
+  - name: "Always Active On Raw"
+    author: "Code Master"
+    notes: "[Batista Codes]"
+    codes:
+      - "004359F4 00000000"
+
+  - name: "Always Active On Smackdown"
+    author: "Code Master"
+    notes: "[Batista Codes]"
+    codes:
+      - "004359F4 00000001"
+
+  - name: "Always High Weekly Contract Price"
+    author: "Code Master"
+    notes: "[Batista Codes]"
+    codes:
+      - "204359F8 0001869F"
+
+  - name: "Always Low Weekly Contract Price"
+    author: "Code Master"
+    notes: "[Batista Codes]"
+    codes:
+      - "204359F8 00000001"
+
+  - name: "Max Current W/L Streak"
+    author: "Code Master"
+    notes: "[Batista Codes]"
+    codes:
+      - "10435A04 0000270F"
+
+  - name: "Max Matches Lost"
+    author: "Code Master"
+    notes: "[Batista Codes]"
+    codes:
+      - "C0E8897F 2B198DB0"
+
+  - name: "Max Matches Won"
+    author: "Code Master"
+    notes: "[Batista Codes]"
+    codes:
+      - "10435A00 0000270F"
+
+  - name: "Max Popularity"
+    author: "Code Master"
+    notes: "[Batista Codes]"
+    codes:
+      - "204359EC 42C80000"
+
+  - name: "Max Weeks Not Used On Show"
+    author: "Code Master"
+    notes: "[Batista Codes]"
+    codes:
+      - "00435A08 00000063"
+
+  - name: "Middle Popularity"
+    author: "Code Master"
+    notes: "[Batista Codes]"
+    codes:
+      - "204359EC 42480000"
+
+  - name: "No Current W/L Streak"
+    author: "Code Master"
+    notes: "[Batista Codes]"
+    codes:
+      - "10435A04 00000000"
+
+  - name: "No Matches Lost"
+    author: "Code Master"
+    notes: "[Batista Codes]"
+    codes:
+      - "10435A02 00000000"
+
+  - name: "No Matches Won"
+    author: "Code Master"
+    notes: "[Batista Codes]"
+    codes:
+      - "10435A00 00000000"
+
+  - name: "No Popularity"
+    author: "Code Master"
+    notes: "[Batista Codes]"
+    codes:
+      - "204359EC 00000000"
+
+  - name: "No Weeks Not Used On Show"
+    author: "Code Master"
+    notes: "[Batista Codes]"
+    codes:
+      - "00435A08 00000000"
+
+  - name: "Bypass Gender Check (Exibition)"
+    author: "47iscool"
+    codes:
+      - "D04DBFBC 00000088"
+      - "204DBFBC 24020000"
+
+  - name: "Bypass Gender Check (Story Mode)"
+    author: "47iscool"
+    codes:
+      - "D057D228 00000088"
+      - "2057D228 24030000"
+
+  - name: "Can Select Locked Menus (8-10-05 Test Build)"
+    author: "47iscool"
+    codes:
+      - "20227460 24020001"
+
+  - name: "Can Upgrade CAW With No Points"
+    author: "47iscool"
+    codes:
+      - "D053BC9E 00008C83"
+      - "2053BC9C 24020001"
+
+  - name: "1 Week"
+    author: "Code Master"
+    notes: "[Contract Remaining Modifier Codes]"
+    codes:
+      - "004350C6 00000001"
+
+  - name: "5 Weeks"
+    author: "Code Master"
+    notes: "[Contract Remaining Modifier Codes]"
+    codes:
+      - "004358A6 00000005"
+
+  - name: "10 Weeks"
+    author: "Code Master"
+    notes: "[Contract Remaining Modifier Codes]"
+    codes:
+      - "004359C6 0000000A"
+
+  - name: "25 Weeks"
+    author: "Code Master"
+    notes: "[Contract Remaining Modifier Codes]"
+    codes:
+      - "00435546 00000019"
+
+  - name: "50 Weeks"
+    author: "Code Master"
+    notes: "[Contract Remaining Modifier Codes]"
+    codes:
+      - "C083B8E0 9A218540"
+
+  - name: "75 Weeks"
+    author: "Code Master"
+    notes: "[Contract Remaining Modifier Codes]"
+    codes:
+      - "00435786 0000004B"
+
+  - name: "100 Weeks"
+    author: "Code Master"
+    notes: "[Contract Remaining Modifier Codes]"
+    codes:
+      - "00435AB6 00000064"
+
+  - name: "Disable A.I."
+    author: "Codejunkies"
+    codes:
+      - "D1FABA02 0000FEFB"
+      - "205C3994 00000000"
+      - "D1FABA02 0000FDFB"
+      - "205C3994 0C171B2C"
+
+  - name: "Disable V-Sync"
+    author: "Codejunkies"
+    codes:
+      - "E10100FD 01FABA02"
+      - "201BF960 03E00008"
+      - "E10100FB 01FABA02"
+      - "201BF960 27BDFFE0"
+
+  - name: "DQ Always Off"
+    author: "Josh_7774"
+    codes:
+      - "003DA4CB 00000000"
+
+  - name: "Enable Code (8-10-05 Test Build)"
+    author: "47iscool"
+    codes:
+      - "9012FA90 0C04BE4C"
+
+  - name: "10% Fatigue"
+    author: "Code Master"
+    notes: "[Fatigue Modifier Codes]"
+    codes:
+      - "004350CD 00000008"
+
+  - name: "20% Fatigue"
+    author: "Code Master"
+    notes: "[Fatigue Modifier Codes]"
+    codes:
+      - "00434FAD 00000010"
+
+  - name: "30% Fatigue"
+    author: "Code Master"
+    notes: "[Fatigue Modifier Codes]"
+    codes:
+      - "0043515D 00000018"
+
+  - name: "40% Fatigue"
+    author: "Code Master"
+    notes: "[Fatigue Modifier Codes]"
+    codes:
+      - "00435F6D 00000020"
+
+  - name: "50% Fatigue"
+    author: "Code Master"
+    notes: "[Fatigue Modifier Codes]"
+    codes:
+      - "00435A8D 00000028"
+
+  - name: "60% Fatigue"
+    author: "Code Master"
+    notes: "[Fatigue Modifier Codes]"
+    codes:
+      - "004359CD 00000030"
+
+  - name: "70% Fatigue"
+    author: "Code Master"
+    notes: "[Fatigue Modifier Codes]"
+    codes:
+      - "00435F6D 00000038"
+
+  - name: "80% Fatigue"
+    author: "Code Master"
+    notes: "[Fatigue Modifier Codes]"
+    codes:
+      - "004350CD 00000040"
+
+  - name: "90% Fatigue"
+    author: "Code Master"
+    notes: "[Fatigue Modifier Codes]"
+    codes:
+      - "00435ABD 00000048"
+
+  - name: "100% Fatigue"
+    author: "Code Master"
+    notes: "[Fatigue Modifier Codes]"
+    codes:
+      - "0043551D 00000050"
+
+  - name: "No Fatigue"
+    author: "Code Master"
+    notes: "[Fatigue Modifier Codes]"
+    codes:
+      - "004358AD 00000000"
+
+  - name: "Finisher Always Available"
+    author: "Codejunkies"
+    codes:
+      - "E003000E 006043D8"
+      - "E0021C40 006043DA"
+      - "206043D4 24020001"
+      - "206043DC AE0202EC"
+
+  - name: "Infinite Starting Cash (RAW GM)"
+    author: "Code Master"
+    notes: "[General Manager Mode-Miscellaneous Codes]"
+    codes:
+      - "1042F830 0000FFFF"
+
+  - name: "Infinite Starting Cash (Smackdown GM)"
+    author: "Code Master"
+    notes: "[General Manager Mode-Miscellaneous Codes]"
+    codes:
+      - "10431E40 0000FFFF"
+
+  - name: "Max Starting Cash (RAW GM)"
+    author: "Code Master"
+    notes: "[General Manager Mode-Miscellaneous Codes]"
+    codes:
+      - "2042F830 05F5E0FF"
+
+  - name: "Max Starting Cash (Smackdown GM)"
+    author: "Code Master"
+    notes: "[General Manager Mode-Miscellaneous Codes]"
+    codes:
+      - "20431E40 05F5E0FF"
+
+  - name: "View Roster For All Characters On RAW"
+    author: "Code Master"
+    notes: "[General Manager Mode-Miscellaneous Codes]"
+    codes:
+      - "E0028021 005A89F4"
+      - "205A8A04 24020000"
+      - "205A8A0C A20256A4"
+
+  - name: "View Roster For All Characters On Smackdown"
+    author: "Code Master"
+    notes: "[General Manager Mode-Miscellaneous Codes]"
+    codes:
+      - "E0028021 005A89F4"
+      - "205A8A04 24020001"
+      - "205A8A0C A20256A4"
+
+  - name: "View Roster For Max Popularity (All Wrestlers)"
+    author: "Code Master"
+    notes: "[General Manager Mode-Miscellaneous Codes]"
+    codes:
+      - "E0022021 005ACA20"
+      - "205ACA34 00000000"
+      - "205ACA44 AC82569C"
+
+  - name: "View Roster For Never Fatigued (All Wrestlers)"
+    author: "Code Master"
+    notes: "[General Manager Mode-Miscellaneous Codes]"
+    codes:
+      - "D05FBC78 00001021"
+      - "205FBC80 A04056AD"
+      - "D05E9AF4 0000982D"
+      - "205E9AFC 24120000"
+
+  - name: "View Roster For No Injuries (All Wrestlers)"
+    author: "Code Master"
+    notes: "[General Manager Mode-Miscellaneous Codes]"
+    codes:
+      - "E0031021 005FB92C"
+      - "205FB938 00540821"
+      - "205FB93C 24020000"
+      - "205FB944 A02256AE"
+
+  - name: "All Lockerroom Shop"
+    author: "MadCatz"
+    notes: "[Have Purchased]"
+    codes:
+      - "4044530C 00030001"
+      - "FFFFFFFF 00000000"
+
+  - name: "All WWE Shop"
+    author: "MadCatz"
+    notes: "[Have Purchased]"
+    codes:
+      - "20445304 FFFFFFFF"
+
+  - name: "Have Won All Trophies"
+    author: "MadCatz"
+    notes: "[Have Purchased]"
+    codes:
+      - "20445308 FFFFFFFF"
+
+  - name: "Achilles Tear"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "004350CE 0000000F"
+
+  - name: "Ankle Tendonitis"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "0043551E 00000003"
+
+  - name: "Back Spasms"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "0043539E 00000013"
+
+  - name: "Broken Arm"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "0043554E 0000000B"
+
+  - name: "Broken Hand"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "0043596E 00000006"
+
+  - name: "Broken Leg"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "0043551E 0000000D"
+
+  - name: "Broken Nose"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "004354EE 00000005"
+
+  - name: "Broken Ribs"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "004354EE 00000007"
+
+  - name: "Broken Wrist"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "0043509E 0000000A"
+
+  - name: "Bruised Ribs"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "0043509E 00000012"
+
+  - name: "Concussion"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "0043509E 00000011"
+
+  - name: "Dislocated Shoulder"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "0043539E 00000002"
+
+  - name: "Flu Like Symptoms"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "0043554E 00000001"
+
+  - name: "Hairline Foot Fracture"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "0043596E 00000009"
+
+  - name: "Herniated Disc"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "0043551E 00000008"
+
+  - name: "Multiple Concussions"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "0043554E 00000004"
+
+  - name: "No Injuries"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "0043509E 00000000"
+
+  - name: "Sprained Knee"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "0043539E 00000018"
+
+  - name: "Sprained Wrist"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "0043551E 00000014"
+
+  - name: "Strained Achilles Tendon"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "0043509E 00000017"
+
+  - name: "Strained Hamstring"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "0043539E 00000015"
+
+  - name: "Strained Quadricepts"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "0043509E 00000016"
+
+  - name: "Torn ACL"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "0043509E 00000010"
+
+  - name: "Torn Hamstring"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "004358AE 0000000C"
+
+  - name: "Torn Quadricepts"
+    author: "Code Master"
+    notes: "[Injured Modifier Codes]"
+    codes:
+      - "004354EE 0000000E"
+
+  - name: "DQ Always On"
+    author: "Code Master"
+    notes: "[Match Rules Codes]"
+    codes:
+      - "00445355 00000001"
+
+  - name: "Entrances Always Off"
+    author: "Code Master"
+    notes: "[Match Rules Codes]"
+    codes:
+      - "00445351 00000000"
+
+  - name: "Entrances Always On"
+    author: "Code Master"
+    notes: "[Match Rules Codes]"
+    codes:
+      - "00445351 00000001"
+
+  - name: "Escape From Cage Door Always Off"
+    author: "Code Master"
+    notes: "[Match Rules Codes]"
+    codes:
+      - "0044535A 00000000"
+
+  - name: "Escape From Cage Door Always On"
+    author: "Code Master"
+    notes: "[Match Rules Codes]"
+    codes:
+      - "0044535A 00000001"
+
+  - name: "Give Up Always Off"
+    author: "Code Master"
+    notes: "[Match Rules Codes]"
+    codes:
+      - "00445353 00000000"
+
+  - name: "Give Up Always On"
+    author: "Code Master"
+    notes: "[Match Rules Codes]"
+    codes:
+      - "00445353 00000001"
+
+  - name: "Interference Always Off"
+    author: "Code Master"
+    notes: "[Match Rules Codes]"
+    codes:
+      - "00445358 00000000"
+
+  - name: "Interference Always On"
+    author: "Code Master"
+    notes: "[Match Rules Codes]"
+    codes:
+      - "00445358 00000001"
+
+  - name: "KO Always Off"
+    author: "Code Master"
+    notes: "[Match Rules Codes]"
+    codes:
+      - "00445352 00000000"
+
+  - name: "KO Always On"
+    author: "Code Master"
+    notes: "[Match Rules Codes]"
+    codes:
+      - "00445352 00000001"
+
+  - name: "Ring Out Always Off"
+    author: "Code Master"
+    notes: "[Match Rules Codes]"
+    codes:
+      - "00445357 00000000"
+
+  - name: "Ring Out Always On"
+    author: "Code Master"
+    notes: "[Match Rules Codes]"
+    codes:
+      - "00445357 00000001"
+
+  - name: "Ring Out Count Always Off"
+    author: "Code Master"
+    notes: "[Match Rules Codes]"
+    codes:
+      - "00445356 00000000"
+
+  - name: "Ring Out Count Always On"
+    author: "Code Master"
+    notes: "[Match Rules Codes]"
+    codes:
+      - "00445356 0000000A"
+
+  - name: "Rope Break Always Off"
+    author: "Code Master"
+    notes: "[Match Rules Codes]"
+    codes:
+      - "00445354 00000000"
+
+  - name: "Rope Break Always On"
+    author: "Code Master"
+    notes: "[Match Rules Codes]"
+    codes:
+      - "00445354 00000001"
+
+  - name: "Content"
+    author: "Code Master"
+    notes: "[Morale Modifier Codes]"
+    codes:
+      - "204350DC 01010101"
+      - "004350E0 00000001"
+
+  - name: "Furious"
+    author: "Code Master"
+    notes: "[Morale Modifier Codes]"
+    codes:
+      - "204358EC 04040404"
+      - "004358F0 00000004"
+
+  - name: "Happy"
+    author: "Code Master"
+    notes: "[Morale Modifier Codes]"
+    codes:
+      - "2043555C 00000000"
+      - "00435560 00000000"
+
+  - name: "Unsatisfied"
+    author: "Code Master"
+    notes: "[Morale Modifier Codes]"
+    codes:
+      - "204350AC 02020202"
+      - "004350B0 00000002"
+
+  - name: "Upset"
+    author: "Code Master"
+    notes: "[Morale Modifier Codes]"
+    codes:
+      - "204354FC 03030303"
+      - "00435500 00000003"
+
+  - name: "Never Tired"
+    author: "Codejunkies"
+    codes:
+      - "E002000E 006043D8"
+      - "D06043DA 00001C40"
+      - "2061D7B0 24020000"
+
+  - name: "P1 Press L1+Select While Pinning For Instant 3 Count"
+    author: "Code Master"
+    notes: "[Pinning Codes]"
+    codes:
+      - "D1FABA02 0000FBFE"
+      - "20514C5C 00000000"
+      - "D1FABA02 0000FFFF"
+      - "20514C5C 54820025"
+
+  - name: "P1 Press L2+Select While Pinning To Reset Pin Count"
+    author: "Code Master"
+    notes: "[Pinning Codes]"
+    codes:
+      - "E002FEFE 01FABA02"
+      - "20514C58 24040000"
+      - "20514C60 AE240054"
+      - "E002FFFF 01FABA02"
+      - "20514C58 8E240054"
+      - "20514C60 8E230058"
+
+  - name: "P2 Press L1+Select While Pinning For Instant 3 Count"
+    author: "Code Master"
+    notes: "[Pinning Codes]"
+    codes:
+      - "D1FABBE2 0000FBFE"
+      - "20514C5C 00000000"
+      - "D1FABBE2 0000FFFF"
+      - "20514C5C 54820025"
+
+  - name: "P2 Press L2+Select While Pinning To Reset Pin Count"
+    author: "Code Master"
+    notes: "[Pinning Codes]"
+    codes:
+      - "E002FEFE 01FABBE2"
+      - "20514C58 24040000"
+      - "20514C60 AE240054"
+      - "E002FFFF 01FABBE2"
+      - "20514C58 8E240054"
+      - "20514C60 8E230058"
+
+  - name: "P3 Press L1+Select While Pinning For Instant 3 Count"
+    author: "Code Master"
+    notes: "[Pinning Codes]"
+    codes:
+      - "D1FABDC2 0000FBFE"
+      - "20514C5C 00000000"
+      - "D1FABDC2 0000FFFF"
+      - "20514C5C 54820025"
+
+  - name: "P3 Press L2+Select While Pinning To Reset Pin Count"
+    author: "Code Master"
+    notes: "[Pinning Codes]"
+    codes:
+      - "E002FEFE 01FABDC2"
+      - "20514C58 24040000"
+      - "20514C60 AE240054"
+      - "E002FFFF 01FABDC2"
+      - "20514C58 8E240054"
+      - "20514C60 8E230058"
+
+  - name: "P4 Press L1+Select While Pinning For Instant 3 Count"
+    author: "Code Master"
+    notes: "[Pinning Codes]"
+    codes:
+      - "D1FABFA2 0000FBFE"
+      - "20514C5C 00000000"
+      - "D1FABFA2 0000FFFF"
+      - "20514C5C 54820025"
+
+  - name: "P4 Press L2+Select While Pinning To Reset Pin Count"
+    author: "Code Master"
+    notes: "[Pinning Codes]"
+    codes:
+      - "E002FEFE 01FABFA2"
+      - "20514C58 24040000"
+      - "20514C60 AE240054"
+      - "E002FFFF 01FABFA2"
+      - "20514C58 8E240054"
+      - "20514C60 8E230058"
+
+  - name: "P5 Press L1+Select While Pinning For Instant 3 Count"
+    author: "Code Master"
+    notes: "[Pinning Codes]"
+    codes:
+      - "D1FAC182 0000FBFE"
+      - "20514C5C 00000000"
+      - "D1FAC182 0000FFFF"
+      - "20514C5C 54820025"
+
+  - name: "P5 Press L2+Select While Pinning To Reset Pin Count"
+    author: "Code Master"
+    notes: "[Pinning Codes]"
+    codes:
+      - "E002FBFE 01FAC182"
+      - "20514C58 24040000"
+      - "20514C60 AE240054"
+      - "E002FEFE 01FAC182"
+      - "20514C58 8E240054"
+      - "20514C60 8E230058"
+
+  - name: "P6 Press L1+Select While Pinning For Instant 3 Count"
+    author: "Code Master"
+    notes: "[Pinning Codes]"
+    codes:
+      - "D1FAC362 0000FBFE"
+      - "20514C5C 00000000"
+      - "D1FAC362 0000FFFF"
+      - "20514C5C 54820025"
+
+  - name: "P6 Press L2+Select While Pinning To Reset Pin Count"
+    author: "Code Master"
+    notes: "[Pinning Codes]"
+    codes:
+      - "E002FEFE 01FAC362"
+      - "20514C58 24040000"
+      - "20514C60 AE240054"
+      - "E002FFFF 01FAC362"
+      - "20514C58 8E240054"
+      - "20514C60 8E230058"
+
+  - name: "P7 Press L1+Select While Pinning For Instant 3 Count"
+    author: "Code Master"
+    notes: "[Pinning Codes]"
+    codes:
+      - "D1FAC542 0000FBFE"
+      - "20514C5C 00000000"
+      - "D1FAC542 0000FFFF"
+      - "20514C5C 54820025"
+
+  - name: "P7 Press L2+Select While Pinning To Reset Pin Count"
+    author: "Code Master"
+    notes: "[Pinning Codes]"
+    codes:
+      - "E002FEFE 01FAC542"
+      - "20514C58 24040000"
+      - "20514C60 AE240054"
+      - "E002FFFF 01FAC542"
+      - "20514C58 8E240054"
+      - "20514C60 8E230058"
+
+  - name: "P8 Press L1+Select While Pinning For Instant 3 Count"
+    author: "Code Master"
+    notes: "[Pinning Codes]"
+    codes:
+      - "D1FAC722 0000FBFE"
+      - "20514C5C 00000000"
+      - "D1FAC722 0000FFFF"
+      - "20514C5C 54820025"
+
+  - name: "P8 Press L2+Select While Pinning To Reset Pin Count"
+    author: "Code Master"
+    notes: "[Pinning Codes]"
+    codes:
+      - "E002FEFE 01FAC722"
+      - "20514C58 24040000"
+      - "20514C60 AE240054"
+      - "E002FFFF 01FAC722"
+      - "20514C58 8E240054"
+      - "20514C60 8E230058"
+
+  - name: "Press Select & L1 To Play As The Referee In A 2-Man Match"
+    author: "BigBossman"
+    notes: "[Play As the Referee Codes]"
+    codes:
+      - "E004FBFE 01FABA02"
+      - "003DA5BC 00000001"
+      - "003DA5DC 00000001"
+      - "003DA5F4 00000000"
+      - "003DA5FC 00000000"
+
+  - name: "Press Select & L2 To Play As The Referee In A 3-Man Match"
+    author: "BigBossman"
+    notes: "[Play As the Referee Codes]"
+    codes:
+      - "E005FEFE 01FABA02"
+      - "003DA5BC 00000001"
+      - "003DA5DC 00000001"
+      - "003DA5FC 00000001"
+      - "003DA61C 00000000"
+      - "003DA614 00000000"
+
+  - name: "Press Select & R1 To Play As The Referee In A 4-Man Match"
+    author: "BigBossman"
+    notes: "[Play As the Referee Codes]"
+    codes:
+      - "E006F7FE 01FABA02"
+      - "003DA5BC 00000001"
+      - "003DA5DC 00000001"
+      - "003DA5FC 00000001"
+      - "003DA61C 00000001"
+      - "003DA63C 00000000"
+      - "003DA634 00000000"
+
+  - name: "Press Select & R2 To Play As The Referee In A 5-Man Match"
+    author: "BigBossman"
+    notes: "[Play As the Referee Codes]"
+    codes:
+      - "E007FDFE 01FABA02"
+      - "003DA5BC 00000001"
+      - "003DA5DC 00000001"
+      - "003DA5FC 00000001"
+      - "003DA61C 00000001"
+      - "003DA63C 00000001"
+      - "003DA65C 00000000"
+      - "003DA654 00000000"
+
+  - name: "Press Select To Play As The Referee In A 6-Man Match"
+    author: "BigBossman"
+    notes: "[Play As the Referee Codes]"
+    codes:
+      - "E008FFFE 01FABA02"
+      - "003DA5BC 00000001"
+      - "003DA5DC 00000001"
+      - "003DA5FC 00000001"
+      - "003DA61C 00000001"
+      - "003DA63C 00000001"
+      - "003DA65C 00000001"
+      - "003DA67C 00000000"
+      - "003DA674 00000000"
+
+  - name: "Player 1 Damage Modifier - Arms"
+    author: "BigBossman"
+    codes:
+      - "003DA5C5 000000??"
+
+  - name: "Player 1 Damage Modifier - Body"
+    author: "BigBossman"
+    codes:
+      - "003DA5C4 000000??"
+
+  - name: "Player 1 Damage Modifier - Head"
+    author: "BigBossman"
+    codes:
+      - "003DA5C3 000000??"
+
+  - name: "Player 1 Damage Modifier - Legs"
+    author: "BigBossman"
+    codes:
+      - "003DA5C6 000000??"
+
+  - name: "Christy Hemme"
+    author: "Codejunkies"
+    notes: "[Player 1 Modifier Codes]"
+    codes:
+      - "E002FFFF 004E58C4"
+      - "D04E58C6 00003043"
+      - "204E58C4 24030029"
+
+  - name: "Eric Bishop"
+    author: "Codejunkies"
+    notes: "[Player 1 Modifier Codes]"
+    codes:
+      - "E002FFFF 004E58C4"
+      - "D04E58C6 00003043"
+      - "204E58C4 24030016"
+
+  - name: "Jake 'The Snake' Roberts"
+    author: "Codejunkies"
+    notes: "[Player 1 Modifier Codes]"
+    codes:
+      - "E002FFFF 004E58C4"
+      - "D04E58C6 00003043"
+      - "204E58C4 24030052"
+
+  - name: "JB Layfield"
+    author: "Codejunkies"
+    notes: "[Player 1 Modifier Codes]"
+    codes:
+      - "E002FFFF 004E58C4"
+      - "D04E58C6 00003043"
+      - "204E58C4 24030018"
+
+  - name: "John Cenna"
+    author: "Codejunkies"
+    notes: "[Player 1 Modifier Codes]"
+    codes:
+      - "E002FFFF 004E58C4"
+      - "D04E58C6 00003043"
+      - "204E58C4 24030027"
+
+  - name: "Joy Giovanni"
+    author: "Codejunkies"
+    notes: "[Player 1 Modifier Codes]"
+    codes:
+      - "E002FFFF 004E58C4"
+      - "D04E58C6 00003043"
+      - "204E58C4 24030030"
+
+  - name: "Lita"
+    author: "Codejunkies"
+    notes: "[Player 1 Modifier Codes]"
+    codes:
+      - "E002FFFF 004E58C4"
+      - "D04E58C6 00003043"
+      - "204E58C4 2403000E"
+
+  - name: "Michelle Mccool"
+    author: "Codejunkies"
+    notes: "[Player 1 Modifier Codes]"
+    codes:
+      - "E002FFFF 004E58C4"
+      - "D04E58C6 00003043"
+      - "204E58C4 2403003B"
+
+  - name: "Mr.Mcmahon"
+    author: "Codejunkies"
+    notes: "[Player 1 Modifier Codes]"
+    codes:
+      - "E002FFFF 004E58C4"
+      - "D04E58C6 00003043"
+      - "204E58C4 24030015"
+
+  - name: "Stacy Keibler"
+    author: "Codejunkies"
+    notes: "[Player 1 Modifier Codes]"
+    codes:
+      - "E002FFFF 004E58C4"
+      - "D04E58C6 00003043"
+      - "204E58C4 2403001F"
+
+  - name: "Tory Wilson"
+    author: "Codejunkies"
+    notes: "[Player 1 Modifier Codes]"
+    codes:
+      - "E002FFFF 004E58C4"
+      - "D04E58C6 00003043"
+      - "204E58C4 2403002A"
+
+  - name: "Trish Stratus"
+    author: "Codejunkies"
+    notes: "[Player 1 Modifier Codes]"
+    codes:
+      - "E002FFFF 004E58C4"
+      - "D04E58C6 00003043"
+      - "204E58C4 2403001B"
+
+  - name: "Player 1 Side Modifier"
+    author: "BigBossman"
+    codes:
+      - "003DA5BE 000000??"
+
+  - name: "Player 1 Status Modifier"
+    author: "BigBossman"
+    codes:
+      - "003DA5B8 000000??"
+
+  - name: "Player 2 Damage Modifier - Arms"
+    author: "BigBossman"
+    codes:
+      - "003DA5E5 000000??"
+
+  - name: "Player 2 Damage Modifier - Body"
+    author: "BigBossman"
+    codes:
+      - "003DA5E4 000000??"
+
+  - name: "Player 2 Damage Modifier - Head"
+    author: "BigBossman"
+    codes:
+      - "003DA5E3 000000??"
+
+  - name: "Player 2 Damage Modifier - Legs"
+    author: "BigBossman"
+    codes:
+      - "003DA5E6 000000??"
+
+  - name: "Player 2 Side Modifier"
+    author: "BigBossman"
+    codes:
+      - "003DA5DE 000000??"
+
+  - name: "Player 2 Status Modifier"
+    author: "BigBossman"
+    codes:
+      - "003DA5D8 000000??"
+
+  - name: "Player 3 Damage Modifier - Arms"
+    author: "BigBossman"
+    codes:
+      - "003DA605 000000??"
+
+  - name: "Player 3 Damage Modifier - Body"
+    author: "BigBossman"
+    codes:
+      - "003DA604 000000??"
+
+  - name: "Player 3 Damage Modifier - Head"
+    author: "BigBossman"
+    codes:
+      - "003DA603 000000??"
+
+  - name: "Player 3 Damage Modifier - Legs"
+    author: "BigBossman"
+    codes:
+      - "003DA606 000000??"
+
+  - name: "Player 3 Side Modifier"
+    author: "BigBossman"
+    codes:
+      - "003DA5FE 000000??"
+
+  - name: "Player 3 Status Modifier"
+    author: "BigBossman"
+    codes:
+      - "003DA5F8 000000??"
+
+  - name: "Player 4 Damage Modifier - Arms"
+    author: "BigBossman"
+    codes:
+      - "003DA625 000000??"
+
+  - name: "Player 4 Damage Modifier - Body"
+    author: "BigBossman"
+    codes:
+      - "003DA624 000000??"
+
+  - name: "Player 4 Damage Modifier - Head"
+    author: "BigBossman"
+    codes:
+      - "003DA623 000000??"
+
+  - name: "Player 4 Damage Modifier - Legs"
+    author: "BigBossman"
+    codes:
+      - "003DA626 000000??"
+
+  - name: "Player 4 Side Modifier"
+    author: "BigBossman"
+    codes:
+      - "003DA61E 000000??"
+
+  - name: "Player 4 Status Modifier"
+    author: "BigBossman"
+    codes:
+      - "003DA618 000000??"
+
+  - name: "Player 5 Damage Modifier - Arms"
+    author: "BigBossman"
+    codes:
+      - "003DA645 000000??"
+
+  - name: "Player 5 Damage Modifier - Body"
+    author: "BigBossman"
+    codes:
+      - "003DA644 000000??"
+
+  - name: "Player 5 Damage Modifier - Head"
+    author: "BigBossman"
+    codes:
+      - "003DA643 000000??"
+
+  - name: "Player 5 Damage Modifier - Legs"
+    author: "BigBossman"
+    codes:
+      - "003DA646 000000??"
+
+  - name: "Player 5 Side Modifier"
+    author: "BigBossman"
+    codes:
+      - "003DA63E 000000??"
+
+  - name: "Player 5 Status Modifier"
+    author: "BigBossman"
+    codes:
+      - "003DA638 000000??"
+
+  - name: "Player 6 Damage Modifier - Arms"
+    author: "BigBossman"
+    codes:
+      - "003DA665 000000??"
+
+  - name: "Player 6 Damage Modifier - Body"
+    author: "BigBossman"
+    codes:
+      - "003DA664 000000??"
+
+  - name: "Player 6 Damage Modifier - Head"
+    author: "BigBossman"
+    codes:
+      - "003DA663 000000??"
+
+  - name: "Player 6 Damage Modifier - Legs"
+    author: "BigBossman"
+    codes:
+      - "003DA666 000000??"
+
+  - name: "Player 6 Side Modifier"
+    author: "BigBossman"
+    codes:
+      - "003DA65E 000000??"
+
+  - name: "Player 6 Status Modifier"
+    author: "BigBossman"
+    codes:
+      - "003DA658 000000??"
+
+  - name: "All Items (Profile 1)"
+    author: "Codejunkies"
+    notes: "[Profile Codes]"
+    codes:
+      - "2044530C FFFFFFFF"
+      - "20445310 FFFFFFFF"
+      - "10445314 0000FFFF"
+
+  - name: "Max Cash (All Profiles)"
+    author: "Codejunkies"
+    notes: "[Profile Codes]"
+    codes:
+      - "201DD29C 3C0105F0"
+      - "201DD2A0 AC410034"
+      - "201DD2A8 03E00008"
+      - "201DD2AC 3C0205F0"
+
+  - name: "Max Cash (Manager Mode)"
+    author: "Codejunkies"
+    notes: "[Profile Codes]"
+    codes:
+      - "E0020020 005ECFB8"
+      - "D05ECFBA 0000DC42"
+      - "205ECFB8 0803FFC0"
+      - "200FFF00 3C0105F0"
+      - "200FFF04 AC410020"
+      - "200FFF08 3C0205F0"
+      - "200FFF0C 0817B3EF"
+
+  - name: "Max Cash (Manager Mode-Smackdown Side)"
+    author: "Codejunkies"
+    notes: "[Profile Codes]"
+    codes:
+      - "20431E40 05F51FAB"
+
+  - name: "Max Cash (Profile 1)"
+    author: "Codejunkies"
+    notes: "[Profile Codes]"
+    codes:
+      - "20437034 05F51FAB"
+
+  - name: "Max Experience (All Profiles)"
+    author: "Codejunkies"
+    notes: "[Profile Codes]"
+    codes:
+      - "201DD4B8 03E00008"
+      - "201DD4B0 AC62C060"
+      - "201DD4AC 3C0205F0"
+
+  - name: "Max Experience (Profile 1)"
+    author: "Codejunkies"
+    notes: "[Profile Codes]"
+    codes:
+      - "20436FF0 05F51FAB"
+
+  - name: "Open All (All Profiles)"
+    author: "Codejunkies"
+    notes: "[Profile Codes]"
+    codes:
+      - "201EAE44 24020001"
+
+  - name: "Unlock All (All Profiles)"
+    author: "Codejunkies"
+    notes: "[Profile Codes]"
+    codes:
+      - "201EAE2C 240300FF"
+      - "201EAE30 A0430000"
+      - "201EAE44 24020001"
+
+  - name: "Referee Damage Modifier (6-Man Match) - Arms"
+    author: "BigBossman"
+    codes:
+      - "003DA685 000000??"
+
+  - name: "Referee Damage Modifier (6-Man Match) - Body"
+    author: "BigBossman"
+    codes:
+      - "003DA684 000000??"
+
+  - name: "Referee Damage Modifier (6-Man Match) - Head"
+    author: "BigBossman"
+    codes:
+      - "003DA683 000000??"
+
+  - name: "Referee Damage Modifier (6-Man Match) - Legs"
+    author: "BigBossman"
+    codes:
+      - "003DA686 000000??"
+
+  - name: "Referee Side Modifier (6-Man Matches)"
+    author: "BigBossman"
+    codes:
+      - "003DA67E 000000??"
+
+  - name: "Referee Status Modifier (6-Man Match)"
+    author: "BigBossman"
+    codes:
+      - "003DA678 000000??"
+
+  - name: "Alien Wrestlers"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "0011E240 00000000"
+
+  - name: "Always Have Finisher Moves"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002182D 006043CC"
+      - "206043D4 24020001"
+      - "206043DC AE0202EC"
+
+  - name: "Always Low Ring Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2039B500 00000000"
+
+  - name: "Buying Items Doesn't Decrease WWE Cash"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201DD3F0 00000000"
+
+  - name: "Buying Items Increases WWE Cash"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201DD3E4 00901821"
+
+  - name: "Idiot AI"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002802D 005C397C"
+      - "205C3970 03E00008"
+      - "205C3974 00000000"
+
+  - name: "Infinite Health (Human Players)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D061DF40 0000F02D"
+      - "2061DF60 104001E0"
+
+  - name: "Infinite Health Human/Super Damage Against CPU"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002F02D 0061DF40"
+      - "2061DF60 104001E0"
+      - "2061E2F0 A5000000"
+
+  - name: "Infinite Stamina"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002802D 0061D3AC"
+      - "2061D3BC 3C013F80"
+      - "2061D3C0 44810800"
+
+  - name: "Infinite Time Out Of Ring"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E0029924 0060CD50"
+      - "2060CD5C 00000000"
+      - "2060CE88 00000000"
+
+  - name: "Max WWE Cash"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20437034 05F5E0FF"
+
+  - name: "P1 Press R1+Select For Hyper Mode"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1FABA02 0000F7FE"
+      - "201BFF6C 00000000"
+
+  - name: "P1 Press R2+Select For Normal Speed"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1FABA02 0000FDFE"
+      - "201BFF6C 0320F809"
+
+  - name: "Quick EXP Gain"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201DD4D8 34022710"
+
+  - name: "Quick Max EXP Gain"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201DD4EC 00000000"
+
+  - name: "Quick WWE Cash Gain"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "10437034 0000FFFF"
+
+  - name: "Super Quick EXP Gain"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201DD4D8 3402C350"
+
+  - name: "Unlock Everything"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "40445304 00040001"
+      - "FFFFFFFF 00000000"
+      - "10445304 0000FFFF"
+
+  - name: "All 2P Costumes"
+    author: "Code Master"
+    notes: "[Unlock 2P Costume Codes]"
+    codes:
+      - "70445306 00000060"
+
+  - name: "Carlito T-Shirt"
+    author: "Code Master"
+    notes: "[Unlock 2P Costume Codes]"
+    codes:
+      - "70445306 00000040"
+
+  - name: "John Cena Jersey"
+    author: "Code Master"
+    notes: "[Unlock 2P Costume Codes]"
+    codes:
+      - "70445306 00000020"
+
+  - name: "All Arenas"
+    author: "Code Master"
+    notes: "[Unlock Arena Codes]"
+    codes:
+      - "70445305 00000080"
+      - "70445306 00000003"
+
+  - name: "ECW"
+    author: "Code Master"
+    notes: "[Unlock Arena Codes]"
+    codes:
+      - "70445305 00000080"
+
+  - name: "Wrestlemania 21"
+    author: "Code Master"
+    notes: "[Unlock Arena Codes]"
+    codes:
+      - "70445306 00000001"
+
+  - name: "Wrestlemania IX"
+    author: "Code Master"
+    notes: "[Unlock Arena Codes]"
+    codes:
+      - "70445306 00000002"
+
+  - name: "All Belt Cases"
+    author: "Code Master"
+    notes: "[Unlock Belt Case Codes]"
+    codes:
+      - "70445314 00000018"
+
+  - name: "Glass Belt Case"
+    author: "Code Master"
+    notes: "[Unlock Belt Case Codes]"
+    codes:
+      - "70445314 00000010"
+
+  - name: "Metal Belt Case"
+    author: "Code Master"
+    notes: "[Unlock Belt Case Codes]"
+    codes:
+      - "70445314 00000008"
+
+  - name: "All Collection Items"
+    author: "Code Master"
+    notes: "[Unlock Collection Item Codes]"
+    codes:
+      - "7044530C 0010FFF8"
+      - "7044530E 0000000F"
+
+  - name: "Batisita Figure"
+    author: "Code Master"
+    notes: "[Unlock Collection Item Codes]"
+    codes:
+      - "7044530E 00000001"
+
+  - name: "Bret Hart Sunglasses"
+    author: "Code Master"
+    notes: "[Unlock Collection Item Codes]"
+    codes:
+      - "7044530D 00000020"
+
+  - name: "British Bulldog's Bulldog"
+    author: "Code Master"
+    notes: "[Unlock Collection Item Codes]"
+    codes:
+      - "7044530D 00000040"
+
+  - name: "Carlito Apple"
+    author: "Code Master"
+    notes: "[Unlock Collection Item Codes]"
+    codes:
+      - "7044530D 00000001"
+
+  - name: "Eddie Lowrider"
+    author: "Code Master"
+    notes: "[Unlock Collection Item Codes]"
+    codes:
+      - "7044530C 00000020"
+
+  - name: "Eugene Stuffed Animal"
+    author: "Code Master"
+    notes: "[Unlock Collection Item Codes]"
+    codes:
+      - "7044530D 00000004"
+
+  - name: "Hulk Hogan Bobblehead"
+    author: "Code Master"
+    notes: "[Unlock Collection Item Codes]"
+    codes:
+      - "7044530C 00000010"
+
+  - name: "JBL $100 Bill"
+    author: "Code Master"
+    notes: "[Unlock Collection Item Codes]"
+    codes:
+      - "7044530D 00000002"
+
+  - name: "JBL Limousine"
+    author: "Code Master"
+    notes: "[Unlock Collection Item Codes]"
+    codes:
+      - "7044530C 00000040"
+
+  - name: "Jimmy Hart Megaphone"
+    author: "Code Master"
+    notes: "[Unlock Collection Item Codes]"
+    codes:
+      - "7044530D 00000010"
+
+  - name: "John Cena Figure"
+    author: "Code Master"
+    notes: "[Unlock Collection Item Codes]"
+    codes:
+      - "7044530E 00000002"
+
+  - name: "John Cena Lock Chain"
+    author: "Code Master"
+    notes: "[Unlock Collection Item Codes]"
+    codes:
+      - "7044530E 00000004"
+
+  - name: "Kane Mask"
+    author: "Code Master"
+    notes: "[Unlock Collection Item Codes]"
+    codes:
+      - "7044530D 00000080"
+
+  - name: "Kurt Angle Gold Medal"
+    author: "Code Master"
+    notes: "[Unlock Collection Item Codes]"
+    codes:
+      - "7044530E 00000008"
+
+  - name: "Regal Brass Knuckles"
+    author: "Code Master"
+    notes: "[Unlock Collection Item Codes]"
+    codes:
+      - "7044530D 00000008"
+
+  - name: "The Rock Bobblehead"
+    author: "Code Master"
+    notes: "[Unlock Collection Item Codes]"
+    codes:
+      - "7044530C 00000008"
+
+  - name: "Undertaker Motorcycle"
+    author: "Code Master"
+    notes: "[Unlock Collection Item Codes]"
+    codes:
+      - "7044530C 00000080"
+
+  - name: "All Extra Costumes"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "70445306 0000001C"
+
+  - name: "J.B. Layfield-Suit"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "70445306 00000008"
+
+  - name: "Steve Austin-T-Shirt & Short Jeans"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "70445306 00000004"
+
+  - name: "Triple H & Kain-Suits"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "70445306 00000010"
+
+  - name: "Ceiling Fan"
+    author: "Code Master"
+    notes: "[Unlock Etc Codes]"
+    codes:
+      - "70445315 00000001"
+
+  - name: "Fancy Component Stereo Set"
+    author: "Code Master"
+    notes: "[Unlock Etc Codes]"
+    codes:
+      - "70445314 00000080"
+
+  - name: "Tiger Skin Rug"
+    author: "Code Master"
+    notes: "[Unlock Etc Codes]"
+    codes:
+      - "7044530F 00000010"
+
+  - name: "All Furniture"
+    author: "Code Master"
+    notes: "[Unlock Furniture Codes]"
+    codes:
+      - "7044530E 00100FF0"
+
+  - name: "Casino Table"
+    author: "Code Master"
+    notes: "[Unlock Furniture Codes]"
+    codes:
+      - "7044530F 00000008"
+
+  - name: "Furry Couch"
+    author: "Code Master"
+    notes: "[Unlock Furniture Codes]"
+    codes:
+      - "7044530F 00000001"
+
+  - name: "Glass Coffee Table"
+    author: "Code Master"
+    notes: "[Unlock Furniture Codes]"
+    codes:
+      - "7044530F 00000004"
+
+  - name: "Lava Lamp"
+    author: "Code Master"
+    notes: "[Unlock Furniture Codes]"
+    codes:
+      - "7044530E 00000040"
+
+  - name: "Leather Couch"
+    author: "Code Master"
+    notes: "[Unlock Furniture Codes]"
+    codes:
+      - "7044530E 00000080"
+
+  - name: "Lowrider Couch"
+    author: "Code Master"
+    notes: "[Unlock Furniture Codes]"
+    codes:
+      - "7044530F 00000002"
+
+  - name: "Stacy Stand Cut-Out"
+    author: "Code Master"
+    notes: "[Unlock Furniture Codes]"
+    codes:
+      - "7044530E 00000010"
+
+  - name: "Trish Stand Cut-Out"
+    author: "Code Master"
+    notes: "[Unlock Furniture Codes]"
+    codes:
+      - "7044530E 00000020"
+
+  - name: "All Legend Belts"
+    author: "Code Master"
+    notes: "[Unlock Legend Belt Codes]"
+    codes:
+      - "70445307 000000C0"
+
+  - name: "Hardcore Championship"
+    author: "Code Master"
+    notes: "[Unlock Legend Belt Codes]"
+    codes:
+      - "70445307 00000080"
+
+  - name: "The Million Dollar Championship"
+    author: "Code Master"
+    notes: "[Unlock Legend Belt Codes]"
+    codes:
+      - "70445307 00000040"
+
+  - name: "'The Million Dollar Man' Ted Dibiase"
+    author: "Code Master"
+    notes: "[Unlock Legend Codes]"
+    codes:
+      - "70445305 00000020"
+
+  - name: "All Legends"
+    author: "Code Master"
+    notes: "[Unlock Legend Codes]"
+    codes:
+      - "70445304 00107FF8"
+
+  - name: "Andre The Giant"
+    author: "Code Master"
+    notes: "[Unlock Legend Codes]"
+    codes:
+      - "70445304 00000008"
+
+  - name: "Bret 'Hit Man' Hart"
+    author: "Code Master"
+    notes: "[Unlock Legend Codes]"
+    codes:
+      - "70445304 00000010"
+
+  - name: "British Bulldog 'Davey Boy Smith'"
+    author: "Code Master"
+    notes: "[Unlock Legend Codes]"
+    codes:
+      - "70445304 00000080"
+
+  - name: "Hollywood Hogan"
+    author: "Code Master"
+    notes: "[Unlock Legend Codes]"
+    codes:
+      - "70445305 00000008"
+
+  - name: "Hulk Hogan 80'S"
+    author: "Code Master"
+    notes: "[Unlock Legend Codes]"
+    codes:
+      - "70445305 00000004"
+
+  - name: "Jimmy Hart"
+    author: "Code Master"
+    notes: "[Unlock Legend Codes]"
+    codes:
+      - "70445305 00000001"
+
+  - name: "Junkyard Dog"
+    author: "Code Master"
+    notes: "[Unlock Legend Codes]"
+    codes:
+      - "70445305 00000010"
+
+  - name: "Mankind"
+    author: "Code Master"
+    notes: "[Unlock Legend Codes]"
+    codes:
+      - "70445304 00000020"
+
+  - name: "Steve Austin"
+    author: "Code Master"
+    notes: "[Unlock Legend Codes]"
+    codes:
+      - "70445305 00000002"
+
+  - name: "The Rock"
+    author: "Code Master"
+    notes: "[Unlock Legend Codes]"
+    codes:
+      - "70445304 00000040"
+
+  - name: "All Lockers"
+    author: "Code Master"
+    notes: "[Unlock Locker Codes]"
+    codes:
+      - "70445313 000000F8"
+      - "70445314 00000001"
+
+  - name: "Glass Locker"
+    author: "Code Master"
+    notes: "[Unlock Locker Codes]"
+    codes:
+      - "70445313 00000010"
+
+  - name: "Metal Locker"
+    author: "Code Master"
+    notes: "[Unlock Locker Codes]"
+    codes:
+      - "70445313 00000008"
+
+  - name: "Royalrumble Steel Chair"
+    author: "Code Master"
+    notes: "[Unlock Locker Codes]"
+    codes:
+      - "70445313 00000080"
+
+  - name: "Summerslam Steel Chair"
+    author: "Code Master"
+    notes: "[Unlock Locker Codes]"
+    codes:
+      - "70445313 00000040"
+
+  - name: "Survivor Series Steel Chair"
+    author: "Code Master"
+    notes: "[Unlock Locker Codes]"
+    codes:
+      - "70445313 00000020"
+
+  - name: "Wrestlemania 21 Steel Chair"
+    author: "Code Master"
+    notes: "[Unlock Locker Codes]"
+    codes:
+      - "80E477A7 18AC8377"
+
+  - name: "All Training Machines"
+    author: "Code Master"
+    notes: "[Unlock Training Machine Codes]"
+    codes:
+      - "70445314 00000060"
+
+  - name: "Training Machine 1"
+    author: "Code Master"
+    notes: "[Unlock Training Machine Codes]"
+    codes:
+      - "70445314 00000020"
+
+  - name: "Training Machine 2"
+    author: "Code Master"
+    notes: "[Unlock Training Machine Codes]"
+    codes:
+      - "70445314 00000040"
+
+  - name: "All Tropy Cases"
+    author: "Code Master"
+    notes: "[Unlock Trophy Case Codes]"
+    codes:
+      - "70445314 00000006"
+
+  - name: "Glass Trophy Case"
+    author: "Code Master"
+    notes: "[Unlock Trophy Case Codes]"
+    codes:
+      - "70445314 00000004"
+
+  - name: "Metal Trophy Case"
+    author: "Code Master"
+    notes: "[Unlock Trophy Case Codes]"
+    codes:
+      - "70445314 00000002"
+
+  - name: "All Walls"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "7044530F 000000E0"
+      - "10445310 0000FFFF"
+      - "70445312 001007FF"
+
+  - name: "Austin Poster"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445312 00000020"
+
+  - name: "Barbie Weapon"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "7044530F 00000040"
+
+  - name: "Bret Hart Poster"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445312 00000004"
+
+  - name: "Christy Poster 1"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445311 00000040"
+
+  - name: "Christy Poster 2"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445311 00000080"
+
+  - name: "D-X Poster"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445312 00000080"
+
+  - name: "ECW T-Shirt"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445310 00000040"
+
+  - name: "Evolution Poster"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445313 00000001"
+
+  - name: "Guitar"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "7044530F 00000080"
+
+  - name: "Hall Of Fame Poster"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445313 00000004"
+
+  - name: "Hogan Poster"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445312 00000040"
+
+  - name: "John Cena Baseball Jersey"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445310 00000002"
+
+  - name: "John Cena Football Jersey"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445310 00000001"
+
+  - name: "Lita Poster"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445312 00000001"
+
+  - name: "Mankind Poster"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "214662A4 406EB134"
+
+  - name: "Michelle Poster"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445312 00000002"
+
+  - name: "N.W.O. Poster"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445313 00000002"
+
+  - name: "Rey Mysterio Baseball Jersey"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445310 00000010"
+
+  - name: "Rey Mysterio Basketball Jersey"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445310 00000008"
+
+  - name: "Shane Mcmahon Jersey"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445310 00000020"
+
+  - name: "Sledgehammer"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "7044530F 00000020"
+
+  - name: "Stacy Poster 1"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445311 00000010"
+
+  - name: "Stacy Poster 2"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445311 00000020"
+
+  - name: "The Rock Poster"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445312 00000008"
+
+  - name: "Torrie Poster 1"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445310 00000080"
+
+  - name: "Torrie Poster 2"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445311 00000001"
+
+  - name: "Trish Poster 1"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445311 00000002"
+
+  - name: "Trish Poster 2"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445311 00000004"
+
+  - name: "Trish Poster 3"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445311 00000008"
+
+  - name: "Y2J Hockey Jersey"
+    author: "Code Master"
+    notes: "[Unlock Wall Codes]"
+    codes:
+      - "70445310 00000004"
+
+  - name: "Unrestricted Camera For CAW Photo"
+    author: "47iscool"
+    codes:
+      - "201F6680 00000000"

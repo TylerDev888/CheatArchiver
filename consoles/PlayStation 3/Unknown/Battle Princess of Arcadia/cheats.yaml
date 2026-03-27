@@ -1,0 +1,311 @@
+# Battle Princess of Arcadia cheat data
+# Console: PlayStation 3
+# Region:  Unknown
+# Serial:  BLJS10224
+
+game: "Battle Princess of Arcadia"
+console: "PlayStation 3"
+region: "Unknown"
+serial: "BLJS10224"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "499999 Money: Sell Something To Get The Trophy"
+    notes: "File: ARC_USR"
+    codes:
+      - "write at 0x00001748:0x0007A11F"
+
+  - name: "9999999 Money: You Won't Get The Trophy If You Use This Code First"
+    notes: "File: ARC_USR"
+    codes:
+      - "write at 0x00001748:0x0098967F"
+
+  - name: "99 Materials From Item In Slot 1 To 199"
+    notes: "File: ARC_USR"
+    codes:
+      - "400869BF 00000063"
+      - "40C7000C 00000000"
+
+  - name: "99 Skirmishes Cleared: Clear 1 More For The Trophy"
+    notes: "File: ARC_USR"
+    codes:
+      - "0008B733 00000063"
+
+  - name: "Brigade Max Stat(9999 Hp/atk/def)"
+    notes: "File: ARC_USR"
+    codes:
+      - "41001572 0000270F"
+      - "40070048 00000000"
+      - "4100157A 0000270F"
+      - "40070048 00000000"
+      - "4100157E 0000270F"
+      - "40070048 00000000"
+
+  - name: "Accessories In Slots 1-3 Become Reincarnate Rings"
+    notes: "File: ARC_USR"
+    codes:
+      - "00080C0F 00000001"
+      - "00080C13 0000008B"
+      - "00080C17 00000002"
+      - "00080C1B 0000008B"
+      - "00080C1F 00000003"
+      - "00080C23 0000008B"
+
+  - name: "Material Item In Slot 1 Becomes Crest Of Rebirth X99"
+    notes: "File: ARC_USR"
+    codes:
+      - "000869B7 00000001"
+      - "000869BB 000000EE"
+      - "000869BF 00000063"
+
+  - name: "Plume Max Resistances: They Revert If You Equip Items With Res Bonuses"
+    notes: "File: ARC_USR"
+    codes:
+      - "0000019B 00000064"
+      - "0000019F 00000064"
+      - "000001A3 00000064"
+      - "000001A7 00000064"
+      - "000001AB 00000064"
+      - "000001AF 00000064"
+
+  - name: "9999 Hp/atk/def/luc For Plume: Stats Reverts Only Visually"
+    notes: "File: ARC_USR"
+    codes:
+      - "20000018 0000270F"
+      - "2000001C 0000270F"
+      - "20000028 0000270F"
+      - "2000002C 0000270F"
+      - "20000030 0000270F"
+
+  - name: "9999 Hp/atk/def/luc For Raltz"
+    notes: "File: ARC_USR"
+    codes:
+      - "20000208 0000270F"
+      - "2000020C 0000270F"
+      - "20000218 0000270F"
+      - "2000021C 0000270F"
+      - "20000220 0000270F"
+
+  - name: "9999 Hp/atk/def/luc For Yuni"
+    notes: "File: ARC_USR"
+    codes:
+      - "200003F8 0000270F"
+      - "200003FC 0000270F"
+      - "20000408 0000270F"
+      - "2000040C 0000270F"
+      - "20000410 0000270F"
+
+  - name: "9999 Hp/atk/def/luc For Hevelke"
+    notes: "File: ARC_USR"
+    codes:
+      - "200005E8 0000270F"
+      - "200005EC 0000270F"
+      - "200005F8 0000270F"
+      - "200005FC 0000270F"
+      - "20000600 0000270F"
+
+  - name: "9999 Hp/atk/def/luc For Marianne"
+    notes: "File: ARC_USR"
+    codes:
+      - "200007D8 0000270F"
+      - "200007DC 0000270F"
+      - "200007E8 0000270F"
+      - "200007EC 0000270F"
+      - "200007F0 0000270F"
+
+  - name: "9999 Hp/atk/def/luc For Rudolph"
+    notes: "File: ARC_USR"
+    codes:
+      - "200009C8 0000270F"
+      - "200009CC 0000270F"
+      - "200009D8 0000270F"
+      - "200009DC 0000270F"
+      - "200009E0 0000270F"
+
+  - name: "9999 Hp/atk/def/luc For Odette"
+    notes: "File: ARC_USR"
+    codes:
+      - "20000BB8 0000270F"
+      - "20000BBC 0000270F"
+      - "20000BC8 0000270F"
+      - "20000BCC 0000270F"
+      - "20000BD0 0000270F"
+
+  - name: "9999 Hp/atk/def/luc For Elias"
+    notes: "File: ARC_USR"
+    codes:
+      - "20000DA8 0000270F"
+      - "20000DAC 0000270F"
+      - "20000DB8 0000270F"
+      - "20000DBC 0000270F"
+      - "20000DC0 0000270F"
+
+  - name: "9999 Hp/atk/def/luc For Violone"
+    notes: "File: ARC_USR"
+    codes:
+      - "20000F98 0000270F"
+      - "20000F9C 0000270F"
+      - "20000FA8 0000270F"
+      - "20000FAC 0000270F"
+      - "20000FB0 0000270F"
+
+  - name: "9999 Hp/atk/def/luc For Kilios"
+    notes: "File: ARC_USR"
+    codes:
+      - "20001188 0000270F"
+      - "2000118C 0000270F"
+      - "20001198 0000270F"
+      - "2000119C 0000270F"
+      - "200011A0 0000270F"
+
+  - name: "Almost Max Honor For Plume"
+    notes: "File: ARC_USR"
+    codes:
+      - "000001CB 0000002C"
+      - "000001CF 0000002C"
+      - "000001D3 0000002C"
+      - "000001D7 0000002C"
+      - "000001DB 0000002C"
+      - "000001DF 0000002C"
+      - "000001E3 0000002C"
+      - "000001E7 0000002C"
+      - "000001EB 0000002C"
+
+  - name: "Almost Max Honor For Raltz"
+    notes: "File: ARC_USR"
+    codes:
+      - "000003B7 0000002C"
+      - "000003BF 0000002C"
+      - "000003C3 0000002C"
+      - "000003C7 0000002C"
+      - "000003CB 0000002C"
+      - "000003CF 0000002C"
+      - "000003D3 0000002C"
+      - "000003D7 0000002C"
+      - "000003DB 0000002C"
+
+  - name: "Almost Max Honor For Yuni"
+    notes: "File: ARC_USR"
+    codes:
+      - "000005A7 0000002C"
+      - "000005AB 0000002C"
+      - "000005B3 0000002C"
+      - "000005B7 0000002C"
+      - "000005BB 0000002C"
+      - "000005BF 0000002C"
+      - "000005C3 0000002C"
+      - "000005C7 0000002C"
+      - "000005CB 0000002C"
+
+  - name: "Almost Max Honor For Hevelke"
+    notes: "File: ARC_USR"
+    codes:
+      - "00000797 0000002C"
+      - "0000079B 0000002C"
+      - "0000079F 0000002C"
+      - "000007A7 0000002C"
+      - "000007AB 0000002C"
+      - "000007AF 0000002C"
+      - "000007B3 0000002C"
+      - "000007B7 0000002C"
+      - "000007BB 0000002C"
+
+  - name: "Almost Max Honor For Marianne"
+    notes: "File: ARC_USR"
+    codes:
+      - "00000987 0000002C"
+      - "0000098B 0000002C"
+      - "0000098F 0000002C"
+      - "00000993 0000002C"
+      - "0000099B 0000002C"
+      - "0000099F 0000002C"
+      - "000009A3 0000002C"
+      - "000009A7 0000002C"
+      - "000009AB 0000002C"
+
+  - name: "Almost Max Honor For Rudolph"
+    notes: "File: ARC_USR"
+    codes:
+      - "00000B77 0000002C"
+      - "00000B7B 0000002C"
+      - "00000B7F 0000002C"
+      - "00000B83 0000002C"
+      - "00000B87 0000002C"
+      - "00000B8F 0000002C"
+      - "00000B93 0000002C"
+      - "00000B97 0000002C"
+      - "00000B9B 0000002C"
+
+  - name: "Almost Max Honor For Odette"
+    notes: "File: ARC_USR"
+    codes:
+      - "00000D67 0000002C"
+      - "00000D6B 0000002C"
+      - "00000D6F 0000002C"
+      - "00000D73 0000002C"
+      - "00000D77 0000002C"
+      - "00000D7B 0000002C"
+      - "00000D83 0000002C"
+      - "00000D87 0000002C"
+      - "00000D8B 0000002C"
+
+  - name: "Almost Max Honor For Elias"
+    notes: "File: ARC_USR"
+    codes:
+      - "00000F57 0000002C"
+      - "00000F5B 0000002C"
+      - "00000F5F 0000002C"
+      - "00000F63 0000002C"
+      - "00000F67 0000002C"
+      - "00000F6B 0000002C"
+      - "00000F6F 0000002C"
+      - "00000F77 0000002C"
+      - "00000F7B 0000002C"
+
+  - name: "Almost Max Honor For Violone"
+    notes: "File: ARC_USR"
+    codes:
+      - "00001147 0000002C"
+      - "0000114B 0000002C"
+      - "0000114F 0000002C"
+      - "00001153 0000002C"
+      - "00001157 0000002C"
+      - "0000115B 0000002C"
+      - "0000115F 0000002C"
+      - "00001163 0000002C"
+      - "0000116B 0000002C"
+
+  - name: "Almost Max Honor For Kilios"
+    notes: "File: ARC_USR"
+    codes:
+      - "00001337 0000002C"
+      - "0000133B 0000002C"
+      - "0000133F 0000002C"
+      - "00001343 0000002C"
+      - "00001347 0000002C"
+      - "0000134B 0000002C"
+      - "0000134F 0000002C"
+      - "00001343 0000002C"
+      - "00001347 0000002C"
+
+  - name: "Plume Current Exp Mod"
+    notes: "File: ARC_USR"
+    codes:
+      - "20000034 [EXP]"
+
+  - name: "Plume Current Exp Needed For Next Level Mod"
+    notes: "File: ARC_USR"
+    codes:
+      - "20000038 [EXP]"
+
+  - name: "Plume, Earn 1 Level To Jump To 99"
+    notes: "File: ARC_USR"
+    codes:
+      - "20000038 0008B470"
+
+  - name: "All 10 Characters, Earn 1 Level To Jump To 99"
+    notes: "File: ARC_USR"
+    codes:
+      - "42000034 0008B470"
+      - "400A01F0 00000000"

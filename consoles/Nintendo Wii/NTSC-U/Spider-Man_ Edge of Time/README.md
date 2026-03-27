@@ -1,0 +1,76 @@
+# Spider-Man_ Edge of Time
+
+**Console:** Nintendo Wii  
+**Region:** NTSC-U  
+**Serial:** SQME52  
+**Cheat Type:** Gecko  
+
+---
+
+## Cheats
+
+### Mass Gains Portal Energy Per Pickup
+**Author:** Skiller
+
+```
+20E2C290 80A30058
+04E2C290 38A07FFF
+E0000000 80008000
+```
+
+---
+
+### Inf Energy Orbs
+**Author:** Skiller
+
+```
+20C81434 806332A8
+C2C81434 00000003
+3C0005F5 6000E0FF
+900332A8 801F0504
+806332A8 00000000
+E0000000 80008000
+```
+
+---
+
+### Max Golden Spiders
+**Author:** Skiller
+
+```
+20C78278 800432AC
+C2C78278 00000002
+3C00270F 900432AE
+60000000 00000000
+E0000000 80008000
+```
+
+---
+
+### Unlock All Upgrades (view Upgrade Menu)
+**Author:** Skiller
+
+```
+20D5D6A0 801D0038
+C2D5D6A0 00000002
+38000000 901D0038
+801D0038 00000000
+E0000000 80008000
+```
+
+---
+
+### Unlock And Have All Upgrades
+**Author:** Skiller
+
+```
+20D5D6A0 801D0038
+C2D5D6A0 00000004
+38000000 901D0038
+38000001 B01D003C
+981D003E 801D0038
+60000000 00000000
+E0000000 80008000
+```
+
+---

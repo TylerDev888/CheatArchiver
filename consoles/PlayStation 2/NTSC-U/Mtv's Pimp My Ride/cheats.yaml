@@ -1,0 +1,56 @@
+# Mtv's Pimp My Ride cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21580
+
+game: "Mtv's Pimp My Ride"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21580"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90321410 0C0F25FB"
+
+  - name: "Infinite Cash"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "105393F4 0000FFFF"
+
+  - name: "Max Cash"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "205393F4 05F5E0FF"
+
+  - name: "Buying Items Doesnt Decrease Cash"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20205CB4 00000000"
+
+  - name: "Buying Items Increases Cash"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20205CA4 00651021"
+
+  - name: "P1 Press L1+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0528582 0000FBFE"
+      - "20126454 00000000"
+
+  - name: "P1 Press L2+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0528582 0000FEFE"
+      - "20126454 E6000010"

@@ -1,0 +1,40 @@
+# International Snooker Championship cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "International Snooker Championship"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9016B494 0C06C30A"
+      - "200C2000 3C010026"
+      - "200C2004 24218F10"
+      - "200C2008 14300003"
+      - "200C200C 24013634"
+      - "200C2010 00641821"
+      - "200C2014 03E00008"
+      - "200C2018 00000000"
+      - "200C201C 00641821"
+      - "200C2020 03E00008"
+      - "200C2024 00000000"
+      - "201161A4 0C030800"
+
+  - name: "Player1"
+    author: "Xploder"
+    notes: "[Get Double Points Each Break]"
+    codes:
+      - "200C2018 00641821"
+
+  - name: "Player2"
+    author: "Xploder"
+    notes: "[Get Double Points Each Break]"
+    codes:
+      - "200C2024 00641821"

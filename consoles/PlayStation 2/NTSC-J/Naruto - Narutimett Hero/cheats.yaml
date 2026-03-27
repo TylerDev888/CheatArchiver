@@ -1,0 +1,24 @@
+# Naruto - Narutimett Hero cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25293
+
+game: "Naruto - Narutimett Hero"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25293"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9011FF38 0C047F76"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9013CE80 0C040078"

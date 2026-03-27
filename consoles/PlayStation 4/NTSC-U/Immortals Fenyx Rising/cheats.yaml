@@ -1,0 +1,47 @@
+# Immortals Fenyx Rising cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA16345
+
+game: "Immortals Fenyx Rising"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA16345"
+cheat_type: "SaveWizard"
+source: "Mhallice#1926, Skiller#4741"
+
+cheats:
+  - name: "Item Amount Mod"
+    notes: "File: (DLC[1-2])?(NewGamePlus|DungeonEntrance|Typhon|Quick|Auto|Manual)Save[0-9]{2}\\.sav"
+    codes:
+      - "80010010 0012000B"
+      - "[Item]"
+      - "15000000 00000000"
+      - "280001F3 [AMOUNT:05F5E0FF:HEX:BIG]"
+
+  - name: "Item Replacement"
+    notes: "File: (DLC[1-2])?(NewGamePlus|DungeonEntrance|Typhon|Quick|Auto|Manual)Save[0-9]{2}\\.sav"
+    codes:
+      - "80010010 0012000B"
+      - "[Item<Item You Have>]15000000 00000000"
+      - "A8000004 00000008"
+      - "[Item<Item You Want>]"
+
+  - name: "Mastery Level 60"
+    notes: "File: (DLC[1-2])?(NewGamePlus|DungeonEntrance|Typhon|Quick|Auto|Manual)Save[0-9]{2}\\.sav"
+    codes:
+      - "80010010 0012000B"
+      - "[Mastery]"
+      - "15000000 00000000"
+      - "28000064 0000003D"
+
+  - name: "Mastery Bar Max"
+    notes: "File: (DLC[1-2])?(NewGamePlus|DungeonEntrance|Typhon|Quick|Auto|Manual)Save[0-9]{2}\\.sav"
+    codes:
+      - "8001000E 15000000"
+      - "CCF70EBE AB7590C6"
+      - "00000000 00000000"
+      - "88010011 11000000"
+      - "[MasteryBar] 00000000"
+      - "00000700 0B000000"
+      - "28000011 00000007"

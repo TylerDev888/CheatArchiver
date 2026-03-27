@@ -1,0 +1,25 @@
+# Myst III - Exile cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50726
+
+game: "Myst III - Exile"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50726"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0238ED0 000001FD"
+
+  - name: "Display Debug Info"
+    author: "Codejunkies"
+    codes:
+      - "20178CA4 00000000"
+      - "20138824 00000000"
+      - "201388F8 00000000"

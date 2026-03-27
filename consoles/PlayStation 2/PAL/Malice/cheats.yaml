@@ -1,0 +1,83 @@
+# Malice cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52413
+
+game: "Malice"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52413"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0256914 00256917"
+
+  - name: "Have All Magic"
+    author: "Codejunkies"
+    codes:
+      - "203E644C 40000000"
+      - "203E6454 40000000"
+      - "203E65FC 40000000"
+      - "203E6600 40000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "203E6890 42C80000"
+      - "203E6898 42C80000"
+
+  - name: "Infinite Mana"
+    author: "Codejunkies"
+    codes:
+      - "203E6724 42C80000"
+
+  - name: "Unlock Every Bonus"
+    author: "Codejunkies"
+    codes:
+      - "203CCB10 0000000F"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "901556D8 0C049266"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "203E6890 42C60000"
+      - "203E6898 42C60000"
+
+  - name: "Magic"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "203E6724 42C80000"
+
+  - name: "All Magic Abilities"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "403E644C 00040002"
+      - "40000000 00000000"
+
+  - name: "All Bonuses"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "2010D8EC 24020000"
+
+  - name: "Stop Timer"
+    author: "Xploder"
+    notes: "[Bonus Games]"
+    codes:
+      - "D03CE102 0000FBFF"
+      - "2013BAAC 24003634"
+      - "D03CE102 0000F7FF"
+      - "2013BAAC 46010001"

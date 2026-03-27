@@ -1,0 +1,160 @@
+# Shadow The Hedgehog cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53542
+
+game: "Shadow The Hedgehog"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53542"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F065F8C8 0065F8CB"
+
+  - name: "0 Dark Score"
+    author: "Codejunkies"
+    notes: "[Dark Score]"
+    codes:
+      - "209C207C 00000000"
+
+  - name: "All Keys"
+    author: "Codejunkies"
+    notes: "[Dark Score]"
+    codes:
+      - "409BE1C8 00160015"
+      - "00000000 00000000"
+      - "409BE1CC 00160015"
+      - "00000000 00000000"
+      - "409BE1D0 00160015"
+      - "00000000 00000000"
+      - "409BE1D4 00160015"
+      - "00000000 00000000"
+      - "409BE1D8 00160015"
+      - "00000000 00000000"
+
+  - name: "Low Time"
+    author: "Codejunkies"
+    notes: "[Dark Score]"
+    codes:
+      - "209C9F74 401775D3"
+
+  - name: "Max Dark Score"
+    author: "Codejunkies"
+    notes: "[Dark Score]"
+    codes:
+      - "209C2078 05F5E0FF"
+
+  - name: "Press L1+L2 To Fill Dark Gauge"
+    author: "Codejunkies"
+    notes: "[Dark Score]"
+    codes:
+      - "D09C7594 0000AFFF"
+      - "209C203C 00007530"
+
+  - name: "Press R1+R2 To Fill Hero Gauge"
+    author: "Codejunkies"
+    notes: "[Dark Score]"
+    codes:
+      - "D09C7594 00005FFF"
+      - "209C2030 00007530"
+
+  - name: "Unlock All Levels"
+    author: "Codejunkies"
+    notes: "[Dark Score]"
+    codes:
+      - "409BE188 00160015"
+      - "00000001 00000000"
+
+  - name: "0 Hero Score"
+    author: "Codejunkies"
+    notes: "[Hero Score]"
+    codes:
+      - "209C2074 00000000"
+
+  - name: "Max Hero Score"
+    author: "Codejunkies"
+    notes: "[Hero Score]"
+    codes:
+      - "209C2074 05F5E0FF"
+
+  - name: "Have 999 Rings"
+    author: "Codejunkies"
+    codes:
+      - "209C206C 000003E7"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "209C2060 000003E7"
+
+  - name: "Infinite Lives"
+    author: "Codejunkies"
+    codes:
+      - "209C2064 00000009"
+
+  - name: "Max Normal Score"
+    author: "Codejunkies"
+    codes:
+      - "209C2070 05F5E0FF"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9012F570 0C048DB4"
+
+  - name: "Lives"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "209C2064 00000063"
+
+  - name: "Ammo"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "209C2060 000003E7"
+
+  - name: "Rings"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "209C206C 000003E7"
+
+  - name: "Normal Score"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "209C2070 05F5E0FF"
+
+  - name: "Hero Score"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "209C2074 0098967F"
+
+  - name: "Dark Score"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "209C2078 0098967F"
+
+  - name: "Hero Guage"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "D1D4C2DC 0000FBFF"
+      - "209C203C 00007530"
+
+  - name: "Dark Guage"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "D1D4C2DC 0000FEFF"
+      - "209C2030 00007530"

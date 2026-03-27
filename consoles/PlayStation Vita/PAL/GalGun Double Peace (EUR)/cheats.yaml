@@ -1,0 +1,22 @@
+# GalGun Double Peace (EUR) cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00956
+
+game: "GalGun Double Peace (EUR)"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00956"
+cheat_type: "Save Editor"
+source: "Credits: Slade"
+
+cheats:
+  - name: "9,999,999 Mp"
+    notes: "File: gg2shootingSavedata0001.bin"
+    codes:
+      - "20000020 0098967F"
+
+  - name: "99,999 Angel Feathers"
+    notes: "File: gg2shootingSavedata0001.bin"
+    codes:
+      - "20000030 0001869F"

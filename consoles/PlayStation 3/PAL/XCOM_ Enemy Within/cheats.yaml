@@ -1,0 +1,38 @@
+# XCOM_ Enemy Within cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01851
+
+game: "XCOM_ Enemy Within"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01851"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Decompress Save (required)"
+    notes: "File: PAYLOAD"
+    codes:
+      - "Decompress(*, 15)"
+
+  - name: "Compress Save (required)"
+    notes: "File: PAYLOAD"
+    codes:
+      - "Compress(*)"
+
+  - name: "Update Crc32big For Save Payload (required)"
+    notes: "File: BLES01851-SAVE1\\PAYLOAD  (set range:0x400,0x0172EC)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x400,pointer"
+      - "set [hash]:CRC32Big"
+      - "write at 0x0000C1:[hash]"
+
+  - name: "Update Sha1 For Profile Payload (required)"
+    notes: "File: BLES01851-PROFILE\\PAYLOAD  (set range:0x000014,0x00070F)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000014,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x000000:[hash]"

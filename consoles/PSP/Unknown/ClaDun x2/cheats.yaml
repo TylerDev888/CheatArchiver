@@ -1,0 +1,17 @@
+# ClaDun x2 cheat data
+# Console: PSP
+# Region:  Unknown
+# Serial:  NPUH10114
+
+game: "ClaDun x2"
+console: "PSP"
+region: "Unknown"
+serial: "NPUH10114"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Possession Money 999999"
+    notes: "File: *"
+    codes:
+      - "2000087C 000F423F"

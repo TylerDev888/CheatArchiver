@@ -1,0 +1,108 @@
+# Frequency
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SCUS-97125  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### (M) Must Be On
+**Author:** Codejunkies  
+**Notes:** [Master Codes]
+
+```
+F059C714 0059C717
+```
+
+---
+
+### Enable Code (Must Be On)
+**Author:** Code Master  
+**Notes:** [Master Codes]
+
+```
+9059C714 0C138F46
+```
+
+---
+
+### Have Max Score
+**Author:** Codejunkies
+
+```
+200FFF00 3C030090
+200FFF04 8C6330C0
+200FFF0C 10030008
+200FFF34 24030070
+200FFF38 081671B0
+2059C6BC 0803FFC0
+200FFF14 24022700
+200FFF18 A4620038
+```
+
+---
+
+### Infinite Energy
+**Author:** Codejunkies
+
+```
+200FFF00 3C030090
+200FFF04 8C6330C0
+200FFF0C 10030008
+200FFF34 24030070
+200FFF38 081671B0
+2059C6BC 0803FFC0
+200FFF20 24020016
+200FFF24 A0620030
+```
+
+---
+
+### Quick Max Score
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+2012F868 2403270F
+```
+
+---
+
+### Unlock All Bonus Stages
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+200C0230 24020001
+200C0234 03E00008
+200C0238 AC820070
+20145040 0803008C
+```
+
+---
+
+### Unlock All Stages
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+200C0220 24100001
+200C0224 080FDE96
+200C0228 AC500010
+20144EB4 0C030088
+```
+
+---
+
+### Enable Code (Must Be On) [Read Note]
+**Author:** Code Master  
+**Notes:** [Masters]
+
+```
+9059C714 0C138F46
+```
+
+---

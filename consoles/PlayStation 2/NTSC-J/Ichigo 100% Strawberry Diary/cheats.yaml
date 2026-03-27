@@ -1,0 +1,25 @@
+# Ichigo 100% Strawberry Diary cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65822
+
+game: "Ichigo 100% Strawberry Diary"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65822"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90112250 0C04483C"
+
+  - name: "Unlock All Movie Memories"
+    author: "punk7890"
+    codes:
+      - "201D7C60 FFFFFFFF"
+      - "201D7C64 FFFFFFFF"
+      - "201D7C68 FFFFFFFF"

@@ -1,0 +1,23 @@
+# Castlevania Anniversary Collection cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA15101
+
+game: "Castlevania Anniversary Collection"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA15101"
+cheat_type: "AP"
+source: "source: playersquared.com forums"
+
+cheats:
+  - name: "Super Hp"
+    notes: "File: *  (Castlevania III: Dracula's Curse)"
+    codes:
+      - "2028A02C FFFFFFFF"
+
+  - name: "Health Points (65,535)"
+    author: "Doomguy"
+    notes: "File: Super Castlevania IV: (0022-(\\d+)\\SAVEDATA\\.BIN)"
+    codes:
+      - "1028A02E 0000FFFF"

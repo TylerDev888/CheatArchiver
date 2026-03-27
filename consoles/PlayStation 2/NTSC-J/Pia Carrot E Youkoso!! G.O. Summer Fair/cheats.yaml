@@ -1,0 +1,40 @@
+# Pia Carrot E Youkoso!! G.O. Summer Fair cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66896
+
+game: "Pia Carrot E Youkoso!! G.O. Summer Fair"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66896"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "901BCC60 0C06F2C0"
+
+  - name: "New Game = Debug Menu"
+    author: "punk7890"
+    codes:
+      - "2010544C 2405FFFF"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "402D57BC 00060001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Unlock All Extras"
+    author: "punk7890"
+    codes:
+      - "402D2D14 00070001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Unlock All Main Menu Options"
+    author: "punk7890"
+    codes:
+      - "002D2D12 000000FF"

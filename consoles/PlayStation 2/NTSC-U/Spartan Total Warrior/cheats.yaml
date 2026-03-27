@@ -1,0 +1,376 @@
+# Spartan Total Warrior cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21212
+
+game: "Spartan Total Warrior"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21212"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9021EC90 0C087ACC"
+
+  - name: "Infinite Health"
+    author: "SkillerCMP>CMX"
+    codes:
+      - "200C0220 8F838B90"
+      - "200C0224 A46402FA"
+      - "200C0228 03E00008"
+      - "200C022C 000427C7"
+      - "203BB660 0C030088"
+
+  - name: "Infinite Arrows"
+    author: "SkillerCMP>CMX"
+    codes:
+      - "2030DDB0 00000000"
+
+  - name: "Max Infinite Arrows"
+    author: "SkillerCMP>CMX"
+    codes:
+      - "2030DDAC 24020063"
+
+  - name: "Extra Arrows"
+    author: "SkillerCMP>CMX"
+    codes:
+      - "2030DDAC 00441021"
+
+  - name: "Max Kills"
+    author: "SkillerCMP>CMX"
+    codes:
+      - "2057CB0C 000003E7"
+
+  - name: "Kills Worth -Amount"
+    author: "SkillerCMP>CMX"
+    codes:
+      - "102A0BF4 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Strangth Of Enemies"
+    author: "SkillerCMP>CMX"
+    codes:
+      - "2057CB04 [Amount:3C000000:FLOAT:BIG]"
+
+  - name: "Unlock All Single Mission Replay"
+    author: "SkillerCMP>CMX"
+    codes:
+      - "20381330 2406000E"
+      - "005EC1E8 0000000E"
+
+  - name: "Unlock All Arena Challenges"
+    author: "SkillerCMP>CMX"
+    codes:
+      - "20381344 24060005"
+      - "005EC238 00000005"
+
+  - name: "Disable Hud"
+    author: "SkillerCMP>CMX"
+    codes:
+      - "005EA685 00000001"
+
+  - name: "Debug Free Camera"
+    author: "SkillerCMP>CMX"
+    codes:
+      - "005EA689 00000001"
+
+  - name: "Stop Game (press Start To Resume)"
+    author: "SkillerCMP>CMX"
+    codes:
+      - "005EA6AB 00000001"
+
+  - name: "No Background"
+    author: "SkillerCMP>CMX"
+    codes:
+      - "005EA6AE 00000001"
+
+  - name: "Unlock Everything"
+    author: "SkillerCMP>CMX"
+    codes:
+      - "005EC1E8 0000000E"
+      - "205EC238 01010105"
+      - "405EC23C 00100001"
+      - "01010101 00000000"
+
+  - name: "Super Max Rage"
+    author: "SkillerCMP>CMX"
+    notes: "[Rage Codes:{Only Use 1 Rage Code}]"
+    codes:
+      - "205BB4C4 00002710"
+
+  - name: "Infinite Rage"
+    author: "SkillerCMP>CMX"
+    notes: "[Rage Codes:{Only Use 1 Rage Code}]"
+    codes:
+      - "205BB4CC 00002710"
+
+  - name: "Max Infinite Rage"
+    author: "SkillerCMP>CMX"
+    notes: "[Rage Codes:{Only Use 1 Rage Code}]"
+    codes:
+      - "20451250 00000000"
+      - "2045125C 8E030000"
+
+  - name: "Rage Meter Doesn't Decrease Over Time"
+    author: "SkillerCMP>CMX"
+    notes: "[Rage Codes:{Only Use 1 Rage Code}]"
+    codes:
+      - "20451260 00000000"
+      - "20451268 00000000"
+
+  - name: "Benny Hill Mode"
+    author: "SkillerCMP>CMX"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "005EA671 00000001"
+
+  - name: "Invinicible"
+    author: "SkillerCMP>CMX"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "005EA67C 00000001"
+
+  - name: "L3 Refills Power"
+    author: "SkillerCMP>CMX"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "005EA67D 00000001"
+
+  - name: "L3 Turns Everyone To Stone"
+    author: "SkillerCMP>CMX"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "005EA67E 00000001"
+
+  - name: "Unlock All Gallery"
+    author: "SkillerCMP>CMX"
+    notes: "[Unlock Gallery Codes]"
+    codes:
+      - "105EC252 00000101"
+      - "405EC254 000A0001"
+      - "01010101 00000000"
+
+  - name: "Pic 1"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC252 00000001"
+
+  - name: "Pic 2"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC253 00000001"
+
+  - name: "Pic 3"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC254 00000001"
+
+  - name: "Pic 4"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC255 00000001"
+
+  - name: "Pic 5"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC256 00000001"
+
+  - name: "Pic 6"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC257 00000001"
+
+  - name: "Pic 7"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC258 00000001"
+
+  - name: "Pic 8"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC259 00000001"
+
+  - name: "Pic 9"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC25A 00000001"
+
+  - name: "Pic 10"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC25B 00000001"
+
+  - name: "Pic 11"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC25C 00000001"
+
+  - name: "Pic 12"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC25D 00000001"
+
+  - name: "Pic 13"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC25E 00000001"
+
+  - name: "Pic 14"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC261 00000001"
+
+  - name: "Pic 15"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC262 00000001"
+
+  - name: "Pic 16"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC263 00000001"
+
+  - name: "Pic 17"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC264 00000001"
+
+  - name: "Pic 18"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC265 00000001"
+
+  - name: "Pic 19"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC266 00000001"
+
+  - name: "Pic 20"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC26A 00000001"
+
+  - name: "Pic 21"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC26B 00000001"
+
+  - name: "Pic 22"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC26C 00000001"
+
+  - name: "Pic 23"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC26D 00000001"
+
+  - name: "Pic 24"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC26E 00000001"
+
+  - name: "Pic 25"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC26F 00000001"
+
+  - name: "Pic 26"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC270 00000001"
+
+  - name: "Pic 27"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC271 00000001"
+
+  - name: "Pic 28"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC272 00000001"
+
+  - name: "Pic 29"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC273 00000001"
+
+  - name: "Pic 30"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC274 00000001"
+
+  - name: "Pic 31"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC275 00000001"
+
+  - name: "Pic 32"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC276 00000001"
+
+  - name: "Pic 33"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC277 00000001"
+
+  - name: "Pic 34"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC278 00000001"
+
+  - name: "Pic 35"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC279 00000001"
+
+  - name: "Pic 36"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC27A 00000001"
+
+  - name: "Pic 37"
+    author: "SkillerCMP>CMX"
+    notes: "[Individual]"
+    codes:
+      - "005EC27B 00000001"

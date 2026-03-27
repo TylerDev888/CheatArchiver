@@ -1,0 +1,33 @@
+# Naruto - Uzumaki Chronicles 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21594
+
+game: "Naruto - Uzumaki Chronicles 2"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21594"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "65535 Virtues"
+    author: "nolberto82"
+    codes:
+      - "201B3464 3402FFFF"
+
+  - name: "Infinite Chakra"
+    author: "nolberto82"
+    codes:
+      - "201B9F8C 34010001"
+
+  - name: "Invincibility"
+    author: "nolberto82"
+    codes:
+      - "200A0000 8F8285A8"
+      - "200A0004 14530003"
+      - "200A0008 908202C0"
+      - "200A000C 0805CD42"
+      - "200A0014 0805C918"
+      - "200A0018 0002173C"
+      - "20172458 08028000"

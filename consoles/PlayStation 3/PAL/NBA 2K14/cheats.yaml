@@ -1,0 +1,20 @@
+# NBA 2K14 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01920
+
+game: "NBA 2K14"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01920"
+cheat_type: "AP"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Userdata (required)"
+    notes: "File: USERDATA  (set range:0x000004,0x7B6C1D)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"

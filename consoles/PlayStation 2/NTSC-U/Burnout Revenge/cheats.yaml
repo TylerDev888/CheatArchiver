@@ -1,0 +1,157 @@
+# Burnout Revenge cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21242
+
+game: "Burnout Revenge"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21242"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0112C30 00112C33"
+      - "204AB63C 52504F49"
+      - "204AB640 30303350"
+      - "204AB644 474D492E"
+      - "204AB648 0000313B"
+
+  - name: "Master Code"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "903A2478 0C10EDF9"
+
+  - name: "All Rank 1 Races Unlocked"
+    author: "Codejunkies"
+    codes:
+      - "21F64F1C 0000000F"
+      - "21F64F5C 0000000F"
+
+  - name: "Dominator Rank"
+    author: "Codejunkies"
+    codes:
+      - "21F64F08 000003E7"
+      - "21F64F0C 0000000A"
+
+  - name: "Freeze Timer (Press Select+Up To Activate, Select+Down To Stop)"
+    author: "Codejunkies"
+    codes:
+      - "E10100EE 004F341C"
+      - "20304368 00000000"
+      - "E10100BE 004F341C"
+      - "20304368 AE02000C"
+
+  - name: "Have 5 Stars All Events"
+    author: "MadCatz"
+    codes:
+      - "41F651D8 002B0001"
+      - "04040404 00000000"
+
+  - name: "Have All Cars"
+    author: "MadCatz"
+    codes:
+      - "41F65308 00200001"
+      - "03030303 00000000"
+
+  - name: "Have All Events Open"
+    author: "MadCatz"
+    codes:
+      - "200C2000 2402000F"
+      - "200C2004 03E00008"
+      - "200C2008 AC820010"
+      - "20137E10 08030800"
+
+  - name: "Have Elite Rank"
+    author: "MadCatz"
+    codes:
+      - "21F64F08 000003E8"
+      - "21F64F0C 0000000B"
+
+  - name: "Have Gold Medal All Events"
+    author: "MadCatz"
+    codes:
+      - "41F650C8 002B0001"
+      - "03030303 00000000"
+
+  - name: "Have Timer Reset (Press L3 To Activate)"
+    author: "MadCatz"
+    codes:
+      - "D04F341C 0000FFFD"
+      - "21D6163C 00000000"
+
+  - name: "Infinite Boost"
+    author: "MadCatz"
+    codes:
+      - "202A3988 00000000"
+
+  - name: "Slow Timers"
+    author: "Codejunkies"
+    codes:
+      - "204F007C 3B088889"
+
+  - name: "Normal Speed (Press R3+Left)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "E101007B 004F341C"
+      - "21D6164C 3C888889"
+
+  - name: "Slow Motion (Press R3+Down)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "E10100BB 004F341C"
+      - "21D6164C 3B800000"
+
+  - name: "Super Speed (Press R3+Up)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "E10100EB 004F341C"
+      - "21D6164C 3D33D70A"
+
+  - name: "Lap 2"
+    author: "Codejunkies"
+    notes: "[Start On Lap Codes]"
+    codes:
+      - "21EDA564 00000001"
+
+  - name: "Lap 3"
+    author: "Codejunkies"
+    notes: "[Start On Lap Codes]"
+    codes:
+      - "21EDA564 00000002"
+
+  - name: "Tons Of Cars Unlocked"
+    author: "Codejunkies"
+    codes:
+      - "41F65304 000E0001"
+      - "03030303 00000000"
+
+  - name: "Max Boost"
+    author: "Codejunkies"
+    notes: "[Turbo Codes]"
+    codes:
+      - "21EDA4D8 00000003"
+      - "21EDA4DC 44340000"
+      - "21EDA4E0 44340000"
+      - "21EDA4F0 40000000"
+
+  - name: "Never Goes Below One Quarter"
+    author: "Codejunkies"
+    notes: "[Turbo Codes]"
+    codes:
+      - "E0020000 21EDA4E0"
+      - "E0014348 21EDA4E2"
+      - "21EDA4E0 43480000"
+
+  - name: "Turtoise Racers (Slow AI)"
+    author: "Codejunkies"
+    codes:
+      - "20296A68 24030001"

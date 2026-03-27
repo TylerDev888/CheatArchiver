@@ -1,0 +1,17 @@
+# Ace Combat X Skies of Deception cheat data
+# Console: PSP
+# Region:  NTSC-U
+# Serial:  ULUS10176
+
+game: "Ace Combat X Skies of Deception"
+console: "PSP"
+region: "NTSC-U"
+serial: "ULUS10176"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Possession Money 99999999"
+    notes: "File: *"
+    codes:
+      - "20000044 05F5E0FF"

@@ -1,0 +1,74 @@
+# Asterix & Obelix XXL 2 - Mission Las Vegum cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53060
+
+game: "Asterix & Obelix XXL 2 - Mission Las Vegum"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53060"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0209128 0020912B"
+
+  - name: "1Hitkill (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "D0589B02 0000EFFE"
+      - "20279FE8 10000005"
+      - "D0589B02 0000BFFE"
+      - "20279FE8 50200005"
+
+  - name: "9999999 Roman Helmets"
+    author: "Codejunkies"
+    codes:
+      - "207D1F60 0098967F"
+
+  - name: "Always Have Potion Power"
+    author: "Codejunkies"
+    notes: "[Helmet Collection Multiplayer]"
+    codes:
+      - "2025C4D8 24030001"
+      - "20254894 24020001"
+
+  - name: "Each Helmet Is Worth 50 Helmets"
+    author: "Codejunkies"
+    notes: "[Helmet Collection Multiplayer]"
+    codes:
+      - "107D1F5E 00000032"
+
+  - name: "Each Helmet Is Worth 100 Helmets"
+    author: "Codejunkies"
+    notes: "[Helmet Collection Multiplayer]"
+    codes:
+      - "107D1F5E 00000064"
+
+  - name: "Each Helmet Is Worth 500 Helmets"
+    author: "Codejunkies"
+    notes: "[Helmet Collection Multiplayer]"
+    codes:
+      - "107D1F5E 0000015F"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "107D1F5C 00000006"
+
+  - name: "Jump In Midair"
+    author: "luc-ita"
+    codes:
+      - "20266C28 10000046"
+      - "20266C58 00000000"
+
+  - name: "Take Roman Helmets Anywhere"
+    author: "luc-ita"
+    codes:
+      - "202990C0 00000000"
+      - "20298F74 00000000"
+      - "20298D8C 00000000"

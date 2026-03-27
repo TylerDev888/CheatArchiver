@@ -1,0 +1,49 @@
+# Earth Defense Force 2025 cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS31160
+
+game: "Earth Defense Force 2025"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS31160"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Ranger Armor 999999"
+    notes: "File: MAIN.GST"
+    codes:
+      - "20000014 0020E0F5"
+      - "200000E0 0020E0F5"
+
+  - name: "Wingdiver Armor 999999"
+    notes: "File: MAIN.GST"
+    codes:
+      - "20000018 0041C2BE"
+      - "200000E4 0041C2BE"
+
+  - name: "Airraider Armor 999999"
+    notes: "File: MAIN.GST"
+    codes:
+      - "2000001C 0020E0F5"
+      - "200000E8 0020E0F5"
+
+  - name: "Fencer Armor 999999"
+    notes: "File: MAIN.GST"
+    codes:
+      - "20000020 001A4D3A"
+      - "200000EC 001A4D3A"
+
+  - name: "All Weapon Unlock"
+    notes: "File: MAIN.GST"
+    codes:
+      - "42002074 00000001"
+      - "43160004 00000000"
+
+  - name: "Default: Update Crc32 (required)"
+    notes: "File: MAIN.GST"
+    codes:
+      - "set range: 0x14, 0x4073"
+      - "set [hash]: crc32"
+      - "write at 0x10: [hash]"

@@ -1,0 +1,65 @@
+# King Arthur cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52861
+
+game: "King Arthur"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52861"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0129C04 00129C07"
+
+  - name: "All Battle Arenas Open"
+    author: "Codejunkies"
+    codes:
+      - "201BEFC0 24020001"
+
+  - name: "All Bonus Movies And Levels Open"
+    author: "Codejunkies"
+    codes:
+      - "201BF040 24020001"
+
+  - name: "Display Character Coordinates"
+    author: "Codejunkies"
+    codes:
+      - "0056720A 00000001"
+
+  - name: "Enemies Ignore Player"
+    author: "Codejunkies"
+    codes:
+      - "00567204 00000001"
+
+  - name: "Infinite Adrenaline"
+    author: "Codejunkies"
+    codes:
+      - "00567208 00000001"
+
+  - name: "Invincible Player"
+    author: "Codejunkies"
+    codes:
+      - "005671C9 00000001"
+
+  - name: "Max XP"
+    author: "Codejunkies"
+    codes:
+      - "2071F260 05F5E0FF"
+
+  - name: "Press D-Pad Down To Restart Mission Timer"
+    author: "Codejunkies"
+    codes:
+      - "D050355C 0000FFBF"
+      - "2027ACDC E6000090"
+
+  - name: "Press D-Pad Up To Freeze Mission Timer"
+    author: "Codejunkies"
+    codes:
+      - "D050355C 0000FFEF"
+      - "2027ACDC 00000000"

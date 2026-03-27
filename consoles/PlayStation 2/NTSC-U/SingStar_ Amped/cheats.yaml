@@ -1,0 +1,61 @@
+# SingStar_ Amped cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97611
+
+game: "SingStar_ Amped"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97611"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code(MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "902B86B0 0C0AE154"
+
+  - name: "Notes Multiplyer"
+    author: "SkillerCMP"
+    notes: "[Codes affect all players]"
+    codes:
+      - "20146358 08028000"
+      - "2014635C 00000000"
+      - "200A0000 00021[MOD1]"
+      - "200A0004 AE220030"
+      - "200A0008 080518D7"
+      - "200A000C 8C8300E8"
+
+  - name: "Rap Multiplyer"
+    author: "SkillerCMP"
+    notes: "[Codes affect all players]"
+    codes:
+      - "201463B8 08028004"
+      - "201463BC 00000000"
+      - "200A0010 00021[MOD1]"
+      - "200A0014 AE220034"
+      - "200A0018 080518EF"
+      - "200A001C 8CA300E8"
+
+  - name: "Line Bonus Multiplyer"
+    author: "SkillerCMP"
+    notes: "[Codes affect all players]"
+    codes:
+      - "201463F4 08028008"
+      - "201463F8 00000000"
+      - "200A0020 00108[MOD1]"
+      - "200A0024 AE300038"
+      - "200A0028 080518FE"
+      - "200A002C 00641821"
+
+  - name: "Golden Notes Multiplyer"
+    author: "SkillerCMP"
+    notes: "[Codes affect all players]"
+    codes:
+      - "201463FC 0802800C"
+      - "20146400 00000000"
+      - "200A0030 00021[MOD1]"
+      - "200A0034 AE22003C"
+      - "200A0038 08051900"
+      - "200A003C 00701821"

@@ -1,0 +1,43 @@
+# Monster Attack cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51856
+
+game: "Monster Attack"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51856"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90159478 0C0564C6"
+
+  - name: "Force Progressive Display Mode (Need Skip Movies On)"
+    author: "punk7890"
+    codes:
+      - "2014D48C 24110002"
+
+  - name: "Invincibility"
+    author: "nolberto82"
+    codes:
+      - "2018D748 30440000"
+
+  - name: "No Reload"
+    author: "nolberto82"
+    codes:
+      - "201C4D4C 00000000"
+
+  - name: "PAL To NTSC (60Hz)"
+    author: "punk7890"
+    codes:
+      - "2014D490 24120002"
+
+  - name: "Skip Movies"
+    author: "punk7890"
+    codes:
+      - "2013A200 03E00008"

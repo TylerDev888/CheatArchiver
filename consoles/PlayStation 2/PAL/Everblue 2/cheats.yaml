@@ -1,0 +1,29 @@
+# Everblue 2 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Everblue 2"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F020000C 0021EB07"
+
+  - name: "HP"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "204BE470 44480000"
+
+  - name: "Air"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "204BE474 43480000"

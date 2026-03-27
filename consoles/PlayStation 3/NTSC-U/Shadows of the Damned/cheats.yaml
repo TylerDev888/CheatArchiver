@@ -1,0 +1,29 @@
+# Shadows of the Damned cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS30653
+
+game: "Shadows of the Damned"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS30653"
+cheat_type: "AP"
+source: ""
+
+cheats:
+  - name: "999 Drinks"
+    notes: "File: CHECK0"
+    codes:
+      - "100007C1 000003E7"
+      - "100007C5 000003E7"
+      - "100007C9 000003E7"
+
+  - name: "9999 White Gems"
+    notes: "File: CHECK0"
+    codes:
+      - "100007B1 0000270F"
+
+  - name: "9999 Red Gems"
+    notes: "File: CHECK0"
+    codes:
+      - "100007B5 0000270F"

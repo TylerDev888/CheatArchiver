@@ -1,0 +1,20 @@
+# Mirror's Edge cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00322
+
+game: "Mirror's Edge"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00322"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Sha1 (required)"
+    notes: "File: SAV33.BIN  (set range:0x000014,0x0002C9)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000014,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x000000:[hash]"

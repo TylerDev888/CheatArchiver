@@ -1,0 +1,24 @@
+# Etude Prologue - Yureugoku Kokoro No Katachi cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25617
+
+game: "Etude Prologue - Yureugoku Kokoro No Katachi"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25617"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90113058 0C044BBE"
+
+  - name: "New Game = Debug Menu"
+    author: "punk7890"
+    codes:
+      - "202196E8 55424544"
+      - "002196EC 00000047"

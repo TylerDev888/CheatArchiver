@@ -1,0 +1,97 @@
+# Darksiders II cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01597
+
+game: "Darksiders II"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01597"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Gilt"
+    notes: "File: BLES01597DSSAVE*\\DS2SAVE"
+    codes:
+      - "80010006 FFFFFFFF"
+      - "00010000 00000000"
+      - "28000006 FFE0F505"
+
+  - name: "Max Boatman Coins"
+    notes: "File: BLES01597DSSAVE*\\DS2SAVE"
+    codes:
+      - "80010006 FFFFFFFF"
+      - "00010000 00000000"
+      - "2800000A 0F270000"
+
+  - name: "Max Health Potions"
+    notes: "File: BLES01597DSSAVE*\\DS2SAVE"
+    codes:
+      - "8001000C 6865616C"
+      - "74685F72 6573746F"
+      - "0800000F 00000001"
+      - "0800002B 00000063"
+
+  - name: "Max Wrath Potions"
+    notes: "File: BLES01597DSSAVE*\\DS2SAVE"
+    codes:
+      - "8001000C 77726174"
+      - "685F7265 73746F72"
+      - "0800000E 00000001"
+      - "0800002A 00000063"
+
+  - name: "Max Skill Points"
+    notes: "File: BLES01597DSSAVE*\\DS2SAVE"
+    codes:
+      - "80010006 FFFFFFFF"
+      - "00010000 00000000"
+      - "0800001A 00000063"
+
+  - name: "Level Up(to Trigger, You Must Cause Your Experience To Increase In-game.)"
+    notes: "File: BLES01597DSSAVE*\\DS2SAVE"
+    codes:
+      - "5000001F 00000004"
+      - "5000001B 00000000"
+
+  - name: "99,999,999 Gold"
+    notes: "File: BLES01597DSPROF\\DS2SAVE"
+    codes:
+      - "search FFFFFFFF0001"
+      - "write next (6):FFE0F505"
+
+  - name: "99 Skill Points"
+    notes: "File: BLES01597DSPROF\\DS2SAVE"
+    codes:
+      - "search FFFFFFFF0001"
+      - "write next (26):63"
+
+  - name: "99 Health Potions - Must Have At Least 1 To Work"
+    notes: "File: BLES01597DSPROF\\DS2SAVE"
+    codes:
+      - "search 6D696E6F725F6865616C74685F726573746F7265"
+      - "write next (49):63"
+
+  - name: "99 Wrath Potions - Must Have At Least 1 To Work"
+    notes: "File: BLES01597DSPROF\\DS2SAVE"
+    codes:
+      - "search 6D696E6F725F77726174685F726573746F7265"
+      - "write next (48):63"
+
+  - name: "255 Mystic Stones - Must Have At Least 1 To Work"
+    notes: "File: BLES01597DSPROF\\DS2SAVE"
+    codes:
+      - "search 73746F6E655F626C7565"
+      - "write next (39):FF"
+
+  - name: "255 Power Stones - Must Have At Least 1 To Work"
+    notes: "File: BLES01597DSPROF\\DS2SAVE"
+    codes:
+      - "search 73746F6E655F726564"
+      - "write next (38):FF"
+
+  - name: "255 Resistance Stones - Must Have At Least 1 To Work"
+    notes: "File: BLES01597DSPROF\\DS2SAVE"
+    codes:
+      - "search 73746F6E655F676F6C64"
+      - "write next (39):FF"

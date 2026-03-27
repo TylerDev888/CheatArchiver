@@ -1,0 +1,115 @@
+# Kya - Dark Lineage cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20440
+
+game: "Kya - Dark Lineage"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20440"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master>tab"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 004045BB"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "902694C4 0C0869D0"
+
+  - name: "Always Low Time (0:00)"
+    author: "Code Master>tab"
+    codes:
+      - "202DBE68 AE204214"
+
+  - name: "Have: One Hit Kill"
+    author: "MadCatz"
+    codes:
+      - "20120EA0 44806000"
+
+  - name: "Infinite Health"
+    author: "Code Master>tab"
+    codes:
+      - "201A72E4 0040202D"
+      - "201A72E8 C480000C"
+      - "201A72EC E4800008"
+
+  - name: "Infinite Magic"
+    author: "Code Master>tab"
+    codes:
+      - "201D7A00 0200202D"
+      - "201D7A04 C4800018"
+      - "201D7A08 E4800014"
+
+  - name: "Infinite: Health"
+    author: "MadCatz"
+    codes:
+      - "200C2000 3C014248"
+      - "200C2004 44810000"
+      - "200C2008 03E00008"
+      - "200C200C E4800008"
+      - "201D9E7C 0C030800"
+
+  - name: "Infinite: Item Usage"
+    author: "MadCatz"
+    codes:
+      - "201DBF34 24013634"
+
+  - name: "Infinite: Mana"
+    author: "MadCatz"
+    codes:
+      - "201DCBB0 3C014248"
+      - "201DCBB4 44810000"
+      - "201DCBB8 03E00008"
+      - "201DCBBC E4800014"
+
+  - name: "Infinite: Nooties"
+    author: "MadCatz"
+    codes:
+      - "2048DABC 0001869F"
+
+  - name: "Max Freed Natives"
+    author: "Code Master>tab"
+    codes:
+      - "204248D4 00000104"
+
+  - name: "Max Noolies"
+    author: "Code Master>tab"
+    codes:
+      - "2048DABC 0000270F"
+
+  - name: "P1 Press Select+Down For Slow Motion"
+    author: "Code Master>tab"
+    codes:
+      - "D0495B9C 0000FFBE"
+      - "20450BDC 3F400000"
+
+  - name: "P1 Press Select+L3 For Normal Motion"
+    author: "Code Master>tab"
+    codes:
+      - "D0495B9C 0000FFFC"
+      - "20450BDC 3F800000"
+
+  - name: "P1 Press Select+Left For Hyper Mode"
+    author: "Code Master>tab"
+    codes:
+      - "D0495B9C 0000FF7E"
+      - "20450BDC 40000000"
+
+  - name: "P1 Press Select+Right For Super Hyper Mode"
+    author: "Code Master>tab"
+    codes:
+      - "D0495B9C 0000FFDE"
+      - "20450BDC 40800000"
+
+  - name: "P1 Press Select+Up For Super Slow Motion"
+    author: "Code Master>tab"
+    codes:
+      - "D0495B9C 0000FFEE"
+      - "20450BDC 3F000000"

@@ -1,0 +1,22 @@
+# Dungeon Hunter_ Alliance (EUR) cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00041
+
+game: "Dungeon Hunter_ Alliance (EUR)"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00041"
+cheat_type: "Save Editor"
+source: "Credits: Slade"
+
+cheats:
+  - name: "9,999,999 Gold"
+    notes: "File: savefiles/active/dhangp-saves-1.savegame"
+    codes:
+      - "200006B7 0098967F"
+
+  - name: "999 Crystals"
+    notes: "File: savefiles/active/dhangp-saves-1.savegame"
+    codes:
+      - "100006BB 000003E7"

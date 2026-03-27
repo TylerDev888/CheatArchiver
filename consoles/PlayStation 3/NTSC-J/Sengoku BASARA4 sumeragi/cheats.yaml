@@ -1,0 +1,71 @@
+# Sengoku BASARA4 sumeragi cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM61248
+
+game: "Sengoku BASARA4 sumeragi"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM61248"
+cheat_type: "Save Editor"
+source: "from savedata.jp"
+
+cheats:
+  - name: "Wheatstone 9999999"
+    codes:
+      - "2032AA5C 0098967F"
+
+  - name: "Jade Steel 9999999"
+    codes:
+      - "2032AA60 0098967F"
+
+  - name: "Fortune Hammer 9999999"
+    codes:
+      - "2032AA64 0098967F"
+
+  - name: "Gold 9999999"
+    codes:
+      - "2032AA54 0098967F"
+
+  - name: "Upgrade Rock 9999999"
+    codes:
+      - "2032AA58 0098967F"
+
+  - name: "Metals 9999999"
+    codes:
+      - "2032AA6C 0098967F"
+
+  - name: "All Take Possession Weapon 1, Possession 2 + Ad8 Rarity Max"
+    codes:
+      - "401FE06F 00000004"
+      - "40260004 00000000"
+      - "401FE107 00000064"
+      - "40260004 00000000"
+
+  - name: "Inscriptions 6"
+    codes:
+      - "421FE234 000000[INSCRIPTIONS]"
+      - "40260004 00000000"
+      - "421FE2CC 000000[INSCRIPTIONS]"
+      - "40260004 00000000"
+      - "421FE364 000000[INSCRIPTIONS]"
+      - "40260004 00000000"
+      - "421FE3FC 000000[INSCRIPTIONS]"
+      - "40260004 00000000"
+      - "421FE494 000000[INSCRIPTIONS]"
+      - "40260004 00000000"
+      - "421FE52C 000000[INSCRIPTIONS]"
+      - "40260004 00000000"
+
+  - name: "Strength / Attack / Defense / Yell / Basara 1500"
+    codes:
+      - "411FE5C6 000005DC"
+      - "40260004 00000000"
+      - "411FE65E 000005DC"
+      - "40260004 00000000"
+      - "411FE6F6 000005DC"
+      - "40260004 00000000"
+      - "411FE78E 000005DC"
+      - "40260004 00000000"
+      - "411FE826 000005DC"
+      - "40260004 00000000"

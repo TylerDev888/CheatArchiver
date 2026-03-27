@@ -1,0 +1,668 @@
+# Punisher, The cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20864
+
+game: "Punisher, The"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20864"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01B927C 001B927F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "901B927C 0C08C85A"
+
+  - name: "All Cheats"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes [See Note]]"
+    codes:
+      - "01B42C6B 00000001"
+      - "21B42C6C 01010101"
+      - "11B42C70 00000101"
+
+  - name: "Crazy Deaths"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes [See Note]]"
+    codes:
+      - "01B42C71 00000001"
+
+  - name: "Gun Splitters"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes [See Note]]"
+    codes:
+      - "C02E3F2C 0469A174"
+
+  - name: "Invulnerability"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes [See Note]]"
+    codes:
+      - "01B42C6B 00000001"
+
+  - name: "No Reload"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes [See Note]]"
+    codes:
+      - "01B42C6E 00000001"
+
+  - name: "One Shot, One Kill"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes [See Note]]"
+    codes:
+      - "01B42C6F 00000001"
+
+  - name: "Unlimited Ammo"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes [See Note]]"
+    codes:
+      - "01B42C6C 00000001"
+
+  - name: "Unlimited Slaughter Mode"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes [See Note]]"
+    codes:
+      - "01B42C6D 00000001"
+
+  - name: "Enable Level"
+    author: "Codejunkies"
+    notes: "[Castle's Apartment]"
+    codes:
+      - "21B427B8 00000001"
+
+  - name: "High Score/Award Medals"
+    author: "Codejunkies"
+    notes: "[Castle's Apartment]"
+    codes:
+      - "21B427D0 3B9AC9FF"
+
+  - name: "Level Complete"
+    author: "Codejunkies"
+    notes: "[Castle's Apartment]"
+    codes:
+      - "21B427C4 00000001"
+
+  - name: "Max High Score"
+    author: "Code Master"
+    notes: "[Castle's Apartment Codes]"
+    codes:
+      - "21B427CC 05F5E0FF"
+
+  - name: "Unlock Level"
+    author: "Code Master"
+    notes: "[Crackhouse Codes]"
+    codes:
+      - "21B426D8 00000001"
+
+  - name: "Open All Flashbacks"
+    author: "Codejunkies"
+    notes: "[Extras Codes]"
+    codes:
+      - "11B42C72 00000101"
+      - "21B42C74 01010101"
+      - "21B42C78 01010101"
+      - "21B42C7C 01010101"
+      - "21B42C80 01010101"
+      - "21B42C84 01010101"
+      - "21B42C88 01010101"
+
+  - name: "Gain Ammo As You Fire"
+    author: "MadCatz"
+    codes:
+      - "201ECE44 24420001"
+      - "2028CD04 24630001"
+
+  - name: "Attach Grenade Launcher"
+    author: "MadCatz"
+    notes: "[Have Upgrade Codes]"
+    codes:
+      - "21B42C5C 00000001"
+
+  - name: "Attach Scope"
+    author: "MadCatz"
+    notes: "[Have Upgrade Codes]"
+    codes:
+      - "21B42C54 00000001"
+
+  - name: "Attach Silencer"
+    author: "MadCatz"
+    notes: "[Have Upgrade Codes]"
+    codes:
+      - "21B42C58 00000001"
+
+  - name: "Body Armor"
+    author: "MadCatz"
+    notes: "[Have Upgrade Codes]"
+    codes:
+      - "21B42C3C 00000004"
+
+  - name: "Increase Accuracy"
+    author: "MadCatz"
+    notes: "[Have Upgrade Codes]"
+    codes:
+      - "21B42C48 00000004"
+
+  - name: "Increase Ammo Capacity"
+    author: "MadCatz"
+    notes: "[Have Upgrade Codes]"
+    codes:
+      - "21B42C4C 00000004"
+
+  - name: "Increase Grenade Capacity"
+    author: "MadCatz"
+    notes: "[Have Upgrade Codes]"
+    codes:
+      - "21B42C50 00000003"
+
+  - name: "Increase Magazine Size"
+    author: "MadCatz"
+    notes: "[Have Upgrade Codes]"
+    codes:
+      - "21B42C60 00000001"
+
+  - name: "Kill Recovery"
+    author: "MadCatz"
+    notes: "[Have Upgrade Codes]"
+    codes:
+      - "21B42C40 00000001"
+
+  - name: "Longer Slaughter Mode"
+    author: "MadCatz"
+    notes: "[Have Upgrade Codes]"
+    codes:
+      - "21B42C44 00000004"
+
+  - name: "Max Increase Ammo Capacity"
+    author: "Code Master"
+    notes: "[Have Upgrade Codes]"
+    codes:
+      - "21B42C4C 00000003"
+
+  - name: "Infinite Ammo"
+    author: "MadCatz"
+    codes:
+      - "201ECE48 00000000"
+      - "2028CD08 00000000"
+
+  - name: "Infinite Grenades"
+    author: "Codejunkies"
+    codes:
+      - "2023C984 24630000"
+
+  - name: "Infinite Health"
+    author: "MadCatz"
+    codes:
+      - "D1A5E602 0000FEFF"
+      - "201F30C8 00000000"
+      - "D1A5E602 0000FDFF"
+      - "201F30C8 E6810284"
+
+  - name: "Infinite Pistol Ammo"
+    author: "Codejunkies"
+    codes:
+      - "2028CD04 24630000"
+
+  - name: "Infinite Slaughter Mode"
+    author: "MadCatz"
+    codes:
+      - "200C2000 3C1B41A0"
+      - "200C2004 449B0800"
+      - "200C2008 0804A1D0"
+      - "200C200C E661145C"
+      - "2012873C 08030800"
+
+  - name: "Max Score"
+    author: "MadCatz"
+    codes:
+      - "200C2020 3C030098"
+      - "200C2024 3463967F"
+      - "200C2028 080564A0"
+      - "200C202C ACA3015C"
+      - "2015927C 08030808"
+
+  - name: "Max Points"
+    author: "MadCatz"
+    notes: "[Profile 1 Codes]"
+    codes:
+      - "21B426D0 0098967F"
+
+  - name: "Unlock All Armory/Levels/Movies"
+    author: "MadCatz"
+    notes: "[Profile 1 Codes]"
+    codes:
+      - "41B426F0 00700001"
+      - "00000001 00000000"
+
+  - name: "Unlock All Cheats"
+    author: "MadCatz"
+    notes: "[Profile 1 Codes]"
+    codes:
+      - "21B42C64 FFFFFFFF"
+      - "21B42C68 FFFFFFFF"
+
+  - name: "Unlock All Flashbacks"
+    author: "MadCatz"
+    notes: "[Profile 1 Codes]"
+    codes:
+      - "41B42C70 00070001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Quick Score Gain"
+    author: "Codejunkies"
+    codes:
+      - "2053B7D4 0098967F"
+
+  - name: "Have Level Completed"
+    author: "Code Master"
+    notes: "[The Chop Shop Codes]"
+    codes:
+      - "C0C72261 B1D4150A"
+
+  - name: "Extra Ammo-All Other"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "101ECE44 00000001"
+
+  - name: "Extra Ammo-Flame Thrower"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "102E5B84 00000001"
+
+  - name: "Extra Ammo-Shotguns"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "C1EAF101 4927BAAA"
+
+  - name: "Extra Ammo-Tank/Grenade"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "1028E7A4 00000001"
+
+  - name: "Extra Grenades"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "1023C984 00000001"
+
+  - name: "Have All Levels Complete"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "41B426E4 00100007"
+      - "00000001 00000000"
+
+  - name: "Infinite Ammo-All Other"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201ECE48 00000000"
+
+  - name: "Infinite Ammo-Flame Thrower"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202E5B88 00000000"
+
+  - name: "Infinite Ammo-Shotguns"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2028CD08 00000000"
+
+  - name: "Infinite Ammo-Tank/Grenade"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2028E7A8 00000000"
+
+  - name: "Max High Score-All Levels"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "41B426EC 00100007"
+      - "05F5E0FF 00000000"
+
+  - name: "Max Infinite Ammo-Flame Thrower"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202E5B84 240203E7"
+
+  - name: "Max Infinite Ammo-Shotguns"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2028CD04 240303E7"
+
+  - name: "Max Infinite Ammo-Tank/Grenade"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2028E7A4 240203E7"
+
+  - name: "Max Infinite Grenades"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2023C984 24030063"
+
+  - name: "No Recoil"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2017D380 03E00008"
+      - "2017D384 00000000"
+
+  - name: "Quick Max Score"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2053B7D4 05F5E0FF"
+
+  - name: "Score X2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2053B7EC 00000002"
+
+  - name: "Score X5"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2053B7EC 00000005"
+
+  - name: "Score X10"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2053B7EC 0000000A"
+
+  - name: "Score X50"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2053B7EC 00000032"
+
+  - name: "Score X100"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2053B7EC 00000064"
+
+  - name: "Score X500"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2053B7EC 000001F4"
+
+  - name: "Score X1000"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2053B7EC 000003E8"
+
+  - name: "Score X5000"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2053B7EC 00001388"
+
+  - name: "Score X10000"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2053B7EC 00002710"
+
+  - name: "Totally Uncensored Executions"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "004344F0 00000000"
+      - "0020B7E0 00000070"
+      - "202C88D0 03E00008"
+      - "202C88D4 00000000"
+
+  - name: "Unlock All Levels"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "41B426D8 00100007"
+      - "00000001 00000000"
+
+  - name: "Invisible"
+    author: "Codejunkies"
+    notes: "[Turn On Cheats With Save Enabled]"
+    codes:
+      - "21B50AC0 00000101"
+
+  - name: "All Flashbacks"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "11B42C72 00000101"
+      - "41B42C74 00050001"
+      - "01010101 00000000"
+      - "11B42C88 00000101"
+
+  - name: "Flashback 1-1"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "01B42C72 00000001"
+
+  - name: "Flashback 1-2"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "01B42C74 00000001"
+
+  - name: "Flashback 1-3"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "01B42C76 00000001"
+
+  - name: "Flashback 1-4"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "01B42C78 00000001"
+
+  - name: "Flashback 1-5"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "01B42C7A 00000001"
+
+  - name: "Flashback 1-6"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "01B42C7C 00000001"
+
+  - name: "Flashback 1-7"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "C125117F A5E877E3"
+
+  - name: "Flashback 1-8"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "01B42C80 00000001"
+
+  - name: "Flashback 1-9"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "01B42C82 00000001"
+
+  - name: "Flashback 1-10"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "01B42C84 00000001"
+
+  - name: "Flashback 1-11"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "01B42C86 00000001"
+
+  - name: "Flashback 1-12"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "01B42C88 00000001"
+
+  - name: "Flashback 2-1"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "01B42C73 00000001"
+
+  - name: "Flashback 2-2"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "01B42C75 00000001"
+
+  - name: "Flashback 2-3"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "01B42C77 00000001"
+
+  - name: "Flashback 2-4"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "01B42C79 00000001"
+
+  - name: "Flashback 2-5"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "01B42C7B 00000001"
+
+  - name: "Flashback 2-6"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "01B42C7D 00000001"
+
+  - name: "Flashback 2-7"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "01B42C7F 00000001"
+
+  - name: "Flashback 2-8"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "01B42C81 00000001"
+
+  - name: "Flashback 2-9"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "01B42C83 00000001"
+
+  - name: "Flashback 2-10"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "01B42C85 00000001"
+
+  - name: "Flashback 2-11"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "01B42C87 00000001"
+
+  - name: "Flashback 2-12"
+    author: "Code Master"
+    notes: "[Unlock Flashback Codes]"
+    codes:
+      - "01B42C89 00000001"
+
+  - name: "Extra Unspent Points"
+    author: "Code Master"
+    notes: "[Upgrade Codes]"
+    codes:
+      - "2031F168 00501021"
+
+  - name: "Infinite Unspent Points"
+    author: "Code Master"
+    notes: "[Upgrade Codes]"
+    codes:
+      - "11B426D0 0000FFFF"
+
+  - name: "Infinite Unspent Points Usage"
+    author: "Code Master"
+    notes: "[Upgrade Codes]"
+    codes:
+      - "2031F16C 00000000"
+
+  - name: "Infinite Upgrade Points"
+    author: "Codejunkies"
+    notes: "[Upgrade Codes]"
+    codes:
+      - "21B426D0 3B9AC9FF"
+
+  - name: "Max Unspent Points"
+    author: "Code Master"
+    notes: "[Upgrade Codes]"
+    codes:
+      - "21B426D0 05F5E0FF"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master>delcano>Dark Killer"
+    notes: "[Masters]"
+    codes:
+      - "901B927C 0C08C85A"
+
+  - name: "Max Infinite Ammo-All Other"
+    author: "Code Master>delcano>Dark Killer"
+    notes: "[Codes]"
+    codes:
+      - "201ECE44 240203E7"
+
+  - name: "Max Body Armor"
+    author: "Code Master>delcano>Dark Killer"
+    notes: "[Have Upgrade Codes]"
+    codes:
+      - "21B42C3C 00000004"
+
+  - name: "Max Longer Slaughter Mode"
+    author: "Code Master>delcano>Dark Killer"
+    notes: "[Have Upgrade Codes]"
+    codes:
+      - "21B42C44 00000004"
+
+  - name: "Max Increase Accuracy"
+    author: "Code Master>delcano>Dark Killer"
+    notes: "[Have Upgrade Codes]"
+    codes:
+      - "21B42C48 00000004"
+
+  - name: "Unlimiated Ammo"
+    author: "Code Master>delcano>Dark Killer"
+    notes: "[Unlock Cheat Codes]"
+    codes:
+      - "01B42C65 00000001"

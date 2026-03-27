@@ -1,0 +1,46 @@
+# Genji cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-53328
+
+game: "Genji"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-53328"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F030C2C0 0030C2C3"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Benkei Codes]"
+    codes:
+      - "2065BA40 000003E8"
+
+  - name: "Max Health"
+    author: "Codejunkies"
+    notes: "[Benkei Codes]"
+    codes:
+      - "20577F28 03E803E8"
+
+  - name: "Quick Level Up"
+    author: "Codejunkies"
+    notes: "[Benkei Codes]"
+    codes:
+      - "20577F44 000F423F"
+
+  - name: "Infinite Kamui"
+    author: "Codejunkies"
+    codes:
+      - "2057BA98 04EC0000"
+
+  - name: "Infinite Money"
+    author: "Codejunkies"
+    codes:
+      - "205A1884 000F423F"

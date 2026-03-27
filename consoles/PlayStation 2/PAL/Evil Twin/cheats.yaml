@@ -1,0 +1,23 @@
+# Evil Twin cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Evil Twin"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0200008 0022F90F"
+
+  - name: "Unlimited Lives"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20350F9C 24420000"

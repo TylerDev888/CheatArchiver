@@ -1,0 +1,61 @@
+# Asterix & Obelix XXL cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51838
+
+game: "Asterix & Obelix XXL"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51838"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "1Hitkill"
+    author: "luc-ita"
+    codes:
+      - "202D2F14 00000000"
+
+  - name: "Always Have Torch With Fire (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "202C97C8 24020011"
+      - "202C97CC A262003E"
+      - "202C8ED8 10000221"
+
+  - name: "Buy Even Without Helms At The Merchant"
+    author: "luc-ita"
+    codes:
+      - "2037998C 1000002F"
+
+  - name: "Instantly Kill Enemies (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "2033590C 305000FF"
+      - "D0526882 0000BFFE"
+      - "2033590C 24100001"
+
+  - name: "Invulnerable"
+    author: "luc-ita"
+    codes:
+      - "2029E968 10000004"
+
+  - name: "Jump In Midair"
+    author: "luc-ita"
+    codes:
+      - "202A4B6C 10000008"
+
+  - name: "Potion Effect Always Active (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "203707D0 3C0141A8"
+      - "D0526882 0000B7FF"
+      - "203707D4 44810000"
+      - "D0526882 0000E7FF"
+      - "203707D4 44800000"
+
+  - name: "Take Objects Anywhere"
+    author: "luc-ita"
+    codes:
+      - "20374DDC 00000000"
+      - "20374B54 00000000"

@@ -1,0 +1,34 @@
+# Run Like Hell cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51345
+
+game: "Run Like Hell"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51345"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01AFB50 000001FD"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "201487B8 00000000"
+
+  - name: "Infinite Armour"
+    author: "Codejunkies"
+    codes:
+      - "20174C7C 2402000A"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "20174F20 2402016C"
+      - "20174F24 A482026C"

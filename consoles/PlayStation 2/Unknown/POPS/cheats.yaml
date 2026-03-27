@@ -1,0 +1,44 @@
+# POPS cheat data
+# Console: PlayStation 2
+# Region:  Unknown
+# Serial:  POPS-00001
+
+game: "POPS"
+console: "PlayStation 2"
+region: "Unknown"
+serial: "POPS-00001"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "90236EA0 0C08DB50"
+
+  - name: "Add To PS1 GS 8-Bit"
+    author: "lee4"
+    codes:
+      - "01000000 000000??"
+
+  - name: "Add To PS1 GS 16-Bit"
+    author: "lee4"
+    codes:
+      - "11000000 0000????"
+
+  - name: "RAM Code Activator (Multi-Lines)"
+    author: "lee4"
+    codes:
+      - "E0??0001 000FF000"
+
+  - name: "RAM Code Activator (Single-Line)"
+    author: "lee4"
+    codes:
+      - "D00FF000 00000001"
+
+  - name: "Super Joker (On/Off Switch Simulator)"
+    author: "lee4"
+    notes: "200FF000 00000001"
+    codes:
+      - "200FF000 00000000"

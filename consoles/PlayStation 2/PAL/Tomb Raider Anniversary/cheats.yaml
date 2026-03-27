@@ -1,0 +1,45 @@
+# Tomb Raider Anniversary cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Tomb Raider Anniversary"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "901078CC 0C0DBB12"
+
+  - name: "Infinite Ammo"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20283D18 00000000"
+
+  - name: "Infinite Health"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "200FFF00 AC6106F0"
+      - "200FFF04 080B5350"
+      - "200FFF08 C47406F0"
+      - "20223CC0 0C03FFC0"
+      - "20223CC4 3C0144A0"
+
+  - name: "Infinite Air"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "202C189C 00000000"
+
+  - name: "Health Packs Do Not Decrease"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20269FB8 24A20000"

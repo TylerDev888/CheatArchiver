@@ -1,0 +1,24 @@
+# Godfather, The [EA-SY! 1980] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66966
+
+game: "Godfather, The [EA-SY! 1980]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66966"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "902E8390 0C0BA08C"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "904D4928 0C14FD61"

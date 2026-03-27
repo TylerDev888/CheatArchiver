@@ -1,0 +1,24 @@
+# Star Wars Pinball cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUB31132
+
+game: "Star Wars Pinball"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUB31132"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 (required)"
+    notes: "File: PROFILE.DAT"
+    codes:
+      - "set range:0x8,0x6D51"
+      - "set [hash]:crc32"
+      - "write at 0x4:[hash]"
+
+  - name: "1 Mil Score"
+    notes: "File: PROFILE.DAT"
+    codes:
+      - "write at 0x00006D45:0x3B9ACADA"

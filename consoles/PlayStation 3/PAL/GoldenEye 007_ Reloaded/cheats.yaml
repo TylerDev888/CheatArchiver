@@ -1,0 +1,45 @@
+# GoldenEye 007_ Reloaded cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01292
+
+game: "GoldenEye 007_ Reloaded"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01292"
+cheat_type: "Save Editor"
+source: "GameGenie EU Codes"
+
+cheats:
+  - name: "Infinite Ammo"
+    notes: "File: BLES01292AUTOSAVE*\\66600001.DAT"
+    codes:
+      - "80010004 5CABFACE"
+      - "93000000 00000014"
+      - "18000000 00007FFF"
+      - "18000006 00007FFF"
+      - "1800000C 00007FFF"
+
+  - name: "Get Crc32 & File Size Of 66600001.dat (required)"
+    notes: "File: BLES01292AUTOSAVE*\\66600001.DAT"
+    codes:
+      - "set [crc32_66600001.DAT]:crc32"
+      - "set [size_66600001.DAT]:eof+1"
+
+  - name: "Get Crc32 & File Size Of 96600000.dat (required)"
+    notes: "File: BLES01292AUTOSAVE*\\96600000.DAT  (dependency: SAVE.BIN)"
+    codes:
+      - "set [crc32_96600000.DAT]:crc32"
+      - "set [size_96600000.DAT]:eof+1"
+
+  - name: "Update Crc32 On Save.bin (required)"
+    notes: "File: BLES01292AUTOSAVE*\\SAVE.BIN  ([Update CRC32 for SAVE.BIN]) (set range:0x10,0x000223)"
+    codes:
+      - "write at 0x14:[size_66600001.DAT]"
+      - "write at 0x18:[crc32_66600001.DAT]"
+      - "write at 0x24:[size_96600000.DAT]"
+      - "write at 0x28:[crc32_96600000.DAT]"
+      - "set pointer:eof+1"
+      - "set range:0x10,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000008:[hash]"

@@ -1,0 +1,53 @@
+# D1 Grand Prix cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21416
+
+game: "D1 Grand Prix"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21416"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02BBF54 002BBF57"
+
+  - name: "0 Drift Points Competitor"
+    author: "Codejunkies"
+    codes:
+      - "2050C560 00000000"
+      - "2050C56C 00000000"
+
+  - name: "100 Drift Points P1"
+    author: "Codejunkies"
+    codes:
+      - "2050C4F8 42C80000"
+      - "2050C504 42C80000"
+
+  - name: "200 Drift Points P1"
+    author: "Codejunkies"
+    codes:
+      - "2050C4F8 43480000"
+      - "2050C504 43480000"
+
+  - name: "Disable Timer"
+    author: "Codejunkies"
+    codes:
+      - "20131208 00000000"
+
+  - name: "Unlock All Movies"
+    author: "Codejunkies"
+    codes:
+      - "20568C48 FFFFFFFF"
+      - "20568C4C FFFFFFFF"
+
+  - name: "Unlock All Professional Cars"
+    author: "Codejunkies"
+    codes:
+      - "0056845C 0000007F"
+      - "00568E68 0000007F"

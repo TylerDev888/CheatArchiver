@@ -1,0 +1,41 @@
+# Hunted_ The Demon's Forge cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS30406
+
+game: "Hunted_ The Demon's Forge"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS30406"
+cheat_type: "AP"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Decompress Payload (required)"
+    notes: "File: BLUS30406-PROFILE\\PAYLOAD"
+    codes:
+      - "Decompress(0x00000018, 15)"
+
+  - name: "Max Gold"
+    notes: "File: ~extracted\\00000018.dat"
+    codes:
+      - "20000173 000F423F"
+
+  - name: "189999 Gold"
+    notes: "File: ~extracted\\00000018.dat"
+    codes:
+      - "80010004 00002301"
+      - "28000004 0002E62F"
+
+  - name: "Compress Payload (required)"
+    notes: "File: BLES01309-PROFILE\\PAYLOAD"
+    codes:
+      - "Compress(0x00000018)"
+
+  - name: "Update Sha1 (required)"
+    notes: "File: BLES01309-PROFILE\\PAYLOAD  (set range:0x000014,0x00034C)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000014,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x000000:[hash]"

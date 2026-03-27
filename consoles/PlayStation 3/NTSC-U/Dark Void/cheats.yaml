@@ -1,0 +1,56 @@
+# Dark Void cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS30323
+
+game: "Dark Void"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS30323"
+cheat_type: "AP"
+source: "From zeick"
+
+cheats:
+  - name: "Decompress Save (required)"
+    notes: "File: PROFILE.DVP"
+    codes:
+      - "Decompress(0x00000020, 15)"
+
+  - name: "999999 Points"
+    notes: "File: ~extracted\\00000020.dat"
+    codes:
+      - "write at 0x0000004C:0x000F423F"
+
+  - name: "Fix Compression"
+    notes: "File: BLUS30323_PROFILE\\PROFILE.DVP"
+    codes:
+      - "delete at 0x30:0x4FF"
+
+  - name: "Compress Profile.dvp (required)"
+    notes: "File: BLUS30323_PROFILE\\PROFILE.DVP"
+    codes:
+      - "Compress(0x00000020)"
+
+  - name: "Update Sha1 For Profile.dvp (required)"
+    notes: "File: BLUS30323_PROFILE\\PROFILE.DVP"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x00001C,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x000008:[hash]"
+
+  - name: "Update Crc32big For Profile.dvp (required)"
+    notes: "File: BLUS30323_PROFILE\\PROFILE.DVP"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000008,pointer"
+      - "set [hash]:CRC32Big"
+      - "write at 0x000004:[hash]"
+
+  - name: "Update Crc32big For Chkpt.sav (required)"
+    notes: "File: BLUS30323_SAVE_AUTOSAVE\\CHKPT.SAV  (set range:0x000008,0x009743)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000008,pointer"
+      - "set [hash]:CRC32Big"
+      - "write at 0x000004:[hash]"

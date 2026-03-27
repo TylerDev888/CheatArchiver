@@ -1,0 +1,3211 @@
+# Atelier Iris_ Eternal Mana cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21113
+
+game: "Atelier Iris_ Eternal Mana"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21113"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enabler Code(MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "902C4604 0C0B72CB"
+      - "20106F38 00000000"
+
+  - name: "Enabler Code(MUST BE ON)(AR2V2/GS2V2)"
+    notes: "[Masters]"
+    codes:
+      - "0E3C7DF2 1456E7A5"
+      - "F0100008 002C4607"
+      - "20106F38 00000000"
+
+  - name: "Player 1 Controller(Normal)"
+    author: "Skiller"
+    notes: "[Joker address]"
+    codes:
+      - "D0E2E9E0 0000[JOKER:PS2]"
+
+  - name: "Player 1 Controller(Max Reverse)"
+    author: "GM0"
+    notes: "[Joker address]"
+    codes:
+      - "D0E03102 0000[JOKER:PS2]"
+
+  - name: "Player 2 Controller(Max Reverse)"
+    author: "GM0"
+    notes: "[Joker address]"
+    codes:
+      - "D0E03202 0000[JOKER:PS2]"
+
+  - name: "Unlock All Ablitys In Wheel"
+    author: "Skiller"
+    notes: "[Misc Codes]"
+    codes:
+      - "20F831F8 02010B01"
+      - "20F831FC 06050403"
+      - "20F83200 0A090807"
+      - "20F83204 0000FF0B"
+
+  - name: "Unlock All Characters"
+    author: "Skiller"
+    notes: "[Misc Codes]"
+    codes:
+      - "40F7F814 00060001"
+      - "00000001 00000001"
+
+  - name: "Activator (Activates all 6 Character slots)"
+    author: "Skiller"
+    notes: "[Character Mod]"
+    codes:
+      - "20F7F828 00000006"
+
+  - name: "Slot 1"
+    author: "Skiller"
+    notes: "[Character Slots]"
+    codes:
+      - "20F7F810 00000[SL]"
+
+  - name: "Slot 2"
+    author: "Skiller"
+    notes: "[Character Slots]"
+    codes:
+      - "20F7F814 00000[SL]"
+
+  - name: "Slot 3"
+    author: "Skiller"
+    notes: "[Character Slots]"
+    codes:
+      - "20F7F818 00000[SL]"
+
+  - name: "Slot 4"
+    author: "Skiller"
+    notes: "[Character Slots]"
+    codes:
+      - "20F7F81C 00000[SL]"
+
+  - name: "Slot 5"
+    author: "Skiller"
+    notes: "[Character Slots]"
+    codes:
+      - "20F7F820 00000[SL]"
+
+  - name: "Slot 6"
+    author: "Skiller"
+    notes: "[Character Slots]"
+    codes:
+      - "20F7F824 00000[SL]"
+
+  - name: "Unlock All Bonuses"
+    author: "Skiller"
+    codes:
+      - "10F7F504 00000300"
+      - "40F7F470 001E0001"
+      - "01010101 00000000"
+
+  - name: "Unlock All Synthesize"
+    codes:
+      - "00F81B9F 00000002"
+      - "40F81BA0 00700001"
+      - "02020202 00000000"
+
+  - name: "Have All Monster Log Collection"
+    codes:
+      - "10F81D7E 00000202"
+      - "40F81D80 001E0001"
+      - "02020202 00000000"
+
+  - name: "Money"
+    author: "Skiller:porting"
+    codes:
+      - "20F7F508 000F423F"
+
+  - name: "Displayed Game Time Reset"
+    author: "Skiller:porting"
+    notes: "[Game Time Codes]"
+    codes:
+      - "20F7F50C 00000000"
+
+  - name: "Playtime Initialization"
+    author: "Skiller:porting"
+    notes: "[Game Time Codes]"
+    codes:
+      - "20147650 24030000"
+
+  - name: "Playtime Increase(0 = Dont Move 2 = Double Time)"
+    author: "Skiller:porting"
+    notes: "[Game Time Codes]"
+    codes:
+      - "20147650 2463000?"
+
+  - name: "Random Monsters Are Totally Random(SELECT+L2 = Random Mode, SELECT+R2 = normal)"
+    author: "Skiller:porting"
+    notes: "[Monsters/Encounter]"
+    codes:
+      - "200F4900 0C0B7612"
+      - "200F4904 0080A02D"
+      - "200F4908 34190077"
+      - "200F490C 0059001A"
+      - "200F491C 00002810"
+      - "200F4948 08070F50"
+      - "D0E03102 0000FEFE"
+      - "201C3D3C 0803D240"
+      - "D0E03102 0000FDFE"
+      - "201C3D3C 0080A02D"
+
+  - name: "Encounter Control"
+    author: "Skiller:porting"
+    notes: "[Monsters/Encounter]"
+    codes:
+      - "201CFD98 3C0200E3"
+      - "201CFD9C 9042E9E0"
+      - "201CFDA0 30440001"
+
+  - name: "Random Monster Select"
+    author: "Skiller:porting"
+    notes: "[Monsters/Encounter]"
+    codes:
+      - "201D1BAC 340500[MON]"
+
+  - name: "Random Monster Select(R3, ON/L3, OFF)"
+    author: "Skiller:porting"
+    notes: "[Monsters/Encounter]"
+    codes:
+      - "D0E03102 0000FFFB"
+      - "201D1BAC 340500[MON]"
+      - "D0E03102 0000FFFD"
+      - "201D1BAC 0260282D"
+
+  - name: "Speed-Up(START+L2, ON/START+R2, OFF )"
+    author: "Skiller:porting"
+    notes: "[Monsters/Encounter]"
+    codes:
+      - "D0E03102 0000FEF7"
+      - "202B5984 00000000"
+      - "D0E03102 0000FDF7"
+      - "202B5984 0C0AED1C"
+
+  - name: "Max HP/MP While In Battle"
+    author: "Skiller:porting"
+    notes: "[Inbattle Codes]"
+    codes:
+      - "201C3C14 34052710"
+      - "201C3C1C 70052EE9"
+      - "201C3C28 AE25002C"
+      - "201C3C2C AE250030"
+
+  - name: "Weak Enemies, One Hit Kills"
+    author: "Skiller:porting"
+    notes: "[Inbattle Codes]"
+    codes:
+      - "201C3DC4 7E800030"
+
+  - name: "Manual Blocking(When defending all attacks are blocked)"
+    author: "Skiller:porting"
+    notes: "[Inbattle Codes]"
+    codes:
+      - "202027D0 8E810020"
+      - "202027D4 0061800A"
+
+  - name: "Automatic Blocking(Blocks first hit)"
+    author: "Skiller:porting"
+    notes: "[Inbattle Codes]"
+    codes:
+      - "202028C4 92990020"
+      - "20202948 3B300001"
+
+  - name: "Absolute Blocking(Blocks everything)"
+    author: "Skiller:porting"
+    notes: "[Inbattle Codes]"
+    codes:
+      - "202028BC 96810020"
+      - "202028C4 18200022"
+      - "202028CC 00021024"
+
+  - name: "Always Dodge"
+    author: "Skiller:porting"
+    notes: "[Inbattle Codes]"
+    codes:
+      - "201EFC4C 1000003B"
+
+  - name: "Always Critical When Attacking"
+    author: "Skiller:porting"
+    notes: "[Inbattle Codes]"
+    codes:
+      - "20208150 92640020"
+      - "20208154 0064800A"
+
+  - name: "Critical Damage Multiplicator"
+    author: "Skiller:porting"
+    notes: "[Inbattle Codes]"
+    codes:
+      - "20208160 92780020"
+      - "2020817C 3C054[CDM]"
+      - "20208188 00B8080A"
+      - "2020818C 44810800"
+
+  - name: "Lita Won't Get Tired"
+    author: "Skiller:porting"
+    notes: "[Inbattle Codes]"
+    codes:
+      - "20186BC0 3403270F"
+
+  - name: "Lita Transforms Into Winged Form"
+    author: "Skiller:porting"
+    notes: "[Inbattle Codes]"
+    codes:
+      - "201EEEF4 1000000C"
+      - "201EEEF8 34060001"
+
+  - name: "Expx (CB/GS/Xp ver)"
+    author: "Skiller:porting"
+    notes: "[After battle]"
+    codes:
+      - "201495B4 0803DC00"
+      - "201495B8 8C430000"
+      - "200F7000 240800[AMOUNT:14:HEX:BIG]"
+      - "200F7004 00A82818"
+      - "200F7008 00A32821"
+      - "200F700C 0805256F"
+
+  - name: "LVL 99"
+    author: "Skiller:porting"
+    notes: "[After battle]"
+    codes:
+      - "201495D4 0040100A"
+
+  - name: "Skill Point Mod"
+    author: "Skiller:porting"
+    notes: "[After battle]"
+    codes:
+      - "201498C0 10400001"
+      - "201498C4 2403[AMOUNT:03E7:HEX:BIG]"
+
+  - name: "Elements Maxed At 100"
+    author: "Skiller:porting"
+    notes: "[Elements and Mana Codes]"
+    codes:
+      - "20162FC0 34020064"
+
+  - name: "Mana Items Remain At 8(after usage)"
+    author: "Skiller:porting"
+    notes: "[Elements and Mana Codes]"
+    codes:
+      - "201637B0 34030008"
+
+  - name: "1 Gift Max Friendship"
+    author: "Skiller:porting"
+    notes: "[Elements and Mana Codes]"
+    codes:
+      - "2017FAB0 34040064"
+
+  - name: "Mana Allways Super"
+    author: "Skiller:porting"
+    notes: "[Elements and Mana Codes]"
+    codes:
+      - "2017FA4C 34040064"
+
+  - name: "Have Mana Character Codes"
+    author: "Skiller"
+    notes: "[Elements and Mana Codes]"
+    codes:
+      - "10F81B96 00000202"
+      - "20F81B98 02020202"
+      - "10F81B9C 00000202"
+      - "00F81B9E 00000002"
+
+  - name: "Have/Inf Mana Stones"
+    author: "Skiller"
+    notes: "[Elements and Mana Codes]"
+    codes:
+      - "40F81274 00040001"
+      - "00090009 00000000"
+      - "10F81288 00000009"
+
+  - name: "All Mana Items Made"
+    author: "Skiller"
+    notes: "[Elements and Mana Codes]  (Does not give u them)"
+    codes:
+      - "40F80F28 000F0001"
+      - "00090009 00000000"
+
+  - name: "Have Mana Item Codes"
+    author: "Skiller"
+    notes: "[Elements and Mana Codes]"
+    codes:
+      - "40F81D60 00070001"
+      - "02020202 00000000"
+      - "10F81D7C 00000202"
+
+  - name: "Have All Elements"
+    author: "Skiller"
+    notes: "[Elements and Mana Codes]"
+    codes:
+      - "40F81B88 00030001"
+      - "02020202 00000000"
+      - "10F81B94 00000202"
+
+  - name: "ALL Element Bins Max"
+    author: "Skiller"
+    notes: "[Elements and Mana Codes]"
+    codes:
+      - "40F80E98 00070001"
+      - "00630063 00000000"
+
+  - name: "Max/Inf All Mana Love/Energy"
+    author: "Skiller"
+    notes: "[Elements and Mana Codes]"
+    codes:
+      - "40F80EB8 000E0002"
+      - "00640064 00000000"
+
+  - name: "Mana Transform"
+    author: "Skiller"
+    notes: "[Elements and Mana Codes]"
+    codes:
+      - "40F80EBC 00050002"
+      - "00000001 00000000"
+      - "40F80F04 00050002"
+      - "00000001 00000000"
+
+  - name: "Mana Unmetamorphosis"
+    author: "Skiller"
+    notes: "[Elements and Mana Codes]"
+    codes:
+      - "40F80EBC 00050002"
+      - "00000000 00000000"
+      - "40F80F04 00050002"
+      - "00000000 00000000"
+
+  - name: "Uru"
+    notes: "[Individal Mana Character Stats]"
+    codes:
+      - "20F80EB8 00640064"
+
+  - name: "Silwest"
+    notes: "[Individal Mana Character Stats]"
+    codes:
+      - "20F80EC0 00640064"
+
+  - name: "Nymph"
+    notes: "[Individal Mana Character Stats]"
+    codes:
+      - "20F80EC8 00640064"
+
+  - name: "Eital"
+    notes: "[Individal Mana Character Stats]"
+    codes:
+      - "20F80ED0 00640064"
+
+  - name: "Plua"
+    notes: "[Individal Mana Character Stats]"
+    codes:
+      - "20F80ED8 00640064"
+
+  - name: "Diemia"
+    notes: "[Individal Mana Character Stats]"
+    codes:
+      - "20F80EE0 00640064"
+
+  - name: "Popo"
+    notes: "[Individal Mana Character Stats]"
+    codes:
+      - "20F80EE8 00640064"
+
+  - name: "Aion"
+    notes: "[Individal Mana Character Stats]"
+    codes:
+      - "20F80EF0 00640064"
+
+  - name: "Lupus"
+    notes: "[Individal Mana Character Stats]"
+    codes:
+      - "20F80EF8 00640064"
+
+  - name: "Grupt (Uru)"
+    notes: "[Individal Mana Character Stats]"
+    codes:
+      - "20F80F00 00640064"
+
+  - name: "Zeilia (Silwest)"
+    notes: "[Individal Mana Character Stats]"
+    codes:
+      - "20F80F08 00640064"
+
+  - name: "Flay (Nymph)"
+    notes: "[Individal Mana Character Stats]"
+    codes:
+      - "20F80F10 00640064"
+
+  - name: "Paltia (Eital)"
+    notes: "[Individal Mana Character Stats]"
+    codes:
+      - "20F80F18 00640064"
+
+  - name: "Fanatos (Plua)"
+    notes: "[Individal Mana Character Stats]"
+    codes:
+      - "20F80F20 00640064"
+
+  - name: "LV"
+    notes: "[Klein Stats]"
+    codes:
+      - "00F7F528 00000063"
+
+  - name: "Hit Points"
+    notes: "[Basic stats]"
+    codes:
+      - "10F7F52A 000003E7"
+
+  - name: "Mana"
+    notes: "[Basic stats]"
+    codes:
+      - "10F7F52C 000003E7"
+
+  - name: "Max Life"
+    notes: "[Basic stats]"
+    codes:
+      - "10F7F52E 000003E7"
+
+  - name: "Max Mana"
+    notes: "[Basic stats]"
+    codes:
+      - "10F7F530 000003E7"
+
+  - name: "Attack"
+    notes: "[Basic stats]"
+    codes:
+      - "10F7F532 000001F4"
+
+  - name: "Magic"
+    notes: "[Basic stats]"
+    codes:
+      - "10F7F534 000001F4"
+
+  - name: "Defense"
+    notes: "[Basic stats]"
+    codes:
+      - "10F7F536 000001F4"
+
+  - name: "Speed"
+    notes: "[Basic stats]"
+    codes:
+      - "10F7F538 000001F4"
+
+  - name: "Flame Resistance"
+    notes: "[Basic stats]"
+    codes:
+      - "10F7F53A 000001F4"
+
+  - name: "Ice Resistance"
+    notes: "[Basic stats]"
+    codes:
+      - "10F7F53C 000001F4"
+
+  - name: "Thunder Resistance"
+    notes: "[Basic stats]"
+    codes:
+      - "10F7F53E 000001F4"
+
+  - name: "Dark Resistance"
+    notes: "[Basic stats]"
+    codes:
+      - "10F7F540 000001F4"
+
+  - name: "Magic Points"
+    notes: "[Final Stats]"
+    codes:
+      - "10F7F544 000003E7"
+
+  - name: "Total Exp"
+    notes: "[Final Stats]"
+    codes:
+      - "20F7F558 000F4240"
+
+  - name: "Skill Points"
+    notes: "[Final Stats]"
+    codes:
+      - "10F7F584 000003E7"
+
+  - name: "Skill Slot 1"
+    notes: "[Klein Skill Mods]"
+    codes:
+      - "20F7F55C 00[AMOUNT:FF:HEX:BIG][SK]"
+
+  - name: "Skill Slot 2"
+    notes: "[Klein Skill Mods]"
+    codes:
+      - "20F7F560 00[AMOUNT:FF:HEX:BIG][SK]"
+
+  - name: "Skill Slot 3"
+    notes: "[Klein Skill Mods]"
+    codes:
+      - "20F7F564 00[AMOUNT:FF:HEX:BIG][SK]"
+
+  - name: "Skill Slot 4"
+    notes: "[Klein Skill Mods]"
+    codes:
+      - "20F7F568 00[AMOUNT:FF:HEX:BIG][SK]"
+
+  - name: "Skill Slot 5"
+    notes: "[Klein Skill Mods]"
+    codes:
+      - "20F7F56C 00[AMOUNT:FF:HEX:BIG][SK]"
+
+  - name: "Skill Slot 6"
+    notes: "[Klein Skill Mods]"
+    codes:
+      - "20F7F570 00[AMOUNT:FF:HEX:BIG][SK]"
+
+  - name: "Skill Slot 7"
+    notes: "[Klein Skill Mods]"
+    codes:
+      - "20F7F574 00[AMOUNT:FF:HEX:BIG][SK]"
+
+  - name: "Skill Slot 8"
+    notes: "[Klein Skill Mods]"
+    codes:
+      - "20F7F578 00[AMOUNT:FF:HEX:BIG][SK]"
+
+  - name: "Eqp Weapon"
+    notes: "[Equipment Mods]"
+    codes:
+      - "10F7F57C 0000[EM]"
+
+  - name: "Acy1"
+    notes: "[Equipment Mods]"
+    codes:
+      - "10F7F57E 0000[EM]"
+
+  - name: "Acy2"
+    notes: "[Equipment Mods]"
+    codes:
+      - "10F7F580 0000[EM]"
+
+  - name: "Inf Item Use"
+    author: "Skiller:porting"
+    notes: "[Items]"
+    codes:
+      - "20163AC8 34030008"
+
+  - name: "All Items Code (Main Items)"
+    notes: "[Items]"
+    codes:
+      - "40F80F68 00C80001"
+      - "00090009 00000000"
+      - "10F81288 00000009"
+
+  - name: "Key Items"
+    notes: "[Items]"
+    codes:
+      - "10F8128A 00000009"
+      - "40F8128C 00150001"
+      - "00090009 00000000"
+
+  - name: "Fest Rock"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F68 00000009"
+
+  - name: "Fest Stone"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F6A 00000009"
+
+  - name: "Silver Legien"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F6C 00000009"
+
+  - name: "Red Legien"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F6E 00000009"
+
+  - name: "Gold Legien"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F70 00000009"
+
+  - name: "Comet Stone"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F72 00000009"
+
+  - name: "Pure Water"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F74 00000009"
+
+  - name: "Foul Water"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F76 00000009"
+
+  - name: "Well Water"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F78 00000009"
+
+  - name: "River Water"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F7A 00000009"
+
+  - name: "Frozen Rain"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F7C 00000009"
+
+  - name: "Fresh Dancing"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F7E 00000009"
+
+  - name: "Old Dancing"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F80 00000009"
+
+  - name: "Fresh Smoking"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F82 00000009"
+
+  - name: "Old Smoking"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F84 00000009"
+
+  - name: "Fresh Poison"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F86 00000009"
+
+  - name: "Old Poison"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F88 00000009"
+
+  - name: "Extreme Poison"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F8A 00000009"
+
+  - name: "Kankari Nuts"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F8C 00000009"
+
+  - name: "Garigari Nuts"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F8E 00000009"
+
+  - name: "Red Pepper"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F90 00000009"
+
+  - name: "Green Pepper"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F92 00000009"
+
+  - name: "Lando"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F94 00000009"
+
+  - name: "Sweet Lando"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F96 00000009"
+
+  - name: "Lovely Lando"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F98 00000009"
+
+  - name: "Twisted Lando"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F9A 00000009"
+
+  - name: "Tingleberry"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F9C 00000009"
+
+  - name: "Stained Glass"
+    notes: "[Main Items]"
+    codes:
+      - "10F80F9E 00000009"
+
+  - name: "Pretty Stained"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FA0 00000009"
+
+  - name: "Glow Stained"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FA2 00000009"
+
+  - name: "Shatter Stained"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FA4 00000009"
+
+  - name: "Log"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FA6 00000009"
+
+  - name: "Big Log"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FA8 00000009"
+
+  - name: "Skinny Log"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FAA 00000009"
+
+  - name: "Magi Grass"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FAC 00000009"
+
+  - name: "Tall Magi Grass"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FAE 00000009"
+
+  - name: "Pinenuts"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FB0 00000009"
+
+  - name: "Old Pinenuts"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FB2 00000009"
+
+  - name: "Unue"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FB4 00000009"
+
+  - name: "Nue"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FB6 00000009"
+
+  - name: "Spoiled Neu"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FB8 00000009"
+
+  - name: "Dunkelhite"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FBA 00000009"
+
+  - name: "Raflesia"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FBC 00000009"
+
+  - name: "Big Pumpking"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FBE 00000009"
+
+  - name: "Hollow Pumpkin"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FC0 00000009"
+
+  - name: "Carrot"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FC2 00000009"
+
+  - name: "Spoiled Carrot"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FC4 00000009"
+
+  - name: "Hard Carrot"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FC6 00000009"
+
+  - name: "Kavo Potato"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FC8 00000009"
+
+  - name: "Belgrade Potato"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FCA 00000009"
+
+  - name: "Joker Fish"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FCC 00000009"
+
+  - name: "Fish Island"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FCE 00000009"
+
+  - name: "Devil Fish"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FD0 00000009"
+
+  - name: "Mountain Fish"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FD2 00000009"
+
+  - name: "Palm Fish"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FD4 00000009"
+
+  - name: "Aqua Snowbug"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FD6 00000009"
+
+  - name: "Snowbug"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FD8 00000009"
+
+  - name: "Palm Snowbug"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FDA 00000009"
+
+  - name: "Puniball"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FDC 00000009"
+
+  - name: "Faux Puniball"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FDE 00000009"
+
+  - name: "Wild Meat"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FE0 00000009"
+
+  - name: "Spoiled Meat"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FE2 00000009"
+
+  - name: "Animal Paw"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FE4 00000009"
+
+  - name: "Baji Poison"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FE6 00000009"
+
+  - name: "Baji Serum"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FE8 00000009"
+
+  - name: "Pikohammer"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FEA 00000009"
+
+  - name: "Shifty Eye"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FEC 00000009"
+
+  - name: "Cat Eye"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FEE 00000009"
+
+  - name: "Phoenix Quill"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FF0 00000009"
+
+  - name: "Phoenix Tail"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FF2 00000009"
+
+  - name: "Crank Snake"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FF4 00000009"
+
+  - name: "Love Poems"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FF6 00000009"
+
+  - name: "Hit List"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FF8 00000009"
+
+  - name: "Swimsuit"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FFA 00000009"
+
+  - name: "Scandal Bikini"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FFC 00000009"
+
+  - name: "Sexy Bikini"
+    notes: "[Main Items]"
+    codes:
+      - "10F80FFE 00000009"
+
+  - name: "Red Pants"
+    notes: "[Main Items]"
+    codes:
+      - "10F81000 00000009"
+
+  - name: "Passion Pants"
+    notes: "[Main Items]"
+    codes:
+      - "10F81002 00000009"
+
+  - name: "Dragon Tongue"
+    notes: "[Main Items]"
+    codes:
+      - "10F81004 00000009"
+
+  - name: "Dragon Horn"
+    notes: "[Main Items]"
+    codes:
+      - "10F81006 00000009"
+
+  - name: "Demon Ring"
+    notes: "[Main Items]"
+    codes:
+      - "10F81008 00000009"
+
+  - name: "Astral Sphere"
+    notes: "[Main Items]"
+    codes:
+      - "10F8100A 00000009"
+
+  - name: "Infinite Wings"
+    notes: "[Main Items]"
+    codes:
+      - "10F8100C 00000009"
+
+  - name: "Spice Powder"
+    notes: "[Main Items]"
+    codes:
+      - "10F8100E 00000009"
+
+  - name: "Green Powder"
+    notes: "[Main Items]"
+    codes:
+      - "10F81010 00000009"
+
+  - name: "Red Powder"
+    notes: "[Main Items]"
+    codes:
+      - "10F81012 00000009"
+
+  - name: "Wax"
+    notes: "[Main Items]"
+    codes:
+      - "10F81014 00000009"
+
+  - name: "Salt"
+    notes: "[Main Items]"
+    codes:
+      - "10F81016 00000009"
+
+  - name: "Flour"
+    notes: "[Main Items]"
+    codes:
+      - "10F81018 00000009"
+
+  - name: "Goat Milk"
+    notes: "[Main Items]"
+    codes:
+      - "10F8101A 00000009"
+
+  - name: "Milk"
+    notes: "[Main Items]"
+    codes:
+      - "10F8101C 00000009"
+
+  - name: "Canola Oil"
+    notes: "[Main Items]"
+    codes:
+      - "10F8101E 00000009"
+
+  - name: "Machine Oil"
+    notes: "[Main Items]"
+    codes:
+      - "10F81020 00000009"
+
+  - name: "Castor Oil"
+    notes: "[Main Items]"
+    codes:
+      - "10F81022 00000009"
+
+  - name: "Ale"
+    notes: "[Main Items]"
+    codes:
+      - "10F81024 00000009"
+
+  - name: "Red Wine"
+    notes: "[Main Items]"
+    codes:
+      - "10F81026 00000009"
+
+  - name: "Rock Sugar"
+    notes: "[Main Items]"
+    codes:
+      - "10F81028 00000009"
+
+  - name: "Brown Sugar"
+    notes: "[Main Items]"
+    codes:
+      - "10F8102A 00000009"
+
+  - name: "Honey"
+    notes: "[Main Items]"
+    codes:
+      - "10F8102C 00000009"
+
+  - name: "Maple Syrup"
+    notes: "[Main Items]"
+    codes:
+      - "10F8102E 00000009"
+
+  - name: "Flax Cloth"
+    notes: "[Main Items]"
+    codes:
+      - "10F81030 00000009"
+
+  - name: "Cotton Cloth"
+    notes: "[Main Items]"
+    codes:
+      - "10F81032 00000009"
+
+  - name: "Silk"
+    notes: "[Main Items]"
+    codes:
+      - "10F81034 00000009"
+
+  - name: "String"
+    notes: "[Main Items]"
+    codes:
+      - "10F81036 00000009"
+
+  - name: "Thin Metal Rod"
+    notes: "[Main Items]"
+    codes:
+      - "10F81038 00000009"
+
+  - name: "Thick Metal Rod"
+    notes: "[Main Items]"
+    codes:
+      - "10F8103A 00000009"
+
+  - name: "Gold Metal Rod"
+    notes: "[Main Items]"
+    codes:
+      - "10F8103C 00000009"
+
+  - name: "Small Gear"
+    notes: "[Main Items]"
+    codes:
+      - "10F8103E 00000009"
+
+  - name: "Tiny Gear"
+    notes: "[Main Items]"
+    codes:
+      - "10F81040 00000009"
+
+  - name: "Invisible Gear"
+    notes: "[Main Items]"
+    codes:
+      - "10F81042 00000009"
+
+  - name: "Large Gear"
+    notes: "[Main Items]"
+    codes:
+      - "10F81044 00000009"
+
+  - name: "Metallic Gear"
+    notes: "[Main Items]"
+    codes:
+      - "10F81046 00000009"
+
+  - name: "Gear Sans-Gears"
+    notes: "[Main Items]"
+    codes:
+      - "10F81048 00000009"
+
+  - name: "Golden Gear"
+    notes: "[Main Items]"
+    codes:
+      - "10F8104A 00000009"
+
+  - name: "Broken Handle"
+    notes: "[Main Items]"
+    codes:
+      - "10F8104C 00000009"
+
+  - name: "Gold Handle"
+    notes: "[Main Items]"
+    codes:
+      - "10F8104E 00000009"
+
+  - name: "Gold Cog"
+    notes: "[Main Items]"
+    codes:
+      - "10F81050 00000009"
+
+  - name: "Pendelock"
+    notes: "[Main Items]"
+    codes:
+      - "10F81052 00000009"
+
+  - name: "Mini Pendelock"
+    notes: "[Main Items]"
+    codes:
+      - "10F81054 00000009"
+
+  - name: "Glowgrass"
+    notes: "[Main Items]"
+    codes:
+      - "10F81056 00000009"
+
+  - name: "Dry Glowgrass"
+    notes: "[Main Items]"
+    codes:
+      - "10F81058 00000009"
+
+  - name: "Sweet Glowgrass"
+    notes: "[Main Items]"
+    codes:
+      - "10F8105A 00000009"
+
+  - name: "Moust Glowgrass"
+    notes: "[Main Items]"
+    codes:
+      - "10F8105C 00000009"
+
+  - name: "Crystalite"
+    notes: "[Main Items]"
+    codes:
+      - "10F8105E 00000009"
+
+  - name: "Crystaleavy"
+    notes: "[Main Items]"
+    codes:
+      - "10F81060 00000009"
+
+  - name: "Star Piece"
+    notes: "[Main Items]"
+    codes:
+      - "10F81062 00000009"
+
+  - name: "Sylph's Kiss"
+    notes: "[Main Items]"
+    codes:
+      - "10F81064 00000009"
+
+  - name: "Groovecube"
+    notes: "[Main Items]"
+    codes:
+      - "10F81066 00000009"
+
+  - name: "Cueparts"
+    notes: "[Main Items]"
+    codes:
+      - "10F81068 00000009"
+
+  - name: "Prismoon"
+    notes: "[Main Items]"
+    codes:
+      - "10F8106A 00000009"
+
+  - name: "Star Prism"
+    notes: "[Main Items]"
+    codes:
+      - "10F8106C 00000009"
+
+  - name: "Spirit Protect"
+    notes: "[Main Items]"
+    codes:
+      - "10F8106E 00000009"
+
+  - name: "Spirit Prary"
+    notes: "[Main Items]"
+    codes:
+      - "10F81070 00000009"
+
+  - name: "Mana Moebius"
+    notes: "[Main Items]"
+    codes:
+      - "10F81072 00000009"
+
+  - name: "Magic In 7 Days"
+    notes: "[Main Items]"
+    codes:
+      - "10F81074 00000009"
+
+  - name: "Me, Myself & Bomb"
+    notes: "[Main Items]"
+    codes:
+      - "10F81076 00000009"
+
+  - name: "Master Of Magic"
+    notes: "[Main Items]"
+    codes:
+      - "10F81078 00000009"
+
+  - name: "Strange Dict"
+    notes: "[Main Items]"
+    codes:
+      - "10F8107A 00000009"
+
+  - name: "Peach Cocktail"
+    notes: "[Main Items]"
+    codes:
+      - "10F8107C 00000009"
+
+  - name: "Lando Sour"
+    notes: "[Main Items]"
+    codes:
+      - "10F8107E 00000009"
+
+  - name: "Karikari Liquor"
+    notes: "[Main Items]"
+    codes:
+      - "10F81080 00000009"
+
+  - name: "Garigari Liquor"
+    notes: "[Main Items]"
+    codes:
+      - "10F81082 00000009"
+
+  - name: "Stardust"
+    notes: "[Main Items]"
+    codes:
+      - "10F81084 00000009"
+
+  - name: "Tinglecannon"
+    notes: "[Main Items]"
+    codes:
+      - "10F81086 00000009"
+
+  - name: "Hell Soju"
+    notes: "[Main Items]"
+    codes:
+      - "10F81088 00000009"
+
+  - name: "Herbal Elixer"
+    notes: "[Main Items]"
+    codes:
+      - "10F8108A 00000009"
+
+  - name: "Nectar"
+    notes: "[Main Items]"
+    codes:
+      - "10F8108C 00000009"
+
+  - name: "God's Dance"
+    notes: "[Main Items]"
+    codes:
+      - "10F8108E 00000009"
+
+  - name: "Dragon Slayer"
+    notes: "[Main Items]"
+    codes:
+      - "10F81090 00000009"
+
+  - name: "Demon Slayer"
+    notes: "[Main Items]"
+    codes:
+      - "10F81092 00000009"
+
+  - name: "Puni Slayer"
+    notes: "[Main Items]"
+    codes:
+      - "10F81094 00000009"
+
+  - name: "Toma Sake"
+    notes: "[Main Items]"
+    codes:
+      - "10F81096 00000009"
+
+  - name: "Nekotreat"
+    notes: "[Main Items]"
+    codes:
+      - "10F81098 00000009"
+
+  - name: "Hot Nekotreat"
+    notes: "[Main Items]"
+    codes:
+      - "10F8109A 00000009"
+
+  - name: "Nekotreat EX"
+    notes: "[Main Items]"
+    codes:
+      - "10F8109C 00000009"
+
+  - name: "Powder"
+    notes: "[Main Items]"
+    codes:
+      - "10F8109E 00000009"
+
+  - name: "Red Sashimi"
+    notes: "[Main Items]"
+    codes:
+      - "10F810A0 00000009"
+
+  - name: "White Sashimi"
+    notes: "[Main Items]"
+    codes:
+      - "10F810A2 00000009"
+
+  - name: "Sashimi"
+    notes: "[Main Items]"
+    codes:
+      - "10F810A4 00000009"
+
+  - name: "Fresh Sashimi"
+    notes: "[Main Items]"
+    codes:
+      - "10F810A6 00000009"
+
+  - name: "Deviledsashimi"
+    notes: "[Main Items]"
+    codes:
+      - "10F810A8 00000009"
+
+  - name: "Grilled Fungo"
+    notes: "[Main Items]"
+    codes:
+      - "10F810AA 00000009"
+
+  - name: "Charred Fungo"
+    notes: "[Main Items]"
+    codes:
+      - "10F810AC 00000009"
+
+  - name: "Seuteed Fungo"
+    notes: "[Main Items]"
+    codes:
+      - "10F810AE 00000009"
+
+  - name: "Aistral Saute"
+    notes: "[Main Items]"
+    codes:
+      - "10F810B0 00000009"
+
+  - name: "Manly Fungo"
+    notes: "[Main Items]"
+    codes:
+      - "10F810B2 00000009"
+
+  - name: "Meuniere"
+    notes: "[Main Items]"
+    codes:
+      - "10F810B4 00000009"
+
+  - name: "Jaja Bowl"
+    notes: "[Main Items]"
+    codes:
+      - "10F810B6 00000009"
+
+  - name: "Bitter Steak"
+    notes: "[Main Items]"
+    codes:
+      - "10F810B8 00000009"
+
+  - name: "Veggie Patty"
+    notes: "[Main Items]"
+    codes:
+      - "10F810BA 00000009"
+
+  - name: "Eyescargo"
+    notes: "[Main Items]"
+    codes:
+      - "10F810BC 00000009"
+
+  - name: "The Last Supper"
+    notes: "[Main Items]"
+    codes:
+      - "10F810C0 00000009"
+
+  - name: "Purgaroni"
+    notes: "[Main Items]"
+    codes:
+      - "10F810C2 00000009"
+
+  - name: "Shangri-La"
+    notes: "[Main Items]"
+    codes:
+      - "10F810C4 00000009"
+
+  - name: "Chubby Bunny"
+    notes: "[Main Items]"
+    codes:
+      - "10F810C6 00000009"
+
+  - name: "Moon Star"
+    notes: "[Main Items]"
+    codes:
+      - "10F810C8 00000009"
+
+  - name: "Eidaltone"
+    notes: "[Main Items]"
+    codes:
+      - "10F810CA 00000009"
+
+  - name: "Bread Crumbs"
+    notes: "[Main Items]"
+    codes:
+      - "10F810CC 00000009"
+
+  - name: "Baking Powder"
+    notes: "[Main Items]"
+    codes:
+      - "10F810CE 00000009"
+
+  - name: "Secret Ingredient"
+    notes: "[Main Items]"
+    codes:
+      - "10F810D0 00000009"
+
+  - name: "Fluffy Roll"
+    notes: "[Main Items]"
+    codes:
+      - "10F810D2 00000009"
+
+  - name: "Poofy Bread"
+    notes: "[Main Items]"
+    codes:
+      - "10F810D4 00000009"
+
+  - name: "Baked Pie"
+    notes: "[Main Items]"
+    codes:
+      - "10F810D6 00000009"
+
+  - name: "Fruit Pie"
+    notes: "[Main Items]"
+    codes:
+      - "10F810D8 00000009"
+
+  - name: "Blaire Special"
+    notes: "[Main Items]"
+    codes:
+      - "10F810DA 00000009"
+
+  - name: "Bun Ala Fran"
+    notes: "[Main Items]"
+    codes:
+      - "10F810DC 00000009"
+
+  - name: "Teddybear Roll"
+    notes: "[Main Items]"
+    codes:
+      - "10F810DE 00000009"
+
+  - name: "Rosie Ann Bun A"
+    notes: "[Main Items]"
+    codes:
+      - "10F810E0 00000009"
+
+  - name: "Rosie Ann Bun B"
+    notes: "[Main Items]"
+    codes:
+      - "10F810E2 00000009"
+
+  - name: "Rosie Ann Bun C"
+    notes: "[Main Items]"
+    codes:
+      - "10F810E4 00000009"
+
+  - name: "Rosie Ann Bun D"
+    notes: "[Main Items]"
+    codes:
+      - "10F810E6 00000009"
+
+  - name: "Rosie Ann Bun E"
+    notes: "[Main Items]"
+    codes:
+      - "10F810E8 00000009"
+
+  - name: "Rosie Ann Bun F"
+    notes: "[Main Items]"
+    codes:
+      - "10F810EA 00000009"
+
+  - name: "Rosie Ann Bun G"
+    notes: "[Main Items]"
+    codes:
+      - "10F810EC 00000009"
+
+  - name: "Rosie Ann Bun H"
+    notes: "[Main Items]"
+    codes:
+      - "10F810EE 00000009"
+
+  - name: "Cookie Sandwich"
+    notes: "[Main Items]"
+    codes:
+      - "10F810F0 00000009"
+
+  - name: "White Love"
+    notes: "[Main Items]"
+    codes:
+      - "10F810F2 00000009"
+
+  - name: "Leheruun Cream"
+    notes: "[Main Items]"
+    codes:
+      - "10F810F4 00000009"
+
+  - name: "Yogurt Pocket"
+    notes: "[Main Items]"
+    codes:
+      - "10F810F6 00000009"
+
+  - name: "Amalgam Candy"
+    notes: "[Main Items]"
+    codes:
+      - "10F810F8 00000009"
+
+  - name: "Golden Sugar"
+    notes: "[Main Items]"
+    codes:
+      - "10F810FA 00000009"
+
+  - name: "Caramel Cube"
+    notes: "[Main Items]"
+    codes:
+      - "10F810FC 00000009"
+
+  - name: "Sour Block"
+    notes: "[Main Items]"
+    codes:
+      - "10F810FE 00000009"
+
+  - name: "Salty Frieds"
+    notes: "[Main Items]"
+    codes:
+      - "10F81100 00000009"
+
+  - name: "Twister Candy"
+    notes: "[Main Items]"
+    codes:
+      - "10F81102 00000009"
+
+  - name: "Dog Candy"
+    notes: "[Main Items]"
+    codes:
+      - "10F81104 00000009"
+
+  - name: "Animal Crackers"
+    notes: "[Main Items]"
+    codes:
+      - "10F81106 00000009"
+
+  - name: "Astral Crackers"
+    notes: "[Main Items]"
+    codes:
+      - "10F81108 00000009"
+
+  - name: "Cheesecake"
+    notes: "[Main Items]"
+    codes:
+      - "10F8110A 00000009"
+
+  - name: "Berry Mousse"
+    notes: "[Main Items]"
+    codes:
+      - "10F8110C 00000009"
+
+  - name: "Bavarian Banana"
+    notes: "[Main Items]"
+    codes:
+      - "10F8110E 00000009"
+
+  - name: "Pumpkin Tart"
+    notes: "[Main Items]"
+    codes:
+      - "10F81110 00000009"
+
+  - name: "Tiramisu"
+    notes: "[Main Items]"
+    codes:
+      - "10F81112 00000009"
+
+  - name: "Chocolate Cake"
+    notes: "[Main Items]"
+    codes:
+      - "10F81114 00000009"
+
+  - name: "Unipuni Pudding"
+    notes: "[Main Items]"
+    codes:
+      - "10F81116 00000009"
+
+  - name: "Wedding Cake"
+    notes: "[Main Items]"
+    codes:
+      - "10F81118 00000009"
+
+  - name: "Snickerdoodle"
+    notes: "[Main Items]"
+    codes:
+      - "10F8111A 00000009"
+
+  - name: "Sweet House"
+    notes: "[Main Items]"
+    codes:
+      - "10F8111C 00000009"
+
+  - name: "Dead Bread"
+    notes: "[Main Items]"
+    codes:
+      - "10F8111E 00000009"
+
+  - name: "Rock Bread"
+    notes: "[Main Items]"
+    codes:
+      - "10F81120 00000009"
+
+  - name: "Smash Bread"
+    notes: "[Main Items]"
+    codes:
+      - "10F81122 00000009"
+
+  - name: "1 2 Alarmsandwitch"
+    notes: "[Main Items]"
+    codes:
+      - "10F81124 00000009"
+
+  - name: "Toasted Bagel"
+    notes: "[Main Items]"
+    codes:
+      - "10F81126 00000009"
+
+  - name: "Burnt Bagel"
+    notes: "[Main Items]"
+    codes:
+      - "10F81128 00000009"
+
+  - name: "Bread Pants"
+    notes: "[Main Items]"
+    codes:
+      - "10F8112A 00000009"
+
+  - name: "Puddin Cap"
+    notes: "[Main Items]"
+    codes:
+      - "10F8112C 00000009"
+
+  - name: "Flute Candy"
+    notes: "[Main Items]"
+    codes:
+      - "10F8112E 00000009"
+
+  - name: "Drum Crackers"
+    notes: "[Main Items]"
+    codes:
+      - "10F81130 00000009"
+
+  - name: "Leftovers"
+    notes: "[Main Items]"
+    codes:
+      - "10F81132 00000009"
+
+  - name: "Medicine"
+    notes: "[Main Items]"
+    codes:
+      - "10F81134 00000009"
+
+  - name: "Blue Bull"
+    notes: "[Main Items]"
+    codes:
+      - "10F81136 00000009"
+
+  - name: "Farewell, Love"
+    notes: "[Main Items]"
+    codes:
+      - "10F81138 00000009"
+
+  - name: "Life Pills"
+    notes: "[Main Items]"
+    codes:
+      - "10F8113A 00000009"
+
+  - name: "Tranquilizer"
+    notes: "[Main Items]"
+    codes:
+      - "10F8113C 00000009"
+
+  - name: "Farewell, Pain"
+    notes: "[Main Items]"
+    codes:
+      - "10F8113E 00000009"
+
+  - name: "Crazy Bull !"
+    notes: "[Main Items]"
+    codes:
+      - "10F81140 00000009"
+
+  - name: "Ingredient X"
+    notes: "[Main Items]"
+    codes:
+      - "10F81142 00000009"
+
+  - name: "Tragic Bun"
+    notes: "[Main Items]"
+    codes:
+      - "10F81144 00000009"
+
+  - name: "Lumpy Bun"
+    notes: "[Main Items]"
+    codes:
+      - "10F81146 00000009"
+
+  - name: "Average Bun"
+    notes: "[Main Items]"
+    codes:
+      - "10F81148 00000009"
+
+  - name: "Penultimate Roll"
+    notes: "[Main Items]"
+    codes:
+      - "10F8114A 00000009"
+
+  - name: "Bomb Armor"
+    notes: "[Main Items]"
+    codes:
+      - "10F8114C 00000009"
+
+  - name: "Priestess Tiara"
+    notes: "[Main Items]"
+    codes:
+      - "10F8114E 00000009"
+
+  - name: "Ring Of Love"
+    notes: "[Main Items]"
+    codes:
+      - "10F81150 00000009"
+
+  - name: "Locket Of Love"
+    notes: "[Main Items]"
+    codes:
+      - "10F81152 00000009"
+
+  - name: "Locket Of Wishes"
+    notes: "[Main Items]"
+    codes:
+      - "10F81154 00000009"
+
+  - name: "Don's Clothes"
+    notes: "[Main Items]"
+    codes:
+      - "10F81156 00000009"
+
+  - name: "Magoo Clots"
+    notes: "[Main Items]"
+    codes:
+      - "10F81158 00000009"
+
+  - name: "Gogo Suit"
+    notes: "[Main Items]"
+    codes:
+      - "10F8115A 00000009"
+
+  - name: "Silver Pants"
+    notes: "[Main Items]"
+    codes:
+      - "10F8115C 00000009"
+
+  - name: "Fairy Clothes"
+    notes: "[Main Items]"
+    codes:
+      - "10F8115E 00000009"
+
+  - name: "Fairy Hat"
+    notes: "[Main Items]"
+    codes:
+      - "10F81160 00000009"
+
+  - name: "War Tuxedo"
+    notes: "[Main Items]"
+    codes:
+      - "10F81162 00000009"
+
+  - name: "Sexy Robe"
+    notes: "[Main Items]"
+    codes:
+      - "10F81164 00000009"
+
+  - name: "Bunny Ears"
+    notes: "[Main Items]"
+    codes:
+      - "10F81166 00000009"
+
+  - name: "Paw Gloves"
+    notes: "[Main Items]"
+    codes:
+      - "10F81168 00000009"
+
+  - name: "Bunny Suit"
+    notes: "[Main Items]"
+    codes:
+      - "10F8116A 00000009"
+
+  - name: "Blue Swimsuit"
+    notes: "[Main Items]"
+    codes:
+      - "10F8116C 00000009"
+
+  - name: "Alluring Bikini"
+    notes: "[Main Items]"
+    codes:
+      - "10F8116E 00000009"
+
+  - name: "Erotic Bikini"
+    notes: "[Main Items]"
+    codes:
+      - "10F81170 00000009"
+
+  - name: "Empty Box"
+    notes: "[Main Items]"
+    codes:
+      - "10F81172 00000009"
+
+  - name: "Suxital"
+    notes: "[Main Items]"
+    codes:
+      - "10F81174 00000009"
+
+  - name: "Blowmaster"
+    notes: "[Main Items]"
+    codes:
+      - "10F81176 00000009"
+
+  - name: "Paint"
+    notes: "[Main Items]"
+    codes:
+      - "10F81178 00000009"
+
+  - name: "Vampire's Kiss"
+    notes: "[Main Items]"
+    codes:
+      - "10F8117A 00000009"
+
+  - name: "6 String Accoustic"
+    notes: "[Main Items]"
+    codes:
+      - "10F8117C 00000009"
+
+  - name: "Imitation Sitar"
+    notes: "[Main Items]"
+    codes:
+      - "10F8117E 00000009"
+
+  - name: "Virum Horn"
+    notes: "[Main Items]"
+    codes:
+      - "10F81180 00000009"
+
+  - name: "World Atlas"
+    notes: "[Main Items]"
+    codes:
+      - "10F81182 00000009"
+
+  - name: "Map Of The Stars"
+    notes: "[Main Items]"
+    codes:
+      - "10F81184 00000009"
+
+  - name: "Vigilant Eye"
+    notes: "[Main Items]"
+    codes:
+      - "10F81186 00000009"
+
+  - name: "Stretch/Stretchy"
+    notes: "[Main Items]"
+    codes:
+      - "10F81188 00000009"
+
+  - name: "Slingshot"
+    notes: "[Main Items]"
+    codes:
+      - "10F8118A 00000009"
+
+  - name: "Magic Paper"
+    notes: "[Main Items]"
+    codes:
+      - "10F8118C 00000009"
+
+  - name: "Liquid Emptiness"
+    notes: "[Main Items]"
+    codes:
+      - "10F8118E 00000009"
+
+  - name: "Angel Quill Pen"
+    notes: "[Main Items]"
+    codes:
+      - "10F81190 00000009"
+
+  - name: "Devil Quill Pen"
+    notes: "[Main Items]"
+    codes:
+      - "10F81192 00000009"
+
+  - name: "Nonbouncy Ball"
+    notes: "[Main Items]"
+    codes:
+      - "10F81194 00000009"
+
+  - name: "Violet Fungus"
+    notes: "[Main Items]"
+    codes:
+      - "10F81196 00000009"
+
+  - name: "Globe"
+    notes: "[Main Items]"
+    codes:
+      - "10F81198 00000009"
+
+  - name: "Astral Globe"
+    notes: "[Main Items]"
+    codes:
+      - "10F8119A 00000009"
+
+  - name: "Under Globe"
+    notes: "[Main Items]"
+    codes:
+      - "10F8119C 00000009"
+
+  - name: "Felios Globe"
+    notes: "[Main Items]"
+    codes:
+      - "10F8119E 00000009"
+
+  - name: "Bomb"
+    notes: "[Main Items]"
+    codes:
+      - "10F811A0 00000009"
+
+  - name: "Icy Bomb"
+    notes: "[Main Items]"
+    codes:
+      - "10F811A2 00000009"
+
+  - name: "Big Bomb"
+    notes: "[Main Items]"
+    codes:
+      - "10F811A4 00000009"
+
+  - name: "Spike Bomb"
+    notes: "[Main Items]"
+    codes:
+      - "10F811A6 00000009"
+
+  - name: "Spike Bomber"
+    notes: "[Main Items]"
+    codes:
+      - "10F811A8 00000009"
+
+  - name: "Hyper Spike"
+    notes: "[Main Items]"
+    codes:
+      - "10F811AA 00000009"
+
+  - name: "Micro Craft"
+    notes: "[Main Items]"
+    codes:
+      - "10F811AC 00000009"
+
+  - name: "Mini Craft"
+    notes: "[Main Items]"
+    codes:
+      - "10F811AE 00000009"
+
+  - name: "Nano Craft"
+    notes: "[Main Items]"
+    codes:
+      - "10F811B0 00000009"
+
+  - name: "Craft"
+    notes: "[Main Items]"
+    codes:
+      - "10F811B2 00000009"
+
+  - name: "Deka Craft"
+    notes: "[Main Items]"
+    codes:
+      - "10F811B4 00000009"
+
+  - name: "Mega Craft"
+    notes: "[Main Items]"
+    codes:
+      - "10F811B6 00000009"
+
+  - name: "Giga Craft"
+    notes: "[Main Items]"
+    codes:
+      - "10F811B8 00000009"
+
+  - name: "Tara Craft"
+    notes: "[Main Items]"
+    codes:
+      - "10F811BA 00000009"
+
+  - name: "Extra Craft"
+    notes: "[Main Items]"
+    codes:
+      - "10F811BC 00000009"
+
+  - name: "Crupt"
+    notes: "[Main Items]"
+    codes:
+      - "10F811BE 00000009"
+
+  - name: "Rocket Flame"
+    notes: "[Main Items]"
+    codes:
+      - "10F811C0 00000009"
+
+  - name: "Milk Scope"
+    notes: "[Main Items]"
+    codes:
+      - "10F811C2 00000009"
+
+  - name: "Milk Bazooka"
+    notes: "[Main Items]"
+    codes:
+      - "10F811C4 00000009"
+
+  - name: "Comet Jewel"
+    notes: "[Main Items]"
+    codes:
+      - "10F811C6 00000009"
+
+  - name: "Metal Pipe"
+    notes: "[Main Items]"
+    codes:
+      - "10F811C8 00000009"
+
+  - name: "Magic Pipe"
+    notes: "[Main Items]"
+    codes:
+      - "10F811CA 00000009"
+
+  - name: "Rainbow Disk"
+    notes: "[Main Items]"
+    codes:
+      - "10F811CC 00000009"
+
+  - name: "Spiteful Stone"
+    notes: "[Main Items]"
+    codes:
+      - "10F811CE 00000009"
+
+  - name: "Moebius Bolt"
+    notes: "[Main Items]"
+    codes:
+      - "10F811D0 00000009"
+
+  - name: "Magnifying Prism"
+    notes: "[Main Items]"
+    codes:
+      - "10F811D2 00000009"
+
+  - name: "Un-Microfier"
+    notes: "[Main Items]"
+    codes:
+      - "10F811D4 00000009"
+
+  - name: "Organite"
+    notes: "[Main Items]"
+    codes:
+      - "10F811D6 00000009"
+
+  - name: "Annual Gear"
+    notes: "[Main Items]"
+    codes:
+      - "10F811D8 00000009"
+
+  - name: "Twilight Board"
+    notes: "[Main Items]"
+    codes:
+      - "10F811DA 00000009"
+
+  - name: "Bio Frame"
+    notes: "[Main Items]"
+    codes:
+      - "10F811DC 00000009"
+
+  - name: "Klein's Cane"
+    notes: "[Main Items]"
+    codes:
+      - "10F811DE 00000009"
+
+  - name: "Wing Staff"
+    notes: "[Main Items]"
+    codes:
+      - "10F811E0 00000009"
+
+  - name: "Iron Mace"
+    notes: "[Main Items]"
+    codes:
+      - "10F811E2 00000009"
+
+  - name: "Battle Mace"
+    notes: "[Main Items]"
+    codes:
+      - "10F811E4 00000009"
+
+  - name: "Heavy Mace"
+    notes: "[Main Items]"
+    codes:
+      - "10F811E6 00000009"
+
+  - name: "Fire Cane"
+    notes: "[Main Items]"
+    codes:
+      - "10F811E8 00000009"
+
+  - name: "Blizzard Cane"
+    notes: "[Main Items]"
+    codes:
+      - "10F811EA 00000009"
+
+  - name: "Lightning Cane"
+    notes: "[Main Items]"
+    codes:
+      - "10F811EC 00000009"
+
+  - name: "Fairy Cane"
+    notes: "[Main Items]"
+    codes:
+      - "10F811EE 00000009"
+
+  - name: "Hulking Smasher"
+    notes: "[Main Items]"
+    codes:
+      - "10F811F0 00000009"
+
+  - name: "Legendary Cane"
+    notes: "[Main Items]"
+    codes:
+      - "10F811F2 00000009"
+
+  - name: "Wisdom Cane"
+    notes: "[Main Items]"
+    codes:
+      - "10F811F4 00000009"
+
+  - name: "Astral Cane"
+    notes: "[Main Items]"
+    codes:
+      - "10F811F6 00000009"
+
+  - name: "Prsim Staff"
+    notes: "[Main Items]"
+    codes:
+      - "10F811F8 00000009"
+
+  - name: "Mute Staff"
+    notes: "[Main Items]"
+    codes:
+      - "10F811FA 00000009"
+
+  - name: "Divine Cane"
+    notes: "[Main Items]"
+    codes:
+      - "10F811FC 00000009"
+
+  - name: "Zeldalia's Cane"
+    notes: "[Main Items]"
+    codes:
+      - "10F811FE 00000009"
+
+  - name: "Claw"
+    notes: "[Main Items]"
+    codes:
+      - "10F81200 00000009"
+
+  - name: "Sistus"
+    notes: "[Main Items]"
+    codes:
+      - "10F81202 00000009"
+
+  - name: "Eagle Gauntlet"
+    notes: "[Main Items]"
+    codes:
+      - "10F81204 00000009"
+
+  - name: "Knuckle Blade"
+    notes: "[Main Items]"
+    codes:
+      - "10F81206 00000009"
+
+  - name: "Fairy Claw"
+    notes: "[Main Items]"
+    codes:
+      - "10F81208 00000009"
+
+  - name: "Dragon Claw"
+    notes: "[Main Items]"
+    codes:
+      - "10F8120A 00000009"
+
+  - name: "Crystal Claw"
+    notes: "[Main Items]"
+    codes:
+      - "10F8120C 00000009"
+
+  - name: "Astral Gauntlet"
+    notes: "[Main Items]"
+    codes:
+      - "10F8120E 00000009"
+
+  - name: "Zagenhend"
+    notes: "[Main Items]"
+    codes:
+      - "10F81210 00000009"
+
+  - name: "Ebony Claw"
+    notes: "[Main Items]"
+    codes:
+      - "10F81212 00000009"
+
+  - name: "Whip Sword"
+    notes: "[Main Items]"
+    codes:
+      - "10F81214 00000009"
+
+  - name: "Long Sword"
+    notes: "[Main Items]"
+    codes:
+      - "10F81216 00000009"
+
+  - name: "Falcutta"
+    notes: "[Main Items]"
+    codes:
+      - "10F81218 00000009"
+
+  - name: "Robin's Sword"
+    notes: "[Main Items]"
+    codes:
+      - "10F8121A 00000009"
+
+  - name: "Poison Blade"
+    notes: "[Main Items]"
+    codes:
+      - "10F8121C 00000009"
+
+  - name: "Claymore"
+    notes: "[Main Items]"
+    codes:
+      - "10F8121E 00000009"
+
+  - name: "Fairy Blade"
+    notes: "[Main Items]"
+    codes:
+      - "10F81220 00000009"
+
+  - name: "Gilded Sword"
+    notes: "[Main Items]"
+    codes:
+      - "10F81222 00000009"
+
+  - name: "Demon Horn"
+    notes: "[Main Items]"
+    codes:
+      - "10F81224 00000009"
+
+  - name: "Flamberg"
+    notes: "[Main Items]"
+    codes:
+      - "10F81226 00000009"
+
+  - name: "Phantom Blade"
+    notes: "[Main Items]"
+    codes:
+      - "10F81228 00000009"
+
+  - name: "Para Sword"
+    notes: "[Main Items]"
+    codes:
+      - "10F8122A 00000009"
+
+  - name: "Angel Blade"
+    notes: "[Main Items]"
+    codes:
+      - "10F8122C 00000009"
+
+  - name: "Devil Sword Gram"
+    notes: "[Main Items]"
+    codes:
+      - "10F81230 00000009"
+
+  - name: "Dilvine"
+    notes: "[Main Items]"
+    codes:
+      - "10F81232 00000009"
+
+  - name: "Eden Blade"
+    notes: "[Main Items]"
+    codes:
+      - "10F81234 00000009"
+
+  - name: "Bow Gun"
+    notes: "[Main Items]"
+    codes:
+      - "10F81236 00000009"
+
+  - name: "Crossbow"
+    notes: "[Main Items]"
+    codes:
+      - "10F81238 00000009"
+
+  - name: "Heavy Bow"
+    notes: "[Main Items]"
+    codes:
+      - "10F8123A 00000009"
+
+  - name: "Edge Cast"
+    notes: "[Main Items]"
+    codes:
+      - "10F8123C 00000009"
+
+  - name: "Catapult"
+    notes: "[Main Items]"
+    codes:
+      - "10F8123E 00000009"
+
+  - name: "Devil Bow"
+    notes: "[Main Items]"
+    codes:
+      - "10F81240 00000009"
+
+  - name: "Flame Bow"
+    notes: "[Main Items]"
+    codes:
+      - "10F81242 00000009"
+
+  - name: "Galgazit Bow"
+    notes: "[Main Items]"
+    codes:
+      - "10F81244 00000009"
+
+  - name: "Fairy Bracer"
+    notes: "[Main Items]"
+    codes:
+      - "10F81246 00000009"
+
+  - name: "Siglis Breath"
+    notes: "[Main Items]"
+    codes:
+      - "10F81248 00000009"
+
+  - name: "Red Bracer"
+    notes: "[Main Items]"
+    codes:
+      - "10F8124A 00000009"
+
+  - name: "Blue Bracer"
+    notes: "[Main Items]"
+    codes:
+      - "10F8124C 00000009"
+
+  - name: "Speedstar"
+    notes: "[Main Items]"
+    codes:
+      - "10F8124E 00000009"
+
+  - name: "Soul Ring"
+    notes: "[Main Items]"
+    codes:
+      - "10F81250 00000009"
+
+  - name: "Buffer Ring"
+    notes: "[Main Items]"
+    codes:
+      - "10F81252 00000009"
+
+  - name: "Zeilia Ring"
+    notes: "[Main Items]"
+    codes:
+      - "10F81254 00000009"
+
+  - name: "Sylvan Ring"
+    notes: "[Main Items]"
+    codes:
+      - "10F81256 00000009"
+
+  - name: "Damn Ring"
+    notes: "[Main Items]"
+    codes:
+      - "10F81258 00000009"
+
+  - name: "Mana Booster"
+    notes: "[Main Items]"
+    codes:
+      - "10F8125A 00000009"
+
+  - name: "Ankh"
+    notes: "[Main Items]"
+    codes:
+      - "10F8125C 00000009"
+
+  - name: "Magic Ankh"
+    notes: "[Main Items]"
+    codes:
+      - "10F8125E 00000009"
+
+  - name: "Warlord Support"
+    notes: "[Main Items]"
+    codes:
+      - "10F81260 00000009"
+
+  - name: "Ice Orb"
+    notes: "[Main Items]"
+    codes:
+      - "10F81262 00000009"
+
+  - name: "Lightning Orb"
+    notes: "[Main Items]"
+    codes:
+      - "10F81264 00000009"
+
+  - name: "Devil's Eye"
+    notes: "[Main Items]"
+    codes:
+      - "10F81266 00000009"
+
+  - name: "Feather Charm"
+    notes: "[Main Items]"
+    codes:
+      - "10F81268 00000009"
+
+  - name: "Angel Feather"
+    notes: "[Main Items]"
+    codes:
+      - "10F8126A 00000009"
+
+  - name: "Sorcerer Support"
+    notes: "[Main Items]"
+    codes:
+      - "10F8126C 00000009"
+
+  - name: "Dragon Fangs"
+    notes: "[Main Items]"
+    codes:
+      - "10F8126E 00000009"
+
+  - name: "Ancient Mask"
+    notes: "[Main Items]"
+    codes:
+      - "10F81270 00000009"
+
+  - name: "Evil Sigil"
+    notes: "[Main Items]"
+    codes:
+      - "10F81272 00000009"
+
+  - name: "Dark Mana"
+    notes: "[Main Items]"
+    codes:
+      - "10F81274 00000009"
+
+  - name: "Black Mana"
+    notes: "[Main Items]"
+    codes:
+      - "10F81276 00000009"
+
+  - name: "Red Mana"
+    notes: "[Main Items]"
+    codes:
+      - "10F81278 00000009"
+
+  - name: "Yellow Mana"
+    notes: "[Main Items]"
+    codes:
+      - "10F8127A 00000009"
+
+  - name: "Blue Mana"
+    notes: "[Main Items]"
+    codes:
+      - "10F8127C 00000009"
+
+  - name: "Green Mana"
+    notes: "[Main Items]"
+    codes:
+      - "10F8127E 00000009"
+
+  - name: "Glowing Mana"
+    notes: "[Main Items]"
+    codes:
+      - "10F81280 00000009"
+
+  - name: "Silver Mana"
+    notes: "[Main Items]"
+    codes:
+      - "10F81282 00000009"
+
+  - name: "Gold Mana"
+    notes: "[Main Items]"
+    codes:
+      - "10F81284 00000009"
+
+  - name: "Jade Mana"
+    notes: "[Main Items]"
+    codes:
+      - "10F81286 00000009"
+
+  - name: "Crimson Mana"
+    notes: "[Main Items]"
+    codes:
+      - "10F81288 00000009"
+
+  - name: "Mana Crystal"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F8128A 00000009"
+
+  - name: "Broken Grass"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F8128C 00000009"
+
+  - name: "Visa"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F8128E 00000009"
+
+  - name: "Daphne's Book"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F81290 00000009"
+
+  - name: "Super Puri Ball"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F81292 00000009"
+
+  - name: "Flame Sphere"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F81294 00000009"
+
+  - name: "Ore"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F81296 00000009"
+
+  - name: "Twilight Mirror"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F81298 00000009"
+
+  - name: "Dawn Mirrow"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F8129A 00000009"
+
+  - name: "Dragon Hall Key"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F8129C 00000009"
+
+  - name: "Gust Sphere"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F8129E 00000009"
+
+  - name: "Primal Gem"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812A0 00000009"
+
+  - name: "Ring Of Iris"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812A2 00000009"
+
+  - name: "Aroma Material"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812A4 00000009"
+
+  - name: "Silka Doll"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812A6 00000009"
+
+  - name: "Pyramod"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812A8 00000009"
+
+  - name: "Gurgu's Cane"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812AA 00000009"
+
+  - name: "Reptile Egg"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812AC 00000009"
+
+  - name: "Ruby Prism"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812AE 00000009"
+
+  - name: "Treasure Map?"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812B0 00000009"
+
+  - name: "Treasure Map"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812B2 00000009"
+
+  - name: "Picture Diary"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812B4 00000009"
+
+  - name: "Kitchet Knife"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812B6 00000009"
+
+  - name: "Chinzu Knife"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812B8 00000009"
+
+  - name: "Package"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812BA 00000009"
+
+  - name: "Fresh Milk"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812BC 00000009"
+
+  - name: "Sushi Platter"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812BE 00000009"
+
+  - name: "Herb Cocktail"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812C0 00000009"
+
+  - name: "Sphere Of Life"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812C2 00000009"
+
+  - name: "Old Painting"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812C4 00000009"
+
+  - name: "White Flower"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812C6 00000009"
+
+  - name: "Arcose Metal"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812C8 00000009"
+
+  - name: "Villa's Candy"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812CC 00000009"
+
+  - name: "Veola's Panty"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812CE 00000009"
+
+  - name: "Veola's Thong"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812D0 00000009"
+
+  - name: "Veloa's Lingerie"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812D2 00000009"
+
+  - name: "Blaire's Panty"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812D4 00000009"
+
+  - name: "Blaire's Thong"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812D6 00000009"
+
+  - name: "Blaire's Silk Panty"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812D8 00000009"
+
+  - name: "Costume Jacket"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812DA 00000009"
+
+  - name: "Costume Pants"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812DC 00000009"
+
+  - name: "Heavy Metal"
+    notes: "[Key Items Individual]"
+    codes:
+      - "10F812DE 00000009"
+
+  - name: "Slot 7"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81974 0000[CY]"
+      - "10F81976 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81978 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 8"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F8197A 0000[CY]"
+      - "10F8197C 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F8197E 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 9"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81980 0000[CY]"
+      - "10F81982 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81984 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 10"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81986 0000[CY]"
+      - "10F81988 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F8198A 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 11"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F8198C 0000[CY]"
+      - "10F8198E 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81990 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 12"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81992 0000[CY]"
+      - "10F81994 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81996 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 13"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81998 0000[CY]"
+      - "10F8199A 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F8199C 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 14"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F8199E 0000[CY]"
+      - "10F819A0 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F819A2 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 15"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F819A4 0000[CY]"
+      - "10F819A6 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F819A8 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 16"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F819AA 0000[CY]"
+      - "10F819AC 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F819AE 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 17"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F819B0 0000[CY]"
+      - "10F819B2 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F819B4 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 18"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F819B6 0000[CY]"
+      - "10F819B8 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F819BA 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 19"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F819BC 0000[CY]"
+      - "10F819BE 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F819C0 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 20"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F819C2 0000[CY]"
+      - "10F819C4 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F819C6 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 21"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F819C8 0000[CY]"
+      - "10F819CA 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F819CC 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 22"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F819CE 0000[CY]"
+      - "10F819D0 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F819D2 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 24"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F819D4 0000[CY]"
+      - "10F819D6 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F819D8 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 25"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F819DA 0000[CY]"
+      - "10F819DC 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F819DE 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 26"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F819E0 0000[CY]"
+      - "10F819E2 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F819E4 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 27"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F819E6 0000[CY]"
+      - "10F819E8 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F819EA 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 28"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F819EC 0000[CY]"
+      - "10F819EE 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F819F0 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 29"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F819F2 0000[CY]"
+      - "10F819F4 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F819F6 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 30"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F819F8 0000[CY]"
+      - "10F819FA 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F819FC 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 31"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F819FE 0000[CY]"
+      - "10F81A00 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A02 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 32"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A04 0000[CY]"
+      - "10F81A06 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A08 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 33"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A0A 0000[CY]"
+      - "10F81A0C 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A0E 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 34"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A10 0000[CY]"
+      - "10F81A12 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A14 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 35"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A16 0000[CY]"
+      - "10F81A18 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A1A 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 36"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A1C 0000[CY]"
+      - "10F81A1E 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A20 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 37"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A22 0000[CY]"
+      - "10F81A24 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A26 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 38"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A28 0000[CY]"
+      - "10F81A2A 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A2C 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 39"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A2E 0000[CY]"
+      - "10F81A30 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A32 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 40"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A34 0000[CY]"
+      - "10F81A36 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A38 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 41"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A3A 0000[CY]"
+      - "10F81A3C 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A3E 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 42"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A40 0000[CY]"
+      - "10F81A42 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A44 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 43"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A46 0000[CY]"
+      - "10F81A48 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A4A 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 44"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A4C 0000[CY]"
+      - "10F81A4E 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A50 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 45"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A52 0000[CY]"
+      - "10F81A54 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A56 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 46"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A58 0000[CY]"
+      - "10F81A5A 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A5C 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 47"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A5E 0000[CY]"
+      - "10F81A60 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A62 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 48"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A64 0000[CY]"
+      - "10F81A66 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A68 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 49"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A6A 0000[CY]"
+      - "10F81A6C 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A6E 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 50"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A70 0000[CY]"
+      - "10F81A72 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A74 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 51"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A76 0000[CY]"
+      - "10F81A78 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A7A 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 52"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A7C 0000[CY]"
+      - "10F81A7E 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A80 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 53"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A82 0000[CY]"
+      - "10F81A84 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A86 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 54"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A88 0000[CY]"
+      - "10F81A8A 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A8C 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 55"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A8E 0000[CY]"
+      - "10F81A90 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A92 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 56"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A94 0000[CY]"
+      - "10F81A96 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A98 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 57"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81A9A 0000[CY]"
+      - "10F81A9C 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81A9E 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 58"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81AA0 0000[CY]"
+      - "10F81AA2 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81AA4 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 59"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81AA6 0000[CY]"
+      - "10F81AA8 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81AAA 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 60"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81AAC 0000[CY]"
+      - "10F81AAE 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81AB0 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 61"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81AB2 0000[CY]"
+      - "10F81AB4 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81AB6 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 62"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81AB8 0000[CY]"
+      - "10F81ABA 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81ABC 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 63"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81ABE 0000[CY]"
+      - "10F81AC0 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81AC2 0000[AMOUNT:FFFF:HEX:BIG]"
+
+  - name: "Slot 64"
+    notes: "If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect."
+    codes:
+      - "10F81AC4 0000[CY]"
+      - "10F81AC6 0000[AMOUNT:FFFF:HEX:BIG]"
+      - "10F81AC8 0000[AMOUNT:FFFF:HEX:BIG]"

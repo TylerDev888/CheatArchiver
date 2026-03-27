@@ -1,0 +1,25 @@
+# Fracture cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00329
+
+game: "Fracture"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00329"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Unlock All Missions"
+    notes: "File: BLES00329-AUTO-\\PROFILE.PRF"
+    codes:
+      - "10000008 0000EC29"
+
+  - name: "Unlock Weapons Testing"
+    notes: "File: BLES00329-AUTO-\\PROFILE.PRF"
+    codes:
+      - "20000021 FFFFFFFF"
+      - "20000025 FFFFFFFF"
+      - "20000029 FFFFFFFF"
+      - "0000002D 0000000F"

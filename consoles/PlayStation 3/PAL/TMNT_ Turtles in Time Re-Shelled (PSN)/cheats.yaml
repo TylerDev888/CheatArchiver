@@ -1,0 +1,22 @@
+# TMNT_ Turtles in Time Re-Shelled (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00149
+
+game: "TMNT_ Turtles in Time Re-Shelled (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00149"
+cheat_type: "Save Editor"
+source: "From SHAkA"
+
+cheats:
+  - name: "Max Points,this Will Pop Trophy"
+    notes: "File: SAVEGM01.DAT"
+    codes:
+      - "write at 0x00000002:0x1F3F0000"
+
+  - name: "9999 Life"
+    notes: "File: SAVEGM01.DAT"
+    codes:
+      - "write at 0x00000012:0x270F0000"

@@ -1,0 +1,39 @@
+# Yumemishi [First Print Limited Edition] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66618
+
+game: "Yumemishi [First Print Limited Edition]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66618"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90190838 0C0641B6"
+
+  - name: "Press L3 For Texture Viewer, R3 To Disable"
+    author: "punk7890"
+    codes:
+      - "20159304 0C0549D0"
+      - "10152780 0000ECB8"
+      - "D055F0A2 0000FFFD"
+      - "00230C78 00000001"
+      - "D055F0A2 0000FFFB"
+      - "00230C78 00000000"
+
+  - name: "Unlock All Extras"
+    author: "punk7890"
+    codes:
+      - "101B056A 0000FFFF"
+      - "401B056C 00050001"
+      - "FFFFFFFF 00000000"
+      - "101B0580 0000FFFF"
+      - "401B0548 00050001"
+      - "FFFFFFFF 00000000"
+      - "001B055C 000000FF"

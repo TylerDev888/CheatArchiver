@@ -1,0 +1,44 @@
+# Digimon World_ Next Order cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA05469
+
+game: "Digimon World_ Next Order"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA05469"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Add Item To Inventory"
+    notes: "[Inventory]  File: [0-9]+\\ue4savegame.ps4.sav"
+    codes:
+      - "95000000 00004BC2"
+      - "88010004 FFFFFFFF"
+      - "A8000000 00000004"
+      - "[Item] 00000000"
+      - "18000004 0000[Amount:0063:HEX:BIG]"
+
+  - name: "Mod Amount Of Item In Inventory"
+    notes: "[Inventory]  File: [0-9]+\\ue4savegame.ps4.sav"
+    codes:
+      - "95000000 00004BC2"
+      - "88010004 [Item]"
+      - "18000004 0000[Amount:0063:HEX:BIG]"
+
+  - name: "Add Item To Storage"
+    notes: "[Storage]  File: [0-9]+\\ue4savegame.ps4.sav"
+    codes:
+      - "95000000 00004D9A"
+      - "88010004 FFFFFFFF"
+      - "A8000000 00000004"
+      - "[Item] 00000000"
+      - "18000004 0000[Amount:0063:HEX:BIG]"
+
+  - name: "Mod Amount Of Item In Storage"
+    notes: "[Storage]  File: [0-9]+\\ue4savegame.ps4.sav"
+    codes:
+      - "95000000 00004D9A"
+      - "88010004 [Item]"
+      - "18000004 0000[Amount:0063:HEX:BIG]"

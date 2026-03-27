@@ -1,0 +1,63 @@
+# Robin Hood - Defender Of The Crown cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20723
+
+game: "Robin Hood - Defender Of The Crown"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20723"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0159B74 00159B77"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00159B77"
+
+  - name: "9999 Archery Raid Points"
+    author: "Codejunkies"
+    codes:
+      - "108F647C 0000270F"
+
+  - name: "Archery Kills Worth Modifier (000-3E7)"
+    author: "Code Master"
+    codes:
+      - "2019A408 24020???"
+
+  - name: "Arrow Raids 999 Per Hit"
+    author: "MadCatz"
+    codes:
+      - "2019A40C 204203E7"
+
+  - name: "Gain 999 Gold A Day"
+    author: "MadCatz"
+    codes:
+      - "20103DEC 206303E7"
+
+  - name: "Infinite Health (Swordfights)"
+    author: "Code Master"
+    codes:
+      - "20173B80 2402005A"
+      - "20173B88 AC8202B4"
+
+  - name: "Infinite Health Swordfight"
+    author: "Codejunkies"
+    codes:
+      - "1172ED24 0000005A"
+
+  - name: "Start With Archery Kills Modifier (000-3E7)"
+    author: "Code Master"
+    codes:
+      - "200C0220 24010???"
+      - "200C0224 080813F8"
+      - "200C0228 AC4100FC"
+      - "2019A804 0C030088"

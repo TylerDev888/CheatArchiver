@@ -1,0 +1,37 @@
+# Sldner-X_ Himmelsstrmer cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUB30039
+
+game: "Sldner-X_ Himmelsstrmer"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUB30039"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Combo Mania Trophy Kill 1 More To Win"
+    notes: "File: DATAA"
+    codes:
+      - "20000AF0 00000BB6"
+
+  - name: "Destroyer Trophy Kill 1 More To Win"
+    notes: "File: DATAA"
+    codes:
+      - "20000AEC 0007A11F"
+
+  - name: "Games Played 255 And Boss Kills"
+    notes: "File: DATAA"
+    codes:
+      - "20000AF4 00FF00FF"
+
+  - name: "All Keys One More In The First Stage Trophy Galaxy Super Star And Utimate Key Collector To"
+    notes: "File: DATAA"
+    codes:
+      - "20000AD4 00010101"
+      - "20000AD8 01010101"
+      - "20000ADC 01010101"
+      - "20000AE0 01010101"
+      - "20000AE4 01010101"
+      - "20000AEC 0007A11F"

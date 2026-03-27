@@ -1,0 +1,64 @@
+# World Rally Championship cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-50139
+
+game: "World Rally Championship"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-50139"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0186D0C 001A407F"
+
+  - name: "Invisible Chassis"
+    author: "InterAct"
+    codes:
+      - "2026D0E8 64DA29D4"
+
+  - name: "More Speed & Acceleration"
+    author: "InterAct"
+    codes:
+      - "2026D0E4 64DA29D4"
+
+  - name: "Flying Cars During Replays"
+    author: "Codejunkies"
+    notes: "[The Codes Below Only Work In Time Trial And Challenge Modes]"
+    codes:
+      - "00BA2542 00000001"
+
+  - name: "Helicopter View"
+    author: "Codejunkies"
+    notes: "[The Codes Below Only Work In Time Trial And Challenge Modes]"
+    codes:
+      - "00BA2540 00000001"
+
+  - name: "Physchedelic Effects"
+    author: "Codejunkies"
+    notes: "[The Codes Below Only Work In Time Trial And Challenge Modes]"
+    codes:
+      - "00BA2543 00000001"
+
+  - name: "Reverse Camera"
+    author: "Codejunkies"
+    notes: "[The Codes Below Only Work In Time Trial And Challenge Modes]"
+    codes:
+      - "00BA253C 00000001"
+
+  - name: "Speeded Up Commentry"
+    author: "Codejunkies"
+    notes: "[The Codes Below Only Work In Time Trial And Challenge Modes]"
+    codes:
+      - "00BA253E 00000001"
+
+  - name: "Subwater Effects"
+    author: "Codejunkies"
+    notes: "[The Codes Below Only Work In Time Trial And Challenge Modes]"
+    codes:
+      - "00BA253F 00000001"

@@ -1,0 +1,263 @@
+# Gungrave cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20493
+
+game: "Gungrave"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20493"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100808 001B9B87"
+
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "8489A77F 5CD3BE03"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001B9B87"
+
+  - name: "999 Beat"
+    author: "InterAct"
+    codes:
+      - "10206D50 000003E7"
+
+  - name: "Always Low Game Play Time"
+    author: "Code Master"
+    codes:
+      - "20603618 00000000"
+
+  - name: "Blood Enabled"
+    author: "Code Master"
+    codes:
+      - "00224E6A 00000001"
+
+  - name: "Camera Low"
+    author: "Code Master"
+    codes:
+      - "00224E69 00000001"
+
+  - name: "Demolition Shot Infinity Enabled"
+    author: "Code Master"
+    codes:
+      - "00224E66 00000001"
+
+  - name: "Enable Debug Menu (Press Start On The Opening Movie)"
+    author: "punk7890"
+    codes:
+      - "0011F160 00000007"
+      - "20193DBC 08064F81"
+      - "20193DC0 00000000"
+
+  - name: "Have All Demolition Shots"
+    author: "Code Master"
+    codes:
+      - "20211098 00000003"
+
+  - name: "Have All Demo Shots"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "10211098 00000003"
+
+  - name: "Health Is Never Above 10%"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E00141D0 30206D42"
+      - "10206D42 000041D0"
+
+  - name: "Health Is Never Above 25%"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0014280 30206D42"
+      - "10206D42 00004280"
+
+  - name: "Health Is Never Above 50%"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0014300 30206D42"
+      - "10206D42 00004300"
+
+  - name: "Health Is Never Above 75%"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0014340 30206D42"
+      - "10206D42 00004340"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "10206D42 00004380"
+
+  - name: "Unlock Characters"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "10224E70 00000008"
+
+  - name: "Unlock Demo Shot"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "10224E72 00000001"
+
+  - name: "Unlock Movie"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "10224E6E 00000001"
+
+  - name: "Unlock Slow Option"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "10224E6C 00000001"
+
+  - name: "Unlock Stage Select"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "10224E74 00000001"
+
+  - name: "Infinite Demolition Shots"
+    author: "Code Master"
+    codes:
+      - "2021109C 00000009"
+
+  - name: "Infinite Shield"
+    author: "Code Master"
+    codes:
+      - "20206D44 00004248"
+
+  - name: "L3 + Start For Camera Editor (Start Button To Disable)"
+    author: "punk7890"
+    codes:
+      - "E002FFFD 001DB502"
+      - "2060331C 00000001"
+      - "2011906C 0C043A96"
+      - "E002FFF7 001DB502"
+      - "2060331C 00000000"
+      - "2011906C 0C04A31A"
+
+  - name: "Max Beat"
+    author: "Code Master"
+    codes:
+      - "20206D50 00000063"
+
+  - name: "Max Score"
+    author: "Code Master"
+    codes:
+      - "20603620 05F5E0FF"
+
+  - name: "Quick Demolition Shot Gain"
+    author: "Code Master"
+    codes:
+      - "D0211092 00000000"
+      - "20211090 40FF0000"
+
+  - name: "Quick Score Gain"
+    author: "Code Master"
+    codes:
+      - "10603620 0000FFFF"
+
+  - name: "Rapid Fire Enabled"
+    author: "Code Master"
+    codes:
+      - "00224E68 00000001"
+
+  - name: "Shield Is Never Above 10%"
+    author: "Codejunkies"
+    notes: "[Shield Codes]"
+    codes:
+      - "E00140A0 30206D46"
+      - "10206D46 000040A0"
+
+  - name: "Shield Is Never Above 25%"
+    author: "Codejunkies"
+    notes: "[Shield Codes]"
+    codes:
+      - "E0014150 30206D46"
+      - "10206D46 00004150"
+
+  - name: "Shield Is Never Above 50%"
+    author: "Codejunkies"
+    notes: "[Shield Codes]"
+    codes:
+      - "E00141C8 30206D46"
+      - "10206D46 000041C8"
+
+  - name: "Shield Is Never Above 75%"
+    author: "Codejunkies"
+    notes: "[Shield Codes]"
+    codes:
+      - "E0014218 30206D46"
+      - "10206D46 00004218"
+
+  - name: "Slow Auto Enabled"
+    author: "Code Master"
+    codes:
+      - "00224E6B 00000002"
+
+  - name: "Slow Enabled"
+    author: "Code Master"
+    codes:
+      - "00224E6B 00000001"
+
+  - name: "Characters"
+    author: "Code Master"
+    notes: "[Unlock Extra Options]"
+    codes:
+      - "00224E70 00000008"
+
+  - name: "Demolition Shot"
+    author: "Code Master"
+    notes: "[Unlock Extra Options]"
+    codes:
+      - "00224E72 00000001"
+
+  - name: "Movie"
+    author: "Code Master"
+    notes: "[Unlock Extra Options]"
+    codes:
+      - "00224E6E 00000001"
+
+  - name: "Slow"
+    author: "Code Master"
+    notes: "[Unlock Extra Options]"
+    codes:
+      - "00224E6C 00000001"
+
+  - name: "Stage Select"
+    author: "Code Master"
+    notes: "[Unlock Extra Options]"
+    codes:
+      - "00224E74 00000001"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001B9B87"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901B9B84 0C074653"

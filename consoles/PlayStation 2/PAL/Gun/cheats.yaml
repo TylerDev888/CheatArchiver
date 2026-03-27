@@ -1,0 +1,80 @@
+# Gun cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53523
+
+game: "Gun"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53523"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0444D48 00444D4B"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "2031BBA8 24420000"
+
+  - name: "Infinite Arrows"
+    author: "Codejunkies"
+    codes:
+      - "2031BCA0 00000000"
+
+  - name: "Infinite Cash"
+    author: "Codejunkies"
+    codes:
+      - "20351968 0C03FFC0"
+      - "200FFF00 3C010063"
+      - "200FFF04 8C211DA0"
+      - "200FFF08 3C0205F0"
+      - "200FFF0C AC22000C"
+      - "200FFF10 0807CCB2"
+
+  - name: "Infinite Cash - Dodge City Onwards"
+    author: "Codejunkies"
+    codes:
+      - "206A066C 05F5E0FF"
+
+  - name: "Infinite Cash - Start Of Game"
+    author: "Codejunkies"
+    codes:
+      - "206A06E4 05F5E0FF"
+      - "206A066C 05F5E0FF"
+
+  - name: "Infinite Dynamite"
+    author: "Codejunkies"
+    codes:
+      - "2031AEF8 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "206288B4 43480000"
+
+  - name: "Infinite Horse Stamina"
+    author: "Codejunkies"
+    codes:
+      - "202FBA88 3C01443F"
+      - "202FBA94 AE010054"
+
+  - name: "Infinite Quickdraw"
+    author: "Codejunkies"
+    codes:
+      - "203142E4 00000000"
+
+  - name: "Infinite Whiskey"
+    author: "Codejunkies"
+    codes:
+      - "208178A4 00000006"
+
+  - name: "Infinite Whiskey Bombs"
+    author: "Codejunkies"
+    codes:
+      - "2031AED0 00000000"

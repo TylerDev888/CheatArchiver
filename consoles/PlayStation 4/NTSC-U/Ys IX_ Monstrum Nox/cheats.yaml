@@ -1,0 +1,26 @@
+# Ys IX_ Monstrum Nox cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA15696
+
+game: "Ys IX_ Monstrum Nox"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA15696"
+cheat_type: "AP"
+source: "source: Discord"
+
+cheats:
+  - name: "Max Exp For All Characters"
+    notes: "File: *  (SW's Max Level code takex you directly to level 999)"
+    codes:
+      - "95000000 00000118"
+      - "4A000000 4E6E6B28"
+      - "4007004C 00000000"
+
+  - name: "Max Nox"
+    notes: "File: *  (This will set you current NOX level to 200.) (You'll only have to do 1 side quest or beat one of) (the nods that are scatered throughout the city for) (the portal to the next are to unlock)"
+    codes:
+      - "80020004 6D61702F"
+      - "93000000 00000010"
+      - "28000000 43480000"

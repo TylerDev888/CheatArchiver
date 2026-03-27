@@ -1,0 +1,25 @@
+# I-O cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66272
+
+game: "I-O"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66272"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90205D98 0C08170E"
+
+  - name: "Enable Debug Menu [View Note]"
+    author: "punk7890"
+    codes:
+      - "0010D4B0 00000000"
+      - "D0478782 0000FFFE"
+      - "202727E4 00000000"

@@ -1,0 +1,48 @@
+# Rockman 10 cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-J
+# Serial:  WRXJ
+
+game: "Rockman 10"
+console: "Nintendo Wii"
+region: "NTSC-J"
+serial: "WRXJ"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Character Select Open"
+    author: "Skiller"
+    codes:
+      - "040F7DF0 38800004"
+      - "040F7DFC 38800003"
+
+  - name: "1 Hit Kills (enemys+bosses)"
+    author: "Skiller"
+    codes:
+      - "C205AA98 00000003"
+      - "2C000000 41820008"
+      - "38000000 B01E0030"
+      - "60000000 00000000"
+
+  - name: "Gain 999 Screws (on Pickup)"
+    author: "Skiller"
+    codes:
+      - "040765E8 40810004"
+
+  - name: "Allow Hard Mode"
+    author: "Skiller"
+    codes:
+      - "025A2B42 0000A006"
+
+  - name: "Have All Weapons"
+    author: "Skiller"
+    codes:
+      - "02537B7E 0000FFFF"
+
+  - name: "Jump To Wily's Castle(hold 1 And Press Right On D-Pad)"
+    author: "Skiller"
+    codes:
+      - "2845558A 00000202"
+      - "02537BEA 000001FF"
+      - "E0000000 80008000"

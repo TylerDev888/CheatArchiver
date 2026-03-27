@@ -1,0 +1,99 @@
+# UEFA Champions League 2001-2002 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50398
+
+game: "UEFA Champions League 2001-2002"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50398"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0411164 00411167"
+
+  - name: "Never Score More Than 1 Goal"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "E0010001 30573B5C"
+      - "10573B5C 00000001"
+
+  - name: "Never Score More Than 5 Goals"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "E0010005 30573B5C"
+      - "10573B5C 00000005"
+
+  - name: "Never Score More Than 10 Goals"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "E001000A 30573B5C"
+      - "10573B5C 0000000A"
+
+  - name: "Never Score More Than 15 Goals"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "E001000F 30573B5C"
+      - "10573B5C 0000000F"
+
+  - name: "Score 0"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "10573B5C 00000000"
+
+  - name: "Score 99"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "10573B5C 00000063"
+
+  - name: "Spot The Ball Mode"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "20106CC4 00000000"
+
+  - name: "Super Fast Football"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "202B3610 000000FA"
+
+  - name: "Fast Ball"
+    author: "Codejunkies"
+    notes: "[Ball Weight Codes]"
+    codes:
+      - "205660A8 00000000"
+
+  - name: "Heavy Ball"
+    author: "Codejunkies"
+    notes: "[Ball Weight Codes]"
+    codes:
+      - "205660CC BF800000"
+
+  - name: "Helium Ball"
+    author: "Codejunkies"
+    notes: "[Ball Weight Codes]"
+    codes:
+      - "205660CC BDCCCCCD"
+
+  - name: "Very Heavy Ball"
+    author: "Codejunkies"
+    notes: "[Ball Weight Codes]"
+    codes:
+      - "205660CC C1200000"
+
+  - name: "Show Frames Per Second"
+    author: "Codejunkies"
+    codes:
+      - "203202AC 00000000"

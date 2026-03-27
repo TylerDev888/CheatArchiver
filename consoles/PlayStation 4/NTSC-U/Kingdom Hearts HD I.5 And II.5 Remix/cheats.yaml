@@ -1,0 +1,18 @@
+# Kingdom Hearts HD I.5 And II.5 Remix cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA05933
+
+game: "Kingdom Hearts HD I.5 And II.5 Remix"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA05933"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Edit Item"
+    notes: "File: Kingdom Hearts: Final Mix CUSA0(5933|5786|5409)-KINGDOMHEARTS(NA|EN|JP)\\SAVE0.DAT"
+    codes:
+      - "92000000 0000049A"
+      - "080000[Item] 000000[Amount:64:HEX:BIG]"

@@ -1,0 +1,63 @@
+# Sly 2_ Band Of Thieves cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Sly 2_ Band Of Thieves"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90243D90 0C08CE91"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C2000 E4410000"
+      - "200C2004 03E00008"
+      - "200C2008 46800860"
+      - "201DA2F4 0C030800"
+
+  - name: "Gadget Power"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C2010 8C8112FC"
+      - "200C2014 10200002"
+      - "200C2018 8C881300"
+      - "200C201C AC280000"
+      - "200C2020 08051078"
+      - "201DA304 0C030804"
+
+  - name: "Jump / Levitate"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20196348 00000000"
+      - "2019635C 00000000"
+
+  - name: "Coins"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "203DC300 0098967F"
+
+  - name: "All Gadgets"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "203DC2F8 FFFFFFFF"
+      - "203DC2FC FFFFFFFF"
+
+  - name: "All Episodes"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "2015D05C 24030008"

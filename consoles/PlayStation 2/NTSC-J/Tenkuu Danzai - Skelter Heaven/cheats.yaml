@@ -1,0 +1,24 @@
+# Tenkuu Danzai - Skelter Heaven cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65777
+
+game: "Tenkuu Danzai - Skelter Heaven"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65777"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9016C930 0C05B1F4"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "403AAE60 00760001"
+      - "00000001 00000000"

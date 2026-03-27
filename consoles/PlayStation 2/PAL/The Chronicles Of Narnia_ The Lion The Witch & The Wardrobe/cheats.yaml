@@ -1,0 +1,38 @@
+# The Chronicles Of Narnia_ The Lion The Witch & The Wardrobe cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "The Chronicles Of Narnia_ The Lion The Witch & The Wardrobe"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9038BE98 0C0E77DB"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2000 03E00008"
+      - "200C2004 E60C08A4"
+      - "202D7C08 0C030800"
+
+  - name: "Coins"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "20633C04 05F5E0FF"
+
+  - name: "All Levels"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "203755AC 24020001"
+      - "203755B0 AD820000"

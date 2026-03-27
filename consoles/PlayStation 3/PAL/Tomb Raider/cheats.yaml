@@ -1,0 +1,72 @@
+# Tomb Raider cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01780
+
+game: "Tomb Raider"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01780"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Skill Point(s) 255"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80010004 A530EE3D"
+      - "08000013 000000FF"
+
+  - name: "Arrow 40(after Obtaining An Arrow)"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80010004 8863BA99"
+      - "08000005 00000028"
+
+  - name: "Salvage 9999(after Point Acquisition)"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80010004 8720EBCE"
+      - "18000004 0000270F"
+
+  - name: "Skill Point(s) 9999"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80010004 A530EE3D"
+      - "08000013 0000270F"
+
+  - name: "Salvage 999 *after Point Acquisition"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80010004 8720EBCE"
+      - "18000004 000003E7"
+
+  - name: "Salvage 4999 *after Point Acquisition"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80010004 8720EBCE"
+      - "18000004 00001387"
+
+  - name: "Hundgun 100"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80010004 B62B6E6C"
+      - "18000004 00000063"
+
+  - name: "Submachinegun 150"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80010004 B62B6E6C"
+      - "18000004 00000096"
+
+  - name: "Shotgun 30"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80010004 A230E397"
+      - "18000004 0000001E"
+
+  - name: "Grenade Launcher 7"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80010004 AA96C1D1"
+      - "18000004 00000007"

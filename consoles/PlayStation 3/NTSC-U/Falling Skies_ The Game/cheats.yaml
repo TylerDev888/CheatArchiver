@@ -1,0 +1,39 @@
+# Falling Skies_ The Game cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS31195
+
+game: "Falling Skies_ The Game"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS31195"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Max Food"
+    notes: "File: SYS-DATA"
+    codes:
+      - "1000001B 0000270F"
+
+  - name: "Max Medical Supplies"
+    notes: "File: SYS-DATA"
+    codes:
+      - "1000001F 0000270F"
+
+  - name: "Max Metal"
+    notes: "File: SYS-DATA"
+    codes:
+      - "10000023 0000270F"
+
+  - name: "999 Exp All Character"
+    notes: "File: SYS-DATA"
+    codes:
+      - "4200011D 4479D98A"
+      - "403200E0 00000000"
+
+  - name: "Can Learn All Elite Skills"
+    notes: "File: SYS-DATA"
+    codes:
+      - "42000129 0000000F"
+      - "403200E0 00000000"

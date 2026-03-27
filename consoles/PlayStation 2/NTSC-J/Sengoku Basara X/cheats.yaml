@@ -1,0 +1,68 @@
+# Sengoku Basara X cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-55008
+
+game: "Sengoku Basara X"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-55008"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "Skiller"
+    notes: "[Master Codes]"
+    codes:
+      - "903288A0 0C0CA1D0"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90343858 0C0CDCE1"
+
+  - name: "P1 Inf HP"
+    author: "lee4"
+    codes:
+      - "20A1FFC8 444E0000"
+      - "20A29728 444E0000"
+
+  - name: "P1 Max Super Basara"
+    author: "Skiller"
+    codes:
+      - "20A1FFF8 44390000"
+
+  - name: "P1 No HP (P2 Press Select)"
+    author: "lee4"
+    codes:
+      - "D03A951C 0000FFFE"
+      - "20A1FFC8 00000000"
+
+  - name: "P2 Inf HP"
+    author: "lee4"
+    codes:
+      - "20A22388 444E0000"
+      - "20A297A8 444E0000"
+
+  - name: "P2 Max Super Basara"
+    author: "Skiller"
+    codes:
+      - "20A223B8 44390000"
+
+  - name: "P2 No HP (P1 Press Select)"
+    author: "lee4"
+    codes:
+      - "D03A921C 0000FFFE"
+      - "20A22388 00000000"
+
+  - name: "Unlock Gallery"
+    codes:
+      - "103952EA 00000101"
+      - "103952F4 00000101"
+      - "203952EC 01010101"
+      - "203952F0 01010101"
+      - "20395220 FFFFFFFF"
+      - "20395224 FFFFFFFF"
+      - "00395228 000000FF"

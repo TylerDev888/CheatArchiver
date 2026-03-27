@@ -1,0 +1,27 @@
+# Dead or school cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA17637
+
+game: "Dead or school"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA17637"
+cheat_type: "AP"
+source: "source: Discord"
+
+cheats:
+  - name: "Max Yen"
+    notes: "File: *"
+    codes:
+      - "1000001E 0000FFFF"
+
+  - name: "Max Reinforcement Mats"
+    notes: "File: *"
+    codes:
+      - "10000021 0000FFFF"
+
+  - name: "Max Mod Gears"
+    notes: "File: *"
+    codes:
+      - "00000023 00000063"

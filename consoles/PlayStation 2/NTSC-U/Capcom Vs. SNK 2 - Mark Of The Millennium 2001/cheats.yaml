@@ -1,0 +1,709 @@
+# Capcom Vs. SNK 2 - Mark Of The Millennium 2001 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20246
+
+game: "Capcom Vs. SNK 2 - Mark Of The Millennium 2001"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20246"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F010DE8C 0010DE8F"
+
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0145118 0010DE8F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0010DE8F"
+
+  - name: "All Attacks Hurt P1"
+    author: "Code Master"
+    codes:
+      - "2014BB08 3C010048"
+      - "2014BB14 842418C4"
+      - "2014BB20 A42318C4"
+
+  - name: "All Attacks Hurt P2"
+    author: "Code Master"
+    codes:
+      - "2014BB08 3C010048"
+      - "2014BB14 84241E94"
+      - "2014BB20 A4231E94"
+
+  - name: "Easier Special Moves"
+    author: "nolberto82"
+    codes:
+      - "ECB4440A 1E0D872C"
+      - "7E612AB4 62363D23"
+
+  - name: "Extra Options"
+    author: "InterAct"
+    codes:
+      - "10517B9E 00000101"
+
+  - name: "Groove Edit"
+    author: "InterAct"
+    codes:
+      - "00517B5D 00000001"
+
+  - name: "Have S. Akuma & U. Rugal"
+    author: "Code Master"
+    codes:
+      - "103F2514 0000FFFF"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "104818C4 00003200"
+      - "104818C6 00003200"
+      - "104818C8 00003200"
+
+  - name: "Never Have More Than 25% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "104818C4 00000C80"
+      - "104818C4 00000C80"
+      - "104818C6 00000C80"
+      - "104818C6 00000C80"
+      - "104818C8 00000C80"
+      - "104818C8 00000C80"
+
+  - name: "Never Have More Than 50% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "104818C4 00001900"
+      - "104818C4 00001900"
+      - "104818C6 00001900"
+      - "104818C6 00001900"
+      - "104818C8 00001900"
+      - "104818C8 00001900"
+
+  - name: "Never Have More Than 75% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "104818C4 00002580"
+      - "104818C4 00002580"
+      - "104818C6 00002580"
+      - "104818C6 00002580"
+      - "104818C8 00002580"
+      - "104818C8 00002580"
+
+  - name: "One Hit Kills"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "104818C8 00000001"
+
+  - name: "Super Jumps"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0020020 204817C2"
+      - "E0010000 204817C4"
+      - "104817C2 000000B0"
+
+  - name: "Warp To The Left"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "D045F852 0000FDFE"
+      - "104817BE 0000FE80"
+
+  - name: "Warp To The Right"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "D045F7F2 0000F7FE"
+      - "10481D8E 00000200"
+
+  - name: "You Can Only Use Throws"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "2014D510 80820000"
+      - "2014D528 80A20000"
+      - "2014D540 84830000"
+      - "2014D544 84A20000"
+      - "2014D630 80820000"
+      - "2014D648 80A20000"
+
+  - name: "Hidden Message"
+    author: "InterAct"
+    codes:
+      - "203CAEE0 61472041"
+      - "203CAEE4 6853656D"
+      - "203CAEE8 206B7261"
+      - "103CAEEC 00002032"
+
+  - name: "Hit Anywhere (Both Players)"
+    author: "Code Master"
+    codes:
+      - "201464CC 00000000"
+
+  - name: "Hit Anywhere (P1 Only)"
+    author: "Code Master"
+    codes:
+      - "201464C8 0232102B"
+      - "201464CC 14400024"
+
+  - name: "Hit Anywhere (P2 Only)"
+    author: "Code Master"
+    codes:
+      - "201464C8 0232102B"
+      - "201464CC 10400024"
+
+  - name: "Low Survival Time"
+    author: "InterAct"
+    codes:
+      - "2049D4CC 00000000"
+
+  - name: "Max Groove Points"
+    author: "InterAct"
+    codes:
+      - "20481CB0 0098967F"
+
+  - name: "Background Modifier (Training Mode)"
+    author: "HackFreak"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "003F2564 000000??"
+
+  - name: "Press L3 For Slow Motion/R3 For Normal Speed"
+    author: "HackFreak"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "200C0220 3C080080"
+      - "200C0224 1D00FFFF"
+      - "200C0228 2508FFFF"
+      - "200C022C 03E00008"
+      - "D045F852 0000FFFD"
+      - "2010DEA4 08030088"
+      - "D045F852 0000FFFB"
+      - "2010DEA4 03E00008"
+
+  - name: "Press Select+Left To Disable Background/Select+Right To Enable Background"
+    author: "HackFreak"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D045F852 0000FF7E"
+      - "201788C8 00000000"
+      - "D045F852 0000FFDE"
+      - "201788C8 0C05E338"
+
+  - name: "No Groove Edit Cap"
+    author: "InterAct"
+    codes:
+      - "00517AB6 00000001"
+
+  - name: "P1 Can Hit Anywhere, P2 Can't Hit At All"
+    author: "Code Master"
+    codes:
+      - "2014D510 03E00008"
+      - "2014D514 0085102B"
+      - "2014D630 03E00008"
+      - "2014D634 0085102B"
+
+  - name: "P1 Can Throw Anywhere, P2 Can't Throw At All"
+    author: "Code Master"
+    codes:
+      - "202965F0 03E00008"
+      - "202965F4 0085102B"
+
+  - name: "P1 Infinite Groove Time"
+    author: "Code Master"
+    codes:
+      - "20481988 000003E8"
+
+  - name: "P1 Infinite Guard Crash"
+    author: "Code Master"
+    codes:
+      - "10481928 00003030"
+
+  - name: "P1 Infinite Health"
+    author: "Code Master"
+    codes:
+      - "204818C4 36003600"
+      - "104818C8 00003600"
+
+  - name: "P1 Large Jumps"
+    author: "Code Master"
+    codes:
+      - "1048181C 00001000"
+
+  - name: "P1 No Groove"
+    author: "Code Master"
+    codes:
+      - "20481960 00000000"
+
+  - name: "P1 No Groove Time"
+    author: "Code Master"
+    codes:
+      - "20481988 00000000"
+
+  - name: "P1 No Guard Crash"
+    author: "Code Master"
+    codes:
+      - "10481928 00000000"
+
+  - name: "P1 Press L1+L2+Select To War To Middle Of The Screen"
+    author: "Code Master"
+    codes:
+      - "D045F852 0000FAFE"
+      - "104817BE 00000000"
+
+  - name: "P1 Press L1+Select To Warp To Right Side Of The Screen"
+    author: "Code Master"
+    codes:
+      - "D045F852 0000FBFE"
+      - "104817BE 00000200"
+
+  - name: "P1 Press L2+Select To Warp To Left Side Of The Screen"
+    author: "Code Master"
+    codes:
+      - "D045F852 0000FEFE"
+      - "104817BE 0000FE00"
+
+  - name: "P1 Super Jumping Ability"
+    author: "Code Master"
+    codes:
+      - "D04817C2 00300030"
+      - "104817C2 000000C0"
+
+  - name: "P1 Super Jumps"
+    author: "InterAct"
+    codes:
+      - "D04817C2 00300020"
+      - "104817C2 000000B0"
+
+  - name: "P1 Very Large Jumps"
+    author: "Code Master"
+    codes:
+      - "1048181C 0000F000"
+
+  - name: "P1: All Guard"
+    author: "InterAct"
+    codes:
+      - "0049D49E 00000002"
+
+  - name: "P1: All Parry (P)"
+    author: "InterAct"
+    codes:
+      - "0049D49E 00000004"
+
+  - name: "P1: Auto Guard"
+    author: "InterAct"
+    codes:
+      - "0049D49E 00000001"
+
+  - name: "P1: Auto Just Defend (K)"
+    author: "InterAct"
+    codes:
+      - "0049D49E 00000006"
+
+  - name: "P1: Auto Parry (P)"
+    author: "InterAct"
+    codes:
+      - "0049D49E 00000005"
+
+  - name: "P1: Can Air Block"
+    author: "InterAct"
+    codes:
+      - "0048196D 00000001"
+
+  - name: "P1: Can Cancel Any"
+    author: "InterAct"
+    codes:
+      - "00481970 00000001"
+
+  - name: "P1: Can Counter Attack"
+    author: "InterAct"
+    codes:
+      - "00481971 00000001"
+
+  - name: "P1: Can Counter Movement"
+    author: "InterAct"
+    codes:
+      - "00481972 00000001"
+
+  - name: "P1: Can Dodge"
+    author: "InterAct"
+    codes:
+      - "00481968 000000FF"
+
+  - name: "P1: Can Parry"
+    author: "InterAct"
+    codes:
+      - "0048196B 00000001"
+
+  - name: "P1: Can Run"
+    author: "InterAct"
+    codes:
+      - "00481965 000000FF"
+
+  - name: "P1: Can Small Jump"
+    author: "InterAct"
+    codes:
+      - "0048196E 00000001"
+
+  - name: "P1: Can Super Cancel"
+    author: "InterAct"
+    codes:
+      - "0048196F 00000001"
+
+  - name: "P1: Groove Recover"
+    author: "InterAct"
+    codes:
+      - "0049D4A0 00000002"
+
+  - name: "P1: Has 'A' Gauge"
+    author: "InterAct"
+    codes:
+      - "00481969 00000001"
+
+  - name: "P1: Has 'C' Gauge"
+    author: "InterAct"
+    codes:
+      - "00481969 00000000"
+
+  - name: "P1: Has 'K' Gauge"
+    author: "InterAct"
+    codes:
+      - "00481969 00000005"
+
+  - name: "P1: Has 'N' Gauge"
+    author: "InterAct"
+    codes:
+      - "00481969 00000004"
+
+  - name: "P1: Has 'P' Gauge"
+    author: "InterAct"
+    codes:
+      - "00481969 00000002"
+
+  - name: "P1: Has 'S' Gauge"
+    author: "InterAct"
+    codes:
+      - "00481969 00000003"
+
+  - name: "P1: Has No Gauge"
+    author: "InterAct"
+    codes:
+      - "00481969 000000FF"
+
+  - name: "P1: Health Recover"
+    author: "InterAct"
+    codes:
+      - "0049D4A2 00000002"
+
+  - name: "P1: Infinite Groove"
+    author: "InterAct"
+    codes:
+      - "0049D4A0 00000003"
+
+  - name: "P1: Infinite Guard Crash"
+    author: "InterAct"
+    codes:
+      - "0049D4C8 00000002"
+
+  - name: "P1: Infinite Health"
+    author: "InterAct"
+    codes:
+      - "0049D4A2 00000003"
+
+  - name: "P1: No Blocking"
+    author: "InterAct"
+    codes:
+      - "0049D49E 0000000D"
+
+  - name: "P1: No Guard Crash Recover"
+    author: "InterAct"
+    codes:
+      - "0049D4C8 00000001"
+
+  - name: "P2 Can Hit Anywhere, P1 Can't Hit At All"
+    author: "Code Master"
+    codes:
+      - "2014D510 03E00008"
+      - "2014D514 00A4102B"
+      - "2014D630 03E00008"
+      - "2014D634 00A4102B"
+
+  - name: "P2 Can Throw Anywhere, P1 Can't Throw At All"
+    author: "Code Master"
+    codes:
+      - "202965F0 03E00008"
+      - "202965F4 00A4102B"
+
+  - name: "P2 Infinite Groove Time"
+    author: "Code Master"
+    codes:
+      - "20481F58 000003E8"
+
+  - name: "P2 Infinite Guard Crash"
+    author: "Code Master"
+    codes:
+      - "10481EF8 00003030"
+
+  - name: "P2 Infinite Health"
+    author: "Code Master"
+    codes:
+      - "20481E94 36003600"
+      - "10481E98 00003600"
+
+  - name: "P2 Large Jumps"
+    author: "Code Master"
+    codes:
+      - "10481DEC 00001000"
+
+  - name: "P2 No Groove"
+    author: "Code Master"
+    codes:
+      - "20481F30 00000000"
+
+  - name: "P2 No Groove Time"
+    author: "Code Master"
+    codes:
+      - "20481F58 00000000"
+
+  - name: "P2 No Guard Crash"
+    author: "Code Master"
+    codes:
+      - "10481EF8 00000000"
+
+  - name: "P2 Press L1+L2+Select To War To Middle Of The Screen"
+    author: "Code Master"
+    codes:
+      - "D045F7F2 0000FAFE"
+      - "10481D8E 00000000"
+
+  - name: "P2 Press L1+Select To Warp To Right Side Of The Screen"
+    author: "Code Master"
+    codes:
+      - "D045F7F2 0000FBFE"
+      - "10481D9E 00000200"
+
+  - name: "P2 Press L2+Select To Warp To Left Side Of The Screen"
+    author: "Code Master"
+    codes:
+      - "D045F7F2 0000FEFE"
+      - "10481D8E 0000FE00"
+
+  - name: "P2 Super Jumping Ability"
+    author: "Code Master"
+    codes:
+      - "D0481D92 00300030"
+      - "10481D92 000000C0"
+
+  - name: "P2 Super Jumps"
+    author: "InterAct"
+    codes:
+      - "D0481D92 00300020"
+      - "10481D92 000000B0"
+
+  - name: "P2 Very Large Jumps"
+    author: "Code Master"
+    codes:
+      - "10481DEC 0000F000"
+
+  - name: "P2: All Guard"
+    author: "InterAct"
+    codes:
+      - "0049D49F 00000002"
+
+  - name: "P2: All Parry (P)"
+    author: "InterAct"
+    codes:
+      - "0049D49F 00000004"
+
+  - name: "P2: Auto Guard"
+    author: "InterAct"
+    codes:
+      - "0049D49F 00000001"
+
+  - name: "P2: Auto Just Defend (K)"
+    author: "InterAct"
+    codes:
+      - "0049D49F 00000006"
+
+  - name: "P2: Auto Parry (P)"
+    author: "InterAct"
+    codes:
+      - "0049D49F 00000005"
+
+  - name: "P2: Groove Recover"
+    author: "InterAct"
+    codes:
+      - "0049D4A1 00000002"
+
+  - name: "P2: Health Recover"
+    author: "InterAct"
+    codes:
+      - "0049D4A3 00000002"
+
+  - name: "P2: Infinite Groove"
+    author: "InterAct"
+    codes:
+      - "0049D4A1 00000003"
+
+  - name: "P2: Infinite Guard Crash"
+    author: "InterAct"
+    codes:
+      - "0049D4C9 00000002"
+
+  - name: "P2: Infinite Health"
+    author: "InterAct"
+    codes:
+      - "0049D4A3 00000003"
+
+  - name: "P2: No Blocking"
+    author: "InterAct"
+    codes:
+      - "0049D49F 0000000D"
+
+  - name: "P2: No Gate Crash Recover"
+    author: "InterAct"
+    codes:
+      - "0049D4C9 00000001"
+
+  - name: "P1 Always Uses ? Groove Modifier"
+    author: "HackFreak"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "00481CAC 000000??"
+
+  - name: "P1 Can Do Air Moves"
+    author: "HackFreak"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "004818D7 00000000"
+
+  - name: "P1 Character Modifier (All Modes)"
+    author: "HackFreak"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "00481C9C 000000??"
+
+  - name: "P1 Character Modifier (Training Mode)"
+    author: "HackFreak"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "00481781 000000??"
+
+  - name: "P1 Invisible"
+    author: "HackFreak"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "004817CB 00000000"
+
+  - name: "P1-2 Character Modifier (For Ratio And 3 On 3 Matches)"
+    author: "HackFreak"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "00481C9D 000000??"
+
+  - name: "P1-3 Character Modifier (For Ratio And 3 On 3 Matches)"
+    author: "HackFreak"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "00481C9E 000000??"
+
+  - name: "Player 1 Infinite Groove Time"
+    author: "InterAct"
+    codes:
+      - "20481988 0000036A"
+
+  - name: "P2 Always Uses ? Groove Modifier"
+    author: "HackFreak"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "0048227C 000000??"
+
+  - name: "P2 Can Do Air Moves"
+    author: "HackFreak"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "00481EA7 00000000"
+
+  - name: "P2 Character Modifier (All Modes)"
+    author: "HackFreak"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "0048226C 000000??"
+
+  - name: "P2 Character Modifier (Training Mode)"
+    author: "HackFreak"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "00481D51 000000??"
+
+  - name: "P2 Invisible"
+    author: "HackFreak"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "00481D9B 00000000"
+
+  - name: "P2-2 Character Modifier (For Ratio And 3 On 3 Matches)"
+    author: "HackFreak"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "0048226D 000000??"
+
+  - name: "P2-3 Character Modifier (For Ratio And 3 On 3 Matches)"
+    author: "HackFreak"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "0048226E 000000??"
+
+  - name: "Player 2 Infinite Groove Time"
+    author: "InterAct"
+    codes:
+      - "20481F58 0000036A"
+
+  - name: "Press L1 For Red/L2 Blue Pill"
+    author: "InterAct"
+    codes:
+      - "E004FBFF 0045F852"
+      - "30500000 004817C8"
+      - "00050000 00000000"
+      - "E004FBFF 0045F852"
+      - "30500000 004817CC"
+      - "00050000 00000000"
+      - "E004FBFF 0045F852"
+      - "30500000 004817D0"
+      - "00050000 00000000"
+      - "E004FEFF 0045F852"
+      - "30600000 004817C8"
+      - "00050000 00000000"
+      - "E004FEFF 0045F852"
+      - "30600000 004817CC"
+      - "00050000 00000000"
+      - "E004FEFF 0045F852"
+      - "30600000 004817D8"
+      - "00050000 00000000"
+
+  - name: "Same Characters"
+    author: "InterAct"
+    codes:
+      - "00517B9C 00000001"
+
+  - name: "Throw Anywhere (Both Players)"
+    author: "Code Master"
+    codes:
+      - "20296694 24020001"

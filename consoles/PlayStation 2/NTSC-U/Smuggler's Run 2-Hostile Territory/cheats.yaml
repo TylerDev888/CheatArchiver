@@ -1,0 +1,51 @@
+# Smuggler's Run 2-Hostile Territory cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20204
+
+game: "Smuggler's Run 2-Hostile Territory"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20204"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0034E277"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9034E274 0C0CE5EC"
+
+  - name: "Have All Race Levels"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203B0FA0 FFFFFFFF"
+      - "203B0FA4 FFFFFFFF"
+      - "103B0FA8 0000FFFF"
+
+  - name: "Have All Movies"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "103B0FAA 0000FFFF"
+
+  - name: "Have All Career Levels"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203B0FB0 FFFFFFFF"
+
+  - name: "Have All Vehicles"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203B0FC0 FFFFFFFF"
+      - "203B0FC4 FFFFFFFF"

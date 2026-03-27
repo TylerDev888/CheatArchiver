@@ -1,0 +1,55 @@
+# Guilty Gear Xrd -REVELATOR-  REV 2 cheat data
+# Console: PlayStation 3
+# Region:  Unknown
+# Serial:  BLJS10329
+
+game: "Guilty Gear Xrd -REVELATOR-  REV 2"
+console: "PlayStation 3"
+region: "Unknown"
+serial: "BLJS10329"
+cheat_type: "Save Editor"
+source: "by bucanero"
+
+cheats:
+  - name: "Max W$ Money"
+    notes: "[- Revelator 2 -]  File: SYS2ND.DAT"
+    codes:
+      - "2000E150 0098967F"
+
+  - name: "Unlock Artwork Gallery"
+    notes: "[- Revelator 2 -]  File: SYS2ND.DAT"
+    codes:
+      - "4100CA40 00000505"
+      - "40100002 00000000"
+
+  - name: "Unlock Movie Gallery"
+    notes: "[- Revelator 2 -]  File: SYS2ND.DAT"
+    codes:
+      - "4000CAC0 00000005"
+      - "403B0001 00000000"
+
+  - name: "Unlock Voice Gallery"
+    notes: "[- Revelator 2 -]  File: SYS2ND.DAT"
+    codes:
+      - "4100CB40 00000005"
+      - "408B0001 00000000"
+
+  - name: "Unlock Music Gallery"
+    notes: "[- Revelator 2 -]  File: SYS2ND.DAT"
+    codes:
+      - "4100CC40 00000505"
+      - "401C0002 00000000"
+
+  - name: "Unlock Character Gallery"
+    notes: "[- Revelator 2 -]  File: SYS2ND.DAT"
+    codes:
+      - "4100CCC0 00000707"
+      - "401A0002 00000000"
+
+  - name: "Update Crc32 For Sys2nd.dat (required)(by Bucanero)"
+    notes: "[- Revelator 2 -]  File: SYS2ND.DAT"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000010,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000004:[hash]"

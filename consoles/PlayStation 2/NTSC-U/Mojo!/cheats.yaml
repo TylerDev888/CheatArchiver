@@ -1,0 +1,74 @@
+# Mojo! cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20741
+
+game: "Mojo!"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20741"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "902143F4 0C08DCE2"
+
+  - name: "Always Low Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 or Higher!]"
+    codes:
+      - "20262A70 AF80843C"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 or Higher!]"
+    codes:
+      - "20260410 03E00008"
+      - "20260414 00000000"
+
+  - name: "Infinite Turbo"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 or Higher!]"
+    codes:
+      - "20260560 03E00008"
+      - "20260564 00000000"
+
+  - name: "Quickly Get All Blue Blocks"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 or Higher!]"
+    codes:
+      - "20275D84 24020000"
+
+  - name: "Quickly Get All Green Blocks"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 or Higher!]"
+    codes:
+      - "20275D70 24020000"
+
+  - name: "Quickly Get All Mojo Blocks"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 or Higher!]"
+    codes:
+      - "20275DC0 24030000"
+
+  - name: "Quickly Get All Red Blocks"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 or Higher!]"
+    codes:
+      - "20275D60 24020000"
+
+  - name: "Quickly Get All Yellow Blocks"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 or Higher!]"
+    codes:
+      - "20275D98 24020000"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "902143F4 0C08DCE2"

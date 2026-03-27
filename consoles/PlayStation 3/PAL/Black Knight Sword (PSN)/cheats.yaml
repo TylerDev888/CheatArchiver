@@ -1,0 +1,52 @@
+# Black Knight Sword (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00859
+
+game: "Black Knight Sword (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00859"
+cheat_type: "Save Editor"
+source: "From gingerbread (Using BSD's Patch Creator)"
+
+cheats:
+  - name: "Hearts 255"
+    notes: "File: PAYLOAD"
+    codes:
+      - "set pointer:0x00000095"
+      - "write next 0:FF"
+
+  - name: "Hearts 999(only Use This Cheat When Your Hearts Is More Than 255 At Checkpoint.)"
+    notes: "File: PAYLOAD"
+    codes:
+      - "set pointer:0x00000094"
+      - "write next 0:03E7"
+
+  - name: "Hearts 9999(only Use This Cheat When Your Hearts Is More Than 999 At Checkpoint.)"
+    notes: "File: PAYLOAD"
+    codes:
+      - "set pointer:0x00000094"
+      - "write next 0:270F"
+
+  - name: "Life 255"
+    notes: "File: PAYLOAD"
+    codes:
+      - "set pointer:0x00000099"
+      - "write next 0:FF"
+
+  - name: "999 Life(from Shaka)"
+    notes: "File: PAYLOAD  (Only use this cheat after stage 1.)"
+    codes:
+      - "write at 0x00000098:0x03E7"
+
+  - name: "Magic Attack 99(will Reset To 03 When You Die, Always Save At Checkpoint. Always Load From Checkpoint.)"
+    notes: "File: PAYLOAD"
+    codes:
+      - "set pointer:0x000000A1"
+      - "write next 0:FF"
+
+  - name: "100 Magic(from Shaka)"
+    notes: "File: PAYLOAD"
+    codes:
+      - "write at 0x000000A1:0x64"

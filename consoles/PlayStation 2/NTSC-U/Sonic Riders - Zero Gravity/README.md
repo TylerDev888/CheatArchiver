@@ -1,0 +1,138 @@
+# Sonic Riders - Zero Gravity
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-21642  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Enable Code (Must Be On)
+**Author:** Skiller  
+**Notes:** [Master Codes]
+
+```
+9010F858 0C043DBE
+```
+
+---
+
+### Activator
+**Author:** Skiller
+
+```
+200A000C 3C0300AF
+200A0010 8C610E04
+200A0014 10200006
+200A0034 8C610E00
+200A0038 1020000C
+200A0040 3C02006F
+200A0044 904298C3
+200A0048 240400FE
+200A004C 14440003
+200A0054 24040101
+200A0070 8C640E48
+200A0074 10200041
+200A007C 8C840008
+200A0080 8C840004
+200A0084 3C02000F
+200A0088 2442423F
+200A0090 3C02FFFF
+200A0094 3442FFFF
+200A0180 03E00008
+201204A8 08028000
+```
+
+---
+
+### Always Have 150 Coins
+**Author:** Skiller
+
+```
+200A001C 24020096
+200A0020 AC220E00
+```
+
+---
+
+### Infinite Action Bar
+**Author:** Skiller
+
+```
+200A0024 3C0242C8
+200A0028 AC220A7C
+200A002C AC220A84
+```
+
+---
+
+### Max Coins (Shop)
+**Author:** Skiller
+
+```
+200A008C AC820004
+```
+
+---
+
+### Play As Rouge The Bat With Hang-On Gear In Story Mode
+**Author:** nolberto82
+
+```
+20334524 0C03C000
+200F0000 34043909
+200F0004 A4440000
+200F0008 03E00008
+200F000C 26A40C6C
+```
+
+---
+
+### Press L2 To Kill Count Down
+**Author:** Skiller
+
+```
+200A0058 A4240834
+```
+
+---
+
+### Quick Max Coins (Shop)
+**Author:** Skiller
+
+```
+20481880 00000000
+```
+
+---
+
+### Unlock Everything
+**Author:** Skiller
+
+```
+200A0098 AC8204C8
+200A009C AC8204CC
+200A00A0 AC8204D0
+200A00A4 AC8204D4
+200A00A8 AC8204D8
+200A00AC AC8204DC
+200A00B0 AC8204E0
+200A00B4 AC8204E4
+200A00B8 A08204F7
+200A00BC A08204F8
+```
+
+---
+
+### Your Race Time 0:00:00
+**Author:** Skiller
+
+```
+200A0060 A420083C
+200A0064 A4200840
+200A0068 AC200844
+```
+
+---

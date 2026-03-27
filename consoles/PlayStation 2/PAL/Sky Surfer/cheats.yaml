@@ -1,0 +1,47 @@
+# Sky Surfer cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50261
+
+game: "Sky Surfer"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50261"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0111E60 000001FD"
+
+  - name: "Monster Score"
+    author: "Codejunkies"
+    codes:
+      - "201F0168 05F5E0FF"
+
+  - name: "Time Boost (Press R1 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "101F1082 0000F7FF"
+      - "20E5690C 00001BA0"
+
+  - name: "Unlock Bonus Level"
+    author: "Codejunkies"
+    codes:
+      - "201F064C 00000001"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00154B67"
+
+  - name: "Always Get Massive Score"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "201F0168 05F5E0FF"
+      - "201F0170 05F5E0FF"

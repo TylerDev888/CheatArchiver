@@ -1,0 +1,145 @@
+# Manhunt 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21613
+
+game: "Manhunt 2"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21613"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Skiller"
+    notes: "[Master Codes]"
+    codes:
+      - "903CC5F8 0C0F3126"
+
+  - name: "Master Code"
+    author: "Datel>Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "903B959C 0C0F2818"
+
+  - name: "Extra Ammo"
+    author: "Lajos Szalay"
+    notes: "[Ammo Codes]"
+    codes:
+      - "203652D0 00A31021"
+
+  - name: "Infinite Ammo"
+    author: "Lajos Szalay"
+    notes: "[Ammo Codes]"
+    codes:
+      - "203652D4 00000000"
+
+  - name: "Max Infinite Ammo"
+    author: "Lajos Szalay"
+    notes: "[Ammo Codes]"
+    codes:
+      - "203652D0 240203E7"
+
+  - name: "Disable FMV"
+    author: "Lajos Szalay"
+    codes:
+      - "20385E90 24020001"
+
+  - name: "God Mode"
+    author: "Lajos Szalay"
+    codes:
+      - "204BF024 00000001"
+
+  - name: "Infinite Health"
+    author: "Lajos Szalay"
+    codes:
+      - "203E0BF0 3C0142C8"
+      - "203E0BF4 AC6100D0"
+
+  - name: "Invisible"
+    author: "Codejunkies"
+    codes:
+      - "201CE9B4 44800000"
+      - "201CE9D4 44800000"
+
+  - name: "Invisible & Inaudible"
+    author: "Codejunkies"
+    codes:
+      - "2010E028 10000015"
+
+  - name: "Never Reload With Max Clip"
+    author: "Lajos Szalay"
+    codes:
+      - "203646B0 240203E7"
+
+  - name: "Save Anywhere"
+    author: "Lajos Szalay"
+    codes:
+      - "00482A8C 00000001"
+
+  - name: "Skip Level (R1+R2+L1+L2)"
+    author: "Codejunkies"
+    codes:
+      - "D0574C02 0000F0FF"
+      - "003FBC18 00000001"
+      - "D0574C02 0000BFFF"
+      - "003FBC18 00000000"
+      - "D0574C02 00007FFF"
+      - "003FBC18 00000000"
+
+  - name: "P1 Press L1+Select For Super Slow Motion"
+    author: "Lajos Szalay"
+    notes: "[Speed Codes]"
+    codes:
+      - "D0574C02 0000FBFE"
+      - "204BF014 00000001"
+
+  - name: "P1 Press L2+Select For Normal Motion"
+    author: "Lajos Szalay"
+    notes: "[Speed Codes]"
+    codes:
+      - "D0574C02 0000FEFE"
+      - "204BF014 00000002"
+
+  - name: "Press Select+Down: Molasses Mode"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "D0574BDC 00004100"
+      - "204BF014 00000001"
+
+  - name: "Press Select+Up: Normal Mode"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "D0574BDC 00001100"
+      - "204BF014 00000000"
+
+  - name: "Clear Exacution"
+    author: "Skiller"
+    notes: "[Uncensored Codes]"
+    codes:
+      - "205BCBE0 00000000"
+      - "205BCBE4 00000000"
+      - "205BCBF0 3A83126F"
+      - "205BCBF4 3A83126F"
+      - "205BCBF8 3A83126F"
+
+  - name: "Disable Video Static"
+    author: "Codejunkies"
+    notes: "[Uncensored Codes]"
+    codes:
+      - "005B2068 00000000"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Masters]"
+    codes:
+      - "903B96C8 00832021"
+
+  - name: "Never Reload"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203646B4 00000000"

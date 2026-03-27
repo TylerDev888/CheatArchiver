@@ -1,0 +1,84 @@
+# Socom - U.S. Navy Seals [Greatest Hits] cheat data
+# Console: PlayStation 2
+# Region:  Unknown
+# Serial:  No
+
+game: "Socom - U.S. Navy Seals [Greatest Hits]"
+console: "PlayStation 2"
+region: "Unknown"
+serial: "No"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0140008 001700C7"
+
+  - name: "Always Complete Missions"
+    author: "Code Master"
+    codes:
+      - "201D8270 24020001"
+
+  - name: "Extra Ammo"
+    author: "Code Master"
+    codes:
+      - "102B8F94 00000001"
+
+  - name: "Extra Grenades"
+    author: "Code Master"
+    codes:
+      - "102BB5B4 00000001"
+
+  - name: "Immune To Bullets"
+    author: "Code Master"
+    codes:
+      - "200C0220 92410000"
+      - "200C0224 14200003"
+      - "200C0228 00000000"
+      - "200C022C 080AE294"
+      - "200C0230 00000000"
+      - "200C0234 03E00008"
+      - "200C0238 00000000"
+      - "202BA59C 0C030088"
+
+  - name: "Infinite Ammo"
+    author: "Code Master"
+    codes:
+      - "202B8F9C 00000000"
+
+  - name: "Infinite Grenades"
+    author: "Code Master"
+    codes:
+      - "202BB5B8 00000000"
+
+  - name: "Less Enemies"
+    author: "Code Master"
+    codes:
+      - "202B4630 00000000"
+
+  - name: "Lesser AI"
+    author: "Code Master"
+    codes:
+      - "20488998 00000000"
+
+  - name: "Most Terrorists Have No Ammo"
+    author: "Code Master"
+    codes:
+      - "202B77D0 03E00008"
+      - "202B77D4 24020000"
+
+  - name: "No Recoil"
+    author: "Code Master"
+    codes:
+      - "202BBD4C 00000000"
+
+  - name: "No Vertical Clipping"
+    author: "Code Master"
+    codes:
+      - "D04EBF42 0000FBFE"
+      - "202B1590 00000000"
+      - "D04EBF42 0000FEFE"
+      - "202B1590 0200902D"

@@ -1,0 +1,59 @@
+# Matrix, The - Path Of Neo cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53462
+
+game: "Matrix, The - Path Of Neo"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53462"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F010151C 0010151F"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "202DCFEC 00000000"
+
+  - name: "Infinite Focus"
+    author: "Codejunkies"
+    codes:
+      - "20141274 C48103D4"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "200FFF00 8E0402C0"
+      - "200FFF04 AC4403C0"
+      - "200FFF08 C44103C0"
+      - "200FFF0C C60002C0"
+      - "200FFF10 080904B0"
+      - "202412B8 0803FFC0"
+
+  - name: "All Movies/Combos/Media"
+    author: "Codejunkies"
+    notes: "[Upgrade Points]"
+    codes:
+      - "404651B8 00050001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Press L1+L2 More Upgrade Points"
+    author: "Codejunkies"
+    notes: "[Upgrade Points]"
+    codes:
+      - "D044E382 0000FAFF"
+      - "2046C070 00000002"
+
+  - name: "Press R1+R2 No Upgrade Points"
+    author: "Codejunkies"
+    notes: "[Upgrade Points]"
+    codes:
+      - "D044E382 0000F5FF"
+      - "2046C070 00000000"

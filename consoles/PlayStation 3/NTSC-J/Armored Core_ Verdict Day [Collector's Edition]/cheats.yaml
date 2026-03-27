@@ -1,0 +1,23 @@
+# Armored Core_ Verdict Day [Collector's Edition] cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM61020
+
+game: "Armored Core_ Verdict Day [Collector's Edition]"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM61020"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "999,999,999 Money"
+    notes: "File: GPROG.DAT"
+    codes:
+      - "20000014 3B9AC9FF"
+      - "20000018 3B9AC9FF"
+
+  - name: "Player Rank S"
+    notes: "File: GPROG.DAT"
+    codes:
+      - "200004FC 3B9AC9FF"

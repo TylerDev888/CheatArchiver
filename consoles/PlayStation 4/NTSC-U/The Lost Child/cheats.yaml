@@ -1,0 +1,24 @@
+# The Lost Child cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA10156
+
+game: "The Lost Child"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA10156"
+cheat_type: "AP"
+source: "source: pj1980@hackinformer"
+
+cheats:
+  - name: "All Lua Skills"
+    notes: "File: *  (*the code to get all off lua skills there a bug where sometimes she dont learn) (any skills if enoch learns a skill before her. you need one of her skills in post game.)"
+    codes:
+      - "40014AAB 00000001"
+      - "40160001 00000000"
+
+  - name: "Get All Of Lua Skills"
+    notes: "File: SAVEDATA[0-9]+\\unitySaveData"
+    codes:
+      - "40014AAB 00000001"
+      - "40160001 00000000"

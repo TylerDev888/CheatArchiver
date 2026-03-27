@@ -1,0 +1,105 @@
+# Nobunaga's Ambition Rise to Power cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21721
+
+game: "Nobunaga's Ambition Rise to Power"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21721"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "901317D0 0C04C59C"
+
+  - name: "Have 4 Orders"
+    notes: "[Everyone After Gain/Advanced:{Codes Affect The Ai As Well}]  Max Loyalty"
+    codes:
+      - "20242E58 24020004"
+      - "201D4580 A2033F4E"
+
+  - name: "Max Troops"
+    notes: "[Everyone After Gain/Advanced:{Codes Affect The Ai As Well}]"
+    codes:
+      - "201D45C4 AE033F14"
+
+  - name: "Max Food"
+    notes: "[Everyone After Gain/Advanced:{Codes Affect The Ai As Well}]"
+    codes:
+      - "201D3AC8 AE033F1C"
+
+  - name: "Max Money"
+    notes: "[Everyone After Gain/Advanced:{Codes Affect The Ai As Well}]"
+    codes:
+      - "201D3B88 AE033F18"
+
+  - name: "Max Horses"
+    notes: "[Everyone After Gain/Advanced:{Codes Affect The Ai As Well}]"
+    codes:
+      - "201D3A08 AE033F20"
+
+  - name: "Max Muskets"
+    notes: "[Everyone After Gain/Advanced:{Codes Affect The Ai As Well}]"
+    codes:
+      - "201D3948 AE033F24"
+
+  - name: "Max Cannons"
+    notes: "[Everyone After Gain/Advanced:{Codes Affect The Ai As Well}]"
+    codes:
+      - "201D3888 AE033F28"
+
+  - name: "Activator (MUST BE ON)"
+    codes:
+      - "200A0000 3C01005B"
+      - "200A0004 8C21F5F8"
+      - "200A0008 1020001F"
+      - "200A0010 3C020001"
+      - "200A0014 3442869F"
+      - "200A0030 24020004"
+      - "200A0038 24020064"
+      - "200A0088 03E00008"
+      - "201427E4 08028000"
+
+  - name: "Max/Inf Troops"
+    codes:
+      - "200A0018 AC223F14"
+
+  - name: "Max/Inf Money"
+    codes:
+      - "200A001C AC223F18"
+
+  - name: "Max/Inf Food"
+    codes:
+      - "200A0020 AC223F1C"
+
+  - name: "Max/Inf Horses"
+    codes:
+      - "200A0024 AC223F20"
+
+  - name: "Max/Inf Muskets"
+    codes:
+      - "200A0028 AC223F24"
+
+  - name: "Max/Inf Cannons"
+    codes:
+      - "200A002C AC223F28"
+
+  - name: "Max/Inf Orders/Turns"
+    codes:
+      - "200A0034 A0223F52"
+
+  - name: "Max/Inf Loyalty"
+    codes:
+      - "200A003C A0223F4E"
+
+  - name: "Max/Inf Flood"
+    codes:
+      - "200A0040 A0223F4D"
+
+  - name: "Max/Inf Order"
+    codes:
+      - "200A0044 A0223F4C"

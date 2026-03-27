@@ -1,0 +1,51 @@
+# Atelier Firis_ The Alchemist And The Mysterious Journey DX cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA26644
+
+game: "Atelier Firis_ The Alchemist And The Mysterious Journey DX"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA26644"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Set Quality To 999 All Items [1-4000]"
+    author: "Lotus"
+    notes: "[ITEMS]  File: GAMEDATA[0-9]{2}\\SYSTEM.DAT"
+    codes:
+      - "8001000F 6D5F756E"
+      - "6974436F 6E746169"
+      - "6E657200 00000000"
+      - "92000000 00000014"
+      - "4A000004 00C07944"
+      - "4FA00034 00000000"
+
+  - name: "Add/Mod Items To Section"
+    author: "Lotus"
+    notes: "[ITEMS]  File: GAMEDATA[0-9]{2}\\SYSTEM.DAT"
+    codes:
+      - "[SECTION]"
+      - "6C080001 00000004"
+      - "6A000003 00000000"
+      - "6C020103 00000000"
+      - "6C340003 00000000"
+      - "6C200002 00000034"
+      - "6C120002 0000[AMOUNT:0077:HEX:BIG<SLOT NUMBER>]"
+      - "6C030002 00000000"
+      - "6C020102 00000000"
+      - "6C300002 00000000"
+      - "18000002 0000[IIII<*ITEMID>]"
+      - "28000004 [AMOUNT:3E80000:FLOAT:LITTLE<Quality>]"
+      - "18000008 0000[PPPP<*Property1>]"
+      - "1800000A 0000[PPPP<*Property2>]"
+      - "1800000C 0000[PPPP<*Property3>]"
+      - "1800000E 0000[EEEE<*Effects1>]"
+      - "18000010 0000[EEEE<*Effects2>]"
+      - "18000012 0000[EEEE<*Effects3>]"
+      - "18000014 0000[EEEE<*Effects4>]"
+      - "0800001A 00000080"
+      - "0800001D 000000[AMOUNT:63:HEX:BIG<Item Uses -Consumables & Items>]"
+      - "08000023 000000[AMOUNT:63:HEX:BIG<Item Amount>]"
+      - "9D000000 FFFFFFFF"

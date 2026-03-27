@@ -1,0 +1,138 @@
+# King Of Fighters, The - Maximum Impact 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25609
+
+game: "King Of Fighters, The - Maximum Impact 2"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25609"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "CMX"
+    notes: "[Master Codes]"
+    codes:
+      - "901177E0 00832021"
+
+  - name: "1-Hit Death P1"
+    author: "CMX"
+    codes:
+      - "E0023F80 209AB53C"
+      - "209AB53C 3F800000"
+      - "209AB540 437A0000"
+
+  - name: "1-Hit Death P2"
+    author: "CMX"
+    codes:
+      - "E0023F80 209AB6FC"
+      - "209AB6FC 3F800000"
+      - "209AB700 437A0000"
+
+  - name: "Infinite Health P1"
+    author: "CMX"
+    codes:
+      - "209AB53C 437A0000"
+
+  - name: "Infinite Health P2"
+    author: "CMX"
+    codes:
+      - "209AB6FC 437A0000"
+
+  - name: "Max Guard P1"
+    author: "CMX"
+    codes:
+      - "109AB544 00000F0F"
+
+  - name: "Max Guard P2"
+    author: "CMX"
+    codes:
+      - "109AB704 00000F0F"
+
+  - name: "Max Power Gauge Level P1"
+    author: "CMX"
+    codes:
+      - "109AB548 00000303"
+
+  - name: "Max Power Gauge Level P2"
+    author: "CMX"
+    codes:
+      - "109AB708 00000303"
+
+  - name: "Max Power Gauge P1"
+    author: "CMX"
+    codes:
+      - "109AB546 00006464"
+
+  - name: "Max Power Gauge P2"
+    author: "CMX"
+    codes:
+      - "109AB706 00006464"
+
+  - name: "No Guard P1"
+    author: "CMX"
+    codes:
+      - "109AB544 00000000"
+
+  - name: "No Guard P2"
+    author: "CMX"
+    codes:
+      - "109AB704 00000000"
+
+  - name: "No Health P1"
+    author: "CMX"
+    codes:
+      - "209AB53C 00000000"
+
+  - name: "No Health P2"
+    author: "CMX"
+    codes:
+      - "209AB6FC 00000000"
+
+  - name: "No Power Gauge Level P1"
+    author: "CMX"
+    codes:
+      - "109AB548 00000000"
+
+  - name: "No Power Gauge Level P2"
+    author: "CMX"
+    codes:
+      - "109AB708 00000000"
+
+  - name: "No Power Gauge P1"
+    author: "CMX"
+    codes:
+      - "109AB546 00000000"
+
+  - name: "No Power Gauge P2"
+    author: "CMX"
+    codes:
+      - "109AB706 00000000"
+
+  - name: "Unlock All Characters"
+    author: "lee4"
+    codes:
+      - "409B0D7C 0026000C"
+      - "01010701 00000000"
+
+  - name: "Unlock All Color Variation"
+    author: "lee4"
+    codes:
+      - "409B0D80 0026000C"
+      - "01010101 00000000"
+      - "409B0D84 0026000C"
+      - "01010101 00000000"
+      - "409B0D88 0026000C"
+      - "01010101 00000000"
+      - "409B0D8C 0026000C"
+      - "01010101 00000000"
+
+  - name: "Unlock All Stages & Soundtest"
+    author: "lee4"
+    codes:
+      - "109B0500 00000101"
+      - "209B04F0 0101010A"
+      - "409B04F4 00030001"
+      - "01010101 00000000"

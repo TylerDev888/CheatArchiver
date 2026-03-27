@@ -1,0 +1,52 @@
+# The Sims 3 Pets cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01368
+
+game: "The Sims 3 Pets"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01368"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Get Md5 Baked (required)"
+    notes: "File: BAKED  (dependency: BAKED.MD5)"
+    codes:
+      - "set [MD5_BAKED]:md5"
+
+  - name: "Update Md5 On Baked.md5 (required)"
+    notes: "File: BAKED.MD5"
+    codes:
+      - "write at 0x0:[MD5_BAKED]"
+
+  - name: "Get Md5 Persist (required)"
+    notes: "File: PERSIST  (dependency: PERSIST.MD5)"
+    codes:
+      - "set [MD5_PERSIST]:md5"
+
+  - name: "Update Md5 On Persist.md5 (required)"
+    notes: "File: PERSIST.MD5"
+    codes:
+      - "write at 0x0:[MD5_PERSIST]"
+
+  - name: "Get Md5 Script (required)"
+    notes: "File: SCRIPT  (dependency: SCRIPT.MD5)"
+    codes:
+      - "set [MD5_SCRIPT]:md5"
+
+  - name: "Update Md5 On Cript.md5 (required)"
+    notes: "File: SCRIPT.MD5"
+    codes:
+      - "write at 0x0:[MD5_SCRIPT]"
+
+  - name: "Get Md5 Sims3 (required)"
+    notes: "File: SIMS3  (dependency: SIMS3.MD5)"
+    codes:
+      - "set [MD5_SIMS3T]:md5"
+
+  - name: "Update Md5 On Sims3.md5 (required)"
+    notes: "File: SIMS3.MD5"
+    codes:
+      - "write at 0x0:[MD5_SIMS3]"

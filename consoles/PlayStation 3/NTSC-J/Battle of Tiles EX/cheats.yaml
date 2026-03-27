@@ -1,0 +1,17 @@
+# Battle of Tiles EX cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  NPJB00305
+
+game: "Battle of Tiles EX"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "NPJB00305"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "999999999 Money"
+    notes: "File: RECORD0"
+    codes:
+      - "write at 0x98:0x3B9AC9FF"

@@ -1,0 +1,22 @@
+# Genso Suikoden_ Tsumugareshi Hyakunen no Toki cheat data
+# Console: PSP
+# Region:  Unknown
+# Serial:  NPJH50535
+
+game: "Genso Suikoden_ Tsumugareshi Hyakunen no Toki"
+console: "PSP"
+region: "Unknown"
+serial: "NPJH50535"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Possession 9999999 Potch"
+    notes: "File: *"
+    codes:
+      - "2000101C 0098967F"
+
+  - name: "Experience Max (lv99)"
+    notes: "File: *"
+    codes:
+      - "100008D8 0000C15B"

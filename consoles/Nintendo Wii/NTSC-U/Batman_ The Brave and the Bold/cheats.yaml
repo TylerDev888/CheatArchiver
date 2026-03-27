@@ -1,0 +1,89 @@
+# Batman_ The Brave and the Bold cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  S3BEWR
+
+game: "Batman_ The Brave and the Bold"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "S3BEWR"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Gain \"amount\" Coins On Pick Up"
+    author: "Skiller"
+    codes:
+      - "C202EFB0 00000002"
+      - "3880[Amount:2710:HEX:BIG] 7C002214"
+      - "60000000 00000000"
+
+  - name: "Max Coins On Pickup"
+    author: "Skiller"
+    codes:
+      - "C202EFB0 00000002"
+      - "3C000001 6000869F"
+      - "60000000 00000000"
+
+  - name: "Have Max Cash In Batcave"
+    author: "Skiller"
+    codes:
+      - "0483A768 0001869F"
+
+  - name: "Upgrades Dont Use Points"
+    author: "Skiller"
+    codes:
+      - "0424D66C 7C170050"
+
+  - name: "Unlock Medieval Batman Costume"
+    author: "Skiller"
+    codes:
+      - "0083A6CF 00000001"
+
+  - name: "All Gadgets Unlocked And Upgraded"
+    author: "Skiller"
+    codes:
+      - "0283A6DE 00000404"
+      - "0483A6E0 04040404"
+      - "0483A6E4 04040404"
+      - "0483A6E8 04040404"
+      - "0483A6EC 04040404"
+      - "0283A6F0 00000404"
+      - "0083A6F2 00000004"
+
+  - name: "All Jump-In Characters Unlocked"
+    author: "Skiller"
+    codes:
+      - "0483A75C 01010101"
+      - "0483A760 01010101"
+      - "0483A764 00000101"
+      - "0083A766 00000001"
+
+  - name: "Unlock All Levels"
+    author: "Skiller"
+    codes:
+      - "0483A6F4 2C2CFF00"
+
+  - name: "Lets Clean Up Crime!"
+    author: "Skiller"
+    notes: "[Allow Locked In Game Cheats]"
+    codes:
+      - "0452994C 00000000"
+
+  - name: "Gadgets Unlocked And Upgraded!"
+    author: "Skiller"
+    notes: "[Allow Locked In Game Cheats]"
+    codes:
+      - "0452995C 00000000"
+
+  - name: "All Levels Unlocked!"
+    author: "Skiller"
+    notes: "[Allow Locked In Game Cheats]"
+    codes:
+      - "0452996C 00000000"
+
+  - name: "Jumpins Unlocked"
+    author: "Skiller"
+    notes: "[Allow Locked In Game Cheats]"
+    codes:
+      - "0452997C 00000000"

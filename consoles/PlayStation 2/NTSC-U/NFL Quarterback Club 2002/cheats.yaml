@@ -1,0 +1,155 @@
+# NFL Quarterback Club 2002 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20154
+
+game: "NFL Quarterback Club 2002"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20154"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0115E20 001CC657"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001CC567"
+
+  - name: "Always First Down"
+    author: "MadCatz"
+    codes:
+      - "11D441AC 00000001"
+
+  - name: "Always Start 1St Play With 1 Inch To Go For 1St Down"
+    author: "Code Master"
+    codes:
+      - "1028F180 00003F80"
+      - "1028F198 00003F80"
+
+  - name: "Always Start Play On 2Nd Down"
+    author: "Code Master"
+    codes:
+      - "1028F160 00000002"
+
+  - name: "Always Start Play On 3Rd Down"
+    author: "Code Master"
+    codes:
+      - "1028F160 00000003"
+
+  - name: "Always Start Play On 4Th Down"
+    author: "Code Master"
+    codes:
+      - "1028F160 00000004"
+
+  - name: "Away Team Scores 0"
+    author: "Codejunkies"
+    notes: "[Away Codes]"
+    codes:
+      - "10D10FCC 00000000"
+
+  - name: "Away Team Scores 99"
+    author: "Codejunkies"
+    notes: "[Away Codes]"
+    codes:
+      - "10D10FCC 00000063"
+
+  - name: "One"
+    author: "MadCatz"
+    notes: "[Downs Per Possession; Only Use One Of The Following!]"
+    codes:
+      - "D1D441AC 00000001"
+      - "11D441AC 00000004"
+
+  - name: "Three"
+    author: "MadCatz"
+    notes: "[Downs Per Possession; Only Use One Of The Following!]"
+    codes:
+      - "D1D441AC 00000001"
+      - "11D441AC 00000002"
+
+  - name: "Two"
+    author: "MadCatz"
+    notes: "[Downs Per Possession; Only Use One Of The Following!]"
+    codes:
+      - "D1D441AC 00000001"
+      - "11D441AC 00000003"
+
+  - name: "Home Team Scores 0"
+    author: "Codejunkies"
+    notes: "[Home Codes]"
+    codes:
+      - "10D0C90A 00000000"
+
+  - name: "Home Team Scores 99"
+    author: "Codejunkies"
+    notes: "[Home Codes]"
+    codes:
+      - "10D0C90A 00000063"
+
+  - name: "Infinite Time To Choose Play"
+    author: "Code Master"
+    codes:
+      - "1022069E 00001000"
+      - "102206DA 00001000"
+      - "1022079E 00001000"
+
+  - name: "Penalties Always 10 Yards"
+    author: "Code Master"
+    codes:
+      - "1028EDC0 000043B4"
+
+  - name: "Penalties Always 15 Yards"
+    author: "Code Master"
+    codes:
+      - "1028EDC0 00004407"
+
+  - name: "Penalties Always 25 Yards"
+    author: "Code Master"
+    codes:
+      - "1028EDC0 00004461"
+
+  - name: "Penalties Always 50 Yards"
+    author: "Code Master"
+    codes:
+      - "1028EDC0 000044E1"
+
+  - name: "2Nd Quarter"
+    author: "MadCatz"
+    notes: "[Start In... Only Use One Of The Following!]"
+    codes:
+      - "D0E5F888 00000001"
+      - "10E5F888 00000002"
+
+  - name: "3Rd Quarter"
+    author: "MadCatz"
+    notes: "[Start In... Only Use One Of The Following!]"
+    codes:
+      - "D0E5F888 00000001"
+      - "10E5F888 00000003"
+
+  - name: "4Th Quarter"
+    author: "MadCatz"
+    notes: "[Start In... Only Use One Of The Following!]"
+    codes:
+      - "D0E5F888 00000001"
+      - "10E5F888 00000004"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001CC567"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901CC654 0C097098"

@@ -1,0 +1,289 @@
+# Persona cheat data
+# Console: PSP
+# Region:  NTSC-U
+# Serial:  ULUS10432
+
+game: "Persona"
+console: "PSP"
+region: "NTSC-U"
+serial: "ULUS10432"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Money In Hand Max (9,999,999 Yen)"
+    notes: "File: *"
+    codes:
+      - "20000D24 0098967F"
+
+  - name: "Hp (999)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "10000000 000003E7"
+
+  - name: "Max Hp (999)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "10000004 000003E7"
+
+  - name: "Mp (999)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "10000008 000003E7"
+
+  - name: "Max Mp (999)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "1000000C 000003E7"
+
+  - name: "Exp (99999999)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "20000010 05F5E0FF"
+
+  - name: "Persona Exp (99999999)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "2000001C 05F5E0FF"
+
+  - name: "Equipment Hand (Spiegel Blade)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "10000020 000000AE"
+
+  - name: "Equipment Gun (Hell Rain)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "10000022 00000119"
+
+  - name: "Equipment Ammo (Angel Whisper)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "10000024 0000013E"
+
+  - name: "Equipment Head (Spiegel Mask)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "10000026 0000014E"
+
+  - name: "Equipment Body (Spiegelmail)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "10000028 0000015E"
+
+  - name: "Equipment Arm(Spiegel Shield)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "1000002A 0000016E"
+
+  - name: "Equipment Legs(Spiegelbein)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "1000002C 0000017E"
+
+  - name: "Normal Attack Attack(65535)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "1000002E 0000FFFF"
+
+  - name: "Normal Attack Hit(65535)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "10000030 0000FFFF"
+
+  - name: "Gun Attack(65535)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "10000032 0000FFFF"
+
+  - name: "Gun Hit (65535)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "10000034 0000FFFF"
+
+  - name: "Defense (65535)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "10000036 0000FFFF"
+
+  - name: "Evasion (65535)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "10000038 0000FFFF"
+
+  - name: "Magic Attack (65535)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "1000003A 0000FFFF"
+
+  - name: "Magic Defense (65535)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "1000003C 0000FFFF"
+
+  - name: "Level (99)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "00000056 00000063"
+
+  - name: "Strength (99)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "00000057 00000063"
+
+  - name: "Body (99)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "00000058 00000063"
+
+  - name: "Skill (99)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "00000059 00000063"
+
+  - name: "Speed ​​(99)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "0000005A 00000063"
+
+  - name: "Luck (99)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "0000005B 00000063"
+
+  - name: "Technique (99)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "0000005E 00000063"
+
+  - name: "Persona Lv (99)"
+    notes: "[1st Person Status:(+0x6C / up to 5th person)]  File: *"
+    codes:
+      - "00000061 00000063"
+
+  - name: "Persona Magic Attack (65535)"
+    notes: "[Persona Status]  File: *"
+    codes:
+      - "1000022C 0000FFFF"
+
+  - name: "Persona Magic Defense (65535)"
+    notes: "[Persona Status]  File: *"
+    codes:
+      - "1000022E 0000FFFF"
+
+  - name: "Persona Type(Kamakura Gongoro)"
+    notes: "[Persona Status]  File: *"
+    codes:
+      - "00000234 00000062"
+
+  - name: "Persona Sp Consumption (0)"
+    notes: "[Persona Status]  File: *"
+    codes:
+      - "0000024C 00000000"
+
+  - name: "Persona Lv(99)"
+    notes: "[Persona Status]  File: *"
+    codes:
+      - "0000024D 00000063"
+
+  - name: "Persona Power(99)"
+    notes: "[Persona Status]  File: *"
+    codes:
+      - "0000024F 00000063"
+
+  - name: "Persona Body(99)"
+    notes: "[Persona Status]  File: *"
+    codes:
+      - "00000250 00000063"
+
+  - name: "Persona Technique(99)"
+    notes: "[Persona Status]  File: *"
+    codes:
+      - "00000251 00000063"
+
+  - name: "Persona Speed(99)"
+    notes: "[Persona Status]  File: *"
+    codes:
+      - "00000252 00000063"
+
+  - name: "Persona Luck (99)"
+    notes: "[Persona Status]  File: *"
+    codes:
+      - "00000253 00000063"
+
+  - name: "Persona Rank (max)"
+    notes: "[Persona Status]  File: *"
+    codes:
+      - "00000255 00000008"
+
+  - name: "Persona Skill 1"
+    notes: "[Persona Status]  File: *"
+    codes:
+      - "00000256 000000XX"
+      - "0000025D 000000XX"
+
+  - name: "Persona Skill 7"
+    notes: "[Persona Status]  File: *"
+    codes:
+      - "0000025C 000000XX"
+      - "00000263 000000XX"
+
+  - name: "Card 1"
+    notes: "[Persona Card]  File: *"
+    codes:
+      - "0000112C 000000XX"
+
+  - name: "Card 2"
+    notes: "[Persona Card]  File: *"
+    codes:
+      - "0000112D 000000XX"
+
+  - name: "Card 3"
+    notes: "[Persona Card]  File: *"
+    codes:
+      - "0000112E 000000XX"
+
+  - name: "Card 4"
+    notes: "[Persona Card]  File: *"
+    codes:
+      - "0000112F 000000XX"
+
+  - name: "Card 5"
+    notes: "[Persona Card]  File: *"
+    codes:
+      - "00001130 000000XX"
+
+  - name: "Card 6"
+    notes: "[Persona Card]  File: *"
+    codes:
+      - "00001131 000000XX"
+
+  - name: "Card 7"
+    notes: "[Persona Card]  File: *"
+    codes:
+      - "00001132 000000XX"
+
+  - name: "Card 8"
+    notes: "[Persona Card]  File: *"
+    codes:
+      - "00001133 000000XX"
+
+  - name: "Card 9"
+    notes: "[Persona Card]  File: *"
+    codes:
+      - "00001134 000000XX"
+
+  - name: "Card 10"
+    notes: "[Persona Card]  File: *"
+    codes:
+      - "00001135 000000XX"
+
+  - name: "Card 11"
+    notes: "[Persona Card]  File: *"
+    codes:
+      - "00001136 000000XX"
+
+  - name: "Card 12"
+    notes: "[Persona Card]  File: *"
+    codes:
+      - "00001137 000000XX"

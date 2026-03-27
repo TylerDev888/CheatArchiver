@@ -1,0 +1,147 @@
+# Conspiracy - Weapons Of Mass Destruction cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53098
+
+game: "Conspiracy - Weapons Of Mass Destruction"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53098"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90110F70 0C044384"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90267338 0C08DD00"
+
+  - name: "Hold L1 To Moon Jump"
+    author: "Josh_7774"
+    codes:
+      - "D02E6BC2 0000FBFF"
+      - "602DF88C 41000000"
+      - "00020000 00000474"
+
+  - name: "Infinite Health"
+    author: "Josh_7774"
+    codes:
+      - "6040288C 000002BC"
+      - "00020000 000001B8"
+
+  - name: "Infinite Health (Alternate)"
+    author: "Josh_7774"
+    codes:
+      - "6040288C 00000578"
+      - "00020000 000001B8"
+
+  - name: "Max Score In Endurance Mode"
+    author: "Josh_7774"
+    codes:
+      - "602DF88C 05F5E12E"
+      - "00020000 00000754"
+
+  - name: "No Interlacing Patch"
+    author: "Josh_7774"
+    notes: "[Patch]"
+    codes:
+      - "20237D90 00000000"
+
+  - name: "Disable Fall Damage [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "201B7254 00000000"
+
+  - name: "Failing Objectives Results In Successful Mission [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "2018F0CC 00000000"
+
+  - name: "Infinite Ammo - No Reload (Assault Rifle) [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "201D1B98 00000000"
+
+  - name: "Infinite Ammo - No Reload (Pistol) [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "201D68AC 00000000"
+
+  - name: "Infinite Ammo - No Reload (Rocket Launcher) [ASM] by Josh_7774 , CRYPT_CRAW"
+    notes: "[[ASM]]"
+    codes:
+      - "201DC860 00000000"
+
+  - name: "Infinite Ammo - No Reload (Shotgun) [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "201DE64C 00000000"
+
+  - name: "Infinite Ammo - No Reload (Sniper Rifle) [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "201DFF60 00000000"
+
+  - name: "Infinite Grenades [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "201CC354 00000000"
+
+  - name: "Invert Look Controls [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "201B5B7C 3C02C170"
+
+  - name: "No Bullet Spread [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "201C1B24 00000000"
+
+  - name: "Rapid Fire (Assault Rifle) [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "201D1F30 00000000"
+
+  - name: "Rapid Fire (Pistol) [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "201D6684 00000000"
+
+  - name: "Rapid Fire (Rocket Launcher) [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "201DCA64 00000000"
+
+  - name: "Rapid Fire (Shotgun) [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "201DDB90 00000000"
+      - "201DE960 00000000"
+      - "201DE9A8 00000000"
+      - "201DE9DC 00000000"
+
+  - name: "Rapid Fire (Sniper Rifle) [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "201E00D4 00000000"

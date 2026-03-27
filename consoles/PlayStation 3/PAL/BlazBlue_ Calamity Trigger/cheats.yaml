@@ -1,0 +1,28 @@
+# BlazBlue_ Calamity Trigger cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00820
+
+game: "BlazBlue_ Calamity Trigger"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00820"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Unlock All Gallery(by Bucanero)"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "41000160 00000101"
+      - "40510002 00000000"
+
+  - name: "Update Wadd For System.dat (required)"
+    notes: "File: SYSTEM.DAT  (set [csum]:wadd(0x000004,0x0CFD5F))"
+    codes:
+      - "set [csum]:0"
+      - "carry(2)"
+      - "set pointer:eof+1"
+      - "set [csum]:wadd(0x000004,pointer)"
+      - "set [csum]:xor:FFFF"
+      - "write at 0x000000:[csum]"

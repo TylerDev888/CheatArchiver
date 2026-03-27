@@ -1,0 +1,935 @@
+# Resident Evil 4 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53702
+
+game: "Resident Evil 4"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53702"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F023E80C 0023E80F"
+
+  - name: "Assignment Ada Outfit"
+    author: "Skiller"
+    notes: "[Ada Costume Modifier]"
+    codes:
+      - "E1010002 0042DD0A"
+      - "0042DD0B 00000001"
+
+  - name: "Mercenaries Outfit"
+    author: "Skiller"
+    notes: "[Ada Costume Modifier]"
+    codes:
+      - "E1010002 0042DD0A"
+      - "0042DD0B 00000000"
+
+  - name: "Always 1St Save"
+    author: "Codejunkies"
+    codes:
+      - "0042DCDA 00000000"
+
+  - name: "Original Outfit"
+    author: "Skiller"
+    notes: "[Ashley Costume Modifier]"
+    codes:
+      - "E1010001 0042DD0A"
+      - "0042DD0B 00000000"
+
+  - name: "Popstar Outfit"
+    author: "Skiller"
+    notes: "[Ashley Costume Modifier]"
+    codes:
+      - "E1010001 0042DD0A"
+      - "0042DD0B 00000001"
+
+  - name: "Suit Of Armor"
+    author: "Skiller"
+    notes: "[Ashley Costume Modifier]"
+    codes:
+      - "E1010001 0042DD0A"
+      - "0042DD0B 00000002"
+
+  - name: "Ashley Doesn't Mind Leon Looking Up Her Skirt"
+    author: "47iscool"
+    codes:
+      - "2015FACC 24060007"
+      - "2015FAD8 00000000"
+
+  - name: "Ada Wong"
+    author: "Skiller"
+    notes: "[Character Modifiers]"
+    codes:
+      - "0042DD0A 00000002"
+
+  - name: "Ashley"
+    author: "Skiller"
+    notes: "[Character Modifiers]"
+    codes:
+      - "0042DD0A 00000001"
+
+  - name: "Hunk"
+    author: "Skiller"
+    notes: "[Character Modifiers]"
+    codes:
+      - "0042DD0A 00000003"
+
+  - name: "Krauser"
+    author: "Skiller"
+    notes: "[Character Modifiers]"
+    codes:
+      - "0042DD0A 00000004"
+
+  - name: "Leon"
+    author: "Skiller"
+    notes: "[Character Modifiers]"
+    codes:
+      - "0042DD0A 00000000"
+
+  - name: "Wesker"
+    author: "Skiller"
+    notes: "[Character Modifiers]"
+    codes:
+      - "0042DD0A 00000005"
+
+  - name: "Fire Weapon To Have 999 Ammo In Clip"
+    author: "47iscool"
+    codes:
+      - "201201E4 20031F45"
+
+  - name: "Infinite Ammo/No Reload"
+    author: "Codejunkies"
+    codes:
+      - "2012020C 24420000"
+
+  - name: "Infinite Health-Leon"
+    author: "Codejunkies"
+    codes:
+      - "1042DCF6 00000960"
+
+  - name: "Jacket Outfit"
+    author: "Skiller"
+    notes: "[Leon Costume Modifier]"
+    codes:
+      - "E1010000 0042DD0A"
+      - "0042DD0B 00000000"
+
+  - name: "Mafia Outfit"
+    author: "Skiller"
+    notes: "[Leon Costume Modifier]"
+    codes:
+      - "E1010000 0042DD0A"
+      - "0042DD0B 00000004"
+
+  - name: "No Jacket Outfit"
+    author: "Skiller"
+    notes: "[Leon Costume Modifier]"
+    codes:
+      - "E1010000 0042DD0A"
+      - "0042DD0B 00000001"
+
+  - name: "R.P.D. Outfit"
+    author: "Skiller"
+    notes: "[Leon Costume Modifier]"
+    codes:
+      - "E1010000 0042DD0A"
+      - "0042DD0B 00000003"
+
+  - name: "Tactical Vest Outfit"
+    author: "Skiller"
+    notes: "[Leon Costume Modifier]"
+    codes:
+      - "E1010000 0042DD0A"
+      - "0042DD0B 00000002"
+
+  - name: "Max Health-Leon"
+    author: "Codejunkies"
+    codes:
+      - "1042DCF8 00000960"
+
+  - name: "Max Points"
+    author: "Codejunkies"
+    codes:
+      - "2042DCEC 0098967F"
+
+  - name: "Original"
+    author: "Skiller"
+    notes: "[Partner Outfit Modifier]"
+    codes:
+      - "0042DD0D 00000000"
+
+  - name: "Special 1"
+    author: "Skiller"
+    notes: "[Partner Outfit Modifier]"
+    codes:
+      - "0042DD0D 00000001"
+
+  - name: "Special 2"
+    author: "Skiller"
+    notes: "[Partner Outfit Modifier]"
+    codes:
+      - "0042DD0D 00000002"
+
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Master]"
+    codes:
+      - "902A6EA8 0C0A8740"
+
+  - name: "Player 1"
+    notes: "[Joker]"
+    codes:
+      - "00451682 0000[Joker:PS2]"
+
+  - name: "Memcard Sub"
+    notes: "[Live Dump]"
+    codes:
+      - "200A0000 27BDFFC0"
+      - "200A0004 3C06000A"
+      - "200A0008 FFB20020"
+      - "200A0010 FFB10010"
+      - "200A0014 24C60104"
+      - "200A0018 FFB00000"
+      - "200A0020 FFBF0030"
+      - "200A0028 24070203"
+      - "200A002C 0040802D"
+      - "200A0030 0220282D"
+      - "200A0034 0240302D"
+      - "200A003C 0200202D"
+      - "200A0040 3C050010"
+      - "200A0044 0200202D"
+      - "200A004C 3C060070"
+      - "200A0050 0220282D"
+      - "200A0054 0240302D"
+      - "200A005C 0200202D"
+      - "200A0064 0200202D"
+      - "200A0068 0200282D"
+      - "200A006C 0200302D"
+      - "200A0074 0200202D"
+      - "200A0078 DFBF0030"
+      - "200A007C DFB20020"
+      - "200A0080 DFB10010"
+      - "200A0084 DFB00000"
+      - "200A0088 03E00008"
+      - "200A008C 27BD0040"
+
+  - name: "Memcardport-Multitap 1-4"
+    notes: "[Live Dump]"
+    codes:
+      - "200A000C 24040000"
+
+  - name: "Memcardslot-Slot 1-2"
+    notes: "[Live Dump]"
+    codes:
+      - "200A001C 24050000"
+
+  - name: "Start And Stop"
+    notes: "[Live Dump]"
+    codes:
+      - "200A0040 3C050010"
+      - "200A004C 3C060070"
+
+  - name: "Dump L3"
+    notes: "[Live Dump]"
+    codes:
+      - "D0451682 0000FFFD"
+      - "202A6FD8 08028000"
+      - "D0451682 0010FFFD"
+      - "202A6FD8 03E00008"
+
+  - name: "Scemcsync"
+    notes: "[Live Dump]"
+    codes:
+      - "200A0038 0C0AA540"
+      - "200A0070 0C0AA540"
+      - "200A0058 0C0AA540"
+
+  - name: "Scemcopen"
+    notes: "[Live Dump]"
+    codes:
+      - "200A0024 0C0AA472"
+
+  - name: "Scemcwrite"
+    notes: "[Live Dump]"
+    codes:
+      - "200A0048 0C0AA850"
+
+  - name: "Scemcclose"
+    notes: "[Live Dump]"
+    codes:
+      - "200A0060 0C0AA4CC"
+
+  - name: "Toggle Auto Aim V2 On/Off"
+    notes: "[Misc Codes]"
+    codes:
+      - "D0451682 0000F7EF"
+      - "004311E3 000000[V2AA]"
+      - "D0451682 0000F7BF"
+      - "004311E3 00000000"
+
+  - name: "Brightness Mod"
+    notes: "[Misc Codes]"
+    codes:
+      - "004311EA 000000[BR]"
+
+  - name: "Inf \"x Command((l3 : On R3 : Off) Make Sure To Disable This When Not Picking Up Items It Will Crash The Game If It Goes To A Cutscene . What This Codes Does Is Makes It So That The \"x Take\" Stays On Screen For The Last Item U Picked Up And It Will Alow U To Keep Hitting X To Keep Getting That Items.. It Works For Anything That Says \"x ****\". What Is Inf \"x Command\" Well Lets Start With Say An Item When U Go To Pick It Up It Says \"x Take\"what Inf \"x Command\" Does Is Makes It So That \"x Take\" Never Goes Away. Meaning U Can Pick Up As Much As U Want Of That Items .. Another Things It Does Is Say The When It Says \"x To Look\" This Will Make It So U Can Always Use That Command .. Untill U Disable The Code With R3)"
+    author: "Szalay"
+    notes: "[Misc Codes]"
+    codes:
+      - "D0451682 0000FFFD"
+      - "20221820 00000000"
+      - "D0451682 0000FFFB"
+      - "20221820 AC820004"
+
+  - name: "Room Mod"
+    notes: "[Misc Codes]"
+    codes:
+      - "1042DCD8 0000[ROOM]"
+
+  - name: "Weapon Mod"
+    notes: "[Misc Codes]"
+    codes:
+      - "0042DD02 000000[WEP]"
+
+  - name: "Max/Inf Health (main)"
+    notes: "[Misc Codes]"
+    codes:
+      - "1042DCF6 00000960"
+      - "1042DCF8 00000960"
+
+  - name: "Max/Inf Partners HP"
+    notes: "[Misc Codes]"
+    codes:
+      - "1042DCFA 000004B0"
+      - "1042DCFC 000004B0"
+
+  - name: "Cant Be Hit By Explosions"
+    author: "FloydFan"
+    notes: "[Misc Codes]"
+    codes:
+      - "201C1760 00000000"
+
+  - name: "Immune To Some Fire Damage"
+    author: "FloydFan"
+    notes: "[Misc Codes]"
+    codes:
+      - "20166F80 00000000"
+
+  - name: "Enemies Cant Throw Axes"
+    author: "FloydFan"
+    notes: "[Misc Codes]"
+    codes:
+      - "20115A58 03E00008"
+      - "20115A5C 00000000"
+
+  - name: "Enemies Cant Throw Scythes"
+    author: "FloydFan"
+    notes: "[Misc Codes]"
+    codes:
+      - "20115C88 03E00008"
+      - "20115C8C 00000000"
+
+  - name: "Enemies Cant Shoot Arrows"
+    author: "FloydFan"
+    notes: "[Misc Codes]"
+    codes:
+      - "20115E60 03E00008"
+      - "20115E64 00000000"
+
+  - name: "Enemies Cant Shoot Rockets"
+    author: "FloydFan"
+    notes: "[Misc Codes]"
+    codes:
+      - "201162F0 03E00008"
+      - "201162F4 00000000"
+
+  - name: "Invincible V1"
+    author: "FloydFan"
+    notes: "[Misc Codes]"
+    codes:
+      - "D0451682 0000FBEF"
+      - "201C2C48 00000000"
+      - "D0451682 0000FBBF"
+      - "201C2C48 0C070B80"
+
+  - name: "Invincible V2"
+    author: "Hiei-YYH"
+    notes: "[Misc Codes]"
+    codes:
+      - "E002FBEF 00451682"
+      - "201C2D00 03E00008"
+      - "201C2D04 00000000"
+      - "E002FBBF 00451682"
+      - "201C2D00 27BDFF90"
+      - "201C2D04 7FB00060"
+
+  - name: "1-Hit Death (enemies)"
+    author: "FloydFan"
+    notes: "[Misc Codes]"
+    codes:
+      - "201C2B84 24020000"
+
+  - name: "Max/Inf Ptas (money)"
+    notes: "[Misc Codes]"
+    codes:
+      - "2042DCEC 3B9AC9FF"
+
+  - name: "Save Game To Rest Game Time"
+    notes: "[Misc Codes]"
+    codes:
+      - "2042DCD4 00000000"
+
+  - name: "Save Times Amount 0"
+    notes: "[Misc Codes]"
+    codes:
+      - "0042DCDA 00000000"
+
+  - name: "Never Reload"
+    notes: "[Misc Codes]"
+    codes:
+      - "2012020C 24420000"
+
+  - name: "Unlock Everything"
+    notes: "[Misc Codes]"
+    codes:
+      - "104311E6 0000FFFF"
+
+  - name: "Have All Ada Reports"
+    notes: "[Misc Codes]"
+    codes:
+      - "004311ED 00000004"
+
+  - name: "Mercs Score Max"
+    notes: "[Misc Codes]"
+    codes:
+      - "203CFCEC 05F5E0FF"
+
+  - name: "Mercs Time Freeze"
+    notes: "[Misc Codes]"
+    codes:
+      - "1041B8E8 00000DD0"
+
+  - name: "Mercs Max Kills"
+    notes: "[Misc Codes]"
+    codes:
+      - "203CFD04 0000270F"
+
+  - name: "Mercs Max Kills In A Row"
+    notes: "[Misc Codes]"
+    codes:
+      - "203CFCF0 0000270F"
+
+  - name: "Main Character:"
+    notes: "[Misc Codes]"
+    codes:
+      - "0042DD0A 0000000[CHMOD]"
+
+  - name: "Main Clothes"
+    notes: "[Misc Codes]"
+    codes:
+      - "0042DD0B 0000000[CHMOD2]"
+
+  - name: "Partner Clothing"
+    notes: "[Misc Codes]"
+    codes:
+      - "0042DD0D 0000000[CHMOD2]"
+
+  - name: "Times Killed"
+    notes: "[Results]"
+    codes:
+      - "004311B4 00000000"
+
+  - name: "Unknown Results"
+    notes: "[Results]"
+    codes:
+      - "004311B6 00000000"
+
+  - name: "Max Enemies Killed"
+    notes: "[Results]"
+    codes:
+      - "204311B8 000003E7"
+      - "204311BC 0000270F"
+
+  - name: "Perfect Hit Ratio"
+    notes: "[Results]"
+    codes:
+      - "204311C0 00000064"
+      - "204311C4 0000270F"
+      - "204311C8 00000064"
+      - "204311CC 0000270F"
+
+  - name: "Slot 1"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F67E0 03E700[MITE]"
+
+  - name: "Slot 2"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F67E8 03E700[MITE]"
+
+  - name: "Slot 3"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F67F0 03E700[MITE]"
+
+  - name: "Slot 4"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F67F8 03E700[MITE]"
+
+  - name: "Slot 5"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6800 03E700[MITE]"
+
+  - name: "Slot 6"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6808 03E700[MITE]"
+
+  - name: "Slot 7"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6810 03E700[MITE]"
+
+  - name: "Slot 8"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6818 03E700[MITE]"
+
+  - name: "Slot 9"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6820 03E700[MITE]"
+
+  - name: "Slot 10"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6828 03E700[MITE]"
+
+  - name: "Slot 11"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6830 03E700[MITE]"
+
+  - name: "Slot 12"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6838 03E700[MITE]"
+
+  - name: "Slot 13"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6840 03E700[MITE]"
+
+  - name: "Slot 14"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6848 03E700[MITE]"
+
+  - name: "Slot 15"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6850 03E700[MITE]"
+
+  - name: "Slot 16"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6858 03E700[MITE]"
+
+  - name: "Slot 17"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6860 03E700[MITE]"
+
+  - name: "Slot 18"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6868 03E700[MITE]"
+
+  - name: "Slot 19"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6870 03E700[MITE]"
+
+  - name: "Slot 20"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6878 03E700[MITE]"
+
+  - name: "Slot 21"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6880 03E700[MITE]"
+
+  - name: "Slot 22"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6888 03E700[MITE]"
+
+  - name: "Slot 23"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6890 03E700[MITE]"
+
+  - name: "Slot 24"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6898 03E700[MITE]"
+
+  - name: "Slot 25"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F68A0 03E700[MITE]"
+
+  - name: "Slot 26"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F68A8 03E700[MITE]"
+
+  - name: "Slot 27"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F68B0 03E700[MITE]"
+
+  - name: "Slot 28"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F68B8 03E700[MITE]"
+
+  - name: "Slot 29"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F68C0 03E700[MITE]"
+
+  - name: "Slot 30"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F68C8 03E700[MITE]"
+
+  - name: "Slot 31"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F68D0 03E700[MITE]"
+
+  - name: "Slot 32"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F68D8 03E700[MITE]"
+
+  - name: "Slot 33"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F68E0 03E700[MITE]"
+
+  - name: "Slot 34"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F68E8 03E700[MITE]"
+
+  - name: "Slot 35"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F68F0 03E700[MITE]"
+
+  - name: "Slot 36"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F68F8 03E700[MITE]"
+
+  - name: "Slot 37"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6900 03E700[MITE]"
+
+  - name: "Slot 38"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6908 03E700[MITE]"
+
+  - name: "Slot 39"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6910 03E700[MITE]"
+
+  - name: "Slot 40"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6918 03E700[MITE]"
+
+  - name: "Slot 41"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6920 03E700[MITE]"
+
+  - name: "Slot 42"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6928 03E700[MITE]"
+
+  - name: "Slot 43"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6930 03E700[MITE]"
+
+  - name: "Slot 44"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6938 03E700[MITE]"
+
+  - name: "Slot 45"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6940 03E700[MITE]"
+
+  - name: "Slot 46"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6948 03E700[MITE]"
+
+  - name: "Slot 47"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6950 03E700[MITE]"
+
+  - name: "Slot 48"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6958 03E700[MITE]"
+
+  - name: "Slot 49"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6960 03E700[MITE]"
+
+  - name: "Slot 50"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6968 03E700[MITE]"
+
+  - name: "Slot 51"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6970 03E700[MITE]"
+
+  - name: "Slot 52"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6978 03E700[MITE]"
+
+  - name: "Slot 53"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6980 03E700[MITE]"
+
+  - name: "Slot 54"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6988 03E700[MITE]"
+
+  - name: "Slot 55"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6990 03E700[MITE]"
+
+  - name: "Slot 56"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F6998 03E700[MITE]"
+
+  - name: "Slot 57"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F69A0 03E700[MITE]"
+
+  - name: "Slot 58"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F69A8 03E700[MITE]"
+
+  - name: "Slot 59"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F69B0 03E700[MITE]"
+
+  - name: "Slot 60"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F69B8 03E700[MITE]"
+
+  - name: "Slot 61"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F69C0 03E700[MITE]"
+
+  - name: "Slot 62"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F69C8 03E700[MITE]"
+
+  - name: "Slot 63"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F69D0 03E700[MITE]"
+
+  - name: "Slot 64"
+    notes: "[Merchent Slots Max items/Item Mod{The Items Will Get Orderd By The Game Once U Use The Code .. They Will Not Show Up In The Order U Put Them For The Slots .. The Only Reson I Put Slot Is For Easy Reading ..}]"
+    codes:
+      - "210F69D8 03E700[MITE]"
+
+  - name: "Handgun"
+    notes: "[Merchent Upgrades Max]"
+    codes:
+      - "210F69E0 03070023"
+      - "110F69E4 00000603"
+
+  - name: "Shotgun"
+    notes: "[Merchent Upgrades Max]"
+    codes:
+      - "210F69E8 0107002C"
+      - "110F69EC 00000603"
+
+  - name: "Rifle"
+    notes: "[Merchent Upgrades Max]"
+    codes:
+      - "210F69F0 0107002E"
+      - "110F69F4 00000603"
+
+  - name: "Tmp"
+    notes: "[Merchent Upgrades Max]"
+    codes:
+      - "210F69F8 01070030"
+      - "110F69FC 00000603"
+
+  - name: "Punisher"
+    notes: "[Merchent Upgrades Max]"
+    codes:
+      - "210F6A00 03070021"
+      - "110F6A04 00000603"
+
+  - name: "Red9"
+    notes: "[Merchent Upgrades Max]"
+    codes:
+      - "210F6A08 03070025"
+      - "110F6A0C 00000603"
+
+  - name: "Blacktail"
+    notes: "[Merchent Upgrades Max]"
+    codes:
+      - "210F6A10 03070027"
+      - "110F6A14 00000603"
+
+  - name: "Broken Butterfly"
+    notes: "[Merchent Upgrades Max]"
+    codes:
+      - "210F6A18 01070029"
+      - "110F6A1C 00000403"
+
+  - name: "Rifle (semi-Auto)"
+    notes: "[Merchent Upgrades Max]"
+    codes:
+      - "210F6A20 0206002F"
+      - "110F6A24 00000603"
+
+  - name: "Riot Gun"
+    notes: "[Merchent Upgrades Max]"
+    codes:
+      - "210F6A28 01070094"
+      - "110F6A2C 00000603"
+
+  - name: "Mine Thrower"
+    notes: "[Merchent Upgrades Max]"
+    codes:
+      - "210F6A30 01040036"
+      - "110F6A34 00000302"
+
+  - name: "Striker"
+    notes: "[Merchent Upgrades Max]"
+    codes:
+      - "210F6A38 0106002D"
+      - "110F6A3C 00000703"
+
+  - name: "Killer7"
+    notes: "[Merchent Upgrades Max]"
+    codes:
+      - "210F6A40 0103002A"
+      - "110F6A44 00000303"
+
+  - name: "Chicago Typewriter"
+    notes: "[Merchent Upgrades Max]"
+    codes:
+      - "210F6A48 01070034"
+      - "110F6A4C 00000701"
+
+  - name: "Matilda"
+    notes: "[Merchent Upgrades Max]"
+    codes:
+      - "210F6A50 01070003"
+      - "110F6A54 00000703"
+
+  - name: "Hand Cannon"
+    notes: "[Merchent Upgrades Max]"
+    codes:
+      - "210F6A58 01070037"
+      - "110F6A5C 00000703"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90255484 0C0A9C16"
+
+  - name: "Health (You)"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "201AE398 8E215588"
+      - "201AE39C 84227ED8"
+      - "D0451682 0010F0FF"
+      - "201AE3A4 A4227ED6"
+      - "D0451682 0000F0FF"
+      - "201AE3A4 A4207ED6"
+
+  - name: "Health (Partner)"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "201AE3C8 8E215588"
+      - "201AE3CC 84227EDC"
+      - "201C2A24 00000000"
+      - "D0451682 0010F0FF"
+      - "201AE3D4 A4227EDA"
+      - "D0451682 0000F0FF"
+      - "201AE3D4 A4207EDA"
+
+  - name: "Ammo"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "2012020C 00000000"
+
+  - name: "Grenades"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "2011F0A0 00000000"
+
+  - name: "PTAS"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "2042DCEC 05F5E0FF"
+
+  - name: "Don't Get Squished By Boulders"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "201DE6C8 00000000"
+      - "201DE6CC 00000000"

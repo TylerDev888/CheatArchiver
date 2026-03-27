@@ -1,0 +1,384 @@
+# World Tour Soccer 2002 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97172
+
+game: "World Tour Soccer 2002"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97172"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01051A0 00338B67"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00338B67"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "103B4DE6 000000??"
+
+  - name: "Away Team Start With Score Modifier"
+    author: "Code Master"
+    codes:
+      - "D03B4DE6 00000000"
+      - "103B4DE6 000000??"
+
+  - name: "Corners Won Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "103BC3E2 000000??"
+
+  - name: "Fouls Committed Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "103BC3E6 000000??"
+
+  - name: "Offside Ruling Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "103BC3EA 000000??"
+
+  - name: "Shots On Goals Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "103BC3DA 000000??"
+
+  - name: "Shots Wide Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "103BC3DE 000000??"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "103B4DE4 000000??"
+
+  - name: "Home Team Start With Score Modifier"
+    author: "Code Master"
+    codes:
+      - "D03B4DE4 00000000"
+      - "103B4DE4 000000??"
+
+  - name: "L1+L2 = Team A Winning Score"
+    author: "InterAct"
+    codes:
+      - "D0653C2A 00000005"
+      - "103B4DE4 00000032"
+      - "D0653C2A 00000005"
+      - "103B4DE6 00000000"
+
+  - name: "P1 Press L1+L2 For More Time (1St Half)"
+    author: "Code Master"
+    codes:
+      - "D0651E42 0000FAFF"
+      - "103B4DC4 00000000"
+
+  - name: "P1 Press L1+R1 For More Time (2Nd Half)"
+    author: "Code Master"
+    codes:
+      - "D0651E42 0000F3FF"
+      - "103B4DC4 00003840"
+
+  - name: "P1 Press L2+R2 To End 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D0651E42 0000FCFF"
+      - "103B4DC4 00007040"
+
+  - name: "P1 Press R1+R2 To End 1St Half"
+    author: "Code Master"
+    codes:
+      - "D0651E42 0000F5FF"
+      - "103B4DC4 00003800"
+
+  - name: "P2 Press L1+L2 For More Time (1St Half)"
+    author: "Code Master"
+    codes:
+      - "D0651FC2 0000FAFF"
+      - "103B4DC4 00000000"
+
+  - name: "P2 Press L1+R1 For More Time (2Nd Half)"
+    author: "Code Master"
+    codes:
+      - "D0651FC2 0000F3FF"
+      - "103B4DC4 00003840"
+
+  - name: "P2 Press L2+R2 To End 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D0651FC2 0000FCFF"
+      - "103B4DC4 00007040"
+
+  - name: "P2 Press R1+R2 To End 1St Half"
+    author: "Code Master"
+    codes:
+      - "D0651FC2 0000F5FF"
+      - "103B4DC4 00003800"
+
+  - name: "P3 Press L1+L2 For More Time (1St Half)"
+    author: "Code Master"
+    codes:
+      - "D0652142 0000FAFF"
+      - "103B4DC4 00000000"
+
+  - name: "P3 Press L1+R1 For More Time (2Nd Half)"
+    author: "Code Master"
+    codes:
+      - "D0652142 0000F3FF"
+      - "103B4DC4 00003840"
+
+  - name: "P3 Press L2+R2 To End 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D0652142 0000FCFF"
+      - "103B4DC4 00007040"
+
+  - name: "P3 Press R1+R2 To End 1St Half"
+    author: "Code Master"
+    codes:
+      - "D0652142 0000F5FF"
+      - "103B4DC4 00003800"
+
+  - name: "P4 Press L1+L2 For More Time (1St Half)"
+    author: "Code Master"
+    codes:
+      - "D06522C2 0000FAFF"
+      - "103B4DC4 00000000"
+
+  - name: "P4 Press L1+R1 For More Time (2Nd Half)"
+    author: "Code Master"
+    codes:
+      - "D06522C2 0000F3FF"
+      - "103B4DC4 00003840"
+
+  - name: "P4 Press L2+R2 To End 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D06522C2 0000FCFF"
+      - "103B4DC4 00007040"
+
+  - name: "P4 Press R1+R2 To End 1St Half"
+    author: "Code Master"
+    codes:
+      - "D06522C2 0000F5FF"
+      - "103B4DC4 00003800"
+
+  - name: "P5 Press L1+L2 For More Time (1St Half)"
+    author: "Code Master"
+    codes:
+      - "D0652442 0000FAFF"
+      - "103B4DC4 00000000"
+
+  - name: "P5 Press L1+R1 For More Time (2Nd Half)"
+    author: "Code Master"
+    codes:
+      - "D0652442 0000F3FF"
+      - "103B4DC4 00003840"
+
+  - name: "P5 Press L2+R2 To End 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D0652442 0000FCFF"
+      - "103B4DC4 00007040"
+
+  - name: "P5 Press R1+R2 To End 1St Half"
+    author: "Code Master"
+    codes:
+      - "D0652442 0000F5FF"
+      - "103B4DC4 00003800"
+
+  - name: "P6 Press L1+L2 For More Time (1St Half)"
+    author: "Code Master"
+    codes:
+      - "D06525C2 0000FAFF"
+      - "103B4DC4 00000000"
+
+  - name: "P6 Press L1+R1 For More Time (2Nd Half)"
+    author: "Code Master"
+    codes:
+      - "D06525C2 0000F3FF"
+      - "103B4DC4 00003840"
+
+  - name: "P6 Press L2+R2 To End 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D06525C2 0000FCFF"
+      - "103B4DC4 00007040"
+
+  - name: "P6 Press R1+R2 To End 1St Half"
+    author: "Code Master"
+    codes:
+      - "D06525C2 0000F5FF"
+      - "103B4DC4 00003800"
+
+  - name: "P7 Press L1+L2 For More Time (1St Half)"
+    author: "Code Master"
+    codes:
+      - "D0652742 0000FAFF"
+      - "103B4DC4 00000000"
+
+  - name: "P7 Press L1+R1 For More Time (2Nd Half)"
+    author: "Code Master"
+    codes:
+      - "D0652742 0000F3FF"
+      - "103B4DC4 00003840"
+
+  - name: "P7 Press L2+R2 To End 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D0652742 0000FCFF"
+      - "103B4DC4 00007040"
+
+  - name: "P7 Press R1+R2 To End 1St Half"
+    author: "Code Master"
+    codes:
+      - "D0652742 0000F5FF"
+      - "103B4DC4 00003800"
+
+  - name: "P8 Press L1+L2 For More Time (1St Half)"
+    author: "Code Master"
+    codes:
+      - "D06528C2 0000FAFF"
+      - "103B4DC4 00000000"
+
+  - name: "P8 Press L1+R1 For More Time (2Nd Half)"
+    author: "Code Master"
+    codes:
+      - "D06528C2 0000F3FF"
+      - "103B4DC4 00003840"
+
+  - name: "P8 Press L2+R2 To End 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D06528C2 0000FCFF"
+      - "103B4DC4 00007040"
+
+  - name: "P8 Press R1+R2 To End 1St Half"
+    author: "Code Master"
+    codes:
+      - "D06528C2 0000F5FF"
+      - "103B4DC4 00003800"
+
+  - name: "Press Select+R1 To End First Half"
+    author: "InterAct"
+    codes:
+      - "D0651EC2 0000F7FE"
+      - "203B4DC4 000037C0"
+      - "D0651EC2 0000F7FE"
+      - "203BC418 000037C0"
+
+  - name: "Press Select+R2 To End Game"
+    author: "InterAct"
+    codes:
+      - "D0651EC2 0000FDFE"
+      - "203B4DC4 00007000"
+      - "D0651EC2 0000FDFE"
+      - "203BC418 00007000"
+
+  - name: "Press Select+X For Extra Time"
+    author: "InterAct"
+    codes:
+      - "D0651EC2 0000BFFE"
+      - "203B4DC4 00000000"
+      - "D0651EC2 0000BFFE"
+      - "203BC418 00000000"
+
+  - name: "R1+R2 = Team B Winning Score"
+    author: "InterAct"
+    codes:
+      - "D0653C2A 0000000A"
+      - "103B4DE4 00000000"
+      - "D0653C2A 0000000A"
+      - "103B4DE6 00000032"
+
+  - name: "Never Score More Than 1 Goal"
+    author: "Codejunkies"
+    notes: "[Team A Score Codes]"
+    codes:
+      - "E0010001 303B4DE4"
+      - "103B4DE4 00000001"
+
+  - name: "Never Score More Than 2 Goals"
+    author: "Codejunkies"
+    notes: "[Team A Score Codes]"
+    codes:
+      - "E0010002 303B4DE4"
+      - "103B4DE4 00000002"
+
+  - name: "Never Score More Than 3 Goals"
+    author: "Codejunkies"
+    notes: "[Team A Score Codes]"
+    codes:
+      - "E0010003 303B4DE4"
+      - "103B4DE4 00000003"
+
+  - name: "Never Score More Than 5 Goals"
+    author: "Codejunkies"
+    notes: "[Team A Score Codes]"
+    codes:
+      - "E0010005 303B4DE4"
+      - "103B4DE4 00000005"
+
+  - name: "Score 0"
+    author: "Codejunkies"
+    notes: "[Team A Score Codes]"
+    codes:
+      - "103B4DE4 00000000"
+
+  - name: "Score 50"
+    author: "Codejunkies"
+    notes: "[Team A Score Codes]"
+    codes:
+      - "103B4DE4 00000032"
+
+  - name: "Infinite Stat Points - Custom A"
+    author: "Codejunkies"
+    notes: "[Team B Score Codes]"
+    codes:
+      - "418BAB94 00030022"
+      - "00000200 00000000"
+      - "418BAD2C 001F0022"
+      - "00000900 00000000"
+
+  - name: "Infinite Stat Points - Custom B"
+    author: "Codejunkies"
+    notes: "[Team B Score Codes]"
+    codes:
+      - "418BB744 00030022"
+      - "00000200 00000000"
+      - "418BB8DC 001F0022"
+      - "00000900 00000000"
+
+  - name: "Infinite Stat Points - Custom C"
+    author: "Codejunkies"
+    notes: "[Team B Score Codes]"
+    codes:
+      - "418BC2F4 00030022"
+      - "00000200 00000000"
+      - "418BC48C 001F0022"
+      - "00000900 00000000"
+
+  - name: "Infinite Stat Points - Custom D"
+    author: "Codejunkies"
+    notes: "[Team B Score Codes]"
+    codes:
+      - "418BCEA4 00030022"
+      - "00000200 00000000"
+      - "418BD03C 001F0022"
+      - "00000900 00000000"

@@ -1,0 +1,109 @@
+# Space Race cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50487
+
+game: "Space Race"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50487"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01A6694 000001FD"
+
+  - name: "99 Points Tournament Mode"
+    author: "Codejunkies"
+    notes: "[Tournament Point Codes]"
+    codes:
+      - "00A07250 00000063"
+
+  - name: "Boost Always Available"
+    author: "Codejunkies"
+    notes: "[Tournament Point Codes]"
+    codes:
+      - "D0A25144 00000000"
+      - "10A25144 00000005"
+
+  - name: "Infinite Tokens"
+    author: "Codejunkies"
+    notes: "[Tournament Point Codes]"
+    codes:
+      - "2039D090 23071978"
+
+  - name: "Never Have More Than 25 Tournament Points"
+    author: "Codejunkies"
+    notes: "[Tournament Point Codes]"
+    codes:
+      - "E1010019 30A07250"
+      - "00A07250 00000019"
+
+  - name: "Never Have More Than 50 Tournament Points"
+    author: "Codejunkies"
+    notes: "[Tournament Point Codes]"
+    codes:
+      - "E1010032 30A07250"
+      - "00A07250 00000032"
+
+  - name: "Never Have More Than 75 Tournament Points"
+    author: "Codejunkies"
+    notes: "[Tournament Point Codes]"
+    codes:
+      - "E101004B 30A07250"
+      - "00A07250 0000004B"
+
+  - name: "Unlock All Tracks"
+    author: "Codejunkies"
+    notes: "[Tournament Point Codes]"
+    codes:
+      - "2039D0B0 FFFFFFFF"
+      - "1039D0A0 0000FFFF"
+
+  - name: "Buy Content In Gallery Even Without Symbols/Tokens"
+    author: "luc-ita"
+    codes:
+      - "201FFBCC 10000021"
+
+  - name: "Infinite Retries"
+    author: "luc-ita"
+    codes:
+      - "2020C4FC 00000000"
+
+  - name: "Opponents Don't Move"
+    author: "luc-ita"
+    codes:
+      - "2013B570 08028000"
+      - "200A0000 3C0100A0"
+      - "200A0004 8C2167C8"
+      - "200A0008 8C21003C"
+      - "200A000C 10300002"
+      - "200A0014 AE000030"
+      - "200A0018 46010036"
+      - "200A001C 0804ED5E"
+
+  - name: "Scratching Against Walls Doesn't Decrease Speed"
+    author: "luc-ita"
+    codes:
+      - "2013B154 00000000"
+
+  - name: "Skip Video Logos"
+    author: "luc-ita"
+    codes:
+      - "201A669C 00000000"
+
+  - name: "Turbo Available Even When Empty"
+    author: "luc-ita"
+    codes:
+      - "201E7950 00000000"
+      - "201E40A8 24040005"
+
+  - name: "Turbo Available Even When Empty And Lasts Twice As Long"
+    author: "luc-ita"
+    codes:
+      - "201E7950 00000000"
+      - "201E40A8 2404000A"

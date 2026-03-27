@@ -1,0 +1,47 @@
+# Mr. Bean cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54666
+
+game: "Mr. Bean"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54666"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "1 Biscuit == 100 Biscuits"
+    author: "luc-ita"
+    codes:
+      - "2015BC64 34020064"
+
+  - name: "1 Key == 100 Keys"
+    author: "luc-ita"
+    codes:
+      - "2015BC78 34020064"
+
+  - name: "1 Piece Of The Puzzle == 100 Pieces"
+    author: "luc-ita"
+    codes:
+      - "2015BC8C 34020064"
+
+  - name: "Infinite Spray"
+    author: "luc-ita"
+    codes:
+      - "2014AA94 00000000"
+
+  - name: "Jump In Mid-Air"
+    author: "luc-ita"
+    codes:
+      - "201E3280 E4400000"
+      - "201E3540 E4400000"
+      - "E0027F40 00529723"
+      - "201E3280 00000000"
+      - "201E3540 00000000"
+
+  - name: "Mr. Bean Pass Through Enemies"
+    author: "luc-ita"
+    codes:
+      - "20144100 03E00008"
+      - "20144104 00000000"

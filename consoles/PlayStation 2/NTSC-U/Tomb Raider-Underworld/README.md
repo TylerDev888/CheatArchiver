@@ -1,0 +1,351 @@
+# Tomb Raider-Underworld
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-21858  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Enable Code (Must Be On) [Read Note]
+**Author:** Lajos Szalay  
+**Notes:** [Masters]
+
+```
+90539B90 0C145CB1
+```
+
+---
+
+### Invincible
+**Author:** Lajos Szalay  
+**Notes:** [Codes]
+
+```
+200C0220 3C01447A
+200C0224 AC410638
+200C0228 AC410650
+200C022C 03E00008
+200C0230 C4400638
+20272D94 0C030088
+10272932 00001000
+```
+
+---
+
+### 1-Shot Kills (Enemies)
+**Author:** Lajos Szalay  
+**Notes:** [Codes]
+
+```
+201B5A50 ACC00004
+```
+
+---
+
+### Infinite Ammmo With No Reload
+**Author:** Lajos Szalay  
+**Notes:** [Codes]
+
+```
+20254DCC 00000000
+```
+
+---
+
+### Infinite Grenades
+**Author:** Lajos Szalay  
+**Notes:** [Codes]
+
+```
+2022CE5C 00000000
+```
+
+---
+
+### Max Infinite Grenades
+**Author:** Lajos Szalay  
+**Notes:** [Codes]
+
+```
+2022CE54 2402000A
+```
+
+---
+
+### Have All Max Treasures
+**Author:** Lajos Szalay  
+**Notes:** [Codes]
+
+```
+2015BAB4 240203E7
+2015BA5C 240203E7
+```
+
+---
+
+### P1 Press L2 & X To Moon Jump
+**Author:** Lajos Szalay  
+**Notes:** [Codes]
+
+```
+200C0240 3C0142E0
+200C0244 AC4100F8
+200C0248 080A8784
+200C024C 784400F0
+D05B50C0 0000BEFF
+202A14A0 0C030090
+D05B50C0 0000FFFF
+202A14A0 0C0A875C
+```
+
+---
+
+### God Mode
+**Author:** Lajos Szalay  
+**Notes:** [Debug Menu Codes]
+
+```
+205FF440 00000001
+```
+
+---
+
+### 1-Shot Kills
+**Author:** Lajos Szalay  
+**Notes:** [Debug Menu Codes]
+
+```
+205FF17C 00000001
+```
+
+---
+
+### P1 Press R3+Up To No Clipping Enable
+**Author:** Lajos Szalay  
+**Notes:** [Debug Menu Codes]
+
+```
+D05B50C0 0000FFEB
+006020BC 00000001
+```
+
+---
+
+### P1 Press R3+Down To No Clipping Disable
+**Author:** Lajos Szalay  
+**Notes:** [Debug Menu Codes]
+
+```
+D05B50C0 0000FFBB
+006020BC 00000000
+```
+
+---
+
+### P1 Press R3+Left To Walk Thru Walls Enable
+**Author:** Lajos Szalay  
+**Notes:** [Debug Menu Codes]
+
+```
+D05B50C0 0000FF7B
+10297CE2 00001000
+```
+
+---
+
+### P1 Press R3+Right To Walk Thru Walls Disable
+**Author:** Lajos Szalay  
+**Notes:** [Debug Menu Codes]
+
+```
+D05B50C0 0000FFDB
+10297CE2 00001440
+```
+
+---
+
+### P1 Press L1+L2+R1+R2 To Reload Checkpoint
+**Author:** Lajos Szalay  
+**Notes:** [Debug Menu Codes]
+
+```
+D05B50C0 0000F0FF
+006020B8 00000001
+```
+
+---
+
+### P1 Press L3+Up Show Enemy Health Enable
+**Author:** Lajos Szalay  
+**Notes:** [Debug Menu Codes]
+
+```
+D05B50C0 0000FFED
+005FEF3C 00000001
+```
+
+---
+
+### P1 Press L3+Down Show Enemy Health Disable
+**Author:** Lajos Szalay  
+**Notes:** [Debug Menu Codes]
+
+```
+D05B50C0 0000FFBD
+005FEF3C 00000000
+```
+
+---
+
+### P1 Press L3+Left No Texture Enable
+**Author:** Lajos Szalay  
+**Notes:** [Debug Menu Codes]
+
+```
+D05B50C0 0000FF7D
+00606838 00000001
+```
+
+---
+
+### P1 Press L3+Right No Texture Disable
+**Author:** Lajos Szalay  
+**Notes:** [Debug Menu Codes]
+
+```
+D05B50C0 0000FFDD
+00606838 00000000
+```
+
+---
+
+### P1 Press L2+Up Quicker Player
+**Author:** Lajos Szalay  
+**Notes:** [Speed Modifier Codes]
+
+```
+D05B50C0 0000FEEF
+20602150 3FC00000
+```
+
+---
+
+### P1 Press L2+Down Hyper Mode
+**Author:** Lajos Szalay  
+**Notes:** [Speed Modifier Codes]
+
+```
+D05B50C0 0000FEBF
+20602150 40200000
+```
+
+---
+
+### P1 Press L2+Left Slow Motion
+**Author:** Lajos Szalay  
+**Notes:** [Speed Modifier Codes]
+
+```
+D05B50C0 0000FE7F
+20602150 3F000000
+```
+
+---
+
+### P1 Press L2+Right Normal Speed
+**Author:** Lajos Szalay  
+**Notes:** [Speed Modifier Codes]
+
+```
+D05B50C0 0000FEDF
+20602150 3F800000
+```
+
+---
+
+### P1 Press L1+Up Zoom In
+**Author:** Lajos Szalay  
+**Notes:** [Camera Zoom Modifier Codes]
+
+```
+D05B50C0 0000FBEF
+2067DC14 41340000
+```
+
+---
+
+### P1 Press L1+Down Zoom Really In
+**Author:** Lajos Szalay  
+**Notes:** [Camera Zoom Modifier Codes]
+
+```
+D05B50C0 0000FBBF
+2067DC14 40340000
+```
+
+---
+
+### P1 Press L1+Left Zoom Out
+**Author:** Lajos Szalay  
+**Notes:** [Camera Zoom Modifier Codes]
+
+```
+D05B50C0 0000FB7F
+2067DC14 42F40000
+```
+
+---
+
+### P1 Press L1+Right Default
+**Author:** Lajos Szalay  
+**Notes:** [Camera Zoom Modifier Codes]
+
+```
+D05B50C0 0000FBDF
+2067DC14 42340000
+```
+
+---
+
+### Revisit Location & Story Boards
+**Author:** Lajos Szalay  
+**Notes:** [Have All Unlockable Codes]
+
+```
+20104AD4 2402000F
+```
+
+---
+
+### Environment Concepts
+**Author:** Lajos Szalay  
+**Notes:** [Have All Unlockable Codes]
+
+```
+1010635E 00001000
+```
+
+---
+
+### Character Concepts
+**Author:** Lajos Szalay  
+**Notes:** [Have All Unlockable Codes]
+
+```
+10106EBE 00001000
+```
+
+---
+
+### Gear Concepts
+**Author:** Lajos Szalay  
+**Notes:** [Have All Unlockable Codes]
+
+```
+1010725E 00001000
+```
+
+---

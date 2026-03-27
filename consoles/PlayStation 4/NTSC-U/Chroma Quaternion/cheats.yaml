@@ -1,0 +1,28 @@
+# Chroma Quaternion cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA28135
+
+game: "Chroma Quaternion"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA28135"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Roulette"
+    notes: "File: saveData0\\gameSaveData"
+    codes:
+      - "10000108 00006363"
+
+  - name: "In Game Shop Money"
+    notes: "File: saveData0\\gameSaveData"
+    codes:
+      - "10000180 0000FFFF"
+
+  - name: "Money"
+    notes: "File: saveData0\\gameSaveData"
+    codes:
+      - "[SaveSlot]"
+      - "28001EF8 [Amount:05F5E0FF:HEX:BIG]"

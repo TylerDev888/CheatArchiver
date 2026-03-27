@@ -1,0 +1,96 @@
+# Capcom Classics Collection Vol. 2 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54561
+
+game: "Capcom Classics Collection Vol. 2"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54561"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Always Correct Answer (Triangle Button)"
+    author: "lee4"
+    notes: "[Capcom Quiz & Dragons Codes]"
+    codes:
+      - "604ABC4C 00000000"
+      - "00000001 0000E004"
+
+  - name: "Enable Code (Must Be On)"
+    author: "lee4"
+    notes: "[Capcom Quiz & Dragons Codes]"
+    codes:
+      - "9015F408 00832021"
+
+  - name: "P1 Inf Lives"
+    author: "lee4"
+    notes: "[Capcom Quiz & Dragons Codes]"
+    codes:
+      - "604ABC4C 00000005"
+      - "00000001 0000E477"
+
+  - name: "P1 Inf Time (Hold L1+R1 For Countdown)"
+    author: "lee4"
+    notes: "[Capcom Quiz & Dragons Codes]"
+    codes:
+      - "E002F3FF 104927C2"
+      - "604ABC4C 0000000F"
+      - "00000001 0000E00B"
+
+  - name: "P2 Inf Lives"
+    author: "lee4"
+    notes: "[Capcom Quiz & Dragons Codes]"
+    codes:
+      - "604ABC4C 00000005"
+      - "00000001 0000E479"
+
+  - name: "P2 Inf Time (Hold L1+R1 For Countdown)"
+    author: "lee4"
+    notes: "[Capcom Quiz & Dragons Codes]"
+    codes:
+      - "E002F3FF 10492902"
+      - "604ABC4C 0000000F"
+      - "00000001 0000E00D"
+
+  - name: "Shortcut To Boss"
+    author: "lee4"
+    notes: "[Capcom Quiz & Dragons Codes]"
+    codes:
+      - "604ABC4C 00000001"
+      - "00000001 0000E967"
+
+  - name: "60Hz"
+    author: "lee4"
+    notes: "[Super Street Fighter 2 Turbo]"
+    codes:
+      - "D016EA60 0000F1BA"
+      - "0028824C 00000001"
+
+  - name: "Auto Save Disable"
+    author: "lee4"
+    notes: "[Super Street Fighter 2 Turbo]"
+    codes:
+      - "D016EA60 0000F1BA"
+      - "00281BFC 00000000"
+
+  - name: "Difficulty"
+    author: "lee4"
+    notes: "[Super Street Fighter 2 Turbo]"
+    codes:
+      - "D016EA60 0000F1BA"
+      - "0028F6B0 0000000?"
+
+  - name: "Speed"
+    author: "lee4"
+    notes: "[Super Street Fighter 2 Turbo]"
+    codes:
+      - "D016EA60 0000F1BA"
+      - "0028F6B4 0000000?"
+
+  - name: "Ssf2t RAM Pointer2"
+    author: "lee4"
+    notes: "[Super Street Fighter 2 Turbo]"
+    codes:
+      - "00000002 00000298"

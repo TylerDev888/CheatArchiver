@@ -1,0 +1,63 @@
+# Britney's Dance Beat cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20402
+
+game: "Britney's Dance Beat"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20402"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02B59A4 002B59A7"
+
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F02000DC 002B59A7"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0200008 002B59A7"
+
+  - name: "Have All Videos"
+    author: "Code Master"
+    codes:
+      - "10356698 00000006"
+
+  - name: "Have Tons Of Points"
+    author: "Codejunkies"
+    codes:
+      - "10356690 000003E7"
+
+  - name: "Max Total Points"
+    author: "Code Master"
+    codes:
+      - "10356690 0000270F"
+
+  - name: "Press L3 For Debug Menu"
+    author: "punk7890"
+    codes:
+      - "D02F0F02 0000FFFD"
+      - "202ECE60 00000000"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0200008 002B59A7"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "902B59A4 0C0B3BAE"

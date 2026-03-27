@@ -1,0 +1,57 @@
+# Kono Aozora Ni Yakusoku O - Melody Of The Sun And Sea cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66695
+
+game: "Kono Aozora Ni Yakusoku O - Melody Of The Sun And Sea"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66695"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90195FF8 0C0657A6"
+
+  - name: "New Game, Save To Slot 1, Load = Debug Menu"
+    author: "punk7890"
+    codes:
+      - "10266DE4 0000FFFF"
+      - "20266DE8 00000000"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "40266D6C 00050001"
+      - "FFFFFFFF 00000000"
+      - "10266D80 0000FFFF"
+      - "00266D82 000000FF"
+
+  - name: "Unlock All Events"
+    author: "punk7890"
+    codes:
+      - "40265CE8 00050001"
+      - "FFFFFFFF 00000000"
+      - "10265CFC 0000FFFF"
+      - "20265CC0 FFFFFFFF"
+      - "20265CE4 FFFFFFFF"
+      - "20265CE0 FFFFFFFF"
+      - "20265CDC FFFFFFFF"
+      - "20265CD8 FFFFFFFF"
+      - "10265CD6 0000FFFF"
+      - "00265CD5 000000FF"
+
+  - name: "Unlock All Main Menu Items"
+    author: "punk7890"
+    codes:
+      - "20265CE8 FFFFFFFF"
+
+  - name: "Unlock All Music"
+    author: "punk7890"
+    codes:
+      - "20266D84 FFFFFFFF"
+      - "10266D88 0000FFFF"

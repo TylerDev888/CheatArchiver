@@ -1,0 +1,88 @@
+# Phantasy Star II
+
+**Console:** Nintendo Wii  
+**Region:** NTSC-U  
+**Serial:** MB8E  
+**Cheat Type:** Gecko  
+
+---
+
+## Cheats
+
+### Enable Code (MUST BE ON)
+**Author:**   
+**Notes:** [Masters]
+
+```
+Credits: Skiller
+04002F00 61EFC620
+04002F04 7C0F0000
+04002F08 4082000C
+04002F0C 3DE08000
+04002F10 90AF2F1C
+04002F14 7F85022E
+04002F18 4801ABCC
+0401DAE0 4BFE5420
+```
+
+---
+
+### Max Money (mst)
+**Author:** Skiller
+
+```
+48000000 80002F1C
+DE000000 80008180
+1400C620 05F5E0FF
+E0000000 80008000
+```
+
+---
+
+### Inf HP Player 1
+**Author:** Skiller
+
+```
+48000000 80002F1C
+DE000000 80008180
+1000C003 000000FF
+E0000000 80008000
+```
+
+---
+
+### Inf Tp Player 1
+**Author:** Skiller
+
+```
+48000000 80002F1C
+DE000000 80008180
+1000C007 000000FF
+E0000000 80008000
+```
+
+---
+
+### Inf HP Player 2
+**Author:** Skiller
+
+```
+48000000 80002F1C
+DE000000 80008180
+1000C043 000000FF
+E0000000 80008000
+```
+
+---
+
+### Inf Tp Player 2
+**Author:** Skiller
+
+```
+48000000 80002F1C
+DE000000 80008180
+1000C047 000000FF
+E0000000 80008000
+```
+
+---

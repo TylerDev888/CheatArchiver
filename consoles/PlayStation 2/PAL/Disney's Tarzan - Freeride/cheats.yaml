@@ -1,0 +1,80 @@
+# Disney's Tarzan - Freeride cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50350
+
+game: "Disney's Tarzan - Freeride"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50350"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F02012A8 000001FD"
+
+  - name: "Player 1 Controller"
+    author: "luc-ita"
+    notes: "[Jokers]"
+    codes:
+      - "D07C0022 0000????"
+
+  - name: "Always Have Infinite Spears (Don't Need To Take Them)"
+    author: "luc-ita"
+    codes:
+      - "20270544 10000003"
+      - "20270614 24620000"
+
+  - name: "Godmode"
+    author: "luc-ita"
+    codes:
+      - "2027BA98 00000000"
+      - "2028D908 00000000"
+      - "20295D58 00000000"
+      - "2028E3DC 00000000"
+      - "2029C640 24420000"
+
+  - name: "Infinite Lives (Story Mode Only)"
+    author: "Codejunkies"
+    codes:
+      - "D0FB9590 00000001"
+      - "10FB9590 00000009"
+
+  - name: "No Damage (In Jungles Only)"
+    author: "Codejunkies"
+    codes:
+      - "202B6310 03E00008"
+      - "202B6314 00000000"
+
+  - name: "No Damage (On Raft Only)"
+    author: "Codejunkies"
+    codes:
+      - "2028E840 03E00008"
+      - "2028E844 00000000"
+
+  - name: "No Damage (On Water Ski Only)"
+    author: "Codejunkies"
+    codes:
+      - "202930B0 03E00008"
+      - "202930B4 00000000"
+
+  - name: "Skip All The Videos Of The Game"
+    author: "luc-ita"
+    codes:
+      - "20363AB0 03E00008"
+      - "20363AB4 00000000"
+
+  - name: "Take Collectables Anywhere"
+    author: "luc-ita"
+    codes:
+      - "20306EC0 00000000"
+
+  - name: "Timer Stopped - Terk's Challenges"
+    author: "luc-ita"
+    codes:
+      - "20348B00 24030001"
+      - "20348B04 080D22D3"

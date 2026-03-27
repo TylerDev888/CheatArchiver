@@ -1,0 +1,18 @@
+# SOCOM_ Fire Team Bravo 2 cheat data
+# Console: PSP
+# Region:  NTSC-U
+# Serial:  UCUS98645
+
+game: "SOCOM_ Fire Team Bravo 2"
+console: "PSP"
+region: "NTSC-U"
+serial: "UCUS98645"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Fix Save Owner Socomft2.bin (required)"
+    notes: "File: SOCOMFT2.BIN"
+    codes:
+      - "set [wlan]:host_wlan_addr"
+      - "write at 0x0008:[wlan]"

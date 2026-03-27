@@ -1,0 +1,34 @@
+# Shadow Of The Colossus cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-53326
+
+game: "Shadow Of The Colossus"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-53326"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Jay007"
+    notes: "[Master Codes]"
+    codes:
+      - "F0114B90 00114B93"
+
+  - name: "Infinite Grip"
+    author: "Codejunkies"
+    notes: "[Official Codes]"
+    codes:
+      - "E0020001 001DCA08"
+      - "D01DCA0A 00000000"
+      - "212EA020 43480000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Official Codes]"
+    codes:
+      - "E0020001 001DCA08"
+      - "D01DCA0A 00000000"
+      - "212EA024 43480000"

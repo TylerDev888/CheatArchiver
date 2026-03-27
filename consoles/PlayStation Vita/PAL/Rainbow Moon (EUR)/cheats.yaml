@@ -1,0 +1,86 @@
+# Rainbow Moon (EUR) cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00370
+
+game: "Rainbow Moon (EUR)"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00370"
+cheat_type: "Save Editor"
+source: "Credits: Slade"
+
+cheats:
+  - name: "999,999,999 Coins"
+    notes: "File: data0000.bin"
+    codes:
+      - "20000104 3B9AC9FF"
+
+  - name: "Pl1 999,999 Pearls"
+    notes: "File: data0000.bin"
+    codes:
+      - "20016714 000F423F"
+
+  - name: "Pl1 Add 999 Xp"
+    notes: "File: data0000.bin  (\"The Add 999 XP cheat will ensure you go up a level after a fight.\")"
+    codes:
+      - "10019688 000003E7"
+
+  - name: "Pl1 9,999 Hp"
+    notes: "File: data0000.bin"
+    codes:
+      - "100163B4 0000270F"
+      - "100163BC 0000270F"
+
+  - name: "Pl1 9,999 Mp"
+    notes: "File: data0000.bin"
+    codes:
+      - "100163B8 0000270F"
+      - "100163C0 0000270F"
+
+  - name: "250 Recovery Items Slots"
+    notes: "File: data0000.bin"
+    codes:
+      - "00015954 000000FA"
+
+  - name: "250 Misc. Items Slots"
+    notes: "File: data0000.bin"
+    codes:
+      - "00015958 000000FA"
+
+  - name: "250 Weapons Items Slots"
+    notes: "File: data0000.bin"
+    codes:
+      - "0001595C 000000FA"
+
+  - name: "250 Armor Items Slots"
+    notes: "File: data0000.bin"
+    codes:
+      - "00015960 000000FA"
+
+  - name: "250 Materials Slots"
+    notes: "File: data0000.bin"
+    codes:
+      - "00015964 000000FA"
+
+  - name: "250 Key Items Slots"
+    notes: "File: data0000.bin"
+    codes:
+      - "00015968 000000FA"
+
+  - name: "Trisha Add 999 Xp"
+    notes: "File: data0000.bin"
+    codes:
+      - "100196A0 000003E7"
+
+  - name: "Trisha 9,999 Hp"
+    notes: "File: data0000.bin"
+    codes:
+      - "10016880 0000270F"
+      - "10016888 0000270F"
+
+  - name: "Trisha 9,999 Mp"
+    notes: "File: data0000.bin"
+    codes:
+      - "10016884 0000270F"
+      - "100168AC 0000270F"

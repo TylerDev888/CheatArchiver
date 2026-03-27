@@ -1,0 +1,37 @@
+# Naval Ops_ Warship Gunner cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Naval Ops_ Warship Gunner"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90163820 0C04A5FE"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20297884 0C030000"
+      - "20297888 00000000"
+      - "200C0000 240301F4"
+      - "200C0004 02010820"
+      - "200C0008 AC23C358"
+      - "200C000C AC430054"
+      - "200C0010 03E00008"
+      - "200C0014 0060902D"
+
+  - name: "Ammunition"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20316CB0 0260A023"
+      - "20316D00 02601023"

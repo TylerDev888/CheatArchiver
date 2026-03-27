@@ -1,0 +1,235 @@
+# Dragon Rage cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50632
+
+game: "Dragon Rage"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50632"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0145C80 000001FD"
+
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01EC620 001EC637"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Level 1 - Bonelands]"
+    codes:
+      - "11BC898C 0000270F"
+
+  - name: "Infinite Mana"
+    author: "Codejunkies"
+    notes: "[Level 1 - Bonelands]"
+    codes:
+      - "11BC8ED8 0000270F"
+
+  - name: "Max Air Level"
+    author: "Codejunkies"
+    notes: "[Level 1 - Bonelands]"
+    codes:
+      - "01BC8EA6 00000004"
+
+  - name: "Max Earth Level"
+    author: "Codejunkies"
+    notes: "[Level 1 - Bonelands]"
+    codes:
+      - "01BC8EA7 00000004"
+
+  - name: "Max Fire Level"
+    author: "Codejunkies"
+    notes: "[Level 1 - Bonelands]"
+    codes:
+      - "01BC8EA4 00000004"
+
+  - name: "Max Health"
+    author: "Codejunkies"
+    notes: "[Level 1 - Bonelands]"
+    codes:
+      - "11BC8EAC 0000270F"
+
+  - name: "Max Mana"
+    author: "Codejunkies"
+    notes: "[Level 1 - Bonelands]"
+    codes:
+      - "11BC8EB0 0000270F"
+
+  - name: "Max Water Level"
+    author: "Codejunkies"
+    notes: "[Level 1 - Bonelands]"
+    codes:
+      - "01BC8EA5 00000004"
+
+  - name: "Select Air Weapon (Press Select+Down To Activate)"
+    author: "Codejunkies"
+    notes: "[Level 1 - Bonelands]"
+    codes:
+      - "D049C640 00000041"
+      - "01BC8EB4 00000002"
+
+  - name: "Select Earth Weapon (Press Select+Left To Activate)"
+    author: "Codejunkies"
+    notes: "[Level 1 - Bonelands]"
+    codes:
+      - "D049C640 00000081"
+      - "01BC8EB4 00000003"
+
+  - name: "Select Fire Weapon (Press Select+Up To Activate)"
+    author: "Codejunkies"
+    notes: "[Level 1 - Bonelands]"
+    codes:
+      - "D049C640 00000011"
+      - "01BC8EB4 00000000"
+
+  - name: "Select Water Weapon (Press Select+Right To Activate)"
+    author: "Codejunkies"
+    notes: "[Level 1 - Bonelands]"
+    codes:
+      - "D049C640 00000021"
+      - "01BC8EB4 00000001"
+
+  - name: "Select+Down"
+    author: "InterAct"
+    notes: "[Level 1 Codes]"
+    codes:
+      - "01BC8EB4 00000002"
+
+  - name: "Select+Left"
+    author: "InterAct"
+    notes: "[Level 1 Codes]"
+    codes:
+      - "01BC8EB4 00000003"
+
+  - name: "Select+Right"
+    author: "InterAct"
+    notes: "[Level 1 Codes]"
+    codes:
+      - "01BC8EB4 00000001"
+
+  - name: "Select+Up"
+    author: "InterAct"
+    notes: "[Level 1 Codes]"
+    codes:
+      - "01BC8EB4 00000000"
+
+  - name: "Weapon Earth"
+    author: "InterAct"
+    notes: "[Level 1 Codes]"
+    codes:
+      - "D049C640 00000081"
+
+  - name: "Weapon Fire"
+    author: "InterAct"
+    notes: "[Level 1 Codes]"
+    codes:
+      - "D049C640 00000011"
+
+  - name: "Weapon Ice"
+    author: "InterAct"
+    notes: "[Level 1 Codes]"
+    codes:
+      - "D049C640 00000021"
+
+  - name: "Weapon Lightening"
+    author: "InterAct"
+    notes: "[Level 1 Codes]"
+    codes:
+      - "D049C640 00000041"
+
+  - name: "Air Weapon - Select+Down"
+    author: "Codejunkies"
+    notes: "[Level 3 - Scramble]"
+    codes:
+      - "D049C640 00000041"
+      - "01B25C84 00000002"
+
+  - name: "Earth Weapon - Select+Left"
+    author: "Codejunkies"
+    notes: "[Level 3 - Scramble]"
+    codes:
+      - "D049C640 00000081"
+      - "01B25C84 00000003"
+
+  - name: "Fire Weapon - Select+Up"
+    author: "Codejunkies"
+    notes: "[Level 3 - Scramble]"
+    codes:
+      - "D049C640 00000011"
+      - "01B25C84 00000000"
+
+  - name: "Earth Weapon - Sel+Left"
+    author: "Codejunkies"
+    notes: "[Level 8 - Betrayal]"
+    codes:
+      - "D049C640 00000081"
+      - "01B1A644 00000003"
+
+  - name: "Infinite Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "002A8948 00000063"
+
+  - name: "Never Have More Than 1 Life"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E1010001 302A8948"
+      - "002A8948 00000001"
+
+  - name: "Never Have More Than 2 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E1010002 302A8948"
+      - "002A8948 00000002"
+
+  - name: "Never Have More Than 3 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E1010003 302A8948"
+      - "002A8948 00000003"
+
+  - name: "Never Have More Than 4 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E1010004 302A8948"
+      - "002A8948 00000004"
+
+  - name: "Never Have More Than 5 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E1010005 302A8948"
+      - "002A8948 00000005"
+
+  - name: "Unlock All Levels"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "1049CF46 0000000E"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001EC4B7"
+
+  - name: "Unlimited Lives"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "00230264 68092863"

@@ -1,0 +1,50 @@
+# Space Channel 5-Special Edition-Part 1 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20807
+
+game: "Space Channel 5-Special Edition-Part 1"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20807"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001C7E77"
+
+  - name: "Infinite Hearts"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201180A4 00000000"
+      - "2011D994 00000000"
+
+  - name: "Max Rating After 1 Dance"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101001CA 00001000"
+      - "101001EA 00001000"
+      - "10100202 00001000"
+
+  - name: "Unlock All Character Profiles"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2151F150 FFFFFFFF"
+      - "2151F154 FFFFFFFF"
+      - "1151F158 0000FFFF"
+
+  - name: "All Character Profiles Not New Anymore"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1151F15A 0000FFFF"
+      - "2151F15C FFFFFFFF"
+      - "2151F160 FFFFFFFF"
+      - "0151F164 000000FF"

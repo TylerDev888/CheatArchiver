@@ -1,0 +1,80 @@
+# Dai Senryaku Exceed VII cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21352
+
+game: "Dai Senryaku Exceed VII"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21352"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90256898 0C0959CE"
+
+  - name: "Activator For Codes"
+    author: "SkillerCMP"
+    notes: "[Misc Codes]"
+    codes:
+      - "2018A678 08028000"
+      - "2018A67C 00000000"
+      - "200A0000 15400023"
+      - "200A0008 3C100001"
+      - "200A000C 3610869F"
+      - "200A0078 8CD00000"
+      - "200A007C 0806299F"
+      - "200A0080 25CEF248"
+      - "200A00F8 1000FFDF"
+
+  - name: "Max/Inf Funds"
+    author: "SkillerCMP"
+    notes: "[Misc Codes]"
+    codes:
+      - "200A0010 ACD00000"
+
+  - name: "Max/Inf Fuel"
+    author: "SkillerCMP"
+    notes: "[Misc Codes]"
+    codes:
+      - "200A0014 ACD00004"
+
+  - name: "Zero Funds Enemys"
+    author: "SkillerCMP"
+    notes: "[Misc Codes]"
+    codes:
+      - "200A0090 ACC00000"
+
+  - name: "Zero Fuel Enemys"
+    author: "SkillerCMP"
+    notes: "[Misc Codes]"
+    codes:
+      - "200A0094 ACC00004"
+
+  - name: "Always Able To Move"
+    author: "SkillerCMP"
+    notes: "[Misc Codes]"
+    codes:
+      - "10137CC8 00000000"
+
+  - name: "Inf HP"
+    author: "SkillerCMP"
+    notes: "[Misc Codes]"
+    codes:
+      - "D0443642 0000FFFE"
+      - "201F28E0 00000000"
+      - "D0443642 0010FFFE"
+      - "201F28E0 A56D0000"
+      - "D0443642 0000FEFF"
+      - "201F28EC 00000000"
+      - "D0443642 0010FEFF"
+      - "201F28EC A54E0000"
+
+  - name: "Inf Ammo/Gain"
+    author: "SkillerCMP"
+    notes: "[Misc Codes]"
+    codes:
+      - "201F448C 240F0009"

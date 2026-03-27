@@ -1,0 +1,104 @@
+# Devil May Cry 3 - Dante's Awakening cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53038
+
+game: "Devil May Cry 3 - Dante's Awakening"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53038"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01AD558 001AD55B"
+
+  - name: "All Bonus Material Open"
+    author: "Codejunkies"
+    codes:
+      - "21CB2A20 FFFFFFFF"
+      - "21CB2A24 FFFFFFFF"
+      - "21CB2A28 FFFFFFFF"
+
+  - name: "All Normal Levels Open In Load Game"
+    author: "Codejunkies"
+    codes:
+      - "00733BE1 00000005"
+
+  - name: "All Weapons Available In Customize"
+    author: "Codejunkies"
+    codes:
+      - "00733BA6 00000001"
+
+  - name: "Always Devil Hunter Rank S"
+    author: "Codejunkies"
+    codes:
+      - "20733BF8 3F800000"
+      - "20733BFC 00000000"
+      - "20733C00 000F423F"
+      - "20733C04 00000000"
+      - "20733CB4 4A000000"
+
+  - name: "Each Red Orb Is Worth 9999"
+    author: "Codejunkies"
+    codes:
+      - "202EB758 2404270F"
+
+  - name: "Infinite Devil Stars"
+    author: "Codejunkies"
+    codes:
+      - "00733BA2 0000001E"
+      - "007851DE 0000001E"
+
+  - name: "Infinite Devil Trigger"
+    author: "Jay007"
+    codes:
+      - "202415E8 C60128C8"
+      - "202415F8 E60128C4"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "200FFF00 3C030073"
+      - "200FFF04 8C633CA8"
+      - "200FFF08 AC832AD4"
+      - "200FFF0C C6212AD4"
+      - "200FFF10 08087C08"
+      - "2021F01C 0803FFC0"
+
+  - name: "Infinite Holy Water"
+    author: "Codejunkies"
+    codes:
+      - "00733BA3 0000001E"
+      - "007851DF 0000001E"
+
+  - name: "Infinite Vital Stars L"
+    author: "Codejunkies"
+    codes:
+      - "00733BA0 0000001E"
+      - "007851DD 0000001E"
+
+  - name: "Infinite Vital Stars S"
+    author: "Codejunkies"
+    codes:
+      - "00733BA1 0000001E"
+      - "007851DC 0000001E"
+
+  - name: "Infinite Yellow Orbs"
+    author: "Codejunkies"
+    codes:
+      - "00733B96 00000063"
+
+  - name: "Max Blue Orbs"
+    author: "Codejunkies"
+    codes:
+      - "00733B97 00000006"
+
+  - name: "Max Purple Orbs"
+    author: "Codejunkies"
+    codes:
+      - "00733B98 00000007"

@@ -1,0 +1,99 @@
+# Hatsune Miku Project Diva F2nd cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM61079
+
+game: "Hatsune Miku Project Diva F2nd"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM61079"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "9999999 Diva Point"
+    notes: "File: SECURE.BIN"
+    codes:
+      - "20037AC0 0098967F"
+
+  - name: "9999999 Total Diva Point"
+    notes: "File: SECURE.BIN"
+    codes:
+      - "20037AC4 0098967F"
+
+  - name: "Diva Point"
+    notes: "File: SECURE.BIN"
+    codes:
+      - "20037AC0 05F5E0FF"
+
+  - name: "Total Diva Point"
+    notes: "File: SECURE.BIN"
+    codes:
+      - "20037AC4 05F5E0FF"
+
+  - name: "Music All Difficulty Perfect All"
+    notes: "File: SECURE.BIN  (? songs in open play once)"
+    codes:
+      - "4000F77B 00000001"
+      - "402803DC 00000000"
+      - "4000F85B 00000001"
+      - "402803DC 00000000"
+      - "4000F93B 00000001"
+      - "402803DC 00000000"
+      - "4000FA1B 00000001"
+      - "402803DC 00000000"
+
+  - name: "Music All Difficulty Playable All"
+    notes: "File: SECURE.BIN"
+    codes:
+      - "4000F78F 00000003"
+      - "402803DC 00000000"
+      - "4000F86F 00000003"
+      - "402803DC 00000000"
+      - "4000F94F 00000003"
+      - "402803DC 00000000"
+      - "4000FA2F 00000003"
+      - "402803DC 00000000"
+
+  - name: "Rate100% Music All The Difficulty Of All"
+    notes: "File: SECURE.BIN  (DIVA Room related ---------------------)"
+    codes:
+      - "4000F780 00000064"
+      - "402803DC 00000000"
+      - "4000F860 00000064"
+      - "402803DC 00000000"
+      - "4000F940 00000064"
+      - "402803DC 00000000"
+      - "4000FA20 00000064"
+      - "402803DC 00000000"
+
+  - name: "Intimacy Max Front Of Everyone"
+    notes: "File: SECURE.BIN  (? It becomes the maximum is raised once)"
+    codes:
+      - "41000162 00000463"
+      - "400601F8 00000000"
+
+  - name: "Event Collection 100%"
+    notes: "File: SECURE.BIN"
+    codes:
+      - "1000F266 0000FFC0"
+      - "2000F268 FFFFFFFF"
+      - "2000F26C FFFFFFFF"
+      - "2000F270 FFFFFFFF"
+      - "2000F274 FFFFFFFF"
+      - "2000F278 83010000"
+      - "2000F27C 02000000"
+
+  - name: "Visual Library 100%"
+    notes: "File: SECURE.BIN"
+    codes:
+      - "400280F0 00000007"
+      - "40B40001 00000000"
+
+  - name: "Update Crc32 For Secure.bin (required)"
+    notes: "File: SECURE.BIN  (set range:0x000010,0x03A65F)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000010,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000008:[hash]"

@@ -1,0 +1,33 @@
+# Koisuru Otome To Shugo No Tate_ The Shield Of Aigis cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-55098
+
+game: "Koisuru Otome To Shugo No Tate_ The Shield Of Aigis"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-55098"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010F538 0C043CF6"
+
+  - name: "Unlock All Gallery"
+    author: "punk7890"
+    codes:
+      - "41F00AEC 00110001"
+      - "FFFFFFFF 00000000"
+      - "21F00AC0 FFFFFFFF"
+
+  - name: "Unlock Gallery, Music, Extra And Memory Menus"
+    author: "punk7890"
+    codes:
+      - "11F00C16 00000101"
+      - "41F00C0C 00040001"
+      - "01010101 00000000"
+      - "01F00C1C 00000001"

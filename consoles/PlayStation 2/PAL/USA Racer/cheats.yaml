@@ -1,0 +1,23 @@
+# USA Racer cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50939
+
+game: "USA Racer"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50939"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Infinite Nitro"
+    author: "nolberto82"
+    codes:
+      - "20158DE4 3C023F80"
+      - "20158DE8 AE6203DC"
+
+  - name: "No Damage"
+    author: "nolberto82"
+    codes:
+      - "20153FA0 44806000"

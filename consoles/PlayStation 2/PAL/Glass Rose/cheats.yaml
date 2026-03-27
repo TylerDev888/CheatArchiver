@@ -1,0 +1,43 @@
+# Glass Rose cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Glass Rose"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9016D7B0 0C046EF8"
+
+  - name: "Unlimited Mind Points"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20144204 24C30000"
+
+  - name: "Maximum Heart Fragments"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "1021E6A0 0000270F"
+
+  - name: "Stop Clock"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "D023CA82 0000FFFD"
+      - "20144BBC 24640000"
+
+  - name: "Start Clock"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "D023CA82 0000FFFB"
+      - "20144BB4 0064202D"

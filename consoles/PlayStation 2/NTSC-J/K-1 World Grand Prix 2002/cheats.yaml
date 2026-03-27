@@ -1,0 +1,44 @@
+# K-1 World Grand Prix 2002 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65202
+
+game: "K-1 World Grand Prix 2002"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65202"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "902D5808 0C0B55AA"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "902D69C4 0C0BC081"
+
+  - name: "Player 1 Has Infinite Stamina"
+    author: "BigBossman"
+    codes:
+      - "214F6360 44FA0000"
+
+  - name: "Player 1 Modifier"
+    author: "BigBossman"
+    codes:
+      - "00408020 000000??"
+
+  - name: "Player 2 Has No Stamina"
+    author: "BigBossman"
+    codes:
+      - "21A1007C 00000000"
+
+  - name: "Player 2 Modifier"
+    author: "BigBossman"
+    codes:
+      - "00408220 000000??"

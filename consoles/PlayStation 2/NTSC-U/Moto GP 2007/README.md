@@ -1,0 +1,98 @@
+# Moto GP 2007
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-21688  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Enable Code (Must Be On) [Read Note]
+**Author:** Code Master  
+**Notes:** [Masters]
+
+```
+901562E0 0C048F84
+```
+
+---
+
+### Always Low Lap Time
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+2038D938 AC60000C
+```
+
+---
+
+### Start On Lap 5
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+200C0220 84C10020
+200C0224 50200001
+200C0228 24010004
+200C022C A4C10020
+200C0230 A4C10022
+200C0234 080B51F5
+200C0238 84C60022
+202D47D0 08030088
+```
+
+---
+
+### Start On Lap 4
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+200C0220 84C10020
+200C0224 50200001
+200C0228 24010003
+200C022C A4C10020
+200C0230 A4C10022
+200C0234 080B51F5
+200C0238 84C60022
+202D47D0 08030088
+```
+
+---
+
+### Start On Lap 3
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+200C0220 84C10020
+200C0224 50200001
+200C0228 24010002
+200C022C A4C10020
+200C0230 A4C10022
+200C0234 080B51F5
+200C0238 84C60022
+202D47D0 08030088
+```
+
+---
+
+### Start On Lap 2
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+200C0220 84C10020
+200C0224 50200001
+200C0228 24010001
+200C022C A4C10020
+200C0230 A4C10022
+200C0234 080B51F5
+200C0238 84C60022
+202D47D0 08030088
+```
+
+---

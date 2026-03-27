@@ -1,0 +1,35 @@
+# The Amazing Spider-Man cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01547
+
+game: "The Amazing Spider-Man"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01547"
+cheat_type: "Save Editor"
+source: "From Chris Roberts"
+
+cheats:
+  - name: "Tech Upgrades (999999)"
+    notes: "File: GAMEDATA"
+    codes:
+      - "2000C030 000F423F"
+
+  - name: "Enemies Defeated (9999)"
+    notes: "File: GAMEDATA"
+    codes:
+      - "1000C3D6 0000270F"
+
+  - name: "Stealth Takedowns (255)"
+    notes: "File: GAMEDATA"
+    codes:
+      - "1000C3DF 000000FF"
+
+  - name: "Update Crc32 For Gamedata (required)"
+    notes: "File: GAMEDATA  (set range:0x000004,0x00C523)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"

@@ -1,0 +1,32 @@
+# The Adventures of Darwin - SLUS_215.92.CMP cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21592
+
+game: "The Adventures of Darwin - SLUS_215.92.CMP"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21592"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Days Dont Pass"
+    codes:
+      - "2014B714 00000000"
+
+  - name: "Nagitive Dont Pass"
+    codes:
+      - "2014B714 00431023"
+
+  - name: "Population"
+    codes:
+      - "1080B272 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Total Warrors"
+    codes:
+      - "1080B274 0000[Amount:2710:HEX:BIG]"
+
+  - name: "19 Out Of 29 Houses"
+    codes:
+      - "2080B278 44444444"

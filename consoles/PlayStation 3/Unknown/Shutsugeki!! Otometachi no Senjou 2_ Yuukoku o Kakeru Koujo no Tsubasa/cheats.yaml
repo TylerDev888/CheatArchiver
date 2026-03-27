@@ -1,0 +1,24 @@
+# Shutsugeki!! Otometachi no Senjou 2_ Yuukoku o Kakeru Koujo no Tsubasa cheat data
+# Console: PlayStation 3
+# Region:  Unknown
+# Serial:  BLJS10165
+
+game: "Shutsugeki!! Otometachi no Senjou 2_ Yuukoku o Kakeru Koujo no Tsubasa"
+console: "PlayStation 3"
+region: "Unknown"
+serial: "BLJS10165"
+cheat_type: "Save Editor"
+source: "From savedata.jp"
+
+cheats:
+  - name: "Cg Appreciation All Unlock"
+    notes: "File: DATA.BIN"
+    codes:
+      - "42000040 FFFFFFFF"
+      - "40080004 00000000"
+
+  - name: "Scene Appreciation All Unlock"
+    notes: "File: DATA.BIN"
+    codes:
+      - "42000004 FFFFFFFF"
+      - "40040004 00000000"

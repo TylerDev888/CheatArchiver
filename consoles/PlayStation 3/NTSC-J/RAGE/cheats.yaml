@@ -1,0 +1,639 @@
+# RAGE cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLAS50374
+
+game: "RAGE"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLAS50374"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Max Money"
+    notes: "[Currency Codes]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"currency_unit\""
+      - "write next (15): 270F"
+
+  - name: "Max Racing Certificates"
+    notes: "[Currency Codes]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search 0x24000000696E76656E746F72792F63757272656E63792F726163655F636572746966696361746573"
+      - "write next (42): 270F"
+
+  - name: "100 Wellspring Racing Certificates Earned"
+    notes: "[Currency Codes]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search 0x2C000000696E76656E746F72792F63757272656E63792F726163655F6365727469666963617465735F61776172646564"
+      - "write next (51): 64"
+
+  - name: "100 Subway Town Racing Certifcates Earned"
+    notes: "[Currency Codes]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"race_certificates_awarded_wl2\""
+      - "write next (32): 64"
+
+  - name: "999 Bandit Skulls For Sally"
+    notes: "[Inventory Codes\\job Items]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search 0x28000000696E76656E746F72792F6A6F626974656D732F70726F6F665F6F665F62616E6469745F6465617468"
+      - "write next (46): 03E7"
+
+  - name: "999 Bandit Skulls For Brick"
+    notes: "[Inventory Codes\\job Items]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search 0x2C000000696E76656E746F72792F6A6F626974656D732F70726F6F665F6F665F62616E6469745F64656174685F776C32"
+      - "write next (50): 03E7"
+
+  - name: "99 Adrenaline Overdrives"
+    notes: "[Inventory Codes\\quick Use]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"adrenaline_boost\""
+      - "write next (19): 63"
+
+  - name: "99 Bandages"
+    notes: "[Inventory Codes\\quick Use]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"inventory/health/bandages\""
+      - "write next (28): 63"
+
+  - name: "99 Emp Grenades"
+    notes: "[Inventory Codes\\quick Use]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"grenade/emp\""
+      - "write next (14): 63"
+
+  - name: "99 He Grenades"
+    notes: "[Inventory Codes\\quick Use]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"throwable/grenade/highexplosive\""
+      - "write next (34): 63"
+
+  - name: "99 Rc Bomb Cars"
+    notes: "[Inventory Codes\\quick Use]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search 0x1800000076656869636C652F7263626F6D62636F6E74726F6C6C6572"
+      - "write next (31): 63"
+
+  - name: "99 Advanced Rc Bomb Cars"
+    notes: "[Inventory Codes\\quick Use]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"vehicle/rcbombcontroller_upgrade\""
+      - "write next (35): 63"
+
+  - name: "99 Sentry Bots"
+    notes: "[Inventory Codes\\quick Use]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search 0x140000006465706C6F7961626C652F73656E747279626F74"
+      - "write next (27): 63"
+
+  - name: "99 Advanced Sentry Bots"
+    notes: "[Inventory Codes\\quick Use]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"deployable/sentrybotupgrade\""
+      - "write next (30): 63"
+
+  - name: "99 Sentry Turrets"
+    notes: "[Inventory Codes\\quick Use]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search 0x110000006465706C6F7961626C652F747572726574"
+      - "write next (24): 63"
+
+  - name: "99 Advanced Sentry Turrets"
+    notes: "[Inventory Codes\\quick Use]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"deployable/turretfull\""
+      - "write next (24): 63"
+
+  - name: "99 Wingsticks"
+    notes: "[Inventory Codes\\quick Use]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search 0x130000007468726F7761626C652F77696E67737469636B00"
+      - "write next (26): 63"
+
+  - name: "99 Advanced Wingsticks"
+    notes: "[Inventory Codes\\quick Use]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"throwable/wingstick_multitarget\""
+      - "write next (34): 63"
+
+  - name: "9999 Apophis Infusions"
+    notes: "[Inventory Codes\\quick Use]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"health_builder\""
+      - "write next (16): 270F"
+
+  - name: "9999 Authority Augmenters"
+    notes: "[Inventory Codes\\quick Use]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"authorityboost/authorityboost\""
+      - "write next (31): 270F"
+
+  - name: "9999 Regenerative Infusions"
+    notes: "[Inventory Codes\\quick Use]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"health/health_regen_pack\""
+      - "write next (26): 270F"
+
+  - name: "999 Antiseptic Formulas"
+    notes: "[Inventory Codes\\ingredients]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"ingredients/antiseptic\""
+      - "write next (24): 03E7"
+
+  - name: "999 Cloth Rags"
+    notes: "[Inventory Codes\\ingredients]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"clothrags\""
+      - "write next (11): 03E7"
+
+  - name: "999 Comet Blooms"
+    notes: "[Inventory Codes\\ingredients]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"ingredients/comet_bloom\""
+      - "write next (25): 03E7"
+
+  - name: "999 Desert Spore"
+    notes: "[Inventory Codes\\ingredients]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"ingredients/desert_spore\""
+      - "write next (26): 03E7"
+
+  - name: "999 Electrical Wire Kits"
+    notes: "[Inventory Codes\\ingredients]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"electricalwirekit\""
+      - "write next (19): 03E7"
+
+  - name: "999 Explosive Packs"
+    notes: "[Inventory Codes\\ingredients]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"explosive_pack\""
+      - "write next (16): 03E7"
+
+  - name: "999 Feltrite Couplers"
+    notes: "[Inventory Codes\\ingredients]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"feltrite_coupler\""
+      - "write next (18): 03E7"
+
+  - name: "999 Feltrite Power Packs"
+    notes: "[Inventory Codes\\ingredients]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"feltrite_power_pack\""
+      - "write next (21): 03E7"
+
+  - name: "999 Ghost Toxins"
+    notes: "[Inventory Codes\\ingredients]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"ghost_toxin\""
+      - "write next (13): 03E7"
+
+  - name: "999 Hardware Packets"
+    notes: "[Inventory Codes\\ingredients]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"hardwarepacket\""
+      - "write next (16): 03E7"
+
+  - name: "999 Mutant Adrenal Glands"
+    notes: "[Inventory Codes\\ingredients]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"mutantpheromones\""
+      - "write next (18): 03E7"
+
+  - name: "999 Nanotrite Conduits"
+    notes: "[Inventory Codes\\ingredients]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"nanotriteconduit\""
+      - "write next (18): 03E7"
+
+  - name: "999 Night Blossoms"
+    notes: "[Inventory Codes\\ingredients]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"ingredients/night_blossom\""
+      - "write next (27): 03E7"
+
+  - name: "999 Ordnance Packs"
+    notes: "[Inventory Codes\\ingredients]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"ordnance_pack\""
+      - "write next (15): 03E7"
+
+  - name: "999 Rc Car Kits"
+    notes: "[Inventory Codes\\ingredients]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"rc_carkit\""
+      - "write next (11): 03E7"
+
+  - name: "999 Small Battery Packs"
+    notes: "[Inventory Codes\\ingredients]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"battery\""
+      - "write next (9): 03E7"
+
+  - name: "999 Small Gears"
+    notes: "[Inventory Codes\\ingredients]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"smallgears\""
+      - "write next (12): 03E7"
+
+  - name: "999 Steel Blades"
+    notes: "[Inventory Codes\\ingredients]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"ingredients/steel_blades\""
+      - "write next (26): 03E7"
+
+  - name: "999 Turret Barrels"
+    notes: "[Inventory Codes\\ingredients]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"turret_barrel\""
+      - "write next (15): 03E7"
+
+  - name: "999 Vials Of Blueshine"
+    notes: "[Inventory Codes\\ingredients]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"vial_blueshine\""
+      - "write next (16): 03E7"
+
+  - name: "99 Lock Grinders"
+    notes: "[Inventory Codes\\sellable]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"inventory/lockgrinder\""
+      - "write next (24): 63"
+
+  - name: "9999 Beer Bottles"
+    notes: "[Inventory Codes\\sellable]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"beer_group\""
+      - "write next (12): 270F"
+
+  - name: "9999 Books"
+    notes: "[Inventory Codes\\sellable]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"book_group\""
+      - "write next (12): 270F"
+
+  - name: "9999 Feltrite Crystals"
+    notes: "[Inventory Codes\\sellable]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"sellable/feltrite\""
+      - "write next (19): 270F"
+
+  - name: "9999 Food Cans"
+    notes: "[Inventory Codes\\sellable]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"food_group\""
+      - "write next (12): 270F"
+
+  - name: "9999 Gas Liters"
+    notes: "[Inventory Codes\\sellable]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"gas_group\""
+      - "write next (11): 270F"
+
+  - name: "9999 Oil Liters"
+    notes: "[Inventory Codes\\sellable]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"oil_group\""
+      - "write next (11): 270F"
+
+  - name: "9999 Pinkies"
+    notes: "[Inventory Codes\\sellable]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"rare/pinkies\""
+      - "write next (14): 270F"
+
+  - name: "9999 Small Objects"
+    notes: "[Inventory Codes\\sellable]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"junk_group\""
+      - "write next (12): 270F"
+
+  - name: "9999 Tools"
+    notes: "[Inventory Codes\\sellable]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"tools_group\""
+      - "write next (13): 270F"
+
+  - name: "9999 Water Purifiers"
+    notes: "[Inventory Codes\\sellable]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"water_purifier\""
+      - "write next (16): 270F"
+
+  - name: "9999 Blake Bobble Heads"
+    notes: "[Inventory Codes\\unique Items]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"rare/bobblehead_blake\""
+      - "write next (23): 270F"
+
+  - name: "9999 Doom Marine Bobbleheads"
+    notes: "[Inventory Codes\\unique Items]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"rare/bobblehead_doom\""
+      - "write next (22): 270F"
+
+  - name: "9999 Quayola Quayons"
+    notes: "[Inventory Codes\\unique Items]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"rare/crayons\""
+      - "write next (14): 270F"
+
+  - name: "9999 Shambler Plushes"
+    notes: "[Inventory Codes\\unique Items]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"rare/shambler_plush_doll\""
+      - "write next (26): 270F"
+
+  - name: "9999 Vault Boy Bobbleheads"
+    notes: "[Inventory Codes\\unique Items]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"rare/bobblehead_fallout\""
+      - "write next (25): 270F"
+
+  - name: "9999 Wolf Goblets"
+    notes: "[Inventory Codes\\unique Items]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"rare/goblet\""
+      - "write next (13): 270F"
+
+  - name: "999 Aftershockers"
+    notes: "[Inventory Codes\\vehicle Quick Use]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"aftershocker\""
+      - "write next (14): 03E7"
+
+  - name: "999 Armor Restores"
+    notes: "[Inventory Codes\\vehicle Quick Use]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"repairbot\""
+      - "write next (11): 03E7"
+
+  - name: "999 Drop Mines"
+    notes: "[Inventory Codes\\vehicle Quick Use]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"stickybomb\""
+      - "write next (12): 03E7"
+      - "search \"quickuse/stickybomb\""
+      - "write next (21): 03E7"
+
+  - name: "999 Escort Bombs"
+    notes: "[Inventory Codes\\vehicle Quick Use]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"roverbomb\""
+      - "write next (11): 03E7"
+
+  - name: "999 Hover Turrets"
+    notes: "[Inventory Codes\\vehicle Quick Use]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"hoverturret\""
+      - "write next (13): 03E7"
+
+  - name: "999 Shields"
+    notes: "[Inventory Codes\\vehicle Quick Use]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"quickuse/shield\""
+      - "write next (17): 03E7"
+
+  - name: "Max Standard Pistol Rounds"
+    notes: "[Ammo Codes\\pistol Ammo]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"pistol/standard\""
+      - "write next (17): 03E7"
+      - "search \"pistol/standard\":2"
+      - "write next (17): 03E7"
+
+  - name: "Max Fatboys"
+    notes: "[Ammo Codes\\pistol Ammo]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"fatboys\""
+      - "write next (9): 03E7"
+      - "search \"fatboys\":2"
+      - "write next (9): 03E7"
+
+  - name: "Max Killbursts"
+    notes: "[Ammo Codes\\pistol Ammo]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"killburst\""
+      - "write next (11): 03E7"
+      - "search \"killburst\":2"
+      - "write next (11): 03E7"
+
+  - name: "Max Fat Mammas"
+    notes: "[Ammo Codes\\pistol Ammo]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"fatmamma\""
+      - "write next (10): 03E7"
+      - "search \"fatmamma\":2"
+      - "write next (10): 03E7"
+
+  - name: "Max Steel-tipped Bolts"
+    notes: "[Ammo Codes\\crossbow Ammo]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"steeltip\""
+      - "write next (10): 03E7"
+      - "search \"steeltip\":2"
+      - "write next (10): 03E7"
+
+  - name: "Max Electro Bolts"
+    notes: "[Ammo Codes\\crossbow Ammo]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"crossbow/electric\""
+      - "write next (19): 03E7"
+      - "search \"crossbow/electric\":2"
+      - "write next (19): 03E7"
+
+  - name: "Max Mind Control Bolts"
+    notes: "[Ammo Codes\\crossbow Ammo]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"crossbow/controller\""
+      - "write next (21): 03E7"
+      - "search \"crossbow/controller\":2"
+      - "write next (21): 03E7"
+
+  - name: "Max Dynamite Bolts"
+    notes: "[Ammo Codes\\crossbow Ammo]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"crossbow/dynamite\""
+      - "write next (19): 03E7"
+      - "search \"crossbow/dynamite\":2"
+      - "write next (19): 03E7"
+
+  - name: "Max Sniper Rounds"
+    notes: "[Ammo Codes\\sniper Rifle Ammo]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"rifle/standard\""
+      - "write next (16): 03E7"
+      - "search \"rifle/standard\":2"
+      - "write next (16): 03E7"
+
+  - name: "Max Buckshot"
+    notes: "[Ammo Codes\\shotgun Ammo]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"buckshot_standard\""
+      - "write next (19): 03E7"
+      - "search \"buckshot_standard\":2"
+      - "write next (19): 03E7"
+      - "search \"buckshot_standard\":3"
+      - "write next (19): 03E7"
+
+  - name: "Max Pulse Shot"
+    notes: "[Ammo Codes\\shotgun Ammo]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"shotgun/plasma\""
+      - "write next (16): 03E7"
+      - "search \"shotgun/plasma\":2"
+      - "write next (16): 03E7"
+      - "search \"shotgun/plasma\":3"
+      - "write next (16): 03E7"
+
+  - name: "Max Pop Rockets"
+    notes: "[Ammo Codes\\shotgun Ammo]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"shotgun/poprocket\""
+      - "write next (19): 03E7"
+      - "search \"shotgun/poprocket\":2"
+      - "write next (19): 03E7"
+      - "search \"shotgun/poprocket\":3"
+      - "write next (19): 03E7"
+
+  - name: "Max Steel Ar Rounds"
+    notes: "[Ammo Codes\\assault Rifle Ammo]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"settlermachinegun/standard\""
+      - "write next (28): 03E7"
+      - "search \"settlermachinegun/standard\":2"
+      - "write next (28): 03E7"
+
+  - name: "Max Feltrite Ar Rounds"
+    notes: "[Ammo Codes\\assault Rifle Ammo]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"settlermachinegun/doubletippedap\""
+      - "write next (34): 03E7"
+      - "search \"settlermachinegun/doubletippedap\":2"
+      - "write next (34): 03E7"
+
+  - name: "Max Authority Mg Rounds"
+    notes: "[Ammo Codes\\authority Machine Gun Ammo]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"regimemachinegun/standard\""
+      - "write next (27): 03E7"
+      - "search \"regimemachinegun/standard\":2"
+      - "write next (27): 03E7"
+
+  - name: "Max Authority Av2x Rounds"
+    notes: "[Ammo Codes\\authority Machine Gun Ammo]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"regimemachinegun/doubletippedap\""
+      - "write next (33): 03E7"
+      - "search \"regimemachinegun/doubletippedap\":2"
+      - "write next (33): 03E7"
+
+  - name: "Max He Rockets"
+    notes: "[Ammo Codes\\rocket Launcher Ammo]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"regimerocketlauncher/standard\""
+      - "write next (31): 03E7"
+      - "search \"regimerocketlauncher/standard\":2"
+      - "write next (31): 03E7"
+
+  - name: "Max Viper Rockets"
+    notes: "[Ammo Codes\\rocket Launcher Ammo]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"stinger\""
+      - "write next (9): 03E7"
+      - "search \"stinger\":2"
+      - "write next (9): 03E7"
+
+  - name: "Max Authority Pulse Rounds"
+    notes: "[Ammo Codes\\authority Pulse Cannon Ammo]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"plasmarifle/standard\""
+      - "write next (22): 03E7"
+      - "search \"plasmarifle/standard\":2"
+      - "write next (22): 03E7"
+
+  - name: "Max Bfg Rounds"
+    notes: "[Ammo Codes\\authority Pulse Cannon Ammo]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"plasmarifle/slowbigburst\""
+      - "write next (26): 03E7"
+      - "search \"plasmarifle/slowbigburst\":2"
+      - "write next (26): 03E7"
+
+  - name: "Max Nails"
+    notes: "[Ammo Codes\\nailgun Ammo (dlc)]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"nailgun/nail\""
+      - "write next (14): 03E7"
+      - "search \"nailgun/nail\":2"
+      - "write next (14): 03E7"
+
+  - name: "Max Rebar"
+    notes: "[Ammo Codes\\nailgun Ammo (dlc)]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"nailgun/impale\""
+      - "write next (16): 03E7"
+      - "search \"nailgun/impale\":2"
+      - "write next (16): 03E7"
+
+  - name: "Max Railgun Slugs"
+    notes: "[Ammo Codes\\nailgun Ammo (dlc)]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"nailgun/rail\""
+      - "write next (15): 14"
+      - "search \"nailgun/rail\":2"
+      - "write next (15): 14"
+
+  - name: "Max Minigun Ammo"
+    notes: "[Ammo Codes\\vehicle Ammo]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"bullet_chaingun\""
+      - "write next (17): 270F"
+
+  - name: "Max Homing Rockets"
+    notes: "[Ammo Codes\\vehicle Ammo]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"homing_c2\""
+      - "write next (11): 270F"
+
+  - name: "Max Pulse Ammo"
+    notes: "[Ammo Codes\\vehicle Ammo]  File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER"
+    codes:
+      - "search \"pulse\""
+      - "write next (7): 270F"
+
+  - name: "Update Md5_xor For _player (required)"
+    notes: "File: BLAS50374-GAMES-AUTOSAVE\\_PLAYER  (set range:0x000000,0x005954) (write at 0x005955:[hash])"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:MD5_XOR"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"
+
+  - name: "Update Md5_xor For _prof (required)"
+    notes: "File: BLAS50374-GAMES-AUTOSAVE\\_PROF  (set range:0x000000,0x00039B) (write at 0x005951:[hash]) (set range:0x000000,0x00039E) (write at 0x00039F:[hash])"
+    codes:
+      - "set pointer:eof-7"
+      - "set range:0x000000,pointer"
+      - "set [hash]:MD5_XOR"
+      - "set pointer:eof-7"
+      - "write next (0):[hash]"
+      - "set [hash]:0"
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:MD5_XOR"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"
+
+  - name: "Update Md5_xor For _details (required)"
+    notes: "File: BLAS50374-GAMES-AUTOSAVE\\_DETAILS  (set range:0x000000,0x00018F) (write at 0x000190:[hash])"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:MD5_XOR"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"

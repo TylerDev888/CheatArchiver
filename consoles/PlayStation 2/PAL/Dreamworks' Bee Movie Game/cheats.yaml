@@ -1,0 +1,32 @@
+# Dreamworks' Bee Movie Game cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-55016
+
+game: "Dreamworks' Bee Movie Game"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-55016"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Maximum Nectar"
+    author: "luc-ita"
+    codes:
+      - "2080EBA4 3B9AC9FF"
+
+  - name: "Nectar Gun Always Full"
+    author: "luc-ita"
+    codes:
+      - "20A87CDC E4400000"
+
+  - name: "Slow Motion Timer Always Full"
+    author: "luc-ita"
+    codes:
+      - "20A87D64 00000000"
+
+  - name: "Take Honey And Nectar Anywhere"
+    author: "luc-ita"
+    codes:
+      - "20A5C604 10000003"

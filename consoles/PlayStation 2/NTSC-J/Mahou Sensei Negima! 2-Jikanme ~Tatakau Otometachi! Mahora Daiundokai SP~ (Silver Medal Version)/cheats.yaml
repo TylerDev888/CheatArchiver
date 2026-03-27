@@ -1,0 +1,44 @@
+# Mahou Sensei Negima! 2-Jikanme ~Tatakau Otometachi! Mahora Daiundokai SP~ (Silver Medal Version) cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66063
+
+game: "Mahou Sensei Negima! 2-Jikanme ~Tatakau Otometachi! Mahora Daiundokai SP~ (Silver Medal Version)"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66063"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90108290 0C04204C"
+
+  - name: "Enable Debug Display"
+    author: "punk7890"
+    codes:
+      - "2028FBA4 00000001"
+
+  - name: "Enable Debug Menus [View Note]"
+    author: "punk7890"
+    codes:
+      - "D0354EDC 0000DEFF"
+      - "1023869C 0000E470"
+      - "D0354EDC 0000DBFF"
+      - "1023869C 0000E3D0"
+      - "D0354EDC 0000FFFF"
+      - "1023869C 00007820"
+
+  - name: "Unlock All Gallery"
+    author: "punk7890"
+    codes:
+      - "2034EEBC 01010101"
+      - "2034EEC0 01010101"
+      - "0034EEC4 00000001"
+      - "4034ED90 00370001"
+      - "01010101 00000000"
+      - "1034EE6C 00000101"
+      - "0034EE6E 00000001"

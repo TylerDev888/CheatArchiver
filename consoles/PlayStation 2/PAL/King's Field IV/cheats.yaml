@@ -1,0 +1,53 @@
+# King's Field IV cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50920
+
+game: "King's Field IV"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50920"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F022BED4 0022BED7"
+
+  - name: "Infinite Gold"
+    author: "Codejunkies"
+    codes:
+      - "2041378C 000F423F"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "201B9B64 00000000"
+
+  - name: "Infinite Hit Gauge"
+    author: "Codejunkies"
+    codes:
+      - "204137FC 00001388"
+
+  - name: "Infinite Magic"
+    author: "Codejunkies"
+    codes:
+      - "204137F8 000003E7"
+
+  - name: "Infinite Magic Gauge"
+    author: "Codejunkies"
+    codes:
+      - "20413800 00001388"
+
+  - name: "Infinite Oxygen"
+    author: "Codejunkies"
+    codes:
+      - "2041380C 00000500"
+
+  - name: "Max Experience"
+    author: "Codejunkies"
+    codes:
+      - "20413790 000F423F"

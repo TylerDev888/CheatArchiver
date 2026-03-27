@@ -1,0 +1,29 @@
+# Drome Racers cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Drome Racers"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F01C83D0 000001FD"
+
+  - name: "Credits"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "204F3E80 05F5E0FF"
+
+  - name: "Build Tokens"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "204F3E84 05F5E0FF"

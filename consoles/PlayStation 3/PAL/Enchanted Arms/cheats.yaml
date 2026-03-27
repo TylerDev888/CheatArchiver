@@ -1,0 +1,24 @@
+# Enchanted Arms cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00049
+
+game: "Enchanted Arms"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00049"
+cheat_type: "AP"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Tb"
+    notes: "File: BLES00049GAME*\\EM_GAME.DAT"
+    codes:
+      - "20000074 05F5E0FF"
+      - "2002013C 05F5E0FF"
+
+  - name: "Reset Game Time"
+    notes: "File: BLES00049GAME*\\EM_GAME.DAT"
+    codes:
+      - "20000070 00000000"
+      - "200200F0 00000000"

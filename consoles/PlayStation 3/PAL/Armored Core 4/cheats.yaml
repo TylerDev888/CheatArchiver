@@ -1,0 +1,17 @@
+# Armored Core 4 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00039
+
+game: "Armored Core 4"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00039"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Money"
+    notes: "File: BLES00039GAMEDAT*\\PDATA.DAT"
+    codes:
+      - "20000044 3B9AC9FF"

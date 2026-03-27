@@ -1,0 +1,96 @@
+# Ape Escape 3 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-53642
+
+game: "Ape Escape 3"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-53642"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0517C0C 00517C0F"
+
+  - name: "All Concept Art"
+    author: "Codejunkies"
+    codes:
+      - "40649FF4 00070001"
+      - "01010101 00000000"
+      - "1064A010 00000101"
+
+  - name: "All Levels Available (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "2074032C 0000001C"
+
+  - name: "All Movies"
+    author: "Codejunkies"
+    codes:
+      - "4064A0BC 00070001"
+      - "01010101 00000000"
+
+  - name: "All Music"
+    author: "Codejunkies"
+    codes:
+      - "4064A084 000D0001"
+      - "01010101 00000000"
+
+  - name: "All Secret Photos"
+    author: "Codejunkies"
+    codes:
+      - "4064A028 00070001"
+      - "01010101 00000000"
+      - "1064A026 00000101"
+
+  - name: "Apes Don't Move When Get Allarmed (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "D0784D5C 0000FFF9"
+      - "2055BFC8 10000011"
+      - "D0784D5C 0000FFFD"
+      - "2055BFC8 10400011"
+
+  - name: "Collect Coins For 9999 Coins"
+    author: "Codejunkies"
+    codes:
+      - "2026FC64 240D270F"
+      - "2026FC80 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "2026FBDC 00000000"
+
+  - name: "Infinite Lives"
+    author: "Codejunkies"
+    codes:
+      - "20649CD4 00000063"
+
+  - name: "Invulnerable"
+    author: "luc-ita"
+    codes:
+      - "2034522C 240F0040"
+
+  - name: "Morph Gauge Does Not Decrease"
+    author: "Codejunkies"
+    codes:
+      - "20324064 00000000"
+
+  - name: "Unlock All Gadgets"
+    author: "luc-ita"
+    codes:
+      - "20649D18 00000002"
+      - "20649D1C 00000002"
+      - "20649D20 00000002"
+      - "20649D24 00000002"
+      - "20649D28 00000002"
+      - "20649D2C 00000002"
+      - "20649D30 00000002"
+      - "20649D34 00000002"
+      - "20649D38 00000002"

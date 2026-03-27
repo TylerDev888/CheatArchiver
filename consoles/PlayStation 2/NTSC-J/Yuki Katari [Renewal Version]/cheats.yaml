@@ -1,0 +1,32 @@
+# Yuki Katari [Renewal Version] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25482
+
+game: "Yuki Katari [Renewal Version]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25482"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "New Game = Debug Menu"
+    author: "punk7890"
+    codes:
+      - "213324C4 42454403"
+      - "113324C8 00004755"
+
+  - name: "Unlock All EVCG"
+    author: "punk7890"
+    codes:
+      - "2039BED4 FFFFFFFF"
+      - "2039BED8 FFFFFFFF"
+      - "2039BEDC FFFFFFFF"
+      - "2039BEE0 FFFFFFFF"
+      - "0039BEE4 000000FF"
+
+  - name: "Unlock Omake Scenario"
+    author: "punk7890"
+    codes:
+      - "2039BED0 FFFFFFFF"

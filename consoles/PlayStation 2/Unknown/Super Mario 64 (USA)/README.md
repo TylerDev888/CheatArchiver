@@ -1,0 +1,86 @@
+# Super Mario 64 (USA)
+
+**Console:** PlayStation 2  
+**Region:** Unknown  
+**Serial:** No  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Disable Fall Damage
+**Author:** nolberto82
+
+```
+201A452C 10000038
+```
+
+---
+
+### Infinite Air
+**Author:** nolberto82
+
+```
+201B6570 00000000
+```
+
+---
+
+### Invincibility
+**Author:** nolberto82
+
+```
+2012AB78 03E00008
+```
+
+---
+
+### Jesus Mode Hold L2
+**Author:** nolberto82
+
+```
+200A0030 3C0220EF
+200A0034 24429328
+200A0038 8C420018
+200A003C 94420000
+200A0040 30420020
+200A0044 1040000A
+200A0048 3C0220AA
+200A004C 24425798
+200A0050 8C420000
+200A0054 84420076
+200A0058 44820800
+200A005C 46800860
+200A0060 46010036
+200A0064 45000002
+200A006C E6410000
+200A0070 08040592
+201016D4 0802800C
+```
+
+---
+
+### Jump In Midair
+**Author:** nolberto82
+
+```
+200A0000 96020002
+200A0004 30420002
+200A0008 10400002
+200A000C 3C014228
+200A0010 AE01004C
+200A0014 03E00008
+201BB160 08028000
+```
+
+---
+
+### Skip Story Intro
+**Author:** nolberto82
+
+```
+201C0304 00000000
+```
+
+---

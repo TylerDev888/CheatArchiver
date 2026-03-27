@@ -1,0 +1,284 @@
+# Ready 2 Rumble Boxing - Round 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20054
+
+game: "Ready 2 Rumble Boxing - Round 2"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20054"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01072F8 000001FD"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00197B7F"
+
+  - name: "1-Hit Death P1"
+    author: "Code Master"
+    codes:
+      - "D01EE8A0 00000064"
+      - "101EE8A0 00000001"
+
+  - name: "1-Hit Death P2"
+    author: "Code Master"
+    codes:
+      - "D01F1110 00000064"
+      - "101F1132 00000001"
+
+  - name: "25% Health P1"
+    author: "Code Master"
+    codes:
+      - "D01EE8A0 00000064"
+      - "101EE8A0 00000019"
+
+  - name: "25% Health P2"
+    author: "Code Master"
+    codes:
+      - "D01F1110 00000064"
+      - "101F1132 00000019"
+
+  - name: "50% Health P1"
+    author: "Code Master"
+    codes:
+      - "D01EE8A0 00000064"
+      - "101EE8A0 00000032"
+
+  - name: "50% Health P2"
+    author: "Code Master"
+    codes:
+      - "D01F1110 00000064"
+      - "101F1132 00000032"
+
+  - name: "75% Health P1"
+    author: "Code Master"
+    codes:
+      - "D01EE8A0 00000064"
+      - "101EE8A0 0000004B"
+
+  - name: "75% Health P2"
+    author: "Code Master"
+    codes:
+      - "D01F1110 00000064"
+      - "101F1132 0000004B"
+
+  - name: "Infinite Money"
+    author: "Code Master"
+    notes: "[Championship Mode Codes]"
+    codes:
+      - "101D8BD8 0000FFFF"
+
+  - name: "Max Dexterity"
+    author: "Code Master"
+    notes: "[Championship Mode Codes]"
+    codes:
+      - "101D8BEA 0000447A"
+
+  - name: "Max Endurance"
+    author: "Code Master"
+    notes: "[Championship Mode Codes]"
+    codes:
+      - "101D8BE6 0000447A"
+
+  - name: "Max Experience"
+    author: "Code Master"
+    notes: "[Championship Mode Codes]"
+    codes:
+      - "101D8BEE 0000447A"
+
+  - name: "Max Stamina"
+    author: "Code Master"
+    notes: "[Championship Mode Codes]"
+    codes:
+      - "101D8BE2 0000447A"
+
+  - name: "Max Strength"
+    author: "Code Master"
+    notes: "[Championship Mode Codes]"
+    codes:
+      - "101D8BDE 0000447A"
+
+  - name: "Training Sway Bag Max Score"
+    author: "BigBossman"
+    notes: "[Championship Mode Codes]"
+    codes:
+      - "202063D8 05F5E0FF"
+
+  - name: "Have All Characters"
+    author: "Code Master"
+    codes:
+      - "401EBF0C 000B0001"
+      - "00000003 00000000"
+
+  - name: "1 Hit To Knockout"
+    author: "Codejunkies"
+    notes: "[Infinite Health Codes]"
+    codes:
+      - "101EE8A0 00000001"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Infinite Health Codes]"
+    codes:
+      - "101EE8A0 00000064"
+
+  - name: "Never Above 10% Health"
+    author: "Codejunkies"
+    notes: "[Infinite Health Codes]"
+    codes:
+      - "E0010007 301EE8A0"
+      - "101EE8A0 00000007"
+
+  - name: "Never Above 25% Health"
+    author: "Codejunkies"
+    notes: "[Infinite Health Codes]"
+    codes:
+      - "E0010019 301EE8A0"
+      - "101EE8A0 00000019"
+
+  - name: "Never Above 50% Health"
+    author: "Codejunkies"
+    notes: "[Infinite Health Codes]"
+    codes:
+      - "E0010032 301EE8A0"
+      - "101EE8A0 00000032"
+
+  - name: "Never Above 75% Health"
+    author: "Codejunkies"
+    notes: "[Infinite Health Codes]"
+    codes:
+      - "E001004B 301EE8A0"
+      - "101EE8A0 0000004B"
+
+  - name: "Infinite Time To Continue"
+    author: "BigBossman"
+    codes:
+      - "001F6C44 000000??"
+
+  - name: "No Health P1"
+    author: "Code Master"
+    codes:
+      - "101EE8A0 00000000"
+
+  - name: "No Health P2"
+    author: "Code Master"
+    codes:
+      - "101F1110 00000000"
+
+  - name: "Number Of Boxers Modifier In Team Battle Mode"
+    author: "BigBossman"
+    codes:
+      - "00205D5C 000000??"
+
+  - name: "Number Of Players Modifier In Tournament Mode"
+    author: "BigBossman"
+    codes:
+      - "00206434 000000??"
+
+  - name: "Player 1 Costume Modifier"
+    author: "BigBossman"
+    codes:
+      - "001EE930 000000??"
+
+  - name: "Player 1 Has Max Rumble Power-Up"
+    author: "BigBossman"
+    codes:
+      - "00204F68 00000013"
+
+  - name: "Player 1 Modifier"
+    author: "BigBossman"
+    codes:
+      - "001EC12C 000000??"
+
+  - name: "Player 2 Modifier"
+    author: "BigBossman"
+    codes:
+      - "001EE99C 000000??"
+
+  - name: "Player 2 Never Gets Rumble Power-Up"
+    author: "BigBossman"
+    codes:
+      - "00204F6C 00000000"
+
+  - name: "Press L1 & Select To Reset Round Timer"
+    author: "BigBossman"
+    codes:
+      - "D02074C2 0000FBFE"
+      - "10204F80 00002A30"
+
+  - name: "Press L2 & Select To End The Round"
+    author: "BigBossman"
+    codes:
+      - "D02074C2 0000FEFE"
+      - "10204F80 00000000"
+
+  - name: "Press R1 & Select For The Ref To Count 10"
+    author: "BigBossman"
+    codes:
+      - "D02074C2 0000F7FE"
+      - "10E36366 0000000A"
+
+  - name: "Press R2 & Select To Reset The 10-Count"
+    author: "BigBossman"
+    codes:
+      - "D02074C2 0000FDFE"
+      - "10E36366 00000001"
+
+  - name: "Round Modifier"
+    author: "BigBossman"
+    codes:
+      - "00205458 000000??"
+
+  - name: "Round Time Modifier In Options"
+    author: "BigBossman"
+    codes:
+      - "001F6C4D 000000??"
+
+  - name: "Rounds Modifier In Options"
+    author: "BigBossman"
+    codes:
+      - "001F6C48 000000??"
+
+  - name: "All Characters Unlocked"
+    author: "Codejunkies"
+    notes: "[Stamina Codes]"
+    codes:
+      - "101EBF0C 00000003"
+      - "101EBF10 00000003"
+      - "101EBF14 00000003"
+      - "101EBF18 00000003"
+      - "101EBF1C 00000003"
+      - "101EBF20 00000003"
+      - "101EBF24 00000003"
+      - "101EBF28 00000003"
+      - "101EBF2C 00000003"
+      - "101EBF30 00000003"
+      - "101EBF34 00000003"
+
+  - name: "No Stamina"
+    author: "Codejunkies"
+    notes: "[Stamina Codes]"
+    codes:
+      - "101EE8A4 00000000"
+
+  - name: "Quick Recovery"
+    author: "Codejunkies"
+    notes: "[Stamina Codes]"
+    codes:
+      - "101EE8A4 00000064"
+
+  - name: "Start At Championship Bout"
+    author: "Codejunkies"
+    notes: "[Stamina Codes]"
+    codes:
+      - "D02052D0 00000000"
+      - "102052D0 0000000B"

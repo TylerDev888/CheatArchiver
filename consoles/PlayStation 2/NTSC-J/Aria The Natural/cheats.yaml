@@ -1,0 +1,25 @@
+# Aria The Natural cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66536
+
+game: "Aria The Natural"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66536"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9020B260 0C082C40"
+
+  - name: "Boot To Debug Menu"
+    author: "punk7890"
+    codes:
+      - "0014CEE0 00000000"
+      - "D047E782 0000FFFE"
+      - "202741DC 00000000"

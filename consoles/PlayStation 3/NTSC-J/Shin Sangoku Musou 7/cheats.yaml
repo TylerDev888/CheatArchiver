@@ -1,0 +1,116 @@
+# Shin Sangoku Musou 7 cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  NPJB00325
+
+game: "Shin Sangoku Musou 7"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "NPJB00325"
+cheat_type: "Save Editor"
+source: "From bokosukagames"
+
+cheats:
+  - name: "Money 999999"
+    notes: "File: APP.BIN"
+    codes:
+      - "200000BD 000F423F"
+
+  - name: "All Busho Unlock"
+    notes: "File: APP.BIN"
+    codes:
+      - "400134CC 00000001"
+      - "4064003C 00000000"
+
+  - name: "All Busho Exp 999999"
+    notes: "File: APP.BIN"
+    codes:
+      - "420134DD 000F423F"
+      - "4064003C 00000000"
+
+  - name: "All Busho Aptitude Star4"
+    notes: "File: APP.BIN"
+    codes:
+      - "420134D7 64646464"
+      - "4064003C 00000000"
+
+  - name: "All Busho Kizuna Max"
+    notes: "File: APP.BIN"
+    codes:
+      - "410134ED 00006464"
+      - "4064003C 00000000"
+
+  - name: "Equipment Normal Skill All Lv.20"
+    notes: "File: APP.BIN"
+    codes:
+      - "41014C39 00000114"
+      - "40120002 00000000"
+
+  - name: "All Weapon Atk 255"
+    notes: "File: APP.BIN"
+    codes:
+      - "40015D44 000000FF"
+      - "47260018 00000000"
+
+  - name: "All Weapon Zokusei Change"
+    notes: "File: APP.BIN"
+    codes:
+      - "42015D45 07090A0B"
+      - "47260018 00000000"
+      - "41015D49 00000C10"
+      - "47290018 00000000"
+
+  - name: "All Weapon Zokusei Lv.10"
+    notes: "File: APP.BIN"
+    codes:
+      - "42015D4B 0A0A0A0A"
+      - "47260018 00000000"
+      - "41015D4F 00000A0A"
+      - "47260018 00000000"
+
+  - name: "Play Time 00:00"
+    notes: "File: APP.BIN"
+    codes:
+      - "200000A9 00000000"
+
+  - name: "All Support Animal Speed 400 / Power 1000"
+    notes: "File: APP.BIN"
+    codes:
+      - "41020B7B 00000190"
+      - "40460018 00000000"
+      - "41020B81 000003E8"
+      - "40460018 00000000"
+
+  - name: "All Support Animal Skill Change"
+    notes: "File: APP.BIN"
+    codes:
+      - "42020B85 0A0B0C0D"
+      - "40460018 00000000"
+
+  - name: "Shousei Mode - Meisei 9999"
+    notes: "File: APP.BIN"
+    codes:
+      - "100221D5 0000270F"
+
+  - name: "Shousei Mode - Shisetsusozai 9999 Bukisozai 9999"
+    notes: "File: APP.BIN"
+    codes:
+      - "20021CF9 270F270F"
+
+  - name: "All Skill Unlock Lv.99"
+    notes: "File: APP.BIN"
+    codes:
+      - "41014C39 00000163"
+      - "40680002 00000000"
+
+  - name: "All Scenario Unlock"
+    notes: "File: APP.BIN"
+    codes:
+      - "420002E4 FFFFFFFF"
+      - "40040004 00000000"
+
+  - name: "Gallery - All Movie Unlock"
+    notes: "File: APP.BIN"
+    codes:
+      - "420004D8 FFFFFFFF"
+      - "40030004 00000000"

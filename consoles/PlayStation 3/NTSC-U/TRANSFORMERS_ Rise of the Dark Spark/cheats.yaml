@@ -1,0 +1,28 @@
+# TRANSFORMERS_ Rise of the Dark Spark cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS31324
+
+game: "TRANSFORMERS_ Rise of the Dark Spark"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS31324"
+cheat_type: "AP"
+source: "From aldotools"
+
+cheats:
+  - name: "Update Sha1 For Blus31324-profile\\payload"
+    notes: "File: BLUS31324-PROFILE\\PAYLOAD  (set range:0x000014,0x0002D4)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000014,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x000000:[hash]"
+
+  - name: "Update Sha1 For Npub31339-profile\\payload"
+    notes: "File: NPUB31339-PROFILE\\PAYLOAD  (set range:0x000014,0x0002D4)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000014,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x000000:[hash]"

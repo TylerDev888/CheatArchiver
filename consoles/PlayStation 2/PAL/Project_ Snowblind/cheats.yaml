@@ -1,0 +1,44 @@
+# Project_ Snowblind cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Project_ Snowblind"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "903FAFF4 0C0FEB82"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2000 E6400490"
+      - "200C2004 03E00008"
+      - "200C2008 C6410490"
+      - "2012A388 0C030800"
+
+  - name: "Bio Energy"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "2012A3BC E600000C"
+
+  - name: "Primary Ammo"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20274290 24430000"
+
+  - name: "Secondary Ammo"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20266FD8 00000000"

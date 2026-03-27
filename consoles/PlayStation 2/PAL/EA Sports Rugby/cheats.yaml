@@ -1,0 +1,116 @@
+# EA Sports Rugby cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50220
+
+game: "EA Sports Rugby"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50220"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0336278 0012B967"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0012B967"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "10537D78 0000????"
+
+  - name: "End Half (Press [L2] & [DOWN])"
+    author: "MadCatz"
+    codes:
+      - "D040CB82 0000FEBF"
+      - "10417036 000043B2"
+
+  - name: "Extra Time (Press [L2] & [UP])"
+    author: "MadCatz"
+    codes:
+      - "D040CB82 0000FEEF"
+      - "10417036 00000000"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "10537A2C 0000????"
+
+  - name: "Score 0"
+    author: "Codejunkies"
+    notes: "[Position 1 Score Codes]"
+    codes:
+      - "00537A2C 00000000"
+
+  - name: "Score 200"
+    author: "Codejunkies"
+    notes: "[Position 1 Score Codes]"
+    codes:
+      - "00537A2C 000000C8"
+
+  - name: "Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D040CB82 0000FAFF"
+      - "20417034 00000000"
+
+  - name: "Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D040CB82 0000F5FF"
+      - "20417034 43B40000"
+
+  - name: "Scores 99 Goals"
+    author: "MadCatz"
+    notes: "[Team A - Only Use One Of The Following!]"
+    codes:
+      - "00537A2C 00000063"
+
+  - name: "Team A Scores 0"
+    author: "InterAct"
+    codes:
+      - "10537A2C 00000000"
+
+  - name: "Team A Scores 99"
+    author: "InterAct"
+    codes:
+      - "10537A2C 00000063"
+
+  - name: "Team B Scores 0"
+    author: "InterAct"
+    codes:
+      - "10537D78 00000000"
+
+  - name: "Team B Scores 99"
+    author: "InterAct"
+    codes:
+      - "10537D78 00000063"
+
+  - name: "Position 1 Scores 0"
+    author: "InterAct"
+    codes:
+      - "00537A2C 00000000"
+
+  - name: "Position 1 Scores 200"
+    author: "InterAct"
+    codes:
+      - "00537A2C 000000C8"
+
+  - name: "Position 2 Scores 0"
+    author: "InterAct"
+    codes:
+      - "00537D78 00000000"
+
+  - name: "Position 2 Scores 200"
+    author: "InterAct"
+    codes:
+      - "00537D78 000000C8"

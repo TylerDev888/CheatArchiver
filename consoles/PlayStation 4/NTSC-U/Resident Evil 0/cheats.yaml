@@ -1,0 +1,51 @@
+# Resident Evil 0 cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA02337
+
+game: "Resident Evil 0"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA02337"
+cheat_type: "AP"
+source: "source: whitewarriors@hackinformer"
+
+cheats:
+  - name: "--- Easy ---"
+    notes: "File: *"
+
+  - name: "Rebecca"
+    notes: "File: *"
+    codes:
+      - "0001DBAC 00000096"
+
+  - name: "Billy"
+    notes: "File: *"
+    codes:
+      - "0001DCC0 000000FA"
+
+  - name: "Rebecca - God Mode"
+    notes: "File: *"
+    codes:
+      - "2001DBAC 007FFFFF"
+
+  - name: "Billy - God Mode"
+    notes: "File: *"
+    codes:
+      - "2001DCC0 007FFFFF"
+
+  - name: "--- Normal ---"
+    notes: "File: *"
+
+  - name: "--- Hard ---"
+    notes: "File: *"
+
+  - name: "Low Time"
+    notes: "File: *"
+    codes:
+      - "2001C94C 00000000"
+
+  - name: "0 Saves"
+    notes: "File: *  (Character Slot 1: [Rebecca]) () (Inventory ID Address slot 1=390BC) (Inventory ID Address slot 2=390C4) (Inventory ID Address slot 3=390CC) (Inventory ID Address slot 4=390D4) (Inventory ID Address slot 5=390DC) (Inventory ID Address slot 6=390E4) () (Character Slot 2: [Billy]) () (Inve..."
+    codes:
+      - "2001C948 00000000"

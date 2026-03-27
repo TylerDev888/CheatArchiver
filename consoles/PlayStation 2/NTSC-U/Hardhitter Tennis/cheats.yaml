@@ -1,0 +1,130 @@
+# Hardhitter Tennis cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20568
+
+game: "Hardhitter Tennis"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20568"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0131B10 002AF867"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 002AF867"
+
+  - name: "Max Score"
+    author: "Codejunkies"
+    notes: "[Alphabet Codes]"
+    codes:
+      - "103912F4 0000FFFF"
+
+  - name: "More Balls (Press Select To Activate)"
+    author: "Codejunkies"
+    notes: "[Alphabet Codes]"
+    codes:
+      - "D0317202 0000FFFE"
+      - "10390FF8 00000020"
+
+  - name: "P1 0 Points"
+    author: "Codejunkies"
+    notes: "[Alphabet Codes]"
+    codes:
+      - "1037C718 00000000"
+      - "1037C720 00000000"
+
+  - name: "P1 7 Points"
+    author: "Codejunkies"
+    notes: "[Alphabet Codes]"
+    codes:
+      - "1037C718 00000007"
+      - "1037C720 00000007"
+
+  - name: "P2 0 Points"
+    author: "Codejunkies"
+    notes: "[Alphabet Codes]"
+    codes:
+      - "1037C71C 00000000"
+      - "1037C724 00000000"
+
+  - name: "P2 7 Points"
+    author: "Codejunkies"
+    notes: "[Alphabet Codes]"
+    codes:
+      - "1037C71C 00000007"
+      - "1037C724 00000007"
+
+  - name: "P1 Press Select For More Balls"
+    author: "Code Master"
+    notes: "[Alphabet Tennis Mini Game Codes]"
+    codes:
+      - "D03172C2 0000FFFE"
+      - "20390FF8 0000001E"
+
+  - name: "P1 Never Scores"
+    author: "Code Master"
+    codes:
+      - "2037C718 00000000"
+
+  - name: "P1 Start With 15 Points"
+    author: "Code Master"
+    codes:
+      - "D037C718 00000000"
+      - "2037C718 00000001"
+
+  - name: "P1 Start With 30 Points"
+    author: "Code Master"
+    codes:
+      - "D037C718 00000000"
+      - "2037C718 00000002"
+
+  - name: "P1 Start With 40 Points"
+    author: "Code Master"
+    codes:
+      - "D037C718 00000000"
+      - "2037C718 00000003"
+
+  - name: "P1 Start With Win Modifier (01-09)"
+    author: "Code Master"
+    codes:
+      - "D037C720 00000000"
+      - "2037C720 000000??"
+
+  - name: "P2 Never Scores"
+    author: "Code Master"
+    codes:
+      - "2037C71C 00000000"
+
+  - name: "P2 Start With 15 Points"
+    author: "Code Master"
+    codes:
+      - "D037C71C 00000000"
+      - "2037C71C 00000001"
+
+  - name: "P2 Start With 30 Points"
+    author: "Code Master"
+    codes:
+      - "D037C71C 00000000"
+      - "2037C71C 00000002"
+
+  - name: "P2 Start With 40 Points"
+    author: "Code Master"
+    codes:
+      - "D037C71C 00000000"
+      - "2037C71C 00000003"
+
+  - name: "P2 Start With Win Modifier (01-09)"
+    author: "Code Master"
+    codes:
+      - "D037C724 00000000"
+      - "2037C724 000000??"

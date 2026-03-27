@@ -1,0 +1,24 @@
+# Ultraman Fighting Evolution 3 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25441
+
+game: "Ultraman Fighting Evolution 3"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25441"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90377A98 0C0DDE4E"
+
+  - name: "Press L3 For Debug Menu"
+    author: "punk7890"
+    codes:
+      - "D042EB42 0000FFFD"
+      - "2042AB60 00000000"

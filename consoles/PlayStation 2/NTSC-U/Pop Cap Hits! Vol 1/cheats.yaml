@@ -1,0 +1,40 @@
+# Pop Cap Hits! Vol 1 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21710
+
+game: "Pop Cap Hits! Vol 1"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21710"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9024A6D0 0C09295C"
+
+  - name: "Score Gain Multiplier"
+    author: "SkillerCMP"
+    notes: "[Masters]  File: Bejeweled 2 Codes"
+    codes:
+      - "200A0000 8E823D60"
+      - "200A0004 0016B[BE]"
+      - "200A0008 08083B0F"
+      - "200A000C 00561021"
+      - "2020EC38 08028000"
+      - "2020EC3C 00000000"
+
+  - name: "Hints Dont Cost"
+    author: "SkillerCMP"
+    notes: "[Masters]  File: Bejeweled 2 Codes"
+    codes:
+      - "202186D8 00401023"
+
+  - name: "1 Brick Wins Level"
+    author: "SkillerCMP"
+    notes: "[Masters]  File: Astro Pop"
+    codes:
+      - "101C1D28 8E4519A8"

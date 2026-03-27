@@ -1,0 +1,33 @@
+# NRA Gun Club cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21432
+
+game: "NRA Gun Club"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21432"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0121E9C 00121E9F"
+
+  - name: "Infinite Pistol Ammo"
+    author: "Codejunkies"
+    codes:
+      - "201411A8 24420000"
+
+  - name: "Infinite Rifle Ammo"
+    author: "Codejunkies"
+    codes:
+      - "20140A94 24420000"
+
+  - name: "Super Scoring"
+    author: "Codejunkies"
+    codes:
+      - "20146D74 240303E7"

@@ -1,0 +1,29 @@
+# Sin and Punishment 2_ Star Successor cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  R2VE01
+
+game: "Sin and Punishment 2_ Star Successor"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "R2VE01"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Inf HP"
+    author: "Skiller"
+    codes:
+      - "C20F6A00 00000002"
+      - "800402BC 900402B8"
+      - "800402B8 00000000"
+
+  - name: "Time Dont Move"
+    author: "Skiller"
+    codes:
+      - "04864368 8003003C"
+
+  - name: "Add (amount) To Destroyed"
+    author: "Skiller"
+    codes:
+      - "040F2F98 3804[Amount:2710:HEX:BIG]"

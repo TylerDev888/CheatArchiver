@@ -1,0 +1,39 @@
+# Magic Teacher Negima - Scholarship Version cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65871
+
+game: "Magic Teacher Negima - Scholarship Version"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65871"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90108250 0C04203C"
+
+  - name: "Enable Debug Display"
+    author: "punk7890"
+    codes:
+      - "2027FE8C 00000001"
+
+  - name: "Enable Debug Menus [View Note]"
+    author: "punk7890"
+    codes:
+      - "D03403DC 0000DBFF"
+      - "00236F68 00000026"
+      - "D03403DC 0000DBFF"
+      - "10236F70 00003C90"
+      - "D03403DC 0000DEFF"
+      - "00236F68 00000026"
+      - "D03403DC 0000DEFF"
+      - "10236F70 00003D00"
+      - "D03403DC 0000FFFF"
+      - "00236F68 00000027"
+      - "D03403DC 0000FFFF"
+      - "10236F70 0000DB20"

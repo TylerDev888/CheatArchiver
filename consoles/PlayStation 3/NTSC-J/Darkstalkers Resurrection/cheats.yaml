@@ -1,0 +1,23 @@
+# Darkstalkers Resurrection cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM60567
+
+game: "Darkstalkers Resurrection"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM60567"
+cheat_type: "Save Editor"
+source: "From KE-HA"
+
+cheats:
+  - name: "Lv.20(max)/total Gp 99990"
+    notes: "File: SYS-DATA"
+    codes:
+      - "0000046F 00000014"
+      - "20000470 00018696"
+
+  - name: "Carry Gp 99990"
+    notes: "File: SYS-DATA"
+    codes:
+      - "20000474 00018696"

@@ -1,0 +1,80 @@
+# Soul Hackers 2 cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA23630
+
+game: "Soul Hackers 2"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA23630"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Edit A Demon's Skill 1"
+    notes: "[Demon Skills]  File: data\\.dat"
+    codes:
+      - "search 0x224E616B616D6153746F636B22"
+      - "search next 0x22536B696C6C4964223A5B:[Demon]"
+      - "set pointer:pointer+11"
+      - "delete next (0):until 0x2C"
+      - "insert next (0):\"[Skill]\""
+
+  - name: "Edit A Demon's Skill 2"
+    notes: "[Demon Skills]  File: data\\.dat"
+    codes:
+      - "search 0x224E616B616D6153746F636B22"
+      - "search next 0x22536B696C6C4964223A5B:[Demon]"
+      - "search next 0x2C"
+      - "set pointer:pointer+1"
+      - "delete next (0):until 0x2C"
+      - "insert next (0):\"[Skill]\""
+
+  - name: "Edit A Demon's Skill 3"
+    notes: "[Demon Skills]  File: data\\.dat"
+    codes:
+      - "search 0x224E616B616D6153746F636B22"
+      - "search next 0x22536B696C6C4964223A5B:[Demon]"
+      - "search next 0x2C:(2)"
+      - "set pointer:pointer+1"
+      - "delete next (0):until 0x2C"
+      - "insert next (0):\"[Skill]\""
+
+  - name: "Edit A Demon's Skill 4"
+    notes: "[Demon Skills]  File: data\\.dat"
+    codes:
+      - "search 0x224E616B616D6153746F636B22"
+      - "search next 0x22536B696C6C4964223A5B:[Demon]"
+      - "search next 0x2C:(3)"
+      - "set pointer:pointer+1"
+      - "delete next (0):until 0x2C"
+      - "insert next (0):\"[Skill]\""
+
+  - name: "Edit A Demon's Skill 5"
+    notes: "[Demon Skills]  File: data\\.dat"
+    codes:
+      - "search 0x224E616B616D6153746F636B22"
+      - "search next 0x22536B696C6C4964223A5B:[Demon]"
+      - "search next 0x2C:(4)"
+      - "set pointer:pointer+1"
+      - "delete next (0):until 0x2C"
+      - "insert next (0):\"[Skill]\""
+
+  - name: "Edit A Demon's Skill 6"
+    notes: "[Demon Skills]  File: data\\.dat"
+    codes:
+      - "search 0x224E616B616D6153746F636B22"
+      - "search next 0x22536B696C6C4964223A5B:[Demon]"
+      - "search next 0x2C:(5)"
+      - "set pointer:pointer+1"
+      - "delete next (0):until 0x5D"
+      - "insert next (0):\"[Skill]\""
+
+  - name: "Change A Demon's Race"
+    notes: "File: data\\.dat"
+    codes:
+      - "search 0x224E616B616D6153746F636B22"
+      - "search next 0x7B224964223A:[Demon]"
+      - "set pointer:pointer+6"
+      - "delete next (0):until 0x2C"
+      - "insert next (0):\"[Race]\""

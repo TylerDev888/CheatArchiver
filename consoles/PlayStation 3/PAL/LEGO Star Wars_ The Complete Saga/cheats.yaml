@@ -1,0 +1,21 @@
+# LEGO Star Wars_ The Complete Saga cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00121
+
+game: "LEGO Star Wars_ The Complete Saga"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00121"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Dwadd For Savedata.dat(required)"
+    notes: "File: SAVEDATA.DAT  (set [csum]:dwadd(0x000000,0x007E4B)) (write at 0x0x007E4C:[csum])"
+    codes:
+      - "set pointer:EOF-4"
+      - "set [csum]:0x5C0999"
+      - "set [csum]:dwadd(0x000000,pointer)"
+      - "set pointer:EOF-3"
+      - "write next 0:[csum]"

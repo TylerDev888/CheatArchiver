@@ -1,0 +1,26 @@
+# Castlevania_ Circle of the Moon cheat data
+# Console: Game Boy Advance
+# Region:  NTSC-U
+# Serial:  AGB-AAME-USA
+
+game: "Castlevania_ Circle of the Moon"
+console: "Game Boy Advance"
+region: "NTSC-U"
+serial: "AGB-AAME-USA"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Weapon Mods"
+    notes: "File: NTSC  _Have All/Inf items/Gear"
+    codes:
+      - "32025640 000[WEP]"
+      - "420256EC 6363"
+      - "0000001C 0002"
+
+  - name: "Unknown Code?"
+    notes: "File: NTSC"
+    codes:
+      - "3202566e 0000"
+      - "3202566F 0000"
+      - "32025670 0000"

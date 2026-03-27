@@ -1,0 +1,52 @@
+# Dynasty Warriors_ Gundam cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00147
+
+game: "Dynasty Warriors_ Gundam"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00147"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Pilot Points"
+    notes: "[Amuro Ray]  File: BLES00147-*\\DATA.BIN"
+    codes:
+      - "20000188 05F5E0FF"
+
+  - name: "Level 30"
+    notes: "[Amuro Ray]  File: BLES00147-*\\DATA.BIN"
+    codes:
+      - "00000198 0000001D"
+
+  - name: "Have All Skills"
+    notes: "[Amuro Ray]  File: BLES00147-*\\DATA.BIN"
+    codes:
+      - "400001A5 000000FF"
+      - "40070001 00000000"
+
+  - name: "Max Mobile Suit Points"
+    notes: "[Amuro Ray-gundam]  File: BLES00147-*\\DATA.BIN"
+    codes:
+      - "20000020 0098967F"
+
+  - name: "Level 10"
+    notes: "[Amuro Ray-gundam]  File: BLES00147-*\\DATA.BIN"
+    codes:
+      - "00000032 00000009"
+
+  - name: "Update Add For Data.bin (required)"
+    notes: "File: BLES00147-*\\DATA.BIN  (set [csum]:add(0x000020,0x088FFF))"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof+1"
+      - "set [csum]:add(0x000020,pointer)"
+      - "write at 0x000010:[csum]"
+      - "set [csum]:0"
+      - "set [csum]:add(0x000020,0x001FFF)"
+      - "write at 0x000008:[csum]"
+      - "set [csum]:0"
+      - "set [csum]:add(0x001DD1,0x088DCF)"
+      - "write at 0x00000C:[csum]"

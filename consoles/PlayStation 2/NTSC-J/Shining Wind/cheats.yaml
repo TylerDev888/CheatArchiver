@@ -1,0 +1,24 @@
+# Shining Wind cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66671
+
+game: "Shining Wind"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66671"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9010F550 0C043CFC"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9011DF30 0C0651E0"

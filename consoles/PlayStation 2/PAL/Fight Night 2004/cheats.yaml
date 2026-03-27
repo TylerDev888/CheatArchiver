@@ -1,0 +1,141 @@
+# Fight Night 2004 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52374
+
+game: "Fight Night 2004"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52374"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F03EDB5C 003EDB5F"
+
+  - name: "Infinite Rating Points"
+    author: "Codejunkies"
+    codes:
+      - "202B8010 24020063"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF04 AC410004"
+      - "200FFF08 AC410008"
+
+  - name: "Infinite Punch Power"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF0C AC41000C"
+      - "200FFF10 AC410010"
+
+  - name: "Must Be On To Activate Player 1 Codes"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF14 4614A834"
+      - "200FFF18 080BE624"
+      - "202F9888 0803FFC0"
+      - "200FFF00 3C0142C8"
+
+  - name: "1 Hit Kill"
+    author: "Codejunkies"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "202F9834 AC400004"
+
+  - name: "No Punch Power"
+    author: "Codejunkies"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "202F97E8 AC40000C"
+
+  - name: "Spend In Shop For Tons Of Cash"
+    author: "Codejunkies"
+    codes:
+      - "2024C074 3C030098"
+      - "2024C080 2403967F"
+
+  - name: "Turn On Big Head Mode"
+    author: "Codejunkies"
+    codes:
+      - "2020FE38 00000000"
+
+  - name: "Turn On Tiny Boxer Mode"
+    author: "Codejunkies"
+    codes:
+      - "2017CCD8 00000000"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "903ACF84 0220202D"
+      - "200C2000 8E680EE4"
+      - "200C2004 3C0B000C"
+      - "200C2008 01685821"
+      - "200C200C 91612050"
+      - "200C2010 10200006"
+      - "200C2014 8C82026C"
+      - "200C2018 24090001"
+      - "200C201C 3C0A42C8"
+      - "200C2020 54290001"
+      - "200C2024 00005021"
+      - "200C2028 AC4A0004"
+      - "200C202C 91612052"
+      - "200C2030 10200005"
+      - "200C2034 24090001"
+      - "200C2038 3C0A42C8"
+      - "200C203C 54290001"
+      - "200C2040 00005021"
+      - "200C2044 AC4A000C"
+      - "200C2048 08048128"
+      - "200C204C 24013634"
+      - "200C2050 00000000"
+      - "201D5DE0 0C030800"
+
+  - name: "No Health"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "000C2050 00000002"
+
+  - name: "Infinite Stamina"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "000C2052 00000001"
+
+  - name: "No Stamina"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "000C2052 00000002"
+
+  - name: "All Fight Store Items"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "2017E634 2002FFFF"
+      - "2017E638 AE020088"
+      - "2017E63C 7BB00020"
+
+  - name: "Unlimited Rating Points"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "20223074 24003634"
+      - "202230F0 24003634"
+
+  - name: "Stats Not Capped To 45"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "202230CC 2A220064"

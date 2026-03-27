@@ -1,0 +1,26 @@
+# Shirogane No Torikago cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66150
+
+game: "Shirogane No Torikago"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66150"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90120B40 0C048278"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "20426BC8 FFFFFFFF"
+      - "20426BCC FFFFFFFF"
+      - "20426BD0 FFFFFFFF"
+      - "20426BD4 FFFFFFFF"

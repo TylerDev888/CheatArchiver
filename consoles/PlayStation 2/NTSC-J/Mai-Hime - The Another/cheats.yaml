@@ -1,0 +1,30 @@
+# Mai-Hime - The Another cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25508
+
+game: "Mai-Hime - The Another"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25508"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9014C598 0C05310E"
+
+  - name: "Unlock Everything"
+    author: "punk7890"
+    codes:
+      - "404DAAD0 00C00001"
+      - "01010101 00000000"
+      - "204DAA6C 01010101"
+      - "204DAA70 01010101"
+      - "204DAA74 01010101"
+      - "204DAA80 01010101"
+      - "204DAA84 01010101"
+      - "204DAA88 01010101"

@@ -1,0 +1,24 @@
+# Shoukan Shoujo - Elemental Girl Calling cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66872
+
+game: "Shoukan Shoujo - Elemental Girl Calling"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66872"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010F898 0C043DCE"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "40430BD0 000D0001"
+      - "FFFFFFFF 00000000"

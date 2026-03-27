@@ -1,0 +1,62 @@
+# Batman_ Arkham City cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS30538
+
+game: "Batman_ Arkham City"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS30538"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Decompress Save (required)"
+    notes: "File: BLUS30538-SAVE*\\PAYLOAD"
+    codes:
+      - "Decompress(*, 15)"
+
+  - name: "Level Up (not Working)"
+    notes: "File: BLUS30538-SAVE*\\PAYLOAD"
+    codes:
+      - "90000000 0000001C"
+      - "93000000 00000028"
+      - "58000008 00000004"
+      - "58000000 00000000"
+
+  - name: "Unlock All Character Bios (not Working)"
+    notes: "File: BLUS30538-SAVE*\\PAYLOAD"
+    codes:
+      - "90000000 0000001C"
+      - "93000000 0000116F"
+      - "48000000 00000001"
+      - "40200001 00000000"
+
+  - name: "Unlock All Arkham City Stories (not Working)"
+    notes: "File: BLUS30538-SAVE*\\PAYLOAD"
+    codes:
+      - "90000000 0000001C"
+      - "93000000 00000F89"
+      - "4A000000 00000001"
+      - "403E0004 00000000"
+
+  - name: "Unlock All Character Trophies (not Working)"
+    notes: "File: BLUS30538-SAVE*\\PAYLOAD"
+    codes:
+      - "90000000 0000001C"
+      - "93000000 000010EB"
+      - "48000000 00000001"
+      - "40590001 00000000"
+
+  - name: "Unlock All Concept Art (not Working)"
+    notes: "File: BLUS30538-SAVE*\\PAYLOAD"
+    codes:
+      - "90000000 0000001C"
+      - "93000000 00001037"
+      - "48000000 00000001"
+      - "40500001 00000000"
+
+  - name: "Compress Save (required)"
+    notes: "File: PAYLOAD"
+    codes:
+      - "Compress(*)"

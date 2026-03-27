@@ -1,0 +1,32 @@
+# Turok cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00187
+
+game: "Turok"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00187"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Get Crc32big:0 For Userdata (required)"
+    notes: "File: USERDATA"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x0,pointer"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+
+  - name: "Update Crc32big:0 For Header (required)"
+    notes: "File: HEADER"
+    codes:
+      - "write at 0x000008:[hash]"
+      - "set [hash]:0"
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"

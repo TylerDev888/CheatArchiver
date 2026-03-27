@@ -1,0 +1,36 @@
+# Smackdown Vs Raw 2006 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Smackdown Vs Raw 2006"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90112C10 0C04F7F0"
+
+  - name: "All WWE Shop"
+    author: "Xploder"
+    notes: "[Have Purchased]"
+    codes:
+      - "20443F84 FFFFFFFF"
+
+  - name: "All Lockerroom Shop"
+    author: "Xploder"
+    notes: "[Have Purchased]"
+    codes:
+      - "40442F8C 00030001"
+      - "FFFFFFFF 00000000"
+
+  - name: "All Trophies"
+    author: "Xploder"
+    notes: "[Have Won]"
+    codes:
+      - "20443F88 FFFFFFFF"

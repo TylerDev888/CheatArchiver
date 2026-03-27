@@ -1,0 +1,41 @@
+# Popolocrois - The Law Of The Moon cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SCPS-15063
+
+game: "Popolocrois - The Law Of The Moon"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SCPS-15063"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "901146B8 0C045156"
+
+  - name: "Enable Debug Level Select After New Game"
+    author: "punk7890"
+    codes:
+      - "2056EED8 00000001"
+
+  - name: "Press L3 For Debug Menu In-Game"
+    author: "punk7890"
+    codes:
+      - "2030EDFC 0C04A93C"
+      - "2030EE00 00000000"
+      - "2012A4F0 3C01004A"
+      - "2012A4F4 84215802"
+      - "2012A4F8 2403FFFD"
+      - "2012A4FC 14610006"
+      - "2012A500 8FA30150"
+      - "2012A504 3C010054"
+      - "2012A508 24020001"
+      - "2012A50C A0228FD5"
+      - "2012A510 24020002"
+      - "2012A514 AC620060"
+      - "2012A518 03E00008"
+      - "2012A51C 8C640060"

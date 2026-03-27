@@ -1,0 +1,108 @@
+# Borderlands 2 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01684
+
+game: "Borderlands 2"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01684"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Level 50 (not Working)"
+    notes: "File: BLES01684-SAVE-*\\SAVE*"
+    codes:
+      - "60000000 00000001"
+      - "62100000 00000003"
+      - "60400000 00000032"
+
+  - name: "Max Skill Points"
+    notes: "File: BLES01684-SAVE-*\\SAVE*"
+    codes:
+      - "80010003 28003200"
+      - "93000000 00000001"
+      - "08000000 00000063"
+
+  - name: "Reset Skill Points To 0"
+    notes: "File: BLES01684-SAVE-*\\SAVE*"
+    codes:
+      - "80010003 28003200"
+      - "93000000 00000001"
+      - "08000000 00000000"
+
+  - name: "Max Money"
+    notes: "File: BLES01684-SAVE-*\\SAVE*"
+    codes:
+      - "80010003 28003200"
+      - "28000004 FFC1D72F"
+
+  - name: "Max Eridium"
+    notes: "File: BLES01684-SAVE-*\\SAVE*"
+    codes:
+      - "80010003 28003200"
+      - "08000008 00000063"
+
+  - name: "Max Seraph Crystals"
+    notes: "File: BLES01684-SAVE-*\\SAVE*"
+    codes:
+      - "80010003 28003200"
+      - "08000009 0000007F"
+
+  - name: "Combat Rifles"
+    notes: "[Max Ammo]  File: BLES01684-SAVE-*\\SAVE*"
+    codes:
+      - "8001000C 745F5269"
+      - "666C655F 506F6F6C"
+      - "2800000D 003C1C46"
+
+  - name: "Grenades"
+    notes: "[Max Ammo]  File: BLES01684-SAVE-*\\SAVE*"
+    codes:
+      - "8001000C 50726F74"
+      - "65616E5F 506F6F6C"
+      - "2800000D 003C1C46"
+
+  - name: "Pistols"
+    notes: "[Max Ammo]  File: BLES01684-SAVE-*\\SAVE*"
+    codes:
+      - "8001000C 5F506973"
+      - "746F6C5F 506F6F6C"
+      - "2800000D 003C1C46"
+
+  - name: "Rocket Launchers"
+    notes: "[Max Ammo]  File: BLES01684-SAVE-*\\SAVE*"
+    codes:
+      - "8001000C 61756E63"
+      - "6865725F 506F6F6C"
+      - "2800000D 003C1C46"
+
+  - name: "Smg's"
+    notes: "[Max Ammo]  File: BLES01684-SAVE-*\\SAVE*"
+    codes:
+      - "8001000C 726F6C5F"
+      - "534D475F 506F6F6C"
+      - "2800000D 003C1C46"
+
+  - name: "Shotguns"
+    notes: "[Max Ammo]  File: BLES01684-SAVE-*\\SAVE*"
+    codes:
+      - "8001000C 53686F74"
+      - "67756E5F 506F6F6C"
+      - "2800000D 003C1C46"
+
+  - name: "Sniper Rifles"
+    notes: "[Max Ammo]  File: BLES01684-SAVE-*\\SAVE*"
+    codes:
+      - "8001000C 725F5269"
+      - "666C655F 506F6F6C"
+      - "2800000D 003C1C46"
+
+  - name: "Update Sha1 (required)"
+    notes: "File: BLES01684-SAVE-*\\SAVE*  (set range:0x000014,0x001539)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000014,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x000000:[hash]"

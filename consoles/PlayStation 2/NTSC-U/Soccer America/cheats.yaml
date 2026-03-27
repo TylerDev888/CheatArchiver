@@ -1,0 +1,167 @@
+# Soccer America cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20196
+
+game: "Soccer America"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20196"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01004BC 000001FD"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0022178F"
+
+  - name: "Always Score 0"
+    author: "Codejunkies"
+    notes: "[Team A Codes]"
+    codes:
+      - "00242D2C 00000000"
+      - "00242D24 00000000"
+
+  - name: "Always Scores 99"
+    author: "Codejunkies"
+    notes: "[Team A Codes]"
+    codes:
+      - "00242D2C 00000063"
+      - "00242D24 00000063"
+
+  - name: "Never Score Above 1 Goal"
+    author: "Codejunkies"
+    notes: "[Team A Codes]"
+    codes:
+      - "E1010001 30242D2C"
+      - "00242D2C 00000001"
+      - "E1010001 30242D24"
+      - "00242D24 00000001"
+
+  - name: "Never Score Above 2 Goals"
+    author: "Codejunkies"
+    notes: "[Team A Codes]"
+    codes:
+      - "E1010002 30242D2C"
+      - "00242D2C 00000002"
+      - "E1010002 30242D24"
+      - "00242D24 00000002"
+
+  - name: "Never Score Above 3 Goals"
+    author: "Codejunkies"
+    notes: "[Team A Codes]"
+    codes:
+      - "E1010003 30242D2C"
+      - "00242D2C 00000003"
+      - "E1010003 30242D24"
+      - "00242D24 00000003"
+
+  - name: "Never Score Above 5 Goals"
+    author: "Codejunkies"
+    notes: "[Team A Codes]"
+    codes:
+      - "E1010005 30242D2C"
+      - "00242D2C 00000005"
+      - "E1010005 30242D24"
+      - "00242D24 00000005"
+
+  - name: "Corner Kicks"
+    author: "Code Master"
+    notes: "[Team A Stat Modifier Codes]"
+    codes:
+      - "00242A6E 000000??"
+
+  - name: "Free Kicks"
+    author: "Code Master"
+    notes: "[Team A Stat Modifier Codes]"
+    codes:
+      - "00242A66 000000??"
+
+  - name: "Penalty Kicks"
+    author: "Code Master"
+    notes: "[Team A Stat Modifier Codes]"
+    codes:
+      - "00242A76 000000??"
+
+  - name: "Red Card Modifier"
+    author: "Code Master"
+    notes: "[Team A Stat Modifier Codes]"
+    codes:
+      - "00242A8E 000000??"
+
+  - name: "Shots On Goal"
+    author: "Code Master"
+    notes: "[Team A Stat Modifier Codes]"
+    codes:
+      - "00242A5E 000000??"
+
+  - name: "Total Shots"
+    author: "Code Master"
+    notes: "[Team A Stat Modifier Codes]"
+    codes:
+      - "00242A5F 000000??"
+
+  - name: "Yellow Card Modifier"
+    author: "Code Master"
+    notes: "[Team A Stat Modifier Codes]"
+    codes:
+      - "00242A86 000000??"
+
+  - name: "Always Scores 0"
+    author: "Codejunkies"
+    notes: "[Team B Codes]"
+    codes:
+      - "00242D2D 00000000"
+      - "00242D28 00000000"
+
+  - name: "Max Experience"
+    author: "Codejunkies"
+    notes: "[Team B Codes]"
+    codes:
+      - "20242854 05F5E0FF"
+      - "20242858 05F5E0FF"
+      - "2024285C 05F5E0FF"
+
+  - name: "P1 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D06481C2 0000FAFF"
+      - "20242D98 00000000"
+
+  - name: "P1 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D06481C2 0000FAFF"
+      - "20242D98 0000369D"
+
+  - name: "P2 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D06482C2 0000FAFF"
+      - "20242D98 00000000"
+
+  - name: "P2 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D06482C2 0000FAFF"
+      - "20242D98 0000369D"
+
+  - name: "Team A Score Modifier"
+    author: "Code Master"
+    codes:
+      - "00242D24 000000??"
+      - "00242D2C 000000??"
+
+  - name: "Team B Score Modifier"
+    author: "Code Master"
+    codes:
+      - "00242D28 000000??"
+      - "00242D2D 000000??"

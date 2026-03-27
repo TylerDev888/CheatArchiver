@@ -1,0 +1,20 @@
+# F1 2013 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01870
+
+game: "F1 2013"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01870"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Secuinfo.bin (required)"
+    notes: "File: SECUINFO.BIN"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"

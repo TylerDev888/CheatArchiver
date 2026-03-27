@@ -1,0 +1,23 @@
+# Hyper Street Fighter cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65496
+
+game: "Hyper Street Fighter"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65496"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "9012A6F0 0C062514"
+
+  - name: "Region - USA"
+    author: "lee4"
+    codes:
+      - "01B002FA 00000002"

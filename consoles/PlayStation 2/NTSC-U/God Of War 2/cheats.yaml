@@ -1,0 +1,590 @@
+# God Of War 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97481
+
+game: "God Of War 2"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97481"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    notes: "[Master Code]"
+    codes:
+      - "902B7B60 0C0B1AB3"
+
+  - name: "Max Reverse Joker Command For Controller 1"
+    author: "SkillerCMP"
+    notes: "[Jokers]"
+    codes:
+      - "D032F45C 0000[Joker:PS2]"
+
+  - name: "Max Reverse Joker Command For Controller 2"
+    notes: "[Jokers]"
+    codes:
+      - "D032F61C 0000[Joker:PS2]"
+
+  - name: "Power Up Mod"
+    codes:
+      - "00335870 000000[PUP]"
+
+  - name: "Infinite Amulet Of The Fates Power"
+    author: "Codejunkies:Original-Code>Lee4:FIXED"
+    codes:
+      - "D032F45C 0000FFEF"
+      - "20335844 42C80000"
+
+  - name: "Unlock Everything In Treasure Room"
+    author: "Codejunkies:Original-Code>Lee4:FIXED"
+    codes:
+      - "102D90BC 0000FFFF"
+
+  - name: "Always Low Total Play Time"
+    author: "SkillerCMP"
+    codes:
+      - "202D86E8 00000000"
+
+  - name: "Max/Inf Redorbs"
+    author: "SkillerCMP"
+    codes:
+      - "20335850 000F423F"
+
+  - name: "Have All Magic/Moves"
+    author: "SkillerCMP"
+    codes:
+      - "20335834 FFFFFFFF"
+
+  - name: "Infinite Magic"
+    author: "SkillerCMP"
+    codes:
+      - "20335840 43480000"
+      - "2033583C 43C80000"
+
+  - name: "Run Speed Mods"
+    author: "SkillerCMP"
+    notes: "20AEE0D0 [Amount:40F00000:FLOAT:BIG]"
+
+  - name: "Infinite Health"
+    author: "CMX"
+    codes:
+      - "20213760 C440017C"
+      - "20213768 E4400178"
+
+  - name: "Infinite Magic Usage"
+    author: "CMX"
+    codes:
+      - "20216514 00000000"
+
+  - name: "Game Speed Modifier"
+    author: "CMX"
+    codes:
+      - "D032F45C 0000FBEF"
+      - "202D80BC [Amount:40800000:FLOAT:BIG]"
+
+  - name: "Athena's Blade"
+    author: "CMX"
+    notes: "[Max Power-Up Level Codes]"
+    codes:
+      - "2071C3E4 000000[BLADE]"
+
+  - name: "Atlas Quake"
+    author: "CMX"
+    notes: "[Max Power-Up Level Codes]"
+    codes:
+      - "2071C3E8 00000002"
+
+  - name: "Poseidon's Rage"
+    author: "CMX"
+    notes: "[Max Power-Up Level Codes]"
+    codes:
+      - "2071C3F0 00000002"
+
+  - name: "Head Of Euryale"
+    author: "CMX"
+    notes: "[Max Power-Up Level Codes]"
+    codes:
+      - "2071C3F4 00000002"
+
+  - name: "Typhon's Bane"
+    author: "CMX"
+    notes: "[Max Power-Up Level Codes]"
+    codes:
+      - "2071C3F8 00000002"
+
+  - name: "Spear Of Destiny"
+    author: "CMX"
+    notes: "[Max Power-Up Level Codes]"
+    codes:
+      - "2071C3FC 00000004"
+
+  - name: "Barbarian Hammer"
+    author: "CMX"
+    notes: "[Max Power-Up Level Codes]"
+    codes:
+      - "2071C400 00000002"
+
+  - name: "Blade Of Olympus"
+    author: "CMX"
+    notes: "[Max Power-Up Level Codes]"
+    codes:
+      - "2071C404 00000002"
+
+  - name: "Infinite Rage Of The Titans"
+    author: "Codejunkies"
+    codes:
+      - "20335848 42C80000"
+
+  - name: "Weapons Can Turn Enemies To Stone"
+    author: "Codejunkies"
+    codes:
+      - "002D86B0 00000001"
+
+  - name: "10x Orb Multiplier"
+    author: "Codejunkies"
+    codes:
+      - "002D86B8 00000001"
+
+  - name: "Extend Combo Time"
+    author: "Codejunkies"
+    codes:
+      - "002D86BC 00000001"
+
+  - name: "Replace Chrono' Rage With Posedion's Rage"
+    author: "Codejunkies"
+    codes:
+      - "002D86B4 00000001"
+
+  - name: "Have All Gorgon Eyes"
+    author: "Codejunkies"
+    codes:
+      - "00335876 00000012"
+
+  - name: "Have All Phoenix Feathers"
+    author: "Codejunkies"
+    codes:
+      - "00335877 00000012"
+
+  - name: "Have All Cyclops Eyes"
+    author: "Codejunkies"
+    codes:
+      - "0033587C 00000014"
+
+  - name: "Hyper Mode"
+    author: "Codejunkies"
+    notes: "[Hyper Mode Codes]"
+    codes:
+      - "D032F45C 0000FFDB"
+      - "2018A238 3C0141E0"
+
+  - name: "Quicker Game"
+    author: "Codejunkies"
+    notes: "[Hyper Mode Codes]"
+    codes:
+      - "D032F45C 0000FFEB"
+      - "2018A238 3C014230"
+
+  - name: "Slow Motion"
+    author: "Codejunkies"
+    notes: "[Hyper Mode Codes]"
+    codes:
+      - "D032F45C 0000FFBB"
+      - "2018A238 3C014300"
+
+  - name: "Normal Speed"
+    author: "Codejunkies"
+    notes: "[Hyper Mode Codes]"
+    codes:
+      - "D032F45C 0000FF7B"
+      - "2018A238 3C014270"
+
+  - name: "Max Total Play Time"
+    author: "Codejunkies"
+    notes: "[Total Play Time]"
+    codes:
+      - "202D86E8 0003CA50"
+
+  - name: "Low Total Play Time"
+    author: "Codejunkies"
+    notes: "[Total Play Time]"
+    codes:
+      - "202D86E8 00000000"
+
+  - name: "Max Total Deaths"
+    author: "Codejunkies"
+    notes: "[Total Deaths]"
+    codes:
+      - "2036B0C8 3B9AC9FF"
+
+  - name: "No Total Deaths"
+    author: "Codejunkies"
+    notes: "[Total Deaths]"
+    codes:
+      - "2036B0C8 00000000"
+
+  - name: "Max Total Kills"
+    author: "Codejunkies"
+    notes: "[Total Kills]"
+    codes:
+      - "2036B108 3B9AC9FF"
+
+  - name: "No Total Kills"
+    author: "Codejunkies"
+    notes: "[Total Kills]"
+    codes:
+      - "2036B108 00000000"
+
+  - name: "Max Total Saves"
+    author: "Codejunkies"
+    notes: "[Total Saves]"
+    codes:
+      - "2036B0CC 3B9AC9FF"
+
+  - name: "No Total Saves"
+    author: "Codejunkies"
+    notes: "[Total Saves]"
+    codes:
+      - "2036B0CC 00000000"
+
+  - name: "Max Brutal Kills"
+    author: "Codejunkies"
+    notes: "[TOTAL BRUTAL KILLS]"
+    codes:
+      - "2036B10C 3B9AC9FF"
+
+  - name: "No Brutal Kills"
+    author: "Codejunkies"
+    notes: "[TOTAL BRUTAL KILLS]"
+    codes:
+      - "2036B10C 00000000"
+
+  - name: "Max Maximum Combo"
+    author: "Codejunkies"
+    notes: "[Max Combo]"
+    codes:
+      - "2036B0F4 3B9AC9FF"
+
+  - name: "No Maximum Combo"
+    author: "Codejunkies"
+    notes: "[Max Combo]"
+    codes:
+      - "2036B0F4 00000000"
+
+  - name: "Max Dismember Kills"
+    author: "Codejunkies"
+    notes: "[Dismember Kills]"
+    codes:
+      - "2036B114 3B9AC9FF"
+
+  - name: "No Dismember Kills"
+    author: "Codejunkies"
+    notes: "[Dismember Kills]"
+    codes:
+      - "2036B114 00000000"
+
+  - name: "Max Red Orbs Collected"
+    author: "Codejunkies"
+    notes: "[Red Orbs Collected]"
+    codes:
+      - "2036B0D8 3B9AC9FF"
+
+  - name: "No Red Orbs Collected"
+    author: "Codejunkies"
+    notes: "[Red Orbs Collected]"
+    codes:
+      - "2036B0D8 00000000"
+
+  - name: "Max Shatter Kills"
+    author: "Codejunkies"
+    notes: "[Shatter Kills]"
+    codes:
+      - "2036B118 3B9AC9FF"
+
+  - name: "No Shatter Kills"
+    author: "Codejunkies"
+    notes: "[Shatter Kills]"
+    codes:
+      - "2036B118 00000000"
+
+  - name: "Costume Modifier"
+    author: "FloydFan"
+    codes:
+      - "0071C3AC 000000[COST]"
+
+  - name: "Unlock All Costumes"
+    author: "FloydFan"
+    codes:
+      - "4071C36C 00070001"
+      - "00000001 00000000"
+
+  - name: "All Challenges Unlocked"
+    author: "FloydFan"
+    codes:
+      - "2071C2E0 00000007"
+
+  - name: "Sub Weapon Modifier"
+    author: "FloydFan"
+    codes:
+      - "2071C420 000000[SUB]"
+
+  - name: "Infinite Double Jumps"
+    author: "FloydFan"
+    codes:
+      - "D032F45C 0000BDFF"
+      - "2022662C 00000000"
+      - "D032F45C 0000EDFF"
+      - "2022662C ACC20378"
+
+  - name: "Skip Fmvs"
+    author: "FloydFan"
+    codes:
+      - "D032F45C 0010FFFE"
+      - "202AC060 8C620000"
+      - "D032F45C 0000FFFE"
+      - "202AC060 24020001"
+
+  - name: "Enemies Die Instantly"
+    author: "FloydFan"
+    codes:
+      - "D032F45C 0000FDDF"
+      - "2036B5C0 00000000"
+      - "D032F45C 0000FD7F"
+      - "2036B5C0 0000003C"
+
+  - name: "Combo Milestone For Every Hit"
+    author: "FloydFan"
+    codes:
+      - "E002000A 0068FD2C"
+      - "4068FD2C 00280001"
+      - "00000001 00000001"
+
+  - name: "Get Max Orb Bonus For All Combo Milestones"
+    author: "FloydFan"
+    codes:
+      - "E0020002 0068FBEC"
+      - "4068FBEC 00140002"
+      - "000A270F 00010000"
+
+  - name: "Kratos Does Most Context Sensitive Button Moves Automatically"
+    author: "FloydFan"
+    codes:
+      - "201AA470 03E00008"
+      - "201AA474 00000000"
+      - "201A9F00 03E00008"
+      - "201A9F04 00000000"
+
+  - name: "Infinite Combo Time"
+    author: "FloydFan"
+    codes:
+      - "D032F45C 0000FDEF"
+      - "202137CC 2402FFC3"
+      - "D032F45C 0000FDBF"
+      - "202137CC 2402FFFD"
+
+  - name: "Refill Health By Getting Hit"
+    author: "FloydFan"
+    codes:
+      - "D032F45C 0000FFFB"
+      - "2021BEA4 46016328"
+      - "D032F45C 0010FFFB"
+      - "2021BEA4 46016329"
+
+  - name: "Enemies Spawn & Attack In Larger Numbers"
+    author: "FloydFan"
+    codes:
+      - "202D80F4 000000FF"
+
+  - name: "Cant Be Killed By Being Turned To Stone"
+    author: "FloydFan"
+    codes:
+      - "D032F45C 0000F3EF"
+      - "201BC300 03E00008"
+      - "201BC304 00000000"
+      - "D032F45C 0000F3BF"
+      - "201BC300 27BDFF90"
+      - "201BC304 7FB40020"
+
+  - name: "Have 19 Cyclops Eyes"
+    author: "FloydFan>SkillerCMP"
+    codes:
+      - "E002F0EF 0032F45C"
+      - "0033587C 00000013"
+      - "0071C200 00000013"
+
+  - name: "Unlock All Difficulties & Bonus Plays"
+    author: "FloydFan"
+    codes:
+      - "0071C388 00000003"
+
+  - name: "Enemy Speed"
+    author: "FloydFan"
+    notes: "It is advised to use these codes with joker commands. The game will automatically restore the default speed for all modifiers; you do not need a separate joker command to return any code to its default speed."
+    codes:
+      - "202D80CC [Amount:40000000:FLOAT:BIG]"
+
+  - name: "Kratos"
+    author: "FloydFan"
+    notes: "It is advised to use these codes with joker commands. The game will automatically restore the default speed for all modifiers; you do not need a separate joker command to return any code to its default speed."
+    codes:
+      - "202D80D0 [Amount:40000000:FLOAT:BIG]"
+      - "202D80C8 [Amount:40000000:FLOAT:BIG]"
+
+  - name: "Power"
+    author: "FloydFan"
+    notes: "[Easy Difficulty Mods]"
+    codes:
+      - "2068FA6C [Amount:40000000:FLOAT:BIG]"
+
+  - name: "Armor"
+    author: "FloydFan"
+    notes: "[Easy Difficulty Mods]"
+    codes:
+      - "2068FA70 [Amount:3F000000:FLOAT:BIG]"
+
+  - name: "Enemy Pressure"
+    author: "FloydFan"
+    notes: "[Easy Difficulty Mods]"
+    codes:
+      - "2068FAA0 [Amount:3F800000:FLOAT:BIG]"
+
+  - name: "Enemy Recovery"
+    author: "FloydFan"
+    notes: "[Easy Difficulty Mods]"
+    codes:
+      - "2068FA9C [Amount:40000000:FLOAT:BIG]"
+
+  - name: "Health"
+    author: "FloydFan"
+    notes: "[Orb Worth Codes]"
+    codes:
+      - "2068FA78 [Amount:40000000:FLOAT:BIG]"
+
+  - name: "Magic"
+    author: "FloydFan"
+    notes: "[Orb Worth Codes]"
+    codes:
+      - "2068FA7C [Amount:40000000:FLOAT:BIG]"
+
+  - name: "Titan"
+    author: "FloydFan"
+    notes: "[Orb Worth Codes]"
+    codes:
+      - "2068FA80 [Amount:3FC00000:FLOAT:BIG]"
+
+  - name: "Red Orbs Worth"
+    author: "FloydFan"
+    notes: "[Orb Worth Codes]"
+    codes:
+      - "2068FA84 [Amount:40000000:FLOAT:BIG]"
+
+  - name: "Rage Of Titans Meter Drain"
+    author: "FloydFan"
+    notes: "[Orb Worth Codes]"
+    codes:
+      - "2068FA88 [Amount:3F400000:FLOAT:BIG]"
+
+  - name: "Health Orb Worth"
+    author: "FloydFan"
+    notes: "[Cod Of War Costume Stat Mods]"
+    codes:
+      - "2068F978 [Amount:40000000:FLOAT:BIG]"
+
+  - name: "Magic Orb Worth"
+    author: "FloydFan"
+    notes: "[Cod Of War Costume Stat Mods]"
+    codes:
+      - "2068F97C [Amount:40000000:FLOAT:BIG]"
+
+  - name: "Titan Orb Worth"
+    author: "FloydFan"
+    notes: "[Cod Of War Costume Stat Mods]"
+    codes:
+      - "2068F980 [Amount:40000000:FLOAT:BIG]"
+
+  - name: "Red Orb Worth"
+    author: "FloydFan"
+    notes: "[Cod Of War Costume Stat Mods]"
+    codes:
+      - "2068F984 [Amount:40000000:FLOAT:BIG]"
+
+  - name: "Red Orb Worth}"
+    author: "FloydFan"
+    notes: "[Hydra Armor]"
+    codes:
+      - "2068F9A8 [Amount:3F800000:FLOAT:BIG]"
+
+  - name: "Titan Orb"
+    author: "FloydFan"
+    notes: "[God Armor]"
+    codes:
+      - "2068FA58 [Amount:40000000:FLOAT:BIG]"
+
+  - name: "Most Gorgons Cant Shoot Eye Beam At You"
+    author: "FloydFan"
+    codes:
+      - "201A9928 03E00008"
+      - "201A992C 00000000"
+
+  - name: "Blood Effect - Example"
+    author: "FloydFan"
+    notes: "[Blood Effects Modifier Codes]"
+    codes:
+      - "2068F398 40400000"
+      - "2068F3A4 437A0000"
+      - "2068F3B0 3FC9999A"
+
+  - name: "Impulse"
+    author: "FloydFan"
+    notes: "[Blood Effects Modifier Codes]"
+    codes:
+      - "2068F398 [Amount:3F800000:FLOAT:BIG]"
+
+  - name: "Emit Time"
+    author: "FloydFan"
+    notes: "[Blood Effects Modifier Codes]"
+    codes:
+      - "2068F3B0 [Amount:3E99999A:FLOAT:BIG]"
+
+  - name: "Clamp Spread Size"
+    author: "FloydFan"
+    notes: "[Blood Effects Modifier Codes]"
+    codes:
+      - "2068F3B4 [Amount:3FA66666:FLOAT:BIG]"
+
+  - name: "Clamp Part Size"
+    author: "FloydFan"
+    notes: "[Blood Effects Modifier Codes]"
+    codes:
+      - "2068F3B8 [Amount:3F266666:FLOAT:BIG]"
+
+  - name: "Gravity"
+    author: "FloydFan"
+    notes: "[Blood Effects Modifier Codes]"
+    codes:
+      - "2068F39C [Amount:41900000:FLOAT:BIG]"
+
+  - name: "Fall Time"
+    author: "FloydFan"
+    notes: "[Blood Effects Modifier Codes]"
+    codes:
+      - "2068F3AC [Amount:3FA66666:FLOAT:BIG]"
+
+  - name: "Nominal Distance"
+    author: "FloydFan"
+    notes: "[Blood Effects Modifier Codes]"
+    codes:
+      - "2068F3A0 [Amount:41000000:FLOAT:BIG]"
+
+  - name: "Nominal Particles"
+    author: "FloydFan"
+    notes: "[Blood Effects Modifier Codes]"
+    codes:
+      - "2068F3A4 [Amount:42100000:FLOAT:BIG]"
+
+  - name: "Nominal Size"
+    author: "FloydFan"
+    notes: "[Blood Effects Modifier Codes]"
+    codes:
+      - "2068F3A8 [Amount:40400000:FLOAT:BIG]"

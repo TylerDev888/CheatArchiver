@@ -1,0 +1,774 @@
+# Jak X-Combat Racing cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97429
+
+game: "Jak X-Combat Racing"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97429"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90117510 0C045CEC"
+      - "2010C668 03E00008"
+      - "2010C670 3C032008"
+      - "2010C674 3C0127BD"
+      - "2010C678 3421FF90"
+      - "2010C67C AC610008"
+      - "2010C680 3C01FFBF"
+      - "2010C684 34210000"
+      - "2010C688 AC61000C"
+      - "2010C68C 3C012403"
+      - "2010C690 34210000"
+      - "2010C694 03E00008"
+      - "2010C698 AC610040"
+      - "2026FD28 0C04319C"
+
+  - name: "Infinite Green Eco Health (All Players)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0C1D024 00000842"
+      - "20C1D02C 00000000"
+
+  - name: "Infinite Red Eco Mines (All Players)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0F5C35C 00000101"
+      - "20F5C368 00000000"
+
+  - name: "Infinite Yellow Eco Missiles (All Players)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0F4E548 00001825"
+      - "20F4E554 00000000"
+
+  - name: "Infinite Yellow Eco Grenades (All Players)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0F4FE94 00001025"
+      - "20F4FEA0 00000000"
+
+  - name: "Infinite Yellow Eco Machine Gun (All Players)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0F52680 00001025"
+      - "20F5268C 00000000"
+
+  - name: "Infinite Blue Eco Turbo (All Players)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0F176B0 00001825"
+      - "20F17710 00000000"
+
+  - name: "Infinite Health (Only You)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E0051825 00F0FF84"
+      - "200C0220 3C013F80"
+      - "200C0224 AF8102AC"
+      - "200C0228 03E00008"
+      - "200C022C C78002AC"
+      - "20F0FF88 0C030088"
+
+  - name: "Infinite Red/Yellow Eco Ammo (Only You)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E0051825 00EEB0A8"
+      - "200C0230 24010063"
+      - "200C0234 A0C100FC"
+      - "200C0238 03E00008"
+      - "200C023C 80C600FC"
+      - "20EEB0AC 0C03008C"
+
+  - name: "Infinite Blue Eco Turbo (Only You)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E0051825 00EE94AC"
+      - "200C0240 3C013F80"
+      - "200C0244 AE6102BC"
+      - "200C0248 083BA52F"
+      - "200C024C C66002BC"
+      - "20EE94B8 0C030090"
+
+  - name: "Infinite Dark Eco Meters (Only You)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E0051825 00EE9694"
+      - "200C0250 3C013F80"
+      - "200C0254 AE6102C0"
+      - "200C0258 083BA5A9"
+      - "200C025C C66002C0"
+      - "20EE96A0 0C030094"
+
+  - name: "P1 Press R3 To Enable Slow Motion"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D028339C 0000FFFB"
+      - "200C0000 00000001"
+      - "D00C0000 00000001"
+      - "2049D42C 3F000000"
+
+  - name: "P1 Press L3 To Disable Slow Motion"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D028339C 0000FFFD"
+      - "200C0000 00000000"
+      - "D00C0000 00000000"
+      - "2049D42C 3F800000"
+
+  - name: "Max Precursor Orbs (Secrets Shop)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "207B95D0 4CBEBC20"
+
+  - name: "Have All Medal Points"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E005380A 00AB17B8"
+      - "200C0210 A0C10054"
+      - "200C0214 082AC5F3"
+      - "200C0218 0041102D"
+      - "20AB17C4 08030084"
+      - "20AB17C8 24010003"
+
+  - name: "Unlock All Drivers"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "207B9C50 FFFFFFFF"
+      - "207B9C54 FFFFFFFF"
+
+  - name: "Red Eco Cup"
+    author: "Code Master"
+    notes: "[Have Grand Prix Finished Codes]"
+    codes:
+      - "109935B8 00000003"
+
+  - name: "Green Eco Cup"
+    author: "Code Master"
+    notes: "[Have Grand Prix Finished Codes]"
+    codes:
+      - "109934E8 00000003"
+
+  - name: "Blue Eco Cup"
+    author: "Code Master"
+    notes: "[Have Grand Prix Finished Codes]"
+    codes:
+      - "10993408 00000003"
+
+  - name: "Yellow Eco Cup"
+    author: "Code Master"
+    notes: "[Have Grand Prix Finished Codes]"
+    codes:
+      - "10993338 00000003"
+
+  - name: "Hero Mode"
+    author: "Code Master"
+    notes: "[Unlock General Codes]"
+    codes:
+      - "707B99F8 00000001"
+
+  - name: "Mirrored Tracks"
+    author: "Code Master"
+    notes: "[Unlock General Codes]"
+    codes:
+      - "707B99F9 00000040"
+
+  - name: "Mirrored Adventure Mode"
+    author: "Code Master"
+    notes: "[Unlock General Codes]"
+    codes:
+      - "707B99F9 00000080"
+
+  - name: "All General"
+    author: "Code Master"
+    notes: "[Unlock General Codes]"
+    codes:
+      - "707B99F8 0010C001"
+
+  - name: "Character Art"
+    author: "Code Master"
+    notes: "[Unlock Concept Art Codes]"
+    codes:
+      - "707B99F9 00000001"
+
+  - name: "Background Art"
+    author: "Code Master"
+    notes: "[Unlock Concept Art Codes]"
+    codes:
+      - "707B99F9 00000002"
+
+  - name: "Vehicle Art"
+    author: "Code Master"
+    notes: "[Unlock Concept Art Codes]"
+    codes:
+      - "707B99F9 00000004"
+
+  - name: "All Concept Art"
+    author: "Code Master"
+    notes: "[Unlock Concept Art Codes]"
+    codes:
+      - "707B99F9 00000007"
+
+  - name: "Naughty Dog"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "707B99FD 00000001"
+
+  - name: "Sand Shark"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "707B99FD 00000002"
+
+  - name: "All Vehicles"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "707B99FD 00000003"
+
+  - name: "Unknown"
+    author: "Code Master"
+    notes: "[Unlock Reel Codes]"
+    codes:
+      - "707B99F8 00000010"
+
+  - name: "'Making Of' Movie"
+    author: "Code Master"
+    notes: "[Unlock Reel Codes]"
+    codes:
+      - "707B99FC 00000020"
+
+  - name: "Bloopers Movie"
+    author: "Code Master"
+    notes: "[Unlock Reel Codes]"
+    codes:
+      - "707B99FC 00000040"
+
+  - name: "Breakdown Of A Scene"
+    author: "Code Master"
+    notes: "[Unlock Reel Codes]"
+    codes:
+      - "707B99FC 00000080"
+
+  - name: "Hot Coffee"
+    author: "Code Master"
+    notes: "[Unlock Reel Codes]"
+    codes:
+      - "707B99FD 00000020"
+
+  - name: "All Reels"
+    author: "Code Master"
+    notes: "[Unlock Reel Codes]"
+    codes:
+      - "707B99F8 00000010"
+      - "707B99FC 001020E0"
+
+  - name: "Offset Cranium"
+    author: "Code Master"
+    notes: "[Unlock Helmets Codes]"
+    codes:
+      - "707B99FB 00000080"
+
+  - name: "Haven Skullcap"
+    author: "Code Master"
+    notes: "[Unlock Helmets Codes]"
+    codes:
+      - "707B99FC 00000001"
+
+  - name: "Spargus Sandmask"
+    author: "Code Master"
+    notes: "[Unlock Helmets Codes]"
+    codes:
+      - "707B99FC 00000002"
+
+  - name: "Marauder Lip Bomb"
+    author: "Code Master"
+    notes: "[Unlock Helmets Codes]"
+    codes:
+      - "707B99FC 00000004"
+
+  - name: "Kras Brain Bucket"
+    author: "Code Master"
+    notes: "[Unlock Helmets Codes]"
+    codes:
+      - "707B99FC 00000008"
+
+  - name: "Grey Matter Hatter"
+    author: "Code Master"
+    notes: "[Unlock Helmets Codes]"
+    codes:
+      - "707B99FC 00000010"
+
+  - name: "All Helmets"
+    author: "Code Master"
+    notes: "[Unlock Helmets Codes]"
+    codes:
+      - "707B99FB 00000080"
+      - "707B99FC 0000001F"
+
+  - name: "Pennant Antenna"
+    author: "Code Master"
+    notes: "[Unlock Antenna Codes]"
+    codes:
+      - "707B99FB 00000002"
+
+  - name: "Metalhead Trophy"
+    author: "Code Master"
+    notes: "[Unlock Antenna Codes]"
+    codes:
+      - "707B99FB 00000004"
+
+  - name: "Precursor Orb"
+    author: "Code Master"
+    notes: "[Unlock Antenna Codes]"
+    codes:
+      - "707B99FB 00000008"
+
+  - name: "Daxter Head"
+    author: "Code Master"
+    notes: "[Unlock Antenna Codes]"
+    codes:
+      - "707B99FB 00000010"
+
+  - name: "Clank Head"
+    author: "Code Master"
+    notes: "[Unlock Antenna Codes]"
+    codes:
+      - "707B99FB 00000020"
+
+  - name: "Furry Dice"
+    author: "Code Master"
+    notes: "[Unlock Antenna Codes]"
+    codes:
+      - "707B99FB 00000040"
+
+  - name: "All Antennas"
+    author: "Code Master"
+    notes: "[Unlock Antenna Codes]"
+    codes:
+      - "707B99FB 0000007E"
+
+  - name: "Scherr-Tech Spinners"
+    author: "Code Master"
+    notes: "[Unlock Bonus Wheels Codes]"
+    codes:
+      - "707B99FD 00000080"
+
+  - name: "Triple Cast Ferrites"
+    author: "Code Master"
+    notes: "[Unlock Bonus Wheels Codes]"
+    codes:
+      - "707B99FE 00000001"
+
+  - name: "Blitz Rpms"
+    author: "Code Master"
+    notes: "[Unlock Bonus Wheels Codes]"
+    codes:
+      - "707B99FE 00000002"
+
+  - name: "Vella-Flow Lamenants"
+    author: "Code Master"
+    notes: "[Unlock Bonus Wheels Codes]"
+    codes:
+      - "707B99FE 00000004"
+
+  - name: "Vortex Dreads"
+    author: "Code Master"
+    notes: "[Unlock Bonus Wheels Codes]"
+    codes:
+      - "707B99FE 00000008"
+
+  - name: "Quad-Spun Air-Plates"
+    author: "Code Master"
+    notes: "[Unlock Bonus Wheels Codes]"
+    codes:
+      - "707B99FE 00000010"
+
+  - name: "EDA Road Eaters"
+    author: "Code Master"
+    notes: "[Unlock Bonus Wheels Codes]"
+    codes:
+      - "707B99FE 00000020"
+
+  - name: "Magnesium Trifolds"
+    author: "Code Master"
+    notes: "[Unlock Bonus Wheels Codes]"
+    codes:
+      - "707B99FE 00000040"
+
+  - name: "Spinworx Heavy Metal"
+    author: "Code Master"
+    notes: "[Unlock Bonus Wheels Codes]"
+    codes:
+      - "707B99FE 00000080"
+
+  - name: "Depleted Uratrax"
+    author: "Code Master"
+    notes: "[Unlock Bonus Wheels Codes]"
+    codes:
+      - "707B99FF 00000001"
+
+  - name: "All Bonus Wheels"
+    author: "Code Master"
+    notes: "[Unlock Bonus Wheels Codes]"
+    codes:
+      - "707B99FD 00000080"
+      - "707B99FE 001001FF"
+
+  - name: "Spargus-Spargus City-Race 1"
+    author: "Code Master"
+    notes: "[Max Red Eco Cup Medal Points Codes]"
+    codes:
+      - "0098D578 00000003"
+
+  - name: "Spargus-Spargus City-Race 2"
+    author: "Code Master"
+    notes: "[Max Red Eco Cup Medal Points Codes]"
+    codes:
+      - "0098D0F8 00000003"
+
+  - name: "Spargus-Spargus City-Race 3"
+    author: "Code Master"
+    notes: "[Max Red Eco Cup Medal Points Codes]"
+    codes:
+      - "0098BD38 00000003"
+
+  - name: "Spargus-Precursor Temple"
+    author: "Code Master"
+    notes: "[Max Red Eco Cup Medal Points Codes]"
+    codes:
+      - "0098C388 00000003"
+
+  - name: "Kras City-Loading Docks-Race 1"
+    author: "Code Master"
+    notes: "[Max Red Eco Cup Medal Points Codes]"
+    codes:
+      - "0098D3D8 00000003"
+
+  - name: "Kras City-Loading Docks-Race 2"
+    author: "Code Master"
+    notes: "[Max Red Eco Cup Medal Points Codes]"
+    codes:
+      - "0098BBF8 00000003"
+
+  - name: "Kras City-Dirt Stadium-Race 1"
+    author: "Code Master"
+    notes: "[Max Red Eco Cup Medal Points Codes]"
+    codes:
+      - "0098D288 00000003"
+
+  - name: "Kras City-Dirt Stadium-Race 2"
+    author: "Code Master"
+    notes: "[Max Red Eco Cup Medal Points Codes]"
+    codes:
+      - "0098C248 00000003"
+
+  - name: "Kras City-Seaport Strip"
+    author: "Code Master"
+    notes: "[Max Red Eco Cup Medal Points Codes]"
+    codes:
+      - "0098CFA8 00000003"
+
+  - name: "Kras City-Mar Coliseum"
+    author: "Code Master"
+    notes: "[Max Red Eco Cup Medal Points Codes]"
+    codes:
+      - "0098BA88 00000003"
+
+  - name: "Haven City-Clifftop Battlefield"
+    author: "Code Master"
+    notes: "[Max Red Eco Cup Medal Points Codes]"
+    codes:
+      - "0098CE58 00000003"
+
+  - name: "Haven City-Forbidden Jungle"
+    author: "Code Master"
+    notes: "[Max Red Eco Cup Medal Points Codes]"
+    codes:
+      - "0098C678 00000003"
+
+  - name: "Have City-Sewer Raceway"
+    author: "Code Master"
+    notes: "[Max Red Eco Cup Medal Points Codes]"
+    codes:
+      - "0098B8D8 00000003"
+
+  - name: "Icelands-Icebound Citadel-Race 1"
+    author: "Code Master"
+    notes: "[Max Red Eco Cup Medal Points Codes]"
+    codes:
+      - "0098CAC8 00000003"
+
+  - name: "Icelands-Icebound Citadel-Race 2"
+    author: "Code Master"
+    notes: "[Max Red Eco Cup Medal Points Codes]"
+    codes:
+      - "0098C838 00000003"
+
+  - name: "Icelands-Mountain Top Highway"
+    author: "Code Master"
+    notes: "[Max Red Eco Cup Medal Points Codes]"
+    codes:
+      - "0098C978 00000003"
+
+  - name: "Icelands-Frozen Speedway"
+    author: "Code Master"
+    notes: "[Max Red Eco Cup Medal Points Codes]"
+    codes:
+      - "0098C4D8 00000003"
+
+  - name: "Icelands-Timberline Track"
+    author: "Code Master"
+    notes: "[Max Red Eco Cup Medal Points Codes]"
+    codes:
+      - "0098C0A8 00000003"
+
+  - name: "Grand Prix-Qualifier 1"
+    author: "Code Master"
+    notes: "[Max Red Eco Cup Medal Points Codes]"
+    codes:
+      - "0098CC68 00000003"
+
+  - name: "Grand Prix-Qualifier 2"
+    author: "Code Master"
+    notes: "[Max Red Eco Cup Medal Points Codes]"
+    codes:
+      - "0098BEC8 00000003"
+
+  - name: "Spargus-Beachfront Drive"
+    author: "Code Master"
+    notes: "[Max Green Eco Cup Medal Points Codes]"
+    codes:
+      - "0098B788 00000003"
+
+  - name: "Spargus-Desert Arena"
+    author: "Code Master"
+    notes: "[Max Green Eco Cup Medal Points Codes]"
+    codes:
+      - "0098AB98 00000003"
+
+  - name: "Spargus-Canyon Run-Race 1"
+    author: "Code Master"
+    notes: "[Max Green Eco Cup Medal Points Codes]"
+    codes:
+      - "0098A9F8 00000003"
+
+  - name: "Spargus-Canyon Run-Race 2"
+    author: "Code Master"
+    notes: "[Max Green Eco Cup Medal Points Codes]"
+    codes:
+      - "00989E78 00000003"
+
+  - name: "Spargus-Badland Sanctuary"
+    author: "Code Master"
+    notes: "[Max Green Eco Cup Medal Points Codes]"
+    codes:
+      - "0098A5B8 00000003"
+
+  - name: "Spargus-Wasteland Isle"
+    author: "Code Master"
+    notes: "[Max Green Eco Cup Medal Points Codes]"
+    codes:
+      - "0098A158 00000003"
+
+  - name: "Kras City-Kras City-Race 1"
+    author: "Code Master"
+    notes: "[Max Green Eco Cup Medal Points Codes]"
+    codes:
+      - "0098B648 00000003"
+
+  - name: "Kras City-Kras City-Race 2"
+    author: "Code Master"
+    notes: "[Max Green Eco Cup Medal Points Codes]"
+    codes:
+      - "0098A708 00000003"
+
+  - name: "Kras City-Waterfront Loop"
+    author: "Code Master"
+    notes: "[Max Green Eco Cup Medal Points Codes]"
+    codes:
+      - "0098B338 00000003"
+
+  - name: "Kras City-Dethdrome"
+    author: "Code Master"
+    notes: "[Max Green Eco Cup Medal Points Codes]"
+    codes:
+      - "0098AE48 00000003"
+
+  - name: "Kras City-Dirt Stadium"
+    author: "Code Master"
+    notes: "[Max Green Eco Cup Medal Points Codes]"
+    codes:
+      - "00989D38 00000003"
+
+  - name: "Kras City-Western Tour"
+    author: "Code Master"
+    notes: "[Max Green Eco Cup Medal Points Codes]"
+    codes:
+      - "00989B88 00000003"
+
+  - name: "Haven City-Forbidden Jungle-Race 1"
+    author: "Code Master"
+    notes: "[Max Green Eco Cup Medal Points Codes]"
+    codes:
+      - "0098AFD8 00000003"
+
+  - name: "Haven City-Forbidden Jungle-Race 2"
+    author: "Code Master"
+    notes: "[Max Green Eco Cup Medal Points Codes]"
+    codes:
+      - "0098A428 00000003"
+
+  - name: "Haven City-City Outskirts"
+    author: "Code Master"
+    notes: "[Max Green Eco Cup Medal Points Codes]"
+    codes:
+      - "0098A898 00000003"
+
+  - name: "Haven City-Haven City"
+    author: "Code Master"
+    notes: "[Max Green Eco Cup Medal Points Codes]"
+    codes:
+      - "0098A008 00000003"
+
+  - name: "Spargus-Canyon Run"
+    author: "Code Master"
+    notes: "[Max Blue Eco Cup Medal Points Codes]"
+    codes:
+      - "00989518 00000003"
+
+  - name: "Spargus-Northern Tour"
+    author: "Code Master"
+    notes: "[Max Blue Eco Cup Medal Points Codes]"
+    codes:
+      - "00988DD8 00000003"
+
+  - name: "Spargus-Spargus City"
+    author: "Code Master"
+    notes: "[Max Blue Eco Cup Medal Points Codes]"
+    codes:
+      - "009880D8 00000003"
+
+  - name: "Kras City-Seaport Strip-Race 1"
+    author: "Code Master"
+    notes: "[Max Blue Eco Cup Medal Points Codes]"
+    codes:
+      - "009890E8 00000003"
+
+  - name: "Kras City-Seaport Strip-Race 2"
+    author: "Code Master"
+    notes: "[Max Blue Eco Cup Medal Points Codes]"
+    codes:
+      - "00987DB8 00000003"
+
+  - name: "Kras City-Loading Docks"
+    author: "Code Master"
+    notes: "[Max Blue Eco Cup Medal Points Codes]"
+    codes:
+      - "00988988 00000003"
+
+  - name: "Haven City-Eastern Tour"
+    author: "Code Master"
+    notes: "[Max Blue Eco Cup Medal Points Codes]"
+    codes:
+      - "009899D8 00000003"
+
+  - name: "Haven City-Waterworks Circuit"
+    author: "Code Master"
+    notes: "[Max Blue Eco Cup Medal Points Codes]"
+    codes:
+      - "00987F38 00000003"
+
+  - name: "Icelands-Icebound Citadel"
+    author: "Code Master"
+    notes: "[Max Blue Eco Cup Medal Points Codes]"
+    codes:
+      - "009896B8 00000003"
+
+  - name: "Icelands-Mountaintop Highway"
+    author: "Code Master"
+    notes: "[Max Blue Eco Cup Medal Points Codes]"
+    codes:
+      - "00988668 00000003"
+
+  - name: "Icelands-Ice Pit"
+    author: "Code Master"
+    notes: "[Max Blue Eco Cup Medal Points Codes]"
+    codes:
+      - "00988518 00000003"
+
+  - name: "Spargus-Precursor Temple-Race 1"
+    author: "Code Master"
+    notes: "[Max Yellow Eco Cup Medal Points Codes]"
+    codes:
+      - "00987A88 00000003"
+
+  - name: "Kras City-Kras City"
+    author: "Code Master"
+    notes: "[Max Yellow Eco Cup Medal Points Codes]"
+    codes:
+      - "00987078 00000003"
+
+  - name: "Haven City-Waterworks Circuit-Race 1"
+    author: "Code Master"
+    notes: "[Max Yellow Eco Cup Medal Points Codes]"
+    codes:
+      - "009877B8 00000003"
+
+  - name: "Haven City-Waterworks Circuit-Race 2"
+    author: "Code Master"
+    notes: "[Max Yellow Eco Cup Medal Points Codes]"
+    codes:
+      - "00986928 00000003"
+
+  - name: "Haven City-Sewer Raceway"
+    author: "Code Master"
+    notes: "[Max Yellow Eco Cup Medal Points Codes]"
+    codes:
+      - "00987348 00000003"
+
+  - name: "Haven City-Atoll Arena"
+    author: "Code Master"
+    notes: "[Max Yellow Eco Cup Medal Points Codes]"
+    codes:
+      - "00986F38 00000003"
+
+  - name: "Icelands-Mountaintop Highway-Race 1"
+    author: "Code Master"
+    notes: "[Max Yellow Eco Cup Medal Points Codes]"
+    codes:
+      - "00987C18 00000003"
+
+  - name: "Icelands-Mountaintop Highway-Race 2"
+    author: "Code Master"
+    notes: "[Max Yellow Eco Cup Medal Points Codes]"
+    codes:
+      - "00986248 00000003"
+
+  - name: "Icelands-Southern Tour"
+    author: "Code Master"
+    notes: "[Max Yellow Eco Cup Medal Points Codes]"
+    codes:
+      - "00986AB8 00000003"

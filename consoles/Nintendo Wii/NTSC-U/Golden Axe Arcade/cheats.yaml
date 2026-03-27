@@ -1,0 +1,43 @@
+# Golden Axe Arcade cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  E6WE
+
+game: "Golden Axe Arcade"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "E6WE"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Unlimited 25cents (credits)"
+    author: "Skiller"
+    codes:
+      - "015F5D60 00000009"
+
+  - name: "Inf HP"
+    author: "Skiller"
+    codes:
+      - "015F31D0 00000030"
+
+  - name: "Inf MP Barbarian"
+    author: "Skiller"
+    codes:
+      - "295F5196 00000000"
+      - "015F5190 00000006"
+      - "E0000000 80008000"
+
+  - name: "Inf MP Valkyrie"
+    author: "Skiller"
+    codes:
+      - "295F5196 00000001"
+      - "015F5190 00000009"
+      - "E0000000 80008000"
+
+  - name: "Inf MP Dwarf"
+    author: "Skiller"
+    codes:
+      - "295F5196 00000002"
+      - "015F5190 00000006"
+      - "E0000000 80008000"

@@ -1,0 +1,26 @@
+# Enslaved_ Odyssey To The West cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00989
+
+game: "Enslaved_ Odyssey To The West"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00989"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Tech Orbs(do Not Use On Chapter 1.)"
+    notes: "File: MAINSAVE"
+    codes:
+      - "80020004 494E5400"
+      - "2800002C 0098967F"
+
+  - name: "Update Sha1 (required)"
+    notes: "File: MAINSAVE"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x14,pointer"
+      - "set [hash]:sha1"
+      - "write at 0x0:[hash]"

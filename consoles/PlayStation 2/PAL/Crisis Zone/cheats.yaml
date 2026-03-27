@@ -1,0 +1,51 @@
+# Crisis Zone cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Crisis Zone"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9010ED2C 0C046AEC"
+
+  - name: "Lives"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2012EFF4 24040009"
+
+  - name: "Ammunition (No Reload)"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2015F9D8 00000000"
+
+  - name: "Time"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2012ECEC 00000000"
+      - "2012ECA0 00000000"
+
+  - name: "One Hit Kill (Not Bosses)"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "20178F0C 46000001"
+
+  - name: "100% Achievement"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "40973040 00040001"
+      - "FFFFFFFF 00000000"
+      - "40973060 00020001"
+      - "00000009 00000000"

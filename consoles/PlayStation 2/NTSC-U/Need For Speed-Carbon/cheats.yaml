@@ -1,0 +1,326 @@
+# Need For Speed-Carbon cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21493
+
+game: "Need For Speed-Carbon"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21493"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90541964 0C154BF1"
+
+  - name: "Infinite Cash"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10A6EAF4 0000FFFF"
+
+  - name: "Max Cash"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20A6EAF4 05F5E0FF"
+
+  - name: "Buying Parts Doesnt Decrease Cash"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "205D3D98 24060000"
+      - "205D3DB8 24060000"
+
+  - name: "Buying Parts Increases Cash"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "205D3D98 0220302D"
+      - "205D3DB8 0220302D"
+
+  - name: "Infinite NOS Usage"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203E4C74 00000000"
+
+  - name: "Max Infinite NOS"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203F31DC 3C0142C8"
+      - "203F31E0 AC610010"
+      - "203E4CA4 3C013F80"
+      - "203E4CA8 AE210178"
+      - "103E4CAE 00001000"
+
+  - name: "Normal NOS Acceleration"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203F31EC 3C013F80"
+      - "203F31F0 AC610004"
+
+  - name: "Super NOS Acceleration"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203F31EC 3C014000"
+      - "203F31F0 AC610004"
+
+  - name: "Ultra NOS Acceleration"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203F31EC 3C014100"
+      - "203F31F0 AC610004"
+
+  - name: "Infinite Speedbreaker"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204225A8 00000000"
+
+  - name: "Infinite Crew Charge Bar"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201403DC 00000000"
+
+  - name: "All Races Only Have 1 Racer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20344090 24020001"
+      - "20344094 AC820F00"
+
+  - name: "Have All Challenges Completed"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0230 00300825"
+      - "200C0234 03E00008"
+      - "200C0238 AC410004"
+      - "2030B9DC 0C03008C"
+      - "2030B9E0 8C410004"
+
+  - name: "Max Pursuits Evaded"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE10 05F5E0FF"
+
+  - name: "No Pursuits Evaded"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE10 00000000"
+
+  - name: "Max Times Busted"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE14 05F5E0FF"
+
+  - name: "No Times Busted"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE14 00000000"
+
+  - name: "Max Spike Strips Dodged (Single Pursuit)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE20 05F5E0FF"
+
+  - name: "No Spike Strips Dodged (Single Pursuit)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE20 00000000"
+
+  - name: "Max Spike Strips Dodged (Total)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE24 05F5E0FF"
+
+  - name: "No Spike Strips Dodged (Total)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE24 00000000"
+
+  - name: "Max Road Blocks Dodged (Single Pursuit)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE28 05F5E0FF"
+
+  - name: "No Road Blocks Dodged (Single Pursuit)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE28 00000000"
+
+  - name: "Max Road Blocks Dodged (Total)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE2C 05F5E0FF"
+
+  - name: "No Road Blocks Dodged (Total)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE2C 00000000"
+
+  - name: "Max Cops Rammed (Single Pursuit)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE30 05F5E0FF"
+
+  - name: "No Cops Rammed (Single Pursuit)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE30 00000000"
+
+  - name: "Max Cops Rammed (Total)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE34 05F5E0FF"
+
+  - name: "No Cops Rammed (Total)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE34 00000000"
+
+  - name: "Max Cops Disabled (Single Pursuit)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE38 05F5E0FF"
+
+  - name: "No Cops Disabled (Single Pursuit)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE38 00000000"
+
+  - name: "Max Cops Disabled (Total)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE3C 05F5E0FF"
+
+  - name: "No Cops Disabled (Total)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE3C 00000000"
+
+  - name: "Max Bounty (Single Pursuit)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE40 05F5E0FF"
+
+  - name: "No Bounty (Single Pursuit)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE40 00000000"
+
+  - name: "Max Bounty (Total)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE44 05F5E0FF"
+
+  - name: "No Bounty (Total)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE44 00000000"
+
+  - name: "Max Cost To State (Single Pursuit)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE48 05F5E0FF"
+
+  - name: "No Cost To State (Single Pursuit)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE48 00000000"
+
+  - name: "Max Cost To State (Total)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE4C 05F5E0FF"
+
+  - name: "No Cost To State (Total)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE4C 00000000"
+
+  - name: "Max Infractions (Single Pursuit)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE50 05F5E0FF"
+
+  - name: "No Infractions (Single Pursuit)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE50 00000000"
+
+  - name: "Max Infractions (Total)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE54 05F5E0FF"
+
+  - name: "No Infractions (Total)"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE54 00000000"
+
+  - name: "Max Highest Heat Level"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE60 05F5E0FF"
+
+  - name: "No Highest Heat Level"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE60 00000000"
+
+  - name: "Max Highest Fine Paid"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE64 05F5E0FF"
+
+  - name: "No Highest Fine Paid"
+    author: "Code Master"
+    notes: "[Statistics-Pursuit Codes]"
+    codes:
+      - "20A6EE64 00000000"

@@ -1,0 +1,33 @@
+# Dropship - United Peace Force cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-50459
+
+game: "Dropship - United Peace Force"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-50459"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0189458 0012D9CF"
+
+  - name: "God Mode"
+    author: "InterAct"
+    codes:
+      - "21E502B4 01000000"
+
+  - name: "Infinite Ammo"
+    author: "InterAct"
+    codes:
+      - "21E502B8 00000001"
+
+  - name: "Infinite Time"
+    author: "Codejunkies"
+    codes:
+      - "21EEC960 00000128"

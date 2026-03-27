@@ -1,0 +1,374 @@
+# Tekken's Nina Williams in_ Death By Degrees cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20934
+
+game: "Tekken's Nina Williams in_ Death By Degrees"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20934"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "901174A4 0C048BBC"
+      - "200C2034 03E00008"
+      - "200C2038 3C024120"
+      - "2012E16C 0C030800"
+
+  - name: "Quick EXP Gain"
+    notes: "[Misc Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "10ED693C 0000270F"
+
+  - name: "Max Skill Points"
+    notes: "[Misc Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "20ED6940 000F423F"
+
+  - name: "Disable Fmv"
+    notes: "[Misc Codes]"
+    codes:
+      - "20109C80 8C620000"
+      - "D056DBC2 0000FFF7"
+      - "20109C80 24020001"
+
+  - name: "Infinite Health"
+    notes: "[Misc Codes]"
+    codes:
+      - "200C2000 8C610000"
+      - "200C2004 AC610004"
+
+  - name: "Infinite Focus"
+    notes: "[Misc Codes]"
+    codes:
+      - "200C2008 8C610008"
+      - "200C200C AC61000C"
+
+  - name: "Infinite Air"
+    notes: "[Misc Codes]"
+    codes:
+      - "200C2010 8C610010"
+      - "200C2014 AC610014"
+
+  - name: "Infinite Max HP"
+    notes: "[Misc Codes]"
+    codes:
+      - "E0026900 00535F10"
+      - "20ED691C 00000F00"
+      - "20ED6920 00000F00"
+
+  - name: "Infinite Max Focus"
+    notes: "[Misc Codes]"
+    codes:
+      - "E0026900 00535F10"
+      - "20ED6924 00000B40"
+      - "20ED6928 00000B40"
+
+  - name: "Infinite Max Air"
+    notes: "[Misc Codes]"
+    codes:
+      - "E0026900 00535F10"
+      - "20ED692C 00000B40"
+      - "20ED6930 00000B40"
+
+  - name: "1-Hit Death (enemies And Partner)"
+    notes: "[Misc Codes]"
+    codes:
+      - "2015DD04 3402C350"
+
+  - name: "Max Total Points"
+    notes: "[End Results Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "20ED6944 000F423F"
+
+  - name: "Max Combo"
+    notes: "[End Results Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "10ED6948 000003E7"
+
+  - name: "Always 1st Save"
+    notes: "[End Results Codes]"
+    codes:
+      - "2042E388 24020001"
+
+  - name: "Always Low Game Time"
+    notes: "[End Results Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "20ED6904 00000000"
+
+  - name: "Difficulty Level"
+    notes: "[End Results Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "00ED6908 000000[DL]"
+
+  - name: "Number Times Played"
+    notes: "[End Results Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "00ED6909 000000[NT]"
+
+  - name: "No Continues"
+    notes: "[End Results Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "10ED690A 00000000"
+
+  - name: "Unlock All Movies"
+    notes: "[Unlock Codes (save & Turn Off)]"
+    codes:
+      - "105AD3A4 0000FFFF"
+
+  - name: "Unlock All Pictures"
+    notes: "[Unlock Codes (save & Turn Off)]"
+    codes:
+      - "205AD3A8 FFFFFFFF"
+
+  - name: "Unlock All Main Menu Items"
+    notes: "[Unlock Codes (save & Turn Off)]"
+    codes:
+      - "105AD3AC 0000FFFF"
+
+  - name: "Always Low Mission Timer"
+    notes: "[Mini-Game Codes]"
+    codes:
+      - "20465D58 00000000"
+
+  - name: "Infinite Time"
+    notes: "[Challenge Codes]"
+    codes:
+      - "203EC010 00000000"
+      - "203EC2D0 00000000"
+
+  - name: "Infinite Health (sniper)"
+    notes: "[Sniper Codes]"
+    codes:
+      - "20253B54 8E8104D0"
+      - "20253B58 AE8104D8"
+
+  - name: "Infinite Health (partner)"
+    notes: "[Sniper Codes]"
+    codes:
+      - "200C0220 24010064"
+      - "200C0224 0808B2D4"
+      - "200C0228 AC41095C"
+      - "20253B8C 0C030088"
+
+  - name: "Never Reload/Infinite Ammo"
+    notes: "[Sniper Codes]"
+    codes:
+      - "20251B14 00000000"
+
+  - name: "Infinite Time (sniper)"
+    notes: "[Sniper Codes]"
+    codes:
+      - "20251144 00000000"
+
+  - name: "Infinite Damage"
+    notes: "[Stingray Codes]"
+    codes:
+      - "202871C8 00000000"
+
+  - name: "Infinite Battery"
+    notes: "[Stingray Codes]"
+    codes:
+      - "20286324 00000000"
+
+  - name: "No Power No Problem (alt Battery Code)"
+    notes: "[Stingray Codes]"
+    codes:
+      - "20286328 00000000"
+
+  - name: "Get 1 Green Cyrstal Finish Level"
+    notes: "[Stingray Codes]"
+    codes:
+      - "20286EC0 8E422454"
+
+  - name: "Have All Health Items"
+    notes: "[Item Codes]"
+    codes:
+      - "E0026900 00535F10"
+      - "40ED6978 00060001"
+      - "62626262 00000000"
+
+  - name: "Have All Key Items"
+    notes: "[Item Codes]"
+    codes:
+      - "E0026900 00535F10"
+      - "00ED69A8 00000001"
+      - "40ED6990 00060001"
+      - "01010101 00000000"
+
+  - name: "Have Data Card (anna Game)"
+    notes: "[Item Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "00ED69A9 00000062"
+
+  - name: "Have Defibrillator"
+    notes: "[Item Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "00ED69B3 00000062"
+
+  - name: "Have Gold Coin"
+    notes: "[Item Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "00ED69B4 00000062"
+
+  - name: "Have Garment Bag & All Costumes (nina Game)"
+    notes: "[Item Codes]"
+    codes:
+      - "E0046900 00535F10"
+      - "00ED69AB 00000001"
+      - "20ED69AC 01010101"
+      - "10ED69B0 00000101"
+      - "00ED69B2 00000001"
+
+  - name: "Have All Skills"
+    notes: "[Item Codes]"
+    codes:
+      - "E0036900 00535F10"
+      - "00EDB5F4 00000001"
+      - "40EDB5C4 000C0001"
+      - "01010101 00000000"
+
+  - name: "Have All Finger Prints"
+    notes: "[Item Codes]"
+    codes:
+      - "E0036900 00535F10"
+      - "10ED69EA 0000FFFF"
+      - "40ED69EC 00030001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Have 8 Firearm Slots"
+    notes: "[Item Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "20EDB4D0 00000008"
+
+  - name: "Have 8 Melee Weapon Slots"
+    notes: "[Item Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "20EDB514 00000008"
+
+  - name: "Infinite-Ammo Firearm Slots"
+    notes: "[Item Codes]"
+    codes:
+      - "E0026900 00535F10"
+      - "40EDB4D8 00080002"
+      - "00[INF]00 00000000"
+
+  - name: "Infinite-Durability Melee Weapon Slots"
+    notes: "[Item Codes]"
+    codes:
+      - "E0026900 00535F10"
+      - "40EDB51C 00080002"
+      - "00[INF]00 00000000"
+
+  - name: "Weapon Slot 1"
+    notes: "[Weapon Slot Modifier Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "00EDB4D4 000000[WM]"
+
+  - name: "Weapon Slot 2"
+    notes: "[Weapon Slot Modifier Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "00EDB4DC 000000[WM]"
+
+  - name: "Weapon Slot 3"
+    notes: "[Weapon Slot Modifier Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "00EDB4E4 000000[WM]"
+
+  - name: "Weapon Slot 4"
+    notes: "[Weapon Slot Modifier Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "00EDB4EC 000000[WM]"
+
+  - name: "Weapon Slot 5"
+    notes: "[Weapon Slot Modifier Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "00EDB4F4 000000[WM]"
+
+  - name: "Weapon Slot 6"
+    notes: "[Weapon Slot Modifier Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "00EDB4FC 000000[WM]"
+
+  - name: "Weapon Slot 7"
+    notes: "[Weapon Slot Modifier Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "00EDB504 000000[WM]"
+
+  - name: "Weapon Slot 8"
+    notes: "[Weapon Slot Modifier Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "00EDB50C 000000[WM]"
+
+  - name: "Melee Weapon Slot 1"
+    notes: "[Melee Weapon Slot Modifier Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "00EDB518 000000[MW]"
+
+  - name: "Melee Weapon Slot 2"
+    notes: "[Melee Weapon Slot Modifier Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "00EDB520 000000[MW]"
+
+  - name: "Melee Weapon Slot 3"
+    notes: "[Melee Weapon Slot Modifier Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "00EDB528 000000[MW]"
+
+  - name: "Melee Weapon Slot 4"
+    notes: "[Melee Weapon Slot Modifier Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "00EDB530 000000[MW]"
+
+  - name: "Melee Weapon Slot 5"
+    notes: "[Melee Weapon Slot Modifier Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "00EDB538 000000[MW]"
+
+  - name: "Melee Weapon Slot 6"
+    notes: "[Melee Weapon Slot Modifier Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "00EDB540 000000[MW]"
+
+  - name: "Melee Weapon Slot 7"
+    notes: "[Melee Weapon Slot Modifier Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "00EDB548 000000[MW]"
+
+  - name: "Melee Weapon Slot 8"
+    notes: "[Melee Weapon Slot Modifier Codes]"
+    codes:
+      - "D0535F10 00006900"
+      - "00EDB550 000000[MW]"

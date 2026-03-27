@@ -1,0 +1,22 @@
+# Fairy Tail cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA17584
+
+game: "Fairy Tail"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA17584"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Item Swap By Searching For Current Items Id And Quantity"
+    notes: "File: save\\user_data_[0-9]+\\.dat"
+    codes:
+      - "80010008 23494E44"
+      - "14000000 00000000"
+      - "88010008 [Item<Current Item>]"
+      - "[Amount:0100:HEX:LITTLE<Current Item Amount>]0000 00000000"
+      - "A8000000 00000006"
+      - "[Item<New Item>] [Amount:6300:HEX:LITTLE<New Item Amount>]0000"

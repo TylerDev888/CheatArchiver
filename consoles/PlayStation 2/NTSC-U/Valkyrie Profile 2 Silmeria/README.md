@@ -1,0 +1,165 @@
+# Valkyrie Profile 2 Silmeria
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-21452  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Enable Code (MUST BE ON)
+**Author:**   
+**Notes:** [Masters]
+
+```
+9013A550 0C04E8FC
+```
+
+---
+
+### Memcard Sub
+**Author:**   
+**Notes:** [Live Dump]
+
+```
+200A0000 27BDFFC0
+200A0004 3C06000A
+200A0008 FFB20020
+200A0010 FFB10010
+200A0014 24C60104
+200A0018 FFB00000
+200A0020 FFBF0030
+200A0028 24070203
+200A002C 0040802D
+200A0030 0220282D
+200A0034 0240302D
+200A003C 0200202D
+200A0040 3C050010
+200A0044 0200202D
+200A004C 3C060070
+200A0050 0220282D
+200A0054 0240302D
+200A005C 0200202D
+200A0064 0200202D
+200A0068 0200282D
+200A006C 0200302D
+200A0074 0200202D
+200A0078 DFBF0030
+200A007C DFB20020
+200A0080 DFB10010
+200A0084 DFB00000
+200A0088 03E00008
+200A008C 27BD0040
+```
+
+---
+
+### Memcardport-Multitap 1-4
+**Author:**   
+**Notes:** [Live Dump]
+
+```
+200A000C 24040000
+```
+
+---
+
+### Memcardslot-Slot 1-2
+**Author:**   
+**Notes:** [Live Dump]
+
+```
+200A001C 24050000
+```
+
+---
+
+### Start And Stop
+**Author:**   
+**Notes:** [Live Dump]
+
+```
+200A0040 3C050010
+200A004C 3C060070
+```
+
+---
+
+### Valkyrie Profile 2: Silmeria(live Dump <x + Select>)
+**Author:**   
+**Notes:** [Live Dump]
+
+```
+200A0038 0C050FC8
+200A0070 0C050FC8
+200A0058 0C050FC8
+200A0024 0C050E38
+200A0048 0C050F6A
+200A0060 0C050E90
+D01CA1DC 0000BFFE
+2012154C 08028000
+D01CA1DC 0010BFFE
+2012154C 03E00008
+```
+
+---
+
+### Joker Player 1 Controller
+**Author:**   
+**Notes:** [Jokers]
+
+```
+D01CA1DC 0000[Joker:PS2]
+```
+
+---
+
+### Items Dont Decrease
+**Author:** 
+
+```
+D01CA1DC 00007D7F
+0030D190 00000021
+D01CA1DC 00007F7F
+0030D190 00000023
+```
+
+---
+
+### EXP Gain X 256
+**Author:** 
+
+```
+E0020003 003D3ED0
+203D3ED0 00000000
+103D3ED8 00002200
+```
+
+---
+
+### Max 99999 Crystals
+**Author:** 
+
+```
+D049A844 000000FF
+2049A844 24030000
+```
+
+---
+
+### All Items 99 (all Items In The Game Includeing Stats Level Up Items, Must Buy Something For It To Work}
+**Author:** 
+
+```
+2030D1B8 240F03E7
+2030D1BC 0080702D
+2030D1C0 240D0063
+2030D1C4 A1CD0002
+2030D1C8 25EFFFFF
+2030D1CC 15E0FFFD
+2030D1D0 25CE0004
+```
+
+---

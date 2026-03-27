@@ -1,0 +1,60 @@
+# Wwii - Battles Over Europe cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53653
+
+game: "Wwii - Battles Over Europe"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53653"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "Skiller"
+    notes: "[Master Codes]"
+    codes:
+      - "902189D0 0C08621C"
+
+  - name: "Pal2ntsc (For Y-Fix Below)"
+    author: "lee4"
+    codes:
+      - "20215260 34050002"
+      - "20215264 24030002"
+      - "20215268 0000000C"
+      - "2021526C 03E00008"
+
+  - name: "Y-Fix (Part 1)"
+    author: "lee4"
+    codes:
+      - "200FFF80 64840000"
+      - "200FFF84 64840000"
+      - "200FFF88 64848000"
+      - "200FFF8C 64848000"
+      - "200FFF90 64848000"
+      - "200FFF94 64848000"
+      - "200FFF98 64848000"
+      - "200FFF9C 64848000"
+      - "200FFFA0 FC6400A0"
+      - "200FFFA4 03E00008"
+      - "200FFFA8 DFBF0030"
+      - "20363CD8 0C03FFE0"
+      - "20363CDC 00000000"
+
+  - name: "Y-Fix (Part 2)"
+    author: "lee4"
+    codes:
+      - "200FFFC0 64840000"
+      - "200FFFC4 64840000"
+      - "200FFFC8 64848000"
+      - "200FFFCC 64848000"
+      - "200FFFD0 64848000"
+      - "200FFFD4 64848000"
+      - "200FFFD8 64848000"
+      - "200FFFDC 64848000"
+      - "200FFFE0 FC640080"
+      - "200FFFE4 03E00008"
+      - "200FFFE8 DE440A80"
+      - "20363CD0 0C03FFF0"
+      - "20363CD4 00000000"

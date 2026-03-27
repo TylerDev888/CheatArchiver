@@ -1,0 +1,90 @@
+# Surfing H3O cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50056
+
+game: "Surfing H3O"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50056"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0101278 000001FD"
+
+  - name: "Infinite Continues"
+    author: "Codejunkies"
+    notes: "[Continues Codes]"
+    codes:
+      - "1024FD64 00000005"
+
+  - name: "Never Have Any Continues"
+    author: "Codejunkies"
+    notes: "[Continues Codes]"
+    codes:
+      - "E0010000 3024FD64"
+      - "1024FD64 00000000"
+
+  - name: "Never Have More Than 1 Continue"
+    author: "Codejunkies"
+    notes: "[Continues Codes]"
+    codes:
+      - "E0010001 3024FD64"
+      - "1024FD64 00000001"
+
+  - name: "Never Have More Than 2 Continues"
+    author: "Codejunkies"
+    notes: "[Continues Codes]"
+    codes:
+      - "E0010002 3024FD64"
+      - "1024FD64 00000002"
+
+  - name: "Never Have More Than 3 Continues"
+    author: "Codejunkies"
+    notes: "[Continues Codes]"
+    codes:
+      - "E0010003 3024FD64"
+      - "1024FD64 00000003"
+
+  - name: "Unlock Everything"
+    author: "Codejunkies"
+    notes: "[Continues Codes]"
+    codes:
+      - "1024EB20 00000005"
+
+  - name: "Infinite Takeoffs"
+    author: "Codejunkies"
+    notes: "[Takeoff Codes]"
+    codes:
+      - "10467664 00000003"
+
+  - name: "Never Have More Than 1 Takeoff"
+    author: "Codejunkies"
+    notes: "[Takeoff Codes]"
+    codes:
+      - "E0010001 30467664"
+      - "10467664 00000001"
+
+  - name: "Never Have More Than 2 Takeoffs"
+    author: "Codejunkies"
+    notes: "[Takeoff Codes]"
+    codes:
+      - "E0010002 30467664"
+      - "10467664 00000002"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0101278 000001FD"
+
+  - name: "Unlimited Continues"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "1024FD64 00000005"

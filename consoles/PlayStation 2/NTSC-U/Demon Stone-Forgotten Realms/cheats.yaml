@@ -1,0 +1,177 @@
+# Demon Stone-Forgotten Realms cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20804
+
+game: "Demon Stone-Forgotten Realms"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20804"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901195FC 0C047B20"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 8E210310"
+      - "200C0224 03E00008"
+      - "200C0228 AE21030C"
+      - "20201C50 0C030088"
+
+  - name: "Infinite Health/1-Hit Deaths For Enemies"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201AA6A0 24030001"
+      - "201AA6B4 10610002"
+      - "201AA6BC AE80030C"
+
+  - name: "Max Hero Meter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0230 3C013F80"
+      - "200C0234 03E00008"
+      - "200C0238 AC810024"
+      - "202046C0 0803008C"
+
+  - name: "Infinite Ammo"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201A85EC 00000000"
+
+  - name: "Extra Ammo"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101A85E8 00000001"
+
+  - name: "Buying Items Doesnt Decrease Gold"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2024AACC 00000000"
+
+  - name: "Buying Items Increases Gold"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2024AAC4 00651821"
+
+  - name: "Buying Upgrades Dont Decrease Unspent Points"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2024ABCC 00000000"
+
+  - name: "Buying Upgrades Increases Unspent Points"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2024ABC4 00651821"
+
+  - name: "Max Unspent Gold"
+    author: "Code Master"
+    notes: "[Zhai Codes]"
+    codes:
+      - "2050C0DC 05F5E0FF"
+
+  - name: "Max Total Gold"
+    author: "Code Master"
+    notes: "[Zhai Codes]"
+    codes:
+      - "2050C0E0 05F5E0FF"
+
+  - name: "Max Total EXP. Points"
+    author: "Code Master"
+    notes: "[Zhai Codes]"
+    codes:
+      - "2050C0E4 05F5E0FF"
+
+  - name: "Max Unspent EXP. Points"
+    author: "Code Master"
+    notes: "[Zhai Codes]"
+    codes:
+      - "2050C0E8 05F5E0FF"
+
+  - name: "Level 99"
+    author: "Code Master"
+    notes: "[Zhai Codes]"
+    codes:
+      - "2050C0EC 00000063"
+
+  - name: "Chapter 1"
+    author: "Code Master"
+    notes: "[Unlock Levels/Unlockable Codes]"
+    codes:
+      - "2050BB24 01010101"
+
+  - name: "Chapter 2"
+    author: "Code Master"
+    notes: "[Unlock Levels/Unlockable Codes]"
+    codes:
+      - "2050BB94 01010101"
+
+  - name: "Chapter 3"
+    author: "Code Master"
+    notes: "[Unlock Levels/Unlockable Codes]"
+    codes:
+      - "2050BC04 01010101"
+
+  - name: "Chapter 4"
+    author: "Code Master"
+    notes: "[Unlock Levels/Unlockable Codes]"
+    codes:
+      - "2050BC74 01010101"
+
+  - name: "Chapter 5"
+    author: "Code Master"
+    notes: "[Unlock Levels/Unlockable Codes]"
+    codes:
+      - "2050BCE4 01010101"
+
+  - name: "Chapter 6"
+    author: "Code Master"
+    notes: "[Unlock Levels/Unlockable Codes]"
+    codes:
+      - "2050BD54 01010101"
+
+  - name: "Chapter 7"
+    author: "Code Master"
+    notes: "[Unlock Levels/Unlockable Codes]"
+    codes:
+      - "2050BDC4 01010101"
+
+  - name: "Chapter 8"
+    author: "Code Master"
+    notes: "[Unlock Levels/Unlockable Codes]"
+    codes:
+      - "2050BE34 01010101"
+
+  - name: "Chapter 9"
+    author: "Code Master"
+    notes: "[Unlock Levels/Unlockable Codes]"
+    codes:
+      - "2050BEA4 01010101"
+
+  - name: "Chapter 10"
+    author: "Code Master"
+    notes: "[Unlock Levels/Unlockable Codes]"
+    codes:
+      - "2050BF14 01010101"
+
+  - name: "All Chapters"
+    author: "Code Master"
+    notes: "[Unlock Levels/Unlockable Codes]"
+    codes:
+      - "4050BB24 000A001C"
+      - "01010101 00000000"

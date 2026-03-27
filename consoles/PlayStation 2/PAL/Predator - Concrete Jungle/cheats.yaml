@@ -1,0 +1,77 @@
+# Predator - Concrete Jungle cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53091
+
+game: "Predator - Concrete Jungle"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53091"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F03BFDE4 003BFDE7"
+
+  - name: "All Costumes"
+    author: "Codejunkies"
+    codes:
+      - "004B1298 000000FF"
+
+  - name: "All Ritual Challenges"
+    author: "Codejunkies"
+    codes:
+      - "104B1300 000001FF"
+
+  - name: "All Upgrades"
+    author: "Codejunkies"
+    codes:
+      - "202B0EE4 00000000"
+
+  - name: "Bypass Level Lock Check"
+    author: "Codejunkies"
+    codes:
+      - "202AC56C 00000000"
+
+  - name: "Infinite Ammo/Item Use"
+    author: "Codejunkies"
+    codes:
+      - "2024F794 24820000"
+
+  - name: "Infinite Energy"
+    author: "Codejunkies"
+    codes:
+      - "2023C28C 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "2024D8C8 00000000"
+
+  - name: "Max Armor"
+    author: "Codejunkies"
+    notes: "[Upgrade Codes]"
+    codes:
+      - "204B1290 00000003"
+
+  - name: "Max Bandolier"
+    author: "Codejunkies"
+    notes: "[Upgrade Codes]"
+    codes:
+      - "204B1294 00000003"
+
+  - name: "Max Energy"
+    author: "Codejunkies"
+    notes: "[Upgrade Codes]"
+    codes:
+      - "204B128C 00000003"
+
+  - name: "Max Health"
+    author: "Codejunkies"
+    notes: "[Upgrade Codes]"
+    codes:
+      - "204B1288 00000003"

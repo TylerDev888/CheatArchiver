@@ -1,0 +1,98 @@
+# Legend Of Sayuki cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-55123
+
+game: "Legend Of Sayuki"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-55123"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "90145BE0 0C055FB3"
+
+  - name: "Boot Language"
+    author: "lee4"
+    codes:
+      - "20100758 2402000?"
+
+  - name: "P1 9 Lives"
+    author: "lee4"
+    codes:
+      - "002042F8 00000009"
+
+  - name: "P1 Inf HP"
+    author: "lee4"
+    codes:
+      - "20215FBC 000000F0"
+
+  - name: "P1 Invincible"
+    author: "lee4"
+    codes:
+      - "203BD828 000000FF"
+
+  - name: "P1 Max HP"
+    author: "lee4"
+    codes:
+      - "20215FAC 000000F0"
+
+  - name: "P1 Max Score"
+    author: "lee4"
+    codes:
+      - "20204300 05F5E0FF"
+
+  - name: "P1 Special Max"
+    author: "lee4"
+    codes:
+      - "10204338 000003E8"
+
+  - name: "P1 Weapon Mod"
+    author: "lee4"
+    codes:
+      - "00204340 0000000?"
+
+  - name: "P2 Inf HP"
+    author: "lee4"
+    codes:
+      - "20215FC0 000000F0"
+
+  - name: "P2 Invincible"
+    author: "lee4"
+    codes:
+      - "203BEDF0 000000FF"
+
+  - name: "P2 Max HP"
+    author: "lee4"
+    codes:
+      - "20215FB0 000000F0"
+
+  - name: "P2 Max Lives"
+    author: "lee4"
+    codes:
+      - "002042FC 00000009"
+
+  - name: "P2 Max Score"
+    author: "lee4"
+    codes:
+      - "202042EC 05F5E0FF"
+
+  - name: "P2 Special Max"
+    author: "lee4"
+    codes:
+      - "1020433C 000003E8"
+
+  - name: "P2 Weapon Mod"
+    author: "lee4"
+    codes:
+      - "00204344 0000000?"
+
+  - name: "Pal2ntsc"
+    author: "lee4"
+    codes:
+      - "2014F640 24120002"

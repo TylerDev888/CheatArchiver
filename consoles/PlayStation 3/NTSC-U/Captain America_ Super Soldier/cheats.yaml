@@ -1,0 +1,19 @@
+# Captain America_ Super Soldier cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS30642
+
+game: "Captain America_ Super Soldier"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS30642"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Save1.sav (required)"
+    notes: "File: SAVE1.SAV"
+    codes:
+      - "set range:0x000008,0x005C88"
+      - "set [hash]:CRC32"
+      - "write at 0x000004:[hash]"

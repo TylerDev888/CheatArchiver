@@ -1,0 +1,83 @@
+# Age Of Empires II - Age Of Kings cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50282
+
+game: "Age Of Empires II - Age Of Kings"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50282"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F010D2BC 0010D2BF"
+
+  - name: "Infinite Food/Stone/Wood Usage"
+    author: "Codejunkies"
+    codes:
+      - "E0031021 002D4014"
+      - "E0020286 002D4016"
+      - "202E0484 3C044500"
+      - "202E0488 AC440000"
+
+  - name: "Infinite Gold Usage"
+    author: "Codejunkies"
+    codes:
+      - "E0031021 002D4014"
+      - "E0020286 002D4016"
+      - "202D4064 3C014500"
+      - "202D4098 ACC10000"
+
+  - name: "Additional Must Be On"
+    author: "Codejunkies"
+    notes: "[The Following Code Must Be Activated To Use Any Of The Codes Below]"
+    codes:
+      - "202E89D0 0803FFC0"
+      - "200FFF00 3C0147C0"
+      - "200FFF1C 080BA275"
+      - "200FFF18 46010032"
+
+  - name: "Infinite Food"
+    author: "Codejunkies"
+    notes: "[The Following Code Must Be Activated To Use Any Of The Codes Below]"
+    codes:
+      - "202E89D0 0803FFC0"
+      - "200FFF00 3C0147C0"
+      - "200FFF1C 080BA275"
+      - "200FFF18 46010032"
+      - "200FFF04 AC410000"
+
+  - name: "Infinite Gold"
+    author: "Codejunkies"
+    notes: "[The Following Code Must Be Activated To Use Any Of The Codes Below]"
+    codes:
+      - "202E89D0 0803FFC0"
+      - "200FFF00 3C0147C0"
+      - "200FFF1C 080BA275"
+      - "200FFF18 46010032"
+      - "200FFF10 AC41000C"
+
+  - name: "Infinite Stone"
+    author: "Codejunkies"
+    notes: "[The Following Code Must Be Activated To Use Any Of The Codes Below]"
+    codes:
+      - "202E89D0 0803FFC0"
+      - "200FFF00 3C0147C0"
+      - "200FFF1C 080BA275"
+      - "200FFF18 46010032"
+      - "200FFF0C AC410008"
+
+  - name: "Infinite Wood"
+    author: "Codejunkies"
+    notes: "[The Following Code Must Be Activated To Use Any Of The Codes Below]"
+    codes:
+      - "202E89D0 0803FFC0"
+      - "200FFF00 3C0147C0"
+      - "200FFF1C 080BA275"
+      - "200FFF18 46010032"
+      - "200FFF08 AC410004"

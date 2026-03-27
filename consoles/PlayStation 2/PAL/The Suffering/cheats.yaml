@@ -1,0 +1,53 @@
+# The Suffering cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "The Suffering"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90214040 0C10662C"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2000 C480001C"
+      - "200C2004 03E00008"
+      - "200C2008 E4800018"
+      - "202AF6FC 0C030800"
+
+  - name: "Insanity"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C200C 3C0142C8"
+      - "200C2010 080ADA60"
+      - "200C2014 AE210468"
+      - "202AEF48 0C030803"
+
+  - name: "Ammo (No Reload)"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "202A9DA0 24003634"
+
+  - name: "Throwing Item / Xombium Use"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20284CE0 00000000"
+
+  - name: "Flashlight Use"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20241D8C 00000000"

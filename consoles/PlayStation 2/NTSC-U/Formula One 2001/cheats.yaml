@@ -1,0 +1,106 @@
+# Formula One 2001 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97150
+
+game: "Formula One 2001"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97150"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01FCFF8 0029EF87"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0029EF87"
+
+  - name: "Instant Win 11 Lap Race Only"
+    author: "InterAct"
+    codes:
+      - "1094E774 0000000B"
+      - "10955DB4 0000000B"
+
+  - name: "Instant Win 12 Lap Race Only"
+    author: "InterAct"
+    codes:
+      - "1094E774 0000000C"
+      - "10955DB4 0000000C"
+
+  - name: "Instant Win 13 Lap Race Only"
+    author: "InterAct"
+    codes:
+      - "1094E774 0000000D"
+      - "10955DB4 0000000D"
+
+  - name: "Instant Win 14 Lap Race Only"
+    author: "InterAct"
+    codes:
+      - "1094E774 0000000E"
+      - "10955DB4 0000000E"
+
+  - name: "Instant Win 15 Lap Race Only"
+    author: "InterAct"
+    codes:
+      - "1094E774 0000000F"
+      - "10955DB4 0000000F"
+
+  - name: "Instant Win 16 Lap Race Only"
+    author: "InterAct"
+    codes:
+      - "1094E774 00000010"
+      - "10955DB4 00000010"
+
+  - name: "Instant Win 17 Lap Race Only"
+    author: "InterAct"
+    codes:
+      - "1094E774 00000011"
+      - "10955DB4 00000011"
+
+  - name: "Instant Win 18 Lap Race Only"
+    author: "InterAct"
+    codes:
+      - "1094E774 00000012"
+      - "10955DB4 00000012"
+
+  - name: "Instant Win 19 Lap Race Only"
+    author: "InterAct"
+    codes:
+      - "1094E774 00000013"
+      - "10955DB4 00000013"
+
+  - name: "Start On 10Th Lap"
+    author: "Code Master"
+    codes:
+      - "D094E774 00000001"
+      - "1094E774 0000000A"
+      - "D0955DB4 00000001"
+      - "10955DB4 0000000A"
+
+  - name: "Start On 11Th Lap"
+    author: "InterAct"
+    codes:
+      - "D094E774 00000001"
+      - "1094E774 0000000B"
+      - "D0955DB4 00000001"
+      - "10955DB4 0000000B"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0029EF87"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9029EF84 0C0ACD05"

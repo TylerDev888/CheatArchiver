@@ -1,0 +1,144 @@
+# NFL Blitz 20-02 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20051
+
+game: "NFL Blitz 20-02"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20051"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00113F3F"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90113F3C 0C047B06"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1059B8F0 0000????"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1059B8F2 0000????"
+
+  - name: "Always 1St Down"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1059B8F6 00000001"
+
+  - name: "Always 4Th Down"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1059B8F6 00000004"
+
+  - name: "All Plays Start With 3 Downs Left"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D059B8F6 00000001"
+      - "1059B8F6 00000002"
+
+  - name: "All Plays Start With 2 Downs Left"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D059B8F6 00000001"
+      - "1059B8F6 00000003"
+
+  - name: "All Plays Start On Last Down"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D059B8F6 00000001"
+      - "1059B8F6 00000004"
+
+  - name: "Start On 2Nd Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D059B8F4 00000001"
+      - "1059B8F4 00000002"
+
+  - name: "Start On 3Rd Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D059B8F4 00000001"
+      - "1059B8F4 00000003"
+
+  - name: "Start On 4Th Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D059B8F4 00000001"
+      - "1059B8F4 00000004"
+
+  - name: "Infinite Turbo P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2059C808 3F800000"
+
+  - name: "No Turbo P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2059C808 00000000"
+
+  - name: "Infinite Turbo P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2059C328 3F800000"
+
+  - name: "No Turbo P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2059C328 00000000"
+
+  - name: "Infinite Turbo P3"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2059C2E8 3F800000"
+
+  - name: "No Turbo P3"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2059C2E8 00000000"
+
+  - name: "Infinite Turbo P4"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2059C2A8 3F800000"
+
+  - name: "No Turbo P4"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2059C2A8 00000000"
+
+  - name: "Infinite Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20177090 00000000"

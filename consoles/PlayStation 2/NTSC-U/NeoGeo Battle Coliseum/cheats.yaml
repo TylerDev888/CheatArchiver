@@ -1,0 +1,90 @@
+# NeoGeo Battle Coliseum cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21708
+
+game: "NeoGeo Battle Coliseum"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21708"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]  Enable Code (MUST BE ON) Enable Code (MUST BE ON)"
+    codes:
+      - "90109258 0C04243E"
+      - "F0112948 0011294B"
+      - "0E3C7DF2 1456E7A5"
+      - "F0112948 0011294B"
+
+  - name: "Player 1 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "018270C2 0000[Joker:PS2]"
+
+  - name: "Shrink Screen"
+    author: "Lee4"
+    codes:
+      - "00385918 00000001"
+
+  - name: "Infinite Time"
+    author: "Lee4"
+    codes:
+      - "00385CD8 0000002C"
+
+  - name: "Unlock All Characters"
+    author: "Lee4"
+    codes:
+      - "20385904 FFFFFFFF"
+      - "20385908 FFFFFFFF"
+
+  - name: "100% Complete"
+    author: "Lee4"
+    codes:
+      - "403928C0 00200001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Inf Power Gauge (both Character)"
+    author: "Lee4"
+    notes: "[Player 1]"
+    codes:
+      - "00439A36 000000FF"
+
+  - name: "Inf HP"
+    author: "Lee4"
+    notes: "[Character 1]"
+    codes:
+      - "20439AE8 00E000E0"
+
+  - name: "Inf Guard"
+    author: "Lee4"
+    notes: "[Character 1]"
+    codes:
+      - "00439AEE 000000E0"
+
+  - name: "No Power Gauge (both Character)"
+    author: "Lee4"
+    notes: "[Player 2]"
+    codes:
+      - "00439BEA 00000000"
+
+  - name: "No HP"
+    author: "Lee4"
+    notes: "[Character 1]"
+    codes:
+      - "D0439C9C 000000E0"
+      - "20439C9C 00010001"
+
+  - name: "P2 No Guard"
+    author: "Lee4"
+    notes: "[Character 1]"
+    codes:
+      - "00439CA2 00000000"
+
+  - name: "No Guard"
+    author: "Lee4"
+    notes: "[Character 2]"
+    codes:
+      - "00439CBE 00000000"

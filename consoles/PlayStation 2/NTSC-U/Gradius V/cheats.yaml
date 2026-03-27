@@ -1,0 +1,130 @@
+# Gradius V cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20712
+
+game: "Gradius V"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20712"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F010EAF4 0010EAF7"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0010EAF7"
+
+  - name: "Hit Anywhere For Regular Enemies"
+    author: "nolberto82"
+    codes:
+      - "200A0000 3C02204A"
+      - "200A0004 94420690"
+      - "200A0008 30430400"
+      - "200A000C 10600005"
+      - "200A0014 30434000"
+      - "200A0018 10600002"
+      - "200A001C 8E62005C"
+      - "200A0020 E4400010"
+      - "200A0024 080AA928"
+      - "200A0028 8E62005C"
+      - "202AA498 08028000"
+
+  - name: "Extra Credits"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "102885B0 00000001"
+
+  - name: "Extra Lives (Both Players)"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "10287C34 00000001"
+
+  - name: "Hella Quick Score Gain"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "20287A6C 24637FFF"
+
+  - name: "Infinite Credits"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "202885BC 00000000"
+
+  - name: "Infinite Lives (Both Players)"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "20287C3C 00000000"
+
+  - name: "Invincible (Both Players)"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "91B378C7 361D098C"
+
+  - name: "Kill 1 Enemy For Max Score (Both Players)"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "20287A68 3C0305F5"
+      - "20287A6C 3463E0FF"
+
+  - name: "Max Infinite Credits"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "202885B0 24030063"
+
+  - name: "Max Infinite Lives (Die Once For Max)"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "20287C34 24030063"
+
+  - name: "Quick Score Gain"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "20287A6C 246303E7"
+
+  - name: "Super Quick Score Gain"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "20287A6C 2463270F"
+
+  - name: "Unlock All Stage Select Levels"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "103C2938 0000FFFF"
+      - "003C293A 000000FF"
+
+  - name: "Ships-Regular Mode"
+    author: "Codejunkies"
+    codes:
+      - "004A0B21 00000063"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9010EAF4 0C04653C"
+
+  - name: "Max Infinite Lives"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20287C34 24030063"

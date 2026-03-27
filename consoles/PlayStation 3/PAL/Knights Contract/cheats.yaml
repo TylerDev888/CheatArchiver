@@ -1,0 +1,17 @@
+# Knights Contract cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01001
+
+game: "Knights Contract"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01001"
+cheat_type: "Save Editor"
+source: "From SHAkA"
+
+cheats:
+  - name: "Max Upgrade Points"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "write at 0x00000809:0x98967F00"

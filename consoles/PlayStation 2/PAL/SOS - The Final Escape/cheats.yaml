@@ -1,0 +1,54 @@
+# SOS - The Final Escape cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51301
+
+game: "SOS - The Final Escape"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51301"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01D2DB4 001D2DB7"
+
+  - name: "Keith: Infinite Life"
+    author: "Codejunkies"
+    codes:
+      - "203A7104 42C80000"
+      - "203A7108 42C7EE70"
+
+  - name: "Low Time"
+    author: "Codejunkies"
+    codes:
+      - "2043AEBC 00000000"
+
+  - name: "Maniac Runner"
+    author: "Codejunkies"
+    codes:
+      - "2010BB18 3C024080"
+
+  - name: "Max Distance"
+    author: "Codejunkies"
+    codes:
+      - "2043AEC4 58000FAB"
+
+  - name: "Speedy Moves"
+    author: "Codejunkies"
+    codes:
+      - "20102830 3C024080"
+
+  - name: "Zero Falls"
+    author: "Codejunkies"
+    codes:
+      - "2043AEC0 00000000"
+
+  - name: "Zero Saves"
+    author: "Codejunkies"
+    codes:
+      - "2043AEB8 00000000"

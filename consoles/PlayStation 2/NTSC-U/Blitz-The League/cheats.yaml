@@ -1,0 +1,984 @@
+# Blitz-The League cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21128
+
+game: "Blitz-The League"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21128"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90140AB0 0C045892"
+      - "200C0230 03E00008"
+      - "200C0234 00000000"
+      - "202620B0 08030088"
+
+  - name: "Home Team Scores 255"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 240100FF"
+      - "200C0224 A081000C"
+
+  - name: "Home Team Scores 150"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 24010096"
+      - "200C0224 A081000C"
+
+  - name: "Home Team Scores 0"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 24010000"
+      - "200C0224 A081000C"
+
+  - name: "Away Team Scores 255"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0228 240100FF"
+      - "200C022C A081000D"
+
+  - name: "Away Team Scores 150"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0228 24010096"
+      - "200C022C A081000D"
+
+  - name: "Away Team Scores 0"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0228 24010000"
+      - "200C022C A081000D"
+
+  - name: "P1 Press L1+Up For 1St Down"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20208E58 8C41001B"
+      - "E002FBEF 0070EAC2"
+      - "20208E5C 24020001"
+      - "20208E64 AC41001B"
+      - "E002FFFF 0070EAC2"
+      - "20208E5C 9041001B"
+      - "20208E64 00000000"
+
+  - name: "P1 Press L1+Right For 2Nd Down"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20208E58 8C41001B"
+      - "E002FBDF 0070EAC2"
+      - "20208E5C 24020002"
+      - "20208E64 AC41001B"
+      - "E002FFFF 0070EAC2"
+      - "20208E5C 9041001B"
+      - "20208E64 00000000"
+
+  - name: "P1 Press L1+Down For 3Rd Down"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20208E58 8C41001B"
+      - "E002FBBF 0070EAC2"
+      - "20208E5C 24020003"
+      - "20208E64 AC41001B"
+      - "E002FFFF 0070EAC2"
+      - "20208E5C 9041001B"
+      - "20208E64 00000000"
+
+  - name: "P1 Press L1+Left For 4Th Down"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20208E58 8C41001B"
+      - "E002FB7F 0070EAC2"
+      - "20208E5C 24020004"
+      - "20208E64 AC41001B"
+      - "E002FFFF 0070EAC2"
+      - "20208E5C 9041001B"
+      - "20208E64 00000000"
+
+  - name: "P2 Press L1+Up For 1St Down"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20208E58 8C41001B"
+      - "E002FBEF 0070EBC2"
+      - "20208E5C 24020001"
+      - "20208E64 AC41001B"
+      - "E002FFFF 0070EBC2"
+      - "20208E5C 9041001B"
+      - "20208E64 00000000"
+
+  - name: "P2 Press L1+Right For 2Nd Down"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20208E58 8C41001B"
+      - "E002FBDF 0070EBC2"
+      - "20208E5C 24020002"
+      - "20208E64 AC41001B"
+      - "E002FFFF 0070EBC2"
+      - "20208E5C 9041001B"
+      - "20208E64 00000000"
+
+  - name: "P2 Press L1+Down For 3Rd Down"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20208E58 8C41001B"
+      - "E002FBBF 0070EBC2"
+      - "20208E5C 24020003"
+      - "20208E64 AC41001B"
+      - "E002FFFF 0070EBC2"
+      - "20208E5C 9041001B"
+      - "20208E64 00000000"
+
+  - name: "P2 Press L1+Left For 4Th Down"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20208E58 8C41001B"
+      - "E002FB7F 0070EBC2"
+      - "20208E5C 24020004"
+      - "20208E64 AC41001B"
+      - "E002FFFF 0070EBC2"
+      - "20208E5C 9041001B"
+      - "20208E64 00000000"
+
+  - name: "Always 1St Down"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20208E58 8C41001B"
+      - "20208E5C 24020001"
+      - "20208E64 AC41001B"
+
+  - name: "Always 4Th Down"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20208E58 8C41001B"
+      - "20208E5C 24020001"
+      - "20208E64 AC41001B"
+
+  - name: "P1 Press L1+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002FBFE 0070EAC2"
+      - "2025DCB0 00000000"
+      - "2025DCC8 00000000"
+
+  - name: "P1 Press L2+Select To Restart Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002FEFE 0070EAC2"
+      - "2025DCB0 A622001E"
+      - "2025DCC8 A622001E"
+
+  - name: "P2 Press L1+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002FBFE 0070EBC2"
+      - "2025DCB0 00000000"
+      - "2025DCC8 00000000"
+
+  - name: "P2 Press L2+Select To Restart Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002FEFE 0070EBC2"
+      - "2025DCB0 A622001E"
+      - "2025DCC8 A622001E"
+
+  - name: "P1 Press R1+Up For 1St Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002F7EF 0070EAC2"
+      - "2020825C 24030001"
+      - "20208260 A043001A"
+      - "E002FFFF 0070EAC2"
+      - "2020825C 00000000"
+      - "20208260 9043001A"
+
+  - name: "P1 Press R1+Right For 2Nd Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002F7DF 0070EAC2"
+      - "2020825C 24030002"
+      - "20208260 A043001A"
+      - "E002FFFF 0070EAC2"
+      - "2020825C 00000000"
+      - "20208260 9043001A"
+
+  - name: "P1 Press R1+Down For 3Rd Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002F7BF 0070EAC2"
+      - "2020825C 24030003"
+      - "20208260 A043001A"
+      - "E002FFFF 0070EAC2"
+      - "2020825C 00000000"
+      - "20208260 9043001A"
+
+  - name: "P1 Press R1+Left For 4Th Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002F77F 0070EAC2"
+      - "2020825C 24030004"
+      - "20208260 A043001A"
+      - "E002FFFF 0070EAC2"
+      - "2020825C 00000000"
+      - "20208260 9043001A"
+
+  - name: "P2 Press R1+Up For 1St Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002F7EF 0070EBC2"
+      - "2020825C 24030001"
+      - "20208260 A043001A"
+      - "E002FFFF 0070EBC2"
+      - "2020825C 00000000"
+      - "20208260 9043001A"
+
+  - name: "P2 Press R1+Right For 2Nd Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002F7DF 0070EBC2"
+      - "2020825C 24030002"
+      - "20208260 A043001A"
+      - "E002FFFF 0070EBC2"
+      - "2020825C 00000000"
+      - "20208260 9043001A"
+
+  - name: "P2 Press R1+Down For 3Rd Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002F7BF 0070EBC2"
+      - "2020825C 24030003"
+      - "20208260 A043001A"
+      - "E002FFFF 0070EBC2"
+      - "2020825C 00000000"
+      - "20208260 9043001A"
+
+  - name: "P2 Press R1+Left For 4Th Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002F77F 0070EBC2"
+      - "2020825C 24030004"
+      - "20208260 A043001A"
+      - "E002FFFF 0070EBC2"
+      - "2020825C 00000000"
+      - "20208260 9043001A"
+
+  - name: "P1 Press R1+Select To Restart Play Choose Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E001F7FE 0070EAC2"
+      - "202707CC 00000000"
+
+  - name: "P1 Press R1+Select To Stop Play Choose Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E001FDFE 0070EAC2"
+      - "202707CC AE0200E0"
+
+  - name: "P2 Press R1+Select To Restart Play Choose Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E001F7FE 0070EBC2"
+      - "202707CC 00000000"
+
+  - name: "P2 Press R1+Select To Stop Play Choose Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E001FDFE 0070EBC2"
+      - "202707CC AE0200E0"
+
+  - name: "Infinite Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202707CC 00000000"
+
+  - name: "Infinite Cash"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "11CC3D94 0000FFFF"
+
+  - name: "Max Cash"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "21CC3D94 05F5E0FF"
+
+  - name: "All Teams"
+    author: "Code Master"
+    notes: "[Infinite Turbo Codes]"
+    codes:
+      - "203A8E78 00000000"
+
+  - name: "Arizona Outlaws ONLY"
+    author: "Code Master"
+    notes: "[Infinite Turbo Codes]"
+    codes:
+      - "200C0240 8E610018"
+      - "200C0244 24020001"
+      - "200C0248 50220001"
+      - "200C024C 44800000"
+      - "200C0250 03E00008"
+      - "200C0254 C6610604"
+      - "203A8E68 0C030090"
+
+  - name: "Baltimore Bearcats ONLY"
+    author: "Code Master"
+    notes: "[Infinite Turbo Codes]"
+    codes:
+      - "200C0240 8E610018"
+      - "200C0244 24020002"
+      - "200C0248 50220001"
+      - "200C024C 44800000"
+      - "200C0250 03E00008"
+      - "200C0254 C6610604"
+      - "203A8E68 0C030090"
+
+  - name: "Carolina Copperheads ONLY"
+    author: "Code Master"
+    notes: "[Infinite Turbo Codes]"
+    codes:
+      - "200C0240 8E610018"
+      - "200C0244 24020003"
+      - "200C0248 50220001"
+      - "200C024C 44800000"
+      - "200C0250 03E00008"
+      - "200C0254 C6610604"
+      - "203A8E68 0C030090"
+
+  - name: "Cincinnati Crusaders ONLY"
+    author: "Code Master"
+    notes: "[Infinite Turbo Codes]"
+    codes:
+      - "200C0240 8E610018"
+      - "200C0244 24020004"
+      - "200C0248 50220001"
+      - "200C024C 44800000"
+      - "200C0250 03E00008"
+      - "200C0254 C6610604"
+      - "203A8E68 0C030090"
+
+  - name: "Chicago Marauders ONLY"
+    author: "Code Master"
+    notes: "[Infinite Turbo Codes]"
+    codes:
+      - "200C0240 8E610018"
+      - "200C0244 24020005"
+      - "200C0248 50220001"
+      - "200C024C 44800000"
+      - "200C0250 03E00008"
+      - "200C0254 C6610604"
+      - "203A8E68 0C030090"
+
+  - name: "Dallas Aztecs ONLY"
+    author: "Code Master"
+    notes: "[Infinite Turbo Codes]"
+    codes:
+      - "200C0240 8E610018"
+      - "200C0244 24020006"
+      - "200C0248 50220001"
+      - "200C024C 44800000"
+      - "200C0250 03E00008"
+      - "200C0254 C6610604"
+      - "203A8E68 0C030090"
+
+  - name: "Detroit Devils ONLY"
+    author: "Code Master"
+    notes: "[Infinite Turbo Codes]"
+    codes:
+      - "200C0240 8E610018"
+      - "200C0244 24020007"
+      - "200C0248 50220001"
+      - "200C024C 44800000"
+      - "200C0250 03E00008"
+      - "200C0254 C6610604"
+      - "203A8E68 0C030090"
+
+  - name: "Denver Grizzlies ONLY"
+    author: "Code Master"
+    notes: "[Infinite Turbo Codes]"
+    codes:
+      - "200C0240 8E610018"
+      - "200C0244 24020008"
+      - "200C0248 50220001"
+      - "200C024C 44800000"
+      - "200C0250 03E00008"
+      - "200C0254 C6610604"
+      - "203A8E68 0C030090"
+
+  - name: "Kansas City Crossfire ONLY"
+    author: "Code Master"
+    notes: "[Infinite Turbo Codes]"
+    codes:
+      - "200C0240 8E610018"
+      - "200C0244 24020009"
+      - "200C0248 50220001"
+      - "200C024C 44800000"
+      - "200C0250 03E00008"
+      - "200C0254 C6610604"
+      - "203A8E68 0C030090"
+
+  - name: "Vegas Aces ONLY"
+    author: "Code Master"
+    notes: "[Infinite Turbo Codes]"
+    codes:
+      - "200C0240 8E610018"
+      - "200C0244 2402000A"
+      - "200C0248 50220001"
+      - "200C024C 44800000"
+      - "200C0250 03E00008"
+      - "200C0254 C6610604"
+      - "203A8E68 0C030090"
+
+  - name: "Minnesota Reapers ONLY"
+    author: "Code Master"
+    notes: "[Infinite Turbo Codes]"
+    codes:
+      - "200C0240 8E610018"
+      - "200C0244 2402000B"
+      - "200C0248 50220001"
+      - "200C024C 44800000"
+      - "200C0250 03E00008"
+      - "200C0254 C6610604"
+      - "203A8E68 0C030090"
+
+  - name: "New York Nightmare ONLY"
+    author: "Code Master"
+    notes: "[Infinite Turbo Codes]"
+    codes:
+      - "200C0240 8E610018"
+      - "200C0244 2402000C"
+      - "200C0248 50220001"
+      - "200C024C 44800000"
+      - "200C0250 03E00008"
+      - "200C0254 C6610604"
+      - "203A8E68 0C030090"
+
+  - name: "New England Regulars ONLY"
+    author: "Code Master"
+    notes: "[Infinite Turbo Codes]"
+    codes:
+      - "200C0240 8E610018"
+      - "200C0244 2402000D"
+      - "200C0248 50220001"
+      - "200C024C 44800000"
+      - "200C0250 03E00008"
+      - "200C0254 C6610604"
+      - "203A8E68 0C030090"
+
+  - name: "Orlando Hammerheads ONLY"
+    author: "Code Master"
+    notes: "[Infinite Turbo Codes]"
+    codes:
+      - "200C0240 8E610018"
+      - "200C0244 2402000E"
+      - "200C0248 50220001"
+      - "200C024C 44800000"
+      - "200C0250 03E00008"
+      - "200C0254 C6610604"
+      - "203A8E68 0C030090"
+
+  - name: "San Diego Cyclones ONLY"
+    author: "Code Master"
+    notes: "[Infinite Turbo Codes]"
+    codes:
+      - "200C0240 8E610018"
+      - "200C0244 2402000F"
+      - "200C0248 50220001"
+      - "200C024C 44800000"
+      - "200C0250 03E00008"
+      - "200C0254 C6610604"
+      - "203A8E68 0C030090"
+
+  - name: "Seattle Reign ONLY"
+    author: "Code Master"
+    notes: "[Infinite Turbo Codes]"
+    codes:
+      - "200C0240 8E610018"
+      - "200C0244 24020010"
+      - "200C0248 50220001"
+      - "200C024C 44800000"
+      - "200C0250 03E00008"
+      - "200C0254 C6610604"
+      - "203A8E68 0C030090"
+
+  - name: "Washington Redhawks ONLY"
+    author: "Code Master"
+    notes: "[Infinite Turbo Codes]"
+    codes:
+      - "200C0240 8E610018"
+      - "200C0244 24020011"
+      - "200C0248 50220001"
+      - "200C024C 44800000"
+      - "200C0250 03E00008"
+      - "200C0254 C6610604"
+      - "203A8E68 0C030090"
+
+  - name: "Buttafingaz"
+    author: "Code Master"
+    notes: "[Unlock Playmodes Codes]"
+    codes:
+      - "71AD4BF8 00000001"
+
+  - name: "Windbreakers"
+    author: "Code Master"
+    notes: "[Unlock Playmodes Codes]"
+    codes:
+      - "71AD4BF8 00000002"
+
+  - name: "No Injuries"
+    author: "Code Master"
+    notes: "[Unlock Playmodes Codes]"
+    codes:
+      - "71AD4BF8 00000004"
+
+  - name: "Deuces Wild"
+    author: "Code Master"
+    notes: "[Unlock Playmodes Codes]"
+    codes:
+      - "71AD4BF8 00000008"
+
+  - name: "David Vs. Goliath"
+    author: "Code Master"
+    notes: "[Unlock Playmodes Codes]"
+    codes:
+      - "71AD4BF8 00000020"
+
+  - name: "Lucky 7'S"
+    author: "Code Master"
+    notes: "[Unlock Playmodes Codes]"
+    codes:
+      - "71AD4BF8 00000040"
+
+  - name: "Bonecrushers"
+    author: "Code Master"
+    notes: "[Unlock Playmodes Codes]"
+    codes:
+      - "71AD4BF8 00000080"
+
+  - name: "Pain"
+    author: "Code Master"
+    notes: "[Unlock Playmodes Codes]"
+    codes:
+      - "71AD4BF9 00000001"
+
+  - name: "Domination"
+    author: "Code Master"
+    notes: "[Unlock Playmodes Codes]"
+    codes:
+      - "71AD4BF9 00000002"
+
+  - name: "Big Head"
+    author: "Code Master"
+    notes: "[Unlock Playmodes Codes]"
+    codes:
+      - "71AD4BF9 00000004"
+
+  - name: "All Or Nothing"
+    author: "Code Master"
+    notes: "[Unlock Playmodes Codes]"
+    codes:
+      - "71AD4BF9 00000008"
+
+  - name: "All Playmodes"
+    author: "Code Master"
+    notes: "[Unlock Playmodes Codes]"
+    codes:
+      - "71AD4BF8 00100FEF"
+
+  - name: "Cyberball Arcade Game"
+    author: "Code Master"
+    notes: "[Unlock Media Codes]"
+    codes:
+      - "71AD4BF8 00000010"
+
+  - name: "Captain Movie Redhawks"
+    author: "Code Master"
+    notes: "[Unlock Media Codes]"
+    codes:
+      - "71AD4BF9 00000010"
+
+  - name: "Captain Movie Outlaws"
+    author: "Code Master"
+    notes: "[Unlock Media Codes]"
+    codes:
+      - "71AD4BF9 00000020"
+
+  - name: "Captain Movie Crusaders"
+    author: "Code Master"
+    notes: "[Unlock Media Codes]"
+    codes:
+      - "71AD4BF9 00000040"
+
+  - name: "Captain Movie Marauders"
+    author: "Code Master"
+    notes: "[Unlock Media Codes]"
+    codes:
+      - "71AD4BF9 00000080"
+
+  - name: "Captain Movie Bearcats"
+    author: "Code Master"
+    notes: "[Unlock Media Codes]"
+    codes:
+      - "71AD4BFA 00000001"
+
+  - name: "Captain Movie Aces"
+    author: "Code Master"
+    notes: "[Unlock Media Codes]"
+    codes:
+      - "71AD4BFA 00000002"
+
+  - name: "Captain Movie Reapers"
+    author: "Code Master"
+    notes: "[Unlock Media Codes]"
+    codes:
+      - "71AD4BFA 00000004"
+
+  - name: "Captain Movie Copperheads"
+    author: "Code Master"
+    notes: "[Unlock Media Codes]"
+    codes:
+      - "71AD4BFA 00000008"
+
+  - name: "Captain Movie Crossfire"
+    author: "Code Master"
+    notes: "[Unlock Media Codes]"
+    codes:
+      - "71AD4BFA 00000010"
+
+  - name: "Captain Movie Cyclones"
+    author: "Code Master"
+    notes: "[Unlock Media Codes]"
+    codes:
+      - "71AD4BFA 00000020"
+
+  - name: "Captain Movie Nightmare"
+    author: "Code Master"
+    notes: "[Unlock Media Codes]"
+    codes:
+      - "71AD4BFA 00000040"
+
+  - name: "Captain Movie Regulars"
+    author: "Code Master"
+    notes: "[Unlock Media Codes]"
+    codes:
+      - "71AD4BFA 00000080"
+
+  - name: "Captain Movie Reign"
+    author: "Code Master"
+    notes: "[Unlock Media Codes]"
+    codes:
+      - "71AD4BFB 00000001"
+
+  - name: "Captain Movie Aztecs"
+    author: "Code Master"
+    notes: "[Unlock Media Codes]"
+    codes:
+      - "71AD4BFB 00000002"
+
+  - name: "Captain Movie Devils"
+    author: "Code Master"
+    notes: "[Unlock Media Codes]"
+    codes:
+      - "71AD4BFB 00000004"
+
+  - name: "Motion Capture Sessions"
+    author: "Code Master"
+    notes: "[Unlock Media Codes]"
+    codes:
+      - "71AD4BFB 00000008"
+
+  - name: "Dev Team Pictures"
+    author: "Code Master"
+    notes: "[Unlock Media Codes]"
+    codes:
+      - "71AD4BFB 00000010"
+
+  - name: "L.T. Behind The Mic"
+    author: "Code Master"
+    notes: "[Unlock Media Codes]"
+    codes:
+      - "71AD4BFB 00000020"
+
+  - name: "FHM Photo Shoot"
+    author: "Code Master"
+    notes: "[Unlock Media Codes]"
+    codes:
+      - "71AD4BFB 00000040"
+
+  - name: "Marketing Trailer"
+    author: "Code Master"
+    notes: "[Unlock Media Codes]"
+    codes:
+      - "71AD4BFC 00000008"
+
+  - name: "E3 Trailer"
+    author: "Code Master"
+    notes: "[Unlock Media Codes]"
+    codes:
+      - "71AD4BFC 00000010"
+
+  - name: "Trailer Animatic"
+    author: "Code Master"
+    notes: "[Unlock Media Codes]"
+    codes:
+      - "71AD4C02 00000080"
+
+  - name: "All Media"
+    author: "Code Master"
+    notes: "[Unlock Media Codes]"
+    codes:
+      - "71AD4BF8 0010F010"
+      - "71AD4BFA 00107FFF"
+      - "71AD4BFC 00000018"
+      - "71AD4C02 00000080"
+
+  - name: "Cheerleader Concepts"
+    author: "Code Master"
+    notes: "[Unlock Concepts Codes]"
+    codes:
+      - "71AD4BFB 00000080"
+
+  - name: "Concept Moodboards"
+    author: "Code Master"
+    notes: "[Unlock Concepts Codes]"
+    codes:
+      - "71AD4BFC 00000001"
+
+  - name: "Character Concepts"
+    author: "Code Master"
+    notes: "[Unlock Concepts Codes]"
+    codes:
+      - "71AD4BFC 00000002"
+
+  - name: "Environment Concepts"
+    author: "Code Master"
+    notes: "[Unlock Concepts Codes]"
+    codes:
+      - "71AD4BFC 00000004"
+
+  - name: "All Concepts"
+    author: "Code Master"
+    notes: "[Unlock Concepts Codes]"
+    codes:
+      - "71AD4BFB 00000080"
+      - "71AD4BFC 00000007"
+
+  - name: "Amy"
+    author: "Code Master"
+    notes: "[Unlock Cheerleader Codes]"
+    codes:
+      - "71AD4BFC 00000080"
+
+  - name: "Abigail"
+    author: "Code Master"
+    notes: "[Unlock Cheerleader Codes]"
+    codes:
+      - "71AD4BFD 00000001"
+
+  - name: "Page"
+    author: "Code Master"
+    notes: "[Unlock Cheerleader Codes]"
+    codes:
+      - "71AD4BFD 00000002"
+
+  - name: "Racquel"
+    author: "Code Master"
+    notes: "[Unlock Cheerleader Codes]"
+    codes:
+      - "71AD4BFD 00000004"
+
+  - name: "Mellanie"
+    author: "Code Master"
+    notes: "[Unlock Cheerleader Codes]"
+    codes:
+      - "71AD4BFD 00000008"
+
+  - name: "Caroline"
+    author: "Code Master"
+    notes: "[Unlock Cheerleader Codes]"
+    codes:
+      - "71AD4BFD 00000010"
+
+  - name: "Diana"
+    author: "Code Master"
+    notes: "[Unlock Cheerleader Codes]"
+    codes:
+      - "71AD4BFD 00000020"
+
+  - name: "Tatiana"
+    author: "Code Master"
+    notes: "[Unlock Cheerleader Codes]"
+    codes:
+      - "71AD4BFD 00000040"
+
+  - name: "All Cheerleaders"
+    author: "Code Master"
+    notes: "[Unlock Cheerleader Codes]"
+    codes:
+      - "71AD4BFC 00107F80"
+
+  - name: "Costume 1"
+    author: "Code Master"
+    notes: "[Unlock Bonus Cheerleader Costume Codes]"
+    codes:
+      - "71AD4BFD 00000080"
+
+  - name: "Costume 3"
+    author: "Code Master"
+    notes: "[Unlock Bonus Cheerleader Costume Codes]"
+    codes:
+      - "71AD4BFE 00000001"
+
+  - name: "All Bonus Cheerleader Costumes"
+    author: "Code Master"
+    notes: "[Unlock Bonus Cheerleader Costume Codes]"
+    codes:
+      - "71AD4BFD 00000080"
+      - "71AD4BFE 00000003"
+
+  - name: "Janine"
+    author: "Code Master"
+    notes: "[Unlock Cheerleader Pictorial Codes]"
+    codes:
+      - "71AD4BFE 00000004"
+
+  - name: "Shannon"
+    author: "Code Master"
+    notes: "[Unlock Cheerleader Pictorial Codes]"
+    codes:
+      - "71AD4BFE 00000008"
+
+  - name: "Raven"
+    author: "Code Master"
+    notes: "[Unlock Cheerleader Pictorial Codes]"
+    codes:
+      - "71AD4BFE 00000010"
+
+  - name: "All Cheerleader Pictorials"
+    author: "Code Master"
+    notes: "[Unlock Cheerleader Pictorial Codes]"
+    codes:
+      - "71AD4BFE 00101FFC"
+
+  - name: "Super Clash Code"
+    author: "Code Master"
+    notes: "[Unlock Cheats Codes]"
+    codes:
+      - "71AD4C03 00000001"
+
+  - name: "Super Unleash Clash Code"
+    author: "Code Master"
+    notes: "[Unlock Cheats Codes]"
+    codes:
+      - "71AD4C03 00000002"
+
+  - name: "Double Unleash Icons Code"
+    author: "Code Master"
+    notes: "[Unlock Cheats Codes]"
+    codes:
+      - "71AD4C03 00000004"
+
+  - name: "Stamina OFF Code"
+    author: "Code Master"
+    notes: "[Unlock Cheats Codes]"
+    codes:
+      - "71AD4C03 00000008"
+
+  - name: "Ball Trail Always On"
+    author: "Code Master"
+    notes: "[Unlock Cheats Codes]"
+    codes:
+      - "71AD4C03 00000020"
+
+  - name: "Beach Ball Code"
+    author: "Code Master"
+    notes: "[Unlock Cheats Codes]"
+    codes:
+      - "71AD4C03 00000040"
+
+  - name: "Two-Player Co-Op"
+    author: "Code Master"
+    notes: "[Unlock Cheats Codes]"
+    codes:
+      - "71AD4C04 00000001"
+
+  - name: "All Cheats"
+    author: "Code Master"
+    notes: "[Unlock Cheats Codes]"
+    codes:
+      - "71AD4BF8 00100FEF"
+      - "71AD4C03 0000006F"
+      - "71AD4C04 00000001"
+
+  - name: "Super Clash Code (Team 1)"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "1025877E 00001660"
+
+  - name: "Super Clash Code (Team 2)"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "1025877E 00001260"
+
+  - name: "Super Clash Code (Both Teams)"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "1025877E 00001000"
+
+  - name: "Super Unleash Clash (Team 1)"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "102587C2 00001660"
+
+  - name: "Super Unleash Clash (Team 2)"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "102587C2 00001260"
+
+  - name: "Super Unleash Clash (Both Teams)"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "102587C2 00001000"

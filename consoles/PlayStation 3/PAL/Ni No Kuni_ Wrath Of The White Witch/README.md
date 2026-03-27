@@ -1,0 +1,2118 @@
+# Ni No Kuni_ Wrath Of The White Witch
+
+**Console:** PlayStation 3  
+**Region:** PAL  
+**Serial:** BLES01555  
+**Cheat Type:** Save Editor  
+**Source:** [From Game Genie For PS3](From Game Genie For PS3)  
+
+---
+
+## Cheats
+
+### Max Money
+**Author:**   
+**Notes:** File: BLES01555_*\\SYS-DATA
+
+```
+80010005 FEFFFFFE
+80000000 00000000
+93000000 00000018
+28000000 05F5E0FF
+```
+
+---
+
+### Max Casino Coins
+**Author:**   
+**Notes:** File: BLES01555_*\\SYS-DATA
+
+```
+80010005 FEFFFFFE
+80000000 00000000
+93000000 00000014
+28000000 05F5E0FF
+```
+
+---
+
+### Max Locket Pieces
+**Author:**   
+**Notes:** File: BLES01555_*\\SYS-DATA
+
+```
+00001C33 000000FF
+```
+
+---
+
+### Red:info:empty Locket Code If You Can't Progress Due To Having Max Locket Pieces.
+**Author:**   
+**Notes:** File: BLES01555_*\\SYS-DATA
+
+---
+
+### Empty Locket Code
+**Author:**   
+**Notes:** File: BLES01555_*\\SYS-DATA
+
+```
+00001C33 00000000
+```
+
+---
+
+### Telling Stone (familiars)
+**Author:**   
+**Notes:** File: BLES01555_*\\SYS-DATA
+
+```
+42006CF4 FF8000FF
+41C10004 00000000
+```
+
+---
+
+### Lots Of Glims
+**Author:**   
+**Notes:** File: BLES01555_*\\SYS-DATA
+
+```
+20004550 000007CC
+```
+
+---
+
+### Lots Of Battles
+**Author:**   
+**Notes:** File: BLES01555_*\\SYS-DATA
+
+```
+20004554 000007CC
+```
+
+---
+
+### Max Stamps
+**Author:**   
+**Notes:** File: BLES01555_*\\SYS-DATA
+
+```
+1000067C 00000226
+```
+
+---
+
+### Red:info:warning! These Cheats Will Delete All Your Items. If In Doubt, Back Up Your Save First.
+**Author:**   
+**Notes:** [Items]  File: BLES01555_*\\SYS-DATA
+
+---
+
+### Red:info:to Use, You Must Turn On This Cheat And Then Activate The Important Items You Already Own.
+**Author:**   
+**Notes:** [Items]  File: BLES01555_*\\SYS-DATA
+
+---
+
+### Red:info:turning On Important Items You Do Not Have Will Either Fail Or Cause Side Effects.
+**Author:**   
+**Notes:** [Items]  File: BLES01555_*\\SYS-DATA
+
+---
+
+### All Main Items
+**Author:**   
+**Notes:** [Items]  File: BLES01555_*\\SYS-DATA
+
+```
+42007D0E 00000060
+401B0010 00010000
+42007EBE 00000060
+404A0010 00010000
+4200835E 00000060
+40430010 00010000
+4200878E 00000060
+40680010 00010000
+42008E0E 00000060
+405A0010 00010000
+420093AE 00000060
+40330010 00010000
+42007D04 00020001
+401B0010 00100001
+20007D08 877921FE
+20007D18 AC54723D
+20007D28 B54F437C
+20007D38 FA0ED5BB
+20007D48 E315E4FA
+20007D58 C838B739
+20007D68 D1238678
+20007D78 56BB9AB7
+20007D88 4FA0ABF6
+20007D98 9FA07A88
+20007DA8 86BB4BC9
+20007DB8 AD96180A
+20007DC8 B48D294B
+20007DD8 FBCCBF8C
+20007DE8 E2D78ECD
+20007DF8 C9FADD0E
+20007E08 95CC8E10
+20007E18 BEE1DDD3
+20007E28 A7FAEC92
+20007E38 2D70E975
+20007E48 065DBAB6
+20007E58 1F468BF7
+20007E68 50071D30
+20007E78 491C2C71
+20007E88 62317FB2
+20007E98 7B2A4EF3
+20007EA8 FCB2523C
+42007EB4 00030001
+404A0010 00100001
+20007EB8 450F34C8
+20007EC8 47498A91
+20007ED8 6C64D952
+20007EE8 757FE813
+20007EF8 3A3E7ED4
+20007F08 23254F95
+20007F18 6E22670B
+20007F28 08081C56
+20007F38 11132D17
+20007F48 968B31D8
+20007F58 8F900099
+20007F68 5F90D1E7
+20007F78 7739564A
+20007F88 468BE0A6
+20007F98 6DA6B365
+20007FA8 74BD8224
+20007FB8 3BFC14E3
+20007FC8 22E725A2
+20007FD8 3878C08D
+20007FE8 09CA7661
+20007FF8 10D14720
+20008008 97495BEF
+20008018 8E526AAE
+20008028 5DD66FBE
+20008038 0A4EA20F
+20008048 0B8CC838
+20008058 1297F979
+20008068 950FE5B6
+20008078 8C14D4F7
+20008088 5C140589
+20008098 2163F1CC
+200080A8 44CD5EFF
+200080B8 6FE00D3C
+200080C8 76FB3C7D
+200080D8 39BAAABA
+200080E8 20A19BFB
+200080F8 55FC257F
+20008108 7ED176BC
+20008118 67CA47FD
+20008128 288BD13A
+20008138 3190E07B
+20008148 1ABDB3B8
+20008158 03A682F9
+20008168 843E9E36
+20008178 131BAC12
+20008188 3836FFD1
+20008198 212DCE90
+200081A8 6E6C5857
+200081B8 01AE03FC
+200081C8 2A83503F
+200081D8 3398617E
+200081E8 7CD9F7B9
+200081F8 B9126499
+20008208 923F375A
+20008218 8B24061B
+20008228 C46590DC
+20008238 24C55C20
+20008248 0FE80FE3
+20008258 16F33EA2
+20008268 59B2A865
+20008278 9C793B45
+20008288 B7546886
+20008298 AE4F59C7
+200082A8 E10ECF00
+200082B8 8ECC94AB
+200082C8 A5E1C768
+200082D8 BCFAF629
+200082E8 F3BB60EE
+200082F8 3670F3CE
+20008308 1D5DA00D
+20008318 0446914C
+20008328 4B07078B
+20008338 521C36CA
+20008348 79316509
+42008354 00050001
+40430010 00100001
+20008358 999F2BDE
+20008368 B2B2781D
+20008378 ABA9495C
+20008388 E4E8DF9B
+20008398 FDF3EEDA
+200083A8 D6DEBD19
+200083B8 CFC58C58
+200083C8 485D9097
+200083D8 5146A1D6
+200083E8 814670A8
+200083F8 985D41E9
+20008408 B370122A
+20008418 AA6B236B
+20008428 E52AB5AC
+20008438 FC3184ED
+20008448 D71CD72E
+20008458 CE07E66F
+20008468 499FFAA0
+20008478 5084CBE1
+20008488 8300CEF1
+20008498 9A1BFFB0
+200084A8 B136AC73
+200084B8 A82D9D32
+200084C8 E76C0BF5
+200084D8 FE773AB4
+200084E8 D55A6977
+200084F8 CC415836
+20008508 4BD944F9
+20008518 52C275B8
+20008528 82C2A4C6
+20008538 9BD99587
+20008548 B0F4C644
+20008558 A9EFF705
+20008568 E6AE61C2
+20008578 FFB55083
+20008588 D4980340
+20008598 CD833201
+200085A8 4A1B2ECE
+200085B8 53001F8F
+200085C8 878DB243
+200085D8 9E968302
+200085E8 B5BBD0C1
+200085F8 ACA0E180
+20008608 E3E17747
+20008618 FAFA4606
+20008628 D1D715C5
+20008638 C8CC2484
+20008648 4F54384B
+20008658 564F090A
+20008668 864FD874
+20008678 9F54E935
+20008688 B479BAF6
+20008698 D0157FF2
+200086A8 AD628BB7
+200086B8 E2231D70
+200086C8 FB382C31
+200086D8 C90E4EB3
+200086E8 4E96527C
+200086F8 578D633D
+20008708 D253C1AB
+20008718 CB48F0EA
+20008728 4CD0EC25
+20008738 55CBDD64
+20008748 85CB0C1A
+20008758 9CD03D5B
+20008768 B7FD6E98
+20008778 AEE65FD9
+42008784 00090001
+40680010 00100001
+20008788 A21B4DB1
+20008798 BB007CF0
+200087A8 902D2F33
+200087B8 DF6CB9F4
+200087C8 ED5ADB76
+200087D8 89361E72
+200087E8 6AC2C7B9
+200087F8 A3D92786
+20008808 C67788B5
+20008818 BAC216C7
+20008828 91EF4504
+20008838 73D9F6F8
+20008848 C7B5E282
+20008858 88F47445
+20008868 F5838000
+20008878 6B00AD8E
+20008888 EC98B141
+20008898 DEAED3C3
+200088A8 721B9CCF
+200088B8 A19F99DF
+200088C8 93A9FB5D
+200088D8 B884A89E
+200088E8 8AB2CA1C
+200088F8 B0AEE25F
+20008908 829880DD
+20008918 9B83B19C
+20008928 A9B5D31E
+20008938 D4C2275B
+20008948 CDD9161A
+20008958 FFEF7498
+20008968 E6F445D9
+20008978 835AEAEA
+20008988 B16C8868
+20008998 A877B929
+200089A8 9A41DBAB
+200089B8 D5004D6C
+200089C8 CC1B7C2D
+200089D8 0812853A
+200089E8 233FD6F9
+200089F8 3A24E7B8
+20008A08 6C7E403E
+20008A18 1109B47B
+20008A28 5E4822BC
+20008A38 7565717F
+20008A48 475313FD
+20008A58 2D79DAE6
+20008A68 3462EBA7
+20008A78 49151FE2
+20008A88 06548925
+20008A98 62384C21
+20008AA8 E5A050EE
+20008AB8 FCBB61AF
+20008AC8 2CBBB0D1
+20008AD8 35A08190
+20008AE8 1F4FB864
+20008AF8 3FCC7508
+20008B08 26D74449
+20008B18 0DFA178A
+20008B28 14E126CB
+20008B38 5BA0B00C
+20008B48 42BB814D
+20008B58 6996D28E
+20008B68 708DE3CF
+20008B78 F715FF00
+20008B88 8770126D
+20008B98 E31CD769
+20008BA8 9E6B232C
+20008BB8 B54670EF
+20008BC8 D12AB5EB
+20008BD8 4FA99865
+20008BE8 AC5D41AE
+20008BF8 FA07E628
+20008C08 56B2A924
+20008C18 86B2785A
+20008C28 C83184AA
+20008C38 B4841AD8
+20008C48 9FA9491B
+20008C58 E2DEBD5E
+20008C68 FBC58C1F
+20008C78 AD9F2B99
+20008C88 D0E8DFDC
+20008C98 C9F3EE9D
+20008CA8 4E6BF252
+20008CB8 67AF655E
+20008CC8 03C3A05A
+20008CD8 7EB4541F
+20008CE8 559907DC
+20008CF8 B66DDE17
+20008D08 31F5C2D8
+20008D18 4C82369D
+20008D28 1AD8911B
+20008D38 28EEF399
+20008D48 666D0F69
+20008D58 AF76EF56
+20008D68 7F763E28
+20008D78 545B6DEB
+20008D88 0201CA6D
+20008D98 3037A8EF
+20008DA8 292C99AE
+20008DB8 1B1AFB2C
+20008DC8 AEB48561
+20008DD8 B7AFB420
+20008DE8 4D405CAA
+20008DF8 642BB130
+42008E04 06890069
+405A0010 00100001
+20008E08 525AC056
+20008E18 606CA2D4
+20008E28 4B41F117
+20008E38 79779395
+20008E48 1D1B5691
+20008E58 040067D0
+20008E68 9A834A5E
+20008E78 36360552
+20008E88 83987B1F
+20008E98 37F46F65
+20008EA8 61AEC8E3
+20008EB8 78B5F9A2
+20008EC8 4A839B20
+20008ED8 5398AA61
+20008EE8 2EEF5E24
+20008EF8 05C20DE7
+20008F08 2F2D3413
+20008F18 1CD93CA6
+20008F28 9B412069
+20008F38 825A1128
+20008F48 51DE1438
+20008F58 48C52579
+20008F68 35B2D13C
+20008F78 63E876BA
+20008F88 7AF347FB
+20008F98 40EF6FB8
+20008FA8 59F45EF9
+20008FB8 72D90D3A
+20008FC8 6BC23C7B
+20008FD8 2483AABC
+20008FE8 3D989BFD
+20008FF8 16B5C83E
+20009008 8836E5B0
+20009018 912DD4F1
+20009028 412D058F
+20009038 0FAEF97F
+20009048 583634CE
+20009058 731B670D
+20009068 6A00564C
+20009078 F85308DD
+20009088 E148399C
+20009098 CA656A5F
+200090A8 9C3FCDD9
+200090B8 D37E5B1E
+200090C8 8524FC98
+200090D8 B7129E1A
+200090E8 AE09AF5B
+200090F8 65843064
+20009108 57B252E6
+20009118 7C9F0125
+20009128 4EA963A7
+20009138 01E8F560
+20009148 2AC5A6A3
+20009158 AD5DBA6C
+20009168 64465A53
+20009178 4F6B0990
+20009188 B4468B2D
+20009198 567038D1
+200091A8 002A9F57
+200091B8 321CFDD5
+200091C8 1931AE16
+200091D8 2B07CC94
+200091E8 18F3C421
+200091F8 AC9FD05B
+20009208 DD385701
+20009218 C4236640
+20009228 EF0E3583
+20009238 B9549205
+20009248 A04FA344
+20009258 8B62F087
+20009268 15E1DD09
+20009278 9279C1C6
+20009288 97EEE8B9
+20009298 8EF5D9F8
+200092A8 A5D88A3B
+200092B8 F3822DBD
+200092C8 BCC3BB7A
+200092D8 D8AF7E7E
+200092E8 5F3762B1
+200092F8 962C828E
+20009308 D96D1449
+20009318 462C53F0
+20009328 8F37B3CF
+20009338 BD01D14D
+20009348 EB5B76CB
+20009358 A41AE00C
+20009368 C0762508
+20009378 F240478A
+20009388 5EF50886
+20009398 EA991CFC
+420093A4 0C2900C3
+40330010 00100001
+200093A8 660AD892
+200093B8 543CBA10
+200093C8 4D278B51
+200093D8 02661D96
+200093E8 294B4E55
+200093F8 7ED383E4
+20009408 30507F14
+20009418 B7C863DB
+20009428 AED3529A
+20009438 67C8B2A5
+20009448 4CE5E166
+20009458 03A477A1
+20009468 1ABF46E0
+20009478 31921523
+20009488 B60A09EC
+20009498 1B7D2CD7
+200094A8 55FED027
+200094B8 28892462
+200094C8 74BF777C
+200094D8 5F9224BF
+200094E8 468915FE
+200094F8 10D3B278
+20009508 09C88339
+20009518 22E5D0FA
+20009528 3BFEE1BB
+20009538 A57DCC35
+20009548 BC66FD74
+20009558 FE35729B
+20009568 B174E45C
+20009578 834286DE
+20009588 A86FD51D
+20009598 CC031019
+200095A8 9A59B79F
+200095B8 E72E43DA
+200095C8 078E8F26
+200095D8 801693E9
+200095E8 990DA2A8
+200095F8 490D73D6
+20009608 2D61B6D2
+20009618 63E24A22
+20009628 50164297
+20009638 347A8793
+20009648 1F57D450
+20009658 1E95BE67
+20009668 62202015
+20009678 51D428A0
+20009688 35B8EDA4
+20009698 7B3B1154
+200096A8 2CA3DCE5
+200096B8 7AF97B63
+200096C8 064CE511
+```
+
+---
+
+### Alicia's Pendant
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A00097A4 00000010
+01B1001C 04F62656
+0000001B 00010000
+```
+
+---
+
+### Astra
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A00097B4 00000010
+05680057 50495EC7
+00000056 00010000
+```
+
+---
+
+### Bard's Harp
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A00097C4 00000010
+05C8005D 14A656AF
+0000005C 00010000
+```
+
+---
+
+### Bathing Raiment
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A00097D4 00000010
+07480075 69847336
+00000074 00010000
+```
+
+---
+
+### Bathing Suit (oliver)
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A00097E4 00000010
+06480065 E6E6E461
+00000064 00010000
+```
+
+---
+
+### Bathing Suit (esther)
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A00097F4 00000010
+06880069 F4534B8F
+00000068 00010000
+```
+
+---
+
+### Bathing Suit (swaine)
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009804 00000010
+06C8006D 4CEF2CEA
+0000006C 00010000
+```
+
+---
+
+### Bathing Suit (drippy)
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009814 00000010
+07080071 D1381453
+00000070 00010000
+```
+
+---
+
+### Blossom Of The Bard
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009824 00000010
+02310024 B4174E9E
+00000023 00010000
+```
+
+---
+
+### Brand-new Booster
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009834 00000010
+03810039 F02887AF
+00000038 00010000
+```
+
+---
+
+### Broken Booster
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009844 00000010
+03710038 202856D1
+00000037 00010000
+```
+
+---
+
+### Bronze Ticket
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009854 00000010
+00D1000E 023DE4BD
+0000000D 00010000
+```
+
+---
+
+### Cad's Cannon
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009864 00000010
+06080061 B501008B
+00000060 00010000
+```
+
+---
+
+### Cad's Clasp
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009874 00000010
+02610027 609AE352
+00000026 00010000
+```
+
+---
+
+### Carved Holy Wood
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009884 00000010
+0191001A 7CCEC496
+00000019 00010000
+```
+
+---
+
+### Cat's Whiskers
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009894 00000010
+03C1003D 944442AB
+0000003C 00010000
+```
+
+---
+
+### Cauldron
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A00098A4 00000010
+00610007 B651F0C7
+00000006 00010000
+```
+
+---
+
+### Cherub's Wing
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A00098B4 00000010
+02110022 2A946310
+00000021 00010000
+```
+
+---
+
+### Cold Compress
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A00098C4 00000010
+03B1003C DB05D46C
+0000003B 00010000
+```
+
+---
+
+### Dinoceros Ticket
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A00098D4 00000010
+04610047 C87211B5
+00000046 00040000
+```
+
+---
+
+### Draggle Ticket
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A00098E4 00000010
+04A1004B AC1ED4B1
+0000004A 00040000
+```
+
+---
+
+### Dragon Horn
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A00098F4 00000010
+01110012 4F3ACC23
+00000011 00010000
+```
+
+---
+
+### Drongo Ticket
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009904 00000010
+04C1004D 329DF93F
+0000004C 00040000
+```
+
+---
+
+### Esther's Clothes
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009914 00000010
+06780068 FC8BD8DC
+00000067 00010000
+```
+
+---
+
+### Fairy Suit
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009924 00000010
+06F80070 D9E08700
+0000006F 00010000
+```
+
+---
+
+### Feel-good Fungus
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009934 00000010
+03610037 39336790
+00000036 00010000
+```
+
+---
+
+### Flower Of Faith
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009944 00000010
+01D1001E 57E39755
+0000001D 00010000
+```
+
+---
+
+### Flower Of Hope
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009954 00000010
+01E1001F 18A20192
+0000001E 00010000
+```
+
+---
+
+### Flower Of Youth
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009964 00000010
+01C1001D 4EF8A614
+0000001C 00010000
+```
+
+---
+
+### Flutterby Tickets
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009974 00000010
+04F10050 D0AB4AC3
+0000004F 00040000
+```
+
+---
+
+### Furry Suit
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009984 00000010
+07280073 E30E76D1
+00000072 00010000
+```
+
+---
+
+### Giant Cheese Wedge
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009994 00000010
+00710008 AF4AC186
+00000007 00010000
+```
+
+---
+
+### Golden Ticket
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A00099A4 00000010
+00F10010 300B863F
+0000000F 00010000
+```
+
+---
+
+### Griff Tickets
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009794 00000010
+07610077 C9B07B82
+00000076 00010000
+```
+
+---
+
+### Gyro-grappler
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A00099B4 00000010
+02510026 7981D213
+00000025 00010000
+```
+
+---
+
+### Hamelin Armor (standard)
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A00099C4 00000010
+06580066 E7248E56
+00000065 00010000
+```
+
+---
+
+### Hamelin Armor (female)
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A00099D4 00000010
+0698006A F59121B8
+00000069 00010000
+```
+
+---
+
+### Hamelin Armor (large)
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A00099E4 00000010
+06D8006E 4D2D46DD
+0000006D 00010000
+```
+
+---
+
+### Hamelin Armor (full Body)
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A00099F4 00000010
+07180072 D0FA7E64
+00000071 00010000
+```
+
+---
+
+### Heart Of The Muse
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009A04 00000010
+02210023 338F5251
+00000022 00010000
+```
+
+---
+
+### Heart-winning Harp
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009A14 00000010
+0598005A 5BE7C068
+00000059 00010000
+```
+
+---
+
+### Herald's Harp
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009A24 00000010
+05A8005B 42FCF129
+0000005A 00010000
+```
+
+---
+
+### Highwayman's Handgun
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009A34 00000010
+05F80060 FA40964C
+0000005F 00010000
+```
+
+---
+
+### Hog's Cog
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009A44 00000010
+02410025 AD0C7FDF
+00000024 00010000
+```
+
+---
+
+### Holy Wood
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009A54 00000010
+01810019 ACCE15E8
+00000018 00010000
+```
+
+---
+
+### Hometown Flower
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009A64 00000010
+03A1003B C21EE52D
+0000003A 00010000
+```
+
+---
+
+### Hurly Ticket
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009A74 00000010
+04D1004E E29D2841
+0000004D 00010000
+```
+
+---
+
+### Idler Ticket
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009A84 00000010
+04710048 87338772
+00000047 00010000
+```
+
+---
+
+### Imperial Scepter
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009A94 00000010
+05580056 55A1CC77
+00000055 00010000
+```
+
+---
+
+### Letter Of Passage
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009AA4 00000010
+0091000A 665121B9
+00000009 00010000
+```
+
+---
+
+### Locket
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009AB4 00000010
+00110002 4CBE184D
+00000001 00010000
+```
+
+---
+
+### Lover's Lunch Basket
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009AC4 00000010
+03010031 C3DC8F1A
+00000030 00010000
+```
+
+---
+
+### Lumberwood Ticket
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009AD4 00000010
+04410045 FA447337
+00000044 00040000
+```
+
+---
+
+### Magic Wand
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009AE4 00000010
+05280053 7B640D04
+00000052 00010000
+```
+
+---
+
+### Mandragorer Ticket
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009AF4 00000010
+0491004A B505E5F0
+00000049 00040000
+```
+
+---
+
+### Map Of The Stones
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009B04 00000010
+01210013 5621FD62
+00000012 00010000
+```
+
+---
+
+### Masterthief's Magnum
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009B14 00000010
+06180062 AC1A31CA
+00000061 00010000
+```
+
+---
+
+### Mirror Of Truth
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009B24 00000010
+02810029 55A5290C
+00000028 00010000
+```
+
+---
+
+### Mite Ticket
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009B34 00000010
+04B1004C 2B86C87E
+0000004B 00040000
+```
+
+---
+
+### Moon Stone
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009B44 00000010
+01610017 324D3866
+00000016 00010000
+```
+
+---
+
+### Mornstar
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009B54 00000010
+05380054 627F3C45
+00000053 00010000
+```
+
+---
+
+### Mornstar (upgraded)
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009B64 00000010
+05480055 1BA384E1
+00000054 00010000
+```
+
+---
+
+### Muse's Harp
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009B74 00000010
+05B8005C 0DBD67EE
+0000005B 00010000
+```
+
+---
+
+### Name Tag
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009B84 00000010
+01F10020 1DED1717
+0000001F 00010000
+```
+
+---
+
+### Old Stick
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009B94 00000010
+05080051 49526F86
+00000050 00010000
+```
+
+---
+
+### Oliver's Clothes
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009BB4 00000010
+06280063 E8F5B5D9
+00000062 00010000
+```
+
+---
+
+### Peculiar Pot
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009BC4 00000010
+00510006 31C9EC08
+00000005 00010000
+```
+
+---
+
+### Philmobile Key
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009BD4 00000010
+02010021 01B930D3
+00000020 00010000
+```
+
+---
+
+### Pickpocket's Pistol
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009BE4 00000010
+05D8005E C876F4CE
+0000005D 00010000
+```
+
+---
+
+### Piece Of Art
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009BF4 00000010
+00A1000B 4D7C727A
+0000000A 00010000
+```
+
+---
+
+### Platinum Ticket
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009C04 00000010
+01010011 B7939AF0
+00000010 00010000
+```
+
+---
+
+### Portrait
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009C14 00000010
+00810009 7F4A10F8
+00000008 00010000
+```
+
+---
+
+### Proof Of Friendship
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009C24 00000010
+00310004 03FF8E8A
+00000003 00010000
+```
+
+---
+
+### Proof Of Strength
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009C34 00000010
+00410005 28D2DD49
+00000004 00010000
+```
+
+---
+
+### Proof Of Wits
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009C44 00000010
+00210003 1AE4BFCB
+00000002 00010000
+```
+
+---
+
+### Rainbow Leaf
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009C54 00000010
+03410035 A7B04A1E
+00000034 00030000
+```
+
+---
+
+### Red Earring
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009C64 00000010
+02F10030 E8F1DCD9
+0000002F 00010000
+```
+
+---
+
+### Regal Attire
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009C74 00000010
+07380074 615CE065
+00000073 00010000
+```
+
+---
+
+### Relixx Ticket
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009C84 00000010
+04510046 D16920F4
+00000045 00040000
+```
+
+---
+
+### Riddle Rivet
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009C94 00000010
+02710028 4BB7B091
+00000027 00010000
+```
+
+---
+
+### Rip Pass
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009CA4 00000010
+00C1000D 1B26D5FC
+0000000C 00010000
+```
+
+---
+
+### Rogue's Revolver
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009CB4 00000010
+05E8005F E35BA70D
+0000005E 00010000
+```
+
+---
+
+### Sapdragon Ticket
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009CC4 00000010
+04E1004F FB861900
+0000004E 00040000
+```
+
+---
+
+### Serpent Key
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009CD4 00000010
+01310014 19606BA5
+00000013 00010000
+```
+
+---
+
+### Shabby Coat
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009CE4 00000010
+06B8006C 4437BFB9
+0000006B 00010000
+```
+
+---
+
+### Sheikh's Special Spices
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009CF4 00000010
+03310034 8C9D19DD
+00000033 00010000
+```
+
+---
+
+### Silver Ticket
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009D04 00000010
+00E1000F 2910B77E
+0000000E 00010000
+```
+
+---
+
+### Skeleton Key
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009D14 00000010
+00B1000C 5467433B
+0000000B 00010000
+```
+
+---
+
+### Sky Tree Wand
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009D24 00000010
+05780058 0613F941
+00000057 00010000
+```
+
+---
+
+### Slapstick
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009D34 00000010
+03510036 BEAB7B5F
+00000035 00030000
+```
+
+---
+
+### Snazzy Swimsuit
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009D44 00000010
+0391003A E933B6EE
+00000039 00010000
+```
+
+---
+
+### Spicy Seeds
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009D54 00000010
+03210033 9586289C
+00000032 00030000
+```
+
+---
+
+### Spirit Of The Flame
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009D64 00000010
+02C1002D 818F00F5
+0000002C 00010000
+```
+
+---
+
+### Spirit Of The Glade
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009D74 00000010
+02A1002B 2D3A4FF9
+0000002A 00010000
+```
+
+---
+
+### Spirit Of The Snow
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009D84 00000010
+02E1002F 7AA28248
+0000002E 00010000
+```
+
+---
+
+### Spirit Of The Storm
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009D94 00000010
+02D1002E 4894E0CA
+0000002D 00010000
+```
+
+---
+
+### Spirit Of The Temple
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009DA4 00000010
+02B1002C 1F0C2D7B
+0000002B 00010000
+```
+
+---
+
+### Spirit Of The Woods
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009DB4 00000010
+0291002A 7B60E87F
+00000029 00010000
+```
+
+---
+
+### Star Stone
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009DC4 00000010
+01510016 2B560927
+00000015 00010000
+```
+
+---
+
+### Sun Stone
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009DD4 00000010
+01410015 007B5AE4
+00000014 00010000
+```
+
+---
+
+### The Clarion
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009DE4 00000010
+01A1001B 65D5F5D7
+0000001A 00010000
+```
+
+---
+
+### The Wizard's Companion
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009784 00000010
+00010001 67934B8E
+00000000 00010000
+```
+
+---
+
+### Timeworn Harp
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009DF4 00000010
+05880059 70CA93AB
+00000058 00010000
+```
+
+---
+
+### Tin-man Ticket
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009E04 00000010
+04810049 9E28B633
+00000048 00040000
+```
+
+---
+
+### Traveler's Clothes
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009E14 00000010
+06380064 EE3E7732
+00000063 00010000
+```
+
+---
+
+### Traveler's Diary (ding Dong Dell)
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009E24 00000010
+04310044 EB7508B7
+00000043 00010000
+```
+
+---
+
+### Traveler's Diary (nazcaa)
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009E34 00000010
+04210043 F26E39F6
+00000042 00010000
+```
+
+---
+
+### Traveler's Diary (old Smoky)
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009E44 00000010
+03E1003F A6722029
+0000003E 00010000
+```
+
+---
+
+### Traveler's Diary (pig Iron Plain)
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009E54 00000010
+04010041 38F10DA7
+00000040 00010000
+```
+
+---
+
+### Traveler's Diary (rolling Hills)
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009E64 00000010
+03D1003E 8D5F73EA
+0000003D 00010000
+```
+
+---
+
+### Traveler's Diary (teeheeti)
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009E74 00000010
+03F10040 BF691168
+0000003F 00010000
+```
+
+---
+
+### Traveler's Diary (winter Wonderland)
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009E84 00000010
+04110042 21EA3CE6
+00000041 00010000
+```
+
+---
+
+### Turmeric Root
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009E94 00000010
+03110032 DAC7BE5B
+00000031 00010000
+```
+
+---
+
+### Wingds Of Xanadu
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009EA4 00000010
+01710018 B5D524A9
+00000017 00010000
+```
+
+---
+
+### Winter Clothes (blue)
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009EB4 00000010
+06680067 D4D086E3
+00000066 00010000
+```
+
+---
+
+### Winter Clothes (pink)
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009EC4 00000010
+06A8006B C665290D
+0000006A 00010000
+```
+
+---
+
+### Winter Clothes (green)
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009ED4 00000010
+06E8006F 7ED94E68
+0000006E 00010000
+```
+
+---
+
+### Winter Vestments
+**Author:**   
+**Notes:** [Items\\important Items]  File: BLES01555_*\\SYS-DATA
+
+```
+A0009EE4 00000010
+07580076 5BB211B4
+00000075 00010000
+```
+
+---
+
+### Level Up
+**Author:**   
+**Notes:** [Main Characters\\oliver]  File: BLES01555_*\\SYS-DATA
+
+```
+80010004 8EFE45EC
+28000024 05F5E0FF
+```
+
+---
+
+### Max Lvl
+**Author:**   
+**Notes:** [Main Characters\\oliver]  File: BLES01555_*\\SYS-DATA
+
+```
+80010004 8EFE45EC
+08000029 00000063
+```
+
+---
+
+### Max Hp
+**Author:**   
+**Notes:** [Main Characters\\oliver]  File: BLES01555_*\\SYS-DATA
+
+```
+80010004 8EFE45EC
+1800002A 0000270F
+1800002C 0000270F
+```
+
+---
+
+### Max Magic
+**Author:**   
+**Notes:** [Main Characters\\oliver]  File: BLES01555_*\\SYS-DATA
+
+```
+80010004 8EFE45EC
+1800002E 0000270F
+18000030 0000270F
+```
+
+---
+
+### Max Attack
+**Author:**   
+**Notes:** [Main Characters\\oliver]  File: BLES01555_*\\SYS-DATA
+
+```
+80010004 8EFE45EC
+18000032 000003E7
+```
+
+---
+
+### Max Defence
+**Author:**   
+**Notes:** [Main Characters\\oliver]  File: BLES01555_*\\SYS-DATA
+
+```
+80010004 8EFE45EC
+18000034 000003E7
+```
+
+---
+
+### Max Mag Attack
+**Author:**   
+**Notes:** [Main Characters\\oliver]  File: BLES01555_*\\SYS-DATA
+
+```
+80010004 8EFE45EC
+18000036 000003E7
+```
+
+---
+
+### Max Mag Defence
+**Author:**   
+**Notes:** [Main Characters\\oliver]  File: BLES01555_*\\SYS-DATA
+
+```
+80010004 8EFE45EC
+18000038 000003E7
+```
+
+---
+
+### Max Accuracy
+**Author:**   
+**Notes:** [Main Characters\\oliver]  File: BLES01555_*\\SYS-DATA
+
+```
+80010004 8EFE45EC
+1800003A 000003E7
+```
+
+---
+
+### Max Evasion
+**Author:**   
+**Notes:** [Main Characters\\oliver]  File: BLES01555_*\\SYS-DATA
+
+```
+80010004 8EFE45EC
+1800003C 000003E7
+```
+
+---
+
+### Max Familiarity
+**Author:**   
+**Notes:** [Familiars\\acee]  File: BLES01555_*\\SYS-DATA
+
+```
+80010004 683ACCEA
+080000FE 00000005
+```
+
+---
+
+### Min Fullness
+**Author:**   
+**Notes:** [Familiars\\acee]  File: BLES01555_*\\SYS-DATA
+
+```
+80010004 683ACCEA
+180000F8 00000000
+```
+
+---

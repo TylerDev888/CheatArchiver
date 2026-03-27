@@ -1,0 +1,62 @@
+# Sword Of Etheria, The cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53768
+
+game: "Sword Of Etheria, The"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53768"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F04EA278 004EA27B"
+
+  - name: "1000 Etheria Per Pick Up"
+    author: "Codejunkies"
+    codes:
+      - "205DC600 246303E8"
+      - "205DC5F0 246303E8"
+      - "205DC5E0 246303E8"
+
+  - name: "Create Item For Lots Of Etheria"
+    author: "Codejunkies"
+    codes:
+      - "207F78D8 00000000"
+
+  - name: "Double Tension Per Chain"
+    author: "Codejunkies"
+    codes:
+      - "205DD548 4600A000"
+
+  - name: "Freeze In Game Timer"
+    author: "Codejunkies"
+    codes:
+      - "205FE020 00000000"
+
+  - name: "Infinite Health For Fiel"
+    author: "Codejunkies"
+    codes:
+      - "E0030000 10A280B0"
+      - "E0020000 10A280B2"
+      - "60A280B0 000044E6"
+      - "00010001 0000000B"
+
+  - name: "Max Health For Fiel"
+    author: "Codejunkies"
+    codes:
+      - "E0030000 10A280B0"
+      - "E0020000 10A280B2"
+      - "60A280B0 000044E6"
+      - "00010001 00000009"
+
+  - name: "Tension Does Not Decrease Over Time"
+    author: "Codejunkies"
+    codes:
+      - "205DD2C0 C601014C"
+      - "205DD2C4 C601014C"

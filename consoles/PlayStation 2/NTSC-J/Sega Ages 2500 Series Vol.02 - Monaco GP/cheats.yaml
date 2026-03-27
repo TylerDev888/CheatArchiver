@@ -1,0 +1,37 @@
+# Sega Ages 2500 Series Vol.02 - Monaco GP cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62364
+
+game: "Sega Ages 2500 Series Vol.02 - Monaco GP"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62364"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "901A1418 0C0684AE"
+
+  - name: "Enable Debug Information"
+    author: "punk7890"
+    codes:
+      - "20199398 27BDFFF4"
+      - "2019939C AFA40000"
+      - "201993A0 AFA50004"
+      - "201993A4 AFA60008"
+      - "201993A8 8FA60000"
+      - "201993AC 8FA40004"
+      - "201993B0 8FA50008"
+      - "201993B4 08042DEC"
+      - "201993B8 27BD000C"
+      - "20144328 080664E6"
+
+  - name: "Start A Gamemode To Appear In A Debug Menu"
+    author: "punk7890"
+    codes:
+      - "00145498 000000??"

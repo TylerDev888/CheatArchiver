@@ -1,0 +1,19 @@
+# WWE '12 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01439
+
+game: "WWE '12"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01439"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Add For Save.dat (required)"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "set [csum]:0"
+      - "set [csum]:add(0x1C,0x001A70A0)"
+      - "write at 0x18:[csum]"

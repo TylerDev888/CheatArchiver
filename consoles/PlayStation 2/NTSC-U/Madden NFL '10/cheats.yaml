@@ -1,0 +1,28 @@
+# Madden NFL '10 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21893
+
+game: "Madden NFL '10"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21893"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Cannot Be Tackled : Hold R1"
+    author: "nolberto82"
+    codes:
+      - "204BD4F0 27BDFF90"
+      - "20503EE4 0C14106A"
+      - "D09B0811 02310000"
+      - "204BD4F0 03E00008"
+      - "20503EE4 24020000"
+
+  - name: "Change Possession After Play : Hold L1"
+    author: "nolberto82"
+    codes:
+      - "205E86D4 10400020"
+      - "D09B0810 01310000"
+      - "205E86D4 100000D0"

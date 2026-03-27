@@ -1,0 +1,54 @@
+# Kessen II cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20275
+
+game: "Kessen II"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20275"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00112FBF"
+
+  - name: "Max Troop Strength"
+    author: "Code Master"
+    notes: "[Liu Bei Codes]"
+    codes:
+      - "006968C1 00000064"
+
+  - name: "No Troop Strength"
+    author: "Code Master"
+    notes: "[Liu Bei Codes]"
+    codes:
+      - "006968C1 00000000"
+
+  - name: "Max Supply"
+    author: "Code Master"
+    notes: "[Liu Bei Codes]"
+    codes:
+      - "006968C2 00000064"
+
+  - name: "No Supply"
+    author: "Code Master"
+    notes: "[Liu Bei Codes]"
+    codes:
+      - "006968C2 00000000"
+
+  - name: "Max Technology"
+    author: "Code Master"
+    notes: "[Liu Bei Codes]"
+    codes:
+      - "006968C3 00000064"
+
+  - name: "No Technology"
+    author: "Code Master"
+    notes: "[Liu Bei Codes]"
+    codes:
+      - "006968C3 00000000"

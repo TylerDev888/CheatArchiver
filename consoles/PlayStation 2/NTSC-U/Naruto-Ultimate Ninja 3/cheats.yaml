@@ -1,0 +1,252 @@
+# Naruto-Ultimate Ninja 3 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21727
+
+game: "Naruto-Ultimate Ninja 3"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21727"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90138D58 00832021"
+      - "200C0220 3C013F80"
+      - "200C0224 52400001"
+      - "200C022C 56400001"
+      - "200C0234 0806D863"
+      - "200C0238 00000000"
+      - "201B6184 08030088"
+
+  - name: "P1 Press Select To Skip FMV"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201246A0 8C620000"
+      - "D06A5642 0000FFFE"
+      - "201246A0 24020001"
+
+  - name: "Infinite Health P1"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0228 AC810068"
+
+  - name: "No Health P1"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0228 AC800068"
+
+  - name: "Infinite Special P1"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0240 3C0141A0"
+      - "200C0244 AE41006C"
+      - "200C0248 03E00008"
+      - "200C024C 8E040A38"
+      - "20280D00 0C030090"
+
+  - name: "No Special P1"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0240 24010000"
+      - "200C0244 AE41006C"
+      - "200C0248 03E00008"
+      - "200C024C 8E040A38"
+      - "20280D00 0C030090"
+
+  - name: "P1 Press L1+Select For Infinite Health P2 On"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D06A5642 0000FBFE"
+      - "200C0230 AC810068"
+
+  - name: "P1 Press L2+Select For Instant Kill P2"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D06A5642 0000FEFE"
+      - "200C0230 AC800068"
+
+  - name: "P1 Press R1+Select For Normal Health P2"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D06A5642 0000F7FE"
+      - "200C0230 00000000"
+
+  - name: "Infinite Special P2"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0250 3C014180"
+      - "200C0254 AE21006C"
+      - "200C0258 03E00008"
+      - "200C025C DFBF0050"
+      - "20280DA8 0C030094"
+
+  - name: "No Special P2"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0250 24010000"
+      - "200C0254 AE21006C"
+      - "200C0258 03E00008"
+      - "200C025C DFBF0050"
+      - "20280DA8 0C030094"
+
+  - name: "P1 Press R3+Up To Disable Timer"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D06A5642 0000FFEB"
+      - "202779A4 00000000"
+
+  - name: "P1 Press R3+Down To Enable Timer"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D06A5642 0000FFBB"
+      - "202779A4 AE030970"
+
+  - name: "Infinite Item Usage"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D082A660 0000FFFF"
+      - "2082A664 00000000"
+
+  - name: "Max Infinite Item Usage"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D082A660 0000FFFF"
+      - "2082A660 24030063"
+
+  - name: "Extra Items"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D082A660 0000FFFF"
+      - "1082A660 00000001"
+
+  - name: "Infinite Owned Item Usage"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2027C110 00000000"
+
+  - name: "Buying Shop Items Doesnt Decrease Ryo"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202D021C 00000000"
+
+  - name: "Buying Shop Items Increases Ryo"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202D021C 02028021"
+
+  - name: "Max Ryo"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0260 3C0505F5"
+      - "200C0264 34A5E0FF"
+      - "200C0268 03E00008"
+      - "200C026C AC450644"
+      - "202D0008 0C030098"
+
+  - name: "Unlock All Characters Mission Mode"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202781D4 24020003"
+
+  - name: "Unlock All Characters VS. Duel Mode"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20278188 24020003"
+
+  - name: "Have All Max Purchased Attack Owned Items"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2027C130 24020063"
+
+  - name: "Have All Purchased Other Owned Items"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2027C524 24020063"
+
+  - name: "Have Figures"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Naruto's House Codes]"
+    codes:
+      - "20275D58 2402FFFF"
+
+  - name: "Have Videos/Ultimate Jutsu"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Naruto's House Codes]"
+    codes:
+      - "20275FC0 2402FFFF"
+
+  - name: "Have Voices"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Naruto's House Codes]"
+    codes:
+      - "20275E08 2402FFFF"
+
+  - name: "Have Musics"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Naruto's House Codes]"
+    codes:
+      - "20275DB0 2402FFFF"
+
+  - name: "Have Sinobi Ninja Info Card"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Naruto's House Codes]"
+    codes:
+      - "20275F10 2402FFFF"
+
+  - name: "Have Jutsu Ninja Info Card"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Naruto's House Codes]"
+    codes:
+      - "20275EB8 2402FFFF"
+
+  - name: "Have Tactics Ninja Info Card"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Naruto's House Codes]"
+    codes:
+      - "20275F68 2402FFFF"
+
+  - name: "Have Client Ninja Info Card"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Naruto's House Codes]"
+    codes:
+      - "20275E60 2402FFFF"
+
+  - name: "Have Secret Techniques"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Naruto's House Codes]"
+    codes:
+      - "20276018 2402FFFF"
+
+  - name: "Have Guide Ninja"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Naruto's House Codes]"
+    codes:
+      - "2027C0DC 2402FFFF"

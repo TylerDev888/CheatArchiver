@@ -1,0 +1,43 @@
+# Rise Of The Guardians cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01760
+
+game: "Rise Of The Guardians"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01760"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Lots Of Crystals"
+    notes: "File: BLES01760-ROTG*\\SYS-DATA"
+    codes:
+      - "10000059 00000F42"
+      - "0000005B 0000003F"
+
+  - name: "Unlock Gallery"
+    notes: "File: BLES01760-ROTG*\\SYS-DATA"
+    codes:
+      - "2000000D 1FFFFFFF"
+
+  - name: "Shadow Enemies Destroyed"
+    notes: "[Game Stats]  File: BLES01760-ROTG*\\SYS-DATA"
+    codes:
+      - "20000011 3B9AC9FF"
+
+  - name: "Total Crystals Spent"
+    notes: "[Game Stats]  File: BLES01760-ROTG*\\SYS-DATA"
+    codes:
+      - "20000019 3B9AC9FF"
+
+  - name: "Total Crystals Collected"
+    notes: "[Game Stats]  File: BLES01760-ROTG*\\SYS-DATA"
+    codes:
+      - "20000015 3B9AC9FF"
+
+  - name: "Highest Combo"
+    notes: "[Game Stats]  File: BLES01760-ROTG*\\SYS-DATA"
+    codes:
+      - "2000001D 3B9AC9FF"

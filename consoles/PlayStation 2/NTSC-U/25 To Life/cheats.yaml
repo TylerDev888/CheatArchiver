@@ -1,0 +1,388 @@
+# 25 To Life cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21016
+
+game: "25 To Life"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21016"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enabler Code (Must Be On)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Master Codes]"
+    codes:
+      - "905111F8 00832021"
+
+  - name: "Disable Game Timer"
+    author: "Codejunkies"
+    codes:
+      - "2010651C 00000000"
+
+  - name: "Enable All Levels"
+    author: "Codejunkies"
+    codes:
+      - "406CEFF4 000C0001"
+      - "00000001 00000000"
+      - "206CEFEC 0000000C"
+
+  - name: "Infinite Ammo"
+    author: "MadCatz"
+    codes:
+      - "201A4628 00000000"
+
+  - name: "Infinite Health"
+    author: "MadCatz"
+    codes:
+      - "2010245C E4430000"
+
+  - name: "Can Always Change Teams [LAN]"
+    notes: "[LAN Lobby Codes]"
+    codes:
+      - "201704B4 00000000"
+
+  - name: "Can Always Ready Up [LAN]"
+    notes: "[LAN Lobby Codes]"
+    codes:
+      - "20244C08 1000005D"
+
+  - name: "All Guns Full Auto"
+    notes: "[Player Codes]"
+    codes:
+      - "201A43E4 1000001D"
+
+  - name: "Auto Shoot"
+    notes: "[Player Codes]"
+    codes:
+      - "200A0200 27BDFFF8"
+      - "200A0204 FFBF0000"
+      - "200A0208 3C08001A"
+      - "200A020C 10400004"
+      - "200A0210 00000000"
+      - "200A0214 AD003DCC"
+      - "200A0218 10000004"
+      - "200A021C 00000000"
+      - "200A0220 3C091443"
+      - "200A0224 25290007"
+      - "200A0228 AD093DCC"
+      - "200A022C DFBF0000"
+      - "200A0230 03E00008"
+      - "200A0234 27BD0008"
+      - "2014DF7C 0C028080"
+
+  - name: "Bullet Particle Color Mod"
+    author: "RENEGADE"
+    notes: "[Player Codes]"
+    codes:
+      - "201B61DC 3C014280"
+
+  - name: "Bullet Particle Mod"
+    author: "RENEGADE"
+    notes: "[Player Codes]"
+    codes:
+      - "201B6180 3C013E8C"
+
+  - name: "Grenade Throw Distance"
+    author: "RENEGADE"
+    notes: "[Player Codes]"
+    codes:
+      - "201A74F4 3C014000"
+
+  - name: "Inf Throwable's"
+    author: "RENEGADE"
+    notes: "[Player Codes]"
+    codes:
+      - "201BBA8C AC820408"
+      - "201BBA90 AC830400"
+
+  - name: "No Ear Ringing"
+    author: "RENEGADE"
+    notes: "[Player Codes]"
+    codes:
+      - "2019E6F0 1000000B"
+
+  - name: "No Flashbang Blind"
+    author: "RENEGADE"
+    notes: "[Player Codes]"
+    codes:
+      - "201A510C 3C01BF80"
+
+  - name: "No Grenade Damage"
+    notes: "[Player Codes]"
+    codes:
+      - "2019C9F8 00000000"
+      - "2019CA28 00000000"
+      - "2019CA50 00000000"
+      - "2019CA80 00000000"
+
+  - name: "Perfect Shot / No Recoil"
+    notes: "[Player Codes]"
+    codes:
+      - "201A44A0 00000000"
+
+  - name: "Player Speed Mod"
+    author: "RENEGADE"
+    notes: "[Player Codes]"
+    codes:
+      - "2021032C 3C014100"
+
+  - name: "Rapid Fire"
+    author: "RENEGADE"
+    notes: "[Player Codes]"
+    codes:
+      - "201A4680 00000000"
+
+  - name: "Rapid Fire [Autos Only]"
+    notes: "[Player Codes]"
+    codes:
+      - "201A6694 00000000"
+      - "201A2E6C 00000000"
+
+  - name: "See Through Map [Hold R2]"
+    notes: "[Player Codes]"
+    codes:
+      - "D070DBC2 0000FDFF"
+      - "2039DA80 03E00008"
+      - "D070DBC2 0000FFFF"
+      - "2039DA80 27BDFF60"
+
+  - name: "Super Jump [Hold X]"
+    notes: "[Player Codes]"
+    codes:
+      - "200A0100 3C0801C6"
+      - "200A0104 C5007DA4"
+      - "200A0108 3C093F80"
+      - "200A010C 44890800"
+      - "200A0110 46000880"
+      - "200A0114 440A1000"
+      - "200A0118 AD0A7DA4"
+      - "200A011C 03E00008"
+      - "D070DBC2 0000BFFF"
+      - "203D9BAC 08028040"
+      - "D070DBC2 0000FFFF"
+      - "203D9BAC 03E00008"
+
+  - name: "Walk Through Walls"
+    notes: "[Player Codes]"
+    codes:
+      - "204AC470 03E00008"
+      - "204AC474 00000000"
+
+  - name: "Always Low Game Time"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2010651C AC800038"
+
+  - name: "Extra Ammo"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20A9B472 A943E7C2"
+
+  - name: "Infinite Grenades"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201A7844 00000000"
+
+  - name: "Max Infinite Ammo"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201A41F8 240203E7"
+
+  - name: "Never Reload"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201A462C 00000000"
+
+  - name: "P1 Press R3+Down To Disable Buster Mode"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D070DBC2 0000FFBB"
+      - "2057C08C 00000000"
+
+  - name: "P1 Press R3+Up To Enable Buster Mode"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D070DBC2 0000FFEB"
+      - "2057C08C 00000001"
+
+  - name: "P1 Rapid Fire (All Weapons)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D070DBC2 0000F7FF"
+      - "201A45DC 00000000"
+      - "D070DBC2 0000FFFF"
+      - "201A45DC AE22042C"
+
+  - name: "Unlock All Levels"
+    author: "MadCatz"
+    codes:
+      - "20156548 24020001"
+      - "20156550 AC621F4C"
+
+  - name: "All Levels"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "406CEFF4 000C0001"
+      - "00000001 00000000"
+
+  - name: "Apartment"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "206CEFF8 00000001"
+
+  - name: "Casino"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "206CF010 00000001"
+
+  - name: "Club"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "20FE7976 37C6BB7A"
+
+  - name: "Culdesac"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "206CF000 00000001"
+
+  - name: "Downtown"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "206CEFFC 00000001"
+
+  - name: "Hacienda/Bonus-Beatdown"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "206CF020 00000001"
+
+  - name: "Mall"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "206CF01C 00000001"
+
+  - name: "Penthouse"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "206CF014 00000001"
+
+  - name: "Prison"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "206CF018 00000001"
+
+  - name: "Subway"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "206CF008 00000001"
+
+  - name: "Tijuana"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "206CF00C 00000001"
+
+  - name: "Warehouse"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "206CEFF4 00000001"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Masters]"
+    codes:
+      - "905111F8 00832021"
+
+  - name: "01-Warehouse"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "206CEFF4 00000001"
+
+  - name: "02-Apartment"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "206CEFF8 00000001"
+
+  - name: "03-Downtown"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "206CEFFC 00000001"
+
+  - name: "04-Culdesac"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "206CF000 00000001"
+
+  - name: "05-Club"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "206CF004 00000001"
+
+  - name: "06-Subway"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "206CF008 00000001"
+
+  - name: "07-Tijuana"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "206CF00C 00000001"
+
+  - name: "08-Casino"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "206CF010 00000001"
+
+  - name: "09-Penthouse"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "206CF014 00000001"
+
+  - name: "10-Prison"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "206CF018 00000001"
+
+  - name: "11-Mall"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "206CF01C 00000001"
+
+  - name: "12-Hacienda/Bonus-Beatdown"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "206CF020 00000001"

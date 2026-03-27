@@ -1,0 +1,143 @@
+# FIFA World Cup 2002 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20404
+
+game: "FIFA World Cup 2002"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20404"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02B7F90 003685DF"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 003685DF"
+
+  - name: "1St Goal Worth 3 Team A"
+    author: "InterAct"
+    codes:
+      - "D0396898 00000001"
+      - "10396898 00000003"
+
+  - name: "1St Goal Worth 3 Team B"
+    author: "InterAct"
+    codes:
+      - "D039689C 00000001"
+      - "1039689C 00000003"
+
+  - name: "All Goal's Score For Away Team"
+    author: "Code Master"
+    codes:
+      - "201859BC 24030004"
+
+  - name: "All Goal's Score For Home Team"
+    author: "Code Master"
+    codes:
+      - "201859BC 24030000"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "1039689C 000000??"
+
+  - name: "Away Team Start With Score Modifier"
+    author: "Code Master"
+    codes:
+      - "D039689C 00000000"
+      - "1039689C 000000??"
+
+  - name: "End Half: Press Select"
+    author: "Codejunkies"
+    codes:
+      - "D064E082 0000FFFE"
+      - "103971A0 0000FFFF"
+
+  - name: "Goal's Score Modifier"
+    author: "Code Master"
+    codes:
+      - "101859C8 000000??"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "10396898 000000??"
+
+  - name: "Home Team Start With Score Modifier"
+    author: "Code Master"
+    codes:
+      - "D0396898 00000000"
+      - "10396898 000000??"
+
+  - name: "Press L1+L2 For Team A Win"
+    author: "InterAct"
+    codes:
+      - "D064E082 0000FAFF"
+      - "10396898 00000014"
+      - "D064E082 0000FAFF"
+      - "1039689C 00000000"
+      - "D064E082 0000FAFF"
+      - "103971A0 0000FFFF"
+
+  - name: "Press R1+R2 For Team B Win"
+    author: "InterAct"
+    codes:
+      - "D064E082 0000F5FF"
+      - "10396898 00000000"
+      - "D064E082 0000F5FF"
+      - "1039689C 00000014"
+      - "D064E082 0000F5FF"
+      - "103971A0 0000FFFF"
+
+  - name: "Score From Anywhere On The Opponent's Half"
+    author: "nolberto82"
+    codes:
+      - "20110F44 10400002"
+      - "20110FB8 10400002"
+      - "20110EE0 1440001B"
+      - "E0040022 005A68C4"
+      - "20111990 00000000"
+      - "20110F44 00000000"
+      - "20110FB8 00000000"
+      - "20110EE0 00000000"
+
+  - name: "Team A Score 0"
+    author: "InterAct"
+    codes:
+      - "10396898 00000000"
+
+  - name: "Team A Score 20"
+    author: "InterAct"
+    codes:
+      - "10396898 00000014"
+
+  - name: "Team A Start With 3 Goals"
+    author: "InterAct"
+    codes:
+      - "D0396898 00000000"
+      - "10396898 00000003"
+
+  - name: "Team B Score 0"
+    author: "InterAct"
+    codes:
+      - "1039689C 00000000"
+
+  - name: "Team B Score 20"
+    author: "InterAct"
+    codes:
+      - "1039689C 00000014"
+
+  - name: "Team B Start With 3 Goals"
+    author: "InterAct"
+    codes:
+      - "D039689C 00000000"
+      - "1039689C 00000003"

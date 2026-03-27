@@ -1,0 +1,37 @@
+# Tokyo Road Race cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Tokyo Road Race"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001A5637"
+
+  - name: "Unlimited Time"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20119B24 00000000"
+      - "20119F90 00000000"
+
+  - name: "Best Total Time"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20119F70 00000000"
+
+  - name: "Unlock All Tracks"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20143108 00000000"
+      - "20143208 00000000"

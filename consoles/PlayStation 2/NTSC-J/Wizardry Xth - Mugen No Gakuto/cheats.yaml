@@ -1,0 +1,33 @@
+# Wizardry Xth - Mugen No Gakuto cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66300
+
+game: "Wizardry Xth - Mugen No Gakuto"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66300"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Buy Equipment Even Without Money"
+    author: "luc-ita"
+    codes:
+      - "201ADF04 1000000F"
+      - "201AE624 24060000"
+
+  - name: "Level Up Even Without EXP"
+    author: "luc-ita"
+    codes:
+      - "2019F8E8 00000000"
+
+  - name: "Level Up For Maximum HP"
+    author: "luc-ita"
+    codes:
+      - "201E9A10 00000000"
+
+  - name: "Rest Even Without Money"
+    author: "luc-ita"
+    codes:
+      - "2019F7F8 24020002"

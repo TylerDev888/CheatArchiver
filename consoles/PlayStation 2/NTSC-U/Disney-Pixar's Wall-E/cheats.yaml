@@ -1,0 +1,24 @@
+# Disney-Pixar's Wall-E cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS 21736
+
+game: "Disney-Pixar's Wall-E"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS 21736"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "903DFA70 0C0F7E44"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "902DC7B0 0C0FCE8E"

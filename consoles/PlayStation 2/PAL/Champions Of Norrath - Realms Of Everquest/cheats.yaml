@@ -1,0 +1,45 @@
+# Champions Of Norrath - Realms Of Everquest cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52325
+
+game: "Champions Of Norrath - Realms Of Everquest"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52325"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01001E8 001001EB"
+      - "202E3140 00000000"
+
+  - name: "AR Below 3.14 Fix"
+    author: "Codejunkies"
+    codes:
+      - "202F05C8 3C03200F"
+      - "202F05D0 8C65FFF8"
+      - "202F05D4 24040079"
+      - "202F05D8 24030074"
+      - "202F05DC 0000000C"
+
+  - name: "Disable AI"
+    author: "Codejunkies"
+    notes: "[Go To The Option Menu In Game Then Press Circle To Access The Debug Menu Which Features Level Select And Invincibility]"
+    codes:
+      - "2010BCAC 24020001"
+
+  - name: "Quick Level Up"
+    author: "Codejunkies"
+    notes: "[Go To The Option Menu In Game Then Press Circle To Access The Debug Menu Which Features Level Select And Invincibility]"
+    codes:
+      - "201C424C 24820001"
+
+  - name: "Super Main Menu"
+    author: "Codejunkies"
+    codes:
+      - "101825BC 000026F0"

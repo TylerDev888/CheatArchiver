@@ -1,0 +1,381 @@
+# Death By Degrees cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-53053
+
+game: "Death By Degrees"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-53053"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "1Hitkill"
+    author: "luc-ita"
+    codes:
+      - "2015DBD0 00000000"
+
+  - name: "1Hitkill Sniper Mode"
+    author: "luc-ita"
+    codes:
+      - "2024DB40 00000000"
+      - "2024DB4C 24067FFF"
+
+  - name: "If Oxygen Runs Out Life Doesn't Drop"
+    author: "luc-ita"
+    codes:
+      - "2030E464 1000001A"
+
+  - name: "Invulnerable"
+    author: "luc-ita"
+    codes:
+      - "20148744 00000000"
+      - "20148750 00000000"
+      - "201362BC 1000003A"
+
+  - name: "Invulnerable Sniper Mode"
+    author: "luc-ita"
+    codes:
+      - "2024D49C 1000005C"
+
+  - name: "Kill An Enemy To Rise To The Maximum Level"
+    author: "luc-ita"
+    codes:
+      - "20142E78 00000000"
+
+  - name: "Maximum Zoom Out Increased"
+    author: "luc-ita"
+    codes:
+      - "D0F6DAD4 00000C01"
+      - "20F6DAD4 3F800000"
+
+  - name: "Nodamage Alan Sniper Mode"
+    author: "luc-ita"
+    codes:
+      - "2024DB68 00000000"
+
+  - name: "Shoot Even Without Ammo Sniper Mode"
+    author: "luc-ita"
+    codes:
+      - "202546D4 10000004"
+      - "2025281C 00000000"
+
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0131128 0013112B"
+
+  - name: "Infinite Air"
+    author: "Codejunkies"
+    notes: "[Story Codes]"
+    codes:
+      - "20EDA1F0 00000B40"
+
+  - name: "Infinite Focus"
+    author: "Codejunkies"
+    notes: "[Story Codes]"
+    codes:
+      - "20EDA1E8 00000B40"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Story Codes]"
+    codes:
+      - "20EDA1E0 00000F00"
+
+  - name: "Infinite Skill Points"
+    author: "Codejunkies"
+    notes: "[Story Codes]"
+    codes:
+      - "20EDA200 0000270F"
+
+  - name: "Max Air"
+    author: "Codejunkies"
+    notes: "[Story Codes]"
+    codes:
+      - "20EDA1EC 00000B40"
+
+  - name: "Max Combo"
+    author: "Codejunkies"
+    notes: "[Story Codes]"
+    codes:
+      - "20EDA208 0000270F"
+
+  - name: "Max Focus"
+    author: "Codejunkies"
+    notes: "[Story Codes]"
+    codes:
+      - "20EDA1E4 00000B40"
+
+  - name: "Max Health"
+    author: "Codejunkies"
+    notes: "[Story Codes]"
+    codes:
+      - "20EDA1DC 00000F00"
+
+  - name: "Quick Level Up"
+    author: "Codejunkies"
+    notes: "[Story Codes]"
+    codes:
+      - "20EDA1FC 0000270F"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "901DF54C 0C045CE0"
+      - "200C2034 03E00008"
+      - "200C2038 3C024120"
+      - "2012E16C 0C030800"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2000 8C610000"
+      - "200C2004 AC610004"
+
+  - name: "Focus"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2008 8C610008"
+      - "200C200C AC61000C"
+
+  - name: "Air"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2010 8C610010"
+      - "200C2014 AC610014"
+
+  - name: "Time"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "203EE624 46001046"
+      - "203EE8E4 46001046"
+
+  - name: "Partners Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "202548E4 00540821"
+      - "202548E8 C420095C"
+      - "2025490C 24020064"
+      - "20254910 AC22095C"
+
+  - name: "Ammo"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20252870 00000000"
+
+  - name: "Battery Power"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20288944 E60121C4"
+
+  - name: "One Hit Kill"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "2015DBB4 8E2200B4"
+
+  - name: "All Items"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "200C2040 24010063"
+      - "200C2044 A0410000"
+      - "200C2048 08092FFA"
+      - "200C204C 00011020"
+      - "2024BF8C 00000000"
+      - "2024BF88 08030810"
+
+  - name: "All Skills"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "200C2050 00851821"
+      - "200C2054 24150001"
+      - "200C2058 03E00008"
+      - "200C205C A0754CC4"
+      - "20391FCC 00000000"
+      - "20391FC8 0C030814"
+
+  - name: "All Fingerprints"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "2024BFA8 2002FFFF"
+      - "2024BFAC A0620000"
+
+  - name: "Level"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "200C2018 2401270F"
+      - "200C201C AC610020"
+
+  - name: "Skill Points"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "200C2020 3C01000F"
+      - "200C2024 2421423F"
+      - "200C2028 AC610024"
+
+  - name: "All Menu Items"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "202369F8 24030001"
+      - "20236A00 AE230000"
+
+  - name: "Max Weapon/Melee Slots"
+    author: "Xploder"
+    notes: "[View Weapons For]"
+    codes:
+      - "20346EEC 24050008"
+      - "20346EF4 A4654BD0"
+
+  - name: "Infinite Weapons"
+    author: "Xploder"
+    notes: "[View Weapons For]"
+    codes:
+      - "2034669C 24010002"
+      - "203466A0 A0414BDA"
+      - "203466A4 03E00008"
+      - "203466A8 00011020"
+
+  - name: "Enabler"
+    author: "Xploder"
+    notes: "[Have Weapons/Melee]"
+    codes:
+      - "200C2100 00060001"
+      - "200C2104 00080002"
+      - "200C2108 00020004"
+      - "200C210C 00050005"
+      - "200C2110 000B0006"
+      - "200C2114 000C0007"
+      - "200C2118 000D0009"
+      - "200C211C 000E000A"
+      - "200C2120 24674BD0"
+      - "200C2124 3C08000C"
+      - "200C2220 080D1BB9"
+      - "200C2224 0000382D"
+      - "20346EDC 08030848"
+
+  - name: "9Mm Handgun"
+    author: "Xploder"
+    notes: "[Have Weapon in Slot 1]"
+    codes:
+      - "200C212C ACE00004"
+
+  - name: "9Mm 3Rb Handgun"
+    author: "Xploder"
+    notes: "[Have Weapon in Slot 1]"
+    codes:
+      - "200C2128 8D012100"
+      - "200C212C ACE10004"
+
+  - name: ".44Mm Magnum"
+    author: "Xploder"
+    notes: "[Have Weapon in Slot 1]"
+    codes:
+      - "200C2128 8D012104"
+      - "200C212C ACE10004"
+
+  - name: "9Mm Sub Machinegun"
+    author: "Xploder"
+    notes: "[Have Weapon in Slot 1]"
+    codes:
+      - "200C2128 8D012108"
+      - "200C212C ACE10004"
+
+  - name: "5.56Mm Assault Rifle"
+    author: "Xploder"
+    notes: "[Have Weapon in Slot 1]"
+    codes:
+      - "200C2128 8D01210C"
+      - "200C212C ACE10004"
+
+  - name: "12 Gauge Shotgun"
+    author: "Xploder"
+    notes: "[Have Weapon in Slot 1]"
+    codes:
+      - "200C2128 8D012110"
+      - "200C212C ACE10004"
+
+  - name: "40Mm Grenade Launcher"
+    author: "Xploder"
+    notes: "[Have Weapon in Slot 1]"
+    codes:
+      - "200C2128 8D012114"
+      - "200C212C ACE10004"
+
+  - name: "Hand Grenade"
+    author: "Xploder"
+    notes: "[Have Weapon in Slot 1]"
+    codes:
+      - "200C2128 8D012118"
+      - "200C212C ACE10004"
+
+  - name: "Stun Grenade"
+    author: "Xploder"
+    notes: "[Have Weapon in Slot 1]"
+    codes:
+      - "200C2128 8D01211C"
+      - "200C212C ACE10004"
+
+  - name: "Katana"
+    author: "Xploder"
+    notes: "[Have Melee Weapon in Slot 1]"
+    codes:
+      - "200C216C ACE00048"
+
+  - name: "Dotanuki"
+    author: "Xploder"
+    notes: "[Have Melee Weapon in Slot 1]"
+    codes:
+      - "200C2168 8D012100"
+      - "200C216C ACE10048"
+
+  - name: "Ripper Blade"
+    author: "Xploder"
+    notes: "[Have Melee Weapon in Slot 1]"
+    codes:
+      - "200C2168 8D012104"
+      - "200C216C ACE10048"
+
+  - name: "Tonfa"
+    author: "Xploder"
+    notes: "[Have Melee Weapon in Slot 1]"
+    codes:
+      - "200C2168 8D012108"
+      - "200C216C ACE10048"
+
+  - name: "Throwing Knife"
+    author: "Xploder"
+    notes: "[Have Melee Weapon in Slot 1]"
+    codes:
+      - "200C2168 8D012110"
+      - "200C216C ACE10048"
+
+  - name: "Needle Knife"
+    author: "Xploder"
+    notes: "[Have Melee Weapon in Slot 1]"
+    codes:
+      - "200C2168 8D012114"
+      - "200C216C ACE10048"
+
+  - name: "Poison Ampule"
+    author: "Xploder"
+    notes: "[Have Melee Weapon in Slot 1]"
+    codes:
+      - "200C2168 8D012118"
+      - "200C216C ACE10048"

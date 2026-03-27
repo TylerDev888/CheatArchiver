@@ -1,0 +1,272 @@
+# Defender cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20191
+
+game: "Defender"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20191"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F02398D4 002398D7"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 002398D7"
+
+  - name: "Asteroid Belt-Stage 1"
+    author: "Code Master"
+    notes: "[Access Mission Codes]"
+    codes:
+      - "20565380 00000001"
+
+  - name: "Earth-Stage 1 & 2"
+    author: "Code Master"
+    notes: "[Access Mission Codes]"
+    codes:
+      - "20565388 00000003"
+
+  - name: "Europa-Stage 1 & 2"
+    author: "Code Master"
+    notes: "[Access Mission Codes]"
+    codes:
+      - "20565374 00000003"
+
+  - name: "Mars-Stage 1-4"
+    author: "Code Master"
+    notes: "[Access Mission Codes]"
+    codes:
+      - "2056537C 0000000F"
+
+  - name: "Moon-Stage 1-3"
+    author: "Code Master"
+    notes: "[Access Mission Codes]"
+    codes:
+      - "20565384 00000007"
+
+  - name: "Phobos-Stage 1 & 2"
+    author: "Code Master"
+    notes: "[Access Mission Codes]"
+    codes:
+      - "20565378 00000003"
+
+  - name: "Prometheus-Stage 1 & 2"
+    author: "Code Master"
+    notes: "[Access Mission Codes]"
+    codes:
+      - "20565368 00000003"
+
+  - name: "Rhea-Stage 1"
+    author: "Code Master"
+    notes: "[Access Mission Codes]"
+    codes:
+      - "2056536C 00000001"
+
+  - name: "Titan-Stage 1 & 2"
+    author: "Code Master"
+    notes: "[Access Mission Codes]"
+    codes:
+      - "20565370 00000003"
+
+  - name: "Triton-Stage 1 & 2"
+    author: "Code Master"
+    notes: "[Access Mission Codes]"
+    codes:
+      - "20565364 00000003"
+
+  - name: "Max Credits"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "205653C8 05F5E0FF"
+
+  - name: "Never Have Any Credits"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "E0020000 305653C8"
+      - "E0010000 305653CA"
+      - "205653C8 00000000"
+
+  - name: "Never Have More Than 1 Credit"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "E0020001 305653C8"
+      - "E0010000 305653CA"
+      - "205653C8 00000001"
+
+  - name: "Never Have More Than 2 Credits"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "E0020002 305653C8"
+      - "E0010000 305653CA"
+      - "205653C8 00000002"
+
+  - name: "Never Have More Than 3 Credits"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "E0020003 305653C8"
+      - "E0010000 305653CA"
+      - "205653C8 00000003"
+
+  - name: "Weapon 1"
+    author: "Code Master"
+    notes: "[Defender Weapon Modifier Codes]"
+    codes:
+      - "204C644C ????????"
+
+  - name: "Weapon 2"
+    author: "Code Master"
+    notes: "[Defender Weapon Modifier Codes]"
+    codes:
+      - "204C6450 ????????"
+
+  - name: "Weapon 3"
+    author: "Code Master"
+    notes: "[Defender Weapon Modifier Codes]"
+    codes:
+      - "204C6454 ????????"
+
+  - name: "Weapon 4"
+    author: "Code Master"
+    notes: "[Defender Weapon Modifier Codes]"
+    codes:
+      - "204C6458 ????????"
+
+  - name: "Weapon 5"
+    author: "Code Master"
+    notes: "[Defender Weapon Modifier Codes]"
+    codes:
+      - "204C645C ????????"
+
+  - name: "Infinite Ammo"
+    author: "Code Master"
+    codes:
+      - "201DFB54 00000000"
+      - "201E02BC 00000000"
+      - "201E02C8 00000000"
+
+  - name: "Infinite Credits"
+    author: "Code Master"
+    codes:
+      - "105653C8 0000FFFF"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    codes:
+      - "20186DB4 8E01020C"
+      - "20186DB8 AE010208"
+
+  - name: "Infinite Lives"
+    author: "Code Master"
+    codes:
+      - "105653C4 00000009"
+
+  - name: "Never Have Any Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "105653C4 00000000"
+
+  - name: "Never Have More Than 1 Life"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E0010001 305653C4"
+      - "105653C4 00000001"
+
+  - name: "Never Have More Than 2 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E0010002 305653C4"
+      - "105653C4 00000002"
+
+  - name: "Never Have More Than 3 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E0010003 305653C4"
+      - "105653C4 00000003"
+
+  - name: "Max Lives"
+    author: "InterAct"
+    codes:
+      - "105653C4 00000006"
+
+  - name: "Max Colonists Rescued"
+    author: "Code Master"
+    notes: "[Mission Completion Screen Codes]"
+    codes:
+      - "215E8BF8 000003E7"
+
+  - name: "Max Kill Bonus"
+    author: "Code Master"
+    notes: "[Mission Completion Screen Codes]"
+    codes:
+      - "215E8BE4 3B9AC9FF"
+
+  - name: "Max Total"
+    author: "Code Master"
+    notes: "[Mission Completion Screen Codes]"
+    codes:
+      - "215E8BE0 3B9AC9FF"
+
+  - name: "No Colonists Killed"
+    author: "Code Master"
+    notes: "[Mission Completion Screen Codes]"
+    codes:
+      - "215E8C10 00000000"
+
+  - name: "No Colonists Mutated"
+    author: "Code Master"
+    notes: "[Mission Completion Screen Codes]"
+    codes:
+      - "215E8C04 00000000"
+
+  - name: "Maximum Number Of Colonists Are Saved"
+    author: "Codejunkies"
+    notes: "[Statistic Codes]"
+    codes:
+      - "115E8BF8 0000270F"
+
+  - name: "No Colonists Are Killed"
+    author: "Codejunkies"
+    notes: "[Statistic Codes]"
+    codes:
+      - "115E8C10 00000000"
+
+  - name: "No Mutations"
+    author: "Codejunkies"
+    notes: "[Statistic Codes]"
+    codes:
+      - "115E8C04 00000000"
+
+  - name: "Unlock All Ships"
+    author: "Code Master"
+    codes:
+      - "20565360 000000FF"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 002398D7"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "902398D4 0C098105"

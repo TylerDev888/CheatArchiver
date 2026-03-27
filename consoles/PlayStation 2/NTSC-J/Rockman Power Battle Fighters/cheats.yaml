@@ -1,0 +1,19 @@
+# Rockman Power Battle Fighters cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62491
+
+game: "Rockman Power Battle Fighters"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62491"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Hit Anywhere Both Players Arcade Mode"
+    author: "nolberto82"
+    notes: "[Rockman - The Power Battle]"
+    codes:
+      - "D022D56C 00006548"
+      - "2022D56C 24030000"

@@ -1,0 +1,22 @@
+# Catherine cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01459
+
+game: "Catherine"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01459"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Resets"
+    notes: "[No 1]  File: BLES01459-00-FIXED-\\GAME.DAT"
+    codes:
+      - "20000130 00000063"
+
+  - name: "Max Enigma Coins"
+    notes: "[No 1]  File: BLES01459-00-FIXED-\\GAME.DAT"
+    codes:
+      - "200034C4 000F423F"

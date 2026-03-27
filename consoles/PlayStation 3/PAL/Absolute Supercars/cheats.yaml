@@ -1,0 +1,21 @@
+# Absolute Supercars cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01500
+
+game: "Absolute Supercars"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01500"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Add (required)"
+    notes: "File: SYS-DATA"
+    codes:
+      - "set [csum]:0"
+      - "set [csum]:add(0x00000C,0x112703)"
+      - "set pointer:eof+1"
+      - "set [csum]:add(0x00000C,pointer)"
+      - "write at 0x000008:[csum]"

@@ -1,0 +1,25 @@
+# Real Steel (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00754
+
+game: "Real Steel (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00754"
+cheat_type: "Save Editor"
+source: "From SHAkA"
+
+cheats:
+  - name: "Max Money"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "write at 0x00000098:0x3B9AC9FF"
+
+  - name: "Update Add For Save.dat (required)"
+    notes: "File: SAVE.DAT  (set [csum]:add(0x00001C,0x0084DF))"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof+1"
+      - "set [csum]:add(0x00001C,pointer)"
+      - "write at 0x000018:[csum]"

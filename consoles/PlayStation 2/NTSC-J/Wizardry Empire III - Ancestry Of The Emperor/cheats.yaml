@@ -1,0 +1,32 @@
+# Wizardry Empire III - Ancestry Of The Emperor cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62409
+
+game: "Wizardry Empire III - Ancestry Of The Emperor"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62409"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Buy Even Without Money At The Store"
+    author: "luc-ita"
+    codes:
+      - "20111EB0 1000000B"
+
+  - name: "Level Up At Adventurer's Inn Even Without EXP"
+    author: "luc-ita"
+    codes:
+      - "20110AA8 00000000"
+
+  - name: "Level Up At Adventurer's Inn For Maximum HP"
+    author: "luc-ita"
+    codes:
+      - "20110DE8 00000000"
+
+  - name: "Rest At Adventurer's Inn Even Without Money"
+    author: "luc-ita"
+    codes:
+      - "20110674 10000012"

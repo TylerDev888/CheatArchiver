@@ -1,0 +1,37 @@
+# Spelunker Black (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00469
+
+game: "Spelunker Black (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00469"
+cheat_type: "Save Editor"
+source: "From SHAkA"
+
+cheats:
+  - name: "Life 9999"
+    notes: "File: SYSTEM.SAV"
+    codes:
+      - "write at 0x000005EE:0x270F"
+
+  - name: "Bomb 9999"
+    notes: "File: SYSTEM.SAV"
+    codes:
+      - "write at 0x000005F2:0x270F"
+
+  - name: "Capsule 9999"
+    notes: "File: SYSTEM.SAV"
+    codes:
+      - "write at 0x0000060E:0x270F"
+
+  - name: "All Keys"
+    notes: "File: SYSTEM.SAV"
+    codes:
+      - "write at 0x000005F7:0x63"
+      - "write at 0x00000607:0x63"
+      - "write at 0x000005FF:0x63"
+      - "write at 0x0000060B:0x63"
+      - "write at 0x000005FB:0x63"
+      - "write at 0x00000603:0x63"

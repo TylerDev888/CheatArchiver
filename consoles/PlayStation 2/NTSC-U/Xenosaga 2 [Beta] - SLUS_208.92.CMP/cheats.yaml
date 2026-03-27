@@ -1,0 +1,175 @@
+# Xenosaga 2 [Beta] - SLUS_208.92.CMP cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20892
+
+game: "Xenosaga 2 [Beta] - SLUS_208.92.CMP"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20892"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enabler Code(MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90122B38 0C048A76"
+
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "F01200A4 0000000E"
+
+  - name: "Player 1 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "D094F682 0000[Joker:PS2]"
+
+  - name: "Player 2 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "D094F782 0000[Joker:PS2]"
+
+  - name: "Max Money"
+    codes:
+      - "2024CD58 AC40D2FC"
+
+  - name: "Money (new Money Code)"
+    codes:
+      - "2024CE88 AC40D30C"
+
+  - name: "Money Mod"
+    codes:
+      - "2062D30C [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Inf Ep"
+    codes:
+      - "20A8BC90 4A0002FF"
+
+  - name: "Inf Item Use (might Not Work)"
+    codes:
+      - "20A9C3DC A4830000"
+
+  - name: "Max C.pts & S.pts After One Battle"
+    codes:
+      - "20A8FFD4 10400001"
+      - "20A8FFA4 10400001"
+
+  - name: "Inf C.pts S.pts"
+    codes:
+      - "20225FEC 20040000"
+      - "20225E9C 20050000"
+
+  - name: "C.pt/S.pt 99999"
+    codes:
+      - "20617F4C 0001869F"
+      - "20617F48 0001869F"
+
+  - name: "Chaos"
+    notes: "[Swimsuit Tech Skill Gain]"
+    codes:
+      - "00617F73 0000007F"
+
+  - name: "Kos- Mos"
+    notes: "[Swimsuit Tech Skill Gain]"
+    codes:
+      - "00617FB3 0000007F"
+
+  - name: "Shion"
+    notes: "[Swimsuit Tech Skill Gain]"
+    codes:
+      - "00617FF3 0000007F"
+
+  - name: "Jin"
+    notes: "[Swimsuit Tech Skill Gain]"
+    codes:
+      - "00618033 0000007F"
+
+  - name: "Ziggy"
+    notes: "[Swimsuit Tech Skill Gain]"
+    codes:
+      - "00618073 0000007F"
+
+  - name: "Momo"
+    notes: "[Swimsuit Tech Skill Gain]"
+    codes:
+      - "006180B3 0000007F"
+
+  - name: "Jr."
+    notes: "[Swimsuit Tech Skill Gain]"
+    codes:
+      - "006180F3 0000007F"
+
+  - name: "Status Guard"
+    codes:
+      - "10AC0E62 00000000"
+      - "00AC0E64 00000000"
+      - "10AC0F6A 00000000"
+      - "00AC0F6C 00000000"
+      - "10AC1072 00000000"
+      - "00AC1074 00000000"
+
+  - name: "Restores HP After Battle"
+    codes:
+      - "20A8B434 14630002"
+
+  - name: "Restores Ep After Battle"
+    codes:
+      - "20A8B44C 14630002"
+
+  - name: "HP Max After Lv Up"
+    codes:
+      - "20A902C8 14840011"
+
+  - name: "Max EXP Points Gain After Battle"
+    codes:
+      - "20A8FF1C 14630002"
+
+  - name: "Quick Level Up After One Battle"
+    codes:
+      - "20A90064 00001821"
+
+  - name: "Boost Command Avaiable During Battle"
+    codes:
+      - "20A8BACC 34060003"
+
+  - name: "Inf Boost"
+    codes:
+      - "20176D80 00000000"
+      - "2017F7F8 00000000"
+
+  - name: "Ep"
+    notes: "[Character Modifyer Codes]"
+    codes:
+      - "20A902F8 2402[Amount:2710:HEX:BIG]"
+
+  - name: "Str"
+    notes: "[Character Modifyer Codes]"
+    codes:
+      - "20A901C0 2402[Amount:2710:HEX:BIG]"
+
+  - name: "Vit"
+    notes: "[Character Modifyer Codes]"
+    codes:
+      - "20A901E8 2402[Amount:2710:HEX:BIG]"
+
+  - name: "E Alk"
+    notes: "[Character Modifyer Codes]"
+    codes:
+      - "20A90210 2402[Amount:2710:HEX:BIG]"
+
+  - name: "E Def"
+    notes: "[Character Modifyer Codes]"
+    codes:
+      - "20A90238 2402[Amount:2710:HEX:BIG]"
+
+  - name: "Dex"
+    notes: "[Character Modifyer Codes]"
+    codes:
+      - "20A90260 2402[Amount:2710:HEX:BIG]"
+
+  - name: "Eva"
+    notes: "[Character Modifyer Codes]"
+    codes:
+      - "20A90288 2402[Amount:2710:HEX:BIG]"

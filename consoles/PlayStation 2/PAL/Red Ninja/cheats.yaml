@@ -1,0 +1,39 @@
+# Red Ninja cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Red Ninja"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90102028 0C10E3CE"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "2016E190 8E211198"
+      - "2016E198 AE211194"
+
+  - name: "Ninjitsu Gauge"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "2016E1F4 E62E11A0"
+
+  - name: "All Items"
+    author: "Xploder"
+    notes: "[View Inventory For]"
+    codes:
+      - "203DDCF8 24020001"
+      - "203DDCFC AC620004"
+      - "203DE218 24100063"
+      - "203DE21C AC70000C"

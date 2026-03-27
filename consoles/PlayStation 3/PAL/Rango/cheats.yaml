@@ -1,0 +1,60 @@
+# Rango cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01164
+
+game: "Rango"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01164"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Progress.dat (required)"
+    notes: "File: PROGRESS.DAT  (set range:0xC,0x00001B)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0xC,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000004:[hash]"
+
+  - name: "Update Crc32 For Collect.dat (required)"
+    notes: "File: COLLECT.DAT  (set range:0xC,0x0007BB)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0xC,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000004:[hash]"
+
+  - name: "Update Crc32 For Options.dat (required)"
+    notes: "File: OPTIONS.DAT  (set range:0x00000C,0x00001B)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x00000C,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000004:[hash]"
+
+  - name: "Update Crc32 For Chkpts.dat (required)"
+    notes: "File: CHKPTS.DAT  (set range:0x00000C,0x001393)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x00000C,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000004:[hash]"
+
+  - name: "Update Crc32 For Achieve.dat (required)"
+    notes: "File: ACHIEVE.DAT  (set range:0x00000C,0x00019F)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x00000C,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000004:[hash]"
+
+  - name: "Update Crc32 For Upg.dat (required)"
+    notes: "File: UPG.DAT  (set range:0x00000C,0x00001C)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x00000C,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000004:[hash]"

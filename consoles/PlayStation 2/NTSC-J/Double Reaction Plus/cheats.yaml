@@ -1,0 +1,44 @@
+# Double Reaction Plus cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65703
+
+game: "Double Reaction Plus"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65703"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90111130 0C0443F4"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "4171BD38 00030001"
+      - "FFFFFFFF 00000000"
+      - "0171BD44 000000FF"
+
+  - name: "Unlock All Memories"
+    author: "punk7890"
+    codes:
+      - "4171DDD4 00150001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Unlock All Movies"
+    author: "punk7890"
+    codes:
+      - "4171DE28 00050001"
+      - "00010001 00000000"
+      - "1171DD9E 00000001"
+
+  - name: "Unlock All Omake Options & Mini Stories"
+    author: "punk7890"
+    codes:
+      - "2171DE3C 00010001"
+      - "2171DE40 00010001"

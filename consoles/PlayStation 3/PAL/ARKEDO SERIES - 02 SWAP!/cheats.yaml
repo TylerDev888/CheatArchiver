@@ -1,0 +1,22 @@
+# ARKEDO SERIES - 02 SWAP! cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00614
+
+game: "ARKEDO SERIES - 02 SWAP!"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00614"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Eary Highscore 65535(by Me)"
+    notes: "File: DATA0"
+    codes:
+      - "write at 0x0000000E:0xFFFF"
+
+  - name: "Eary Highscore 65535(new Code By Dark_nacho_xd)"
+    notes: "File: DATA0"
+    codes:
+      - "1000000E 0000FFFF"

@@ -1,0 +1,148 @@
+# Fatal Fury Battle Archives 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21723
+
+game: "Fatal Fury Battle Archives 2"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21723"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90179C50 0C05E6BC"
+
+  - name: "Player 1 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "D025EE9C 0000[Joker:PS2]"
+
+  - name: "Player 2 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "D025EF9C 0000[Joker:PS2]"
+
+  - name: "Player 1 Character Modifier"
+    author: "Lee4"
+    codes:
+      - "00A038E0 000000[CHA]"
+
+  - name: "Player 2 Character Modifier"
+    author: "Lee4"
+    codes:
+      - "00A039E0 000000[CHA]"
+
+  - name: "Japanese."
+    author: "Lee4"
+    notes: "File: REAL BOUT 1"
+    codes:
+      - "D03BFAB0 00000000"
+      - "00A114E6 00000000"
+
+  - name: "English."
+    author: "Lee4"
+    notes: "File: REAL BOUT 1"
+    codes:
+      - "D03BFAB0 00000000"
+      - "00A114E6 00000001"
+
+  - name: "Infinite HP"
+    author: "Lee4"
+    notes: "[Player 1]  File: REAL BOUT 1"
+    codes:
+      - "D03BFAB0 00000000"
+      - "00A03958 000000C0"
+
+  - name: "Infinite Power"
+    author: "Lee4"
+    notes: "[Player 1]  File: REAL BOUT 1"
+    codes:
+      - "D03BFAB0 00000000"
+      - "10A0398A 00003C3C"
+
+  - name: "Player 2 No Hp.(player 1 Press Start)"
+    author: "Lee4"
+    notes: "[Player 1]  File: REAL BOUT 1"
+    codes:
+      - "E0020000 003BFAB0"
+      - "D025EE9C 0000FFF7"
+      - "00A03A58 00000000"
+
+  - name: "Player 1 No Hp.(player 2 Press Start)"
+    author: "Lee4"
+    notes: "[Player 2]  File: REAL BOUT 1"
+    codes:
+      - "E0020000 003BFAB0"
+      - "D025EF9C 0000FFF7"
+      - "00A03958 00000000"
+
+  - name: "No Power."
+    author: "Lee4"
+    notes: "[Player 2]  File: REAL BOUT 1"
+    codes:
+      - "D03BFAB0 00000000"
+      - "10A03A8A 00000000"
+
+  - name: "Japanese"
+    author: "Lee4"
+    notes: "File: REAL BOUT Special"
+    codes:
+      - "D03BFAB0 00000001"
+      - "00A114E6 00000000"
+
+  - name: "English"
+    author: "Lee4"
+    notes: "File: REAL BOUT Special"
+    codes:
+      - "D03BFAB0 00000001"
+      - "00A114E6 00000001"
+
+  - name: "Player 2 No Hp(player 1 Press Start)"
+    author: "Lee4"
+    notes: "[Player 1]  File: REAL BOUT Special"
+    codes:
+      - "E0020001 003BFAB0"
+      - "D025EE9C 0000FFF7"
+      - "00A03A5A 00000000"
+
+  - name: "No Power"
+    author: "Lee4"
+    notes: "[Player 2]  File: REAL BOUT Special"
+    codes:
+      - "D03BFAB0 00000001"
+      - "10A03A8C 00000000"
+
+  - name: "Player 1 No Hp(player 2 Press Start)"
+    author: "Lee4"
+    notes: "[Player 2]  File: REAL BOUT Special"
+    codes:
+      - "E0020001 003BFAB0"
+      - "D025EF9C 0000FFF7"
+      - "00A0395A 00000000"
+
+  - name: "Player 1 No Health(player 2 Press Start)"
+    author: "Lee4"
+    notes: "[Player 1]  File: REAL BOUT 2"
+    codes:
+      - "E0020002 003BFAB0"
+      - "D025EF9C 0000FFF7"
+      - "00A0395A 00000000"
+
+  - name: "Infinite Health"
+    author: "Lee4"
+    notes: "[Player 2]  File: REAL BOUT 2"
+    codes:
+      - "D03BFAB0 00000002"
+      - "00A03A5A 000000C0"
+
+  - name: "Player 2 No Health(player 1 Press Start"
+    author: "Lee4"
+    notes: "[Player 2]  File: REAL BOUT 2"
+    codes:
+      - "E0020002 003BFAB0"
+      - "D025EE9C 0000FFF7"
+      - "00A03A5A 00000000"

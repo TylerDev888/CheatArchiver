@@ -1,0 +1,224 @@
+# Triple Play Baseball cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20168
+
+game: "Triple Play Baseball"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20168"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9030D928 0C0C35F0"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90318458 0C0C8B7F"
+
+  - name: "Always Hit A Homerun"
+    author: "nolberto82"
+    codes:
+      - "201BE1C0 00108023"
+      - "201BE218 0010803F"
+      - "201BE1E0 0002103F"
+      - "E0030042 0038E436"
+      - "201BE1C0 3C10FFE0"
+      - "201BE218 3C102000"
+      - "201BE1E0 3C022000"
+      - "E0030022 0038E436"
+      - "201BE1C0 3C10FFE0"
+      - "201BE218 3C102000"
+      - "201BE1E0 3C022000"
+
+  - name: "Pitch Speed Equals 255 MPH"
+    author: "nolberto82"
+    codes:
+      - "201F46C8 00621821"
+      - "D038E436 00000001"
+      - "201F46C8 340300FF"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0031845B"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90318458 0C0C8B7F"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "00393728 000000??"
+
+  - name: "Home Team Hits Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "00393729 000000??"
+
+  - name: "Home Team Errors Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "0039372A 000000??"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "00393734 000000??"
+
+  - name: "Away Team Hits Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "00393735 000000??"
+
+  - name: "Away Team Errors Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "00393736 000000??"
+
+  - name: "Home Team Start With Runs Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0393728 00000000"
+      - "00393728 000000??"
+
+  - name: "Home Team Start With Hits Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0393728 00000000"
+      - "00393729 000000??"
+
+  - name: "Home Team Start With Errors Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D039372A 00000000"
+      - "0039372A 000000??"
+
+  - name: "Away Team Start With Runs Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0393734 00000000"
+      - "00393734 000000??"
+
+  - name: "Away Team Start With Hits Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0393734 00000000"
+      - "00393735 000000??"
+
+  - name: "Away Team Start With Errors Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0393736 00000000"
+      - "00393736 000000??"
+
+  - name: "Gravity Accel Sec Modifier (Default Fe000000)"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "20380128 ????????"
+
+  - name: "Infinite Strikes"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "00393B29 00000000"
+
+  - name: "1 Strike And You Are Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D0393B28 00000000"
+      - "00393B29 00000002"
+
+  - name: "2 Strikes And You Are Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D0393B28 00000000"
+      - "00393B29 00000001"
+
+  - name: "Infinite Balls"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "00393B2A 00000000"
+
+  - name: "1 Ball And You Walk"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D0393B2A 00000000"
+      - "00393B2A 00000003"
+
+  - name: "2 Balls And You Walk"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D0393B2A 00000000"
+      - "00393B2A 00000002"
+
+  - name: "3 Balls And You Walk"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D0393B2A 00000000"
+      - "00393B2A 00000001"
+
+  - name: "Infinite Outs"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "00393B2B 00000000"
+
+  - name: "1 Out And You Are Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D0393B2A 00000000"
+      - "00393B2B 00000002"
+
+  - name: "2 Outs And You Are Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D0393B2A 00000000"
+      - "00393B2B 00000001"
+
+  - name: "Always Full Count"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "00393B29 00000002"
+      - "00393B2A 00000003"
+
+  - name: "Always Full Count & 2 Outs"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "00393B29 00000002"
+      - "00393B2A 00000003"
+      - "00393B2B 00000002"

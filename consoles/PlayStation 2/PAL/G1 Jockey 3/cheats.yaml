@@ -1,0 +1,142 @@
+# G1 Jockey 3 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51357
+
+game: "G1 Jockey 3"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51357"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "2016CAC0 0C03FFC0"
+      - "200FFF38 3C010010"
+      - "200FFF3C AC30FFF0"
+      - "200FFF40 03E00008"
+      - "F0260C54 00260C57"
+
+  - name: "All Skills"
+    author: "Codejunkies"
+    codes:
+      - "205B5330 FFFFFFFF"
+
+  - name: "Disable Vsync (Quicker Game) (Press R3 To Activate; L3 To Stop)"
+    author: "Codejunkies"
+    codes:
+      - "D05B1E82 0000FFFB"
+      - "2010604C 08041821"
+      - "D05B1E82 0000FFFD"
+      - "2010604C 00000000"
+
+  - name: "Giant Racing Machine"
+    author: "Codejunkies"
+    notes: "[Horse Size Modifier]"
+    codes:
+      - "2015FD78 3C023FC0"
+
+  - name: "Poney Racing"
+    author: "Codejunkies"
+    notes: "[Horse Size Modifier]"
+    codes:
+      - "2015FD78 3C023F10"
+
+  - name: "Small Things"
+    author: "Codejunkies"
+    notes: "[Horse Size Modifier]"
+    codes:
+      - "2015FD78 3C023E00"
+
+  - name: "Horses Turn Into Unicorns"
+    author: "Codejunkies"
+    codes:
+      - "2013D8F4 00000000"
+      - "2013D8FC 24050001"
+
+  - name: "Infinite Potential"
+    author: "Codejunkies"
+    codes:
+      - "200FFF08 3C01469C"
+      - "200FFF0C AE010078"
+
+  - name: "Infinite Stamina"
+    author: "Codejunkies"
+    codes:
+      - "200FFF00 3C0144F0"
+      - "200FFF04 AE010074"
+
+  - name: "Max Acc"
+    author: "Codejunkies"
+    codes:
+      - "200FFF18 3C0143C8"
+      - "200FFF1C AE010030"
+
+  - name: "Max Career Earning"
+    author: "Codejunkies"
+    codes:
+      - "205B4D94 05F00000"
+
+  - name: "Max Experience"
+    author: "Codejunkies"
+    codes:
+      - "105B4D98 0000FFFF"
+
+  - name: "Max Rp"
+    author: "Codejunkies"
+    codes:
+      - "105B52FC 0000FFFF"
+
+  - name: "Max Season Earning"
+    author: "Codejunkies"
+    codes:
+      - "205B5280 05F00000"
+
+  - name: "Max Vit"
+    author: "Codejunkies"
+    codes:
+      - "200FFF20 3C0146C8"
+      - "200FFF24 AE010008"
+
+  - name: "Night Races"
+    author: "Codejunkies"
+    codes:
+      - "2015EE04 24020001"
+
+  - name: "Quicker Races"
+    author: "Codejunkies"
+    codes:
+      - "20628260 41400000"
+
+  - name: "Slow Enemy Ai"
+    author: "Codejunkies"
+    codes:
+      - "200FFF80 3C010010"
+      - "200FFF84 8C21FFF0"
+      - "200FFF88 10340004"
+      - "200FFF94 3C014080"
+      - "200FFF98 AE810000"
+      - "200FFFA0 92840102"
+      - "200FFFA4 03E00008"
+      - "2015C8B0 0C03FFE0"
+
+  - name: "Tons Of First Places"
+    author: "Codejunkies"
+    codes:
+      - "205B5260 0000FFFF"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00260C57"
+
+  - name: "Unlimited Riding Points"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "105B52FC 0000FFFF"

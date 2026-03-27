@@ -1,0 +1,21 @@
+# Karaoke Revolution Presents_ American Idol Encore 2 cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS30215
+
+game: "Karaoke Revolution Presents_ American Idol Encore 2"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS30215"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32big:0 For Gamesave (required)"
+    notes: "File: GAMESAVE  (set range:0x00000C,0x0E716B)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x00000C,pointer"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x000008:[hash]"

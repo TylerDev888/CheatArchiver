@@ -1,0 +1,76 @@
+# Dragonball Z - Budokai Tenkaichi 3 (NTSC) (Print Preview) cheat data
+# Console: PlayStation 2
+# Region:  Unknown
+# Serial:  No
+
+game: "Dragonball Z - Budokai Tenkaichi 3 (NTSC) (Print Preview)"
+console: "PlayStation 2"
+region: "Unknown"
+serial: "No"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Change COM Difficulty"
+    author: "ViveTheModder"
+    codes:
+      - "D17F4C38 009D95C0"
+      - "017F4C28 000000??"
+
+  - name: "Change Match Type"
+    author: "ViveTheModder"
+    codes:
+      - "D0B6C35C 00000080"
+      - "00B6C358 000000??"
+
+  - name: "Press L3 To Change Current & MAX Health For Player 1 (See Note)"
+    author: "ViveTheModder"
+    codes:
+      - "D03020DC 0000FFFD"
+      - "217F2B30 ????????"
+      - "217F2B34 ????????"
+
+  - name: "Press L3 To Change Current & MAX Health For Player 2 (See Note)"
+    author: "ViveTheModder"
+    codes:
+      - "D03020DC 0000FFFD"
+      - "217F3E70 ????????"
+      - "217F3E74 ????????"
+
+  - name: "Press L3 To Change Current & MAX Ki For Player 1 (See Note)"
+    author: "ViveTheModder"
+    codes:
+      - "D03020DC 0000FFFD"
+      - "217F2B3C ????????"
+      - "217F2B40 ????????"
+
+  - name: "Press L3 To Change Current & MAX Ki For Player 2 (See Note)"
+    author: "ViveTheModder"
+    codes:
+      - "D03020DC 0000FFFD"
+      - "217F3E7C ????????"
+      - "217F3E80 ????????"
+
+  - name: "Press L3 To Get MAX Blast Stocks For Player 1"
+    author: "ViveTheModder"
+    codes:
+      - "D03020DC 0000FFFD"
+      - "217F2B44 000AAE60"
+
+  - name: "Press L3 To Get MAX Blast Stocks For Player 2"
+    author: "ViveTheModder"
+    codes:
+      - "D03020DC 0000FFFD"
+      - "217F3E84 000AAE60"
+
+  - name: "Press L3 To Get MAX Power Ki For Player 1"
+    author: "ViveTheModder"
+    codes:
+      - "D03020DC 0000FFFD"
+      - "217F2B4C 00007530"
+
+  - name: "Press L3 To Get MAX Power Ki For Player 2"
+    author: "ViveTheModder"
+    codes:
+      - "D03020DC 0000FFFD"
+      - "217F3E8C 00007530"

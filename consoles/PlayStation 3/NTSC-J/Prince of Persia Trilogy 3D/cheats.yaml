@@ -1,0 +1,37 @@
+# Prince of Persia Trilogy 3D cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLAS50286
+
+game: "Prince of Persia Trilogy 3D"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLAS50286"
+cheat_type: "AP"
+source: ""
+
+cheats:
+  - name: "9999 Sand Credits - Easy Trophy"
+    notes: "[Prince Of Persia:two Thrones\\sand Credits]  File: BLUS30754DIRTT-----------------\\OPTIONS"
+    codes:
+      - "10000006 0000270F"
+
+  - name: "Default Max Health"
+    notes: "[Prince Of Persia:two Thrones\\saveslot 1]  File: BLUS30754DIRTT-----------------\\SVGAME00"
+    codes:
+      - "2000BC64 012C012C"
+
+  - name: "Ultra Long Health"
+    notes: "[Prince Of Persia:two Thrones\\saveslot 1]  File: BLUS30754DIRTT-----------------\\SVGAME00"
+    codes:
+      - "2000BC64 03E703E7"
+
+  - name: "6 Sand Slots Unlocked"
+    notes: "[Prince Of Persia:two Thrones\\saveslot 1]  File: BLUS30754DIRTT-----------------\\SVGAME00"
+    codes:
+      - "2000BC68 00060006"
+
+  - name: "6 Sand Slots"
+    notes: "[Prince Of Persia:two Thrones\\saveslot 10]  File: BLUS30754DIRTT-----------------\\SVGAME00"
+    codes:
+      - "2007DA10 00060006"

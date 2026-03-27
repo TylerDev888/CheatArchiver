@@ -1,0 +1,275 @@
+# X Squad
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-20094  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### (M) Must Be On
+**Author:** InterAct  
+**Notes:** [Master Codes]
+
+```
+F01669C0 000001FD
+```
+
+---
+
+### Enable Code (Must Be On)
+**Author:** Code Master  
+**Notes:** [Master Codes]
+
+```
+F0100008 001BBAFF
+```
+
+---
+
+### All Ammo-Ash
+**Author:** Codejunkies
+
+```
+E026FFFE 1022DFCA
+20224758 00018E8A
+2022475C 00018E8B
+20224760 00018E8C
+20224764 00018E8D
+20224768 00018E8E
+2022476C 00018E8F
+20224770 00018E90
+20224774 00018E91
+20224778 00018E92
+2022477C 00018E93
+20224780 00018E94
+20224784 00018E95
+20224788 00018E96
+2022478C 00018E97
+20224790 00018E98
+20224794 00018E99
+20224798 00018E9A
+2022479C 00018E9B
+202247A0 00018E9C
+```
+
+---
+
+### All Items
+**Author:** InterAct
+
+```
+E010FFFE 1022DFCA
+20224738 0001FE77
+2022473C 0001FE78
+20224740 0001FE78
+20224744 0001FE7A
+20224748 0001FE7B
+2022474C 0001FE7C
+20224750 0001FE7D
+20224754 0001FE7E
+```
+
+---
+
+### All Weapons
+**Author:** InterAct
+
+```
+E026FFFE 1022DFCA
+202246EC 0000CA58
+202246F0 0000CA59
+202246F4 0000CA5A
+202246F8 0000CA5B
+202246FC 0000CA5C
+20224700 0000CA5D
+20224704 0000CA5E
+20224708 0000CA5F
+2022470C 0000CA60
+20224710 0000CA61
+20224714 0000CA62
+20224718 0000CA63
+2022471C 0000CA64
+20224720 0000CA65
+20224724 0000CA66
+20224728 0000CA67
+2022472C 0000CA68
+20224730 0000CA69
+20224734 0000CA6A
+```
+
+---
+
+### Have All Items
+**Author:** Code Master
+
+```
+E008FFFE 1022DFCA
+20224738 0001FE77
+2022473C 0001FE78
+20224740 0001FE78
+20224744 0001FE7A
+20224748 0001FE7B
+2022474C 0001FE7C
+20224750 0001FE7D
+20224754 0001FE7E
+```
+
+---
+
+### Have All Weapons
+**Author:** Code Master
+
+```
+E013FFFE 1022DFCA
+202246EC 0000CA58
+202246F0 0000CA59
+202246F4 0000CA5A
+202246F8 0000CA5B
+202246FC 0000CA5C
+20224700 0000CA5D
+20224704 0000CA5E
+20224708 0000CA5F
+2022470C 0000CA60
+20224710 0000CA61
+20224714 0000CA62
+20224718 0000CA63
+2022471C 0000CA64
+20224720 0000CA65
+20224724 0000CA66
+20224728 0000CA67
+2022472C 0000CA68
+20224730 0000CA69
+20224734 0000CA6A
+```
+
+---
+
+### Infinite Health - Level 1
+**Author:** InterAct
+
+```
+11AC1AF8 0000001E
+```
+
+---
+
+### Level 1
+**Author:** Code Master  
+**Notes:** [Infinite Health Codes]
+
+```
+11AC1AF8 00000099
+```
+
+---
+
+### Level 2
+**Author:** Code Master  
+**Notes:** [Infinite Health Codes]
+
+```
+11C973C8 00000099
+```
+
+---
+
+### Level 3
+**Author:** Code Master  
+**Notes:** [Infinite Health Codes]
+
+```
+11C2CB28 00000099
+```
+
+---
+
+### Level 4
+**Author:** Code Master  
+**Notes:** [Infinite Health Codes]
+
+```
+11C65188 00000099
+```
+
+---
+
+### Level 5
+**Author:** Code Master  
+**Notes:** [Infinite Health Codes]
+
+```
+11C76508 00000099
+```
+
+---
+
+### Level 6
+**Author:** Code Master  
+**Notes:** [Infinite Health Codes]
+
+```
+11A4F128 00000099
+```
+
+---
+
+### Level 7
+**Author:** Code Master  
+**Notes:** [Infinite Health Codes]
+
+```
+1199DA78 00000099
+```
+
+---
+
+### Level 8
+**Author:** Code Master  
+**Notes:** [Infinite Health Codes]
+
+```
+119C0068 00000099
+```
+
+---
+
+### Level 9
+**Author:** Code Master  
+**Notes:** [Infinite Health Codes]
+
+```
+115B1C98 00000099
+```
+
+---
+
+### Infinite Mission Points
+**Author:** InterAct
+
+```
+10224DDC 0000270F
+```
+
+---
+
+### Infinite Pistol Ammo
+**Author:** InterAct
+
+```
+11AD03D4 0000000F
+```
+
+---
+
+### Level 1 Infinite Shield
+**Author:** InterAct  
+**Notes:** [Infinite Shield Codes]
+
+```
+11AC1AFC 0000001E
+```
+
+---

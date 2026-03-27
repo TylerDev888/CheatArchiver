@@ -1,0 +1,62 @@
+# Red Card Football cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50711
+
+game: "Red Card Football"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50711"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0000000 000001FD"
+
+  - name: "Away Forwards Are Speedy"
+    author: "Codejunkies"
+    codes:
+      - "203E2D48 41800000"
+      - "203E2A18 41800000"
+
+  - name: "Away Keeper Is Rooted To The Spot"
+    author: "Codejunkies"
+    codes:
+      - "203E3110 00000018"
+
+  - name: "Ball Moon Jump (Hold L2)"
+    author: "InterAct"
+    codes:
+      - "D03F7F42 0000FEFF"
+      - "203DE9E4 40C001CE"
+
+  - name: "Home Forwards Are Speedy"
+    author: "Codejunkies"
+    codes:
+      - "203DFD78 41800000"
+      - "203E0708 41800000"
+
+  - name: "Home Keeper Is Rooted To The Spot"
+    author: "Codejunkies"
+    codes:
+      - "203E0E00 00000018"
+
+  - name: "Player 1 - Score 99"
+    author: "InterAct"
+    codes:
+      - "D03EF5B4 00000000"
+      - "003E77D8 00000063"
+      - "D03EF5B4 00000001"
+      - "003E77EC 00000063"
+
+  - name: "Player 1 Full Boost"
+    author: "InterAct"
+    codes:
+      - "D03EF5B4 00000000"
+      - "203E78C0 42C80000"
+      - "D03EF5B4 00000001"
+      - "203E78C4 42C80000"

@@ -1,0 +1,26 @@
+# Jetpack Joyride (EUR) cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00244
+
+game: "Jetpack Joyride (EUR)"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00244"
+cheat_type: "Save Editor"
+source: "Credits: Slade"
+
+cheats:
+  - name: "9,999,999 Credits(\"The Credits cheat can be used only when the player has few coins.\")"
+    notes: "File: JETPACK.SAV"
+    codes:
+      - "20000050 0098967F"
+
+  - name: "Update Crc32 For Jetpack.sav (required)"
+    notes: "File: JETPACK.SAV  (crc32 is stored in little-endian)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x04,pointer"
+      - "set [crc]:crc32"
+      - "set [crc]:endian_swap"
+      - "write at 0x00:[crc]"

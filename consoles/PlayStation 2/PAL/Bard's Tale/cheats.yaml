@@ -1,0 +1,74 @@
+# Bard's Tale cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53154
+
+game: "Bard's Tale"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53154"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01629DC 001629DF"
+
+  - name: "9999 Adderstones"
+    author: "Codejunkies"
+    codes:
+      - "105FDA3A 0000270F"
+
+  - name: "9999 Silver"
+    author: "Codejunkies"
+    codes:
+      - "105FD98C 0000270F"
+
+  - name: "All Talents"
+    author: "Codejunkies"
+    codes:
+      - "205FDBE4 FFFFFFFF"
+
+  - name: "All Tunes"
+    author: "Codejunkies"
+    codes:
+      - "205FDBE8 FFFFFFFF"
+
+  - name: "Start With 25 Points"
+    author: "Codejunkies"
+    notes: "[Allocation Points Codes]"
+    codes:
+      - "2019BDF4 24030019"
+
+  - name: "Start With 50 Points"
+    author: "Codejunkies"
+    notes: "[Allocation Points Codes]"
+    codes:
+      - "2019BDF4 24030032"
+
+  - name: "Start With 100 Points"
+    author: "Codejunkies"
+    notes: "[Allocation Points Codes]"
+    codes:
+      - "2019BDF4 24030064"
+
+  - name: "Debug Menu (Press L3)"
+    author: "Codejunkies"
+    codes:
+      - "D063F9C2 0000FFFD"
+      - "205FDF60 00000001"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "201C4A18 E4800068"
+
+  - name: "Quick Level Up"
+    author: "Codejunkies"
+    codes:
+      - "405FD97C 00070001"
+      - "3E583E58 00000000"
+      - "105FD998 00003E58"

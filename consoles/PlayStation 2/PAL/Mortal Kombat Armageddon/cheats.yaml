@@ -1,0 +1,84 @@
+# Mortal Kombat Armageddon cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Mortal Kombat Armageddon"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90222178 0C046556"
+
+  - name: "Player 1 Infinite Health"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20664738 3F800000"
+
+  - name: "Player 1 No Health"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20664738 00000000"
+
+  - name: "Player 2 Infinite Health"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20664780 3F800000"
+
+  - name: "Player 2 No Health"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20664780 00000000"
+
+  - name: "Infinite Fight Time"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "206648E0 00000063"
+
+  - name: "Press R2+Select To Restore Health And Special Power"
+    author: "Xploder"
+    notes: "[Konquest]"
+    codes:
+      - "E004FDFE 006AEDC2"
+      - "20BBFD64 40400000"
+      - "20BBFD68 40400000"
+      - "20BBFD9C 40400000"
+      - "20BBFDA0 40400000"
+
+  - name: "Infinite Gold Koins"
+    author: "Xploder"
+    notes: "[Konquest]"
+    codes:
+      - "206B3CB0 05F5E0FF"
+
+  - name: "Everything Inside The Krypt"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "406B3CC4 00090001"
+      - "FFFFFFFF 00000000"
+
+  - name: "All Characters"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "20664B08 FFFFFFFF"
+      - "20664B0C FFFFFFFF"
+
+  - name: "All Arenas"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "20664B10 FFFFFFFF"
+      - "20664B14 FFFFFFFF"

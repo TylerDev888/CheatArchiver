@@ -1,0 +1,82 @@
+# Sid Meier's Pirates! cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  SIDE54
+
+game: "Sid Meier's Pirates!"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "SIDE54"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Player 1 - Wiimote"
+    notes: "[Jokers]"
+    codes:
+      - "80738DC0 0000[Joker:WII]"
+
+  - name: "Have 99999999 Money"
+    author: "Skiller"
+    codes:
+      - "C2173810 00000003"
+      - "3C0005F5 6000E0FF"
+      - "90040040 80040040"
+      - "60000000 00000000"
+
+  - name: "Press + And Up Gain Full Crew.."
+    author: "Skiller"
+    notes: "[Fleet Stuff]"
+    codes:
+      - "28738DC0 00000018"
+      - "4A000000 90000000"
+      - "14185D30 0000270F"
+      - "E0000000 80008000"
+
+  - name: "Loads Of Money"
+    author: "Skiller"
+    notes: "[Fleet Stuff]"
+    codes:
+      - "4A000000 90000000"
+      - "14185D34 05F5E0FF"
+      - "E0000000 80008000"
+
+  - name: "Food Aways 32"
+    author: "Skiller"
+    notes: "[Fleet Stuff]"
+    codes:
+      - "4A000000 90000000"
+      - "14185D38 00000020"
+      - "E0000000 80008000"
+
+  - name: "Luxuries Aways 32"
+    author: "Skiller"
+    notes: "[Fleet Stuff]"
+    codes:
+      - "4A000000 90000000"
+      - "14185D3C 00000020"
+      - "E0000000 80008000"
+
+  - name: "Goods Aways 32"
+    author: "Skiller"
+    notes: "[Fleet Stuff]"
+    codes:
+      - "4A000000 90000000"
+      - "14185D40 00000020"
+      - "E0000000 80008000"
+
+  - name: "Spice Aways 32"
+    author: "Skiller"
+    notes: "[Fleet Stuff]"
+    codes:
+      - "4A000000 90000000"
+      - "14185D44 00000020"
+      - "E0000000 80008000"
+
+  - name: "Sugar Aways 32"
+    author: "Skiller"
+    notes: "[Fleet Stuff]"
+    codes:
+      - "4A000000 90000000"
+      - "14185D48 00000020"
+      - "E0000000 80008000"

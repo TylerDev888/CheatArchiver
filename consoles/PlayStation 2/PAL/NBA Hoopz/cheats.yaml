@@ -1,0 +1,76 @@
+# NBA Hoopz cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50080
+
+game: "NBA Hoopz"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50080"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01A100C 001B6107"
+
+  - name: "Lots Of Fouls"
+    author: "Codejunkies"
+    notes: "[Player 1 Foul Codes]"
+    codes:
+      - "102F51EC 00000032"
+
+  - name: "No Fouls"
+    author: "Codejunkies"
+    notes: "[Player 1 Foul Codes]"
+    codes:
+      - "102F51EC 00000000"
+
+  - name: "0 Points Scored"
+    author: "Codejunkies"
+    notes: "[Player 1 Score Codes]"
+    codes:
+      - "102F5124 00000000"
+
+  - name: "99 Points"
+    author: "Codejunkies"
+    notes: "[Player 1 Score Codes]"
+    codes:
+      - "102F5124 00000063"
+
+  - name: "Can Never Score More Than 3"
+    author: "Codejunkies"
+    notes: "[Player 1 Score Codes]"
+    codes:
+      - "E0010003 302F5124"
+      - "102F5124 00000003"
+
+  - name: "Can Never Score More Than 25"
+    author: "Codejunkies"
+    notes: "[Player 1 Score Codes]"
+    codes:
+      - "E0010019 302F5124"
+      - "102F5124 00000019"
+
+  - name: "Can Never Score More Than 50"
+    author: "Codejunkies"
+    notes: "[Player 1 Score Codes]"
+    codes:
+      - "E0010032 302F5124"
+      - "102F5124 00000032"
+
+  - name: "Can Never Score More Than 75"
+    author: "Codejunkies"
+    notes: "[Player 1 Score Codes]"
+    codes:
+      - "E001004B 302F5124"
+      - "102F5124 0000004B"
+
+  - name: "Scores 0"
+    author: "Codejunkies"
+    notes: "[Player 2 Score Codes]"
+    codes:
+      - "102F5140 00000000"

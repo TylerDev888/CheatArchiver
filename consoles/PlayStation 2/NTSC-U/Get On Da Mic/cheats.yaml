@@ -1,0 +1,55 @@
+# Get On Da Mic cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21036
+
+game: "Get On Da Mic"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21036"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "9012BFA4 0C04E684"
+
+  - name: "Max Score"
+    author: "Code Master"
+    notes: "[Baby T Codes]"
+    codes:
+      - "2044FBF8 05F5E0FF"
+
+  - name: "Quick Score Gain"
+    author: "Code Master"
+    notes: "[Baby T Codes]"
+    codes:
+      - "1044FBF8 0000FFFF"
+
+  - name: "Start On Last Level"
+    author: "Code Master"
+    notes: "[Baby T Codes]"
+    codes:
+      - "D045052C 00000000"
+      - "2045052C 0000000B"
+
+  - name: "Lil Mona"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "204517B0 00000001"
+
+  - name: "Old School"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "20452A30 00000001"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9012BFA4 0C04E684"

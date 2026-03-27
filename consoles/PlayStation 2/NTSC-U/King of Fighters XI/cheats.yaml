@@ -1,0 +1,141 @@
+# King of Fighters XI cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21687
+
+game: "King of Fighters XI"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21687"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON) (for Ar Max Converting Gameid: 1458 - Region: Usa)"
+    notes: "[Masters]"
+    codes:
+      - "F0115F60 00115F63"
+
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "0E3C7DF2 1456E7A5"
+      - "F0115F60 00115F63"
+
+  - name: "Pal2ntsc (the Game Does Runs In Pal For Like 1 Sec During One Of Logos)"
+    author: "Lee4"
+    notes: "[Misc]"
+    codes:
+      - "20100260 24120002"
+
+  - name: "Shrink Screen"
+    author: "Lee4"
+    notes: "[Misc]"
+    codes:
+      - "008B6DC0 00000001"
+
+  - name: "Freeze Timer"
+    author: "Lee4"
+    notes: "[Misc]"
+    codes:
+      - "008A5D28 00000010"
+
+  - name: "Disable Ai"
+    author: "Lee4"
+    notes: "[Misc]"
+    codes:
+      - "008A5D29 00000080"
+
+  - name: "Unlock Extra Characters"
+    author: "Lee4"
+    notes: "[Misc]"
+    codes:
+      - "108AA7C0 0000FFFF"
+
+  - name: "100% Complete Status"
+    author: "Lee4"
+    notes: "[Misc]"
+    codes:
+      - "408AA7D0 00140001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Infinite Health Character 1"
+    author: "Lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "208A97E4 00700070"
+
+  - name: "Infinite Health Character 2"
+    author: "Lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "208A9804 00700070"
+
+  - name: "Infinite Health Character 3"
+    author: "Lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "208A9824 00700070"
+
+  - name: "Max Power Gauge"
+    author: "Lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "108A96C8 000003E7"
+
+  - name: "Max Skill Gauge"
+    author: "Lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "108A96CC 000003E7"
+
+  - name: "Character 1 Mod"
+    author: "Lee4"
+    notes: "[Character Mod Codes]"
+    codes:
+      - "008A97E0 000000[CHAR]"
+
+  - name: "Character 2 Mod"
+    author: "Lee4"
+    notes: "[Character Mod Codes]"
+    codes:
+      - "008A9800 000000[CHAR]"
+
+  - name: "Character 3 Mod"
+    author: "Lee4"
+    notes: "[Character Mod Codes]"
+    codes:
+      - "008A9820 000000[CHAR]"
+
+  - name: "1 Hit Kill Character 1"
+    author: "Lee4"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "D08A9A2C 00000070"
+      - "208A9A2C 00000000"
+
+  - name: "1 Hit Kill Character 2"
+    author: "Lee4"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "D08A9A4C 00000070"
+      - "208A9A4C 00000000"
+
+  - name: "1 Hit Kill Character 3"
+    author: "Lee4"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "D08A9A6C 00000070"
+      - "208A9A6C 00000000"
+
+  - name: "No Power Gauge"
+    author: "Lee4"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "108A9910 00000000"
+
+  - name: "No Skill Gauge"
+    author: "Lee4"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "108A9914 00000000"

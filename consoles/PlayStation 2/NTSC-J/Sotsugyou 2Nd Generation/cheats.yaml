@@ -1,0 +1,25 @@
+# Sotsugyou 2Nd Generation cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66294
+
+game: "Sotsugyou 2Nd Generation"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66294"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010E510 0C0438EC"
+
+  - name: "Unlock All Gallery & Concert Hall"
+    author: "punk7890"
+    codes:
+      - "002D377A 000000FF"
+      - "402D3750 00080001"
+      - "FFFFFFFF 00000000"

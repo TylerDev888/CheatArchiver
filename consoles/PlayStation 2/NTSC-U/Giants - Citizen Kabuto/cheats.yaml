@@ -1,0 +1,59 @@
+# Giants - Citizen Kabuto cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20178
+
+game: "Giants - Citizen Kabuto"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20178"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F019B700 00225F6F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00225F6F"
+
+  - name: "Enable Target Select"
+    author: "InterAct"
+    codes:
+      - "103BC370 00000001"
+
+  - name: "Have All Missions"
+    author: "InterAct"
+    codes:
+      - "103BDAF0 00000001"
+
+  - name: "Have Mecc Team-Mates"
+    author: "InterAct"
+    codes:
+      - "103BC6E8 00000001"
+
+  - name: "Infinite Ammo"
+    author: "InterAct"
+    codes:
+      - "10306468 00000001"
+
+  - name: "Infinite Health"
+    author: "InterAct"
+    codes:
+      - "10306458 00000001"
+
+  - name: "Infinite Jetpack"
+    author: "InterAct"
+    codes:
+      - "10306464 00000001"
+
+  - name: "Infinite Mana"
+    author: "InterAct"
+    codes:
+      - "1030645C 00000001"

@@ -1,0 +1,30 @@
+# Hakarena Heart cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66883
+
+game: "Hakarena Heart"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66883"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90174EA0 0C05D350"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "40243830 00060001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Unlock All Music"
+    author: "punk7890"
+    codes:
+      - "20243920 FFFFFFFF"
+      - "20243924 FFFFFFFF"

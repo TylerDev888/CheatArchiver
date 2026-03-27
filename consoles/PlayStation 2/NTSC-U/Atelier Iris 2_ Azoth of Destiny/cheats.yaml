@@ -1,0 +1,2666 @@
+# Atelier Iris 2_ Azoth of Destiny cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21327
+
+game: "Atelier Iris 2_ Azoth of Destiny"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21327"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "902AE8D8 0C0AB9DE"
+
+  - name: "Player 1 Controller"
+    notes: "[Joker]"
+    codes:
+      - "D07DE202 0000[JOKER:PS2]"
+
+  - name: "Player 2 Controller"
+    notes: "[Joker]"
+    codes:
+      - "D0821868 0000[JOKER:PS2]"
+
+  - name: "Player 1 Controller Reverse"
+    notes: "[Joker]"
+    codes:
+      - "D08217E8 0000[JOKER:PS2]"
+
+  - name: "Player 2 Controller Reverse"
+    notes: "[Joker]"
+    codes:
+      - "D08217EC 0000[JOKER:PS2]"
+
+  - name: "Mem Dump (hacking Proposes Only)"
+    notes: "[Save Dump]"
+    codes:
+      - "202B9B40 3C030010"
+      - "202B9B44 3C050070"
+      - "207F1A58 00100000"
+      - "207F1A4C 00700000"
+
+  - name: "Activate No Random Encounter Select+l2"
+    author: "Skiller"
+    codes:
+      - "D07DE202 0000FEFE"
+      - "201AB498 4A0002FF"
+
+  - name: "Deactivate No Random Encounter Press Select+r2"
+    author: "Skiller"
+    codes:
+      - "D07DE202 0000FDFE"
+      - "201AB498 0C09ABCF"
+
+  - name: "Enable Bonus Menu (start Of The Game)"
+    author: "Skiller"
+    codes:
+      - "00B025A8 00000005"
+
+  - name: "Complete All Bonuses"
+    author: "Skiller"
+    codes:
+      - "40B024E8 00300001"
+      - "01010101 00000000"
+
+  - name: "Max Money"
+    author: "Skiller"
+    codes:
+      - "207DB79C 000F423F"
+
+  - name: "Low Game Time"
+    author: "Skiller"
+    codes:
+      - "207DB7A0 00000000"
+
+  - name: "Max All Element Bins"
+    author: "Skiller"
+    notes: "[Items]"
+    codes:
+      - "40B2A400 00060001"
+      - "00630063 00000000"
+      - "00B2A418 00000063"
+
+  - name: "All Items At 98 Quality At 150"
+    author: "Skiller"
+    notes: "[Items]"
+    codes:
+      - "40B3AE30 01910005"
+      - "00960062 00000000"
+
+  - name: "Heal Herb"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3AE30 0096000F"
+
+  - name: "Heal Jar"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3AE44 0096000F"
+
+  - name: "Flame"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3AE58 0096000F"
+
+  - name: "Mega Flame"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3AE6C 0096000F"
+
+  - name: "Tera Flame"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3AE80 0096000F"
+
+  - name: "Craft"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3AE94 0096000F"
+
+  - name: "Bomb Ice"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3AEA8 0096000F"
+
+  - name: "Lightning Rod"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3AEBC 0096000F"
+
+  - name: "Thunder Rod"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3AED0 0096000F"
+
+  - name: "Heal Buib"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3AEE4 0096000F"
+
+  - name: "Cure Jar"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3AEF8 0096000F"
+
+  - name: "Meteor"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3AF0C 0096000F"
+
+  - name: "Amanta Needle"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3AF20 0096000F"
+
+  - name: "Basilisk Eye"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3AF34 0096000F"
+
+  - name: "Dragon Gem"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3AF48 0096000F"
+
+  - name: "Ice Comet"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3AF5C 0096000F"
+
+  - name: "Flute Of Cerberus"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3AF70 0096000F"
+
+  - name: "Dark Lightning Cloud"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3AF84 0096000F"
+
+  - name: "Globe"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3AF98 0096000F"
+
+  - name: "Astral Globe"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3AFAC 0096000F"
+
+  - name: "Under Globe"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3AFC0 0096000F"
+
+  - name: "Nectar"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3AFD4 0096000F"
+
+  - name: "Altena Jar"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3AFE8 0096000F"
+
+  - name: "Refuel"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3AFFC 0096000F"
+
+  - name: "Huffin Water"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B010 0096000F"
+
+  - name: "Diselement"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B024 0096000F"
+
+  - name: "Cure Crystal"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B038 0096000F"
+
+  - name: "Aroma Pot"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B04C 0096000F"
+
+  - name: "Fear Bottle"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B060 0096000F"
+
+  - name: "Pendulum"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B074 0096000F"
+
+  - name: "Return Gem"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B088 0096000F"
+
+  - name: "Philosophic Ash"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B09C 0096000F"
+
+  - name: "Uroborus Pill"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B0B0 0096000F"
+
+  - name: "Item Wish"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B0C4 0096000F"
+
+  - name: "Elixir"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B0D8 0096000F"
+
+  - name: "Divine Shield"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B0EC 0096000F"
+
+  - name: "Power Shield"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B100 0096000F"
+
+  - name: "Dark Water"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B114 0096000F"
+
+  - name: "Element Blaze"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B128 0096000F"
+
+  - name: "Time Stone"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B13C 0096000F"
+
+  - name: "Uni"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B150 0096000F"
+
+  - name: "Super Uni"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B164 0096000F"
+
+  - name: "Uru Core"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B178 0096000F"
+
+  - name: "Nymph Core"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B18C 0096000F"
+
+  - name: "Silwest Core"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B1A0 0096000F"
+
+  - name: "Plua Core"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B1B4 0096000F"
+
+  - name: "Zuvelk Core"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B1C8 0096000F"
+
+  - name: "Faustus Core"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B1DC 0096000F"
+
+  - name: "Aion Core"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B1F0 0096000F"
+
+  - name: "Wonder Grow"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B204 0096000F"
+
+  - name: "Yugdone Water"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B218 0096000F"
+
+  - name: "Fairy Tea"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B22C 0096000F"
+
+  - name: "Grappling Hook"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B240 0096000F"
+
+  - name: "Glow Lamp"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B254 0096000F"
+
+  - name: "Flay Hammer"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B268 0096000F"
+
+  - name: "Animal Cookie"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B27C 0096000F"
+
+  - name: "Rainbow Cloth"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B290 0096000F"
+
+  - name: "Destone Orb"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B2A4 0096000F"
+
+  - name: "Key Of Hermes"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B2B8 0096000F"
+
+  - name: "Megido's Key"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B2CC 0096000F"
+
+  - name: "Mell Orb"
+    author: "Skiller"
+    notes: "[Mana Items]"
+    codes:
+      - "20B3B2E0 0096000F"
+
+  - name: "Fairy Clothes"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B2F4 0096000F"
+
+  - name: "Fairy Hat"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B308 0096000F"
+
+  - name: "Pigeon Blood"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B31C 0096000F"
+
+  - name: "Ares Liquid"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B330 0096000F"
+
+  - name: "Slaith Crown"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B344 0096000F"
+
+  - name: "Gradin Cape"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B358 0096000F"
+
+  - name: "Ancient Mask"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B36C 0096000F"
+
+  - name: "Totem Shield"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B380 0096000F"
+
+  - name: "Dragon Shield"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B394 0096000F"
+
+  - name: "Spirit Potect"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B3A8 0096000F"
+
+  - name: "Eden Outfit"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B3BC 0096000F"
+
+  - name: "Roten Helm"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B3D0 0096000F"
+
+  - name: "Blau Helm"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B3E4 0096000F"
+
+  - name: "Silver Armor"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B3F8 0096000F"
+
+  - name: "Pendelook"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B40C 0096000F"
+
+  - name: "Dark Fairy Clothes"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B420 0096000F"
+
+  - name: "Dark Fairy Hat"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B434 0096000F"
+
+  - name: "Slaith Dress"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B448 0096000F"
+
+  - name: "Magic Paper"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B45C 0096000F"
+
+  - name: "Demon Ring"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B470 0096000F"
+
+  - name: "Dragon Fang Erring"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B484 0096000F"
+
+  - name: "Lota Cake"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B498 0096000F"
+
+  - name: "Platin"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B4AC 0096000F"
+
+  - name: "Gurgu's Cane"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B4C0 0096000F"
+
+  - name: "Fire Brand"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B4D4 0096000F"
+
+  - name: "Ice Brand"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B4E8 0096000F"
+
+  - name: "Lightning Brand"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B4FC 0096000F"
+
+  - name: "Daza's Belt"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B510 0096000F"
+
+  - name: "Gargoyles Mirror"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B524 0096000F"
+
+  - name: "Ankh"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B538 0096000F"
+
+  - name: "Mushroom Armor"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B54C 0096000F"
+
+  - name: "Soul Shroud"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B560 0096000F"
+
+  - name: "Magic Pipe"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B574 0096000F"
+
+  - name: "Aroma Talisman"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B588 0096000F"
+
+  - name: "Niv Tiara"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B59C 0096000F"
+
+  - name: "Diema Ankh"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B5B0 0096000F"
+
+  - name: "Illusion Braclet"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B5C4 0096000F"
+
+  - name: "Angel Feather"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B5D8 0096000F"
+
+  - name: "Speedster"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B5EC 0096000F"
+
+  - name: "Aroma Material"
+    author: "Skiller"
+    notes: "[Accessorys]"
+    codes:
+      - "20B3B600 0096000F"
+
+  - name: "Blue Bracer"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B614 0096000F"
+
+  - name: "Eite Liqueur"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B628 0096000F"
+
+  - name: "Holy Evergreen"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B63C 0096000F"
+
+  - name: "Charcoal"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B650 0096000F"
+
+  - name: "Bek Blackbelt"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B664 0096000F"
+
+  - name: "Damask Ring"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B678 0096000F"
+
+  - name: "Cotton Cloth"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B68C 0096000F"
+
+  - name: "Silk Cloth"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B6A0 0096000F"
+
+  - name: "Formal Fabric"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B6B4 0096000F"
+
+  - name: "Comet Gem"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B6C8 0096000F"
+
+  - name: "Magatame Cone"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B6DC 0096000F"
+
+  - name: "Red Crystal"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B6F0 0096000F"
+
+  - name: "White Crystal"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B704 0096000F"
+
+  - name: "Magnetic Crystal"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B718 0096000F"
+
+  - name: "Alchemist Medal"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B72C 0096000F"
+
+  - name: "Sages Feather Pen"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B740 0096000F"
+
+  - name: "Crystaleavy"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B754 0096000F"
+
+  - name: "Crystlite"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B768 0096000F"
+
+  - name: "Nautical Charts"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B77C 0096000F"
+
+  - name: "Celestrial Map"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B790 0096000F"
+
+  - name: "Dark Scroll"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B7A4 0096000F"
+
+  - name: "Moon Drop"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B7B8 0096000F"
+
+  - name: "New Moon Drop"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B7CC 0096000F"
+
+  - name: "Fog Box"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B7E0 0096000F"
+
+  - name: "Siver Acid"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B7F4 0096000F"
+
+  - name: "Manatmi"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B808 0096000F"
+
+  - name: "Mana Moebius"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B81C 0096000F"
+
+  - name: "Gravity Crystal"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B830 0096000F"
+
+  - name: "Blood Clay"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B844 0096000F"
+
+  - name: "Gray Crowbar"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B858 0096000F"
+
+  - name: "Silver Crowbar"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B86C 0096000F"
+
+  - name: "Gold Crowbar"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B880 0096000F"
+
+  - name: "Rotor Ankh"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B894 0096000F"
+
+  - name: "Quicksilver Ankh"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B8A8 0096000F"
+
+  - name: "Spiteful Stone"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B8BC 0096000F"
+
+  - name: "Viese Charm"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B8D0 0096000F"
+
+  - name: "Sun And Wind Wing"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B8E4 0096000F"
+
+  - name: "Cueparts"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B8F8 0096000F"
+
+  - name: "Reptile Egg"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B90C 0096000F"
+
+  - name: "Verdure Doublet"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B920 0096000F"
+
+  - name: "Ruby Prism"
+    author: "Skiller"
+    notes: "[Alchemy Items]"
+    codes:
+      - "20B3B934 0096000F"
+
+  - name: "Magi Grass"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3B948 0096000F"
+
+  - name: "Old Magi Grass"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3B95C 0096000F"
+
+  - name: "Yadok Fungo"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3B970 0096000F"
+
+  - name: "Old Yadok Fungo"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3B984 0096000F"
+
+  - name: "Aihie Fungo"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3B998 0096000F"
+
+  - name: "Nue"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3B9AC 0096000F"
+
+  - name: "Super Nue"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3B9C0 0096000F"
+
+  - name: "Urob"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3B9D4 0096000F"
+
+  - name: "Tingleberry"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3B9E8 0096000F"
+
+  - name: "Pearlberry"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3B9FC 0096000F"
+
+  - name: "Tatala Cotton"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BA10 0096000F"
+
+  - name: "Glowgrass"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BA24 0096000F"
+
+  - name: "Dry Glowgrass"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BA38 0096000F"
+
+  - name: "Fress Glowgrass"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BA4C 0096000F"
+
+  - name: "Triffid"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BA60 0096000F"
+
+  - name: "Huffin"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BA74 0096000F"
+
+  - name: "Pure Water"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BA88 0096000F"
+
+  - name: "Foul Water"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BA9C 0096000F"
+
+  - name: "Goat Milk"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BAB0 0096000F"
+
+  - name: "Dore Water"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BAC4 0096000F"
+
+  - name: "Graden Salt"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BAD8 0096000F"
+
+  - name: "Flour"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BAEC 0096000F"
+
+  - name: "Wax"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BB00 0096000F"
+
+  - name: "Ale"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BB14 0096000F"
+
+  - name: "Red Wine"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BB28 0096000F"
+
+  - name: "Industrial Alcohol"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BB3C 0096000F"
+
+  - name: "Silver Water"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BB50 0096000F"
+
+  - name: "Dragon Horn"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BB64 0096000F"
+
+  - name: "Bragon Blood"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BB78 0096000F"
+
+  - name: "Red Legien"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BB8C 0096000F"
+
+  - name: "Silver Legien"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BBA0 0096000F"
+
+  - name: "Ore"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BBB4 0096000F"
+
+  - name: "Red Ore"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BBC8 0096000F"
+
+  - name: "Large Red Ore"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BBDC 0096000F"
+
+  - name: "Dem Ore"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BBF0 0096000F"
+
+  - name: "Aeronium"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BC04 0096000F"
+
+  - name: "Large Aeronium"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BC18 0096000F"
+
+  - name: "Ancient Ore"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BC2C 0096000F"
+
+  - name: "Ice Stone"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BC40 0096000F"
+
+  - name: "Dragon Bone"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BC54 0096000F"
+
+  - name: "Dragon Meat"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BC68 0096000F"
+
+  - name: "Shadow Stone"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BC7C 0096000F"
+
+  - name: "Comet Stone"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BC90 0096000F"
+
+  - name: "Gravity Stone"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BCA4 0096000F"
+
+  - name: "Lightning Stone"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BCB8 0096000F"
+
+  - name: "Desert Flower"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BCCC 0096000F"
+
+  - name: "Moon Stone"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BCE0 0096000F"
+
+  - name: "Wild Meat"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BCF4 0096000F"
+
+  - name: "Spoiled Meat"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BD08 0096000F"
+
+  - name: "Frozen Rain"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BD1C 0096000F"
+
+  - name: "Mini Pendelook"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BD30 0096000F"
+
+  - name: "Dragon Tongue"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BD44 0096000F"
+
+  - name: "Phoenix Quill"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BD58 0096000F"
+
+  - name: "Puniball"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BD6C 0096000F"
+
+  - name: "Faux Puniball"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BD80 0096000F"
+
+  - name: "String"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BD94 0096000F"
+
+  - name: "Hexi Glass"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BDA8 0096000F"
+
+  - name: "Pikohammer"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BDBC 0096000F"
+
+  - name: "Groovecube"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BDD0 0096000F"
+
+  - name: "Globeball"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BDE4 0096000F"
+
+  - name: "Violet Fungus"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BDF8 0096000F"
+
+  - name: "Gogo Suit"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BE0C 0096000F"
+
+  - name: "Rainbow Disc"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BE20 0096000F"
+
+  - name: "Star Piece"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BE34 0096000F"
+
+  - name: "Dark Mana"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BE48 0096000F"
+
+  - name: "Black Mana"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BE5C 0096000F"
+
+  - name: "Glowing Mana"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BE70 0096000F"
+
+  - name: "Red Mana"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BE84 0096000F"
+
+  - name: "Yellow Mana"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BE98 0096000F"
+
+  - name: "Green Mana"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BEAC 0096000F"
+
+  - name: "Blue Mana"
+    author: "Skiller"
+    notes: "[Harvested Items]"
+    codes:
+      - "20B3BEC0 0096000F"
+
+  - name: "Unnamed 1"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3BED4 0002000D"
+
+  - name: "Unnamed 2"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3BEE8 0002000E"
+
+  - name: "Unnamed 3"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3BEFC 0002000F"
+
+  - name: "Unnamed 4"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3BF10 00020010"
+
+  - name: "Unnamed 5"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3BF24 00020011"
+
+  - name: "Unnamed 6"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3BF38 00020012"
+
+  - name: "Unnamed 7"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3BF4C 00020013"
+
+  - name: "Unnamed 8"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3BF60 00020014"
+
+  - name: "Unnamed 9"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3BF74 00020015"
+
+  - name: "Unnamed 10"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3BF88 00020016"
+
+  - name: "Unnamed 11"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3BF9C 00020017"
+
+  - name: "Unnamed 12"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3BFB0 00020018"
+
+  - name: "Unnamed 13"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3BFC4 00020019"
+
+  - name: "Unnamed 14"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3BFD8 0002001A"
+
+  - name: "Unnamed 15"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3BFEC 0002001B"
+
+  - name: "Unnamed 16"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C000 0002001C"
+
+  - name: "Unnamed 17"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C014 0002001D"
+
+  - name: "Unnamed 18"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C028 0002001E"
+
+  - name: "Unnamed 19"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C03C 0002001F"
+
+  - name: "Unnamed 20"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C050 00020020"
+
+  - name: "Unnamed 21"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C064 00020021"
+
+  - name: "Unnamed 22"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C078 00020022"
+
+  - name: "Unnamed 23"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C08C 00020023"
+
+  - name: "Unnamed 24"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C0A0 00020024"
+
+  - name: "Unnamed 25"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C0B4 00020025"
+
+  - name: "Unnamed 26"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C0C8 00020026"
+
+  - name: "Unnamed 27"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C0DC 00020027"
+
+  - name: "Unnamed 28"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C0F0 00020028"
+
+  - name: "Unnamed 29"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C104 00020029"
+
+  - name: "Unnamed 30"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C118 0002002A"
+
+  - name: "Unnamed 31"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C12C 0002002B"
+
+  - name: "Unnamed 32"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C140 0002002C"
+
+  - name: "Unnamed 33"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C154 0002002D"
+
+  - name: "Unnamed 34"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C168 0002002E"
+
+  - name: "Unnamed 35"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C17C 0002002F"
+
+  - name: "Unnamed 36"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C190 00020030"
+
+  - name: "Unnamed 37"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C1A4 00020031"
+
+  - name: "Unnamed 38"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C1B8 00020032"
+
+  - name: "Unnamed 39"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C1CC 00020033"
+
+  - name: "Unnamed 40"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C1E0 00020034"
+
+  - name: "Unnamed 41"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C1F4 00020035"
+
+  - name: "Unnamed 42"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C208 00020036"
+
+  - name: "Unnamed 43"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C21C 00020037"
+
+  - name: "Unnamed 44"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C230 00020038"
+
+  - name: "Unnamed 45"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C244 00020039"
+
+  - name: "Unnamed 46"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C258 0002003A"
+
+  - name: "Unnamed 47"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C26C 0002003B"
+
+  - name: "Unnamed 48"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C280 0002003C"
+
+  - name: "Unnamed 49"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C294 0002003D"
+
+  - name: "Unnamed 50"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C2A8 0002003E"
+
+  - name: "Unnamed 51"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C2BC 0002003F"
+
+  - name: "Unnamed 52"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C2D0 00020040"
+
+  - name: "Unnamed 53"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C2E4 00020041"
+
+  - name: "Unnamed 54"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C2F8 00020042"
+
+  - name: "Unnamed 55"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C30C 00020043"
+
+  - name: "Unnamed 56"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C320 00020044"
+
+  - name: "Unnamed 57"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C334 00020045"
+
+  - name: "Unnamed 58"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C348 00020046"
+
+  - name: "Unnamed 59"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C35C 00020047"
+
+  - name: "Unnamed 60"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C370 00020048"
+
+  - name: "Unnamed 61"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C384 00020049"
+
+  - name: "Unnamed 62"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C398 0002004A"
+
+  - name: "Unnamed 63"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C3AC 0002004B"
+
+  - name: "Unnamed 64"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C3C0 0002004C"
+
+  - name: "Unnamed 65"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C3D4 0002004D"
+
+  - name: "Unnamed 66"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C3E8 0002004E"
+
+  - name: "Unnamed 67"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C3FC 0002004F"
+
+  - name: "Unnamed 68"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C410 00020050"
+
+  - name: "Unnamed 69"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C424 00020051"
+
+  - name: "Unnamed 70"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C438 00020052"
+
+  - name: "Unnamed 71"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C44C 00020053"
+
+  - name: "Unnamed 72"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C460 00020054"
+
+  - name: "Unnamed 73"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C474 00020055"
+
+  - name: "Unnamed 74"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C488 00020056"
+
+  - name: "Unnamed 75"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C49C 00020057"
+
+  - name: "Unnamed 76"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C4B0 00020058"
+
+  - name: "Unnamed 77"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C4C4 00020059"
+
+  - name: "Unnamed 78"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C4D8 0002005A"
+
+  - name: "Unnamed 79"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C4EC 0002005B"
+
+  - name: "Unnamed 80"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C500 0002005C"
+
+  - name: "Unnamed 81"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C514 0002005D"
+
+  - name: "Unnamed 82"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C528 0002005E"
+
+  - name: "Unnamed 83"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C53C 0002005F"
+
+  - name: "Unnamed 84"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C550 00020060"
+
+  - name: "Unnamed 85"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C564 00020061"
+
+  - name: "Unnamed 86"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C578 00020062"
+
+  - name: "Unnamed 87"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C58C 00020063"
+
+  - name: "Unnamed 88"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C5A0 00020064"
+
+  - name: "Unnamed 89"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C5B4 00020065"
+
+  - name: "Unnamed 90"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C5C8 00020066"
+
+  - name: "Unnamed 91"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C5DC 00020067"
+
+  - name: "Unnamed 92"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C5F0 00020068"
+
+  - name: "Unnamed 93"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C604 00020069"
+
+  - name: "Unnamed 94"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C618 0002006A"
+
+  - name: "Unnamed 95"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C62C 0002006B"
+
+  - name: "Unnamed 96"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C640 0002006C"
+
+  - name: "Unnamed 97"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C654 0002006D"
+
+  - name: "Unnamed 98"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C668 0002006E"
+
+  - name: "Unnamed 99"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C67C 0002006F"
+
+  - name: "Unnamed 100"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C690 00020070"
+
+  - name: "Unnamed 101"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C6A4 00020071"
+
+  - name: "Unnamed 102"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C6B8 00020072"
+
+  - name: "Unnamed 103"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C6CC 00020073"
+
+  - name: "Unnamed 104"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C6E0 00020074"
+
+  - name: "Unnamed 105"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C6F4 00020075"
+
+  - name: "Unnamed 106"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C708 00020076"
+
+  - name: "Unnamed 107"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C71C 00020077"
+
+  - name: "Unnamed 108"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C730 00020078"
+
+  - name: "Unnamed 109"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C744 00020079"
+
+  - name: "Unnamed 110"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C758 0002007A"
+
+  - name: "Unnamed 111"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C76C 0002007B"
+
+  - name: "Unnamed 112"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C780 0002007C"
+
+  - name: "Unnamed 113"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C794 0002007D"
+
+  - name: "Unnamed 114"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C7A8 0002007E"
+
+  - name: "Unnamed 115"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C7BC 0002007F"
+
+  - name: "Unnamed 116"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C7D0 00020080"
+
+  - name: "Unnamed 117"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C7E4 00020081"
+
+  - name: "Unnamed 118"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C7F8 00020082"
+
+  - name: "Unnamed 119"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C80C 00020083"
+
+  - name: "Unnamed 120"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C820 00020084"
+
+  - name: "Unnamed 121"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C834 00020085"
+
+  - name: "Unnamed 122"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C848 00020086"
+
+  - name: "Unnamed 123"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C85C 00020087"
+
+  - name: "Unnamed 124"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C870 00020088"
+
+  - name: "Unnamed 125"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C884 00020089"
+
+  - name: "Unnamed 126"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C898 0002008A"
+
+  - name: "Unnamed 127"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C8AC 0002008B"
+
+  - name: "Unnamed 128"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C8C0 0002008C"
+
+  - name: "Unnamed 129"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C8D4 0002008D"
+
+  - name: "Unnamed 130"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C8E8 0002008E"
+
+  - name: "Unnamed 131"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C8FC 0002008F"
+
+  - name: "Unnamed 132"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C910 00020090"
+
+  - name: "Unnamed 133"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C924 00020091"
+
+  - name: "Unnamed 134"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C938 00020092"
+
+  - name: "Unnamed 135"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C94C 00020093"
+
+  - name: "Unnamed 136"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C960 00020094"
+
+  - name: "Unnamed 137"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C974 00020095"
+
+  - name: "Unnamed 138"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C988 00020096"
+
+  - name: "Unnamed 139"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C99C 00020097"
+
+  - name: "Unnamed 140"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C9B0 00020098"
+
+  - name: "Unnamed 141"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C9C4 00020099"
+
+  - name: "Unnamed 142"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C9D8 0002009A"
+
+  - name: "Unnamed 143"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3C9EC 0002009B"
+
+  - name: "Unnamed 144"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CA00 0002009C"
+
+  - name: "Unnamed 145"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CA14 0002009D"
+
+  - name: "Unnamed 146"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CA28 0002009E"
+
+  - name: "Unnamed 147"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CA3C 0002009F"
+
+  - name: "Unnamed 148"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CA50 000200A0"
+
+  - name: "Unnamed 149"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CA64 000200A1"
+
+  - name: "Unnamed 150"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CA78 000200A2"
+
+  - name: "Unnamed 151"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CA8C 000200A3"
+
+  - name: "Unnamed 152"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CAA0 000200A4"
+
+  - name: "Unnamed 153"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CAB4 000200A5"
+
+  - name: "Unnamed 154"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CAC8 000200A6"
+
+  - name: "Unnamed 155"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CADC 000200A7"
+
+  - name: "Unnamed 156"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CAF0 000200A8"
+
+  - name: "Unnamed 157"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CB04 000200A9"
+
+  - name: "Unnamed 158"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CB18 000200AA"
+
+  - name: "Unnamed 159"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CB2C 000200AB"
+
+  - name: "Unnamed 160"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CB40 000200AC"
+
+  - name: "Unnamed 161"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CB54 000200AD"
+
+  - name: "Unnamed 162"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CB68 000200AE"
+
+  - name: "Unnamed 163"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CB7C 000200AF"
+
+  - name: "Unnamed 164"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CB90 000200B0"
+
+  - name: "Unnamed 165"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CBA4 000200B1"
+
+  - name: "Unnamed 166"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CBB8 000200B2"
+
+  - name: "Unnamed 167"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CBCC 000200B3"
+
+  - name: "Unnamed 168"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CBE0 000200B4"
+
+  - name: "Unnamed 169"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CBF4 000200B5"
+
+  - name: "Unnamed 170"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CC08 000200B6"
+
+  - name: "Unnamed 171"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CC1C 000200B7"
+
+  - name: "Unnamed 172"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CC30 000200B8"
+
+  - name: "Unnamed 173"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CC44 000200B9"
+
+  - name: "Unnamed 174"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CC58 000200BA"
+
+  - name: "Unnamed 175"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CC6C 000200BB"
+
+  - name: "Unnamed 176"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CC80 000200BC"
+
+  - name: "Unnamed 177"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CC94 000200BD"
+
+  - name: "Unnamed 178"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CCA8 000200BE"
+
+  - name: "Unnamed 179"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CCBC 000200BF"
+
+  - name: "Unnamed 180"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CCD0 000200C0"
+
+  - name: "Unnamed 181"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CCE4 000200C1"
+
+  - name: "Unnamed 182"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CCF8 000200C2"
+
+  - name: "Unnamed 183"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CD0C 000200C3"
+
+  - name: "Unnamed 184"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CD20 000200C4"
+
+  - name: "Unnamed 185"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CD34 000200C5"
+
+  - name: "Unnamed 186"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CD48 000200C6"
+
+  - name: "Unnamed 187"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CD5C 000200C7"
+
+  - name: "Unnamed 188"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CD70 000200C8"
+
+  - name: "Unnamed 189"
+    author: "Skiller"
+    notes: "[Key Items:{Never Got The Time To Name Them}]"
+    codes:
+      - "20B3CD84 000200C9"
+
+  - name: "Item List (complete)"
+    author: "Skiller"
+    notes: "[All Reference Book]"
+    codes:
+      - "40B2A488 006B0001"
+      - "02020202 00000000"
+
+  - name: "Monster List (complete)"
+    author: "Skiller"
+    notes: "[All Reference Book]"
+    codes:
+      - "40B2A634 002A0001"
+      - "FFFFFFFF 00000000"
+      - "00B2A6DC 000000FF"
+
+  - name: "Instint Win (once Its Your Turn)"
+    author: "Skiller"
+    codes:
+      - "001BB1CA 00000060"
+      - "001BB1D2 00000060"
+
+  - name: "Instant Win (once Battle Starts)"
+    author: "Skiller"
+    codes:
+      - "001BB1BC 00000060"
+
+  - name: "Funny Make Enemys On Your Team.. (instant Win)"
+    author: "Skiller"
+    codes:
+      - "001BB1BE 00000060"
+
+  - name: "Faster Loading"
+    author: "Skiller"
+    codes:
+      - "202A6320 03E00008"
+      - "202A6324 00000000"
+
+  - name: "Have All Main Characters"
+    author: "Skiller"
+    notes: "[Characters]"
+    codes:
+      - "20B2A3F8 00000006"
+      - "40B2A3C0 00060001"
+      - "00000000 00000001"
+
+  - name: "Max All Stats Inbattle (u And Friends)"
+    author: "Skiller"
+    notes: "[Characters]"
+    codes:
+      - "201BB0A4 240F03E7"
+      - "201BB0AC 240F03E7"
+      - "401BB0B8 00080002"
+      - "240F01F4 00000000"
+
+  - name: "Have Characters Slot"
+    author: "Skiller"
+    notes: "[Character Placement Mod]"
+    codes:
+      - "20B2A3F8 000000[Amount:05:HEX:BIG<SET 0-5>]"
+
+  - name: "Character 1"
+    author: "Skiller"
+    notes: "[Character Placement Mod]"
+    codes:
+      - "20B2A3C0 000000[CH]"
+
+  - name: "Character 2"
+    author: "Skiller"
+    notes: "[Character Placement Mod]"
+    codes:
+      - "20B2A3C4 000000[CH]"
+
+  - name: "Character 3"
+    author: "Skiller"
+    notes: "[Character Placement Mod]"
+    codes:
+      - "20B2A3C8 000000[CH]"
+
+  - name: "Character 4"
+    author: "Skiller"
+    notes: "[Character Placement Mod]"
+    codes:
+      - "20B2A3CC 000000[CH]"
+
+  - name: "Character 5"
+    author: "Skiller"
+    notes: "[Character Placement Mod]"
+    codes:
+      - "20B2A3D0 000000[CH]"
+
+  - name: "Character 6"
+    author: "Skiller"
+    notes: "[Character Placement Mod]"
+    codes:
+      - "20B2A3D4 000000[CH]"
+
+  - name: "Max EXP"
+    notes: "[Felt]"
+    codes:
+      - "20B29EA8 000F4240"
+
+  - name: "Max Lvl"
+    notes: "[Felt]"
+    codes:
+      - "10B29E80 00000032"
+
+  - name: "Max Current HP 999"
+    notes: "[Felt]"
+    codes:
+      - "10B29E82 000003E7"
+
+  - name: "Max HP 999"
+    notes: "[Felt]"
+    codes:
+      - "10B29E84 000003E7"
+
+  - name: "Max Atk"
+    notes: "[Felt]"
+    codes:
+      - "10B29E86 000001F4"
+
+  - name: "Max Mag"
+    notes: "[Felt]"
+    codes:
+      - "10B29E88 000001F4"
+
+  - name: "Max Def"
+    notes: "[Felt]"
+    codes:
+      - "10B29E8A 000001F4"
+
+  - name: "Max Spd"
+    notes: "[Felt]"
+    codes:
+      - "10B29E8C 000001F4"
+
+  - name: "Max Flame"
+    notes: "[Resistance]"
+    codes:
+      - "10B29E8E 000001F4"
+
+  - name: "Max Ice"
+    notes: "[Resistance]"
+    codes:
+      - "10B29E90 000001F4"
+
+  - name: "Max Thunder"
+    notes: "[Resistance]"
+    codes:
+      - "10B29E92 000001F4"
+
+  - name: "Max Dark"
+    notes: "[Resistance]"
+    codes:
+      - "10B29E94 000001F4"
+
+  - name: "Max HP"
+    notes: "[Overall]"
+    codes:
+      - "10B29E96 000003E7"

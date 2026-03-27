@@ -1,0 +1,105 @@
+# Pride FC - Fighting Championships cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51371
+
+game: "Pride FC - Fighting Championships"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51371"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0112F7C 000001FD"
+
+  - name: "Fast K.O. On Player 1"
+    author: "Codejunkies"
+    codes:
+      - "202A6AE0 3F800000"
+      - "202A6AE4 3F800000"
+
+  - name: "Fast K.O. On Player 2"
+    author: "Codejunkies"
+    codes:
+      - "202A85E0 3F800000"
+      - "202A85E4 3F800000"
+
+  - name: "Infinite Creation Points"
+    author: "Codejunkies"
+    codes:
+      - "20182B5C 00000000"
+
+  - name: "Infinite Health Player 1"
+    author: "Codejunkies"
+    codes:
+      - "202A6AE0 42DC0000"
+
+  - name: "Infinite Health Player 2"
+    author: "Codejunkies"
+    codes:
+      - "202A85E0 42DC0000"
+
+  - name: "Infinite Stamina Player 1"
+    author: "Codejunkies"
+    codes:
+      - "202A6AE4 42DC0000"
+
+  - name: "Infinite Stamina Player 2"
+    author: "Codejunkies"
+    codes:
+      - "202A85E4 42DC0000"
+
+  - name: "Monster Points (Survival Mode)"
+    author: "Codejunkies"
+    codes:
+      - "202A54D8 05F5E0FF"
+
+  - name: "Alien Neck Thing"
+    author: "Codejunkies"
+    notes: "[Neck Codes]"
+    codes:
+      - "202A5748 40F00000"
+
+  - name: "Broken Neck"
+    author: "Codejunkies"
+    notes: "[Neck Codes]"
+    codes:
+      - "202A5748 40000000"
+
+  - name: "Armless"
+    author: "Codejunkies"
+    notes: "[P1 Position Codes]"
+    codes:
+      - "202A56C0 50000000"
+      - "202A5700 50000000"
+
+  - name: "Floating"
+    author: "Codejunkies"
+    notes: "[P1 Position Codes]"
+    codes:
+      - "202A55F8 40000000"
+
+  - name: "Headless"
+    author: "Codejunkies"
+    notes: "[P1 Position Codes]"
+    codes:
+      - "202A5744 50000000"
+
+  - name: "Legless"
+    author: "Codejunkies"
+    notes: "[P1 Position Codes]"
+    codes:
+      - "202A5650 50000000"
+      - "202A5648 50000000"
+      - "202A5674 50000000"
+
+  - name: "Shadow Man"
+    author: "Codejunkies"
+    notes: "[P1 Position Codes]"
+    codes:
+      - "202A55F8 BF800000"

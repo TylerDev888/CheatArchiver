@@ -1,0 +1,24 @@
+# Underworld - The Eternal War cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52108
+
+game: "Underworld - The Eternal War"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52108"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F012D9E4 0012D9E7"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "201A2E04 240503E8"
+      - "201A2E08 AC650000"

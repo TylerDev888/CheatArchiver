@@ -1,0 +1,33 @@
+# Dragon Quest XI S_ Echoes Of An Elusive Age cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA18600
+
+game: "Dragon Quest XI S_ Echoes Of An Elusive Age"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA18600"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Edit Item Amount(3d)"
+    notes: "File: Book\\(data00[0-8]sav|00[0-8]|data255sav|255).dat"
+    codes:
+      - "8001000C 0000[Item]"
+      - "2800000C [Amount:000003E7:HEX:BIG]"
+
+  - name: "Replace Item(3d)"
+    notes: "File: Book\\(data00[0-8]sav|00[0-8]|data255sav|255).dat"
+    codes:
+      - "8001000C 0000[Item]"
+      - "A8000000 0000000C"
+      - "0000[Item] 00000000"
+
+  - name: "Replace Item And Edit Amount(3d)"
+    notes: "File: Book\\(data00[0-8]sav|00[0-8]|data255sav|255).dat"
+    codes:
+      - "8001000C 0000[Item]"
+      - "A8000000 0000000C"
+      - "0000[Item] 00000000"
+      - "2800000C [Amount:000003E7:HEX:BIG]"

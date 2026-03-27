@@ -1,0 +1,30 @@
+# Arcania_ The Complete Tale cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01783
+
+game: "Arcania_ The Complete Tale"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01783"
+cheat_type: "Save Editor"
+source: "From chaoszage"
+
+cheats:
+  - name: "Lv 999"
+    notes: "File: BLES01783-MAIN-QUICK\\SAVEGAME.DAT"
+    codes:
+      - "search 0x7F7FFFFF:"
+      - "write next 4A:03E7"
+
+  - name: "Gold 999999999"
+    notes: "File: BLES01783-MAIN-QUICK\\SAVEGAME.DAT"
+    codes:
+      - "search 0x7F7FFFFF"
+      - "write next 4C:3B9AC9FF"
+
+  - name: "Health Potion X999(must Have At Least 1 Potion)"
+    notes: "File: BLES01783-MAIN-QUICK\\SAVEGAME.DAT"
+    codes:
+      - "search 0x3836373332"
+      - "write next 8:03E7"

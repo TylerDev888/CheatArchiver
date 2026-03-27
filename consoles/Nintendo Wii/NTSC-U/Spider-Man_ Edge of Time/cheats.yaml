@@ -1,0 +1,58 @@
+# Spider-Man_ Edge of Time cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  SQME52
+
+game: "Spider-Man_ Edge of Time"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "SQME52"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Mass Gains Portal Energy Per Pickup"
+    author: "Skiller"
+    codes:
+      - "20E2C290 80A30058"
+      - "04E2C290 38A07FFF"
+      - "E0000000 80008000"
+
+  - name: "Inf Energy Orbs"
+    author: "Skiller"
+    codes:
+      - "20C81434 806332A8"
+      - "C2C81434 00000003"
+      - "3C0005F5 6000E0FF"
+      - "900332A8 801F0504"
+      - "806332A8 00000000"
+      - "E0000000 80008000"
+
+  - name: "Max Golden Spiders"
+    author: "Skiller"
+    codes:
+      - "20C78278 800432AC"
+      - "C2C78278 00000002"
+      - "3C00270F 900432AE"
+      - "60000000 00000000"
+      - "E0000000 80008000"
+
+  - name: "Unlock All Upgrades (view Upgrade Menu)"
+    author: "Skiller"
+    codes:
+      - "20D5D6A0 801D0038"
+      - "C2D5D6A0 00000002"
+      - "38000000 901D0038"
+      - "801D0038 00000000"
+      - "E0000000 80008000"
+
+  - name: "Unlock And Have All Upgrades"
+    author: "Skiller"
+    codes:
+      - "20D5D6A0 801D0038"
+      - "C2D5D6A0 00000004"
+      - "38000000 901D0038"
+      - "38000001 B01D003C"
+      - "981D003E 801D0038"
+      - "60000000 00000000"
+      - "E0000000 80008000"

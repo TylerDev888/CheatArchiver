@@ -1,0 +1,396 @@
+# Burnout cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20307
+
+game: "Burnout"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20307"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01000A4 00126FAF"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00126FAF"
+
+  - name: "Always Low Fastest Lap"
+    author: "Code Master"
+    notes: "[After Race Codes (Championship Race)]"
+    codes:
+      - "202D0F90 00000000"
+      - "202D0F94 00000000"
+
+  - name: "Always Low Total Time"
+    author: "Code Master"
+    notes: "[After Race Codes (Championship Race)]"
+    codes:
+      - "202D0EB0 00000000"
+      - "202D0EB4 00000000"
+
+  - name: "Average Speed Modifier"
+    author: "Code Master"
+    notes: "[After Race Codes (Championship Race)]"
+    codes:
+      - "202D1070 ????????"
+
+  - name: "Insurance Damage Modifier"
+    author: "Code Master"
+    notes: "[After Race Codes (Championship Race)]"
+    codes:
+      - "202D1150 ????????"
+
+  - name: "Score Modifier"
+    author: "Code Master"
+    notes: "[After Race Codes (Championship Race)]"
+    codes:
+      - "202D1230 ????????"
+
+  - name: "Best Championship"
+    author: "InterAct"
+    codes:
+      - "202D0EB0 00000000"
+      - "202D0EB0 00000001"
+      - "202D0F90 00000000"
+      - "202D0F94 00000001"
+      - "202D1070 05F5E0FF"
+      - "202D1150 05F5E0FF"
+      - "202D1230 05F5E0FF"
+      - "20303760 65646F43"
+      - "20303764 79422073"
+      - "20303768 6D614720"
+      - "2030376C 61685365"
+      - "20303770 00006B72"
+
+  - name: "Best Stats Single Race"
+    author: "InterAct"
+    codes:
+      - "202D2610 00000000"
+      - "202D2614 00000001"
+      - "202D26F0 00000000"
+      - "202D26F4 00000001"
+      - "202D27D0 05F5E0FF"
+      - "202D28B0 05F5E0FF"
+      - "202D2990 05F5E0FF"
+
+  - name: "Color Select Is Always Active When Selecting Cars"
+    author: "BigBossman"
+    codes:
+      - "003A14AC 00000005"
+
+  - name: "Fall Through Ground (Hold L3)"
+    author: "47iscool"
+    codes:
+      - "201CBE20 27BDFE90"
+      - "201CBE24 7FBF0050"
+      - "E002FFFD 004EA48A"
+      - "201CBE20 03E00008"
+      - "201CBE24 00000000"
+
+  - name: "All Cars"
+    author: "Code Master"
+    notes: "[Have Car Codes]"
+    codes:
+      - "403791F4 000A0001"
+      - "00000000 00000000"
+
+  - name: "Bus"
+    author: "Code Master"
+    notes: "[Have Car Codes]"
+    codes:
+      - "00379218 00000000"
+
+  - name: "Fire Engine"
+    author: "Code Master"
+    notes: "[Have Car Codes]"
+    codes:
+      - "00379214 00000000"
+
+  - name: "Muscle"
+    author: "BigBossman"
+    notes: "[Have Car Codes]"
+    codes:
+      - "00379200 00000000"
+
+  - name: "Pickup"
+    author: "BigBossman"
+    notes: "[Have Car Codes]"
+    codes:
+      - "0037920C 00000000"
+
+  - name: "Roadster"
+    author: "Code Master"
+    notes: "[Have Car Codes]"
+    codes:
+      - "003791FC 00000000"
+
+  - name: "Saloon"
+    author: "BigBossman"
+    notes: "[Have Car Codes]"
+    codes:
+      - "00379208 00000000"
+
+  - name: "Saloon GT"
+    author: "Code Master"
+    notes: "[Have Car Codes]"
+    codes:
+      - "00379204 00000000"
+
+  - name: "Sports Coupe"
+    author: "BigBossman"
+    notes: "[Have Car Codes]"
+    codes:
+      - "003791F8 00000000"
+
+  - name: "Supermini"
+    author: "BigBossman"
+    notes: "[Have Car Codes]"
+    codes:
+      - "003791F4 00000000"
+
+  - name: "Tow Truck"
+    author: "Code Master"
+    notes: "[Have Car Codes]"
+    codes:
+      - "00379210 00000000"
+
+  - name: "All Tracks"
+    author: "Code Master"
+    notes: "[Have Championship Track Codes]"
+    codes:
+      - "4037925C 00060001"
+      - "00000000 00000000"
+
+  - name: "Big Run Grand Prix"
+    author: "Code Master"
+    notes: "[Have Championship Track Codes]"
+    codes:
+      - "00379260 00000000"
+
+  - name: "Euro Marathon"
+    author: "Code Master"
+    notes: "[Have Championship Track Codes]"
+    codes:
+      - "0037926C 00000000"
+
+  - name: "Savage Streets Grand Prix"
+    author: "Code Master"
+    notes: "[Have Championship Track Codes]"
+    codes:
+      - "00379264 00000000"
+
+  - name: "Twilight Grand Prix"
+    author: "Code Master"
+    notes: "[Have Championship Track Codes]"
+    codes:
+      - "00379268 00000000"
+
+  - name: "USA Marathon"
+    author: "Code Master"
+    notes: "[Have Championship Track Codes]"
+    codes:
+      - "00379270 00000000"
+
+  - name: "All Face Offs"
+    author: "Code Master"
+    notes: "[Have Face Off Codes]"
+    codes:
+      - "4037928C 00040001"
+      - "00000000 00000000"
+
+  - name: "Face Off 1"
+    author: "Code Master"
+    notes: "[Have Face Off Codes]"
+    codes:
+      - "0037928C 00000000"
+
+  - name: "Face Off 2"
+    author: "Code Master"
+    notes: "[Have Face Off Codes]"
+    codes:
+      - "00379290 00000000"
+
+  - name: "Face Off 3"
+    author: "Code Master"
+    notes: "[Have Face Off Codes]"
+    codes:
+      - "00379294 00000000"
+
+  - name: "Face Off 4"
+    author: "Code Master"
+    notes: "[Have Face Off Codes]"
+    codes:
+      - "00379298 00000000"
+
+  - name: "Have Survival"
+    author: "Code Master"
+    codes:
+      - "0037929C 00000000"
+
+  - name: "Cliffhanger"
+    author: "Code Master"
+    notes: "[Have Track Codes]"
+    codes:
+      - "00379228 00000000"
+
+  - name: "Country Chaos"
+    author: "Code Master"
+    notes: "[Have Track Codes]"
+    codes:
+      - "00379234 00000000"
+
+  - name: "Euro Marathon EX"
+    author: "Code Master"
+    notes: "[Have Track Codes]"
+    codes:
+      - "00379258 00000000"
+
+  - name: "Gridlock USA"
+    author: "Code Master"
+    notes: "[Have Track Codes]"
+    codes:
+      - "0037922C 00000000"
+
+  - name: "Hillside Pass"
+    author: "Code Master"
+    notes: "[Have Track Codes]"
+    codes:
+      - "00379224 00000000"
+
+  - name: "Midnight Run"
+    author: "Code Master"
+    notes: "[Have Track Codes]"
+    codes:
+      - "00379244 00000000"
+
+  - name: "Night Shift"
+    author: "Code Master"
+    notes: "[Have Track Codes]"
+    codes:
+      - "00379230 00000000"
+
+  - name: "Rush Hour"
+    author: "Code Master"
+    notes: "[Have Track Codes]"
+    codes:
+      - "00379220 00000000"
+
+  - name: "Sunset River"
+    author: "Code Master"
+    notes: "[Have Track Codes]"
+    codes:
+      - "00379250 00000000"
+
+  - name: "Twilight Harbor"
+    author: "Code Master"
+    notes: "[Have Track Codes]"
+    codes:
+      - "0037924C 00000000"
+
+  - name: "USA Marathon EX"
+    author: "Code Master"
+    notes: "[Have Track Codes]"
+    codes:
+      - "0037923C 00000000"
+
+  - name: "Infinite Credits"
+    author: "Code Master"
+    codes:
+      - "1037ED50 000003E7"
+
+  - name: "Infinite Turbo"
+    author: "Code Master"
+    codes:
+      - "203A76DC 42C80000"
+
+  - name: "Infinite Turbo All Races"
+    author: "InterAct"
+    codes:
+      - "103A76DE 000042C8"
+
+  - name: "Perfect Stats - Championship"
+    author: "Codejunkies"
+    codes:
+      - "202D0EB0 00000000"
+      - "202D0EB0 00000001"
+      - "202D0F90 00000000"
+      - "202D0F94 00000001"
+      - "202D1070 05F5E0FF"
+      - "202D1150 05F5E0FF"
+      - "202D1230 05F5E0FF"
+
+  - name: "Player Car Modifier[MOD1]"
+    author: "BigBossman"
+    codes:
+      - "003A14AC 000000??"
+
+  - name: "Press L1 Faster Acceleration"
+    author: "InterAct"
+    codes:
+      - "D04EA542 0000F7FF"
+      - "203A9134 45000000"
+
+  - name: "Press R1+X For Nitrous Boost"
+    author: "Code Master"
+    codes:
+      - "D04EA542 0000B7FF"
+      - "203A9134 453B8000"
+
+  - name: "Timer Freeze Dpad Up On/Dpad Down Off"
+    author: "47iscool"
+    codes:
+      - "D04EA48A 0000FFEF"
+      - "20129A3C 00000000"
+      - "D04EA48A 0000FFBF"
+      - "20129A3C AC820010"
+
+  - name: "Unlock All Cars"
+    author: "InterAct"
+    codes:
+      - "20379200 00000000"
+      - "20379204 00000000"
+      - "20379208 00000000"
+      - "2037920A 00000000"
+      - "2037920C 00000000"
+      - "20379210 00000000"
+      - "20379214 00000000"
+      - "20379218 00000000"
+
+  - name: "Unlock All Face Offs"
+    author: "InterAct"
+    codes:
+      - "0037928C 00000000"
+      - "00379290 00000000"
+      - "00379294 00000000"
+      - "00379298 00000000"
+
+  - name: "Unlock All Tracks"
+    author: "InterAct"
+    codes:
+      - "00379224 00000000"
+      - "0037922C 00000000"
+      - "00379234 00000000"
+      - "0037923C 00000000"
+      - "00379244 00000000"
+      - "0037924C 00000000"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00126FAF"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90126FAC 0C0473AA"

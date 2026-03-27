@@ -1,0 +1,26 @@
+# Phantom Brave cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-20345
+
+game: "Phantom Brave"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-20345"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90108D30 0C0422F4"
+
+  - name: "Enable Debug Mode [View Note]"
+    author: "punk7890"
+    codes:
+      - "201004A0 8F848810"
+      - "201004A4 34840002"
+      - "201004A8 1000000B"
+      - "201004AC AF848810"

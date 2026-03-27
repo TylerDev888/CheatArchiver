@@ -1,0 +1,122 @@
+# Dead Or Alive 2-Hardcore cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20071
+
+game: "Dead Or Alive 2-Hardcore"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20071"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0200008 0039B1BF"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9039B1BC 0C0E9662"
+
+  - name: "Infinite Health P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1048C330 0000012C"
+
+  - name: "25% Health P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D048C330 0000012C"
+      - "1048C330 0000004B"
+
+  - name: "50% Health P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D048C330 0000012C"
+      - "1048C330 00000096"
+
+  - name: "75% Health P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D048C330 0000012C"
+      - "1048C330 000000E1"
+
+  - name: "1-Hit Death P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D048C330 0000012C"
+      - "1048C330 00000001"
+
+  - name: "No Health P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1048C330 00000000"
+
+  - name: "Infinite Health P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1048C398 0000012C"
+
+  - name: "25% Health P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D048C398 0000012C"
+      - "1048C398 0000004B"
+
+  - name: "50% Health P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D048C398 0000012C"
+      - "1048C398 00000096"
+
+  - name: "75% Health P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D048C398 0000012C"
+      - "1048C398 000000E1"
+
+  - name: "1-Hit Death P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D048C398 0000012C"
+      - "1048C398 00000001"
+
+  - name: "No Health P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1048C398 00000000"
+
+  - name: "Have All Costumes"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2048B0D0 FFFFFFFF"
+      - "2048B0D4 FFFFFFFF"
+      - "2048B0D8 FFFFFFFF"
+
+  - name: "P1 Press Select+L1 To Play Next Match Naked (Choose Kasumi-Parental Advisotry-NC 17+)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D05A5EC2 0000FBFE"
+      - "2064ED70 00000405"
+      - "E0020405 0064ED70"
+      - "10653870 00000001"
+      - "1064E4E0 00000100"

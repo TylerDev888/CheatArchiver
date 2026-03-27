@@ -1,0 +1,25 @@
+# Dollar Dash (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB01058
+
+game: "Dollar Dash (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB01058"
+cheat_type: "Save Editor"
+source: "From SHAkA"
+
+cheats:
+  - name: "Max Money"
+    notes: "File: PAYLOAD"
+    codes:
+      - "write at 0x00000113:0x98967F00"
+
+  - name: "Update Sha1 For Payload (required)"
+    notes: "File: PAYLOAD  (set range:0x000014,0x0000CA)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000014,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x000000:[hash]"

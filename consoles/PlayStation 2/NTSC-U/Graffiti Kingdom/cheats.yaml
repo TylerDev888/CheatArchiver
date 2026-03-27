@@ -1,0 +1,88 @@
+# Graffiti Kingdom cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21136
+
+game: "Graffiti Kingdom"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21136"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "90116124 0C0D6C8E"
+
+  - name: "Disable FMV"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "20108590 24020001"
+
+  - name: "Infinite AP"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "200C0298 03E00008"
+      - "200C029C C6A30004"
+      - "203F8C34 0C030088"
+      - "200C0238 2401270F"
+      - "200C023C AEA1000C"
+
+  - name: "Infinite Captures Remaining"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "203A0194 00000000"
+
+  - name: "Infinite HP"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "200C0298 03E00008"
+      - "200C029C C6A30004"
+      - "203F8C34 0C030088"
+      - "200C0228 2401270F"
+      - "200C022C AEA10004"
+
+  - name: "Max AP"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "200C0298 03E00008"
+      - "200C029C C6A30004"
+      - "203F8C34 0C030088"
+      - "200C0230 2401270F"
+      - "200C0234 AEA10010"
+
+  - name: "Max HP"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "200C0298 03E00008"
+      - "200C029C C6A30004"
+      - "203F8C34 0C030088"
+      - "200C0220 2401270F"
+      - "200C0224 AEA10008"
+
+  - name: "P1 Press L1+Up For Level Gain"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "D06EB042 0000FBEF"
+      - "203F8C78 A6000036"
+      - "D06EB042 0000FFFF"
+      - "203F8C78 00000000"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90116124 0C0D6C8E"
+      - "200C0298 03E00008"
+      - "200C029C C6A30004"
+      - "203F8C34 0C030088"

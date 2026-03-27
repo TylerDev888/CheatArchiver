@@ -1,0 +1,86 @@
+# Mark Of Kri, The cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-51164
+
+game: "Mark Of Kri, The"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-51164"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F032A894 000001FD"
+
+  - name: "Crazy A.I (This Also Makes The Guys With Horns Mute)"
+    author: "Codejunkies"
+    codes:
+      - "2019DE90 03E00008"
+      - "2019DE94 00000000"
+      - "2019E0B8 03E00008"
+      - "2019E0BC 00000000"
+
+  - name: "Health Bar Always Visible"
+    author: "Codejunkies"
+    codes:
+      - "203EEB18 00000001"
+
+  - name: "Infinite Arrows"
+    author: "Codejunkies"
+    codes:
+      - "106BEB78 00000014"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "106BD946 0000429A"
+
+  - name: "Max Save Scrolls"
+    author: "Codejunkies"
+    codes:
+      - "106BEC30 00000004"
+
+  - name: "Midnight Mode"
+    author: "Codejunkies"
+    codes:
+      - "203EEB28 00000020"
+      - "203EEB30 00000020"
+
+  - name: "No Weapon Collision"
+    author: "Codejunkies"
+    codes:
+      - "20168478 03E00008"
+      - "2016847C 00000000"
+
+  - name: "Pass Through Walls (Press Up To Activate And Down To De-Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D1EF9DC2 0000FFEF"
+      - "20168CC8 03E00008"
+      - "D1EF9DC2 0000FFEF"
+      - "20168CCC 00000000"
+      - "D1EF9DC2 0000FFBF"
+      - "20168CC8 27BDFFC0"
+      - "D1EF9DC2 0000FFBF"
+      - "20168CCC FFB20020"
+
+  - name: "Pass Through Walls - To Turn Off, Press D-Pad Down To Activate"
+    author: "Codejunkies"
+    codes:
+      - "D1EF9DC2 0000FFBF"
+      - "20168CC8 27BDFFC0"
+      - "D1EF9DC2 0000FFBF"
+      - "20168CCC FFB20020"
+
+  - name: "Pass Through Walls - To Turn On, Press D-Pad Up To Activate"
+    author: "Codejunkies"
+    codes:
+      - "D1EF9DC2 0000FFEF"
+      - "20168CC8 03E00008"
+      - "D1EF9DC2 0000FFEF"
+      - "20168CCC 00000000"

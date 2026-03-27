@@ -1,0 +1,83 @@
+# Driven cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50390
+
+game: "Driven"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50390"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0137680 001C7F97"
+
+  - name: "Cockpit Wheels"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "20100EAC 00000000"
+
+  - name: "Constant Zone Time"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "1031E154 00000064"
+
+  - name: "Float Head/Wobble Mode"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "2011B79C 00000000"
+
+  - name: "Infinite Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "1031E0F4 00000005"
+
+  - name: "Never Have More Than 1 Life"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E0010001 3031E0F4"
+      - "1031E0F4 00000001"
+
+  - name: "Never Have More Than 2 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E0010002 3031E0F4"
+      - "1031E0F4 00000002"
+
+  - name: "Never Have More Than 3 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E0010003 3031E0F4"
+      - "1031E0F4 00000003"
+
+  - name: "Never Have More Than 4 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E0010004 3031E0F4"
+      - "1031E0F4 00000004"
+
+  - name: "No Wind Resistance"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "2012F0B8 03E00008"
+      - "2012F0BC 00000000"
+
+  - name: "Unlock All Story Levels"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "103CBBCC 0000FFFF"

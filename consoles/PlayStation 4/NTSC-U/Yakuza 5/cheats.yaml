@@ -1,0 +1,649 @@
+# Yakuza 5 cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA15327
+
+game: "Yakuza 5"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA15327"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "¥ 999,999,999 Kiryu money in hand"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "2000C638 3B9AC9FF"
+
+  - name: "Kiryu Lv.19 / experience value 162 599"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "00006A90 00000013"
+      - "20006A94 00027B27"
+      - "20006A98 00005559"
+
+  - name: "Kiryu skill Seoul 99"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "00006A9C 00000063"
+
+  - name: "Kiryu taxi mission pt99000"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "2000C778 000182B8"
+
+  - name: "¥ 999,999,999 Saejima money in hand"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "2000C640 3B9AC9FF"
+
+  - name: "Saejima Lv.19 / experience value 162 599"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "00006D90 00000013"
+      - "20006D94 00027B27"
+      - "20006D98 00005559"
+
+  - name: "Saejima skill Seoul 99"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "00006D9C 00000063"
+
+  - name: "¥ 999,999,999 much money in hand"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "2000C648 3B9AC9FF"
+
+  - name: "much Lv.19 / experience value 162 599"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "0000C4E0 00000013"
+      - "2000C4E4 00027B27"
+      - "2000C4E8 00005559"
+
+  - name: "much skill Seoul 99"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "0000C4EC 00000063"
+
+  - name: "much skill as a singer / expressive / MAX charm"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "2002B1C4 0000D674"
+      - "2002B1CC 0000D674"
+      - "2002B1D0 0000D674"
+
+  - name: "basic skills is dependent Lv much fan number 15000"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "100067DE 00003A98"
+
+  - name: "¥ 999,999,999 Akiyama money in hand"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "2000C63C 3B9AC9FF"
+
+  - name: "Akiyama Lv.19 / experience value 162 599"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "00006C10 00000013"
+      - "20006C14 00027B27"
+      - "20006C18 00005559"
+
+  - name: "Akiyama skill Seoul 99"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "00006C1C 00000063"
+      - "¥ 999,999,999 Shinada money in hand"
+      - "2000C644 3B9AC9FF"
+
+  - name: "Shinada Lv.19 / experience value 162 599"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "00006F10 00000013"
+      - "20006F14 00027B27"
+      - "20006F18 00005559"
+
+  - name: "Shinada skill Seoul 99"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "00006F1C 00000063"
+
+  - name: "Shinada batting ability ALL MAX"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "41018386 000003E8"
+      - "40380002 00000000"
+
+  - name: "difficulty change"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "1000000C 0000[DIFF]"
+
+  - name: "MAX Kiryu physical strength and (over limit)"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "20006A76 FFFFFFFF"
+
+  - name: "Kiryu weapon proficiency all MAX"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "41006AA6 0000FFFF"
+      - "400C0004 00000000"
+
+  - name: "MAX Akiyama physical strength and (over limit)"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "20006BF6 FFFFFFFF"
+
+  - name: "Akiyama weapon proficiency all MAX"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "41006C26 0000FFFF"
+      - "400C0004 00000000"
+
+  - name: "MAX Saejima physical strength and (over limit)"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "20006D76 FFFFFFFF"
+
+  - name: "Saejima weapon proficiency all MAX"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "41006DA6 0000FFFF"
+      - "400C0004 00000000"
+
+  - name: "MAX Shinada physical strength and (over limit)"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "20006EF6 FFFFFFFF"
+
+  - name: "Shinada weapon proficiency all MAX"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "41006F26 0000FFFF"
+      - "400C0004 00000000"
+
+  - name: "much physical strength and MAX (over limit)"
+    notes: "[Characters]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "2000C4C6 FFFFFFFF"
+
+  - name: "GUNRHEIN clear"
+    notes: "[Clear Activities]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "00018B13 00000001"
+      - "00018B17 00000005"
+
+  - name: "Mahjong clear"
+    notes: "[Clear Activities]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10013086 0000C350"
+
+  - name: "Heat action CLEAR"
+    notes: "[Clear Activities]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "40002160 000000FF"
+      - "40200001 00000000"
+
+  - name: "Meal CLEAR"
+    notes: "[Clear Activities]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "4000DDD0 000000FF"
+      - "41000001 00000000"
+
+  - name: "Golf CLEAR"
+    notes: "[Clear Activities]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "41018F82 000005DC"
+      - "40040004 00000000"
+
+  - name: "VF2 CLEAR"
+    notes: "[Clear Activities]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "1001827E 00000A0A"
+
+  - name: "UFO CLEAR"
+    notes: "[Clear Activities]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "40012F03 00000001"
+      - "40230004 00000000"
+
+  - name: "Drum master CLEAR"
+    notes: "[Clear Activities]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "4001407B 00000001"
+      - "40240004 00000000"
+
+  - name: "KARAOKE CLEAR"
+    notes: "[Clear Activities]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "42012A7C 3E83E802"
+      - "40090004 00000000"
+
+  - name: "Daiatamaha CLEAR"
+    notes: "[Clear Activities]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "40002C48 000000FF"
+      - "400A0001 00000000"
+
+  - name: "Kawatsuri"
+    notes: "[Clear Activities]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "1001847C 0000FFFE"
+      - "40018481 000000FF"
+      - "400E0004 00000000"
+      - "400184BA 00000001"
+      - "400E0001 00000000"
+
+  - name: "4 animals Kawatsuri"
+    notes: "[Clear Activities]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "000184B9 00000004"
+
+  - name: "DARTS CLEAR wait for confirmation"
+    notes: "[Clear Activities]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "000125F0 00000004"
+      - "40012603 00000003"
+      - "40040004 00000000"
+      - "41012616 000001C0"
+      - "40050004 00000000"
+      - "2001267C 00010001"
+      - "400126AF 00000001"
+      - "40060004 00000000"
+      - "410126D2 000001C0"
+      - "40050004 00000000"
+      - "100126E8 0000FFFE"
+      - "400126EF 00000001"
+      - "400F0004 00000000"
+
+  - name: "DARTS ALL PARTS"
+    notes: "[Clear Activities]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "41009584 0000057A"
+      - "40280008 00000001"
+      - "4000958B 00000001"
+      - "40280008 00000000"
+
+  - name: "Shogi CLEAR"
+    notes: "[Clear Activities]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "1000666A 00000005"
+
+  - name: "Bowling CLEAR"
+    notes: "[Clear Activities]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "00012B7C 00000001"
+      - "00012B83 00000032"
+      - "00012B87 0000012C"
+      - "00012B8B 00000003"
+      - "00012B8F 00000002"
+
+  - name: "Koikoi CLEAR"
+    notes: "[Clear Activities]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "00012CFF 00000001"
+      - "10012D07 0000FFFF"
+
+  - name: "Arena"
+    notes: "[Misc]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10002249 00001FF8"
+      - "1000224D 00007FE0"
+      - "2000225C 7FFFF804"
+
+  - name: "Snow combat sports"
+    notes: "[Misc]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "20002B28 037DF800"
+
+  - name: "Tsukkomi Master"
+    notes: "[Misc]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "20002B88 000F6CB8"
+
+  - name: "Cochin Cup Classic"
+    notes: "[Misc]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "20002BCC 7FFFFF80"
+
+  - name: "Mendokoro Tatsuya"
+    notes: "[Misc]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "00002C09 00000001"
+
+  - name: "Pre-Circle"
+    notes: "[Misc]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "20002C4A F01FFFFE"
+      - "20002C4E 0F20FFFF"
+
+  - name: "Shogi"
+    notes: "[Misc]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "0000666A 00000005"
+
+  - name: "Haruka Sawamura has 15,000 fans"
+    notes: "[Points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "100067DE 00003A98"
+
+  - name: "99,999 casino chips"
+    notes: "[Points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "2000C654 0001869F"
+      - "2000C6F4 0001869F"
+
+  - name: "9,999,999 wooden plaques"
+    notes: "[Points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "2000C668 0098967F"
+
+  - name: "Mahjong points 9,999,999"
+    notes: "[Points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "2000C67C 0098967F"
+
+  - name: "Arena 9,999,999 points"
+    notes: "[Points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "2000C68C 0098967F"
+
+  - name: "99,999 pachinko balls"
+    notes: "[Points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "2000C714 0001869F"
+
+  - name: "99,999 Pachislot medals"
+    notes: "[Points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "2000C730 0001869F"
+
+  - name: "Taxi Driver (99,000 points)"
+    notes: "[Points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "2000C778 000182B8"
+      - "2000C78C 000182B8"
+
+  - name: "Meals"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "4200DDDC FFFFFFFF"
+      - "40110004 00000000"
+      - "2000DE20 00FFFFFF"
+      - "4200DE5C FFFFFFFF"
+      - "40110004 00000000"
+      - "2000DEA0 00FFFFFF"
+
+  - name: "Weapons"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "4200DEDC FFFFFFFF"
+      - "40030004 00000000"
+      - "2000DEE8 07FFFFFF"
+
+  - name: "Coin lockers"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "420120F4 FFFFFFFF"
+      - "40030004 00000000"
+      - "20012100 F0000000"
+
+  - name: "Darts"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "400125FC 00000003"
+      - "40050004 00000000"
+      - "40012614 000001C0"
+      - "40050004 00000000"
+      - "40012720 000001C0"
+      - "40050004 00000000"
+      - "1001273A 0000FFFE"
+      - "4001273C 00000001"
+      - "400F0004 00000000"
+
+  - name: "Billiards"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "200129FD FFFFFFFF"
+      - "10012A34 00000101"
+      - "00012A36 00000018"
+      - "00012A38 000000FF"
+      - "00012A3C 000000FF"
+
+  - name: "Karaoke"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "00012A78 00000001"
+      - "42012ADE 38438401"
+      - "40150004 00000000"
+
+  - name: "Bowling"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "00012B7C 00000001"
+      - "00012B84 000000C8"
+      - "40012B88 00000001"
+      - "40020004 00000000"
+
+  - name: "Chinchirorin"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "40012BF8 00000001"
+      - "40020004 00000000"
+      - "20012C00 00004E20"
+
+  - name: "Dice and Odds"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "00012C78 00000001"
+      - "00012C7C 00000002"
+      - "00012C80 0000001A"
+      - "20012C84 00004E20"
+      - "42012C94 000000F4"
+      - "40040004 00000000"
+
+  - name: "Come Come"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "00012CF8 00000001"
+      - "40012CFC 00000005"
+      - "40020004 00000000"
+      - "20012D04 00004E20"
+
+  - name: "Roulette"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "20012D80 00004E20"
+      - "00012D88 00000001"
+
+  - name: "Poker"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "20012DFC 00004E20"
+      - "00012E00 00000001"
+
+  - name: "Black Jack"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "20012E7C 00004E20"
+      - "40012E80 00000001"
+      - "40030004 00000000"
+
+  - name: "UFO Catcher"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "40012F00 00000001"
+      - "40230004 00000000"
+
+  - name: "Mahjong"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "20013084 0000C350"
+      - "00013088 00000001"
+
+  - name: "Oicho Kabu"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "000132F800000001"
+      - "000132F8 00000001"
+      - "200132FC 00002710"
+
+  - name: "Sea fishing"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "2001337C FFFFF000"
+      - "40013380 0000270F"
+      - "40140004 00000000"
+      - "200133D0 00000014"
+
+  - name: "Pachinko"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "40013ED0 00001E61"
+      - "40020004 00000000"
+      - "40013EE4 00000001"
+      - "40020004 00000000"
+
+  - name: "Pachislot"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "40013ED8 00000309"
+      - "40030004 00000000"
+      - "40013EEC 00000003"
+      - "40030004 00000000"
+
+  - name: "Baccarat"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "20013FFC 00004E20"
+      - "40014000 00000001"
+      - "40030004 00000000"
+
+  - name: "Taiko Master"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "2001407C 00000001"
+      - "20014080 00000001"
+      - "2001408C 00000001"
+      - "20014090 00000001"
+      - "200140AC 00000001"
+      - "200140B0 00000001"
+      - "200140BC 00000001"
+      - "200140C0 00000001"
+      - "200140EC 00000001"
+      - "200140F0 00000001"
+      - "200140FC 00000001"
+      - "20014100 00000001"
+
+  - name: "Virtua Fighter 2"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "1001827E 00000A0A"
+
+  - name: "Batting Center Kamurocho"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10013284 000005DC"
+      - "10013288 0000076C"
+      - "10018382 0000FFFC"
+      - "10018404 000007D0"
+
+  - name: "River fishing"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "1001847E 0000FFFC"
+      - "40018480 0000270F"
+      - "400E0004 00000000"
+      - "400184B800000001"
+      - "400184B8 00000001"
+      - "400E0001 00000000"
+
+  - name: "GUNRHEIN"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "20018780 000F4240"
+      - "20018794 5952494B"
+      - "20018798 00000055"
+      - "20018B00 000F4240"
+      - "00018B10 00000001"
+      - "00018B14 00000005"
+
+  - name: "Air hockey"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "40018F40 00000007"
+      - "40020002 00000000"
+      - "00018F44 00000003"
+
+  - name: "Golf driving range"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10018F80 000003E8"
+      - "10018F84 000003E8"
+      - "10018F88 00000230"
+      - "10018F8C 000005DC"
+      - "10018F94 00000004"
+
+  - name: "Taxi Driver (Level 25)"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "1001B1B4 00002710"
+      - "0001B1B6 00000019"
+
+  - name: "Arena fame/rank maximum"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "4202ADC4 FFFFFFFF"
+      - "4004000400000000"
+      - "40040004 00000000"
+      - "4102ADD4 000003E7"
+      - "40040002 00000000"
+
+  - name: "All arena opponents won one match."
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "4202AEC0 01010101"
+      - "40120004 00000000"
+      - "4202B080 01010101"
+      - "40060004 00000000"
+      - "4202AF30 01010101"
+      - "40120004 00000000"
+      - "4202B0A8 01010101"
+      - "40060004 00000000"
+      - "4202AFA0 01010101"
+      - "40120004 00000000"
+      - "4202B0D0 01010101"
+      - "40060004 00000000"
+      - "4202B010 01010101"
+      - "40120004 00000000"
+      - "4202B0F8 01010101"
+      - "40060004 00000000"
+
+  - name: "Arena fully open"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "2002B190 00000000"
+
+  - name: "Haruka Sawamura's singing ability/expressiveness/charm MAX"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "2002B1C4 0000D674"
+      - "2002B1CC 0000D674"
+      - "2002B1D0 0000D674"
+
+  - name: "Sawamura Haruka Office Level MAX"
+    notes: "[Achievements]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "2002B1D8 00005DC0"
+
+  - name: "Add Items To Individual Characters Storage Box"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "92000000 0000[CHAR]"
+      - "92000000 0000[SLOT]"
+      - "18000000 0000[ITEM]"
+      - "28000002 [TYPE]"
+      - "28000006 000000[AMOUNT:63:HEX:BIG]"

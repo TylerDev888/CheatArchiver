@@ -1,0 +1,26 @@
+# After... [Limited Edition] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65481
+
+game: "After... [Limited Edition]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65481"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90143658 0C050D3E"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "10163226 0000FFFF"
+      - "20163228 FFFFFFFF"
+      - "2016322C FFFFFFFF"
+      - "00163230 000000FF"

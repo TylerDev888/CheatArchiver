@@ -1,0 +1,97 @@
+# Virtua Quest cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20977
+
+game: "Virtua Quest"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20977"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "900BEEA0 0C0409BE"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "900BEEB4 0C02D9AC"
+
+  - name: "Infinite Data Points"
+    author: "MadCatz"
+    codes:
+      - "20909208 0098967F"
+
+  - name: "Infinite HP"
+    author: "MadCatz"
+    notes: "[Sei Codes]"
+    codes:
+      - "1090913A 000003E7"
+
+  - name: "Infinite SP"
+    author: "MadCatz"
+    notes: "[Sei Codes]"
+    codes:
+      - "10909212 000003E7"
+
+  - name: "Max ATK"
+    author: "MadCatz"
+    notes: "[Sei Codes]"
+    codes:
+      - "1090913C 000003E7"
+
+  - name: "Max DEF"
+    author: "MadCatz"
+    notes: "[Sei Codes]"
+    codes:
+      - "1090913E 000003E7"
+
+  - name: "Max HP"
+    author: "MadCatz"
+    notes: "[Sei Codes]"
+    codes:
+      - "10909138 000003E7"
+      - "10909140 000003E7"
+
+  - name: "Max SP"
+    author: "MadCatz"
+    notes: "[Sei Codes]"
+    codes:
+      - "1090920C 000003E7"
+      - "1090920E 000003E7"
+
+  - name: "Always Low Lesson Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "209030E8 00000000"
+
+  - name: "Always Low Stage Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2090962C 00000000"
+
+  - name: "Always Low Total Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20909634 00000000"
+
+  - name: "Max Data Points"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20909208 05F5E0FF"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "900BEEA0 0C0409BE"

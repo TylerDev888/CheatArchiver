@@ -1,0 +1,227 @@
+# Sonic Gems Collection cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66074
+
+game: "Sonic Gems Collection"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66074"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "9010F744 00832021"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Skiller"
+    notes: "[Master Codes]"
+    codes:
+      - "9010F950 0C043DFC"
+      - "200A0000 3C010032"
+      - "200A0004 8C21C2E0"
+      - "200A0008 10200022"
+      - "200A0010 24026EE0"
+      - "200A0014 00220822"
+      - "200A0098 03E00008"
+      - "2010FE24 08028000"
+
+  - name: "Master Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "902AFC58 0C0ABEBE"
+
+  - name: "Inf Rings"
+    author: "47iscool"
+    notes: "[Sonic CD Codes]"
+    codes:
+      - "21043F90 000003E7"
+
+  - name: "Inf Time"
+    author: "47iscool"
+    notes: "[Sonic CD Codes]"
+    codes:
+      - "2104A939 00000000"
+
+  - name: "0 Ufo's Remaining (Instant Win UFO Mini-Game)"
+    author: "47iscool"
+    notes: "[Sonic CD Codes]"
+    codes:
+      - "21020060 00000000"
+
+  - name: "Inf HP/Coins"
+    author: "Skiller"
+    notes: "[Sonic CD Codes]"
+    codes:
+      - "200A001C 24020099"
+      - "200A0020 AC2200A0"
+
+  - name: "Inf Lives"
+    author: "Skiller"
+    notes: "[Sonic CD Codes]"
+    codes:
+      - "200A0024 24020003"
+      - "200A0028 A0220058"
+
+  - name: "Inf Time UFO Mini-Game"
+    author: "47iscool"
+    notes: "[Sonic CD Codes]"
+    codes:
+      - "21020070 000003E7"
+
+  - name: "Always Have 999 Rings"
+    author: "lee4"
+    notes: "[Sonic R Codes]"
+    codes:
+      - "104EFFD0 00000999"
+
+  - name: "Jump In Mid-Air Sonic"
+    author: "47iscool"
+    notes: "[Sonic R Codes]"
+    codes:
+      - "204F004C 000A0000"
+
+  - name: "Place 1St (In Grand Prix Race)"
+    author: "lee4"
+    notes: "[Sonic R Codes]"
+    codes:
+      - "004F0014 00000001"
+
+  - name: "Stop Timer On Race Start"
+    author: "47iscool"
+    notes: "[Sonic R Codes]"
+    codes:
+      - "D04F0008 0000000A"
+      - "2014D3D4 00000000"
+      - "D04F0050 00000006"
+      - "2014D3D4 0C04E560"
+
+  - name: "Walk Through All Walls And Barriers And On Air (Hold Circle)"
+    author: "47iscool"
+    notes: "[Sonic R Codes]"
+    codes:
+      - "201541DC 860200A0"
+      - "20153D90 00C99021"
+      - "E002DFFF 00BBDF02"
+      - "20153D90 1000008F"
+      - "201541DC 10000014"
+
+  - name: "Walk Through Walls (Hold Circle)"
+    author: "47iscool"
+    notes: "[Sonic R Codes]"
+    codes:
+      - "20153D90 00C99021"
+      - "D0BBDF02 0000DFFF"
+      - "20153D90 1000008F"
+
+  - name: "P1 Character Modifier"
+    author: "lee4"
+    notes: "[Sonic the Fighters]"
+    codes:
+      - "613F42E8 00000?0?"
+      - "00010001 00010EB0"
+
+  - name: "P1 Inf Barrier"
+    author: "lee4"
+    notes: "[Sonic the Fighters]"
+    codes:
+      - "0188C930 00000005"
+      - "0188C934 00000005"
+
+  - name: "P1 Inf HP"
+    author: "lee4"
+    notes: "[Sonic the Fighters]"
+    codes:
+      - "0188BE6C 0000008C"
+      - "0188C392 0000008C"
+
+  - name: "P1 Joker"
+    author: "lee4"
+    notes: "[Sonic the Fighters]"
+    codes:
+      - "E002???? 01FA1F42"
+
+  - name: "P2 Character Modifier"
+    author: "lee4"
+    notes: "[Sonic the Fighters]"
+    codes:
+      - "613F42E8 00000?0?"
+      - "00010001 000142B0"
+
+  - name: "P2 Joker"
+    author: "lee4"
+    notes: "[Sonic the Fighters]"
+    codes:
+      - "E002???? 01FA2042"
+
+  - name: "P2 No Barrier"
+    author: "lee4"
+    notes: "[Sonic the Fighters]"
+    codes:
+      - "0188FD30 00000000"
+      - "0188FD34 00000000"
+
+  - name: "P2 No HP"
+    author: "lee4"
+    notes: "[Sonic the Fighters]"
+    codes:
+      - "0188F26C 00000000"
+      - "0188F792 00000000"
+
+  - name: "Sonic The Fighters Sega Model 2 Pointer"
+    author: "lee4"
+    notes: "[Sonic the Fighters]"
+    codes:
+      - "613F42E8 000000??"
+      - "00000001 000?????"
+
+  - name: "Unlock Bare Knuckle"
+    author: "lee4"
+    notes: "[Unlock Game codes]"
+    codes:
+      - "01FC5D74 00000001"
+
+  - name: "Unlock Bare Knuckle II"
+    author: "lee4"
+    notes: "[Unlock Game codes]"
+    codes:
+      - "01FC5D78 00000001"
+
+  - name: "Unlock Bare Knuckle III"
+    author: "lee4"
+    notes: "[Unlock Game codes]"
+    codes:
+      - "01FC5D7C 00000001"
+
+  - name: "Unlock Bonanza Bros."
+    author: "lee4"
+    notes: "[Unlock Game codes]"
+    codes:
+      - "01FC5D70 00000001"
+
+  - name: "Unlock Vectorman"
+    author: "lee4"
+    notes: "[Unlock Game codes]"
+    codes:
+      - "01FC5D68 00000001"
+
+  - name: "Unlock Vectorman 2"
+    author: "lee4"
+    notes: "[Unlock Game codes]"
+    codes:
+      - "01FC5D6C 00000001"
+
+  - name: "Boot Megadrive In Fullscreen"
+    author: "lee4"
+    codes:
+      - "21ED8104 00000000"
+
+  - name: "Enable English Mode"
+    author: "lee4"
+    codes:
+      - "20103AA0 24020001"

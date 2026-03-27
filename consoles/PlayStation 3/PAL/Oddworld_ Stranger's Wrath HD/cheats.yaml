@@ -1,0 +1,52 @@
+# Oddworld_ Stranger's Wrath HD cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00645
+
+game: "Oddworld_ Stranger's Wrath HD"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00645"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "99999 Moolah(by Chaoszage)"
+    notes: "[Update 2.00 Only]  File: DATA"
+    codes:
+      - "search 0xF22DDBAB"
+      - "write next 4:0x47C34F80"
+
+  - name: "32767 Ammo For Certain Guns"
+    notes: "[Update 2.00 Only]  File: DATA"
+    codes:
+      - "search 0x7210FD2D7210FD2D7210FD2D00000001"
+      - "write next 0x14:0x00007FFFF"
+      - "search 0x7210FD2D7210FD2D7210FD2D00000001:2"
+      - "write next 0x14:0x00007FFFF"
+      - "search 0x7210FD2D7210FD2D7210FD2D00000001:3"
+      - "write next 0x14:0x00007FFFF"
+      - "search 0x7210FD2D7210FD2D7210FD2D00000001:4"
+      - "write next 0x14:0x00007FFFF"
+      - "search 0x7210FD2D7210FD2D7210FD2D00000001:5"
+      - "write next 0x14:0x00007FFFF"
+
+  - name: "Better Ammo Cheat"
+    notes: "[Update 2.00 Only]  File: DATA"
+    codes:
+      - "search 0x7210FD2D7210FD2D7210FD2D00000001"
+      - "write next 0x14:0x00007FFFF"
+      - "search next 0x7210FD2D7210FD2D7210FD2D000000"
+      - "write next 0x14:0x00007FFFF"
+      - "search next 0x7210FD2D7210FD2D7210FD2D000000"
+      - "write next 0x14:0x00007FFFF"
+      - "search next 0x7210FD2D7210FD2D7210FD2D000000"
+      - "write next 0x14:0x00007FFFF"
+      - "search next 0x7210FD2D7210FD2D7210FD2D000000"
+      - "write next 0x14:0x00007FFFF"
+      - "search next 0x7210FD2D7210FD2D7210FD2D000000"
+      - "write next 0x14:0x00007FFFF"
+      - "search next 0x7210FD2D7210FD2D7210FD2D000000"
+      - "write next 0x14:0x00007FFFF"
+      - "search next 0x7210FD2D7210FD2D7210FD2D000000"
+      - "write next 0x14:0x00007FFFF"

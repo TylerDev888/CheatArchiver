@@ -1,0 +1,49 @@
+# Splinter Cell_ Chaos Theory cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Splinter Cell_ Chaos Theory"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "901256E0 0C04136E"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "205BDBE4 E481031C"
+
+  - name: "Ammo (No Reload)"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "204A1B54 00000000"
+      - "204A1B60 00000000"
+
+  - name: "Silent"
+    author: "Xploder"
+    notes: "[Always]"
+    codes:
+      - "20608624 AE20047C"
+      - "20608750 AE20047C"
+
+  - name: "In Shadow"
+    author: "Xploder"
+    notes: "[Always]"
+    codes:
+      - "203B63C8 AE0000E8"
+
+  - name: "Mission Select"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "20578B78 24030001"

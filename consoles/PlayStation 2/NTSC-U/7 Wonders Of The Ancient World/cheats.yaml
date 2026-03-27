@@ -1,0 +1,49 @@
+# 7 Wonders Of The Ancient World cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21693
+
+game: "7 Wonders Of The Ancient World"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21693"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Skiller"
+    notes: "[Masters]"
+    codes:
+      - "901C3498 0C070CCE"
+
+  - name: "Gain 1000 Points Per Break"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "2010DE30 34842710"
+
+  - name: "Gain 32000 Points Per Break"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "2010DE30 34847D00"
+
+  - name: "Always Have Hints"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "20118188 E6030398"
+
+  - name: "Infinite Time"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "20118148 00000000"
+
+  - name: "Always Give Stones"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "2011A1B4 AC440000"
+      - "2011A138 AC460000"

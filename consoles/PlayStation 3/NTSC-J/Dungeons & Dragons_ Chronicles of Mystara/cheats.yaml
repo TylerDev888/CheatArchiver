@@ -1,0 +1,22 @@
+# Dungeons & Dragons_ Chronicles of Mystara cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM61055
+
+game: "Dungeons & Dragons_ Chronicles of Mystara"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM61055"
+cheat_type: "Save Editor"
+source: "From Keha World"
+
+cheats:
+  - name: "Xp 999999"
+    notes: "[Dungeons & Dragons: Tower Of Doom]  File: DATA0.DAT"
+    codes:
+      - "200002A0 00999999"
+
+  - name: "Money 99999"
+    notes: "[Dungeons & Dragons: Tower Of Doom]  File: DATA0.DAT"
+    codes:
+      - "200002A4 00099999"

@@ -1,0 +1,25 @@
+# Tokyo Jungle (PSN) cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUA80523
+
+game: "Tokyo Jungle (PSN)"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUA80523"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Survival Points"
+    notes: "File: NPUA80523-AUTO-\\SYS-DATA"
+    codes:
+      - "20000160 0098967F"
+
+  - name: "Unlock All Animals"
+    notes: "File: NPUA80523-AUTO-\\SYS-DATA"
+    codes:
+      - "40000128 00000004"
+      - "40350001 00000000"
+      - "40000164 00000001"
+      - "40350001 00000000"

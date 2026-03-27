@@ -1,0 +1,26 @@
+# Swords cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  SSZE5G
+
+game: "Swords"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "SSZE5G"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "One-Hit Kills Enemy"
+    author: "Skiller"
+    codes:
+      - "C2012CE0 00000002"
+      - "93830754 7D8903A6"
+      - "60000000 00000000"
+
+  - name: "Inf HP Player 1"
+    author: "Skiller"
+    codes:
+      - "C2012CC4 00000002"
+      - "D0030754 7D8903A6"
+      - "60000000 00000000"

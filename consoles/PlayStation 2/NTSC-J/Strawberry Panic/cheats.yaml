@@ -1,0 +1,25 @@
+# Strawberry Panic cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25612
+
+game: "Strawberry Panic"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25612"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90111250 0C04443C"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "01E45450 000000FF"
+      - "41E45470 000F0001"
+      - "FFFFFFFF 00000000"

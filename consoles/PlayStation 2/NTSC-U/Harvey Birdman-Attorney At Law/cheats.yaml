@@ -1,0 +1,30 @@
+# Harvey Birdman-Attorney At Law cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21680
+
+game: "Harvey Birdman-Attorney At Law"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21680"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901C6C70 00832021"
+
+  - name: "Infinite Retries"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "104B1DC0 00000005"
+
+  - name: "Infinite Retries (Alternate)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20166670 24060005"

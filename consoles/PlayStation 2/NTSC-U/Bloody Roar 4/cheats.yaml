@@ -1,0 +1,286 @@
+# Bloody Roar 4 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20795
+
+game: "Bloody Roar 4"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20795"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "902D5360 0C0B5480"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 002D9D37"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "90106508 0C0B6704"
+
+  - name: "Blocking Disabled Both Players"
+    author: "nolberto82"
+    codes:
+      - "20136240 00000000"
+
+  - name: "Hit Anywhere Both Players"
+    author: "nolberto82"
+    codes:
+      - "20135A28 00000000"
+      - "20135A3C 00000000"
+      - "20135A54 00000000"
+
+  - name: "Infinite Beast Meter P1 & P2"
+    author: "Code Master"
+    codes:
+      - "200C0240 3C010040"
+      - "200C0244 8C21FE28"
+      - "200C0248 03E00008"
+      - "200C024C 24020064"
+      - "2013A07C 0C030090"
+
+  - name: "Infinite Beast Meter P1 ONLY"
+    author: "Code Master"
+    codes:
+      - "200C0240 3C010040"
+      - "200C0244 8C21FE28"
+      - "200C0248 50300001"
+      - "200C024C 24020064"
+      - "200C0250 03E00008"
+      - "200C0254 00000000"
+      - "2013A07C 0C030090"
+
+  - name: "Infinite Beast Meter P1/No Beast Meter P2"
+    author: "Code Master"
+    codes:
+      - "200C0240 3C010040"
+      - "200C0244 8C21FE28"
+      - "200C0248 50300002"
+      - "200C024C 24020064"
+      - "200C0250 2402FFFF"
+      - "200C0254 03E00008"
+      - "200C0258 00000000"
+      - "2013A07C 0C030090"
+
+  - name: "Infinite Beast Meter P2 ONLY"
+    author: "Code Master"
+    codes:
+      - "200C0240 3C010040"
+      - "200C0244 8C21FE28"
+      - "200C0248 54300001"
+      - "200C024C 24020064"
+      - "200C0250 03E00008"
+      - "200C0254 00000000"
+      - "2013A07C 0C030090"
+
+  - name: "Infinite Beast Meter P2/No Beast Meter P1"
+    author: "Code Master"
+    codes:
+      - "200C0240 3C010040"
+      - "200C0244 8C21FE28"
+      - "200C0248 54300002"
+      - "200C024C 24020064"
+      - "200C0250 2402FFFF"
+      - "200C0254 03E00008"
+      - "200C0258 00000000"
+      - "2013A07C 0C030090"
+
+  - name: "Infinite Health P1 & P2"
+    author: "Code Master"
+    codes:
+      - "200C0220 3C010040"
+      - "200C0224 8C21FE28"
+      - "200C022C 03E00008"
+      - "200C0230 24020064"
+      - "2013A0FC 0C030088"
+
+  - name: "Infinite Health P1 ONLY"
+    author: "Code Master"
+    codes:
+      - "200C0220 3C010040"
+      - "200C0224 8C21FE28"
+      - "200C0228 50300001"
+      - "200C022C 24020064"
+      - "200C0230 03E00008"
+      - "200C0234 00000000"
+      - "2013A0FC 0C030088"
+
+  - name: "Infinite Health P1/P2 1-Hit Death"
+    author: "Code Master"
+    codes:
+      - "200C0220 3C010040"
+      - "200C0224 8C21FE28"
+      - "200C0228 50300002"
+      - "200C022C 24020064"
+      - "200C0230 2402FFFF"
+      - "200C0234 03E00008"
+      - "200C0238 00000000"
+      - "2013A0FC 0C030088"
+
+  - name: "Infinite Health P2 ONLY"
+    author: "Code Master"
+    codes:
+      - "200C0220 3C010040"
+      - "200C0224 8C21FE28"
+      - "200C0228 54300001"
+      - "200C022C 24020064"
+      - "200C0230 03E00008"
+      - "200C0234 00000000"
+      - "2013A0FC 0C030088"
+
+  - name: "Infinite Health P2/P1 1-Hit Death"
+    author: "Code Master"
+    codes:
+      - "200C0220 3C010040"
+      - "200C0224 8C21FE28"
+      - "200C0228 54300002"
+      - "200C022C 24020064"
+      - "200C0230 2402FFFF"
+      - "200C0234 03E00008"
+      - "200C0238 00000000"
+      - "2013A0FC 0C030088"
+
+  - name: "Infinite Time"
+    author: "Code Master"
+    codes:
+      - "20133120 00000000"
+
+  - name: "Max DNA"
+    author: "Code Master"
+    codes:
+      - "203FFE8C 05F5E0FF"
+
+  - name: "Max Max DNA"
+    author: "Code Master"
+    codes:
+      - "203FFE90 05F5E0FF"
+
+  - name: "Max: DNA"
+    author: "MadCatz"
+    codes:
+      - "203FFE8C 05F5E0FF"
+      - "203FFE90 05F5E0FF"
+
+  - name: "Activator"
+    notes: "[Player Codes]"
+    codes:
+      - "200C2000 27BDFFF0"
+      - "200C2004 AFA50000"
+      - "200C2008 AFA50004"
+      - "200C200C 3C050040"
+      - "200C2010 24060064"
+      - "200C2014 8CA1FE28"
+      - "200C2018 56410004"
+      - "400C201C 00040001"
+      - "00000000 00000000"
+      - "200C202C 8CA1FE2C"
+      - "200C2030 56410004"
+      - "400C2034 00040001"
+      - "00000000 00000000"
+      - "200C2044 8FA60004"
+      - "200C2048 8FA50000"
+      - "200C204C 03E00008"
+      - "200C2050 27BD0010"
+      - "2013A30C 08030800"
+
+  - name: "Player 1: Infinite Beast"
+    author: "MadCatz"
+    notes: "[Player Codes]"
+    codes:
+      - "200C2024 AC2604C8"
+      - "200C2028 AC2604CC"
+
+  - name: "Player 1: Infinite Health"
+    author: "MadCatz"
+    notes: "[Player Codes]"
+    codes:
+      - "200C201C AC2604C0"
+      - "200C2020 AC2604C4"
+
+  - name: "Player 1: No Beast"
+    author: "MadCatz"
+    notes: "[Player Codes]"
+    codes:
+      - "200C2024 AC2004C8"
+      - "200C2028 AC2004CC"
+
+  - name: "Player 1: No Health"
+    author: "MadCatz"
+    notes: "[Player Codes]"
+    codes:
+      - "200C201C AC2004C0"
+      - "200C2020 AC2004C4"
+
+  - name: "Player 2: Infinite Beast"
+    author: "MadCatz"
+    notes: "[Player Codes]"
+    codes:
+      - "200C203C AC2604C8"
+      - "200C2040 AC2604CC"
+
+  - name: "Player 2: Infinite Health"
+    author: "MadCatz"
+    notes: "[Player Codes]"
+    codes:
+      - "200C2034 AC2604C0"
+      - "200C2038 AC2604C4"
+
+  - name: "Player 2: No Beast"
+    author: "MadCatz"
+    notes: "[Player Codes]"
+    codes:
+      - "200C203C AC2004C8"
+      - "200C2040 AC2004CC"
+
+  - name: "Player 2: No Health"
+    author: "MadCatz"
+    notes: "[Player Codes]"
+    codes:
+      - "200C2034 AC2004C0"
+      - "200C2038 AC2004C4"
+
+  - name: "Quick DNA Gain"
+    author: "Code Master"
+    codes:
+      - "103FFE8C 0000FFFF"
+
+  - name: "Quick Max DNA Gain"
+    author: "Code Master"
+    codes:
+      - "103FFE90 0000FFFF"
+
+  - name: "Unlock: Kohryu The Ironmole"
+    author: "MadCatz"
+    codes:
+      - "203FFE58 53746561"
+
+  - name: "Unlock: Long The Tiger"
+    author: "MadCatz"
+    codes:
+      - "203FFE64 63652062"
+
+  - name: "Unlock: Ryoho The Dragon"
+    author: "MadCatz"
+    codes:
+      - "203FFE68 6F792021"
+
+  - name: "Unlock: Shina The Leopard"
+    author: "MadCatz"
+    codes:
+      - "203FFE60 69732061"
+
+  - name: "Unlock: Uranus The Chimera"
+    author: "MadCatz"
+    codes:
+      - "203FFE5C 6C207468"

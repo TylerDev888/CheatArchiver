@@ -1,0 +1,47 @@
+# Uncharted 3_ Drake's Deception Remastered cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA03282
+
+game: "Uncharted 3_ Drake's Deception Remastered"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA03282"
+cheat_type: "AP"
+source: "by bucanero"
+
+cheats:
+  - name: "Decrypt Usr-data (required)"
+    notes: "File: USR-DATA  \\\\endian_swap(4) \\\\endian_swap(4) () (cheat codes go here) ()"
+    codes:
+      - "set [end]:read(EOF-3, 4)"
+      - "set [end]:endian_swap"
+      - "set range:0x00000C,[end]+0x0B"
+      - "DECRYPT blowfish_ecb(\"(SH[@2>r62%5+QKpy|g6\")"
+
+  - name: "Update Crc32 Checksum For Usr-data (required)"
+    notes: "File: USR-DATA"
+    codes:
+      - "set [block_length]:read(0x590,4)"
+      - "set [block_length]:endian_swap"
+      - "set [block_length]:[block_length]+0x58B"
+      - "set range:0x590,[block_length]"
+      - "set [hash]:crc32"
+      - "set [hash]:endian_swap"
+      - "write at 0x58C:[hash]"
+
+  - name: "Update Hmac Sha1 Checksum For Usr-data (required)"
+    notes: "File: USR-DATA"
+    codes:
+      - "set pointer:EOF-0x23"
+      - "set range:0x00000C,pointer"
+      - "set [hash]:hmac_sha1(\"xM;6X%/p^L/:}-5QoA+K8:F*M!~sb(WK<E%6sW_un0a[7Gm6,()kHoXY+yI/s;Ba\")"
+      - "write next (0):[hash]"
+
+  - name: "Encrypt Usr-data (required)"
+    notes: "File: USR-DATA  \\\\endian_swap(4) \\\\endian_swap(4)"
+    codes:
+      - "set [end]:read(EOF-3, 4)"
+      - "set [end]:endian_swap"
+      - "set range:0x00000C,[end]+0x0B"
+      - "ENCRYPT blowfish_ecb(\"(SH[@2>r62%5+QKpy|g6\")"

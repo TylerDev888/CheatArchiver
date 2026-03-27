@@ -1,0 +1,57 @@
+# Aliens_ Colonial Marines cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01455
+
+game: "Aliens_ Colonial Marines"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01455"
+cheat_type: "Save Editor"
+source: "From zeick"
+
+cheats:
+  - name: "Decompress Payload (required)"
+    notes: "File: PAYLOAD"
+    codes:
+      - "Decompress(0x00000018, 15)"
+
+  - name: "Xenomorph 99 Upgrade Points"
+    notes: "File: ~extracted\\00000018.dat"
+    codes:
+      - "write at 0x00000179:0x63"
+
+  - name: "Fix Compression"
+    notes: "File: BLES01455-PROFILE\\PAYLOAD"
+    codes:
+      - "delete at 0x20:0x4FF"
+
+  - name: "Xenomorph Max Xp"
+    notes: "File: BLES01455-PROFILE\\PAYLOAD"
+    codes:
+      - "search 0x03000C"
+      - "write next (10):0x00039206"
+
+  - name: "Marine 99 Upgrade Points"
+    notes: "File: BLES01455-PROFILE\\PAYLOAD"
+    codes:
+      - "write at 0x0000016D:0x63"
+
+  - name: "Marine Max Xp"
+    notes: "File: BLES01455-PROFILE\\PAYLOAD"
+    codes:
+      - "search 0x03000C"
+      - "write next (3):0x00039206"
+
+  - name: "Compress Payload (required)"
+    notes: "File: PAYLOAD"
+    codes:
+      - "Compress(0x00000018)"
+
+  - name: "Update Sha1 (required)"
+    notes: "File: BLES01455-PROFILE\\PAYLOAD"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000014,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x000000:[hash]"

@@ -1,0 +1,47 @@
+# Leisure Suit Larry - Magne Cum Laude cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52642
+
+game: "Leisure Suit Larry - Magne Cum Laude"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52642"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F011C3B4 0011C3B7"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "201A25BC 2403000A"
+
+  - name: "Infinite Lives"
+    author: "Codejunkies"
+    codes:
+      - "20243F98 00000000"
+
+  - name: "Max Fame"
+    author: "Codejunkies"
+    codes:
+      - "201A1F58 3C0142C8"
+      - "201A1F5C 44810000"
+
+  - name: "Max Token Victory/Money"
+    author: "Codejunkies"
+    codes:
+      - "200FFF00 240103E7"
+      - "200FFF04 AC410000"
+      - "200FFF08 080853A0"
+      - "20214F58 0803FFC0"
+
+  - name: "Never Drunk"
+    author: "Codejunkies"
+    codes:
+      - "201BD9A8 24020000"

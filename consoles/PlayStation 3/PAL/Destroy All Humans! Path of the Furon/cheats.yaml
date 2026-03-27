@@ -1,0 +1,21 @@
+# Destroy All Humans! Path of the Furon cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00467
+
+game: "Destroy All Humans! Path of the Furon"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00467"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32big For Payload (required)"
+    notes: "File: PAYLOAD  (set range:0x000004,0x004998) (write at 0x004999:[hash])"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32Big"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"

@@ -1,0 +1,485 @@
+# Jak 3 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97330
+
+game: "Jak 3"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97330"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "90120118 0C047FEE"
+      - "200FF000 3C012000"
+      - "200FF004 03212025"
+      - "200FF008 3C053C04"
+      - "200FF00C 34A50008"
+      - "200FF010 24062000"
+      - "200FF014 8C830000"
+      - "200FF018 14650002"
+      - "200FF01C 34630004"
+      - "200FF020 AC830000"
+      - "200FF024 24C6FFFC"
+      - "200FF028 1CC0FFFA"
+      - "200FF02C 24840004"
+      - "200FF030 03200008"
+      - "200FF034 00000000"
+      - "201091DC 0C03FC00"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0000000E"
+      - "A00C0000 3C032008"
+      - "A00C0004 3C011000"
+      - "A00C0008 3421FFFD"
+      - "A00C000C AC610008"
+      - "A00C0010 3C012405"
+      - "A00C0014 34210002"
+      - "A00C0018 AC61000C"
+      - "A00C001C 3C018D0C"
+      - "A00C0020 03E00008"
+      - "A00C0024 AC610040"
+      - "201091E4 0C030000"
+
+  - name: "Player 1 Controller"
+    author: "bungholio"
+    notes: "[Jokers]"
+    codes:
+      - "D0129382 0000????"
+
+  - name: "Bad Weather"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "705C064C 00000004"
+
+  - name: "Big Head Mode"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "705C064A 00000080"
+
+  - name: "Dark Jak Homing Attacks"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "705C064C 00000020"
+
+  - name: "Fast Movies"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "705C064B 00000002"
+
+  - name: "Invulnerability"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "705C064A 00000002"
+
+  - name: "Kleiver's Diaper"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "705C064C 00000002"
+
+  - name: "Mirror World"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "705C0649 00000080"
+
+  - name: "Slow Movies"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "705C064B 00000004"
+
+  - name: "Small Head Mode"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "705C064B 00000001"
+
+  - name: "Toggle Jak's Goatee"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "705C0649 00000040"
+
+  - name: "Turbo Jetboard In Desert"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "705C064B 00000020"
+
+  - name: "Unlimited Ammo"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "705C064A 00000001"
+
+  - name: "Unlimited Dark Jak"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "705C064A 00000004"
+
+  - name: "Unlimited Light Jak"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "705C064A 00000008"
+
+  - name: "Unlimited Vehicle Turbos"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "705C064B 00000008"
+
+  - name: "Upgrade Vehicle Toughness"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "705C064B 00000010"
+
+  - name: "Have All Armor, Dark Jak And All Dark Jak Powers, And Light Jak And All Light Jak Powers"
+    author: "bungholio"
+    codes:
+      - "205C061C 07FFDFAF"
+
+  - name: "Have All Guns And Gun Modifications, Jetboard, And Daxter"
+    author: "bungholio"
+    codes:
+      - "205C0618 FF97FFE0"
+
+  - name: "Have All Inventory Items Except Jetboard"
+    author: "bungholio"
+    codes:
+      - "205C0630 0007FFFF"
+
+  - name: "Infinite Ammo (All Weapons)"
+    author: "MadCatz"
+    codes:
+      - "2078D130 00000000"
+
+  - name: "Infinite Double Jumps"
+    author: "bungholio"
+    codes:
+      - "D0129382 0000BFFF"
+      - "1017B230 00001007"
+
+  - name: "Infinite Health"
+    author: "MadCatz"
+    codes:
+      - "20180360 41800000"
+
+  - name: "Infinite Vehicle Health"
+    author: "Azagthoth"
+    codes:
+      - "200FF064 AC2201BC"
+      - "200FF068 AC2001C0"
+
+  - name: "Infinite Vehicle Turbo's"
+    author: "Azagthoth"
+    codes:
+      - "200FF06C AC2303E8"
+
+  - name: "Enabler"
+    author: "MadCatz"
+    notes: "[Inventory]"
+    codes:
+      - "200C0090 8C810094"
+      - "200C00A8 AC810094"
+      - "200C00AC 8C810098"
+      - "200C00D0 AC810098"
+      - "200C00E8 DC840094"
+      - "200C00EC 03E00008"
+      - "200C00F0 00641824"
+      - "209AADA0 0C030024"
+      - "209AADA4 00000000"
+
+  - name: "Have All Armor"
+    author: "MadCatz"
+    notes: "[Inventory]"
+    codes:
+      - "200C00B0 3C0900F0"
+      - "200C00B4 00290825"
+
+  - name: "Have All Dark Jak Powers"
+    author: "MadCatz"
+    notes: "[Inventory]"
+    codes:
+      - "200C00B8 3C090008"
+      - "200C00BC 35290E00"
+      - "200C00C0 00290825"
+
+  - name: "Have All Items"
+    author: "MadCatz"
+    notes: "[Inventory]"
+    codes:
+      - "200C0094 3C090004"
+      - "200C0098 00290825"
+      - "200C00D4 8C8100AC"
+      - "200C00D8 3C090007"
+      - "200C00DC 3529FFFF"
+      - "200C00E0 00290825"
+      - "200C00E4 AC8100AC"
+
+  - name: "Have All Light Jak Powers"
+    author: "MadCatz"
+    notes: "[Inventory]"
+    codes:
+      - "200C00C4 3C090007"
+      - "200C00C8 35298000"
+      - "200C00CC 00290825"
+
+  - name: "Have All Morph Gun Mods"
+    author: "MadCatz"
+    notes: "[Inventory]"
+    codes:
+      - "200C009C 3C090003"
+      - "200C00A0 3529FFC0"
+      - "200C00A4 00290825"
+
+  - name: "Have All Vehicles"
+    author: "MadCatz"
+    notes: "[Inventory]"
+    codes:
+      - "005C0670 000000FF"
+
+  - name: "English"
+    author: "Code Master"
+    notes: "[Language Modifier Codes]"
+    codes:
+      - "A0111408 03E00008"
+      - "A011140C 24020001"
+
+  - name: "French"
+    author: "Code Master"
+    notes: "[Language Modifier Codes]"
+    codes:
+      - "A0111408 03E00008"
+      - "A011140C 24020002"
+
+  - name: "German"
+    author: "Code Master"
+    notes: "[Language Modifier Codes]"
+    codes:
+      - "A0111408 03E00008"
+      - "A011140C 24020004"
+
+  - name: "Italian"
+    author: "Code Master"
+    notes: "[Language Modifier Codes]"
+    codes:
+      - "A0111408 03E00008"
+      - "A011140C 24020005"
+
+  - name: "Japanese"
+    author: "Code Master"
+    notes: "[Language Modifier Codes]"
+    codes:
+      - "A0111408 03E00008"
+      - "A011140C 24020000"
+
+  - name: "Portuguese"
+    author: "Code Master"
+    notes: "[Language Modifier Codes]"
+    codes:
+      - "A0111408 03E00008"
+      - "A011140C 24020007"
+
+  - name: "Spanish"
+    author: "Code Master"
+    notes: "[Language Modifier Codes]"
+    codes:
+      - "A0111408 03E00008"
+      - "A011140C 24020003"
+
+  - name: "Max Health"
+    author: "MadCatz"
+    codes:
+      - "20180364 41800000"
+
+  - name: "Max Metal Head Skull Gems"
+    author: "MadCatz"
+    codes:
+      - "205C05E4 42C60000"
+
+  - name: "Max Precursor Orbs"
+    author: "MadCatz"
+    codes:
+      - "205C05EC 42C60000"
+
+  - name: "No Clipping - R2 + Up To Enable, R2 + Down To Disable"
+    author: "bungholio"
+    codes:
+      - "D0129382 0000FDEF"
+      - "1017B1A4 0000FFFF"
+      - "D0129382 0000FDBF"
+      - "1017B1A4 00000011"
+
+  - name: "No Dark Eco"
+    author: "MadCatz"
+    codes:
+      - "205C0604 00000000"
+
+  - name: "No Light Eco"
+    author: "MadCatz"
+    codes:
+      - "205C060C 00000000"
+
+  - name: "Secrets Enabler"
+    author: "MadCatz"
+    notes: "[Secrets]"
+    codes:
+      - "200C0040 8C6200C4"
+      - "200C005C AC6200C4"
+      - "200C0060 8C6200C8"
+      - "200C0078 AC6200C8"
+      - "200C007C 03E00008"
+      - "200C0080 DC6300CC"
+      - "20AC8E0C 0C030010"
+
+  - name: "Unlock All Secrets"
+    author: "MadCatz"
+    notes: "[Secrets]"
+    codes:
+      - "205C0650 FFFFFFFF"
+      - "205C0654 FFFFFFFF"
+
+  - name: "Infinite Ammo (Blaster Mod)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "205C0664 42C80000"
+
+  - name: "Infinite Ammo (Peace Maker)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "205C066C 42C80000"
+
+  - name: "Infinite Ammo (Scatter Gun)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "205C0660 42480000"
+
+  - name: "Infinite Ammo (Vulcan Fury)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "205C0668 40A00000"
+
+  - name: "Infinite Dark Eco Meter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "205C0604 42C80000"
+
+  - name: "Infinite Light Eco Meter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "205C060C 42C80000"
+
+  - name: "Max Metal Head Skull Gems (Current)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "205C05E4 4479C000"
+
+  - name: "Max Precursor Orbs (Current)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "205C05EC 44160000"
+
+  - name: "Max Precursor Orbs (Overall)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "205C05F0 44160000"
+
+  - name: "Vehicle Activator Press Select On, Press L3 Off"
+    author: "Azagthoth"
+    codes:
+      - "200FF040 3C010019"
+      - "200FF044 8C21F4A8"
+      - "200FF048 1020000A"
+      - "200FF050 8C210000"
+      - "200FF054 10200007"
+      - "200FF05C 3C023F80"
+      - "200FF060 3C034040"
+      - "200FF074 03E00008"
+      - "D0129382 0000FFFE"
+      - "201205CC 0803FC10"
+      - "D0129382 0000FFFD"
+      - "201205CC 03E00008"
+
+  - name: "Have All Art Gallery"
+    author: "MadCatz"
+    notes: "[View Secrets Menu In-Game For]"
+    codes:
+      - "200C0058 34423B1E"
+
+  - name: "Have All Expert Options"
+    author: "MadCatz"
+    notes: "[View Secrets Menu In-Game For]"
+    codes:
+      - "200C0054 344200E1"
+
+  - name: "Have All Vehicle Upgrades"
+    author: "MadCatz"
+    notes: "[View Secrets Menu In-Game For]"
+    codes:
+      - "200C004C 3C01C000"
+      - "200C0050 00411025"
+      - "200C0070 34420001"
+
+  - name: "Have All Weapon Upgrades"
+    author: "MadCatz"
+    notes: "[View Secrets Menu In-Game For]"
+    codes:
+      - "200C0044 3C010040"
+      - "200C0048 00411025"
+      - "200C0064 3C0103FF"
+      - "200C0068 3421FC00"
+      - "200C006C 00411025"
+
+  - name: "Have Dark Jak Invisibility At Will"
+    author: "MadCatz"
+    notes: "[View Secrets Menu In-Game For]"
+    codes:
+      - "200C0074 34420100"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90120118 0C047FEE"
+      - "200FF000 3C012000"
+      - "200FF004 03212025"
+      - "200FF008 3C053C04"
+      - "200FF00C 34A50008"
+      - "200FF010 24062000"
+      - "200FF014 8C830000"
+      - "200FF018 14650002"
+      - "200FF01C 34630004"
+      - "200FF020 AC830000"
+      - "200FF024 24C6FFFC"
+      - "200FF028 1CC0FFFA"
+      - "200FF02C 24840004"
+      - "200FF030 03200008"
+      - "200FF034 00000000"
+      - "201091DC 0C03FC00"

@@ -1,0 +1,113 @@
+# Tekken Tag Tournament cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-50001
+
+game: "Tekken Tag Tournament"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-50001"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F03573D0 000001FD"
+
+  - name: "Max Energy"
+    author: "Codejunkies"
+    notes: "[Player 1 Energy Codes]"
+    codes:
+      - "2087D934 00097330"
+      - "2087D938 00097330"
+
+  - name: "Never Has More Than 25% Energy"
+    author: "Codejunkies"
+    notes: "[Player 1 Energy Codes]"
+    codes:
+      - "E0025CCC 3087D934"
+      - "E0010002 3087D936"
+      - "2087D934 00025CCC"
+      - "E0025CCC 3087D938"
+      - "E0010002 3087D93A"
+      - "2087D938 00025CCC"
+
+  - name: "Never Has More Than 50% Energy"
+    author: "Codejunkies"
+    notes: "[Player 1 Energy Codes]"
+    codes:
+      - "E002B998 3087D934"
+      - "E0010004 3087D936"
+      - "2087D934 0004B998"
+      - "E002B998 3087D938"
+      - "E0010004 3087D93A"
+      - "2087D938 0004B998"
+
+  - name: "Never Has More Than 75% Energy"
+    author: "Codejunkies"
+    notes: "[Player 1 Energy Codes]"
+    codes:
+      - "E0021664 3087D934"
+      - "E0010007 3087D936"
+      - "2087D934 00071664"
+      - "E0021664 3087D938"
+      - "E0010007 3087D93A"
+      - "2087D938 00071664"
+
+  - name: "One Hit K.O."
+    author: "Codejunkies"
+    notes: "[Player 1 Energy Codes]"
+    codes:
+      - "2087D934 00000001"
+      - "2087D938 00000001"
+
+  - name: "60 Hertz"
+    author: "nemesis01"
+    codes:
+      - "203F7A44 24120002"
+
+  - name: "Open Everything"
+    author: "InterAct"
+    codes:
+      - "2043DFB0 FFFFFFFF"
+      - "2043DFB4 FFFFFFFF"
+      - "2043DFB8 FFFFFFFF"
+
+  - name: "Y-Fix"
+    author: "nemesis01"
+    codes:
+      - "003F7C9C 00000010"
+      - "003F7CFC 00000010"
+      - "003F7D40 00000010"
+      - "003F7DC0 00000010"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F03572A0 004066F3"
+
+  - name: "Unlock Everything"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2043DFB0 FFFFFFFF"
+      - "2043DFB4 FFFFFFFF"
+      - "2043DFB8 FFFFFFFF"
+
+  - name: "Player 1"
+    author: "Xploder"
+    notes: "[Unlimited Energy]"
+    codes:
+      - "2087D934 00096828"
+      - "2087D938 00096828"
+
+  - name: "Player 2"
+    author: "Xploder"
+    notes: "[Unlimited Energy]"
+    codes:
+      - "208891D4 00096828"
+      - "208891D8 00096828"

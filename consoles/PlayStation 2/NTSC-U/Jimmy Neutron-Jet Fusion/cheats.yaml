@@ -1,0 +1,61 @@
+# Jimmy Neutron-Jet Fusion cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20696
+
+game: "Jimmy Neutron-Jet Fusion"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20696"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0200008 002B08E3"
+
+  - name: "Infinite Lives"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202CFB30 00000000"
+
+  - name: "Extra Lives"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "102CFB28 00000001"
+
+  - name: "Infinite Battery Pack"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "0057DF9E 00000001"
+
+  - name: "Enemies Dont Attack You"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "0057DF9F 00000001"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "0057DFA0 00000001"
+
+  - name: "Access Exit Level (Pause Menu)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20314304 00000000"
+      - "2031441C 00000000"
+
+  - name: "Unlock All Extras"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "0057DFA1 00000001"

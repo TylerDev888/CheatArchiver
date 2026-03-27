@@ -1,0 +1,31 @@
+# Metal Gear Solid 5_ Ground Zeroes cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01971
+
+game: "Metal Gear Solid 5_ Ground Zeroes"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01971"
+cheat_type: "AP"
+source: "encryption/checksum by bucanero"
+
+cheats:
+  - name: "Decrypt Save Data (required)"
+    notes: "File: SAVE*  (codes go here)"
+    codes:
+      - "set range:0x0000,EOF+1"
+      - "DECRYPT MGS5_TPP(0xE13943C4)"
+
+  - name: "Update Md5 Checksum (required)"
+    notes: "File: SAVE*"
+    codes:
+      - "set range:0x0010,EOF+1"
+      - "set [hash]:MD5"
+      - "write at 0x0000:[hash]"
+
+  - name: "Encrypt Save Data (required)"
+    notes: "File: SAVE*"
+    codes:
+      - "set range:0x0000,EOF+1"
+      - "ENCRYPT MGS5_TPP(0xE13943C4)"

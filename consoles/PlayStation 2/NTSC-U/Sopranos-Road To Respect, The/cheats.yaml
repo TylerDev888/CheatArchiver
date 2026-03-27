@@ -1,0 +1,68 @@
+# Sopranos-Road To Respect, The cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21388
+
+game: "Sopranos-Road To Respect, The"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21388"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90398E4C 0C0EBF8B"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2029F954 8E420020"
+      - "2029F960 240101F4"
+      - "2029F964 A441000E"
+
+  - name: "Never Reload"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202E67FC 00000000"
+
+  - name: "Never Reload With Max Clip"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202E67EC 24020063"
+
+  - name: "Infinite Money"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "104AA140 0000FFFF"
+
+  - name: "Max Money"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204AA140 05F5E0FF"
+
+  - name: "Max Respect"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204AA144 00000064"
+
+  - name: "Shooting Weapon Doesnt Decrease Respect"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20108814 00000000"
+
+  - name: "Unlock All Concept Art"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204AA7A0 FFFFFFFF"

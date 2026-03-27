@@ -1,0 +1,1920 @@
+# God Hand cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21503
+
+game: "God Hand"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21503"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0397C1C 00397C1F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "90397D48 00832021"
+
+  - name: "1 Hit Kill"
+    author: "Azagthoth"
+    codes:
+      - "2028FD04 A620054A"
+
+  - name: "Gold Doesn't Decrease (ASM)"
+    author: "Dwinash"
+    notes: "[Gold Doesn't Decrease Variant]"
+    codes:
+      - "201FA88C 00000000"
+
+  - name: "Gold Doesn't Decrease W/ Jokey (Asm)(Safest)  When Using Gold | Jokey Is To Prevent Mal Function Incase There&#39;S Other Routine That Accessing/Using Same Memory Address As This</I>}"
+    author: "Dwinash"
+    notes: "[Gold Doesn't Decrease Variant]"
+    codes:
+      - "201FA88C AC620020"
+      - "E10100FF 0074750E"
+      - "201FA88C 00000000"
+
+  - name: "Gold Doesn't Decrease W/ Safety (Asm)(Safe)"
+    author: "Dwinash"
+    notes: "[Gold Doesn't Decrease Variant]"
+    codes:
+      - "201FA88C AC620020"
+      - "E1010001 0046407C"
+      - "201FA88C 00000000"
+
+  - name: "Invincibility (Blocked Tension! Consume)(Asm)(S)  A Sec / Off=Tap  | Require &Quot;Stabilizer For Tension (Instant &Amp; Variant)(ASM)(S) (Must Be On)&Quot;, But I Already Include It On (M) Code, So Make Sure You Include/Use The Master Code That I Provide When You Using This Codes, EVEN ON Emulator</I>}"
+    author: "Dwinash"
+    notes: "[Invincibility Variant]"
+    codes:
+      - "E102000A 007474CA"
+      - "205CB00C 42F00000"
+      - "005CB010 00000000"
+      - "E1010003 007474CA"
+      - "202A9AEC E6000008"
+      - "D02A9AEE 0000E600"
+      - "005CB010 00000001"
+
+  - name: "Invincibility (Blocked Tension! Consume)(Asm)(S)(Alt)  A Sec / Off=Tap  | Require &Quot;Stabilizer For Tension (Instant &Amp; Variant)(ASM)(S)(Alt) (Must Be On)&Quot;, But I Already Include It On (M) Code, So Make Sure You Include/Use The Master Code That I Provide When You Using This Codes, EVEN ON Emulator</I>}"
+    author: "Dwinash"
+    notes: "[Invincibility Variant]"
+    codes:
+      - "E102000A 007474CA"
+      - "205CB00C 42F00000"
+      - "005CB010 00000000"
+      - "E1010003 007474CA"
+      - "202A9CB4 E4800008"
+      - "D02A9CB4 00000008"
+      - "005CB010 00000001"
+
+  - name: "Invincibility (Blocked Tension! Consume)(Asm)(S)(Alt)(Alt-Jokey) + / Off= + | Require &Quot;Stabilizer For Tension (Instant &Amp; Variant)(ASM)(S)(Alt) (Must Be On)&Quot;, But  I Already Include It On (M) Code, So Make Sure You Include/Use The Master Code That I Provide When You Using This Codes, EVEN ON Emulator</I>}"
+    author: "Dwinash"
+    notes: "[Invincibility Variant]"
+    codes:
+      - "E0021400 007474A0"
+      - "202A9CB4 E4800008"
+      - "005CB010 00000001"
+      - "E0034400 007474A0"
+      - "205CB008 00000000"
+      - "205CB00C 42F00000"
+      - "005CB010 00000000"
+
+  - name: "Invincibility (Blocked Tension! Consume)(Asm)(S)(Alt-Jokey) + / Off= + | Require &Quot;Stabilizer For Tension (Instant &Amp; Variant)(ASM)(S) (Must Be On)&Quot;, But  I Already Include It On (M) Code, So Make Sure You Include/Use The Master Code That I Provide When You Using This Codes, EVEN ON Emulator</I>}"
+    author: "Dwinash"
+    notes: "[Invincibility Variant]"
+    codes:
+      - "E0021400 007474A0"
+      - "202A9AEC E6000008"
+      - "005CB010 00000001"
+      - "E0034400 007474A0"
+      - "205CB008 00000000"
+      - "205CB00C 42F00000"
+      - "005CB010 00000000"
+
+  - name: "Invincibility (Consume Tension!)  A Sec / Off=Tap </I>}"
+    author: "Dwinash"
+    notes: "[Invincibility Variant]"
+    codes:
+      - "E1010003 007474CA"
+      - "005CB010 00000001"
+      - "E101000A 007474CA"
+      - "005CB010 00000000"
+
+  - name: "Enable/Constant Invulnerability  A Sec / Release=Tap  | (Pause Hit Detection)</I>}"
+    author: "Dwinash"
+    notes: "[Invulnerability Type]"
+    codes:
+      - "E1010003 007474C9"
+      - "100FE54C 0000054C"
+      - "E101000A 007474C9"
+      - "100FE54C 00000000"
+      - "E005054C 000FE54C"
+      - "E0040000 10577FB2"
+      - "60577FB0 00000000"
+      - "00010001 000002A6"
+      - "60577FB0 00004170"
+      - "00010001 000002A7"
+
+  - name: "Enable/Trigger Invulnerability For 0.5Sec (Sample)  A Sec / Clear=Tap  | (Delay Hit Detection)</I>}"
+    author: "Dwinash"
+    notes: "[Invulnerability Type]"
+    codes:
+      - "E00A0000 10577FB2"
+      - "E1040003 007474C9"
+      - "60577FB0 00000000"
+      - "00010001 000002A6"
+      - "60577FB0 00004170"
+      - "00010001 000002A7"
+      - "E104000A 007474C9"
+      - "60577FB0 00000000"
+      - "00010001 000002A6"
+      - "60577FB0 00000000"
+      - "00010001 000002A7"
+
+  - name: "Enable/Trigger Invulnerability For 3Min (Sample)  A Sec / Clear=Tap  | (Delay Hit Detection)</I>}"
+    author: "Dwinash"
+    notes: "[Invulnerability Type]"
+    codes:
+      - "E00A0000 10577FB2"
+      - "E1040003 007474C9"
+      - "60577FB0 0000C000"
+      - "00010001 000002A6"
+      - "60577FB0 000045A8"
+      - "00010001 000002A7"
+      - "E104000A 007474C9"
+      - "60577FB0 00000000"
+      - "00010001 000002A6"
+      - "60577FB0 00000000"
+      - "00010001 000002A7"
+
+  - name: "Enable/Trigger Invulnerability For 3Sec (Sample)  A Sec / Clear=Tap  | (Delay Hit Detection)</I>}"
+    author: "Dwinash"
+    notes: "[Invulnerability Type]"
+    codes:
+      - "E00A0000 10577FB2"
+      - "E1040003 007474C9"
+      - "60577FB0 00000000"
+      - "00010001 000002A6"
+      - "60577FB0 000042B4"
+      - "00010001 000002A7"
+      - "E104000A 007474C9"
+      - "60577FB0 00000000"
+      - "00010001 000002A6"
+      - "60577FB0 00000000"
+      - "00010001 000002A7"
+
+  - name: "Enable/Trigger Invulnerability For 5Min (Sample)  A Sec / Clear=Tap  | (Delay Hit Detection)</I>}"
+    author: "Dwinash"
+    notes: "[Invulnerability Type]"
+    codes:
+      - "E00A0000 10577FB2"
+      - "E1040003 007474C9"
+      - "60577FB0 0000A000"
+      - "00010001 000002A6"
+      - "60577FB0 0000460C"
+      - "00010001 000002A7"
+      - "E104000A 007474C9"
+      - "60577FB0 00000000"
+      - "00010001 000002A6"
+      - "60577FB0 00000000"
+      - "00010001 000002A7"
+
+  - name: "Enable/Trigger Invulnerability For 5Sec (Sample)  A Sec / Clear=Tap  | (Delay Hit Detection)</I>}"
+    author: "Dwinash"
+    notes: "[Invulnerability Type]"
+    codes:
+      - "E00A0000 10577FB2"
+      - "E1040003 007474C9"
+      - "60577FB0 00000000"
+      - "00010001 000002A6"
+      - "60577FB0 00004316"
+      - "00010001 000002A7"
+      - "E104000A 007474C9"
+      - "60577FB0 00000000"
+      - "00010001 000002A6"
+      - "60577FB0 00000000"
+      - "00010001 000002A7"
+
+  - name: "Enable/Trigger Invulnerability For 15Min (Sample)  A Sec / Clear=Tap  | (Delay Hit Detection)</I>}"
+    author: "Dwinash"
+    notes: "[Invulnerability Type]"
+    codes:
+      - "E00A0000 10577FB2"
+      - "E1040003 007474C9"
+      - "60577FB0 0000F000"
+      - "00010001 000002A6"
+      - "60577FB0 000046D2"
+      - "00010001 000002A7"
+      - "E104000A 007474C9"
+      - "60577FB0 00000000"
+      - "00010001 000002A6"
+      - "60577FB0 00000000"
+      - "00010001 000002A7"
+
+  - name: "Enable/Trigger Invulnerability For 15Sec (Sample)  A Sec / Clear=Tap  | (Delay Hit Detection)</I>}"
+    author: "Dwinash"
+    notes: "[Invulnerability Type]"
+    codes:
+      - "E00A0000 10577FB2"
+      - "E1040003 007474C9"
+      - "60577FB0 00000000"
+      - "00010001 000002A6"
+      - "60577FB0 000043E1"
+      - "00010001 000002A7"
+      - "E104000A 007474C9"
+      - "60577FB0 00000000"
+      - "00010001 000002A6"
+      - "60577FB0 00000000"
+      - "00010001 000002A7"
+
+  - name: "Enable/Trigger Invulnerability For 30Min (Sample)  A Sec / Clear=Tap  | (Delay Hit Detection)</I>}"
+    author: "Dwinash"
+    notes: "[Invulnerability Type]"
+    codes:
+      - "E00A0000 10577FB2"
+      - "E1040003 007474C9"
+      - "60577FB0 0000F000"
+      - "00010001 000002A6"
+      - "60577FB0 00004752"
+      - "00010001 000002A7"
+      - "E104000A 007474C9"
+      - "60577FB0 00000000"
+      - "00010001 000002A6"
+      - "60577FB0 00000000"
+      - "00010001 000002A7"
+
+  - name: "Enable/Trigger Invulnerability For 60Min (Sample)  A Sec / Clear=Tap  | (Delay Hit Detection)</I>}"
+    author: "Dwinash"
+    notes: "[Invulnerability Type]"
+    codes:
+      - "E00A0000 10577FB2"
+      - "E1040003 007474C9"
+      - "60577FB0 0000F000"
+      - "00010001 000002A6"
+      - "60577FB0 000047D2"
+      - "00010001 000002A7"
+      - "E104000A 007474C9"
+      - "60577FB0 00000000"
+      - "00010001 000002A6"
+      - "60577FB0 00000000"
+      - "00010001 000002A7"
+
+  - name: "Enable/Trigger Invulnerability For 60Sec (Sample)  A Sec / Clear=Tap  | (Delay Hit Detection)</I>}"
+    author: "Dwinash"
+    notes: "[Invulnerability Type]"
+    codes:
+      - "E00A0000 10577FB2"
+      - "E1040003 007474C9"
+      - "60577FB0 00000000"
+      - "00010001 000002A6"
+      - "60577FB0 000044E1"
+      - "00010001 000002A7"
+      - "E104000A 007474C9"
+      - "60577FB0 00000000"
+      - "00010001 000002A6"
+      - "60577FB0 00000000"
+      - "00010001 000002A7"
+
+  - name: "Enable/Constant Heat Card Buff (W/O Aura) + / Release=+</I>}"
+    author: "Dwinash"
+    notes: "[Heat Card Buff (w/o Aura) Type]"
+    codes:
+      - "D07474A0 00001200"
+      - "100FE5FC 000005FC"
+      - "D07474A0 00004200"
+      - "100FE5FC 00000000"
+      - "E00505FC 000FE5FC"
+      - "E0040000 10577FB2"
+      - "60577FB0 0000000F"
+      - "00010001 000002FE"
+      - "60577FB0 00000000"
+      - "00010001 000002FF"
+
+  - name: "Enable/Trigger Heat Card Buff (W/O Aura) For 0.5Sec + / Clear=+</I>}"
+    author: "Dwinash"
+    notes: "[Heat Card Buff (w/o Aura) Type]"
+    codes:
+      - "E00A0000 10577FB2"
+      - "E0041200 007474A0"
+      - "60577FB0 0000000F"
+      - "00010001 000002FE"
+      - "60577FB0 00000000"
+      - "00010001 000002FF"
+      - "E0044200 007474A0"
+      - "60577FB0 00000000"
+      - "00010001 000002FE"
+      - "60577FB0 00000000"
+      - "00010001 000002FF"
+
+  - name: "Enable/Trigger Heat Card Buff (W/O Aura) For 3Min + / Clear=+</I>}"
+    author: "Dwinash"
+    notes: "[Heat Card Buff (w/o Aura) Type]"
+    codes:
+      - "E00A0000 10577FB2"
+      - "E0041200 007474A0"
+      - "60577FB0 00001518"
+      - "00010001 000002FE"
+      - "60577FB0 00000000"
+      - "00010001 000002FF"
+      - "E0044200 007474A0"
+      - "60577FB0 00000000"
+      - "00010001 000002FE"
+      - "60577FB0 00000000"
+      - "00010001 000002FF"
+
+  - name: "Enable/Trigger Heat Card Buff (W/O Aura) For 3Sec + / Clear=+</I>}"
+    author: "Dwinash"
+    notes: "[Heat Card Buff (w/o Aura) Type]"
+    codes:
+      - "E00A0000 10577FB2"
+      - "E0041200 007474A0"
+      - "60577FB0 0000005A"
+      - "00010001 000002FE"
+      - "60577FB0 00000000"
+      - "00010001 000002FF"
+      - "E0044200 007474A0"
+      - "60577FB0 00000000"
+      - "00010001 000002FE"
+      - "60577FB0 00000000"
+      - "00010001 000002FF"
+
+  - name: "Enable/Trigger Heat Card Buff (W/O Aura) For 5Min + / Clear=+</I>}"
+    author: "Dwinash"
+    notes: "[Heat Card Buff (w/o Aura) Type]"
+    codes:
+      - "E00A0000 10577FB2"
+      - "E0041200 007474A0"
+      - "60577FB0 00002328"
+      - "00010001 000002FE"
+      - "60577FB0 00000000"
+      - "00010001 000002FF"
+      - "E0044200 007474A0"
+      - "60577FB0 00000000"
+      - "00010001 000002FE"
+      - "60577FB0 00000000"
+      - "00010001 000002FF"
+
+  - name: "Enable/Trigger Heat Card Buff (W/O Aura) For 5Sec + / Clear=+</I>}"
+    author: "Dwinash"
+    notes: "[Heat Card Buff (w/o Aura) Type]"
+    codes:
+      - "E00A0000 10577FB2"
+      - "E0041200 007474A0"
+      - "60577FB0 00000096"
+      - "00010001 000002FE"
+      - "60577FB0 00000000"
+      - "00010001 000002FF"
+      - "E0044200 007474A0"
+      - "60577FB0 00000000"
+      - "00010001 000002FE"
+      - "60577FB0 00000000"
+      - "00010001 000002FF"
+
+  - name: "Enable/Trigger Heat Card Buff (W/O Aura) For 15Min + / Clear=+</I>}"
+    author: "Dwinash"
+    notes: "[Heat Card Buff (w/o Aura) Type]"
+    codes:
+      - "E00A0000 10577FB2"
+      - "E0041200 007474A0"
+      - "60577FB0 00006978"
+      - "00010001 000002FE"
+      - "60577FB0 00000000"
+      - "00010001 000002FF"
+      - "E0044200 007474A0"
+      - "60577FB0 00000000"
+      - "00010001 000002FE"
+      - "60577FB0 00000000"
+      - "00010001 000002FF"
+
+  - name: "Enable/Trigger Heat Card Buff (W/O Aura) For 15Sec + / Clear=+</I>}"
+    author: "Dwinash"
+    notes: "[Heat Card Buff (w/o Aura) Type]"
+    codes:
+      - "E00A0000 10577FB2"
+      - "E0041200 007474A0"
+      - "60577FB0 000001C2"
+      - "00010001 000002FE"
+      - "60577FB0 00000000"
+      - "00010001 000002FF"
+      - "E0044200 007474A0"
+      - "60577FB0 00000000"
+      - "00010001 000002FE"
+      - "60577FB0 00000000"
+      - "00010001 000002FF"
+
+  - name: "Enable/Trigger Heat Card Buff (W/O Aura) For 20Sec (Default Max) + / Clear=+</I>}"
+    author: "Dwinash"
+    notes: "[Heat Card Buff (w/o Aura) Type]"
+    codes:
+      - "E00A0000 10577FB2"
+      - "E0041200 007474A0"
+      - "60577FB0 00000258"
+      - "00010001 000002FE"
+      - "60577FB0 00000000"
+      - "00010001 000002FF"
+      - "E0044200 007474A0"
+      - "60577FB0 00000000"
+      - "00010001 000002FE"
+      - "60577FB0 00000000"
+      - "00010001 000002FF"
+
+  - name: "Enable/Trigger Heat Card Buff (W/O Aura) For 30Min + / Clear=+</I>}"
+    author: "Dwinash"
+    notes: "[Heat Card Buff (w/o Aura) Type]"
+    codes:
+      - "E00A0000 10577FB2"
+      - "E0041200 007474A0"
+      - "60577FB0 0000D2F0"
+      - "00010001 000002FE"
+      - "60577FB0 00000000"
+      - "00010001 000002FF"
+      - "E0044200 007474A0"
+      - "60577FB0 00000000"
+      - "00010001 000002FE"
+      - "60577FB0 00000000"
+      - "00010001 000002FF"
+
+  - name: "Enable/Trigger Heat Card Buff (W/O Aura) For 60Sec + / Clear=+</I>}"
+    author: "Dwinash"
+    notes: "[Heat Card Buff (w/o Aura) Type]"
+    codes:
+      - "E00A0000 10577FB2"
+      - "E0041200 007474A0"
+      - "60577FB0 00000708"
+      - "00010001 000002FE"
+      - "60577FB0 00000000"
+      - "00010001 000002FF"
+      - "E0044200 007474A0"
+      - "60577FB0 00000000"
+      - "00010001 000002FE"
+      - "60577FB0 00000000"
+      - "00010001 000002FF"
+
+  - name: "Always Dash First When Moving Forward ) Or Reels Moves Or Load The Game Via Start Menu</I>}"
+    author: "Dwinash"
+    notes: "[Invulnerability (Separate)]"
+    codes:
+      - "E0050000 10577FB2"
+      - "E1040004 007474F4"
+      - "60577FB0 00000600"
+      - "00010001 0000017A"
+      - "60577FB0 00000000"
+      - "00010001 0000017B"
+
+  - name: "Always Run When Moving Forward"
+    author: "Dwinash"
+    notes: "[Invulnerability (Separate)]"
+    codes:
+      - "E0070000 10577FB2"
+      - "E0035500 205E8146"
+      - "E0020000 005E824E"
+      - "60577FB0 00000001"
+      - "00000001 000002F7"
+      - "E002CCCD 00463450"
+      - "60577FB0 00000000"
+      - "00000001 000002F7"
+
+  - name: "Invulnerability + Dash + Heat Card Buff  A Sec / Release=Tap  | There Is A Graphical Glitch When Using This While Do Any Moves That Using Extra Visual Effect Eg. Roultte Moves, Because It Ignore Limitation by Cancle any Moves, to Restore that, Just re-do and finish an S-Moves eg. TURNING 180&#176; () or Reels Moves or Load The Game via Start Menu</i>}"
+    author: "Dwinash"
+    notes: "[Invulnerability (Combined)]"
+    codes:
+      - "E1010003 007474C9"
+      - "100FE54C 0000054C"
+      - "E101000A 007474C9"
+      - "100FE54C 00000000"
+      - "E00E054C 000FE54C"
+      - "E00D0000 10577FB2"
+      - "60577FB0 00000000"
+      - "00010001 000002A6"
+      - "60577FB0 00004170"
+      - "00010001 000002A7"
+      - "60577FB0 0000000F"
+      - "00010001 000002FE"
+      - "60577FB0 00000000"
+      - "00010001 000002FF"
+      - "E1040004 007474F4"
+      - "60577FB0 00000600"
+      - "00010001 0000017A"
+      - "60577FB0 00000000"
+      - "00010001 0000017B"
+
+  - name: "Invulnerability + Dash  A Sec / Release=Tap  | There Is A Graphical Glitch When Using This While Do Any Moves That Using Extra Visual Effect Eg. Roultte Moves, Because It Ignore Limitation by Cancle any Moves, to Restore that, Just re-do and finish an S-Moves eg. TURNING 180&#176; () or Reels Moves or Load The Game via Start Menu</i>}"
+    author: "Dwinash"
+    notes: "[Invulnerability (Combined)]"
+    codes:
+      - "E1010003 007474C9"
+      - "100FE54C 0000054C"
+      - "E101000A 007474C9"
+      - "100FE54C 00000000"
+      - "E00A054C 000FE54C"
+      - "E0090000 10577FB2"
+      - "60577FB0 00000000"
+      - "00010001 000002A6"
+      - "60577FB0 00004170"
+      - "00010001 000002A7"
+      - "E1040004 007474F4"
+      - "60577FB0 00000600"
+      - "00010001 0000017A"
+      - "60577FB0 00000000"
+      - "00010001 0000017B"
+
+  - name: "Invulnerability + Run (Alt)  A Sec / Release=Tap  | You Can Dash As Fast As You Can, It Won&#39;T Repleaced With Evade Backflip (Down R-Analog) But Consume More Code Lines Compared To Above</I>}"
+    author: "Dwinash"
+    notes: "[Invulnerability (Combined)]"
+    codes:
+      - "E1010003 007474C9"
+      - "100FE54C 0000054C"
+      - "E101000A 007474C9"
+      - "100FE54C 00000000"
+      - "E00C054C 000FE54C"
+      - "E00B0000 10577FB2"
+      - "60577FB0 00000000"
+      - "00010001 000002A6"
+      - "60577FB0 00004170"
+      - "00010001 000002A7"
+      - "E0065500 205E8146"
+      - "E0020000 005E824E"
+      - "60577FB0 00000001"
+      - "00000001 000002F7"
+      - "E002CCCD 00463450"
+      - "60577FB0 00000000"
+      - "00000001 000002F7"
+
+  - name: "Invulnerability + Run + Heat Card Buff (Alt)  A Sec / Release=Tap  | You Can Dash As Fast As You Can, It Won&#39;T Repleaced With Evade Backflip (Down R-Analog) But Consume More Code Lines Compared To Above</I>}"
+    author: "Dwinash"
+    notes: "[Invulnerability (Combined)]"
+    codes:
+      - "E1010003 007474C9"
+      - "100FE54C 0000054C"
+      - "E101000A 007474C9"
+      - "100FE54C 00000000"
+      - "E010054C 000FE54C"
+      - "E00F0000 10577FB2"
+      - "60577FB0 00000000"
+      - "00010001 000002A6"
+      - "60577FB0 00004170"
+      - "00010001 000002A7"
+      - "60577FB0 0000000F"
+      - "00010001 000002FE"
+      - "60577FB0 00000000"
+      - "00010001 000002FF"
+      - "E0065500 205E8146"
+      - "E0020000 005E824E"
+      - "60577FB0 00000001"
+      - "00000001 000002F7"
+      - "E002CCCD 00463450"
+      - "60577FB0 00000000"
+      - "00000001 000002F7"
+
+  - name: "Invulnerability + Run + Heat Card Buff  A Sec / Release=Tap  | Sometimes If You Use Dash To Quick, It Will Repleaced With Evade Backflip (Down R-Analog) But It Consume Less Code Lines Compare To (Alt) Below</I>}"
+    author: "Dwinash"
+    notes: "[Invulnerability (Combined)]"
+    codes:
+      - "E1010003 007474C9"
+      - "100FE54C 0000054C"
+      - "E101000A 007474C9"
+      - "100FE54C 00000000"
+      - "E00E054C 000FE54C"
+      - "E00D0000 10577FB2"
+      - "60577FB0 00000000"
+      - "00010001 000002A6"
+      - "60577FB0 00004170"
+      - "00010001 000002A7"
+      - "60577FB0 0000000F"
+      - "00010001 000002FE"
+      - "60577FB0 00000000"
+      - "00010001 000002FF"
+      - "E0045500 205E8146"
+      - "E0030000 005E824E"
+      - "E002CCCD 10463450"
+      - "60577FB0 00000001"
+      - "00000001 000002F7"
+
+  - name: "Invulnerability + Run  A Sec / Release=Tap  | Sometimes If You Use Dash To Quick, It Will Repleaced With Evade Backflip (Down R-Analog) But It Consume Less Code Lines Compare To (Alt) Below</I>}"
+    author: "Dwinash"
+    notes: "[Invulnerability (Combined)]"
+    codes:
+      - "E1010003 007474C9"
+      - "100FE54C 0000054C"
+      - "E101000A 007474C9"
+      - "100FE54C 00000000"
+      - "E00A054C 000FE54C"
+      - "E0090000 10577FB2"
+      - "60577FB0 00000000"
+      - "00010001 000002A6"
+      - "60577FB0 00004170"
+      - "00010001 000002A7"
+      - "E0045500 205E8146"
+      - "E0030000 005E824E"
+      - "E002CCCD 10463450"
+      - "60577FB0 00000001"
+      - "00000001 000002F7"
+
+  - name: "Infinite Health/Life Gauge (ASM)"
+    author: "Dwinash"
+    notes: "[Health/Life Gauge Fill Only Type]"
+    codes:
+      - "20109890 A622054A"
+
+  - name: "Infinite Health/Life Gauge (Asm)(Alt)"
+    author: "Dwinash"
+    notes: "[Health/Life Gauge Fill Only Type]"
+    codes:
+      - "201096B8 863B0548"
+      - "201096BC A63B054A"
+
+  - name: "Infinite Health/Life Gauge (Edge Of The Screen)"
+    author: "Dwinash"
+    notes: "[Health/Life Gauge Fill Only Type]"
+    codes:
+      - "E0020000 10577FB2"
+      - "60577FB0 00000244"
+      - "00010001 000002A5"
+
+  - name: "Infinite Health/Life Gauge"
+    author: "Dwinash"
+    notes: "[Health/Life Gauge Fill Only Type]"
+    codes:
+      - "E0020000 10577FB2"
+      - "60577FB0 000001B8"
+      - "00010001 000002A5"
+
+  - name: "Max Health/Life Gauge"
+    author: "Dwinash"
+    notes: "[Health/Life Gauge Capacity Only Type]"
+    codes:
+      - "00568824 00000011"
+
+  - name: "Max Health/Life Gauge (Edge Of The Screen)"
+    author: "Dwinash"
+    notes: "[Health/Life Gauge Capacity Only Type]"
+    codes:
+      - "00568824 00000018"
+
+  - name: "Max Infinite Health/Life Gauge (ASM)"
+    author: "Dwinash"
+    notes: "[Health/Life Gauge (Combined) Both (Fill & Capacity)]"
+    codes:
+      - "00568824 00000011"
+      - "20109890 A622054A"
+
+  - name: "Max Infinite Health/Life Gauge (Asm)(Alt)"
+    author: "Dwinash"
+    notes: "[Health/Life Gauge (Combined) Both (Fill & Capacity)]"
+    codes:
+      - "00568824 00000011"
+      - "201096B8 863B0548"
+      - "201096BC A63B054A"
+
+  - name: "Max Infinite Health/Life Gauge (Edge Of The Screen)"
+    author: "Dwinash"
+    notes: "[Health/Life Gauge (Combined) Both (Fill & Capacity)]"
+    codes:
+      - "00568824 00000018"
+      - "E0020000 10577FB2"
+      - "60577FB0 00000244"
+      - "00010001 000002A5"
+
+  - name: "Max Infinite Health/Life Gauge (Edge Of The Screen)(Asm)"
+    author: "Dwinash"
+    notes: "[Health/Life Gauge (Combined) Both (Fill & Capacity)]"
+    codes:
+      - "00568824 00000018"
+      - "20109890 A622054A"
+
+  - name: "Max Infinite Health/Life Gauge (Edge Of The Screen)(Asm)(Alt)"
+    author: "Dwinash"
+    notes: "[Health/Life Gauge (Combined) Both (Fill & Capacity)]"
+    codes:
+      - "00568824 00000018"
+      - "201096B8 863B0548"
+      - "201096BC A63B054A"
+
+  - name: "Max Infinite Health/Life Gauge"
+    author: "Dwinash"
+    notes: "[Health/Life Gauge (Combined) Both (Fill & Capacity)]"
+    codes:
+      - "00568824 00000011"
+      - "E0020000 10577FB2"
+      - "60577FB0 000001B8"
+      - "00010001 000002A5"
+
+  - name: "Infinite Roulette Orbs"
+    author: "Dwinash"
+    notes: "[Roulette Orbs Codes]"
+    codes:
+      - "20568778 01010101"
+      - "1056877C 00000101"
+
+  - name: "Max Infinite Roulette Orbs (Both)"
+    author: "Dwinash"
+    notes: "[Roulette Orbs Codes]"
+    codes:
+      - "00568826 00000006"
+      - "20568778 01010101"
+      - "1056877C 00000101"
+
+  - name: "Max Roulette Orbs"
+    author: "Dwinash"
+    notes: "[Roulette Orbs Codes]"
+    codes:
+      - "00568826 00000006"
+
+  - name: "Max Infinite Roulette Time"
+    author: "Dwinash"
+    notes: "[Roulette Time Codes]"
+    codes:
+      - "004653F0 0000005F"
+      - "E0064000 00464FB2"
+      - "605683B4 00000000"
+      - "00010001 000001D8"
+      - "605683B4 00004170"
+      - "00010001 000001D9"
+      - "605683B4 0000005E"
+      - "00000001 00001530"
+
+  - name: "Carnival"
+    author: "Dwinash"
+    notes: "[Gene's Appearances Always]"
+    codes:
+      - "0056877E 00000006"
+
+  - name: "Carnival W/ Double GOD HAND"
+    author: "Dwinash"
+    notes: "[Gene's Appearances Always]"
+    codes:
+      - "0056877E 00000007"
+
+  - name: "Devilhand"
+    author: "Dwinash"
+    notes: "[Gene's Appearances Always]"
+    codes:
+      - "0056877E 00000002"
+
+  - name: "Devilhand W/ Double GOD HAND"
+    author: "Dwinash"
+    notes: "[Gene's Appearances Always]"
+    codes:
+      - "0056877E 00000003"
+
+  - name: "Karate"
+    author: "Dwinash"
+    notes: "[Gene's Appearances Always]"
+    codes:
+      - "0056877E 00000004"
+
+  - name: "Karate W/ Double GOD HAND"
+    author: "Dwinash"
+    notes: "[Gene's Appearances Always]"
+    codes:
+      - "0056877E 00000005"
+
+  - name: "Original"
+    author: "Dwinash"
+    notes: "[Gene's Appearances Always]"
+    codes:
+      - "0056877E 00000000"
+
+  - name: "Original W/ Double GOD HAND"
+    author: "Dwinash"
+    notes: "[Gene's Appearances Always]"
+    codes:
+      - "0056877E 00000001"
+
+  - name: "Bunny"
+    author: "Dwinash"
+    notes: "[Olivia's Costumes Always]"
+    codes:
+      - "00569290 00000001"
+
+  - name: "25"
+    author: "Dwinash"
+    notes: "[Set All Techniques Damage to]"
+    codes:
+      - "403BC7D0 00FF0001"
+      - "00000019 00000000"
+      - "403BCBCC 00FF0001"
+      - "00000019 00000000"
+      - "403BCFC8 003C0001"
+      - "00000019 00000000"
+
+  - name: "50"
+    author: "Dwinash"
+    notes: "[Set All Techniques Damage to]"
+    codes:
+      - "403BC7D0 00FF0001"
+      - "00000032 00000000"
+      - "403BCBCC 00FF0001"
+      - "00000032 00000000"
+      - "403BCFC8 003C0001"
+      - "00000032 00000000"
+
+  - name: "100"
+    author: "Dwinash"
+    notes: "[Set All Techniques Damage to]"
+    codes:
+      - "403BC7D0 00FF0001"
+      - "00000064 00000000"
+      - "403BCBCC 00FF0001"
+      - "00000064 00000000"
+      - "403BCFC8 003C0001"
+      - "00000064 00000000"
+
+  - name: "999 (Max)"
+    author: "Dwinash"
+    notes: "[Set All Techniques Damage to]"
+    codes:
+      - "403BC7D0 00FF0001"
+      - "000003E7 00000000"
+      - "403BCBCC 00FF0001"
+      - "000003E7 00000000"
+      - "403BCFC8 003C0001"
+      - "000003E7 00000000"
+
+  - name: "X1 + On Safe (SHOP/Casino) Area</I>}"
+    author: "Dwinash"
+    notes: "[Instant Get Casino Slots Gift Box (TICKETS) Qty ?]"
+    codes:
+      - "E1020024 007474A0"
+      - "00569264 00000001"
+      - "00465A90 00000001"
+
+  - name: "X2 + On Safe (SHOP/Casino) Area</I>}"
+    author: "Dwinash"
+    notes: "[Instant Get Casino Slots Gift Box (TICKETS) Qty ?]"
+    codes:
+      - "E1020024 007474A0"
+      - "00569264 00000002"
+      - "00465A90 00000002"
+
+  - name: "X3 + On Safe (SHOP/Casino) Area</I>}"
+    author: "Dwinash"
+    notes: "[Instant Get Casino Slots Gift Box (TICKETS) Qty ?]"
+    codes:
+      - "E1020024 007474A0"
+      - "00569264 00000003"
+      - "00465A90 00000003"
+
+  - name: "X4 + On Safe (SHOP/Casino) Area</I>}"
+    author: "Dwinash"
+    notes: "[Instant Get Casino Slots Gift Box (TICKETS) Qty ?]"
+    codes:
+      - "52FD1C07 58E65681"
+      - "D0538B6F C879ADCB"
+      - "2531EC01 E162A328"
+      - "003CC8E0 F0FF251B"
+
+  - name: "X5 + On Safe (SHOP/Casino) Area</I>}"
+    author: "Dwinash"
+    notes: "[Instant Get Casino Slots Gift Box (TICKETS) Qty ?]"
+    codes:
+      - "E1020024 007474A0"
+      - "00569264 00000005"
+      - "00465A90 00000005"
+
+  - name: "X6 + On Safe (SHOP/Casino) Area</I>}"
+    author: "Dwinash"
+    notes: "[Instant Get Casino Slots Gift Box (TICKETS) Qty ?]"
+    codes:
+      - "E1020024 007474A0"
+      - "00569264 00000006"
+      - "00465A90 00000006"
+
+  - name: "X7 + On Safe (SHOP/Casino) Area</I>}"
+    author: "Dwinash"
+    notes: "[Instant Get Casino Slots Gift Box (TICKETS) Qty ?]"
+    codes:
+      - "E1020024 007474A0"
+      - "00569264 00000007"
+      - "00465A90 00000007"
+
+  - name: "X8 + On Safe (SHOP/Casino) Area</I>}"
+    author: "Dwinash"
+    notes: "[Instant Get Casino Slots Gift Box (TICKETS) Qty ?]"
+    codes:
+      - "E1020024 007474A0"
+      - "00569264 00000008"
+      - "00465A90 00000008"
+
+  - name: "X9 (Max) + On Safe (SHOP/Casino) Area</I>}"
+    author: "Dwinash"
+    notes: "[Instant Get Casino Slots Gift Box (TICKETS) Qty ?]"
+    codes:
+      - "E1020024 007474A0"
+      - "00569264 00000009"
+      - "00465A90 00000009"
+
+  - name: "BAR (Barbarbar) 5000G/15000G (2Nd/3Rd Floor) + And Hold It While Spins</I>}"
+    author: "Dwinash"
+    notes: "[Casino Slots On-Spins Reward Mod]"
+    codes:
+      - "E1020044 007474A0"
+      - "608B9708 00000001"
+      - "00000001 000003D4"
+
+  - name: "GIFT BOX (Tickets) + And Hold It While Spins</I>}"
+    author: "Dwinash"
+    notes: "[Casino Slots On-Spins Reward Mod]"
+    codes:
+      - "E1020044 007474A0"
+      - "608B9708 00000008"
+      - "00000001 000003D4"
+
+  - name: "Green Heads (BOMB MEN) + And Hold It While Spins</I>}"
+    author: "Dwinash"
+    notes: "[Casino Slots On-Spins Reward Mod]"
+    codes:
+      - "E1020044 007474A0"
+      - "608B9708 00000005"
+      - "00000001 000003D4"
+
+  - name: "Jackpot (777) 10000G/30000G (2Nd/3Rd Floor) + And Hold It While Spins</I>}"
+    author: "Dwinash"
+    notes: "[Casino Slots On-Spins Reward Mod]"
+    codes:
+      - "E1020044 007474A0"
+      - "608B9708 00000000"
+      - "00000001 000003D4"
+
+  - name: "Purple Heads (Belze) + And Hold It While Spins</I>}"
+    author: "Dwinash"
+    notes: "[Casino Slots On-Spins Reward Mod]"
+    codes:
+      - "E1020044 007474A0"
+      - "608B9708 00000002"
+      - "00000001 000003D4"
+
+  - name: "RED Heads (Elvis) + And Hold It While Spins</I>}"
+    author: "Dwinash"
+    notes: "[Casino Slots On-Spins Reward Mod]"
+    codes:
+      - "E1020044 007474A0"
+      - "608B9708 00000004"
+      - "00000001 000003D4"
+
+  - name: "Wasted + And Hold It While Spins</I>}"
+    author: "Dwinash"
+    notes: "[Casino Slots On-Spins Reward Mod]"
+    codes:
+      - "E1020044 007474A0"
+      - "608B9708 00000009"
+      - "00000001 000003D4"
+
+  - name: "Yellow Heads (Shannon) + And Hold It While Spins</I>}"
+    author: "Dwinash"
+    notes: "[Casino Slots On-Spins Reward Mod]"
+    codes:
+      - "E1020044 007474A0"
+      - "608B9708 00000003"
+      - "00000001 000003D4"
+
+  - name: "A+ (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Get JukeBox A, C, D in Shop (Treasure Chest Form)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000080"
+
+  - name: "A+ (Treasure Chest Form), B (Unavailable Shop Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Get JukeBox A, C, D in Shop (Treasure Chest Form)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000C0"
+
+  - name: "A+ (Treasure Chest Form), B (Unavailable Shop Treasure Chest Form), C (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Get JukeBox A, C, D in Shop (Treasure Chest Form)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000E0"
+
+  - name: "A+ (Treasure Chest Form), B (Unavailable Shop Treasure Chest Form), C (Treasure Chest Form), D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Get JukeBox A, C, D in Shop (Treasure Chest Form)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000F0"
+
+  - name: "A+ (Treasure Chest Form), B (Unavailable Shop Treasure Chest Form), D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Get JukeBox A, C, D in Shop (Treasure Chest Form)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000D0"
+
+  - name: "A+ (Treasure Chest Form), C (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Get JukeBox A, C, D in Shop (Treasure Chest Form)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000A0"
+
+  - name: "A+ (Treasure Chest Form), C (Treasure Chest Form), D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Get JukeBox A, C, D in Shop (Treasure Chest Form)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000B0"
+
+  - name: "A+ (Treasure Chest Form), D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Get JukeBox A, C, D in Shop (Treasure Chest Form)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000090"
+
+  - name: "B (Unavailable Shop Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Get JukeBox A, C, D in Shop (Treasure Chest Form)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000040"
+
+  - name: "B (Unavailable Shop Treasure Chest Form), C (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Get JukeBox A, C, D in Shop (Treasure Chest Form)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000060"
+
+  - name: "B (Unavailable Shop Treasure Chest Form), C (Treasure Chest Form), D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Get JukeBox A, C, D in Shop (Treasure Chest Form)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000070"
+
+  - name: "B (Unavailable Shop Treasure Chest Form), D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Get JukeBox A, C, D in Shop (Treasure Chest Form)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000050"
+
+  - name: "C (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Get JukeBox A, C, D in Shop (Treasure Chest Form)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000020"
+
+  - name: "C (Treasure Chest Form), D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Get JukeBox A, C, D in Shop (Treasure Chest Form)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000030"
+
+  - name: "D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Get JukeBox A, C, D in Shop (Treasure Chest Form)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000010"
+
+  - name: "A+ (Treasure Chest Form), B (Unavailable Shop Treasure Chest Form), C (Treasure Chest Form), D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000E1"
+
+  - name: "A+ (Treasure Chest Form), B (Unavailable Shop Treasure Chest Form), C + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000C2"
+
+  - name: "A+ (Treasure Chest Form), B (Unavailable Shop Treasure Chest Form), C, D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000F2"
+
+  - name: "A+ (Treasure Chest Form), B (Unavailable Shop Treasure Chest Form), C, D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000E3"
+
+  - name: "A+ (Treasure Chest Form), B (Unavailable Shop Treasure Chest Form), D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000D1"
+
+  - name: "A+ (Treasure Chest Form), B + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000084"
+
+  - name: "A+ (Treasure Chest Form), B, C (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000A4"
+
+  - name: "A+ (Treasure Chest Form), B, C (Treasure Chest Form), D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000F4"
+
+  - name: "A+ (Treasure Chest Form), B, C (Treasure Chest Form), D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000F5"
+
+  - name: "A+ (Treasure Chest Form), B, C + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000E6"
+
+  - name: "A+ (Treasure Chest Form), B, C, D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000F6"
+
+  - name: "A+ (Treasure Chest Form), B, C, D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000F7"
+
+  - name: "A+ (Treasure Chest Form), B, D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000094"
+
+  - name: "A+ (Treasure Chest Form), B, D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000D5"
+
+  - name: "A+ (Treasure Chest Form), C (Treasure Chest Form), D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000A1"
+
+  - name: "A+ (Treasure Chest Form), C + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000082"
+
+  - name: "A+ (Treasure Chest Form), C, D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000B2"
+
+  - name: "A+ (Treasure Chest Form), C, D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000083"
+
+  - name: "A+ (Treasure Chest Form), D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000091"
+
+  - name: "A+ + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000088"
+
+  - name: "A+, B (Unavailable Shop Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000C8"
+
+  - name: "A+, B (Unavailable Shop Treasure Chest Form), C (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000E8"
+
+  - name: "A+, B (Unavailable Shop Treasure Chest Form), C (Treasure Chest Form), D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000F8"
+
+  - name: "A+, B (Unavailable Shop Treasure Chest Form), C (Treasure Chest Form), D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000E9"
+
+  - name: "A+, B (Unavailable Shop Treasure Chest Form), C + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000CA"
+
+  - name: "A+, B (Unavailable Shop Treasure Chest Form), C, D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000DA"
+
+  - name: "A+, B (Unavailable Shop Treasure Chest Form), C, D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000CB"
+
+  - name: "A+, B (Unavailable Shop Treasure Chest Form), D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000D8"
+
+  - name: "A+, B (Unavailable Shop Treasure Chest Form), D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000D9"
+
+  - name: "A+, B + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 0000008C"
+
+  - name: "A+, B, C (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000AC"
+
+  - name: "A+, B, C (Treasure Chest Form), D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000BC"
+
+  - name: "A+, B, C (Treasure Chest Form), D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000AD"
+
+  - name: "A+, B, C + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 0000008E"
+
+  - name: "A+, B, C, D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 0000009E"
+
+  - name: "A+, B, C, D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000CF"
+
+  - name: "A+, B, D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000DC"
+
+  - name: "A+, B, D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 0000009D"
+
+  - name: "A+, C (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000A8"
+
+  - name: "A+, C (Treasure Chest Form), D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000B8"
+
+  - name: "A+, C (Treasure Chest Form), D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000A9"
+
+  - name: "A+, C + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 0000008A"
+
+  - name: "A+, C, D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 0000009A"
+
+  - name: "A+, C, D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 000000BB"
+
+  - name: "A+, D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000098"
+
+  - name: "A+, D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000089"
+
+  - name: "A- + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000008"
+
+  - name: "A-, B (Unavailable Shop Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000048"
+
+  - name: "A-, B (Unavailable Shop Treasure Chest Form), C (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000068"
+
+  - name: "A-, B (Unavailable Shop Treasure Chest Form), C (Treasure Chest Form), D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000078"
+
+  - name: "A-, B (Unavailable Shop Treasure Chest Form), C (Treasure Chest Form), D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000069"
+
+  - name: "A-, B (Unavailable Shop Treasure Chest Form), C + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 0000004A"
+
+  - name: "A-, B (Unavailable Shop Treasure Chest Form), C, D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 0000007A"
+
+  - name: "A-, B (Unavailable Shop Treasure Chest Form), C, D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 0000004B"
+
+  - name: "A-, B (Unavailable Shop Treasure Chest Form), D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000058"
+
+  - name: "A-, B (Unavailable Shop Treasure Chest Form), D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000049"
+
+  - name: "A-, B + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 0000004C"
+
+  - name: "A-, B, C (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 0000006C"
+
+  - name: "A-, B, C (Treasure Chest Form), D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 0000007C"
+
+  - name: "A-, B, C (Treasure Chest Form), D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 0000003D"
+
+  - name: "A-, B, C + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 0000002E"
+
+  - name: "A-, B, C, D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 0000005E"
+
+  - name: "A-, B, C, D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 0000000F"
+
+  - name: "A-, B, D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 0000001C"
+
+  - name: "A-, B, D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 0000005D"
+
+  - name: "A-, C (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000028"
+
+  - name: "A-, C (Treasure Chest Form), D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000038"
+
+  - name: "A-, C (Treasure Chest Form), D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000029"
+
+  - name: "A-, C + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 0000000A"
+
+  - name: "A-, C, D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 0000001A"
+
+  - name: "A-, C, D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 0000002B"
+
+  - name: "A-, D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000018"
+
+  - name: "A-, D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000009"
+
+  - name: "B (Unavailable Shop Treasure Chest Form), C (Treasure Chest Form), D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000071"
+
+  - name: "B (Unavailable Shop Treasure Chest Form), C + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000042"
+
+  - name: "B (Unavailable Shop Treasure Chest Form), C, D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000072"
+
+  - name: "B (Unavailable Shop Treasure Chest Form), C, D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000063"
+
+  - name: "B (Unavailable Shop Treasure Chest Form), D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000041"
+
+  - name: "B + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000004"
+
+  - name: "B, C (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000064"
+
+  - name: "B, C (Treasure Chest Form), D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000034"
+
+  - name: "B, C (Treasure Chest Form), D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000075"
+
+  - name: "B, C + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000006"
+
+  - name: "B, C, D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000056"
+
+  - name: "B, C, D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000047"
+
+  - name: "B, D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000054"
+
+  - name: "B, D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000045"
+
+  - name: "C (Treasure Chest Form), D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000021"
+
+  - name: "C + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000002"
+
+  - name: "C, B (Unavailable Shop Treasure Chest Form), D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000052"
+
+  - name: "C, D (Treasure Chest Form) + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000012"
+
+  - name: "C, D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000023"
+
+  - name: "D + On Map Screen Or In Shop Than Change Costume To Confirm/Load Resource</I>}"
+    author: "Dwinash"
+    notes: "[Unlock JukeBox (Combined w/ Shop Treasure Chest Form = Complete List)]"
+    codes:
+      - "D07474A0 00000180"
+      - "00747A2B 00000001"
+
+  - name: "Enable Double God Hand (ASM)"
+    author: "Dwinash"
+    codes:
+      - "201FC0BC 34420001"
+
+  - name: "Have All Techniques"
+    author: "Dwinash"
+    codes:
+      - "40568780 001C0001"
+      - "00000000 00000000"
+      - "105687F0 00000000"
+
+  - name: "Infinite Health(Works on Both Enemys and Player)"
+    author: "Codejunkies"
+    codes:
+      - "2012C290 00000000"
+
+  - name: "Infinite Tension Gauge"
+    author: "Codejunkies"
+    codes:
+      - "205CB004 43C80000"
+
+  - name: "Max Tension Gauge"
+    author: "Codejunkies"
+    codes:
+      - "205CB000 43C80000"
+
+  - name: "Always Low Difficulty Level Meter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "105686EC 00000000"
+
+  - name: "Always Low Play Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2061A990 00000000"
+
+  - name: "Always Max Difficulty Level Mete"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "105686EC 00001400"
+
+  - name: "Have All Roulette"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20568800 FFFFFFFF"
+
+  - name: "Infinite Life"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202C3554 84410548"
+      - "202C355C A441054A"
+
+  - name: "Max Gold"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "205686F0 000F423F"
+
+  - name: "Max Lv 1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "1056875C 0000270F"
+
+  - name: "Max Lv 2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "1056875E 0000270F"
+
+  - name: "Max Lv 3"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "10568760 0000270F"
+
+  - name: "Max Lv 4"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "10568764 0000270F"
+
+  - name: "Infinite HP"
+    notes: "[Infinite Codes]"
+    codes:
+      - "202C3554 84410548"
+      - "202C355C A441054A"
+
+  - name: "Infinite Orbs"
+    notes: "[Infinite Codes]"
+    codes:
+      - "20568778 01010101"
+      - "1056877C 00000101"
+
+  - name: "Infinite Tp (press Select To Stop Godhand Mode)"
+    notes: "[Infinite Codes]"
+    codes:
+      - "205CB004 44480000"
+      - "D05E8142 0000FFFE"
+      - "205CB004 00000000"
+
+  - name: "Max HP"
+    notes: "[Max-Out Codes]"
+    codes:
+      - "00568824 00000016"
+
+  - name: "Max Tp"
+    notes: "[Max-Out Codes]"
+    codes:
+      - "00568825 00000016"
+
+  - name: "Max Orbs"
+    notes: "[Max-Out Codes]"
+    codes:
+      - "00568826 00000016"
+
+  - name: "Always Max Difficulty Level Meter"
+    notes: "[Stats Codes]"
+    codes:
+      - "105686EC 00001400"
+
+  - name: "Have Tickets"
+    notes: "[Have Codes]"
+    codes:
+      - "00569264 00000009"
+
+  - name: "Have \"kick Me\" Paper On Back"
+    notes: "[Have Codes]"
+    codes:
+      - "00568827 00000001"
+
+  - name: "Clear Game 99 Times"
+    notes: "[Have Codes]"
+    codes:
+      - "005686E0 00000063"
+
+  - name: "Original With Both Godhands"
+    notes: "[Gene Costume Codes]"
+    codes:
+      - "0056877E 00000001"
+
+  - name: "Devilhand With Both Godhands"
+    notes: "[Gene Costume Codes]"
+    codes:
+      - "0056877E 00000003"
+
+  - name: "Karate With Both Godhands"
+    notes: "[Gene Costume Codes]"
+    codes:
+      - "0056877E 00000005"
+
+  - name: "Carnival With Both Godhands"
+    notes: "[Gene Costume Codes]"
+    codes:
+      - "0056877E 00000007"
+
+  - name: "Bunny Girl"
+    notes: "[Olivia Costume Codes]"
+    codes:
+      - "00569290 00000001"
+
+  - name: "Easy"
+    notes: "[Difficulty Codes]"
+    codes:
+      - "005686EF 00000000"
+
+  - name: "Normal"
+    notes: "[Difficulty Codes]"
+    codes:
+      - "005686EF 00000001"
+
+  - name: "Hard"
+    notes: "[Difficulty Codes]"
+    codes:
+      - "005686EF 00000002"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90397D48 00832021"

@@ -1,0 +1,20 @@
+# Call of Duty_ Advanced Warfare cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES02077
+
+game: "Call of Duty_ Advanced Warfare"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES02077"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Adler32 For Savegame.svg (required)"
+    notes: "File: SAVEGAME.SVG  (set range:0x500,0x0B94FA)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x500,pointer"
+      - "set [hash]:Adler32"
+      - "write at 0x000008:[hash]"

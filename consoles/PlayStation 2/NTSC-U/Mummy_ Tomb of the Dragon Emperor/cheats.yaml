@@ -1,0 +1,55 @@
+# Mummy_ Tomb of the Dragon Emperor cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21775
+
+game: "Mummy_ Tomb of the Dragon Emperor"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21775"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "902F6FF8 0C0BDBA6"
+
+  - name: "Inf Ammo (99)"
+    notes: "[Misc Codes]"
+    codes:
+      - "201B549C 24020063"
+      - "201B54A0 03E00008"
+      - "201B54A4 AC8209A0"
+
+  - name: "Always Have HP Gain (active)"
+    notes: "[Misc Codes]"
+    codes:
+      - "201B3D64 E60306B8"
+
+  - name: "Quick Gain HP"
+    notes: "[Misc Codes]"
+    codes:
+      - "201B3D64 E60306B8"
+      - "201B3DAC E60106B0"
+
+  - name: "Inf HP --> U And Enemys Goin"
+    notes: "[Misc Codes]"
+    codes:
+      - "2013B55C C60006B4"
+
+  - name: "Inf HP --> Just Your Character"
+    notes: "[Misc Codes]"
+    codes:
+      - "200A0000 C60006B4"
+      - "200A0004 E60006B0"
+      - "200A0008 0807228F"
+      - "201C8A38 08028000"
+
+  - name: "1 Hit Kill Enemy"
+    notes: "[Misc Codes]"
+    codes:
+      - "200A0010 AE0006B0"
+      - "200A0014 0804EAC5"
+      - "2013AB10 08028004"

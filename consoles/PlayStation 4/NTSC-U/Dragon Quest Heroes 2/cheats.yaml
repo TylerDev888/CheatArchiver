@@ -1,0 +1,66 @@
+# Dragon Quest Heroes 2 cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA06740
+
+game: "Dragon Quest Heroes 2"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA06740"
+cheat_type: "AP"
+source: "source: web-save.editor.com"
+
+cheats:
+  - name: "Materials 99"
+    notes: "File: *"
+    codes:
+      - "400122E0 00000000"
+      - "408C001C 00000001"
+      - "400122E1 00000000"
+      - "408C001C 00000000"
+      - "400122E2 00000003"
+      - "408C001C 00000000"
+      - "400122E3 00000063"
+      - "408C001C 00000000"
+      - "400122E4 00000002"
+      - "408C001C 00000000"
+      - "410122E6 00000002"
+      - "408C001C 00000001"
+
+  - name: "Hero Skill Points"
+    notes: "File: *"
+    codes:
+      - "1000CDE0 00000F27"
+      - "1000CDE2 00000F27"
+      - "1000CDE4 00000F27"
+      - "1000CDE6 00000F27"
+      - "1000CDE8 00000F27"
+      - "1000CDEA 00000F27"
+      - "1000CDEC 00000F27"
+
+  - name: "Heroine Skill Points"
+    notes: "File: *"
+    codes:
+      - "1000D630 00000F27"
+      - "1000D632 00000F27"
+      - "1000D634 00000F27"
+      - "1000D636 00000F27"
+      - "1000D638 00000F27"
+      - "1000D63A 00000F27"
+      - "1000D63C 00000F27"
+
+  - name: "Others Skill Points"
+    notes: "File: *"
+    codes:
+      - "1000D630 00000F27"
+      - "1000D632 00000F27"
+      - "1000D634 00000F27"
+      - "1000D636 00000F27"
+      - "1000D638 00000F27"
+      - "1000D63A 00000F27"
+      - "1000D63C 00000F27"
+
+  - name: "Max Mini Medals"
+    notes: "File: *"
+    codes:
+      - "10022974 000003E7"

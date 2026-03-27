@@ -1,0 +1,28 @@
+# Kimistar - Kimi To Study [BGM Collection Package] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66376
+
+game: "Kimistar - Kimi To Study [BGM Collection Package]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66376"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "901866F8 0C061966"
+
+  - name: "Press L3 For Texture Viewer, R3 To Disable"
+    author: "punk7890"
+    codes:
+      - "2014F25C 0C0521A6"
+      - "101486D8 00002224"
+      - "D0592612 0000FFFD"
+      - "002641E8 00000001"
+      - "D0592612 0000FFFB"
+      - "002641E8 00000000"

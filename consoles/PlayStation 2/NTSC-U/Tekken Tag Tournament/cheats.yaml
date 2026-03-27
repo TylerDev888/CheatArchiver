@@ -1,0 +1,977 @@
+# Tekken Tag Tournament cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20001
+
+game: "Tekken Tag Tournament"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20001"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F03573EC 000001FD"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0357248 004054B3"
+
+  - name: "1-Hit Death P1"
+    author: "Code Master"
+    codes:
+      - "20879934 00000001"
+      - "20879938 00000001"
+
+  - name: "1-Hit Death P2"
+    author: "Code Master"
+    codes:
+      - "208851D4 00000001"
+      - "208851D8 00000001"
+
+  - name: "Allow Players To Choose Same Characters"
+    author: "Code Master"
+    codes:
+      - "203CA064 00000000"
+
+  - name: "Background Stage Modifier"
+    author: "Code Master"
+    codes:
+      - "105F655E 000000??"
+
+  - name: "Blocking Disabled Both Players"
+    author: "nolberto82"
+    codes:
+      - "20372340 10000036"
+
+  - name: "Everything Unlocked"
+    author: "InterAct"
+    codes:
+      - "10439B70 0000FFFF"
+      - "10439B72 0000FFFF"
+      - "10439B74 0000003F"
+      - "10439B78 00000026"
+      - "10439B82 00000103"
+
+  - name: "Hit Anywhere Both Players"
+    author: "nolberto82"
+    codes:
+      - "203771DC 00000000"
+      - "20371F1C 00000000"
+
+  - name: "Hit Anywhere P1"
+    author: "nolberto82"
+    codes:
+      - "200A0100 26730001"
+      - "200A0104 34020001"
+      - "200A0108 105E0002"
+      - "200A0110 0274102A"
+      - "200A0114 080DDC77"
+      - "203771D4 08028040"
+
+  - name: "Infinite Health P1"
+    author: "Code Master"
+    codes:
+      - "20879934 000A0000"
+      - "20879938 000A0000"
+
+  - name: "Infinite Health P2"
+    author: "Code Master"
+    codes:
+      - "208851D4 000A0000"
+      - "208851D8 000A0000"
+
+  - name: "Infinite Time"
+    author: "Code Master"
+    codes:
+      - "205F5B30 000010A4"
+
+  - name: "No Health P1"
+    author: "Code Master"
+    codes:
+      - "20879934 00000000"
+      - "20879938 00000000"
+
+  - name: "No Health P2"
+    author: "Code Master"
+    codes:
+      - "208851D4 00000000"
+      - "208851D8 00000000"
+
+  - name: "P1 Can't Move"
+    author: "Code Master"
+    codes:
+      - "20879954 000A0000"
+
+  - name: "P1 Character 1 Moves Modifier"
+    author: "Code Master"
+    codes:
+      - "20440840 000000??"
+
+  - name: "P1 Character 2 Moves Modifier"
+    author: "Code Master"
+    codes:
+      - "20440870 000000??"
+
+  - name: "P1 Infinite Health"
+    author: "MadCatz"
+    codes:
+      - "20879934 00097333"
+      - "20879938 00097333"
+
+  - name: "P1 Needs 1 Win To Win"
+    author: "Code Master"
+    codes:
+      - "D087959A 00000000"
+      - "1087959A 00000001"
+
+  - name: "P1 Never Wins"
+    author: "Code Master"
+    codes:
+      - "D087959A 00000001"
+      - "1087959A 00000000"
+
+  - name: "P1-1 Has Alex Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 00000011"
+      - "00440B28 00000011"
+
+  - name: "P1-1 Has Anna Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 00000012"
+      - "00440B28 00000012"
+
+  - name: "P1-1 Has Armor King Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 0000001A"
+      - "00440B28 0000001A"
+
+  - name: "P1-1 Has Baek Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 00000020"
+      - "00440B28 00000020"
+
+  - name: "P1-1 Has Bruce Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 0000001F"
+      - "00440B28 0000001F"
+
+  - name: "P1-1 Has Bryan Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 0000000C"
+      - "00440B28 0000000C"
+
+  - name: "P1-1 Has Devil Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 0000001D"
+      - "00440B28 0000001D"
+
+  - name: "P1-1 Has Eddy Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 00000008"
+      - "00440B28 00000008"
+
+  - name: "P1-1 Has Ganryu Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 0000001B"
+      - "00440B28 0000001B"
+
+  - name: "P1-1 Has Gun Jack Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 00000010"
+      - "00440B28 00000010"
+
+  - name: "P1-1 Has Heihachi Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 0000000D"
+      - "00440B28 0000000D"
+
+  - name: "P1-1 Has Hwoarang Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 00000006"
+      - "00440B28 00000006"
+
+  - name: "P1-1 Has Jack-2 Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 00000015"
+      - "00440B28 00000015"
+
+  - name: "P1-1 Has Jin Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 00000009"
+      - "00440B28 00000009"
+
+  - name: "P1-1 Has Julia Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 0000000A"
+      - "00440B28 0000000A"
+
+  - name: "P1-1 Has Jun Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 0000001E"
+      - "00440B28 0000001E"
+
+  - name: "P1-1 Has Kazuya Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 00000013"
+      - "00440B28 00000013"
+
+  - name: "P1-1 Has King Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 00000003"
+      - "00440B28 00000003"
+
+  - name: "P1-1 Has Kuni Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 0000001C"
+      - "00440B28 0000001C"
+
+  - name: "P1-1 Has Law Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 00000001"
+      - "00440B28 00000001"
+
+  - name: "P1-1 Has Lee Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 00000019"
+      - "00440B28 00000019"
+
+  - name: "P1-1 Has Lei Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 00000002"
+      - "00440B28 00000002"
+
+  - name: "P1-1 Has Michelle Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 00000017"
+      - "00440B28 00000017"
+
+  - name: "P1-1 Has Nina Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 00000005"
+      - "00440B28 00000005"
+
+  - name: "P1-1 Has Ogre Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 0000000E"
+      - "00440B28 0000000E"
+
+  - name: "P1-1 Has P.Jack Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 00000016"
+      - "00440B28 00000016"
+
+  - name: "P1-1 Has Panda Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 0000000B"
+      - "00440B28 0000000B"
+
+  - name: "P1-1 Has Paul Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 00000000"
+      - "00440B28 00000000"
+
+  - name: "P1-1 Has True Ogre Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 00000014"
+      - "00440B28 00000014"
+
+  - name: "P1-1 Has Unknown Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 00000021"
+      - "00440B28 00000021"
+
+  - name: "P1-1 Has Wang Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 00000018"
+      - "00440B28 00000018"
+
+  - name: "P1-1 Has Xiaoyu Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 00000007"
+      - "00440B28 00000007"
+
+  - name: "P1-1 Has Yoshimitsu Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440840 00000004"
+      - "00440B28 00000004"
+
+  - name: "P1-2 Has Alex Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 00000011"
+      - "00440B34 00000011"
+
+  - name: "P1-2 Has Anna Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 00000012"
+      - "00440B34 00000012"
+
+  - name: "P1-2 Has Armor King Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 0000001A"
+      - "00440B34 0000001A"
+
+  - name: "P1-2 Has Baek Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 00000020"
+      - "00440B34 00000020"
+
+  - name: "P1-2 Has Bruce Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 0000001F"
+      - "00440B34 0000001F"
+
+  - name: "P1-2 Has Bryan Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 0000000C"
+      - "00440B34 0000000C"
+
+  - name: "P1-2 Has Devil Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 0000001D"
+      - "00440B34 0000001D"
+
+  - name: "P1-2 Has Eddy Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 00000008"
+      - "00440B34 00000008"
+
+  - name: "P1-2 Has Ganryu Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 0000001B"
+      - "00440B34 0000001B"
+
+  - name: "P1-2 Has Gun Jack Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 00000010"
+      - "00440B34 00000010"
+
+  - name: "P1-2 Has Heihachi Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 0000000D"
+      - "00440B34 0000000D"
+
+  - name: "P1-2 Has Hwoarang Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 00000006"
+      - "00440B34 00000006"
+
+  - name: "P1-2 Has Jack-2 Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 00000015"
+      - "00440B34 00000015"
+
+  - name: "P1-2 Has Jin Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 00000009"
+      - "00440B34 00000009"
+
+  - name: "P1-2 Has Julia Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 0000000A"
+      - "00440B34 0000000A"
+
+  - name: "P1-2 Has Jun Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 0000001E"
+      - "00440B34 0000001E"
+
+  - name: "P1-2 Has Kazuya Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 00000013"
+      - "00440B34 00000013"
+
+  - name: "P1-2 Has King Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 00000003"
+      - "00440B34 00000003"
+
+  - name: "P1-2 Has Kuni Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 0000001C"
+      - "00440B34 0000001C"
+
+  - name: "P1-2 Has Law Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 00000001"
+      - "00440B34 00000001"
+
+  - name: "P1-2 Has Lee Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 00000019"
+      - "00440B34 00000019"
+
+  - name: "P1-2 Has Lei Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 00000002"
+      - "00440B34 00000002"
+
+  - name: "P1-2 Has Michelle Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 00000017"
+      - "00440B34 00000017"
+
+  - name: "P1-2 Has Nina Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 00000005"
+      - "00440B34 00000005"
+
+  - name: "P1-2 Has Ogre Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 0000000E"
+      - "00440B34 0000000E"
+
+  - name: "P1-2 Has P.Jack Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 00000016"
+      - "00440B34 00000016"
+
+  - name: "P1-2 Has Panda Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 0000000B"
+      - "00440B34 0000000B"
+
+  - name: "P1-2 Has Paul Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 00000000"
+      - "00440B34 00000000"
+
+  - name: "P1-2 Has True Ogre Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 00000014"
+      - "00440B34 00000014"
+
+  - name: "P1-2 Has Unknown Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 00000021"
+      - "00440B34 00000021"
+
+  - name: "P1-2 Has Wang Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 00000018"
+      - "00440B34 00000018"
+
+  - name: "P1-2 Has Xiaoyu Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 00000007"
+      - "00440B34 00000007"
+
+  - name: "P1-2 Has Yoshimitsu Moves"
+    author: "Codejunkies"
+    codes:
+      - "00440870 00000004"
+      - "00440B34 00000004"
+
+  - name: "P2 Can't Move"
+    author: "Code Master"
+    codes:
+      - "208851F4 00000000"
+
+  - name: "P2 Character 1 Moves Modifier"
+    author: "Code Master"
+    codes:
+      - "204408A0 000000??"
+
+  - name: "P2 Character 2 Moves Modifier"
+    author: "Code Master"
+    codes:
+      - "204408D0 000000??"
+
+  - name: "P2 Infinite Health"
+    author: "MadCatz"
+    codes:
+      - "208851D4 00097333"
+      - "208851D8 00097333"
+
+  - name: "P2 Needs 1 Win To Win"
+    author: "Code Master"
+    codes:
+      - "D0884E3A 00000000"
+      - "10884E3A 00000001"
+
+  - name: "P2 Never Wins"
+    author: "Code Master"
+    codes:
+      - "D0884E3A 00000001"
+      - "10884E3A 00000000"
+
+  - name: "P2-1 Has Alex Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 00000011"
+      - "00440B88 00000011"
+
+  - name: "P2-1 Has Anna Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 00000012"
+      - "00440B88 00000012"
+
+  - name: "P2-1 Has Armor King Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 0000001A"
+      - "00440B88 0000001A"
+
+  - name: "P2-1 Has Baek Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 00000020"
+      - "00440B88 00000020"
+
+  - name: "P2-1 Has Bruce Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 0000001F"
+      - "00440B88 0000001F"
+
+  - name: "P2-1 Has Bryan Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 0000000C"
+      - "00440B88 0000000C"
+
+  - name: "P2-1 Has Devil Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 0000001D"
+      - "00440B88 0000001D"
+
+  - name: "P2-1 Has Eddy Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 00000008"
+      - "00440B88 00000008"
+
+  - name: "P2-1 Has Ganryu Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 0000001B"
+      - "00440B88 0000001B"
+
+  - name: "P2-1 Has Gun Jack Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 00000010"
+      - "00440B88 00000010"
+
+  - name: "P2-1 Has Heihachi Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 0000000D"
+      - "00440B88 0000000D"
+
+  - name: "P2-1 Has Hwoarang Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 00000006"
+      - "00440B88 00000006"
+
+  - name: "P2-1 Has Jack-2 Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 00000015"
+      - "00440B88 00000015"
+
+  - name: "P2-1 Has Jin Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 00000009"
+      - "00440B88 00000009"
+
+  - name: "P2-1 Has Julia Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 0000000A"
+      - "00440B88 0000000A"
+
+  - name: "P2-1 Has Jun Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 0000001E"
+      - "00440B88 0000001E"
+
+  - name: "P2-1 Has Kazuya Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 00000013"
+      - "00440B88 00000013"
+
+  - name: "P2-1 Has King Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 00000003"
+      - "00440B88 00000003"
+
+  - name: "P2-1 Has Kuni Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 0000001C"
+      - "00440B88 0000001C"
+
+  - name: "P2-1 Has Law Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 00000001"
+      - "00440B88 00000001"
+
+  - name: "P2-1 Has Lee Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 00000019"
+      - "00440B88 00000019"
+
+  - name: "P2-1 Has Lei Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 00000002"
+      - "00440B88 00000002"
+
+  - name: "P2-1 Has Michelle Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 00000017"
+      - "00440B88 00000017"
+
+  - name: "P2-1 Has Nina Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 00000005"
+      - "00440B88 00000005"
+
+  - name: "P2-1 Has Ogre Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 0000000E"
+      - "00440B88 0000000E"
+
+  - name: "P2-1 Has P.Jack Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 00000016"
+      - "00440B88 00000016"
+
+  - name: "P2-1 Has Panda Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 0000000B"
+      - "00440B88 0000000B"
+
+  - name: "P2-1 Has Paul Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 00000000"
+      - "00440B88 00000000"
+
+  - name: "P2-1 Has True Ogre Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 00000014"
+      - "00440B88 00000014"
+
+  - name: "P2-1 Has Unknown Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 00000021"
+      - "00440B88 00000021"
+
+  - name: "P2-1 Has Wang Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 00000018"
+      - "00440B88 00000018"
+
+  - name: "P2-1 Has Xiaoyu Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 00000007"
+      - "00440B88 00000007"
+
+  - name: "P2-1 Has Yoshimitsu Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408A0 00000004"
+      - "00440B88 00000004"
+
+  - name: "P2-2 Has Alex Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 00000011"
+      - "00440B94 00000011"
+
+  - name: "P2-2 Has Anna Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 00000012"
+      - "00440B94 00000012"
+
+  - name: "P2-2 Has Armor King Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 0000001A"
+      - "00440B94 0000001A"
+
+  - name: "P2-2 Has Baek Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 00000020"
+      - "00440B94 00000020"
+
+  - name: "P2-2 Has Bruce Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 0000001F"
+      - "00440B94 0000001F"
+
+  - name: "P2-2 Has Bryan Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 0000000C"
+      - "00440B94 0000000C"
+
+  - name: "P2-2 Has Devil Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 0000001D"
+      - "00440B94 0000001D"
+
+  - name: "P2-2 Has Eddy Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 00000008"
+      - "00440B94 00000008"
+
+  - name: "P2-2 Has Ganryu Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 0000001B"
+      - "00440B94 0000001B"
+
+  - name: "P2-2 Has Gun Jack Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 00000010"
+      - "00440B94 00000010"
+
+  - name: "P2-2 Has Heihachi Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 0000000D"
+      - "00440B94 0000000D"
+
+  - name: "P2-2 Has Hwoarang Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 00000006"
+      - "00440B94 00000006"
+
+  - name: "P2-2 Has Jack-2 Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 00000015"
+      - "00440B94 00000015"
+
+  - name: "P2-2 Has Jin Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 00000009"
+      - "00440B94 00000009"
+
+  - name: "P2-2 Has Julia Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 0000000A"
+      - "00440B94 0000000A"
+
+  - name: "P2-2 Has Jun Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 0000001E"
+      - "00440B94 0000001E"
+
+  - name: "P2-2 Has Kazuya Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 00000013"
+      - "00440B94 00000013"
+
+  - name: "P2-2 Has King Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 00000003"
+      - "00440B94 00000003"
+
+  - name: "P2-2 Has Kuni Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 0000001C"
+      - "00440B94 0000001C"
+
+  - name: "P2-2 Has Law Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 00000001"
+      - "00440B94 00000001"
+
+  - name: "P2-2 Has Lee Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 00000019"
+      - "00440B94 00000019"
+
+  - name: "P2-2 Has Lei Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 00000002"
+      - "00440B94 00000002"
+
+  - name: "P2-2 Has Michelle Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 00000017"
+      - "00440B94 00000017"
+
+  - name: "P2-2 Has Nina Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 00000005"
+      - "00440B94 00000005"
+
+  - name: "P2-2 Has Ogre Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 0000000E"
+      - "00440B94 0000000E"
+
+  - name: "P2-2 Has P.Jack Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 00000016"
+      - "00440B94 00000016"
+
+  - name: "P2-2 Has Panda Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 0000000B"
+      - "00440B94 0000000B"
+
+  - name: "P2-2 Has Paul Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 00000000"
+      - "00440B94 00000000"
+
+  - name: "P2-2 Has True Ogre Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 00000014"
+      - "00440B94 00000014"
+
+  - name: "P2-2 Has Unknown Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 00000021"
+      - "00440B94 00000021"
+
+  - name: "P2-2 Has Wang Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 00000018"
+      - "00440B94 00000018"
+
+  - name: "P2-2 Has Xiaoyu Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 00000007"
+      - "00440B94 00000007"
+
+  - name: "P2-2 Has Yoshimitsu Moves"
+    author: "Codejunkies"
+    codes:
+      - "004408D0 00000004"
+      - "00440B94 00000004"
+
+  - name: "Start On Final Stage (Arcade Mode)"
+    author: "Code Master"
+    codes:
+      - "D043B71C 00000000"
+      - "1043B71C 00000007"
+
+  - name: "Unlock Everything"
+    author: "Code Master"
+    codes:
+      - "20439B70 FFFFFFFF"
+      - "20439B74 FFFFFFFF"
+      - "20439B78 FFFFFFFF"
+      - "10439B82 00000103"

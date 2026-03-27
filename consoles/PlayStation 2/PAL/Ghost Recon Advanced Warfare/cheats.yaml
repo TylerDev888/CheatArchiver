@@ -1,0 +1,38 @@
+# Ghost Recon Advanced Warfare cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Ghost Recon Advanced Warfare"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9015A090 0C052D36"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20471698 8E010AC0"
+      - "2047169C AC810384"
+
+  - name: "Ammo (No Reload)"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20105DA0 24830000"
+
+  - name: "All Quick Missions"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "204B8B14 24020020"
+      - "204B8B18 AC22560C"
+      - "204B8B1C 1000000F"

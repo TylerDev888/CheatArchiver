@@ -1,0 +1,37 @@
+# Simple 2000 Series Vol.120 - The Saigo No Nippon Tsuwamono cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-20500
+
+game: "Simple 2000 Series Vol.120 - The Saigo No Nippon Tsuwamono"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-20500"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    codes:
+      - "902E0098 0C0B7FCE"
+
+  - name: "Press R3 In Game For Debug Menu, Select To Disable"
+    author: "punk7890"
+    codes:
+      - "2029BF80 080B5CAA"
+      - "202D72A8 8F829638"
+      - "202D72AC 10400006"
+      - "202D72B0 3C03016C"
+      - "202D72B4 8463B982"
+      - "202D72B8 2401FFFB"
+      - "202D72BC 14610002"
+      - "202D72C0 24030001"
+      - "202D72C4 AC430004"
+      - "202D72C8 03E00008"
+      - "202D72CC 00000000"
+
+  - name: "Replace Pause Menu With Adjust Entry Menu"
+    author: "punk7890"
+    codes:
+      - "10208C34 0000E330"

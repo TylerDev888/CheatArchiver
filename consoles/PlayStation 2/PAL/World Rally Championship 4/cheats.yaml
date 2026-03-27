@@ -1,0 +1,32 @@
+# World Rally Championship 4 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-52389
+
+game: "World Rally Championship 4"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-52389"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "904007E0 0080F809"
+
+  - name: "AR Max Below 3.14 Fix"
+    author: "Codejunkies"
+    codes:
+      - "20100008 3C03200F"
+      - "2010000C 8C65FFF8"
+      - "20100010 24040079"
+      - "20100014 24030074"
+      - "20100018 0000000C"
+
+  - name: "Ultra Slow Timer"
+    author: "Codejunkies"
+    codes:
+      - "2017D350 0C05889A"

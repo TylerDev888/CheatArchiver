@@ -1,0 +1,496 @@
+# Total Immersion Racing cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20409
+
+game: "Total Immersion Racing"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20409"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0206AAC 00206AAF"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00206AAF"
+
+  - name: "Max Race Points"
+    author: "Codejunkies"
+    notes: "[Race Points Codes]"
+    codes:
+      - "1040BAEC 000003E7"
+      - "1040BB48 000003E7"
+      - "1042DAD8 000003E7"
+
+  - name: "Race Points Never Go Above 100"
+    author: "Codejunkies"
+    notes: "[Race Points Codes]"
+    codes:
+      - "E0010064 3040BAEC"
+      - "1040BAEC 00000064"
+      - "E0010064 3040BB48"
+      - "1040BB48 00000064"
+      - "E0010064 3042DAD8"
+      - "1042DAD8 00000064"
+
+  - name: "Race Points Never Go Above 50"
+    author: "Codejunkies"
+    notes: "[Race Points Codes]"
+    codes:
+      - "E0010032 3040BAEC"
+      - "1040BAEC 00000032"
+      - "E0010032 3040BB48"
+      - "1040BB48 00000032"
+      - "E0010032 3042DAD8"
+      - "1042DAD8 00000032"
+
+  - name: "Race Points Never Go Above 500"
+    author: "Codejunkies"
+    notes: "[Race Points Codes]"
+    codes:
+      - "E00101F4 3040BAEC"
+      - "1040BAEC 000001F4"
+      - "E00101F4 3040BB48"
+      - "1040BB48 000001F4"
+      - "E00101F4 3042DAD8"
+      - "1042DAD8 000001F4"
+
+  - name: "Race Points Never Go Above 75"
+    author: "Codejunkies"
+    notes: "[Race Points Codes]"
+    codes:
+      - "E001004B 3040BAEC"
+      - "1040BAEC 0000004B"
+      - "E001004B 3040BB48"
+      - "1040BB48 0000004B"
+      - "E001004B 3042DAD8"
+      - "1042DAD8 0000004B"
+
+  - name: "Unlock All Cars"
+    author: "Codejunkies"
+    notes: "[Race Points Codes]"
+    codes:
+      - "2041CCC4 00000001"
+      - "2041D444 00000001"
+      - "2041DBC4 00000001"
+      - "2041E344 00000001"
+      - "2041EAC4 00000001"
+      - "2041F9D4 00000001"
+      - "20420154 00000001"
+      - "204208D4 00000001"
+      - "20421054 00000001"
+      - "204217D4 00000001"
+      - "20423D64 00000001"
+      - "204244E4 00000001"
+
+  - name: "Unlock All Tracks"
+    author: "Codejunkies"
+    notes: "[Race Points Codes]"
+    codes:
+      - "20418614 00000001"
+      - "20418CD8 00000001"
+      - "2041939C 00000001"
+      - "20419A60 00000001"
+      - "2041A124 00000001"
+      - "2041A7E8 00000001"
+      - "2041AEAC 00000001"
+
+  - name: "8MW B3 GTR"
+    author: "Code Master"
+    notes: "[Unlock Car Codes]"
+    codes:
+      - "20423D64 00000001"
+
+  - name: "8MW V12lmr"
+    author: "Code Master"
+    notes: "[Unlock Car Codes]"
+    codes:
+      - "2041EAC4 00000001"
+
+  - name: "Abt Audi TT-R"
+    author: "Code Master"
+    notes: "[Unlock Car Codes]"
+    codes:
+      - "204253E4 00000001"
+
+  - name: "Audi R8"
+    author: "Code Master"
+    notes: "[Unlock Car Codes]"
+    codes:
+      - "2041CCC4 00000001"
+
+  - name: "Bentley EXP Speed 8"
+    author: "Code Master"
+    notes: "[Unlock Car Codes]"
+    codes:
+      - "2041D444 00000001"
+
+  - name: "Dome S101"
+    author: "Code Master"
+    notes: "[Unlock Car Codes]"
+    codes:
+      - "2041DBC4 00000001"
+
+  - name: "Lister LMP"
+    author: "Code Master"
+    notes: "[Unlock Car Codes]"
+    codes:
+      - "2041BDC4 00000001"
+
+  - name: "Lister Storm"
+    author: "Code Master"
+    notes: "[Unlock Car Codes]"
+    codes:
+      - "20420154 00000001"
+
+  - name: "Mclaren F1 GTR"
+    author: "Code Master"
+    notes: "[Unlock Car Codes]"
+    codes:
+      - "2041F9D4 00000001"
+
+  - name: "Noble M12 GTO"
+    author: "Code Master"
+    notes: "[Unlock Car Codes]"
+    codes:
+      - "20424C64 00000001"
+
+  - name: "Panoz Esperante GTR1"
+    author: "Code Master"
+    notes: "[Unlock Car Codes]"
+    codes:
+      - "20421054 00000001"
+
+  - name: "Panoz LMP-1 Evo"
+    author: "Code Master"
+    notes: "[Unlock Car Codes]"
+    codes:
+      - "2041E344 00000001"
+
+  - name: "Pilbeam LMP"
+    author: "Code Master"
+    notes: "[Unlock Car Codes]"
+    codes:
+      - "2041C544 00000001"
+
+  - name: "Quaife GT1"
+    author: "Code Master"
+    notes: "[Unlock Car Codes]"
+    codes:
+      - "204244E4 00000001"
+
+  - name: "Rockingham Champ Car"
+    author: "Code Master"
+    notes: "[Unlock Car Codes]"
+    codes:
+      - "2041B644 00000001"
+
+  - name: "Sintura GTS"
+    author: "Code Master"
+    notes: "[Unlock Car Codes]"
+    codes:
+      - "204217D4 00000001"
+
+  - name: "Vemac 320R"
+    author: "Code Master"
+    notes: "[Unlock Car Codes]"
+    codes:
+      - "204208D4 00000001"
+
+  - name: "All Challenges"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "40274998 00250084"
+      - "00000001 00000000"
+
+  - name: "Audi V Bentley"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "20278568 00000001"
+
+  - name: "Bentley"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "20277F38 00000001"
+
+  - name: "BMW M3"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "202755F8 00000001"
+
+  - name: "BMW V12"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "202772D8 00000001"
+
+  - name: "Bonus Car"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "20278DA8 00000001"
+
+  - name: "British Cup"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "20276EB8 00000001"
+
+  - name: "British V German"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "20274FC8 00000001"
+
+  - name: "Dome"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "202776F8 00000001"
+
+  - name: "Euro Cup"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "202753E8 00000001"
+
+  - name: "Far Eastern"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "202770C8 00000001"
+
+  - name: "Fast And Furious"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "20277D28 00000001"
+
+  - name: "German GT"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "20275808 00000001"
+
+  - name: "GT Cup"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "20274BA8 00000001"
+
+  - name: "GTS Cup"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "20275E38 00000001"
+
+  - name: "High Speed"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "20277908 00000001"
+
+  - name: "Intercontinental"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "20278FB8 00000001"
+
+  - name: "Mclaren F1"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "20276CA8 00000001"
+
+  - name: "Noble"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "20274DB8 00000001"
+
+  - name: "Panoz Esperante"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "20276048 00000001"
+
+  - name: "Panoz LMP"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "20277B18 00000001"
+
+  - name: "Pilbeam"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "20278778 00000001"
+
+  - name: "Prototype Cup"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "202774E8 00000001"
+
+  - name: "Quaife"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "202751D8 00000001"
+
+  - name: "Rockingham"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "202793D8 00000001"
+
+  - name: "Rockingham Oval"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "202791C8 00000001"
+
+  - name: "Sebring 50"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "20278988 00000001"
+
+  - name: "Sebring Cup"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "20276678 00000001"
+
+  - name: "Sintura"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "20275C28 00000001"
+
+  - name: "Sprint Cup"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "20275A18 00000001"
+
+  - name: "Storm Cu P"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "20276258 00000001"
+
+  - name: "Traffic"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "20278148 00000001"
+
+  - name: "Trans Atlantic"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "20276A98 00000001"
+
+  - name: "Vemac"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "20276468 00000001"
+
+  - name: "All Tracks"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "40416440 000C01B1"
+      - "00000001 00000000"
+
+  - name: "Hockenheim"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "20416B04 00000001"
+
+  - name: "Hockenheim Motodrom"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "2041A124 00000001"
+
+  - name: "Minato City"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "2041939C 00000001"
+
+  - name: "Monza"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "204171C8 00000001"
+
+  - name: "Sebring"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "20418614 00000001"
+
+  - name: "Silverstone"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "20416440 00000001"
+
+  - name: "Silverstone Interational"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "20419A60 00000001"
+
+  - name: "Springfield"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "2041788C 00000001"
+
+  - name: "Springfield Short"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "2041A7E8 00000001"
+
+  - name: "Talheimring"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "20417F50 00000001"
+
+  - name: "Max Total Points (Career Mode"
+    author: "Code Master"
+    codes:
+      - "1040BAEC 0000270F"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00206AAF"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90206AAC 0C087325"

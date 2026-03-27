@@ -1,0 +1,30 @@
+# Centre Court - Hardhitter cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50636
+
+game: "Centre Court - Hardhitter"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50636"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F012EE74 000001FD"
+
+  - name: "P1 1 Point Win (Press R1 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D02ABA02 0000F7FF"
+      - "1031FB78 00000006"
+
+  - name: "P2 Scores 0 (Press L1 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D02ABA02 0000FBFF"
+      - "1031FB7C 00000000"

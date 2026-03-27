@@ -1,0 +1,18 @@
+# Remember Me cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01701
+
+game: "Remember Me"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01701"
+cheat_type: "Save Editor"
+source: "From zeick"
+
+cheats:
+  - name: "999999999 Pmp"
+    notes: "File: PAYLOAD"
+    codes:
+      - "search 0x0B43757272656E74504D50000000000C496E7450726F7065727479"
+      - "write next (36):3B9AC9FF"

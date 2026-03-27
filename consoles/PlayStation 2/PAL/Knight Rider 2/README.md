@@ -1,0 +1,96 @@
+# Knight Rider 2
+
+**Console:** PlayStation 2  
+**Region:** PAL  
+**Serial:** SLES-52836  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Enable Code
+**Author:** lee4  
+**Notes:** [Master Codes]
+
+```
+902538B8 0C094DD6
+```
+
+---
+
+### Always SPM
+**Author:** Datel
+
+```
+005B478E 00000001
+```
+
+---
+
+### Invincible
+**Author:** Datel
+
+```
+005B478F 00000001
+```
+
+---
+
+### Open Everything
+**Author:** Datel
+
+```
+005B478D 00000001
+```
+
+---
+
+### Pal2ntsc
+**Author:** lee4
+
+```
+20250EA0 34050002
+20250EA4 24030002
+20250EA8 0000000C
+20250EAC 03E00008
+```
+
+---
+
+### Skip FMV
+**Author:** lee4
+
+```
+2026A988 8C620000
+D0597FC2 0000FFFE
+2026A988 24020001
+```
+
+---
+
+### Y Fix (MAX)
+**Author:** lee4
+
+```
+400FFF80 00040001
+64638000 00000000
+400FFF90 00040001
+64638000 00000000
+200FFFA0 FC2300A0
+200FFFA4 03E00008
+200FFFA8 DFBF0040
+204E28A8 0C03FFE0
+204E28AC 00000000
+400FFFC0 00040001
+64638000 00000000
+400FFFD0 00040001
+64638000 00000000
+200FFFE0 FC230080
+200FFFE4 03E00008
+200FFFE8 DE6309C0
+204E289C 0C03FFF0
+204E28A0 00000000
+```
+
+---

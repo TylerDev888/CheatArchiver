@@ -1,0 +1,203 @@
+# Freekstyle cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20367
+
+game: "Freekstyle"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20367"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0123514 001127F7"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001127F7"
+
+  - name: "All Riders - Max Stats"
+    author: "InterAct"
+    codes:
+      - "40276434 000A0001"
+      - "0E0E0E0E 00000000"
+
+  - name: "Always Freekout Mode"
+    author: "Code Master"
+    codes:
+      - "10240684 00000001"
+      - "10274D5A 00000001"
+
+  - name: "Always Freekout Time"
+    author: "InterAct"
+    codes:
+      - "10240684 00000001"
+
+  - name: "All Combos Are Completed"
+    author: "Codejunkies"
+    notes: "[Brian Deegan Codes]"
+    codes:
+      - "2027653C FFFFFFFF"
+      - "20276540 FFFFFFFF"
+      - "20276544 FFFFFFFF"
+      - "20276548 FFFFFFFF"
+      - "2027654C FFFFFFFF"
+
+  - name: "All Tricks Are Completed"
+    author: "Codejunkies"
+    notes: "[Brian Deegan Codes]"
+    codes:
+      - "20276520 FFFFFFFF"
+      - "20276524 FFFFFFFF"
+      - "20276528 FFFFFFFF"
+      - "20276530 FFFFFFFF"
+      - "20276534 FFFFFFFF"
+
+  - name: "Boost Stat Is Maxed"
+    author: "Codejunkies"
+    notes: "[Brian Deegan Codes]"
+    codes:
+      - "0027643A 0000000E"
+
+  - name: "Control Stat Is Maxed"
+    author: "Codejunkies"
+    notes: "[Brian Deegan Codes]"
+    codes:
+      - "0027643B 0000000E"
+
+  - name: "Have All Tricks Completed"
+    author: "Code Master"
+    notes: "[Brian Deegan Codes]"
+    codes:
+      - "20276520 FFFFFFFF"
+      - "20276524 FFFFFFFF"
+      - "20276528 FFFFFFFF"
+      - "2027652C FFFFFFFF"
+      - "20276530 FFFFFFFF"
+      - "20276534 FFFFFFFF"
+
+  - name: "Jump Stat Is Maxed"
+    author: "Codejunkies"
+    notes: "[Brian Deegan Codes]"
+    codes:
+      - "0027643C 0000000E"
+
+  - name: "Landing Stat Is Maxed"
+    author: "Codejunkies"
+    notes: "[Brian Deegan Codes]"
+    codes:
+      - "0027643D 0000000E"
+
+  - name: "Max Boost"
+    author: "Code Master"
+    notes: "[Brian Deegan Codes]"
+    codes:
+      - "0027643A 00000014"
+
+  - name: "Max Control"
+    author: "Code Master"
+    notes: "[Brian Deegan Codes]"
+    codes:
+      - "0027643B 00000014"
+
+  - name: "Max Jumping"
+    author: "Code Master"
+    notes: "[Brian Deegan Codes]"
+    codes:
+      - "0027643C 00000014"
+
+  - name: "Max Landing"
+    author: "Code Master"
+    notes: "[Brian Deegan Codes]"
+    codes:
+      - "0027643D 00000014"
+
+  - name: "Max Speed"
+    author: "Code Master"
+    notes: "[Brian Deegan Codes]"
+    codes:
+      - "00276439 00000014"
+
+  - name: "Speed Stat Is Maxed"
+    author: "Codejunkies"
+    notes: "[Brian Deegan Codes]"
+    codes:
+      - "00276439 0000000E"
+
+  - name: "Have All Bikes"
+    author: "Code Master"
+    notes: "[First Created User ID Codes]"
+    codes:
+      - "2027641C FFFFFFFF"
+
+  - name: "Have All Outfits"
+    author: "Code Master"
+    notes: "[First Created User ID Codes]"
+    codes:
+      - "20276418 FFFFFFFF"
+
+  - name: "Have All Combos Completed"
+    author: "Code Master"
+    notes: "[Greg Albertyn Codes]"
+    codes:
+      - "202766F8 FFFFFFFF"
+      - "202766FC FFFFFFFF"
+      - "20276700 FFFFFFFF"
+      - "20276704 FFFFFFFF"
+      - "20276708 FFFFFFFF"
+
+  - name: "Invisibike Mode"
+    author: "InterAct"
+    codes:
+      - "1023D844 00000000"
+
+  - name: "Max All Stats (All Characters)"
+    author: "Code Master"
+    codes:
+      - "40276434 000A0001"
+      - "14141414 00000000"
+
+  - name: "P1 Press L1+Select To Activate Slow Motion"
+    author: "Code Master"
+    codes:
+      - "D023EA02 0000FBFE"
+      - "10240464 00000001"
+
+  - name: "P1 Press L2+Select To Activate Slow Motion"
+    author: "Code Master"
+    codes:
+      - "D023EA02 0000FEFE"
+      - "10240464 00000000"
+
+  - name: "Slow Mo Mode"
+    author: "Codejunkies"
+    codes:
+      - "D023EA02 0000BFFD"
+      - "10240464 00000001"
+      - "D023EA02 00007FFD"
+      - "10240464 00000000"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001127F7"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901127F4 0C046FAA"
+
+  - name: "Invisible Bikes"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1023D844 00000000"

@@ -1,0 +1,27 @@
+# Shake Spears cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB01426
+
+game: "Shake Spears"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB01426"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Max Money"
+    notes: "File: SAVE0"
+    codes:
+      - "write at 0x51:0x3B9AC9FF"
+
+  - name: "Max Crystal"
+    notes: "File: SAVE0"
+    codes:
+      - "write at 0x49:0x3B9AC9FF"
+
+  - name: "Level 99 By Chaoszage"
+    notes: "File: SAVE0"
+    codes:
+      - "write at 0x44:0x63"

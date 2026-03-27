@@ -1,0 +1,41 @@
+# Who Wants To Be A Millionaire - Party Edition cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54199
+
+game: "Who Wants To Be A Millionaire - Party Edition"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54199"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "nolberto82"
+    notes: "[Master Codes]"
+    codes:
+      - "9011117C 0C0418F0"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "902119F8 0C084626"
+
+  - name: "50:50 Lifeline Removes All Wrong Answers"
+    author: "nolberto82"
+    codes:
+      - "20114460 AE200000"
+
+  - name: "Infinite Lifelines"
+    author: "nolberto82"
+    codes:
+      - "20112564 AE40000C"
+      - "2011258C AE400010"
+      - "201125A4 AE400014"
+
+  - name: "Show Correct Answer"
+    author: "nolberto82"
+    codes:
+      - "201111CC 24450000"

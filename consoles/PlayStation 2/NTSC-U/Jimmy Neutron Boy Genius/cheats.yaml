@@ -1,0 +1,72 @@
+# Jimmy Neutron Boy Genius cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20537
+
+game: "Jimmy Neutron Boy Genius"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20537"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-4Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0200008 0035869F"
+      - "D0080234 0000003D"
+      - "20080234 00000000"
+
+  - name: "Code Breaker Version 5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0200008 0035869F"
+      - "D00802AC 0000003D"
+      - "200802AC 00000000"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0200008 0035869F"
+      - "9035869C 0C09C6D8"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[HUGE NOTE: The Enable Code is Code Breaker Revision specific, there are currently 3 different Enable Codes. Use the Enable Code for your Version Code Breaker. If you dont know what version you have, then you probably have Version 1-4 that doesnt have a version # on the CD itself, I believe V5 & ..."
+    codes:
+      - "10498340 00000003"
+
+  - name: "Infinite Lives"
+    author: "Code Master"
+    notes: "[HUGE NOTE: The Enable Code is Code Breaker Revision specific, there are currently 3 different Enable Codes. Use the Enable Code for your Version Code Breaker. If you dont know what version you have, then you probably have Version 1-4 that doesnt have a version # on the CD itself, I believe V5 & ..."
+    codes:
+      - "10498344 00000009"
+
+  - name: "Extra Lives"
+    author: "Code Master"
+    notes: "[HUGE NOTE: The Enable Code is Code Breaker Revision specific, there are currently 3 different Enable Codes. Use the Enable Code for your Version Code Breaker. If you dont know what version you have, then you probably have Version 1-4 that doesnt have a version # on the CD itself, I believe V5 & ..."
+    codes:
+      - "2024E67C 24420001"
+
+  - name: "Infinite Lives (Rocket Game)"
+    author: "Code Master"
+    notes: "[HUGE NOTE: The Enable Code is Code Breaker Revision specific, there are currently 3 different Enable Codes. Use the Enable Code for your Version Code Breaker. If you dont know what version you have, then you probably have Version 1-4 that doesnt have a version # on the CD itself, I believe V5 & ..."
+    codes:
+      - "203A5194 00000000"
+
+  - name: "Extra Lives (Rocket Game)"
+    author: "Code Master"
+    notes: "[HUGE NOTE: The Enable Code is Code Breaker Revision specific, there are currently 3 different Enable Codes. Use the Enable Code for your Version Code Breaker. If you dont know what version you have, then you probably have Version 1-4 that doesnt have a version # on the CD itself, I believe V5 & ..."
+    codes:
+      - "103A5190 00000001"
+
+  - name: "Hella Neutron Particles"
+    author: "Code Master"
+    notes: "[HUGE NOTE: The Enable Code is Code Breaker Revision specific, there are currently 3 different Enable Codes. Use the Enable Code for your Version Code Breaker. If you dont know what version you have, then you probably have Version 1-4 that doesnt have a version # on the CD itself, I believe V5 & ..."
+    codes:
+      - "4049856C 000A0056"
+      - "00000063 00000000"

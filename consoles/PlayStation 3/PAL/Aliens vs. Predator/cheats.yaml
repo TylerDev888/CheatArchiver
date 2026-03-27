@@ -1,0 +1,17 @@
+# Aliens vs. Predator cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00585
+
+game: "Aliens vs. Predator"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00585"
+cheat_type: "Save Editor"
+source: "From chaoszage"
+
+cheats:
+  - name: "Unlock All Marine,predator And Aliens Missions"
+    notes: "File: PROFILE"
+    codes:
+      - "2000000C 0007BFDF"

@@ -1,0 +1,78 @@
+# Smash Court Tennis - Pro Tournament 2 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52423
+
+game: "Smash Court Tennis - Pro Tournament 2"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52423"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0190308 0019030B"
+
+  - name: "Always 0 Sets (Press R2 To Activate)"
+    author: "Codejunkies"
+    notes: "[Player On Bottom Of Score Board]"
+    codes:
+      - "D04635C2 0000FDFF"
+      - "1057644A 00000000"
+
+  - name: "Always 9 Sets (Press R1 To Activate)"
+    author: "Codejunkies"
+    notes: "[Player On Bottom Of Score Board]"
+    codes:
+      - "D04635C2 0000F7FF"
+      - "1057644A 00000009"
+
+  - name: "Always On 0 Points (Press R2 To Activate)"
+    author: "Codejunkies"
+    notes: "[Player On Bottom Of Score Board]"
+    codes:
+      - "E10200FF 014635C2"
+      - "10576456 00000000"
+      - "1057646C 00000000"
+
+  - name: "Always On 40 Points (Press R1 To Activate)"
+    author: "Codejunkies"
+    notes: "[Player On Bottom Of Score Board]"
+    codes:
+      - "E10200FF 014635C2"
+      - "10576456 00000003"
+      - "1057646C 00000003"
+
+  - name: "Always 0 Sets (Press L2 To Activate)"
+    author: "Codejunkies"
+    notes: "[Player On Top Of Score Board]"
+    codes:
+      - "D04635C2 0000FEFF"
+      - "10576440 00000000"
+
+  - name: "Always 9 Sets (Press L1 To Activate)"
+    author: "Codejunkies"
+    notes: "[Player On Top Of Score Board]"
+    codes:
+      - "D04635C2 0000FBFF"
+      - "10576440 00000009"
+
+  - name: "Always On 0 Points (Press L2 To Activate)"
+    author: "Codejunkies"
+    notes: "[Player On Top Of Score Board]"
+    codes:
+      - "E10200FF 014635C2"
+      - "10576454 00000000"
+      - "1057646A 00000000"
+
+  - name: "Always On 40 Points (Press L1 To Activate)"
+    author: "Codejunkies"
+    notes: "[Player On Top Of Score Board]"
+    codes:
+      - "E10200FF 014635C2"
+      - "10576454 00000003"
+      - "1057646A 00000003"

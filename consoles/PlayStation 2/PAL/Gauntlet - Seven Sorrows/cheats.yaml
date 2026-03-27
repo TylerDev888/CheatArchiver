@@ -1,0 +1,40 @@
+# Gauntlet - Seven Sorrows cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53667
+
+game: "Gauntlet - Seven Sorrows"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53667"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01001E8 001001EB"
+
+  - name: "Gold Never Decreases"
+    author: "Codejunkies"
+    codes:
+      - "203EC1B8 00000000"
+
+  - name: "Infinite Lives"
+    author: "Codejunkies"
+    codes:
+      - "201E06F4 24630000"
+
+  - name: "Infinite Mana"
+    author: "Codejunkies"
+    codes:
+      - "202046F8 AC830004"
+
+  - name: "Infinite Upgrade Points"
+    author: "Codejunkies"
+    codes:
+      - "203EBE30 24630000"
+      - "203EBEB0 24630000"
+      - "203EBF38 24630000"

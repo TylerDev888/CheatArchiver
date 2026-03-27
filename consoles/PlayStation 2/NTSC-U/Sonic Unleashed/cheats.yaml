@@ -1,0 +1,109 @@
+# Sonic Unleashed cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21846
+
+game: "Sonic Unleashed"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21846"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Skiller"
+    notes: "[Master Codes]"
+    codes:
+      - "9065B758 0C196D7E"
+
+  - name: "Dark Gaia Force Points"
+    author: "Skiller"
+    codes:
+      - "20894FFC 05F5E0FF"
+
+  - name: "Gain Max Special/Coins"
+    author: "Skiller"
+    codes:
+      - "2024F058 C4602718"
+
+  - name: "Have Max Moon After Pickup"
+    author: "Skiller"
+    codes:
+      - "20420520 24050064"
+      - "20420524 03E00008"
+      - "20420528 A0850001"
+
+  - name: "Have Max Sun After Pickup"
+    author: "Skiller"
+    codes:
+      - "20420510 24050064"
+      - "20420514 03E00008"
+      - "20420518 A0850000"
+
+  - name: "Infinite Boost"
+    author: "Lucas Souza LX"
+    codes:
+      - "20E119FC 42F00000"
+
+  - name: "Infinite Boost (Eggmanland)"
+    author: "Lucas Souza LX"
+    codes:
+      - "20E0E1FC 42F00000"
+
+  - name: "Infinite HP"
+    author: "Skiller"
+    codes:
+      - "2024E3A0 461F0841"
+
+  - name: "Language Modifier"
+    author: "lee4"
+    codes:
+      - "204FA6E8 240200??"
+
+  - name: "Main Timer Freeze(Not Mission Timer)"
+    author: "Skiller"
+    codes:
+      - "201ECD4C 461F0800"
+
+  - name: "Max Moons"
+    author: "Skiller"
+    codes:
+      - "008922F1 000000FF"
+
+  - name: "Max Suns"
+    author: "Skiller"
+    codes:
+      - "008922F0 000000FF"
+
+  - name: "Other Timer(Mission Time Freeze Code)"
+    author: "Skiller"
+    codes:
+      - "201ECDD4 461F0800"
+
+  - name: "Press Select For 999 Rings For Super Sonic"
+    author: "Lucas Souza LX"
+    codes:
+      - "E0020100 00874C4C"
+      - "20E11B30 000003E7"
+      - "2175DFA4 000003E7"
+
+  - name: "Refill HP On Coin Pickup"
+    author: "Skiller"
+    codes:
+      - "2025000C C4802708"
+
+  - name: "Main Timer Freez"
+    author: "SkillerCMP"
+    codes:
+      - "201ECD4C 461F0800"
+
+  - name: "Other Timer ??"
+    author: "SkillerCMP"
+    codes:
+      - "201ECDD4 461F0800"
+
+  - name: "Inf HP"
+    author: "SkillerCMP"
+    codes:
+      - "2024E3A0 461F0841"

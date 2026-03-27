@@ -1,0 +1,116 @@
+# Call Of Duty 2 - Big Red One
+
+**Console:** PlayStation 2  
+**Region:** PAL  
+**Serial:** SLES-53417  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### (M) Must Be On
+**Author:** Codejunkies  
+**Notes:** [Master Codes]
+
+```
+F0287EC4 00287EC7
+901001E8 0C0D3B64
+```
+
+---
+
+### All Levels And Bonus Stuff Open
+**Author:** Codejunkies
+
+```
+2012741C 2402000E
+20127420 2402000E
+20127424 AC620034
+```
+
+---
+
+### Fix
+**Author:**   
+**Notes:** [Armax Fix]
+
+```
+E00EB53C 00287EC4
+E00D0C0C 00287EC6
+2024893C 0809B7C8
+2026DF20 3C0401E0
+2026DF24 3C050008
+2026DF28 0C0CEF63
+2026DF2C 3C060008
+2026DF30 0C0D2D06
+2026DF34 0000202D
+2026DF38 3C0501E0
+2026DF3C 3C040008
+2026DF40 0C0CEF63
+2026DF44 3C060008
+2026DF48 08092251
+2026DF4C 00000000
+```
+
+---
+
+### Below 3.14 Fix
+**Author:** Codejunkies
+
+```
+2034E3D0 3C03200F
+2034E3D8 8C65FFF8
+2034E3DC 24040079
+2034E3E0 24030074
+2034E3E4 0000000C
+```
+
+---
+
+### Infinite Ammo In Mag
+**Author:** Codejunkies
+
+```
+E0020000 303A3140
+E0010000 303A3142
+2017A26C 00000000
+```
+
+---
+
+### Infinite Ammo/Grenades And No Reloads
+**Author:** Codejunkies
+
+```
+E0020000 303A3140
+E0010000 303A3142
+2017A2E8 00000000
+```
+
+---
+
+### Infinite Health - Soldier
+**Author:** Codejunkies
+
+```
+E0020000 303A3140
+E0010000 303A3142
+20205FA0 2402044C
+E0020000 303A3140
+E0010000 303A3142
+20205FA4 AE420350
+```
+
+---
+
+### Shooting Does Not Expand Reticule
+**Author:** Codejunkies
+
+```
+E0020000 303A3140
+E0010000 303A3142
+2017C5E0 00000000
+```
+
+---

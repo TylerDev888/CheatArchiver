@@ -1,0 +1,38 @@
+# Nightshade cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52238
+
+game: "Nightshade"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52238"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F03B6004 003B6007"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "201C267C 00000000"
+
+  - name: "Infinite Ninjitsu"
+    author: "Codejunkies"
+    codes:
+      - "201C96B4 00000000"
+
+  - name: "Infinite Shuriken"
+    author: "Codejunkies"
+    codes:
+      - "201C42E4 00000000"
+
+  - name: "Infinite Tate Time"
+    author: "Codejunkies"
+    codes:
+      - "201B6A9C 00000000"

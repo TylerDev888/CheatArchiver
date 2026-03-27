@@ -1,0 +1,67 @@
+# Warriors Of Might & Magic cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20006
+
+game: "Warriors Of Might & Magic"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20006"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0110040 003033C7"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "903033C4 0C0BC9A2"
+
+  - name: "Items Worth Modifier (0000-270F)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2018ED94 2463????"
+
+  - name: "Max Items After 1 Pickup"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2018ED94 2403270F"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20238104 E6000028"
+
+  - name: "Infinite Mana"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202380D8 00401821"
+
+  - name: "Infinite Level Up Points"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20452A8C 0000000A"
+      - "20452A90 0000000A"
+
+  - name: "Spell Equipped Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "00467DE0 000000??"
+
+  - name: "Have All Spells"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20467DE4 3FFFFFFF"

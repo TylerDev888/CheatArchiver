@@ -1,0 +1,22 @@
+# STEALTH INC. A Clone in the Dark cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB01358
+
+game: "STEALTH INC. A Clone in the Dark"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB01358"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "255 Skip Points"
+    notes: "File: DATA_0.BIN"
+    codes:
+      - "00000007 000000FF"
+
+  - name: "Unlock All Equipement"
+    notes: "File: DATA_0.BIN"
+    codes:
+      - "0000000B 0000000F"

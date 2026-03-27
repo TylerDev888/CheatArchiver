@@ -1,0 +1,24 @@
+# Super Mario Galaxy 2 cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  SB4E01
+
+game: "Super Mario Galaxy 2"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "SB4E01"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Gain Max Coins On Pickup Planets"
+    author: "Skiller"
+    notes: "[Planets]"
+    codes:
+      - "044C90B8 90BF0054"
+
+  - name: "1 Up Every Srarbit Pickup/Use"
+    author: "Skiller"
+    notes: "[Planets]"
+    codes:
+      - "044C905C 41810004"

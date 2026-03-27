@@ -1,0 +1,22 @@
+# Cabela's North American Adventure cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  SNAE52
+
+game: "Cabela's North American Adventure"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "SNAE52"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Inf Bullets"
+    author: "Skiller"
+    codes:
+      - "0407C104 90830004"
+
+  - name: "(alt) Inf Bullets"
+    author: "Skiller"
+    codes:
+      - "0207C100 00000000"

@@ -1,0 +1,85 @@
+# Far Cry 4 cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA00462
+
+game: "Far Cry 4"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA00462"
+cheat_type: "AP"
+source: "source:MealReadytoEat@hackinformer"
+
+cheats:
+  - name: "Unlock 4 Weapon Slots"
+    notes: "File: *"
+    codes:
+      - "80010004 B15C1D04"
+      - "08000004 00000004"
+
+  - name: "Infinite Nades/molotovs/bait/throwing Knife"
+    notes: "File: *"
+    codes:
+      - "80010004 46726167"
+      - "88000004 17BDEC95"
+      - "08000005 00000001"
+      - "92000000 00000008"
+      - "88000004 17BDEC95"
+      - "08000005 00000001"
+      - "80010004 42616974"
+      - "88000004 17BDEC95"
+      - "08000005 00000001"
+      - "92000000 00000008"
+      - "88000004 17BDEC95"
+      - "08000005 00000001"
+
+  - name: "Infinite Ammo(from Far Cry 3)"
+    notes: "File: *"
+    codes:
+      - "80010004 C4109701"
+      - "08000004 00000001"
+      - "80010004 E2B37D01"
+      - "08000004 00000001"
+      - "80010004 4A2F3E01"
+      - "08000004 00000001"
+
+  - name: "Valley Of The Yeti Inf Ammo"
+    notes: "File: *"
+    codes:
+      - "80020004 C4109701"
+      - "08000004 00000001"
+      - "80020004 E2B37D01"
+      - "08000004 00000001"
+      - "80020004 4A2F3E01"
+      - "08000004 00000001"
+
+  - name: "999 Syringe"
+    notes: "File: *"
+    codes:
+      - "80010004 75D74077"
+      - "80020004 23B15B35"
+      - "28000005 000003E7"
+
+  - name: "999 Hunting Syringe"
+    notes: "File: *"
+    codes:
+      - "80360004 B15B3504"
+      - "28000004 000003E7"
+
+  - name: "999 Focus Syringe"
+    notes: "File: *"
+    codes:
+      - "80370004 B15B3504"
+      - "28000004 000003E7"
+
+  - name: "999 Overdose Syringe"
+    notes: "File: *"
+    codes:
+      - "80380004 B15B3504"
+      - "28000004 000003E7"
+
+  - name: "999 Survival Syringe"
+    notes: "File: *"
+    codes:
+      - "80390004 B15B3504"
+      - "28000004 000003E7"

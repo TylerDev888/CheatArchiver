@@ -1,0 +1,24 @@
+# Gundam Musou II cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-55122
+
+game: "Gundam Musou II"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-55122"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90112F58 0C044B7E"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90124D80 0C04ABFE"

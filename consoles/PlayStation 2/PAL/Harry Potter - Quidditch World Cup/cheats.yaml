@@ -1,0 +1,39 @@
+# Harry Potter - Quidditch World Cup cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51787
+
+game: "Harry Potter - Quidditch World Cup"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51787"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F034A21C 0034A21F"
+
+  - name: "All Cards"
+    author: "Codejunkies"
+    codes:
+      - "21DC1D80 FFFFFFFF"
+      - "21DC1D84 FFFFFFFF"
+      - "21DC1D88 FFFFFFFF"
+      - "21DC1D8C FFFFFFFF"
+      - "21DC1D90 FFFFFFFF"
+      - "21DC1D94 FFFFFFFF"
+      - "21DC1D98 FFFFFFFF"
+      - "21DC1D9C FFFFFFFF"
+
+  - name: "P1 Infinite Boost"
+    author: "Codejunkies"
+    codes:
+      - "200FFF00 3C013F80"
+      - "200FFF04 3C040043"
+      - "200FFF08 AC813FC4"
+      - "200FFF20 03E00008"
+      - "2017D318 0803FFC0"

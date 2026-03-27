@@ -1,0 +1,35 @@
+# Attack of the Movies cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  S3AE5G
+
+game: "Attack of the Movies"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "S3AE5G"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Inf HP"
+    author: "Skiller"
+    codes:
+      - "0400B714 C01F0CF8"
+
+  - name: "Huge Amount Of Score"
+    author: "Skiller"
+    codes:
+      - "C201E3F8 00000003"
+      - "3FE04B18 63FF967F"
+      - "93E30218 7C7F1B78"
+      - "60000000 00000000"
+
+  - name: "Weapon Mod"
+    author: "Skiller"
+    notes: "3800000? 9003017C"
+    codes:
+      - "C201E0E4 00000002"
+      - "3880[WRP] 8003024C"
+      - "60000000 00000000"
+      - "C2024B58 00000002"
+      - "8003017C 00000000"

@@ -1,0 +1,50 @@
+# Commandos 2 - Men Of Courage cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50829
+
+game: "Commandos 2 - Men Of Courage"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50829"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F062455C 0062455F"
+
+  - name: "God Mode"
+    author: "Codejunkies"
+    notes: "[Dev Flags]"
+    codes:
+      - "E0020006 00407244"
+      - "D0407246 0000A060"
+      - "20407244 A0620006"
+
+  - name: "Invisible"
+    author: "Codejunkies"
+    notes: "[Dev Flags]"
+    codes:
+      - "E0020006 00407244"
+      - "D0407246 0000A060"
+      - "20407244 A0620007"
+
+  - name: "Invisible/God Mode"
+    author: "Codejunkies"
+    notes: "[Dev Flags]"
+    codes:
+      - "E0020006 00407244"
+      - "D0407246 0000A060"
+      - "20407244 A4660006"
+
+  - name: "L3 Blind Enemies/R3 Stop"
+    author: "Codejunkies"
+    codes:
+      - "D06E8C72 0000FFFD"
+      - "206B2E04 00000001"
+      - "D06E8C72 0000FFFB"
+      - "206B2E04 3F800000"

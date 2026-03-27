@@ -1,0 +1,117 @@
+# World Championship Snooker 2005
+
+**Console:** PlayStation 2  
+**Region:** PAL  
+**Serial:** SLES-53082  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### (M)
+**Author:** Codejunkies  
+**Notes:** [Master Codes]
+
+```
+E00FBF89 004C93C4
+E00E0C13 004C93C6
+203CCB48 08138C66
+204E3198 3C0401B0
+204E319C 3C050008
+204E31A0 0C13BF89
+204E31A4 3C060008
+204E31A8 0C137462
+204E31AC 0000202D
+204E31B0 3C0501B0
+204E31B4 3C040008
+204E31B8 0C13BF89
+204E31BC 3C060008
+204E31C0 080F32D4
+204E31C4 00000000
+F04C93C4 004C93C7
+901001E8 0C138E82
+```
+
+---
+
+### AR Below 3.14 Fix (Use This Code If Your AR Max Is Prior Version 3.14)
+**Author:** Codejunkies
+
+```
+204E2E08 3C03200F
+204E2E10 8C65FFF8
+204E2E14 24040079
+204E2E18 24030074
+204E2E1C 0000000C
+```
+
+---
+
+### 'The Tour' Cheating Page (Control AI Win)
+**Author:** Codejunkies  
+**Notes:** [Cheat Menu]
+
+```
+200FFEFC 8E8502DC
+200FFF00 24010068
+200FFF04 14250004
+200FFF0C 24050069
+200FFF24 08041E56
+E002019B 10506800
+E0010000 10506802
+20107950 8E8502DC
+E002019B 00506800
+D0506802 00000000
+20107950 0803FFBF
+```
+
+---
+
+### 'The Tour' Cheating Page (Control Player Win)
+**Author:** Codejunkies  
+**Notes:** [Cheat Menu]
+
+```
+200FFEFC 8E8502DC
+200FFF00 24010030
+200FFF04 14250004
+200FFF0C 24050069
+200FFF24 08041E56
+E002019B 10506800
+E0010000 10506802
+20107950 8E8502DC
+E002019B 00506800
+D0506802 00000000
+20107950 0803FFBF
+```
+
+---
+
+### Old School Mode
+**Author:** Codejunkies
+
+```
+20609124 00000001
+```
+
+---
+
+### Open All Unlockables
+**Author:** Codejunkies
+
+```
+20609108 00000001
+```
+
+---
+
+### Opponent Concede Frame (Press L1+L2+R1+R2 When You Have The Hand To Activate)
+**Author:** Codejunkies
+
+```
+D067C782 0000F0FF
+205C1114 0000001D
+```
+
+---

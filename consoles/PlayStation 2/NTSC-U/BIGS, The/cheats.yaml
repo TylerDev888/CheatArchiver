@@ -1,0 +1,43 @@
+# BIGS, The cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21623
+
+game: "BIGS, The"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21623"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Hit Homeruns Almost Every Time Hold R2"
+    author: "nolberto82"
+    codes:
+      - "200A0030 3C010054"
+      - "200A0034 2421AED0"
+      - "200A0038 8C210000"
+      - "200A003C 90210013"
+      - "200A0040 302100FF"
+      - "200A0044 10200004"
+      - "200A0048 C6340304"
+      - "200A004C 3C0143C0"
+      - "200A0050 AE00015C"
+      - "200A0054 AE010164"
+      - "200A0058 0808C2D5"
+      - "20230B4C 0802800C"
+
+  - name: "Super Pitches/Throws/Line Drives Hold R1"
+    author: "nolberto82"
+    codes:
+      - "200A0000 44810800"
+      - "200A0004 3C010054"
+      - "200A0008 2421AED0"
+      - "200A000C 8C210000"
+      - "200A0010 90210011"
+      - "200A0014 302100FF"
+      - "200A0018 10200003"
+      - "200A0020 3C014700"
+      - "200A0024 44810800"
+      - "200A0028 0807DFF3"
+      - "201F7FC4 08028000"

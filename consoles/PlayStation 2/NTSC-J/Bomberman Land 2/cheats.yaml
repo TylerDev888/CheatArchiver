@@ -1,0 +1,23 @@
+# Bomberman Land 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62291
+
+game: "Bomberman Land 2"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62291"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010B6F8 0C042D66"
+
+  - name: "Enable Debug Display (Press Select On Controller 2)"
+    author: "punk7890"
+    codes:
+      - "2048314C 00000001"

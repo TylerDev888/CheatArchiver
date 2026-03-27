@@ -1,0 +1,28 @@
+# Criminal Girls 2 cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00984
+
+game: "Criminal Girls 2"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00984"
+cheat_type: "Save Editor"
+source: "Credits: Konnoke, Alteration"
+
+cheats:
+  - name: "999,999 Cm"
+    notes: "File: data0000.bin"
+    codes:
+      - "20001168 000F423F"
+
+  - name: "999,999,999 Exp"
+    notes: "File: data0000.bin  (\"The Exp cheat requires a battle to be won which will then level your characters to 99.) (Any characters not with you may not receive the exp.\")"
+    codes:
+      - "200011DC 3B9AC9FF"
+      - "20001628 3B9AC9FF"
+      - "20001A74 3B9AC9FF"
+      - "20001EC0 3B9AC9FF"
+      - "2000230C 3B9AC9FF"
+      - "20002758 3B9AC9FF"
+      - "20002BA4 3B9AC9FF"

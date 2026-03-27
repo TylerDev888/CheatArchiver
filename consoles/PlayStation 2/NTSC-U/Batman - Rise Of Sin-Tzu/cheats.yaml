@@ -1,0 +1,291 @@
+# Batman - Rise Of Sin-Tzu cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20709
+
+game: "Batman - Rise Of Sin-Tzu"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20709"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F011F444 0011F447"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0011F447"
+
+  - name: "Player 1 Controller"
+    author: "lee4"
+    notes: "[Jokers]"
+    codes:
+      - "D056AB02 0000????"
+
+  - name: "Access All Upgrades"
+    author: "Code Master"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6B84 0000000F"
+
+  - name: "Batgirl"
+    author: "lee4"
+    notes: "[Alternative Costumes Codes]"
+    codes:
+      - "60576BB8 00000001"
+      - "00000001 00000C80"
+
+  - name: "Batman"
+    author: "lee4"
+    notes: "[Alternative Costumes Codes]"
+    codes:
+      - "60576BB8 00000001"
+      - "00000001 0000B590"
+
+  - name: "Nightwing"
+    author: "lee4"
+    notes: "[Alternative Costumes Codes]"
+    codes:
+      - "60576BB8 00000001"
+      - "00000001 0002FCA0"
+
+  - name: "Robin"
+    author: "lee4"
+    notes: "[Alternative Costumes Codes]"
+    codes:
+      - "60576BB8 00000001"
+      - "00000001 00000210"
+
+  - name: "Disable AI [(Disabled When Thugs Are Stuck SEL=OFF Start=ON)]"
+    author: "Codejunkies"
+    codes:
+      - "E002FFF7 0056AB02"
+      - "20202B08 24020000"
+      - "20202AFC 00000000"
+      - "E002FFFE 0056AB02"
+      - "20202B08 24020001"
+      - "20202AFC 10400004"
+
+  - name: "Extra Continues"
+    author: "Code Master"
+    codes:
+      - "1023999C 00000001"
+
+  - name: "Freeze Timers"
+    author: "Codejunkies"
+    codes:
+      - "2036FB10 03E00008"
+      - "2036FB14 00000000"
+
+  - name: "Infinite Continues"
+    author: "Code Master"
+    codes:
+      - "20290B68 00000000"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    codes:
+      - "200C0220 00A01821"
+      - "200C0224 AC850034"
+      - "200C0228 03E00008"
+      - "200C022C AC850038"
+      - "2028E14C 0C030088"
+      - "2028E150 240503E8"
+
+  - name: "Infinite Bronze Tokens"
+    author: "Code Master"
+    notes: "[Infinite Tokens Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6AF8 000003E7"
+
+  - name: "Infinite Dk Tokens"
+    author: "Codejunkies"
+    notes: "[Infinite Tokens Codes]"
+    codes:
+      - "208CAAE8 00000063"
+
+  - name: "Infinite Gold Tokens"
+    author: "Code Master"
+    notes: "[Infinite Tokens Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6AF4 000003E7"
+
+  - name: "Infinite Green Tokens"
+    author: "Code Master"
+    notes: "[Infinite Tokens Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6AE8 000003E7"
+
+  - name: "Infinite Platinum Tokens"
+    author: "Codejunkies"
+    notes: "[Infinite Tokens Codes]"
+    codes:
+      - "208CAAF8 00000063"
+
+  - name: "Infinite Red Tokens"
+    author: "Code Master"
+    notes: "[Infinite Tokens Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6AEC 000003E7"
+
+  - name: "Infinite Silver Tokens"
+    author: "Code Master"
+    notes: "[Infinite Tokens Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6AF0 000003E7"
+
+  - name: "Infinite: Bronze Unlock Tokens"
+    author: "MadCatz"
+    notes: "[Infinite Tokens Codes]"
+    codes:
+      - "208CAAEC 000003E7"
+
+  - name: "Infinite: Gold Unlock Tokens"
+    author: "MadCatz"
+    notes: "[Infinite Tokens Codes]"
+    codes:
+      - "208CAAF4 000003E7"
+
+  - name: "Infinite: Green Unlock Tokens"
+    author: "MadCatz"
+    notes: "[Infinite Tokens Codes]"
+    codes:
+      - "208CAAE8 000003E7"
+
+  - name: "Infinite: Silver Unlock Tokens"
+    author: "MadCatz"
+    notes: "[Infinite Tokens Codes]"
+    codes:
+      - "208CAAF0 000003E7"
+
+  - name: "Infinite: White Unlock Tokens"
+    author: "MadCatz"
+    notes: "[Infinite Tokens Codes]"
+    codes:
+      - "208CAAF8 000003E7"
+
+  - name: "Buying Upgrades Doesn't Decrease Upgrade Points"
+    author: "Code Master"
+    notes: "[Infinite Upgrade Points]"
+    codes:
+      - "202C84C0 00000000"
+
+  - name: "Buying Upgrades Increases Upgrade Points"
+    author: "Code Master"
+    notes: "[Infinite Upgrade Points]"
+    codes:
+      - "202C84BC 00661821"
+
+  - name: "Infinite: Upgrade Points"
+    author: "MadCatz"
+    notes: "[Infinite Upgrade Points]"
+    codes:
+      - "202C84B8 3C03000F"
+      - "202C84BC 3463423F"
+
+  - name: "Infinite: Lives"
+    author: "MadCatz"
+    codes:
+      - "20290B64 20100009"
+
+  - name: "Infinite: Smoke Bombs"
+    author: "MadCatz"
+    codes:
+      - "2028B5F0 20020063"
+
+  - name: "Invincible [(Disabled Before Going Through Doors SEL=OFF Start=ON)]"
+    author: "Codejunkies"
+    codes:
+      - "D056AB02 0000FFF7"
+      - "20235A70 10000003"
+      - "D056AB02 0000FFFE"
+      - "20235A70 16000003"
+
+  - name: "All Bonus Features"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "208CAB10 FFFFFFFF"
+      - "208CAB18 FFFFFFFF"
+
+  - name: "All Trophy Room Items"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "208CAAFC 00FFFFFF"
+      - "208CAB00 000000FF"
+      - "208CAB04 FFFFFFFF"
+      - "208CAB08 00003FFF"
+      - "208CAB0C 03FFFFFF"
+      - "208CAB14 00007FFF"
+
+  - name: "Unlock All 3D Models"
+    author: "lee4"
+    notes: "[Unlock Codes]"
+    codes:
+      - "608C2E74 FFFFFFFF"
+      - "00020001 00000320"
+      - "608C2E74 FFFFFFFF"
+      - "00020001 00000324"
+
+  - name: "Unlock All 3D Models (Heroes/Gadgets/Vehicles)"
+    author: "Code Master"
+    notes: "[Unlock Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6AFC FFFFFFFF"
+
+  - name: "Unlock All 3D Models (Villians)"
+    author: "Code Master"
+    notes: "[Unlock Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6B00 FFFFFFFF"
+
+  - name: "Unlock All Cinematics"
+    author: "Code Master"
+    notes: "[Unlock Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6B10 FFFFFFFF"
+
+  - name: "Unlock All Concept Art"
+    author: "Code Master"
+    notes: "[Unlock Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6B14 FFFFFFFF"
+
+  - name: "Unlock All Extra Bonus Features"
+    author: "Code Master"
+    notes: "[Unlock Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6B18 FFFFFFFF"
+
+  - name: "Unlock All Graphic Novels"
+    author: "Code Master"
+    notes: "[Unlock Codes]"
+    codes:
+      - "E0026AD0 008C6ADC"
+      - "208C6B04 FFFFFFFF"
+      - "208C6B08 FFFFFFFF"
+
+  - name: "Unlock All Toys"
+    author: "Code Master"
+    notes: "[Unlock Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6B0C FFFFFFFF"

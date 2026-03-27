@@ -1,0 +1,23 @@
+# Acheter Fuuraiki cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66458
+
+game: "Acheter Fuuraiki"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66458"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90217890 0C085DCC"
+
+  - name: "Press R1 + Triangle For Debug Menu"
+    author: "punk7890"
+    codes:
+      - "003506BC 00000001"

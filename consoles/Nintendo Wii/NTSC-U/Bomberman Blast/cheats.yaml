@@ -1,0 +1,28 @@
+# Bomberman Blast cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  WM8E
+
+game: "Bomberman Blast"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "WM8E"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Inf Bomb Placement (inviso)"
+    author: "Skiller"
+    codes:
+      - "0405CAFC 00000001"
+
+  - name: "Max Bombs On Pickup (8)"
+    author: "Skiller"
+    codes:
+      - "04054394 38000008"
+
+  - name: "Your Wins Xx"
+    author: "Skiller"
+    notes: "[Only Your Player]"
+    codes:
+      - "004F8131 000000[Amount:FF:HEX:BIG]"

@@ -1,0 +1,20 @@
+# EA SPORTS MMA cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00987
+
+game: "EA SPORTS MMA"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00987"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Sys-data (required)"
+    notes: "File: SYS-DATA  (set range:0x00001C,0x30001B)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x00001C,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000010:[hash]"

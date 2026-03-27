@@ -1,0 +1,39 @@
+# Global Defence Force cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54464
+
+game: "Global Defence Force"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54464"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90168290 0C05A04C"
+
+  - name: "Force Progressive Display Mode"
+    author: "punk7890"
+    codes:
+      - "20158C0C 24110002"
+
+  - name: "Invincibility"
+    author: "nolberto82"
+    codes:
+      - "201F3BC4 00000000"
+      - "201F3C08 100001E8"
+
+  - name: "No Reload"
+    author: "nolberto82"
+    codes:
+      - "201A6B98 8EA200C4"
+
+  - name: "PAL To NTSC (60Hz)"
+    author: "punk7890"
+    codes:
+      - "20158C10 24120002"

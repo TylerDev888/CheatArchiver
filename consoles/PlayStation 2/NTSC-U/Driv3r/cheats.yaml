@@ -1,0 +1,285 @@
+# Driv3r cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20587
+
+game: "Driv3r"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20587"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "902E4DC8 0C0B31AE"
+
+  - name: "Infinite Health (On Foot)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0200 8C430000"
+      - "200C0204 3C014000"
+      - "200C0208 54600001"
+      - "200C020C AC610024"
+      - "200C0210 03E00008"
+      - "200C0214 00000000"
+      - "201CAB74 08030080"
+
+  - name: "Transparent Character"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201BEBFC 3C01BF00"
+      - "201BEC00 AE210014"
+
+  - name: "Immune To Bullets (On Foot)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 3C01003E"
+      - "200C0224 8C218810"
+      - "200C0228 3C023F80"
+      - "200C022C 50310001"
+      - "200C0230 44820800"
+      - "200C0234 03E00008"
+      - "200C0238 46020836"
+      - "201C29C8 0C030088"
+
+  - name: "Immune To Explosions (On Foot)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0240 3C01003E"
+      - "200C0244 8C218810"
+      - "200C0248 54300001"
+      - "200C024C E6010024"
+      - "200C0250 03E00008"
+      - "200C0254 00000000"
+      - "201C2DDC 0C030090"
+
+  - name: "Immune To Body Damage Caused By Car Crashes"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201C1DA0 00000000"
+
+  - name: "Infinite Ammo"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201D8184 00000000"
+
+  - name: "Extra Ammo"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201D8168 00621021"
+
+  - name: "Never Reload"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201D80DC 00000000"
+
+  - name: "P1 Press L1+Select For Infinite Car Damage On"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002FBFE 006FD49C"
+      - "201F2D20 00000000"
+      - "20201AA8 00000000"
+
+  - name: "P1 Press L2+Select For Infinite Car Damage Off"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002FEFE 006FD49C"
+      - "201F2D20 E6C0218C"
+      - "20201AA8 E6400000"
+
+  - name: "P1 Press R1+Select For Cars Take No Damage On"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002F7FE 006FD49C"
+      - "201F2210 03E00008"
+      - "20201930 03E00008"
+
+  - name: "P1 Press R2+Select For Cars Take No Damage Off"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002FDFE 006FD49C"
+      - "201F2210 27BDFC90"
+      - "20201930 3C013BA3"
+
+  - name: "Felony Bar Never Increases"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101369E6 00001000"
+
+  - name: "Felony Bar Increases To Max On 1St Offense"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10137536 00001000"
+      - "20137564 3C013F80"
+      - "20137568 40810000"
+
+  - name: "Always Complete Mission"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201609A4 24100002"
+
+  - name: "Walk Up Objects/Walls"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201BFAE0 00000000"
+      - "201BFB0C 00000000"
+
+  - name: "Do Not Take Damage From High Falls"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201C18B0 00000000"
+
+  - name: "P1 Press X For Moon Jump"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D06FD49C 0000BFFF"
+      - "201C9F24 00000000"
+      - "D06FD49C 0000FFFF"
+      - "201C9F24 45030001"
+
+  - name: "Infinite Health (Alternate)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0260 3C013F80"
+      - "200C0264 40810000"
+      - "200C0268 03E00008"
+      - "200C026C AC810024"
+      - "2022BBD8 0C030098"
+
+  - name: "P1 Press L3 To Send Most Pedestrians High Into The Air"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0280 3C010070"
+      - "200C0284 8C21D49C"
+      - "200C0288 30210002"
+      - "200C028C 14200002"
+      - "200C0290 3C0342C8"
+      - "200C0294 AE2303E4"
+      - "200C0298 03E00008"
+      - "200C029C 00000000"
+      - "201BFA68 0C0300A0"
+
+  - name: "Hit Most Cars To Make Them Fly"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202C2F24 00000000"
+      - "202C2F4C 00000000"
+      - "202C2F58 00000000"
+      - "202C2F5C 3C0142C8"
+      - "202C2F60 44810000"
+
+  - name: "Cheats Below Work In All Modes"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201C6800 00000000"
+
+  - name: "Hidden Car 1"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2070F860 00000001"
+
+  - name: "Hidden Car 2"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2070F864 00000001"
+
+  - name: "Hidden Car 3"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2070F868 00000001"
+
+  - name: "Hidden Car 4"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2070F86C 00000001"
+
+  - name: "Hidden Car 5"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2070F870 00000001"
+
+  - name: "Hidden Car 6"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2070F874 00000001"
+
+  - name: "All Hidden Cars"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "4070F860 00060001"
+      - "00000001 00000000"
+
+  - name: "All Missions"
+    author: "Code Master"
+    notes: "[Unlock Cheat Codes]"
+    codes:
+      - "2070F810 00000001"
+      - "2070FA74 00000001"
+
+  - name: "All Weapons"
+    author: "Code Master"
+    notes: "[Unlock Cheat Codes]"
+    codes:
+      - "2070F818 00000001"
+      - "2070FA7C 00000001"
+
+  - name: "Unlimited Ammo"
+    author: "Code Master"
+    notes: "[Unlock Cheat Codes]"
+    codes:
+      - "2070F820 00000001"
+      - "2070FA84 00000001"
+
+  - name: "Invincibility (Take A Ride)"
+    author: "Code Master"
+    notes: "[Unlock Cheat Codes]"
+    codes:
+      - "2070F828 00000001"
+      - "2070FA8C 00000001"
+
+  - name: "Immunity"
+    author: "Code Master"
+    notes: "[Unlock Cheat Codes]"
+    codes:
+      - "2070F830 00000001"
+      - "2070FA94 00000001"
+
+  - name: "All Vehicles"
+    author: "Code Master"
+    notes: "[Unlock Cheat Codes]"
+    codes:
+      - "2070F840 00000001"
+      - "2070FAA4 00000001"

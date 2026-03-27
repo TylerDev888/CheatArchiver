@@ -1,0 +1,89 @@
+# Sega Soccer Slam cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51125
+
+game: "Sega Soccer Slam"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51125"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F03C9154 003C9157"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F03845B0 003C8DE7"
+
+  - name: "All Goals Score For Away Team"
+    author: "Code Master"
+    codes:
+      - "20290DB8 24040004"
+
+  - name: "All Goals Score For Home Team"
+    author: "Code Master"
+    codes:
+      - "20290DB8 24040000"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "21D3B468 0000????"
+
+  - name: "Big Heads Mode"
+    author: "Codejunkies"
+    codes:
+      - "204E2938 00000001"
+
+  - name: "Goal's Score Modifier"
+    author: "Code Master"
+    codes:
+      - "10290DD4 000000??"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "21D3B464 0000????"
+
+  - name: "Infinite Turbo (All Players)"
+    author: "Code Master"
+    codes:
+      - "2025F580 00000000"
+
+  - name: "Items Cost Nothing"
+    author: "Codejunkies"
+    codes:
+      - "2028E178 24030000"
+
+  - name: "Turbo Drain Rate Modifier (Default 3Fc00000)"
+    author: "Code Master"
+    codes:
+      - "204E372C ????????"
+
+  - name: "Turbo Recharge Rate Modifier (Default 3F19999a)"
+    author: "Code Master"
+    codes:
+      - "204E3730 ????????"
+
+  - name: "Unlock All Characters"
+    author: "Codejunkies"
+    codes:
+      - "202B6A9C 24020001"
+
+  - name: "Unlock All Stadiums"
+    author: "Codejunkies"
+    codes:
+      - "2028D364 24020001"
+
+  - name: "Unlock All Teams"
+    author: "Codejunkies"
+    codes:
+      - "202B69E4 24020001"

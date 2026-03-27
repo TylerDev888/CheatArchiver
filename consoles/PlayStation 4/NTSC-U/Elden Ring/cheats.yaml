@@ -1,0 +1,151 @@
+# Elden Ring cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA18723
+
+game: "Elden Ring"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA18723"
+cheat_type: "AP"
+source: "source: hackinformer forum"
+
+cheats:
+  - name: "Rune 9999999"
+    notes: "File: *"
+    codes:
+      - "C4010020 019019CE"
+      - "93000000 00000094"
+      - "28000064 0098967F"
+      - "95000000 00000000"
+
+  - name: "Max Stonesword Key"
+    notes: "File: sce_sdmemory\\memory.dat"
+    codes:
+      - "95000000 [CharacterSlot]"
+      - "88010006 0000401F"
+      - "00B00000 00000000"
+      - "28000006 0000270F"
+
+  - name: "Max Item"
+    notes: "File: sce_sdmemory\\memory.dat"
+    codes:
+      - "95000000 [CharacterSlot]"
+      - "88010006 0000[Item]"
+      - "0000 00000000"
+      - "28000006 0000270F"
+
+  - name: "Item Swap"
+    notes: "File: sce_sdmemory\\memory.dat"
+    codes:
+      - "95000000 [CharacterSlot]"
+      - "88010006 0000[Item]"
+      - "0000 00000000"
+      - "A8000002 00000004"
+      - "[Item] 00000000"
+
+  - name: "Max All In Hand Items (key/Usable)"
+    notes: "File: sce_sdmemory\\memory.dat"
+    codes:
+      - "95000000 [CharacterSlot]"
+      - "88010006 00007300"
+      - "00B00000 00000000"
+      - "4E000006 0000270F"
+      - "0A78000C 00000000"
+      - "28000006 00000001"
+      - "92000000 00007E04"
+      - "4E000006 0000270F"
+      - "00FF000C 00000000"
+
+  - name: "Equipment Mod(swap)"
+    notes: "File: sce_sdmemory\\memory.dat"
+    codes:
+      - "95000000 [CharacterSlot]"
+      - "88010006 [Equipment]"
+      - "0000 00000000"
+      - "A8000000 00000006"
+      - "[Equipment]0000"
+
+  - name: "HP"
+    notes: "[Character Stats]  File: sce_sdmemory\\memory.dat"
+    codes:
+      - "95000000 [CharacterSlot]"
+      - "28000008 [Amount:000003E7:HEX:BIG]"
+      - "2800000C [Amount:000003E7:HEX:BIG]"
+      - "28000010 [Amount:000003E7:HEX:BIG]"
+
+  - name: "Fp"
+    notes: "[Character Stats]  File: sce_sdmemory\\memory.dat"
+    codes:
+      - "95000000 [CharacterSlot]"
+      - "28000014 [Amount:000003E7:HEX:BIG]"
+      - "28000018 [Amount:000003E7:HEX:BIG]"
+      - "2800001C [Amount:000003E7:HEX:BIG]"
+
+  - name: "Stamina"
+    notes: "[Character Stats]  File: sce_sdmemory\\memory.dat"
+    codes:
+      - "95000000 [CharacterSlot]"
+      - "28000024 [Amount:000003E7:HEX:BIG]"
+      - "28000028 [Amount:000003E7:HEX:BIG]"
+      - "2800002C [Amount:000003E7:HEX:BIG]"
+
+  - name: "Vigor"
+    notes: "[Character Stats]  File: sce_sdmemory\\memory.dat"
+    codes:
+      - "95000000 [CharacterSlot]"
+      - "28000034 [Amount:000003E7:HEX:BIG]"
+
+  - name: "Mind"
+    notes: "[Character Stats]  File: sce_sdmemory\\memory.dat"
+    codes:
+      - "95000000 [CharacterSlot]"
+      - "28000038 [Amount:000003E7:HEX:BIG]"
+
+  - name: "Endurance"
+    notes: "[Character Stats]  File: sce_sdmemory\\memory.dat"
+    codes:
+      - "95000000 [CharacterSlot]"
+      - "2800003C [Amount:000003E7:HEX:BIG]"
+
+  - name: "Strength"
+    notes: "[Character Stats]  File: sce_sdmemory\\memory.dat"
+    codes:
+      - "95000000 [CharacterSlot]"
+      - "28000040 [Amount:000003E7:HEX:BIG]"
+
+  - name: "Dexterity"
+    notes: "[Character Stats]  File: sce_sdmemory\\memory.dat"
+    codes:
+      - "95000000 [CharacterSlot]"
+      - "28000044 [Amount:000003E7:HEX:BIG]"
+
+  - name: "Intelligence"
+    notes: "[Character Stats]  File: sce_sdmemory\\memory.dat"
+    codes:
+      - "95000000 [CharacterSlot]"
+      - "28000048 [Amount:000003E7:HEX:BIG]"
+
+  - name: "Faith"
+    notes: "[Character Stats]  File: sce_sdmemory\\memory.dat"
+    codes:
+      - "95000000 [CharacterSlot]"
+      - "2800004C [Amount:000003E7:HEX:BIG]"
+
+  - name: "Arcane"
+    notes: "[Character Stats]  File: sce_sdmemory\\memory.dat"
+    codes:
+      - "95000000 [CharacterSlot]"
+      - "28000050 [Amount:000003E7:HEX:BIG]"
+
+  - name: "Level"
+    notes: "[Character Stats]  File: sce_sdmemory\\memory.dat"
+    codes:
+      - "95000000 [CharacterSlot]"
+      - "28000060 [Amount:000003E7:HEX:BIG]"
+
+  - name: "Runes"
+    notes: "[Character Stats]  File: sce_sdmemory\\memory.dat"
+    codes:
+      - "95000000 [CharacterSlot]"
+      - "28000064 [Amount:000003E7:HEX:BIG]"

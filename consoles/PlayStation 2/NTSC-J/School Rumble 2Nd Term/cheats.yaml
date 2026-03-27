@@ -1,0 +1,61 @@
+# School Rumble 2Nd Term cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25670
+
+game: "School Rumble 2Nd Term"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25670"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90187FB8 0C061F96"
+
+  - name: "All Scene Recollection (Enter Menu Once To Be Saveable)"
+    author: "punk7890"
+    codes:
+      - "20142B8C 0C05FCBE"
+      - "20142B90 00691821"
+      - "2017F2F8 2402FFFF"
+      - "2017F2FC A0620820"
+      - "2017F300 03E00008"
+      - "2017F304 94620820"
+
+  - name: "L3 For Texture View, R3 To Disable"
+    author: "punk7890"
+    codes:
+      - "2014EF04 0C0520CA"
+      - "20148364 3C02005A"
+      - "20148368 8C4494C4"
+      - "D1EC1682 0000FFFD"
+      - "0026B488 00000001"
+      - "D1EC1682 0000FFFB"
+      - "0026B488 00000000"
+
+  - name: "Scenario Complete"
+    author: "punk7890"
+    codes:
+      - "4019CEA4 01930001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Unlock All Free Talk"
+    author: "punk7890"
+    codes:
+      - "4019DEE8 00380001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Unlock All Gallery"
+    author: "punk7890"
+    codes:
+      - "1019D578 0000FFFF"
+      - "2019D57C FFFFFFFF"
+      - "2019D580 FFFFFFFF"
+      - "2019D584 FFFFFFFF"
+      - "2019D588 FFFFFFFF"
+      - "1019D58C 0000FFFF"

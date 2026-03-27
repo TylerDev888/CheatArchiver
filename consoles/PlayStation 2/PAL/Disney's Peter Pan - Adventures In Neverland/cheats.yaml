@@ -1,0 +1,110 @@
+# Disney's Peter Pan - Adventures In Neverland cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-50522
+
+game: "Disney's Peter Pan - Adventures In Neverland"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-50522"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0127810 00127813"
+
+  - name: "Get Items From Anywhere"
+    author: "nolberto82"
+    codes:
+      - "2014F7B0 00000000"
+
+  - name: "99 Crystals"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "1026C68C 00000000"
+
+  - name: "99 Fairy Jars"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "0026C67C 00000063"
+      - "1026C678 0000270F"
+
+  - name: "99 Keys"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "1026C6AC 00000063"
+
+  - name: "All Treasure"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "1026C69C 0000FFFF"
+      - "1026C69E 0000FFF0"
+
+  - name: "Always Have Knife"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "2027F8F0 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "1027EE26 000040A0"
+
+  - name: "Never Have More Than 25% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0011028 3027EE26"
+      - "1027EE26 00001028"
+
+  - name: "Never Have More Than 50% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0012050 3027EE26"
+      - "1027EE26 00002050"
+
+  - name: "Never Have More Than 75% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0013078 3027EE26"
+      - "1027EE26 00003078"
+
+  - name: "Unlock All Levels"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "10284E08 00000FFF"
+
+  - name: "Infinite Lives"
+    author: "Codejunkies"
+    codes:
+      - "1027EE2A 000041CE"
+
+  - name: "Invincibility"
+    author: "nolberto82"
+    codes:
+      - "201511AC 1000012E"
+
+  - name: "Jesus Mode"
+    author: "nolberto82"
+    codes:
+      - "201397C4 0000102D"
+      - "201397DC 0000102D"
+
+  - name: "Jump In Midair"
+    author: "nolberto82"
+    codes:
+      - "2013E258 100000C0"
+      - "20147D28 10000007"

@@ -1,0 +1,50 @@
+# Serious Sam - Next Encounter cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52450
+
+game: "Serious Sam - Next Encounter"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52450"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01001E8 001001EB"
+
+  - name: "Fix For AR Max Versions Below 3.14"
+    author: "Codejunkies"
+    codes:
+      - "20325B48 3C03200F"
+      - "20325B50 8C65FFF8"
+      - "20325B54 24040079"
+      - "20325B58 24030074"
+      - "20325B5C 0000000C"
+
+  - name: "Have All Levels Open"
+    author: "Codejunkies"
+    codes:
+      - "20220828 240200FF"
+      - "202207FC 240300FF"
+
+  - name: "Have All Weapons"
+    author: "Codejunkies"
+    codes:
+      - "20226048 24060001"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "201FCB3C 24020063"
+      - "201FCB40 A4620000"
+      - "201FCB48 00000000"
+
+  - name: "Turn On God Mode"
+    author: "Codejunkies"
+    codes:
+      - "2020ED6C 24030001"

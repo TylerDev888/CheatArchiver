@@ -1,0 +1,58 @@
+# God eater 3 cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA13326
+
+game: "God eater 3"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA13326"
+cheat_type: "AP"
+source: "source: xdgmods"
+
+cheats:
+  - name: "Max Possession Ep / Max Total Ep"
+    notes: "File: *"
+    codes:
+      - "20137704 000F423F"
+      - "20137708 000F423F"
+
+  - name: "Max All Character’s Ap"
+    notes: "File: *"
+    codes:
+      - "4217B058 0098967F"
+      - "40070FD8 00000000"
+
+  - name: "Max Gap"
+    notes: "File: *"
+    codes:
+      - "2013770C 0001869F"
+
+  - name: "Max Money"
+    notes: "File: *"
+    codes:
+      - "20000540 3B9AC9FF"
+
+  - name: "Max Items"
+    notes: "File: *"
+    codes:
+      - "41000550 000003E7"
+      - "4BB80020 00000000"
+
+  - name: "Max All Burst Arts Exp"
+    notes: "File: *"
+    codes:
+      - "4213DF2C 3B9AC9FF"
+      - "42350040 00000000"
+
+  - name: "Weapons +30"
+    notes: "File: *"
+    codes:
+      - "40062F78 0000001E"
+      - "40C8004C 00000000"
+
+  - name: "Custom Bullets Cost 1"
+    notes: "File: *"
+    codes:
+      - "420F1354 00000001"
+      - "40C80370 00000000"

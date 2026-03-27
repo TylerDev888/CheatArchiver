@@ -1,0 +1,40 @@
+# Robin Hood-Defender Of The Crown cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20723
+
+game: "Robin Hood-Defender Of The Crown"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20723"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00159B77"
+
+  - name: "Archery Kills Worth Modifier (000-3E7)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2019A408 24020???"
+
+  - name: "Start With Archery Kills Modifier (000-3E7)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 24010???"
+      - "200C0224 080813F8"
+      - "200C0228 AC4100FC"
+      - "2019A804 0C030088"
+
+  - name: "Infinite Health (Swordfights)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20173B80 2402005A"
+      - "20173B88 AC8202B4"

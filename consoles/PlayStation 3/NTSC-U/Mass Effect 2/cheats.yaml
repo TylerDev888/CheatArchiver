@@ -1,0 +1,45 @@
+# Mass Effect 2 cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS30650
+
+game: "Mass Effect 2"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS30650"
+cheat_type: "AP"
+source: "From Keha World"
+
+cheats:
+  - name: "Credit / Medigel / Palladium / Iridium / Platinum / Elementzero 9999999 (template)"
+    notes: "File: AUTO"
+    codes:
+      - "search xxxxxxxx000000yy"
+      - "write next 0: 0098967F0098967F0098967F0098967F0098967F0098967F"
+
+  - name: "Update Crc32big - Auto (required)"
+    notes: "File: AUTO"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:CRC32Big"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"
+
+  - name: "Update Crc32big - Chapter (required)"
+    notes: "File: CHAPTER"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:CRC32Big"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"
+
+  - name: "Update Crc32big - Save* (required)"
+    notes: "File: SAVE*"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:CRC32Big"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"

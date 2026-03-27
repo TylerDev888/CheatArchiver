@@ -1,0 +1,476 @@
+# X-Men - Next Dimension cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20279
+
+game: "X-Men - Next Dimension"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20279"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0221CD0 001FB96F"
+
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9021C030 0C086FB4"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001FB96F"
+
+  - name: "1-Hit Death P1"
+    author: "Code Master"
+    codes:
+      - "D02E8FFC 00007530"
+      - "102E8FFC 00000001"
+
+  - name: "1-Hit Death P2"
+    author: "Code Master"
+    codes:
+      - "D02EB98C 00007530"
+      - "102EB98C 00000001"
+
+  - name: "25% Health P1"
+    author: "Code Master"
+    codes:
+      - "D02E8FFC 00007530"
+      - "102E8FFC 00001D4C"
+
+  - name: "25% Health P2"
+    author: "Code Master"
+    codes:
+      - "D02EB98C 00007530"
+      - "102EB98C 00001D4C"
+
+  - name: "50% Health P1"
+    author: "Code Master"
+    codes:
+      - "D02E8FFC 00007530"
+      - "102E8FFC 00003A98"
+
+  - name: "50% Health P2"
+    author: "Code Master"
+    codes:
+      - "D02EB98C 00007530"
+      - "102EB98C 00003A98"
+
+  - name: "75% Health P1"
+    author: "Code Master"
+    codes:
+      - "D02E8FFC 00007530"
+      - "102E8FFC 000057E4"
+
+  - name: "75% Health P2"
+    author: "Code Master"
+    codes:
+      - "D02EB98C 00007530"
+      - "102EB98C 000057E4"
+
+  - name: "Everything Unlocked"
+    author: "Codejunkies"
+    codes:
+      - "202F1540 00FC4000"
+      - "202F1544 00000001"
+      - "202F1548 00000001"
+      - "202F154C FFFFFFFF"
+      - "202F1550 FFFFFFFF"
+
+  - name: "Can't Fly"
+    author: "Codejunkies"
+    notes: "[Flight Codes]"
+    codes:
+      - "102E9404 00000000"
+
+  - name: "Infinite Flight"
+    author: "Codejunkies"
+    notes: "[Flight Codes]"
+    codes:
+      - "102E9404 0000021D"
+
+  - name: "10% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0010753 302E8FFC"
+      - "102E8FFC 00000753"
+
+  - name: "25% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0011D4C 302E8FFC"
+      - "102E8FFC 00001D4C"
+
+  - name: "50% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0013A98 302E8FFC"
+      - "102E8FFC 00003A98"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "102E8FFC 00007530"
+
+  - name: "Instant Death"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "D02E8FFC 00007530"
+      - "102E8FFC 00000000"
+
+  - name: "Health Never Bebuilds To Max Red Bar"
+    author: "Code Master"
+    codes:
+      - "10126C38 00000000"
+
+  - name: "Max Health Restore"
+    author: "Codejunkies"
+    notes: "[Health Restore Codes]"
+    codes:
+      - "102E8FFE 00007530"
+
+  - name: "No Health Restore"
+    author: "Codejunkies"
+    notes: "[Health Restore Codes]"
+    codes:
+      - "102E8FFE 00000000"
+
+  - name: "Hit Anywhere P1 & P2"
+    author: "Code Master"
+    codes:
+      - "20144734 00000000"
+
+  - name: "Hit Anywhere P1 ONLY"
+    author: "Code Master"
+    codes:
+      - "20144710 0295802B"
+
+  - name: "Hit Anywhere P2 ONLY"
+    author: "Code Master"
+    codes:
+      - "20144710 02B4802B"
+
+  - name: "Infinite Time"
+    author: "InterAct"
+    codes:
+      - "0024B764 000000FF"
+
+  - name: "No Health P1"
+    author: "Code Master"
+    codes:
+      - "102E8FFC 00000000"
+
+  - name: "No Health P2"
+    author: "Code Master"
+    codes:
+      - "102EB98C 00000000"
+
+  - name: "P1 Can Never Use Super"
+    author: "Code Master"
+    codes:
+      - "102E8F72 000000FF"
+
+  - name: "P1 Infinite Flying"
+    author: "Code Master"
+    codes:
+      - "102E9404 0000025E"
+
+  - name: "P1 Press L1+Select For Death Blow On P2"
+    author: "Code Master"
+    codes:
+      - "D02F1658 00000104"
+      - "102EB98C 00000000"
+
+  - name: "P2 Can Never Use Super"
+    author: "Code Master"
+    codes:
+      - "102EB902 000000FF"
+
+  - name: "P2 Infinite Flying"
+    author: "Code Master"
+    codes:
+      - "102EBD94 0000025E"
+
+  - name: "P2 Press L1+Select For Death Blow On P1"
+    author: "Code Master"
+    codes:
+      - "D02F1664 00000104"
+      - "102E8FFC 00000000"
+
+  - name: "Max Special Lvl 1"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "102E95B0 00001400"
+
+  - name: "Max Special Lvl 2"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "102E95B2 00001E00"
+
+  - name: "Max Special Lvl 3"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "102E95B4 00002800"
+
+  - name: "Never Win"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "102E959C 00000000"
+
+  - name: "No Special Lvl 1"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "102E95B0 00000000"
+
+  - name: "No Special Lvl 2"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "102E95B2 00000000"
+
+  - name: "No Special Lvl 3"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "102E95B4 00000000"
+
+  - name: "Round Won"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "D02E959C 00000000"
+      - "102E959C 00000001"
+
+  - name: "Rounds Won"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "D02E959C 00000000"
+      - "102E959C 00000002"
+
+  - name: "Super Always Disabled"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "102E8F72 000001A6"
+
+  - name: "Super Never Disabled"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "102E8F72 00000000"
+
+  - name: "Press L3 For Debug Menu"
+    author: "punk7890"
+    codes:
+      - "0014AF60 00000011"
+      - "D0935402 0000FFFD"
+      - "202B1C0C 00000001"
+
+  - name: "Quick Health Rebuild To Max Red Bar"
+    author: "Code Master"
+    codes:
+      - "10126C38 000000FF"
+
+  - name: "Stage 2"
+    author: "Code Master"
+    notes: "[Start On Stage Codes (Arcade Mode)]"
+    codes:
+      - "D02B1B10 00000000"
+      - "102B1B10 00000001"
+
+  - name: "Stage 3"
+    author: "Code Master"
+    notes: "[Start On Stage Codes (Arcade Mode)]"
+    codes:
+      - "D02B1B10 00000000"
+      - "102B1B10 00000002"
+
+  - name: "Stage 4"
+    author: "Code Master"
+    notes: "[Start On Stage Codes (Arcade Mode)]"
+    codes:
+      - "D02B1B10 00000000"
+      - "102B1B10 00000003"
+
+  - name: "Stage 5"
+    author: "Code Master"
+    notes: "[Start On Stage Codes (Arcade Mode)]"
+    codes:
+      - "D02B1B10 00000000"
+      - "102B1B10 00000004"
+
+  - name: "Stage 6"
+    author: "Code Master"
+    notes: "[Start On Stage Codes (Arcade Mode)]"
+    codes:
+      - "D02B1B10 00000000"
+      - "102B1B10 00000005"
+
+  - name: "Stage 7"
+    author: "Code Master"
+    notes: "[Start On Stage Codes (Arcade Mode)]"
+    codes:
+      - "D02B1B10 00000000"
+      - "102B1B10 00000006"
+
+  - name: "Stage 8"
+    author: "Code Master"
+    notes: "[Start On Stage Codes (Arcade Mode)]"
+    codes:
+      - "D02B1B10 00000000"
+      - "102B1B10 00000007"
+
+  - name: "Stage 9"
+    author: "Code Master"
+    notes: "[Start On Stage Codes (Arcade Mode)]"
+    codes:
+      - "D02B1B10 00000000"
+      - "102B1B10 00000008"
+
+  - name: "Stage 10"
+    author: "Code Master"
+    notes: "[Start On Stage Codes (Arcade Mode)]"
+    codes:
+      - "D02B1B10 00000000"
+      - "102B1B10 00000009"
+
+  - name: "Sudden Death Mode"
+    author: "Codejunkies"
+    codes:
+      - "D024B764 00000028"
+      - "102E8FFC 00001000"
+      - "D024B764 00000028"
+      - "102EB98C 00001000"
+      - "D024B764 00000028"
+      - "102E8FFE 00000000"
+      - "D024B764 00000028"
+      - "102EB98E 00000000"
+
+  - name: "Unlock All 2Nd Set Of Costumes"
+    author: "Code Master"
+    codes:
+      - "202F1548 FFFFFFFF"
+
+  - name: "Unlock All 3Rd Set Of Costumes"
+    author: "Code Master"
+    codes:
+      - "202F154C FFFFFFFF"
+
+  - name: "Unlock All 4Th Set Of Costumes"
+    author: "Code Master"
+    codes:
+      - "202F1550 FFFFFFFF"
+
+  - name: "Unlock All Characters"
+    author: "Code Master"
+    codes:
+      - "202F1540 FFFFFFFF"
+
+  - name: "Unlock All Stages"
+    author: "Code Master"
+    codes:
+      - "202F1544 FFFFFFFF"
+
+  - name: "Unlock Bastion"
+    author: "InterAct"
+    codes:
+      - "0026EE9C 00000000"
+
+  - name: "Unlock Bishop"
+    author: "InterAct"
+    codes:
+      - "0026EEA8 00000000"
+
+  - name: "Unlock Blob"
+    author: "InterAct"
+    codes:
+      - "0026EEAC 00000000"
+
+  - name: "All Characters"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "4026EE94 00070001"
+      - "00000000 00000000"
+
+  - name: "Bastion"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "2026EE9C 00000000"
+
+  - name: "Bishop"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "2026EEA8 00000000"
+
+  - name: "Blob"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "2026EEAC 00000000"
+
+  - name: "Dark Phoenix"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "2026EEA0 00000000"
+
+  - name: "Psylocke"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "2026EEA4 00000000"
+
+  - name: "Sentinel A"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "2026EE94 00000000"
+
+  - name: "Sentinel B"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "2026EE98 00000000"
+
+  - name: "Unlock Dark Phoenix"
+    author: "InterAct"
+    codes:
+      - "0026EEA0 00000000"
+
+  - name: "Unlock Psylocke"
+    author: "InterAct"
+    codes:
+      - "0026EEA4 00000000"
+
+  - name: "Unlock Sentinel A"
+    author: "InterAct"
+    codes:
+      - "0026EE94 00000000"
+
+  - name: "Unlock Sentinel B"
+    author: "InterAct"
+    codes:
+      - "0026EE98 00000000"

@@ -1,0 +1,23 @@
+# Shaman King Funbari Spirits cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25359
+
+game: "Shaman King Funbari Spirits"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25359"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90253478 0C094CC6"
+
+  - name: "Training Mode = Debug Menu (5Th Main Menu Option)"
+    author: "punk7890"
+    codes:
+      - "201DE99C 0C082D0C"

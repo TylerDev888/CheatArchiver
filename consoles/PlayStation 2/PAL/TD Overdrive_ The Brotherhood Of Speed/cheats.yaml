@@ -1,0 +1,48 @@
+# TD Overdrive_ The Brotherhood Of Speed cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "TD Overdrive_ The Brotherhood Of Speed"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001C1B07"
+
+  - name: "Super Cars"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "2024D6AC 01010101"
+      - "2024D6B4 01010101"
+      - "2024D6B8 01010101"
+      - "2024D6BC 01010101"
+      - "2024D6C0 00010101"
+
+  - name: "All Levels"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "4024D6DC 00090001"
+      - "01010101 00000000"
+
+  - name: "Opponents"
+    author: "Xploder"
+    notes: "[Stupid AI]"
+    codes:
+      - "20108C60 03E00008"
+      - "10108C64 28090000"
+
+  - name: "Cops"
+    author: "Xploder"
+    notes: "[Stupid AI]"
+    codes:
+      - "2014F4A8 03E00008"
+      - "2014F4AC 00000000"

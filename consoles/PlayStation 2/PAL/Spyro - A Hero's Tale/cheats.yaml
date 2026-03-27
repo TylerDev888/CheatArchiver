@@ -1,0 +1,77 @@
+# Spyro - A Hero's Tale cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52569
+
+game: "Spyro - A Hero's Tale"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52569"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F03F50A0 003F50A3"
+
+  - name: "Electric Breath"
+    author: "Codejunkies"
+    notes: "[Breath Modifier Codes]"
+    codes:
+      - "00502F80 00000008"
+
+  - name: "Fire Breath"
+    author: "Codejunkies"
+    notes: "[Breath Modifier Codes]"
+    codes:
+      - "00502F80 00000001"
+
+  - name: "Ice Breath"
+    author: "Codejunkies"
+    notes: "[Breath Modifier Codes]"
+    codes:
+      - "00502F80 00000004"
+
+  - name: "Water Breath"
+    author: "Codejunkies"
+    notes: "[Breath Modifier Codes]"
+    codes:
+      - "00502F80 00000002"
+
+  - name: "Maniac Runner"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "004FC5BC 00000020"
+
+  - name: "Maniac Runner (All)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "204FC5E8 40000000"
+
+  - name: "Maniac Runner Extra"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "004FC5BC 00000010"
+
+  - name: "Maniac Runner Extra (All)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "204FC5E8 40800000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "00502F84 000000A0"
+
+  - name: "Max Gems"
+    author: "Codejunkies"
+    codes:
+      - "20502F88 00002710"
+      - "20502F8C 00002710"

@@ -1,0 +1,2502 @@
+# Kingdom Hearts cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-50970
+
+game: "Kingdom Hearts"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-50970"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "1Hitkill (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "20140EE8 ACA0003C"
+      - "201414A0 AE00003C"
+      - "20140AAC AE00003C"
+
+  - name: "Always Full Life For Sora And Allies"
+    author: "luc-ita"
+    codes:
+      - "20239EB4 AC50003C"
+      - "20239EBC 2A020079"
+
+  - name: "Buy Even Without Munny (Accessories Shop And Object Shop)"
+    author: "luc-ita"
+    codes:
+      - "20229DB4 00000000"
+
+  - name: "Heartless Don't Appear"
+    author: "luc-ita"
+    codes:
+      - "2014E444 00000000"
+
+  - name: "Joker Command"
+    author: "luc-ita"
+    codes:
+      - "D02C05D5 000000??"
+
+  - name: "Jump In Mid-Air V2"
+    author: "luc-ita"
+    codes:
+      - "200A0000 8C620000"
+      - "200A0004 C4400014"
+      - "200A0008 3C09C2C8"
+      - "200A000C 44890800"
+      - "200A0010 46000FC0"
+      - "200A0014 E45F0014"
+      - "200A0018 0805B78E"
+      - "2016DE34 8C620000"
+      - "E0030020 002C05D5"
+      - "2016DE34 08028000"
+      - "603567C0 00000001"
+      - "00020001 00000070"
+
+  - name: "Jump In Mid-Air"
+    author: "luc-ita"
+    codes:
+      - "E0040020 002C05D5"
+      - "603567C0 00000000"
+      - "00020001 00000014"
+      - "603567C0 00000001"
+      - "00020001 00000070"
+
+  - name: "Sora And Allies Are Invulnerable"
+    author: "luc-ita"
+    codes:
+      - "20154424 1000007A"
+
+  - name: "The Gummiship Pass Through Objects And Enemies"
+    author: "luc-ita"
+    codes:
+      - "E0021480 00F2AB0E"
+      - "D02C05D5 00000010"
+      - "20F2AB0C 100000A5"
+
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0263728 0026372B"
+
+  - name: "Ability Stud"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F2776 00000063"
+
+  - name: "Angel Bangle"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F2781 00000063"
+
+  - name: "Atlas Armlet"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F2785 00000063"
+
+  - name: "Blizzaga Ring"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F2772 00000063"
+
+  - name: "Blizzara Ring"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F41A1 00000063"
+
+  - name: "Blizzard Ring"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F1F60 00000063"
+
+  - name: "Brave Warrior"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F41B9 00000063"
+
+  - name: "Chaos Ring"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F41A9 00000063"
+
+  - name: "Crystal Crown"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F41B8 00000063"
+
+  - name: "Dark Ring"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F1F6A 00000063"
+
+  - name: "Element Ring"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F41AB 00000063"
+
+  - name: "Energy Bangle"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F1F70 00000063"
+
+  - name: "Fira Ring"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F1F5E 00000063"
+
+  - name: "Firaga Ring"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F1F5F 00000063"
+
+  - name: "Fire Ring"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F276D 00000063"
+
+  - name: "Gaia Bangle"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F41B2 00000063"
+
+  - name: "Golem Chain"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F277E 00000063"
+
+  - name: "Guard Earring"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F2777 00000063"
+
+  - name: "Heartguard"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F2786 00000063"
+
+  - name: "Holy Circlet"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F278E 00000063"
+
+  - name: "Ifrit's Horn"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F41BA 00000063"
+
+  - name: "Inferno Band"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F41BB 00000063"
+
+  - name: "Magic Armlet"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F41B3 00000063"
+
+  - name: "Master Earring"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F41A8 00000063"
+
+  - name: "Omega Arts"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F41C0 00000063"
+
+  - name: "Power Chain"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F1F6D 00000063"
+
+  - name: "Protect Chain"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F1F5A 00000063"
+
+  - name: "Protega Chain"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F1F5C 00000063"
+
+  - name: "Protera Chain"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F1F5B 00000063"
+
+  - name: "Raven's Claw"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F41BF 00000063"
+
+  - name: "Ray Of Light"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F278D 00000063"
+
+  - name: "Ribbon"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F2787 00000063"
+
+  - name: "Rune Armlet"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F2784 00000063"
+
+  - name: "Three Stars"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F41AC 00000063"
+
+  - name: "Thundaga Ring"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F2775 00000063"
+
+  - name: "Thundara Ring"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F41A4 00000063"
+
+  - name: "Thunder Ring"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F41A3 00000063"
+
+  - name: "Titan Chain"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F277F 00000063"
+
+  - name: "White Fang"
+    author: "Codejunkies"
+    notes: "[Accessory Codes]"
+    codes:
+      - "003F278C 00000063"
+
+  - name: "All Magic"
+    author: "Codejunkies"
+    notes: "[Aladdin Codes]"
+    codes:
+      - "003F2578 0000007F"
+
+  - name: "Infinite HP"
+    author: "Codejunkies"
+    notes: "[Aladdin Codes]"
+    codes:
+      - "003F2509 00000063"
+
+  - name: "Infinite MP"
+    author: "Codejunkies"
+    notes: "[Aladdin Codes]"
+    codes:
+      - "003F250B 00000063"
+
+  - name: "Max Ap"
+    author: "Codejunkies"
+    notes: "[Aladdin Codes]"
+    codes:
+      - "003F250D 00000063"
+
+  - name: "Max Def"
+    author: "Codejunkies"
+    notes: "[Aladdin Codes]"
+    codes:
+      - "003F250F 00000063"
+
+  - name: "Max HP"
+    author: "Codejunkies"
+    notes: "[Aladdin Codes]"
+    codes:
+      - "003F3F3A 00000063"
+
+  - name: "Max MP"
+    author: "Codejunkies"
+    notes: "[Aladdin Codes]"
+    codes:
+      - "003F3F3C 00000063"
+
+  - name: "Max Str"
+    author: "Codejunkies"
+    notes: "[Aladdin Codes]"
+    codes:
+      - "003F3F3E 00000063"
+
+  - name: "Max Xp"
+    author: "Codejunkies"
+    notes: "[Aladdin Codes]"
+    codes:
+      - "203F3F74 0098967F"
+
+  - name: "All Dalmatians"
+    author: "Codejunkies"
+    codes:
+      - "003F53F3 000000FF"
+      - "203F53F4 FFFFFFFF"
+      - "203F53F8 FFFFFFFF"
+      - "203F53F8 7FFFFFFF"
+
+  - name: "Max Experience"
+    author: "Codejunkies"
+    notes: "[Ariel Codes]"
+    codes:
+      - "203F3FE8 0098967F"
+
+  - name: "Bambi Summon"
+    author: "Codejunkies"
+    notes: "[Beast Codes]"
+    codes:
+      - "003F2A91 00000001"
+
+  - name: "Dumbo Summon"
+    author: "Codejunkies"
+    notes: "[Beast Codes]"
+    codes:
+      - "003F2A90 00000000"
+
+  - name: "Genie Summon"
+    author: "Codejunkies"
+    notes: "[Beast Codes]"
+    codes:
+      - "003F2282 00000002"
+
+  - name: "Mushu Summon"
+    author: "Codejunkies"
+    notes: "[Beast Codes]"
+    codes:
+      - "003F2A94 00000004"
+
+  - name: "Simba Summon"
+    author: "Codejunkies"
+    notes: "[Beast Codes]"
+    codes:
+      - "003F2A95 00000005"
+
+  - name: "Tinker Bell Summon"
+    author: "Codejunkies"
+    notes: "[Beast Codes]"
+    codes:
+      - "003F44C3 00000003"
+
+  - name: "All Magic Spells"
+    author: "Codejunkies"
+    notes: "[Donald Codes]"
+    codes:
+      - "203F23A8 FFFFFFFF"
+
+  - name: "Dream Rod"
+    author: "Codejunkies"
+    notes: "[Donald Codes]"
+    codes:
+      - "003F27CA 00000001"
+
+  - name: "Grand Mallet"
+    author: "Codejunkies"
+    notes: "[Donald Codes]"
+    codes:
+      - "003F27C7 00000001"
+
+  - name: "Lord Fortune"
+    author: "Codejunkies"
+    notes: "[Donald Codes]"
+    codes:
+      - "003F1FB8 00000001"
+
+  - name: "Magus Staff"
+    author: "Codejunkies"
+    notes: "[Donald Codes]"
+    codes:
+      - "003F41F3 00000001"
+
+  - name: "Max Accessory Slots"
+    author: "Codejunkies"
+    notes: "[Donald Codes]"
+    codes:
+      - "003F1B40 00000008"
+
+  - name: "Max Item Slots"
+    author: "Codejunkies"
+    notes: "[Donald Codes]"
+    codes:
+      - "003F2389 0000000C"
+
+  - name: "Morning Star"
+    author: "Codejunkies"
+    notes: "[Donald Codes]"
+    codes:
+      - "003F1FB1 00000001"
+
+  - name: "Save The Queen"
+    author: "Codejunkies"
+    notes: "[Donald Codes]"
+    codes:
+      - "003F1FBB 00000001"
+
+  - name: "Shooting Star"
+    author: "Codejunkies"
+    notes: "[Donald Codes]"
+    codes:
+      - "003F41F2 00000001"
+
+  - name: "Silver Mallet"
+    author: "Codejunkies"
+    notes: "[Donald Codes]"
+    codes:
+      - "003F27C6 00000001"
+
+  - name: "Violetta"
+    author: "Codejunkies"
+    notes: "[Donald Codes]"
+    codes:
+      - "003F27C9 00000001"
+
+  - name: "Warhammer"
+    author: "Codejunkies"
+    notes: "[Donald Codes]"
+    codes:
+      - "003F27C5 00000001"
+
+  - name: "Wisdom Staff"
+    author: "Codejunkies"
+    notes: "[Donald Codes]"
+    codes:
+      - "003F27C4 00000001"
+
+  - name: "Wizard's Relic"
+    author: "Codejunkies"
+    notes: "[Donald Codes]"
+    codes:
+      - "003F41FC 00000001"
+
+  - name: "Adamant Shield"
+    author: "Codejunkies"
+    notes: "[Goofy Codes]"
+    codes:
+      - "003F27D5 00000001"
+
+  - name: "Dream Shield"
+    author: "Codejunkies"
+    notes: "[Goofy Codes]"
+    codes:
+      - "003F27DA 00000001"
+
+  - name: "Genji Shield"
+    author: "Codejunkies"
+    notes: "[Goofy Codes]"
+    codes:
+      - "003F27D8 00000001"
+
+  - name: "Gigas Fist"
+    author: "Codejunkies"
+    notes: "[Goofy Codes]"
+    codes:
+      - "003F27D7 00000001"
+
+  - name: "Golem Shield"
+    author: "Codejunkies"
+    notes: "[Goofy Codes]"
+    codes:
+      - "003F27D4 00000001"
+
+  - name: "Herc's Shield"
+    author: "Codejunkies"
+    notes: "[Goofy Codes]"
+    codes:
+      - "003F1FC9 00000001"
+
+  - name: "Mythrill Shield"
+    author: "Codejunkies"
+    notes: "[Goofy Codes]"
+    codes:
+      - "003F27D1 00000001"
+
+  - name: "Onyx Shield"
+    author: "Codejunkies"
+    notes: "[Goofy Codes]"
+    codes:
+      - "003F27D2 00000001"
+
+  - name: "Save The King"
+    author: "Codejunkies"
+    notes: "[Goofy Codes]"
+    codes:
+      - "003F1FCB 00000001"
+
+  - name: "Smasher Shield"
+    author: "Codejunkies"
+    notes: "[Goofy Codes]"
+    codes:
+      - "003F27D6 00000001"
+
+  - name: "Stout Shield"
+    author: "Codejunkies"
+    notes: "[Goofy Codes]"
+    codes:
+      - "003F27D3 00000001"
+
+  - name: "Adamant Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE197 00000001"
+
+  - name: "Aerith Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE185 00000001"
+
+  - name: "Aero-G(1)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE161 00000063"
+
+  - name: "Aero-G(2)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFB92 00000063"
+
+  - name: "Aero-G(3)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD953 00000063"
+
+  - name: "Aerora-G(1)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD949 00000063"
+
+  - name: "Aerora-G(2)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD94A 00000063"
+
+  - name: "Aerora-G(3)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFB8B 00000063"
+
+  - name: "Aerora-G(4)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD94C 00000063"
+
+  - name: "Ahriman Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFBC2 00000001"
+
+  - name: "Alexander Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD990 00000001"
+
+  - name: "Atomos Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFBCB 00000001"
+
+  - name: "Bomb Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFBC0 00000001"
+
+  - name: "Cactaur Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFBB6 00000001"
+
+  - name: "Carbuncle Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD97D 00000001"
+
+  - name: "Catoblepas Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFBC6 00000001"
+
+  - name: "Chocobo Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD977 00000001"
+
+  - name: "Cid Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFBB2 00000001"
+
+  - name: "Cindy Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE188 00000001"
+
+  - name: "Com Lv1"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE17C 00000001"
+
+  - name: "Com Lv2"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD96D 00000001"
+
+  - name: "Com Lvl3"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD96E 00000001"
+
+  - name: "Comet-G"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFBA5 00000063"
+
+  - name: "Curaga-G"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE139 00000063"
+
+  - name: "Cure-G"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD928 00000063"
+
+  - name: "Deathguise Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE19E 00000001"
+
+  - name: "Diablos Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD98D 00000001"
+
+  - name: "Dispel-G(1)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFB81 00000063"
+
+  - name: "Dispel-G(2)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD942 00000063"
+
+  - name: "Dispel-G(3)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE153 00000063"
+
+  - name: "Dispel-G(4)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD944 00000063"
+
+  - name: "Dispel-G(5)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFB85 00000063"
+
+  - name: "Dispel-G(6)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD946 00000063"
+
+  - name: "Dispel-G(7)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE157 00000063"
+
+  - name: "Dispel-G(8)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE158 00000063"
+
+  - name: "Drain-G(1)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD954 00000063"
+
+  - name: "Drain-G(2)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFB95 00000063"
+
+  - name: "Esuna-G(1)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFBA0 00000063"
+
+  - name: "Esuna-G(2)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD961 00000063"
+
+  - name: "Fira-G"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFB6D 00000063"
+
+  - name: "Firaga-G"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD92E 00000063"
+
+  - name: "Fire-G"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFB6C 00000063"
+
+  - name: "Flare-G"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD92F 00000063"
+
+  - name: "Float-G(1)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE15F 00000063"
+
+  - name: "Float-G(2)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE160 00000063"
+
+  - name: "Full-Life-G"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD92B 00000063"
+
+  - name: "Geppetto Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD971 00000001"
+
+  - name: "Goblin Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFBBF 00000001"
+
+  - name: "Golem Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFBCC 00000001"
+
+  - name: "Haste2-G"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE16D 00000063"
+
+  - name: "Haste-G"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD95C 00000063"
+
+  - name: "Holy-G"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE140 00000063"
+
+  - name: "Hyperion Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD970 00000001"
+
+  - name: "Ifrit Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFBC9 00000001"
+
+  - name: "Imp Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE193 00000001"
+
+  - name: "Kingdom Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFBAF 00000001"
+
+  - name: "Lamia Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFBBA 00000001"
+
+  - name: "Leon Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE183 00000001"
+
+  - name: "Leviathan Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD991 00000001"
+
+  - name: "Life-G"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFB6A 00000063"
+
+  - name: "Meteor-G"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE176 00000063"
+
+  - name: "Mindy Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE18E 00000001"
+
+  - name: "Odin Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD98A 00000001"
+
+  - name: "Omega Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD993 00000001"
+
+  - name: "Osmose-G(1)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD956 00000063"
+
+  - name: "Osmose-G(2)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD957 00000063"
+
+  - name: "Palette"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFBA9 00000001"
+
+  - name: "Protect-G(1)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE141 00000063"
+
+  - name: "Protect-G(2)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFB72 00000063"
+
+  - name: "Protect-G(3)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE143 00000063"
+
+  - name: "Protect-G(4)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD934 00000063"
+
+  - name: "Protect-G(5)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD935 00000063"
+
+  - name: "Protect-G(6)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD936 00000063"
+
+  - name: "Protect-G(7)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFB77 00000063"
+
+  - name: "Protect-G(8)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD938 00000063"
+
+  - name: "Ramuh Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD992 00000001"
+
+  - name: "Remora Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE191 00000001"
+
+  - name: "Sandy Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD97B 00000001"
+
+  - name: "Scan-G(1)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD95A 00000063"
+
+  - name: "Scan-G(2)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFB9B 00000063"
+
+  - name: "Serpent Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE198 00000001"
+
+  - name: "Shell-G(1)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFB79 00000063"
+
+  - name: "Shell-G(2)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE14A 00000063"
+
+  - name: "Shell-G(3)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFB7B 00000063"
+
+  - name: "Shell-G(4)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE14C 00000063"
+
+  - name: "Shell-G(5)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE14D 00000063"
+
+  - name: "Shell-G(6)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD93E 00000063"
+
+  - name: "Shell-G(7)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE14F 00000063"
+
+  - name: "Shell-G(8)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD940 00000063"
+
+  - name: "Shield2-G(8)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFB9F 00000063"
+
+  - name: "Shield-G"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFB9E 00000063"
+
+  - name: "Shiva Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFBB9 00000001"
+
+  - name: "Siren Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD984 00000001"
+
+  - name: "Spray"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD968 00000001"
+
+  - name: "Stingray Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD985 00000001"
+
+  - name: "Sylph Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFBBC 00000001"
+
+  - name: "Sys Up1"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD96A 00000001"
+
+  - name: "Sys Up2"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FFBAB 00000001"
+
+  - name: "Thundaga-G"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD964 00000063"
+
+  - name: "Thundara-G"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD963 00000063"
+
+  - name: "Thunder-G"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD962 00000063"
+
+  - name: "Tornado-G(1)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE15D 00000063"
+
+  - name: "Tornado-G(2)"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD94E 00000063"
+
+  - name: "Transform-G"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE168 00000063"
+
+  - name: "Typhoon Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD98F 00000001"
+
+  - name: "Ultima-G"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FD967 00000063"
+
+  - name: "Warp-G"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE169 00000063"
+
+  - name: "Yuffie Model"
+    author: "Codejunkies"
+    notes: "[Gummi Ship Items]"
+    codes:
+      - "003FE184 00000001"
+
+  - name: "Infinite Armour - Gummi Ship"
+    author: "Codejunkies"
+    notes: "[If Sora Is Alone, Do Not Use The Other Codes]"
+    codes:
+      - "00FAB140 000000FF"
+
+  - name: "Infinite Power - Gummi Ship"
+    author: "Codejunkies"
+    notes: "[If Sora Is Alone, Do Not Use The Other Codes]"
+    codes:
+      - "00FAB148 000000FF"
+
+  - name: "Slot 2 Infinite HP - Battle"
+    author: "Codejunkies"
+    notes: "[If Sora Is Alone, Do Not Use The Other Codes]"
+    codes:
+      - "005247F8 00000072"
+
+  - name: "Slot 2 Infinite MP - Battle"
+    author: "Codejunkies"
+    notes: "[If Sora Is Alone, Do Not Use The Other Codes]"
+    codes:
+      - "005261E0 00000063"
+
+  - name: "Slot 3 Infinite HP - Battle"
+    author: "Codejunkies"
+    notes: "[If Sora Is Alone, Do Not Use The Other Codes]"
+    codes:
+      - "005262BC 00000063"
+
+  - name: "Slot 3 Infinite MP - Battle"
+    author: "Codejunkies"
+    notes: "[If Sora Is Alone, Do Not Use The Other Codes]"
+    codes:
+      - "005262C4 00000063"
+
+  - name: "Sora Infinite HP - Battle"
+    author: "Codejunkies"
+    notes: "[If Sora Is Alone, Do Not Use The Other Codes]"
+    codes:
+      - "00523EB4 00000063"
+
+  - name: "Sora Infinite MP - Battle"
+    author: "Codejunkies"
+    notes: "[If Sora Is Alone, Do Not Use The Other Codes]"
+    codes:
+      - "0052471C 00000072"
+
+  - name: "Infinite HP - All Characters"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "200FFF04 24020072"
+      - "200FFF08 AC82003C"
+      - "200FFF0C AC820040"
+
+  - name: "Infinite MP - All Characters"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "200FFF14 24020013"
+      - "200FFF18 AC820044"
+      - "200FFF1C AC820048"
+
+  - name: "Must Be On For Battle Codes"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "20142280 0803FFC0"
+      - "200FFF20 080508A1"
+      - "200FFF24 8C830044"
+
+  - name: "All Dalmations"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "003F39C3 000000FF"
+      - "203F39C4 FFFFFFFF"
+      - "203F39C8 FFFFFFFF"
+      - "203F39CC 7FFFFFFF"
+
+  - name: "All Trinities Available"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "203F3ED8 FFFFFFFF"
+
+  - name: "Infinite Money"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "204086DC 0001869F"
+
+  - name: "Infinite Munny"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "2040A10C 0001869F"
+
+  - name: "Infinite Time In Coliseum"
+    author: "Codejunkies"
+    notes: "[Page 1]"
+    codes:
+      - "102B67B0 0000F600"
+
+  - name: "Crabclaw"
+    author: "Codejunkies"
+    notes: "[Sora Codes]"
+    codes:
+      - "003F27B3 00000001"
+
+  - name: "Divine Rose"
+    author: "Codejunkies"
+    notes: "[Sora Codes]"
+    codes:
+      - "003F27B4 00000001"
+
+  - name: "Fairy Harp"
+    author: "Codejunkies"
+    notes: "[Sora Codes]"
+    codes:
+      - "003F27B1 00000001"
+
+  - name: "Jungle Key"
+    author: "Codejunkies"
+    notes: "[Sora Codes]"
+    codes:
+      - "003F27AF 00000001"
+
+  - name: "Lady Luck"
+    author: "Codejunkies"
+    notes: "[Sora Codes]"
+    codes:
+      - "003F1FAB 00000001"
+
+  - name: "Lionheart"
+    author: "Codejunkies"
+    notes: "[Sora Codes]"
+    codes:
+      - "003F1FA7 00000001"
+
+  - name: "Metal Chocobo"
+    author: "Codejunkies"
+    notes: "[Sora Codes]"
+    codes:
+      - "003F2958 00000001"
+
+  - name: "Oath Keeper"
+    author: "Codejunkies"
+    notes: "[Sora Codes]"
+    codes:
+      - "003F27B9 00000001"
+
+  - name: "Oblivion"
+    author: "Codejunkies"
+    notes: "[Sora Codes]"
+    codes:
+      - "003F295A 00000001"
+
+  - name: "Olympia"
+    author: "Codejunkies"
+    notes: "[Sora Codes]"
+    codes:
+      - "003F27B6 00000001"
+
+  - name: "Pumpkinhead"
+    author: "Codejunkies"
+    notes: "[Sora Codes]"
+    codes:
+      - "003F27B2 00000001"
+
+  - name: "Spellbinder"
+    author: "Codejunkies"
+    notes: "[Sora Codes]"
+    codes:
+      - "003F1FA5 00000001"
+
+  - name: "Three Wishes"
+    author: "Codejunkies"
+    notes: "[Sora Codes]"
+    codes:
+      - "003F27B0 00000001"
+
+  - name: "Ultima Weapon"
+    author: "Codejunkies"
+    notes: "[Sora Codes]"
+    codes:
+      - "003F27BD 00000001"
+
+  - name: "Wishing Star"
+    author: "Codejunkies"
+    notes: "[Sora Codes]"
+    codes:
+      - "003F27BC 00000001"
+
+  - name: "Aero Arts"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F27FD 00000001"
+
+  - name: "Ansem's Report 1"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2801 00000001"
+
+  - name: "Ansem's Report 2"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2802 00000001"
+
+  - name: "Ansem's Report 3"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2803 00000001"
+
+  - name: "Ansem's Report 4"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F4234 00000001"
+
+  - name: "Ansem's Report 5"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F1FF5 00000001"
+
+  - name: "Ansem's Report 6"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2806 00000001"
+
+  - name: "Ansem's Report 7"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F1FF7 00000001"
+
+  - name: "Ansem's Report 8"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F4238 00000001"
+
+  - name: "Ansem's Report 9"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F1FF9 00000001"
+
+  - name: "Ansem's Report 10"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F280A 00000001"
+
+  - name: "Antenna"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F202B 00000001"
+
+  - name: "Ap Up"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F4223 00000063"
+
+  - name: "Azal Vol 3"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F423D 00000001"
+
+  - name: "Blaze Gem"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F203B 00000063"
+
+  - name: "Blaze Shard"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F427A 00000063"
+
+  - name: "Blizzard Arts"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F27F8 00000001"
+
+  - name: "Bright Crystal"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F4283 00000063"
+
+  - name: "Bright Gem"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2852 00000063"
+
+  - name: "Bright Shard"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2851 00000063"
+
+  - name: "Camping Set"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F27E8 00000063"
+
+  - name: "Claw Marks"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2029 00000001"
+
+  - name: "Cloth"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F281A 00000001"
+
+  - name: "Coconut"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F200F 00000002"
+
+  - name: "Cottage"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F1FD9 00000063"
+
+  - name: "Crystal Trident"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F425B 00000001"
+
+  - name: "Cure Arts"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F1FEA 00000001"
+
+  - name: "Defense Up"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F27F2 00000063"
+
+  - name: "Drinking Water"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2010 00000001"
+
+  - name: "Earthshine"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F201A 00000001"
+
+  - name: "Elixer"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F275D 00000063"
+
+  - name: "Emblem Piece(A)"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F4245 00000001"
+
+  - name: "Emblem Piece(B)"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2816 00000001"
+
+  - name: "Emblem Piece(C)"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2007 00000001"
+
+  - name: "Emblem Piece(D)"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2818 00000001"
+
+  - name: "Empty Bottle"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F4243 00000001"
+
+  - name: "Entry Pass"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F202E 00000001"
+
+  - name: "Ether"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F418C 00000063"
+
+  - name: "Fireglow"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2829 00000001"
+
+  - name: "Fish"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F424D 00000003"
+
+  - name: "Footprints"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2838 00000001"
+
+  - name: "Forget-Me-Not"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F426C 00000001"
+
+  - name: "Frost Gem"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F284D 00000063"
+
+  - name: "Frost Shard"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F427C 00000063"
+
+  - name: "Gale"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2855 00000063"
+
+  - name: "Gravity Arts"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F1FEB 00000001"
+
+  - name: "Hafet Vol 4"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2812 00000001"
+
+  - name: "Hero License"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F426F 00000001"
+
+  - name: "Hi-Potion"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F418B 00000063"
+
+  - name: "Jack-In-The-Box"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F283D 00000001"
+
+  - name: "Khama Vol 8"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F1FFB 00000001"
+
+  - name: "Log"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F4249 00000002"
+
+  - name: "Lucid Crystal"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2034 00000063"
+
+  - name: "Lucid Gem"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2033 00000063"
+
+  - name: "Lucid Shard"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2842 00000063"
+
+  - name: "Matsutake Rank"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F422F 00000001"
+
+  - name: "Mava Vol 3"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F423E 00000001"
+
+  - name: "Mava Vol 6"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F1FFF 00000001"
+
+  - name: "Mega-Ether"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2760 00000063"
+
+  - name: "Mega-Potion"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F1F4F 00000063"
+
+  - name: "Megalixer"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F4191 00000063"
+
+  - name: "Mushroom"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F200E 00000003"
+
+  - name: "Mystery Goo"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2854 00000063"
+
+  - name: "Mystery Mold"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F4230 00000063"
+
+  - name: "Mythril"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2857 00000063"
+
+  - name: "Mythril Shard"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2046 00000063"
+
+  - name: "Nahara Vol 5"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2811 00000001"
+
+  - name: "Naturespark"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2828 00000001"
+
+  - name: "Navi-G Piece(A)"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2821 00000001"
+
+  - name: "Navi-G Piece(B)"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2012 00000001"
+
+  - name: "Navi-G Piece(C)"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F4254 00000001"
+
+  - name: "Navi-G Piece(D)"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2015 00000001"
+
+  - name: "Navi-Gummi(A)"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F4253 00000001"
+
+  - name: "Navi-Gummi(B)"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2826 00000001"
+
+  - name: "Old Book"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F4244 00000001"
+
+  - name: "Orichalcum"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2858 00000063"
+
+  - name: "Postcard"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F282C 0000000A"
+
+  - name: "Postcards"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F425C 0000000A"
+
+  - name: "Potion"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F275A 00000063"
+
+  - name: "Power Crystal"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2849 00000063"
+
+  - name: "Power Gem"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F4278 00000063"
+
+  - name: "Power Shard"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F4277 00000063"
+
+  - name: "Power Up"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F27F1 00000063"
+
+  - name: "Pretty Stone"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2030 00000063"
+
+  - name: "Rope"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F281B 00000001"
+
+  - name: "Salegg Vol 6"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F1FFC 00000001"
+
+  - name: "Seagull Egg"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F424C 00000001"
+
+  - name: "Shiitake Rank"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F1FEE 00000001"
+
+  - name: "Shiny Crystal"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F4280 00000063"
+
+  - name: "Slide 1"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2022 00000001"
+
+  - name: "Slide 2"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F4263 00000001"
+
+  - name: "Slide 3"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F4264 00000001"
+
+  - name: "Slide 4"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F4265 00000001"
+
+  - name: "Slide 5"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2026 00000001"
+
+  - name: "Slide 6"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2027 00000001"
+
+  - name: "Spirit Gem"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2036 00000063"
+
+  - name: "Spirit Shard"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2035 00000063"
+
+  - name: "Stench"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F283A 00000001"
+
+  - name: "Stop Arts"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F27FC 00000001"
+
+  - name: "Tent"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F27E7 00000063"
+
+  - name: "Theon Vol 6"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F4240 00000001"
+
+  - name: "Thunder Arts"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F4229 00000001"
+
+  - name: "Thunder Gem"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F203F 00000063"
+
+  - name: "Thunder Shard"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F284E 00000063"
+
+  - name: "Torn Page(A)"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F282D 00000001"
+
+  - name: "Torn Page(B)"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F282E 00000001"
+
+  - name: "Torn Page(C)"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F201F 00000001"
+
+  - name: "Torn Page(D)"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2020 00000001"
+
+  - name: "Torn Page(E)"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2831 00000001"
+
+  - name: "Watergleam"
+    author: "Codejunkies"
+    notes: "[Stock Item Codes]"
+    codes:
+      - "003F2827 00000001"
+
+  - name: "Agrabah"
+    author: "Codejunkies"
+    notes: "[Unlock Worlds]"
+    codes:
+      - "003F41B4 00000004"
+
+  - name: "Atlantica"
+    author: "Codejunkies"
+    notes: "[Unlock Worlds]"
+    codes:
+      - "003F41B6 00000004"
+
+  - name: "Deep Jungle"
+    author: "Codejunkies"
+    notes: "[Unlock Worlds]"
+    codes:
+      - "103F39C2 0000F0FE"
+      - "003F39A3 00000004"
+
+  - name: "End Of The World"
+    author: "Codejunkies"
+    notes: "[Unlock Worlds]"
+    codes:
+      - "003F41D6 000000E0"
+      - "003F41B9 00000004"
+
+  - name: "Halloween Town"
+    author: "Codejunkies"
+    notes: "[Unlock Worlds]"
+    codes:
+      - "003F41B5 00000004"
+
+  - name: "Hollow Bastian"
+    author: "Codejunkies"
+    notes: "[Unlock Worlds]"
+    codes:
+      - "003F41D5 000000FC"
+      - "003F41B8 00000004"
+
+  - name: "Monstro"
+    author: "Codejunkies"
+    notes: "[Unlock Worlds]"
+    codes:
+      - "003F39C4 000000FC"
+      - "003F39AA 00000004"
+
+  - name: "Neverland"
+    author: "Codejunkies"
+    notes: "[Unlock Worlds]"
+    codes:
+      - "003F5BE7 00000003"
+
+  - name: "Olympus Coliseum"
+    author: "Codejunkies"
+    notes: "[Unlock Worlds]"
+    codes:
+      - "003F41B2 00000004"
+
+  - name: "Traverse Town"
+    author: "Codejunkies"
+    notes: "[Unlock Worlds]"
+    codes:
+      - "003F41B0 00000004"
+
+  - name: "Wonderland"
+    author: "Codejunkies"
+    notes: "[Unlock Worlds]"
+    codes:
+      - "003F41B1 00000004"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0026374F"
+
+  - name: "Unlimited Munny"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "204086DC 0001869F"
+
+  - name: "Maximum HP"
+    author: "Xploder"
+    notes: "[Sora]"
+    codes:
+      - "003F22C6 000000FF"
+      - "003F22C5 000000FF"
+      - "00524714 000000FF"
+
+  - name: "Maximum MP"
+    author: "Xploder"
+    notes: "[Sora]"
+    codes:
+      - "003F22C8 000000FF"
+      - "003F22C7 000000FF"
+      - "0052471C 000000FF"
+
+  - name: "Maximum AP"
+    author: "Xploder"
+    notes: "[Sora]"
+    codes:
+      - "003F22C9 000000FF"
+
+  - name: "Maximum STR"
+    author: "Xploder"
+    notes: "[Sora]"
+    codes:
+      - "003F22CA 000000FF"
+
+  - name: "Maximum DEF"
+    author: "Xploder"
+    notes: "[Sora]"
+    codes:
+      - "003F22CB 000000FF"
+
+  - name: "Maximum LV"
+    author: "Xploder"
+    notes: "[Sora]"
+    codes:
+      - "003F22C4 000000FF"
+
+  - name: "Maximum EXP"
+    author: "Xploder"
+    notes: "[Sora]"
+    codes:
+      - "203F2300 0098967F"
+
+  - name: "Maximum Equipment Slots"
+    author: "Xploder"
+    notes: "[Sora]"
+    codes:
+      - "003F22DC 00000008"
+
+  - name: "Maximum Items Slots"
+    author: "Xploder"
+    notes: "[Sora]"
+    codes:
+      - "003F22E5 0000000C"
+
+  - name: "Nothing"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 00000000"
+
+  - name: "Elixir"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 00000004"
+
+  - name: "Megalixir"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 00000008"
+
+  - name: "Element Rink"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 00000022"
+
+  - name: "Ifirt's Horn"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 00000031"
+
+  - name: "Kingdom Key"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 00000051"
+
+  - name: "Dream Sword"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 00000052"
+
+  - name: "Wooden Sword"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 00000055"
+
+  - name: "Jungle King"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 00000056"
+
+  - name: "Oathkeeper"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 00000060"
+
+  - name: "Mage's Staff"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 00000067"
+
+  - name: "Grand Wallet"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 0000006E"
+
+  - name: "Mythril Shield"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 00000078"
+
+  - name: "Smasher"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 0000007D"
+
+  - name: "Defender"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 00000083"
+
+  - name: "Spear"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 00000087"
+
+  - name: "No Weapon"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 00000088"
+
+  - name: "Sword"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 00000089"
+
+  - name: "No Weapon 2"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 0000008A"
+
+  - name: "No Weapon 3"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 0000008B"
+
+  - name: "Dagger"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 0000008C"
+
+  - name: "Claws"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 0000008D"
+
+  - name: "Fire Arts"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 0000009E"
+
+  - name: "Shiitank Rank"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 000000A5"
+
+  - name: "Khama Vol. 8"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 000000B2"
+
+  - name: "Salegg Vol. 6"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 000000B3"
+
+  - name: "Azal Vol. 3"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 000000B4"
+
+  - name: "Mava Vol. 3"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 000000B5"
+
+  - name: "Mava Vol. 6"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 000000B6"
+
+  - name: "Theon Vol. 6"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 000000B7"
+
+  - name: "Nahara Vol. 5"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 000000B8"
+
+  - name: "Hafet Vol. 4"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 000000B9"
+
+  - name: "Emblem Piece"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 000000BC"
+
+  - name: "Emblem Piece 2"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 000000BD"
+
+  - name: "Emblem Piece 3"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 000000BE"
+
+  - name: "Emblem Piece 4"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 000000BF"
+
+  - name: "Navi-G Piece"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 000000C8"
+
+  - name: "Navi-G Piece 2"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 000000C9"
+
+  - name: "Navi-Gummi"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 000000CA"
+
+  - name: "Navi-G Piece 3"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 000000CB"
+
+  - name: "Navi-G Piece 4"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 000000CC"
+
+  - name: "Navi-Gummi 2"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 000000CD"
+
+  - name: "Torn Page"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 000000D4"
+
+  - name: "Torn Page 2"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 000000D5"
+
+  - name: "Torn Page 3"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 000000D6"
+
+  - name: "Torn Page 4"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 000000D7"
+
+  - name: "Torn Page 5"
+    author: "Xploder"
+    notes: "[Have in Items Slot 1]"
+    codes:
+      - "003F252A 000000D8"

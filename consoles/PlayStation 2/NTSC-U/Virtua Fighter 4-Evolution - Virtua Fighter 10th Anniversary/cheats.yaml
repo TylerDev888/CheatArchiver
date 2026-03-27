@@ -1,0 +1,42 @@
+# Virtua Fighter 4-Evolution - Virtua Fighter 10th Anniversary cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20616
+
+game: "Virtua Fighter 4-Evolution - Virtua Fighter 10th Anniversary"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20616"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    codes:
+      - "9010C4B8 0C0430D6"
+
+  - name: "P1 Joker"
+    author: "Lee4"
+    notes: "[Joker]"
+    codes:
+      - "D111BB82 0000????"
+
+  - name: "Infinite Time"
+    author: "Lee4"
+    notes: "[Misc Codes]"
+    codes:
+      - "107340E8 00000708"
+      - "20734108 44E10000"
+
+  - name: "P1 Infinite HP"
+    author: "Lee4"
+    notes: "[Misc Codes]"
+    codes:
+      - "0072F310 000000C9"
+
+  - name: "P2 No HP"
+    author: "Lee4"
+    notes: "[Misc Codes]"
+    codes:
+      - "D072FB40 000000C9"
+      - "0072FB40 00000001"

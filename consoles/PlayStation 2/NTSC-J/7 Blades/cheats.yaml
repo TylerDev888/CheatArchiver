@@ -1,0 +1,31 @@
+# 7 Blades cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65008
+
+game: "7 Blades"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65008"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enabler Code (Must Be On)"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "903DE360 0C0F7880"
+
+  - name: "Ammo Doesn't Decrease"
+    author: "punk7890"
+    codes:
+      - "102D1F94 00000000"
+
+  - name: "Hold Start + Select For Debug Menu When Starting The Game"
+    author: "punk7890"
+    codes:
+      - "D05326C2 0000FFF6"
+      - "203B2198 03E00008"
+      - "D05326C2 0000FFFF"
+      - "203B2198 080EC868"

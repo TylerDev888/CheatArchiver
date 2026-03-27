@@ -1,0 +1,70 @@
+# Like a Dragon_ Ishin! cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA32171
+
+game: "Like a Dragon_ Ishin!"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA32171"
+cheat_type: "AP"
+source: "encryption/checksum/codes by bucanero"
+
+cheats:
+  - name: "Decrypt Data.ps4.sav (required)"
+    notes: "File: data.ps4.sav"
+    codes:
+      - "set pointer:EOF-0x0F"
+      - "set range:0x00,pointer"
+      - "DECRYPT rgg_studio(\"fuEw5rWN8MBS\")"
+
+  - name: "9999999 Virtue"
+    notes: "File: data.ps4.sav"
+    codes:
+      - "20017738 0098967F"
+
+  - name: "9999999 Money"
+    notes: "File: data.ps4.sav"
+    codes:
+      - "20017708 0098967F"
+
+  - name: "99 Blue Swordman Orbs"
+    notes: "File: data.ps4.sav"
+    codes:
+      - "00007428 00000063"
+
+  - name: "99 Yellow Gunman Orbs"
+    notes: "File: data.ps4.sav"
+    codes:
+      - "00007429 00000063"
+
+  - name: "99 Green Wild Dancer Orbs"
+    notes: "File: data.ps4.sav"
+    codes:
+      - "0000742A 00000063"
+
+  - name: "99 Red Brawler Orbs"
+    notes: "File: data.ps4.sav"
+    codes:
+      - "0000742B 00000063"
+
+  - name: "99 Grey Training Orbs"
+    notes: "File: data.ps4.sav"
+    codes:
+      - "0000742C 00000063"
+
+  - name: "Update Crc32 (required)"
+    notes: "File: data.ps4.sav"
+    codes:
+      - "set pointer:EOF-0x0F"
+      - "set range:0x00,pointer"
+      - "set [crc]:crc32"
+      - "set [crc]:endian_swap"
+      - "write next 0x08:[crc]"
+
+  - name: "Encrypt Data.ps4.sav (required)"
+    notes: "File: data.ps4.sav"
+    codes:
+      - "set pointer:EOF-0x0F"
+      - "set range:0x00,pointer"
+      - "ENCRYPT rgg_studio(\"fuEw5rWN8MBS\")"

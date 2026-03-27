@@ -1,0 +1,53 @@
+# Simpson's Game, The cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21665
+
+game: "Simpson's Game, The"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21665"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Skiller"
+    notes: "[Masters]"
+    codes:
+      - "90368F28 0C0DA372"
+
+  - name: "Infinite HP (Main)"
+    author: "Skiller"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "202B9EC0 E4400028"
+      - "202B9EC4 C4400028"
+      - "202B9EC8 46010036"
+
+  - name: "Infinite HP (Partner)"
+    author: "Skiller"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "200A0000 3C04447A"
+      - "200A0004 080AE7A3"
+      - "200A0008 AC440028"
+      - "202B9E88 08028000"
+      - "202B9E8C C42163D4"
+      - "202B9E90 C4400028"
+      - "202B9E94 46000036"
+
+  - name: "No Enemys (Hold L2)"
+    author: "Skiller"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "D05A1722 0000FEFF"
+      - "202E327C AC800028"
+      - "D05A1722 0010FEFF"
+      - "202E327C 00000000"
+
+  - name: "Max Power Bar 1 Pick Up"
+    author: "Skiller"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "2029E2A0 E60100E4"

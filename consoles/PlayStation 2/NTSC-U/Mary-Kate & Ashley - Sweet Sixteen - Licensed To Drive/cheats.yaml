@@ -1,0 +1,49 @@
+# Mary-Kate & Ashley - Sweet Sixteen - Licensed To Drive cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20603
+
+game: "Mary-Kate & Ashley - Sweet Sixteen - Licensed To Drive"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20603"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00117BAF"
+
+  - name: "Max Coins"
+    author: "Code Master"
+    notes: "[Ashley Olson Codes]"
+    codes:
+      - "207F0B38 000003E7"
+
+  - name: "Max Gold Keys"
+    author: "Code Master"
+    notes: "[Ashley Olson Codes]"
+    codes:
+      - "207F0B3C 00000003"
+
+  - name: "No Coins"
+    author: "Code Master"
+    notes: "[Ashley Olson Codes]"
+    codes:
+      - "207F0B38 00000000"
+
+  - name: "No Gold Keys"
+    author: "Code Master"
+    notes: "[Ashley Olson Codes]"
+    codes:
+      - "207F0B3C 00000000"
+
+  - name: "Start On Lap Modifier (01-0A)"
+    author: "Code Master"
+    notes: "[Ashley Olson Codes]"
+    codes:
+      - "D07F0B30 00000000"
+      - "207F0B30 000000??"

@@ -1,0 +1,495 @@
+# NFL Street cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20841
+
+game: "NFL Street"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20841"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F037B9DC 0037B9DF"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0037BB2F"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "9037BB40 0C0CB6A8"
+
+  - name: "Always 1St Down"
+    author: "Code Master"
+    codes:
+      - "204D0AE0 00000001"
+
+  - name: "Always 4Th Down"
+    author: "Code Master"
+    codes:
+      - "204D0AE0 00000004"
+
+  - name: "Always Start On 2Nd Down"
+    author: "Code Master"
+    codes:
+      - "D04D0AE0 00000001"
+      - "204D0AE0 00000002"
+
+  - name: "Always Start On 3Rd Down"
+    author: "Code Master"
+    codes:
+      - "D04D0AE0 00000001"
+      - "204D0AE0 00000003"
+
+  - name: "Away Team Always Have Gamebreaker"
+    author: "Code Master"
+    codes:
+      - "204F9C9C 00002710"
+
+  - name: "Away Team Infinite Gamebreakers"
+    author: "MadCatz"
+    codes:
+      - "204F9C98 00002710"
+
+  - name: "Away Team Infinite Style Points"
+    author: "Code Master"
+    codes:
+      - "104F9C94 0000FFFF"
+
+  - name: "Away Team Infinite Turbo"
+    author: "MadCatz"
+    codes:
+      - "204F7778 3B9ACA00"
+
+  - name: "Away Team Max Score"
+    author: "MadCatz"
+    codes:
+      - "2012E824 0C030800"
+      - "200C2000 24020001"
+      - "200C2004 10820001"
+      - "200C2008 240500C8"
+      - "200C200C 08057904"
+
+  - name: "Away Team Max Style Points"
+    author: "MadCatz"
+    codes:
+      - "204F9C90 05F5E0FF"
+
+  - name: "Away Team Never Has Gamebreaker"
+    author: "Code Master"
+    codes:
+      - "204F9C9C 00000000"
+
+  - name: "Away Team Never Scores"
+    author: "Code Master"
+    codes:
+      - "2021B808 00000000"
+
+  - name: "Away Team No Gamebreakers"
+    author: "MadCatz"
+    codes:
+      - "204F9C98 00000000"
+
+  - name: "Away Team No Turbo"
+    author: "Code Master"
+    codes:
+      - "204F7778 00000000"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "104D0AEE 0000????"
+
+  - name: "Away Team Start With Score Modifier"
+    author: "Code Master"
+    codes:
+      - "D04D0AEE 00000000"
+      - "104D0AEE 0000????"
+
+  - name: "First Down (Hold Select And Press L2)"
+    author: "MadCatz"
+    codes:
+      - "D04A1FC2 0000FEFE"
+      - "204D0AE0 00000001"
+
+  - name: "Fourth Down (Hold Select And Press R2)"
+    author: "MadCatz"
+    codes:
+      - "D04A1FC2 0000FDFE"
+      - "204D0AE0 00000004"
+
+  - name: "Home Team Infinite Style Points"
+    author: "Code Master"
+    codes:
+      - "104F9C90 0000FFFF"
+
+  - name: "Home Team Infinite Turbo"
+    author: "MadCatz"
+    codes:
+      - "204F77A8 3B9ACA00"
+
+  - name: "Home Team Max Score"
+    author: "MadCatz"
+    codes:
+      - "2012E824 0C030800"
+      - "200C2000 24020000"
+      - "200C2004 10820001"
+      - "200C2008 240500C8"
+      - "200C200C 08057904"
+
+  - name: "Home Team Never Scores"
+    author: "Code Master"
+    codes:
+      - "2021B800 00000000"
+
+  - name: "Home Team No Turbo"
+    author: "Code Master"
+    codes:
+      - "204F77A8 00000000"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "104D0AEC 0000????"
+
+  - name: "Home Team Start With Score Modifier"
+    author: "Code Master"
+    codes:
+      - "D04D0AEC 00000000"
+      - "104D0AEC 0000????"
+
+  - name: "Infinite Dev Points"
+    author: "Code Master"
+    codes:
+      - "10406E0C 0000FFFF"
+
+  - name: "Infinite Development Points"
+    author: "MadCatz"
+    codes:
+      - "20406E0C 009896F7"
+
+  - name: "Infinite Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "204D0A44 00000019"
+
+  - name: "P1 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D04A1FC2 0000FBFE"
+      - "204D0A44 00000001"
+
+  - name: "P1 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D04A1FC2 0000F7FE"
+      - "204D0A44 00000019"
+
+  - name: "P2 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D04A20C2 0000FBFE"
+      - "204D0A44 00000001"
+
+  - name: "P2 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "D04A20C2 0000FEFE"
+      - "204D0AE0 00000001"
+
+  - name: "P2 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D04A20C2 0000F7FE"
+      - "204D0A44 00000019"
+
+  - name: "P2 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "D04A20C2 0000FDFE"
+      - "204D0AE0 00000004"
+
+  - name: "P3 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D04A21C2 0000FBFE"
+      - "204D0A44 00000001"
+
+  - name: "P3 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "D04A21C2 0000FEFE"
+      - "204D0AE0 00000001"
+
+  - name: "P3 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D04A21C2 0000F7FE"
+      - "204D0A44 00000019"
+
+  - name: "P3 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "D04A21C2 0000FDFE"
+      - "204D0AE0 00000004"
+
+  - name: "P4 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D04A22C2 0000FBFE"
+      - "204D0A44 00000001"
+
+  - name: "P4 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "D04A22C2 0000FEFE"
+      - "204D0AE0 00000001"
+
+  - name: "P4 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D04A22C2 0000F7FE"
+      - "204D0A44 00000019"
+
+  - name: "P4 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "D04A22C2 0000FDFE"
+      - "204D0AE0 00000004"
+
+  - name: "P5 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D04A23C2 0000FBFE"
+      - "204D0A44 00000001"
+
+  - name: "P5 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "D04A23C2 0000FEFE"
+      - "204D0AE0 00000001"
+
+  - name: "P5 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D04A23C2 0000F7FE"
+      - "204D0A44 00000019"
+
+  - name: "P5 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "D04A23C2 0000FDFE"
+      - "204D0AE0 00000004"
+
+  - name: "P6 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D04A24C2 0000FBFE"
+      - "204D0A44 00000001"
+
+  - name: "P6 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "D04A24C2 0000FEFE"
+      - "204D0AE0 00000001"
+
+  - name: "P6 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D04A24C2 0000F7FE"
+      - "204D0A44 00000019"
+
+  - name: "P6 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "D04A24C2 0000FDFE"
+      - "204D0AE0 00000004"
+
+  - name: "P7 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D04A25C2 0000FBFE"
+      - "204D0A44 00000001"
+
+  - name: "P7 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "D04A25C2 0000FEFE"
+      - "204D0AE0 00000001"
+
+  - name: "P7 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D04A25C2 0000F7FE"
+      - "204D0A44 00000019"
+
+  - name: "P7 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "D04A25C2 0000FDFE"
+      - "204D0AE0 00000004"
+
+  - name: "P8 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D04A26C2 0000FBFE"
+      - "204D0A44 00000001"
+
+  - name: "P8 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "D04A26C2 0000FEFE"
+      - "204D0AE0 00000001"
+
+  - name: "P8 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D04A26C2 0000F7FE"
+      - "204D0A44 00000019"
+
+  - name: "P8 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "D04A26C2 0000FDFE"
+      - "204D0AE0 00000004"
+
+  - name: "0 Points"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "104D0AEE 00000000"
+
+  - name: "99 Points"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "104D0AEE 00000063"
+
+  - name: "Always Gamebreaker"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "104F9C9C 00002710"
+
+  - name: "Infinite Turbo"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "104F77AA 00003B9A"
+
+  - name: "Max Style Points"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "204F9C94 0098967F"
+
+  - name: "Never Gamebreaker"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "104F9C9C 00000000"
+
+  - name: "No Style Points"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "204F9C94 00000000"
+
+  - name: "No Turbo"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "104F77AA 00000000"
+
+  - name: "Start With 10 Points"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "D04D0AEE 00000000"
+      - "104D0AEE 0000000A"
+
+  - name: "Start With 20 Points"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "D04D0AEE 00000000"
+      - "104D0AEE 00000014"
+
+  - name: "Start With 30 Points"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "D04D0AEE 00000000"
+      - "104D0AEE 0000001E"
+
+  - name: "Start On 2Nd Down"
+    author: "Codejunkies"
+    codes:
+      - "D04D0AE0 00000001"
+      - "104D0AE0 00000002"
+
+  - name: "Start On 3Rd Down"
+    author: "Codejunkies"
+    codes:
+      - "D04D0AE0 00000001"
+      - "104D0AE0 00000003"
+
+  - name: "Home Team No Style Points"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204F9C90 00000000"
+
+  - name: "Home Team Max Style Points"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204F9C90 05F5E0FF"
+
+  - name: "Away Team No Style Points"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204F9C94 00000000"
+
+  - name: "Home Team Always Have Gamebreaker"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204F9C98 00002710"
+
+  - name: "Home Team Never Has Gamebreaker"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204F9C98 00000000"
+
+  - name: "P1 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D04A1FC2 0000FEFE"
+      - "204D0AE0 00000001"
+
+  - name: "P1 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D04A1FC2 0000FDFE"
+      - "204D0AE0 00000004"
+
+  - name: "Max Dev Points"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20406E0C 05F5E0FF"

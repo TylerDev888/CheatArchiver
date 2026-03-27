@@ -1,0 +1,54 @@
+# Crash Bandicoot - Nitro Kart
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-20649  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Have All Collectibles
+**Author:** Almar
+
+```
+207937E0 DEFFBDFF
+207937E4 F7BFEF7F
+207937E8 FDEFFBDF
+207937EC FF7BFEF7
+207937F0 7FDEFFBD
+207937F4 DFF7BFEF
+207937F8 F7FDEFFB
+207937FC BDFF7BFE
+20793800 EF7FDEFF
+20793804 FBDFF7BF
+20793808 FEF7FDEF
+2079380C FFBDFF7B
+20793810 000F7FDE
+```
+
+---
+
+### Lap Timer Always Low
+**Author:** Almar
+
+```
+20186E94 24010000
+20186E98 AC41000C
+```
+
+---
+
+### Max Fruit
+**Author:** Almar
+
+```
+200C0220 8E220010
+200C0224 24010063
+200C0228 03E00008
+200C022C AC4100B0
+20138804 0C030088
+```
+
+---

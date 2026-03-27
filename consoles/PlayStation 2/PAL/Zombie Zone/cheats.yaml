@@ -1,0 +1,128 @@
+# Zombie Zone cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53398
+
+game: "Zombie Zone"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53398"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "F01EAF74 001EAF77"
+
+  - name: "3X Length Of Sword"
+    author: "lee4"
+    codes:
+      - "2021DEE0 40400000"
+
+  - name: "Always Goddess Statue Mode"
+    author: "Harry62"
+    codes:
+      - "20228770 00000078"
+      - "20228774 00000008"
+
+  - name: "Always Jewel Necklace Mode"
+    author: "Harry62"
+    codes:
+      - "20228760 00000708"
+
+  - name: "Always Power Mode"
+    author: "Harry62"
+    codes:
+      - "2022875C 00000708"
+
+  - name: "Always Rapid Mode"
+    author: "Harry62"
+    codes:
+      - "20228758 00000708"
+
+  - name: "Enemies Can Not Hit You"
+    author: "Harry62"
+    codes:
+      - "2012E028 03E00008"
+      - "2012E02C 00000000"
+
+  - name: "Freeze Zombies"
+    author: "Harry62"
+    codes:
+      - "20103FCC 50620021"
+      - "D036F842 0010FFFF"
+      - "20103FCC 00000000"
+
+  - name: "Inf & Max HP"
+    author: "lee4"
+    codes:
+      - "2021DECC 00002710"
+      - "2021DED0 00002710"
+
+  - name: "Infinite Cure Gem"
+    author: "Harry62"
+    codes:
+      - "20228808 0000000A"
+
+  - name: "Infinite Goddess Statue"
+    author: "Harry62"
+    codes:
+      - "20228818 0000000A"
+
+  - name: "Infinite Jewel Necklace"
+    author: "Harry62"
+    codes:
+      - "20228814 0000000A"
+
+  - name: "Infinite Power Gem"
+    author: "Harry62"
+    codes:
+      - "20228810 0000000A"
+
+  - name: "Infinite Rapid Gem"
+    author: "Harry62"
+    codes:
+      - "2022880C 0000000A"
+
+  - name: "Max Attack Power"
+    author: "lee4"
+    codes:
+      - "2021DED4 0001869F"
+
+  - name: "No Sword Deterioration"
+    author: "lee4"
+    codes:
+      - "20228794 00000000"
+
+  - name: "Speed Movement"
+    author: "lee4"
+    codes:
+      - "2021DEDC ????0000"
+
+  - name: "Super Jump"
+    author: "Harry62"
+    codes:
+      - "200A2000 3C080022"
+      - "200A2004 C500DE74"
+      - "200A2008 3C0A4100"
+      - "200A200C 448A0800"
+      - "200A2010 46010001"
+      - "200A2014 03E00008"
+      - "200A2018 E500DE74"
+      - "D036F842 0000BFFF"
+      - "20104F20 08028800"
+      - "D036F842 0000FFFF"
+      - "20104F20 03E00008"
+
+  - name: "Walk Through Barrier Objects"
+    author: "Harry62"
+    codes:
+      - "2010CA00 10000005"
+
+  - name: "Walk Through Zombies"
+    author: "Harry62"
+    codes:
+      - "2010C2A8 00000000"

@@ -1,0 +1,104 @@
+# Resident Evil - Outbreak cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51589
+
+game: "Resident Evil - Outbreak"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51589"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F017E3A8 0017E3AB"
+
+  - name: "Collection Complete"
+    author: "Codejunkies"
+    codes:
+      - "2032D33C FFFFFFFF"
+      - "2032D340 FFFFFFFF"
+      - "2032D344 FFFFFFFF"
+      - "2032D348 FFFFFFFF"
+      - "2032D34C FFFFFFFF"
+      - "2032D350 FFFFFFFF"
+
+  - name: "Collection Opened"
+    author: "Codejunkies"
+    codes:
+      - "2032D31C FFFFFFFF"
+      - "2032D320 FFFFFFFF"
+      - "2032D324 FFFFFFFF"
+      - "2032D328 FFFFFFFF"
+      - "2032D32C FFFFFFFF"
+      - "2032D330 FFFFFFFF"
+
+  - name: "Fast Moves"
+    author: "Codejunkies"
+    codes:
+      - "20464CF0 3FC00000"
+
+  - name: "Giant Hero"
+    author: "Codejunkies"
+    codes:
+      - "20464CB4 3FC00000"
+      - "20464CB8 3FC00000"
+      - "20464CBC 3FC00000"
+
+  - name: "Infinite & Max Health"
+    author: "Codejunkies"
+    codes:
+      - "E0020024 0056DFB8"
+      - "D056DFBA 00008602"
+      - "20465144 270F270F"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "E0020024 0056DFB8"
+      - "D056DFBA 00008602"
+      - "2056DFBC 00000000"
+
+  - name: "Low Virus Percentage"
+    author: "Codejunkies"
+    codes:
+      - "204657C4 00000000"
+
+  - name: "Fast Hero/Anims"
+    author: "Codejunkies"
+    notes: "[Main Character Animations]"
+    codes:
+      - "204657D8 3FC00000"
+      - "204657DC 3FC00000"
+
+  - name: "Ultra Fast Hero/Anims"
+    author: "Codejunkies"
+    notes: "[Main Character Animations]"
+    codes:
+      - "204657D8 40800000"
+      - "204657DC 40800000"
+
+  - name: "Very Fast Hero/Anims"
+    author: "Codejunkies"
+    notes: "[Main Character Animations]"
+    codes:
+      - "204657D8 40000000"
+      - "204657DC 40000000"
+
+  - name: "Max Collection Points"
+    author: "Codejunkies"
+    codes:
+      - "2032AFC0 05F00000"
+
+  - name: "Unlock, Characters From File 1, 2 & 3"
+    author: "Jay007"
+    codes:
+      - "2032AFC4 FFFFFFFF"
+      - "2032AFC8 FFFFFFFF"
+      - "2032AFCC FFFFFFFF"
+      - "2032AFD0 FFFFFFFF"
+      - "2032AFD4 FFFFFFFF"

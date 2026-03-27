@@ -1,0 +1,17 @@
+# Titan Attacks cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUB31425
+
+game: "Titan Attacks"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUB31425"
+cheat_type: "Save Editor"
+source: "From shaka"
+
+cheats:
+  - name: "Max Cash"
+    notes: "File: DATA_0.BIN"
+    codes:
+      - "write at 0x10:0x270F270F"

@@ -1,0 +1,29 @@
+# LOST PLANET 2 [PlayStation3 the Best] cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM55023
+
+game: "LOST PLANET 2 [PlayStation3 the Best]"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM55023"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "All Abilities"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "20003A34 FFFFFFFF"
+      - "20003A38 FFFFFFFF"
+
+  - name: "99999999 Credits"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "20003BEC 05F5E0FF"
+
+  - name: "All Characters To Level 99"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "420006FC 05F5E0FF"
+      - "40050004 00000000"

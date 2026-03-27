@@ -1,0 +1,250 @@
+# MLB 2006-The Show cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97500
+
+game: "MLB 2006-The Show"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97500"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901215A8 00832021"
+
+  - name: "Away Team Scores 50"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20927A60 00000032"
+
+  - name: "Away Team Scores 20"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20927A60 00000014"
+
+  - name: "Away Team Scores 0"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20927A60 00000000"
+
+  - name: "Away Team Starts With 50"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0927A60 00000000"
+      - "20927A60 00000032"
+
+  - name: "Away Team Starts With 20"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0927A60 00000000"
+      - "20927A60 00000014"
+
+  - name: "Away Team Starts With 10"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0927A60 00000000"
+      - "20927A60 0000000A"
+
+  - name: "Away Team Starts With 5"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0927A60 00000000"
+      - "20927A60 00000005"
+
+  - name: "Home Team Scores 50"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20927A64 00000032"
+
+  - name: "Home Team Scores 20"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20927A64 00000014"
+
+  - name: "Home Team Scores 0"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20927A64 00000000"
+
+  - name: "Home Team Starts With 50"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0927A64 00000000"
+      - "20927A64 00000032"
+
+  - name: "Home Team Starts With 20"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0927A64 00000000"
+      - "20927A64 00000014"
+
+  - name: "Home Team Starts With 10"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0927A64 00000000"
+      - "20927A64 0000000A"
+
+  - name: "Home Team Starts With 5"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0927A64 00000000"
+      - "20927A64 00000005"
+
+  - name: "All Runs Score For Home Team"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D062135C 0000282D"
+      - "20621370 24840004"
+
+  - name: "All Runs Score For Away Team"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D062135C 0000282D"
+      - "20621370 24840000"
+
+  - name: "Runs Score 10"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D062135C 0000282D"
+      - "10621380 0000000A"
+
+  - name: "Runs Score 5"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D062135C 0000282D"
+      - "10621380 00000005"
+
+  - name: "Runs Score 2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D062135C 0000282D"
+      - "10621380 00000002"
+
+  - name: "Infinite Outs"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "E0010092 00927CEE"
+      - "20927A54 00000000"
+
+  - name: "1 Out And You Are Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "E0020092 00927CEE"
+      - "D0927A54 00000000"
+      - "20927A54 00000002"
+
+  - name: "2 Outs And You Are Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "E0020092 00927CEE"
+      - "D0927A54 00000000"
+      - "20927A54 00000001"
+
+  - name: "Infinite Balls"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "E0010092 00927CEE"
+      - "20927A58 00000000"
+
+  - name: "1 Ball And You Walk"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "E0020092 00927CEE"
+      - "D0927A58 00000000"
+      - "20927A58 00000003"
+
+  - name: "2 Balls And You Walk"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "E0020092 00927CEE"
+      - "D0927A58 00000000"
+      - "20927A58 00000002"
+
+  - name: "3 Balls And You Walk"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "E0020092 00927CEE"
+      - "D0927A58 00000000"
+      - "20927A58 00000001"
+
+  - name: "Infinite Strikes"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "E0010092 00927CEE"
+      - "20927A5C 00000000"
+
+  - name: "1 Strike And You Are Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "E0020092 00927CEE"
+      - "D0927A5C 00000000"
+      - "20927A5C 00000002"
+
+  - name: "2 Strikes And You Are Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "E0020092 00927CEE"
+      - "D0927A5C 00000000"
+      - "20927A5C 00000001"
+
+  - name: "Always Full Count"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "E0020092 00927CEE"
+      - "20927A58 00000003"
+      - "20927A5C 00000002"
+
+  - name: "Always Full Count & 2 Outs"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "E0030092 00927CEE"
+      - "20927A54 00000002"
+      - "20927A58 00000003"
+      - "20927A5C 00000002"
+
+  - name: "Max Available Funds (Fanchise Mode)"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E005482D 00729064"
+      - "200C0220 3C0405F5"
+      - "200C0224 3484E0FF"
+      - "200C0228 081CA495"
+      - "200C022C AD040000"
+      - "20729078 08030088"

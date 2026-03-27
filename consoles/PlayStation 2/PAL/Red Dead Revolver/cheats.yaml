@@ -1,0 +1,152 @@
+# Red Dead Revolver cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52478
+
+game: "Red Dead Revolver"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52478"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "90800020 08040002"
+      - "903CB0EC 0C0983D6"
+
+  - name: "Friendly Fire Off"
+    author: "Codejunkies"
+    codes:
+      - "2022BDD8 24020000"
+
+  - name: "Friendly Fire On"
+    author: "Codejunkies"
+    codes:
+      - "2022BDD8 24020001"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "20364B38 03E00008"
+      - "20364B3C 00000000"
+
+  - name: "Invincible"
+    author: "Codejunkies"
+    codes:
+      - "2035D8E8 00000000"
+      - "2035DF30 00000000"
+
+  - name: "Open Characters In Multi-Missions"
+    author: "Codejunkies"
+    codes:
+      - "2013FC3C 24020001"
+
+  - name: "Open Journal"
+    author: "Codejunkies"
+    codes:
+      - "2011CCF8 24020001"
+
+  - name: "Open Multi-Missions"
+    author: "Codejunkies"
+    codes:
+      - "20132794 24020001"
+
+  - name: "Start With Max Cash"
+    author: "Codejunkies"
+    codes:
+      - "2035D84C 00000000"
+
+  - name: "Turn Off Grass"
+    author: "Codejunkies"
+    codes:
+      - "2022C50C 24020001"
+
+  - name: "Turn Off Rain"
+    author: "Codejunkies"
+    codes:
+      - "2022C3F0 24020001"
+
+  - name: "Unlock Journal/Multiplayer"
+    author: "Codejunkies"
+    codes:
+      - "201003F4 24020001"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90143B74 0C0F2BF2"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C2000 46006346"
+      - "200C2004 080596B8"
+      - "200C2008 E44C0010"
+      - "20361184 0C030800"
+
+  - name: "Ammunition (No Reload)"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2039DF6C 24003436"
+
+  - name: "Deadeye"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C2030 03E00008"
+      - "200C2034 E4400000"
+      - "201856D4 0803080C"
+
+  - name: "Maximum Ammunition"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "2016DCD0 240403E7"
+      - "2016DCD4 AEA40014"
+
+  - name: "Maximum Cash"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "200C2020 3C030099"
+      - "200C2024 2463967F"
+      - "200C2028 080D84ED"
+      - "200C202C AC43587C"
+      - "203613A0 08030808"
+
+  - name: "Maximum Deadeye"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "200C2040 3C0140C0"
+      - "200C2044 03E00008"
+      - "200C2048 AC410004"
+      - "201856C4 08030810"
+
+  - name: "Journal"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "D011CCF8 00006FE2"
+      - "2011CCF8 24020001"
+
+  - name: "Multiplayer Levels"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "D0132794 00006FE2"
+      - "20132794 24020001"
+
+  - name: "Multiplayer Characters"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "D013FC3C 00006FE2"
+      - "2013FC3C 24020001"

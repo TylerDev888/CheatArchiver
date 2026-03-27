@@ -1,0 +1,63 @@
+# Black Cat cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66289
+
+game: "Black Cat"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66289"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90111E50 0C04473C"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90123310 0C060110"
+
+  - name: "Enable Code (Alternate) by BigBossman , CRYPT_CRAW"
+    notes: "[Master Codes]"
+    codes:
+      - "901295C8 0C0405B4"
+
+  - name: "Boot Into Debug Menu"
+    author: "punk7890"
+    codes:
+      - "0018537C 00000000"
+
+  - name: "Enable Debug Display"
+    author: "punk7890"
+    codes:
+      - "202AE71C 00000001"
+
+  - name: "Enable Version Display"
+    author: "punk7890"
+    codes:
+      - "004B18BC 00000001"
+
+  - name: "Unlock All CG (Bonus Menu)"
+    author: "punk7890"
+    codes:
+      - "004B81D4 000000FF"
+      - "004B81E9 000000FF"
+      - "104B81EA 0000FFFF"
+      - "104B81EC 0000FFFF"
+      - "004B81EE 000000FF"
+
+  - name: "Unlock All Scenarios (Bonus Menu)"
+    author: "punk7890"
+    codes:
+      - "004B81D5 000000FF"
+      - "104B81D6 0000FFFF"
+      - "204B81D8 FFFFFFFF"
+      - "204B81DC FFFFFFFF"
+      - "204B81E0 FFFFFFFF"
+      - "004B81E4 000000FF"

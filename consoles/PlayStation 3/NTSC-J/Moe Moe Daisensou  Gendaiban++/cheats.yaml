@@ -1,0 +1,36 @@
+# Moe Moe Daisensou  Gendaiban++ cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM10163
+
+game: "Moe Moe Daisensou  Gendaiban++"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM10163"
+cheat_type: "Save Editor"
+source: "From KE-HA"
+
+cheats:
+  - name: "Cg Appreciation All Unlock"
+    notes: "File: SYSDATA.DAT"
+    codes:
+      - "4000081F 00000001"
+      - "40F50004 00000000"
+
+  - name: "Otome Zukan All Unlock"
+    notes: "File: SYSDATA.DAT"
+    codes:
+      - "4000101F 00000001"
+      - "40280004 00000000"
+
+  - name: "Mini Game All Unlock"
+    notes: "File: SYSDATA.DAT"
+    codes:
+      - "400010BF 00000001"
+      - "40120004 00000000"
+
+  - name: "Compar All Unlock"
+    notes: "File: SYSDATA.DAT"
+    codes:
+      - "4000156F 00000001"
+      - "401C0004 00000000"

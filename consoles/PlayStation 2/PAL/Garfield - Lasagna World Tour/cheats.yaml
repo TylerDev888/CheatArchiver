@@ -1,0 +1,82 @@
+# Garfield - Lasagna World Tour cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54817
+
+game: "Garfield - Lasagna World Tour"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54817"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "90113910 0C044DEC"
+
+  - name: "Control The Distance Between Enemy And Garfield During Pursuits"
+    author: "luc-ita"
+    codes:
+      - "20183108 3C1B44BB"
+      - "20183114 449B0800"
+
+  - name: "Every Teddy Gives 99 Lives"
+    author: "luc-ita"
+    codes:
+      - "2017A044 10000003"
+      - "2017A024 00000000"
+
+  - name: "Every Teddy Gives A Life"
+    author: "luc-ita"
+    codes:
+      - "2017A024 00000000"
+
+  - name: "Garfield Invulnerable"
+    author: "luc-ita"
+    codes:
+      - "201595EC 00000000"
+      - "201595F4 00000000"
+
+  - name: "Inf HP"
+    author: "lee4"
+    codes:
+      - "6026B960 42C80000"
+      - "00020001 00000294"
+
+  - name: "Inf Lives"
+    author: "lee4"
+    codes:
+      - "6026B960 0000FFFF"
+      - "00010001 00000298"
+
+  - name: "Inf Teddy Bear"
+    author: "lee4"
+    codes:
+      - "6026B960 0000FFFF"
+      - "00010001 0000029C"
+
+  - name: "Jump In Mid-Air"
+    author: "luc-ita"
+    codes:
+      - "E008BFFF 002EB382"
+      - "60673170 00000000"
+      - "00020001 00000270"
+      - "60673170 00000001"
+      - "00020001 00000274"
+      - "60673170 00000002"
+      - "00020001 00000448"
+      - "60673170 00000001"
+      - "00020001 0000047C"
+
+  - name: "No Damage Falling From Very High"
+    author: "luc-ita"
+    codes:
+      - "20178718 10000036"
+
+  - name: "When Dogs Are Hit, They Don't Get Up Again, They Remain Dazed"
+    author: "luc-ita"
+    codes:
+      - "2015A9BC 00000000"

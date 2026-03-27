@@ -1,0 +1,41 @@
+# Dragon Marked For Death cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA23494
+
+game: "Dragon Marked For Death"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA23494"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Edit Item In Item Slot"
+    author: "クキ-kuki-nuro#0292"
+    notes: "File: sce_sdmemory\\memory.dat"
+    codes:
+      - "[SaveSlot]"
+      - "92000000 00001CC8"
+      - "92000000 0000[ItemSlot]"
+      - "28000000 [Item]"
+      - "28000004 [Amount:000003E7:HEX:BIG]"
+
+  - name: "Add Item To New Slot Read Note"
+    author: "クキ-kuki-nuro#0292"
+    notes: "File: sce_sdmemory\\memory.dat"
+    codes:
+      - "[SaveSlot]"
+      - "92000000 00001CC8"
+      - "8801000C E7030000"
+      - "00000000 00000000"
+      - "28000004 [Item]"
+      - "28000008 [Amount:000003E7:HEX:BIG]"
+
+  - name: "Character EXP"
+    author: "クキ-kuki-nuro#0292"
+    notes: "File: sce_sdmemory\\memory.dat"
+    codes:
+      - "[SaveSlot]"
+      - "[Character]"
+      - "28000008 [Amount:000F423F:HEX:BIG]"

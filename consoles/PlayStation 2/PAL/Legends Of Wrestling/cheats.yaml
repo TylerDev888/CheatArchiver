@@ -1,0 +1,71 @@
+# Legends Of Wrestling cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50107
+
+game: "Legends Of Wrestling"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50107"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0315B48 000001FD"
+
+  - name: "Infinite Health P1"
+    author: "InterAct"
+    codes:
+      - "20740D64 00000898"
+      - "20740D94 00000064"
+      - "20740D98 00000000"
+      - "20740D9C 00000064"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Player 2 Health Codes]"
+    codes:
+      - "20740D68 00000898"
+      - "20740DC4 00000064"
+      - "20740DC8 00000000"
+      - "20740DCC 00000064"
+
+  - name: "No Health"
+    author: "Codejunkies"
+    notes: "[Player 2 Health Codes]"
+    codes:
+      - "20740D68 00000000"
+
+  - name: "Max Abilities Points"
+    author: "Codejunkies"
+    notes: "[Player 4 Health Codes]"
+    codes:
+      - "10978EE0 00000063"
+
+  - name: "Max Skill Points"
+    author: "Codejunkies"
+    notes: "[Player 4 Health Codes]"
+    codes:
+      - "10978EDE 00000063"
+
+  - name: "Unlock Wrestlers"
+    author: "Codejunkies"
+    notes: "[Player 4 Health Codes]"
+    codes:
+      - "204766A8 0001FFFF"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0200008 0022023F"
+
+  - name: "Unlimited Health"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20740D64 42C80000"

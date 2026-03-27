@@ -1,0 +1,65 @@
+# Mission Impossible-Operation Surma cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20400
+
+game: "Mission Impossible-Operation Surma"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20400"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0047D38F"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9047D38C 0C12378D"
+
+  - name: "Disable FMV"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2049FAA0 24020001"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 E4620040"
+      - "200C0224 C4600040"
+      - "200C0228 03E00008"
+      - "200C022C 46020003"
+      - "2020EE2C 0C030088"
+
+  - name: "Infinite Ammo"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201E3508 00000000"
+
+  - name: "Extra Ammo"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C0698 00893821"
+
+  - name: "Never Reload"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201E3430 00000000"
+
+  - name: "Disable Alarm Sounding"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202B8AF8 03E00008"
+      - "202B8AFC 00000000"

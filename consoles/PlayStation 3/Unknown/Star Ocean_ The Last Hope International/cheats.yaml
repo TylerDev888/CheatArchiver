@@ -1,0 +1,736 @@
+# Star Ocean_ The Last Hope International cheat data
+# Console: PlayStation 3
+# Region:  Unknown
+# Serial:  MRTC00001
+
+game: "Star Ocean_ The Last Hope International"
+console: "PlayStation 3"
+region: "Unknown"
+serial: "MRTC00001"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Unlock All Difficulties"
+    notes: "File: SYS-DATA"
+    codes:
+      - "00000028 00000060"
+
+  - name: "Collections 100% (battle Trophies, Spaceships, Weapons) Except Monsters"
+    notes: "File: SYS-DATA"
+    codes:
+      - "4200002C FFFFFFFF"
+      - "402B0004 00000000"
+
+  - name: "100% Monster Collection"
+    notes: "File: SYS-DATA"
+    codes:
+      - "420000D8 270F1000"
+      - "409A0004 00000000"
+
+  - name: "100% Battle Trophies - Edge"
+    notes: "File: USR-DATA"
+    codes:
+      - "2006A274 FFFFFFFF"
+      - "2006A278 FFFFFFFF"
+      - "2006A27C FFFFFFFF"
+      - "0006A280 000000FF"
+
+  - name: "Coin In Colosseum"
+    notes: "File: USR-DATA"
+    codes:
+      - "20000119 000F423F"
+
+  - name: "Change Difficulty To Earth"
+    notes: "[Difficulty Changing]  File: USR-DATA"
+    codes:
+      - "0000010F 00000000"
+
+  - name: "Change Difficulty To Galaxy"
+    notes: "[Difficulty Changing]  File: USR-DATA"
+    codes:
+      - "0000010F 00000001"
+
+  - name: "Change Difficulty To Universe"
+    notes: "[Difficulty Changing]  File: USR-DATA"
+    codes:
+      - "0000010F 00000002"
+
+  - name: "Change Difficulty To Chaos"
+    notes: "[Difficulty Changing]  File: USR-DATA"
+    codes:
+      - "0000010F 00000003"
+
+  - name: "Reset Game Save Time"
+    notes: "[Basic Codes]  File: USR-DATA"
+    codes:
+      - "20000020 40000000"
+      - "10000024 00000000"
+
+  - name: "Max Arena Money"
+    notes: "[Basic Codes]  File: USR-DATA"
+    codes:
+      - "20000110 0001869F"
+
+  - name: "Max Money"
+    notes: "[Basic Codes]  File: USR-DATA"
+    codes:
+      - "20000114 3B9AC9FF"
+
+  - name: "Max Party Sp"
+    notes: "[Basic Codes]  File: USR-DATA"
+    codes:
+      - "20000120 0001869F"
+
+  - name: "Slot 1 Edge"
+    notes: "[Have Characters On Party (slot 1)]  File: USR-DATA"
+    codes:
+      - "0000002F 00000001"
+      - "00000127 00000001"
+
+  - name: "Slot 3 Lymle"
+    notes: "[Have Characters On Party (slot 1)]  File: USR-DATA"
+    codes:
+      - "00000037 00000004"
+      - "0000012F 00000004"
+
+  - name: "Slot 4 Bacchus"
+    notes: "[Have Characters On Party (slot 1)]  File: USR-DATA"
+    codes:
+      - "0000003B 00000005"
+      - "00000133 00000005"
+
+  - name: "Slot 5 Meracle"
+    notes: "[Have Characters On Party (slot 1)]  File: USR-DATA"
+    codes:
+      - "0000003F 00000006"
+      - "00000137 00000006"
+
+  - name: "Slot 6 Sarah"
+    notes: "[Have Characters On Party (slot 1)]  File: USR-DATA"
+    codes:
+      - "00000043 00000007"
+      - "0000013B 00000007"
+
+  - name: "Slot 7 Myuria"
+    notes: "[Have Characters On Party (slot 1)]  File: USR-DATA"
+    codes:
+      - "00000047 00000008"
+      - "0000013F 00000008"
+
+  - name: "Slot 8 Arumat"
+    notes: "[Have Characters On Party (slot 1)]  File: USR-DATA"
+    codes:
+      - "0000004B 00000009"
+      - "00000143 00000009"
+
+  - name: "Reimi"
+    notes: "[Have Characters On Party (slot 2) (choose One)]  File: USR-DATA"
+    codes:
+      - "00000033 00000002"
+      - "0000012B 00000002"
+
+  - name: "Faize"
+    notes: "[Have Characters On Party (slot 2) (choose One)]  File: USR-DATA"
+    codes:
+      - "00000033 00000003"
+      - "0000012B 00000003"
+
+  - name: "Max Lvl"
+    notes: "[Character Stats\\edge\\basic]  File: USR-DATA"
+    codes:
+      - "000012D1 000000FF"
+
+  - name: "Max Exp"
+    notes: "[Character Stats\\edge\\basic]  File: USR-DATA"
+    codes:
+      - "200012D4 3B9AC9FF"
+
+  - name: "Max Individual Sp"
+    notes: "[Character Stats\\edge\\basic]  File: USR-DATA"
+    codes:
+      - "100012D8 0000270F"
+
+  - name: "Max Cp"
+    notes: "[Character Stats\\edge\\basic]  File: USR-DATA"
+    codes:
+      - "100012DA 0000270F"
+
+  - name: "Max Hp"
+    notes: "[Character Stats\\edge\\basic]  File: USR-DATA"
+    codes:
+      - "200012DC 0001869F"
+      - "200012E4 0001869F"
+      - "20001688 0001869F"
+
+  - name: "Max Mp"
+    notes: "[Character Stats\\edge\\basic]  File: USR-DATA"
+    codes:
+      - "200012E0 0001869F"
+      - "200012E8 0001869F"
+      - "2000168C 0001869F"
+
+  - name: "Atk"
+    notes: "[Character Stats\\edge\\basic]  File: USR-DATA"
+    codes:
+      - "100012EC 0000270F"
+      - "10001690 0000270F"
+
+  - name: "Def"
+    notes: "[Character Stats\\edge\\basic]  File: USR-DATA"
+    codes:
+      - "100012EE 0000270F"
+      - "10001692 0000270F"
+
+  - name: "Hit"
+    notes: "[Character Stats\\edge\\basic]  File: USR-DATA"
+    codes:
+      - "100012F0 0000270F"
+      - "10001694 0000270F"
+
+  - name: "Grd"
+    notes: "[Character Stats\\edge\\basic]  File: USR-DATA"
+    codes:
+      - "100012F2 0000270F"
+      - "10001696 0000270F"
+
+  - name: "Int"
+    notes: "[Character Stats\\edge\\basic]  File: USR-DATA"
+    codes:
+      - "100012F4 0000270F"
+      - "10001698 0000270F"
+
+  - name: "Beats: S"
+    notes: "[Character Stats\\edge\\basic]  File: USR-DATA"
+    codes:
+      - "100016AE 0000270F"
+
+  - name: "Beats: B"
+    notes: "[Character Stats\\edge\\basic]  File: USR-DATA"
+    codes:
+      - "100016B0 0000270F"
+
+  - name: "Field Skill - Smithery"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "0000156D 0000000A"
+
+  - name: "Field Skill - Cooking"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "0000156F 0000000A"
+
+  - name: "Field Skill - Alchemy"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "00001571 0000000A"
+
+  - name: "Field Skill - Artistry"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "00001573 0000000A"
+
+  - name: "Field Skill - Engineering"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "00001575 0000000A"
+
+  - name: "Field Skill - Crafting"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "00001577 0000000A"
+
+  - name: "Field Skill - Compounding"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "00001579 0000000A"
+
+  - name: "Field Skill - Synthesis"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "0000157B 00000001"
+
+  - name: "Field Skill - Anthropology"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "0000157D 0000000A"
+
+  - name: "Field Skill - Botany"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "0000157F 0000000A"
+
+  - name: "Field Skill - Entomology"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "00001581 0000000A"
+
+  - name: "Field Skill - Parapsychology"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "00001583 0000000A"
+
+  - name: "Field Skill - Robotics"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "00001585 0000000A"
+
+  - name: "Field Skill - Ornithology"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "00001587 0000000A"
+
+  - name: "Field Skill - Demonology"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "00001589 0000000A"
+
+  - name: "Field Skill - Zoology"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "0000158B 0000000A"
+
+  - name: "Field Skill - Treasure Sense"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "0000158D 00000001"
+
+  - name: "Field Skill - Appetite"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "0000158F 0000000A"
+
+  - name: "Field Skill - Haggling"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "00001591 0000000A"
+
+  - name: "Field Skill - Trap Evasion"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "00001593 0000000A"
+
+  - name: "Field Skill - Chain Combos"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "00001595 0000000A"
+
+  - name: "Field Skill - Harvesting"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "00001597 0000000A"
+
+  - name: "Field Skill - Mining"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "00001599 0000000A"
+
+  - name: "Field Skill - Sprinting"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "0000159B 00000001"
+
+  - name: "Field Skill - Duplication"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "0000159D 0000000A"
+
+  - name: "Field Skill - Augury"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "0000159F 0000000A"
+
+  - name: "Field Skill - Stealth"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "000015A1 0000000A"
+
+  - name: "Field Skill - Pickpocketing"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "000015A3 0000000A"
+
+  - name: "Field Skill - Ocarina"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "000015A5 00000001"
+
+  - name: "Field Skill - Bunny Call"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "000015A7 00000001"
+
+  - name: "Field Skill - Charge"
+    notes: "[Character Stats\\edge\\field Skill]  File: USR-DATA"
+    codes:
+      - "000015A9 00000001"
+
+  - name: "Battle Skill - Atk Boost"
+    notes: "[Character Stats\\edge\\battle Skill]  File: USR-DATA"
+    codes:
+      - "000015AB 0000000A"
+
+  - name: "Battle Skill - Int Boost"
+    notes: "[Character Stats\\edge\\battle Skill]  File: USR-DATA"
+    codes:
+      - "000015AD 0000000A"
+
+  - name: "Battle Skill - Hp Boost"
+    notes: "[Character Stats\\edge\\battle Skill]  File: USR-DATA"
+    codes:
+      - "000015AF 0000000A"
+
+  - name: "Battle Skill - Mp Boost"
+    notes: "[Character Stats\\edge\\battle Skill]  File: USR-DATA"
+    codes:
+      - "000015B1 0000000A"
+
+  - name: "Battle Skill - Fast Cast"
+    notes: "[Character Stats\\edge\\battle Skill]  File: USR-DATA"
+    codes:
+      - "000015B3 0000000A"
+
+  - name: "Battle Skill - Energy Sheild"
+    notes: "[Character Stats\\edge\\battle Skill]  File: USR-DATA"
+    codes:
+      - "000015B5 0000000A"
+
+  - name: "Battle Skill - Critical Hit"
+    notes: "[Character Stats\\edge\\battle Skill]  File: USR-DATA"
+    codes:
+      - "000015B7 0000000A"
+
+  - name: "Battle Skill - No Guard"
+    notes: "[Character Stats\\edge\\battle Skill]  File: USR-DATA"
+    codes:
+      - "000015B9 0000000A"
+
+  - name: "Battle Skill - First Aid"
+    notes: "[Character Stats\\edge\\battle Skill]  File: USR-DATA"
+    codes:
+      - "000015BB 0000000A"
+
+  - name: "Battle Skill - Auto Healing"
+    notes: "[Character Stats\\edge\\battle Skill]  File: USR-DATA"
+    codes:
+      - "000015BD 0000000A"
+
+  - name: "Battle Skill - Stun"
+    notes: "[Character Stats\\edge\\battle Skill]  File: USR-DATA"
+    codes:
+      - "000015BF 0000000A"
+
+  - name: "Battle Skill - Pride"
+    notes: "[Character Stats\\edge\\battle Skill]  File: USR-DATA"
+    codes:
+      - "000015C1 0000000A"
+
+  - name: "Battle Skill - Fury Boost"
+    notes: "[Character Stats\\edge\\battle Skill]  File: USR-DATA"
+    codes:
+      - "000015C3 0000000A"
+
+  - name: "Battle Skill - Elusion"
+    notes: "[Character Stats\\edge\\battle Skill]  File: USR-DATA"
+    codes:
+      - "000015C5 0000000A"
+
+  - name: "Battle Skill - Rage"
+    notes: "[Character Stats\\edge\\battle Skill]  File: USR-DATA"
+    codes:
+      - "000015C7 0000000A"
+
+  - name: "Battle Skill - Steal"
+    notes: "[Character Stats\\edge\\battle Skill]  File: USR-DATA"
+    codes:
+      - "000015C9 0000000A"
+
+  - name: "Battle Skill - Taunt"
+    notes: "[Character Stats\\edge\\battle Skill]  File: USR-DATA"
+    codes:
+      - "000015CB 00000001"
+
+  - name: "Battle Skill - Berserk"
+    notes: "[Character Stats\\edge\\battle Skill]  File: USR-DATA"
+    codes:
+      - "000015CD 0000000A"
+
+  - name: "Battle Skill - Focus"
+    notes: "[Character Stats\\edge\\battle Skill]  File: USR-DATA"
+    codes:
+      - "000015CF 0000000A"
+
+  - name: "Battle Skill - Scan Enemy"
+    notes: "[Character Stats\\edge\\battle Skill]  File: USR-DATA"
+    codes:
+      - "000015D1 00000001"
+
+  - name: "Battle Skill - Convert"
+    notes: "[Character Stats\\edge\\battle Skill]  File: USR-DATA"
+    codes:
+      - "000015D3 0000000A"
+
+  - name: "Battle Skill - Emergency Repairs"
+    notes: "[Character Stats\\edge\\battle Skill]  File: USR-DATA"
+    codes:
+      - "000015D5 0000000A"
+
+  - name: "Battle Skill - Hide"
+    notes: "[Character Stats\\edge\\battle Skill]  File: USR-DATA"
+    codes:
+      - "000015D7 00000001"
+
+  - name: "Battle Skill - Mindflare"
+    notes: "[Character Stats\\edge\\battle Skill]  File: USR-DATA"
+    codes:
+      - "000015D9 0000000A"
+
+  - name: "Symbols - Earth Glaive"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "000015DB 0000000A"
+
+  - name: "Symbols - Stone Rain"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "000015DD 0000000A"
+
+  - name: "Symbols - Terra Hammer"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "000015DF 0000000A"
+
+  - name: "Symbols - Ice Needles"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "000015E1 0000000A"
+
+  - name: "Symbols - Deep Freeze"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "000015E3 0000000A"
+
+  - name: "Symbols - Arctic Impact"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "000015E5 0000000A"
+
+  - name: "Symbols - Fire Bolt"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "000015E7 0000000A"
+
+  - name: "Symbols - Explosion"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "000015E9 0000000A"
+
+  - name: "Symbols - Volcanic Burst"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "000015EB 0000000A"
+
+  - name: "Symbols - Wind Blade"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "000015ED 0000000A"
+
+  - name: "Symbols - Tornado"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "000015EF 0000000A"
+
+  - name: "Symbols - Blast Hurricane"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "000015F1 0000000A"
+
+  - name: "Symbols - Lightning Blast"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "000015F5 0000000A"
+
+  - name: "Symbols - Thunder Flare"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "000015F7 0000000A"
+
+  - name: "Symbols - Plasma Cyclone"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "000015F9 0000000A"
+
+  - name: "Symbols - Radiant Lancer"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "000015FB 0000000A"
+
+  - name: "Symbols - Aurora Rings"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "000015FF 0000000A"
+
+  - name: "Symbols - Sunflare"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "00001601 0000000A"
+
+  - name: "Symbols - Shadow Needles"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "00001603 0000000A"
+
+  - name: "Symbols - Dark Devourer"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "00001605 0000000A"
+
+  - name: "Symbols - Vampiric Blade"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "00001607 0000000A"
+
+  - name: "Symbols - Divine Wave"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "00001609 0000000A"
+
+  - name: "Symbols - Extinction"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "0000160B 0000000A"
+
+  - name: "Symbols - Reaping Spark"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "0000160D 0000000A"
+
+  - name: "Symbols - Healing"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "0000160F 0000000A"
+
+  - name: "Symbols - Ex Healing"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "00001611 0000000A"
+
+  - name: "Symbols - Faerie Healing"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "00001613 0000000A"
+
+  - name: "Symbols - Fearie Light"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "00001615 0000000A"
+
+  - name: "Symbols - Fearie Star"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "00001617 0000000A"
+
+  - name: "Symbols - Antidote"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "00001619 00000001"
+
+  - name: "Symbols - Cure Condition"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "0000161B 00000001"
+
+  - name: "Symbols - Restoration"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "0000161D 0000000A"
+
+  - name: "Symbols - Resurrection"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "0000161F 00000001"
+
+  - name: "Symbols - Enhance"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "00001621 0000000A"
+
+  - name: "Symbols - Enlighten"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "00001623 0000000A"
+
+  - name: "Symbols - Angel Feather"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "00001625 0000000A"
+
+  - name: "Symbols - Enshelter"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "00001627 0000000A"
+
+  - name: "Symbols - Reflection"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "00001629 0000000A"
+
+  - name: "Symbols - Sacred Pain"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "0000162B 0000000A"
+
+  - name: "Symbols - Silence"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "0000162D 0000000A"
+
+  - name: "Symbols - Void"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "0000162F 0000000A"
+
+  - name: "Symbols - Symbolic Weapon"
+    notes: "[Character Stats\\edge\\symbols]  File: USR-DATA"
+    codes:
+      - "00001631 0000000A"
+
+  - name: "Special Arts - Rising Blade"
+    notes: "[Character Stats\\edge\\special Arts]  File: USR-DATA"
+    codes:
+      - "00001635 0000000A"
+
+  - name: "Special Arts - Stampede Slash"
+    notes: "[Character Stats\\edge\\special Arts]  File: USR-DATA"
+    codes:
+      - "00001637 0000000A"
+
+  - name: "Special Arts - Aura Spark"
+    notes: "[Character Stats\\edge\\special Arts]  File: USR-DATA"
+    codes:
+      - "00001639 0000000A"
+
+  - name: "Special Arts - Mystic Cross"
+    notes: "[Character Stats\\edge\\special Arts]  File: USR-DATA"
+    codes:
+      - "0000163B 0000000A"
+
+  - name: "Special Arts - Cyclone Blade"
+    notes: "[Character Stats\\edge\\special Arts]  File: USR-DATA"
+    codes:
+      - "0000163D 0000000A"
+
+  - name: "Special Arts - Celestial Sword"
+    notes: "[Character Stats\\edge\\special Arts]  File: USR-DATA"
+    codes:
+      - "0000163F 0000000A"
+
+  - name: "Special Arts - Raging Strike"
+    notes: "[Character Stats\\edge\\special Arts]  File: USR-DATA"
+    codes:
+      - "00001641 0000000A"
+
+  - name: "Special Arts - Scintillant Stream"
+    notes: "[Character Stats\\edge\\special Arts]  File: USR-DATA"
+    codes:
+      - "00001643 0000000A"

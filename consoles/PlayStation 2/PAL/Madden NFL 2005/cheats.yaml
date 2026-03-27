@@ -1,0 +1,127 @@
+# Madden NFL 2005 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52581
+
+game: "Madden NFL 2005"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52581"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F05989D4 005989D7"
+
+  - name: "Always 1St Down"
+    author: "Codejunkies"
+    notes: "[Constant Down Codes]"
+    codes:
+      - "107051D0 00000001"
+
+  - name: "Always 4Th Down"
+    author: "Codejunkies"
+    notes: "[Constant Down Codes]"
+    codes:
+      - "107051D0 00000004"
+
+  - name: "Always Start On 2Nd Down"
+    author: "Codejunkies"
+    notes: "[Constant Down Codes]"
+    codes:
+      - "D07051D0 00000001"
+      - "107051D0 00000002"
+
+  - name: "Always Start On 3Rd Down"
+    author: "Codejunkies"
+    notes: "[Constant Down Codes]"
+    codes:
+      - "D07051D0 00000001"
+      - "107051D0 00000003"
+
+  - name: "Press L2+Select For 1St Down"
+    author: "Codejunkies"
+    notes: "[Controller 1 Down Codes]"
+    codes:
+      - "D06D8382 0000FEFE"
+      - "107051D0 00000001"
+
+  - name: "Press R2+Select For 4Th Down"
+    author: "Codejunkies"
+    notes: "[Controller 1 Down Codes]"
+    codes:
+      - "D06D8382 0000FDFE"
+      - "107051D0 00000004"
+
+  - name: "Controller 1: Press L1 For More Time To Pick Plays"
+    author: "Codejunkies"
+    notes: "[Controller 2 Down Codes]"
+    codes:
+      - "D06D8382 0000FBFF"
+      - "20704E0C 00000063"
+
+  - name: "Have All Cards"
+    author: "Codejunkies"
+    notes: "[Controller 2 Down Codes]"
+    codes:
+      - "21E30434 00000119"
+      - "41E304A0 00FF0001"
+      - "00FFE01F 00000010"
+      - "41E3089C 001A0001"
+      - "00FFF00F 00000010"
+
+  - name: "Infinite Tokens"
+    author: "Codejunkies"
+    notes: "[Controller 2 Down Codes]"
+    codes:
+      - "21E30348 05F5E0FF"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90540980 001218C0"
+
+  - name: "Unlimited Timeouts"
+    author: "Xploder"
+    notes: "[Home Team]"
+    codes:
+      - "207052DC 00000003"
+
+  - name: "1St Down"
+    author: "Xploder"
+    notes: "[Down Codes]"
+    codes:
+      - "D06D8382 0000FBFE"
+      - "207051D0 00000001"
+
+  - name: "2Nd Down"
+    author: "Xploder"
+    notes: "[Down Codes]"
+    codes:
+      - "D06D8382 0000FEFE"
+      - "207051D0 00000002"
+
+  - name: "3Rd Down"
+    author: "Xploder"
+    notes: "[Down Codes]"
+    codes:
+      - "D06D8382 0000F7FE"
+      - "207051D0 00000003"
+
+  - name: "4Th Down"
+    author: "Xploder"
+    notes: "[Down Codes]"
+    codes:
+      - "D06D8382 0000FDFE"
+      - "207051D0 00000004"
+
+  - name: "Tokens"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "21E30348 05F5E0FF"

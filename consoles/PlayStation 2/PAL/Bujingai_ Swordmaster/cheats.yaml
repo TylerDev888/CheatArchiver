@@ -1,0 +1,124 @@
+# Bujingai_ Swordmaster cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Bujingai_ Swordmaster"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "901201C4 0C044CC4"
+      - "200C2000 2401000A"
+      - "200C2008 3C01007D"
+      - "200C2014 24010BB8"
+      - "200C202C 03E00008"
+      - "200C2030 C4A16E04"
+      - "20143D44 0C030800"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20143D50 E4A16E00"
+
+  - name: "Spell Gauge"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20253CD4 AC836E08"
+
+  - name: "Swordplay Gauge"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20253C4C AC836E10"
+
+  - name: "Orbs"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "205F9568 000F423F"
+
+  - name: "Ryuugatou Level"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "200C2018 A4A16E46"
+
+  - name: "Tenreiken Level"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "200C201C A4A16E48"
+
+  - name: "Health Level"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "200C2020 A4A16E4A"
+
+  - name: "Spell Level"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "200C2024 A4A16E4C"
+
+  - name: "Defense Level"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "200C2028 A4A16E4E"
+
+  - name: "All Spells"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "20131528 00440821"
+      - "2013152C 24020001"
+      - "20131530 03E00008"
+      - "20131534 A0220000"
+
+  - name: "Stage Select"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "005F89DA 000000FF"
+
+  - name: "High Scores"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "005F89DB 000000FF"
+
+  - name: "Edit Opening Scene"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "005F89DC 000000FF"
+
+  - name: "Movie Viewer"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "005F89DD 000000FF"
+
+  - name: "Character Viewer"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "205F89D0 FFFFFFFF"
+      - "105F89D4 0000FFFF"
+      - "005F89D6 000000FF"
+
+  - name: "Lau Costume Setting"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "005F89D9 000000FF"

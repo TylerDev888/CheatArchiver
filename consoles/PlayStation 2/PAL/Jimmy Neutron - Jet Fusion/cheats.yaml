@@ -1,0 +1,34 @@
+# Jimmy Neutron - Jet Fusion cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51932
+
+game: "Jimmy Neutron - Jet Fusion"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51932"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Super Jump"
+    author: "luc-ita"
+    codes:
+      - "2029FC78 3C02450C"
+      - "2029F42C 3C02450C"
+
+  - name: "Take Objects Anywhere"
+    author: "luc-ita"
+    codes:
+      - "202BD388 00000000"
+
+  - name: "Untouchable"
+    author: "luc-ita"
+    codes:
+      - "202A2440 10000041"
+
+  - name: "Use Energy Even If It's Empty"
+    author: "luc-ita"
+    codes:
+      - "202BA52C 00000000"
+      - "202A2A84 00000000"

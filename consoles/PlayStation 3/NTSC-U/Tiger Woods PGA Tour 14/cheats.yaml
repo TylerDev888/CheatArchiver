@@ -1,0 +1,28 @@
+# Tiger Woods PGA Tour 14 cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS31063
+
+game: "Tiger Woods PGA Tour 14"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS31063"
+cheat_type: "Save Editor"
+source: "From KE-HA"
+
+cheats:
+  - name: "Power/accuracy/workability/spin/recovery/putting 999999872=100"
+    notes: "File: USR-DATA"
+    codes:
+      - "42010064 4B18967F"
+      - "40060004 00000000"
+
+  - name: "Experience 9999999 / Level 100"
+    notes: "File: USR-DATA"
+    codes:
+      - "200100A0 0098967F"
+
+  - name: "Attribute Points 500"
+    notes: "File: USR-DATA"
+    codes:
+      - "200100A4 000001F4"

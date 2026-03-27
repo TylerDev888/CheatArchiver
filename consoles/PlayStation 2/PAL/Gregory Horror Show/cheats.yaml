@@ -1,0 +1,433 @@
+# Gregory Horror Show cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51933
+
+game: "Gregory Horror Show"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51933"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0114F18 00114F1B"
+
+  - name: "Chinese Remedy"
+    author: "Codejunkies"
+    notes: "[Have Item In Slot 3 (Press L3+R3 To Activate)]"
+    codes:
+      - "D059DC6E 0000FFF9"
+      - "204506BC 00010028"
+
+  - name: "Have Red Herbs"
+    author: "Codejunkies"
+    notes: "[Have Item In Slot 3 (Press L3+R3 To Activate)]"
+    codes:
+      - "D059DC6E 0000FFF9"
+      - "204506BC 00010021"
+
+  - name: "Have Yellow Herbs"
+    author: "Codejunkies"
+    notes: "[Have Item In Slot 3 (Press L3+R3 To Activate)]"
+    codes:
+      - "D059DC6E 0000FFF9"
+      - "204506BC 00010020"
+
+  - name: "Have Chinese Remedy"
+    author: "Codejunkies"
+    notes: "[Have Item In Slot 8 (Press Select+L1 To Activate)]"
+    codes:
+      - "E002FBFE 0059DC6E"
+      - "104506DA 00000028"
+      - "104506DC 00000001"
+
+  - name: "Have Red Herb"
+    author: "Codejunkies"
+    notes: "[Have Item In Slot 8 (Press Select+L1 To Activate)]"
+    codes:
+      - "E002FBFE 0059DC6E"
+      - "104506DA 00000021"
+      - "104506DC 00000001"
+
+  - name: "Have Yellow Herb"
+    author: "Codejunkies"
+    notes: "[Have Item In Slot 8 (Press Select+L1 To Activate)]"
+    codes:
+      - "E002FBFE 0059DC6E"
+      - "104506DA 00000020"
+      - "104506DC 00000001"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "204505D0 45458000"
+
+  - name: "Infinite Health (Alternate)"
+    author: "Codejunkies"
+    codes:
+      - "2014AE04 3C034548"
+      - "2014AE14 AC2305D0"
+
+  - name: "Infinite Item Use (L1+L2 To Activate; R1+R2 To Stop)"
+    author: "Codejunkies"
+    codes:
+      - "E002FAFF 0059DC6E"
+      - "201AFF18 00000000"
+      - "201AFF24 00000000"
+      - "E002F5FF 0059DC6E"
+      - "201AFF18 A4640000"
+      - "201AFF24 A0400000"
+
+  - name: "Max Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "204505D4 7F000000"
+      - "204505D0 7F000000"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "901912D0 0C0453B4"
+
+  - name: "Unlimited Health"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "504505D0 00000004"
+      - "004505D4 04041969"
+
+  - name: "Never Tired"
+    author: "Xploder"
+    notes: "[Condition]"
+    codes:
+      - "004505EB 00000000"
+
+  - name: "Never Have A Headache"
+    author: "Xploder"
+    notes: "[Condition]"
+    codes:
+      - "004505E8 00000000"
+
+  - name: "Never Nervous"
+    author: "Xploder"
+    notes: "[Condition]"
+    codes:
+      - "004505EA 00000000"
+
+  - name: "Never Confusion"
+    author: "Xploder"
+    notes: "[Condition]"
+    codes:
+      - "004505EC 00000000"
+
+  - name: "Never Melancholy"
+    author: "Xploder"
+    notes: "[Condition]"
+    codes:
+      - "004505E9 00000000"
+
+  - name: "The Gunman #1"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "00450842 00000001"
+
+  - name: "The Gunman #2"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "00450848 00000001"
+
+  - name: "The Gunman #3"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "0045084E 00000001"
+
+  - name: "The Gunman #4"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "00450854 00000001"
+
+  - name: "The Gunman #5"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "0045085A 00000001"
+
+  - name: "Judgement Day #1"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "00450860 00000001"
+
+  - name: "Judgement Day #2"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "00450866 00000001"
+
+  - name: "Judgement Day #3"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "0045086C 00000001"
+
+  - name: "Judgement Day #4"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "00450872 00000001"
+
+  - name: "Judgement Day #5"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "00450878 00000001"
+
+  - name: "Spin The Wheel #1"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "0045087E 00000001"
+
+  - name: "Spin The Wheel #2"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "00450884 00000001"
+
+  - name: "Spin The Wheel #3"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "0045088A 00000001"
+
+  - name: "Spin The Wheel #4"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "00450890 00000001"
+
+  - name: "Me And My Dolly #1"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "00450896 00000001"
+
+  - name: "Me And My Dolly #2"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "0045089C 00000001"
+
+  - name: "Me And My Dolly #3"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "004508A2 00000001"
+
+  - name: "Me And My Dolly #4"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "004508A8 00000001"
+
+  - name: "Warped Time #1"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "004508AE 00000001"
+
+  - name: "Warped Time #2"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "004508B4 00000001"
+
+  - name: "Warped Time #3"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "004508BA 00000001"
+
+  - name: "Brother's Lasso #1"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "004508C0 00000001"
+
+  - name: "Brother's Lasso #2"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "004508C6 00000001"
+
+  - name: "Brother's Lasso #3"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "004508CC 00000001"
+
+  - name: "I Hate Smoke #1"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "004508D2 00000001"
+
+  - name: "I Hate Smoke #2"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "004508D8 00000001"
+
+  - name: "Sick But Happy #1"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "004508DE 00000001"
+
+  - name: "Sick But Happy #2"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "004508E4 00000001"
+
+  - name: "Syringe Monthly #1"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "004508EA 00000001"
+
+  - name: "Syringe Monthly #2"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "004508F0 00000001"
+
+  - name: "Syringe Monthly #3"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "004508F6 00000001"
+
+  - name: "Fish Life #1"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "004508FC 00000001"
+
+  - name: "Fish Life #2"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "00450902 00000001"
+
+  - name: "Fish Life #3"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "00450908 00000001"
+
+  - name: "Tough Choice #1"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "0045090E 00000001"
+
+  - name: "Tough Choice #2"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "00450914 00000001"
+
+  - name: "Blood Horoscope #1"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "0045091A 00000001"
+
+  - name: "Blood Horoscope #2"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "00450920 00000001"
+
+  - name: "Prison Of Hope #1"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "00450926 00000001"
+
+  - name: "Prison Of Hope #2"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "0045092C 00000001"
+
+  - name: "Gregory Exposed #1"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "00450932 00000001"
+
+  - name: "Gregory Exposed #2"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "00450938 00000001"
+
+  - name: "Gregory Exposed #3"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "0045093E 00000001"
+
+  - name: "Back In Time #1"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "00450944 00000001"
+
+  - name: "Back In Time #2"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "0045094A 00000001"
+
+  - name: "Back In Time #3"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "00450950 00000001"
+
+  - name: "Angel Photos #1"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "00450956 00000001"
+
+  - name: "Angel Photos #2"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "0045095C 00000001"
+
+  - name: "Guide To Poison #1"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "00450962 00000001"
+
+  - name: "Guide To Poison #2"
+    author: "Xploder"
+    notes: "[Have Books]"
+    codes:
+      - "00450968 00000001"

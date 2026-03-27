@@ -1,0 +1,46 @@
+# Athens 2004 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-52410
+
+game: "Athens 2004"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-52410"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02B6230 002B6233"
+
+  - name: "Easy Swimming, Just Breathe"
+    author: "Codejunkies"
+    codes:
+      - "2011A644 00000000"
+
+  - name: "Easy Weightlifting"
+    author: "Codejunkies"
+    codes:
+      - "2018AE60 3C043FA0"
+      - "2018AE68 AE040004"
+
+  - name: "P1 Has Lots Of Championship Points"
+    author: "Codejunkies"
+    codes:
+      - "203659C8 05F5E0FF"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "902B6230 0C0B15EB"
+
+  - name: "Never Tire"
+    author: "Xploder"
+    notes: "[800 & 1500m]"
+    codes:
+      - "20115538 00000000"

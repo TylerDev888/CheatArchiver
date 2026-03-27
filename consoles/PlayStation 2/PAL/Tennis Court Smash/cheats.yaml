@@ -1,0 +1,55 @@
+# Tennis Court Smash cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51860
+
+game: "Tennis Court Smash"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51860"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0158A54 00158A57"
+
+  - name: "1P Always Wins Set"
+    author: "Codejunkies"
+    codes:
+      - "20187C68 00000005"
+
+  - name: "COM Always Score 0"
+    author: "Codejunkies"
+    codes:
+      - "20187C6C 00000000"
+
+  - name: "CPU Always Scores 0"
+    author: "Codejunkies"
+    codes:
+      - "1121AFB0 00000000"
+
+  - name: "Max Points"
+    author: "Codejunkies"
+    codes:
+      - "11222864 0000FFFF"
+
+  - name: "P1 Always Scores 40 (Press R1+L1+L2+R2 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D045E682 0000F0FF"
+      - "1121AF1C 00000003"
+
+  - name: "Unlock Everything - Trophy Room"
+    author: "Codejunkies"
+    codes:
+      - "21222898 FFFFFFFF"
+      - "1122289C 0000FFFF"
+
+  - name: "Unlock Hitomi Yoshino/Red Ace"
+    author: "Codejunkies"
+    codes:
+      - "11E77A50 0000000F"

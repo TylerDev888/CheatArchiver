@@ -1,0 +1,351 @@
+# Urbz-Sims In The City, The cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21066
+
+game: "Urbz-Sims In The City, The"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21066"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9042C85C 0C0F9638"
+
+  - name: "Max Money"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 3C03000F"
+      - "200C0224 3463423F"
+      - "200C0228 0809F6D6"
+      - "200C022C 00C0202D"
+      - "2027DB50 08030088"
+      - "2027DB58 AC830074"
+
+  - name: "Money Never Decreases"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2027D15C 00000000"
+
+  - name: "Use Money Once For Max Money"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2027D158 00000000"
+
+  - name: "Always Max Urb's Needs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0230 3C0142C8"
+      - "200C0234 AC410000"
+      - "200C0238 54E00001"
+      - "200C023C 27FF0014"
+      - "200C0240 03E00008"
+      - "200C0244 C4440000"
+      - "20262B18 0C03008C"
+
+  - name: "Urb's Bladder Meter Needs Never Decrease"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201F5B00 00000000"
+      - "201F5C40 00000000"
+
+  - name: "Urb's Hygiene Meter Never Decreases"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201F5C3C 00000000"
+
+  - name: "Urb's Hunger Meter Never Decreases"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201F5B78 00000000"
+
+  - name: "Urb's Fun Meter Never Decreases"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201F5C38 00000000"
+
+  - name: "Urb's Energy Meter Never Decreases"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201F5AC8 00000000"
+
+  - name: "Max Reputation"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20200358 00000000"
+
+  - name: "P1 Hold L3 To Complete Reputation Goal"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D18D4A42 0000FFFD"
+      - "20200358 00000000"
+      - "D18D4A42 0000FFFF"
+      - "20200358 14600003"
+
+  - name: "Swim In The Nude"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20478118 001895EC"
+
+  - name: "Change Formal Wear To Become Nude"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20478120 001895EC"
+
+  - name: "Sleep In The Nude"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20478124 001895EC"
+
+  - name: "Workout In The Nude"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2047812C 001895EC"
+
+  - name: "Do Creative Skill In The Nude"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20478158 001895EC"
+
+  - name: "Do Mental Skill In The Nude"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2047815C 001895EC"
+
+  - name: "Do Physical Skill In The Nude"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20478158 001895EC"
+
+  - name: "Do Everything In The Nude"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201895D4 0806257B"
+
+  - name: "Enable Display Anim Names"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C5238 00000001"
+
+  - name: "Disable Display Anim Names"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C5238 00000000"
+
+  - name: "Enable Display Mem Usage"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C523C 00000001"
+
+  - name: "Disable Display Mem Usage"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C523C 00000000"
+
+  - name: "Enable New Player Ctrls"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C5244 00000001"
+
+  - name: "Disable New Player Ctrls"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C5244 00000000"
+
+  - name: "Enable 3D Wall Fade"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C5248 00000001"
+
+  - name: "Disable 3D Wall Fade"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C5248 00000000"
+
+  - name: "Enable Display Performance Metrics"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C524C 00000001"
+
+  - name: "Disable Display Performance Metrics"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C524C 00000000"
+
+  - name: "Enable Display Text Boundaries"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C5250 00000001"
+
+  - name: "Disable Display Text Boundaries"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C5250 00000000"
+
+  - name: "Enable Display Motive Values"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C5258 00000001"
+
+  - name: "Disable Display Motive Values"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C5258 00000000"
+
+  - name: "Enable Object Highlighting"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C5260 00000000"
+
+  - name: "Disable Object Highlighting"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C5260 00000001"
+
+  - name: "Enable Flash Bounding Boxes"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C5278 00000001"
+
+  - name: "Disable Flash Bounding Boxes"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C5278 00000000"
+
+  - name: "Enable Free Items"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C5288 00000001"
+
+  - name: "Disable Free Items"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C5288 00000000"
+
+  - name: "Enable Object Catalog (All Objects)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C528C 00000001"
+
+  - name: "Disable Object Catalog (All Objects)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C528C 00000000"
+
+  - name: "Enable Unlock All XAM Skins & Ringtones"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C5290 00000001"
+
+  - name: "Disable Unlock All XAM Skins & Ringtones"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C5290 00000000"
+
+  - name: "Enable All Objects Moveable"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C52A0 00000001"
+
+  - name: "Disable All Objects Moveable"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C52A0 00000000"
+
+  - name: "Enable Unlock All Shopping Items"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C52A8 00000001"
+
+  - name: "Disable Unlock All Shopping Items"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C52A8 00000000"
+
+  - name: "Enable Player Inventory Requirements"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C52B0 00000000"
+
+  - name: "Disable Player Inventory Requirements"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C52B0 00000001"
+
+  - name: "Enable God Mode"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C52BC 00000001"
+
+  - name: "Disable God Mode"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C52BC 00000000"
+
+  - name: "Enable All Player Cheats"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C52C0 00000001"
+
+  - name: "Disable All Player Cheats"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C52C0 00000000"

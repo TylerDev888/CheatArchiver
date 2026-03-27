@@ -1,0 +1,74 @@
+# Child Of Light cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB01934
+
+game: "Child Of Light"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB01934"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "All Items X255"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80010004 E0E5E754"
+      - "4800000F 000000FF"
+      - "40820020 00000000"
+
+  - name: "All Skill Points X255(serialised By Chaoszage)"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80010004 FDFAC8D8"
+      - "4800000F 000000FF"
+      - "40080634 00000000"
+
+  - name: "Aurora Skill Points X255"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80050004 FDFAC8D8"
+      - "0800000F 000000FF"
+
+  - name: "Fin Skill Points X255"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80030004 FDFAC8D8"
+      - "0800000F 000000FF"
+
+  - name: "Rubella Skill Points X255"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80070004 FDFAC8D8"
+      - "0800000F 000000FF"
+
+  - name: "Robert Skill Points X255"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80090004 FDFAC8D8"
+      - "0800000F 000000FF"
+
+  - name: "Torisutisu Skill Points X255"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80020004 FDFAC8D8"
+      - "0800000F 000000FF"
+
+  - name: "Nora Skill Points X255"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80040004 FDFAC8D8"
+      - "0800000F 000000FF"
+
+  - name: "Golem Skill Points X255"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80060004 FDFAC8D8"
+      - "0800000F 000000FF"
+
+  - name: "Oengasu Skill Points X255"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80080004 FDFAC8D8"
+      - "0800000F 000000FF"

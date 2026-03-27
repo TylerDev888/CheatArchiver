@@ -1,0 +1,20 @@
+# Virtua Fighter 5 Final Showdown (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00913
+
+game: "Virtua Fighter 5 Final Showdown (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00913"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For System.dat (required)"
+    notes: "File: SYSTEM.DAT  (set range:0x000010,0x00500B)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000010,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000008:[hash]"

@@ -1,0 +1,118 @@
+# Soul Nomad - SLUS_216.03.CMP cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21603
+
+game: "Soul Nomad - SLUS_216.03.CMP"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21603"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "901130D0 0C044BDC"
+
+  - name: "Max/Inf Money"
+    author: "Skiller"
+    notes: "[Misc Codes]"
+    codes:
+      - "20415B88 3B9ACA00"
+
+  - name: "Max Money (joker)"
+    author: "Skiller"
+    notes: "[Misc Codes]"
+    codes:
+      - "D03A6302 0000FFFE"
+      - "20415B88 3B9ACA00"
+
+  - name: "Inf Stamina"
+    author: "Skiller"
+    notes: "[Misc Codes]"
+    codes:
+      - "D03A6302 0000FFF7"
+      - "202379C8 00000000"
+      - "D03A6302 0000FFFE"
+      - "202379C8 A6830128"
+
+  - name: "Inf HP"
+    author: "Skiller"
+    notes: "[Misc Codes]"
+    codes:
+      - "D03A6302 0000FFFE"
+      - "201D528C 00000000"
+      - "D03A6302 0000FFF7"
+      - "201D528C ACA20000"
+
+  - name: "All Characters In Manikin Shop"
+    author: "Kingedgar0>Skiller"
+    notes: "[Misc Codes]"
+    codes:
+      - "E00BFDFB 003A6302"
+      - "202CE918 24060001"
+      - "40415BD0 00060002"
+      - "00010000 00010000"
+      - "40415C00 00040002"
+      - "00080000 00010000"
+      - "40415C20 001E0002"
+      - "00140000 00010000"
+      - "20415D10 00360000"
+      - "20415D18 00370000"
+      - "40415D20 001D0002"
+      - "03E80000 000A0000"
+      - "D03A6302 0000FDFD"
+      - "202CE918 2406000A"
+
+  - name: "Train Units Gain Rp"
+    author: "Skiller"
+    notes: "[Misc Codes]"
+    codes:
+      - "D03A6302 0000FFFE"
+      - "002D1248 0000000D"
+
+  - name: "After Battle Rp Max"
+    author: "Skiller"
+    notes: "[After Battle Codes]"
+    codes:
+      - "D03A6302 0000FFFE"
+      - "0019405C 00000001"
+
+  - name: "Debug Mode"
+    author: "KingEdgar0"
+    notes: "[Debuging Codes]"
+    codes:
+      - "20136D78 00000000"
+      - "20136FA8 00000000"
+      - "203A6718 00000003"
+
+  - name: "Levelling Up With Debug Reduces Level To 1"
+    notes: "[Debuging Codes]"
+    codes:
+      - "D03A6302 0000FFFD"
+      - "2029BB60 A6A00224"
+      - "D03A6302 0000FFFB"
+      - "2029BB60 86A20224"
+
+  - name: "Control Enemy Units(kind Of)"
+    author: "KingEdgar0"
+    notes: "[Debuging Codes]"
+    codes:
+      - "D03A6302 0000FBFE"
+      - "003AA350 0000000A"
+
+  - name: "Steal Whenever You Want"
+    author: "KingEdgar0"
+    notes: "[Debuging Codes]"
+    codes:
+      - "D03A6302 0000FBFD"
+      - "003AA350 00000048"
+
+  - name: "Kidnap Whenever You Want"
+    author: "KingEdgar0"
+    notes: "[Debuging Codes]"
+    codes:
+      - "D03A6302 0000FBFB"
+      - "003AA350 00000050"

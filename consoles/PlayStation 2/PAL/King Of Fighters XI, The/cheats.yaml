@@ -1,0 +1,143 @@
+# King Of Fighters XI, The cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54437
+
+game: "King Of Fighters XI, The"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54437"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "F011D904 0011D907"
+
+  - name: "P1 Character 1 Mod"
+    author: "lee4"
+    notes: "[Character Mod Codes]"
+    codes:
+      - "008EF960 000000??"
+
+  - name: "P1 Character 2 Mod"
+    author: "lee4"
+    notes: "[Character Mod Codes]"
+    codes:
+      - "008EF980 000000??"
+
+  - name: "P1 Character 3 Mod"
+    author: "lee4"
+    notes: "[Character Mod Codes]"
+    codes:
+      - "008EF9A0 000000??"
+
+  - name: "P2 Character 1 Mod"
+    author: "lee4"
+    notes: "[Character Mod Codes]"
+    codes:
+      - "008EFBA8 000000??"
+
+  - name: "P2 Character 2 Mod"
+    author: "lee4"
+    notes: "[Character Mod Codes]"
+    codes:
+      - "008EFBC8 000000??"
+
+  - name: "P2 Character 3 Mod"
+    author: "lee4"
+    notes: "[Character Mod Codes]"
+    codes:
+      - "008EFBE8 000000??"
+
+  - name: "Disable AI"
+    author: "lee4"
+    codes:
+      - "008EBEA9 00000080"
+
+  - name: "Freeze Timer"
+    author: "lee4"
+    codes:
+      - "008EBEA8 00000010"
+
+  - name: "Have Game 100% Complete"
+    author: "lee4"
+    codes:
+      - "408F0950 00140001"
+      - "FFFFFFFF 00000000"
+
+  - name: "P1 Infinite Health Character 1"
+    author: "lee4"
+    codes:
+      - "208EF964 00700070"
+
+  - name: "P1 Infinite Health Character 2"
+    author: "lee4"
+    codes:
+      - "208EF984 00700070"
+
+  - name: "P1 Infinite Health Character 3"
+    author: "lee4"
+    codes:
+      - "208EF9A4 00700070"
+
+  - name: "P1 Max Power Gauge"
+    author: "lee4"
+    codes:
+      - "108EF848 000003E7"
+
+  - name: "P1 Max Skill Gauge"
+    author: "lee4"
+    codes:
+      - "108EF84C 000003E7"
+
+  - name: "P2 Max Power Gauge"
+    author: "lee4"
+    codes:
+      - "108EFA90 000003E7"
+
+  - name: "P2 Max Skill Gauge"
+    author: "lee4"
+    codes:
+      - "108EFA94 000003E7"
+
+  - name: "P2 No Health Character 1"
+    author: "lee4"
+    codes:
+      - "D08EFBAC 00000070"
+      - "208EFBAC 00000000"
+
+  - name: "P2 No Health Character 2"
+    author: "lee4"
+    codes:
+      - "D08EFBCC 00000070"
+      - "208EFBCC 00000000"
+
+  - name: "P2 No Health Character 3"
+    author: "lee4"
+    codes:
+      - "D08EFBEC 00000070"
+      - "208EFBEC 00000000"
+
+  - name: "P2 No Power Gauge"
+    author: "lee4"
+    codes:
+      - "108EFA90 00000000"
+
+  - name: "P2 No Skill Gauge"
+    author: "lee4"
+    codes:
+      - "108EFA94 00000000"
+
+  - name: "Pal2ntsc"
+    author: "lee4"
+    codes:
+      - "20100260 24120002"
+
+  - name: "Unlock Extra Characters"
+    author: "lee4"
+    codes:
+      - "108F0940 0000FFFF"

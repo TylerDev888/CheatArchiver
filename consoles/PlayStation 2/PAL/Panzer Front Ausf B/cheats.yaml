@@ -1,0 +1,51 @@
+# Panzer Front Ausf B cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52984
+
+game: "Panzer Front Ausf B"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52984"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F011195C 0011195F"
+
+  - name: "Bypass Score Tracking Disability"
+    author: "Codejunkies"
+    codes:
+      - "2012C3B4 A02051B4"
+
+  - name: "Have All Tank Slots Available"
+    author: "Codejunkies"
+    codes:
+      - "2012E9C4 24020000"
+      - "2012E9D4 A0206847"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "2017D90C 00000000"
+
+  - name: "Mission Always Completed"
+    author: "Codejunkies"
+    codes:
+      - "2018A910 24050001"
+      - "2018A918 A025FCF4"
+
+  - name: "Tank Ai Don't Shoot"
+    author: "Codejunkies"
+    codes:
+      - "2015C4F0 00000000"
+      - "2015C5A4 00000000"
+      - "2015E2C0 00000000"
+      - "2015E260 00000000"
+      - "2015E208 00000000"
+      - "2015E3EC 00000000"
+      - "2015E484 00000000"

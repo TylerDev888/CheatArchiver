@@ -1,0 +1,39 @@
+# Happiness! Deluxe [First Print Limited Edition] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25719
+
+game: "Happiness! Deluxe [First Print Limited Edition]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25719"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "901877F8 0C061DA6"
+
+  - name: "Open Omake Menu"
+    author: "punk7890"
+    codes:
+      - "101F7632 00000004"
+
+  - name: "Press L3 For Texture Viewer, R3 To Disable"
+    author: "punk7890"
+    codes:
+      - "20152004 0C052A28"
+      - "0014A8E0 00000024"
+      - "D0360F12 0000FFFD"
+      - "002E7AD0 00000001"
+      - "D0360F12 0000FFFB"
+      - "002E7AD0 00000000"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "401F75E4 00130001"
+      - "FFFFFFFF 00000000"

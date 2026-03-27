@@ -1,0 +1,28 @@
+# BEN 10 Ultimate Alien_ Cosmic Destruction cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01110
+
+game: "BEN 10 Ultimate Alien_ Cosmic Destruction"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01110"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Game (required)"
+    notes: "File: GAME  (set range:0x000024,0x001043)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000024,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"
+
+  - name: "Update Crc32 For Miss (required)"
+    notes: "File: MISS  (set range:0x24,0x00801F)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x24,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"

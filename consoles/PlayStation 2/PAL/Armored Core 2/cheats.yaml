@@ -1,0 +1,385 @@
+# Armored Core 2 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50079
+
+game: "Armored Core 2"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50079"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01021C0 000001FD"
+
+  - name: "Infinite Ammo 1"
+    author: "Codejunkies"
+    notes: "[Ammo 1 Codes]"
+    codes:
+      - "002BC438 000000B4"
+
+  - name: "Never Have More Than 25% Ammo 1"
+    author: "Codejunkies"
+    notes: "[Ammo 1 Codes]"
+    codes:
+      - "E101002D 302BC438"
+      - "002BC438 0000002D"
+
+  - name: "Never Have More Than 50% Ammo 1"
+    author: "Codejunkies"
+    notes: "[Ammo 1 Codes]"
+    codes:
+      - "E101005A 302BC438"
+      - "002BC438 0000005A"
+
+  - name: "Never Have More Than 75% Ammo 1"
+    author: "Codejunkies"
+    notes: "[Ammo 1 Codes]"
+    codes:
+      - "E1010087 302BC438"
+      - "002BC438 00000087"
+
+  - name: "All Missions Are Completed"
+    author: "Codejunkies"
+    notes: "[Ammo 2 Codes]"
+    codes:
+      - "003B8F04 00000001"
+      - "203B8FD0 02020202"
+      - "203B8FD4 02020202"
+      - "203B8FD8 02020202"
+      - "203B8FDC 02020202"
+      - "203B8FE0 02020202"
+      - "203B8FE4 02020202"
+      - "203B8FE8 02020202"
+      - "203B8FEC 02020202"
+      - "203B8FF0 02020202"
+      - "203B8FF4 02020202"
+
+  - name: "Infinite Ammo 2"
+    author: "Codejunkies"
+    notes: "[Ammo 2 Codes]"
+    codes:
+      - "002BC4B8 00000018"
+
+  - name: "Never Have More Than 25% Ammo 2"
+    author: "Codejunkies"
+    notes: "[Ammo 2 Codes]"
+    codes:
+      - "E1010006 302BC4B8"
+      - "002BC4B8 00000006"
+
+  - name: "Never Have More Than 50% Ammo 2"
+    author: "Codejunkies"
+    notes: "[Ammo 2 Codes]"
+    codes:
+      - "E101000C 302BC4B8"
+      - "002BC4B8 0000000C"
+
+  - name: "Never Have More Than 75% Ammo 2"
+    author: "Codejunkies"
+    notes: "[Ammo 2 Codes]"
+    codes:
+      - "E1010012 302BC4B8"
+      - "002BC4B8 00000012"
+
+  - name: "Temperature"
+    author: "Codejunkies"
+    notes: "[Ammo 2 Codes]"
+    codes:
+      - "102BBC12 000043C9"
+
+  - name: "Arm Units L"
+    author: "InterAct"
+    codes:
+      - "20413BB4 01010101"
+      - "20413BB8 00000001"
+
+  - name: "Infinite Boost"
+    author: "Codejunkies"
+    notes: "[Boost Codes]"
+    codes:
+      - "102BBB78 00006D60"
+
+  - name: "Never Have More Than 25% Boost"
+    author: "Codejunkies"
+    notes: "[Boost Codes]"
+    codes:
+      - "E0011B58 302BBB78"
+      - "102BBB78 00001B58"
+
+  - name: "Never Have More Than 50% Boost"
+    author: "Codejunkies"
+    notes: "[Boost Codes]"
+    codes:
+      - "E00136B0 302BBB78"
+      - "102BBB78 000036B0"
+
+  - name: "Never Have More Than 75% Boost"
+    author: "Codejunkies"
+    notes: "[Boost Codes]"
+    codes:
+      - "E0015208 302BBB78"
+      - "102BBB78 00005208"
+
+  - name: "All Opponents"
+    author: "Codejunkies"
+    notes: "[Challenge Mode]"
+    codes:
+      - "203B9020 01010101"
+      - "203B9024 01010101"
+      - "203B9028 01010101"
+      - "203B902C 01010101"
+      - "203B9030 01010101"
+      - "203B9034 01010101"
+      - "203B9038 01010101"
+      - "203B903C 01010101"
+      - "203B9040 01010101"
+      - "203B9044 01010101"
+      - "203B904C 01010101"
+      - "203B9050 01010101"
+
+  - name: "Have All Arm Units L"
+    author: "Codejunkies"
+    notes: "[Challenge Mode]"
+    codes:
+      - "20413BB0 01010101"
+      - "20413BB4 01010101"
+      - "20413BB8 00000001"
+
+  - name: "Have All Arm Units R"
+    author: "Codejunkies"
+    notes: "[Challenge Mode]"
+    codes:
+      - "20413B70 01010101"
+      - "20413B74 01010101"
+      - "20413B78 01010101"
+      - "20413B7C 01010101"
+      - "20413B80 01010101"
+      - "20413B84 01010101"
+      - "20413B88 01010101"
+
+  - name: "Have All Arms"
+    author: "Codejunkies"
+    notes: "[Challenge Mode]"
+    codes:
+      - "204138F0 01010101"
+      - "204138F4 01010101"
+      - "204138F8 01010101"
+      - "204138FC 01010101"
+      - "20413900 01010101"
+      - "20413904 01010101"
+      - "20413908 01010101"
+
+  - name: "Have All Back Units L"
+    author: "Codejunkies"
+    notes: "[Challenge Mode]"
+    codes:
+      - "20413B30 01010101"
+      - "20413B34 01010101"
+      - "20413B38 01010101"
+      - "20413B3C 01010101"
+      - "20413B40 01010101"
+      - "20413B44 01010101"
+
+  - name: "Have All Back Units R"
+    author: "Codejunkies"
+    notes: "[Challenge Mode]"
+    codes:
+      - "20413AF0 01010101"
+      - "20413AF4 01010101"
+      - "20413AF8 01010101"
+      - "20413AFC 01010101"
+      - "20413B00 01010101"
+      - "20413B04 01010101"
+
+  - name: "Have All Boosters"
+    author: "Codejunkies"
+    notes: "[Challenge Mode]"
+    codes:
+      - "20413970 01010101"
+      - "20413974 01010101"
+      - "20413978 01010101"
+
+  - name: "Have All Extensions"
+    author: "Codejunkies"
+    notes: "[Challenge Mode]"
+    codes:
+      - "20413AB0 01010101"
+      - "20413AB4 01010101"
+
+  - name: "Have All Fcs"
+    author: "Codejunkies"
+    notes: "[Challenge Mode]"
+    codes:
+      - "204139B0 01010101"
+      - "204139B4 01010101"
+      - "204139B8 01010101"
+
+  - name: "Have All Generators"
+    author: "Codejunkies"
+    notes: "[Challenge Mode]"
+    codes:
+      - "204139F0 01010101"
+      - "204139F4 01010101"
+
+  - name: "Have All Heads"
+    author: "Codejunkies"
+    notes: "[Challenge Mode]"
+    codes:
+      - "20413870 01010101"
+      - "20413874 01010101"
+      - "20413878 01010101"
+
+  - name: "Have All Inside Parts"
+    author: "Codejunkies"
+    notes: "[Challenge Mode]"
+    codes:
+      - "20413A70 01010101"
+      - "20413A70 01010101"
+
+  - name: "Have All Legs"
+    author: "Codejunkies"
+    notes: "[Challenge Mode]"
+    codes:
+      - "20413930 01010101"
+      - "20413934 01010101"
+      - "20413938 01010101"
+      - "2041393C 01010101"
+      - "20413940 01010101"
+      - "20413944 01010101"
+      - "20413948 01010101"
+      - "2041394C 01010101"
+      - "20413950 01010101"
+
+  - name: "Have All Optional Parts"
+    author: "Codejunkies"
+    notes: "[Challenge Mode]"
+    codes:
+      - "20413BF0 01010101"
+      - "20413BF4 01010101"
+      - "20413BF8 01010101"
+      - "20413BFC 01010101"
+
+  - name: "Have All Radiators"
+    author: "Codejunkies"
+    notes: "[Challenge Mode]"
+    codes:
+      - "20413A30 01010101"
+      - "20413A34 01010101"
+
+  - name: "Have All Torsos"
+    author: "Codejunkies"
+    notes: "[Challenge Mode]"
+    codes:
+      - "204138B0 01010101"
+      - "204138B4 01010101"
+
+  - name: "Opponent's Health"
+    author: "Codejunkies"
+    notes: "[Challenge Mode]"
+    codes:
+      - "102BF454 00000000"
+
+  - name: "Never Have More Than 1000 Credits"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "E00203E8 303B8F00"
+      - "E0010000 303B8F02"
+      - "203B8F00 000003E8"
+
+  - name: "Never Have More Than 10000 Credits"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "E0022710 303B8F00"
+      - "E0010000 303B8F02"
+      - "203B8F00 00002710"
+
+  - name: "Never Have More Than 50000 Credits"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "E002C350 303B8F00"
+      - "E0010000 303B8F02"
+      - "203B8F00 0000C350"
+
+  - name: "Never Have More Than 100000 Credits"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "E00286A0 303B8F00"
+      - "E0010001 303B8F02"
+      - "203B8F00 000186A0"
+
+  - name: "Never Have More Than 250000 Credits"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "E002D090 303B8F00"
+      - "E0010003 303B8F02"
+      - "203B8F00 0003D090"
+
+  - name: "Never Have More Than 500000 Credits"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "E002A120 303B8F00"
+      - "E0010007 303B8F02"
+      - "203B8F00 0007A120"
+
+  - name: "Stacks Of Credits"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "203B8F00 05F5E0FF"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "102BBB74 00009C38"
+
+  - name: "Never Have More Than 25% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E001270E 302BBB74"
+      - "102BBB74 0000270E"
+
+  - name: "Never Have More Than 50% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0014E1C 302BBB74"
+      - "102BBB74 00004E1C"
+
+  - name: "Never Have More Than 75% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E001752A 302BBB74"
+      - "102BBB74 0000752A"
+
+  - name: "P2 Infinite Ammo 1"
+    author: "Codejunkies"
+    notes: "[Multiplayer]"
+    codes:
+      - "002BFD18 000000B4"
+
+  - name: "P2 Infinite Ammo 2"
+    author: "Codejunkies"
+    notes: "[Multiplayer]"
+    codes:
+      - "002BFD98 00000018"
+
+  - name: "P2 Infinite Boost"
+    author: "Codejunkies"
+    notes: "[Multiplayer]"
+    codes:
+      - "102BF458 00006D60"

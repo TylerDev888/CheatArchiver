@@ -1,0 +1,448 @@
+# Rogue Galaxy cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97490
+
+game: "Rogue Galaxy"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97490"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90119910 0C0465EC"
+
+  - name: "Max/Inf Money"
+    notes: "[Misc Codes]"
+    codes:
+      - "205C1010 05F5E0FF"
+      - "205C5204 05F5E0FF"
+
+  - name: "Buy Something Gain = Money"
+    notes: "[Misc Codes]"
+    codes:
+      - "003C8EA8 0000002F"
+
+  - name: "Inf Weapon 1 Bar"
+    notes: "[Misc Codes]"
+    codes:
+      - "203D65A8 00000000"
+
+  - name: "Inf Weapon 2 Bar"
+    notes: "[Misc Codes]"
+    codes:
+      - "203D2C9C 00000000"
+
+  - name: "Inf Item Usage"
+    notes: "[Misc Codes]"
+    codes:
+      - "203D3884 00000000"
+
+  - name: "After Battle EXP Multiplyer"
+    notes: "[Misc Codes]"
+    codes:
+      - "203AC75C 00021[ABB]"
+
+  - name: "EXP Multiplyer (bugs)"
+    notes: "[Misc Codes]"
+    codes:
+      - "203D167C 0803D400"
+      - "200F5000 00052[BUGS]"
+      - "200F5004 A4450012"
+      - "200F5008 080F45A0"
+
+  - name: "Press L2 To Instint Win Round"
+    notes: "[Misc Codes]"
+    codes:
+      - "D04B2A82 0000FEFF"
+      - "0172CECF 000000E4"
+
+  - name: "All Ways Low Satiety"
+    notes: "[Misc Codes]"
+    codes:
+      - "203D1B48 00000000"
+
+  - name: "Feed Bug To Set Stats To 127"
+    notes: "[Misc Codes]"
+    codes:
+      - "00465D80 0000007F"
+      - "203D1B48 08028000"
+      - "200A0000 A045001C"
+      - "200A0004 A045001E"
+      - "200A0008 A0450020"
+      - "200A000C A0450021"
+      - "200A0010 A0450022"
+      - "200A0014 A0450023"
+      - "200A0018 A0450024"
+      - "200A001C A0450025"
+      - "200A0020 080F46D3"
+
+  - name: "Max Lvl"
+    notes: "[Slot 1:{Hero Jaster}]"
+    codes:
+      - "005C7D90 00000063"
+
+  - name: "Inf/Max HP"
+    notes: "[Slot 1:{Hero Jaster}]"
+    codes:
+      - "105C7D94 000003E7"
+
+  - name: "Inf Currnet HP"
+    notes: "[Slot 1:{Hero Jaster}]"
+    codes:
+      - "505C7DA0 00000004"
+      - "005C7D94 00000000"
+
+  - name: "Max HP"
+    notes: "[Slot 1:{Hero Jaster}]"
+    codes:
+      - "105C7DA0 000003E7"
+      - "105C7D9C 000003E7"
+
+  - name: "Inf Ap"
+    notes: "[Slot 1:{Hero Jaster}]"
+    codes:
+      - "105C7D98 000003E7"
+
+  - name: "Max Ap"
+    notes: "[Slot 1:{Hero Jaster}]"
+    codes:
+      - "205C7DA4 03E703E7"
+
+  - name: "Max Defense"
+    notes: "[Slot 1:{Hero Jaster}]"
+    codes:
+      - "205C7DAC 03E703E7"
+
+  - name: "Max Str"
+    notes: "[Slot 1:{Hero Jaster}]"
+    codes:
+      - "205C7DB0 03E703E7"
+
+  - name: "Max Vit"
+    notes: "[Slot 1:{Hero Jaster}]"
+    codes:
+      - "205C7DB4 03E703E7"
+
+  - name: "Max Aim"
+    notes: "[Slot 1:{Hero Jaster}]"
+    codes:
+      - "205C7DB8 03E703E7"
+
+  - name: "Attack Bar Never Changes"
+    notes: "[Slot 1:{Hero Jaster}]"
+    codes:
+      - "205C7F44 447A0000"
+
+  - name: "EXP Mod"
+    notes: "[Slot 1]"
+    codes:
+      - "105CADC2 0000[Amount:FFFF:HEX:BIG]"
+
+  - name: "Max/Max Curent HP"
+    notes: "[Slot 1]"
+    codes:
+      - "005CADC4 03E703E7"
+
+  - name: "Satiety All Ways Low"
+    notes: "[Slot 1]"
+    codes:
+      - "005CADC8 00000000"
+
+  - name: "Max Def"
+    notes: "[Slot 1]"
+    codes:
+      - "005CADCE 000000FF"
+
+  - name: "Max Knockback"
+    notes: "[Slot 1]"
+    codes:
+      - "005CADD0 000000FF"
+
+  - name: "Max Confusion"
+    notes: "[Slot 1]"
+    codes:
+      - "005CADD1 000000FF"
+
+  - name: "Max Cut"
+    notes: "[Slot 1]"
+    codes:
+      - "005CADD2 000000FF"
+
+  - name: "Max Explosion"
+    notes: "[Slot 1]"
+    codes:
+      - "005CADD3 000000FF"
+
+  - name: "Max Throw"
+    notes: "[Slot 1]"
+    codes:
+      - "005CADD4 000000FF"
+
+  - name: "Max Poison"
+    notes: "[Slot 1]"
+    codes:
+      - "005CADD5 000000FF"
+
+  - name: "Max Condition"
+    notes: "[Slot 1]"
+    codes:
+      - "005CADD6 000000FF"
+
+  - name: "Growth Mod"
+    notes: "[Slot 1]"
+    codes:
+      - "005CADD8 000000??"
+
+  - name: "Bug Color Mod"
+    notes: "[Slot 1]"
+    codes:
+      - "005CADDC 000000??"
+
+  - name: "Original Item Slot"
+    notes: "[Item Slot 1]"
+    codes:
+      - "105CE984 [Amount:01F4:HEX:BIG]"
+
+  - name: "Slot Moved Item To"
+    notes: "[Item Slot 1]"
+    codes:
+      - "105CE986 [Amount:01F4:HEX:BIG]"
+
+  - name: "Item Mod"
+    notes: "[Item Slot 1]"
+    codes:
+      - "105CE98C 0000[IDS]"
+      - "205CE990 [ADDR]"
+
+  - name: "Inf Item"
+    notes: "[Item Slot 1]"
+    codes:
+      - "005CE994 0000000A"
+
+  - name: "Max/Inf Item"
+    notes: "[Item Slot 1]"
+    codes:
+      - "005CE994 00000063"
+
+  - name: "Skill Bar"
+    notes: "[Item Slot 1]"
+    codes:
+      - "005CE996 0000000F"
+
+  - name: "Max Fire"
+    notes: "[Item Slot 1]"
+    codes:
+      - "005CE997 00000063"
+
+  - name: "Max Ice"
+    notes: "[Item Slot 1]"
+    codes:
+      - "005CE998 00000063"
+
+  - name: "Max Electro"
+    notes: "[Item Slot 1]"
+    codes:
+      - "005CE999 00000063"
+
+  - name: "Max Wind"
+    notes: "[Item Slot 1]"
+    codes:
+      - "005CE99A 00000063"
+
+  - name: "Max Spirit"
+    notes: "[Item Slot 1]"
+    codes:
+      - "005CE99B 00000063"
+
+  - name: "Ex Status Mod"
+    notes: "[Item Slot 1]"
+    codes:
+      - "005CE99C 000000[EX]"
+
+  - name: "Max/Inf Second Weapon Bar"
+    notes: "[Item Slot 1]"
+    codes:
+      - "205CE9A0 447A0000"
+
+  - name: "Max Gold After Battle"
+    notes: "[Ported From Japan Codes]"
+    codes:
+      - "203C8ED0 00000000"
+
+  - name: "Remove Item From Warehouse For Max Item"
+    notes: "[Ported From Japan Codes]"
+    codes:
+      - "203C620C 10200001"
+
+  - name: "Kill 1 Enemy For X Hunted"
+    notes: "[Ported From Japan Codes]"
+    codes:
+      - "203C3400 2482[Amount:270F:HEX:BIG]"
+
+  - name: "Weapon Skill Lvl Increase Mod"
+    notes: "[Ported From Japan Codes]"
+    codes:
+      - "203A2DD8 240500[Amount:63:HEX:BIG]"
+
+  - name: "Weapon Attributes Lvl Increase Mod"
+    notes: "[Ported From Japan Codes]"
+    codes:
+      - "203A2EE4 240600[Amount:63:HEX:BIG]"
+
+  - name: "Max EXP"
+    author: "Skiller>Code Master"
+    notes: "[Bug 1 Codes]"
+    codes:
+      - "105CADC2 000003E7"
+
+  - name: "Infinite HP"
+    author: "Skiller>Code Master"
+    notes: "[Bug 1 Codes]"
+    codes:
+      - "205CADC4 03E703E7"
+
+  - name: "Always Low Hunger"
+    author: "Skiller>Code Master"
+    notes: "[Bug 1 Codes]"
+    codes:
+      - "205CADC8 00000000"
+
+  - name: "Level 99"
+    author: "Skiller>Code Master"
+    notes: "[Bug 1 Codes]"
+    codes:
+      - "005CADD7 00000063"
+
+  - name: "Infinite AP"
+    author: "Skiller>Code Master"
+    notes: "[Character 1 Codes]"
+    codes:
+      - "205C7D98 000003E7"
+
+  - name: "Always Full Attack Bar"
+    author: "Skiller>Code Master"
+    notes: "[Character 1 Codes]"
+    codes:
+      - "205C7F44 447A0000"
+
+  - name: "Max Main Wep"
+    author: "Skiller>Code Master"
+    notes: "[Character 1 Codes]"
+    codes:
+      - "205C7FC8 03E703E7"
+
+  - name: "Max Sub Wep"
+    author: "Skiller>Code Master"
+    notes: "[Character 1 Codes]"
+    codes:
+      - "205C7FCC 03E703E7"
+
+  - name: "Have All Abilities"
+    author: "Skiller>Code Master"
+    notes: "[Character 1 Codes]"
+    codes:
+      - "405C8060 00040001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Quick EXP Gain"
+    author: "Skiller>Code Master"
+    notes: "[Character 1 Codes]"
+    codes:
+      - "105C8238 0000FFFF"
+
+  - name: "Infinite Z"
+    author: "Skiller>Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "105C1010 0000FFFF"
+      - "105C5204 0000FFFF"
+
+  - name: "Max Z"
+    author: "Skiller>Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "205C1010 05F5E0FF"
+      - "205C5204 05F5E0FF"
+
+  - name: "Buying Items Doesnt Decrease Z"
+    author: "Skiller>Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "203C8EAC 00000000"
+
+  - name: "Buying Items Increases Z"
+    author: "Skiller>Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "203C8EA8 0050102F"
+
+  - name: "Infinite Hunter Points"
+    author: "Skiller>Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "105C1030 0000FFFF"
+
+  - name: "Max Hunter Points"
+    author: "Skiller>Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "205C1030 0098967F"
+
+  - name: "Infinite Item Usage"
+    author: "Skiller>Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "203D3884 00000000"
+
+  - name: "Infinite Weapon 1 Bar"
+    author: "Skiller>Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "203D65A8 00000000"
+
+  - name: "Infinite Weapon 2 Bar"
+    author: "Skiller>Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "203D2C9C 00000000"
+
+  - name: "Quick Max EXP"
+    author: "Skiller>Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "203AC754 3C0205F5"
+      - "203AC75C 3442E0FF"
+
+  - name: "Always Hungry"
+    author: "Skiller>Code Master"
+    notes: "[Bug Codes]"
+    codes:
+      - "203D1B48 00000000"
+
+  - name: "P1 Press L2 To Win Bug Tournaments"
+    author: "Skiller>Code Master"
+    notes: "[Bug Codes]"
+    codes:
+      - "D04B2A82 0000FEFF"
+      - "0172CECF 000000E4"
+
+  - name: "Feed Once For Max Stats"
+    author: "Skiller>Code Master"
+    notes: "[Bug Codes]"
+    codes:
+      - "00465D80 000000FF"
+      - "200A0000 A045001C"
+      - "200A0004 A045001E"
+      - "200A0008 A0450020"
+      - "200A000C A0450021"
+      - "200A0010 A0450022"
+      - "200A0014 A0450023"
+      - "200A0018 A0450024"
+      - "200A001C A0450025"
+      - "200A0020 080F46D3"
+      - "203D1B48 08028000"

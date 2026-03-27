@@ -1,0 +1,31 @@
+# Kamen Rider Battride War SouseiGenesis cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  NPJB00758
+
+game: "Kamen Rider Battride War SouseiGenesis"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "NPJB00758"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Shop Points 9999999"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "20000124 0098967F"
+
+  - name: "Rider Souls 9999999"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "20000128 0098967F"
+
+  - name: "Update Crc32big For Savedata.dat (required)"
+    notes: "File: SAVEDATA.DAT  (Checksum offset is located within the checksum range.) (Initializing checksum with null bytes) (set range:0x000004,0x22EC67)"
+    codes:
+      - "write at 0x000004:00000000"
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32Big"
+      - "write at 0x000004:[hash]"

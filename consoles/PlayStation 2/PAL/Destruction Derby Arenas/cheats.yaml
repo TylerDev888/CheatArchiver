@@ -1,0 +1,26 @@
+# Destruction Derby Arenas cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Destruction Derby Arenas"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "902394D0 0C099A6C"
+
+  - name: "Boost"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C2000 24031388"
+      - "200C2004 03E00008"
+      - "200C2008 A663059E"
+      - "2016FD64 0C030800"

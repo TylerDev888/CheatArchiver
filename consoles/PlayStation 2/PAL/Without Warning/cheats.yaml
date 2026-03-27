@@ -1,0 +1,38 @@
+# Without Warning cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53716
+
+game: "Without Warning"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53716"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F035D854 0035D857"
+
+  - name: "Enable FMV Viewer And Level Skip/Select In Pause Menu"
+    author: "Codejunkies"
+    codes:
+      - "204A52C0 00010000"
+
+  - name: "Infinite Ammo In Gun"
+    author: "Codejunkies"
+    codes:
+      - "201B79A8 00000000"
+
+  - name: "Infinite Grenades"
+    author: "Codejunkies"
+    codes:
+      - "2016E224 00000000"
+
+  - name: "Infinite Magazines"
+    author: "Codejunkies"
+    codes:
+      - "201B4958 00000000"

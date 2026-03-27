@@ -1,0 +1,136 @@
+# Midnight Club 3 - DUB Edition Remix cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53717
+
+game: "Midnight Club 3 - DUB Edition Remix"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53717"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0543FEC 00543FEF"
+      - "201A0DF0 00000000"
+      - "201A0DD4 00000000"
+
+  - name: "Disable Car Damage"
+    author: "Codejunkies"
+    codes:
+      - "202D49D8 03E00008"
+      - "202D49DC 00000000"
+
+  - name: "Dumb AI"
+    author: "Codejunkies"
+    codes:
+      - "D06BB442 0000FFBF"
+      - "20402280 24020000"
+      - "D06BB442 0000FFFE"
+      - "20402280 8E020000"
+
+  - name: "1 Opponent"
+    author: "Codejunkies"
+    notes: "[Max Opponent Modifier]"
+    codes:
+      - "203D76BC 24060001"
+
+  - name: "2 Opponents"
+    author: "Codejunkies"
+    notes: "[Max Opponent Modifier]"
+    codes:
+      - "203D76BC 24060002"
+
+  - name: "3 Opponents"
+    author: "Codejunkies"
+    notes: "[Max Opponent Modifier]"
+    codes:
+      - "203D76BC 24060003"
+
+  - name: "No Opponent"
+    author: "Codejunkies"
+    notes: "[Max Opponent Modifier]"
+    codes:
+      - "203D76BC 24060000"
+
+  - name: "No Cpvs"
+    author: "Codejunkies"
+    codes:
+      - "20619D74 00000000"
+
+  - name: "Normal Speed (Press R3)"
+    author: "Codejunkies"
+    codes:
+      - "E002FFFB 006BB442"
+      - "20433570 45000003"
+      - "20433558 45010007"
+
+  - name: "Slow Motion (Press L3)"
+    author: "Codejunkies"
+    codes:
+      - "E002FFFD 006BB442"
+      - "20433570 44810000"
+      - "20433558 3C013C00"
+
+  - name: "Turbo"
+    author: "Codejunkies"
+    codes:
+      - "E102009F 006BB443"
+      - "20261CD0 3C017F00"
+      - "20261CD4 44810800"
+      - "E102009F 106BB443"
+      - "20261CD0 C4400024"
+      - "20261CD4 46000842"
+
+  - name: "Open Abilities"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "00619B20 00000001"
+
+  - name: "Open All"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "20619B1C 01010101"
+      - "10619B20 00000101"
+
+  - name: "Open Cities"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "00619B1D 00000001"
+
+  - name: "Open Customisation"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "00619B1F 00000001"
+
+  - name: "Open Insanity"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "00619B21 00000001"
+
+  - name: "Open Races"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "00619B1C 00000001"
+
+  - name: "Open Upgrades"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "00619B22 00000001"
+
+  - name: "Open Vehicles"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "00619B1E 00000001"

@@ -1,0 +1,25 @@
+# Trine 2 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00668
+
+game: "Trine 2"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00668"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "99 Skill Points"
+    notes: "File: SAVEDATA.BIN"
+    codes:
+      - "write at 0x6A:0x63"
+
+  - name: "Update Md5 For Savedata.bin (required)"
+    notes: "File: SAVEDATA.BIN  (set range:0x0003E0,0x010535)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x0003E0,pointer"
+      - "set [hash]:MD5"
+      - "write at 0x0003D0:[hash]"

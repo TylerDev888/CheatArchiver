@@ -1,0 +1,42 @@
+# BlazBlue_ Continuum Shift Extend cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00042
+
+game: "BlazBlue_ Continuum Shift Extend"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00042"
+cheat_type: "Save Editor"
+source: "Credits: Bucanero"
+
+cheats:
+  - name: "9999999 P$"
+    notes: "File: SYSTEM/SYSTEM.DAT"
+    codes:
+      - "200E3160 0098967F"
+
+  - name: "Unlock All Gallery"
+    notes: "File: SYSTEM/SYSTEM.DAT"
+    codes:
+      - "41000160 00000202"
+      - "40F90002 00000000"
+
+  - name: "Player Level 33"
+    notes: "File: SYSTEM/SYSTEM.DAT"
+    codes:
+      - "200E3168 00017BCF"
+
+  - name: "Player Level 100"
+    notes: "File: SYSTEM/SYSTEM.DAT"
+    codes:
+      - "200E3168 00FF423F"
+
+  - name: "Update Wadd For System.dat (required)"
+    notes: "File: SYSTEM/SYSTEM.DAT  \\\\carry(2)"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof+1"
+      - "set [csum]:wadd(0x000004,pointer)"
+      - "set [csum]:xor:FFFF"
+      - "write at 0x000000:[csum]"

@@ -1,0 +1,74 @@
+# Neo Contra cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52510
+
+game: "Neo Contra"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52510"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "100% Hit Rate"
+    author: "Codejunkies"
+    codes:
+      - "203C8914 00000064"
+
+  - name: "Everything Unlocked"
+    author: "Codejunkies"
+    codes:
+      - "203C8964 00017FF3"
+      - "203C8968 00017FF3"
+
+  - name: "Infinite Credits"
+    author: "Codejunkies"
+    codes:
+      - "203C891C 00000063"
+
+  - name: "Low Game Time"
+    author: "Codejunkies"
+    codes:
+      - "203C8914 00000001"
+
+  - name: "Max High Score"
+    author: "Codejunkies"
+    codes:
+      - "203C893C 0098967F"
+
+  - name: "Infinite Lives"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "203C89E4 00000064"
+
+  - name: "Max Score"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "203C89DC 0098967F"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90363988 0C0DA910"
+
+  - name: "Credits"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "203C891C 00000063"
+
+  - name: "Hit Rate %"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "203C8904 000003E7"
+
+  - name: "0:00 Time"
+    author: "Xploder"
+    notes: "[Always]"
+    codes:
+      - "203C8914 00000000"

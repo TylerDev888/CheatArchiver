@@ -1,0 +1,286 @@
+# X-Files-Resist Or Serve, The cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20179
+
+game: "X-Files-Resist Or Serve, The"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20179"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0024C12F"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Masters]"
+    codes:
+      - "9024C12C 0C097F0B"
+
+  - name: "Infinite Health"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Codes]"
+    codes:
+      - "20193D90 24060032"
+      - "20193D94 AE460540"
+
+  - name: "Infinite Ammo (Pistol/Magnum)"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Codes]"
+    codes:
+      - "201BD5E0 00000000"
+
+  - name: "Extra Ammo (Pistol/Magnum)"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Codes]"
+    codes:
+      - "101BD5E4 00000001"
+
+  - name: "Infinite Ammo (Shotgun)"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Codes]"
+    codes:
+      - "201BDF78 00000000"
+
+  - name: "Extra Ammo (Shotgun)"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Codes]"
+    codes:
+      - "101BDF70 00000001"
+
+  - name: "Infinite Ammo (AK-47)"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Codes]"
+    codes:
+      - "201BA188 00000000"
+
+  - name: "Extra Ammo (AK-47)"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Codes]"
+    codes:
+      - "101BA18C 00000001"
+
+  - name: "Infinite Ammo (All Weapons)"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Codes]"
+    codes:
+      - "2011142C 00000000"
+
+  - name: "Infinite First Aid Kits"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Codes]"
+    codes:
+      - "201113A0 00000000"
+
+  - name: "Extra First Aid Kits"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Codes]"
+    codes:
+      - "10111398 00000001"
+
+  - name: "NTSC 2 PAL"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Codes]"
+    codes:
+      - "202489E0 24120003"
+
+  - name: "X-Fix"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Codes]"
+    codes:
+      - "10248DA8 000002A8"
+      - "10248E5C 000002A8"
+
+  - name: "Y-Fix"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Codes]"
+    codes:
+      - "00248DA4 00000010"
+      - "00248E58 00000010"
+
+  - name: "Show Debug Info"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Codes]"
+    codes:
+      - "20325764 00000001"
+
+  - name: "Display Player Position Info"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Codes]"
+    codes:
+      - "20325764 00000002"
+
+  - name: "Grenade Bullets (Any Weapon)"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Codes]"
+    codes:
+      - "20326B74 00000001"
+
+  - name: "Slow Motion (L1+L3=On & L1+R3=Off)"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 3C080088"
+      - "200C0224 00000000"
+      - "200C0228 00000000"
+      - "200C022C 00000000"
+      - "200C0230 00000000"
+      - "200C0234 00000000"
+      - "200C0238 1D00FFFB"
+      - "200C023C 2508FFFF"
+      - "200C0240 03E00008"
+      - "200C0244 00000000"
+      - "E001FBFD 004DA802"
+      - "2024C144 08030088"
+      - "E001FBFB 004DA802"
+      - "2024C144 03E00008"
+
+  - name: "Display Debug Info"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "20325764 00000001"
+
+  - name: "Display Paths"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "20325774 00000001"
+
+  - name: "P1 Press Up+Select To Not Display Shadows"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "D04DA802 0000FFEE"
+      - "20325778 00000000"
+
+  - name: "P1 Press Down+Select To Display Shadows"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "D04DA802 0000FFBE"
+      - "20325778 00000001"
+
+  - name: "Display Contour"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "20325948 00000002"
+
+  - name: "P1 Press L1+Select To Not Display Terrain"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "D04DA802 0000FBFE"
+      - "20325940 00000000"
+
+  - name: "P1 Press L2+Select To Display Terrain"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "D04DA802 0000FEFE"
+      - "20325940 00000001"
+
+  - name: "P1 Press R1+Select To Not Display Parallax"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "D04DA802 0000F7FE"
+      - "20325944 00000000"
+
+  - name: "P1 Press R2+Select To Display Parallax"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "D04DA802 0000FDFE"
+      - "20325944 00000001"
+
+  - name: "1-Shot Kills"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "20326B70 00000001"
+
+  - name: "Unlimited Ammo"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "20326BC8 00000001"
+
+  - name: "Display Collision Map"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "20326D04 00000001"
+
+  - name: "Disable Flashlight"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "20326D48 00000000"
+
+  - name: "Display Bound Box"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "20326E38 00000001"
+
+  - name: "Grenade Bullets"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "20326B74 00000001"
+
+  - name: "Slot 1"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Item Modifier Codes]"
+    codes:
+      - "2032EF80 0000????"
+
+  - name: "Slot 2"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Item Modifier Codes]"
+    codes:
+      - "2032EF8C 0000????"
+
+  - name: "Slot 3"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Item Modifier Codes]"
+    codes:
+      - "2032EF98 0000????"
+
+  - name: "Slot 4"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Item Modifier Codes]"
+    codes:
+      - "2032EFA4 0000????"
+
+  - name: "Slot 5"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Item Modifier Codes]"
+    codes:
+      - "2032EFB0 0000????"
+
+  - name: "Slot 6"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Item Modifier Codes]"
+    codes:
+      - "2032EFBC 0000????"
+
+  - name: "Slot 7"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Item Modifier Codes]"
+    codes:
+      - "2032EFC8 0000????"
+
+  - name: "Slot 8"
+    author: "Code Master>GMO>CygnusXI"
+    notes: "[Item Modifier Codes]"
+    codes:
+      - "2032EFD4 0000????"

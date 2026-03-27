@@ -1,0 +1,77 @@
+# Bakumatsu Roman - Gekka No Kenshi 1&2 [Neogeo Online Collection Vol.2]
+
+**Console:** PlayStation 2  
+**Region:** NTSC-J  
+**Serial:** SLPS-25503  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Enable Code (Must Be On)
+**Author:** lee4  
+**Notes:** [Master Codes]
+
+```
+902B5F98 0C0AD78E
+```
+
+---
+
+### Force Videout To 480I Instead Of 240P
+**Author:** lee4
+
+```
+202306CC 24110001
+202306D0 24120002
+202306DC 24130001
+```
+
+---
+
+### P1 Inf HP And Power (L1+L2)
+**Author:** Fullcodes  
+**Notes:** [The Last Blade]
+
+```
+E00AFAFF 0031A85C
+200C2200 3C080063
+200C2204 8D08D810
+200C2208 3C0900E4
+200C220C 252905EC
+200C2210 95290002
+200C2214 01094021
+200C221C 240A0100
+200C2220 A50A01A0
+200C2224 240B0040
+200C2228 A10B01AC
+E002FAFF 1031A85C
+200C2220 00000000
+200C2228 00000000
+```
+
+---
+
+### P1 Inf HP & Power (L1+L2)
+**Author:** Fullcodes  
+**Notes:** [The Last Blade 2]
+
+```
+E00AFAFF 0031A85C
+200C2100 3C080063
+200C2104 8D08D810
+200C2108 3C0900E4
+200C210C 25293F18
+200C2110 95290000
+200C2114 01094021
+200C211C 240A0100
+200C2120 A50A019E
+200C2124 240B0040
+200C2128 A10B019C
+E002FAFF 1031A85C
+200C2120 00000000
+200C2128 00000000
+```
+
+---

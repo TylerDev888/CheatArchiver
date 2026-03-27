@@ -1,0 +1,225 @@
+# Sega Ages 2500 Series Vol.17 - Phantasy Star Generation 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62553
+
+game: "Sega Ages 2500 Series Vol.17 - Phantasy Star Generation 2"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62553"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Master Code"
+    author: "Ramdemann"
+    notes: "[Master Codes]"
+    codes:
+      - "9021E278 0C087846"
+
+  - name: "Hold R1 For Instant Text Display"
+    author: "nolberto82"
+    codes:
+      - "20120A28 1040000F"
+      - "D02DB2F4 00000008"
+      - "20120A28 00000000"
+
+  - name: "Infinite HP For Amia"
+    author: "Ramdemann"
+    codes:
+      - "20247998 000003E7"
+      - "2024799C 000003E7"
+
+  - name: "Infinite HP For Anne"
+    author: "Ramdemann"
+    codes:
+      - "20247890 000003E7"
+      - "20247894 000003E7"
+
+  - name: "Infinite HP For Eusis"
+    author: "Ramdemann"
+    codes:
+      - "20247704 000003E7"
+      - "20247708 000003E7"
+
+  - name: "Infinite HP For Huey"
+    author: "Ramdemann"
+    codes:
+      - "20247914 000003E7"
+      - "20247918 000003E7"
+
+  - name: "Infinite HP For Keinz"
+    author: "Ramdemann"
+    codes:
+      - "20247A1C 000003E7"
+      - "20247A20 000003E7"
+
+  - name: "Infinite HP For Nei"
+    author: "Ramdemann"
+    codes:
+      - "20247788 000003E7"
+      - "2024778C 000003E7"
+
+  - name: "Infinite HP For Rudger"
+    author: "Ramdemann"
+    codes:
+      - "2024780C 000003E7"
+      - "20247810 000003E7"
+
+  - name: "Infinite HP For Silka"
+    author: "Ramdemann"
+    codes:
+      - "20247AA0 000003E7"
+      - "20247AA4 000003E7"
+
+  - name: "Infinite HP In Battle (Slot 1)"
+    author: "Ramdemann"
+    codes:
+      - "2025DCA8 000003E7"
+      - "2025DCAC 000003E7"
+
+  - name: "Infinite HP In Battle (Slot 2)"
+    author: "Ramdemann"
+    codes:
+      - "2025D298 000003E7"
+      - "2025D29C 000003E7"
+
+  - name: "Infinite HP In Battle (Slot 3)"
+    author: "Ramdemann"
+    codes:
+      - "2025D7A0 000003E7"
+      - "2025D7A4 000003E7"
+
+  - name: "Infinite HP In Battle (Slot 4)"
+    author: "Ramdemann"
+    codes:
+      - "2025E1B0 000003E7"
+      - "2025E1B4 000003E7"
+
+  - name: "Infinite Items Outside Of Battle (ASM)"
+    author: "Ramdemann"
+    codes:
+      - "20131CA4 00000000"
+
+  - name: "Infinite Meseta"
+    author: "Ramdemann"
+    codes:
+      - "20248314 0098967F"
+
+  - name: "Infinite TP For Amia"
+    author: "Ramdemann"
+    codes:
+      - "202479A0 000003E7"
+      - "202479A4 000003E7"
+
+  - name: "Infinite TP For Anne"
+    author: "Ramdemann"
+    codes:
+      - "20247898 000003E7"
+      - "2024789C 000003E7"
+
+  - name: "Infinite TP For Eusis"
+    author: "Ramdemann"
+    codes:
+      - "2024770C 000003E7"
+      - "20247710 000003E7"
+
+  - name: "Infinite TP For Huey"
+    author: "Ramdemann"
+    codes:
+      - "2024791C 000003E7"
+      - "20247920 000003E7"
+
+  - name: "Infinite TP For Keinz"
+    author: "Ramdemann"
+    codes:
+      - "20247A24 000003E7"
+      - "20247A28 000003E7"
+
+  - name: "Infinite TP For Nei"
+    author: "Ramdemann"
+    codes:
+      - "20247790 000003E7"
+      - "20247794 000003E7"
+
+  - name: "Infinite TP For Rudger"
+    author: "Ramdemann"
+    codes:
+      - "20247814 000003E7"
+      - "20247818 000003E7"
+
+  - name: "Infinite TP For Silka"
+    author: "Ramdemann"
+    codes:
+      - "20247AA8 000003E7"
+      - "20247AAC 000003E7"
+
+  - name: "Infinite TP In Battle (Slot 1)"
+    author: "Ramdemann"
+    codes:
+      - "2025DCB0 000003E7"
+      - "2025DCB4 000003E7"
+
+  - name: "Infinite TP In Battle (Slot 2)"
+    author: "Ramdemann"
+    codes:
+      - "2025D2A0 000003E7"
+      - "2025D2A4 000003E7"
+
+  - name: "Infinite TP In Battle (Slot 3)"
+    author: "Ramdemann"
+    codes:
+      - "2025D7A8 000003E7"
+      - "2025D7AC 000003E7"
+
+  - name: "Infinite TP In Battle (Slot 4)"
+    author: "Ramdemann"
+    codes:
+      - "2025E1B8 000003E7"
+      - "2025E1BC 000003E7"
+
+  - name: "Level 100 After One Battle For Amia"
+    author: "Ramdemann"
+    codes:
+      - "202479E8 05F5E0FF"
+
+  - name: "Level 100 After One Battle For Anne"
+    author: "Ramdemann"
+    codes:
+      - "202478E0 05F5E0FF"
+
+  - name: "Level 100 After One Battle For Eusis"
+    author: "Ramdemann"
+    codes:
+      - "20247754 05F5E0FF"
+
+  - name: "Level 100 After One Battle For Huey"
+    author: "Ramdemann"
+    codes:
+      - "20247964 05F5E0FF"
+
+  - name: "Level 100 After One Battle For Keinz"
+    author: "Ramdemann"
+    codes:
+      - "20247A6C 05F5E0FF"
+
+  - name: "Level 100 After One Battle For Nei"
+    author: "Ramdemann"
+    codes:
+      - "202477D8 05F5E0FF"
+
+  - name: "Level 100 After One Battle For Rudger"
+    author: "Ramdemann"
+    codes:
+      - "2024785C 05F5E0FF"
+
+  - name: "No Random Battles"
+    author: "Ramdemann"
+    codes:
+      - "20248754 000001D7"
+
+  - name: "Walk Through Walls"
+    author: "nolberto82"
+    codes:
+      - "201152C4 10000010"
+      - "201151F8 10000011"

@@ -1,0 +1,30 @@
+# Dynasty Warriors_ Gundam 2 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00528
+
+game: "Dynasty Warriors_ Gundam 2"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00528"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Level 30"
+    notes: "[Amuro Ray]  File: BLES00528-*\\DATA.BIN"
+    codes:
+      - "00000173 0000001D"
+
+  - name: "Max Pilot Points"
+    notes: "[Amuro Ray]  File: BLES00528-*\\DATA.BIN"
+    codes:
+      - "20000174 05F5E0FF"
+
+  - name: "Update Add For Data.bin (required)"
+    notes: "File: BLES00528-*\\DATA.BIN  (set [csum]:add(0x000020,0x0A3FFF))"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof+1"
+      - "set [csum]:add(0x000020,pointer)"
+      - "write at 0x000010:[csum]"

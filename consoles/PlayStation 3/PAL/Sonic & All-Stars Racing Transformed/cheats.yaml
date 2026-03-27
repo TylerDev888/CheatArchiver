@@ -1,0 +1,28 @@
+# Sonic & All-Stars Racing Transformed cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01646
+
+game: "Sonic & All-Stars Racing Transformed"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01646"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update 1 Dwadd For Profile.dat (required)"
+    notes: "File: PROFILE.DAT  (set [csum]:dwadd(0x10,0x0927FF))"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof+1"
+      - "set [csum]:dwadd(0x10,pointer)"
+      - "write at 0x000008:[csum]"
+
+  - name: "Update 2 Dwadd For Profile.dat (required)"
+    notes: "File: PROFILE.DAT  (set [csum]:dwadd(0x000004,0x0A5FFF))"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof+1"
+      - "set [csum]:dwadd(0x000004,pointer)"
+      - "write at 0x000000:[csum]"

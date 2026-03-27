@@ -1,0 +1,31 @@
+# RaidenIV OverKill cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUB31371
+
+game: "RaidenIV OverKill"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUB31371"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "99 Bombs+99 Lives(by Vesper)"
+    notes: "File: TEST0"
+    codes:
+      - "write at 0x0002A117:63"
+      - "write at 0x0002A11B:63"
+
+  - name: "42 Lives(by Vesper)"
+    notes: "File: TEST0"
+    codes:
+      - "write at 0x0002A117:2A"
+
+  - name: "Update Add For Test0 (required)"
+    notes: "File: TEST0  (set [csum]:add(0x000004,0x02A407)) (Warnings:) (entering the option screen hangs the game) (picking up 1ups immediately put you to 7 lives (do not save all the fairies in M1 or destroy 1000+ meteors in M2, unless you need to do that for the trophies, or you'll receive also a 1up as ..."
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof+1"
+      - "set [csum]:add(0x000004,pointer)"
+      - "write at 0x000000:[csum]"

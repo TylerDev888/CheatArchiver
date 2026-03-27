@@ -1,0 +1,135 @@
+# Silent Hill 2 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50382
+
+game: "Silent Hill 2"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50382"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F020FA2C 001A3023"
+
+  - name: "Infinite Ampoules"
+    author: "Codejunkies"
+    notes: "[For The Following Codes To Work, You Need To Have One Of These Items]"
+    codes:
+      - "D1125C72 00000001"
+      - "11125C72 00000063"
+
+  - name: "Infinite First Aid Kit"
+    author: "Codejunkies"
+    notes: "[For The Following Codes To Work, You Need To Have One Of These Items]"
+    codes:
+      - "D1125C70 00000001"
+      - "11125C70 00000063"
+
+  - name: "Infinite Health Drinks"
+    author: "Codejunkies"
+    notes: "[For The Following Codes To Work, You Need To Have One Of These Items]"
+    codes:
+      - "D1125C6E 00000001"
+      - "11125C6E 00000063"
+
+  - name: "Always 0 Saves"
+    author: "InterAct"
+    codes:
+      - "0122B8FA 00000000"
+
+  - name: "Have All Items (Press L2+R2 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D103AB02 0000FCFF"
+      - "11125C62 0000FFFF"
+      - "D103AB02 0000FCFF"
+      - "11125C64 0000FFFF"
+      - "D103AB02 0000FCFF"
+      - "11125C66 0000FFFF"
+      - "D103AB02 0000FCFF"
+      - "11125C68 0000FFFF"
+
+  - name: "Have All Weapons (Press L1+L2 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D103AB02 0000FAFF"
+      - "11125C60 0000FD50"
+
+  - name: "Infinite Health"
+    author: "InterAct"
+    codes:
+      - "203EDEF4 42C80000"
+      - "203EDEF8 42C80000"
+
+  - name: "Low Total Time"
+    author: "InterAct"
+    codes:
+      - "1122B906 00000001"
+
+  - name: "Shoot For Infinite Hand Gun Ammo"
+    author: "InterAct"
+    codes:
+      - "D103AB02 0000BDFF"
+      - "11125C74 0000000A"
+
+  - name: "Shoot For Infinite Rifle Ammo"
+    author: "InterAct"
+    codes:
+      - "D103AB02 0000BDFF"
+      - "11125C7C 00000004"
+
+  - name: "Shoot For Infinite Shotgun Ammo"
+    author: "InterAct"
+    codes:
+      - "D103AB02 0000BDFF"
+      - "11125C78 00000006"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0020FA2F"
+
+  - name: "Unlimited Health"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "203EDEF4 000000FF"
+      - "203EDEF8 0000000F"
+
+  - name: "Pistol"
+    author: "Xploder"
+    notes: "[Unlimited Ammunition]"
+    codes:
+      - "01125C74 6809280A"
+
+  - name: "Shotgun"
+    author: "Xploder"
+    notes: "[Unlimited Ammunition]"
+    codes:
+      - "01125C78 68092806"
+
+  - name: "Rifle"
+    author: "Xploder"
+    notes: "[Unlimited Ammunition]"
+    codes:
+      - "01125C7C 68092804"
+
+  - name: "Weapons"
+    author: "Xploder"
+    notes: "[Have All]"
+    codes:
+      - "11125C60 0723FD50"
+
+  - name: "Items"
+    author: "Xploder"
+    notes: "[Have All]"
+    codes:
+      - "21125C62 FFFFFFFF"
+      - "21125C66 FFFFFFFF"

@@ -1,0 +1,47 @@
+# Hitman Contracts cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Hitman Contracts"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90450C0C 0C1172ED"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C2000 E6020E90"
+      - "200C2004 03E00008"
+      - "200C2008 C6010E90"
+      - "203A37FC 0C030800"
+
+  - name: "Ammunition (No Reload)"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2020F9AC 00000000"
+
+  - name: "Saves"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2037E11C 24003634"
+
+  - name: "Levels"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "D0483D42 0000FFFE"
+      - "2041F9E8 24020001"
+      - "D0483D42 0010FFFE"
+      - "2041F9E8 0040F809"

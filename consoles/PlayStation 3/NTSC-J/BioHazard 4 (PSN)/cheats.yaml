@@ -1,0 +1,188 @@
+# BioHazard 4 (PSN) cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  NPJB00084
+
+game: "BioHazard 4 (PSN)"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "NPJB00084"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32big:0 For File1 In Data.bin (required)"
+    notes: "File: DATA.BIN"
+    codes:
+      - "set range:0x180,0xCE77"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x00CE78:[hash]"
+
+  - name: "Update Crc32big:0 For File2 In Data.bin (required)"
+    notes: "File: DATA.BIN"
+    codes:
+      - "set range:0xCE90,0x019B87"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x019B88:[hash]"
+
+  - name: "Update Crc32big:0 For File3 In Data.bin (required)"
+    notes: "File: DATA.BIN"
+    codes:
+      - "set range:0x19BA0,0x26897"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x26898:[hash]"
+
+  - name: "Update Crc32big:0 For File4 In Data.bin (required)"
+    notes: "File: DATA.BIN"
+    codes:
+      - "set range:0x268B0,0x335A7"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x335A8:[hash]"
+
+  - name: "Update Crc32big:0 For File5 In Data.bin (required)"
+    notes: "File: DATA.BIN"
+    codes:
+      - "set range:0x335C0,0x402B7"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x402B8:[hash]"
+
+  - name: "Update Crc32big:0 For File6 In Data.bin (required)"
+    notes: "File: DATA.BIN"
+    codes:
+      - "set range:0x402D0,0x4CFC7"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x4CFC8:[hash]"
+
+  - name: "Update Crc32big:0 For File7 In Data.bin (required)"
+    notes: "File: DATA.BIN"
+    codes:
+      - "set range:0x4CFE0,0x59CD7"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x59CD8:[hash]"
+
+  - name: "Update Crc32big:0 For File8 In Data.bin (required)"
+    notes: "File: DATA.BIN"
+    codes:
+      - "set range:0x59CF0,0x669E7"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x669E8:[hash]"
+
+  - name: "Update Crc32big:0 For File9 In Data.bin (required)"
+    notes: "File: DATA.BIN"
+    codes:
+      - "set range:0x66A00,0x736F7"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x736F8:[hash]"
+
+  - name: "Update Crc32big:0 For File10 In Data.bin (required)"
+    notes: "File: DATA.BIN"
+    codes:
+      - "set range:0x73710,0x80407"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x80408:[hash]"
+
+  - name: "Update Crc32big:0 For File11 In Data.bin (required)"
+    notes: "File: DATA.BIN"
+    codes:
+      - "set range:0x80420,0x8D117"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x8D118:[hash]"
+
+  - name: "Update Crc32big:0 For File12 In Data.bin (required)"
+    notes: "File: DATA.BIN"
+    codes:
+      - "set range:0x8D130,0x99E27"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x99E28:[hash]"
+
+  - name: "Update Crc32big:0 For File13 In Data.bin (required)"
+    notes: "File: DATA.BIN"
+    codes:
+      - "set range:0x99E40,0xA6B37"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0xA6B38:[hash]"
+
+  - name: "Update Crc32big:0 For File14 In Data.bin (required)"
+    notes: "File: DATA.BIN"
+    codes:
+      - "set range:0xA6B50,0xB3847"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0xB3848:[hash]"
+
+  - name: "Update Crc32big:0 For File15 In Data.bin (required)"
+    notes: "File: DATA.BIN"
+    codes:
+      - "set range:0xB3860,0xC0557"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0xC0558:[hash]"
+
+  - name: "Update Crc32big:0 For File16 In Data.bin (required)"
+    notes: "File: DATA.BIN"
+    codes:
+      - "set range:0xC0570,0xCD267"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0xCD268:[hash]"
+
+  - name: "Update Crc32big:0 For File17 In Data.bin (required)"
+    notes: "File: DATA.BIN"
+    codes:
+      - "set range:0xCD280,0xD9F77"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0xD9F78:[hash]"
+
+  - name: "Update Crc32big:0 For File18 In Data.bin (required)"
+    notes: "File: DATA.BIN"
+    codes:
+      - "set range:0xD9F90,0xE6C87"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0xE6C88:[hash]"
+
+  - name: "Update Crc32big:0 For File19 In Data.bin (required)"
+    notes: "File: DATA.BIN"
+    codes:
+      - "set range:0xE6CA0,0xF3997"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0xF3998:[hash]"
+
+  - name: "Update Crc32big:0 For File20 In Data.bin (required)"
+    notes: "File: DATA.BIN"
+    codes:
+      - "set range:0xF39B0,0x1006A7"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x1006A8:[hash]"
+
+  - name: "Update Crc32big:0 For File21 In Data.bin (required)"
+    notes: "File: DATA.BIN"
+    codes:
+      - "set range:0x1006C0,0x10D3B7"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x10D3B8:[hash]"
+
+  - name: "Update Crc32big:0 For File22 In Data.bin (required)"
+    notes: "File: DATA.BIN"
+    codes:
+      - "set range:0x10D3D0,0x11A0C7"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x11A0C8:[hash]"

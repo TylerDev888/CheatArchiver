@@ -1,0 +1,19 @@
+# Horizon Zero Dawn cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA01021
+
+game: "Horizon Zero Dawn"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA01021"
+cheat_type: "SaveWizard"
+source: "Pachomar#5679"
+
+cheats:
+  - name: "Item Replacement"
+    notes: "File: checkpoint/.dat"
+    codes:
+      - "80010010 [Item<Item You Have>] 00000000"
+      - "A8000000 00000010"
+      - "[Item<Item You Want>]"

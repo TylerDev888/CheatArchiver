@@ -1,0 +1,24 @@
+# Superlite 2000 Series - Table cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62317
+
+game: "Superlite 2000 Series - Table"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62317"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90105DB8 0C041716"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9010D32C 0C0C6C6A"

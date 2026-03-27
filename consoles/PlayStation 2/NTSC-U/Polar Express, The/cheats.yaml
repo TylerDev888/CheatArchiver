@@ -1,0 +1,64 @@
+# Polar Express, The cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20989
+
+game: "Polar Express, The"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20989"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F038C190 0038C193"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "9038C190 0C0A340E"
+
+  - name: "19 Gold Coins"
+    author: "Codejunkies"
+    notes: "[Save 1 Codes]"
+    codes:
+      - "207FE740 00000013"
+
+  - name: "Infinite Continues"
+    author: "Codejunkies"
+    notes: "[Save 1 Codes]"
+    codes:
+      - "207FE764 00000009"
+
+  - name: "1 Gold Coin Needed For Extra Continue"
+    author: "Code Master"
+    notes: "[Save Slot 1 Codes]"
+    codes:
+      - "D07FE740 00200013"
+      - "107FE740 00000013"
+
+  - name: "Extra Continues"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "1014FA70 00000001"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "200C0220 24020005"
+      - "200C0224 03E00008"
+      - "200C0228 AC820004"
+      - "20113700 08030088"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9038C190 0C0A340E"

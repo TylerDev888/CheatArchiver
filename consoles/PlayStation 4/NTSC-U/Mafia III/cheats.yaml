@@ -1,0 +1,87 @@
+# Mafia III cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA03617
+
+game: "Mafia III"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA03617"
+cheat_type: "AP"
+source: "by bucanero"
+
+cheats:
+  - name: "Wallet $99999999"
+    notes: "File: *"
+    codes:
+      - "search \"m_StashValue\""
+      - "write next 0x3C:0xFFE0F505"
+
+  - name: "Stash $99999999"
+    notes: "File: *"
+    codes:
+      - "search \"m_StashValue\""
+      - "write next 0x4C:0xFFE0F505"
+
+  - name: "6 Medkits"
+    notes: "File: *"
+    codes:
+      - "search \"m_MedkitCnt\""
+      - "write next 0x4E1:0x06000000"
+
+  - name: "Max Weapon 1 Bullets"
+    notes: "File: *"
+    codes:
+      - "search \"m_AmmoInWeap\""
+      - "write next 0xDB:0xFFE0F505"
+
+  - name: "Max Weapon 1 Clips"
+    notes: "File: *"
+    codes:
+      - "search 0x066D5F416D6D6F"
+      - "write next 0x47:0xFFE0F505"
+
+  - name: "Max Weapon 2 Bullets"
+    notes: "File: *"
+    codes:
+      - "search \"m_AmmoInWeap\""
+      - "write next 0x1DF:0xFFE0F505"
+
+  - name: "Max Weapon 2 Clips"
+    notes: "File: *"
+    codes:
+      - "search 0x066D5F416D6D6F"
+      - "write next 0x17F:0xFFE0F505"
+
+  - name: "7 Frag Grenades"
+    notes: "File: *"
+    codes:
+      - "search 0x066D5F416D6D6F"
+      - "write next 0x117:0x07000000"
+
+  - name: "5 Molotov Cocktails"
+    notes: "File: *"
+    codes:
+      - "search 0x066D5F416D6D6F"
+      - "write next 0xAF:0x05000000"
+
+  - name: "7 Proximity Mines"
+    notes: "File: *"
+    codes:
+      - "search 0x066D5F416D6D6F"
+      - "write next 0x7B:0x07000000"
+
+  - name: "7 Screaming Zemi"
+    notes: "File: *"
+    codes:
+      - "search 0x066D5F416D6D6F"
+      - "write next 0xE3:0x07000000"
+
+  - name: "Update Crc32 (required)"
+    notes: "File: *"
+    codes:
+      - "set pointer:EOF-3"
+      - "set range:0x0000,pointer"
+      - "set [hash]:CRC32"
+      - "set [hash]:endian_swap"
+      - "write next (0):[hash]"

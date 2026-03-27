@@ -1,0 +1,47 @@
+# FIFA '14 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-55671
+
+game: "FIFA '14"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-55671"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    codes:
+      - "902F6B20 0C0BDA70"
+
+  - name: "Pal2ntsc"
+    author: "lee4"
+    codes:
+      - "205B20E8 24120002"
+
+  - name: "Pal2ntsc (Alternate)"
+    author: "lee4"
+    codes:
+      - "202EF120 34050002"
+      - "202EF124 24030002"
+      - "202EF128 0000000C"
+      - "202EF12C 03E00008"
+
+  - name: "Y-Fix (Alternate)"
+    author: "lee4"
+    codes:
+      - "200FFF40 64420000"
+      - "200FFF44 64428000"
+      - "200FFF48 64428000"
+      - "200FFF4C 64428000"
+      - "200FFF50 64428000"
+      - "200FFF54 64428000"
+      - "200FFF58 64428000"
+      - "200FFF5C 64428000"
+      - "200FFF60 FD020000"
+      - "200FFF64 0814936A"
+      - "200FFF68 8D230098"
+      - "20524DA0 0803FFD0"
+      - "20524DA4 00000000"

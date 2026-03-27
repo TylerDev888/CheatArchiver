@@ -1,0 +1,32 @@
+# Wizardry Summoner cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62603
+
+game: "Wizardry Summoner"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62603"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Buy Even Without Money At The Store"
+    author: "luc-ita"
+    codes:
+      - "201252FC 1000000A"
+
+  - name: "Level Up At Adventurer's Inn Even Without EXP"
+    author: "luc-ita"
+    codes:
+      - "2011CAE8 00000000"
+
+  - name: "Level Up At Adventurer's Inn For Maximum HP"
+    author: "luc-ita"
+    codes:
+      - "20110DE8 00000000"
+
+  - name: "Rest At Adventurer's Inn Even Without Money"
+    author: "luc-ita"
+    codes:
+      - "2011CCF0 10000006"

@@ -1,0 +1,72 @@
+# One Piece Pirate Warriors 3 cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM61261
+
+game: "One Piece Pirate Warriors 3"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM61261"
+cheat_type: "Save Editor"
+source: "From savedata.jp and made by JorgeFFC"
+
+cheats:
+  - name: "Max Beli"
+    notes: "[Basic Or Miscelaneous Codes]  File: DATA.BIN"
+    codes:
+      - "2000C074 3B9AC9FF"
+      - "2000C078 0292753C"
+
+  - name: "Rare Medals-get Some Of The Gold"
+    notes: "[Basic Or Miscelaneous Codes]  File: DATA.BIN"
+    codes:
+      - "41006CB0 00000101"
+      - "40B10030 00000000"
+
+  - name: "99 Of All Standart Medals"
+    notes: "[Basic Or Miscelaneous Codes]  File: DATA.BIN"
+    codes:
+      - "41005BA0 00006363"
+      - "40410030 00000000"
+
+  - name: "Max Exp All Chars"
+    notes: "[Basic Or Miscelaneous Codes]  File: DATA.BIN"
+    codes:
+      - "420000F0 0098967F"
+      - "402F01F0 00000000"
+
+  - name: "Max Hp All Chars-resets To Normal On Level Up"
+    notes: "[Character Related Codes]  File: DATA.BIN"
+    codes:
+      - "410000F4 00002710"
+      - "402F01F0 00000000"
+
+  - name: "Max Attack All Chars-resets To Normal On Level Up"
+    notes: "[Character Related Codes]  File: DATA.BIN"
+    codes:
+      - "410000F6 000003E8"
+      - "402F01F0 00000000"
+
+  - name: "Max Def All Chars-resets To Normal On Level Up"
+    notes: "[Character Related Codes]  File: DATA.BIN"
+    codes:
+      - "410000F8 000003E8"
+      - "402F01F0 00000000"
+
+  - name: "Max Special Bars All Chars-resets To Normal On Level Up"
+    notes: "[Character Related Codes]  File: DATA.BIN"
+    codes:
+      - "400000FA 00000004"
+      - "402F01F0 00000000"
+
+  - name: "All Characters Lv. 100-non Changes On Their Stats"
+    notes: "[Character Related Codes]  File: DATA.BIN"
+    codes:
+      - "400000FB 00000063"
+      - "402F01F0 00000000"
+
+  - name: "All Chars 6 Skill Slots Opened"
+    notes: "[Character Related Codes]  File: DATA.BIN"
+    codes:
+      - "400000FC 00000006"
+      - "402F01F0 00000000"

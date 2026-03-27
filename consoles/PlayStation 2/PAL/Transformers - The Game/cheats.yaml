@@ -1,0 +1,33 @@
+# Transformers - The Game cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54755
+
+game: "Transformers - The Game"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54755"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F013A9BC 0013A9BF"
+
+  - name: "Infinite Energon Ammo"
+    author: "Codejunkies"
+    codes:
+      - "203EE5C8 24640000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "2035064C 00000000"
+
+  - name: "Infinite Health When Linked To Minicon"
+    author: "Codejunkies"
+    codes:
+      - "203501AC 00000000"

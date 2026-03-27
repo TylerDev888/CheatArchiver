@@ -1,0 +1,20 @@
+# TRANSFORMERS_ Fall of Cybertron cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01153
+
+game: "TRANSFORMERS_ Fall of Cybertron"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01153"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Sha1 (required)"
+    notes: "File: PAYLOAD  (set range:0x000014,0x00037D)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000014,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x000000:[hash]"

@@ -1,0 +1,54 @@
+# Davinci Code, The cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21443
+
+game: "Davinci Code, The"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21443"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F011F634 0011F637"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "9011F7B8 00832021"
+
+  - name: "View Concept Art To Unlock All Extras"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E004102D 006E07F0"
+      - "206E080C 24030001"
+      - "206E0810 A023A4F3"
+      - "206E085C 24030001"
+      - "206E0860 A023A4F1"
+
+  - name: "View Mission Select To Unlock All Levels"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E0031080 006E08F0"
+      - "206E0900 24020001"
+      - "206E0904 03E00008"
+      - "206E0908 A022A4F0"
+
+  - name: "Unlock All Levels/Items/Notes/Infinite Health/1-Hit Kills"
+    author: "Codejunkies"
+    codes:
+      - "20401FA0 24020100"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9011F7B8 00832021"

@@ -1,0 +1,371 @@
+# Monster Rancher 3 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20190
+
+game: "Monster Rancher 3"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20190"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F02D1E24 002DD9CF"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 002DD9CF"
+
+  - name: "[M] Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F02D1D8C 002DD937"
+
+  - name: "Low Def"
+    author: "Codejunkies"
+    notes: "[Def Codes]"
+    codes:
+      - "10374E80 00000001"
+
+  - name: "Max Def"
+    author: "Codejunkies"
+    notes: "[Def Codes]"
+    codes:
+      - "10374E80 000003E7"
+
+  - name: "Max Guts"
+    author: "Codejunkies"
+    notes: "[Guts Codes]"
+    codes:
+      - "00374BAC 00000063"
+
+  - name: "No Guts"
+    author: "Codejunkies"
+    notes: "[Guts Codes]"
+    codes:
+      - "00374BAC 00000000"
+
+  - name: "Infinite Hit Points"
+    author: "Codejunkies"
+    notes: "[Hit Point Codes]"
+    codes:
+      - "10374BA0 000003E7"
+      - "10374BAA 000003E7"
+
+  - name: "Max Int"
+    author: "Codejunkies"
+    notes: "[Hit Point Codes]"
+    codes:
+      - "10374BA4 000003E7"
+
+  - name: "Max Pow"
+    author: "Codejunkies"
+    notes: "[Hit Point Codes]"
+    codes:
+      - "10374BA2 000003E7"
+
+  - name: "Max Spd"
+    author: "Codejunkies"
+    notes: "[Hit Point Codes]"
+    codes:
+      - "10374BA6 000003E7"
+
+  - name: "No Hit Points"
+    author: "Codejunkies"
+    notes: "[Hit Point Codes]"
+    codes:
+      - "10374BA0 00000032"
+      - "10374BAA 00000000"
+
+  - name: "Infinite HP P1"
+    author: "Code Master"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "10374BAA 000003E7"
+
+  - name: "Infinite HP P2"
+    author: "Code Master"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "10374E82 000003E7"
+
+  - name: "Low Max HP P1"
+    author: "Code Master"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "10374BA0 0000000A"
+
+  - name: "Low Max HP P2"
+    author: "Code Master"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "10374E78 0000000A"
+
+  - name: "Max Gauge P1"
+    author: "Code Master"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "10374BAC 00000064"
+
+  - name: "Max Gauge P2"
+    author: "Code Master"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "10374E84 00000064"
+
+  - name: "Max HP P1"
+    author: "Code Master"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "10374BA0 000003E7"
+
+  - name: "Max HP P2"
+    author: "Code Master"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "10374E78 000003E7"
+
+  - name: "Max Int P2"
+    author: "Code Master"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "10374E7C 000003E7"
+
+  - name: "Max Pow P2"
+    author: "Code Master"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "10374E7A 000003E7"
+
+  - name: "Max Spd P2"
+    author: "Code Master"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "10374E7E 000003E7"
+
+  - name: "No Def P1"
+    author: "Code Master"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "10374BA8 00000000"
+
+  - name: "No Def P2"
+    author: "Code Master"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "10374E80 00000000"
+
+  - name: "No Gauge P1"
+    author: "Code Master"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "10374BAC 00000000"
+
+  - name: "No Gauge P2"
+    author: "Code Master"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "10374E84 00000000"
+
+  - name: "No HP P1"
+    author: "Code Master"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "10374BAA 00000000"
+
+  - name: "No HP P2"
+    author: "Code Master"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "10374E82 00000000"
+
+  - name: "No Int P1"
+    author: "Code Master"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "10374BA4 00000000"
+
+  - name: "No Int P2"
+    author: "Code Master"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "10374E7C 00000000"
+
+  - name: "No Pow P1"
+    author: "Code Master"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "10374BA2 00000000"
+
+  - name: "No Pow P2"
+    author: "Code Master"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "10374E7A 00000000"
+
+  - name: "No Spd P1"
+    author: "Code Master"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "10374BA6 00000000"
+
+  - name: "No Spd P2"
+    author: "Code Master"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "10374E7E 00000000"
+
+  - name: "Infinite Money"
+    author: "InterAct"
+    codes:
+      - "2037BEAC 000F423F"
+
+  - name: "Low Int"
+    author: "Codejunkies"
+    notes: "[Int Codes]"
+    codes:
+      - "10374E7C 00000001"
+
+  - name: "Player 1 Infinite HP"
+    author: "InterAct"
+    notes: "[P1 Codes]"
+    codes:
+      - "10374B20 000003E7"
+      - "10374B2A 000003E7"
+
+  - name: "Player 1 Max Def"
+    author: "InterAct"
+    notes: "[P1 Codes]"
+    codes:
+      - "10374B28 000003E7"
+
+  - name: "Player 1 Max Guts"
+    author: "InterAct"
+    notes: "[P1 Codes]"
+    codes:
+      - "10374B2C 00000063"
+
+  - name: "Player 1 Max Int"
+    author: "InterAct"
+    notes: "[P1 Codes]"
+    codes:
+      - "10374B24 000003E7"
+
+  - name: "Player 1 Max Pow"
+    author: "InterAct"
+    notes: "[P1 Codes]"
+    codes:
+      - "10374B22 000003E7"
+
+  - name: "Player 1 Max Spd"
+    author: "InterAct"
+    notes: "[P1 Codes]"
+    codes:
+      - "10374B26 000003E7"
+
+  - name: "Player 1 No Guts"
+    author: "InterAct"
+    notes: "[P1 Codes]"
+    codes:
+      - "10374B2C 00000000"
+
+  - name: "Player 1 No HP"
+    author: "InterAct"
+    notes: "[P1 Codes]"
+    codes:
+      - "10374B20 00000032"
+      - "10374B2A 00000000"
+
+  - name: "Player 2 Infinite HP"
+    author: "InterAct"
+    notes: "[P2 Codes]"
+    codes:
+      - "10374DF8 000003E7"
+      - "10374E02 000003E7"
+
+  - name: "Player 2 Low Def"
+    author: "InterAct"
+    notes: "[P2 Codes]"
+    codes:
+      - "10374E00 00000001"
+
+  - name: "Player 2 Low Int"
+    author: "InterAct"
+    notes: "[P2 Codes]"
+    codes:
+      - "10374DFC 00000001"
+
+  - name: "Player 2 Low Pow"
+    author: "InterAct"
+    notes: "[P2 Codes]"
+    codes:
+      - "10374DFA 00000001"
+
+  - name: "Player 2 Low Spd"
+    author: "InterAct"
+    notes: "[P2 Codes]"
+    codes:
+      - "10374DFE 00000001"
+
+  - name: "Player 2 Max Def"
+    author: "InterAct"
+    notes: "[P2 Codes]"
+    codes:
+      - "10374E00 000003E7"
+
+  - name: "Player 2 Max Guts"
+    author: "InterAct"
+    notes: "[P2 Codes]"
+    codes:
+      - "10374E04 00000063"
+
+  - name: "Player 2 Max Int"
+    author: "InterAct"
+    notes: "[P2 Codes]"
+    codes:
+      - "10374DFC 000003E7"
+
+  - name: "Player 2 Max Pow"
+    author: "InterAct"
+    notes: "[P2 Codes]"
+    codes:
+      - "10374DFA 000003E7"
+
+  - name: "Player 2 Max Spd"
+    author: "InterAct"
+    notes: "[P2 Codes]"
+    codes:
+      - "10374DFE 000003E7"
+
+  - name: "Player 2 No Guts"
+    author: "InterAct"
+    notes: "[P2 Codes]"
+    codes:
+      - "10374E04 00000000"
+
+  - name: "Player 2 No HP"
+    author: "InterAct"
+    notes: "[P2 Codes]"
+    codes:
+      - "10374DF8 00000032"
+      - "10374E02 00000000"
+
+  - name: "Low Pow"
+    author: "Codejunkies"
+    notes: "[Pow Codes]"
+    codes:
+      - "10374E7A 00000001"
+
+  - name: "Low Spd"
+    author: "Codejunkies"
+    notes: "[Spd Codes]"
+    codes:
+      - "10374E7E 00000001"

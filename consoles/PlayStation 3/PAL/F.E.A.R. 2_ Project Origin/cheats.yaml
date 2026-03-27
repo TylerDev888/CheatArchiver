@@ -1,0 +1,19 @@
+# F.E.A.R. 2_ Project Origin cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00464
+
+game: "F.E.A.R. 2_ Project Origin"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00464"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Add For Filename.sav (required)"
+    notes: "File: FILENAME.SAV"
+    codes:
+      - "set [csum]:0"
+      - "set [csum]:add(0x000000,0x12FF1B)"
+      - "write at 0x12FF1C:[csum]"

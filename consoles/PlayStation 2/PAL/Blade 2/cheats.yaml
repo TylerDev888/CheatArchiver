@@ -1,0 +1,48 @@
+# Blade 2 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51014
+
+game: "Blade 2"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51014"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F012A514 0012A517"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "0048D152 00000001"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "0048D122 00000001"
+
+  - name: "Infinite Rage"
+    author: "Codejunkies"
+    codes:
+      - "0048D132 00000001"
+
+  - name: "Unlock All Missions"
+    author: "Codejunkies"
+    codes:
+      - "0048D162 00000001"
+
+  - name: "Unlock All Weapons"
+    author: "Codejunkies"
+    codes:
+      - "0048D172 00000001"
+
+  - name: "Unlock Daywalker Mode"
+    author: "Codejunkies"
+    codes:
+      - "0048D182 00000001"

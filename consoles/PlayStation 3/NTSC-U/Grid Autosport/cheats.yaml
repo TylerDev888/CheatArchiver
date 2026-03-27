@@ -1,0 +1,28 @@
+# Grid Autosport cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS31452
+
+game: "Grid Autosport"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS31452"
+cheat_type: "AP"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Secuinfo.bin (required)"
+    notes: "File: SECUINFO.BIN  (set range:0x000004,0x000027)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"
+
+  - name: "Update Sha256 For Progress.dat (required)"
+    notes: "File: PROGRESS.DAT  (set range:0x000000,0x003EDE)"
+    codes:
+      - "set pointer:eof-0x1F"
+      - "set range:0x000000,pointer"
+      - "set [hash]:sha256"
+      - "write next (0):[hash]"

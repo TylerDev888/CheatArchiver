@@ -1,0 +1,85 @@
+# Bombastic cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Bombastic"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90153F04 0C07D08E"
+
+  - name: "Maximum Score"
+    author: "Xploder"
+    notes: "[Trail Mode]"
+    codes:
+      - "203529F4 05F5E0FF"
+      - "205526A0 05F5E0FF"
+
+  - name: "Reset Timer"
+    author: "Xploder"
+    notes: "[Trail Mode]"
+    codes:
+      - "E002FEFF 003A4B82"
+      - "200C2000 242007BA"
+      - "202F841C 00000000"
+
+  - name: "Level Up To: 100"
+    author: "Xploder"
+    notes: "[Trail Mode]"
+    codes:
+      - "E001FDFF 003A4B82"
+      - "202F8420 00000064"
+
+  - name: "Unlimited Lives"
+    author: "Xploder"
+    notes: "[Quest Mode]"
+    codes:
+      - "204A1ED0 00000005"
+
+  - name: "Complete Realm Of The Ghosts"
+    author: "Xploder"
+    notes: "[Quest Mode]"
+    codes:
+      - "204A1ED8 00000002"
+      - "404A1F08 00040001"
+      - "00000004 00000000"
+
+  - name: "Complete Realm Of The Sweets"
+    author: "Xploder"
+    notes: "[Quest Mode]"
+    codes:
+      - "204A1EDC 00000002"
+      - "404A1F30 00040001"
+      - "00000004 00000000"
+
+  - name: "Complete Realm Of The Creatures"
+    author: "Xploder"
+    notes: "[Quest Mode]"
+    codes:
+      - "204A1EE0 00000002"
+      - "404A1F58 00040001"
+      - "00000004 00000000"
+
+  - name: "Complete Realm Of The Ice"
+    author: "Xploder"
+    notes: "[Quest Mode]"
+    codes:
+      - "204A1EE4 00000002"
+      - "404A1F80 00040001"
+      - "00000004 00000000"
+
+  - name: "Complete Realm Of The Clouds"
+    author: "Xploder"
+    notes: "[Quest Mode]"
+    codes:
+      - "204A1EE8 00000002"
+      - "404A1FA8 00040001"
+      - "00000004 00000000"

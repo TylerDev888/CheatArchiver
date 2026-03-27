@@ -1,0 +1,20 @@
+# TRANSFORMERS_ War for Cybertron cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00833
+
+game: "TRANSFORMERS_ War for Cybertron"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00833"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Sha1 (required)"
+    notes: "File: BLES00833-PROFILE\\PAYLOAD  (set range:0x000014,0x00011B)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000014,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x000000:[hash]"

@@ -1,0 +1,30 @@
+# NBA Live '08 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21649
+
+game: "NBA Live '08"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21649"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Master Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "904A15F0 0C128524"
+
+  - name: "Infinite Time - 3 Point Shootout"
+    author: "BigBossman"
+    codes:
+      - "20952F20 00000E33"
+
+  - name: "Score From Anywhere : Hold R1"
+    author: "nolberto82"
+    codes:
+      - "2068320C 0040802D"
+      - "D09251E5 000000FF"
+      - "2068320C 34100000"

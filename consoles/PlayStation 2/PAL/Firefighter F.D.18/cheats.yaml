@@ -1,0 +1,125 @@
+# Firefighter F.D.18 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Firefighter F.D.18"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "902AD4E8 0C0A93C6"
+      - "200C2000 00000000"
+      - "200C2004 00000000"
+      - "200C2008 03E00008"
+      - "200C200C 24040005"
+      - "20183454 0C030800"
+
+  - name: "HP"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C2004 ACA30028"
+
+  - name: "Stamina"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C2000 ACA30024"
+
+  - name: "Survivor HP"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "201B6D14 00000000"
+
+  - name: "Firefighting Support"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2012FE24 24020003"
+      - "2012FE28 AC620054"
+
+  - name: "First Aid Kits SP"
+    author: "Xploder"
+    notes: "[Unlimited Items]"
+    codes:
+      - "005A52F9 00000063"
+
+  - name: "First Aid Kits"
+    author: "Xploder"
+    notes: "[Unlimited Items]"
+    codes:
+      - "005A52FA 00000063"
+
+  - name: "Impulse Tanks"
+    author: "Xploder"
+    notes: "[Unlimited Items]"
+    codes:
+      - "005A52FC 00000063"
+
+  - name: "Bombs"
+    author: "Xploder"
+    notes: "[Unlimited Items]"
+    codes:
+      - "005A52FD 00000063"
+
+  - name: "Fire Extinguishers"
+    author: "Xploder"
+    notes: "[Unlimited Items]"
+    codes:
+      - "005A52FE 00000063"
+
+  - name: "Keys"
+    author: "Xploder"
+    notes: "[Unlimited Items]"
+    codes:
+      - "005A52FF 00000063"
+
+  - name: "Keycards"
+    author: "Xploder"
+    notes: "[Unlimited Items]"
+    codes:
+      - "005A5300 00000063"
+
+  - name: "Drinks"
+    author: "Xploder"
+    notes: "[Unlimited Items]"
+    codes:
+      - "005A5301 00000063"
+
+  - name: "Hose"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "005A5302 00000001"
+
+  - name: "Impulse Gun"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "005A5303 00000001"
+
+  - name: "Axe"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "005A5304 00000001"
+
+  - name: "Easy Giant Fires"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "2017E7A8 00421023"
+
+  - name: "Stopped Timer"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "2011E008 24003634"

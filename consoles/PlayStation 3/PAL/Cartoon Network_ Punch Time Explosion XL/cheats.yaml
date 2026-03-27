@@ -1,0 +1,25 @@
+# Cartoon Network_ Punch Time Explosion XL cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01622
+
+game: "Cartoon Network_ Punch Time Explosion XL"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01622"
+cheat_type: "Save Editor"
+source: "From Game Genie PS3"
+
+cheats:
+  - name: "Max Points"
+    notes: "File: GDATA"
+    codes:
+      - "2000001C 47C35000"
+
+  - name: "Update Crc32 For Game (required)"
+    notes: "File: GAME  (set range:0x000024,0x001043)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000024,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"

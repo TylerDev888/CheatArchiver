@@ -1,0 +1,154 @@
+# England International Football cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52385
+
+game: "England International Football"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52385"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F036E4BC 0036E4BF"
+
+  - name: "Big Ball"
+    author: "Codejunkies"
+    codes:
+      - "203E3628 40000000"
+
+  - name: "Face Length"
+    author: "Codejunkies"
+    notes: "[Create A Character Codes]"
+    codes:
+      - "0046CA9E 000000FF"
+
+  - name: "Face Width"
+    author: "Codejunkies"
+    notes: "[Create A Character Codes]"
+    codes:
+      - "0046CA9F 000000FF"
+
+  - name: "Jumbo Mode"
+    author: "Codejunkies"
+    notes: "[Create A Character Codes]"
+    codes:
+      - "1046CA98 0000FFFF"
+
+  - name: "Massive Nose"
+    author: "Codejunkies"
+    notes: "[Create A Character Codes]"
+    codes:
+      - "1046CA9A 0000FFFF"
+
+  - name: "Max Chin Prof"
+    author: "Codejunkies"
+    notes: "[Create A Character Codes]"
+    codes:
+      - "0046CAA0 000000FF"
+
+  - name: "Max Chin Width"
+    author: "Codejunkies"
+    notes: "[Create A Character Codes]"
+    codes:
+      - "0046CAA1 000000FF"
+
+  - name: "Display Debug Info"
+    author: "Codejunkies"
+    codes:
+      - "204CAD08 00000001"
+
+  - name: "Giant Ball"
+    author: "Codejunkies"
+    codes:
+      - "203E3628 40800000"
+
+  - name: "Infinite Skill Points"
+    author: "Codejunkies"
+    codes:
+      - "101D1520 00000000"
+
+  - name: "Press Select+Up For Fly Camera"
+    author: "Codejunkies"
+    codes:
+      - "D0506542 0000FFEE"
+      - "003F99D8 00000001"
+      - "D0506542 0000FFBE"
+      - "003F99D8 00000001"
+
+  - name: "Team 1 Score 0 (Press L1+L2+Down)"
+    author: "Codejunkies"
+    codes:
+      - "D0506542 0000FABF"
+      - "004DB49C 00000000"
+
+  - name: "Team 1 Score 98 (Press L1+L2+Up)"
+    author: "Codejunkies"
+    codes:
+      - "D0506542 0000FAEF"
+      - "004DB49C 00000062"
+
+  - name: "Team 2 Score 0 (Press R1+R2+Up)"
+    author: "Codejunkies"
+    codes:
+      - "D0506542 0000F5BF"
+      - "004DC7A8 00000000"
+
+  - name: "Team 2 Score 98 (Press R1+R2+Up)"
+    author: "Codejunkies"
+    codes:
+      - "D0506542 0000F5EF"
+      - "004DC7A8 00000062"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90344BD4 0C0DB918"
+
+  - name: "Home Team Leads 99-0"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "E002FEFE 005065C2"
+      - "204DB49C 00000063"
+      - "204DC7A8 00000000"
+
+  - name: "Away Team Leads 99-0"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "E002FDFE 005065C2"
+      - "204DB49C 00000063"
+      - "204DC7A8 00000000"
+
+  - name: "Reset Clock"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "E001FBFE 005065C2"
+      - "204CC7D0 00000000"
+
+  - name: "End Half"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "E001F7FE 005065C2"
+      - "204CC7D0 00100000"
+
+  - name: "Unlock All Memorabilia"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20172A88 24021972"
+
+  - name: "Have All Trophies"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20172CA0 24021972"

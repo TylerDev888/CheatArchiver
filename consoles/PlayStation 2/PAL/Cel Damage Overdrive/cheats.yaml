@@ -1,0 +1,51 @@
+# Cel Damage Overdrive cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51554
+
+game: "Cel Damage Overdrive"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51554"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F015B1AC 0015B1AF"
+
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90154178 0C055006"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9015B1AC 0C051A04"
+
+  - name: "Debug State"
+    author: "Codejunkies"
+    codes:
+      - "20362954 00000001"
+
+  - name: "Emoticon"
+    author: "Codejunkies"
+    codes:
+      - "20362894 00000001"
+
+  - name: "Everything Opened (Load A Profile)"
+    author: "Codejunkies"
+    codes:
+      - "4037A678 00050001"
+      - "00000000 00000000"
+
+  - name: "Press Select For Language Selection"
+    author: "Codejunkies"
+    codes:
+      - "203627E8 00000001"

@@ -1,0 +1,111 @@
+# GrimGrimoire
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-21604  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Enable Code (MUST BE ON)
+**Author:**   
+**Notes:** [Masters]
+
+```
+9010BA18 0C042E2E
+```
+
+---
+
+### Player 1 Controller
+**Author:**   
+**Notes:** [Jokers]
+
+```
+D02630B8 0000[Joker:Ps2]
+```
+
+---
+
+### Gain Mana Mod
+**Author:** 
+
+```
+20197DC8 2004[Amount:2710:HEX:BIG]
+```
+
+---
+
+### Inf Mana
+**Author:** 
+
+```
+201AEC74 00000000
+201AECC8 00000000
+```
+
+---
+
+### Game Time Always 00:00 (/Off = 10000008,10000004,03e00008,00000000,00000000
+**Author:** 
+
+```
+20185ED8 1000000A
+20185EE8 10000006
+20185EFC 8C970000
+20185F00 AEE00020
+20185F04 03E00008
+```
+
+---
+
+### Alowed To Build 255 Units
+**Author:** 
+
+```
+201AF2F4 08028000
+201AF2F8 201100FF
+200A0000 AE9202EC
+200A0004 0280202D
+200A0008 0806BCBE
+```
+
+---
+
+### Flash Build Army
+**Author:** 
+
+```
+20192D0C 0802801C
+200A0070 8C9701E0
+200A0074 12E00006
+200A007C 848201DC
+200A0080 A48201DE
+200A0084 3C16447A
+200A0088 AC9601E0
+200A0090 03E00008
+```
+
+---
+
+### Flash Advents \
+**Author:** 
+
+```
+201C46D8 08028010
+201C46DC 00000000
+200A0040 24630001
+200A0044 8E1701E0
+200A0048 12E00007
+200A0050 860301DC
+200A0054 A60301DE
+200A0058 3C16447A
+200A005C AE1601E0
+200A0060 080711B7
+200A0068 080711B7
+200A006C A60301DE
+```
+
+---

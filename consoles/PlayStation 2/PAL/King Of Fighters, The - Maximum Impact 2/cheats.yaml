@@ -1,0 +1,143 @@
+# King Of Fighters, The - Maximum Impact 2 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54255
+
+game: "King Of Fighters, The - Maximum Impact 2"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54255"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "CMX"
+    notes: "[Master Codes]"
+    codes:
+      - "901177E0 00832021"
+
+  - name: "1-Hit Death P1"
+    author: "CMX"
+    codes:
+      - "E0023F80 2081AEFC"
+      - "2081AEFC 3F800000"
+      - "2081AF00 437A0000"
+
+  - name: "1-Hit Death P2"
+    author: "CMX"
+    codes:
+      - "E0023F80 2081B0BC"
+      - "2081B0BC 3F800000"
+      - "2081B0C0 437A0000"
+
+  - name: "Hit Anywhere Both Players"
+    author: "nolberto82"
+    codes:
+      - "2037F880 00000000"
+
+  - name: "Infinite Health P1"
+    author: "CMX"
+    codes:
+      - "2081AEFC 437A0000"
+
+  - name: "Infinite Health P2"
+    author: "CMX"
+    codes:
+      - "2081B0BC 437A0000"
+
+  - name: "Max Guard P1"
+    author: "CMX"
+    codes:
+      - "1081AF04 00000F0F"
+
+  - name: "Max Guard P2"
+    author: "CMX"
+    codes:
+      - "1081B0C4 00000F0F"
+
+  - name: "Max Power Gauge Level P1"
+    author: "CMX"
+    codes:
+      - "1081AF08 00000303"
+
+  - name: "Max Power Gauge Level P2"
+    author: "CMX"
+    codes:
+      - "1081B0C8 00000303"
+
+  - name: "Max Power Gauge P1"
+    author: "CMX"
+    codes:
+      - "1081AF06 00006464"
+
+  - name: "Max Power Gauge P2"
+    author: "CMX"
+    codes:
+      - "1081B0C6 00006464"
+
+  - name: "No Guard P1"
+    author: "CMX"
+    codes:
+      - "1081AF04 00000000"
+
+  - name: "No Guard P2"
+    author: "CMX"
+    codes:
+      - "1081B0C4 00000000"
+
+  - name: "No Health P1"
+    author: "CMX"
+    codes:
+      - "2081AEFC 00000000"
+
+  - name: "No Health P2"
+    author: "CMX"
+    codes:
+      - "2081B0BC 00000000"
+
+  - name: "No Power Gauge Level P1"
+    author: "CMX"
+    codes:
+      - "1081AF08 00000000"
+
+  - name: "No Power Gauge Level P2"
+    author: "CMX"
+    codes:
+      - "1081B0C8 00000000"
+
+  - name: "No Power Gauge P1"
+    author: "CMX"
+    codes:
+      - "1081AF06 00000000"
+
+  - name: "No Power Gauge P2"
+    author: "CMX"
+    codes:
+      - "1081B0C6 00000000"
+
+  - name: "Unlock All Characters"
+    author: "lee4"
+    codes:
+      - "4081FF6C 0026000C"
+      - "01010701 00000000"
+
+  - name: "Unlock All Color Variation"
+    author: "lee4"
+    codes:
+      - "4081FF70 0026000C"
+      - "01010101 00000000"
+      - "4081FF74 0026000C"
+      - "01010101 00000000"
+      - "4081FF78 0026000C"
+      - "01010101 00000000"
+      - "4081FF7C 0026000C"
+      - "01010101 00000000"
+
+  - name: "Unlock All Stages & Soundtest"
+    author: "lee4"
+    codes:
+      - "1081F6F0 00000101"
+      - "2081F6E0 0101010A"
+      - "4081F6E4 00030001"
+      - "01010101 00000000"

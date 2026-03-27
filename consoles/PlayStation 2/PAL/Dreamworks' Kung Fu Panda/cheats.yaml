@@ -1,0 +1,53 @@
+# Dreamworks' Kung Fu Panda cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-55035
+
+game: "Dreamworks' Kung Fu Panda"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-55035"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "1Hitkill (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "D05FD1C2 0000FDFE"
+      - "20157A14 1000000A"
+      - "D05FD1C2 0000FEFE"
+      - "20157A14 5620000A"
+
+  - name: "Buy Even Without Coins"
+    author: "luc-ita"
+    codes:
+      - "20356D50 00000000"
+      - "20356F1C 00000000"
+      - "20356F64 00000000"
+
+  - name: "Enemies Die After Few Attack Attempts (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "2016D88C 00000000"
+
+  - name: "Enemies Don't Attack"
+    author: "luc-ita"
+    codes:
+      - "2023A7E4 100001D9"
+
+  - name: "Infinite Mana"
+    author: "luc-ita"
+    codes:
+      - "201DD70C 00000000"
+
+  - name: "Timer Stopped"
+    author: "luc-ita"
+    codes:
+      - "2029E564 00000000"
+
+  - name: "Untouchable"
+    author: "luc-ita"
+    codes:
+      - "2013E184 3C020006"
+      - "2013E188 AE0201B8"

@@ -1,0 +1,3805 @@
+# NCAA Football 2003 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20530
+
+game: "NCAA Football 2003"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20530"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100084 003BC7DB"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 003BC7EF"
+
+  - name: "2-Point Conversions Score Modifier"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D046DC68 00000000"
+      - "1012DD04 00000002"
+      - "D046DC68 00000001"
+      - "1012DD04 000000??"
+
+  - name: "Extra Point's Score Modifier"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D046DC68 00000000"
+      - "1012DCBC 00000001"
+      - "D046DC68 00000001"
+      - "1012DCBC 000000??"
+
+  - name: "Field Goal's Score Modifier"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D046DC68 00000000"
+      - "1012D760 00000003"
+      - "D046DC68 00000001"
+      - "1012D760 000000??"
+
+  - name: "Safety's Score Modifier"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D046DC68 00000000"
+      - "1012DF2C 0000FFFE"
+      - "D046DC68 00000001"
+      - "1012DF2C 0000FF??"
+
+  - name: "Touch Down's Score Modifier"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0030000 0046DC68"
+      - "1012D9D0 00000006"
+      - "1012DA38 00000006"
+      - "1012DE8C 00000006"
+      - "E0030001 0046DC68"
+      - "1012D9D0 000000??"
+      - "1012DA38 000000??"
+      - "1012DE8C 000000??"
+
+  - name: "Always Score 0"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "1047D68C 00000000"
+
+  - name: "Always Score 50"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "1047D68C 00000032"
+
+  - name: "Away Winning Score (Press R1+R2 To Activate)"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "D04BA102 0000F5FF"
+      - "1047D688 00000000"
+      - "D04BA102 0000F5FF"
+      - "1047D68C 00000032"
+
+  - name: "Home Winning Score (Press L1+L2 To Activate)"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "D04BA102 0000FAFF"
+      - "1047D688 00000032"
+      - "D04BA102 0000FAFF"
+      - "1047D68C 00000000"
+
+  - name: "Infinite Pennant Credits"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "11BF6320 000000C8"
+
+  - name: "Max Pennant Unlock Code"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "21C0E100 00000119"
+
+  - name: "Home/Away Team Only Codes Activator"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "2020A5BC 0811B712"
+      - "2046DC48 3C010047"
+      - "2046DC4C 03E00008"
+      - "2046DC50 AC22DC68"
+
+  - name: "100 Rice"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E424 00100063"
+
+  - name: "101 Rutgers"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E344 00100064"
+
+  - name: "102 S Carolina State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E428 00100065"
+
+  - name: "103 San Diego State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E33C 00100066"
+
+  - name: "104 San Jose State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E3A8 00100067"
+
+  - name: "105 Smu"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E2B0 00100068"
+
+  - name: "106 South Carolina"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E314 00100069"
+
+  - name: "107 Southern"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E42C 0010006A"
+
+  - name: "108 Southern Miss"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E430 0010006B"
+
+  - name: "109 Stanford"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E434 0010006C"
+
+  - name: "110 Syracuse"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E43C 0010006D"
+
+  - name: "111 Tcu"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E444 0010006E"
+
+  - name: "112 Temple"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E448 0010006F"
+
+  - name: "113 Tennessee"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E44C 00100070"
+
+  - name: "114 Texas"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E2C0 00100071"
+
+  - name: "115 Texas A&M"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E450 00100072"
+
+  - name: "116 Texas Southern"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E454 00100073"
+
+  - name: "117 Texas Tech"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E458 00100074"
+
+  - name: "118 Toledo"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E270 00100075"
+
+  - name: "119 Troy State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E2A4 00100076"
+
+  - name: "120 Tulane"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E45C 00100077"
+
+  - name: "121 Tulsa"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E468 00100078"
+
+  - name: "122 Uab"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E46C 00100079"
+
+  - name: "123 Ucf"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E470 0010007A"
+
+  - name: "124 Ucla"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E478 0010007B"
+
+  - name: "125 Uconn"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E47C 0010007C"
+
+  - name: "126 Ul Lafayette"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E1DC 0010007D"
+
+  - name: "127 Ul Monroe"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E2D0 0010007E"
+
+  - name: "128 Unlv"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E184 0010007F"
+
+  - name: "129 Usc"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E480 00100080"
+
+  - name: "130 Usf"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E464 00100081"
+
+  - name: "131 Utah"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E484 00100082"
+
+  - name: "132 Utah State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E460 00100083"
+
+  - name: "133 Utep"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E29C 00100084"
+
+  - name: "134 Vanderbilt"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E488 00100085"
+
+  - name: "135 Virginia"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E2BC 00100086"
+
+  - name: "136 Virginia Tech"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E48C 00100087"
+
+  - name: "137 Wake Forest"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E494 00100088"
+
+  - name: "138 Washington"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E498 00100089"
+
+  - name: "139 Washington State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E49C 0010008A"
+
+  - name: "140 West Virginia"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E348 0010008B"
+
+  - name: "141 Western Michigan"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E4A4 0010008C"
+
+  - name: "142 Wisconsin"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E4AC 0010008D"
+
+  - name: "143 Wyoming"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E1B0 0010008E"
+
+  - name: "144 Yale"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E338 0010008F"
+
+  - name: "145 1St & 5"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E218 00100090"
+
+  - name: "146 1St & 15"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E250 00100091"
+
+  - name: "147 Blink"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E3A4 00100092"
+
+  - name: "148 Boing"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E310 00100093"
+
+  - name: "149 Brakes"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E438 00100094"
+
+  - name: "150 Butter Fingers"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E4B0 00100095"
+
+  - name: "151 Crossed The Line"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E420 00100096"
+
+  - name: "152 Cuffed"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E4B4 00100097"
+
+  - name: "153 Diesel"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E2D8 00100098"
+
+  - name: "154 Extra Credit"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E360 00100099"
+
+  - name: "155 Helium"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E4B8 0010009A"
+
+  - name: "156 Hurricane"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E19C 0010009B"
+
+  - name: "157 Instant Freplay"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E3B8 0010009C"
+
+  - name: "158 Jumbalaya"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E2B8 0010009D"
+
+  - name: "159 Kicker Hex"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E180 0010009E"
+
+  - name: "160 Molasses"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E204 0010009F"
+
+  - name: "161 Pitch It"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E2F8 001000A0"
+
+  - name: "162 Protection"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E18C 001000A1"
+
+  - name: "163 Qb Dud"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E4C0 001000A2"
+
+  - name: "164 Qb Rocket"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E490 001000A3"
+
+  - name: "165 Speedy"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E3CC 001000A4"
+
+  - name: "166 Steel Toe"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E220 001000A5"
+
+  - name: "167 Stiffed"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E4C4 001000A6"
+
+  - name: "168 Super Bullet"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E268 001000A7"
+
+  - name: "169 Super Dive"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E31C 001000A8"
+
+  - name: "170 Take Your Time!"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E24C 001000A9"
+
+  - name: "171 Thread & Needle"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E1F8 001000AA"
+
+  - name: "172 Tough As Nails"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E3B0 001000AB"
+
+  - name: "173 Trip"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E4CC 001000AC"
+
+  - name: "174 Want A Tip"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E4D0 001000AD"
+
+  - name: "175 What A Hit"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E388 001000AE"
+
+  - name: "176 Alamo Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E4D4 001000AF"
+
+  - name: "177 Axa Liberty Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E4D8 001000B0"
+
+  - name: "178 Citrus Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E4DC 001000B1"
+
+  - name: "179 Cotton Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E1A8 001000B2"
+
+  - name: "180 Fiesta Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E328 001000B3"
+
+  - name: "181 Gator Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E1A0 001000B4"
+
+  - name: "182 Gmac Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E1C0 001000B5"
+
+  - name: "183 Hawaii Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E4E4 001000B6"
+
+  - name: "184 Holiday Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E4E8 001000B7"
+
+  - name: "185 Houston Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E4EC 001000B8"
+
+  - name: "186 Humanitarian Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E1E0 001000B9"
+
+  - name: "187 Independence Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E5C4 001000BA"
+
+  - name: "188 Insight.Com Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E4F0 001000BB"
+
+  - name: "189 Motor City Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E4F4 001000BC"
+
+  - name: "190 Music City Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E4F8 001000BD"
+
+  - name: "191 Nevada Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E4FC 001000BE"
+
+  - name: "192 New Orleans Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E1C8 001000BF"
+
+  - name: "193 Orange Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E500 001000C0"
+
+  - name: "194 Outback Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E440 001000C1"
+
+  - name: "195 Peach Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E394 001000C2"
+
+  - name: "196 Queen City Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E2D4 001000C3"
+
+  - name: "197 Rose Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E504 001000C4"
+
+  - name: "198 San Francisco Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E21C 001000C5"
+
+  - name: "199 Seattle Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E508 001000C6"
+
+  - name: "200 Silicon Valley Classic"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E3C0 001000C7"
+
+  - name: "201 Sugar Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E3D4 001000C8"
+
+  - name: "202 Sun Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E4A0 001000C9"
+
+  - name: "203 Tnagerine Bowl"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E510 001000CA"
+
+  - name: "204 Ea Sports Stadium"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E514 001000CB"
+
+  - name: "205 Tiburon Stadium"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E2F4 001000CC"
+
+  - name: "206 01 All-Americans"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E518 001000CD"
+
+  - name: "207 00 All-Americans"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E5C8 001000CE"
+
+  - name: "208 99 All-Americans"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E1A4 001000CF"
+
+  - name: "209 98 All-Americans"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E340 001000D0"
+
+  - name: "210 97 All-Americans"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E354 001000D1"
+
+  - name: "211 96 All-Americans"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E188 001000D2"
+
+  - name: "212 95 All-Americans"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E51C 001000D3"
+
+  - name: "213 94 All-Americans"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E520 001000D4"
+
+  - name: "214 93 All-Americans"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E524 001000D5"
+
+  - name: "215 92 All-Americans"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E2E4 001000D6"
+
+  - name: "216 91 All-Americans"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E380 001000D7"
+
+  - name: "217 All-Time Alabama"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E1AC 001000D8"
+
+  - name: "218 All-Time Florida"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E244 001000D9"
+
+  - name: "219 All-Time Fsu"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E2FC 001000DA"
+
+  - name: "220 All-Time Georgia"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E52C 001000DB"
+
+  - name: "221 All-Time Miami"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E530 001000DC"
+
+  - name: "222 All-Time Michigan"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E384 001000DD"
+
+  - name: "223 All-Time Nebraska"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E53C 001000DE"
+
+  - name: "224 All-Time Notre Dame"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E540 001000DF"
+
+  - name: "225 All-Time Ohio State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E224 001000E0"
+
+  - name: "226 All-Time Oklahoma"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E1C4 001000E1"
+
+  - name: "227 All-Time Penn State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E2CC 001000E2"
+
+  - name: "228 All-Time Pittsburgh"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E544 001000E3"
+
+  - name: "229 All-Time Tennessee"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E4A8 001000E4"
+
+  - name: "230 All-Time Ucla"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E240 001000E5"
+
+  - name: "231 All-Time Usc"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E548 001000E6"
+
+  - name: "232 Albert"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E54C 001000E7"
+
+  - name: "233 Aubie"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E550 001000E8"
+
+  - name: "234 Baldwin"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E554 001000E9"
+
+  - name: "235 Benny Beaver"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E558 001000EA"
+
+  - name: "236 Big Al"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E55C 001000EB"
+
+  - name: "237 Big Red"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E190 001000EC"
+
+  - name: "238 Blue Devil"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E26C 001000ED"
+
+  - name: "239 Brutus Buckeye"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E560 001000EE"
+
+  - name: "240 Bucky Badger"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E284 001000EF"
+
+  - name: "241 Bully"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E1BC 001000F0"
+
+  - name: "242 Buzz"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E4E0 001000F1"
+
+  - name: "243 Cam The Ram"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E564 001000F2"
+
+  - name: "244 Cardinal Bird"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E568 001000F3"
+
+  - name: "245 Chip"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E50C 001000F4"
+
+  - name: "246 Cocky"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E56C 001000F5"
+
+  - name: "247 Colonel Reb"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E570 001000F6"
+
+  - name: "248 Cosmo"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E574 001000F7"
+
+  - name: "249 Cy"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E4BC 001000F8"
+
+  - name: "250 Goldy Gopher"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E578 001000F9"
+
+  - name: "251 Hairy Dawg"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E474 001000FA"
+
+  - name: "252 Harry"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E57C 001000FB"
+
+  - name: "253 Herbie Husker"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E580 001000FC"
+
+  - name: "254 Herky Hawkeye"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E584 001000FD"
+
+  - name: "255 Hokie Bird"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E588 001000FE"
+
+  - name: "256 Hook 'Em"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E58C 001000FF"
+
+  - name: "257 Joe Bruin"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E590 00100100"
+
+  - name: "258 Knightpro"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E178 00100101"
+
+  - name: "259 Mike The Tiger"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E538 00100102"
+
+  - name: "260 Nittany Lion"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E594 00100103"
+
+  - name: "261 Otto"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E598 00100104"
+
+  - name: "262 Pee Dee"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E59C 00100105"
+
+  - name: "263 Pistol Pete"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E5A0 00100106"
+
+  - name: "264 Purdue Pete"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E5A4 00100107"
+
+  - name: "265 Rameses"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E4C8 00100108"
+
+  - name: "266 Roc The Panther"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E5A8 00100109"
+
+  - name: "267 Scrappy"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E5AC 0010010A"
+
+  - name: "268 Sebastian"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E5B0 0010010B"
+
+  - name: "269 Smokey"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E534 0010010C"
+
+  - name: "270 Sparky"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E5B4 0010010D"
+
+  - name: "271 Sparty"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E5B8 0010010E"
+
+  - name: "272 Superfrog"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E5BC 0010010F"
+
+  - name: "273 Tetsudo"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E5D0 00100110"
+
+  - name: "274 The Cavalier"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E2C4 00100111"
+
+  - name: "277 The Tiger"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E528 00100114"
+
+  - name: "279 Willie"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E254 00100116"
+
+  - name: "280 Willie Wildcat"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E2B4 00100117"
+
+  - name: "Air Force"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E1E4 00100000"
+
+  - name: "Akron"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E1F4 00100001"
+
+  - name: "Alabama"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E20C 00100002"
+
+  - name: "Alabama A&M"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E210 00100003"
+
+  - name: "Alabama State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E1FC 00100004"
+
+  - name: "Alcorn State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E230 00100005"
+
+  - name: "Arizona"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E248 00100006"
+
+  - name: "Arizona State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E1D8 00100007"
+
+  - name: "Ark Pine-Bluff"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E258 00100008"
+
+  - name: "Arkansas"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E274 00100009"
+
+  - name: "Arkansas State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E278 0010000A"
+
+  - name: "Army"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E27C 0010000B"
+
+  - name: "Auburn"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E280 0010000C"
+
+  - name: "Ball State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E288 0010000D"
+
+  - name: "Baylor"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E1F0 0010000E"
+
+  - name: "Bethune-Cookman"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E290 0010000F"
+
+  - name: "Boise State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E294 00100010"
+
+  - name: "Boston College"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E298 00100011"
+
+  - name: "Bowling Green"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E2A8 00100012"
+
+  - name: "Brown"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E260 00100013"
+
+  - name: "Buffalo"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E264 00100014"
+
+  - name: "Byu"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E2AC 00100015"
+
+  - name: "Cal"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E2DC 00100016"
+
+  - name: "Central Michigan"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E300 00100017"
+
+  - name: "Cincinnati"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E308 00100018"
+
+  - name: "Clemson"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E318 00100019"
+
+  - name: "Colorado"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E324 0010001A"
+
+  - name: "Colorado State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E330 0010001B"
+
+  - name: "Columbia"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E30C 0010001C"
+
+  - name: "Cornell"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E334 0010001D"
+
+  - name: "Dartmouth"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E208 0010001E"
+
+  - name: "Delaware State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E34C 0010001F"
+
+  - name: "Duke"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E358 00100020"
+
+  - name: "Eastern Michigan"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E35C 00100021"
+
+  - name: "Ecu"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E1D4 00100022"
+
+  - name: "Florida"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E214 00100023"
+
+  - name: "Florida A&M"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E2C8 00100024"
+
+  - name: "Florida State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E364 00100025"
+
+  - name: "Fresno State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E36C 00100026"
+
+  - name: "Georgia"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E320 00100027"
+
+  - name: "Georgia Tech"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E374 00100028"
+
+  - name: "Grambling State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E28C 00100029"
+
+  - name: "Hampton"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E378 0010002A"
+
+  - name: "Harvard"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E32C 0010002B"
+
+  - name: "Hawaii"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E1D0 0010002C"
+
+  - name: "Houston"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E38C 0010002D"
+
+  - name: "Howard"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E398 0010002E"
+
+  - name: "Idaho"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E39C 0010002F"
+
+  - name: "Illinois"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E3A0 00100030"
+
+  - name: "Indiana"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E3AC 00100031"
+
+  - name: "Iowa"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E3B4 00100032"
+
+  - name: "Iowa State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E22C 00100033"
+
+  - name: "Jackson State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E23C 00100034"
+
+  - name: "Kansas"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E3BC 00100035"
+
+  - name: "Kansas State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E350 00100036"
+
+  - name: "Kent State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E25C 00100037"
+
+  - name: "Kentucky"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E238 00100038"
+
+  - name: "Louisiana Tech"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E194 00100039"
+
+  - name: "Louisville"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E3C4 0010003A"
+
+  - name: "Lsu"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E3C8 0010003B"
+
+  - name: "Marshall"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E368 0010003C"
+
+  - name: "Maryland"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E3D0 0010003D"
+
+  - name: "Memphis"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E3D8 0010003E"
+
+  - name: "Miami"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E200 0010003F"
+
+  - name: "Miami [Oh]"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E390 00100040"
+
+  - name: "Michigan"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E3DC 00100041"
+
+  - name: "Michigan State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E198 00100042"
+
+  - name: "Mid Tenn State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E3E0 00100043"
+
+  - name: "Minnesota"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E2E8 00100044"
+
+  - name: "Miss Valley State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E3E4 00100045"
+
+  - name: "Mississippi State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E1B8 00100046"
+
+  - name: "Missouri"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E228 00100047"
+
+  - name: "Morgan State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E2A0 00100048"
+
+  - name: "Navy"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E1E8 00100049"
+
+  - name: "Nc State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E3E8 0010004A"
+
+  - name: "Nebraska"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E3EC 0010004B"
+
+  - name: "Nevada"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E2E0 0010004C"
+
+  - name: "New Mexico"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E3F0 0010004D"
+
+  - name: "New Mexico State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E234 0010004E"
+
+  - name: "Norfolk State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E1B4 0010004F"
+
+  - name: "North Carolina"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E3FC 00100051"
+
+  - name: "North Carolina A&T"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E3F4 00100050"
+
+  - name: "North Texas"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E370 00100052"
+
+  - name: "Northern Illinois"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E3F8 00100053"
+
+  - name: "Northwest"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E400 00100054"
+
+  - name: "Notre Dame"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E1EC 00100055"
+
+  - name: "Ohio"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E304 00100056"
+
+  - name: "Ohio State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E1CC 00100057"
+
+  - name: "Oklahoma"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E2F0 00100058"
+
+  - name: "Oklahoma State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E37C 00100059"
+
+  - name: "Ole Miss"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E404 0010005A"
+
+  - name: "Oregon"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E408 0010005B"
+
+  - name: "Oregon State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E40C 0010005C"
+
+  - name: "Penn"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E2EC 0010005D"
+
+  - name: "Penn State"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E410 0010005E"
+
+  - name: "Pittsburgh"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E414 0010005F"
+
+  - name: "Prairie View A&M"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E418 00100060"
+
+  - name: "Princeton"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E41C 00100061"
+
+  - name: "Purdue"
+    author: "Codejunkies"
+    notes: "[Card Codes]"
+    codes:
+      - "21C0E17C 00100062"
+
+  - name: "Pennant 1"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E1F0 00100000"
+
+  - name: "Pennant 3"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E1F8 00100002"
+
+  - name: "Pennant 4"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E1FC 00100003"
+
+  - name: "Pennant 5"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E200 00100004"
+
+  - name: "Pennant 6"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E204 00100005"
+
+  - name: "Pennant 7"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E208 00100006"
+
+  - name: "Pennant 8"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E20C 00100007"
+
+  - name: "Pennant 9"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E210 00100008"
+
+  - name: "Pennant 10"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E214 00100009"
+
+  - name: "Pennant 11"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E218 0010000A"
+
+  - name: "Pennant 12"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E21C 0010000B"
+
+  - name: "Pennant 13"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E220 0010000C"
+
+  - name: "Pennant 14"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E224 0010000D"
+
+  - name: "Pennant 15"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E228 0010000E"
+
+  - name: "Pennant 16"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E22C 0010000F"
+
+  - name: "Pennant 17"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E230 00100010"
+
+  - name: "Pennant 18"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E234 00100011"
+
+  - name: "Pennant 19"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E238 00100012"
+
+  - name: "Pennant 20"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E23C 00100013"
+
+  - name: "Pennant 21"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E240 00100014"
+
+  - name: "Pennant 22"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E244 00100015"
+
+  - name: "Pennant 23"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E248 00100016"
+
+  - name: "Pennant 24"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E24C 00100017"
+
+  - name: "Pennant 25"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E250 00100018"
+
+  - name: "Pennant 26"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E254 00100019"
+
+  - name: "Pennant 27"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E258 0010001A"
+
+  - name: "Pennant 28"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E25C 0010001B"
+
+  - name: "Pennant 29"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E260 0010001C"
+
+  - name: "Pennant 30"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E264 0010001D"
+
+  - name: "Pennant 31"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E268 0010001E"
+
+  - name: "Pennant 32"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E26C 0010001F"
+
+  - name: "Pennant 33"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E270 00100020"
+
+  - name: "Pennant 34"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E274 00100021"
+
+  - name: "Pennant 35"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E278 00100022"
+
+  - name: "Pennant 36"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E27C 00100023"
+
+  - name: "Pennant 37"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E280 00100024"
+
+  - name: "Pennant 38"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E284 00100025"
+
+  - name: "Pennant 39"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E288 00100026"
+
+  - name: "Pennant 40"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E28C 00100027"
+
+  - name: "Pennant 41"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E290 00100028"
+
+  - name: "Pennant 42"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E294 00100029"
+
+  - name: "Pennant 43"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E298 0010002A"
+
+  - name: "Pennant 44"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E29C 0010002B"
+
+  - name: "Pennant 45"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E2A0 0010002C"
+
+  - name: "Pennant 46"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E2A4 0010002D"
+
+  - name: "Pennant 47"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E2A8 0010002E"
+
+  - name: "Pennant 48"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E2AC 0010002F"
+
+  - name: "Pennant 49"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E2B0 00100030"
+
+  - name: "Pennant 50"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E2B4 00100031"
+
+  - name: "Pennant 51"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E2B8 00100032"
+
+  - name: "Pennant 52"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E2BC 00100033"
+
+  - name: "Pennant 53"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E2C0 00100034"
+
+  - name: "Pennant 54"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E2C4 00100035"
+
+  - name: "Pennant 55"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E2C8 00100036"
+
+  - name: "Pennant 56"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E2CC 00100037"
+
+  - name: "Pennant 57"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E2D0 00100038"
+
+  - name: "Pennant 58"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E2D4 00100039"
+
+  - name: "Pennant 59"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E2D8 0010003A"
+
+  - name: "Pennant 60"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E2DC 0010003B"
+
+  - name: "Pennant 61"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E2E0 0010003C"
+
+  - name: "Pennant 62"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E2E4 0010003D"
+
+  - name: "Pennant 63"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E2E8 0010003E"
+
+  - name: "Pennant 64"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E2EC 0010003F"
+
+  - name: "Pennant 65"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E2F0 00100040"
+
+  - name: "Pennant 66"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E2F4 00100041"
+
+  - name: "Pennant 67"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E2F8 00100042"
+
+  - name: "Pennant 68"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E2FC 00100043"
+
+  - name: "Pennant 69"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E300 00100044"
+
+  - name: "Pennant 70"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E304 00100045"
+
+  - name: "Pennant 71"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E308 00100046"
+
+  - name: "Pennant 72"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E30C 00100047"
+
+  - name: "Pennant 73"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E310 00100048"
+
+  - name: "Pennant 74"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E314 00100049"
+
+  - name: "Pennant 75"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E318 0010004A"
+
+  - name: "Pennant 76"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E31C 0010004B"
+
+  - name: "Pennant 77"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E320 0010004C"
+
+  - name: "Pennant 78"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E324 0010004D"
+
+  - name: "Pennant 79"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E328 0010004E"
+
+  - name: "Pennant 80"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E32C 0010004F"
+
+  - name: "Pennant 81"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E330 00100050"
+
+  - name: "Pennant 82"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E334 00100051"
+
+  - name: "Pennant 83"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E338 00100052"
+
+  - name: "Pennant 84"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E33C 00100053"
+
+  - name: "Pennant 85"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E340 00100054"
+
+  - name: "Pennant 86"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E344 00100055"
+
+  - name: "Pennant 87"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E348 00100056"
+
+  - name: "Pennant 88"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E34C 00100057"
+
+  - name: "Pennant 89"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E350 00100058"
+
+  - name: "Pennant 90"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E354 00100059"
+
+  - name: "Pennant 91"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E358 0010005A"
+
+  - name: "Pennant 92"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E35C 0010005B"
+
+  - name: "Pennant 93"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E360 0010005C"
+
+  - name: "Pennant 94"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E364 0010005D"
+
+  - name: "Pennant 95"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E368 0010005E"
+
+  - name: "Pennant 96"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E36C 0010005F"
+
+  - name: "Pennant 97"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E370 00100060"
+
+  - name: "Pennant 98"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E374 00100061"
+
+  - name: "Pennant 99"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E378 00100062"
+
+  - name: "Pennant 100"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 1)]"
+    codes:
+      - "21C0E37C 00100063"
+
+  - name: "Pennant 101"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E380 00100064"
+
+  - name: "Pennant 102"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E384 00100065"
+
+  - name: "Pennant 103"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E388 00100066"
+
+  - name: "Pennant 104"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E38C 00100067"
+
+  - name: "Pennant 105"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E390 00100068"
+
+  - name: "Pennant 106"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E394 00100069"
+
+  - name: "Pennant 107"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E398 0010006A"
+
+  - name: "Pennant 108"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E39C 0010006B"
+
+  - name: "Pennant 109"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E3A0 0010006C"
+
+  - name: "Pennant 110"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E3A4 0010006D"
+
+  - name: "Pennant 111"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E3A8 0010006E"
+
+  - name: "Pennant 112"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E3AC 0010006F"
+
+  - name: "Pennant 113"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E3B0 00100070"
+
+  - name: "Pennant 114"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E3B4 00100071"
+
+  - name: "Pennant 115"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E3B8 00100072"
+
+  - name: "Pennant 116"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E3BC 00100073"
+
+  - name: "Pennant 117"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E3C0 00100074"
+
+  - name: "Pennant 118"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E3C4 00100075"
+
+  - name: "Pennant 119"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E3C8 00100076"
+
+  - name: "Pennant 120"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E3CC 00100077"
+
+  - name: "Pennant 121"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E3D0 00100078"
+
+  - name: "Pennant 122"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E3D4 00100079"
+
+  - name: "Pennant 123"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E3D8 0010007A"
+
+  - name: "Pennant 124"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E3DC 0010007B"
+
+  - name: "Pennant 125"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E3E0 0010007C"
+
+  - name: "Pennant 126"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E3E4 0010007D"
+
+  - name: "Pennant 127"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E3E8 0010007E"
+
+  - name: "Pennant 128"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E3EC 0010007F"
+
+  - name: "Pennant 129"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E3F0 00100080"
+
+  - name: "Pennant 130"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E3F4 00100081"
+
+  - name: "Pennant 131"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E3F8 00100082"
+
+  - name: "Pennant 132"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E3FC 00100083"
+
+  - name: "Pennant 133"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E400 00100084"
+
+  - name: "Pennant 134"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E404 00100085"
+
+  - name: "Pennant 135"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E408 00100086"
+
+  - name: "Pennant 136"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E40C 00100087"
+
+  - name: "Pennant 137"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E410 00100088"
+
+  - name: "Pennant 138"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E414 00100089"
+
+  - name: "Pennant 139"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E418 0010008A"
+
+  - name: "Pennant 140"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E41C 0010008B"
+
+  - name: "Pennant 141"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E420 0010008C"
+
+  - name: "Pennant 142"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E424 0010008D"
+
+  - name: "Pennant 143"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E428 0010008E"
+
+  - name: "Pennant 144"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E42C 0010008F"
+
+  - name: "Pennant 145"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E430 00100090"
+
+  - name: "Pennant 146"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E434 00100091"
+
+  - name: "Pennant 147"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E438 00100092"
+
+  - name: "Pennant 148"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E43C 00100093"
+
+  - name: "Pennant 149"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E440 00100094"
+
+  - name: "Pennant 150"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E444 00100095"
+
+  - name: "Pennant 151"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E448 00100096"
+
+  - name: "Pennant 152"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E44C 00100097"
+
+  - name: "Pennant 153"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E450 00100098"
+
+  - name: "Pennant 154"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E454 00100099"
+
+  - name: "Pennant 155"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E458 0010009A"
+
+  - name: "Pennant 156"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E45C 0010009B"
+
+  - name: "Pennant 157"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E460 0010009C"
+
+  - name: "Pennant 158"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E464 0010009D"
+
+  - name: "Pennant 159"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E468 0010009E"
+
+  - name: "Pennant 160"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E46C 0010009F"
+
+  - name: "Pennant 161"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E470 001000A0"
+
+  - name: "Pennant 162"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E474 001000A1"
+
+  - name: "Pennant 163"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E478 001000A2"
+
+  - name: "Pennant 164"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E47C 001000A3"
+
+  - name: "Pennant 165"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E480 001000A4"
+
+  - name: "Pennant 166"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E484 001000A5"
+
+  - name: "Pennant 167"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E488 001000A6"
+
+  - name: "Pennant 168"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E48C 001000A7"
+
+  - name: "Pennant 169"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E490 001000A8"
+
+  - name: "Pennant 170"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E494 001000A9"
+
+  - name: "Pennant 171"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E498 001000AA"
+
+  - name: "Pennant 172"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E49C 001000AB"
+
+  - name: "Pennant 173"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E4A0 001000AC"
+
+  - name: "Pennant 174"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E4A4 001000AD"
+
+  - name: "Pennant 175"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E4A8 001000AE"
+
+  - name: "Pennant 176"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E4AC 001000AF"
+
+  - name: "Pennant 177"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E4B0 001000B0"
+
+  - name: "Pennant 178"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E4B4 001000B1"
+
+  - name: "Pennant 179"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E4B8 001000B2"
+
+  - name: "Pennant 180"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E4BC 001000B3"
+
+  - name: "Pennant 181"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E4C0 001000B4"
+
+  - name: "Pennant 182"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E4C4 001000B5"
+
+  - name: "Pennant 183"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E4C8 001000B6"
+
+  - name: "Pennant 184"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E4CC 001000B7"
+
+  - name: "Pennant 185"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E4D0 001000B8"
+
+  - name: "Pennant 186"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E4D4 001000B9"
+
+  - name: "Pennant 187"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E4D8 001000BA"
+
+  - name: "Pennant 188"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E4DC 001000BB"
+
+  - name: "Pennant 189"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E4E0 001000BC"
+
+  - name: "Pennant 190"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E4E4 001000BD"
+
+  - name: "Pennant 191"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E4E8 001000BE"
+
+  - name: "Pennant 192"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E4EC 001000BF"
+
+  - name: "Pennant 193"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E4F0 001000C0"
+
+  - name: "Pennant 194"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E4F4 001000C1"
+
+  - name: "Pennant 195"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E4F8 001000C2"
+
+  - name: "Pennant 196"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E4FC 001000C3"
+
+  - name: "Pennant 197"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E500 001000C4"
+
+  - name: "Pennant 198"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E504 001000C5"
+
+  - name: "Pennant 200"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 2)]"
+    codes:
+      - "21C0E50C 001000C7"
+
+  - name: "Pennant 201"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E510 001000C8"
+
+  - name: "Pennant 202"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E514 001000C9"
+
+  - name: "Pennant 203"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E518 001000CA"
+
+  - name: "Pennant 204"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E51C 001000CB"
+
+  - name: "Pennant 205"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E520 001000CC"
+
+  - name: "Pennant 206"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E524 001000CD"
+
+  - name: "Pennant 207"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E528 001000CE"
+
+  - name: "Pennant 208"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E52C 001000CF"
+
+  - name: "Pennant 209"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E530 001000D0"
+
+  - name: "Pennant 210"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E534 001000D1"
+
+  - name: "Pennant 211"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E538 001000D2"
+
+  - name: "Pennant 212"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E53C 001000D3"
+
+  - name: "Pennant 213"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E540 001000D4"
+
+  - name: "Pennant 214"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E544 001000D5"
+
+  - name: "Pennant 215"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E548 001000D6"
+
+  - name: "Pennant 216"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E54C 001000D7"
+
+  - name: "Pennant 217"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E550 001000D8"
+
+  - name: "Pennant 218"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E554 001000D9"
+
+  - name: "Pennant 219"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E558 001000DA"
+
+  - name: "Pennant 220"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E55C 001000DB"
+
+  - name: "Pennant 221"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E560 001000DC"
+
+  - name: "Pennant 222"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E564 001000DD"
+
+  - name: "Pennant 223"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E568 001000DE"
+
+  - name: "Pennant 224"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E56C 001000DF"
+
+  - name: "Pennant 225"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E570 001000E0"
+
+  - name: "Pennant 226"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E574 001000E1"
+
+  - name: "Pennant 227"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E578 001000E2"
+
+  - name: "Pennant 228"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E57C 001000E3"
+
+  - name: "Pennant 229"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E580 001000E4"
+
+  - name: "Pennant 230"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E584 001000E5"
+
+  - name: "Pennant 231"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E588 001000E6"
+
+  - name: "Pennant 232"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E58C 001000E7"
+
+  - name: "Pennant 233"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E590 001000E8"
+
+  - name: "Pennant 234"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E594 001000E9"
+
+  - name: "Pennant 235"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E598 001000EA"
+
+  - name: "Pennant 236"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E59C 001000EB"
+
+  - name: "Pennant 237"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E5A0 001000EC"
+
+  - name: "Pennant 238"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E5A4 001000ED"
+
+  - name: "Pennant 239"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E5A8 001000EE"
+
+  - name: "Pennant 240"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E5AC 001000EF"
+
+  - name: "Pennant 241"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E5B0 001000F0"
+
+  - name: "Pennant 242"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E5B4 001000F1"
+
+  - name: "Pennant 243"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E5B8 001000F2"
+
+  - name: "Pennant 244"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E5BC 001000F3"
+
+  - name: "Pennant 245"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E5C0 001000F4"
+
+  - name: "Pennant 246"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E5C4 001000F5"
+
+  - name: "Pennant 247"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E5C8 001000F6"
+
+  - name: "Pennant 248"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E5CC 001000F7"
+
+  - name: "Pennant 249"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E5D0 001000F8"
+
+  - name: "Pennant 250"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E5D4 001000F9"
+
+  - name: "Pennant 251"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E5D8 001000FA"
+
+  - name: "Pennant 252"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E5DC 001000FB"
+
+  - name: "Pennant 253"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E5E0 001000FC"
+
+  - name: "Pennant 254"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E5E4 001000FD"
+
+  - name: "Pennant 255"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E5E8 001000FE"
+
+  - name: "Pennant 256"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E5EC 001000FF"
+
+  - name: "Pennant 257"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E5F0 00100100"
+
+  - name: "Pennant 258"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E5F4 00100101"
+
+  - name: "Pennant 259"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E5F8 00100102"
+
+  - name: "Pennant 260"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E5FC 00100103"
+
+  - name: "Pennant 261"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E600 00100104"
+
+  - name: "Pennant 262"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E604 00100105"
+
+  - name: "Pennant 263"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E608 00100106"
+
+  - name: "Pennant 264"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E60C 00100107"
+
+  - name: "Pennant 265"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E610 00100108"
+
+  - name: "Pennant 266"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E614 00100109"
+
+  - name: "Pennant 267"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E618 0010010A"
+
+  - name: "Pennant 268"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E61C 0010010B"
+
+  - name: "Pennant 269"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E620 0010010C"
+
+  - name: "Pennant 270"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E624 0010010D"
+
+  - name: "Pennant 271"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E628 0010010E"
+
+  - name: "Pennant 272"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E62C 0010010F"
+
+  - name: "Pennant 273"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E630 00100110"
+
+  - name: "Pennant 274"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E634 00100111"
+
+  - name: "Pennant 275"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E638 00100112"
+
+  - name: "Pennant 276"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E63C 00100113"
+
+  - name: "Pennant 277"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E640 00100114"
+
+  - name: "Pennant 278"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E644 00100115"
+
+  - name: "Pennant 279"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E648 00100116"
+
+  - name: "Pennant 280"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E64C 00100117"
+
+  - name: "Pennant 281"
+    author: "Code Master"
+    notes: "[Have Pennant Modifier Codes (Part 3)]"
+    codes:
+      - "21C0E650 00100118"
+
+  - name: "Always 1St Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "2020A250 24020001"
+
+  - name: "Always 4Th Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "2020A250 24020004"
+
+  - name: "Away Team Always Has The Ball"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "2020A5C0 24020001"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "1047D68C 0000????"
+
+  - name: "Away Team Starts With Score Modifier"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D047D68C 00000000"
+      - "1047D68C 0000????"
+
+  - name: "Buy 1 Pennant For Max Pennant Credits"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "20399FE4 3C0205F5"
+      - "20399FE8 3442E0FF"
+
+  - name: "Buy Pennants With No Credits"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "202372A4 24020001"
+
+  - name: "Have All Pennants (V7.0 Or Higher Needed!)"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "21C0E180 00000119"
+      - "41C0E1F0 01190001"
+      - "00100000 00000001"
+
+  - name: "Home Team Always Has The Ball"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "2020A5C0 24020000"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "1047D688 0000????"
+
+  - name: "Home Team Starts With Score Modifier"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D047D688 00000000"
+      - "1047D688 0000????"
+
+  - name: "Max Pennant Credits"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "21BF6320 05F5E0FF"
+
+  - name: "P1 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA102 0000FEFE"
+      - "2020A250 24020001"
+      - "D04BA102 0000FFFF"
+      - "2020A250 8C620030"
+
+  - name: "P1 Press R1+Select To Disable Timers"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA102 0000F7FE"
+      - "201278A0 00000000"
+
+  - name: "P1 Press R2+Select To Enable Timers"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA102 0000FDFE"
+      - "201278A0 2442FFFF"
+
+  - name: "P1 Press Select+L2 For 4Th Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA102 0000FDFE"
+      - "2020A250 24020004"
+      - "D04BA102 0000FFFF"
+      - "2020A250 8C620030"
+
+  - name: "P2 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA202 0000FEFE"
+      - "2020A250 24020001"
+      - "D04BA202 0000FFFF"
+      - "2020A250 8C620030"
+
+  - name: "P2 Press R1+Select To Disable Timers"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA202 0000F7FE"
+      - "201278A0 00000000"
+
+  - name: "P2 Press R2+Select To Enable Timers"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA202 0000FDFE"
+      - "201278A0 2442FFFF"
+
+  - name: "P2 Press Select+L2 For 4Th Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA202 0000FDFE"
+      - "2020A250 24020004"
+      - "D04BA202 0000FFFF"
+      - "2020A250 8C620030"
+
+  - name: "P3 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA302 0000FEFE"
+      - "2020A250 24020001"
+      - "D04BA302 0000FFFF"
+      - "2020A250 8C620030"
+
+  - name: "P3 Press R1+Select To Disable Timers"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA302 0000F7FE"
+      - "201278A0 00000000"
+
+  - name: "P3 Press R2+Select To Enable Timers"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA302 0000FDFE"
+      - "201278A0 2442FFFF"
+
+  - name: "P3 Press Select+L2 For 4Th Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA302 0000FDFE"
+      - "2020A250 24020004"
+      - "D04BA302 0000FFFF"
+      - "2020A250 8C620030"
+
+  - name: "P4 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA402 0000FEFE"
+      - "2020A250 24020001"
+      - "D04BA402 0000FFFF"
+      - "2020A250 8C620030"
+
+  - name: "P4 Press R1+Select To Disable Timers"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA402 0000F7FE"
+      - "201278A0 00000000"
+
+  - name: "P4 Press R2+Select To Enable Timers"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA402 0000FDFE"
+      - "201278A0 2442FFFF"
+
+  - name: "P4 Press Select+L2 For 4Th Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA402 0000FDFE"
+      - "2020A250 24020004"
+      - "D04BA402 0000FFFF"
+      - "2020A250 8C620030"
+
+  - name: "P5 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA502 0000FEFE"
+      - "2020A250 24020001"
+      - "D04BA502 0000FFFF"
+      - "2020A250 8C620030"
+
+  - name: "P5 Press R1+Select To Disable Timers"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA502 0000F7FE"
+      - "201278A0 00000000"
+
+  - name: "P5 Press R2+Select To Enable Timers"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA502 0000FDFE"
+      - "201278A0 2442FFFF"
+
+  - name: "P5 Press Select+L2 For 4Th Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA502 0000FDFE"
+      - "2020A250 24020004"
+      - "D04BA502 0000FFFF"
+      - "2020A250 8C620030"
+
+  - name: "P6 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA602 0000FEFE"
+      - "2020A250 24020001"
+      - "D04BA102 0000FFFF"
+      - "2020A250 8C620030"
+
+  - name: "P6 Press R1+Select To Disable Timers"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA602 0000F7FE"
+      - "201278A0 00000000"
+
+  - name: "P6 Press R2+Select To Enable Timers"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA602 0000FDFE"
+      - "201278A0 2442FFFF"
+
+  - name: "P6 Press Select+L2 For 4Th Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA602 0000FDFE"
+      - "2020A250 24020004"
+      - "D04BA602 0000FFFF"
+      - "2020A250 8C620030"
+
+  - name: "P7 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA702 0000FEFE"
+      - "2020A250 24020001"
+      - "D04BA702 0000FFFF"
+      - "2020A250 8C620030"
+
+  - name: "P7 Press R1+Select To Disable Timers"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA702 0000F7FE"
+      - "201278A0 00000000"
+
+  - name: "P7 Press R2+Select To Enable Timers"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA702 0000FDFE"
+      - "201278A0 2442FFFF"
+
+  - name: "P7 Press Select+L2 For 4Th Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA702 0000FDFE"
+      - "2020A250 24020004"
+      - "D04BA702 0000FFFF"
+      - "2020A250 8C620030"
+
+  - name: "P8 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA802 0000FEFE"
+      - "2020A250 24020001"
+      - "D04BA802 0000FFFF"
+      - "2020A250 8C620030"
+
+  - name: "P8 Press R1+Select To Disable Timers"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA802 0000F7FE"
+      - "201278A0 00000000"
+
+  - name: "P8 Press R2+Select To Enable Timers"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA802 0000FDFE"
+      - "201278A0 2442FFFF"
+
+  - name: "P8 Press Select+L2 For 4Th Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04BA802 0000FDFE"
+      - "2020A250 24020004"
+      - "D04BA802 0000FFFF"
+      - "2020A250 8C620030"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 003BC7EF"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "903BC7EC 0C0E277C"

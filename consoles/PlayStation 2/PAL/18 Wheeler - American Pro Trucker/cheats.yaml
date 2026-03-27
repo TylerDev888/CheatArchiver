@@ -1,0 +1,33 @@
+# 18 Wheeler - American Pro Trucker cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51214
+
+game: "18 Wheeler - American Pro Trucker"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51214"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enabler Code (Must Be On)"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01E1378 000001FD"
+
+  - name: "Freeze The Timer"
+    author: "Codejunkies"
+    codes:
+      - "203061F4 00001184"
+
+  - name: "Max Cargo Value"
+    author: "InterAct"
+    codes:
+      - "20306210 0001869F"
+
+  - name: "Max Score"
+    author: "InterAct"
+    codes:
+      - "203061EC 0098967F"

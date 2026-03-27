@@ -1,0 +1,210 @@
+# FIFA '06 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53529
+
+game: "FIFA '06"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53529"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F05D0DC4 005D0DC7"
+      - "2030AFC0 49534544"
+      - "2030AFC4 444F4D5C"
+      - "2030AFC8 53454C55"
+      - "2030AFCC 504F495C"
+      - "2030AFD0 30335052"
+      - "2030AFD4 4D492E30"
+      - "2030AFD8 00000047"
+      - "2030AFDC 00000000"
+
+  - name: "Debug Infos"
+    author: "Codejunkies"
+    codes:
+      - "202CB448 00000000"
+
+  - name: "Fan Shop Upgrades Cost 0"
+    author: "Codejunkies"
+    codes:
+      - "201B60C8 AFA002CC"
+
+  - name: "Max Career Cash"
+    author: "Codejunkies"
+    codes:
+      - "D0841142 0000B0FF"
+      - "2016456C 0803FFC0"
+      - "E001B0FF 10841142"
+      - "2016456C 03E00008"
+      - "200FFF00 3C014F00"
+      - "200FFF04 AC610000"
+      - "200FFF08 03E00008"
+
+  - name: "MK2 Characters"
+    author: "Codejunkies"
+    codes:
+      - "2029B130 3C014060"
+
+  - name: "Open Footballs Option"
+    author: "Codejunkies"
+    codes:
+      - "201DB724 00000000"
+
+  - name: "Open Legendary Difficulty"
+    author: "Codejunkies"
+    codes:
+      - "201DB6C0 24020001"
+
+  - name: "Open SFX Menu Option"
+    author: "Codejunkies"
+    codes:
+      - "201DB680 24020001"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90554698 0C1743D0"
+
+  - name: "Start With 1 Goals"
+    author: "Xploder"
+    notes: "[Home Team]"
+    codes:
+      - "D08056DC 00000000"
+      - "208056DC 00000001"
+
+  - name: "Start With 5 Goals"
+    author: "Xploder"
+    notes: "[Home Team]"
+    codes:
+      - "D08056DC 00000000"
+      - "208056DC 00000005"
+
+  - name: "Start With 10 Goals"
+    author: "Xploder"
+    notes: "[Home Team]"
+    codes:
+      - "D08056DC 00000000"
+      - "208056DC 0000000A"
+
+  - name: "Start With 25 Goals"
+    author: "Xploder"
+    notes: "[Home Team]"
+    codes:
+      - "D08056DC 00000000"
+      - "208056DC 00000019"
+
+  - name: "Have 99 Goals"
+    author: "Xploder"
+    notes: "[Home Team]"
+    codes:
+      - "D0841142 0000FBFF"
+      - "208056DC 00000063"
+
+  - name: "Have 0 Goals"
+    author: "Xploder"
+    notes: "[Home Team]"
+    codes:
+      - "D0841142 0000FEFF"
+      - "208056DC 00000000"
+
+  - name: "Home Team"
+    author: "Xploder"
+    notes: "[All Goals Go To]"
+    codes:
+      - "2032A4F0 24150000"
+
+  - name: "Away Team"
+    author: "Xploder"
+    notes: "[All Goals Go To]"
+    codes:
+      - "2032A4F0 24150001"
+
+  - name: "End Half"
+    author: "Xploder"
+    notes: "[Time]"
+    codes:
+      - "D0841142 0000FAFF"
+      - "2081EBB0 000001F0"
+
+  - name: "Reset Time"
+    author: "Xploder"
+    notes: "[Time]"
+    codes:
+      - "D0841142 0000F5FF"
+      - "2081EBB0 00000000"
+
+  - name: "Fan Shop Points"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "20765F7C 05F5E100"
+
+  - name: "Challenges Complete"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "201DBA38 24030001"
+      - "201DBA3C ACE30000"
+
+  - name: "All Classic Player Bios"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "40765CE8 00150001"
+      - "00000001 00000000"
+
+  - name: "All Extras"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "40765D40 00030001"
+      - "00000001 00000000"
+      - "20765DFC 00000001"
+      - "20765E00 00000001"
+
+  - name: "All Footballs"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "40765D4C 00090001"
+      - "00000001 00000000"
+
+  - name: "All 3Rd Kits"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "40765D70 001D0001"
+      - "00000001 00000000"
+
+  - name: "Player Celebrations Pack 1"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "20765DE4 00000001"
+
+  - name: "Player Celebrations Pack 2"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "20765DE8 00000001"
+
+  - name: "All Practice Stadiums"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "40765DEC 00040001"
+      - "00000001 00000000"
+
+  - name: "All Season Highlights"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "40765E04 00040001"
+      - "00000001 00000000"

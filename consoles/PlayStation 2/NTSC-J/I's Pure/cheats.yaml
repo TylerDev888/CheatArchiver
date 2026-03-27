@@ -1,0 +1,24 @@
+# I's Pure cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66570
+
+game: "I's Pure"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66570"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90208C60 0C0822C0"
+
+  - name: "Enable Debug Menu [View Note]"
+    author: "punk7890"
+    codes:
+      - "D047B202 0000DBFF"
+      - "20270C54 00000000"

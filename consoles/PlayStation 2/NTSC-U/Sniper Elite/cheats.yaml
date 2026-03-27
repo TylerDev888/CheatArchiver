@@ -1,0 +1,168 @@
+# Sniper Elite cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21231
+
+game: "Sniper Elite"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21231"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "E00E0868 00410774"
+      - "E00D0C03 00410776"
+      - "201852B4 0806153A"
+      - "201854E8 3C0401E0"
+      - "201854EC 3C050008"
+      - "201854F0 0C11A6D3"
+      - "201854F4 3C060008"
+      - "201854F8 0C11E13E"
+      - "201854FC 0000202D"
+      - "20185500 3C0501E0"
+      - "20185504 3C040008"
+      - "20185508 0C11A6D3"
+      - "2018550C 3C060008"
+      - "20185510 080614AF"
+      - "20185514 00000000"
+      - "F0410774 00410777"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Master Codes]"
+    codes:
+      - "904108C4 0C11A6D3"
+
+  - name: "Always High Heart Rate"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202A8A14 3C0142C8"
+      - "202A8A18 AE010020"
+
+  - name: "Always Low Heart Rate"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202A8A14 3C010000"
+      - "202A8A18 AE010020"
+
+  - name: "Extra Ammo"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2023F188 00518021"
+
+  - name: "Extra Saves Left"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "1038683C 00000001"
+
+  - name: "Infinite Ammo"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2023F198 00000000"
+
+  - name: "Infinite Health"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "200C0220 3C0142C8"
+      - "200C0224 AC410028"
+      - "200C0228 080AF1AC"
+      - "200C022C C4400028"
+      - "202BC6AC 08030088"
+
+  - name: "Infinite Saves Left"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2038683C 00000000"
+
+  - name: "Max Infinite Ammo"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2023F188 241003E7"
+
+  - name: "Max Infinite Saves Left"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2038683C 24120063"
+
+  - name: "Never Reload"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20244434 00000000"
+
+  - name: "Rapid Fire (Both Players)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2024440C 00000000"
+
+  - name: "Rapid Fire P1"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D05C3B42 0000F7FF"
+      - "2024440C 00000000"
+      - "D05C3B42 0000FFFF"
+      - "2024440C AE420014"
+
+  - name: "Rapid Fire P2"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D05C3C82 0000F7FF"
+      - "2024440C 00000000"
+      - "D05C3C82 0000FFFF"
+      - "2024440C AE420014"
+
+  - name: "Gravity/Wind/Posture/Heart Off"
+    author: "Codejunkies"
+    codes:
+      - "2096AA34 00000043"
+
+  - name: "Heart Rate Always Low"
+    author: "Codejunkies"
+    codes:
+      - "202A8A18 00000000"
+
+  - name: "Infinite Saves"
+    author: "Codejunkies"
+    codes:
+      - "203B8630 24630000"
+
+  - name: "Lung Capacity Always 25"
+    author: "Codejunkies"
+    codes:
+      - "2096AA30 00000019"
+
+  - name: "Max Points Of Fame"
+    author: "Codejunkies"
+    codes:
+      - "205504CC 05F5E0FF"
+
+  - name: "Stealth Suit"
+    author: "Codejunkies"
+    codes:
+      - "20230BE4 24110003"
+      - "202AD84C 24020003"
+      - "2081D134 00000001"
+      - "2096AA2C 00000000"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Lajos Szalay>Code Master"
+    notes: "[Masters]"
+    codes:
+      - "904108C4 0C11A6D3"

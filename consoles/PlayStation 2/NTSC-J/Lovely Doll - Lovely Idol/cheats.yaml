@@ -1,0 +1,43 @@
+# Lovely Doll - Lovely Idol cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65969
+
+game: "Lovely Doll - Lovely Idol"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65969"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90174B38 0C05D276"
+
+  - name: "All Cgs"
+    author: "punk7890"
+    codes:
+      - "20192EB0 FFFFFFFF"
+      - "20192EB4 FFFFFFFF"
+      - "20192EB8 FFFFFFFF"
+      - "10192EBC 0000FFFF"
+      - "00192EBE 000000FF"
+
+  - name: "All Endings + Omake"
+    author: "punk7890"
+    codes:
+      - "40192ED4 00090001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Press L3 For Texture Viewer, R3 To Disable"
+    author: "punk7890"
+    codes:
+      - "1013D2C4 0000D9C0"
+      - "10136740 00008E98"
+      - "D05A9282 0000FFFD"
+      - "0027AE58 00000001"
+      - "D05A9282 0000FFFB"
+      - "0027AE58 00000000"

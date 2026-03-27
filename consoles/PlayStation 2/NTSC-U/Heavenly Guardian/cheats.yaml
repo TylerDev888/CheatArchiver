@@ -1,0 +1,91 @@
+# Heavenly Guardian cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21653
+
+game: "Heavenly Guardian"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21653"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90138D88 0C04E30A"
+
+  - name: "Inf Special"
+    author: "SkillerCMP"
+    notes: "[Player 1]"
+    codes:
+      - "20129CDC 00000000"
+
+  - name: "Inf Lifes"
+    author: "SkillerCMP"
+    notes: "[Player 1]"
+    codes:
+      - "2012863C 00000000"
+
+  - name: "Inf Health"
+    author: "SkillerCMP"
+    notes: "[Player 1]"
+    codes:
+      - "201282A0 00000000"
+
+  - name: "Special Max"
+    author: "SkillerCMP"
+    notes: "[Player 1]"
+    codes:
+      - "104957B0 000003E8"
+
+  - name: "Max Score"
+    author: "SkillerCMP"
+    notes: "[Player 1]"
+    codes:
+      - "20495778 05F5E0FF"
+
+  - name: "9 Lives"
+    author: "SkillerCMP"
+    notes: "[Player 1]"
+    codes:
+      - "00495770 00000009"
+
+  - name: "Always Green Snowflake Weapon"
+    author: "SkillerCMP"
+    notes: "[Weapons]"
+    codes:
+      - "004957B8 00000001"
+
+  - name: "Always Red Weapon"
+    author: "SkillerCMP"
+    notes: "[Weapons]"
+    codes:
+      - "004957B8 00000002"
+
+  - name: "Always Spikes Weapon"
+    author: "SkillerCMP"
+    notes: "[Weapons]"
+    codes:
+      - "004957B8 00000003"
+
+  - name: "Always 3 Way Spikes"
+    author: "SkillerCMP"
+    notes: "[Weapons]"
+    codes:
+      - "004957B8 00000004"
+
+  - name: "Add Speed To Your Weapon"
+    author: "SkillerCMP"
+    notes: "[Weapons]"
+    codes:
+      - "404957C4 00040001"
+      - "00000005 00000000"
+
+  - name: "Add Distince To Your Weapon"
+    author: "SkillerCMP"
+    notes: "[Weapons]"
+    codes:
+      - "404957C4 00040001"
+      - "00000006 00000000"

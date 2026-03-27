@@ -1,0 +1,232 @@
+# Cabela's Big Game Hunter cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20534
+
+game: "Cabela's Big Game Hunter"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20534"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0132CF4 00132CF7"
+
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F030CAA4 00132CF7"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00132CF7"
+
+  - name: "Auto Claim Trophy Always Off"
+    author: "Code Master"
+    codes:
+      - "2060DFCC 00000000"
+
+  - name: "Auto Claim Trophy Always On"
+    author: "Code Master"
+    codes:
+      - "2060DFCC 00000001"
+
+  - name: "Bullet Camera Always Off"
+    author: "Code Master"
+    codes:
+      - "2060DFD0 00000000"
+
+  - name: "Bullet Camera Always On"
+    author: "Code Master"
+    codes:
+      - "2060DFD0 00000001"
+
+  - name: "Infinite Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "1060DDA0 0000FFFF"
+
+  - name: "Never Have More Than 1000 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E00103E8 3060DDA0"
+      - "1060DDA0 000003E8"
+
+  - name: "Never Have More Than 5000 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E0011388 3060DDA0"
+      - "1060DDA0 00001388"
+
+  - name: "Never Have More Than 25000 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E00161A8 3060DDA0"
+      - "1060DDA0 000061A8"
+
+  - name: "Never Have More Than 50000 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E001C350 3060DDA0"
+      - "1060DDA0 0000C350"
+
+  - name: "Alberta"
+    author: "InterAct"
+    notes: "[Enable Areas]"
+    codes:
+      - "0060E801 00000001"
+
+  - name: "Arizona"
+    author: "InterAct"
+    notes: "[Enable Areas]"
+    codes:
+      - "0060E802 00000001"
+
+  - name: "British Columbia"
+    author: "InterAct"
+    notes: "[Enable Areas]"
+    codes:
+      - "0060E803 00000001"
+
+  - name: "Montana"
+    author: "InterAct"
+    notes: "[Enable Areas]"
+    codes:
+      - "0060E804 00000001"
+
+  - name: "Northwest"
+    author: "InterAct"
+    notes: "[Enable Areas]"
+    codes:
+      - "0060E805 00000001"
+
+  - name: "Quebec"
+    author: "InterAct"
+    notes: "[Enable Areas]"
+    codes:
+      - "0060E806 00000001"
+
+  - name: "Texas"
+    author: "InterAct"
+    notes: "[Enable Areas]"
+    codes:
+      - "0060E807 00000001"
+
+  - name: "Infinite Stamina"
+    author: "InterAct"
+    codes:
+      - "20355024 44800800"
+
+  - name: "Max Money (Career Mode)"
+    author: "Code Master"
+    codes:
+      - "2060DDA0 05F5E0FF"
+
+  - name: "Never Reload"
+    author: "Code Master"
+    codes:
+      - "2036182C 00000000"
+
+  - name: "No Reload"
+    author: "InterAct"
+    codes:
+      - "10361828 00000000"
+
+  - name: "Show HLO Always Off"
+    author: "Code Master"
+    codes:
+      - "20615E9C 00000000"
+
+  - name: "Show HLO Always On"
+    author: "Code Master"
+    codes:
+      - "20615E9C 00000001"
+
+  - name: "Trophy Beacon Always Off"
+    author: "Code Master"
+    codes:
+      - "2060DFC8 00000000"
+
+  - name: "Trophy Beacon Always On"
+    author: "Code Master"
+    codes:
+      - "2060DFC8 00000001"
+
+  - name: "Unlock All Areas"
+    author: "InterAct"
+    codes:
+      - "4060E800 00020001"
+      - "01010101 28091968"
+
+  - name: "Bullet Cam On"
+    author: "Codejunkies"
+    notes: "[Unlock Levels]"
+    codes:
+      - "0060DFD0 00000001"
+
+  - name: "Trophy Beacon On"
+    author: "Codejunkies"
+    notes: "[Unlock Levels]"
+    codes:
+      - "0060DFC8 00000001"
+
+  - name: "Unlock All Areas And Hunters"
+    author: "Codejunkies"
+    notes: "[Unlock Levels]"
+    codes:
+      - "2060E800 01010101"
+      - "2060E804 01010101"
+
+  - name: "Alaska"
+    author: "Code Master"
+    notes: "[Unlock Map Codes]"
+    codes:
+      - "0060E800 00000001"
+
+  - name: "Vibration Always Off"
+    author: "Code Master"
+    codes:
+      - "2060DFD4 00000000"
+
+  - name: "Vibration Always On"
+    author: "Code Master"
+    codes:
+      - "2060DFD4 00000001"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00132CF7"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90132CF4 0C0C4F14"
+
+  - name: "Infinite Money (Career Mode)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1060DDA0 0000FFFF"
+
+  - name: "All Maps"
+    author: "Code Master"
+    notes: "[Unlock Map Codes]"
+    codes:
+      - "2060E800 01010101"
+      - "2060E804 01010101"

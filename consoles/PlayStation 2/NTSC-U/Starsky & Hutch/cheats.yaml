@@ -1,0 +1,838 @@
+# Starsky & Hutch cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20619
+
+game: "Starsky & Hutch"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20619"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0115C24 00115C27"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00115C27"
+
+  - name: "Code Breaker Version 1-4 Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00115C27"
+      - "D0080234 0000003D"
+      - "20080234 00000000"
+
+  - name: "Code Breaker Version 5 Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00115C27"
+      - "D00802AC 0000003D"
+      - "200802AC 00000000"
+
+  - name: "Code Breaker Version 6 & Higher Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00115C27"
+      - "90115C24 0C042DD0"
+
+  - name: "Unlock All Free Roam"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "0052D70D 00000001"
+
+  - name: "Unlock All Locker Items"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "0052D712 00000001"
+
+  - name: "Unlock All TV Specials"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "0052D70E 00000001"
+
+  - name: "All Seasons"
+    author: "Code Master"
+    notes: "[Complete All Story Episodes Codes]"
+    codes:
+      - "2051A0EC 00060606"
+
+  - name: "Season 1"
+    author: "Code Master"
+    notes: "[Complete All Story Episodes Codes]"
+    codes:
+      - "0051A0EC 00000006"
+
+  - name: "Season 2"
+    author: "Code Master"
+    notes: "[Complete All Story Episodes Codes]"
+    codes:
+      - "0051A0ED 00000006"
+
+  - name: "Season 3"
+    author: "Code Master"
+    notes: "[Complete All Story Episodes Codes]"
+    codes:
+      - "0051A0EE 00000006"
+
+  - name: "Barracuda"
+    author: "Codejunkies"
+    notes: "[Enable Cars]"
+    codes:
+      - "2052D498 00000001"
+
+  - name: "Charger"
+    author: "Codejunkies"
+    notes: "[Enable Cars]"
+    codes:
+      - "2052D490 00000001"
+
+  - name: "Charger-Black"
+    author: "Codejunkies"
+    notes: "[Enable Cars]"
+    codes:
+      - "2052D484 00000001"
+
+  - name: "Charger-Blue"
+    author: "Codejunkies"
+    notes: "[Enable Cars]"
+    codes:
+      - "2052D4B8 00000001"
+
+  - name: "Convertible"
+    author: "Codejunkies"
+    notes: "[Enable Cars]"
+    codes:
+      - "2052D49C 00000001"
+
+  - name: "Corvette"
+    author: "Codejunkies"
+    notes: "[Enable Cars]"
+    codes:
+      - "2052D4A4 00000001"
+
+  - name: "Dart"
+    author: "Codejunkies"
+    notes: "[Enable Cars]"
+    codes:
+      - "2052D4AC 00000001"
+
+  - name: "Fairlane"
+    author: "Codejunkies"
+    notes: "[Enable Cars]"
+    codes:
+      - "2052D4A8 00000001"
+
+  - name: "Green Sedan"
+    author: "Codejunkies"
+    notes: "[Enable Cars]"
+    codes:
+      - "2052D474 00000001"
+
+  - name: "Ice Cream Truck"
+    author: "Codejunkies"
+    notes: "[Enable Cars]"
+    codes:
+      - "2052D478 00000001"
+
+  - name: "Limo-Black"
+    author: "Codejunkies"
+    notes: "[Enable Cars]"
+    codes:
+      - "2052D4BC 00000001"
+
+  - name: "Limo-White"
+    author: "Codejunkies"
+    notes: "[Enable Cars]"
+    codes:
+      - "2052D494 00000001"
+
+  - name: "Mercury"
+    author: "Codejunkies"
+    notes: "[Enable Cars]"
+    codes:
+      - "2052D4B0 00000001"
+
+  - name: "Mustang"
+    author: "Codejunkies"
+    notes: "[Enable Cars]"
+    codes:
+      - "2052D480 00000001"
+
+  - name: "Mustang Sport"
+    author: "Codejunkies"
+    notes: "[Enable Cars]"
+    codes:
+      - "2052D488 00000001"
+
+  - name: "Mustang-Red"
+    author: "Codejunkies"
+    notes: "[Enable Cars]"
+    codes:
+      - "2052D4B4 00000001"
+
+  - name: "Plymouth"
+    author: "Codejunkies"
+    notes: "[Enable Cars]"
+    codes:
+      - "2052D4A0 00000001"
+
+  - name: "Police Car"
+    author: "Codejunkies"
+    notes: "[Enable Cars]"
+    codes:
+      - "2052D470 00000001"
+
+  - name: "Pursuit Car"
+    author: "Codejunkies"
+    notes: "[Enable Cars]"
+    codes:
+      - "2052D4C0 00000001"
+
+  - name: "Trans Am-Blue"
+    author: "Codejunkies"
+    notes: "[Enable Cars]"
+    codes:
+      - "2052D48C 00000001"
+
+  - name: "Trans Am-Red"
+    author: "Codejunkies"
+    notes: "[Enable Cars]"
+    codes:
+      - "2052D47C 00000001"
+
+  - name: "All Seasons/All Episodes"
+    author: "Code Master"
+    notes: "[Have All Item Codes]"
+    codes:
+      - "2051A138 FFFFFFFF"
+      - "2051A13C FFFFFFFF"
+      - "2051A140 FFFFFFFF"
+      - "2051A144 FFFFFFFF"
+      - "1051A148 0000FFFF"
+
+  - name: "Season 1-Episode 1"
+    author: "Code Master"
+    notes: "[Have All Item Codes]"
+    codes:
+      - "0051A138 000000FF"
+
+  - name: "Season 1-Episode 2"
+    author: "Code Master"
+    notes: "[Have All Item Codes]"
+    codes:
+      - "0051A139 000000FF"
+
+  - name: "Season 1-Episode 3"
+    author: "Code Master"
+    notes: "[Have All Item Codes]"
+    codes:
+      - "0051A13A 000000FF"
+
+  - name: "Season 1-Episode 4"
+    author: "Code Master"
+    notes: "[Have All Item Codes]"
+    codes:
+      - "0051A13B 000000FF"
+
+  - name: "Season 1-Episode 5"
+    author: "Code Master"
+    notes: "[Have All Item Codes]"
+    codes:
+      - "0051A13C 000000FF"
+
+  - name: "Season 1-Episode 6"
+    author: "Code Master"
+    notes: "[Have All Item Codes]"
+    codes:
+      - "0051A13D 000000FF"
+
+  - name: "Season 2-Episode 1"
+    author: "Code Master"
+    notes: "[Have All Item Codes]"
+    codes:
+      - "0051A13E 000000FF"
+
+  - name: "Season 2-Episode 2"
+    author: "Code Master"
+    notes: "[Have All Item Codes]"
+    codes:
+      - "0051A13F 000000FF"
+
+  - name: "Season 2-Episode 3"
+    author: "Code Master"
+    notes: "[Have All Item Codes]"
+    codes:
+      - "0051A140 000000FF"
+
+  - name: "Season 2-Episode 4"
+    author: "Code Master"
+    notes: "[Have All Item Codes]"
+    codes:
+      - "0051A141 000000FF"
+
+  - name: "Season 2-Episode 5"
+    author: "Code Master"
+    notes: "[Have All Item Codes]"
+    codes:
+      - "0051A142 000000FF"
+
+  - name: "Season 2-Episode 6"
+    author: "Code Master"
+    notes: "[Have All Item Codes]"
+    codes:
+      - "0051A143 000000FF"
+
+  - name: "Season 3-Episode 1"
+    author: "Code Master"
+    notes: "[Have All Item Codes]"
+    codes:
+      - "0051A144 000000FF"
+
+  - name: "Season 3-Episode 2"
+    author: "Code Master"
+    notes: "[Have All Item Codes]"
+    codes:
+      - "0051A145 000000FF"
+
+  - name: "Season 3-Episode 3"
+    author: "Code Master"
+    notes: "[Have All Item Codes]"
+    codes:
+      - "0051A146 000000FF"
+
+  - name: "Season 3-Episode 4"
+    author: "Code Master"
+    notes: "[Have All Item Codes]"
+    codes:
+      - "0051A147 000000FF"
+
+  - name: "Season 3-Episode 5"
+    author: "Code Master"
+    notes: "[Have All Item Codes]"
+    codes:
+      - "0051A148 000000FF"
+
+  - name: "Season 3-Episode 6"
+    author: "Code Master"
+    notes: "[Have All Item Codes]"
+    codes:
+      - "0051A149 000000FF"
+
+  - name: "Infinite Time"
+    author: "Code Master"
+    codes:
+      - "201910BC 00000000"
+
+  - name: "Infinite Time (Timed Missions)"
+    author: "MadCatz"
+    codes:
+      - "20169C58 00000000"
+
+  - name: "Max Infinite VR"
+    author: "MadCatz"
+    codes:
+      - "201910BC 08030000"
+      - "201910BC 00000000"
+      - "200C0000 3C074B19"
+      - "200C0004 24E7967F"
+      - "200C0008 44870800"
+      - "200C000C 44870000"
+      - "200C0010 E6410000"
+      - "200C0014 E6400000"
+      - "200C0018 08064431"
+
+  - name: "One Hit Kill (Do Not Use On Protect The Car Missions)"
+    author: "MadCatz"
+    codes:
+      - "2013B980 4600001D"
+
+  - name: "Save Slot 1: Season 1: Unlock Episode 2"
+    author: "MadCatz"
+    codes:
+      - "0051A1EC 00000001"
+
+  - name: "Save Slot 1: Season 1: Unlock Episode 3"
+    author: "MadCatz"
+    codes:
+      - "0051A1EC 00000002"
+
+  - name: "Save Slot 1: Season 1: Unlock Episode 4"
+    author: "MadCatz"
+    codes:
+      - "0051A1EC 00000003"
+
+  - name: "Save Slot 1: Season 1: Unlock Episode 5"
+    author: "MadCatz"
+    codes:
+      - "0051A1EC 00000004"
+
+  - name: "Save Slot 1: Season 1: Unlock Episode 6"
+    author: "MadCatz"
+    codes:
+      - "0051A1EC 00000005"
+
+  - name: "Save Slot 1: Season 2: Unlock Episode 2"
+    author: "MadCatz"
+    codes:
+      - "0051A1ED 00000001"
+
+  - name: "Save Slot 1: Season 2: Unlock Episode 3"
+    author: "MadCatz"
+    codes:
+      - "0051A19D 00000002"
+
+  - name: "Save Slot 1: Season 2: Unlock Episode 4"
+    author: "MadCatz"
+    codes:
+      - "0051A19D 00000003"
+
+  - name: "Save Slot 1: Season 2: Unlock Episode 5"
+    author: "MadCatz"
+    codes:
+      - "0051A19D 00000004"
+
+  - name: "Save Slot 1: Season 2: Unlock Episode 6"
+    author: "MadCatz"
+    codes:
+      - "0051A19D 00000005"
+
+  - name: "Save Slot 1: Season 3: Unlock Episode 2"
+    author: "MadCatz"
+    codes:
+      - "0051A1EE 00000001"
+
+  - name: "Save Slot 1: Season 3: Unlock Episode 3"
+    author: "MadCatz"
+    codes:
+      - "0051A19E 00000002"
+
+  - name: "Save Slot 1: Season 3: Unlock Episode 4"
+    author: "MadCatz"
+    codes:
+      - "0051A19E 00000003"
+
+  - name: "Save Slot 1: Season 3: Unlock Episode 5"
+    author: "MadCatz"
+    codes:
+      - "0051A19E 00000004"
+
+  - name: "Save Slot 1: Season 3: Unlock Episode 6"
+    author: "MadCatz"
+    codes:
+      - "2051A19E 00000005"
+
+  - name: "Save Slot 2: Season 1: Unlock Episode 2"
+    author: "MadCatz"
+    codes:
+      - "0051A190 00000001"
+
+  - name: "Save Slot 2: Season 1: Unlock Episode 3"
+    author: "MadCatz"
+    codes:
+      - "0051A190 00000002"
+
+  - name: "Save Slot 2: Season 1: Unlock Episode 4"
+    author: "MadCatz"
+    codes:
+      - "0051A190 00000003"
+
+  - name: "Save Slot 2: Season 1: Unlock Episode 5"
+    author: "MadCatz"
+    codes:
+      - "0051A190 00000004"
+
+  - name: "Save Slot 2: Season 1: Unlock Episode 6"
+    author: "MadCatz"
+    codes:
+      - "0051A190 00000005"
+
+  - name: "Save Slot 2: Season 2: Unlock Episode 2"
+    author: "MadCatz"
+    codes:
+      - "0051A191 00000001"
+
+  - name: "Save Slot 2: Season 2: Unlock Episode 3"
+    author: "MadCatz"
+    codes:
+      - "0051A191 00000002"
+
+  - name: "Save Slot 2: Season 2: Unlock Episode 4"
+    author: "MadCatz"
+    codes:
+      - "0051A191 00000003"
+
+  - name: "Save Slot 2: Season 2: Unlock Episode 5"
+    author: "MadCatz"
+    codes:
+      - "0051A191 00000004"
+
+  - name: "Save Slot 2: Season 2: Unlock Episode 6"
+    author: "MadCatz"
+    codes:
+      - "0051A191 00000005"
+
+  - name: "Save Slot 2: Season 3: Unlock Episode 2"
+    author: "MadCatz"
+    codes:
+      - "0051A192 00000001"
+
+  - name: "Save Slot 2: Season 3: Unlock Episode 3"
+    author: "MadCatz"
+    codes:
+      - "0051A192 00000002"
+
+  - name: "Save Slot 2: Season 3: Unlock Episode 4"
+    author: "MadCatz"
+    codes:
+      - "0051A192 00000003"
+
+  - name: "Save Slot 2: Season 3: Unlock Episode 5"
+    author: "MadCatz"
+    codes:
+      - "0051A192 00000004"
+
+  - name: "Save Slot 2: Season 3: Unlock Episode 6"
+    author: "MadCatz"
+    codes:
+      - "0051A192 00000005"
+
+  - name: "Save Slot 3: Season 1: Unlock Episode 2"
+    author: "MadCatz"
+    codes:
+      - "0051A234 00000001"
+
+  - name: "Save Slot 3: Season 1: Unlock Episode 3"
+    author: "MadCatz"
+    codes:
+      - "0051A234 00000002"
+
+  - name: "Save Slot 3: Season 1: Unlock Episode 4"
+    author: "MadCatz"
+    codes:
+      - "0051A234 00000003"
+
+  - name: "Save Slot 3: Season 1: Unlock Episode 5"
+    author: "MadCatz"
+    codes:
+      - "0051A234 00000004"
+
+  - name: "Save Slot 3: Season 1: Unlock Episode 6"
+    author: "MadCatz"
+    codes:
+      - "0051A234 00000005"
+
+  - name: "Save Slot 3: Season 2: Unlock Episode 2"
+    author: "MadCatz"
+    codes:
+      - "0051A235 00000001"
+
+  - name: "Save Slot 3: Season 2: Unlock Episode 3"
+    author: "MadCatz"
+    codes:
+      - "0051A235 00000002"
+
+  - name: "Save Slot 3: Season 2: Unlock Episode 4"
+    author: "MadCatz"
+    codes:
+      - "0051A235 00000003"
+
+  - name: "Save Slot 3: Season 2: Unlock Episode 5"
+    author: "MadCatz"
+    codes:
+      - "0051A235 00000004"
+
+  - name: "Save Slot 3: Season 2: Unlock Episode 6"
+    author: "MadCatz"
+    codes:
+      - "0051A235 00000005"
+
+  - name: "Save Slot 3: Season 3: Unlock Episode 2"
+    author: "MadCatz"
+    codes:
+      - "0051A236 00000001"
+
+  - name: "Save Slot 3: Season 3: Unlock Episode 3"
+    author: "MadCatz"
+    codes:
+      - "0051A236 00000002"
+
+  - name: "Save Slot 3: Season 3: Unlock Episode 4"
+    author: "MadCatz"
+    codes:
+      - "0051A236 00000003"
+
+  - name: "Save Slot 3: Season 3: Unlock Episode 5"
+    author: "MadCatz"
+    codes:
+      - "0051A236 00000004"
+
+  - name: "Save Slot 3: Season 3: Unlock Episode 6"
+    author: "MadCatz"
+    codes:
+      - "0051A236 00000005"
+
+  - name: "Save Slot 4: Season 1: Unlock Episode 2"
+    author: "MadCatz"
+    codes:
+      - "0051A2D8 00000001"
+
+  - name: "Save Slot 4: Season 1: Unlock Episode 3"
+    author: "MadCatz"
+    codes:
+      - "0051A2D8 00000002"
+
+  - name: "Save Slot 4: Season 1: Unlock Episode 4"
+    author: "MadCatz"
+    codes:
+      - "0051A2D8 00000003"
+
+  - name: "Save Slot 4: Season 1: Unlock Episode 5"
+    author: "MadCatz"
+    codes:
+      - "0051A2D8 00000004"
+
+  - name: "Save Slot 4: Season 1: Unlock Episode 6"
+    author: "MadCatz"
+    codes:
+      - "0051A2D8 00000005"
+
+  - name: "Save Slot 4: Season 2: Unlock Episode 2"
+    author: "MadCatz"
+    codes:
+      - "0051A2D9 00000001"
+
+  - name: "Save Slot 4: Season 2: Unlock Episode 3"
+    author: "MadCatz"
+    codes:
+      - "0051A2D9 00000002"
+
+  - name: "Save Slot 4: Season 2: Unlock Episode 4"
+    author: "MadCatz"
+    codes:
+      - "0051A2D9 00000003"
+
+  - name: "Save Slot 4: Season 2: Unlock Episode 5"
+    author: "MadCatz"
+    codes:
+      - "0051A2D9 00000004"
+
+  - name: "Save Slot 4: Season 2: Unlock Episode 6"
+    author: "MadCatz"
+    codes:
+      - "0051A2D9 00000005"
+
+  - name: "Save Slot 4: Season 3: Unlock Episode 2"
+    author: "MadCatz"
+    codes:
+      - "0051A2DA 00000001"
+
+  - name: "Save Slot 4: Season 3: Unlock Episode 3"
+    author: "MadCatz"
+    codes:
+      - "0051A2DA 00000002"
+
+  - name: "Save Slot 4: Season 3: Unlock Episode 4"
+    author: "MadCatz"
+    codes:
+      - "0051A2DA 00000003"
+
+  - name: "Save Slot 4: Season 3: Unlock Episode 5"
+    author: "MadCatz"
+    codes:
+      - "0051A2DA 00000004"
+
+  - name: "Save Slot 4: Season 3: Unlock Episode 6"
+    author: "MadCatz"
+    codes:
+      - "0051A2DA 00000005"
+
+  - name: "Save Slot 5: Season 1: Unlock Episode 2"
+    author: "MadCatz"
+    codes:
+      - "0051A37C 00000001"
+
+  - name: "Save Slot 5: Season 1: Unlock Episode 3"
+    author: "MadCatz"
+    codes:
+      - "0051A37C 00000002"
+
+  - name: "Save Slot 5: Season 1: Unlock Episode 4"
+    author: "MadCatz"
+    codes:
+      - "0051A37C 00000003"
+
+  - name: "Save Slot 5: Season 1: Unlock Episode 5"
+    author: "MadCatz"
+    codes:
+      - "0051A37C 00000004"
+
+  - name: "Save Slot 5: Season 1: Unlock Episode 6"
+    author: "MadCatz"
+    codes:
+      - "0051A37C 00000005"
+
+  - name: "Save Slot 5: Season 2: Unlock Episode 2"
+    author: "MadCatz"
+    codes:
+      - "0051A37D 00000001"
+
+  - name: "Save Slot 5: Season 2: Unlock Episode 3"
+    author: "MadCatz"
+    codes:
+      - "0051A37D 00000002"
+
+  - name: "Save Slot 5: Season 2: Unlock Episode 4"
+    author: "MadCatz"
+    codes:
+      - "0051A37D 00000003"
+
+  - name: "Save Slot 5: Season 2: Unlock Episode 5"
+    author: "MadCatz"
+    codes:
+      - "0051A37D 00000004"
+
+  - name: "Save Slot 5: Season 2: Unlock Episode 6"
+    author: "MadCatz"
+    codes:
+      - "0051A37D 00000005"
+
+  - name: "Save Slot 5: Season 3: Unlock Episode 2"
+    author: "MadCatz"
+    codes:
+      - "0051A37E 00000001"
+
+  - name: "Save Slot 5: Season 3: Unlock Episode 3"
+    author: "MadCatz"
+    codes:
+      - "0051A37E 00000002"
+
+  - name: "Save Slot 5: Season 3: Unlock Episode 4"
+    author: "MadCatz"
+    codes:
+      - "0051A37E 00000003"
+
+  - name: "Save Slot 5: Season 3: Unlock Episode 5"
+    author: "MadCatz"
+    codes:
+      - "0051A37E 00000004"
+
+  - name: "Save Slot 5: Season 3: Unlock Episode 6"
+    author: "MadCatz"
+    codes:
+      - "0051A37E 00000005"
+
+  - name: "Save Slot 6: Season 1: Unlock Episode 2"
+    author: "MadCatz"
+    codes:
+      - "0051A420 00000001"
+
+  - name: "Save Slot 6: Season 1: Unlock Episode 3"
+    author: "MadCatz"
+    codes:
+      - "0051A420 00000002"
+
+  - name: "Save Slot 6: Season 1: Unlock Episode 4"
+    author: "MadCatz"
+    codes:
+      - "0051A420 00000003"
+
+  - name: "Save Slot 6: Season 1: Unlock Episode 5"
+    author: "MadCatz"
+    codes:
+      - "0051A420 00000004"
+
+  - name: "Save Slot 6: Season 1: Unlock Episode 6"
+    author: "MadCatz"
+    codes:
+      - "0051A420 00000005"
+
+  - name: "Save Slot 6: Season 2: Unlock Episode 2"
+    author: "MadCatz"
+    codes:
+      - "0051A421 00000001"
+
+  - name: "Save Slot 6: Season 2: Unlock Episode 3"
+    author: "MadCatz"
+    codes:
+      - "0051A421 00000002"
+
+  - name: "Save Slot 6: Season 2: Unlock Episode 4"
+    author: "MadCatz"
+    codes:
+      - "0051A421 00000003"
+
+  - name: "Save Slot 6: Season 2: Unlock Episode 5"
+    author: "MadCatz"
+    codes:
+      - "0051A421 00000004"
+
+  - name: "Save Slot 6: Season 2: Unlock Episode 6"
+    author: "MadCatz"
+    codes:
+      - "0051A421 00000005"
+
+  - name: "Save Slot 6: Season 3: Unlock Episode 2"
+    author: "MadCatz"
+    codes:
+      - "0051A422 00000001"
+
+  - name: "Save Slot 6: Season 3: Unlock Episode 3"
+    author: "MadCatz"
+    codes:
+      - "0051A422 00000002"
+
+  - name: "Save Slot 6: Season 3: Unlock Episode 4"
+    author: "MadCatz"
+    codes:
+      - "0051A422 00000003"
+
+  - name: "Save Slot 6: Season 3: Unlock Episode 5"
+    author: "MadCatz"
+    codes:
+      - "0051A422 00000004"
+
+  - name: "Save Slot 6: Season 3: Unlock Episode 6"
+    author: "MadCatz"
+    codes:
+      - "0051A422 00000005"
+
+  - name: "Unlock All Extras"
+    author: "Codejunkies"
+    codes:
+      - "1051A0D4 0000FFFF"
+
+  - name: "Code Breaker Version 1-4Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00115C27"
+      - "D0080234 0000003D"
+      - "20080234 00000000"
+
+  - name: "Code Breaker Version 5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00115C27"
+      - "D00802AC 0000003D"
+      - "200802AC 00000000"
+
+  - name: "Code Breaker Version 6 & Higherenable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90115C24 0C042DD0"

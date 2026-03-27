@@ -1,0 +1,21 @@
+# Guardians of Middle-Earth (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB01085
+
+game: "Guardians of Middle-Earth (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB01085"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Add For Filename.sav (required)"
+    notes: "File: FILENAME.SAV  (set [csum]:add(0x000000,0x00FC2E)) (write at 0x00FC2F:[csum])"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof-4"
+      - "set [csum]:add(0x000000,pointer)"
+      - "set pointer:eof-3"
+      - "write next (0):[csum]"

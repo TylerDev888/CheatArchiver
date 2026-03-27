@@ -1,0 +1,76 @@
+# Looney Tunes - Acme Arsenal cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21636
+
+game: "Looney Tunes - Acme Arsenal"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21636"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "Combusto Dragon"
+    notes: "[Master Codes]"
+    codes:
+      - "90369C80 0C0DA6C8"
+
+  - name: "Enable Code (Alt)"
+    author: "Combusto Dragon"
+    notes: "[Master Codes]"
+    codes:
+      - "90379344 00861021"
+
+  - name: "1 Hit Kill"
+    author: "Combusto Dragon"
+    codes:
+      - "200A0000 820400BD"
+      - "200A0004 14800003"
+      - "200A000C AE00000C"
+      - "200A0010 10000002"
+      - "200A0014 460D6036"
+      - "200A0018 E60C000C"
+      - "200A001C 03E00008"
+      - "2024C070 0C028000"
+      - "2024C07C 00000000"
+
+  - name: "Infinite Ammo"
+    author: "nolberto82"
+    codes:
+      - "202BC4BC 00000000"
+
+  - name: "Infinite Health"
+    author: "Combusto Dragon"
+    codes:
+      - "201F6434 C48C0010"
+      - "201F6438 E48C000C"
+      - "201F643C E4AC0000"
+
+  - name: "Infinite Power Up Usage (Green Bar)"
+    author: "Combusto Dragon"
+    codes:
+      - "201DDF40 E48F005C"
+
+  - name: "Invincibility"
+    author: "nolberto82"
+    codes:
+      - "202B2C50 03E00008"
+
+  - name: "Max Coins"
+    author: "Combusto Dragon"
+    codes:
+      - "2014644C 240D03E8"
+
+  - name: "Infinite Time (Alt)"
+    author: "Combusto Dragon"
+    notes: "[Wile E. Coyote Chase]"
+    codes:
+      - "2018D86C 24A50000"
+
+  - name: "Infinite Time"
+    author: "Combusto Dragon"
+    notes: "[Wile E. Coyote Chase]"
+    codes:
+      - "2018D88C 00000000"

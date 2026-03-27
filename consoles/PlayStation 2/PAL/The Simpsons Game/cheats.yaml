@@ -1,0 +1,83 @@
+# The Simpsons Game cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54906
+
+game: "The Simpsons Game"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54906"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "1Hitkill"
+    author: "luc-ita"
+    codes:
+      - "203319B8 0802800B"
+      - "200A002C 3C1B3F80"
+      - "200A0030 449B0000"
+      - "200A0034 8C410028"
+      - "200A0038 10200003"
+      - "200A003C 00000000"
+      - "200A0040 E4400028"
+      - "200A0044 46010036"
+      - "200A0048 080CC670"
+
+  - name: "Final Battle With God - Infinite Life"
+    author: "luc-ita"
+    codes:
+      - "2017D3D0 08028014"
+      - "200A0050 8CE50024"
+      - "200A0054 3AA10035"
+      - "200A0058 10200002"
+      - "200A005C 00000000"
+      - "200A0060 0805F4F6"
+      - "200A0064 00000000"
+      - "200A0068 0805F4F9"
+
+  - name: "Jump In Mid-Air"
+    author: "luc-ita"
+    codes:
+      - "200A0000 3C1BC120"
+      - "200A0004 449B0000"
+      - "200A0008 E4400004"
+      - "200A000C 0806BA0A"
+      - "201AE820 46010000"
+      - "201AE824 E4400004"
+      - "E00200FF 00400AF9"
+      - "201AE820 08028000"
+      - "201AE824 00000000"
+
+  - name: "Max Sling Ammunition Using 1 Unit"
+    author: "luc-ita"
+    codes:
+      - "202AB524 240200FF"
+
+  - name: "Medal Of Homer - Take 1 Flag To Complete The Goal"
+    author: "luc-ita"
+    codes:
+      - "D03D87E4 0000000D"
+      - "20F73914 00000013"
+
+  - name: "Powers Always At Max"
+    author: "luc-ita"
+    codes:
+      - "20296E40 08028005"
+      - "200A0014 FFBF0000"
+      - "200A0018 3C1B437A"
+      - "200A001C 449B0000"
+      - "200A0020 E4A000E4"
+      - "200A0024 080A5B92"
+
+  - name: "Shield Always Active"
+    author: "luc-ita"
+    codes:
+      - "2029C654 00000000"
+      - "2029C658 3C1B4120"
+      - "2029C65C 449B0000"
+
+  - name: "Unlock All Levels"
+    author: "luc-ita"
+    codes:
+      - "202E9710 A380B5F9"

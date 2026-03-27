@@ -1,0 +1,124 @@
+# Turok - Evolution cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20333
+
+game: "Turok - Evolution"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20333"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0326B5C 001C9507"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001C9507"
+
+  - name: "All Weapons"
+    author: "InterAct"
+    notes: "[Enable Cheats]"
+    codes:
+      - "107D85C8 00000001"
+
+  - name: "Big Heads"
+    author: "InterAct"
+    notes: "[Enable Cheats]"
+    codes:
+      - "107D85F0 00000001"
+
+  - name: "Invincible"
+    author: "InterAct"
+    notes: "[Enable Cheats]"
+    codes:
+      - "107D85D8 00000001"
+
+  - name: "Invisible"
+    author: "InterAct"
+    notes: "[Enable Cheats]"
+    codes:
+      - "107D85E0 00000001"
+
+  - name: "Unlimited Ammo"
+    author: "InterAct"
+    notes: "[Enable Cheats]"
+    codes:
+      - "107D85D0 00000001"
+
+  - name: "Hold X To Moon Jump"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D03BBC5A 09003F80"
+      - "603B1BE8 41000000"
+      - "00020002 000000FC"
+      - "0000001C 00000000"
+      - "603B1BE8 00000004"
+      - "00020002 0000012C"
+      - "00000000 00000000"
+      - "603B1BE8 00000000"
+      - "00020002 0000012C"
+      - "00000010 00000000"
+
+  - name: "Infinite Health"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "603B1BE8 4479C000"
+      - "00020002 000001E8"
+      - "00000000 00000000"
+
+  - name: "Enter Cheat Menu For Bonus Level"
+    author: "Code Master"
+    notes: "[Unlock Cheat Codes]"
+    codes:
+      - "207D8600 00000001"
+
+  - name: "Enter Cheat Menu For Demo Level"
+    author: "Code Master"
+    notes: "[Unlock Cheat Codes]"
+    codes:
+      - "207D85F8 00000001"
+
+  - name: "Load Game For Level Select"
+    author: "Code Master"
+    notes: "[Unlock Cheat Codes]"
+    codes:
+      - "207D85E8 00000001"
+
+  - name: "Enable All Levels"
+    author: "InterAct"
+    codes:
+      - "107D85E8 00000001"
+
+  - name: "Extra Level (Activate This Code From The Cheat Menu)"
+    author: "Codejunkies"
+    codes:
+      - "107D8600 00000001"
+
+  - name: "Infinite Ammo"
+    author: "InterAct"
+    codes:
+      - "2014FFE8 2412270F"
+
+  - name: "Title Screen Target Game (Activate This Code From The Cheat Menu)"
+    author: "Codejunkies"
+    codes:
+      - "107D85F8 00000001"
+
+  - name: "Unlock All Cheats"
+    author: "Codejunkies"
+    codes:
+      - "107D85C8 00000001"
+      - "107D85D0 00000001"
+      - "107D85D8 00000001"
+      - "107D85E0 00000001"
+      - "107D85F0 00000001"
