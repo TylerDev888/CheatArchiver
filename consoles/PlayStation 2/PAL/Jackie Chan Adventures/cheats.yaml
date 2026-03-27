@@ -1,0 +1,35 @@
+# Jackie Chan Adventures cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-52412
+
+game: "Jackie Chan Adventures"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-52412"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0236250 00236253"
+
+  - name: "99999 Cash"
+    author: "Codejunkies"
+    codes:
+      - "203DD234 0001869F"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "201E55C8 00000000"
+
+  - name: "Infinite Magic Power"
+    author: "Codejunkies"
+    codes:
+      - "201E5678 3C044222"
+      - "201E567C AC4400E8"
+      - "201E5688 00000000"

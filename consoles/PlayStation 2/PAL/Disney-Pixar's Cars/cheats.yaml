@@ -1,0 +1,82 @@
+# Disney-Pixar's Cars cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54010
+
+game: "Disney-Pixar's Cars"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54010"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Conc3pt (Read Notes)"
+    author: "luc-ita"
+    notes: "[*Cheats codes enabled*]"
+    codes:
+      - "0052E232 00000080"
+
+  - name: "If900hp (Read Notes)"
+    author: "luc-ita"
+    notes: "[*Cheats codes enabled*]"
+    codes:
+      - "0052E231 00000080"
+
+  - name: "Imspeed (Read Notes)"
+    author: "luc-ita"
+    notes: "[*Cheats codes enabled*]"
+    codes:
+      - "0052E230 00000004"
+
+  - name: "Mattl66 (Read Notes)"
+    author: "luc-ita"
+    notes: "[*Cheats codes enabled*]"
+    codes:
+      - "0052E230 00000008"
+
+  - name: "R4mone (Read Notes)"
+    author: "luc-ita"
+    notes: "[*Cheats codes enabled*]"
+    codes:
+      - "0052E233 00000002"
+
+  - name: "Trgtexc (Read Notes)"
+    author: "luc-ita"
+    notes: "[*Cheats codes enabled*]"
+    codes:
+      - "0052E232 00000040"
+
+  - name: "Vroooom (Read Notes)"
+    author: "luc-ita"
+    notes: "[*Cheats codes enabled*]"
+    codes:
+      - "0052E232 00000020"
+
+  - name: "Watchit (Read Notes)"
+    author: "luc-ita"
+    notes: "[*Cheats codes enabled*]"
+    codes:
+      - "0052E233 00000001"
+
+  - name: "Yaycars (Read Notes)"
+    author: "luc-ita"
+    notes: "[*Cheats codes enabled*]"
+    codes:
+      - "0052E230 00000002"
+
+  - name: "Opponents Don't Move And Go Under The Ground"
+    author: "luc-ita"
+    codes:
+      - "20124F64 00000000"
+
+  - name: "Skip Video Logos"
+    author: "luc-ita"
+    codes:
+      - "2030C870 00000000"
+
+  - name: "Teleportation If Out Of Road Disabled"
+    author: "luc-ita"
+    codes:
+      - "2022BDBC 00000000"
+      - "2022C0D0 00000000"

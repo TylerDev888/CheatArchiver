@@ -1,0 +1,3099 @@
+# Dragon Quest VIII_ Journey Of The Cursed King cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21207
+
+game: "Dragon Quest VIII_ Journey Of The Cursed King"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21207"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9012C510 00832021"
+
+  - name: "Infinite Gold"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "10409840 0000FFFF"
+
+  - name: "Max Gold"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "20409840 05F5E0FF"
+
+  - name: "Max All Main Items In Bag"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "40409AD0 01510001"
+      - "03E00001 00000001"
+
+  - name: "Have All Main & Key Items In Bag)"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "40409AD0 01800001"
+      - "03E00001 00000001"
+
+  - name: "Full Teleport List"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "20409090 FFFFFFFF"
+      - "00409094 000000FF"
+
+  - name: "Chance Of (rare) Drops Greatly Increased"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "20297014 3C020001"
+
+  - name: "Enemies Always Drop Rare Items"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "20296FB4 10000027"
+      - "20297058 0280102D"
+
+  - name: "Enemies Always Drop Normal Items"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "20296FB0 9454004A"
+      - "20296FB4 10000027"
+      - "20297058 0280102D"
+
+  - name: "50/50 Chance Of Normal Or Rare Drop"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "20296FAC 0C04D0FE"
+      - "20296FB0 00000000"
+      - "20296FB4 30420001"
+      - "20296FB8 00021040"
+      - "20296FBC 02221021"
+      - "20296FC0 1000002A"
+      - "20296FC4 94420048"
+
+  - name: "Susceptible Enemies Always Enthralled"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "20295D0C 00000000"
+
+  - name: "Enemy Party Status Modifier"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "20295C50 03E00008"
+      - "20295C54 3402[STU]"
+
+  - name: "Have All 4 Characters"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "00409844 0000000F"
+
+  - name: "Level Up Once For Max Strength/Attack"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "10203F1E 00001000"
+
+  - name: "Level Up Once For Max Agility"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "10203F2E 00001000"
+
+  - name: "Level Up Once For Max Resilience/Defence"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "10203F3E 00001000"
+
+  - name: "Level Up Once For Max Wisdom"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "10203F4E 00001000"
+
+  - name: "Level Up Once For Max HP"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "10203F6E 00001000"
+
+  - name: "Level Up Once For Max MP"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "10203F7E 00001000"
+
+  - name: "Level Up Once For Level 99"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "20207004 00000000"
+
+  - name: "Quick Max Tension Gain"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "202FCFCC 00000000"
+
+  - name: "No Random Battles"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "202FA8DC 00000000"
+
+  - name: "Super Less Often Random Battles"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "102FA89C 00004596"
+
+  - name: "Less Often Random Battles"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "102FA89C 0000447A"
+
+  - name: "More Often Random Battles"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "102FA89C 00004080"
+
+  - name: "Super Often Random Battles"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "102FA89C 00004000"
+
+  - name: "Casino Max Coin 99999999"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "2040EA50 05F5E0FF"
+
+  - name: "Bank Max Money 99999000"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Misc]"
+    codes:
+      - "2040A294 05F5DD18"
+
+  - name: "Alchemy Pot Upgrade Modifier"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Alchemy Codes]"
+    codes:
+      - "00408F9E 000000[POT]"
+
+  - name: "Unlock All Alchemy Recipes"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Alchemy Codes]"
+    codes:
+      - "4040E880 00320001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Gain ???? Skill Points Per Level"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Quick Gain Codes]"
+    codes:
+      - "104618B2 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Gain ???? Extra Skill Points Per Level"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Quick Gain Codes]"
+    codes:
+      - "203778D4 24A5[Amount:2710:HEX:BIG]"
+
+  - name: "Skill Points Per Level Multiplier"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Quick Gain Codes]"
+    codes:
+      - "203778D4 0005[XX]"
+
+  - name: "Each Skill Gains ?? Points Per Level Up (note 1 & 3)"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Quick Gain Codes]"
+    codes:
+      - "20206C70 2443[Amount:2710:HEX:BIG]"
+
+  - name: "Allocated Skill Points Multiplier (note 1 & 2)"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Quick Gain Codes]"
+    codes:
+      - "20206C60 0006[YXX]"
+
+  - name: "Quick Experience Gain"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Quick Gain Codes]"
+    codes:
+      - "203609D8 3402[Amount:2710:HEX:BIG]"
+      - "203609DC AFA2319C"
+
+  - name: "Super Quick Experience Gain"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Quick Gain Codes]"
+    codes:
+      - "203609D8 3C02[Amount:2710:HEX:BIG]"
+      - "203609DC AFA2319C"
+
+  - name: "Experience Multiplier"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Quick Gain Codes]"
+    codes:
+      - "203609D4 8FA2319C"
+      - "203609D8 0002[EXP]"
+      - "203609DC AFA2319C"
+
+  - name: "Experience Multiplier (value Not Shown In Messages)"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Quick Gain Codes]"
+    codes:
+      - "203609D4 8FA2319C"
+      - "203609D8 0002[EXP]"
+
+  - name: "Always Low Time Spent Adventuring"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Battle Log Codes]"
+    codes:
+      - "203D2768 00000000"
+
+  - name: "Max Battles"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Battle Log Codes]"
+    codes:
+      - "2040A540 05F5E0FF"
+
+  - name: "No Battles"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Battle Log Codes]"
+    codes:
+      - "2040A540 00000000"
+
+  - name: "Max Monsters Defeated"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Battle Log Codes]"
+    codes:
+      - "2040A544 05F5E0FF"
+
+  - name: "No Monsters Defeated"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Battle Log Codes]"
+    codes:
+      - "2040A544 00000000"
+
+  - name: "Max Victories"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Battle Log Codes]"
+    codes:
+      - "2040A54C 05F5E0FF"
+
+  - name: "No Victories"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Battle Log Codes]"
+    codes:
+      - "2040A54C 00000000"
+
+  - name: "Max Times Fled"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Battle Log Codes]"
+    codes:
+      - "2040A554 05F5E0FF"
+
+  - name: "No Times Fled"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Battle Log Codes]"
+    codes:
+      - "2040A554 00000000"
+
+  - name: "Max Times Wiped Out"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Battle Log Codes]"
+    codes:
+      - "2040A558 05F5E0FF"
+
+  - name: "No Times Wiped Out"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Battle Log Codes]"
+    codes:
+      - "2040A558 00000000"
+
+  - name: "Max Total Gold Obtained"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Battle Log Codes]"
+    codes:
+      - "2040A55C 05F5E0FF"
+
+  - name: "No Total Gold Obtained"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Battle Log Codes]"
+    codes:
+      - "2040A55C 00000000"
+
+  - name: "Max Distance Travelled"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Battle Log Codes]"
+    codes:
+      - "2040A564 4CBEBC20"
+
+  - name: "No Distance Travelled"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Battle Log Codes]"
+    codes:
+      - "2040A564 00000000"
+
+  - name: "Max Maximum Damage In A Turn"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Battle Log Codes]"
+    codes:
+      - "2040A574 05F5E0FF"
+
+  - name: "No Maximum Damage In A Turn"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Battle Log Codes]"
+    codes:
+      - "2040A574 00000000"
+
+  - name: "Have All Collected Items List"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Battle Log Codes]"
+    codes:
+      - "4040A2A8 000D0001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Have All Defeated Monster List"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Battle Log Codes]"
+    codes:
+      - "4040A5A0 01250008"
+      - "00000001 00000000"
+
+  - name: "Infinite HP + Hud Fix"
+    author: "SkillerCMP>Pyriel"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "20207170 00000000"
+      - "20355CF8 0041280B"
+      - "20355CFC 90810010"
+      - "20355D00 0041280A"
+
+  - name: "Infinite MP"
+    author: "SkillerCMP>Pyriel"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "20353F08 0041280B"
+      - "20353F0C 90810010"
+      - "20353F10 0041280A"
+
+  - name: "Money On Hand Does Not Decrease"
+    author: "SkillerCMP>Pyriel"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "202028C4 5CA00001"
+      - "202028C8 00451021"
+      - "202028CC 00000000"
+
+  - name: "Quick Max Tension Gain (enemy's Gain At Normal Rate)"
+    author: "SkillerCMP>Pyriel"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "200C0200 92410010"
+      - "200C0204 00641821"
+      - "200C0208 080D5607"
+      - "200C020C 0041180A"
+      - "20355818 08030080"
+
+  - name: "Quick Max Tension Gain & Enemies Always Zero Tension"
+    author: "SkillerCMP>Pyriel"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "200C0200 92410010"
+      - "200C0204 0000182D"
+      - "200C0208 080D5607"
+      - "200C020C 0041180A"
+      - "20355818 08030080"
+
+  - name: "Enemies Always Zero Tension (party Gains At Normal Rate)"
+    author: "SkillerCMP>Pyriel"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "200C0200 92410010"
+      - "200C0204 00641821"
+      - "200C0208 080D5607"
+      - "200C020C 0001180B"
+      - "20355818 08030080"
+
+  - name: "Enemies Always Asleep"
+    author: "SkillerCMP>Pyriel"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "200C2000 54400002"
+      - "200C2004 90410010"
+      - "200C2008 03E00008"
+      - "200C200C 3C080000"
+      - "200C2010 35080010"
+      - "200C2014 8C490158"
+      - "200C2018 01284025"
+      - "200C201C 0121400A"
+      - "200C2020 03E00008"
+      - "200C2024 AC480158"
+      - "20351EBC 08030800"
+
+  - name: "Refill MP After Battle To Max"
+    author: "SkillerCMP>Pyriel"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "20207034 00000000"
+
+  - name: "Infinite HP"
+    author: "SkillerCMP>Pyriel"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "20207170 00000000"
+
+  - name: "Refill HP After Battle To Max"
+    author: "SkillerCMP>Pyriel"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "20207164 00000000"
+
+  - name: "Quick Money Gain"
+    author: "SkillerCMP>Pyriel"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "202028C4 244201F4"
+
+  - name: "Quicker Money Gain"
+    author: "SkillerCMP>Pyriel"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "202028C4 244203E8"
+
+  - name: "Super Quick Money Gain"
+    author: "SkillerCMP>Pyriel"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "202028C4 24422710"
+
+  - name: "Ultra Quick Money Gain"
+    author: "SkillerCMP>Pyriel"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "202028C4 244261A8"
+
+  - name: "Quick Max Money Gain"
+    author: "SkillerCMP>Pyriel"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "202028DC 00000000"
+
+  - name: "Max HP"
+    author: "SkillerCMP>Pyriel"
+    notes: "[In- Batttle Hero Codes]"
+    codes:
+      - "203AC444 000003E7"
+
+  - name: "Max MP"
+    author: "SkillerCMP>Pyriel"
+    notes: "[In- Batttle Hero Codes]"
+    codes:
+      - "203AC624 000003E7"
+
+  - name: "Level 99"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Codes]"
+    codes:
+      - "20409880 00000062"
+
+  - name: "Quick EXP Gain"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Codes]"
+    codes:
+      - "10409888 0000FFFF"
+
+  - name: "Max EXP"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Codes]"
+    codes:
+      - "20409888 05F5E0FF"
+
+  - name: "Never Sick"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Codes]"
+    codes:
+      - "20409890 00000000"
+
+  - name: "Have All Magic"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Codes]"
+    codes:
+      - "20409898 FFFFFFFF"
+
+  - name: "Max Strength/Attack"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Codes]"
+    codes:
+      - "104098A0 000003E7"
+
+  - name: "Max Agility"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Codes]"
+    codes:
+      - "104098A2 000003E7"
+
+  - name: "Max Resilience/Defence"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Codes]"
+    codes:
+      - "104098A4 000003E7"
+
+  - name: "Max Wisdom"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Codes]"
+    codes:
+      - "104098A6 000003E7"
+
+  - name: "Max Swords"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Codes]"
+    codes:
+      - "104098AA 000003E7"
+
+  - name: "Max Spears"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Codes]"
+    codes:
+      - "104098AC 000003E7"
+
+  - name: "Max Boomerangs"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Codes]"
+    codes:
+      - "104098AE 000003E7"
+
+  - name: "Max Fisticuffs"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Codes]"
+    codes:
+      - "104098B0 000003E7"
+
+  - name: "Max Courage"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Codes]"
+    codes:
+      - "104098B2 000003E7"
+
+  - name: "Slot 1"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Have Item Modifier Codes]"
+    codes:
+      - "2ABB1C67 0000[ITEM]"
+
+  - name: "Slot 2"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Have Item Modifier Codes]"
+    codes:
+      - "2AA71C67 0000[ITEM]"
+
+  - name: "Slot 3"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Have Item Modifier Codes]"
+    codes:
+      - "2AA31C67 0000[ITEM]"
+
+  - name: "Slot 4"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Have Item Modifier Codes]"
+    codes:
+      - "2AAF1C67 0000[ITEM]"
+
+  - name: "Slot 5"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Have Item Modifier Codes]"
+    codes:
+      - "2AAB1C67 0000[ITEM]"
+
+  - name: "Slot 6"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Have Item Modifier Codes]"
+    codes:
+      - "2A971C67 0000[ITEM]"
+
+  - name: "Slot 7"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Have Item Modifier Codes]"
+    codes:
+      - "2A931C67 0000[ITEM]"
+
+  - name: "Slot 8"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Have Item Modifier Codes]"
+    codes:
+      - "2A9F1C67 0000[ITEM]"
+
+  - name: "Slot 9"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Have Item Modifier Codes]"
+    codes:
+      - "2A9B1C67 0000[ITEM]"
+
+  - name: "Slot 10"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Have Item Modifier Codes]"
+    codes:
+      - "2A871C67 0000[ITEM]"
+
+  - name: "Slot 11"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Have Item Modifier Codes]"
+    codes:
+      - "2A831C67 0000[ITEM]"
+
+  - name: "Slot 12"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Hero Have Item Modifier Codes]"
+    codes:
+      - "2A8F1C67 0000[ITEM]"
+
+  - name: "Slot 13"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B02 000003E7"
+
+  - name: "Slot 14"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B06 000003E7"
+
+  - name: "Slot 15"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B0A 000003E7"
+
+  - name: "Slot 16"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B0E 000003E7"
+
+  - name: "Slot 17"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B12 000003E7"
+
+  - name: "Slot 18"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B16 000003E7"
+
+  - name: "Slot 19"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B1A 000003E7"
+
+  - name: "Slot 20"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B1E 000003E7"
+
+  - name: "Slot 21"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B22 000003E7"
+
+  - name: "Slot 22"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B26 000003E7"
+
+  - name: "Slot 23"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B2A 000003E7"
+
+  - name: "Slot 24"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B2E 000003E7"
+
+  - name: "Slot 25"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B32 000003E7"
+
+  - name: "Slot 26"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B36 000003E7"
+
+  - name: "Slot 27"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B3A 000003E7"
+
+  - name: "Slot 28"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B3E 000003E7"
+
+  - name: "Slot 29"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B42 000003E7"
+
+  - name: "Slot 30"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B46 000003E7"
+
+  - name: "Slot 31"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B4A 000003E7"
+
+  - name: "Slot 32"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B4E 000003E7"
+
+  - name: "Slot 33"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B52 000003E7"
+
+  - name: "Slot 34"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B56 000003E7"
+
+  - name: "Slot 35"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B5A 000003E7"
+
+  - name: "Slot 36"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B5E 000003E7"
+
+  - name: "Slot 37"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B62 000003E7"
+
+  - name: "Slot 38"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B66 000003E7"
+
+  - name: "Slot 39"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B6A 000003E7"
+
+  - name: "Slot 40"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B6E 000003E7"
+
+  - name: "Slot 41"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B72 000003E7"
+
+  - name: "Slot 42"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B76 000003E7"
+
+  - name: "Slot 43"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B7A 000003E7"
+
+  - name: "Slot 44"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B7E 000003E7"
+
+  - name: "Slot 45"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B82 000003E7"
+
+  - name: "Slot 46"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B86 000003E7"
+
+  - name: "Slot 47"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B8A 000003E7"
+
+  - name: "Slot 48"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B8E 000003E7"
+
+  - name: "Slot 49"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B92 000003E7"
+
+  - name: "Slot 50"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B96 000003E7"
+
+  - name: "Slot 51"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B9A 000003E7"
+
+  - name: "Slot 52"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409B9E 000003E7"
+
+  - name: "Slot 53"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409BA2 000003E7"
+
+  - name: "Slot 54"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409BA6 000003E7"
+
+  - name: "Slot 55"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409BAA 000003E7"
+
+  - name: "Slot 56"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409BAE 000003E7"
+
+  - name: "Slot 57"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409BB2 000003E7"
+
+  - name: "Slot 58"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409BB6 000003E7"
+
+  - name: "Slot 59"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409BBA 000003E7"
+
+  - name: "Slot 60"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409BBE 000003E7"
+
+  - name: "Slot 61"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409BC2 000003E7"
+
+  - name: "Slot 62"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409BC6 000003E7"
+
+  - name: "Slot 63"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409BCA 000003E7"
+
+  - name: "Slot 64"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409BCE 000003E7"
+
+  - name: "Slot 65"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409BD2 000003E7"
+
+  - name: "Slot 66"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409BD6 000003E7"
+
+  - name: "Slot 67"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409BDA 000003E7"
+
+  - name: "Slot 68"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409BDE 000003E7"
+
+  - name: "Slot 69"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409BE2 000003E7"
+
+  - name: "Slot 70"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409BE6 000003E7"
+
+  - name: "Slot 71"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409BEA 000003E7"
+
+  - name: "Slot 72"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409BEE 000003E7"
+
+  - name: "Slot 73"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409BF2 000003E7"
+
+  - name: "Slot 74"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409BF6 000003E7"
+
+  - name: "Slot 75"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409BFA 000003E7"
+
+  - name: "Slot 76"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409BFE 000003E7"
+
+  - name: "Slot 77"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C02 000003E7"
+
+  - name: "Slot 78"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C06 000003E7"
+
+  - name: "Slot 79"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C0A 000003E7"
+
+  - name: "Slot 80"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C0E 000003E7"
+
+  - name: "Slot 81"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C12 000003E7"
+
+  - name: "Slot 82"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C16 000003E7"
+
+  - name: "Slot 83"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C1A 000003E7"
+
+  - name: "Slot 84"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C1E 000003E7"
+
+  - name: "Slot 85"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C22 000003E7"
+
+  - name: "Slot 86"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C26 000003E7"
+
+  - name: "Slot 87"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C2A 000003E7"
+
+  - name: "Slot 88"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C2E 000003E7"
+
+  - name: "Slot 89"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C32 000003E7"
+
+  - name: "Slot 90"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C36 000003E7"
+
+  - name: "Slot 91"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C3A 000003E7"
+
+  - name: "Slot 92"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C3E 000003E7"
+
+  - name: "Slot 93"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C42 000003E7"
+
+  - name: "Slot 94"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C46 000003E7"
+
+  - name: "Slot 95"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C4A 000003E7"
+
+  - name: "Slot 96"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C4E 000003E7"
+
+  - name: "Slot 97"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C52 000003E7"
+
+  - name: "Slot 98"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C56 000003E7"
+
+  - name: "Slot 99"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C5A 000003E7"
+
+  - name: "Slot 100"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C5E 000003E7"
+
+  - name: "Slot 101"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C62 000003E7"
+
+  - name: "Slot 102"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C66 000003E7"
+
+  - name: "Slot 103"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C6A 000003E7"
+
+  - name: "Slot 104"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C6E 000003E7"
+
+  - name: "Slot 105"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C72 000003E7"
+
+  - name: "Slot 106"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C76 000003E7"
+
+  - name: "Slot 107"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C7A 000003E7"
+
+  - name: "Slot 108"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C7E 000003E7"
+
+  - name: "Slot 109"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C82 000003E7"
+
+  - name: "Slot 110"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C86 000003E7"
+
+  - name: "Slot 111"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C8A 000003E7"
+
+  - name: "Slot 112"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C8E 000003E7"
+
+  - name: "Slot 113"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C92 000003E7"
+
+  - name: "Slot 114"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C96 000003E7"
+
+  - name: "Slot 115"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C9A 000003E7"
+
+  - name: "Slot 116"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409C9E 000003E7"
+
+  - name: "Slot 117"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409CA2 000003E7"
+
+  - name: "Slot 118"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409CA6 000003E7"
+
+  - name: "Slot 119"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409CAA 000003E7"
+
+  - name: "Slot 120"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409CAE 000003E7"
+
+  - name: "Slot 121"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409CB2 000003E7"
+
+  - name: "Slot 122"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409CB6 000003E7"
+
+  - name: "Slot 123"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409CBA 000003E7"
+
+  - name: "Slot 124"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409CBE 000003E7"
+
+  - name: "Slot 125"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409CC2 000003E7"
+
+  - name: "Slot 126"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409CC6 000003E7"
+
+  - name: "Slot 127"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409CCA 000003E7"
+
+  - name: "Slot 128"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409CCE 000003E7"
+
+  - name: "Slot 129"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409CD2 000003E7"
+
+  - name: "Slot 130"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409CD6 000003E7"
+
+  - name: "Slot 131"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409CDA 000003E7"
+
+  - name: "Slot 132"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409CDE 000003E7"
+
+  - name: "Slot 133"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409CE2 000003E7"
+
+  - name: "Slot 134"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409CE6 000003E7"
+
+  - name: "Slot 135"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409CEA 000003E7"
+
+  - name: "Slot 136"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409CEE 000003E7"
+
+  - name: "Slot 137"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409CF2 000003E7"
+
+  - name: "Slot 138"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409CF6 000003E7"
+
+  - name: "Slot 139"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409CFA 000003E7"
+
+  - name: "Slot 140"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409CFE 000003E7"
+
+  - name: "Slot 141"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D02 000003E7"
+
+  - name: "Slot 142"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D06 000003E7"
+
+  - name: "Slot 143"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D0A 000003E7"
+
+  - name: "Slot 144"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D0E 000003E7"
+
+  - name: "Slot 145"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D12 000003E7"
+
+  - name: "Slot 146"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D16 000003E7"
+
+  - name: "Slot 147"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D1A 000003E7"
+
+  - name: "Slot 148"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D1E 000003E7"
+
+  - name: "Slot 149"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D22 000003E7"
+
+  - name: "Slot 150"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D26 000003E7"
+
+  - name: "Slot 151"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D2A 000003E7"
+
+  - name: "Slot 152"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D2E 000003E7"
+
+  - name: "Slot 153"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D32 000003E7"
+
+  - name: "Slot 154"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D36 000003E7"
+
+  - name: "Slot 155"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D3A 000003E7"
+
+  - name: "Slot 156"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D3E 000003E7"
+
+  - name: "Slot 157"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D42 000003E7"
+
+  - name: "Slot 158"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D46 000003E7"
+
+  - name: "Slot 159"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D4A 000003E7"
+
+  - name: "Slot 160"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D4E 000003E7"
+
+  - name: "Slot 161"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D52 000003E7"
+
+  - name: "Slot 162"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D56 000003E7"
+
+  - name: "Slot 163"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D5A 000003E7"
+
+  - name: "Slot 164"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D5E 000003E7"
+
+  - name: "Slot 165"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D62 000003E7"
+
+  - name: "Slot 166"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D66 000003E7"
+
+  - name: "Slot 167"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D6A 000003E7"
+
+  - name: "Slot 168"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D6E 000003E7"
+
+  - name: "Slot 169"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D72 000003E7"
+
+  - name: "Slot 170"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D76 000003E7"
+
+  - name: "Slot 171"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D7A 000003E7"
+
+  - name: "Slot 172"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D7E 000003E7"
+
+  - name: "Slot 173"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D82 000003E7"
+
+  - name: "Slot 174"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D86 000003E7"
+
+  - name: "Slot 175"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D8A 000003E7"
+
+  - name: "Slot 176"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D8E 000003E7"
+
+  - name: "Slot 177"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D92 000003E7"
+
+  - name: "Slot 178"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D96 000003E7"
+
+  - name: "Slot 179"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D9A 000003E7"
+
+  - name: "Slot 180"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409D9E 000003E7"
+
+  - name: "Slot 181"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409DA2 000003E7"
+
+  - name: "Slot 182"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409DA6 000003E7"
+
+  - name: "Slot 183"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409DAA 000003E7"
+
+  - name: "Slot 184"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409DAE 000003E7"
+
+  - name: "Slot 185"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409DB2 000003E7"
+
+  - name: "Slot 186"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409DB6 000003E7"
+
+  - name: "Slot 187"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409DBA 000003E7"
+
+  - name: "Slot 188"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409DBE 000003E7"
+
+  - name: "Slot 189"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409DC2 000003E7"
+
+  - name: "Slot 190"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409DC6 000003E7"
+
+  - name: "Slot 191"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409DCA 000003E7"
+
+  - name: "Slot 192"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409DCE 000003E7"
+
+  - name: "Slot 193"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409DD2 000003E7"
+
+  - name: "Slot 194"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409DD6 000003E7"
+
+  - name: "Slot 195"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409DDA 000003E7"
+
+  - name: "Slot 196"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409DDE 000003E7"
+
+  - name: "Slot 197"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409DE2 000003E7"
+
+  - name: "Slot 198"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409DE6 000003E7"
+
+  - name: "Slot 199"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409DEA 000003E7"
+
+  - name: "Slot 200"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409DEE 000003E7"
+
+  - name: "Slot 201"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409DF2 000003E7"
+
+  - name: "Slot 202"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409DF6 000003E7"
+
+  - name: "Slot 203"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409DFA 000003E7"
+
+  - name: "Slot 204"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409DFE 000003E7"
+
+  - name: "Slot 205"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E02 000003E7"
+
+  - name: "Slot 206"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E06 000003E7"
+
+  - name: "Slot 207"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E0A 000003E7"
+
+  - name: "Slot 208"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E0E 000003E7"
+
+  - name: "Slot 209"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E12 000003E7"
+
+  - name: "Slot 210"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E16 000003E7"
+
+  - name: "Slot 211"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E1A 000003E7"
+
+  - name: "Slot 212"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E1E 000003E7"
+
+  - name: "Slot 213"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E22 000003E7"
+
+  - name: "Slot 214"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E26 000003E7"
+
+  - name: "Slot 215"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E2A 000003E7"
+
+  - name: "Slot 216"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E2E 000003E7"
+
+  - name: "Slot 217"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E32 000003E7"
+
+  - name: "Slot 218"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E36 000003E7"
+
+  - name: "Slot 219"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E3A 000003E7"
+
+  - name: "Slot 220"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E3E 000003E7"
+
+  - name: "Slot 221"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E42 000003E7"
+
+  - name: "Slot 222"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E46 000003E7"
+
+  - name: "Slot 223"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E4A 000003E7"
+
+  - name: "Slot 224"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E4E 000003E7"
+
+  - name: "Slot 225"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E52 000003E7"
+
+  - name: "Slot 226"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E56 000003E7"
+
+  - name: "Slot 227"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E5A 000003E7"
+
+  - name: "Slot 228"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E5E 000003E7"
+
+  - name: "Slot 229"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E62 000003E7"
+
+  - name: "Slot 230"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E66 000003E7"
+
+  - name: "Slot 231"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E6A 000003E7"
+
+  - name: "Slot 232"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E6E 000003E7"
+
+  - name: "Slot 233"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E72 000003E7"
+
+  - name: "Slot 234"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E76 000003E7"
+
+  - name: "Slot 235"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E7A 000003E7"
+
+  - name: "Slot 236"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E7E 000003E7"
+
+  - name: "Slot 237"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E82 000003E7"
+
+  - name: "Slot 238"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E86 000003E7"
+
+  - name: "Slot 239"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E8A 000003E7"
+
+  - name: "Slot 240"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E8E 000003E7"
+
+  - name: "Slot 241"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E92 000003E7"
+
+  - name: "Slot 242"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E96 000003E7"
+
+  - name: "Slot 243"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E9A 000003E7"
+
+  - name: "Slot 244"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409E9E 000003E7"
+
+  - name: "Slot 245"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409EA2 000003E7"
+
+  - name: "Slot 246"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409EA6 000003E7"
+
+  - name: "Slot 247"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409EAA 000003E7"
+
+  - name: "Slot 248"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409EAE 000003E7"
+
+  - name: "Slot 249"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409EB2 000003E7"
+
+  - name: "Slot 250"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409EB6 000003E7"
+
+  - name: "Slot 251"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409EBA 000003E7"
+
+  - name: "Slot 252"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409EBE 000003E7"
+
+  - name: "Slot 253"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409EC2 000003E7"
+
+  - name: "Slot 254"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409EC6 000003E7"
+
+  - name: "Slot 255"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409ECA 000003E7"
+
+  - name: "Slot 256"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409ECE 000003E7"
+
+  - name: "Slot 257"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409ED2 000003E7"
+
+  - name: "Slot 258"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409ED6 000003E7"
+
+  - name: "Slot 259"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409EDA 000003E7"
+
+  - name: "Slot 260"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409EDE 000003E7"
+
+  - name: "Slot 261"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409EE2 000003E7"
+
+  - name: "Slot 262"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409EE6 000003E7"
+
+  - name: "Slot 263"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409EEA 000003E7"
+
+  - name: "Slot 264"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409EEE 000003E7"
+
+  - name: "Slot 265"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409EF2 000003E7"
+
+  - name: "Slot 266"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409EF6 000003E7"
+
+  - name: "Slot 267"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409EFA 000003E7"
+
+  - name: "Slot 268"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409EFE 000003E7"
+
+  - name: "Slot 269"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F02 000003E7"
+
+  - name: "Slot 270"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F06 000003E7"
+
+  - name: "Slot 271"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F0A 000003E7"
+
+  - name: "Slot 272"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F0E 000003E7"
+
+  - name: "Slot 273"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F12 000003E7"
+
+  - name: "Slot 274"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F16 000003E7"
+
+  - name: "Slot 275"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F1A 000003E7"
+
+  - name: "Slot 276"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F1E 000003E7"
+
+  - name: "Slot 277"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F22 000003E7"
+
+  - name: "Slot 278"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F26 000003E7"
+
+  - name: "Slot 279"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F2A 000003E7"
+
+  - name: "Slot 280"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F2E 000003E7"
+
+  - name: "Slot 281"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F32 000003E7"
+
+  - name: "Slot 282"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F36 000003E7"
+
+  - name: "Slot 283"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F3A 000003E7"
+
+  - name: "Slot 284"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F3E 000003E7"
+
+  - name: "Slot 285"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F42 000003E7"
+
+  - name: "Slot 286"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F46 000003E7"
+
+  - name: "Slot 287"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F4A 000003E7"
+
+  - name: "Slot 288"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F4E 000003E7"
+
+  - name: "Slot 289"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F52 000003E7"
+
+  - name: "Slot 290"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F56 000003E7"
+
+  - name: "Slot 291"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F5A 000003E7"
+
+  - name: "Slot 292"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F5E 000003E7"
+
+  - name: "Slot 293"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F62 000003E7"
+
+  - name: "Slot 294"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F66 000003E7"
+
+  - name: "Slot 295"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F6A 000003E7"
+
+  - name: "Slot 296"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F6E 000003E7"
+
+  - name: "Slot 297"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F72 000003E7"
+
+  - name: "Slot 298"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F76 000003E7"
+
+  - name: "Slot 299"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F7A 000003E7"
+
+  - name: "Slot 300"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F7E 000003E7"
+
+  - name: "Slot 301"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F82 000003E7"
+
+  - name: "Slot 302"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F86 000003E7"
+
+  - name: "Slot 303"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F8A 000003E7"
+
+  - name: "Slot 304"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F8E 000003E7"
+
+  - name: "Slot 305"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F92 000003E7"
+
+  - name: "Slot 306"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F96 000003E7"
+
+  - name: "Slot 307"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F9A 000003E7"
+
+  - name: "Slot 308"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409F9E 000003E7"
+
+  - name: "Slot 309"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409FA2 000003E7"
+
+  - name: "Slot 310"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409FA6 000003E7"
+
+  - name: "Slot 311"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409FAA 000003E7"
+
+  - name: "Slot 312"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409FAE 000003E7"
+
+  - name: "Slot 313"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409FB2 000003E7"
+
+  - name: "Slot 314"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409FB6 000003E7"
+
+  - name: "Slot 315"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409FBA 000003E7"
+
+  - name: "Slot 316"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409FBE 000003E7"
+
+  - name: "Slot 317"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409FC2 000003E7"
+
+  - name: "Slot 318"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409FC6 000003E7"
+
+  - name: "Slot 319"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409FCA 000003E7"
+
+  - name: "Slot 320"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409FCE 000003E7"
+
+  - name: "Slot 321"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409FD2 000003E7"
+
+  - name: "Slot 322"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409FD6 000003E7"
+
+  - name: "Slot 323"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409FDA 000003E7"
+
+  - name: "Slot 324"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409FDE 000003E7"
+
+  - name: "Slot 325"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409FE2 000003E7"
+
+  - name: "Slot 326"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409FE6 000003E7"
+
+  - name: "Slot 327"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409FEA 000003E7"
+
+  - name: "Slot 328"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409FEE 000003E7"
+
+  - name: "Slot 329"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409FF2 000003E7"
+
+  - name: "Slot 330"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409FF6 000003E7"
+
+  - name: "Slot 331"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409FFA 000003E7"
+
+  - name: "Slot 332"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "10409FFE 000003E7"
+
+  - name: "Slot 333"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A002 000003E7"
+
+  - name: "Slot 334"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A006 000003E7"
+
+  - name: "Slot 335"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A00A 000003E7"
+
+  - name: "Slot 336"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A00E 000003E7"
+
+  - name: "Slot 337"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A012 000003E7"
+
+  - name: "Slot 338"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A016 000003E7"
+
+  - name: "Slot 339"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A01A 000003E7"
+
+  - name: "Slot 340"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A01E 000003E7"
+
+  - name: "Slot 341"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A022 000003E7"
+
+  - name: "Slot 342"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A026 000003E7"
+
+  - name: "Slot 343"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A02A 000003E7"
+
+  - name: "Slot 344"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A02E 000003E7"
+
+  - name: "Slot 345"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A032 000003E7"
+
+  - name: "Slot 346"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A036 000003E7"
+
+  - name: "Slot 347"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A03A 000003E7"
+
+  - name: "Slot 348"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A03E 000003E7"
+
+  - name: "Slot 349"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A042 000003E7"
+
+  - name: "Slot 350"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A046 000003E7"
+
+  - name: "Slot 351"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A04A 000003E7"
+
+  - name: "Slot 352"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A04E 000003E7"
+
+  - name: "Slot 353"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A052 000003E7"
+
+  - name: "Slot 354"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A056 000003E7"
+
+  - name: "Slot 355"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A05A 000003E7"
+
+  - name: "Slot 356"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A05E 000003E7"
+
+  - name: "Slot 357"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A062 000003E7"
+
+  - name: "Slot 358"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A066 000003E7"
+
+  - name: "Slot 359"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A06A 000003E7"
+
+  - name: "Slot 360"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A06E 000003E7"
+
+  - name: "Slot 361"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A072 000003E7"
+
+  - name: "Slot 362"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A076 000003E7"
+
+  - name: "Slot 363"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A07A 000003E7"
+
+  - name: "Slot 364"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A07E 000003E7"
+
+  - name: "Slot 365"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A082 000003E7"
+
+  - name: "Slot 366"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A086 000003E7"
+
+  - name: "Slot 367"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A08A 000003E7"
+
+  - name: "Slot 368"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A08E 000003E7"
+
+  - name: "Slot 369"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A092 000003E7"
+
+  - name: "Slot 370"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A096 000003E7"
+
+  - name: "Slot 371"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A09A 000003E7"
+
+  - name: "Slot 372"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A09E 000003E7"
+
+  - name: "Slot 373"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A0A2 000003E7"
+
+  - name: "Slot 374"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A0A6 000003E7"
+
+  - name: "Slot 375"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A0AA 000003E7"
+
+  - name: "Slot 376"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A0AE 000003E7"
+
+  - name: "Slot 377"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A0B2 000003E7"
+
+  - name: "Slot 378"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A0B6 000003E7"
+
+  - name: "Slot 379"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A0BA 000003E7"
+
+  - name: "Slot 380"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A0BE 000003E7"
+
+  - name: "Slot 381"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A0C2 000003E7"
+
+  - name: "Slot 382"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A0C6 000003E7"
+
+  - name: "Slot 383"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A0CA 000003E7"
+
+  - name: "Slot 384"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A0CE 000003E7"
+
+  - name: "Slot 385"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A0D2 000003E7"
+
+  - name: "Slot 386"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A0D6 000003E7"
+
+  - name: "Slot 387"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A0DA 000003E7"
+
+  - name: "Slot 388"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A0DE 000003E7"
+
+  - name: "Slot 389"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A0E2 000003E7"
+
+  - name: "Slot 390"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A0E6 000003E7"
+
+  - name: "Slot 391"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A0EA 000003E7"
+
+  - name: "Slot 392"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A0EE 000003E7"
+
+  - name: "Slot 393"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A0F2 000003E7"
+
+  - name: "Slot 394"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A0F6 000003E7"
+
+  - name: "Slot 395"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A0FA 000003E7"
+
+  - name: "Slot 396"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Max Bag Item Codes]"
+    codes:
+      - "1040A0FE 000003E7"
+
+  - name: "Majin Breakers(name Mod)(for Advanced Cheaters)"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Monster Party Mod]"
+    codes:
+      - "2040E6D0 ????????"
+      - "2040E6D4 ????????"
+      - "2040E6D8 ????????"
+      - "2040E6DC ????????"
+
+  - name: "Belly Bruisers(name Mod)(for Advanced Cheaters)"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Monster Party Mod]"
+    codes:
+      - "2040E6F0 ????????"
+      - "2040E6F4 ????????"
+      - "2040E6F8 ????????"
+      - "2040E6FC ????????"
+
+  - name: "Party Slot 1"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Monster Party Mod]"
+    codes:
+      - "1040E770 0000{MON]"
+      - "2040E710 00FF{MON]"
+
+  - name: "Party Slot 2"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Monster Party Mod]"
+    codes:
+      - "1040E772 0000{MON]"
+      - "2040E718 00FF{MON]"
+
+  - name: "Party Slot 3"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Monster Party Mod]"
+    codes:
+      - "1040E774 0000{MON]"
+      - "2040E720 00FF{MON]"
+
+  - name: "Party 2 Slot 1"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Monster Party Mod]"
+    codes:
+      - "1040E776 0000{MON]"
+      - "2040E728 00FF{MON]"
+
+  - name: "Party 2 Slot 2"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Monster Party Mod]"
+    codes:
+      - "1040E778 0000{MON]"
+      - "2040E730 00FF{MON]"
+
+  - name: "Party 2 Slot 3"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Monster Party Mod]"
+    codes:
+      - "1040E77A 0000{MON]"
+      - "2040E738 00FF{MON]"
+
+  - name: "Reserve 1"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Monster Party Mod]"
+    codes:
+      - "2040E740 00FF{MON]"
+
+  - name: "Reserve 2"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Monster Party Mod]"
+    codes:
+      - "2040E748 00FF{MON]"
+
+  - name: "Reserve 3"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Monster Party Mod]"
+    codes:
+      - "2040E750 00FF{MON]"
+
+  - name: "Reserve 4"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Monster Party Mod]"
+    codes:
+      - "2040E758 00FF{MON]"
+
+  - name: "Reserve 5"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Monster Party Mod]"
+    codes:
+      - "2040E760 00FF{MON]"
+
+  - name: "Reserve 6"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Monster Party Mod]"
+    codes:
+      - "2040E768 00FF{MON]"
+
+  - name: "All Monsters Defeated"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Monster List]"
+    codes:
+      - "4040A5A0 01270008"
+      - "000003E7 00000000"
+
+  - name: "All Max Monsters Drops"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Monster List]"
+    codes:
+      - "4040A5A8 01270008"
+      - "00630063 00000000"
+
+  - name: "Max Number Killed"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Slime Codes]"
+    codes:
+      - "2040A5A0 000003E7"
+
+  - name: "Max Item 1 Drops"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Slime Codes]"
+    codes:
+      - "1040A5A8 00000063"
+
+  - name: "Max Item 2 Drops"
+    author: "SkillerCMP>Pyriel"
+    notes: "[Slime Codes]"
+    codes:
+      - "1040A5AA 00000063"

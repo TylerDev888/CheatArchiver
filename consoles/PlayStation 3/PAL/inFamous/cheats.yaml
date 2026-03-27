@@ -1,0 +1,17 @@
+# inFamous cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BCES00609
+
+game: "inFamous"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BCES00609"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Xp"
+    notes: "File: BCUS98119_INFAMOUS_*\\STATE"
+    codes:
+      - "2000000C 05F5E0FF"

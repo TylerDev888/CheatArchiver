@@ -1,0 +1,228 @@
+# Jade Cocoon 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20309
+
+game: "Jade Cocoon 2"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20309"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0141D18 0012277F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0012277F"
+
+  - name: "Infinite HP"
+    author: "Code Master"
+    notes: "[Beast 1 Codes]"
+    codes:
+      - "2087A014 000003E7"
+
+  - name: "Infinite MP"
+    author: "Code Master"
+    notes: "[Beast 1 Codes]"
+    codes:
+      - "2087A02C 000003E7"
+
+  - name: "Max EXP"
+    author: "Code Master"
+    notes: "[Beast 1 Codes]"
+    codes:
+      - "2087A000 0098967F"
+
+  - name: "Max HP"
+    author: "Code Master"
+    notes: "[Beast 1 Codes]"
+    codes:
+      - "2087A010 000003E7"
+
+  - name: "Max MP"
+    author: "Code Master"
+    notes: "[Beast 1 Codes]"
+    codes:
+      - "2087A028 000003E7"
+
+  - name: "Max Speed"
+    author: "Code Master"
+    notes: "[Beast 1 Codes]"
+    codes:
+      - "2087A0A0 000003E7"
+      - "2087A0A4 000003E7"
+
+  - name: "Max Spirit"
+    author: "Code Master"
+    notes: "[Beast 1 Codes]"
+    codes:
+      - "2087A088 000003E7"
+      - "2087A08C 000003E7"
+
+  - name: "Max Strength"
+    author: "Code Master"
+    notes: "[Beast 1 Codes]"
+    codes:
+      - "2087A040 000003E7"
+      - "2087A044 000003E7"
+
+  - name: "Max Vitality"
+    author: "Code Master"
+    notes: "[Beast 1 Codes]"
+    codes:
+      - "2087A058 000003E7"
+      - "2087A05C 000003E7"
+
+  - name: "Max Wisdom"
+    author: "Code Master"
+    notes: "[Beast 1 Codes]"
+    codes:
+      - "2087A070 000003E7"
+      - "2087A074 000003E7"
+
+  - name: "Quick EXP Gain"
+    author: "Code Master"
+    notes: "[Beast 1 Codes]"
+    codes:
+      - "1087A000 0000FFFF"
+
+  - name: "Beast A: SPD"
+    author: "InterAct"
+    notes: "[Beast A Codes]"
+    codes:
+      - "2087A0A0 000003E7"
+      - "2087A0AC 000003E7"
+
+  - name: "Beast C: Quick Level Up"
+    author: "InterAct"
+    notes: "[Beast C Codes]"
+    codes:
+      - "2087A358 0000FFFF"
+
+  - name: "Beast D: Quick Level Up"
+    author: "InterAct"
+    notes: "[Beast D Codes]"
+    codes:
+      - "2087A504 0000FFFF"
+
+  - name: "Beast E: Quick Level Up"
+    author: "InterAct"
+    notes: "[Beast E Codes]"
+    codes:
+      - "2087A6B0 0000FFFF"
+
+  - name: "Beast F: Quick Level Up"
+    author: "InterAct"
+    notes: "[Beast F Codes]"
+    codes:
+      - "2087A85C 0000FFFF"
+
+  - name: "Beast G: Quick Level Up"
+    author: "InterAct"
+    notes: "[Beast G Codes]"
+    codes:
+      - "2087AA08 0000FFFF"
+
+  - name: "Beast H: Quick Level Up"
+    author: "InterAct"
+    notes: "[Beast H Codes]"
+    codes:
+      - "2087ABB4 0000FFFF"
+
+  - name: "Beast I: Quick Level Up"
+    author: "InterAct"
+    notes: "[Beast I Codes]"
+    codes:
+      - "2087AD60 0000FFFF"
+
+  - name: "Beast J: Quick Level Up"
+    author: "InterAct"
+    notes: "[Beast J Codes]"
+    codes:
+      - "2087AF0C 0000FFFF"
+
+  - name: "Beast K: Quick Level Up"
+    author: "InterAct"
+    notes: "[Beast K Codes]"
+    codes:
+      - "2087B0B8 0000FFFF"
+
+  - name: "Beast L: Beast L: Quick Level Up"
+    author: "InterAct"
+    notes: "[Beast L Codes]"
+    codes:
+      - "2087B264 0000FFFF"
+
+  - name: "Never More Than 100 HP"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0020064 3087A014"
+      - "E0010000 3087A016"
+      - "2087A014 00000064"
+
+  - name: "Never More Than 200 HP"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E00200C8 3087A6C4"
+      - "E0010000 3087A6C6"
+      - "2087A6C4 000000C8"
+
+  - name: "Never More Than 500 HP"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E00201F4 3087A014"
+      - "E0010000 3087A016"
+      - "2087A014 000001F4"
+
+  - name: "Infinite Money"
+    author: "Code Master"
+    codes:
+      - "10879888 0000FFFF"
+
+  - name: "Max Beasts Held"
+    author: "InterAct"
+    codes:
+      - "20879894 00000007"
+
+  - name: "Max Cash"
+    author: "InterAct"
+    codes:
+      - "20879888 05F5E0FF"
+
+  - name: "Max Item Slots"
+    author: "InterAct"
+    codes:
+      - "108846F8 00000063"
+
+  - name: "Max Money"
+    author: "Code Master"
+    codes:
+      - "20879888 0098967F"
+
+  - name: "Max Reputation"
+    author: "InterAct"
+    codes:
+      - "2087988C 0000270F"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0012277F"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9012277C 0C04CAAE"

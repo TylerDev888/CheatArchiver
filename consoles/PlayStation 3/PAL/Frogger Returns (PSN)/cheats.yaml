@@ -1,0 +1,21 @@
+# Frogger Returns (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00162
+
+game: "Frogger Returns (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00162"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Dwadd (required)"
+    notes: "File: SAVEDATA  (set [csum]:dwadd(0x000000,0x000437)) (write at 0x000438:[csum])"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof-4"
+      - "set [csum]:dwadd(0x000000,pointer)"
+      - "set pointer:eof-3"
+      - "write next (0):[csum]"

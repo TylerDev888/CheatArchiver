@@ -1,0 +1,51 @@
+# Sly Cooper_ Thieves in Time cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BCES01284
+
+game: "Sly Cooper_ Thieves in Time"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BCES01284"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Max Coins"
+    notes: "File: BCES01284_SAVE_SLOT_*\\SYS_DATA"
+    codes:
+      - "20000020 05F5E0FF"
+
+  - name: "Unlock All Masks"
+    notes: "File: BCES01284_SAVE_SLOT_*\\SYS_DATA"
+    codes:
+      - "20000064 FFFFFFFF"
+      - "20000069 FFFFFFFF"
+
+  - name: "Unlock All Treasures(treasure Percentage Will Not Increase When This Cheat Is Used.)"
+    notes: "File: BCES01284_SAVE_SLOT_*\\SYS_DATA"
+    codes:
+      - "20000025 2899AFF6"
+      - "20000029 9E553B00"
+
+  - name: "Unlock All Bottles"
+    notes: "File: BCES01284_SAVE_SLOT_*\\SYS_DATA"
+    codes:
+      - "42000038 FFFFFFFF"
+      - "40050004 00000000"
+
+  - name: "All Arcades Top 5 Ranking Point 1(easy Trophies For Arcade)(by Chaoszage)"
+    notes: "File: BCES01284_SAVE_SLOT_*\\SYS_DATA"
+    codes:
+      - "4100036A 00000001"
+      - "40050004 00000000"
+      - "41000396 00000001"
+      - "40050004 00000000"
+      - "410003C2 00000001"
+      - "40050004 00000000"
+      - "410003EE 00000001"
+      - "40050004 00000000"
+      - "4100041A 00000001"
+      - "40050004 00000000"
+      - "41000446 00000001"
+      - "40050004 00000000"

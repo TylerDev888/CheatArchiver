@@ -1,0 +1,300 @@
+# Contra - Shattered Soldier cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20306
+
+game: "Contra - Shattered Soldier"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20306"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F05DF1FC 005DF1FF"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0400008 005DF1FF"
+
+  - name: "Infinite Credits"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "10912534 00000063"
+
+  - name: "Never Have Any Credits"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "E0010000 30912534"
+      - "10912534 00000000"
+
+  - name: "Never Have More Than 1 Credit"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "E0010001 30912534"
+      - "10912534 00000001"
+
+  - name: "Never Have More Than 5 Credits"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "E0010005 30912534"
+      - "10912534 00000005"
+
+  - name: "Never Have More Than 10 Credits"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "E001000A 30912534"
+      - "10912534 0000000A"
+
+  - name: "Never Have More Than 20 Credits"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "E0010014 30912534"
+      - "10912534 00000014"
+
+  - name: "Always Have No Credits"
+    author: "Codejunkies"
+    notes: "[Difficulty Codes]"
+    codes:
+      - "2042FC70 A0402534"
+
+  - name: "Always On Last Life"
+    author: "Codejunkies"
+    notes: "[Difficulty Codes]"
+    codes:
+      - "D09128C0 00000002"
+      - "109128C0 00000000"
+
+  - name: "Max Hit Rate"
+    author: "Code Master"
+    notes: "[End Of Level Stat Codes]"
+    codes:
+      - "20912514 00000064"
+
+  - name: "No Continues"
+    author: "Code Master"
+    notes: "[End Of Level Stat Codes]"
+    codes:
+      - "20912520 00000000"
+
+  - name: "No Lost Remaining Life"
+    author: "Code Master"
+    notes: "[End Of Level Stat Codes]"
+    codes:
+      - "2091251C 00000000"
+
+  - name: "Extra Credits"
+    author: "Code Master"
+    codes:
+      - "1042FCA0 00000001"
+
+  - name: "Extra Lives P1 & P2"
+    author: "Code Master"
+    codes:
+      - "204351CC 24420001"
+
+  - name: "Only Use Flame Gun"
+    author: "Codejunkies"
+    notes: "[Gun Codes]"
+    codes:
+      - "009126D0 00000001"
+
+  - name: "Only Use Grenade Gun"
+    author: "Codejunkies"
+    notes: "[Gun Codes]"
+    codes:
+      - "009126D0 00000003"
+
+  - name: "Only Use Rapid Fire Gun"
+    author: "Codejunkies"
+    notes: "[Gun Codes]"
+    codes:
+      - "009126D0 00000000"
+
+  - name: "001-Fortress"
+    author: "Code Master"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "209124F8 00000007"
+
+  - name: "002-Train"
+    author: "Code Master"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "209124FC 00000007"
+
+  - name: "003-City"
+    author: "Code Master"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "20912500 00000007"
+
+  - name: "004-Seabed"
+    author: "Code Master"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "20912504 00000007"
+
+  - name: "005-Archipelago"
+    author: "Code Master"
+    notes: "[Have Level Completed Codes]"
+    codes:
+      - "20912508 00000007"
+
+  - name: "Infinite Lives P1"
+    author: "Code Master"
+    codes:
+      - "109128C0 00000063"
+
+  - name: "Infinite Lives P1 & P2"
+    author: "Code Master"
+    codes:
+      - "204351D8 00000000"
+
+  - name: "Infinite Lives P2"
+    author: "Code Master"
+    codes:
+      - "109128D0 00000063"
+
+  - name: "Invincible P1 & P2"
+    author: "Code Master"
+    codes:
+      - "1043A726 00001000"
+
+  - name: "Jump In Midair P1"
+    author: "nolberto82"
+    codes:
+      - "200A0000 3C02007C"
+      - "200A0004 944246C4"
+      - "200A0008 30420040"
+      - "200A000C 10400002"
+      - "200A0010 34030010"
+      - "200A0014 A6230022"
+      - "200A0018 DE230020"
+      - "200A001C 3C020010"
+      - "200A0020 0810EF63"
+      - "2043BD84 08028000"
+
+  - name: "0 Lives Lost"
+    author: "Codejunkies"
+    notes: "[Life Codes]"
+    codes:
+      - "1091251C 00000000"
+
+  - name: "100% Hit Rate"
+    author: "Codejunkies"
+    notes: "[Life Codes]"
+    codes:
+      - "10912514 00000064"
+
+  - name: "Always 0 Lives"
+    author: "Codejunkies"
+    notes: "[Life Codes]"
+    codes:
+      - "E0020000 309128C0"
+      - "E0010000 309128C2"
+      - "209128C0 00000000"
+
+  - name: "Infinite Lives"
+    author: "Codejunkies"
+    notes: "[Life Codes]"
+    codes:
+      - "209128C0 00000063"
+
+  - name: "Massive Jump"
+    author: "Codejunkies"
+    notes: "[Life Codes]"
+    codes:
+      - "20912870 42300000"
+
+  - name: "Massive Score"
+    author: "Codejunkies"
+    notes: "[Life Codes]"
+    codes:
+      - "209128C4 0098967F"
+
+  - name: "Max Score"
+    author: "Codejunkies"
+    notes: "[Life Codes]"
+    codes:
+      - "209128D4 0098967F"
+
+  - name: "Mega Jump"
+    author: "Codejunkies"
+    notes: "[Life Codes]"
+    codes:
+      - "209126C0 42300000"
+
+  - name: "Never Have More Than 1 Life"
+    author: "Codejunkies"
+    notes: "[Life Codes]"
+    codes:
+      - "E0020001 309128C0"
+      - "E0010000 309128C2"
+      - "209128C0 00000001"
+
+  - name: "Never Have More Than 2 Lives"
+    author: "Codejunkies"
+    notes: "[Life Codes]"
+    codes:
+      - "E0020002 309128C0"
+      - "E0010000 309128C2"
+      - "209128C0 00000002"
+
+  - name: "Never Have More Than 3 Lives"
+    author: "Codejunkies"
+    notes: "[Life Codes]"
+    codes:
+      - "E0020003 309128C0"
+      - "E0010000 309128C2"
+      - "209128C0 00000003"
+
+  - name: "Moon Jump P1"
+    author: "Code Master"
+    codes:
+      - "D07C4A82 0000BFFF"
+      - "209126C0 42200000"
+      - "D07C4A82 00003FFF"
+      - "209126C0 42200000"
+
+  - name: "Moon Jump P2"
+    author: "Code Master"
+    codes:
+      - "D07C4C02 0000BFFF"
+      - "20912870 42200000"
+      - "D07C4C02 00003FFF"
+      - "20912870 42200000"
+
+  - name: "Invincible"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "00912584 000000FF"
+
+  - name: "Invinicible"
+    author: "Codejunkies"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "00912734 000000FF"
+
+  - name: "Quick Score Gain P1"
+    author: "Code Master"
+    codes:
+      - "109128C4 0000FFFF"
+
+  - name: "Quick Score Gain P2"
+    author: "Code Master"
+    codes:
+      - "109128D4 0000FFFF"

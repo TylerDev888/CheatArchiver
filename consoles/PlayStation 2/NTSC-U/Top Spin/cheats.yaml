@@ -1,0 +1,100 @@
+# Top Spin cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21222
+
+game: "Top Spin"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21222"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "90133F20 00832021"
+
+  - name: "Buying Shop Items Doesn't Decrease Coins"
+    author: "Code Master"
+    notes: "[Career Mode Codes]"
+    codes:
+      - "D06F4700 0000282D"
+      - "206F472C 00000000"
+
+  - name: "Buying Shop Items Increases Coins"
+    author: "Code Master"
+    notes: "[Career Mode Codes]"
+    codes:
+      - "D06F4700 0000282D"
+      - "206F4728 00621021"
+
+  - name: "Buying Shop Items Increases Coins To Max"
+    author: "Code Master"
+    notes: "[Career Mode Codes]"
+    codes:
+      - "E002282D 006F4700"
+      - "206F4718 3C0205F5"
+      - "206F4728 3442E0FF"
+
+  - name: "All Matches Score For Team 1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D062EB78 0000802D"
+      - "2062EB8C 24420000"
+
+  - name: "All Matches Score For Team 2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D062EB78 0000802D"
+      - "2062EB8C 24420001"
+
+  - name: "All Points Score For Team 1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D062ECD4 0000802D"
+      - "2062ECF4 24050000"
+
+  - name: "All Points Score For Team 2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D062ECD4 0000802D"
+      - "2062ECF4 24050001"
+
+  - name: "Display FPS"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2059073C 00000001"
+
+  - name: "Display Memory Usage"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20590744 00000001"
+
+  - name: "Score Once To Win"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D062ECD4 0000802D"
+      - "2062ED2C 24020004"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90133F20 00832021"
+
+  - name: "Buying Shop Items Doesnt Decrease Coins"
+    author: "Code Master"
+    notes: "[Career Mode Codes]"
+    codes:
+      - "E001282D 006F4700"
+      - "206F472C 00000000"

@@ -1,0 +1,48 @@
+# UEFA Champions League cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54513
+
+game: "UEFA Champions League"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54513"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01B2B14 0022E78F"
+
+  - name: "Away Team Score 0"
+    author: "InterAct"
+    codes:
+      - "10573B5C 00000000"
+
+  - name: "Away Team Score 99"
+    author: "InterAct"
+    codes:
+      - "10573B5C 00000063"
+
+  - name: "Home Team Score 0"
+    author: "InterAct"
+    codes:
+      - "1046E73C 00000000"
+
+  - name: "Home Team Score 99"
+    author: "InterAct"
+    codes:
+      - "1046E73C 00000063"
+
+  - name: "Spot The Ball Mode"
+    author: "InterAct"
+    codes:
+      - "20106CC4 00000000"
+
+  - name: "Super Fast Football"
+    author: "InterAct"
+    codes:
+      - "202B3610 000000FA"

@@ -1,0 +1,130 @@
+# YAKUZA 3 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00834
+
+game: "YAKUZA 3"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00834"
+cheat_type: "Save Editor"
+source: "by Krustytoe & Game Genie For PS3"
+
+cheats:
+  - name: "Max Money"
+    notes: "File: USER01"
+    codes:
+      - "20007CA8 3B9AC9FF"
+
+  - name: "Max Exp"
+    notes: "File: USER01"
+    codes:
+      - "200058C8 3B9ACA00"
+      - "200058CC 3B9ACA00"
+
+  - name: "Max Casino Chips"
+    notes: "File: USER01"
+    codes:
+      - "20007CAC 05F5E0FF"
+
+  - name: "Max Wooden Tags(gambling Den)"
+    notes: "File: USER01"
+    codes:
+      - "20007CB0 05F5E0FF"
+
+  - name: "Golden Gun In Slot 1"
+    notes: "[Inventory Mod (weapon Have Infinite Durability)]  File: USER01"
+    codes:
+      - "20005A40 034BFFFF"
+      - "20005A44 FFFF0001"
+
+  - name: "Dragon Embelm Sword In Slot 2"
+    notes: "[Inventory Mod (weapon Have Infinite Durability)]  File: USER01"
+    codes:
+      - "20005A48 0311FFFF"
+      - "20005A4C FFFE0001"
+
+  - name: "Dragon Nunchaku In Slot 3"
+    notes: "[Inventory Mod (weapon Have Infinite Durability)]  File: USER01"
+    codes:
+      - "20005A50 033BFFFF"
+      - "20005A54 FFFE0001"
+
+  - name: "War God Talisman In Slot 4"
+    notes: "[Inventory Mod (weapon Have Infinite Durability)]  File: USER01"
+    codes:
+      - "20005A58 03D20000"
+      - "20005A5C 00000001"
+
+  - name: "Divine Dragon Short Sword In Slot 5"
+    notes: "[Inventory Mod (weapon Have Infinite Durability)]  File: USER01"
+    codes:
+      - "20005A60 02F9FFFF"
+      - "20005A64 FFFF0001"
+
+  - name: "Dragon Flak Vest In Slot 6"
+    notes: "[Inventory Mod (weapon Have Infinite Durability)]  File: USER01"
+    codes:
+      - "20005A68 03AA0000"
+      - "20005A6C 00000001"
+
+  - name: "Dragon Mail In Slot 7"
+    notes: "[Inventory Mod (weapon Have Infinite Durability)]  File: USER01"
+    codes:
+      - "20005A70 03A50000"
+      - "20005A74 00000001"
+
+  - name: "Dragon Flash Driver In Slot 8"
+    notes: "[Inventory Mod (weapon Have Infinite Durability)]  File: USER01"
+    codes:
+      - "20005A78 0300FFFF"
+      - "20005A7C FFFE0001"
+
+  - name: "Blue Dragon Bat In Slot 9"
+    notes: "[Inventory Mod (weapon Have Infinite Durability)]  File: USER01"
+    codes:
+      - "20005A80 0304FFFF"
+      - "20005A84 FFFE0001"
+
+  - name: "Photon Blade Rg In Slot 10"
+    notes: "[Inventory Mod (weapon Have Infinite Durability)]  File: USER01"
+    codes:
+      - "20005A88 0309FFFF"
+      - "20005A8C FFFE0001"
+
+  - name: "Dragon Hammer In Slot 11"
+    notes: "[Inventory Mod (weapon Have Infinite Durability)]  File: USER01"
+    codes:
+      - "20005A90 0315FFFF"
+      - "20005A94 FFFE0001"
+
+  - name: "White Dragon Spear In Slot 12"
+    notes: "[Inventory Mod (weapon Have Infinite Durability)]  File: USER01"
+    codes:
+      - "20005A98 031DFFFF"
+      - "20005A9C FFFE0001"
+
+  - name: "Dragon Knuckles In Slot 13"
+    notes: "[Inventory Mod (weapon Have Infinite Durability)]  File: USER01"
+    codes:
+      - "20005AA0 0328FFFF"
+      - "20005AA4 FFFE0001"
+
+  - name: "Chinese Dragon Tonfa In Slot 14"
+    notes: "[Inventory Mod (weapon Have Infinite Durability)]  File: USER01"
+    codes:
+      - "20005AA8 0334FFFF"
+      - "20005AAC FFFE0001"
+
+  - name: "Dragon Taiko Sticks In Slot 15"
+    notes: "[Inventory Mod (weapon Have Infinite Durability)]  File: USER01"
+    codes:
+      - "20005AB0 0346FFFF"
+      - "20005AB4 FFFE0001"
+
+  - name: "Easy Ultimate Challenger Trophy(beat Melee 1-1)"
+    notes: "[Inventory Mod (weapon Have Infinite Durability)]  File: USERDATA"
+    codes:
+      - "40000059 00000004"
+      - "40230008 00000000"
+      - "00000059 00000000"

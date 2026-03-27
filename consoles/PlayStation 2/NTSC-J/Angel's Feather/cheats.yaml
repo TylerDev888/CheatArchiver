@@ -1,0 +1,39 @@
+# Angel's Feather cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65943
+
+game: "Angel's Feather"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65943"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "901B38B8 0C06CDD6"
+
+  - name: "Boot To Debug Menu (Need Debug Display On)"
+    author: "punk7890"
+    codes:
+      - "101006D0 000001C0"
+
+  - name: "Enable Debug Display"
+    author: "punk7890"
+    codes:
+      - "201C12C0 00000001"
+
+  - name: "Enable H3D Version Display"
+    author: "punk7890"
+    codes:
+      - "201004D4 24050001"
+
+  - name: "Unlock All CG (Unused Debug Function)"
+    author: "punk7890"
+    codes:
+      - "001582B0 0000003C"
+      - "001582C0 0000003C"

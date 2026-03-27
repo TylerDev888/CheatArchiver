@@ -1,0 +1,103 @@
+# Cabella's Big Game Hunter cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Cabella's Big Game Hunter"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90132C24 0C0C15A8"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20346A20 3C0142C8"
+      - "20346A24 44810000"
+
+  - name: "Stamina"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20346C60 E6200414"
+
+  - name: "Stealth"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20346E68 E422C020"
+
+  - name: "Ammunition (No Reload)"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20353468 24640000"
+
+  - name: "Money"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "205FCD60 05F5E0FF"
+
+  - name: "Alaska"
+    author: "Xploder"
+    notes: "[Unlock Map]"
+    codes:
+      - "005FD7C0 00000001"
+
+  - name: "Alberta"
+    author: "Xploder"
+    notes: "[Unlock Map]"
+    codes:
+      - "005FD7C1 00000001"
+
+  - name: "Arizona"
+    author: "Xploder"
+    notes: "[Unlock Map]"
+    codes:
+      - "005FD7C2 00000001"
+
+  - name: "British Columbia"
+    author: "Xploder"
+    notes: "[Unlock Map]"
+    codes:
+      - "005FD7C3 00000001"
+
+  - name: "Montana"
+    author: "Xploder"
+    notes: "[Unlock Map]"
+    codes:
+      - "005FD7C4 00000001"
+
+  - name: "Northwest"
+    author: "Xploder"
+    notes: "[Unlock Map]"
+    codes:
+      - "005FD7C5 00000001"
+
+  - name: "Quebec"
+    author: "Xploder"
+    notes: "[Unlock Map]"
+    codes:
+      - "005FD7C6 00000001"
+
+  - name: "Texas"
+    author: "Xploder"
+    notes: "[Unlock Map]"
+    codes:
+      - "005FD7C7 00000001"
+
+  - name: "All Maps"
+    author: "Xploder"
+    notes: "[Unlock Map]"
+    codes:
+      - "205FD7C0 01010101"
+      - "205FD7C4 01010101"

@@ -1,0 +1,24 @@
+# Higurashi No Naku Koro Ni Matsuri cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66620
+
+game: "Higurashi No Naku Koro Ni Matsuri"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66620"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90195E18 0C06572E"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90175008 0C062DFF"

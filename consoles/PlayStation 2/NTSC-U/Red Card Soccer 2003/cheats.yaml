@@ -1,0 +1,225 @@
+# Red Card Soccer 2003 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20354
+
+game: "Red Card Soccer 2003"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20354"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0158028 00112E9F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00112E9F"
+
+  - name: "Apes"
+    author: "Codejunkies"
+    notes: "[Away Side Team Modifier]"
+    codes:
+      - "108A16B8 00000033"
+
+  - name: "Dolphins"
+    author: "Codejunkies"
+    notes: "[Away Side Team Modifier]"
+    codes:
+      - "108A16B8 00000036"
+
+  - name: "Kraken"
+    author: "Codejunkies"
+    notes: "[Away Side Team Modifier]"
+    codes:
+      - "108A16B8 00000039"
+
+  - name: "Martians"
+    author: "Codejunkies"
+    notes: "[Away Side Team Modifier]"
+    codes:
+      - "108A16B8 00000037"
+
+  - name: "Matadors"
+    author: "Codejunkies"
+    notes: "[Away Side Team Modifier]"
+    codes:
+      - "108A16B8 00000038"
+
+  - name: "Negiseti"
+    author: "Codejunkies"
+    notes: "[Away Side Team Modifier]"
+    codes:
+      - "108A16B8 0000003A"
+
+  - name: "Samurai"
+    author: "Codejunkies"
+    notes: "[Away Side Team Modifier]"
+    codes:
+      - "108A16B8 0000003B"
+
+  - name: "Swat"
+    author: "Codejunkies"
+    notes: "[Away Side Team Modifier]"
+    codes:
+      - "108A16B8 0000003C"
+
+  - name: "Tonatiuh"
+    author: "Codejunkies"
+    notes: "[Away Side Team Modifier]"
+    codes:
+      - "108A16B8 00000034"
+
+  - name: "Xochicalco"
+    author: "Codejunkies"
+    notes: "[Away Side Team Modifier]"
+    codes:
+      - "108A16B8 00000035"
+
+  - name: "First Away Team Goal Is Worth 5 Goals"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "D03E38EC 00000001"
+      - "103E38EC 00000005"
+
+  - name: "First Home Team Goal Is Worth 5 Goals"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "D03E38D8 00000001"
+      - "103E38D8 00000005"
+
+  - name: "Never Score More Than 1 Goal"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "E0010001 303E38EC"
+      - "103E38EC 00000001"
+
+  - name: "Never Score More Than 2 Goals"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "E0010002 303E38EC"
+      - "103E38EC 00000002"
+
+  - name: "Never Score More Than 3 Goals"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "E0010003 303E38EC"
+      - "103E38EC 00000003"
+
+  - name: "No Time"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "203E3858 FFFFFFFF"
+
+  - name: "Score 0"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "103E38EC 00000000"
+
+  - name: "Score 20"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "103E38EC 00000014"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "103E38EC 0000????"
+
+  - name: "Away Team Start With Goals Modifier"
+    author: "Code Master"
+    codes:
+      - "D03E38EC 00000000"
+      - "103E38EC 0000????"
+
+  - name: "Max Defense"
+    author: "InterAct"
+    notes: "[Customize Team Codes]"
+    codes:
+      - "10855958 00000064"
+
+  - name: "Max Morale"
+    author: "InterAct"
+    notes: "[Customize Team Codes]"
+    codes:
+      - "10855970 00000064"
+
+  - name: "Max Offense"
+    author: "InterAct"
+    notes: "[Customize Team Codes]"
+    codes:
+      - "10855950 00000064"
+
+  - name: "Max Speed"
+    author: "InterAct"
+    notes: "[Customize Team Codes]"
+    codes:
+      - "10855968 00000064"
+
+  - name: "Max Stamina"
+    author: "InterAct"
+    notes: "[Customize Team Codes]"
+    codes:
+      - "10855960 00000064"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "103E38D8 0000????"
+
+  - name: "Home Team Start With Goals Modifier"
+    author: "Code Master"
+    codes:
+      - "D03E38D8 00000000"
+      - "103E38D8 0000????"
+
+  - name: "Infinite Turbo - P1:"
+    author: "InterAct"
+    codes:
+      - "103DCB56 000042C8"
+
+  - name: "No Turbo - P1:"
+    author: "InterAct"
+    codes:
+      - "103DCB56 00004000"
+
+  - name: "Infinite Turbo"
+    author: "Codejunkies"
+    notes: "[Player 1 Turbo Codes]"
+    codes:
+      - "103D3356 000042C8"
+
+  - name: "Never Have More Than 25% Turbo"
+    author: "Codejunkies"
+    notes: "[Player 1 Turbo Codes]"
+    codes:
+      - "E00141C8 303D3356"
+      - "103D3356 000041C8"
+
+  - name: "Never Have More Than 50% Turbo"
+    author: "Codejunkies"
+    notes: "[Player 1 Turbo Codes]"
+    codes:
+      - "E0014248 303D3356"
+      - "103D3356 00004248"
+
+  - name: "No Turbo"
+    author: "Codejunkies"
+    notes: "[Player 1 Turbo Codes]"
+    codes:
+      - "103D3356 00004000"

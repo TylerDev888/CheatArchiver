@@ -1,0 +1,24 @@
+# Diablo III cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA00242
+
+game: "Diablo III"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA00242"
+cheat_type: "AP"
+source: "by bucanero"
+
+cheats:
+  - name: "Decrypt Account.dat (required)"
+    notes: "File: account.dat  () (cheat codes go here) ()"
+    codes:
+      - "set range:0x000000,eof+1"
+      - "DECRYPT diablo3"
+
+  - name: "Encrypt Account.dat (required)"
+    notes: "File: account.dat"
+    codes:
+      - "set range:0x000000,eof+1"
+      - "ENCRYPT diablo3"

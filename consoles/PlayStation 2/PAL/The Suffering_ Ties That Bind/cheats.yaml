@@ -1,0 +1,66 @@
+# The Suffering_ Ties That Bind cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "The Suffering_ Ties That Bind"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "904BBB60 0C13636F"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20319B84 8C81001C"
+      - "20319B8C AC810018"
+
+  - name: "Ammo"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20326A2C 00000000"
+
+  - name: "Grenades"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "202AF2A0 00000000"
+
+  - name: "Flashlight Battery"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20269BBC 3C014496"
+      - "20269BC4 44810000"
+
+  - name: "Insantity Always Available"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "20317F74 E60004A4"
+
+  - name: "Infinite Insanity Time"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "D05BB682 0000FFFD"
+      - "202F1180 00000000"
+      - "D05BB682 0000FFFB"
+      - "202F1180 46011081"
+
+  - name: "All Weapons"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "20572FE8 00000016"
+      - "20572FEC FFFFFFFF"
+      - "20572FF0 00000000"

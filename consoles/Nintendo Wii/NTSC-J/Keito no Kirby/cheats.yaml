@@ -1,0 +1,63 @@
+# Keito no Kirby cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-J
+# Serial:  RK5J01
+
+game: "Keito no Kirby"
+console: "Nintendo Wii"
+region: "NTSC-J"
+serial: "RK5J01"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Have Max Beads After Stage/Buying Stuff"
+    author: "Skiller"
+    codes:
+      - "041FFDE4 4800000C"
+      - "041FFDFC 48000008"
+
+  - name: "Stage/World Unlocker"
+    author: "Skiller"
+    codes:
+      - "C21FF8A4 00000003"
+      - "80A30004 2C050001"
+      - "4082000C 38A00002"
+      - "90A30004 00000000"
+      - "C21FF8C0 00000002"
+      - "38A00003 90A30004"
+      - "60000000 00000000"
+      - "C2065320 00000002"
+      - "38600003 90640000"
+      - "60000000 00000000"
+
+  - name: "Have All Place Objects"
+    author: "Skiller"
+    codes:
+      - "C2417888 00000003"
+      - "3C000100 90030004"
+      - "38000002 90030000"
+      - "60000000 00000000"
+
+  - name: "Have All Wallpaper"
+    author: "Skiller"
+    codes:
+      - "C249F708 00000003"
+      - "3C000100 90050004"
+      - "38000001 90050000"
+      - "60000000 00000000"
+
+  - name: "Max Streak"
+    author: "Skiller"
+    codes:
+      - "041FF564 40810004"
+
+  - name: "Stop Timers"
+    author: "Skiller"
+    codes:
+      - "041FEC94 9003001C"
+
+  - name: "Hide And Seek Compleat On 1 Find"
+    author: "Skiller"
+    codes:
+      - "041FF170 90A30048"

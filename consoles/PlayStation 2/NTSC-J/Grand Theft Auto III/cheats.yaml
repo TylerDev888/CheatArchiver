@@ -1,0 +1,29 @@
+# Grand Theft Auto III cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65382
+
+game: "Grand Theft Auto III"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65382"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Master Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90115178 0C045406"
+
+  - name: "Master Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9011F5B4 0C041CEE"
+
+  - name: "Infinite Health"
+    author: "BigBossman"
+    codes:
+      - "10BD4812 000042C8"

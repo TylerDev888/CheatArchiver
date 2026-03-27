@@ -1,0 +1,52 @@
+# Nishikaze No Kyoushikyouku_ The Rhapsody Of Zephyr cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25325
+
+game: "Nishikaze No Kyoushikyouku_ The Rhapsody Of Zephyr"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25325"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9010F6B8 0C043D56"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90209228 0C040094"
+
+  - name: "Always Full Life"
+    author: "luc-ita"
+    codes:
+      - "201A8E20 8E0200A4"
+      - "201A8E28 AE020124"
+
+  - name: "Always Full Mana"
+    author: "luc-ita"
+    codes:
+      - "201AAD48 8E8200A8"
+      - "201AAD50 AE820128"
+
+  - name: "Enemies Automatically Defeated In Each Battle"
+    author: "luc-ita"
+    codes:
+      - "201A8864 00000000"
+
+  - name: "Lots Of EXP After Each Battle"
+    author: "luc-ita"
+    codes:
+      - "201DF2A0 24047FFF"
+
+  - name: "Untouchable"
+    author: "luc-ita"
+    codes:
+      - "20190F10 10000068"
+      - "20195D00 10000069"

@@ -1,0 +1,29 @@
+# White Princess The Second cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66078
+
+game: "White Princess The Second"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66078"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90149800 0C0525A8"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "403DFA40 00280001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Unlock Omake Menu"
+    author: "punk7890"
+    codes:
+      - "21AC0968 00000001"

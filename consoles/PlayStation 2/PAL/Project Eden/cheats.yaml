@@ -1,0 +1,45 @@
+# Project Eden cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Project Eden"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001D5A97"
+
+  - name: "Moniko"
+    author: "Xploder"
+    notes: "[Unlimited Health]"
+    codes:
+      - "21310088 42C80000"
+      - "2131008C 42C80000"
+
+  - name: "Amber"
+    author: "Xploder"
+    notes: "[Unlimited Health]"
+    codes:
+      - "213104F8 43160000"
+      - "213104FC 43160000"
+
+  - name: "Andre"
+    author: "Xploder"
+    notes: "[Unlimited Health]"
+    codes:
+      - "21310968 42C80000"
+      - "2131096C 42C80000"
+
+  - name: "Carter"
+    author: "Xploder"
+    notes: "[Unlimited Health]"
+    codes:
+      - "2131A5E8 42C80000"
+      - "2131A5EC 42C80000"

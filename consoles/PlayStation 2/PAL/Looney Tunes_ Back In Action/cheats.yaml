@@ -1,0 +1,35 @@
+# Looney Tunes_ Back In Action cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Looney Tunes_ Back In Action"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0029FA97"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20140E34 20020003"
+
+  - name: "Munnies"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "202F61BC 000F423B"
+
+  - name: "Instant Escape When Grabbed"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2014A380 46010840"

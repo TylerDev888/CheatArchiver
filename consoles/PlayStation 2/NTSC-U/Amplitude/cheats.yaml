@@ -1,0 +1,97 @@
+# Amplitude cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97258
+
+game: "Amplitude"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97258"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100010 0031228F"
+
+  - name: "Access All Arenas"
+    author: "Code Master"
+    codes:
+      - "201923E8 00000000"
+
+  - name: "Max Energy"
+    author: "Code Master"
+    codes:
+      - "200C0220 3C0141C0"
+      - "200C0224 AC810000"
+      - "200C0228 03E00008"
+      - "200C022C C4800000"
+      - "20151778 08030088"
+
+  - name: "Quick Max Score"
+    author: "Code Master"
+    codes:
+      - "2012DDBC 2406270F"
+
+  - name: "Beat Factory-Freezepop"
+    author: "Code Master"
+    notes: "[Unlock Bonus Level Codes]"
+    codes:
+      - "20574334 00000000"
+
+  - name: "Blastlands-Komputer Kontroller"
+    author: "Code Master"
+    notes: "[Unlock Bonus Level Codes]"
+    codes:
+      - "20586E34 00000000"
+
+  - name: "Elektro Kore-Game Boyz"
+    author: "Code Master"
+    notes: "[Unlock Bonus Level Codes]"
+    codes:
+      - "20580424 00000000"
+
+  - name: "Metaclouds-The Production Club"
+    author: "Code Master"
+    notes: "[Unlock Bonus Level Codes]"
+    codes:
+      - "2057A304 00000000"
+
+  - name: "Neotropolis-Logan 7"
+    author: "Code Master"
+    notes: "[Unlock Bonus Level Codes]"
+    codes:
+      - "2056DD24 00000000"
+
+  - name: "Beat Factory-David Bowie"
+    author: "Code Master"
+    notes: "[Unlock Boss Level Codes]"
+    codes:
+      - "20572BB4 00000000"
+
+  - name: "Blastlands-Symbion Project"
+    author: "Code Master"
+    notes: "[Unlock Boss Level Codes]"
+    codes:
+      - "20585B44 00000000"
+
+  - name: "Elektro Kore-Slipknot"
+    author: "Code Master"
+    notes: "[Unlock Boss Level Codes]"
+    codes:
+      - "2057EDD4 00000000"
+
+  - name: "Metaclouds-Herbie Hancock"
+    author: "Code Master"
+    notes: "[Unlock Boss Level Codes]"
+    codes:
+      - "205792C4 00000000"
+
+  - name: "Neotropolis-Chris Child With Melissa Kaplan"
+    author: "Code Master"
+    notes: "[Unlock Boss Level Codes]"
+    codes:
+      - "2056CAE4 00000000"

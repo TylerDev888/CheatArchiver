@@ -1,0 +1,37 @@
+# Naruto_ Ultimate Ninja cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Naruto_ Ultimate Ninja"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90103F00 0C04C7EE"
+
+  - name: "Unlock All House Items"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "4088A180 00580001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Unlock All Characters"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "408896F0 000E0001"
+      - "00000003 00000000"
+
+  - name: "No Money Loss"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20333724 00000000"

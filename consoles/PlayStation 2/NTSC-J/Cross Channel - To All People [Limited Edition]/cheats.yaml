@@ -1,0 +1,33 @@
+# Cross Channel - To All People [Limited Edition] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65546
+
+game: "Cross Channel - To All People [Limited Edition]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65546"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90178D20 0C05E2F0"
+
+  - name: "Hold Circle Over New Game For Debug Menu"
+    author: "punk7890"
+    codes:
+      - "D01E4D82 0000DFFF"
+      - "20303E50 0000012E"
+
+  - name: "Unlock Everything"
+    author: "punk7890"
+    codes:
+      - "41837F1C 00060001"
+      - "FFFFFFFF 00000000"
+      - "21839514 FFFFFFFF"
+      - "201E48CC 00000001"
+      - "21839490 00000001"

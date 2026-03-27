@@ -1,0 +1,81 @@
+# Caladrius Blaze cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  NPJB00594
+
+game: "Caladrius Blaze"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "NPJB00594"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "99 Lives. They Become 7 If Changed In The Option Screen Or If 1up Is Earned"
+    notes: "File: TEST0"
+    codes:
+      - "00000011 00000063"
+
+  - name: "99 Bombs. They Become 9 If Changed In The Option Screen, After Death, When Earned In Missions And So On"
+    notes: "File: TEST0"
+    codes:
+      - "00000013 00000063"
+
+  - name: "999 Ether Chips Gained. Get 1 More In Game For The Trophy"
+    notes: "File: TEST0"
+    codes:
+      - "0001B943 000003E7"
+
+  - name: "Unlock All Stages In Original/evolution/arcade Mode"
+    notes: "File: TEST0"
+    codes:
+      - "00000033 000000FF"
+      - "00000035 000000FF"
+      - "00000037 000000FF"
+
+  - name: "Unlock Full Gallery. Apply This Cheat First, Then..."
+    notes: "File: TEST0"
+    codes:
+      - "4001B760 00000001"
+      - "41C20001 00000000"
+
+  - name: "...apply This One. After, See Alex's Story Intros For The Gallery Trophy"
+    notes: "File: TEST0"
+    codes:
+      - "0001B83F 00000000"
+      - "0001B840 00000000"
+
+  - name: "All 168 Element Shots Used. Use Whatever Es You Want In Game To Get The Trophy"
+    notes: "File: TEST0"
+    codes:
+      - "4001B951 00000001"
+      - "40A80002 00000000"
+
+  - name: "Unlock All Profiles"
+    notes: "File: TEST0"
+    codes:
+      - "4001B922 0000001B"
+      - "40100001 00000000"
+
+  - name: "Unlock All Elemental Shots Customize Options"
+    notes: "File: TEST0"
+    codes:
+      - "0000002A 00000001"
+      - "0000002E 00000001"
+
+  - name: "Unlock Boss Rush Mode"
+    notes: "File: TEST0"
+    codes:
+      - "00000029 00000001"
+
+  - name: "Unlock Conversation Option Under Gallery. Use This Cheat First, Then..."
+    notes: "File: TEST0"
+    codes:
+      - "00000030 00000001"
+      - "00000031 00000001"
+
+  - name: "...use This One To Unlock All Solo And Dual Conversations"
+    notes: "File: TEST0  (Since it's a save you can get only from a cfw console,) (you should be very well able to use CCAPI codes. So..) (Infinite Bombs /CCAPI) (0x000FB114 60000000 activate) (0x000FB114 3063FFFF deactivate) (With this one you'll be able to do that infamous No Miss run for its trophy.) (Sel..."
+    codes:
+      - "40000038 00000001"
+      - "402C0001 00000000"

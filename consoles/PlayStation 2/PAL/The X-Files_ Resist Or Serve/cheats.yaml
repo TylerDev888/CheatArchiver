@@ -1,0 +1,41 @@
+# The X-Files_ Resist Or Serve cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "The X-Files_ Resist Or Serve"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "901D7A60 0C08CBB4"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2000 84620542"
+      - "200C2004 03E00008"
+      - "200C2008 A4620540"
+      - "20196068 08030800"
+
+  - name: "Ammo"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2020 240503E7"
+      - "200C2024 0804450C"
+      - "200C2028 24660600"
+      - "20111428 08030808"
+
+  - name: "Item Usage"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "201113A0 24003634"

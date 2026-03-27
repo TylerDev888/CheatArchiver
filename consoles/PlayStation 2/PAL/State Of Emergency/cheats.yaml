@@ -1,0 +1,73 @@
+# State Of Emergency cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50606
+
+game: "State Of Emergency"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50606"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0175C9C 001B38CF"
+
+  - name: "Infinite Ammo"
+    author: "InterAct"
+    codes:
+      - "101DC380 00000004"
+
+  - name: "Infinite Health"
+    author: "InterAct"
+    codes:
+      - "101DC378 00000004"
+
+  - name: "Infinite Time"
+    author: "InterAct"
+    codes:
+      - "101DC37C 00000004"
+
+  - name: "Monster Score"
+    author: "InterAct"
+    codes:
+      - "201DBDCC 05F5E0FF"
+
+  - name: "Open All Characters"
+    author: "InterAct"
+    codes:
+      - "101DD6F8 0000071F"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001B38CF"
+
+  - name: "Unlock All Characters"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "001DD6F8 280968FF"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "001DC378 28096805"
+
+  - name: "Ammunition"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "001DC380 28096805"
+
+  - name: "Time"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "001DC37C 28096806"

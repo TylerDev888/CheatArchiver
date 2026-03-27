@@ -1,0 +1,67 @@
+# WWE Smackdown! Vs. RAW cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52781
+
+game: "WWE Smackdown! Vs. RAW"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52781"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "2035F6B8 52504F49"
+      - "2035F6BC 30303350"
+      - "2035F6C0 474D492E"
+      - "F0204088 0020408B"
+
+  - name: "All Challenges Completed"
+    author: "Codejunkies"
+    codes:
+      - "2030924C 24010001"
+      - "20309250 A0410000"
+
+  - name: "All Shop Items Sold Out"
+    author: "Codejunkies"
+    codes:
+      - "202326DC 24030001"
+      - "202326E0 A0430000"
+      - "202326F4 24020001"
+
+  - name: "Disable AI"
+    author: "Codejunkies"
+    codes:
+      - "E0020218 0050A330"
+      - "D050A332 00008E02"
+      - "2050A330 24020000"
+
+  - name: "Infinite Smackdown Use"
+    author: "Codejunkies"
+    codes:
+      - "202DCD48 00000000"
+
+  - name: "Max Cash"
+    author: "Codejunkies"
+    codes:
+      - "203D9674 000F423F"
+
+  - name: "Max Experience Points"
+    author: "Codejunkies"
+    codes:
+      - "103D9678 0000FFFF"
+
+  - name: "Open Everything (Open Attires, Characters, Arenas, Etc.)"
+    author: "Codejunkies"
+    codes:
+      - "202326F4 24020001"
+
+  - name: "Start With Max Smackdown"
+    author: "Codejunkies"
+    codes:
+      - "202DB894 24020005"
+      - "202DB898 AE8202BC"

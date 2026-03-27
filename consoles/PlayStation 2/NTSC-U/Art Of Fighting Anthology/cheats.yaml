@@ -1,0 +1,231 @@
+# Art Of Fighting Anthology cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21487
+
+game: "Art Of Fighting Anthology"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21487"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Skiller"
+    notes: "[Master Codes]"
+    codes:
+      - "901C5EA0 0C071750"
+
+  - name: "Alt.Enable Code(Must Be On)"
+    author: "Azagthoth"
+    notes: "[Master Codes]"
+    codes:
+      - "901931F0 0C06E001"
+
+  - name: "Player 1 Controller"
+    author: "Skiller"
+    notes: "[Jokers]"
+    codes:
+      - "D022FBDC 0000????"
+
+  - name: "AOF1 Infinite Time"
+    author: "Azagthoth"
+    codes:
+      - "60342578 58020003"
+      - "00020001 00008404"
+
+  - name: "AOF1 P1 Inf HP"
+    author: "lee4"
+    codes:
+      - "E0022E31 0024577C"
+      - "60342578 00000060"
+      - "00000001 000092CC"
+
+  - name: "AOF1 P1 Inf Power"
+    author: "lee4"
+    codes:
+      - "E0022E31 0024577C"
+      - "60342578 00000060"
+      - "00000001 000094A5"
+
+  - name: "AOF1 P1 Invincible"
+    author: "lee4"
+    codes:
+      - "E0022E31 0024577C"
+      - "60342578 00000001"
+      - "00000001 000092D1"
+
+  - name: "AOF1 P2 No HP (P1 Press Select)"
+    author: "lee4"
+    codes:
+      - "E0032E31 0024577C"
+      - "E002FFFE 0022FBDC"
+      - "60342578 00000001"
+      - "00000001 000093CC"
+
+  - name: "AOF1 P2 No POW"
+    author: "lee4"
+    codes:
+      - "E0022E31 0024577C"
+      - "60342578 00000000"
+      - "00000001 000095A5"
+
+  - name: "AOF2 P1 HP"
+    author: "lee4"
+    codes:
+      - "E0022E32 0024577C"
+      - "60342578 00000060"
+      - "00000001 000092EC"
+
+  - name: "AOF2 P1 Inf Power"
+    author: "lee4"
+    codes:
+      - "E0022E32 0024577C"
+      - "60342578 00000060"
+      - "00000001 000094A5"
+
+  - name: "AOF2 P2 No HP (P1 Press Select)"
+    author: "lee4"
+    codes:
+      - "E0032E32 0024577C"
+      - "E002FFFE 0022FBDC"
+      - "60342578 00000001"
+      - "00000001 000093EC"
+
+  - name: "AOF2 P2 No POW"
+    author: "lee4"
+    codes:
+      - "E0022E32 0024577C"
+      - "60342578 00000000"
+      - "00000001 000095A5"
+
+  - name: "AOF3 P1 Inf HP"
+    author: "lee4"
+    codes:
+      - "E0062E33 0024577C"
+      - "60342578 00000010"
+      - "00000001 00000469"
+      - "E0030002 014E17AA"
+      - "E0020000 014E17B2"
+      - "60342578 00000010"
+      - "00000001 00000569"
+
+  - name: "AOF3 P1 Inf Power"
+    author: "lee4"
+    codes:
+      - "E0062E33 0024577C"
+      - "60342578 00001000"
+      - "00010001 0000046A"
+      - "E0030002 014E17AA"
+      - "E0020000 014E17B2"
+      - "60342578 00001000"
+      - "00010001 0000056A"
+
+  - name: "AOF3 P2 No HP (P1 Press Select)"
+    author: "lee4"
+    codes:
+      - "E00A2E33 0024577C"
+      - "E009FFFE 0022FBDC"
+      - "E0020002 114E17AA"
+      - "60342578 00000010"
+      - "00010001 00000568"
+      - "60342578 00000010"
+      - "00010001 00000668"
+      - "E0030002 014E17AA"
+      - "E0020001 014E17B2"
+      - "60342578 00000010"
+      - "00010001 00000568"
+
+  - name: "AOF3 P2 No POW"
+    author: "lee4"
+    codes:
+      - "E0092E33 0024577C"
+      - "E0020002 114E17AA"
+      - "60342578 00000000"
+      - "00010001 0000056A"
+      - "60342578 00000100"
+      - "00010001 0000066A"
+      - "E0030002 014E17AA"
+      - "E0020001 014E17B2"
+      - "60342578 00000000"
+      - "00010001 0000056A"
+
+  - name: "Force Videout To 480I Instead Of 240P"
+    author: "lee4"
+    codes:
+      - "201908DC 24110001"
+      - "201908E0 24120002"
+      - "201908EC 24130001"
+
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "901C5EA0 0C071750"
+
+  - name: "Inf ????"
+    notes: "File: Art Of Fighting 1 and 2{Below codes will work How ever many times u load the same game Tested and working on AOF1 and 2 Same codes for both games . :) just follow the ON/OFF rule}"
+    codes:
+      - "200A0040 3417[TYPE]"
+      - "200A0044 12EF0005"
+      - "200A004C 03E00008"
+      - "200A0050 27BD0010"
+      - "200A0054 00000000"
+      - "200A005C 200d[ITE]"
+      - "200A0060 A1CD0000"
+      - "200A0064 03E00008"
+      - "200A0068 27BD0010"
+      - "E002FEFF 0022FBDC"
+      - "20148F94 08028010"
+      - "20148F98 00000000"
+      - "E002FDFF 0022FBDC"
+      - "20148F94 03E00008"
+      - "20148F98 27BD0010"
+
+  - name: "Battle Time 60"
+    notes: "File: Art of Fighting"
+    codes:
+      - "D024577C 00002E31"
+      - "0158A2C7 00000060"
+
+  - name: "Character Mod"
+    notes: "[Player 1]  File: Art of Fighting"
+    codes:
+      - "D024577C 00002E31"
+      - "0158B182 000000[CHA]"
+
+  - name: "Score 99999900"
+    notes: "[Player 1]  File: Art of Fighting"
+    codes:
+      - "D024577C 00002E31"
+      - "2158B368 99009999"
+
+  - name: "Inf HP"
+    notes: "[Player 1]  File: Art of Fighting"
+    codes:
+      - "D024577C 00002E31"
+      - "1158B18C 00000060"
+
+  - name: "Inf Power"
+    notes: "[Player 1]  File: Art of Fighting"
+    codes:
+      - "D024577C 00002E31"
+      - "1158B364 00006000"
+
+  - name: "Invincible"
+    notes: "[Player 1]  File: Art of Fighting"
+    codes:
+      - "D024577C 00002E31"
+      - "0158B191 00000001"
+
+  - name: "HP 0"
+    notes: "[Player 2]  File: Art of Fighting 3"
+    codes:
+      - "D024577C 00002E33"
+      - "014DD129 00000000"
+
+  - name: "Power 0"
+    notes: "[Player 2]  File: Art of Fighting 3"
+    codes:
+      - "D024577C 00002E33"
+      - "014DD12B 00000000"

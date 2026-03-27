@@ -1,0 +1,86 @@
+# Indycar Series cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20641
+
+game: "Indycar Series"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20641"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F020184C 0020184F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master>StalkerX"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0020184F"
+
+  - name: "Dead Ai: Press L3"
+    author: "Codejunkies"
+    codes:
+      - "D0251CC2 0000FFFD"
+      - "201012C0 03E00008"
+      - "D0251CC2 0000FFFD"
+      - "201012C4 00000000"
+
+  - name: "Have All Bronze Trading Cards"
+    author: "Code Master>StalkerX"
+    codes:
+      - "20371DC0 FFFFFFFF"
+
+  - name: "Have All Gold Trading Cards"
+    author: "Code Master>StalkerX"
+    codes:
+      - "20371DC8 FFFFFFFF"
+
+  - name: "Have All Silver Trading Cards"
+    author: "Code Master>StalkerX"
+    codes:
+      - "20371DC4 FFFFFFFF"
+
+  - name: "Have No Spectators"
+    author: "Codejunkies"
+    codes:
+      - "202407A0 00000000"
+
+  - name: "Heavy Crowd"
+    author: "Code Master>StalkerX"
+    codes:
+      - "202407A0 40000000"
+
+  - name: "Idiot AI"
+    author: "Code Master>StalkerX"
+    codes:
+      - "E002FBFE 003A94C2"
+      - "20101408 03E00008"
+      - "2010140C 00000000"
+      - "E002FEFE 003A94C2"
+      - "20101408 27BDFFD0"
+      - "2010140C 7FB00000"
+
+  - name: "Restore Ai: Press R3"
+    author: "Codejunkies"
+    codes:
+      - "D0251CC2 0000FFFB"
+      - "201012C4 24840AD0"
+      - "D0251CC2 0000FFFB"
+      - "201012C0 27BDFFD0"
+
+  - name: "Total Laps Modifier (000-1F4)"
+    author: "Code Master>StalkerX"
+    codes:
+      - "2024D9D0 00000???"
+
+  - name: "No Crowd"
+    author: "Code Master>StalkerX"
+    notes: "[Codes]"
+    codes:
+      - "202407A0 00000000"

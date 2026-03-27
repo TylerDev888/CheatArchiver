@@ -1,0 +1,29 @@
+# Space Invaders - Invasion Day cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51746
+
+game: "Space Invaders - Invasion Day"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51746"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01A2F74 000001FD"
+
+  - name: "Enemys Shoot And Die!"
+    author: "Codejunkies"
+    codes:
+      - "20184D4C AE6001CC"
+
+  - name: "Player 1 Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "201230D0 3401006E"
+      - "201230D4 A22101CE"

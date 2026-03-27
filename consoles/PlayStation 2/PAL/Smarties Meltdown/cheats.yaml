@@ -1,0 +1,24 @@
+# Smarties Meltdown cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53940
+
+game: "Smarties Meltdown"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53940"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90254008 0C094FAA"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9022EDC0 0C091D67"

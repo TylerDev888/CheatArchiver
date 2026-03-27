@@ -1,0 +1,207 @@
+# Phantom Brave cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52951
+
+game: "Phantom Brave"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52951"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01158B4 001158B7"
+      - "20144A94 00000000"
+      - "20144A8C 00000000"
+
+  - name: "Always Win"
+    author: "Codejunkies"
+    codes:
+      - "201AE924 240207D1"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Character 1 Codes]"
+    codes:
+      - "2027E9DC 000F423F"
+
+  - name: "Max Att"
+    author: "Codejunkies"
+    notes: "[Character 1 Codes]"
+    codes:
+      - "2027E9EC 000F423F"
+
+  - name: "Max Def"
+    author: "Codejunkies"
+    notes: "[Character 1 Codes]"
+    codes:
+      - "2027E9F0 000F423F"
+
+  - name: "Max Health"
+    author: "Codejunkies"
+    notes: "[Character 1 Codes]"
+    codes:
+      - "2027E9E4 000F423F"
+
+  - name: "Max Int"
+    author: "Codejunkies"
+    notes: "[Character 1 Codes]"
+    codes:
+      - "2027E9F4 000F423F"
+
+  - name: "Max Res"
+    author: "Codejunkies"
+    notes: "[Character 1 Codes]"
+    codes:
+      - "2027E9F8 000F423F"
+
+  - name: "Max Spd"
+    author: "Codejunkies"
+    notes: "[Character 1 Codes]"
+    codes:
+      - "2027E9FC 000F423F"
+
+  - name: "Big Characters"
+    author: "Codejunkies"
+    notes: "[Characters Sprites Codes]"
+    codes:
+      - "20132D80 3C023E80"
+
+  - name: "Giant Characters"
+    author: "Codejunkies"
+    notes: "[Characters Sprites Codes]"
+    codes:
+      - "20132D80 3C023F00"
+
+  - name: "Small Characters"
+    author: "Codejunkies"
+    notes: "[Characters Sprites Codes]"
+    codes:
+      - "20132D80 3C023D80"
+
+  - name: "Disable Vsync (Hyper Mode)"
+    author: "Codejunkies"
+    codes:
+      - "D0258442 0000FDEF"
+      - "201005D0 00000000"
+      - "D0258442 0000FDBF"
+      - "201005D0 0C040DD4"
+
+  - name: "Infinite Dev Points"
+    author: "Codejunkies"
+    codes:
+      - "20205F3C 24170000"
+
+  - name: "Giant Map"
+    author: "Codejunkies"
+    notes: "[Map Size Modifier]"
+    codes:
+      - "20105688 3C013F00"
+
+  - name: "Small Map"
+    author: "Codejunkies"
+    notes: "[Map Size Modifier]"
+    codes:
+      - "20105688 3C014000"
+
+  - name: "Max Bordeaux"
+    author: "Codejunkies"
+    codes:
+      - "2027E940 05FAB000"
+
+  - name: "Max Mana (All)"
+    author: "Codejunkies"
+    codes:
+      - "2016B7AC 3C053B9A"
+      - "2016B7C4 AC8500CC"
+
+  - name: "Maxed Experience/Lvl After 1 Fight"
+    author: "Codejunkies"
+    codes:
+      - "201A5B48 3C0A5FAB"
+
+  - name: "Maxed Weapon Experience Gain"
+    author: "Codejunkies"
+    codes:
+      - "2017EE44 26730001"
+
+  - name: "Move Anywhere"
+    author: "Codejunkies"
+    codes:
+      - "201A3C3C 24020001"
+
+  - name: "No Phantom Removal"
+    author: "Codejunkies"
+    codes:
+      - "201AEAD4 00000000"
+
+  - name: "Giant Sprites"
+    author: "Codejunkies"
+    notes: "[Sprites Codes]"
+    codes:
+      - "205AD0F0 40000000"
+      - "205AD104 40000000"
+      - "205AD118 40000000"
+
+  - name: "Small Sprites"
+    author: "Codejunkies"
+    notes: "[Sprites Codes]"
+    codes:
+      - "205AD0F0 3F400000"
+      - "205AD104 3F400000"
+      - "205AD118 3F400000"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90137A78 0C0455E4"
+      - "20144A94 00000000"
+
+  - name: "Phantom Turns"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "201AEAD0 00000000"
+
+  - name: "BOR"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "2027E940 D4A50FFF"
+      - "2027E944 000000E8"
+
+  - name: "Quick Level Up"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "201837D8 64427FFF"
+
+  - name: "Infinite HP"
+    author: "Xploder"
+    notes: "[Character 1]"
+    codes:
+      - "2027E9DC 0098967F"
+
+  - name: "Max HP"
+    author: "Xploder"
+    notes: "[Character 1]"
+    codes:
+      - "2027E9E4 0098967F"
+
+  - name: "Max ATK"
+    author: "Xploder"
+    notes: "[Character 1]"
+    codes:
+      - "2027E9EC 0098967F"
+
+  - name: "Max Mana"
+    author: "Xploder"
+    notes: "[Character 1]"
+    codes:
+      - "2027EA2C 0098967F"

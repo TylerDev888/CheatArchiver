@@ -1,0 +1,498 @@
+# MLB 09 The Show cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97644
+
+game: "MLB 09 The Show"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97644"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Master]"
+    codes:
+      - "9015F180 0C057C08"
+
+  - name: "Infinite Strikes L3 Have Strikes R3"
+    codes:
+      - "E002FFFD 00250882"
+      - "D069FE84 00000024"
+      - "2069FE84 AE200024"
+      - "E002FFFB 00250882"
+      - "D069FE84 00000024"
+      - "2069FE84 AE300024"
+
+  - name: "Alt.infinite Strikes L3 Have Strikes R3"
+    codes:
+      - "200C0200 3C190091"
+      - "200C0204 8F393C68"
+      - "200C0208 13200004"
+      - "200C0210 24040000"
+      - "200C0214 AF240024"
+      - "200C021C 03E00008"
+      - "D0250882 0000FFFD"
+      - "201427D8 08030080"
+      - "D0250882 0000FFFB"
+      - "201427D8 03E00008"
+
+  - name: "Infinite Outs L1+l2 Have Outs R1+r2"
+    codes:
+      - "E002FAFF 00250882"
+      - "D069F774 0000001C"
+      - "2069F774 AC80001C"
+      - "E002F5FF 00250882"
+      - "D069F774 0000001C"
+      - "2069F774 AC85001C"
+
+  - name: "Alt.infinite Outs L1+l2 Have Outs R1+r2"
+    codes:
+      - "200C0230 3C030091"
+      - "200C0234 8C635E18"
+      - "200C0238 10600004"
+      - "200C0240 24050000"
+      - "200C0244 AC65001C"
+      - "200C024C 03E00008"
+      - "D0250882 0000FAFF"
+      - "2014284C 0803008C"
+      - "D0250882 0000F5FF"
+      - "2014284C 03E00008"
+
+  - name: "Max Pitching Attributes"
+    notes: "[Road To The Show Options]"
+    codes:
+      - "E00430C2 D073D53E"
+      - "2073D53C 20060064"
+      - "20749F98 08028000"
+      - "20749FB8 08028000"
+      - "20749FD8 08028000"
+      - "200A0000 20060064"
+      - "200A0004 A0460001"
+      - "200A0008 A0460002"
+      - "200A000C A0460003"
+      - "200A0010 03E00008"
+
+  - name: "Max Batting Attributes"
+    notes: "[Road To The Show Options]"
+    codes:
+      - "D073D516 000030C2"
+      - "2073D514 20060064"
+
+  - name: "Press Select For No Training Points (memory)"
+    notes: "[Road To The Show Options]"
+    codes:
+      - "D0250882 0000FFFE"
+      - "219B4E04 00000000"
+
+  - name: "Alt. No Career Points (asm)"
+    notes: "[Road To The Show Options]"
+    codes:
+      - "D06801E8 00000014"
+      - "206801E8 AE400014"
+
+  - name: "Infinite Career Points(memeory)"
+    notes: "[Road To The Show Options]"
+    codes:
+      - "219B4E04 00000032"
+
+  - name: "Infinite Career Points (asm)"
+    notes: "[Road To The Show Options]"
+    codes:
+      - "D06801E8 00000014"
+      - "206801E8 00000000"
+
+  - name: "Away Team Scores 50"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "20ACEA28 00000032"
+
+  - name: "Away Team Scores 20"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "20ACEA28 00000014"
+
+  - name: "Away Team Scores 0"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "20ACEA28 00000000"
+
+  - name: "Away Team Starts With 50"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "D0ACEA28 00000000"
+      - "20ACEA28 00000032"
+
+  - name: "Away Team Starts With 20"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "D0ACEA28 00000000"
+      - "20ACEA28 00000014"
+
+  - name: "Away Team Starts With 10"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "D0ACEA28 00000000"
+      - "20ACEA28 0000000A"
+
+  - name: "Away Team Starts With 5"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "D0ACEA28 00000000"
+      - "20ACEA28 00000005"
+
+  - name: "Home Team Scores 50"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "20ACEA2C 00000032"
+
+  - name: "Home Team Scores 20"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "20ACEA2C 00000014"
+
+  - name: "Home Team Scores 0"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "20ACEA2C 00000000"
+
+  - name: "Home Team Starts With 50"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "D0ACEA2C 00000000"
+      - "20ACEA2C 00000032"
+
+  - name: "Home Team Starts With 20"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "D0ACEA2C 00000000"
+      - "20ACEA2C 00000014"
+
+  - name: "Home Team Starts With 10"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "D0ACEA2C 00000000"
+      - "20ACEA2C 0000000A"
+
+  - name: "Home Team Starts With 5"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "D0ACEA2C 00000000"
+      - "20ACEA2C 00000005"
+
+  - name: "All Runs Score For Home Team"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "D0671D78 0000282D"
+      - "20671DB0 24840004"
+
+  - name: "All Runs Score For Away Team"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "D0671D78 0000282D"
+      - "20671DB0 24840000"
+
+  - name: "Runs Score 10"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "D0671D78 0000282D"
+      - "10671DB8 0000000A"
+
+  - name: "Runs Score 5"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "D0671D78 0000282D"
+      - "10671DB8 00000005"
+
+  - name: "Runs Score 2"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "D0671D78 0000282D"
+      - "10671DB8 00000002"
+
+  - name: "Infinite Outs"
+    notes: "[Both Team Codes]"
+    codes:
+      - "E0010092 00ACE9A2"
+      - "20ACEA1C 00000000"
+
+  - name: "1 Out And You Are Out"
+    notes: "[Both Team Codes]"
+    codes:
+      - "E0020092 00ACE9A2"
+      - "D0ACEA1C 00000000"
+      - "20ACEA1C 00000002"
+
+  - name: "2 Outs And You Are Out"
+    notes: "[Both Team Codes]"
+    codes:
+      - "E0020092 00ACE9A2"
+      - "D0ACEA1C 00000000"
+      - "20ACEA1C 00000001"
+
+  - name: "Infinite Balls"
+    notes: "[Both Team Codes]"
+    codes:
+      - "E0010092 00ACE9A2"
+      - "20ACEA20 00000000"
+
+  - name: "1 Ball And You Walk"
+    notes: "[Both Team Codes]"
+    codes:
+      - "E0020092 00ACE9A2"
+      - "D0ACEA20 00000000"
+      - "20ACEA20 00000003"
+
+  - name: "2 Balls And You Walk"
+    notes: "[Both Team Codes]"
+    codes:
+      - "E0020092 00ACE9A2"
+      - "D0ACEA20 00000000"
+      - "20ACEA20 00000002"
+
+  - name: "3 Balls And You Walk"
+    notes: "[Both Team Codes]"
+    codes:
+      - "E0020092 00ACE9A2"
+      - "D0ACEA20 00000000"
+      - "20ACEA20 00000001"
+
+  - name: "Infinite Strikes"
+    notes: "[Both Team Codes]"
+    codes:
+      - "E0010092 00ACE9A2"
+      - "20ACEA24 00000000"
+
+  - name: "1 Strike And You Are Out"
+    notes: "[Both Team Codes]"
+    codes:
+      - "E0020092 00ACE9A2"
+      - "D0ACEA24 00000000"
+      - "20ACEA24 00000002"
+
+  - name: "2 Strikes And You Are Out"
+    notes: "[Both Team Codes]"
+    codes:
+      - "E0020092 00ACE9A2"
+      - "D0ACEA24 00000000"
+      - "20ACEA24 00000001"
+
+  - name: "Always Full Count"
+    notes: "[Both Team Codes]"
+    codes:
+      - "E0020092 00ACE9A2"
+      - "20ACEA20 00000003"
+      - "20ACEA24 00000002"
+
+  - name: "Always Full Count & 2 Outs"
+    notes: "[Both Team Codes]"
+    codes:
+      - "E0030092 00ACE9A2"
+      - "20ACEA1C 00000002"
+      - "20ACEA20 00000003"
+      - "20ACEA24 00000002"
+
+  - name: "Ball And You Walk"
+    notes: "[Home Team Only Codes]"
+    codes:
+      - "E0030001 50ACEA14"
+      - "E0020092 00ACE9A2"
+      - "D0ACEA20 00000000"
+      - "20ACEA20 00000003"
+
+  - name: "Infinite Outs (home)"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "E0020000 00ACEA14"
+      - "D069F774 0000001C"
+      - "2069F774 AC80001C"
+
+  - name: "Infinite Outs (away)"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "E0020001 00ACEA14"
+      - "D069F774 0000001C"
+      - "2069F774 AC80001C"
+
+  - name: "Infinite Balls (home)"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "E0020000 00ACEA14"
+      - "D069F02C 00000020"
+      - "2069F02C AC800020"
+
+  - name: "Infinite Balls (away)"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "E0020001 00ACEA14"
+      - "D069F02C 00000020"
+      - "2069F02C AC800020"
+
+  - name: "Infinite Strikes (home)"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "E0020000 00ACEA14"
+      - "D069FE84 00000024"
+      - "2069FE84 AE200024"
+
+  - name: "Infinite Strikes (away)"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "E0020001 00ACEA14"
+      - "D069FE84 00000024"
+      - "2069FE84 AE200024"
+
+  - name: "Team Don’t Gain Runs (home)"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "E0020000 00ACEA14"
+      - "D069A22A 0000AC82"
+      - "2069A228 AC800000"
+
+  - name: "Teams Don’t Gain Runs (away)"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "E0020001 00ACEA14"
+      - "D069A22A 0000AC82"
+      - "2069A228 AC800000"
+
+  - name: "Max Home Runs"
+    notes: "[Home Run Derby]"
+    codes:
+      - "209978FC 00000064"
+
+  - name: "Max Distance"
+    notes: "[Home Run Derby]"
+    codes:
+      - "20997918 447A0000"
+
+  - name: "Max Stamina"
+    notes: "[Pitching Attributes]"
+    codes:
+      - "00308F08 00000064"
+
+  - name: "Max Pitching Clutch"
+    notes: "[Pitching Attributes]"
+    codes:
+      - "00308F09 00000064"
+
+  - name: "Max H/9"
+    notes: "[Pitching Attributes]"
+    codes:
+      - "00308F0A 00000064"
+
+  - name: "Max Hr/9"
+    notes: "[Pitching Attributes]"
+    codes:
+      - "00308F0B 00000064"
+
+  - name: "Max K/9"
+    notes: "[Pitching Attributes]"
+    codes:
+      - "00308F0C 00000064"
+
+  - name: "Max Bb/9"
+    notes: "[Pitching Attributes]"
+    codes:
+      - "00308F0D 00000064"
+
+  - name: "Max Speed"
+    notes: "[1st Pitch]"
+    codes:
+      - "00308EF1 00000064"
+
+  - name: "Max Break"
+    notes: "[1st Pitch]"
+    codes:
+      - "00308EF3 00000064"
+
+  - name: "Max Control"
+    notes: "[1st Pitch]"
+    codes:
+      - "00308EF2 00000064"
+
+  - name: "Max Rt Contact"
+    notes: "[Batting Attributes]"
+    codes:
+      - "00302F74 00000064"
+
+  - name: "Max Lt Contact"
+    notes: "[Batting Attributes]"
+    codes:
+      - "00302F73 00000064"
+
+  - name: "Max Rt Power"
+    notes: "[Batting Attributes]"
+    codes:
+      - "00302F76 00000064"
+
+  - name: "Max Lt Power"
+    notes: "[Batting Attributes]"
+    codes:
+      - "00302F75 00000064"
+
+  - name: "Max Bunting Ability"
+    notes: "[Batting Attributes]"
+    codes:
+      - "00302F78 00000064"
+
+  - name: "Max Drag Bunting"
+    notes: "[Batting Attributes]"
+    codes:
+      - "00302F79 00000064"
+
+  - name: "Max Plate Vision"
+    notes: "[Batting Attributes]"
+    codes:
+      - "00302F7A 00000064"
+
+  - name: "Max Plate Discipline"
+    notes: "[Batting Attributes]"
+    codes:
+      - "00302F7B 00000064"
+
+  - name: "Max Clutch"
+    notes: "[Batting Attributes]"
+    codes:
+      - "00302F77 00000064"
+
+  - name: "Max Durability"
+    notes: "[Fielding Attributes]"
+    codes:
+      - "00302F7D 00000064"
+
+  - name: "Max Arm Strength"
+    notes: "[Fielding Attributes]"
+    codes:
+      - "00302F81 00000064"
+
+  - name: "Max Arm Accuracy"
+    notes: "[Fielding Attributes]"
+    codes:
+      - "00302F82 00000064"
+
+  - name: "Max Reaction"
+    notes: "[Fielding Attributes]"
+    codes:
+      - "00302F84 00000064"
+
+  - name: "Max Fielding Ability"
+    notes: "[Fielding Attributes]"
+    codes:
+      - "00302F83 00000064"
+
+  - name: "Max Blocking"
+    notes: "[Fielding Attributes]"
+    codes:
+      - "00302F85 00000064"
+
+  - name: "Max Base Running Ability"
+    notes: "[Fielding Attributes]"
+    codes:
+      - "00302F7F 00000064"
+
+  - name: "Max Base Running Agility"
+    notes: "[Fielding Attributes]"
+    codes:
+      - "00302F80 00000064"

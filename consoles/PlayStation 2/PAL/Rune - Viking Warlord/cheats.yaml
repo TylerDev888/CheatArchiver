@@ -1,0 +1,52 @@
+# Rune - Viking Warlord cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50338
+
+game: "Rune - Viking Warlord"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50338"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Infinite Bloodlust"
+    author: "luc-ita"
+    codes:
+      - "61FE36F0 00000064"
+      - "00020000 00000640"
+
+  - name: "Infinite Oxygen"
+    author: "luc-ita"
+    codes:
+      - "61FE36F0 000000C8"
+      - "00020000 000004A0"
+
+  - name: "Jump Higher"
+    author: "luc-ita"
+    codes:
+      - "61FE36F0 444E4000"
+      - "00020000 00000524"
+
+  - name: "Jump Much Higher"
+    author: "luc-ita"
+    codes:
+      - "61FE36F0 44B22000"
+      - "00020000 00000524"
+
+  - name: "Life Always Full"
+    author: "luc-ita"
+    codes:
+      - "61FE36F0 000000C8"
+      - "00020000 0000063C"
+      - "61FE36F0 000000C8"
+      - "00020000 00000648"
+
+  - name: "Rune Power Always Full"
+    author: "luc-ita"
+    codes:
+      - "61FE36F0 000000C8"
+      - "00020000 00000644"
+      - "61FE36F0 000000C8"
+      - "00020000 00000650"

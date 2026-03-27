@@ -1,0 +1,48 @@
+# Futurama cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51507
+
+game: "Futurama"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51507"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F03EE1A4 003EE1A7"
+
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02A1E8C 000001FD"
+
+  - name: "All Extras Unlocked"
+    author: "Codejunkies"
+    codes:
+      - "1043D4B0 00000001"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "2018A858 24030063"
+      - "2018921C 24020063"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "E0030000 105F3BD0"
+      - "E0020000 105F3BD2"
+      - "605F3BD0 000042C8"
+      - "00010001 00000299"
+
+  - name: "Infinite Lives"
+    author: "Codejunkies"
+    codes:
+      - "2043E124 00000009"

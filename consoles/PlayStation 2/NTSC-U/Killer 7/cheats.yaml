@@ -1,0 +1,152 @@
+# Killer 7 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21154
+
+game: "Killer 7"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21154"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0124F88 00124F8B"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "90124F88 0C04A302"
+
+  - name: "All Characters Available"
+    author: "Codejunkies"
+    notes: "[Character Codes]"
+    codes:
+      - "1061C870 00000FFF"
+      - "1061C874 0000FFFF"
+
+  - name: "Team Members Always Alive"
+    author: "Codejunkies"
+    notes: "[Character Codes]"
+    codes:
+      - "2061C868 00000000"
+      - "2061C86C FFFFFFFF"
+
+  - name: "Max Criticals"
+    author: "Codejunkies"
+    notes: "[Con Smith]"
+    codes:
+      - "2061C4EC 00000005"
+
+  - name: "Max Power"
+    author: "Codejunkies"
+    notes: "[Con Smith]"
+    codes:
+      - "2061C3FC 00000005"
+
+  - name: "Max Speed"
+    author: "Codejunkies"
+    notes: "[Con Smith]"
+    codes:
+      - "2061C44C 00000005"
+
+  - name: "Max Waver"
+    author: "Codejunkies"
+    notes: "[Con Smith]"
+    codes:
+      - "2061C49C 00000005"
+
+  - name: "Max All Levels"
+    author: "Code Master"
+    notes: "[Con Smith Codes]"
+    codes:
+      - "4061C3FC 00040014"
+      - "00000009 00000000"
+
+  - name: "Max Criticals Level"
+    author: "Code Master"
+    notes: "[Con Smith Codes]"
+    codes:
+      - "2061C4EC 00000009"
+
+  - name: "Max Power Level"
+    author: "Code Master"
+    notes: "[Con Smith Codes]"
+    codes:
+      - "2061C3FC 00000009"
+
+  - name: "Max Speed Level"
+    author: "Code Master"
+    notes: "[Con Smith Codes]"
+    codes:
+      - "2061C44C 00000009"
+
+  - name: "Max Waver Level"
+    author: "Code Master"
+    notes: "[Con Smith Codes]"
+    codes:
+      - "2061C49C 00000009"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "20207174 00000000"
+
+  - name: "Infinite Health (All Characters)"
+    author: "MadCatz"
+    codes:
+      - "20209C14 10000005"
+      - "20209C2C 340403E7"
+      - "20209C30 A62202B8"
+
+  - name: "Max Invisibility Level"
+    author: "Code Master"
+    notes: "[Kevin Smith Codes]"
+    codes:
+      - "2061C4CC 00000009"
+
+  - name: "Max Range Level"
+    author: "Code Master"
+    notes: "[Mask De Smith Codes]"
+    codes:
+      - "2061C524 00000009"
+
+  - name: "Max Opponents Defeated"
+    author: "Codejunkies"
+    codes:
+      - "1061C564 000003E7"
+
+  - name: "Max Serum"
+    author: "Codejunkies"
+    codes:
+      - "1067FD96 0000270F"
+
+  - name: "Never Reload"
+    author: "MadCatz"
+    codes:
+      - "201FC6A4 24420000"
+
+  - name: "Have All Smiths Personalities"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2061C870 FFFFFFFF"
+      - "2061C874 FFFFFFFF"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90124F88 0C04A302"
+
+  - name: "Have All Smiths Alive"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2061C868 00000000"
+      - "2061C86C FFFFFFFF"

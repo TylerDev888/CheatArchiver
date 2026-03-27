@@ -24,7 +24,7 @@ $ErrorActionPreference = 'Stop'
 function ConvertFrom-CheatsYaml {
     param([string]$Path)
 
-    $lines = Get-Content -Path $Path -Encoding UTF8
+    $lines = Get-Content -LiteralPath $Path -Encoding UTF8
 
     $data = [PSCustomObject]@{
         game        = ''
@@ -250,8 +250,8 @@ function Build-GameReadme {
 
     # Patches section — list any patch sub-folders
     $patchesDir = Join-Path $gameDir 'patches'
-    if (Test-Path $patchesDir) {
-        $patches = @(Get-ChildItem $patchesDir -Directory | Sort-Object Name)
+    if (Test-Path -LiteralPath $patchesDir) {
+        $patches = @(Get-ChildItem -LiteralPath $patchesDir -Directory | Sort-Object Name)
         if ($patches.Count -gt 0) {
             $null = $sb.AppendLine("## Patches")
             $null = $sb.AppendLine("")
@@ -384,8 +384,8 @@ function Write-ReadmeIfChanged {
     # Normalize to LF for comparison and storage
     $normalised = $Content -replace '\r\n', "`n" -replace '\r', "`n"
 
-    if (Test-Path $Path) {
-        $existing = (Get-Content -Path $Path -Raw -Encoding UTF8) -replace '\r\n', "`n" -replace '\r', "`n"
+    if (Test-Path -LiteralPath $Path) {
+        $existing = (Get-Content -LiteralPath $Path -Raw -Encoding UTF8) -replace '\r\n', "`n" -replace '\r', "`n"
         if ($existing -eq $normalised) { return $false }
     }
 
@@ -408,15 +408,15 @@ if (-not (Test-Path $consolesDir)) {
 $consolesData = [System.Collections.Generic.List[object]]::new()
 $updated      = 0
 
-foreach ($consoleDir in Get-ChildItem $consolesDir -Directory | Sort-Object Name) {
+foreach ($consoleDir in Get-ChildItem -LiteralPath $consolesDir -Directory | Sort-Object Name) {
     $regionsInConsole = [System.Collections.Generic.List[string]]::new()
 
-    foreach ($regionDir in Get-ChildItem $consoleDir.FullName -Directory | Sort-Object Name) {
+    foreach ($regionDir in Get-ChildItem -LiteralPath $consoleDir.FullName -Directory | Sort-Object Name) {
         $gamesInRegion = [System.Collections.Generic.List[object]]::new()
 
-        foreach ($gameDir in Get-ChildItem $regionDir.FullName -Directory | Sort-Object Name) {
+        foreach ($gameDir in Get-ChildItem -LiteralPath $regionDir.FullName -Directory | Sort-Object Name) {
             $gameYaml = Join-Path $gameDir.FullName 'cheats.yaml'
-            if (-not (Test-Path $gameYaml)) { continue }
+            if (-not (Test-Path -LiteralPath $gameYaml)) { continue }
 
             Write-Host "Processing: $($consoleDir.Name) / $($regionDir.Name) / $($gameDir.Name)"
 
@@ -428,10 +428,10 @@ foreach ($consoleDir in Get-ChildItem $consolesDir -Directory | Sort-Object Name
 
             # Patch READMEs
             $patchesDir = Join-Path $gameDir.FullName 'patches'
-            if (Test-Path $patchesDir) {
-                foreach ($patchDir in Get-ChildItem $patchesDir -Directory | Sort-Object Name) {
+            if (Test-Path -LiteralPath $patchesDir) {
+                foreach ($patchDir in Get-ChildItem -LiteralPath $patchesDir -Directory | Sort-Object Name) {
                     $patchYaml = Join-Path $patchDir.FullName 'cheats.yaml'
-                    if (-not (Test-Path $patchYaml)) { continue }
+                    if (-not (Test-Path -LiteralPath $patchYaml)) { continue }
 
                     Write-Host "  Processing patch: $($patchDir.Name)"
                     $pdata   = ConvertFrom-CheatsYaml -Path $patchYaml

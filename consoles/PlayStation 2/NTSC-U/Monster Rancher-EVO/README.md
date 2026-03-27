@@ -1,0 +1,12585 @@
+# Monster Rancher-EVO
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-21330  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Enable Code (Must Be On)
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+90312A98 00832021
+```
+
+---
+
+### Meat Dish Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B8EB 00000063
+```
+
+---
+
+### Meat Dish Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B8EC 00000063
+```
+
+---
+
+### Meat Dish Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B8ED 00000063
+```
+
+---
+
+### Meat Dish Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B8EE 00000063
+```
+
+---
+
+### Fish Dish Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B8EF 00000063
+```
+
+---
+
+### Fish Dish Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B8F0 00000063
+```
+
+---
+
+### Fish Dish Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B8F1 00000063
+```
+
+---
+
+### Fish Dish Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B8F2 00000063
+```
+
+---
+
+### Veg. Dish Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B8F3 00000063
+```
+
+---
+
+### Veg. Dish Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B8F4 00000063
+```
+
+---
+
+### Veg. Dish Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B8F5 00000063
+```
+
+---
+
+### Veg. Dish Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B8F6 00000063
+```
+
+---
+
+### Fru. Dish Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B8F7 00000063
+```
+
+---
+
+### Fru. Dish Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B8F8 00000063
+```
+
+---
+
+### Fru. Dish Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B8F9 00000063
+```
+
+---
+
+### Fru. Dish Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B8FA 00000063
+```
+
+---
+
+### Cake Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B8FB 00000063
+```
+
+---
+
+### Cake Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B8FC 00000063
+```
+
+---
+
+### Cake Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B8FD 00000063
+```
+
+---
+
+### Cake Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B8FE 00000063
+```
+
+---
+
+### Soup Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B8FF 00000063
+```
+
+---
+
+### Soup Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B900 00000063
+```
+
+---
+
+### Soup Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B901 00000063
+```
+
+---
+
+### Soup Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B902 00000063
+```
+
+---
+
+### Supple. Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B903 00000063
+```
+
+---
+
+### Supple. Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B904 00000063
+```
+
+---
+
+### Supple. Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B905 00000063
+```
+
+---
+
+### Supple. Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B906 00000063
+```
+
+---
+
+### Ethnic Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B907 00000063
+```
+
+---
+
+### Ethnic Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B908 00000063
+```
+
+---
+
+### Ethnic Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B909 00000063
+```
+
+---
+
+### Ethnic Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B90A 00000063
+```
+
+---
+
+### All Consumables
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Food Codes]
+
+```
+0051B8EB 00000063
+4051B8EC 00070001
+63636363 00000000
+1051B908 00006363
+0051B90A 00000063
+```
+
+---
+
+### Sunshine Gem
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Consumable Codes]
+
+```
+0051B933 00000063
+```
+
+---
+
+### Moon Gem
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Consumable Codes]
+
+```
+0051B934 00000063
+```
+
+---
+
+### Star Gem
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Consumable Codes]
+
+```
+0051B935 00000063
+```
+
+---
+
+### Thunder Gem
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Consumable Codes]
+
+```
+0051B936 00000063
+```
+
+---
+
+### Wind Gem
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Consumable Codes]
+
+```
+0051B937 00000063
+```
+
+---
+
+### Warrior Gem
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Consumable Codes]
+
+```
+0051B938 00000063
+```
+
+---
+
+### Dragon Gem
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Consumable Codes]
+
+```
+0051B939 00000063
+```
+
+---
+
+### Ruby Bracelet
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Consumable Codes]
+
+```
+0051B93A 00000063
+```
+
+---
+
+### Trokatin
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Medicine Codes]
+
+```
+0051B92B 00000063
+```
+
+---
+
+### Troka Ace
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Medicine Codes]
+
+```
+0051B92C 00000063
+```
+
+---
+
+### Troka Star
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Medicine Codes]
+
+```
+0051B92D 00000063
+```
+
+---
+
+### Troka Royal
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Medicine Codes]
+
+```
+0051B92E 00000063
+```
+
+---
+
+### Larox
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Medicine Codes]
+
+```
+0051B92F 00000063
+```
+
+---
+
+### Laro Gold
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Medicine Codes]
+
+```
+0051B930 00000063
+```
+
+---
+
+### Laro Great
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Medicine Codes]
+
+```
+0051B931 00000063
+```
+
+---
+
+### Laro Special
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Medicine Codes]
+
+```
+0051B932 00000063
+```
+
+---
+
+### All Medicines
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Medicine Codes]
+
+```
+0051B92B 00000063
+2051B92C 63636363
+1051B930 00006363
+0051B932 00000063
+```
+
+---
+
+### Object Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B90B 00000063
+```
+
+---
+
+### Object Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B90C 00000063
+```
+
+---
+
+### Object Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B90D 00000063
+```
+
+---
+
+### Object Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B90E 00000063
+```
+
+---
+
+### Ingot Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B90F 00000063
+```
+
+---
+
+### Ingot Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B910 00000063
+```
+
+---
+
+### Ingot Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B911 00000063
+```
+
+---
+
+### Ingot Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B912 00000063
+```
+
+---
+
+### Jewel Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B913 00000063
+```
+
+---
+
+### Jewel Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B914 00000063
+```
+
+---
+
+### Jewel Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B915 00000063
+```
+
+---
+
+### Jewel Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B916 00000063
+```
+
+---
+
+### Book Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B917 00000063
+```
+
+---
+
+### Book Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B918 00000063
+```
+
+---
+
+### Book Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B919 00000063
+```
+
+---
+
+### Book Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B91A 00000063
+```
+
+---
+
+### Toy Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B91B 00000063
+```
+
+---
+
+### Toy Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B91C 00000063
+```
+
+---
+
+### Toy Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B91D 00000063
+```
+
+---
+
+### Toy Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B91E 00000063
+```
+
+---
+
+### Craft Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B91F 00000063
+```
+
+---
+
+### Craft Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B920 00000063
+```
+
+---
+
+### Craft Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B921 00000063
+```
+
+---
+
+### Craft Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B922 00000063
+```
+
+---
+
+### Goods Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B923 00000063
+```
+
+---
+
+### Goods Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B924 00000063
+```
+
+---
+
+### Goods Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B925 00000063
+```
+
+---
+
+### Goods Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B926 00000063
+```
+
+---
+
+### Barbell Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B927 00000063
+```
+
+---
+
+### Barbell Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B928 00000063
+```
+
+---
+
+### Barbell Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B929 00000063
+```
+
+---
+
+### Barbell Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B92A 00000063
+```
+
+---
+
+### All Treats
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Treat Codes]
+
+```
+0051B90B 00000063
+4051B90C 00070001
+63636363 00000000
+1051B928 00006363
+0051B92A 00000063
+```
+
+---
+
+### Lucky Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B93B 00000063
+```
+
+---
+
+### Clean Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B93C 00000063
+```
+
+---
+
+### Magician Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B93D 00000063
+```
+
+---
+
+### Warrior Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B93E 00000063
+```
+
+---
+
+### Calm Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B93F 00000063
+```
+
+---
+
+### Fighter Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B940 00000063
+```
+
+---
+
+### F. Pow. Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B941 00000063
+```
+
+---
+
+### Stun Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B942 00000063
+```
+
+---
+
+### Sniper Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B943 00000063
+```
+
+---
+
+### Shot Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B944 00000063
+```
+
+---
+
+### Shock Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B945 00000063
+```
+
+---
+
+### Support Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B946 00000063
+```
+
+---
+
+### Maxim. Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B947 00000063
+```
+
+---
+
+### Heat Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B948 00000063
+```
+
+---
+
+### Hard Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B949 00000063
+```
+
+---
+
+### Heart Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B94A 00000063
+```
+
+---
+
+### Powful Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B94B 00000063
+```
+
+---
+
+### Intel. Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B94C 00000063
+```
+
+---
+
+### Caution Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B94D 00000063
+```
+
+---
+
+### Tough Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B94E 00000063
+```
+
+---
+
+### Sense Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B94F 00000063
+```
+
+---
+
+### Strong Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B950 00000063
+```
+
+---
+
+### Sight Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B951 00000063
+```
+
+---
+
+### Insight Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B952 00000063
+```
+
+---
+
+### Ent. Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B953 00000063
+```
+
+---
+
+### Push Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B954 00000063
+```
+
+---
+
+### Force Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B955 00000063
+```
+
+---
+
+### Morale Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B956 00000063
+```
+
+---
+
+### Leader Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B957 00000063
+```
+
+---
+
+### Team Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B958 00000063
+```
+
+---
+
+### Guts Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B959 00000063
+```
+
+---
+
+### Speed Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B95A 00000063
+```
+
+---
+
+### Livery Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B95B 00000063
+```
+
+---
+
+### Fire Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B95C 00000063
+```
+
+---
+
+### Water Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B95D 00000063
+```
+
+---
+
+### Wind Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B95E 00000063
+```
+
+---
+
+### Earth Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B95F 00000063
+```
+
+---
+
+### Mettle Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B960 00000063
+```
+
+---
+
+### Pene. Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B961 00000063
+```
+
+---
+
+### Horn Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B962 00000063
+```
+
+---
+
+### Easy Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B963 00000063
+```
+
+---
+
+### Scale Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B964 00000063
+```
+
+---
+
+### Knight Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B965 00000063
+```
+
+---
+
+### Burn Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B966 00000063
+```
+
+---
+
+### Soft Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B967 00000063
+```
+
+---
+
+### Dark Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B968 00000063
+```
+
+---
+
+### Stone Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B969 00000063
+```
+
+---
+
+### Care Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B96A 00000063
+```
+
+---
+
+### Mech Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B96B 00000063
+```
+
+---
+
+### Aura Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B96C 00000063
+```
+
+---
+
+### Will Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B96D 00000063
+```
+
+---
+
+### Skin Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B96E 00000063
+```
+
+---
+
+### Lazy Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B96F 00000063
+```
+
+---
+
+### Airy Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B970 00000063
+```
+
+---
+
+### Leaf Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B971 00000063
+```
+
+---
+
+### Light Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B972 00000063
+```
+
+---
+
+### Flower Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B973 00000063
+```
+
+---
+
+### Wolf Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B974 00000063
+```
+
+---
+
+### Sea Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B975 00000063
+```
+
+---
+
+### Cool Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B976 00000063
+```
+
+---
+
+### Fairy Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B977 00000063
+```
+
+---
+
+### Ice Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B978 00000063
+```
+
+---
+
+### Shine Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B979 00000063
+```
+
+---
+
+### Fool Badge
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B97A 00000063
+```
+
+---
+
+### All Combined
+**Author:** Code Master>Skiller  
+**Notes:** [Max Consumable-Combined Codes]
+
+```
+0051B93B 00000063
+4051B93C 000F0001
+63636363 00000000
+1051B978 00006363
+0051B97A 00000063
+```
+
+---
+
+### Blue Gloves 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9B0 00000063
+```
+
+---
+
+### Blue Gloves 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9B1 00000063
+```
+
+---
+
+### Blue Gloves 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9B2 00000063
+```
+
+---
+
+### Blue Gloves 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9B3 00000063
+```
+
+---
+
+### Red Gloves 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9B4 00000063
+```
+
+---
+
+### Red Gloves 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9B5 00000063
+```
+
+---
+
+### Red Gloves 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9B6 00000063
+```
+
+---
+
+### Red Gloves 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9B7 00000063
+```
+
+---
+
+### Gre. Gloves 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9B8 00000063
+```
+
+---
+
+### Gre. Gloves 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9B9 00000063
+```
+
+---
+
+### Gre. Gloves 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9BA 00000063
+```
+
+---
+
+### Gre. Gloves 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9BB 00000063
+```
+
+---
+
+### Yel. Gloves 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9BC 00000063
+```
+
+---
+
+### Yel. Gloves 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9BD 00000063
+```
+
+---
+
+### Yel. Gloves 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9BE 00000063
+```
+
+---
+
+### Yel. Gloves 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9BF 00000063
+```
+
+---
+
+### Bla. Gloves 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9C0 00000063
+```
+
+---
+
+### Bla. Gloves 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9C1 00000063
+```
+
+---
+
+### Bla. Gloves 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9C2 00000063
+```
+
+---
+
+### Bla. Gloves 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9C3 00000063
+```
+
+---
+
+### Whi. Gloves 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9C4 00000063
+```
+
+---
+
+### Whi. Gloves 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9C5 00000063
+```
+
+---
+
+### Whi. Gloves 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9C6 00000063
+```
+
+---
+
+### Whi. Gloves 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9C7 00000063
+```
+
+---
+
+### Sil. Gloves 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9C8 00000063
+```
+
+---
+
+### Sil. Gloves 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9C9 00000063
+```
+
+---
+
+### Sil. Gloves 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9CA 00000063
+```
+
+---
+
+### Sil. Gloves 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9CB 00000063
+```
+
+---
+
+### Gold Gloves 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9CC 00000063
+```
+
+---
+
+### Gold Gloves 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9CD 00000063
+```
+
+---
+
+### Gold Gloves 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9CE 00000063
+```
+
+---
+
+### Gold Gloves 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9CF 00000063
+```
+
+---
+
+### Blue Claw 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9D0 00000063
+```
+
+---
+
+### Blue Claw 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9D1 00000063
+```
+
+---
+
+### Blue Claw 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9D2 00000063
+```
+
+---
+
+### Blue Claw 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9D3 00000063
+```
+
+---
+
+### Red Claw 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9D4 00000063
+```
+
+---
+
+### Red Claw 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9D5 00000063
+```
+
+---
+
+### Red Claw 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9D6 00000063
+```
+
+---
+
+### Red Claw 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9D7 00000063
+```
+
+---
+
+### Gre. Claw 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9D8 00000063
+```
+
+---
+
+### Gre. Claw 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9D9 00000063
+```
+
+---
+
+### Gre. Claw 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9DA 00000063
+```
+
+---
+
+### Gre. Claw 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9DB 00000063
+```
+
+---
+
+### Yel. Claw 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9DC 00000063
+```
+
+---
+
+### Yel. Claw 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9DD 00000063
+```
+
+---
+
+### Yel. Claw 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9DE 00000063
+```
+
+---
+
+### Yel. Claw 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9DF 00000063
+```
+
+---
+
+### Bla. Claw 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9E0 00000063
+```
+
+---
+
+### Bla. Claw 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9E1 00000063
+```
+
+---
+
+### Bla. Claw 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9E2 00000063
+```
+
+---
+
+### Bla. Claw 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9E3 00000063
+```
+
+---
+
+### Whi. Claw 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9E4 00000063
+```
+
+---
+
+### Whi. Claw 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9E5 00000063
+```
+
+---
+
+### Whi. Claw 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9E6 00000063
+```
+
+---
+
+### Whi. Claw 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9E7 00000063
+```
+
+---
+
+### Sil. Claw 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9E8 00000063
+```
+
+---
+
+### Sil. Claw 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9E9 00000063
+```
+
+---
+
+### Sil. Claw 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9EA 00000063
+```
+
+---
+
+### Sil. Claw 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9EB 00000063
+```
+
+---
+
+### Gold Claw 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9EC 00000063
+```
+
+---
+
+### Gold Claw 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9ED 00000063
+```
+
+---
+
+### Gold Claw 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9EE 00000063
+```
+
+---
+
+### Gold Claw 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9EF 00000063
+```
+
+---
+
+### Blue Glasses 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9F0 00000063
+```
+
+---
+
+### Blue Glasses 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9F1 00000063
+```
+
+---
+
+### Blue Glasses 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9F2 00000063
+```
+
+---
+
+### Blue Glasses 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9F3 00000063
+```
+
+---
+
+### Red Glasses 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9F4 00000063
+```
+
+---
+
+### Red Glasses 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9F5 00000063
+```
+
+---
+
+### Red Glasses 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9F6 00000063
+```
+
+---
+
+### Red Glasses 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9F7 00000063
+```
+
+---
+
+### Gre. Glasses 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9F8 00000063
+```
+
+---
+
+### Gre. Glasses 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9F9 00000063
+```
+
+---
+
+### Gre. Glasses 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9FA 00000063
+```
+
+---
+
+### Gre. Glasses 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9FB 00000063
+```
+
+---
+
+### Yel. Glasses 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9FC 00000063
+```
+
+---
+
+### Yel. Glasses 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9FD 00000063
+```
+
+---
+
+### Yel. Glasses 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9FE 00000063
+```
+
+---
+
+### Yel. Glasses 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051B9FF 00000063
+```
+
+---
+
+### Bla. Glasses 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA00 00000063
+```
+
+---
+
+### Bla. Glasses 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA01 00000063
+```
+
+---
+
+### Bla. Glasses 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA02 00000063
+```
+
+---
+
+### Bla. Glasses 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA03 00000063
+```
+
+---
+
+### Whi. Glasses 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA04 00000063
+```
+
+---
+
+### Whi. Glasses 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA05 00000063
+```
+
+---
+
+### Whi. Glasses 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA06 00000063
+```
+
+---
+
+### Whi. Glasses 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA07 00000063
+```
+
+---
+
+### Sil. Glasses 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA08 00000063
+```
+
+---
+
+### Sil. Glasses 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA09 00000063
+```
+
+---
+
+### Sil. Glasses 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA0A 00000063
+```
+
+---
+
+### Sil. Glasses 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA0B 00000063
+```
+
+---
+
+### Gold Glasses 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA0C 00000063
+```
+
+---
+
+### Gold Glasses 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA0D 00000063
+```
+
+---
+
+### Gold Glasses 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA0E 00000063
+```
+
+---
+
+### Gold Glasses 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA0F 00000063
+```
+
+---
+
+### Blue Bandana 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA10 00000063
+```
+
+---
+
+### Blue Bandana 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA11 00000063
+```
+
+---
+
+### Blue Bandana 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA12 00000063
+```
+
+---
+
+### Blue Bandana 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA13 00000063
+```
+
+---
+
+### Red Bandana 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA14 00000063
+```
+
+---
+
+### Red Bandana 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA15 00000063
+```
+
+---
+
+### Red Bandana 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA16 00000063
+```
+
+---
+
+### Red Bandana 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA17 00000063
+```
+
+---
+
+### Gre. Bandana 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA18 00000063
+```
+
+---
+
+### Gre. Bandana 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA19 00000063
+```
+
+---
+
+### Gre. Bandana 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA1A 00000063
+```
+
+---
+
+### Gre. Bandana 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA1B 00000063
+```
+
+---
+
+### Yel. Bandana 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA1C 00000063
+```
+
+---
+
+### Yel. Bandana 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA1D 00000063
+```
+
+---
+
+### Yel. Bandana 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA1E 00000063
+```
+
+---
+
+### Yel. Bandana 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA1F 00000063
+```
+
+---
+
+### Bla. Bandana 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA20 00000063
+```
+
+---
+
+### Bla. Bandana 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA21 00000063
+```
+
+---
+
+### Bla. Bandana 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA22 00000063
+```
+
+---
+
+### Bla. Bandana 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA23 00000063
+```
+
+---
+
+### Whi. Bandana 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA24 00000063
+```
+
+---
+
+### Whi. Bandana 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA25 00000063
+```
+
+---
+
+### Whi. Bandana 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA26 00000063
+```
+
+---
+
+### Whi. Bandana 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA27 00000063
+```
+
+---
+
+### Sil. Bandana 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA28 00000063
+```
+
+---
+
+### Sil. Bandana 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA29 00000063
+```
+
+---
+
+### Sil. Bandana 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA2A 00000063
+```
+
+---
+
+### Sil. Bandana 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA2B 00000063
+```
+
+---
+
+### Gold Bandana 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA2C 00000063
+```
+
+---
+
+### Gold Bandana 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA2D 00000063
+```
+
+---
+
+### Gold Bandana 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA2E 00000063
+```
+
+---
+
+### Gold Bandana 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA2F 00000063
+```
+
+---
+
+### Blue Tie 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA30 00000063
+```
+
+---
+
+### Blue Tie 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA31 00000063
+```
+
+---
+
+### Blue Tie 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA32 00000063
+```
+
+---
+
+### Blue Tie 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA33 00000063
+```
+
+---
+
+### Red Tie 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA34 00000063
+```
+
+---
+
+### Red Tie 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA35 00000063
+```
+
+---
+
+### Red Tie 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA36 00000063
+```
+
+---
+
+### Red Tie 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA37 00000063
+```
+
+---
+
+### Gre. Tie 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA38 00000063
+```
+
+---
+
+### Gre. Tie 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA39 00000063
+```
+
+---
+
+### Gre. Tie 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA3A 00000063
+```
+
+---
+
+### Gre. Tie 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA3B 00000063
+```
+
+---
+
+### Yel. Tie 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA3C 00000063
+```
+
+---
+
+### Yel. Tie 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA3D 00000063
+```
+
+---
+
+### Yel. Tie 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA3E 00000063
+```
+
+---
+
+### Yel. Tie 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA3F 00000063
+```
+
+---
+
+### Bla. Tie 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA40 00000063
+```
+
+---
+
+### Bla. Tie 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA41 00000063
+```
+
+---
+
+### Bla. Tie 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA42 00000063
+```
+
+---
+
+### Bla. Tie 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA43 00000063
+```
+
+---
+
+### Whi. Tie 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA44 00000063
+```
+
+---
+
+### Whi. Tie 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA45 00000063
+```
+
+---
+
+### Whi. Tie 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA46 00000063
+```
+
+---
+
+### Whi. Tie 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA47 00000063
+```
+
+---
+
+### Sil. Tie 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA48 00000063
+```
+
+---
+
+### Sil. Tie 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA49 00000063
+```
+
+---
+
+### Sil. Tie 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA4A 00000063
+```
+
+---
+
+### Sil. Tie 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA4B 00000063
+```
+
+---
+
+### Gold Tie 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA4C 00000063
+```
+
+---
+
+### Gold Tie 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA4D 00000063
+```
+
+---
+
+### Gold Tie 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA4E 00000063
+```
+
+---
+
+### Gold Tie 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA4F 00000063
+```
+
+---
+
+### Blue Card 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA50 00000063
+```
+
+---
+
+### Blue Card 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA51 00000063
+```
+
+---
+
+### Blue Card 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA52 00000063
+```
+
+---
+
+### Blue Card 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA53 00000063
+```
+
+---
+
+### Red Card 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA54 00000063
+```
+
+---
+
+### Red Card 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA55 00000063
+```
+
+---
+
+### Red Card 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA56 00000063
+```
+
+---
+
+### Red Card 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA57 00000063
+```
+
+---
+
+### Gre. Card 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA58 00000063
+```
+
+---
+
+### Gre. Card 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA59 00000063
+```
+
+---
+
+### Gre. Card 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA5A 00000063
+```
+
+---
+
+### Gre. Card 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA5B 00000063
+```
+
+---
+
+### Yel. Card 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA5C 00000063
+```
+
+---
+
+### Yel. Card 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA5D 00000063
+```
+
+---
+
+### Yel. Card 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA5E 00000063
+```
+
+---
+
+### Yel. Card 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA5F 00000063
+```
+
+---
+
+### Bla. Card 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA60 00000063
+```
+
+---
+
+### Bla. Card 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA61 00000063
+```
+
+---
+
+### Bla. Card 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA62 00000063
+```
+
+---
+
+### Bla. Card 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA63 00000063
+```
+
+---
+
+### Whi. Card 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA64 00000063
+```
+
+---
+
+### Whi. Card 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA65 00000063
+```
+
+---
+
+### Whi. Card 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA66 00000063
+```
+
+---
+
+### Whi. Card 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA67 00000063
+```
+
+---
+
+### Sil. Card 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA68 00000063
+```
+
+---
+
+### Sil. Card 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA69 00000063
+```
+
+---
+
+### Sil. Card 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA6A 00000063
+```
+
+---
+
+### Sil. Card 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA6B 00000063
+```
+
+---
+
+### Gold Card 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA6C 00000063
+```
+
+---
+
+### Gold Card 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA6D 00000063
+```
+
+---
+
+### Gold Card 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA6E 00000063
+```
+
+---
+
+### Gold Card 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+0051BA6F 00000063
+```
+
+---
+
+### All Beginner
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Beginner Codes]
+
+```
+4051B9B0 00300001
+63636363 00000000
+```
+
+---
+
+### Blue Cape
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCB0 00000063
+```
+
+---
+
+### Red Cape
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCB1 00000063
+```
+
+---
+
+### Green Cape
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCB2 00000063
+```
+
+---
+
+### Yellow Cape
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCB3 00000063
+```
+
+---
+
+### Black Cape
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCB4 00000063
+```
+
+---
+
+### White Cape
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCB5 00000063
+```
+
+---
+
+### Silver Cape
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCB6 00000063
+```
+
+---
+
+### Gold Cape
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCB7 00000063
+```
+
+---
+
+### Blue Belt
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCB8 00000063
+```
+
+---
+
+### Red Belt
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCB9 00000063
+```
+
+---
+
+### Green Belt
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCBA 00000063
+```
+
+---
+
+### Yellow Belt
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCBB 00000063
+```
+
+---
+
+### Black Belt
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCBC 00000063
+```
+
+---
+
+### White Belt
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCBD 00000063
+```
+
+---
+
+### Silver Belt
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCBE 00000063
+```
+
+---
+
+### Gold Belt
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCBF 00000063
+```
+
+---
+
+### Blue Tattoo
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCC0 00000063
+```
+
+---
+
+### Red Tattoo
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCC1 00000063
+```
+
+---
+
+### Green Tattoo
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCC2 00000063
+```
+
+---
+
+### Yellow Tattoo
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCC3 00000063
+```
+
+---
+
+### Black Tattoo
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCC4 00000063
+```
+
+---
+
+### White Tattoo
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCC5 00000063
+```
+
+---
+
+### Silver Tattoo
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCC6 00000063
+```
+
+---
+
+### Gold Tattoo
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCC7 00000063
+```
+
+---
+
+### Blue Aroma
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCC8 00000063
+```
+
+---
+
+### Red Aroma
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCC9 00000063
+```
+
+---
+
+### Green Aroma
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCCA 00000063
+```
+
+---
+
+### Yellow Aroma
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCCB 00000063
+```
+
+---
+
+### Black Aroma
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCCC 00000063
+```
+
+---
+
+### White Aroma
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCCD 00000063
+```
+
+---
+
+### Silver Aroma
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCCE 00000063
+```
+
+---
+
+### Gold Aroma
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+0051BCCF 00000063
+```
+
+---
+
+### All Illegal
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Illegal Codes]
+
+```
+4051BCB0 00080001
+63636363 00000000
+```
+
+---
+
+### Blue Gaunt. 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BBF0 00000063
+```
+
+---
+
+### Blue Gaunt. 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BBF1 00000063
+```
+
+---
+
+### Blue Gaunt. 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BBF2 00000063
+```
+
+---
+
+### Blue Gaunt. 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BBF3 00000063
+```
+
+---
+
+### Red Gaunt. 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BBF4 00000063
+```
+
+---
+
+### Red Gaunt. 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BBF5 00000063
+```
+
+---
+
+### Red Gaunt. 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BBF6 00000063
+```
+
+---
+
+### Red Gaunt. 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BBF7 00000063
+```
+
+---
+
+### Gre. Gaunt. 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BBF8 00000063
+```
+
+---
+
+### Gre. Gaunt. 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BBF9 00000063
+```
+
+---
+
+### Gre. Gaunt. 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BBFA 00000063
+```
+
+---
+
+### Gre. Gaunt. 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BBFB 00000063
+```
+
+---
+
+### Yel. Gaunt. 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BBFC 00000063
+```
+
+---
+
+### Yel. Gaunt. 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BBFD 00000063
+```
+
+---
+
+### Yel. Gaunt. 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BBFE 00000063
+```
+
+---
+
+### Yel. Gaunt. 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BBFF 00000063
+```
+
+---
+
+### Bla. Gaunt. 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC00 00000063
+```
+
+---
+
+### Bla. Gaunt. 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC01 00000063
+```
+
+---
+
+### Bla. Gaunt. 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC02 00000063
+```
+
+---
+
+### Bla. Gaunt. 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC03 00000063
+```
+
+---
+
+### Whi. Gaunt. 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC04 00000063
+```
+
+---
+
+### Whi. Gaunt. 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC05 00000063
+```
+
+---
+
+### Whi. Gaunt. 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC06 00000063
+```
+
+---
+
+### Whi. Gaunt. 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC07 00000063
+```
+
+---
+
+### Sil. Gaunt. 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC08 00000063
+```
+
+---
+
+### Sil. Gaunt. 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC09 00000063
+```
+
+---
+
+### Sil. Gaunt. 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC0A 00000063
+```
+
+---
+
+### Sil. Gaunt. 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC0B 00000063
+```
+
+---
+
+### Gold Gaunt. 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC0C 00000063
+```
+
+---
+
+### Gold Gaunt. 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC0D 00000063
+```
+
+---
+
+### Gold Gaunt. 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC0E 00000063
+```
+
+---
+
+### Gold Gaunt. 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC0F 00000063
+```
+
+---
+
+### Blue Charm 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC10 00000063
+```
+
+---
+
+### Blue Charm 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC11 00000063
+```
+
+---
+
+### Blue Charm 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC12 00000063
+```
+
+---
+
+### Blue Charm 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC13 00000063
+```
+
+---
+
+### Red Charm 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC14 00000063
+```
+
+---
+
+### Red Charm 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC15 00000063
+```
+
+---
+
+### Red Charm 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC16 00000063
+```
+
+---
+
+### Red Charm 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC17 00000063
+```
+
+---
+
+### Gre. Charm 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC18 00000063
+```
+
+---
+
+### Gre. Charm 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC19 00000063
+```
+
+---
+
+### Gre. Charm 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC1A 00000063
+```
+
+---
+
+### Gre. Charm 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC1B 00000063
+```
+
+---
+
+### Yel. Charm 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC1C 00000063
+```
+
+---
+
+### Yel. Charm 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC1D 00000063
+```
+
+---
+
+### Yel. Charm 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC1E 00000063
+```
+
+---
+
+### Yel. Charm 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC1F 00000063
+```
+
+---
+
+### Bla. Charm 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC20 00000063
+```
+
+---
+
+### Bla. Charm 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC21 00000063
+```
+
+---
+
+### Bla. Charm 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC22 00000063
+```
+
+---
+
+### Bla. Charm 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC23 00000063
+```
+
+---
+
+### Whi. Charm 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC24 00000063
+```
+
+---
+
+### Whi. Charm 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC25 00000063
+```
+
+---
+
+### Whi. Charm 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC26 00000063
+```
+
+---
+
+### Whi. Charm 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC27 00000063
+```
+
+---
+
+### Sil. Charm 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC28 00000063
+```
+
+---
+
+### Sil. Charm 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC29 00000063
+```
+
+---
+
+### Sil. Charm 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC2A 00000063
+```
+
+---
+
+### Sil. Charm 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC2B 00000063
+```
+
+---
+
+### Gold Charm 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC2C 00000063
+```
+
+---
+
+### Gold Charm 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC2D 00000063
+```
+
+---
+
+### Gold Charm 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC2E 00000063
+```
+
+---
+
+### Gold Charm 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC2F 00000063
+```
+
+---
+
+### Blue Goggles 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC30 00000063
+```
+
+---
+
+### Blue Goggles 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC31 00000063
+```
+
+---
+
+### Blue Goggles 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC32 00000063
+```
+
+---
+
+### Blue Goggles 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC33 00000063
+```
+
+---
+
+### Red Goggles 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC34 00000063
+```
+
+---
+
+### Red Goggles 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC35 00000063
+```
+
+---
+
+### Red Goggles 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC36 00000063
+```
+
+---
+
+### Red Goggles 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC37 00000063
+```
+
+---
+
+### Gre. Goggles 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC38 00000063
+```
+
+---
+
+### Gre. Goggles 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC39 00000063
+```
+
+---
+
+### Gre. Goggles 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC3A 00000063
+```
+
+---
+
+### Gre. Goggles 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC3B 00000063
+```
+
+---
+
+### Yel. Goggles 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC3C 00000063
+```
+
+---
+
+### Yel. Goggles 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC3D 00000063
+```
+
+---
+
+### Yel. Goggles 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC3E 00000063
+```
+
+---
+
+### Yel. Goggles 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC3F 00000063
+```
+
+---
+
+### Bla. Goggles 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC40 00000063
+```
+
+---
+
+### Bla. Goggles 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC41 00000063
+```
+
+---
+
+### Bla. Goggles 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC42 00000063
+```
+
+---
+
+### Bla. Goggles 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC43 00000063
+```
+
+---
+
+### Whi. Goggles 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC44 00000063
+```
+
+---
+
+### Whi. Goggles 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC45 00000063
+```
+
+---
+
+### Whi. Goggles 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC46 00000063
+```
+
+---
+
+### Whi. Goggles 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC47 00000063
+```
+
+---
+
+### Sil. Goggles 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC48 00000063
+```
+
+---
+
+### Sil. Goggles 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC49 00000063
+```
+
+---
+
+### Sil. Goggles 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC4A 00000063
+```
+
+---
+
+### Sil. Goggles 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC4B 00000063
+```
+
+---
+
+### Gold Goggles 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC4C 00000063
+```
+
+---
+
+### Gold Goggles 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC4D 00000063
+```
+
+---
+
+### Gold Goggles 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC4E 00000063
+```
+
+---
+
+### Gold Goggles 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC4F 00000063
+```
+
+---
+
+### Blue Crown 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC50 00000063
+```
+
+---
+
+### Blue Crown 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC51 00000063
+```
+
+---
+
+### Blue Crown 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC52 00000063
+```
+
+---
+
+### Blue Crown 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC53 00000063
+```
+
+---
+
+### Red Crown 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC54 00000063
+```
+
+---
+
+### Red Crown 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC55 00000063
+```
+
+---
+
+### Red Crown 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC56 00000063
+```
+
+---
+
+### Red Crown 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC57 00000063
+```
+
+---
+
+### Gre. Crown 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC58 00000063
+```
+
+---
+
+### Gre. Crown 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC59 00000063
+```
+
+---
+
+### Gre. Crown 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC5A 00000063
+```
+
+---
+
+### Gre. Crown 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC5B 00000063
+```
+
+---
+
+### Yel. Crown 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC5C 00000063
+```
+
+---
+
+### Yel. Crown 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC5D 00000063
+```
+
+---
+
+### Yel. Crown 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC5E 00000063
+```
+
+---
+
+### Yel. Crown 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC5F 00000063
+```
+
+---
+
+### Bla. Crown 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC60 00000063
+```
+
+---
+
+### Bla. Crown 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC61 00000063
+```
+
+---
+
+### Bla. Crown 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC62 00000063
+```
+
+---
+
+### Bla. Crown 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC63 00000063
+```
+
+---
+
+### Whi. Crown 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC64 00000063
+```
+
+---
+
+### Whi. Crown 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC65 00000063
+```
+
+---
+
+### Whi. Crown 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC66 00000063
+```
+
+---
+
+### Whi. Crown 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC67 00000063
+```
+
+---
+
+### Sil. Crown 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC68 00000063
+```
+
+---
+
+### Sil. Crown 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC69 00000063
+```
+
+---
+
+### Sil. Crown 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC6A 00000063
+```
+
+---
+
+### Sil. Crown 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC6B 00000063
+```
+
+---
+
+### Gold Crown 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC6C 00000063
+```
+
+---
+
+### Gold Crown 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC6D 00000063
+```
+
+---
+
+### Gold Crown 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC6E 00000063
+```
+
+---
+
+### Gold Crown 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC6F 00000063
+```
+
+---
+
+### Blue Pendant 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC70 00000063
+```
+
+---
+
+### Blue Pendant 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC71 00000063
+```
+
+---
+
+### Blue Pendant 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC72 00000063
+```
+
+---
+
+### Blue Pendant 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC73 00000063
+```
+
+---
+
+### Red Pendant 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC74 00000063
+```
+
+---
+
+### Red Pendant 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC75 00000063
+```
+
+---
+
+### Red Pendant 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC76 00000063
+```
+
+---
+
+### Red Pendant 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC77 00000063
+```
+
+---
+
+### Gre. Pendant 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC78 00000063
+```
+
+---
+
+### Gre. Pendant 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC79 00000063
+```
+
+---
+
+### Gre. Pendant 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC7A 00000063
+```
+
+---
+
+### Gre. Pendant 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC7B 00000063
+```
+
+---
+
+### Yel. Pendant 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC7C 00000063
+```
+
+---
+
+### Yel. Pendant 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC7D 00000063
+```
+
+---
+
+### Yel. Pendant 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC7E 00000063
+```
+
+---
+
+### Yel. Pendant 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC7F 00000063
+```
+
+---
+
+### Bla. Pendant 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC80 00000063
+```
+
+---
+
+### Bla. Pendant 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC81 00000063
+```
+
+---
+
+### Bla. Pendant 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC82 00000063
+```
+
+---
+
+### Bla. Pendant 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC83 00000063
+```
+
+---
+
+### Whi. Pendant 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC84 00000063
+```
+
+---
+
+### Whi. Pendant 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC85 00000063
+```
+
+---
+
+### Whi. Pendant 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC86 00000063
+```
+
+---
+
+### Whi. Pendant 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC87 00000063
+```
+
+---
+
+### Sil. Pendant 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC88 00000063
+```
+
+---
+
+### Sil. Pendant 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC89 00000063
+```
+
+---
+
+### Sil. Pendant 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC8A 00000063
+```
+
+---
+
+### Sil. Pendant 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC8B 00000063
+```
+
+---
+
+### Gold Pendant 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC8C 00000063
+```
+
+---
+
+### Gold Pendant 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC8D 00000063
+```
+
+---
+
+### Gold Pendant 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC8E 00000063
+```
+
+---
+
+### Gold Pendant 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC8F 00000063
+```
+
+---
+
+### Blue Crystal 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC90 00000063
+```
+
+---
+
+### Blue Crystal 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC91 00000063
+```
+
+---
+
+### Blue Crystal 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC92 00000063
+```
+
+---
+
+### Blue Crystal 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC93 00000063
+```
+
+---
+
+### Red Crystal 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC94 00000063
+```
+
+---
+
+### Red Crystal 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC95 00000063
+```
+
+---
+
+### Red Crystal 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC96 00000063
+```
+
+---
+
+### Red Crystal 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC97 00000063
+```
+
+---
+
+### Gre. Crystal 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC98 00000063
+```
+
+---
+
+### Gre. Crystal 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC99 00000063
+```
+
+---
+
+### Gre. Crystal 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC9A 00000063
+```
+
+---
+
+### Gre. Crystal 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC9B 00000063
+```
+
+---
+
+### Yel. Crystal 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC9C 00000063
+```
+
+---
+
+### Yel. Crystal 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC9D 00000063
+```
+
+---
+
+### Yel. Crystal 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC9E 00000063
+```
+
+---
+
+### Yel. Crystal 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BC9F 00000063
+```
+
+---
+
+### Bla. Crystal 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BCA0 00000063
+```
+
+---
+
+### Bla. Crystal 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BCA1 00000063
+```
+
+---
+
+### Bla. Crystal 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BCA2 00000063
+```
+
+---
+
+### Bla. Crystal 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BCA3 00000063
+```
+
+---
+
+### Whi. Crystal 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BCA4 00000063
+```
+
+---
+
+### Whi. Crystal 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BCA5 00000063
+```
+
+---
+
+### Whi. Crystal 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BCA6 00000063
+```
+
+---
+
+### Whi. Crystal 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BCA7 00000063
+```
+
+---
+
+### Sil. Crystal 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BCA8 00000063
+```
+
+---
+
+### Sil. Crystal 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BCA9 00000063
+```
+
+---
+
+### Sil. Crystal 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BCAA 00000063
+```
+
+---
+
+### Sil. Crystal 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BCAB 00000063
+```
+
+---
+
+### Gold Crystal 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BCAC 00000063
+```
+
+---
+
+### Gold Crystal 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BCAD 00000063
+```
+
+---
+
+### Gold Crystal 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BCAE 00000063
+```
+
+---
+
+### Gold Crystal 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+0051BCAF 00000063
+```
+
+---
+
+### All Legend
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Legend Codes]
+
+```
+4051BBF0 00300001
+63636363 00000000
+```
+
+---
+
+### Blue Bracer 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB30 00000063
+```
+
+---
+
+### Blue Bracer 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB31 00000063
+```
+
+---
+
+### Blue Bracer 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB32 00000063
+```
+
+---
+
+### Blue Bracer 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB33 00000063
+```
+
+---
+
+### Red Bracer 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB34 00000063
+```
+
+---
+
+### Red Bracer 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB35 00000063
+```
+
+---
+
+### Red Bracer 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB36 00000063
+```
+
+---
+
+### Red Bracer 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB37 00000063
+```
+
+---
+
+### Gre. Bracer 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB38 00000063
+```
+
+---
+
+### Gre. Bracer 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB39 00000063
+```
+
+---
+
+### Gre. Bracer 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB3A 00000063
+```
+
+---
+
+### Gre. Bracer 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB3B 00000063
+```
+
+---
+
+### Yel. Bracer 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB3C 00000063
+```
+
+---
+
+### Yel. Bracer 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB3D 00000063
+```
+
+---
+
+### Yel. Bracer 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB3E 00000063
+```
+
+---
+
+### Yel. Bracer 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB3F 00000063
+```
+
+---
+
+### Bla. Bracer 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB40 00000063
+```
+
+---
+
+### Bla. Bracer 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB41 00000063
+```
+
+---
+
+### Bla. Bracer 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB42 00000063
+```
+
+---
+
+### Bla. Bracer 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB43 00000063
+```
+
+---
+
+### Whi. Bracer 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB44 00000063
+```
+
+---
+
+### Whi. Bracer 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB45 00000063
+```
+
+---
+
+### Whi. Bracer 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB46 00000063
+```
+
+---
+
+### Whi. Bracer 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB47 00000063
+```
+
+---
+
+### Sil. Bracer 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB48 00000063
+```
+
+---
+
+### Sil. Bracer 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB49 00000063
+```
+
+---
+
+### Sil. Bracer 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB4A 00000063
+```
+
+---
+
+### Sil. Bracer 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB4B 00000063
+```
+
+---
+
+### Gold Bracer 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB4C 00000063
+```
+
+---
+
+### Gold Bracer 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB4D 00000063
+```
+
+---
+
+### Gold Bracer 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB4E 00000063
+```
+
+---
+
+### Gold Bracer 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB4F 00000063
+```
+
+---
+
+### Blue Ring 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB50 00000063
+```
+
+---
+
+### Blue Ring 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB51 00000063
+```
+
+---
+
+### Blue Ring 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB52 00000063
+```
+
+---
+
+### Blue Ring 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB53 00000063
+```
+
+---
+
+### Red Ring 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB54 00000063
+```
+
+---
+
+### Red Ring 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB55 00000063
+```
+
+---
+
+### Red Ring 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB56 00000063
+```
+
+---
+
+### Red Ring 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB57 00000063
+```
+
+---
+
+### Gre. Ring 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB58 00000063
+```
+
+---
+
+### Gre. Ring 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB59 00000063
+```
+
+---
+
+### Gre. Ring 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB5A 00000063
+```
+
+---
+
+### Gre. Ring 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB5B 00000063
+```
+
+---
+
+### Yel. Ring 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB5C 00000063
+```
+
+---
+
+### Yel. Ring 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB5D 00000063
+```
+
+---
+
+### Yel. Ring 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB5E 00000063
+```
+
+---
+
+### Yel. Ring 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB5F 00000063
+```
+
+---
+
+### Bla. Ring 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB60 00000063
+```
+
+---
+
+### Bla. Ring 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB61 00000063
+```
+
+---
+
+### Bla. Ring 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB62 00000063
+```
+
+---
+
+### Bla. Ring 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB63 00000063
+```
+
+---
+
+### Whi. Ring 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB64 00000063
+```
+
+---
+
+### Whi. Ring 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB65 00000063
+```
+
+---
+
+### Whi. Ring 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB66 00000063
+```
+
+---
+
+### Whi. Ring 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB67 00000063
+```
+
+---
+
+### Sil. Ring 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB68 00000063
+```
+
+---
+
+### Sil. Ring 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB69 00000063
+```
+
+---
+
+### Sil. Ring 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB6A 00000063
+```
+
+---
+
+### Sil. Ring 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB6B 00000063
+```
+
+---
+
+### Gold Ring 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB6C 00000063
+```
+
+---
+
+### Gold Ring 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB6D 00000063
+```
+
+---
+
+### Gold Ring 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB6E 00000063
+```
+
+---
+
+### Gold Ring 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB6F 00000063
+```
+
+---
+
+### Blue Eyemask 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB70 00000063
+```
+
+---
+
+### Blue Eyemask 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB71 00000063
+```
+
+---
+
+### Blue Eyemask 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB72 00000063
+```
+
+---
+
+### Blue Eyemask 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB73 00000063
+```
+
+---
+
+### Red Eyemask 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB74 00000063
+```
+
+---
+
+### Red Eyemask 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB75 00000063
+```
+
+---
+
+### Red Eyemask 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB76 00000063
+```
+
+---
+
+### Red Eyemask 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB77 00000063
+```
+
+---
+
+### Gre. Eyemask 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB78 00000063
+```
+
+---
+
+### Gre. Eyemask 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB79 00000063
+```
+
+---
+
+### Gre. Eyemask 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB7A 00000063
+```
+
+---
+
+### Gre. Eyemask 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB7B 00000063
+```
+
+---
+
+### Yel. Eyemask 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB7C 00000063
+```
+
+---
+
+### Yel. Eyemask 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB7D 00000063
+```
+
+---
+
+### Yel. Eyemask 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB7E 00000063
+```
+
+---
+
+### Yel. Eyemask 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB7F 00000063
+```
+
+---
+
+### Bla. Eyemask 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB80 00000063
+```
+
+---
+
+### Bla. Eyemask 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB81 00000063
+```
+
+---
+
+### Bla. Eyemask 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB82 00000063
+```
+
+---
+
+### Bla. Eyemask 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB83 00000063
+```
+
+---
+
+### Whi. Eyemask 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB84 00000063
+```
+
+---
+
+### Whi. Eyemask 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB85 00000063
+```
+
+---
+
+### Whi. Eyemask 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB86 00000063
+```
+
+---
+
+### Whi. Eyemask 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB87 00000063
+```
+
+---
+
+### Sil. Eyemask 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB88 00000063
+```
+
+---
+
+### Sil. Eyemask 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB89 00000063
+```
+
+---
+
+### Sil. Eyemask 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB8A 00000063
+```
+
+---
+
+### Sil. Eyemask 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB8B 00000063
+```
+
+---
+
+### Gold Eyemask 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB8C 00000063
+```
+
+---
+
+### Gold Eyemask 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB8D 00000063
+```
+
+---
+
+### Gold Eyemask 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB8E 00000063
+```
+
+---
+
+### Gold Eyemask 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB8F 00000063
+```
+
+---
+
+### Blue Cap 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB90 00000063
+```
+
+---
+
+### Blue Cap 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB91 00000063
+```
+
+---
+
+### Blue Cap 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB92 00000063
+```
+
+---
+
+### Blue Cap 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB93 00000063
+```
+
+---
+
+### Red Cap 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB94 00000063
+```
+
+---
+
+### Red Cap 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB95 00000063
+```
+
+---
+
+### Red Cap 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB96 00000063
+```
+
+---
+
+### Red Cap 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB97 00000063
+```
+
+---
+
+### Gre. Cap 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB98 00000063
+```
+
+---
+
+### Gre. Cap 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB99 00000063
+```
+
+---
+
+### Gre. Cap 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB9A 00000063
+```
+
+---
+
+### Gre. Cap 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB9B 00000063
+```
+
+---
+
+### Yel. Cap 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB9C 00000063
+```
+
+---
+
+### Yel. Cap 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB9D 00000063
+```
+
+---
+
+### Yel. Cap 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB9E 00000063
+```
+
+---
+
+### Yel. Cap 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BB9F 00000063
+```
+
+---
+
+### Bla. Cap 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBA0 00000063
+```
+
+---
+
+### Bla. Cap 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBA1 00000063
+```
+
+---
+
+### Bla. Cap 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBA2 00000063
+```
+
+---
+
+### Bla. Cap 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBA3 00000063
+```
+
+---
+
+### Whi. Cap 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBA4 00000063
+```
+
+---
+
+### Whi. Cap 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBA5 00000063
+```
+
+---
+
+### Whi. Cap 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBA6 00000063
+```
+
+---
+
+### Whi. Cap 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBA7 00000063
+```
+
+---
+
+### Sil. Cap 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBA8 00000063
+```
+
+---
+
+### Sil. Cap 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBA9 00000063
+```
+
+---
+
+### Sil. Cap 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBAA 00000063
+```
+
+---
+
+### Sil. Cap 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBAB 00000063
+```
+
+---
+
+### Gold Cap 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBAC 00000063
+```
+
+---
+
+### Gold Cap 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBAD 00000063
+```
+
+---
+
+### Gold Cap 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBAE 00000063
+```
+
+---
+
+### Gold Cap 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBAF 00000063
+```
+
+---
+
+### Blue Choker 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBB0 00000063
+```
+
+---
+
+### Blue Choker 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBB1 00000063
+```
+
+---
+
+### Blue Choker 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBB2 00000063
+```
+
+---
+
+### Blue Choker 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBB3 00000063
+```
+
+---
+
+### Red Choker 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBB4 00000063
+```
+
+---
+
+### Red Choker 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBB5 00000063
+```
+
+---
+
+### Red Choker 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBB6 00000063
+```
+
+---
+
+### Red Choker 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBB7 00000063
+```
+
+---
+
+### Gre. Choker 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBB8 00000063
+```
+
+---
+
+### Gre. Choker 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBB9 00000063
+```
+
+---
+
+### Gre. Choker 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBBA 00000063
+```
+
+---
+
+### Gre. Choker 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBBB 00000063
+```
+
+---
+
+### Yel. Choker 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBBC 00000063
+```
+
+---
+
+### Yel. Choker 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBBD 00000063
+```
+
+---
+
+### Yel. Choker 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBBE 00000063
+```
+
+---
+
+### Yel. Choker 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBBF 00000063
+```
+
+---
+
+### Bla. Choker 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBC0 00000063
+```
+
+---
+
+### Bla. Choker 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBC1 00000063
+```
+
+---
+
+### Bla. Choker 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBC2 00000063
+```
+
+---
+
+### Bla. Choker 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBC3 00000063
+```
+
+---
+
+### Whi. Choker 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBC4 00000063
+```
+
+---
+
+### Whi. Choker 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBC5 00000063
+```
+
+---
+
+### Whi. Choker 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBC6 00000063
+```
+
+---
+
+### Whi. Choker 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBC7 00000063
+```
+
+---
+
+### Sil. Choker 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBC8 00000063
+```
+
+---
+
+### Sil. Choker 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBC9 00000063
+```
+
+---
+
+### Sil. Choker 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBCA 00000063
+```
+
+---
+
+### Sil. Choker 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBCB 00000063
+```
+
+---
+
+### Gold Choker 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBCC 00000063
+```
+
+---
+
+### Gold Choker 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBCD 00000063
+```
+
+---
+
+### Gold Choker 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBCE 00000063
+```
+
+---
+
+### Gold Choker 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBCF 00000063
+```
+
+---
+
+### Blue Brooch 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBD0 00000063
+```
+
+---
+
+### Blue Brooch 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBD1 00000063
+```
+
+---
+
+### Blue Brooch 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBD2 00000063
+```
+
+---
+
+### Blue Brooch 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBD3 00000063
+```
+
+---
+
+### Red Brooch 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBD4 00000063
+```
+
+---
+
+### Red Brooch 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBD5 00000063
+```
+
+---
+
+### Red Brooch 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBD6 00000063
+```
+
+---
+
+### Red Brooch 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBD7 00000063
+```
+
+---
+
+### Gre. Brooch 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBD8 00000063
+```
+
+---
+
+### Gre. Brooch 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBD9 00000063
+```
+
+---
+
+### Gre. Brooch 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBDA 00000063
+```
+
+---
+
+### Gre. Brooch 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBDB 00000063
+```
+
+---
+
+### Yel. Brooch 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBDC 00000063
+```
+
+---
+
+### Yel. Brooch 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBDD 00000063
+```
+
+---
+
+### Yel. Brooch 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBDE 00000063
+```
+
+---
+
+### Yel. Brooch 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBDF 00000063
+```
+
+---
+
+### Bla. Brooch 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBE0 00000063
+```
+
+---
+
+### Bla. Brooch 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBE1 00000063
+```
+
+---
+
+### Bla. Brooch 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBE2 00000063
+```
+
+---
+
+### Bla. Brooch 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBE3 00000063
+```
+
+---
+
+### Whi. Brooch 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBE4 00000063
+```
+
+---
+
+### Whi. Brooch 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBE5 00000063
+```
+
+---
+
+### Whi. Brooch 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBE6 00000063
+```
+
+---
+
+### Whi. Brooch 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBE7 00000063
+```
+
+---
+
+### Sil. Brooch 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBE8 00000063
+```
+
+---
+
+### Sil. Brooch 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBE9 00000063
+```
+
+---
+
+### Sil. Brooch 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBEA 00000063
+```
+
+---
+
+### Sil. Brooch 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBEB 00000063
+```
+
+---
+
+### Gold Brooch 1
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBEC 00000063
+```
+
+---
+
+### Gold Brooch 2
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBED 00000063
+```
+
+---
+
+### Gold Brooch 3
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBEE 00000063
+```
+
+---
+
+### Gold Brooch 4
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+0051BBEF 00000063
+```
+
+---
+
+### All Master
+**Author:** Code Master>Skiller  
+**Notes:** [Masters]
+
+```
+4051BB30 00300001
+63636363 00000000
+```
+
+---
+
+### Blue Bangle 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA70 00000063
+```
+
+---
+
+### Blue Bangle 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA71 00000063
+```
+
+---
+
+### Blue Bangle 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA72 00000063
+```
+
+---
+
+### Blue Bangle 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA73 00000063
+```
+
+---
+
+### Red Bangle 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA74 00000063
+```
+
+---
+
+### Red Bangle 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA75 00000063
+```
+
+---
+
+### Red Bangle 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA76 00000063
+```
+
+---
+
+### Red Bangle 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA77 00000063
+```
+
+---
+
+### Gre. Bangle 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA78 00000063
+```
+
+---
+
+### Gre. Bangle 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA79 00000063
+```
+
+---
+
+### Gre. Bangle 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA7A 00000063
+```
+
+---
+
+### Gre. Bangle 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA7B 00000063
+```
+
+---
+
+### Yel. Bangle 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA7C 00000063
+```
+
+---
+
+### Yel. Bangle 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA7D 00000063
+```
+
+---
+
+### Yel. Bangle 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA7E 00000063
+```
+
+---
+
+### Yel. Bangle 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA7F 00000063
+```
+
+---
+
+### Bla. Bangle 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA80 00000063
+```
+
+---
+
+### Bla. Bangle 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA81 00000063
+```
+
+---
+
+### Bla. Bangle 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA82 00000063
+```
+
+---
+
+### Bla. Bangle 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA83 00000063
+```
+
+---
+
+### Whi. Bangle 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA84 00000063
+```
+
+---
+
+### Whi. Bangle 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA85 00000063
+```
+
+---
+
+### Whi. Bangle 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA86 00000063
+```
+
+---
+
+### Whi. Bangle 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA87 00000063
+```
+
+---
+
+### Sil. Bangle 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA88 00000063
+```
+
+---
+
+### Sil. Bangle 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA89 00000063
+```
+
+---
+
+### Sil. Bangle 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA8A 00000063
+```
+
+---
+
+### Sil. Bangle 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA8B 00000063
+```
+
+---
+
+### Gold Bangle 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA8C 00000063
+```
+
+---
+
+### Gold Bangle 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA8D 00000063
+```
+
+---
+
+### Gold Bangle 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA8E 00000063
+```
+
+---
+
+### Gold Bangle 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA8F 00000063
+```
+
+---
+
+### Blue Knuckle 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA90 00000063
+```
+
+---
+
+### Blue Knuckle 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA91 00000063
+```
+
+---
+
+### Blue Knuckle 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA92 00000063
+```
+
+---
+
+### Blue Knuckle 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA93 00000063
+```
+
+---
+
+### Red Knuckle 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA94 00000063
+```
+
+---
+
+### Red Knuckle 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA95 00000063
+```
+
+---
+
+### Red Knuckle 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA96 00000063
+```
+
+---
+
+### Red Knuckle 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA97 00000063
+```
+
+---
+
+### Gre. Knuckle 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA98 00000063
+```
+
+---
+
+### Gre. Knuckle 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA99 00000063
+```
+
+---
+
+### Gre. Knuckle 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA9A 00000063
+```
+
+---
+
+### Gre. Knuckle 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA9B 00000063
+```
+
+---
+
+### Yel. Knuckle 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA9C 00000063
+```
+
+---
+
+### Yel. Knuckle 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA9D 00000063
+```
+
+---
+
+### Yel. Knuckle 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA9E 00000063
+```
+
+---
+
+### Yel. Knuckle 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BA9F 00000063
+```
+
+---
+
+### Bla. Knuckle 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAA0 00000063
+```
+
+---
+
+### Bla. Knuckle 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAA1 00000063
+```
+
+---
+
+### Bla. Knuckle 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAA2 00000063
+```
+
+---
+
+### Bla. Knuckle 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAA3 00000063
+```
+
+---
+
+### Whi. Knuckle 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAA4 00000063
+```
+
+---
+
+### Whi. Knuckle 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAA5 00000063
+```
+
+---
+
+### Whi. Knuckle 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAA6 00000063
+```
+
+---
+
+### Whi. Knuckle 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAA7 00000063
+```
+
+---
+
+### Sil. Knuckle 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAA8 00000063
+```
+
+---
+
+### Sil. Knuckle 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAA9 00000063
+```
+
+---
+
+### Sil. Knuckle 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAAA 00000063
+```
+
+---
+
+### Sil. Knuckle 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAAB 00000063
+```
+
+---
+
+### Gold Knuckle 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAAC 00000063
+```
+
+---
+
+### Gold Knuckle 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAAD 00000063
+```
+
+---
+
+### Gold Knuckle 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAAE 00000063
+```
+
+---
+
+### Gold Knuckle 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAAF 00000063
+```
+
+---
+
+### Blue Sungls. 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAB0 00000063
+```
+
+---
+
+### Blue Sungls. 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAB1 00000063
+```
+
+---
+
+### Blue Sungls. 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAB2 00000063
+```
+
+---
+
+### Blue Sungls. 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAB3 00000063
+```
+
+---
+
+### Red Sungls. 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAB4 00000063
+```
+
+---
+
+### Red Sungls. 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAB5 00000063
+```
+
+---
+
+### Red Sungls. 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAB6 00000063
+```
+
+---
+
+### Red Sungls. 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAB7 00000063
+```
+
+---
+
+### Gre. Sungls. 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAB8 00000063
+```
+
+---
+
+### Gre. Sungls. 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAB9 00000063
+```
+
+---
+
+### Gre. Sungls. 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BABA 00000063
+```
+
+---
+
+### Gre. Sungls. 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BABB 00000063
+```
+
+---
+
+### Yel. Sungls. 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BABC 00000063
+```
+
+---
+
+### Yel. Sungls. 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BABD 00000063
+```
+
+---
+
+### Yel. Sungls. 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BABE 00000063
+```
+
+---
+
+### Yel. Sungls. 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BABF 00000063
+```
+
+---
+
+### Bla. Sungls. 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAC0 00000063
+```
+
+---
+
+### Bla. Sungls. 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAC1 00000063
+```
+
+---
+
+### Bla. Sungls. 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAC2 00000063
+```
+
+---
+
+### Bla. Sungls. 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAC3 00000063
+```
+
+---
+
+### Whi. Sungls. 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAC4 00000063
+```
+
+---
+
+### Whi. Sungls. 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAC5 00000063
+```
+
+---
+
+### Whi. Sungls. 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAC6 00000063
+```
+
+---
+
+### Whi. Sungls. 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAC7 00000063
+```
+
+---
+
+### Sil. Sungls. 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAC8 00000063
+```
+
+---
+
+### Sil. Sungls. 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAC9 00000063
+```
+
+---
+
+### Sil. Sungls. 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BACA 00000063
+```
+
+---
+
+### Sil. Sungls. 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BACB 00000063
+```
+
+---
+
+### Gold Sungls. 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BACC 00000063
+```
+
+---
+
+### Gold Sungls. 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BACD 00000063
+```
+
+---
+
+### Gold Sungls. 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BACE 00000063
+```
+
+---
+
+### Gold Sungls. 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BACF 00000063
+```
+
+---
+
+### Blue Band 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAD0 00000063
+```
+
+---
+
+### Blue Band 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAD1 00000063
+```
+
+---
+
+### Blue Band 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAD2 00000063
+```
+
+---
+
+### Blue Band 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAD3 00000063
+```
+
+---
+
+### Red Band 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAD4 00000063
+```
+
+---
+
+### Red Band 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAD5 00000063
+```
+
+---
+
+### Red Band 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAD6 00000063
+```
+
+---
+
+### Red Band 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAD7 00000063
+```
+
+---
+
+### Gre. Band 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAD8 00000063
+```
+
+---
+
+### Gre. Band 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAD9 00000063
+```
+
+---
+
+### Gre. Band 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BADA 00000063
+```
+
+---
+
+### Gre. Band 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BADB 00000063
+```
+
+---
+
+### Yel. Band 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BADC 00000063
+```
+
+---
+
+### Yel. Band 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BADD 00000063
+```
+
+---
+
+### Yel. Band 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BADE 00000063
+```
+
+---
+
+### Yel. Band 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BADF 00000063
+```
+
+---
+
+### Bla. Band 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAE0 00000063
+```
+
+---
+
+### Bla. Band 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAE1 00000063
+```
+
+---
+
+### Bla. Band 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAE2 00000063
+```
+
+---
+
+### Bla. Band 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAE3 00000063
+```
+
+---
+
+### Whi. Band 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAE4 00000063
+```
+
+---
+
+### Whi. Band 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAE5 00000063
+```
+
+---
+
+### Whi. Band 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAE6 00000063
+```
+
+---
+
+### Whi. Band 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAE7 00000063
+```
+
+---
+
+### Sil. Band 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAE8 00000063
+```
+
+---
+
+### Sil. Band 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAE9 00000063
+```
+
+---
+
+### Sil. Band 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAEA 00000063
+```
+
+---
+
+### Sil. Band 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAEB 00000063
+```
+
+---
+
+### Gold Band 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAEC 00000063
+```
+
+---
+
+### Gold Band 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAED 00000063
+```
+
+---
+
+### Gold Band 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAEE 00000063
+```
+
+---
+
+### Gold Band 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAEF 00000063
+```
+
+---
+
+### Blue Scarf 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAF0 00000063
+```
+
+---
+
+### Blue Scarf 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAF1 00000063
+```
+
+---
+
+### Blue Scarf 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAF2 00000063
+```
+
+---
+
+### Blue Scarf 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAF3 00000063
+```
+
+---
+
+### Red Scarf 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAF4 00000063
+```
+
+---
+
+### Red Scarf 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAF5 00000063
+```
+
+---
+
+### Red Scarf 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAF6 00000063
+```
+
+---
+
+### Red Scarf 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAF7 00000063
+```
+
+---
+
+### Gre. Scarf 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAF8 00000063
+```
+
+---
+
+### Gre. Scarf 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAF9 00000063
+```
+
+---
+
+### Gre. Scarf 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAFA 00000063
+```
+
+---
+
+### Gre. Scarf 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAFB 00000063
+```
+
+---
+
+### Yel. Scarf 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAFC 00000063
+```
+
+---
+
+### Yel. Scarf 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAFD 00000063
+```
+
+---
+
+### Yel. Scarf 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAFE 00000063
+```
+
+---
+
+### Yel. Scarf 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BAFF 00000063
+```
+
+---
+
+### Bla. Scarf 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB00 00000063
+```
+
+---
+
+### Bla. Scarf 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB01 00000063
+```
+
+---
+
+### Bla. Scarf 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB02 00000063
+```
+
+---
+
+### Bla. Scarf 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB03 00000063
+```
+
+---
+
+### Whi. Scarf 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB04 00000063
+```
+
+---
+
+### Whi. Scarf 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB05 00000063
+```
+
+---
+
+### Whi. Scarf 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB06 00000063
+```
+
+---
+
+### Whi. Scarf 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB07 00000063
+```
+
+---
+
+### Sil. Scarf 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB08 00000063
+```
+
+---
+
+### Sil. Scarf 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB09 00000063
+```
+
+---
+
+### Sil. Scarf 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB0A 00000063
+```
+
+---
+
+### Sil. Scarf 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB0B 00000063
+```
+
+---
+
+### Gold Scarf 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB0C 00000063
+```
+
+---
+
+### Gold Scarf 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB0D 00000063
+```
+
+---
+
+### Gold Scarf 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB0E 00000063
+```
+
+---
+
+### Gold Scarf 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB0F 00000063
+```
+
+---
+
+### Blue Bell 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB10 00000063
+```
+
+---
+
+### Blue Bell 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB11 00000063
+```
+
+---
+
+### Blue Bell 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB12 00000063
+```
+
+---
+
+### Blue Bell 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB13 00000063
+```
+
+---
+
+### Red Bell 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB14 00000063
+```
+
+---
+
+### Red Bell 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB15 00000063
+```
+
+---
+
+### Red Bell 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB16 00000063
+```
+
+---
+
+### Red Bell 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB17 00000063
+```
+
+---
+
+### Gre. Bell 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB18 00000063
+```
+
+---
+
+### Gre. Bell 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB19 00000063
+```
+
+---
+
+### Gre. Bell 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB1A 00000063
+```
+
+---
+
+### Gre. Bell 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB1B 00000063
+```
+
+---
+
+### Yel. Bell 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB1C 00000063
+```
+
+---
+
+### Yel. Bell 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB1D 00000063
+```
+
+---
+
+### Yel. Bell 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB1E 00000063
+```
+
+---
+
+### Yel. Bell 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB1F 00000063
+```
+
+---
+
+### Bla. Bell 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB20 00000063
+```
+
+---
+
+### Bla. Bell 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB21 00000063
+```
+
+---
+
+### Bla. Bell 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB22 00000063
+```
+
+---
+
+### Bla. Bell 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB23 00000063
+```
+
+---
+
+### Whi. Bell 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB24 00000063
+```
+
+---
+
+### Whi. Bell 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB25 00000063
+```
+
+---
+
+### Whi. Bell 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB26 00000063
+```
+
+---
+
+### Whi. Bell 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB27 00000063
+```
+
+---
+
+### Sil. Bell 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB28 00000063
+```
+
+---
+
+### Sil. Bell 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB29 00000063
+```
+
+---
+
+### Sil. Bell 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB2A 00000063
+```
+
+---
+
+### Sil. Bell 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB2B 00000063
+```
+
+---
+
+### Gold Bell 1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB2C 00000063
+```
+
+---
+
+### Gold Bell 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB2D 00000063
+```
+
+---
+
+### Gold Bell 3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB2E 00000063
+```
+
+---
+
+### Gold Bell 4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+0051BB2F 00000063
+```
+
+---
+
+### All Middle
+**Author:** Code Master>Skiller  
+**Notes:** [Max Equipment-Middle Codes]
+
+```
+4051BA70 00300001
+63636363 00000000
+```
+
+---
+
+### Juggling Kit
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Effect Kit Codes]
+
+```
+0051B896 00000063
+```
+
+---
+
+### Swing Kit
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Effect Kit Codes]
+
+```
+0051B897 00000063
+```
+
+---
+
+### Box Kit
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Effect Kit Codes]
+
+```
+0051B898 00000063
+```
+
+---
+
+### Baku Kit
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Effect Kit Codes]
+
+```
+0051B899 00000063
+```
+
+---
+
+### Balance Kit
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Effect Kit Codes]
+
+```
+0051B89A 00000063
+```
+
+---
+
+### Cannon Kit
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Effect Kit Codes]
+
+```
+0051B89B 00000063
+```
+
+---
+
+### Drum Kit
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Effect Kit Codes]
+
+```
+0051B89C 00000063
+```
+
+---
+
+### Wheel Kit
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Effect Kit Codes]
+
+```
+0051B89D 00000063
+```
+
+---
+
+### Trampo. Kit
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Effect Kit Codes]
+
+```
+0051B89E 00000063
+```
+
+---
+
+### Knife Kit
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Effect Kit Codes]
+
+```
+0051B89F 00000063
+```
+
+---
+
+### Plate Kit
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Effect Kit Codes]
+
+```
+0051B8A0 00000063
+```
+
+---
+
+### Prop. Kit
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Effect Kit Codes]
+
+```
+0051B8A1 00000063
+```
+
+---
+
+### Sword Kit
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Effect Kit Codes]
+
+```
+0051B8A2 00000063
+```
+
+---
+
+### Coropen Kit
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Effect Kit Codes]
+
+```
+0051B8A3 00000063
+```
+
+---
+
+### Water Kit
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Effect Kit Codes]
+
+```
+0051B8A4 00000063
+```
+
+---
+
+### Bamboo Kit
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Effect Kit Codes]
+
+```
+0051B8A5 00000063
+```
+
+---
+
+### Pipe Kit
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Effect Kit Codes]
+
+```
+0051B8A6 00000063
+```
+
+---
+
+### Bell Kit
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Effect Kit Codes]
+
+```
+0051B8A7 00000063
+```
+
+---
+
+### Barrel Kit
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Effect Kit Codes]
+
+```
+0051B8A8 00000063
+```
+
+---
+
+### Gyro Kit
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Effect Kit Codes]
+
+```
+0051B8A9 00000063
+```
+
+---
+
+### All Gadget Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Effect Kit Codes]
+
+```
+1051B896 00006363
+4051B898 00040001
+63636363 00000000
+1051B8A8 00006363
+```
+
+---
+
+### Pow. Tank S
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8CA 00000063
+```
+
+---
+
+### Pow. Tank M
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8CB 00000063
+```
+
+---
+
+### Pow. Tank L
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8CC 00000063
+```
+
+---
+
+### Int. Tank S
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8CD 00000063
+```
+
+---
+
+### Int. Tank M
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8CE 00000063
+```
+
+---
+
+### Int. Tank L
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8CF 00000063
+```
+
+---
+
+### Def. Tank S
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8D0 00000063
+```
+
+---
+
+### Def. Tank M
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8D1 00000063
+```
+
+---
+
+### Def. Tank L
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8D2 00000063
+```
+
+---
+
+### Lif. Tank S
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8D3 00000063
+```
+
+---
+
+### Lif. Tank M
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8D4 00000063
+```
+
+---
+
+### Lif. Tank L
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8D5 00000063
+```
+
+---
+
+### Acc. Tank S
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8D6 00000063
+```
+
+---
+
+### Acc. Tank M
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8D7 00000063
+```
+
+---
+
+### Acc. Tank L
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8D8 00000063
+```
+
+---
+
+### Spd. Tank S
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8D9 00000063
+```
+
+---
+
+### Spd. Tank M
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8DA 00000063
+```
+
+---
+
+### Spd. Tank L
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8DB 00000063
+```
+
+---
+
+### Might Tank S
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8DC 00000063
+```
+
+---
+
+### Might Tank M
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8DD 00000063
+```
+
+---
+
+### Might Tank L
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8DE 00000063
+```
+
+---
+
+### Tech. Tank S
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8DF 00000063
+```
+
+---
+
+### Tech. Tank M
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8E0 00000063
+```
+
+---
+
+### Tech. Tank L
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8E1 00000063
+```
+
+---
+
+### Mach Tank S
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8E2 00000063
+```
+
+---
+
+### Mach Tank M
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8E3 00000063
+```
+
+---
+
+### Mach Tank L
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8E4 00000063
+```
+
+---
+
+### Champ Tank S
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8E5 00000063
+```
+
+---
+
+### Champ Tank M
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8E6 00000063
+```
+
+---
+
+### Champ Tank L
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8E7 00000063
+```
+
+---
+
+### Genius Tank S
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8E8 00000063
+```
+
+---
+
+### Genius Tank M
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8E9 00000063
+```
+
+---
+
+### Genius Tank L
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+0051B8EA 00000063
+```
+
+---
+
+### All Geonyte Tanks
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Geonyte Tank Codes]
+
+```
+1051B8CA 00006363
+4051B8CC 00070001
+63636363 00000000
+1051B8E8 00006363
+0051B8EA 00000063
+```
+
+---
+
+### Strobe Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8AA 00000063
+```
+
+---
+
+### Strobe P. 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8AB 00000063
+```
+
+---
+
+### Beam Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8AC 00000063
+```
+
+---
+
+### Beam Parts 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8AD 00000063
+```
+
+---
+
+### Laser Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8AE 00000063
+```
+
+---
+
+### Laser P. 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8AF 00000063
+```
+
+---
+
+### Light Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8B0 00000063
+```
+
+---
+
+### Light P. 2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8B1 00000063
+```
+
+---
+
+### Shake Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8B2 00000063
+```
+
+---
+
+### Ball Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8B3 00000063
+```
+
+---
+
+### Photo Light P.
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8B4 00000063
+```
+
+---
+
+### Flare Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8B5 00000063
+```
+
+---
+
+### Dyna Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8B6 00000063
+```
+
+---
+
+### Perm Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8B7 00000063
+```
+
+---
+
+### Star Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8B8 00000063
+```
+
+---
+
+### Globe Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8B9 00000063
+```
+
+---
+
+### Ice Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8BA 00000063
+```
+
+---
+
+### Smoke Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8BB 00000063
+```
+
+---
+
+### Bomb Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8BC 00000063
+```
+
+---
+
+### Pupl Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8BD 00000063
+```
+
+---
+
+### Flower Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8BE 00000063
+```
+
+---
+
+### Rose Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8BF 00000063
+```
+
+---
+
+### Snow Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8C0 00000063
+```
+
+---
+
+### Dryad Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8C1 00000063
+```
+
+---
+
+### Sound Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8C2 00000063
+```
+
+---
+
+### Soap Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8C3 00000063
+```
+
+---
+
+### Balloon P.
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8C4 00000063
+```
+
+---
+
+### Whisp Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8C5 00000063
+```
+
+---
+
+### Bubble Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8C6 00000063
+```
+
+---
+
+### Wind Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8C7 00000063
+```
+
+---
+
+### Ring Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8C8 00000063
+```
+
+---
+
+### Tornado P.
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+0051B8C9 00000063
+```
+
+---
+
+### All Props
+**Author:** Code Master>Skiller  
+**Notes:** [Max Gadget Parts-Prop Codes]
+
+```
+1051B8AA 00006363
+4051B8AC 00070001
+63636363 00000000
+1051B8C8 00006363
+```
+
+---
+
+### Flower Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B832 00000063
+```
+
+---
+
+### Flower Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B833 00000063
+```
+
+---
+
+### Flower Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B834 00000063
+```
+
+---
+
+### Flower Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B835 00000063
+```
+
+---
+
+### Nut Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B836 00000063
+```
+
+---
+
+### Nut Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B837 00000063
+```
+
+---
+
+### Nut Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B838 00000063
+```
+
+---
+
+### Nut Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B839 00000063
+```
+
+---
+
+### Branch Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B83A 00000063
+```
+
+---
+
+### Branch Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B83B 00000063
+```
+
+---
+
+### Branch Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B83C 00000063
+```
+
+---
+
+### Branch Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B83D 00000063
+```
+
+---
+
+### Meat Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B83E 00000063
+```
+
+---
+
+### Meat Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B83F 00000063
+```
+
+---
+
+### Meat Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B840 00000063
+```
+
+---
+
+### Meat Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B841 00000063
+```
+
+---
+
+### Fish Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B842 00000063
+```
+
+---
+
+### Fish Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B843 00000063
+```
+
+---
+
+### Fish Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B844 00000063
+```
+
+---
+
+### Fish Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B845 00000063
+```
+
+---
+
+### Fruit Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B846 00000063
+```
+
+---
+
+### Fruit Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B847 00000063
+```
+
+---
+
+### Fruit Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B848 00000063
+```
+
+---
+
+### Fruit Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B849 00000063
+```
+
+---
+
+### Clam Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B84A 00000063
+```
+
+---
+
+### Clam Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B84B 00000063
+```
+
+---
+
+### Clam Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B84C 00000063
+```
+
+---
+
+### Clam Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B84D 00000063
+```
+
+---
+
+### Fossil Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B84E 00000063
+```
+
+---
+
+### Fossil Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B84F 00000063
+```
+
+---
+
+### Fossil Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B850 00000063
+```
+
+---
+
+### Fossil Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B851 00000063
+```
+
+---
+
+### Feather Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B852 00000063
+```
+
+---
+
+### Feather Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B853 00000063
+```
+
+---
+
+### Feather Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B854 00000063
+```
+
+---
+
+### Feather Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B855 00000063
+```
+
+---
+
+### Horn Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B856 00000063
+```
+
+---
+
+### Horn Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B857 00000063
+```
+
+---
+
+### Horn Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B858 00000063
+```
+
+---
+
+### Horn Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B859 00000063
+```
+
+---
+
+### Fur Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B85A 00000063
+```
+
+---
+
+### Fur Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B85B 00000063
+```
+
+---
+
+### Fur Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B85C 00000063
+```
+
+---
+
+### Fur Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B85D 00000063
+```
+
+---
+
+### Insect Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B85E 00000063
+```
+
+---
+
+### Insect Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B85F 00000063
+```
+
+---
+
+### Insect Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B860 00000063
+```
+
+---
+
+### Insect Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B861 00000063
+```
+
+---
+
+### Water Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B862 00000063
+```
+
+---
+
+### Water Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B863 00000063
+```
+
+---
+
+### Water Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B864 00000063
+```
+
+---
+
+### Water Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B865 00000063
+```
+
+---
+
+### Liquid Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B866 00000063
+```
+
+---
+
+### Liquid Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B867 00000063
+```
+
+---
+
+### Liquid Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B868 00000063
+```
+
+---
+
+### Liquid Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B869 00000063
+```
+
+---
+
+### Gas Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B86A 00000063
+```
+
+---
+
+### Gas Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B86B 00000063
+```
+
+---
+
+### Gas Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B86C 00000063
+```
+
+---
+
+### Gas Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B86D 00000063
+```
+
+---
+
+### Clay Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B86E 00000063
+```
+
+---
+
+### Clay Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B86F 00000063
+```
+
+---
+
+### Clay Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B870 00000063
+```
+
+---
+
+### Clay Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B871 00000063
+```
+
+---
+
+### Stone Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B872 00000063
+```
+
+---
+
+### Stone Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B873 00000063
+```
+
+---
+
+### Stone Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B874 00000063
+```
+
+---
+
+### Stone Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B875 00000063
+```
+
+---
+
+### Ore Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B876 00000063
+```
+
+---
+
+### Ore Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B877 00000063
+```
+
+---
+
+### Ore Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B878 00000063
+```
+
+---
+
+### Ore Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B879 00000063
+```
+
+---
+
+### Gem Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B87A 00000063
+```
+
+---
+
+### Gem Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B87B 00000063
+```
+
+---
+
+### Gem Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B87C 00000063
+```
+
+---
+
+### Gem Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B87D 00000063
+```
+
+---
+
+### Orb Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B87E 00000063
+```
+
+---
+
+### Orb Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B87F 00000063
+```
+
+---
+
+### Orb Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B880 00000063
+```
+
+---
+
+### Orb Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B881 00000063
+```
+
+---
+
+### Spirit Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B882 00000063
+```
+
+---
+
+### Spirit Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B883 00000063
+```
+
+---
+
+### Spirit Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B884 00000063
+```
+
+---
+
+### Spirit Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B885 00000063
+```
+
+---
+
+### Tablet Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B886 00000063
+```
+
+---
+
+### Tablet Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B887 00000063
+```
+
+---
+
+### Tablet Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B888 00000063
+```
+
+---
+
+### Tablet Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B889 00000063
+```
+
+---
+
+### Metal Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B88A 00000063
+```
+
+---
+
+### Metal Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B88B 00000063
+```
+
+---
+
+### Metal Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B88C 00000063
+```
+
+---
+
+### Metal Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B88D 00000063
+```
+
+---
+
+### Element Lv-1
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B88E 00000063
+```
+
+---
+
+### Element Lv-2
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B88F 00000063
+```
+
+---
+
+### Element Lv-3
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B890 00000063
+```
+
+---
+
+### Element Lv-4
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B891 00000063
+```
+
+---
+
+### Anc. Relic S
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B892 00000063
+```
+
+---
+
+### Anc. Relic M
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B893 00000063
+```
+
+---
+
+### Anc. Relic L
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B894 00000063
+```
+
+---
+
+### Anc. Relic Sp
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+0051B895 00000063
+```
+
+---
+
+### All Materials
+**Author:** Code Master>Skiller  
+**Notes:** [Max Material Level Codes]
+
+```
+1051B832 00006363
+4051B834 00180001
+63636363 00000000
+1051B894 00006363
+```
+
+---
+
+### Bromide 01
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B97B 00000063
+```
+
+---
+
+### Bromide 02
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B97C 00000063
+```
+
+---
+
+### Bromide 03
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B97D 00000063
+```
+
+---
+
+### Bromide 04
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B97E 00000063
+```
+
+---
+
+### Bromide 05
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B97F 00000063
+```
+
+---
+
+### Bromide 06
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B980 00000063
+```
+
+---
+
+### Bromide 07
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B981 00000063
+```
+
+---
+
+### Bromide 08
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B982 00000063
+```
+
+---
+
+### Bromide 09
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B983 00000063
+```
+
+---
+
+### Bromide 10
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B984 00000063
+```
+
+---
+
+### Bromide 11
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B985 00000063
+```
+
+---
+
+### Bromide 12
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B986 00000063
+```
+
+---
+
+### Bromide 13
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B987 00000063
+```
+
+---
+
+### Bromide 14
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B988 00000063
+```
+
+---
+
+### Bromide 15
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B989 00000063
+```
+
+---
+
+### Bromide 16
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B98A 00000063
+```
+
+---
+
+### Bromide 17
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B98B 00000063
+```
+
+---
+
+### Bromide 18
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B98C 00000063
+```
+
+---
+
+### Bromide 19
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B98D 00000063
+```
+
+---
+
+### Bromide 20
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B98E 00000063
+```
+
+---
+
+### Bromide 21
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B98F 00000063
+```
+
+---
+
+### Bromide 22
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B990 00000063
+```
+
+---
+
+### Bromide 23
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B991 00000063
+```
+
+---
+
+### Bromide 24
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B992 00000063
+```
+
+---
+
+### Bromide 25
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B993 00000063
+```
+
+---
+
+### Bromide 26
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B994 00000063
+```
+
+---
+
+### Bromide 27
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B995 00000063
+```
+
+---
+
+### Bromide 28
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B996 00000063
+```
+
+---
+
+### Bromide 29
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B997 00000063
+```
+
+---
+
+### Bromide 30
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B998 00000063
+```
+
+---
+
+### Bromide 31
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B999 00000063
+```
+
+---
+
+### Bromide 32
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B99A 00000063
+```
+
+---
+
+### Bromide 33
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B99B 00000063
+```
+
+---
+
+### Bromide 34
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B99C 00000063
+```
+
+---
+
+### Bromide 35
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B99D 00000063
+```
+
+---
+
+### Bromide 36
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B99E 00000063
+```
+
+---
+
+### Bromide 37
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B99F 00000063
+```
+
+---
+
+### Bromide 38
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B9A0 00000063
+```
+
+---
+
+### Bromide 39
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B9A1 00000063
+```
+
+---
+
+### Bromide 40
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B9A2 00000063
+```
+
+---
+
+### Bromide 41
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B9A3 00000063
+```
+
+---
+
+### Bromide 42
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B9A4 00000063
+```
+
+---
+
+### Bromide 43
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B9A5 00000063
+```
+
+---
+
+### Bromide 44
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B9A6 00000063
+```
+
+---
+
+### Bromide 45
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B9A7 00000063
+```
+
+---
+
+### Bromide 46
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B9A8 00000063
+```
+
+---
+
+### Bromide 47
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B9A9 00000063
+```
+
+---
+
+### Bromide 48
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B9AA 00000063
+```
+
+---
+
+### Bromide 49
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B9AB 00000063
+```
+
+---
+
+### Bromide 50
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B9AC 00000063
+```
+
+---
+
+### Bromide 51
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B9AD 00000063
+```
+
+---
+
+### Bromide 52
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B9AE 00000063
+```
+
+---
+
+### Bromide 53
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B9AF 00000063
+```
+
+---
+
+### All Collection
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Collection Codes]
+
+```
+0051B97B 00000063
+4051B97C 000D0001
+63636363 00000000
+```
+
+---
+
+### Crystal Petal
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Event Codes]
+
+```
+0051BCD7 00000063
+```
+
+---
+
+### Hengar Parts
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Event Codes]
+
+```
+0051BCD8 00000063
+```
+
+---
+
+### Certificate
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Event Codes]
+
+```
+0051BCD9 00000063
+```
+
+---
+
+### Mask Fragment
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Event Codes]
+
+```
+0051BCDA 00000063
+```
+
+---
+
+### Red Feather
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Event Codes]
+
+```
+0051BCDB 00000063
+```
+
+---
+
+### Blue Feather
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Event Codes]
+
+```
+0051BCDC 00000063
+```
+
+---
+
+### Yellow F.
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Event Codes]
+
+```
+0051BCDD 00000063
+```
+
+---
+
+### Red Bell
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Event Codes]
+
+```
+0051BCDE 00000063
+```
+
+---
+
+### Blue Bell
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Event Codes]
+
+```
+0051BCDF 00000063
+```
+
+---
+
+### Yellow Bell
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Event Codes]
+
+```
+0051BCE0 00000063
+```
+
+---
+
+### Gaia Stone
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Event Codes]
+
+```
+0051BCE1 00000063
+```
+
+---
+
+### Corridor Key
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Event Codes]
+
+```
+0051BCE2 00000063
+```
+
+---
+
+### All Events
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Event Codes]
+
+```
+0051BCD7 00000063
+2051BCD8 63636363
+2051BCDC 63636363
+1051BCE0 00006363
+0051BCE2 00000063
+```
+
+---
+
+### Stone Pot
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Guild Codes]
+
+```
+0051BCD0 00000063
+```
+
+---
+
+### Ultra Geonyte
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Guild Codes]
+
+```
+0051BCD1 00000063
+```
+
+---
+
+### Old Mirror
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Guild Codes]
+
+```
+0051BCD2 00000063
+```
+
+---
+
+### Desert Bread
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Guild Codes]
+
+```
+0051BCD3 00000063
+```
+
+---
+
+### Scorpion Orb
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Guild Codes]
+
+```
+0051BCD4 00000063
+```
+
+---
+
+### Maomao Honey
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Guild Codes]
+
+```
+0051BCD5 00000063
+```
+
+---
+
+### Mercury Drop
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Guild Codes]
+
+```
+0051BCD6 00000063
+```
+
+---
+
+### All Guild
+**Author:** Code Master>Skiller  
+**Notes:** [Max Valuable-Guild Codes]
+
+```
+2051BCD0 63636363
+1051BCD4 00006363
+0051BCD6 00000063
+```
+
+---
+
+### Infinite Gold
+**Author:** Code Master>Skiller  
+**Notes:** [Misc. Codes]
+
+```
+1051B360 0000FFFF
+```
+
+---
+
+### Max Gold
+**Author:** Code Master>Skiller  
+**Notes:** [Misc. Codes]
+
+```
+2051B360 05F5E0FF
+```
+
+---
+
+### Have All Property
+**Author:** Code Master>Skiller  
+**Notes:** [Misc. Codes]
+
+```
+1051B832 00006363
+4051B834 01F30001
+63636363 00000000
+1051C000 00006363
+```
+
+---
+
+### Have All Book
+**Author:** Code Master>Skiller  
+**Notes:** [Misc. Codes]
+
+```
+4051C668 00080001
+FFFFFFFF 00000000
+```
+
+---
+
+### Week Modifier
+**Author:** Code Master>Skiller  
+**Notes:** [Misc. Codes]
+
+```
+0051B120 000000??
+```
+
+---
+
+### January
+**Author:** Code Master>Skiller  
+**Notes:** [Month Modifier Codes]
+
+```
+0051B11C 00000001
+```
+
+---
+
+### February
+**Author:** Code Master>Skiller  
+**Notes:** [Month Modifier Codes]
+
+```
+0051B11C 00000002
+```
+
+---
+
+### March
+**Author:** Code Master>Skiller  
+**Notes:** [Month Modifier Codes]
+
+```
+0051B11C 00000003
+```
+
+---
+
+### April
+**Author:** Code Master>Skiller  
+**Notes:** [Month Modifier Codes]
+
+```
+0051B11C 00000004
+```
+
+---
+
+### May
+**Author:** Code Master>Skiller  
+**Notes:** [Month Modifier Codes]
+
+```
+0051B11C 00000005
+```
+
+---
+
+### June
+**Author:** Code Master>Skiller  
+**Notes:** [Month Modifier Codes]
+
+```
+0051B11C 00000006
+```
+
+---
+
+### July
+**Author:** Code Master>Skiller  
+**Notes:** [Month Modifier Codes]
+
+```
+0051B11C 00000007
+```
+
+---
+
+### August
+**Author:** Code Master>Skiller  
+**Notes:** [Month Modifier Codes]
+
+```
+0051B11C 00000008
+```
+
+---
+
+### September
+**Author:** Code Master>Skiller  
+**Notes:** [Month Modifier Codes]
+
+```
+0051B11C 00000009
+```
+
+---
+
+### October
+**Author:** Code Master>Skiller  
+**Notes:** [Month Modifier Codes]
+
+```
+0051B11C 0000000A
+```
+
+---
+
+### November
+**Author:** Code Master>Skiller  
+**Notes:** [Month Modifier Codes]
+
+```
+0051B11C 0000000B
+```
+
+---
+
+### December
+**Author:** Code Master>Skiller  
+**Notes:** [Month Modifier Codes]
+
+```
+0051B11C 0000000C
+```
+
+---
+
+### Main Monster Modifier
+**Author:** Code Master>Skiller  
+**Notes:** [Monster 1 Codes]
+
+```
+0051C7E9 000000??
+```
+
+---
+
+### Sub Monster Modifier
+**Author:** Code Master>Skiller  
+**Notes:** [Monster 1 Codes]
+
+```
+0051C7EA 000000??
+```
+
+---
+
+### Max Bonding
+**Author:** Code Master>Skiller  
+**Notes:** [Monster 1 Codes]
+
+```
+1051C800 00006464
+```
+
+---
+
+### Never Tired
+**Author:** Code Master>Skiller  
+**Notes:** [Monster 1 Codes]
+
+```
+0051C802 00000000
+```
+
+---
+
+### Max Pow
+**Author:** Code Master>Skiller  
+**Notes:** [Monster 1 Codes]
+
+```
+1051C80E 0000270F
+```
+
+---
+
+### Max Int
+**Author:** Code Master>Skiller  
+**Notes:** [Monster 1 Codes]
+
+```
+1051C810 0000270F
+```
+
+---
+
+### Max Spd
+**Author:** Code Master>Skiller  
+**Notes:** [Monster 1 Codes]
+
+```
+1051C812 0000270F
+```
+
+---
+
+### Max Acc
+**Author:** Code Master>Skiller  
+**Notes:** [Monster 1 Codes]
+
+```
+1051C814 0000270F
+```
+
+---
+
+### Max Def
+**Author:** Code Master>Skiller  
+**Notes:** [Monster 1 Codes]
+
+```
+1051C816 0000270F
+```
+
+---
+
+### Max Life
+**Author:** Code Master>Skiller  
+**Notes:** [Monster 1 Codes]
+
+```
+1051C818 0000270F
+```
+
+---
+
+### Max AP
+**Author:** Code Master>Skiller  
+**Notes:** [Monster 1 Codes]
+
+```
+2051C8AC 0000270F
+```
+
+---
+
+### Trait 1
+**Author:** Code Master>Skiller  
+**Notes:** [Trait Modifier Codes]
+
+```
+0051C8D4 000000??
+```
+
+---
+
+### Trait 2
+**Author:** Code Master>Skiller  
+**Notes:** [Trait Modifier Codes]
+
+```
+0051C8D5 000000??
+```
+
+---
+
+### Trait 3
+**Author:** Code Master>Skiller  
+**Notes:** [Trait Modifier Codes]
+
+```
+0051C8D6 000000??
+```
+
+---
+
+### Trait 4
+**Author:** Code Master>Skiller  
+**Notes:** [Trait Modifier Codes]
+
+```
+0051C8D7 000000??
+```
+
+---
+
+### Trait 5
+**Author:** Code Master>Skiller  
+**Notes:** [Trait Modifier Codes]
+
+```
+0051C8D8 000000??
+```
+
+---
+
+### Trait 6
+**Author:** Code Master>Skiller  
+**Notes:** [Trait Modifier Codes]
+
+```
+0051C8D9 000000??
+```
+
+---
+
+### Maxlife
+**Author:** Code Master>Skiller  
+**Notes:** [Monster 5 Codes]
+
+```
+1051CFA8 0000270F
+```
+
+---

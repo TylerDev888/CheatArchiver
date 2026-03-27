@@ -1,0 +1,24 @@
+# Over The Monochrome Rainbow Featuring Shogo Hamada cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65271
+
+game: "Over The Monochrome Rainbow Featuring Shogo Hamada"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65271"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010FAF8 0C043E66"
+
+  - name: "Press L3 + R3 At Main Menu For Debug Menu"
+    author: "punk7890"
+    codes:
+      - "D03AF3B2 0000FFF9"
+      - "20396440 00000000"

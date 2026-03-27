@@ -1,0 +1,4457 @@
+# Soul Calibur III cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21216
+
+game: "Soul Calibur III"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21216"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0422080 00422083"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "90422238 00832021"
+
+  - name: "Master Code"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "90130A4C 0C108884"
+
+  - name: "Hyper Mode/Quick Game (Both Players)"
+    author: "Codejunkies"
+    notes: "[Game Speed Codes]"
+    codes:
+      - "201E53C0 3C013FC0"
+      - "201E53B0 3C013FC0"
+      - "201E538C 3C013FC0"
+      - "201E532C 3C013FC0"
+
+  - name: "Hyper Mode/Quick Player 1 Only"
+    author: "Codejunkies"
+    notes: "[Game Speed Codes]"
+    codes:
+      - "200FFD00 3C013FC0"
+      - "200FFD04 3C04004B"
+      - "200FFD08 AC815F50"
+      - "200FFD18 0260202D"
+      - "200FFD1C 0806CDD1"
+      - "201B3740 0803FF40"
+
+  - name: "Slow Motion Player 2 Only"
+    author: "Codejunkies"
+    notes: "[Game Speed Codes]"
+    codes:
+      - "200FFD0C 3C013E80"
+      - "200FFD10 3C04004D"
+      - "200FFD14 AC8136D0"
+      - "200FFD18 0260202D"
+      - "200FFD1C 0806CDD1"
+      - "201B3740 0803FF40"
+
+  - name: "1 Round Fights"
+    author: "BigBossman"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "004B5EFD 00000001"
+
+  - name: "1-Hit Death P1"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04B5F26 00004370"
+      - "204B5F24 3F800000"
+
+  - name: "1-Hit Death P2"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04D36A6 00004370"
+      - "204D36A4 3F800000"
+
+  - name: "25% Health P1"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04B5F26 00004370"
+      - "204B5F24 42700000"
+
+  - name: "25% Health P2"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04D36A6 00004370"
+      - "204D36A4 42700000"
+
+  - name: "50% Health P1"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04B5F26 00004370"
+      - "204B5F24 42F00000"
+
+  - name: "50% Health P2"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04D36A6 00004370"
+      - "204D36A4 42F00000"
+
+  - name: "75% Health P1"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04B5F26 00004370"
+      - "204B5F24 43340000"
+
+  - name: "75% Health P2"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04D36A6 00004370"
+      - "204D36A4 43340000"
+
+  - name: "Hit Anywhere"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "201D89E8 00000000"
+
+  - name: "Hit Anywhere P1/P2 Can't Hit P1"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "201D89E4 32250080"
+      - "201D89E8 10A00064"
+
+  - name: "Hit Anywhere P2/P1 Can't Hit P2"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "201D89E4 32250080"
+      - "201D89E8 14A00064"
+
+  - name: "Infinite Health P1"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "204B5F24 43700000"
+
+  - name: "Infinite Health P2"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "204D36A4 43700000"
+
+  - name: "Infinite Time"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "204ED754 00000063"
+
+  - name: "No Health P1"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "204B5F24 00000000"
+
+  - name: "No Health P2"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "204D36A4 00000000"
+
+  - name: "P1 Never Wins"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "104B5EFC 00000000"
+
+  - name: "P1 Starts With 1 Match Win"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04B5EFC 00000000"
+      - "104B5EFC 00000001"
+
+  - name: "P1 Starts With 2 Match Wins"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04B5EFC 00000000"
+      - "104B5EFC 00000002"
+
+  - name: "P2 Never Wins"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "104D367C 00000000"
+
+  - name: "P2 Starts With 1 Match Win"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04D367C 00000000"
+      - "104D367C 00000001"
+
+  - name: "P2 Starts With 2 Match Wins"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D04D367C 00000000"
+      - "104D367C 00000002"
+
+  - name: "Player 1 Can Drain All Of Player 2'S Health (Press Select)"
+    author: "BigBossman"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D046DBA2 0000FFFE"
+      - "004D368C 00000001"
+
+  - name: "Player 1 Can Force Player 2 To Do Their Game Over Pose (Press L3)"
+    author: "BigBossman"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D046DBA2 0000FFFD"
+      - "004D368D 00000001"
+
+  - name: "Player 1 Can Revive Player 2 From Their Game Over Pose (Press R3)"
+    author: "BigBossman"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D046DBA2 0000FFFB"
+      - "004D368D 00000000"
+
+  - name: "Player 1 Has No Health (Alternate)"
+    author: "BigBossman"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "004B5F2B 00000001"
+
+  - name: "Player 1 Starts With 50% Health (Alternate)"
+    author: "BigBossman"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "004B5F1E 00000001"
+
+  - name: "Player 2 Can Drain All Of Player 1'S Health (Press Select)"
+    author: "BigBossman"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D046DC72 0000FFFB"
+      - "004B5F0C 00000001"
+
+  - name: "Player 2 Can Force Player 1 To Do Their Game Over Pose (Press L3)"
+    author: "BigBossman"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D046DC72 0000FFFD"
+      - "004B5F0D 00000001"
+
+  - name: "Player 2 Can Revive Player 1 From Their Game Over Pose (Press R3)"
+    author: "BigBossman"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D046DC72 0000FFFB"
+      - "004B5F0D 00000000"
+
+  - name: "Player 2 Has No Health (Alternate)"
+    author: "BigBossman"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "004D36AB 00000001"
+
+  - name: "Player 2 Starts With 50% Health (Alternate)"
+    author: "BigBossman"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "004D369E 00000001"
+
+  - name: "Unlock All Armor"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "405043B8 00860001"
+      - "66666666 00000000"
+
+  - name: "Unlock All Art Gallery"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "005041E7 00000066"
+      - "405041E8 00240001"
+      - "66666666 00000000"
+      - "10504278 00006666"
+
+  - name: "Unlock All Character Profiles"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "40504290 00030001"
+      - "66666666 00000000"
+      - "1050429C 00006666"
+
+  - name: "Unlock All Characters"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "40504118 00050001"
+      - "66666666 00000000"
+      - "1050412C 00006666"
+
+  - name: "Unlock All Exhibition Theater"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "1050427E 00006666"
+      - "20504280 66666666"
+      - "20504284 66666666"
+      - "10504288 00006666"
+      - "0050428A 00000066"
+
+  - name: "Unlock All Modes"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "0050413D 00000066"
+      - "1050413E 00006666"
+      - "20504140 66666666"
+      - "20504144 66666666"
+      - "10504148 00006666"
+
+  - name: "Unlock All Movies"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "1050427A 00006666"
+      - "1050427C 00006666"
+
+  - name: "Unlock All Single Player-Soul Arena Missions"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "10504386 00006666"
+      - "40504388 00060001"
+      - "66666666 00000000"
+
+  - name: "Unlock All Weapons"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "0050414D 00000066"
+      - "1050414E 00006666"
+      - "40504150 00260001"
+      - "66666666 00000000"
+
+  - name: "Unlock Everything"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "40504118 012E0001"
+      - "66666666 00000000"
+
+  - name: "Abella"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 0000004E"
+
+  - name: "Alt Lizardman"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 00000037"
+
+  - name: "Alt Lizardman (Crown)"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 00000036"
+
+  - name: "Alt Lizardman (Old)"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 0000001E"
+
+  - name: "Arthur"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 00000043"
+
+  - name: "Aurelia"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 0000004B"
+
+  - name: "Charade (Blob Only) (Press Select+L2+R2)"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 0000002A"
+
+  - name: "Charade (Feet & Body) (Press Select+L2+R2)"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 00000029"
+
+  - name: "Charade (Press Select+L2+R2)"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 00000028"
+
+  - name: "Chester"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 0000004C"
+
+  - name: "Colossus (Press Select+L2+R2)"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 00000031"
+
+  - name: "Demuth"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 0000004A"
+
+  - name: "Girardot"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 00000048"
+
+  - name: "Girl"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 00000030"
+
+  - name: "Greed (Press Select+L2+R2)"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 00000042"
+
+  - name: "Hualin"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 00000047"
+
+  - name: "Hwang"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 00000044"
+
+  - name: "Li Long"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 00000051"
+
+  - name: "Luna"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 00000045"
+
+  - name: "Lynette"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 0000004F"
+
+  - name: "Miser (Press Select+L2+R2)"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 00000041"
+
+  - name: "Must Be ON For Move Modifier Codes"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "201D4294 0C03FFC0"
+      - "200FFF00 3C01004C"
+      - "200FFF04 3421FEC0"
+      - "200FFF08 14300002"
+      - "200FFF14 3C01004B"
+      - "200FFF18 34212740"
+      - "200FFF1C 14300002"
+      - "200FFF28 08074F64"
+
+  - name: "Night Terror (Press Select+L2+R2)"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 00000027"
+
+  - name: "Revenant"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 00000054"
+
+  - name: "Strife"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 0000004D"
+
+  - name: "Valeria"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 00000046"
+
+  - name: "Will-How The Whip (Blue) (Press Select+L2+R2)"
+    author: "Codejunkies"
+    notes: "[Player 1 Character Modifier Code (Play As...)]"
+    codes:
+      - "D046DBA2 0000FCFE"
+      - "104B4860 0000002C"
+
+  - name: "Astaroth"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF48 24010012"
+      - "200FFF4C A0414862"
+
+  - name: "Astaroth Clone"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF48 24010008"
+      - "200FFF4C A0414862"
+
+  - name: "Cassandra"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF48 24010017"
+      - "200FFF4C A0414862"
+
+  - name: "Cervantes"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF48 24010014"
+      - "200FFF4C A0414862"
+
+  - name: "Ivy"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF48 24010009"
+      - "200FFF4C A0414862"
+
+  - name: "Killik"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF48 2401000C"
+      - "200FFF4C A0414862"
+
+  - name: "Lizardman"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF48 2401000E"
+      - "200FFF4C A0414862"
+
+  - name: "Maxi"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF48 24010004"
+      - "200FFF4C A0414862"
+
+  - name: "Mitsurugi"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF48 24010001"
+      - "200FFF4C A0414862"
+
+  - name: "Nightmare"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF48 24010011"
+      - "200FFF4C A0414862"
+
+  - name: "Raphael"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF48 24010015"
+      - "200FFF4C A0414862"
+
+  - name: "Seong Mi-Na"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF48 24010002"
+      - "200FFF4C A0414862"
+
+  - name: "Setsuka"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF48 24010022"
+      - "200FFF4C A0414862"
+
+  - name: "Siegfried"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF48 24010007"
+      - "200FFF4C A0414862"
+
+  - name: "Sophitia"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF48 24010006"
+      - "200FFF4C A0414862"
+
+  - name: "Taki"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF48 24010003"
+      - "200FFF4C A0414862"
+
+  - name: "Talim"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF48 24010016"
+      - "200FFF4C A0414862"
+
+  - name: "Tira"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF48 24010023"
+      - "200FFF4C A0414862"
+
+  - name: "Voldo"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF48 24010005"
+      - "200FFF4C A0414862"
+
+  - name: "Xianghua"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF48 2401000D"
+      - "200FFF4C A0414862"
+
+  - name: "Yoshimitsu"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF48 2401000F"
+      - "200FFF4C A0414862"
+
+  - name: "Yun-Seong"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF48 2401001A"
+      - "200FFF4C A0414862"
+
+  - name: "Zasalamel"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF48 24010024"
+      - "200FFF4C A0414862"
+
+  - name: "Amy (Press L1+L2+Right)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FADF"
+      - "200FFF24 24040030"
+
+  - name: "Arthur (Press L1+L2+Left)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FA7F"
+      - "200FFF24 24040043"
+
+  - name: "Astaroth (Press L3+L1)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FBFD"
+      - "200FFF24 24040012"
+
+  - name: "Astaroth Clone (Press L3+Left)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FF7D"
+      - "200FFF24 24040008"
+
+  - name: "Cassandra (Press Select+Left)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FF7E"
+      - "200FFF24 24040017"
+
+  - name: "Cervantes (Press L3+L2)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FEFD"
+      - "200FFF24 24040014"
+
+  - name: "Colossus (Press R1+R2+Right)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000F5DF"
+      - "200FFF24 24040031"
+
+  - name: "Disable Moveset Modifier (Start)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FFF7"
+      - "200FFF24 00000000"
+
+  - name: "Hwang (Press Select+L1)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FBFE"
+      - "200FFF24 24040044"
+
+  - name: "Ivy (Press R3+R1)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000F7FB"
+      - "200FFF24 2404000B"
+
+  - name: "Killik (Press R3+R2)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FDFB"
+      - "200FFF24 2404000C"
+
+  - name: "Li-Long (Press L1+L2+Down)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FABF"
+      - "200FFF24 24040054"
+
+  - name: "Lizardman (Press R3+L2)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FEFB"
+      - "200FFF24 2404000E"
+
+  - name: "Luna (Press R1+R2+Up)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000F5EF"
+      - "200FFF24 24040045"
+
+  - name: "Lynette (Press R1+R2+Left)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000F57F"
+      - "200FFF24 2404004F"
+
+  - name: "Maxi (Press R3+Left)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FF7B"
+      - "200FFF24 24040004"
+
+  - name: "Mitsurugi (Press R3+Up)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FFEB"
+      - "200FFF24 24040001"
+
+  - name: "Nightmare (Press L3+R2)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FDFD"
+      - "200FFF24 24040011"
+
+  - name: "Raphael (Press Select+Up)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FFEE"
+      - "200FFF24 24040015"
+
+  - name: "Revenant (Press L1+L2+Up)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FAEF"
+      - "200FFF24 24040054"
+
+  - name: "Seong Mi-Na (Press R3+Right)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FFDB"
+      - "200FFF24 24040002"
+
+  - name: "Setsuka (Press Select+L2)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FEFE"
+      - "200FFF24 24040022"
+
+  - name: "Siegfried (Press L3+Down)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FFBD"
+      - "200FFF24 24040007"
+
+  - name: "Sophitia (Press L3+Right)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FFDD"
+      - "200FFF24 24040006"
+
+  - name: "Taki (Press R3+Down)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FFBB"
+      - "200FFF24 24040003"
+
+  - name: "Talim (Press Select+Down)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FFBE"
+      - "200FFF24 24040016"
+
+  - name: "Tira (Press Select+R1)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000F7FE"
+      - "200FFF24 24040023"
+
+  - name: "Valeria (Press R1+R2+Down)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000F5BF"
+      - "200FFF24 24040046"
+
+  - name: "Voldo (Press L3+Up)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FFED"
+      - "200FFF24 24040005"
+
+  - name: "Xianghua (Press R3+L1)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FBFB"
+      - "200FFF24 2404000D"
+
+  - name: "Yoshimitsu (Press L3+R1)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000F7FD"
+      - "200FFF24 2404000F"
+
+  - name: "Yun-Seong (Press Select+Right)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FFDE"
+      - "200FFF24 2404001A"
+
+  - name: "Zasalamel (Press Select+R2)"
+    author: "Codejunkies"
+    notes: "[Player 1 Move Modifier Codes (Press IN-GAME Pad 1 to activate) (Swap Moves In Game!)]"
+    codes:
+      - "D046DBA2 0000FDFE"
+      - "200FFF24 24040024"
+
+  - name: "All Items Cost $0"
+    author: "Code Master"
+    notes: "[Shop Codes]"
+    codes:
+      - "200C0220 24060001"
+      - "200C0224 03E00008"
+      - "200C0228 ACE60010"
+      - "2038F2B0 0C030088"
+
+  - name: "Buying Items Doesn't Decrease Gold"
+    author: "Code Master"
+    notes: "[Shop Codes]"
+    codes:
+      - "2038E698 00000000"
+
+  - name: "Buying Items Increases Gold"
+    author: "Code Master"
+    notes: "[Shop Codes]"
+    codes:
+      - "2038E68C 00431021"
+
+  - name: "Infinite Gold"
+    author: "Code Master"
+    notes: "[Shop Codes]"
+    codes:
+      - "104ED894 0000FFFF"
+
+  - name: "Max Gold"
+    author: "Code Master"
+    notes: "[Shop Codes]"
+    codes:
+      - "204ED894 0098967F"
+
+  - name: "Image 1"
+    author: "Code Master"
+    notes: "[Unlock Background Codes]"
+    codes:
+      - "7050424B 00000060"
+      - "7050424B 0020006F"
+
+  - name: "Image 10"
+    author: "Code Master"
+    notes: "[Unlock Background Codes]"
+    codes:
+      - "70504251 00000006"
+      - "70504251 002000F6"
+
+  - name: "Image 11"
+    author: "Code Master"
+    notes: "[Unlock Background Codes]"
+    codes:
+      - "70504251 00000060"
+      - "70504251 0020006F"
+
+  - name: "Image 12"
+    author: "Code Master"
+    notes: "[Unlock Background Codes]"
+    codes:
+      - "70504252 00000006"
+      - "70504252 002000F6"
+
+  - name: "Image 13"
+    author: "Code Master"
+    notes: "[Unlock Background Codes]"
+    codes:
+      - "70504252 00000060"
+      - "70504252 0020006F"
+
+  - name: "Image 14"
+    author: "Code Master"
+    notes: "[Unlock Background Codes]"
+    codes:
+      - "70504255 00000060"
+      - "70504255 0020006F"
+
+  - name: "Image 15"
+    author: "Code Master"
+    notes: "[Unlock Background Codes]"
+    codes:
+      - "70504256 00000060"
+      - "70504256 0020006F"
+
+  - name: "Image 2"
+    author: "Code Master"
+    notes: "[Unlock Background Codes]"
+    codes:
+      - "7050424C 00000006"
+      - "7050424C 002000F6"
+
+  - name: "Image 3"
+    author: "Code Master"
+    notes: "[Unlock Background Codes]"
+    codes:
+      - "7050424C 00000060"
+      - "7050424C 0020006F"
+
+  - name: "Image 4"
+    author: "Code Master"
+    notes: "[Unlock Background Codes]"
+    codes:
+      - "7050424D 00000006"
+      - "7050424D 002000F6"
+
+  - name: "Image 5"
+    author: "Code Master"
+    notes: "[Unlock Background Codes]"
+    codes:
+      - "7050424D 00000060"
+      - "7050424D 0020006F"
+
+  - name: "Image 6"
+    author: "Code Master"
+    notes: "[Unlock Background Codes]"
+    codes:
+      - "7050424E 00000006"
+      - "7050424E 002000F6"
+
+  - name: "Image 7"
+    author: "Code Master"
+    notes: "[Unlock Background Codes]"
+    codes:
+      - "7050424E 00000060"
+      - "7050424E 0020006F"
+
+  - name: "Image 8"
+    author: "Code Master"
+    notes: "[Unlock Background Codes]"
+    codes:
+      - "7050424F 00000006"
+      - "7050424F 002000F6"
+
+  - name: "Image 9"
+    author: "Code Master"
+    notes: "[Unlock Background Codes]"
+    codes:
+      - "70504250 00000060"
+      - "70504250 0020006F"
+
+  - name: "Abelia"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "7050412B 00000060"
+      - "7050412B 0020006F"
+
+  - name: "Abyss"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "70504124 00000060"
+      - "70504124 0020006F"
+
+  - name: "Amy"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "7050412D 00000060"
+      - "7050412D 0020006F"
+
+  - name: "Greed"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "70504126 00000006"
+      - "70504126 002000F6"
+
+  - name: "Kilik"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "7050411C 00000060"
+      - "7050411C 0020006F"
+
+  - name: "Miser"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "70504125 00000060"
+      - "70504125 0020006F"
+
+  - name: "Olcadan"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "70504124 00000006"
+      - "70504124 002000F6"
+
+  - name: "Rock"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "7050411B 00000060"
+      - "7050411B 0020006F"
+
+  - name: "Xianghu"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "7050411D 00000006"
+      - "7050411D 002000F6"
+
+  - name: "Night Terror"
+    author: "Code Master"
+    notes: "[Unlock Character Profile Codes]"
+    codes:
+      - "7050429D 00000006"
+      - "7050429D 002000F6"
+
+  - name: "Image 16"
+    author: "Code Master"
+    notes: "[Unlock Hi-Res Codes]"
+    codes:
+      - "705041F7 00000006"
+      - "705041F7 002000F6"
+
+  - name: "Image 100"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050423A 00000060"
+      - "7050423A 0020006F"
+
+  - name: "Image 101"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050423B 00000006"
+      - "7050423B 002000F6"
+
+  - name: "Image 102"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050423B 00000060"
+      - "7050423B 0020006F"
+
+  - name: "Image 103"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050423C 00000006"
+      - "7050423C 002000F6"
+
+  - name: "Image 104"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050423D 00000060"
+      - "7050423D 0020006F"
+
+  - name: "Image 105"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050423E 00000006"
+      - "7050423E 002000F6"
+
+  - name: "Image 17"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504204 00000060"
+      - "70504204 0020006F"
+
+  - name: "Image 18"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504205 00000006"
+      - "70504205 002000F6"
+
+  - name: "Image 19"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504205 00000060"
+      - "70504205 0020006F"
+
+  - name: "Image 20"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504206 00000006"
+      - "70504206 002000F6"
+
+  - name: "Image 21"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504206 00000060"
+      - "70504206 0020006F"
+
+  - name: "Image 22"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504207 00000006"
+      - "70504207 002000F6"
+
+  - name: "Image 23"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504207 00000060"
+      - "70504207 0020006F"
+
+  - name: "Image 24"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504208 00000006"
+      - "70504208 002000F6"
+
+  - name: "Image 25"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504208 00000060"
+      - "70504208 0020006F"
+
+  - name: "Image 26"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504209 00000006"
+      - "70504209 002000F6"
+
+  - name: "Image 27"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504209 00000060"
+      - "70504209 0020006F"
+
+  - name: "Image 28"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050420A 00000006"
+      - "7050420A 002000F6"
+
+  - name: "Image 29"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050420A 00000060"
+      - "7050420A 0020006F"
+
+  - name: "Image 30"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050420B 00000006"
+      - "7050420B 002000F6"
+
+  - name: "Image 31"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050420B 00000060"
+      - "7050420B 0020006F"
+
+  - name: "Image 32"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050420C 00000006"
+      - "7050420C 002000F6"
+
+  - name: "Image 33"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050420C 00000060"
+      - "7050420C 0020006F"
+
+  - name: "Image 34"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050420D 00000006"
+      - "7050420D 002000F6"
+
+  - name: "Image 35"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050420D 00000060"
+      - "7050420D 0020006F"
+
+  - name: "Image 36"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050420E 00000006"
+      - "7050420E 002000F6"
+
+  - name: "Image 37"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050420E 00000060"
+      - "7050420E 0020006F"
+
+  - name: "Image 38"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050420F 00000006"
+      - "7050420F 002000F6"
+
+  - name: "Image 39"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050420F 00000060"
+      - "7050420F 0020006F"
+
+  - name: "Image 40"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504210 00000006"
+      - "70504210 002000F6"
+
+  - name: "Image 41"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504210 00000060"
+      - "70504210 0020006F"
+
+  - name: "Image 42"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504211 00000006"
+      - "70504211 002000F6"
+
+  - name: "Image 43"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504211 00000060"
+      - "70504211 0020006F"
+
+  - name: "Image 44"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504212 00000006"
+      - "70504212 002000F6"
+
+  - name: "Image 45"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504212 00000060"
+      - "70504212 0020006F"
+
+  - name: "Image 46"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504213 00000006"
+      - "70504213 002000F6"
+
+  - name: "Image 47"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504213 00000060"
+      - "70504213 0020006F"
+
+  - name: "Image 48"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504214 00000006"
+      - "70504214 002000F6"
+
+  - name: "Image 49"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504214 00000060"
+      - "70504214 0020006F"
+
+  - name: "Image 50"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504215 00000006"
+      - "70504215 002000F6"
+
+  - name: "Image 51"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504215 00000060"
+      - "70504215 0020006F"
+
+  - name: "Image 52"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504216 00000006"
+      - "70504216 002000F6"
+
+  - name: "Image 53"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504216 00000060"
+      - "70504216 0020006F"
+
+  - name: "Image 54"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504217 00000006"
+      - "70504217 002000F6"
+
+  - name: "Image 55"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504217 00000060"
+      - "70504217 0020006F"
+
+  - name: "Image 56"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504218 00000006"
+      - "70504218 002000F6"
+
+  - name: "Image 57"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504218 00000060"
+      - "70504218 0020006F"
+
+  - name: "Image 58"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504219 00000006"
+      - "70504219 002000F6"
+
+  - name: "Image 59"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504219 00000060"
+      - "70504219 0020006F"
+
+  - name: "Image 60"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050421A 00000006"
+      - "7050421A 002000F6"
+
+  - name: "Image 61"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050421A 00000060"
+      - "7050421A 0020006F"
+
+  - name: "Image 62"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050421B 00000006"
+      - "7050421B 002000F6"
+
+  - name: "Image 63"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050421B 00000060"
+      - "7050421B 0020006F"
+
+  - name: "Image 64"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050421C 00000006"
+      - "7050421C 002000F6"
+
+  - name: "Image 65"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050421C 00000060"
+      - "7050421C 0020006F"
+
+  - name: "Image 66"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050421D 00000006"
+      - "7050421D 002000F6"
+
+  - name: "Image 67"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050421D 00000060"
+      - "7050421D 0020006F"
+
+  - name: "Image 68"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050421E 00000006"
+      - "7050421E 002000F6"
+
+  - name: "Image 69"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050421E 00000060"
+      - "7050421E 0020006F"
+
+  - name: "Image 70"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050421F 00000006"
+      - "7050421F 002000F6"
+
+  - name: "Image 71"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050421F 00000060"
+      - "7050421F 0020006F"
+
+  - name: "Image 72"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504220 00000006"
+      - "70504220 002000F6"
+
+  - name: "Image 73"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504220 00000060"
+      - "70504220 0020006F"
+
+  - name: "Image 74"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504221 00000006"
+      - "70504221 002000F6"
+
+  - name: "Image 75"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504221 00000060"
+      - "70504221 0020006F"
+
+  - name: "Image 76"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504222 00000006"
+      - "70504222 002000F6"
+
+  - name: "Image 77"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504222 00000060"
+      - "70504222 0020006F"
+
+  - name: "Image 78"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504223 00000006"
+      - "70504223 002000F6"
+
+  - name: "Image 79"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504223 00000060"
+      - "70504223 0020006F"
+
+  - name: "Image 80"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504224 00000006"
+      - "70504224 002000F6"
+
+  - name: "Image 81"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504224 00000060"
+      - "70504224 0020006F"
+
+  - name: "Image 82"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504225 00000006"
+      - "70504225 002000F6"
+
+  - name: "Image 83"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504225 00000060"
+      - "70504225 0020006F"
+
+  - name: "Image 84"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504226 00000006"
+      - "70504226 002000F6"
+
+  - name: "Image 85"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504226 00000060"
+      - "70504226 0020006F"
+
+  - name: "Image 86"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504227 00000006"
+      - "70504227 002000F6"
+
+  - name: "Image 87"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504234 00000006"
+      - "70504234 002000F6"
+
+  - name: "Image 88"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504234 00000060"
+      - "70504234 0020006F"
+
+  - name: "Image 89"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504235 00000006"
+      - "70504235 002000F6"
+
+  - name: "Image 90"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504235 00000060"
+      - "70504235 0020006F"
+
+  - name: "Image 91"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504236 00000006"
+      - "70504236 002000F6"
+
+  - name: "Image 92"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504236 00000060"
+      - "70504236 0020006F"
+
+  - name: "Image 93"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504237 00000006"
+      - "70504237 002000F6"
+
+  - name: "Image 94"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504237 00000060"
+      - "70504237 0020006F"
+
+  - name: "Image 95"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504238 00000006"
+      - "70504238 002000F6"
+
+  - name: "Image 96"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504238 00000060"
+      - "70504238 0020006F"
+
+  - name: "Image 97"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504239 00000006"
+      - "70504239 002000F6"
+
+  - name: "Image 98"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "70504239 00000060"
+      - "70504239 0020006F"
+
+  - name: "Image 99"
+    author: "Code Master"
+    notes: "[Unlock Illustrations Codes]"
+    codes:
+      - "7050423A 00000006"
+      - "7050423A 002000F6"
+
+  - name: "Shop-Armor Shop"
+    author: "Code Master"
+    notes: "[Unlock Mode Codes]"
+    codes:
+      - "70504148 00000060"
+      - "70504148 0020006F"
+
+  - name: "Shop-Items Shop"
+    author: "Code Master"
+    notes: "[Unlock Mode Codes]"
+    codes:
+      - "70504149 00000006"
+      - "70504149 002000F6"
+
+  - name: "Shop-Weapons Shop"
+    author: "Code Master"
+    notes: "[Unlock Mode Codes]"
+    codes:
+      - "70504148 00000006"
+      - "70504148 002000F6"
+
+  - name: "Single Player-Character Creation-Custom"
+    author: "Code Master"
+    notes: "[Unlock Mode Codes]"
+    codes:
+      - "70504145 00000060"
+      - "70504145 0020006F"
+
+  - name: "Single Player-Character Creation-Standard"
+    author: "Code Master"
+    notes: "[Unlock Mode Codes]"
+    codes:
+      - "70504146 00000006"
+      - "70504146 002000F6"
+
+  - name: "Single Player-Chronicles Of The Sword"
+    author: "Code Master"
+    notes: "[Unlock Mode Codes]"
+    codes:
+      - "7050413D 00000060"
+      - "7050413D 0020006F"
+
+  - name: "Single Player-Museum-Art Gallery"
+    author: "Code Master"
+    notes: "[Unlock Mode Codes]"
+    codes:
+      - "70504141 00000060"
+      - "70504141 0020006F"
+
+  - name: "Single Player-Museum-Battle Theater"
+    author: "Code Master"
+    notes: "[Unlock Mode Codes]"
+    codes:
+      - "70504142 00000006"
+      - "70504142 002000F6"
+
+  - name: "Single Player-Museum-Character Profiles"
+    author: "Code Master"
+    notes: "[Unlock Mode Codes]"
+    codes:
+      - "70504143 00000006"
+      - "70504143 002000F6"
+
+  - name: "Single Player-Museum-Event Viewer"
+    author: "Code Master"
+    notes: "[Unlock Mode Codes]"
+    codes:
+      - "70504143 00000060"
+      - "70504143 0020006F"
+
+  - name: "Single Player-Museum-Exhibition Theater"
+    author: "Code Master"
+    notes: "[Unlock Mode Codes]"
+    codes:
+      - "70504142 00000060"
+      - "70504142 0020006F"
+
+  - name: "Single Player-Practice-Free Training"
+    author: "Code Master"
+    notes: "[Unlock Mode Codes]"
+    codes:
+      - "70504140 00000060"
+      - "70504140 0020006F"
+
+  - name: "Single Player-Practice-Glossary"
+    author: "Code Master"
+    notes: "[Unlock Mode Codes]"
+    codes:
+      - "70504141 00000006"
+      - "70504141 002000F6"
+
+  - name: "Single Player-Practice-Tutorial"
+    author: "Code Master"
+    notes: "[Unlock Mode Codes]"
+    codes:
+      - "70504140 00000006"
+      - "70504140 002000F6"
+
+  - name: "Single Player-Soul Arena-Mission"
+    author: "Code Master"
+    notes: "[Unlock Mode Codes]"
+    codes:
+      - "7050413F 00000006"
+      - "7050413F 002000F6"
+
+  - name: "Single Player-Soul Arena-Quick Play"
+    author: "Code Master"
+    notes: "[Unlock Mode Codes]"
+    codes:
+      - "7050413E 00000060"
+      - "7050413E 0020006F"
+
+  - name: "Single Player-Tales Of Souls"
+    author: "Code Master"
+    notes: "[Unlock Mode Codes]"
+    codes:
+      - "7050413D 00000006"
+      - "7050413D 002000F6"
+
+  - name: "Single Player-World Competition"
+    author: "Code Master"
+    notes: "[Unlock Mode Codes]"
+    codes:
+      - "7050413E 00000006"
+      - "7050413E 002000F6"
+
+  - name: "VS-VS Competition"
+    author: "Code Master"
+    notes: "[Unlock Mode Codes]"
+    codes:
+      - "70504147 00000060"
+      - "70504147 0020006F"
+
+  - name: "VS-VS Special"
+    author: "Code Master"
+    notes: "[Unlock Mode Codes]"
+    codes:
+      - "70504147 00000006"
+      - "70504147 002000F6"
+
+  - name: "VS-VS Standard"
+    author: "Code Master"
+    notes: "[Unlock Mode Codes]"
+    codes:
+      - "70504146 00000060"
+      - "70504146 0020006F"
+
+  - name: "Movie 1"
+    author: "Code Master"
+    notes: "[Unlock Movies Codes]"
+    codes:
+      - "7050427A 00000006"
+      - "7050427A 002000F6"
+
+  - name: "Movie 2"
+    author: "Code Master"
+    notes: "[Unlock Movies Codes]"
+    codes:
+      - "7050427A 00000060"
+      - "7050427A 0020006F"
+
+  - name: "Movie 3"
+    author: "Code Master"
+    notes: "[Unlock Movies Codes]"
+    codes:
+      - "7050427B 00000060"
+      - "7050427B 0020006F"
+
+  - name: "Movie 4"
+    author: "Code Master"
+    notes: "[Unlock Movies Codes]"
+    codes:
+      - "7050427C 00000006"
+      - "7050427C 002000F6"
+
+  - name: "Movie 5"
+    author: "Code Master"
+    notes: "[Unlock Movies Codes]"
+    codes:
+      - "7050427D 00000060"
+      - "7050427D 0020006F"
+
+  - name: "Mission 1-Easy"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "70504386 00000060"
+      - "70504386 0020006F"
+
+  - name: "Mission 1-Hard"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "70504387 00000060"
+      - "70504387 0020006F"
+
+  - name: "Mission 1-Normal"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "70504387 00000006"
+      - "70504387 002000F6"
+
+  - name: "Mission 10-Easy"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "70504385 00000006"
+      - "70504385 002000F6"
+
+  - name: "Mission 10-Hard"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "70504386 00000006"
+      - "70504386 002000F6"
+
+  - name: "Mission 10-Normal"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "70504385 00000060"
+      - "70504385 0020006F"
+
+  - name: "Mission 11-Easy"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "70504391 00000006"
+      - "70504391 002000F6"
+
+  - name: "Mission 11-Hard"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "70504392 00000006"
+      - "70504392 002000F6"
+
+  - name: "Mission 11-Normal"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "70504391 00000060"
+      - "70504391 0020006F"
+
+  - name: "Mission 12-Easy"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "7050439E 00000060"
+      - "7050439E 0020006F"
+
+  - name: "Mission 12-Hard"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "7050439F 00000060"
+      - "7050439F 0020006F"
+
+  - name: "Mission 12-Normal"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "7050439F 00000006"
+      - "7050439F 002000F6"
+
+  - name: "Mission 2-Easy"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "70504388 00000006"
+      - "70504388 002000F6"
+
+  - name: "Mission 2-Hard"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "70504389 00000006"
+      - "70504389 002000F6"
+
+  - name: "Mission 2-Normal"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "70504388 00000060"
+      - "70504388 0020006F"
+
+  - name: "Mission 3-Easy"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "7050439A 00000006"
+      - "7050439A 002000F6"
+
+  - name: "Mission 3-Hard"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "7050439B 00000006"
+      - "7050439B 002000F6"
+
+  - name: "Mission 3-Normal"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "7050439A 00000060"
+      - "7050439A 0020006F"
+
+  - name: "Mission 4-Easy"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "7050438C 00000060"
+      - "7050438C 0020006F"
+
+  - name: "Mission 4-Hard"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "7050438D 00000060"
+      - "7050438D 0020006F"
+
+  - name: "Mission 4-Normal"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "7050438D 00000006"
+      - "7050438D 002000F6"
+
+  - name: "Mission 5-Easy"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "7050438B 00000006"
+      - "7050438B 002000F6"
+
+  - name: "Mission 5-Hard"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "7050438C 00000006"
+      - "7050438C 002000F6"
+
+  - name: "Mission 5-Normal"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "7050438B 00000060"
+      - "7050438B 0020006F"
+
+  - name: "Mission 6-Easy"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "70504389 00000060"
+      - "70504389 0020006F"
+
+  - name: "Mission 6-Hard"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "7050438A 00000060"
+      - "7050438A 0020006F"
+
+  - name: "Mission 6-Normal"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "7050438A 00000006"
+      - "7050438A 002000F6"
+
+  - name: "Mission 7-Easy"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "70504395 00000060"
+      - "70504395 0020006F"
+
+  - name: "Mission 7-Hard"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "70504396 00000060"
+      - "70504396 0020006F"
+
+  - name: "Mission 7-Normal"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "70504396 00000006"
+      - "70504396 002000F6"
+
+  - name: "Mission 8-Easy"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "70504397 00000006"
+      - "70504397 002000F6"
+
+  - name: "Mission 8-Hard"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "70504398 00000006"
+      - "70504398 002000F6"
+
+  - name: "Mission 8-Normal"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "70504397 00000060"
+      - "70504397 0020006F"
+
+  - name: "Mission 9-Easy"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "70504398 00000060"
+      - "70504398 0020006F"
+
+  - name: "Mission 9-Hard"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "70504399 00000060"
+      - "70504399 0020006F"
+
+  - name: "Mission 9-Normal"
+    author: "Code Master"
+    notes: "[Unlock Single Player-Soul Arena Mission Codes]"
+    codes:
+      - "70504399 00000006"
+      - "70504399 002000F6"
+
+  - name: "Astaroth-Great Maul"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504186 00000060"
+      - "70504186 0020006F"
+
+  - name: "Astaroth-Kulutues"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504185 00000006"
+      - "70504185 002000F6"
+
+  - name: "Astaroth-Kulutues 2"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504185 00000060"
+      - "70504185 0020006F"
+
+  - name: "Astaroth-Nanbanfu"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504187 00000006"
+      - "70504187 002000F6"
+
+  - name: "Astaroth-Soul Edge"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504187 00000060"
+      - "70504187 0020006F"
+
+  - name: "Astaroth-Stone Slab"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504188 00000006"
+      - "70504188 002000F6"
+
+  - name: "Astaroth-Terror Moon"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504186 00000006"
+      - "70504186 002000F6"
+
+  - name: "Astaroth-The Ancient"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504188 00000060"
+      - "70504188 0020006F"
+
+  - name: "Cassandra-Broken Sword"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504198 00000006"
+      - "70504198 002000F6"
+
+  - name: "Cassandra-Dark Blade"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504197 00000006"
+      - "70504197 002000F6"
+
+  - name: "Cassandra-Digamma Sword & Nemea Shield"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504195 00000006"
+      - "70504195 002000F6"
+
+  - name: "Cassandra-Digamma Sword & Nemea Shield 2"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504195 00000060"
+      - "70504195 0020006F"
+
+  - name: "Cassandra-Ivan The Terrible"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504196 00000006"
+      - "70504196 002000F6"
+
+  - name: "Cassandra-Spine Blade"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504196 00000060"
+      - "70504196 0020006F"
+
+  - name: "Cassandra-The Ancient"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504198 00000060"
+      - "70504198 0020006F"
+
+  - name: "Cassandra-Valkyrie"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504197 00000060"
+      - "70504197 0020006F"
+
+  - name: "Cervantes-Erlang's Blade"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050418A 00000060"
+      - "7050418A 0020006F"
+
+  - name: "Cervantes-Imitation Sword"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050418C 00000006"
+      - "7050418C 002000F6"
+
+  - name: "Cervantes-Phlegethon"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050418B 00000006"
+      - "7050418B 002000F6"
+
+  - name: "Cervantes-Soul Edge"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050418B 00000060"
+      - "7050418B 0020006F"
+
+  - name: "Cervantes-Soul Edge & Nirvana"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504189 00000006"
+      - "70504189 002000F6"
+
+  - name: "Cervantes-Soul Edge & Nirvana 2"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504189 00000060"
+      - "70504189 0020006F"
+
+  - name: "Cervantes-Styx"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050418A 00000006"
+      - "7050418A 002000F6"
+
+  - name: "Cervantes-The Ancient"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050418C 00000060"
+      - "7050418C 0020006F"
+
+  - name: "Ivy-Alraune"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050416F 00000006"
+      - "7050416F 002000F6"
+
+  - name: "Ivy-Dream Blade"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050416E 00000060"
+      - "7050416E 0020006F"
+
+  - name: "Ivy-Kaleidoscope"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050416F 00000060"
+      - "7050416F 0020006F"
+
+  - name: "Ivy-Prototype Ivy Blade"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504170 00000006"
+      - "70504170 002000F6"
+
+  - name: "Ivy-The Ancient"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504170 00000060"
+      - "70504170 0020006F"
+
+  - name: "Ivy-Valentine"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050416D 00000006"
+      - "7050416D 002000F6"
+
+  - name: "Ivy-Valentine 2"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050416D 00000060"
+      - "7050416D 0020006F"
+
+  - name: "Ivy-Viper Edge"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050416E 00000006"
+      - "7050416E 002000F6"
+
+  - name: "Kilik-Amud"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504172 00000060"
+      - "70504172 0020006F"
+
+  - name: "Kilik-Bamboo Staff"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504174 00000006"
+      - "70504174 002000F6"
+
+  - name: "Kilik-Jingu Staff"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504173 00000006"
+      - "70504173 002000F6"
+
+  - name: "Kilik-Kali-Yuga"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504171 00000006"
+      - "70504171 002000F6"
+
+  - name: "Kilik-Kali-Yuga 2"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504171 00000060"
+      - "70504171 0020006F"
+
+  - name: "Kilik-Ling-Sheng Su Bo"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504172 00000006"
+      - "70504172 002000F6"
+
+  - name: "Kilik-Soul Calibur"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504173 00000060"
+      - "70504173 0020006F"
+
+  - name: "Kilik-The Ancient"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504174 00000060"
+      - "70504174 0020006F"
+
+  - name: "Lizardman-Boned Meat"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050417C 00000006"
+      - "7050417C 002000F6"
+
+  - name: "Lizardman-Grudge Ax & Aya Shield"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504179 00000006"
+      - "70504179 002000F6"
+
+  - name: "Lizardman-Grudge Ax & Aya Shield 2"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504179 00000060"
+      - "70504179 0020006F"
+
+  - name: "Lizardman-Kora"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050417B 00000006"
+      - "7050417B 002000F6"
+
+  - name: "Lizardman-Lunatic"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050417A 00000060"
+      - "7050417A 0020006F"
+
+  - name: "Lizardman-Soul Edge"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050417B 00000060"
+      - "7050417B 0020006F"
+
+  - name: "Lizardman-Tabarzin"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050417A 00000006"
+      - "7050417A 002000F6"
+
+  - name: "Lizardman-The Ancient"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050417C 00000060"
+      - "7050417C 0020006F"
+
+  - name: "Maxi-Chained Kozuka"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050415A 00000060"
+      - "7050415A 0020006F"
+
+  - name: "Maxi-Raimei"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050415B 00000006"
+      - "7050415B 002000F6"
+
+  - name: "Maxi-Soryuju"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504159 00000006"
+      - "70504159 002000F6"
+
+  - name: "Maxi-Soryuju 2"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504159 00000060"
+      - "70504159 0020006F"
+
+  - name: "Maxi-Termite Snack"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050415C 00000006"
+      - "7050415C 002000F6"
+
+  - name: "Maxi-Tetsuryu"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050415A 00000006"
+      - "7050415A 002000F6"
+
+  - name: "Maxi-Vajra"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050415B 00000060"
+      - "7050415B 0020006F"
+
+  - name: "Mitsurugi-Na-Damascus Sword"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050414F 00000006"
+      - "7050414F 002000F6"
+
+  - name: "Mitsurugi-Na-Masamune"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050414E 00000060"
+      - "7050414E 0020006F"
+
+  - name: "Mitsurugi-Na-Shishi-Oh"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050414D 00000006"
+      - "7050414D 002000F6"
+
+  - name: "Mitsurugi-Na-Shishi-Oh 2"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050414D 00000060"
+      - "7050414D 0020006F"
+
+  - name: "Mitsurugi-Na-Soul Edge"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050414F 00000060"
+      - "7050414F 0020006F"
+
+  - name: "Mitsurugi-Na-Souvenir Gift"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504150 00000006"
+      - "70504150 002000F6"
+
+  - name: "Mitsurugi-Na-The Ancient"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504150 00000060"
+      - "70504150 0020006F"
+
+  - name: "Mitsurugi-Na-Two-Handed Sword"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050414E 00000006"
+      - "7050414E 002000F6"
+
+  - name: "Nightmare-Giant Squid"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504184 00000006"
+      - "70504184 002000F6"
+
+  - name: "Nightmare-Soul Edge"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504183 00000060"
+      - "70504183 0020006F"
+
+  - name: "Nightmare-Soul Edge (Cocoon)"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504183 00000006"
+      - "70504183 002000F6"
+
+  - name: "Nightmare-Soul Edge (Larvae)"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504182 00000060"
+      - "70504182 0020006F"
+
+  - name: "Nightmare-Soul Edge (Phantom)"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504181 00000006"
+      - "70504181 002000F6"
+
+  - name: "Nightmare-Soul Edge (Phantom) 2"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504181 00000060"
+      - "70504181 0020006F"
+
+  - name: "Nightmare-Steel Paddle"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504182 00000006"
+      - "70504182 002000F6"
+
+  - name: "Nightmare-The Ancient"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504184 00000060"
+      - "70504184 0020006F"
+
+  - name: "Raphael-Cane"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504190 00000006"
+      - "70504190 002000F6"
+
+  - name: "Raphael-Epee"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050418E 00000006"
+      - "7050418E 002000F6"
+
+  - name: "Raphael-Estoc"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050418F 00000006"
+      - "7050418F 002000F6"
+
+  - name: "Raphael-Flambert"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050418D 00000006"
+      - "7050418D 002000F6"
+
+  - name: "Raphael-Flambert 2"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050418D 00000060"
+      - "7050418D 0020006F"
+
+  - name: "Raphael-Holy Antler"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050418E 00000060"
+      - "7050418E 0020006F"
+
+  - name: "Raphael-Queen's Guard"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050418F 00000060"
+      - "7050418F 0020006F"
+
+  - name: "Raphael-The Ancient"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504190 00000060"
+      - "70504190 0020006F"
+
+  - name: "Rock-Giant Mace"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050416A 00000006"
+      - "7050416A 002000F6"
+
+  - name: "Rock-Iron Fists"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050416C 00000006"
+      - "7050416C 002000F6"
+
+  - name: "Rock-Juggernaut"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050416B 00000006"
+      - "7050416B 002000F6"
+
+  - name: "Rock-Onslaught"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504169 00000006"
+      - "70504169 002000F6"
+
+  - name: "Rock-Onslaught 2"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504169 00000060"
+      - "70504169 0020006F"
+
+  - name: "Rock-Ropalon"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050416A 00000060"
+      - "7050416A 0020006F"
+
+  - name: "Rock-The Ancient"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050416C 00000060"
+      - "7050416C 0020006F"
+
+  - name: "Rock-Wayakin"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050416B 00000060"
+      - "7050416B 0020006F"
+
+  - name: "Seong Mi-Na-Defender"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504152 00000006"
+      - "70504152 002000F6"
+
+  - name: "Seong Mi-Na-Feather Broom"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504154 00000006"
+      - "70504154 002000F6"
+
+  - name: "Seong Mi-Na-Halberd"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504153 00000006"
+      - "70504153 002000F6"
+
+  - name: "Seong Mi-Na-Hraesvelgr"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504153 00000060"
+      - "70504153 0020006F"
+
+  - name: "Seong Mi-Na-Hyup Do"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504152 00000060"
+      - "70504152 0020006F"
+
+  - name: "Seong Mi-Na-Scarlet Thunder"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504151 00000006"
+      - "70504151 002000F6"
+
+  - name: "Seong Mi-Na-Scarlet Thunder 2"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504151 00000060"
+      - "70504151 0020006F"
+
+  - name: "Seong Mi-Na-The Ancient"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504154 00000060"
+      - "70504154 0020006F"
+
+  - name: "Siegfried-Faust"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504167 00000006"
+      - "70504167 002000F6"
+
+  - name: "Siegfried-Flamberge"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504166 00000006"
+      - "70504166 002000F6"
+
+  - name: "Siegfried-Galley Oar"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504168 00000006"
+      - "70504168 002000F6"
+
+  - name: "Siegfried-Glam"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504166 00000060"
+      - "70504166 0020006F"
+
+  - name: "Siegfried-Requiem"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504165 00000006"
+      - "70504165 002000F6"
+
+  - name: "Siegfried-Requiem 2"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504165 00000060"
+      - "70504165 0020006F"
+
+  - name: "Siegfried-Soul Calibur"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504167 00000060"
+      - "70504167 0020006F"
+
+  - name: "Siegfried-The Ancient"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504168 00000060"
+      - "70504168 0020006F"
+
+  - name: "Sophitia-Blue Crystal Rod"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504162 00000060"
+      - "70504162 0020006F"
+
+  - name: "Sophitia-Fire Blade"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504162 00000006"
+      - "70504162 002000F6"
+
+  - name: "Sophitia-Memento"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504164 00000006"
+      - "70504164 002000F6"
+
+  - name: "Sophitia-Orichalcum"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504163 00000006"
+      - "70504163 002000F6"
+
+  - name: "Sophitia-Soul Calibur"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504163 00000060"
+      - "70504163 0020006F"
+
+  - name: "Sophitia-Sword & Elk Shield"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504161 00000006"
+      - "70504161 002000F6"
+
+  - name: "Sophitia-Sword & Elk Shield 2"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504161 00000060"
+      - "70504161 0020006F"
+
+  - name: "Sophitia-The Ancient"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504164 00000060"
+      - "70504164 0020006F"
+
+  - name: "Taki-Fumakugi"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504157 00000006"
+      - "70504157 002000F6"
+
+  - name: "Taki-Kagekiri"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504156 00000060"
+      - "70504156 0020006F"
+
+  - name: "Taki-Kagenui"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504156 00000006"
+      - "70504156 002000F6"
+
+  - name: "Taki-Kris Naga"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504157 00000060"
+      - "70504157 0020006F"
+
+  - name: "Taki-Rekki-Maru & Mekki-Maru"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504155 00000006"
+      - "70504155 002000F6"
+
+  - name: "Taki-Rekki-Maru & Mekki-Maru 2"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504155 00000060"
+      - "70504155 0020006F"
+
+  - name: "Taki-The Ancient"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504158 00000060"
+      - "70504158 0020006F"
+
+  - name: "Taki-Tobacco Pipes"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504158 00000006"
+      - "70504158 002000F6"
+
+  - name: "Talim-Double Crescent Blade"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504193 00000006"
+      - "70504193 002000F6"
+
+  - name: "Talim-Side Harpe"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504192 00000060"
+      - "70504192 0020006F"
+
+  - name: "Talim-Soul Calibur"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504193 00000060"
+      - "70504193 0020006F"
+
+  - name: "Talim-Syi Salika & Loka Luha"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504191 00000006"
+      - "70504191 002000F6"
+
+  - name: "Talim-Syi Salika & Loka Luha 2"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504191 00000060"
+      - "70504191 0020006F"
+
+  - name: "Talim-The Ancient"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504194 00000060"
+      - "70504194 0020006F"
+
+  - name: "Talim-Tonfa"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504192 00000006"
+      - "70504192 002000F6"
+
+  - name: "Talim-Weight"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504194 00000006"
+      - "70504194 002000F6"
+
+  - name: "Voldo-Cat Claws"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050415E 00000006"
+      - "7050415E 002000F6"
+
+  - name: "Voldo-Guillotine"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050415F 00000060"
+      - "7050415F 0020006F"
+
+  - name: "Voldo-Iron Ram"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050415F 00000006"
+      - "7050415F 002000F6"
+
+  - name: "Voldo-Manas & Ayus"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050415D 00000006"
+      - "7050415D 002000F6"
+
+  - name: "Voldo-Manas & Ayus 2"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050415D 00000060"
+      - "7050415D 0020006F"
+
+  - name: "Voldo-Tamborines"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504160 00000006"
+      - "70504160 002000F6"
+
+  - name: "Voldo-The Ancient"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504160 00000060"
+      - "70504160 0020006F"
+
+  - name: "Voldo-Tofana Scissors"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050415E 00000060"
+      - "7050415E 0020006F"
+
+  - name: "Xianghu-Calligraphy Brush"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504178 00000006"
+      - "70504178 002000F6"
+
+  - name: "Xianghu-Kard"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504176 00000006"
+      - "70504176 002000F6"
+
+  - name: "Xianghu-Kopis"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504177 00000006"
+      - "70504177 002000F6"
+
+  - name: "Xianghu-No Name"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504175 00000006"
+      - "70504175 002000F6"
+
+  - name: "Xianghu-No Name 2"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504175 00000060"
+      - "70504175 0020006F"
+
+  - name: "Xianghu-Northern Star"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504176 00000060"
+      - "70504176 0020006F"
+
+  - name: "Xianghu-Soul Calibur"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504177 00000060"
+      - "70504177 0020006F"
+
+  - name: "Xianghu-The Ancient"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504178 00000060"
+      - "70504178 0020006F"
+
+  - name: "Yoshimitsu-Hihiirokane"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050417F 00000060"
+      - "7050417F 0020006F"
+
+  - name: "Yoshimitsu-Kagekiyo"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050417F 00000006"
+      - "7050417F 002000F6"
+
+  - name: "Yoshimitsu-Kastane"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050417E 00000006"
+      - "7050417E 002000F6"
+
+  - name: "Yoshimitsu-Pakayun"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050417E 00000060"
+      - "7050417E 0020006F"
+
+  - name: "Yoshimitsu-Shepherd's Crook"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504180 00000006"
+      - "70504180 002000F6"
+
+  - name: "Yoshimitsu-The Ancient"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "70504180 00000060"
+      - "70504180 0020006F"
+
+  - name: "Yoshimitsu-Yoshimitsu"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050417D 00000006"
+      - "7050417D 002000F6"
+
+  - name: "Yoshimitsu-Yoshimitsu 2"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 1)]"
+    codes:
+      - "7050417D 00000060"
+      - "7050417D 0020006F"
+
+  - name: "Abelia-Eternal Rest"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041DA 00000006"
+      - "705041DA 002000F6"
+
+  - name: "Abelia-Excalibur"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041D9 00000006"
+      - "705041D9 002000F6"
+
+  - name: "Abelia-Gladius"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041D7 00000060"
+      - "705041D7 0020006F"
+
+  - name: "Abelia-Ice Blade"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041D8 00000006"
+      - "705041D8 002000F6"
+
+  - name: "Abelia-Katzbalger"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041D8 00000060"
+      - "705041D8 0020006F"
+
+  - name: "Abelia-Lilia"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041DA 00000060"
+      - "705041DA 0020006F"
+
+  - name: "Abelia-Valkyrie"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041D9 00000060"
+      - "705041D9 0020006F"
+
+  - name: "Abyss-Irkalla"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041AD 00000006"
+      - "705041AD 002000F6"
+
+  - name: "Abyss-Irkalla 2"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041AD 00000060"
+      - "705041AD 0020006F"
+
+  - name: "Amy-Albion"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041E7 00000006"
+      - "705041E7 002000F6"
+
+  - name: "Amy-Falleng Antler"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041E5 00000060"
+      - "705041E5 0020006F"
+
+  - name: "Amy-Rapier"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041E5 00000006"
+      - "705041E5 002000F6"
+
+  - name: "Amy-Schweitzer"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041E4 00000060"
+      - "705041E4 0020006F"
+
+  - name: "Amy-Tuck"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041E6 00000006"
+      - "705041E6 002000F6"
+
+  - name: "Amy-Unicorn"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041E6 00000060"
+      - "705041E6 0020006F"
+
+  - name: "Arthur-Gassan"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041B7 00000060"
+      - "705041B7 0020006F"
+
+  - name: "Arthur-Kokuenra"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041B8 00000006"
+      - "705041B8 002000F6"
+
+  - name: "Arthur-Monohoshizao"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041B6 00000006"
+      - "705041B6 002000F6"
+
+  - name: "Arthur-Murasame"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041B7 00000006"
+      - "705041B7 002000F6"
+
+  - name: "Arthur-Shiranui"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041B6 00000060"
+      - "705041B6 0020006F"
+
+  - name: "Arthur-Wo Dao"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041B5 00000060"
+      - "705041B5 0020006F"
+
+  - name: "Arthur-Zantetsuken"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041B5 00000006"
+      - "705041B5 002000F6"
+
+  - name: "Aurelia-Black Widow"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041D0 00000006"
+      - "705041D0 002000F6"
+
+  - name: "Aurelia-Chains Of Hades"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041CF 00000060"
+      - "705041CF 0020006F"
+
+  - name: "Aurelia-Kogarashi"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041CE 00000006"
+      - "705041CE 002000F6"
+
+  - name: "Aurelia-Mizuchi"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041CE 00000060"
+      - "705041CE 0020006F"
+
+  - name: "Aurelia-Sickle"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041CD 00000060"
+      - "705041CD 0020006F"
+
+  - name: "Aurelia-Yaesumuji"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041CF 00000006"
+      - "705041CF 002000F6"
+
+  - name: "Chester-Assassin Dagger"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041D1 00000006"
+      - "705041D1 002000F6"
+
+  - name: "Chester-Jambiya"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041D0 00000060"
+      - "705041D0 0020006F"
+
+  - name: "Chester-Kingslayer"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041D3 00000006"
+      - "705041D3 002000F6"
+
+  - name: "Chester-Kris"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041D1 00000060"
+      - "705041D1 0020006F"
+
+  - name: "Chester-Misericorde"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041D2 00000006"
+      - "705041D2 002000F6"
+
+  - name: "Chester-Tongue Of Tanatiuh"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041D2 00000060"
+      - "705041D2 0020006F"
+
+  - name: "Demuth-Baindigart"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041CD 00000006"
+      - "705041CD 002000F6"
+
+  - name: "Demuth-Basho Fan"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041CC 00000060"
+      - "705041CC 0020006F"
+
+  - name: "Demuth-Fujin Fan"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041CB 00000060"
+      - "705041CB 0020006F"
+
+  - name: "Demuth-Kamaitachi"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041CB 00000006"
+      - "705041CB 002000F6"
+
+  - name: "Demuth-Steel Fan"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041CA 00000060"
+      - "705041CA 0020006F"
+
+  - name: "Demuth-Zephyrus"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041CC 00000006"
+      - "705041CC 002000F6"
+
+  - name: "Girardot-Absolution"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041C9 00000006"
+      - "705041C9 002000F6"
+
+  - name: "Girardot-Ahlspiess"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041C8 00000006"
+      - "705041C8 002000F6"
+
+  - name: "Girardot-Blazecleaver"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041C9 00000060"
+      - "705041C9 0020006F"
+
+  - name: "Girardot-Bourdanasse"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041C7 00000060"
+      - "705041C7 0020006F"
+
+  - name: "Girardot-Dreadnought"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041C8 00000060"
+      - "705041C8 0020006F"
+
+  - name: "Girardot-Heavy Lance"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041C6 00000060"
+      - "705041C6 0020006F"
+
+  - name: "Girardot-Pilum Muralis"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041C7 00000006"
+      - "705041C7 002000F6"
+
+  - name: "Girardot-Sacrifice"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041CA 00000006"
+      - "705041CA 002000F6"
+
+  - name: "Greed-Austere & Void"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041B4 00000006"
+      - "705041B4 002000F6"
+
+  - name: "Greed-Galeforce"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041B4 00000060"
+      - "705041B4 0020006F"
+
+  - name: "Greed-Kaiken"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041B2 00000006"
+      - "705041B2 002000F6"
+
+  - name: "Greed-Kazekirimaru"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041B2 00000060"
+      - "705041B2 0020006F"
+
+  - name: "Greed-Kunai"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041B1 00000060"
+      - "705041B1 0020006F"
+
+  - name: "Greed-Nakinue"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041B3 00000006"
+      - "705041B3 002000F6"
+
+  - name: "Greed-Shutensou"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041B3 00000060"
+      - "705041B3 0020006F"
+
+  - name: "Hualin-Cepheus Seal"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041C6 00000006"
+      - "705041C6 002000F6"
+
+  - name: "Hualin-Duel Rod"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041C5 00000006"
+      - "705041C5 002000F6"
+
+  - name: "Hualin-Iron Staff"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041C4 00000060"
+      - "705041C4 0020006F"
+
+  - name: "Hualin-Kunlun Bamboo"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041C5 00000060"
+      - "705041C5 0020006F"
+
+  - name: "Hualin-Mushakuboh"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041C3 00000060"
+      - "705041C3 0020006F"
+
+  - name: "Hualin-Quarterstaff"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041C4 00000006"
+      - "705041C4 002000F6"
+
+  - name: "Hwang-Blue Thunder"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041BB 00000006"
+      - "705041BB 002000F6"
+
+  - name: "Hwang-Bonebreaker Sword"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041BA 00000060"
+      - "705041BA 0020006F"
+
+  - name: "Hwang-Dragon Sword"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041BB 00000060"
+      - "705041BB 0020006F"
+
+  - name: "Hwang-Falchion"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041B9 00000060"
+      - "705041B9 0020006F"
+
+  - name: "Hwang-Lei Yan"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041BA 00000006"
+      - "705041BA 002000F6"
+
+  - name: "Hwang-Po Shan"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041B9 00000006"
+      - "705041B9 002000F6"
+
+  - name: "Hwang-Qing Long"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041B8 00000060"
+      - "705041B8 0020006F"
+
+  - name: "Li Long-Falcon"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041E0 00000060"
+      - "705041E0 0020006F"
+
+  - name: "Li Long-Gemini Rod"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041DE 00000060"
+      - "705041DE 0020006F"
+
+  - name: "Li Long-Huoshen"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041DF 00000060"
+      - "705041DF 0020006F"
+
+  - name: "Li Long-Nunchaku"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041DE 00000006"
+      - "705041DE 002000F6"
+
+  - name: "Li Long-Shuang Lei"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041E0 00000006"
+      - "705041E0 002000F6"
+
+  - name: "Li Long-Zhongkui"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041DF 00000006"
+      - "705041DF 002000F6"
+
+  - name: "Luna-Dujiao Gui"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041BE 00000006"
+      - "705041BE 002000F6"
+
+  - name: "Luna-Dystopia"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041BE 00000060"
+      - "705041BE 0020006F"
+
+  - name: "Luna-Heisheng Jian"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041BC 00000006"
+      - "705041BC 002000F6"
+
+  - name: "Luna-Huan Luo"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041BC 00000060"
+      - "705041BC 0020006F"
+
+  - name: "Luna-Jiaotu Jian"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041BD 00000006"
+      - "705041BD 002000F6"
+
+  - name: "Luna-Midnight"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041BF 00000060"
+      - "705041BF 0020006F"
+
+  - name: "Luna-Rune Blade"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041BD 00000060"
+      - "705041BD 0020006F"
+
+  - name: "Luna-Soul Calibur"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041BF 00000006"
+      - "705041BF 002000F6"
+
+  - name: "Lynette-Cepheus Seal"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041DD 00000060"
+      - "705041DD 0020006F"
+
+  - name: "Lynette-Mazurka"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041DB 00000060"
+      - "705041DB 0020006F"
+
+  - name: "Lynette-Melody Ring"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041DB 00000006"
+      - "705041DB 002000F6"
+
+  - name: "Lynette-Menard"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041DC 00000060"
+      - "705041DC 0020006F"
+
+  - name: "Lynette-Tarantella"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041DC 00000006"
+      - "705041DC 002000F6"
+
+  - name: "Lynette-Terpsichore"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041DD 00000006"
+      - "705041DD 002000F6"
+
+  - name: "Miser-Genma & Kokuen"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041B0 00000006"
+      - "705041B0 002000F6"
+
+  - name: "Miser-Onimaro & Tobikage"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041AE 00000060"
+      - "705041AE 0020006F"
+
+  - name: "Miser-Red Crow & Rusty Wing"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041B1 00000006"
+      - "705041B1 002000F6"
+
+  - name: "Miser-Suigetsutou & Ukifune"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041AF 00000060"
+      - "705041AF 0020006F"
+
+  - name: "Miser-Totsuka & Tatsugashira"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041B0 00000060"
+      - "705041B0 0020006F"
+
+  - name: "Miser-Tsubanari & Ryusei"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041AF 00000006"
+      - "705041AF 002000F6"
+
+  - name: "Olcadan-The Ancient"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041AC 00000060"
+      - "705041AC 0020006F"
+
+  - name: "Olcadan-The Fierce"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041AA 00000060"
+      - "705041AA 0020006F"
+
+  - name: "Olcadan-The Hidden"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041AB 00000060"
+      - "705041AB 0020006F"
+
+  - name: "Olcadan-The Mute"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041A9 00000060"
+      - "705041A9 0020006F"
+
+  - name: "Olcadan-The Perceptive"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041AA 00000006"
+      - "705041AA 002000F6"
+
+  - name: "Olcadan-The Savage"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041AB 00000006"
+      - "705041AB 002000F6"
+
+  - name: "Olcadan-The Silent"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041A9 00000006"
+      - "705041A9 002000F6"
+
+  - name: "Olcadan-The Tease"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041AC 00000006"
+      - "705041AC 002000F6"
+
+  - name: "Revenant-Atropos"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041E3 00000006"
+      - "705041E3 002000F6"
+
+  - name: "Revenant-Aya & Hongya"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041E2 00000060"
+      - "705041E2 0020006F"
+
+  - name: "Revenant-Double Fang"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041E2 00000006"
+      - "705041E2 002000F6"
+
+  - name: "Revenant-Gatekeeper"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041E3 00000060"
+      - "705041E3 0020006F"
+
+  - name: "Revenant-Leviathan"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041E4 00000006"
+      - "705041E4 002000F6"
+
+  - name: "Revenant-Mantis Blade"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041E1 00000060"
+      - "705041E1 0020006F"
+
+  - name: "Revenant-Wave Sword"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041E1 00000006"
+      - "705041E1 002000F6"
+
+  - name: "Setsuka-Broken Bamboo Sword"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041A0 00000006"
+      - "705041A0 002000F6"
+
+  - name: "Setsuka-Moonlight"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "7050419F 00000006"
+      - "7050419F 002000F6"
+
+  - name: "Setsuka-Ridicule"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "7050419E 00000006"
+      - "7050419E 002000F6"
+
+  - name: "Setsuka-Shiranamigasumi"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "7050419E 00000060"
+      - "7050419E 0020006F"
+
+  - name: "Setsuka-The Ancient"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041A0 00000060"
+      - "705041A0 0020006F"
+
+  - name: "Setsuka-Ugetsu Kageuchi"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "7050419D 00000006"
+      - "7050419D 002000F6"
+
+  - name: "Setsuka-Ugetsu Kageuchi 2"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "7050419D 00000060"
+      - "7050419D 0020006F"
+
+  - name: "Setsuka-Ugetsu Shinuchi"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "7050419F 00000060"
+      - "7050419F 0020006F"
+
+  - name: "Strife-Alondite"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041D5 00000060"
+      - "705041D5 0020006F"
+
+  - name: "Strife-Ambition"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041D6 00000006"
+      - "705041D6 002000F6"
+
+  - name: "Strife-Brutal Terra"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041D7 00000006"
+      - "705041D7 002000F6"
+
+  - name: "Strife-Claymore"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041D4 00000006"
+      - "705041D4 002000F6"
+
+  - name: "Strife-Demon Knife"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041D4 00000060"
+      - "705041D4 0020006F"
+
+  - name: "Strife-Great Sword"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041D3 00000060"
+      - "705041D3 0020006F"
+
+  - name: "Strife-Hercules Sword"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041D5 00000006"
+      - "705041D5 002000F6"
+
+  - name: "Strife-Soul Edge"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041D6 00000060"
+      - "705041D6 0020006F"
+
+  - name: "Tira-Aiselne Drossel"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041A1 00000006"
+      - "705041A1 002000F6"
+
+  - name: "Tira-Aiselne Drossel 2"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041A1 00000060"
+      - "705041A1 0020006F"
+
+  - name: "Tira-Bifrost"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041A2 00000006"
+      - "705041A2 002000F6"
+
+  - name: "Tira-Cogwheel"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041A4 00000006"
+      - "705041A4 002000F6"
+
+  - name: "Tira-Ixion"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041A2 00000060"
+      - "705041A2 0020006F"
+
+  - name: "Tira-Soul Edge"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041A3 00000060"
+      - "705041A3 0020006F"
+
+  - name: "Tira-The Ancient"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041A4 00000060"
+      - "705041A4 0020006F"
+
+  - name: "Tira-Vimana"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041A3 00000006"
+      - "705041A3 002000F6"
+
+  - name: "Valeria-Cailleach Bheur"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041C1 00000060"
+      - "705041C1 0020006F"
+
+  - name: "Valeria-Cepheus Seal"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041C2 00000060"
+      - "705041C2 0020006F"
+
+  - name: "Valeria-Grieve Edge"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041C0 00000060"
+      - "705041C0 0020006F"
+
+  - name: "Valeria-Hell's Design"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041C3 00000006"
+      - "705041C3 002000F6"
+
+  - name: "Valeria-Kick Edge"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041C0 00000006"
+      - "705041C0 002000F6"
+
+  - name: "Valeria-Senjinsoku"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041C1 00000006"
+      - "705041C1 002000F6"
+
+  - name: "Valeria-Svadilfari"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041C2 00000006"
+      - "705041C2 002000F6"
+
+  - name: "Yun-Seong-Cheng Ying"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "7050419A 00000060"
+      - "7050419A 0020006F"
+
+  - name: "Yun-Seong-Child's Sword"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "7050419C 00000006"
+      - "7050419C 002000F6"
+
+  - name: "Yun-Seong-Giant Butcher Knife"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "7050419A 00000006"
+      - "7050419A 002000F6"
+
+  - name: "Yun-Seong-Han Guang"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "7050419B 00000060"
+      - "7050419B 0020006F"
+
+  - name: "Yun-Seong-Ramdao"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "7050419B 00000006"
+      - "7050419B 002000F6"
+
+  - name: "Yun-Seong-The Ancient"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "7050419C 00000060"
+      - "7050419C 0020006F"
+
+  - name: "Yun-Seong-White Storm"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "70504199 00000006"
+      - "70504199 002000F6"
+
+  - name: "Yun-Seong-White Storm 2"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "70504199 00000060"
+      - "70504199 0020006F"
+
+  - name: "Zasalamel-Ankou"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041A6 00000006"
+      - "705041A6 002000F6"
+
+  - name: "Zasalamel-Balor"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041A6 00000060"
+      - "705041A6 0020006F"
+
+  - name: "Zasalamel-Beak"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041A8 00000006"
+      - "705041A8 002000F6"
+
+  - name: "Zasalamel-Irkalla"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041A7 00000060"
+      - "705041A7 0020006F"
+
+  - name: "Zasalamel-Kafziel"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041A5 00000006"
+      - "705041A5 002000F6"
+
+  - name: "Zasalamel-Kafziel 2"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041A5 00000060"
+      - "705041A5 0020006F"
+
+  - name: "Zasalamel-Mrtyu"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041A7 00000006"
+      - "705041A7 002000F6"
+
+  - name: "Zasalamel-The Ancient"
+    author: "Code Master"
+    notes: "[Unlock Weapon Codes (Part 2)]"
+    codes:
+      - "705041A8 00000060"
+      - "705041A8 0020006F"
+
+  - name: "Must Be ON For Weapon Modifier"
+    author: "Codejunkies"
+    notes: "[Weapon Modifier Codes (Always Use Weapon From...)]"
+    codes:
+      - "204479B4 0803FFD0"
+      - "200FFF40 3C02004B"
+      - "200FFF50 3C02004D"
+      - "200FFF5C 08111E6F"
+
+  - name: "Blocking Disabled Both Players"
+    author: "nolberto82"
+    codes:
+      - "201D889C 00000000"
+      - "201D88A8 10000007"
+
+  - name: "Disable Start + Select To Main Menu"
+    author: "nolberto82"
+    codes:
+      - "201977FC 34060000"
+
+  - name: "Extra Characters"
+    author: "Codejunkies"
+    codes:
+      - "40504118 00050001"
+      - "66666666 00000000"
+
+  - name: "Extra Modes"
+    author: "Codejunkies"
+    codes:
+      - "20504140 66666666"
+      - "20504144 66666666"
+
+  - name: "Invincibility P1"
+    author: "nolberto82"
+    codes:
+      - "201DB948 00000000"
+
+  - name: "Low Health P1"
+    author: "MadCatz"
+    codes:
+      - "D04B5F26 00303F80"
+      - "204B5F24 3F800000"
+
+  - name: "Low Health P2"
+    author: "MadCatz"
+    codes:
+      - "D04D36A6 00303F80"
+      - "204D36A4 3F800000"
+
+  - name: "P2 Is Charade (Press Select+L2+R2)"
+    author: "Hacc"
+    codes:
+      - "D046DC72 0000FCFE"
+      - "104D1FE0 00000028"
+
+  - name: "Unlock All Characters / Museum / Movies"
+    author: "MadCatz"
+    codes:
+      - "40504118 012D0001"
+      - "66666666 00000000"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90422238 00832021"
+
+  - name: "Hit Anywhere P1/P2 Cant Hit P1"
+    author: "Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "201D89E4 32250080"
+      - "201D89E8 10A00064"
+
+  - name: "Hit Anywhere P2/P1 Cant Hit P2"
+    author: "Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "201D89E4 32250080"
+      - "201D89E8 14A00064"
+
+  - name: "Buying Items Doesnt Decrease Gold"
+    author: "Code Master"
+    notes: "[Shop Codes]"
+    codes:
+      - "2038E698 00000000"

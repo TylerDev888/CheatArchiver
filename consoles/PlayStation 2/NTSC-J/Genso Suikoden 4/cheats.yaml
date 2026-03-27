@@ -1,0 +1,24 @@
+# Genso Suikoden 4 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65600
+
+game: "Genso Suikoden 4"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65600"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90499298 0C12644E"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9048A220 0C123D05"

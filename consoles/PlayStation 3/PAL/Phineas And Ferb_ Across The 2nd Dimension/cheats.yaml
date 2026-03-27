@@ -1,0 +1,21 @@
+# Phineas And Ferb_ Across The 2nd Dimension cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01349
+
+game: "Phineas And Ferb_ Across The 2nd Dimension"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01349"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32:0 (required)"
+    notes: "File: SAVEGAME.BIN  (set range:0x000008,0x0040AF)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000008,pointer"
+      - "set [hash]:CRC32:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x000004:[hash]"

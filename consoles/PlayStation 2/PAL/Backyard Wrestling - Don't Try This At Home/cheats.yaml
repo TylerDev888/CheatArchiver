@@ -1,0 +1,49 @@
+# Backyard Wrestling - Don't Try This At Home cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51986
+
+game: "Backyard Wrestling - Don't Try This At Home"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51986"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02EFAE4 002EFAE7"
+
+  - name: "1 Hit Kill P2"
+    author: "Codejunkies"
+    codes:
+      - "103D2F78 00000001"
+
+  - name: "All Characters"
+    author: "Codejunkies"
+    codes:
+      - "20145498 AC40000C"
+
+  - name: "All Levels"
+    author: "Codejunkies"
+    codes:
+      - "20145760 AC400008"
+
+  - name: "Debug Menu"
+    author: "Codejunkies"
+    codes:
+      - "D09FA502 0000FFF9"
+      - "2046F154 00000001"
+
+  - name: "P1 Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "103CFE38 000009C4"
+
+  - name: "P2 Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "103D2F78 000009C4"

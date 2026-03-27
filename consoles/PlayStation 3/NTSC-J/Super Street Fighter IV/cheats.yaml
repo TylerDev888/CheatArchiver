@@ -1,0 +1,56 @@
+# Super Street Fighter IV cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM60203
+
+game: "Super Street Fighter IV"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM60203"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Unlock All Normal Titles"
+    notes: "File: SAVEDATA"
+    codes:
+      - "42004FA4 01010101"
+      - "40740004 00000000"
+      - "10005174 00000101"
+
+  - name: "Unlock All Ex Titles"
+    notes: "File: SAVEDATA"
+    codes:
+      - "10005176 00000101"
+      - "42005178 01010101"
+      - "40070004 00000000"
+
+  - name: "Unlock All Character Colors"
+    notes: "File: SAVEDATA"
+    codes:
+      - "42004D4C 01010101"
+      - "40030004 00000000"
+
+  - name: "Update Crc32 (required)"
+    notes: "File: SAVEDATA  (set range:0x000004,0x01226B)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"
+
+  - name: "Update Crc32 For Swansave (required)"
+    notes: "File: SWANSAVE  (set range:0x000004,0x00C184)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"
+
+  - name: "Update Crc32 For Swanrply (required)"
+    notes: "File: SWANRPLY  (set range:0x000004,0x00AC25) (:SAVEDATA) ([Unlock All Normal Titles]) (42004FA4 01010101) (40740004 00000000) (10005174 00000101) ([Unlock All EX Titles]) (10005176 00000101) (42005178 01010101) (40070004 00000000) ([Unlock All Character Colors]) (42004D4C 01010101) (40030004 000..."
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"

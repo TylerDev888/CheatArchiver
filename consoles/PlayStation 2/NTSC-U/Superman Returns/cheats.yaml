@@ -1,0 +1,34 @@
+# Superman Returns cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21434
+
+game: "Superman Returns"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21434"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90359AF0 0C0D03F4"
+
+  - name: "Infinite Metropolis Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 3C013F80"
+      - "200C0224 080AA850"
+      - "200C0228 AC41000C"
+      - "202A9FBC 0C030088"
+
+  - name: "Infinite Stamina"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202AA0A4 24102710"
+      - "202AA118 AC50000C"

@@ -1,0 +1,214 @@
+# Need For Speed - Underground 2 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52725
+
+game: "Need For Speed - Underground 2"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52725"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F012EFDC 000001FD"
+
+  - name: "AR Max Below 3.14 Fix"
+    author: "Codejunkies"
+    codes:
+      - "20429038 3C03200F"
+      - "2042903C 8C65FFF8"
+      - "20429040 24040079"
+      - "20429044 24030074"
+      - "20429048 0000000C"
+      - "2042904C 3C010043"
+      - "20429050 AC209048"
+
+  - name: "Disable Collisions"
+    author: "Codejunkies"
+    codes:
+      - "2030853C 24020000"
+
+  - name: "Disable Racer AI"
+    author: "Codejunkies"
+    codes:
+      - "20121B10 03E00008"
+      - "20121B14 00000000"
+
+  - name: "Easy Two Wheelin'"
+    author: "Codejunkies"
+    codes:
+      - "20330CD0 41000000"
+
+  - name: "Freeze Timer"
+    author: "Codejunkies"
+    codes:
+      - "20330C78 00000000"
+
+  - name: "Instant Refill Turbo"
+    author: "Codejunkies"
+    codes:
+      - "200FFF00 3C030054"
+      - "200FFF04 8C63E160"
+      - "200FFF08 10030003"
+      - "200FFF10 24013E80"
+      - "200FFF14 AC610474"
+      - "200FFF1C 8F83EDC8"
+      - "200FFF20 080B70AF"
+      - "202DC2B8 0803FFC0"
+
+  - name: "Always 1 Lap Races"
+    author: "Codejunkies"
+    notes: "[Lap Modifier Codes]"
+    codes:
+      - "0053E420 00000001"
+
+  - name: "Always 2 Lap Races"
+    author: "Codejunkies"
+    notes: "[Lap Modifier Codes]"
+    codes:
+      - "0053E420 00000002"
+
+  - name: "Always 3 Lap Races"
+    author: "Codejunkies"
+    notes: "[Lap Modifier Codes]"
+    codes:
+      - "0053E420 00000003"
+
+  - name: "Always 4 Lap Races"
+    author: "Codejunkies"
+    notes: "[Lap Modifier Codes]"
+    codes:
+      - "0053E420 00000004"
+
+  - name: "Always 5 Lap Races"
+    author: "Codejunkies"
+    notes: "[Lap Modifier Codes]"
+    codes:
+      - "0053E420 00000005"
+
+  - name: "Always 6 Lap Races"
+    author: "Codejunkies"
+    notes: "[Lap Modifier Codes]"
+    codes:
+      - "0053E420 00000006"
+
+  - name: "Always 7 Lap Races"
+    author: "Codejunkies"
+    notes: "[Lap Modifier Codes]"
+    codes:
+      - "0053E420 00000007"
+
+  - name: "Always 8 Lap Races"
+    author: "Codejunkies"
+    notes: "[Lap Modifier Codes]"
+    codes:
+      - "0053E420 00000008"
+
+  - name: "Always 9 Lap Races"
+    author: "Codejunkies"
+    notes: "[Lap Modifier Codes]"
+    codes:
+      - "0053E420 00000009"
+
+  - name: "Always 10 Lap Races"
+    author: "Codejunkies"
+    notes: "[Lap Modifier Codes]"
+    codes:
+      - "0053E420 0000000A"
+
+  - name: "Micro Machine View"
+    author: "Codejunkies"
+    notes: "[Lap Modifier Codes]"
+    codes:
+      - "205620F4 41000000"
+      - "205620F8 41000000"
+      - "205620FC 41000000"
+
+  - name: "Max Cash"
+    author: "Codejunkies"
+    codes:
+      - "204EF864 5FAB6661"
+
+  - name: "Max Money Spent On Car"
+    author: "Codejunkies"
+    codes:
+      - "204F7888 05F5E0FF"
+
+  - name: "Maximum Race Entered"
+    author: "Codejunkies"
+    codes:
+      - "204F0E60 05FAB000"
+
+  - name: "Open All Cars (Quick Race)"
+    author: "Codejunkies"
+    codes:
+      - "20271D1C 00000000"
+
+  - name: "Open Parts"
+    author: "Codejunkies"
+    codes:
+      - "20271874 00000000"
+      - "202719CC 00000000"
+      - "20271A84 00000000"
+      - "20271B3C 00000000"
+      - "20271BEC 00000000"
+
+  - name: "Open Quick Race Tracks"
+    author: "Codejunkies"
+    codes:
+      - "2026B3D0 00000000"
+      - "2026B450 24020001"
+
+  - name: "Hyper Mode (Press X And Up To Activate)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "E002BFEF 00523302"
+      - "20150E30 3C014F00"
+      - "20150E38 44810000"
+
+  - name: "Normal Speed (Press X And Left To Activate)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "E002BF7F 00523302"
+      - "20150E30 C780892C"
+      - "20150E38 46000802"
+
+  - name: "Slow Motion (Press X And Down To Activate)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "E002BFBF 00523302"
+      - "20150E30 3C013E00"
+      - "20150E38 44810000"
+
+  - name: "Stupid AI"
+    author: "Codejunkies"
+    codes:
+      - "E10100FD 00523302"
+      - "2056193C 4FAB1111"
+      - "E10100FB 00523302"
+      - "2056193C 40490FD0"
+
+  - name: "Turbo Available"
+    author: "Codejunkies"
+    codes:
+      - "203051F8 24037200"
+      - "203051FC AC830438"
+      - "20305214 00000000"
+      - "2030542C 3C017200"
+      - "20305430 AE01042C"
+      - "20305458 3C013F80"
+      - "2030545C 44810000"
+
+  - name: "Turtoise Traffic"
+    author: "Codejunkies"
+    codes:
+      - "2013C0D8 3C014000"
+      - "2013C0E0 44810000"

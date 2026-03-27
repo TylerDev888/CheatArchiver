@@ -1,0 +1,21 @@
+# Prince of Persia cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00389
+
+game: "Prince of Persia"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00389"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 (required)"
+    notes: "File: 187B080C.DE  (set range:0x000000,0x012105) (write at 0x012106:[hash])"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:CRC32"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"

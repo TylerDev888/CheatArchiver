@@ -1,0 +1,28 @@
+# Dynasty Warriors_ Gundam 3 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01301
+
+game: "Dynasty Warriors_ Gundam 3"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01301"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Money"
+    notes: "File: DATA.BIN"
+    codes:
+      - "2005353C 05F5E0FF"
+
+  - name: "Mobile Suit Lab Max Exp"
+    notes: "File: DATA.BIN"
+    codes:
+      - "20044154 000F423F"
+
+  - name: "Unlock All Licenses"
+    notes: "File: DATA.BIN"
+    codes:
+      - "00053547 000000FF"
+      - "20053548 FFFFFFFF"

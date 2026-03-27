@@ -1,0 +1,77 @@
+# Kirby's Epic Yarn cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  RK5E01
+
+game: "Kirby's Epic Yarn"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "RK5E01"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Player 1 - Wiimote"
+    notes: "[Joker]"
+    codes:
+      - "808FC4C0 0000[Joker:Wii]"
+
+  - name: "Have Max Beads After Stage/Buying Stuff"
+    author: "Skiller"
+    codes:
+      - "04200084 4800000C"
+      - "0420009C 48000008"
+
+  - name: "Stage/World Unlocker"
+    author: "Skiller"
+    codes:
+      - "C21FFB44 00000003"
+      - "80A30004 2C050001"
+      - "4082000C 38A00002"
+      - "90A30004 00000000"
+      - "C21FFB60 00000002"
+      - "38A00003 90A30004"
+      - "60000000 00000000"
+      - "C2065320 00000002"
+      - "38600003 90640000"
+      - "60000000 00000000"
+
+  - name: "Have All Place Objects"
+    author: "Skiller"
+    codes:
+      - "C2417B28 00000003"
+      - "3C000100 90030004"
+      - "38000002 90030000"
+      - "60000000 00000000"
+
+  - name: "Have All Wallpaper"
+    author: "Skiller"
+    codes:
+      - "C249F9A8 00000003"
+      - "3C000100 90050004"
+      - "38000001 90050000"
+      - "60000000 00000000"
+
+  - name: "Max Streak"
+    author: "Skiller"
+    notes: "[In Stage Codes]"
+    codes:
+      - "041FF804 40810004"
+
+  - name: "Max Beads"
+    author: "Skiller"
+    notes: "[In Stage Codes]"
+    codes:
+      - "041FF000 3880270F"
+
+  - name: "Stop Timers"
+    author: "Skiller"
+    notes: "[In Stage Codes]"
+    codes:
+      - "041FEF34 9003001C"
+
+  - name: "Hide And Seek Compleat On 1 Find"
+    author: "Skiller"
+    notes: "[In Stage Codes]"
+    codes:
+      - "041FF410 90A30048"

@@ -1,0 +1,159 @@
+# Kill Switch cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20706
+
+game: "Kill Switch"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20706"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F035D30C 0035D30F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0035D30F"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "9035D30C 0C0E0745"
+
+  - name: "60Hz (Note)"
+    author: "Codejunkies"
+    codes:
+      - "203703DC 3C060002"
+
+  - name: "Extra Ammo"
+    author: "Code Master"
+    codes:
+      - "20250788 00461021"
+
+  - name: "Extra Grenades"
+    author: "Code Master"
+    codes:
+      - "1018B6D8 00000001"
+
+  - name: "Freeze Countdown Timers"
+    author: "Codejunkies"
+    codes:
+      - "E0020801 0020ECEC"
+      - "D020ECEE 00004600"
+      - "2020ECEC 46000806"
+
+  - name: "Have All Weapons"
+    author: "Codejunkies"
+    codes:
+      - "201E3D28 24030001"
+
+  - name: "Infinite Ammo"
+    author: "Code Master"
+    codes:
+      - "20250790 00000000"
+
+  - name: "Infinite Ammo In Mag"
+    author: "Codejunkies"
+    codes:
+      - "20263C20 24420000"
+
+  - name: "Infinite Grenades"
+    author: "Code Master"
+    codes:
+      - "2018B6DC 00000000"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    codes:
+      - "2018DF40 8E411334"
+      - "2018DF48 AE41132C"
+
+  - name: "Infinite Time (Timed Missions)"
+    author: "Code Master"
+    codes:
+      - "202015D4 00000000"
+
+  - name: "Infinite: Ammo (No Reload)"
+    author: "MadCatz"
+    codes:
+      - "20250218 24413634"
+
+  - name: "Infinite: Grenades"
+    author: "MadCatz"
+    codes:
+      - "2018B6D8 2461FFFF"
+
+  - name: "Infinite: Health"
+    author: "MadCatz"
+    codes:
+      - "2018CB74 3C0140C0"
+      - "2018CB78 AE01132C"
+
+  - name: "Infinite: Mission Time"
+    author: "MadCatz"
+    codes:
+      - "202015CC 46000806"
+
+  - name: "Never Reload"
+    author: "Code Master"
+    codes:
+      - "2025021C 00000000"
+
+  - name: "Open All Levels"
+    author: "Codejunkies"
+    codes:
+      - "203CA464 00000035"
+
+  - name: "Reloading Does Not Use Up Ammo"
+    author: "Codejunkies"
+    codes:
+      - "202641F0 00000000"
+
+  - name: "Skip Fmv"
+    author: "Codejunkies"
+    codes:
+      - "20375BD0 24020001"
+
+  - name: "Unlock All Levels"
+    author: "Codejunkies"
+    codes:
+      - "203CD5AC 00000035"
+
+  - name: "Unlock Mission Select (Main Menu)"
+    author: "Code Master"
+    codes:
+      - "203CD5AC 00000024"
+
+  - name: "Unlock: Mission Select"
+    author: "MadCatz"
+    codes:
+      - "2025AFF4 28420001"
+
+  - name: "Y-Fix"
+    author: "Codejunkies"
+    codes:
+      - "00370754 00000010"
+      - "003707C4 00000010"
+      - "00370808 00000010"
+      - "00370894 00000010"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0035D30F"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9035D30C 0C0E0745"

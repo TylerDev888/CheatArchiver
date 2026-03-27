@@ -1,0 +1,51 @@
+# Gunfighter 2 - Legend Of Jesse James cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51289
+
+game: "Gunfighter 2 - Legend Of Jesse James"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51289"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01C0724 001C0727"
+
+  - name: "(M) Must Be On (AR/GS V1)"
+    author: "davintheraven"
+    notes: "[Master Codes]"
+    codes:
+      - "F0155950 000001FD"
+
+  - name: "Every Kill Is Worth $9999"
+    author: "Codejunkies"
+    codes:
+      - "2017988C 2405270F"
+
+  - name: "Infinite Ammo/No Reloads"
+    author: "Codejunkies"
+    codes:
+      - "20196598 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "20196C44 00000000"
+
+  - name: "Press L3 To Freeze Timer"
+    author: "Codejunkies"
+    codes:
+      - "D03C7D92 0000FFFD"
+      - "201793A8 00000000"
+
+  - name: "Press R3 To Unfreeze Timer"
+    author: "Codejunkies"
+    codes:
+      - "D03C7D92 0000FFFB"
+      - "201793A8 46010001"

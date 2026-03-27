@@ -1,0 +1,38 @@
+# Spy Vs. Spy cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53078
+
+game: "Spy Vs. Spy"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53078"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01001E8 001001EB"
+
+  - name: "All Cheats Opened (Features Unlock All & Invincibility)"
+    author: "Codejunkies"
+    codes:
+      - "2040FD34 8C900000"
+      - "2040FD38 3C01BF80"
+      - "2040FD3C 14300002"
+      - "2040FD40 00000000"
+      - "2040FD44 AC800000"
+      - "2040FD48 08064E0C"
+      - "201937D0 08103F4D"
+
+  - name: "AR Max<3.14 Fix"
+    author: "Codejunkies"
+    codes:
+      - "202D5718 3C03200F"
+      - "202D5720 8C65FFF8"
+      - "202D5724 24040079"
+      - "202D5728 24030074"
+      - "202D572C 0000000C"

@@ -1,0 +1,20 @@
+# F1 2012 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01664
+
+game: "F1 2012"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01664"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Secuinfo.bin (required)"
+    notes: "File: SECUINFO.BIN"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"

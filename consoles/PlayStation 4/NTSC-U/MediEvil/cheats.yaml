@@ -1,0 +1,20 @@
+# MediEvil cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA11227
+
+game: "MediEvil"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA11227"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Super Max HealthVial (Universal)"
+    author: "Doomguy"
+    notes: "File: @MediEvil\\d+\\ue4savegame.ps4.sav"
+    codes:
+      - "8001000B 45787472"
+      - "61486561 6C746800"
+      - "28000025 00FFFFFF"

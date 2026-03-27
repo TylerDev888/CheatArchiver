@@ -1,0 +1,36 @@
+# Salt And Sanctuary cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA02353
+
+game: "Salt And Sanctuary"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA02353"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Super Max Black Pearls"
+    author: "Zeraf3000"
+    notes: "File: savedata\\dat[0-5]\\.slv"
+    codes:
+      - "8001000B 626C6163"
+      - "6B5F7065 61726C00"
+      - "1800000F 00000640"
+
+  - name: "Super Max Gray Pearls(Must have at least 1 before use)"
+    author: "Zeraf3000"
+    notes: "File: savedata\\dat[0-5]\\.slv"
+    codes:
+      - "8001000A 67726179"
+      - "5F706561 726C0000"
+      - "1800000E 000003E7"
+
+  - name: "Max Stat Bonuses(for any class)"
+    author: "Zeraf3000"
+    notes: "[Must level character:{{to max level 549 and unlock THE ENTIRE skill tree first before using this.}}]  File: savedata\\dat[0-5]\\.slv"
+    codes:
+      - "80010004 25020000"
+      - "49000004 00000063"
+      - "419B0004 00000000"

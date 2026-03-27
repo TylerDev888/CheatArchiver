@@ -1,0 +1,24 @@
+# Great Escape, The cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51315
+
+game: "Great Escape, The"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51315"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F03505DC 003505DF"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "20186884 3C014370"
+      - "2018688C AC810060"

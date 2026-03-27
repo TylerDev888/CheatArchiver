@@ -1,0 +1,28 @@
+# Dead Rising cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA04513
+
+game: "Dead Rising"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA04513"
+cheat_type: "AP"
+source: "source: discord"
+
+cheats:
+  - name: "Unlock All Modes & Unlock All Unlockables"
+    notes: "File: deadrising"
+    codes:
+      - "A00000A0 00000020"
+      - "FF7D7DF3 FDF90300"
+      - "FF7D7DF3 FDF90300"
+      - "CA092600 00000000"
+      - "604F8200 78022600"
+
+  - name: "Update Custom Checksum (required)"
+    notes: "File: deadrising"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x0000,pointer"
+      - "set [csum]:deadrising_checksum"

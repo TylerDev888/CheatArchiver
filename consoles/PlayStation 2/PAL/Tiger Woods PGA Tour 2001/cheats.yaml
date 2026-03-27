@@ -1,0 +1,28 @@
+# Tiger Woods PGA Tour 2001 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50118
+
+game: "Tiger Woods PGA Tour 2001"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50118"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F018FB7C 000001FD"
+
+  - name: "Always Hole In One"
+    author: "InterAct"
+    codes:
+      - "11CE046C 00000000"
+
+  - name: "Challenge Modifier"
+    author: "InterAct"
+    codes:
+      - "11CDF68E 00000014"

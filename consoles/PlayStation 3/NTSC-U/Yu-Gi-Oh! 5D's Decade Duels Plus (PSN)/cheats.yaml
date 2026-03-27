@@ -1,0 +1,26 @@
+# Yu-Gi-Oh! 5D's Decade Duels Plus (PSN) cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUB30903
+
+game: "Yu-Gi-Oh! 5D's Decade Duels Plus (PSN)"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUB30903"
+cheat_type: "Save Editor"
+source: "Code created by Zephyer - Checksum created by Zeick"
+
+cheats:
+  - name: "Have All Cards (x3)"
+    notes: "File: AUTOSAVE"
+    codes:
+      - "400020F0 00000006"
+      - "4F3C0004 00000000"
+
+  - name: "Default:update Crc32 (required)"
+    notes: "File: AUTOSAVE"
+    codes:
+      - "set range:0x10,0x5E50"
+      - "set [hash]:crc32"
+      - "write at 0x0C:[hash]"
+      - "write at 0x0C:xor:B7554EF7"

@@ -1,0 +1,47 @@
+# Uncharted 4_ A Thief's End cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA00341
+
+game: "Uncharted 4_ A Thief's End"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA00341"
+cheat_type: "AP"
+source: "decryption/checksums: by bucanero"
+
+cheats:
+  - name: "Decrypt Usr-data (required)"
+    notes: "File: USR-DATA  () (add cheat codes here) ()"
+    codes:
+      - "set [end]:read(EOF-3, 4)"
+      - "set [end]:endian_swap"
+      - "set range:0x000008,[end]+7"
+      - "DECRYPT blowfish_ecb(\"(SH[@2>r62%5+QKpy|g6\")"
+
+  - name: "Update Crc32 Checksum For Usr-data (required)"
+    notes: "File: USR-DATA"
+    codes:
+      - "set [block_length]:read(0x58C,4)"
+      - "set [block_length]:endian_swap"
+      - "set [block_length]:[block_length]+0x587"
+      - "set range:0x58C,[block_length]"
+      - "set [hash]:crc32"
+      - "set [hash]:endian_swap"
+      - "write at 0x588:[hash]"
+
+  - name: "Update Hmac Sha1 Checksum For Usr-data (required)"
+    notes: "File: USR-DATA"
+    codes:
+      - "set pointer:EOF-0x1F"
+      - "set range:0x000008,pointer"
+      - "set [hash]:hmac_sha1(\"xM;6X%/p^L/:}-5QoA+K8:F*M!~sb(WK<E%6sW_un0a[7Gm6,()kHoXY+yI/s;Ba\")"
+      - "write next (0):[hash]"
+
+  - name: "Encrypt Usr-data (required)"
+    notes: "File: USR-DATA"
+    codes:
+      - "set [end]:read(EOF-3, 4)"
+      - "set [end]:endian_swap"
+      - "set range:0x000008,[end]+7"
+      - "ENCRYPT blowfish_ecb(\"(SH[@2>r62%5+QKpy|g6\")"

@@ -1,0 +1,42 @@
+# Commandos 2-Men Of Courage cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20086
+
+game: "Commandos 2-Men Of Courage"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20086"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "906267DC 0C185D12"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 8F838D28"
+      - "200C0224 24010001"
+      - "200C0228 54600001"
+      - "200C022C A0610006"
+      - "200C0230 03E00008"
+      - "200C0234 00000000"
+      - "206267F4 08030088"
+
+  - name: "Enemies Cant See You"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0240 8F838D28"
+      - "200C0244 24010001"
+      - "200C0248 54600001"
+      - "200C024C A0610003"
+      - "200C0250 03E00008"
+      - "200C0254 00000000"
+      - "206174F0 08030090"

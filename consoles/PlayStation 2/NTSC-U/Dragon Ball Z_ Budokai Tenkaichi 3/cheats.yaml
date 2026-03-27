@@ -1,0 +1,283 @@
+# Dragon Ball Z_ Budokai Tenkaichi 3 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21678
+
+game: "Dragon Ball Z_ Budokai Tenkaichi 3"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21678"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "902B3D18 0C0ACEEE"
+
+  - name: "Activator For Below Codes (MUST BE ON)"
+    notes: "[Misc Codes]"
+    codes:
+      - "20296084 08028000"
+      - "200A0000 3C020030"
+      - "200A0004 8C42EB14"
+      - "200A0008 1040002E"
+      - "200A0010 24030CA4"
+      - "200A0014 00621021"
+      - "200A00C4 03E00008"
+
+  - name: "Inf HP"
+    notes: "[Character 1]"
+    codes:
+      - "200A001C 8C430004"
+      - "200A0020 AC430000"
+
+  - name: "Inf Sparking/Skill"
+    notes: "[Character 1]"
+    codes:
+      - "200A0024 8C430010"
+      - "200A0028 AC43000C"
+      - "200A002C 8C430018"
+      - "200A0030 AC430014"
+      - "200A0034 AC43001C"
+
+  - name: "R2 Instant Dealth (enemy 1 Character 1)"
+    notes: "[Character 1]"
+    codes:
+      - "200A0054 3C030033"
+      - "200A0058 9063381D"
+      - "200A005C 240400FD"
+      - "200A0060 14640018"
+      - "200A0068 24031600"
+      - "200A006C 00621021"
+      - "200A0074 AC400000"
+
+  - name: "Activator For Player 1/Player 2:"
+    notes: "[Ported Codes]"
+    codes:
+      - "201CE1D0 0803FC00"
+      - "200FF000 8F81A8A4"
+      - "200FF004 24212000"
+      - "200FF008 0041082B"
+      - "200FF00C 10200012"
+      - "200FF050 03E00008"
+      - "200FF0A0 03E00008"
+
+  - name: "Infinite Health"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FF010 8C410004"
+      - "200FF014 AC410000"
+
+  - name: "Infinite Ki"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FF018 8C410010"
+      - "200FF01C AC41000C"
+
+  - name: "Max Blast Stocks"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FF020 8C410018"
+      - "200FF024 AC410014"
+
+  - name: "Sparking!!"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FF028 8C410018"
+      - "200FF02C AC41001C"
+
+  - name: "No Health"
+    notes: "[Player 2 CODES]"
+    codes:
+      - "200FF058 24010000"
+      - "200FF05C AC410000"
+
+  - name: "No Ki"
+    notes: "[Player 2 CODES]"
+    codes:
+      - "200FF060 24010000"
+      - "200FF064 AC41000C"
+
+  - name: "No Blast Stocks"
+    notes: "[Player 2 CODES]"
+    codes:
+      - "200FF068 24010000"
+      - "200FF06C AC410014"
+
+  - name: "No Sparking"
+    notes: "[Player 2 CODES]"
+    codes:
+      - "200FF070 24010000"
+      - "200FF074 AC41001C"
+
+  - name: "Max Z Points"
+    notes: "[Have All Codes]"
+    codes:
+      - "206BC668 05F5E0FF"
+
+  - name: "All Characters (condensed Version)"
+    notes: "[Have All Codes]"
+    codes:
+      - "406BA250 00050001"
+      - "FFFFFFFF 00000000"
+      - "006BA264 000000FF"
+
+  - name: "All Characters (un-Condensed Version)"
+    notes: "[Have All Codes]"
+    codes:
+      - "206BA250 FFFFFFFF"
+      - "206BA254 FFFFFFFF"
+      - "206BA258 FFFFFFFF"
+      - "206BA25C FFFFFFFF"
+      - "206BA260 FFFFFFFF"
+      - "006BA264 000000FF"
+
+  - name: "All Stages"
+    notes: "[Have All Codes]"
+    codes:
+      - "206BA268 FFFFFFFF"
+      - "206BA26C FFFFFFFF"
+
+  - name: "All Musics"
+    notes: "[Have All Codes]"
+    codes:
+      - "206BA270 FFFFFFFF"
+
+  - name: "All Z Items"
+    notes: "[Have All Codes]"
+    codes:
+      - "406BC508 00260001"
+      - "01010101 00000000"
+
+  - name: "All 7 Dragon Balls"
+    notes: "[Have All Codes]"
+    codes:
+      - "006B9648 0000007F"
+
+  - name: "Remove Potaras Ability Limit"
+    notes: "[Have All Codes]"
+    codes:
+      - "406BAE7C 0061000E"
+      - "00000023 00000000"
+
+  - name: "All Tournament Mode Opened"
+    notes: "[Have All Codes]"
+    codes:
+      - "206BA048 FFFFFFFF"
+      - "206BA04C FFFFFFFF"
+
+  - name: "All Stories Opened *not Savable*"
+    notes: "[Have All Codes]"
+    codes:
+      - "2033DE4C 24020001"
+      - "20338A1C 2403FFFF"
+
+  - name: "Disable Ai"
+    notes: "[Have All Codes]"
+    codes:
+      - "201D4448 24020000"
+
+  - name: "No Disk Fusion"
+    notes: "[Have All Codes]"
+    codes:
+      - "D03795BC 0000025C"
+      - "203795C0 00000000"
+
+  - name: "Max Level"
+    notes: "[Sim Dragon - Status Codes]"
+    codes:
+      - "006AF7CC 00000006"
+
+  - name: "Max HP"
+    notes: "[Sim Dragon - Status Codes]"
+    codes:
+      - "006AF7D8 00000064"
+
+  - name: "Max Attack"
+    notes: "[Sim Dragon - Status Codes]"
+    codes:
+      - "006AF7D0 00000032"
+
+  - name: "Max Defense"
+    notes: "[Sim Dragon - Status Codes]"
+    codes:
+      - "006AF7D4 00000032"
+
+  - name: "Max Points"
+    notes: "[Sim Dragon - Status Codes]"
+    codes:
+      - "206AF7DC 0098967F"
+
+  - name: "Slot 1 & 2 - Custom 1"
+    notes: "[All Characters Item Mod]"
+    codes:
+      - "406BAE48 0061000E"
+      - "0XXX0YYY 00000000"
+
+  - name: "Slot 3 & 4 - Custom 1"
+    notes: "[All Characters Item Mod]"
+    codes:
+      - "406BAE4C 0061000E"
+      - "0XXX0YYY 00000000"
+
+  - name: "Slot 5 & 6- Custom 1"
+    notes: "[All Characters Item Mod]"
+    codes:
+      - "406BAE50 0061000E"
+      - "0XXX0YYY 00000000"
+
+  - name: "Slot 7 & 8 - Custom 1"
+    notes: "[All Characters Item Mod]"
+    codes:
+      - "406BAE54 0061000E"
+      - "0XXX0YYY 00000000"
+
+  - name: "Slot 1 & 2 - Custom 2"
+    notes: "[All Characters Item Mod]"
+    codes:
+      - "406BAE58 0061000E"
+      - "0XXX0YYY 00000000"
+
+  - name: "Slot 3 & 4 - Custom 2"
+    notes: "[All Characters Item Mod]"
+    codes:
+      - "406BAE5C 0061000E"
+      - "0XXX0YYY 00000000"
+
+  - name: "Slot 5 & 6- Custom 2"
+    notes: "[All Characters Item Mod]"
+    codes:
+      - "406BAE60 0061000E"
+      - "0XXX0YYY 00000000"
+
+  - name: "Slot 7 & 8 - Custom 2"
+    notes: "[All Characters Item Mod]"
+    codes:
+      - "406BAE64 0061000E"
+      - "0XXX0YYY 00000000"
+
+  - name: "Slot 1 & 2 - Custom 3"
+    notes: "[All Characters Item Mod]"
+    codes:
+      - "406BAE68 0061000E"
+      - "0XXX0YYY 00000000"
+
+  - name: "Slot 3 & 4 - Custom 3"
+    notes: "[All Characters Item Mod]"
+    codes:
+      - "406BAE6C 0061000E"
+      - "0XXX0YYY 00000000"
+
+  - name: "Slot 5 & 6 - Custom 3"
+    notes: "[All Characters Item Mod]"
+    codes:
+      - "406BAE70 0061000E"
+      - "0XXX0YYY 00000000"
+
+  - name: "Slot 7 & 8 - Custom 3"
+    notes: "[All Characters Item Mod]"
+    codes:
+      - "406BAE74 0061000E"
+      - "0XXX0YYY 00000000"

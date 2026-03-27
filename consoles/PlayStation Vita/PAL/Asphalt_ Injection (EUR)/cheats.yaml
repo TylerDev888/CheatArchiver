@@ -1,0 +1,17 @@
+# Asphalt_ Injection (EUR) cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00040
+
+game: "Asphalt_ Injection (EUR)"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00040"
+cheat_type: "Save Editor"
+source: "Credits: Slade"
+
+cheats:
+  - name: "9,999,999 Cash"
+    notes: "File: profile.sav"
+    codes:
+      - "20000FF4 0098967F"

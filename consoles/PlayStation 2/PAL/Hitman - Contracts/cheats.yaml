@@ -1,0 +1,49 @@
+# Hitman - Contracts cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52136
+
+game: "Hitman - Contracts"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52136"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0450C0C 00450C0F"
+
+  - name: "God Mode"
+    author: "Codejunkies"
+    codes:
+      - "20507318 3F800000"
+
+  - name: "Infinite Ammo/No Reload"
+    author: "Codejunkies"
+    codes:
+      - "1020F9AC 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "203A3990 00000000"
+
+  - name: "Infinite Saves"
+    author: "Codejunkies"
+    codes:
+      - "1037BD94 00000000"
+
+  - name: "Infinite/Max Ammo"
+    author: "Codejunkies"
+    codes:
+      - "20444D80 24040001"
+      - "20444D88 AC610BAC"
+
+  - name: "Invisible"
+    author: "Codejunkies"
+    codes:
+      - "20506A40 3F800000"

@@ -1,0 +1,37 @@
+# Cart Fury Racing cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Cart Fury Racing"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001EA45F"
+
+  - name: "No Barrels In Driving 101 Barrels"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "00609140 68092800"
+
+  - name: "Cars"
+    author: "Xploder"
+    notes: "[Unlock All]"
+    codes:
+      - "005AC209 6809287F"
+      - "005AC20A 6809287F"
+
+  - name: "Tracks"
+    author: "Xploder"
+    notes: "[Unlock All]"
+    codes:
+      - "005AC20D 680928FF"
+      - "005AC20E 680928FF"

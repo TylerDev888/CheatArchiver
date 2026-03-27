@@ -1,0 +1,76 @@
+# Little Britain_ The Video Game cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54494
+
+game: "Little Britain_ The Video Game"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54494"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "ON"
+    author: "Skiller"
+    notes: "[Skating]"
+    codes:
+      - "2019D8E4 E6810190"
+
+  - name: "OFF"
+    author: "Skiller"
+    notes: "[Skating]"
+    codes:
+      - "2019D8E4 E6800190"
+
+  - name: "Diving"
+    author: "Skiller"
+    notes: "[Max Score]"
+    codes:
+      - "201157A0 3C03000F"
+      - "201157A4 3463423F"
+      - "201157AC AE230004"
+
+  - name: "Biscuits"
+    author: "Skiller"
+    notes: "[Max Score]"
+    codes:
+      - "20242404 3C02000F"
+      - "20242408 3442423F"
+
+  - name: "Skate"
+    author: "Skiller"
+    notes: "[Max Score]"
+    codes:
+      - "2019EBD0 3C02000F"
+      - "2019EBD8 3442423F"
+
+  - name: "POX"
+    author: "Skiller"
+    notes: "[Max Score]"
+    codes:
+      - "201A6644 3C03000F"
+      - "201A6648 3463423F"
+
+  - name: "Llandewi Breffi"
+    author: "Skiller"
+    notes: "[Max Score]"
+    codes:
+      - "2018183C 3C02000F"
+      - "2018184C 3442423F"
+      - "20181E80 3C02000F"
+      - "20181E8C 3442423F"
+
+  - name: "Unlock Tour"
+    author: "Skiller"
+    codes:
+      - "20245F8C 00000000"
+      - "20245F90 00000000"
+      - "20245F94 00000000"
+      - "20245F98 00000000"
+      - "20245F9C 00000000"
+      - "20245FA0 00000000"
+      - "20245FA4 00000000"
+      - "20245FA8 00000000"
+      - "20245FAC 00000000"
+      - "20245FB0 00000000"

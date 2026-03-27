@@ -1,0 +1,37 @@
+# Nun Attack (EUR) cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00264
+
+game: "Nun Attack (EUR)"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00264"
+cheat_type: "Save Editor"
+source: "Credits: Slade"
+
+cheats:
+  - name: "9,999,999 Gold"
+    notes: "File: SAVEGAME_000.sav"
+    codes:
+      - "20000034 0098967F"
+
+  - name: "Max Level Eva"
+    notes: "File: SAVEGAME_000.sav"
+    codes:
+      - "10000078 0000C350"
+
+  - name: "Max Level Rosy"
+    notes: "File: SAVEGAME_000.sav"
+    codes:
+      - "100000F4 0000C350"
+
+  - name: "Max Level Olga"
+    notes: "File: SAVEGAME_000.sav"
+    codes:
+      - "10000170 0000C350"
+
+  - name: "Max Level Mandy"
+    notes: "File: SAVEGAME_000.sav"
+    codes:
+      - "100001EC 0000C350"

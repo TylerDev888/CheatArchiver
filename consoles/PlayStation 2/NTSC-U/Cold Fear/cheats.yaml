@@ -1,0 +1,106 @@
+# Cold Fear cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21047
+
+game: "Cold Fear"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21047"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01446E8 001446EB"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "9036CF20 0C05B72A"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "90180060 0C05B72A"
+
+  - name: "All Bonus Material Open"
+    author: "Codejunkies"
+    codes:
+      - "20345E88 24020001"
+
+  - name: "Infinite Ammo"
+    author: "MadCatz"
+    codes:
+      - "201F6B50 24450000"
+      - "201F6B38 24450000"
+
+  - name: "Infinite Ammo/No Reload"
+    author: "Codejunkies"
+    codes:
+      - "201F6B50 24450000"
+      - "201F6B38 24450000"
+      - "202239F8 00000000"
+      - "202239F8 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "200FFF00 3C03437A"
+      - "200FFF04 AC830530"
+      - "200FFF08 8C990000"
+      - "200FFF0C 8F390098"
+      - "200FFF10 0807C128"
+      - "201F0498 0803FFC0"
+
+  - name: "Infinite Life (Health)"
+    author: "MadCatz"
+    codes:
+      - "201F1674 C6000874"
+      - "201F1680 E6000530"
+
+  - name: "Infinite Resistance"
+    author: "MadCatz"
+    codes:
+      - "20384308 E6001DC8"
+
+  - name: "Extra Ammo (All Weapons)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "101F6B38 00000001"
+
+  - name: "Infinite Ammo (All Weapons)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201F6B38 00000000"
+
+  - name: "Max Infinite Ammo (All Weapons)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201F1ECC 240703E7"
+
+  - name: "Never Reload (All Weapons)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "101F6B50 00000000"
+
+  - name: "Unlock Extreme Difficulty"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "00A55116 00000001"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9036CF20 0C05B72A"

@@ -1,0 +1,35 @@
+# Knockout Kings 2001 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50130
+
+game: "Knockout Kings 2001"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50130"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01B5070 001D0ED7"
+
+  - name: "Infinite Ability Points"
+    author: "InterAct"
+    codes:
+      - "1024D028 00000091"
+
+  - name: "Instant K.O."
+    author: "Codejunkies"
+    notes: "[K.O. Codes]"
+    codes:
+      - "1031A360 0000000A"
+
+  - name: "Never Get K.O.'D"
+    author: "Codejunkies"
+    notes: "[K.O. Codes]"
+    codes:
+      - "1031A360 00000001"

@@ -1,0 +1,24 @@
+# D.C. II P.S. - Da Capo II Plus Situation cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66924
+
+game: "D.C. II P.S. - Da Capo II Plus Situation"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66924"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9014ADE0 0C052B20"
+
+  - name: "New Game = Debug Menu"
+    author: "punk7890"
+    codes:
+      - "205E24FC 000FB000"
+      - "205E2500 0000808B"

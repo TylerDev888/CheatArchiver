@@ -1,0 +1,68 @@
+# Dark Souls II_ Scholar Of The First Sin cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA01760
+
+game: "Dark Souls II_ Scholar Of The First Sin"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA01760"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Max Health"
+    notes: "File: GAME0000\\userdata00(0[1-9]|10)"
+    codes:
+      - "10000048 0000FFFF"
+
+  - name: "Max All Attributes (99)"
+    notes: "File: GAME0000\\userdata00(0[1-9]|10)"
+    codes:
+      - "41000020 00000063"
+      - "40090002 00000000"
+
+  - name: "Vigor"
+    notes: "File: GAME0000\\userdata00(0[1-9]|10)"
+    codes:
+      - "00000020 00000063"
+
+  - name: "Endurance"
+    notes: "File: GAME0000\\userdata00(0[1-9]|10)"
+    codes:
+      - "00000022 00000063"
+
+  - name: "Vitality"
+    notes: "File: GAME0000\\userdata00(0[1-9]|10)"
+    codes:
+      - "00000024 00000063"
+
+  - name: "Attunement"
+    notes: "File: GAME0000\\userdata00(0[1-9]|10)"
+    codes:
+      - "00000026 00000063"
+
+  - name: "Strength"
+    notes: "File: GAME0000\\userdata00(0[1-9]|10)"
+    codes:
+      - "00000028 00000063"
+
+  - name: "Dexterity"
+    notes: "File: GAME0000\\userdata00(0[1-9]|10)"
+    codes:
+      - "0000002A 00000063"
+
+  - name: "Adaptability"
+    notes: "File: GAME0000\\userdata00(0[1-9]|10)"
+    codes:
+      - "0000002C 00000063"
+
+  - name: "Intelligence"
+    notes: "File: GAME0000\\userdata00(0[1-9]|10)"
+    codes:
+      - "0000002E 00000063"
+
+  - name: "Faith"
+    notes: "File: GAME0000\\userdata00(0[1-9]|10)"
+    codes:
+      - "00000030 00000063"

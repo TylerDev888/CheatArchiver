@@ -1,0 +1,80 @@
+# The Sims 2 Castaway cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21664
+
+game: "The Sims 2 Castaway"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21664"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "904851A0 0C121410"
+
+  - name: "Max Motives"
+    author: "CMX"
+    notes: "[Motives]"
+    codes:
+      - "2025006C 00000000"
+
+  - name: "Energy Never Decreases"
+    author: "CMX"
+    notes: "[Motives]"
+    codes:
+      - "201FEB08 00000000"
+
+  - name: "Comfort Never Decreases"
+    author: "CMX"
+    notes: "[Motives]"
+    codes:
+      - "201FEB6C 00000000"
+
+  - name: "Hunger Never Decreases"
+    author: "CMX"
+    notes: "[Motives]"
+    codes:
+      - "201FEB98 00000000"
+
+  - name: "Hygiene Never Decreases"
+    author: "CMX"
+    notes: "[Motives]"
+    codes:
+      - "201FEC00 00000000"
+
+  - name: "Bladder Never Decreases"
+    author: "CMX"
+    notes: "[Motives]"
+    codes:
+      - "201FEC28 00000000"
+
+  - name: "Social Never Decreases"
+    author: "CMX"
+    notes: "[Motives]"
+    codes:
+      - "201FEC38 00000000"
+
+  - name: "Fun Never Decreases"
+    author: "CMX"
+    notes: "[Motives]"
+    codes:
+      - "201FEC48 00000000"
+
+  - name: "Room Never Decreases"
+    author: "CMX"
+    notes: "[Motives]"
+    codes:
+      - "201FEF0C 00000000"
+
+  - name: "Max/Inf Items"
+    author: "SkillerCMP"
+    notes: "[Misc]  Enable All Plans Enable ignore crafting resources"
+    codes:
+      - "2024D864 00000000"
+      - "004923AC 00000001"
+      - "004923B0 00000001"
+      - "004923B4 00000001"

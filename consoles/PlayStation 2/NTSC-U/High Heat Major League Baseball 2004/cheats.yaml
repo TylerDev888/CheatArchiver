@@ -1,0 +1,175 @@
+# High Heat Major League Baseball 2004 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20602
+
+game: "High Heat Major League Baseball 2004"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20602"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 003B5C27"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "903B5C24 0C0F1481"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "119765CC 0000????"
+
+  - name: "Home Team Start With Runs Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D19765CC 00000000"
+      - "119765CC 0000????"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "119765D0 0000????"
+
+  - name: "Away Team Start With Runs Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D19765D0 00000000"
+      - "119765D0 0000????"
+
+  - name: "Start On Inning Modifier (02-09)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D19765B8 00000001"
+      - "119765B8 000000??"
+
+  - name: "P1 Press L1+R1 For No Outs, No Strikes & 3 Balls"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E003F3FF 00591382"
+      - "119765BC 00000000"
+      - "119765C0 00000003"
+      - "119765C4 00000000"
+
+  - name: "P1 Press L2+R2 For 2 Outs, 2 Strikes & No Balls"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E003FCFF 00591382"
+      - "119765BC 00000002"
+      - "119765C0 00000000"
+      - "119765C4 00000002"
+
+  - name: "P2 Press L1+R1 For No Outs, No Strikes & 3 Balls"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E003F3FF 00591482"
+      - "119765BC 00000000"
+      - "119765C0 00000003"
+      - "119765C4 00000000"
+
+  - name: "P2 Press L2+R2 For 2 Outs, 2 Strikes & No Balls"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E003FCFF 00591482"
+      - "119765BC 00000002"
+      - "119765C0 00000000"
+      - "119765C4 00000002"
+
+  - name: "Infinite Outs"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "119765BC 00000000"
+
+  - name: "1 Out And You Are Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D19765BC 00000000"
+      - "119765BC 00000002"
+
+  - name: "2 Outs And You Are Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D19765BC 00000000"
+      - "119765BC 00000001"
+
+  - name: "Infinite Balls"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "119765C0 00000000"
+
+  - name: "1 Ball And You Walk"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D19765C0 00000000"
+      - "119765C0 00000003"
+
+  - name: "2 Balls And You Walk"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D19765C0 00000000"
+      - "119765C0 00000002"
+
+  - name: "3 Balls And You Walk"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D19765C0 00000000"
+      - "119765C0 00000001"
+
+  - name: "Infinite Strikes"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "119765C4 00000000"
+
+  - name: "1 Strike And You Are Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D19765C4 00000000"
+      - "119765C4 00000002"
+
+  - name: "2 Strikes And You Are Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D19765C4 00000000"
+      - "119765C4 00000001"
+
+  - name: "Always Full Count"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "119765C0 00000003"
+      - "119765C4 00000002"
+
+  - name: "Always Full Count & 2 Outs"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "119765BC 00000002"
+      - "119765C0 00000003"
+      - "119765C4 00000002"

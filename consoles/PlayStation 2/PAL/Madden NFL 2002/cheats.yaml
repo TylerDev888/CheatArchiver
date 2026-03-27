@@ -1,0 +1,35 @@
+# Madden NFL 2002 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50422
+
+game: "Madden NFL 2002"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50422"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0265EA0 003D4467"
+
+  - name: "1St Down (Press R2)"
+    author: "Codejunkies"
+    codes:
+      - "D04E08C2 0000FDFF"
+      - "104F6440 00000004"
+
+  - name: "4Th Down (Press L2)"
+    author: "Codejunkies"
+    codes:
+      - "D04E08C2 0000FEFF"
+      - "104F6440 00000004"
+
+  - name: "Infinite Tokens"
+    author: "InterAct"
+    codes:
+      - "31496F23 64DA28EA"

@@ -1,0 +1,48 @@
+# Mega man 10 cheat data
+# Console: Nintendo Wii
+# Region:  PAL
+# Serial:  WRXP
+
+game: "Mega man 10"
+console: "Nintendo Wii"
+region: "PAL"
+serial: "WRXP"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "1 Hit Kills (enemys+bosses)"
+    author: "Skiller"
+    codes:
+      - "C205897C 00000003"
+      - "2C000000 41820008"
+      - "38000000 B01E0030"
+      - "60000000 00000000"
+
+  - name: "Character Select Open"
+    author: "Skiller"
+    codes:
+      - "040F5CD4 38800004"
+      - "040F5CE0 38800003"
+
+  - name: "Gain 999 Screws (on Pickup)"
+    author: "Skiller"
+    codes:
+      - "040744CC 40810004"
+
+  - name: "Have All Weapons"
+    author: "Skiller"
+    codes:
+      - "02535A7E 0000FFFF"
+
+  - name: "Jump To Wily's Castle(hold 1 And Press Right On D-Pad)"
+    author: "Skiller"
+    codes:
+      - "2845348A 00000202"
+      - "02535AEA 000001FF"
+      - "E0000000 80008000"
+
+  - name: "Allow Hard Mode"
+    author: "Skiller"
+    codes:
+      - "025A0A42 0000A006"

@@ -1,0 +1,42 @@
+# NFL Quarterback Club 2002 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50213
+
+game: "NFL Quarterback Club 2002"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50213"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0115E20 001CC657"
+
+  - name: "Away Team Scores 0 (Press R2+L2 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D05939C2 0000FCFF"
+      - "10D1154C 00000000"
+
+  - name: "Away Team Scores 99 (Press R2+R1 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D05939C2 0000F5FF"
+      - "10D1154C 00000063"
+
+  - name: "Home Team Scores 0 (Press L1+R1 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D05939C2 0000F3FF"
+      - "10D0CE8A 00000000"
+
+  - name: "Home Team Scores 99 (Press L1+L2 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D05939C2 0000FAFF"
+      - "10D0CE8A 00000063"

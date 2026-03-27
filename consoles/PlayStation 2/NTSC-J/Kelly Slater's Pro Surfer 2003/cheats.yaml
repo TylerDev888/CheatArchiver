@@ -1,0 +1,24 @@
+# Kelly Slater's Pro Surfer 2003 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65418
+
+game: "Kelly Slater's Pro Surfer 2003"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65418"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90388B00 0C0E2268"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9036CD64 0C0DED99"

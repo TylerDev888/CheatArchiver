@@ -1,0 +1,40 @@
+# My Merry May With Be cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66045
+
+game: "My Merry May With Be"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66045"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010FC10 0C043EAC"
+
+  - name: "Replace New Game With Debug Menu"
+    author: "punk7890"
+    codes:
+      - "D0F1E792 00000002"
+      - "10F1E792 00000003"
+
+  - name: "Unlock All Album"
+    author: "punk7890"
+    codes:
+      - "4055C660 00140001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Unlock All Movies"
+    author: "punk7890"
+    codes:
+      - "2055C5E8 FFFFFFFF"
+
+  - name: "Unlock Special Menu Items"
+    author: "punk7890"
+    codes:
+      - "2055C5E0 FFFFFFFF"

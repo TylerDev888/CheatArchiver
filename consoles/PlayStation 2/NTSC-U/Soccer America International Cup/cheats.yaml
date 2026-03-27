@@ -1,0 +1,108 @@
+# Soccer America International Cup cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20196
+
+game: "Soccer America International Cup"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20196"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0022178F"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9022178C 0C08D2F9"
+
+  - name: "Team A Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "00242D24 000000??"
+      - "00242D2C 000000??"
+
+  - name: "Team B Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "00242D28 000000??"
+      - "00242D2D 000000??"
+
+  - name: "P1 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D06481C2 0000FAFF"
+      - "20242D98 00000000"
+
+  - name: "P1 Press R1+R2 To End Half"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D06481C2 0000FAFF"
+      - "20242D98 0000369D"
+
+  - name: "P2 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D06482C2 0000FAFF"
+      - "20242D98 00000000"
+
+  - name: "P2 Press R1+R2 To End Half"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D06482C2 0000FAFF"
+      - "20242D98 0000369D"
+
+  - name: "Shots On Goal"
+    author: "Code Master"
+    notes: "[Team A Stat Modifier Codes]"
+    codes:
+      - "00242A5E 000000??"
+
+  - name: "Total Shots"
+    author: "Code Master"
+    notes: "[Team A Stat Modifier Codes]"
+    codes:
+      - "00242A5F 000000??"
+
+  - name: "Free Kicks"
+    author: "Code Master"
+    notes: "[Team A Stat Modifier Codes]"
+    codes:
+      - "00242A66 000000??"
+
+  - name: "Corner Kicks"
+    author: "Code Master"
+    notes: "[Team A Stat Modifier Codes]"
+    codes:
+      - "00242A6E 000000??"
+
+  - name: "Penalty Kicks"
+    author: "Code Master"
+    notes: "[Team A Stat Modifier Codes]"
+    codes:
+      - "00242A76 000000??"
+
+  - name: "Yellow Card Modifier"
+    author: "Code Master"
+    notes: "[Team A Stat Modifier Codes]"
+    codes:
+      - "00242A86 000000??"
+
+  - name: "Red Card Modifier"
+    author: "Code Master"
+    notes: "[Team A Stat Modifier Codes]"
+    codes:
+      - "00242A8E 000000??"

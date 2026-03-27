@@ -1,0 +1,241 @@
+# Super Dragonball Z cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54161
+
+game: "Super Dragonball Z"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54161"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F010B034 0010B037"
+
+  - name: "Press L2+DOWN For Slow Motion L2+Right For Normal Speed"
+    author: "Codejunkies"
+    notes: "[Character On The Right]"
+    codes:
+      - "D04EC5A2 0000FEBF"
+      - "205807E4 3E000000"
+      - "D04EC5A2 0000FEDF"
+      - "205807E4 3F800000"
+
+  - name: "Press L2+UP For Ultra Fast L2+Right For Normal Speed"
+    author: "Codejunkies"
+    notes: "[Character On The Right]"
+    codes:
+      - "D04EC5A2 0000FEEF"
+      - "205807E4 3FF00000"
+      - "D04EC5A2 0000FEDF"
+      - "205807E4 3F800000"
+
+  - name: "Press L1+DOWN For Slow Motion, Press L1+Right For Normal Speed"
+    author: "Codejunkies"
+    notes: "[Left Character]"
+    codes:
+      - "D04EC5A2 0000FBBF"
+      - "2057A1E4 3E000000"
+      - "D04EC5A2 0000FBDF"
+      - "2057A1E4 3F800000"
+
+  - name: "Press L1+UP For Ultra Fast, Press L1+Right For Normal Speed"
+    author: "Codejunkies"
+    notes: "[Left Character]"
+    codes:
+      - "D04EC5A2 0000FBEF"
+      - "2057A1E4 3FF00000"
+      - "D04EC5A2 0000FBDF"
+      - "2057A1E4 3F800000"
+
+  - name: "Infinite Energy"
+    author: "Codejunkies"
+    notes: "[Player 1]"
+    codes:
+      - "D05E9C1C 00000000"
+      - "2057A290 453B8000"
+      - "D05E9C1C 00000001"
+      - "20580890 453B8000"
+
+  - name: "Infinite Ki"
+    author: "Codejunkies"
+    notes: "[Player 1]"
+    codes:
+      - "D05E9C1C 00000000"
+      - "2057A298 442F0000"
+      - "D05E9C1C 00000001"
+      - "20580898 442F0000"
+
+  - name: "1 Hit Kill"
+    author: "Codejunkies"
+    notes: "[Player 2]"
+    codes:
+      - "D05E9C1C 00000001"
+      - "2057A290 00000001"
+      - "D05E9C1C 00000000"
+      - "20580890 00000001"
+
+  - name: "Play As Cell Jr"
+    author: "Codejunkies"
+    notes: "[Special Character P1]"
+    codes:
+      - "005E9C24 00000017"
+
+  - name: "Play As Saibaiman"
+    author: "Codejunkies"
+    notes: "[Special Character P1]"
+    codes:
+      - "005E9C24 00000016"
+
+  - name: "All Characters"
+    author: "Codejunkies"
+    notes: "[Tournament: Level Modifier]"
+    codes:
+      - "205E9D2C 01010101"
+      - "205E9D30 01010101"
+      - "205E9D34 01010101"
+      - "205E9D38 01010101"
+      - "205E9D3C 01010101"
+      - "205E9D40 01010101"
+      - "205E9D44 01010101"
+
+  - name: "All Dragon-Balls (Press L1+L2+R1+R2)"
+    author: "Codejunkies"
+    notes: "[Tournament: Level Modifier]"
+    codes:
+      - "D04EC5A2 0000F0FF"
+      - "205ED204 01010101"
+      - "D04EC5A2 0000F0FF"
+      - "205ED208 01010101"
+
+  - name: "All Levels"
+    author: "Codejunkies"
+    notes: "[Tournament: Level Modifier]"
+    codes:
+      - "005E9CFC 00000009"
+
+  - name: "Cyborg Mode Finished"
+    author: "Codejunkies"
+    notes: "[Tournament: Level Modifier]"
+    codes:
+      - "205E9D10 0000FFFF"
+
+  - name: "Debug: Camera Status"
+    author: "Codejunkies"
+    notes: "[Tournament: Level Modifier]"
+    codes:
+      - "20190E10 00000000"
+      - "20190E20 00000000"
+
+  - name: "Earth Blasted"
+    author: "Codejunkies"
+    notes: "[Tournament: Level Modifier]"
+    codes:
+      - "005E9C20 0000000A"
+
+  - name: "Falls"
+    author: "Codejunkies"
+    notes: "[Tournament: Level Modifier]"
+    codes:
+      - "005E9C20 0000000D"
+
+  - name: "Free Cam: Press Select+Up To Activate And Select+Down To Deactivate"
+    author: "Codejunkies"
+    notes: "[Tournament: Level Modifier]"
+    codes:
+      - "D04EC5A2 0000FFEE"
+      - "20190DE4 00000000"
+      - "D04EC5A2 0000FFBE"
+      - "20190DE4 14600007"
+
+  - name: "History Mode Open"
+    author: "Codejunkies"
+    notes: "[Tournament: Level Modifier]"
+    codes:
+      - "205E9D04 00000001"
+
+  - name: "Massives Explosions"
+    author: "Codejunkies"
+    notes: "[Tournament: Level Modifier]"
+    codes:
+      - "201CEE80 3C024080"
+
+  - name: "Max Zenies (Press L1+L2+R1+R2)"
+    author: "Codejunkies"
+    notes: "[Tournament: Level Modifier]"
+    codes:
+      - "D04EC5A2 0000F0FF"
+      - "205ECFC0 0000FFAB"
+
+  - name: "Namek"
+    author: "Codejunkies"
+    notes: "[Tournament: Level Modifier]"
+    codes:
+      - "005E9C20 00000003"
+
+  - name: "Namekan Mode Finished"
+    author: "Codejunkies"
+    notes: "[Tournament: Level Modifier]"
+    codes:
+      - "205E9D0C 0000FFFF"
+
+  - name: "Nature"
+    author: "Codejunkies"
+    notes: "[Tournament: Level Modifier]"
+    codes:
+      - "005E9C20 00000004"
+
+  - name: "Open Mr Satan Mode"
+    author: "Codejunkies"
+    notes: "[Tournament: Level Modifier]"
+    codes:
+      - "005E9CF8 00000001"
+
+  - name: "Saiyan Mode Finished"
+    author: "Codejunkies"
+    notes: "[Tournament: Level Modifier]"
+    codes:
+      - "205E9D08 0000FFFF"
+
+  - name: "Tournament: All Modes"
+    author: "Codejunkies"
+    notes: "[Tournament: Level Modifier]"
+    codes:
+      - "105E9CF4 00000101"
+      - "105ED224 00000101"
+
+  - name: "Enable All Characters"
+    author: "Codejunkies"
+    codes:
+      - "205EA1B0 00003FF0"
+
+  - name: "Infinite Dragon Balls"
+    author: "Codejunkies"
+    codes:
+      - "405EB22C 00200029"
+      - "00007F00 00000000"
+
+  - name: "Infinite Health P1"
+    author: "Codejunkies"
+    codes:
+      - "E002FFFF 005B64F0"
+      - "D05B64F2 0000FFFF"
+      - "205B509C 000000FA"
+      - "E0020000 005B64F0"
+      - "D05B64F2 00000000"
+      - "205B50D4 000000FA"
+
+  - name: "No Health P2"
+    author: "Codejunkies"
+    codes:
+      - "E002FFFF 005B64F0"
+      - "D05B64F2 0000FFFF"
+      - "205B50D4 00000000"
+      - "E0020000 005B64F0"
+      - "D05B64F2 00000000"
+      - "205B509C 00000000"

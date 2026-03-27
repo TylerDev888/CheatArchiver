@@ -1,0 +1,59 @@
+# Drakan - The Ancients' Gates cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97128
+
+game: "Drakan - The Ancients' Gates"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97128"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F04C4EC8 004B068F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 004B068F"
+
+  - name: "Infinite Health"
+    author: "InterAct"
+    codes:
+      - "204FC954 739AA945"
+
+  - name: "Infinite Magic"
+    author: "Code Master"
+    codes:
+      - "204FC964 739AA945"
+
+  - name: "Max Cash"
+    author: "InterAct"
+    codes:
+      - "204FC960 7FFFFF45"
+
+  - name: "Max Money"
+    author: "Code Master"
+    codes:
+      - "204FC960 E953327E"
+
+  - name: "Max Skill Points"
+    author: "InterAct"
+    codes:
+      - "204FC974 739AFF45"
+
+  - name: "Max Unspent Skill Points"
+    author: "Code Master"
+    codes:
+      - "204FC974 739AC845"
+
+  - name: "Quick Level Up"
+    author: "InterAct"
+    codes:
+      - "204FC96C 7FFFFF45"

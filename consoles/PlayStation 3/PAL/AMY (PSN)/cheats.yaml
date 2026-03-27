@@ -1,0 +1,27 @@
+# AMY (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00768
+
+game: "AMY (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00768"
+cheat_type: "Save Editor"
+source: "From Seyfertt"
+
+cheats:
+  - name: "Changing Difficulty: Easy (working)"
+    notes: "File: GAMEDATA.SAV"
+    codes:
+      - "write at 0x00000034:\"EASY\""
+
+  - name: "Changing Difficulty: Hard (working)"
+    notes: "File: GAMEDATA.SAV"
+    codes:
+      - "write at 0x00000034:\"HARD\""
+
+  - name: "Open All Stages (working)"
+    notes: "File: GAMEDATA.SAV"
+    codes:
+      - "write at at 0x00000063:36222F3E"

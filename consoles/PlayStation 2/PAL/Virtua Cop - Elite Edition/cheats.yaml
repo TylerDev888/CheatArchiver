@@ -1,0 +1,76 @@
+# Virtua Cop - Elite Edition cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51229
+
+game: "Virtua Cop - Elite Edition"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51229"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01001A4 000001FD"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "001D0ECA 00000009"
+
+  - name: "Max Score"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "201D0ED8 05F5E0FF"
+
+  - name: "Never Have More Than 1 Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E1010001 301D0ECA"
+      - "001D0ECA 00000001"
+
+  - name: "Never Have More Than 2 Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E1010002 301D0ECA"
+      - "001D0ECA 00000002"
+
+  - name: "Never Have More Than 3 Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E1010003 301D0ECA"
+      - "001D0ECA 00000003"
+
+  - name: "No Reload"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "001FCECC 0000000A"
+
+  - name: "Unlock Gallery"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "20222E74 FFFFFFFF"
+      - "20222E78 FFFFFFFF"
+
+  - name: "Unlock Random Mode"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "0026EF1E 00000001"
+
+  - name: "X99 Multiplier"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "001D0EF0 00000063"

@@ -1,0 +1,107 @@
+# Guilty Gear XX Accent Core - SLUS_216.52.CMP cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21652
+
+game: "Guilty Gear XX Accent Core - SLUS_216.52.CMP"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21652"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "902AA820 0C0AA9B0"
+
+  - name: "Player 1 Controller"
+    notes: "[Jokers]"
+
+  - name: "D041639c 0000[joker:ps2]"
+    notes: "[Jokers]"
+
+  - name: "All Gallery Unlocked"
+    notes: "[Misc]"
+    codes:
+      - "2032355C 01010101"
+      - "20323560 01010101"
+      - "40323590 000C0001"
+      - "01010101 00000000"
+
+  - name: "Skip Fmv (movies)"
+    notes: "[Misc]"
+    codes:
+      - "202BDB88 24020001"
+
+  - name: "All Characters' Color(normal-Ex)and (ac-Gg-Ggx)"
+    notes: "[Misc]"
+    codes:
+      - "203215E0 0000EA60"
+
+  - name: "Start On Level 1000 (survival Mode)"
+    notes: "[Misc]"
+    codes:
+      - "102D5E9C 000003E8"
+
+  - name: "Always Low Time (survival Mode)"
+    notes: "[Misc]"
+    codes:
+      - "202D5E90 00000000"
+
+  - name: "Character Modifier"
+    notes: "[Player 1]"
+    codes:
+      - "00398A58 000000[CMD]"
+
+  - name: "Infinite HP"
+    notes: "[Player 1]"
+    codes:
+      - "11EF801E 000001A4"
+
+  - name: "No HP"
+    notes: "[Player 1]"
+    codes:
+      - "D1EF801E 000001A4"
+      - "11EF801E 00000001"
+
+  - name: "Infinite Tension"
+    notes: "[Player 1]"
+    codes:
+      - "10398C50 00002710"
+
+  - name: "Infinite Guard"
+    notes: "[Player 1]"
+    codes:
+      - "00398C6A 00000080"
+
+  - name: "Infinite Burst"
+    notes: "[Player 1]"
+    codes:
+      - "20398D48 00013A98"
+
+  - name: "Always Blue Traits"
+    notes: "[Player 1]"
+    codes:
+      - "00398C5A 00000001"
+
+  - name: "999 Hits"
+    notes: "[Player 1]"
+    codes:
+      - "10398E98 000003E7"
+
+  - name: "No Tension"
+    notes: "[Player 2]"
+    codes:
+      - "10398D98 00000000"
+
+  - name: "No Guard"
+    notes: "[Player 2]"
+    codes:
+      - "10398DB2 00000000"
+
+  - name: "No Burst"
+    notes: "[Player 2]"
+    codes:
+      - "20398E90 00000000"

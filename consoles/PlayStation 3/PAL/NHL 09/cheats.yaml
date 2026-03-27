@@ -1,0 +1,20 @@
+# NHL 09 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00298
+
+game: "NHL 09"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00298"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Sys-data (required)"
+    notes: "File: SYS-DATA  (set range:0x1C,0x18015F)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x1C,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000010:[hash]"

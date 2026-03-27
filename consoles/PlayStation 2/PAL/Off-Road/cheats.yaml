@@ -1,0 +1,42 @@
+# Off-Road cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-55032
+
+game: "Off-Road"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-55032"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Buy Even Without Money"
+    author: "luc-ita"
+    codes:
+      - "2025CCD0 00000000"
+
+  - name: "Can Buy Unavailable Cars"
+    author: "luc-ita"
+    codes:
+      - "2025CC5C 00000000"
+
+  - name: "Can Select Unavailable Cars"
+    author: "luc-ita"
+    codes:
+      - "2025C0E4 00000000"
+
+  - name: "Drive Through Walls"
+    author: "luc-ita"
+    codes:
+      - "201C8C5C 10000009"
+
+  - name: "Opponents Don't Move"
+    author: "luc-ita"
+    codes:
+      - "201C30D0 00000000"
+
+  - name: "Repair Even Without Money"
+    author: "luc-ita"
+    codes:
+      - "2024F310 00000000"

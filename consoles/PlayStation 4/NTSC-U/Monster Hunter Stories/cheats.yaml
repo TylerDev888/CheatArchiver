@@ -1,0 +1,122 @@
+# Monster Hunter Stories cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA41230
+
+game: "Monster Hunter Stories"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA41230"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Max Money 9999999"
+    notes: "File: mhs_slot_([0-9]+|auto)\\.sav"
+    codes:
+      - "2009B9AC 0098967F"
+
+  - name: "Max All Items Amounts 999(healing,support,materials,facility)"
+    notes: "File: mhs_slot_([0-9]+|auto)\\.sav"
+    codes:
+      - "41000060 000003E7"
+      - "42E20008 00000000"
+
+  - name: "Edit Item Amount"
+    notes: "File: mhs_slot_([0-9]+|auto)\\.sav"
+    codes:
+      - "2000[Item] [AMOUNT:0000270F:HEX:BIG<AMOUNT>]"
+
+  - name: "Level 99"
+    notes: "[Max Player Character Stats]  File: mhs_slot_([0-9]+|auto)\\.sav"
+    codes:
+      - "1000A0A8 00000063"
+
+  - name: "Exp 9,999,999"
+    notes: "[Max Player Character Stats]  File: mhs_slot_([0-9]+|auto)\\.sav"
+    codes:
+      - "2000A0AC 0098967F"
+
+  - name: "Current HP 9999"
+    notes: "[Max Player Character Stats]  File: mhs_slot_([0-9]+|auto)\\.sav"
+    codes:
+      - "1000A090 0000270F"
+
+  - name: "Max HP 9999"
+    notes: "[Max Player Character Stats]  File: mhs_slot_([0-9]+|auto)\\.sav"
+    codes:
+      - "1000A092 0000270F"
+
+  - name: "ATK 9999"
+    notes: "[Max Player Character Stats]  File: mhs_slot_([0-9]+|auto)\\.sav"
+    codes:
+      - "1000A094 0000270F"
+      - "DEF 9999"
+      - "1000A096 0000270F"
+      - "SPD 9999"
+      - "1000A098 0000270F"
+
+  - name: "Monster Slot 1"
+    notes: "[Max Monster Stats]  File: mhs_slot_([0-9]+|auto)\\.sav"
+    codes:
+      - "10042398 00000063"
+      - "2004241C 0098967F"
+      - "10042380 0000270F"
+      - "10042382 0000270F"
+      - "10042384 0000270F"
+      - "10042386 0000270F"
+      - "10042388 0000270F"
+
+  - name: "Monster Slot 2"
+    notes: "[Max Monster Stats]  File: mhs_slot_([0-9]+|auto)\\.sav"
+    codes:
+      - "100425EC 00000063"
+      - "20042670 0098967F"
+      - "100425D4 0000270F"
+      - "100425D6 0000270F"
+      - "100425D8 0000270F"
+      - "100425DA 0000270F"
+      - "100425DC 0000270F"
+
+  - name: "Monster Slot 3"
+    notes: "[Max Monster Stats]  File: mhs_slot_([0-9]+|auto)\\.sav"
+    codes:
+      - "10042840 00000063"
+      - "200428C4 0098967F"
+      - "10042828 0000270F"
+      - "1004282A 0000270F"
+      - "1004282C 0000270F"
+      - "1004282E 0000270F"
+      - "10042830 0000270F"
+
+  - name: "Monster Slot 4"
+    notes: "[Max Monster Stats]  File: mhs_slot_([0-9]+|auto)\\.sav"
+    codes:
+      - "10042A94 00000063"
+      - "20042B18 0098967F"
+      - "10042A7C 0000270F"
+      - "10042A7E 0000270F"
+      - "10042A80 0000270F"
+      - "10042A82 0000270F"
+      - "10042A84 0000270F"
+
+  - name: "Monster Slot 5"
+    notes: "[Max Monster Stats]  File: mhs_slot_([0-9]+|auto)\\.sav"
+    codes:
+      - "10042CE8 00000063"
+      - "20042D6C 0098967F"
+      - "10042CD0 0000270F"
+      - "10042CD2 0000270F"
+      - "10042CD4 0000270F"
+      - "10042CD6 0000270F"
+      - "10042CD8 0000270F"
+
+  - name: "Edit monster Search By Name"
+    notes: "File: mhs_slot_([0-9]+|auto)\\.sav"
+    codes:
+      - "search \"[Amount:Name:UTF08:TXT<Monster Name(case sensitive)>]\""
+      - "write next 0x68:0x[AMOUNT:63:HEX:LITTLE<Level>]"
+      - "write next 0xE4:0x[AMOUNT:0F27:HEX:LITTLE<HP Plus>]"
+      - "write next 0xE5:0x[AMOUNT:0F27:HEX:LITTLE<Attack Plus>]"
+      - "write next 0xE6:0x[AMOUNT:0F27:HEX:LITTLE<Defence Plus>]"
+      - "write next 0xEC:0x[AMOUNT:7F969800:HEX:LITTLE<Exp>]"

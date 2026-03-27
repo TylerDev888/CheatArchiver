@@ -1,0 +1,211 @@
+# Time and Eternity cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01848
+
+game: "Time and Eternity"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01848"
+cheat_type: "Save Editor"
+source: "from savedata.jp"
+
+cheats:
+  - name: "Money 9999999"
+    notes: "File: SAVEDATA.BIN"
+    codes:
+      - "20000214 05F5E0FF"
+
+  - name: "Toki Exp 9999999"
+    notes: "File: SAVEDATA.BIN"
+    codes:
+      - "20000078 0098967F"
+
+  - name: "Towa Exp 9999999"
+    notes: "File: SAVEDATA.BIN"
+    codes:
+      - "20000114 0098967F"
+
+  - name: "Toki 9999 Gp"
+    notes: "File: SAVEDATA.BIN"
+    codes:
+      - "1000007C 0000270F"
+
+  - name: "Towa 9999 Gp"
+    notes: "File: SAVEDATA.BIN"
+    codes:
+      - "10000118 0000270F"
+
+  - name: "Toki Status All Max"
+    notes: "File: SAVEDATA.BIN"
+    codes:
+      - "20000008 0001869F"
+      - "2000000C 0001869F"
+      - "41000018 0000270F"
+      - "40050002 00000000"
+      - "41000024 0000270F"
+      - "40050002 00000000"
+      - "20000034 FFFFFFFF"
+
+  - name: "Towa Status All Max"
+    notes: "File: SAVEDATA.BIN"
+    codes:
+      - "200000A4 0001869F"
+      - "200000A8 0001869F"
+      - "410000B4 0000270F"
+      - "40050002 00000000"
+      - "410000C0 0000270F"
+      - "40050002 00000000"
+      - "200000D0 FFFFFFFF"
+
+  - name: "Drake Status All Max"
+    notes: "File: SAVEDATA.BIN"
+    codes:
+      - "20000140 0001869F"
+      - "20000144 0001869F"
+      - "41000150 0000270F"
+      - "40050002 00000000"
+      - "4100015C 0000270F"
+      - "40030002 00000000"
+      - "2000016C FFFFFFFF"
+
+  - name: "Possession Item 1 To 10 Stock 99"
+    notes: "File: SAVEDATA.BIN"
+    codes:
+      - "4000021E 00000063"
+      - "400A0004 00000000"
+
+  - name: "Toki Max Gift Points"
+    notes: "[Basic Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "1000007C 0000270F"
+
+  - name: "Towa Max Gift Points"
+    notes: "[Basic Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "10000118 0000270F"
+
+  - name: "Toki Max Exp (lv200)"
+    notes: "[Basic Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "20000078 FFFFFFFF"
+
+  - name: "Towa Max Exp (lv200)"
+    notes: "[Basic Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "20000114 FFFFFFFF"
+
+  - name: "Mod Current Hp"
+    notes: "[Toki Related Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "20000008 0001869F"
+
+  - name: "Mod Max Hp"
+    notes: "[Toki Related Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "2000000C 0001869F"
+
+  - name: "Mod Lv 200"
+    notes: "[Toki Related Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "00000017 000000C8"
+
+  - name: "Sword Atk"
+    notes: "[Toki Related Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "10000018 0000270F"
+
+  - name: "Gun Atk"
+    notes: "[Toki Related Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "1000001A 0000270F"
+
+  - name: "Magic Atk"
+    notes: "[Toki Related Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "1000001C 0000270F"
+
+  - name: "Def"
+    notes: "[Toki Related Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "1000001E 0000270F"
+
+  - name: "Magic Def"
+    notes: "[Toki Related Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "10000020 0000270F"
+
+  - name: "Speedy"
+    notes: "[Toki Related Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "10000024 0000270F"
+
+  - name: "Hit"
+    notes: "[Toki Related Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "10000026 0000270F"
+
+  - name: "Lucky"
+    notes: "[Toki Related Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "10000028 0000270F"
+
+  - name: "Kokoruzyo?"
+    notes: "[Toki Related Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "1000002A 0000270F"
+
+  - name: "Lovely?"
+    notes: "[Toki Related Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "1000002C 0000270F"
+
+  - name: "Fire Res"
+    notes: "[Toki Related Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "00000034 000000FF"
+
+  - name: "Ice Res"
+    notes: "[Toki Related Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "00000035 000000FF"
+
+  - name: "Thunder Res"
+    notes: "[Toki Related Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "00000036 000000FF"
+
+  - name: "Sab Res?"
+    notes: "[Toki Related Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "00000037 000000FF"
+
+  - name: "Exp Max(lv200)"
+    notes: "[Toki Related Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "20000078 FFFFFFFF"
+
+  - name: "Gift Point (gp9999)"
+    notes: "[Toki Related Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "1000007C 0000270F"
+
+  - name: "Mod Level 200"
+    notes: "[Towa Related Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "000000B3 000000C8"
+
+  - name: "Exp Max (lv200)"
+    notes: "[Towa Related Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "20000114 FFFFFFFF"
+
+  - name: "Mod Level Lv 200"
+    notes: "[Draco Related Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "0000014F 000000C8"
+
+  - name: "Claw Atk"
+    notes: "[Draco Related Codes]  File: SAVEDATA.BIN"
+    codes:
+      - "10000150 0000270F"

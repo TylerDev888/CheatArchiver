@@ -1,0 +1,40 @@
+# Tomb Raider Legends cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Tomb Raider Legends"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "901070A4 0C0D9CFA"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2000 001F4020"
+      - "200C2004 0C0B62F8"
+      - "200C2008 00034820"
+      - "200C200C E52005E0"
+      - "200C2010 01000008"
+      - "20223C9C 0C030800"
+
+  - name: "Air"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "202C27AC 00000000"
+
+  - name: "Ammo (No Reload)"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "2028D110 00000000"

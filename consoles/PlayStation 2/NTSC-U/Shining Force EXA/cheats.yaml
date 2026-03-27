@@ -1,0 +1,215 @@
+# Shining Force EXA cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21567
+
+game: "Shining Force EXA"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21567"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90105918 0C0415EE"
+
+  - name: "Max G"
+    codes:
+      - "20C548D0 05F5E0FF"
+
+  - name: "Max Mythril (cyrille)"
+    codes:
+      - "20C556EC 05F5E100"
+
+  - name: "Max Mythril (toma)"
+    codes:
+      - "20C55490 05F5E100"
+
+  - name: "Max Mythril (storage)"
+    codes:
+      - "20C548D0 05F5E100"
+
+  - name: "War Items Held"
+    notes: "[How Many Items Shop Holds:{Dont Set To High Can Crash}]"
+    codes:
+      - "004C61F4 000000[Amount:64:HEX:BIG]"
+
+  - name: "Mage Items Held"
+    notes: "[How Many Items Shop Holds:{Dont Set To High Can Crash}]"
+    codes:
+      - "004C61F5 000000[Amount:64:HEX:BIG]"
+
+  - name: "Accessory Held"
+    notes: "[How Many Items Shop Holds:{Dont Set To High Can Crash}]"
+    codes:
+      - "004C61F6 000000[Amount:64:HEX:BIG]"
+
+  - name: "Misc Held"
+    notes: "[How Many Items Shop Holds:{Dont Set To High Can Crash}]"
+    codes:
+      - "004C61F7 000000[Amount:64:HEX:BIG]"
+
+  - name: "Shop Does Not Lose Items (buying)"
+    codes:
+      - "20248F68 00000000"
+
+  - name: "Items Are Free (aka: Skillers Visa)"
+    codes:
+      - "20226428 00000000"
+      - "20226308 00000000"
+      - "2022640C 00000000"
+
+  - name: "Inf MP"
+    codes:
+      - "201C1BB0 00000000"
+
+  - name: "Inf HP"
+    codes:
+      - "2022ECE8 00000000"
+
+  - name: "Foot Speed Maximum"
+    author: "JPN Hackers"
+    codes:
+      - "20229B0C 24010000"
+
+  - name: "Attack Speed Maximum"
+    author: "JPN Hackers"
+    codes:
+      - "2022A484 24010000"
+
+  - name: "Movement S+"
+    author: "JPN Hackers"
+    codes:
+      - "20229B0C 28410001"
+      - "20229B18 240200FA"
+
+  - name: "Footstep 1"
+    author: "JPN Hackers"
+    codes:
+      - "20229BD4 28410001"
+      - "20229BE0 24020001"
+
+  - name: "Locomotion S Rank"
+    author: "JPN Hackers"
+    codes:
+      - "20229B00 240200B4"
+
+  - name: "Attack Range 50m"
+    author: "JPN Hackers"
+    codes:
+      - "201CBCE4 240201F4"
+
+  - name: "Attack Distance 25.5m"
+    author: "JPN Hackers"
+    codes:
+      - "20229CE8 28420001"
+
+  - name: "Gain Gold For Max"
+    author: "JPN Hackers"
+    codes:
+      - "202263B0 10200001"
+
+  - name: "Gain Mythril For Max"
+    author: "JPN Hackers"
+    codes:
+      - "20226488 10200001"
+
+  - name: "Gain EXP For Max"
+    author: "JPN Hackers"
+    codes:
+      - "202241B8 3C053B9A"
+      - "202241BC 34A5C9FF"
+      - "202241C4 10000003"
+
+  - name: "Gain Mithril For Max"
+    author: "JPN Hackers"
+    codes:
+      - "20226488 00000000"
+
+  - name: "Obtained Gold Is Xxxx Times"
+    author: "JPN Hackers"
+    codes:
+      - "20226390 00048[OX]"
+
+  - name: "Obtained Mithril Is Xxxx Times"
+    author: "JPN Hackers"
+    codes:
+      - "20226460 00048[OX]"
+
+  - name: "Obtained EXP Is Xxxx Times"
+    author: "JPN Hackers"
+    codes:
+      - "202241B0 00048[OX]"
+
+  - name: "HP Regenration Fast"
+    author: "JPN Hackers"
+    codes:
+      - "201C8DA0 24010001"
+
+  - name: "MP Regeneration Fast"
+    author: "JPN Hackers"
+    codes:
+      - "201C8ED0 24010001"
+
+  - name: "MP Does Not Deplete"
+    author: "JPN Hackers"
+    codes:
+      - "201C1BAC 00601823"
+      - "201CD4B8 00A01023"
+
+  - name: "Using Items Does Not Deplete"
+    author: "JPN Hackers"
+    codes:
+      - "202AF018 24420000"
+
+  - name: "All Ally Equipment Obtained"
+    author: "JPN Hackers"
+    codes:
+      - "202B684C 24020001"
+      - "202B6850 A2020007"
+
+  - name: "Open Menu For HP/MP Restore"
+    author: "JPN Hackers"
+    codes:
+      - "20200448 8C430490"
+      - "20200458 AC430494"
+      - "20200460 8C430498"
+      - "20200468 AC43049C"
+
+  - name: "Item Mod"
+    notes: "[Item Slot 1]"
+    codes:
+      - "10C556F0 0000[ITE]"
+
+  - name: "Amount Upgraded/Have (9999)"
+    notes: "[Item Slot 1]"
+    codes:
+      - "10C556F4 0000270F"
+
+  - name: "Color"
+    notes: "[Item Slot 1]"
+    codes:
+      - "00C556F6 000000[CO]"
+
+  - name: "Activate Item (must Have On)"
+    notes: "[Item Slot 1]"
+    codes:
+      - "00C556F7 00000001"
+
+  - name: "Addon 1"
+    notes: "[Item Slot 1]"
+    codes:
+      - "00C556F8 00000[EFF]"
+
+  - name: "Addon 2"
+    notes: "[Item Slot 1]"
+    codes:
+      - "00C556F9 00000[EFF]"
+
+  - name: "Special Addon"
+    notes: "[Item Slot 1]"
+    codes:
+      - "00C556FA 00000[EFF]"

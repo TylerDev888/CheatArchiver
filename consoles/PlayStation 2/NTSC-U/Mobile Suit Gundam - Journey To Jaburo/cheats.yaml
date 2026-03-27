@@ -1,0 +1,30 @@
+# Mobile Suit Gundam - Journey To Jaburo cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20175
+
+game: "Mobile Suit Gundam - Journey To Jaburo"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20175"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F014BFCC 0011146F"
+
+  - name: "All Bots Unlocked"
+    author: "InterAct"
+    codes:
+      - "201D01B0 FFFFFFFF"
+      - "201D01B8 FFFFFFFF"
+
+  - name: "All Movies Unlocked"
+    author: "InterAct"
+    codes:
+      - "201D01A8 FFFFFFFF"
+      - "101D01AC 0000FFFF"

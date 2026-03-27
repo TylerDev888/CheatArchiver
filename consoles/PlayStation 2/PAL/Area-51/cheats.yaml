@@ -1,0 +1,50 @@
+# Area-51 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Area-51"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9037B08C 0C0F06F4"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "2026ABE0 03E00008"
+      - "2026ABE4 00000000"
+
+  - name: "Ammo"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "201569D4 00000000"
+      - "20156A94 00000000"
+
+  - name: "Grenades"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20207AB8 00000000"
+
+  - name: "Databank"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "404F9810 00000005"
+      - "FFFFFFFF 00000000"
+
+  - name: "Secrets"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "204F9828 00000015"

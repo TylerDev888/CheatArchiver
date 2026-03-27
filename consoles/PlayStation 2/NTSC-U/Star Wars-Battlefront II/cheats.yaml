@@ -1,0 +1,197 @@
+# Star Wars-Battlefront II cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21240
+
+game: "Star Wars-Battlefront II"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21240"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Masters]"
+    codes:
+      - "905D5800 0C147DED"
+
+  - name: "Infinite Health"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 3C010066"
+      - "200C0224 8C2139B0"
+      - "200C0228 10200006"
+      - "200C022C 00000000"
+      - "200C0230 8C210148"
+      - "200C0234 10200003"
+      - "200C0238 2421FD90"
+      - "200C023C 8C230174"
+      - "200C0240 AC230170"
+      - "200C0244 03E00008"
+      - "200C0248 46001834"
+      - "201DFF8C 0C030088"
+
+  - name: "Infinite Health & 1-Hit Death-All Others"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "200C0250 3C010066"
+      - "200C0254 8C2139B0"
+      - "200C0258 10200008"
+      - "200C025C 00000000"
+      - "200C0260 8C210148"
+      - "200C0264 10200005"
+      - "200C0268 2421FF00"
+      - "200C026C 50310003"
+      - "200C0270 C6210004"
+      - "200C0274 3C03C348"
+      - "200C0278 44830800"
+      - "200C027C 03E00008"
+      - "200C0280 C620001C"
+      - "201DFF68 0C030094"
+
+  - name: "Infinite Ammo"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "203039A0 00000000"
+
+  - name: "Extra Ammo"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "20303998 46080000"
+
+  - name: "Never Reload (Rocket Launcher)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "203038A8 00000000"
+
+  - name: "Never Reload (All Others)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "20303894 00000000"
+
+  - name: "Never Overheat"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "201E2044 00000000"
+
+  - name: "Infinite Jetpack"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "20244608 00000000"
+      - "20247738 00000000"
+
+  - name: "P1 Press L3+Up For Idiot AI On"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "D07D021C 0000FFED"
+      - "00600D58 00000001"
+
+  - name: "P1 Press L3+Down For Idiot AI Off"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "D07D021C 0000FFBD"
+      - "00600D58 00000000"
+
+  - name: "Idiot AI Always On"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "00600D58 00000001"
+
+  - name: "P1 Press R3+Up For Invincibility On"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "D07D021C 0000FFEB"
+      - "00602C54 00000001"
+
+  - name: "P1 Press R3+Down For Invincibility Off"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "D07D021C 0000FFBB"
+      - "00602C54 00000000"
+
+  - name: "Invincibility Always On"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "00602C54 00000001"
+
+  - name: "P1 Press R3+Right For Unlimited Ammo On"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "D07D021C 0000FFDB"
+      - "00602C55 00000001"
+
+  - name: "P1 Press R3+Left For Unlimited Ammo Off"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "D07D021C 0000FF7B"
+      - "00602C55 00000000"
+
+  - name: "Unlimited Ammo Always On"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "00602C55 00000001"
+
+  - name: "P1 Press R2+Right For Demo Mode On"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "D07D021C 0000FDDF"
+      - "00602C4C 00000001"
+
+  - name: "P1 Press R2+Left For Demo Mode Off"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "D07D021C 0000FD7F"
+      - "00602C4C 00000001"
+
+  - name: "Demo Mode Always On"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "00602C4C 00000001"
+
+  - name: "P1 Press R2+Up To Disable Blurriness"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "D07D021C 0000FDEF"
+      - "0060E41C 00000000"
+
+  - name: "P1 Press R2+Down To Enable Blurriness"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "D07D021C 0000FDBF"
+      - "0060E41C 00000001"
+
+  - name: "Blurriness Always Disabled"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "0060E41C 00000000"
+
+  - name: "Blurriness Always Enabled"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "0060E41C 00000000"

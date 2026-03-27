@@ -1,0 +1,164 @@
+# Pro Yakyuu Spirits 2013 cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLAS50575
+
+game: "Pro Yakyuu Spirits 2013"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLAS50575"
+cheat_type: "Save Editor"
+source: "From KE-HA and savedata.jp"
+
+cheats:
+  - name: "Vp 999999(max)(from Mohe)"
+    notes: "[System Data]  File: BLJM60581-SYS\\SYSTEM.DAT"
+    codes:
+      - "20000068 000F423F"
+
+  - name: "Spi Coin 9999999(from Mohe)"
+    notes: "[Grand Prix Data]  File: BLAS50575-GPX-*\\GRNDPRIX.DAT"
+    codes:
+      - "2001DEA0 0098967F"
+
+  - name: "Saihai Point 9999(max)"
+    notes: "[Grand Prix Data]  File: BLAS50575-GPX-*\\GRNDPRIX.DAT"
+    codes:
+      - "1001B512 0000270F"
+
+  - name: "Pitcher Exp All 999999(from Mohe)"
+    notes: "[Star Player Data]  File: BLAS50575-SPL-*\\STARPLYR.DAT"
+    codes:
+      - "200099A8 0001869F"
+      - "200099AC 0001869F"
+      - "200099B0 0001869F"
+      - "200099B4 0001869F"
+      - "200099B8 0001869F"
+      - "200099BC 0001869F"
+      - "200099C0 0001869F"
+      - "200099C4 0001869F"
+      - "200099C8 0001869F"
+
+  - name: "Batter Exp All 99999"
+    notes: "[Star Player Data]  File: BLAS50575-SPL-*\\STARPLYR.DAT"
+    codes:
+      - "200099B8 0001869F"
+      - "200099BC 0001869F"
+      - "200099C0 0001869F"
+      - "200099C4 0001869F"
+      - "200099C8 0001869F"
+
+  - name: "Exp All 99999(from Mohe)"
+    notes: "[Management Data]  File: BLAS50575-FRG-*\\FRNGAME.DAT"
+    codes:
+      - "200C99FC 0001869F"
+      - "200C9A00 0001869F"
+      - "200C9A04 0001869F"
+      - "200C9A08 0001869F"
+      - "200C9A0C 0001869F"
+      - "200C9A10 0001869F"
+      - "200C9A14 0001869F"
+      - "200C9A18 0001869F"
+      - "200C9A1C 0001869F"
+
+  - name: "Assistant Status All Max(200) - Urushido Rina *1st Year(from Ke-ha)"
+    notes: "[Management Data]  File: BLAS50575-FRG-*\\FRNGAME.DAT"
+    codes:
+      - "[YEAR]0004 38000040"
+      - "28000005 C8C8C8C8"
+      - "18000009 0000C8C8"
+      - "0800000B 000000C8"
+
+  - name: "Assistant Status All Max(200) - Mikage Hashiguchi *1st Year"
+    notes: "[Management Data]  File: BLAS50575-FRG-*\\FRNGAME.DAT"
+    codes:
+      - "[YEAR]0004 01014101"
+      - "28000004 C8C8C8C8"
+      - "18000008 0000C8C8"
+      - "0800000A 000000C8"
+
+  - name: "Assistant Status All Max(200) - Keika Sonogami *1st Year"
+    notes: "[Management Data]  File: BLAS50575-FRG-*\\FRNGAME.DAT"
+    codes:
+      - "[YEAR]0004 02024A0A"
+      - "28000004 C8C8C8C8"
+      - "18000008 0000C8C8"
+      - "0800000A 000000C8"
+
+  - name: "Assistant Status All Max(200) - Kanae Maniwa *1st Year"
+    notes: "[Management Data]  File: BLAS50575-FRG-*\\FRNGAME.DAT"
+    codes:
+      - "[YEAR]0004 03035919"
+      - "28000004 C8C8C8C8"
+      - "18000008 0000C8C8"
+      - "0800000A 000000C8"
+
+  - name: "Assistant Status All Max(200) - Kaho Yukino *1st Year"
+    notes: "[Management Data]  File: BLAS50575-FRG-*\\FRNGAME.DAT"
+    codes:
+      - "[YEAR]0004 04045010"
+      - "28000004 C8C8C8C8"
+      - "18000008 0000C8C8"
+      - "0800000A 000000C8"
+
+  - name: "Assistant Status All Max(200) - Nei Mizukoshi *1st Year"
+    notes: "[Management Data]  File: BLAS50575-FRG-*\\FRNGAME.DAT"
+    codes:
+      - "[YEAR]0004 05054808"
+      - "28000004 C8C8C8C8"
+      - "18000008 0000C8C8"
+      - "0800000A 000000C8"
+
+  - name: "Assistant Stutus All Max(200) - Urushido Rina + Four Persons *1st Year"
+    notes: "[Management Data]  File: BLAS50575-FRG-*\\FRNGAME.DAT"
+    codes:
+      - "[YEAR]0004 38000040"
+      - "4A000005 C8C8C8C8"
+      - "40050028 00000000"
+      - "4A000008 C8C8C8C8"
+      - "40050028 00000000"
+
+  - name: "Assistant Stutus All Max(200) - Mikage Hashiguchi + Four Persons *1st Year"
+    notes: "[Management Data]  File: BLAS50575-FRG-*\\FRNGAME.DAT"
+    codes:
+      - "[YEAR]0004 01014101"
+      - "4A000004 C8C8C8C8"
+      - "40050028 00000000"
+      - "4A000007 C8C8C8C8"
+      - "40050028 00000000"
+
+  - name: "Assistant Stutus All Max(200) - Keika Sonogami + Four Persons *1st Year"
+    notes: "[Management Data]  File: BLAS50575-FRG-*\\FRNGAME.DAT"
+    codes:
+      - "[YEAR]0004 02024A0A"
+      - "4A000004 C8C8C8C8"
+      - "40050028 00000000"
+      - "4A000007 C8C8C8C8"
+      - "40050028 00000000"
+
+  - name: "Assistant Stutus All Max(200) - Maniwa Kanae + Four Persons *1st Year"
+    notes: "[Management Data]  File: BLAS50575-FRG-*\\FRNGAME.DAT"
+    codes:
+      - "[YEAR]0004 03035919"
+      - "4A000004 C8C8C8C8"
+      - "40050028 00000000"
+      - "4A000007 C8C8C8C8"
+      - "40050028 00000000"
+
+  - name: "Assistant Stutus All Max(200) - Kaho Yukino + Four Persons *1st Year"
+    notes: "[Management Data]  File: BLAS50575-FRG-*\\FRNGAME.DAT"
+    codes:
+      - "[YEAR]0004 04045010"
+      - "4A000004 C8C8C8C8"
+      - "40050028 00000000"
+      - "4A000007 C8C8C8C8"
+      - "40050028 00000000"
+
+  - name: "Assistant Stutus All Max(200) - Nei Mizukoshi + Four Persons *1st Year"
+    notes: "[Management Data]  File: BLAS50575-FRG-*\\FRNGAME.DAT"
+    codes:
+      - "[YEAR]0004 05054808"
+      - "4A000004 C8C8C8C8"
+      - "40050028 00000000"
+      - "4A000007 C8C8C8C8"
+      - "40050028 00000000"

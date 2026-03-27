@@ -1,0 +1,29 @@
+# 2002 FIFA World Cup cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "2002 FIFA World Cup"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F02B7FEC 000001FD"
+
+  - name: "Player 1 Score 99"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "00396898 00000063"
+
+  - name: "Player 2 Score 0"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "0039689C 00000000"

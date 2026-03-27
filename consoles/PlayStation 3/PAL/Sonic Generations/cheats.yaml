@@ -1,0 +1,22 @@
+# Sonic Generations cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01236
+
+game: "Sonic Generations"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01236"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Lives"
+    notes: "File: SYS-DATA"
+    codes:
+      - "00009FFF 00000063"
+
+  - name: "Max Pt(s)"
+    notes: "File: SYS-DATA"
+    codes:
+      - "2000A110 0001869F"

@@ -1,0 +1,23 @@
+# Metal Slug 6 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25674
+
+game: "Metal Slug 6"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25674"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90105F10 0C04176C"
+
+  - name: "Enable Progressive Mode"
+    author: "punk7890"
+    codes:
+      - "003776D4 00000002"

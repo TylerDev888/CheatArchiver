@@ -1,0 +1,80 @@
+# Egg Mania - Eggstreme Madness cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20452
+
+game: "Egg Mania - Eggstreme Madness"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20452"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0015381F"
+
+  - name: "Always Low Time"
+    author: "Code Master"
+    codes:
+      - "204C03B0 00000000"
+
+  - name: "Max Score P1"
+    author: "Code Master"
+    codes:
+      - "204C05BC 05F5E0FF"
+
+  - name: "Max Score P2"
+    author: "Code Master"
+    codes:
+      - "204C05C0 05F5E0FF"
+
+  - name: "Quick Score Gain P1"
+    author: "Code Master"
+    codes:
+      - "104C05BC 0000FFFF"
+
+  - name: "Quick Score Gain P2"
+    author: "Code Master"
+    codes:
+      - "104C05C0 0000FFFF"
+
+  - name: "All Characters"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "404C07EC 00050001"
+      - "00000000 00000000"
+
+  - name: "Angelica"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "204C07F0 00000000"
+
+  - name: "Poncho"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "204C07F8 00000000"
+
+  - name: "Sir Eggalot"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "204C07F4 00000000"
+
+  - name: "Spook"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "204C07EC 00000000"
+
+  - name: "Yolkohama"
+    author: "Code Master"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "204C07FC 00000000"

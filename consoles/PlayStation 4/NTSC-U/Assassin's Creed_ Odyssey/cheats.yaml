@@ -1,0 +1,36 @@
+# Assassin's Creed_ Odyssey cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA09303
+
+game: "Assassin's Creed_ Odyssey"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA09303"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Exp MOD}"
+    author: "Vicodin10#8882,eliminster"
+    notes: "File: (AutoSave|ManualSave|QuickSave)[0-9]{2}\\(AutoSave|ManualSave|QuickSave)[0-9]{2}.sav"
+    codes:
+      - "8001000C 94D05800"
+      - "00000000 0007000B"
+      - "2800000C [EXPMOD]"
+      - "8002000C 94D05800"
+      - "00000000 0007000B"
+      - "2800000C [EXPMOD]"
+      - "8003000C 94D05800"
+      - "00000000 0007000B"
+      - "2800000C [EXPMOD]"
+      - "8004000C 94D05800"
+      - "00000000 0007000B"
+      - "2800000C [EXPMOD]"
+
+  - name: "Max EXP All"
+    author: "Vicodin10#8882,eliminster"
+    notes: "File: (AutoSave|ManualSave|QuickSave)[0-9]{2}\\(AutoSave|ManualSave|QuickSave)[0-9]{2}.sav"
+    codes:
+      - "4200AFA0 3F420F00"
+      - "400C0348 00000000"

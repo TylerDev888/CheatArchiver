@@ -1,0 +1,20 @@
+# Tank Battles cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00158
+
+game: "Tank Battles"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00158"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Xor For Usr-data (required)"
+    notes: "File: USR-DATA  (set [hash]:xor(0x000008,0x0003EF,4))"
+    codes:
+      - "set [hash]:0"
+      - "set pointer:eof+1"
+      - "set [hash]:xor(0x000008,pointer,4)"
+      - "write at 0x000010:[hash]"

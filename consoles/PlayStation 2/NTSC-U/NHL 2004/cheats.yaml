@@ -1,0 +1,633 @@
+# NHL 2004 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20756
+
+game: "NHL 2004"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20756"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01BE554 001BE557"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0107108 001BE557"
+
+  - name: "All Unlockables"
+    author: "Codejunkies"
+    codes:
+      - "209AF8A8 0FFFFFFF"
+
+  - name: "Breakaways"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1061E0AA 0000????"
+
+  - name: "Empty Net Goals"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1061E08C 0000????"
+
+  - name: "Faceoffs"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1061E090 0000????"
+
+  - name: "Hits"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1061E0B0 0000????"
+
+  - name: "Max Breakaways"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1061E0A8 0000????"
+
+  - name: "Max One-Timers"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1061E0A2 0000????"
+
+  - name: "Max Passing"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1061E0B2 0000????"
+
+  - name: "Max Penalty Shots"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1061E0AC 0000????"
+
+  - name: "Max Powerplays"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1061E094 0000????"
+
+  - name: "One-Timer Goals"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1061E0A6 0000????"
+
+  - name: "One-Timers"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1061E0A4 0000????"
+
+  - name: "Passing"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1061E0B4 0000????"
+
+  - name: "Penalties"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1061E09C 0000????"
+
+  - name: "Penalty Minutes"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1061E09E 0000????"
+
+  - name: "Penalty Shots"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1061E0AE 0000????"
+
+  - name: "Powerplay Minutes"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1061E09A 0000????"
+
+  - name: "Powerplays"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1061E096 0000????"
+
+  - name: "Shorthanted Goals"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1061E088 0000????"
+
+  - name: "Shots"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1061E080 0000????"
+
+  - name: "Time On Attack"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1061E0A0 0000????"
+
+  - name: "Away Team: Faceoffs: 0"
+    author: "MadCatz"
+    codes:
+      - "1061E090 00000000"
+
+  - name: "Away Team: Faceoffs: 99"
+    author: "MadCatz"
+    codes:
+      - "1061E090 00000063"
+
+  - name: "Away Team: Hits: 0"
+    author: "MadCatz"
+    codes:
+      - "1061E0B0 00000000"
+
+  - name: "Away Team: Hits: 99"
+    author: "MadCatz"
+    codes:
+      - "1061E0B0 00000063"
+
+  - name: "Away Team: Max PP"
+    author: "MadCatz"
+    codes:
+      - "1061E094 00000063"
+
+  - name: "Away Team: Pass Rate Always 100"
+    author: "MadCatz"
+    codes:
+      - "1061E0B2 00000063"
+      - "1061E0B4 00000063"
+
+  - name: "Away Team: PP: 99"
+    author: "MadCatz"
+    codes:
+      - "1061E096 00000063"
+
+  - name: "Away Team: Score: 0"
+    author: "MadCatz"
+    codes:
+      - "1061E082 00000000"
+
+  - name: "Away Team: Score: 99"
+    author: "MadCatz"
+    codes:
+      - "1061E082 00000063"
+
+  - name: "Away Team: Shots: 0"
+    author: "MadCatz"
+    codes:
+      - "1061E080 00000000"
+
+  - name: "Away Team: Shots: 99"
+    author: "MadCatz"
+    codes:
+      - "1061E080 00000063"
+
+  - name: "Max Experience"
+    author: "Code Master"
+    notes: "[CPU GM 1 Team Codes]"
+    codes:
+      - "D09C2C10 00004957"
+      - "109C2CF2 00002710"
+
+  - name: "Max Staff/Facility Upgrades"
+    author: "Code Master"
+    notes: "[CPU GM 1 Team Codes]"
+    codes:
+      - "E0024957 009C2C10"
+      - "109C2D2A 0000FFFF"
+      - "209C2D2C FFFFFFFF"
+
+  - name: "Max W%"
+    author: "Code Master"
+    notes: "[CPU GM 1 Team Codes]"
+    codes:
+      - "D09C2C10 00004957"
+      - "109C2D28 000000C8"
+
+  - name: "No Experience"
+    author: "Code Master"
+    notes: "[CPU GM 1 Team Codes]"
+    codes:
+      - "D09C2C10 00004957"
+      - "109C2CF2 00000000"
+
+  - name: "No Staff/Facility Upgrades"
+    author: "Code Master"
+    notes: "[CPU GM 1 Team Codes]"
+    codes:
+      - "E0024957 009C2C10"
+      - "109C2D2A 00000000"
+      - "209C2D2C 00000000"
+
+  - name: "No W%"
+    author: "Code Master"
+    notes: "[CPU GM 1 Team Codes]"
+    codes:
+      - "D09C2C10 00004957"
+      - "109C2D28 00000000"
+
+  - name: "Dynasty Mode: 9999 Upgrade Points"
+    author: "MadCatz"
+    codes:
+      - "218EA4F8 0000270F"
+
+  - name: "Home Team: Faceoffs: 0"
+    author: "MadCatz"
+    codes:
+      - "1061E034 00000000"
+
+  - name: "Home Team: Faceoffs: 99"
+    author: "MadCatz"
+    codes:
+      - "1061E034 00000063"
+
+  - name: "Home Team: Hits: 0"
+    author: "MadCatz"
+    codes:
+      - "1061E054 00000000"
+
+  - name: "Home Team: Hits: 99"
+    author: "MadCatz"
+    codes:
+      - "1061E054 00000063"
+
+  - name: "Home Team: Pass Rate Always 100"
+    author: "MadCatz"
+    codes:
+      - "1061E056 00000063"
+      - "1061E058 00000063"
+
+  - name: "Home Team: PP: 99"
+    author: "MadCatz"
+    codes:
+      - "1061E040 00000063"
+
+  - name: "Home Team: Score: 0"
+    author: "MadCatz"
+    codes:
+      - "1061E026 00000000"
+
+  - name: "Home Team: Score: 99"
+    author: "MadCatz"
+    codes:
+      - "1061E026 00000063"
+
+  - name: "Home Team: Shots: 0"
+    author: "MadCatz"
+    codes:
+      - "1061E024 00000000"
+
+  - name: "Home Team: Shots: 99"
+    author: "MadCatz"
+    codes:
+      - "1061E024 00000063"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "1061E082 0000????"
+
+  - name: "Away Team Start With Score Modifier"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D061E082 00000000"
+      - "1061E082 0000????"
+
+  - name: "Goal's Score Modifier"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "103F7780 000000??"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "1061E026 0000????"
+
+  - name: "Home Team Start With Score Modifier"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D061E026 00000000"
+      - "1061E026 0000????"
+
+  - name: "P1 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D0644FC2 0000FAFF"
+      - "1061646C 000004B0"
+
+  - name: "P1 Press L1+Select For 2Nd Period"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D0644FC2 0000FBFE"
+      - "20616470 00010001"
+
+  - name: "P1 Press L2+Select For 3Rd Period"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D0644FC2 0000FEFE"
+      - "20616470 00020002"
+
+  - name: "P1 Press R1+R2 To End Period"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D0644FC2 0000F5FF"
+      - "1061646C 00000001"
+
+  - name: "P2 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06450C2 0000FAFF"
+      - "1061646C 000004B0"
+
+  - name: "P2 Press L1+Select For 2Nd Period"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06450C2 0000FBFE"
+      - "20616470 00010001"
+
+  - name: "P2 Press L2+Select For 3Rd Period"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06450C2 0000FEFE"
+      - "20616470 00020002"
+
+  - name: "P2 Press R1+R2 To End Period"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06450C2 0000F5FF"
+      - "1061646C 00000001"
+
+  - name: "P3 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06451C2 0000FAFF"
+      - "1061646C 000004B0"
+
+  - name: "P3 Press L1+Select For 2Nd Period"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06451C2 0000FBFE"
+      - "20616470 00010001"
+
+  - name: "P3 Press L2+Select For 3Rd Period"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06451C2 0000FEFE"
+      - "20616470 00020002"
+
+  - name: "P3 Press R1+R2 To End Period"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06451C2 0000F5FF"
+      - "1061646C 00000001"
+
+  - name: "P4 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06452C2 0000FAFF"
+      - "1061646C 000004B0"
+
+  - name: "P4 Press L1+Select For 2Nd Period"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06452C2 0000FBFE"
+      - "20616470 00010001"
+
+  - name: "P4 Press L2+Select For 3Rd Period"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06452C2 0000FEFE"
+      - "20616470 00020002"
+
+  - name: "P4 Press R1+R2 To End Period"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06452C2 0000F5FF"
+      - "1061646C 00000001"
+
+  - name: "P5 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06453C2 0000FAFF"
+      - "1061646C 000004B0"
+
+  - name: "P5 Press L1+Select For 2Nd Period"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06453C2 0000FBFE"
+      - "20616470 00010001"
+
+  - name: "P5 Press L2+Select For 3Rd Period"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06453C2 0000FEFE"
+      - "20616470 00020002"
+
+  - name: "P5 Press R1+R2 To End Period"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06453C2 0000F5FF"
+      - "1061646C 00000001"
+
+  - name: "P6 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06454C2 0000FAFF"
+      - "1061646C 000004B0"
+
+  - name: "P6 Press L1+Select For 2Nd Period"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06454C2 0000FBFE"
+      - "20616470 00010001"
+
+  - name: "P6 Press L2+Select For 3Rd Period"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06454C2 0000FEFE"
+      - "20616470 00020002"
+
+  - name: "P6 Press R1+R2 To End Period"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06454C2 0000F5FF"
+      - "1061646C 00000001"
+
+  - name: "P7 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06455C2 0000FAFF"
+      - "1061646C 000004B0"
+
+  - name: "P7 Press L1+Select For 2Nd Period"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06455C2 0000FBFE"
+      - "20616470 00010001"
+
+  - name: "P7 Press L2+Select For 3Rd Period"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06455C2 0000FEFE"
+      - "20616470 00020002"
+
+  - name: "P7 Press R1+R2 To End Period"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06455C2 0000F5FF"
+      - "1061646C 00000001"
+
+  - name: "P8 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06456C2 0000FAFF"
+      - "1061646C 000004B0"
+
+  - name: "P8 Press L1+Select For 2Nd Period"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06456C2 0000FBFE"
+      - "20616470 00010001"
+
+  - name: "P8 Press L2+Select For 3Rd Period"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06456C2 0000FEFE"
+      - "20616470 00020002"
+
+  - name: "P8 Press R1+R2 To End Period"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D06456C2 0000F5FF"
+      - "1061646C 00000001"
+
+  - name: "Big Head Mode"
+    author: "Code Master"
+    notes: "[Unlock Unlockable Codes]"
+    codes:
+      - "00673CE2 00000001"
+
+  - name: "Commentators-Chipmunk Voice"
+    author: "Code Master"
+    notes: "[Unlock Unlockable Codes]"
+    codes:
+      - "00673CE6 00000001"
+
+  - name: "Commentators-Deep Voice"
+    author: "Code Master"
+    notes: "[Unlock Unlockable Codes]"
+    codes:
+      - "00673CE1 00000001"
+
+  - name: "Dynasty Mode-2 GM Office Rewards"
+    author: "Code Master"
+    notes: "[Unlock Unlockable Codes]"
+    codes:
+      - "00673CE3 00000001"
+
+  - name: "Dynasty Mode-2 Upgrade Points"
+    author: "Code Master"
+    notes: "[Unlock Unlockable Codes]"
+    codes:
+      - "00673CE0 00000001"
+
+  - name: "Dynasty Mode-3 Upgrade Points"
+    author: "Code Master"
+    notes: "[Unlock Unlockable Codes]"
+    codes:
+      - "00673CE4 00000001"
+
+  - name: "Dynasty Mode-4 Upgrade Points"
+    author: "Code Master"
+    notes: "[Unlock Unlockable Codes]"
+    codes:
+      - "00673CE7 00000001"
+
+  - name: "Dynasty Mode-5 Upgrade Points"
+    author: "Code Master"
+    notes: "[Unlock Unlockable Codes]"
+    codes:
+      - "00673CE8 00000001"
+
+  - name: "Dynasty Mode-6 Upgrade Points"
+    author: "Code Master"
+    notes: "[Unlock Unlockable Codes]"
+    codes:
+      - "00673CE9 00000001"
+
+  - name: "Mile Wide Stadium"
+    author: "Code Master"
+    notes: "[Unlock Unlockable Codes]"
+    codes:
+      - "00673CE5 00000001"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0107108 001BE557"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901BE554 0C078CE5"

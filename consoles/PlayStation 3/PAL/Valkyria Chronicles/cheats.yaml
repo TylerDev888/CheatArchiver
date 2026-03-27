@@ -1,0 +1,27 @@
+# Valkyria Chronicles cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00372
+
+game: "Valkyria Chronicles"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00372"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Exp"
+    notes: "File: BLES00372-PLAY-*\\PLAYDATA"
+    codes:
+      - "2005DE08 05F5E0FF"
+
+  - name: "Max Dct"
+    notes: "File: BLES00372-PLAY-*\\PLAYDATA"
+    codes:
+      - "20094DEC 05F5E0FF"
+
+  - name: "Reset Game Save Time"
+    notes: "File: BLES00372-PLAY-*\\PLAYDATA"
+    codes:
+      - "2000002C 00000000"

@@ -1,0 +1,24 @@
+# Suigetsu Mayoi-Gokoro cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65751
+
+game: "Suigetsu Mayoi-Gokoro"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65751"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010FC10 0C043EAC"
+
+  - name: "New Game = Debug Menu"
+    author: "punk7890"
+    codes:
+      - "D0E8FB8A 00000002"
+      - "10E8FB8A 00000003"

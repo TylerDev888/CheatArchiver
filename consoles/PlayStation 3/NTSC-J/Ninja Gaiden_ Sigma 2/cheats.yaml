@@ -1,0 +1,386 @@
+# Ninja Gaiden_ Sigma 2 cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM60168
+
+game: "Ninja Gaiden_ Sigma 2"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM60168"
+cheat_type: "AP"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Health"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000A54 0C800C80"
+      - "10000A58 0C800C80"
+
+  - name: "Max Magic"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000A78 0C800C80"
+
+  - name: "Max Essence"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000AA0 05F5E0FF"
+
+  - name: "Reset Game Save Time"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000020 00000000"
+
+  - name: "Max Game Time"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000020 84000000"
+
+  - name: "Ryu 255 Talisman Of Rebirth"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000B69 00000AFF"
+
+  - name: "Ryu X255 Small Spiritual Herbs"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000B81 000008FF"
+
+  - name: "Ryu X255 Spiritual Grains"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000B4D 000009FF"
+
+  - name: "Ryu X255 Way Mushrooms"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000AD1 00004EFF"
+
+  - name: "Rachel X255 Talisman Of Rebirth"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000D85 00000AFF"
+
+  - name: "Rachel X255 Small Spiritual Herbs"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000D71 000008FF"
+
+  - name: "Rachel X255 Spiritual Grains"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000D75 000009FF"
+
+  - name: "Rachel X255 Way Mushrooms"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000D81 00004EFF"
+
+  - name: "Momiji X255 Small Spiritual Herbs"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "100012F9 000008FF"
+
+  - name: "Momiji X255 Spiritual Grains"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10001301 000009FF"
+
+  - name: "Momiji X255 Way Mushroom"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "100012E9 00004EFF"
+
+  - name: "Ayane X255 Small Spiritual Herbs"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10001031 000008FF"
+
+  - name: "Ayane X255 Spiritual Grains"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10001035 000009FF"
+
+  - name: "Ayane X255 Way Mushroom"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10001039 00004EFF"
+
+  - name: "Ayane X255 Talisman Of Rebirth"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "1000103D 00000AFF"
+
+  - name: "X255 All Characters Items Super One Click"
+    notes: "File: SAVE_STR*.DAT  (From Chris Roberts)"
+    codes:
+      - "10000B69 00000AFF"
+      - "10000B81 000008FF"
+      - "10000B4D 000009FF"
+      - "10000AD1 00004EFF"
+      - "10000D85 00000AFF"
+      - "10000D71 000008FF"
+      - "10000D75 000009FF"
+      - "10000D81 00004EFF"
+      - "100012F9 000008FF"
+      - "10001301 000009FF"
+      - "100012E9 00004EFF"
+      - "10001031 000008FF"
+      - "10001035 000009FF"
+      - "10001039 00004EFF"
+      - "1000103D 00000AFF"
+
+  - name: "Ryu Super Health Bar (works For All Difficulties)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000A54 C738C738"
+      - "20000A58 C738C738"
+
+  - name: "Ryu Super Ninpo (works For All Difficulties)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000A78 C738C738"
+
+  - name: "Ryu X255 Talisman Rebirth (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000AAD 00000AFF"
+
+  - name: "Ryu X255 Talisman Of Rebirth (warrior Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000ADD 00000AFF"
+
+  - name: "Ryu X255 Small Spiritual Herb (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000AB9 000008FF"
+
+  - name: "Ryu X255 Small Spiritual Herb (warrior Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000AB5 000008FF"
+
+  - name: "Ryu X255 Spiritual Grains (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000AC9 000009FF"
+
+  - name: "Ryu X255 Spiritual Grains (warrior Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000AC5 000009FF"
+
+  - name: "Ryu X255 Way Mushroom (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000AC5 00004EFF"
+
+  - name: "Ryu X255 Way Mushroom (warrior Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000ABD 00004EFF"
+
+  - name: "Ryu Muramasa's Omusubi X255 (acolyte Difficulty-completely Restores Health)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000B0D 000074FF"
+
+  - name: "Ryu X255 Jewel Demon Seal (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000ADD 00004CFF"
+
+  - name: "Ryu X255 Jewel Of Demon Seal (warrior Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000AD9 00004CFF"
+
+  - name: "Ryu Lunar Staff With Lvl 3 (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000AC0 00180102"
+
+  - name: "Ryu Lunar Staff With Lvl 3 (warrior Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000AC0 00180102"
+
+  - name: "Ryu Falcon's Talon (claws) With Lvl 3 (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000ACC 00150102"
+
+  - name: "Ryu Falcon's Talons/claws With Lvl 3 (warrior Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000AC8 00150102"
+
+  - name: "Ryu Vigoorian Flail With Lvl 3 (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000AD4 000C0102"
+
+  - name: "Ryu Vigorian Flail With Lvl 3 (warrior Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000AD0 000C0102"
+
+  - name: "Emma's Fang With Lvl 3 (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000AE0 00210102"
+
+  - name: "Dragon's Claw And Tigers Fang (double Swords) Lvl 3 (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000AE8 00130102"
+
+  - name: "Kasari-gama Lvl 3 (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000AF8 00140102"
+
+  - name: "Tonfa Lvl 3 (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000AFC 00110102"
+
+  - name: "Eclipse Scythe Lvl 3 (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000B00 00120102"
+
+  - name: "Ryu Art Of Inferno (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000ABD 00000601"
+
+  - name: "Ryu Art Of Inferno With Lvl 3 (warrior Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000AB8 00060102"
+
+  - name: "Ryu Art Of Flame Pheonix (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000AD9 00005301"
+
+  - name: "Ryu Art Of Flame Of Pheonix With Lvl 3 (warrior Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000AD4 00530102"
+
+  - name: "Ryu Art Of Piercing Void (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000AF1 00009201"
+
+  - name: "Ryu Fiend's Bane Bow (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000AD1 00009301"
+
+  - name: "Ryu Fiends Bow (warrior Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000ACD 00009301"
+
+  - name: "Ryu Howling Cannon (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000AF4 01510100"
+
+  - name: "Momiji Super Health (works For All Difficulties)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20001294 C738C738"
+      - "20001298 C738C738"
+
+  - name: "Momiji Super Ninpo (works For All Difficulties)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "200012B8 C738C738"
+
+  - name: "Momiji X255 Small Spiritual Herb (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "100012F1 000008FF"
+
+  - name: "Momiji X255 Spiritual Grains (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "100012F5 000009FF"
+
+  - name: "Momiji X255 Talisman Of Rebirth (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10001301 00000AFF"
+
+  - name: "Momiji X255 Way Mushroom (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "100012FD 00004EFF"
+
+  - name: "Rachel Super Health (works For All Difficulties)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000D14 C738C738"
+      - "20000D18 C738C738"
+
+  - name: "Rachel Super Ninpo (works For All Difficulties)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000D38 C738C738"
+
+  - name: "Rachel X255 Small Spiritual Herb (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000D71 000008FF"
+
+  - name: "Rachel X255 Spiritual Grains (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000D75 000009FF"
+
+  - name: "Rachel X255 Talisman Of Rebirth (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000D81 00000AFF"
+
+  - name: "Rachel X255 Way Mushroom (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10000D85 00004EFF"
+
+  - name: "Ayane Super Health (works For All Difficulties)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000FD4 C738C738"
+      - "20000FD8 C738C738"
+
+  - name: "Ayane Super Ninpo (works For All Difficulties)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "20000FF8 C738C738"
+
+  - name: "Ayane X255 Small Spiritual Herb (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10001031 000008FF"
+
+  - name: "Ayane X255 Spiritual Grains (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10001035 000009FF"
+
+  - name: "Ayane X255 Way Mushroom (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "10001039 00004EFF"
+
+  - name: "Ayane X255 Talisman Of Rebirth (acolyte Difficulty)"
+    notes: "File: SAVE_STR*.DAT"
+    codes:
+      - "1000103D 00000AFF"

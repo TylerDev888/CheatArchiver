@@ -1,0 +1,103 @@
+# Call Of Duty 2 - Big Red One cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21228
+
+game: "Call Of Duty 2 - Big Red One"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21228"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F032D2DC 0032D2DF"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "9032D408 00832021"
+      - "903DB710 00832021"
+
+  - name: "Master Code"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "90287CD8 0C0CB516"
+
+  - name: "All Levels/Bonus Material"
+    author: "Codejunkies"
+    codes:
+      - "20393CA4 0000000E"
+      - "20393CA8 0000000E"
+
+  - name: "Fix"
+    notes: "[Armax Fix]"
+    codes:
+      - "E00D0868 0032D2DC"
+      - "E00C0C03 0032D2DE"
+      - "2024872C 0809B7CE"
+      - "2026DF38 3C0401E0"
+      - "2026DF3C 3C050008"
+      - "2026DF40 0C0CEF1F"
+      - "2026DF44 3C060008"
+      - "2026DF48 0C0D2CC6"
+      - "2026DF4C 0000202D"
+      - "2026DF50 3C0501E0"
+      - "2026DF54 3C040008"
+      - "2026DF58 0C0CEF1F"
+      - "2026DF5C 3C060008"
+      - "2026DF60 080921CD"
+      - "2026DF64 00000000"
+
+  - name: "Infinite Ammo"
+    author: "MadCatz"
+    codes:
+      - "2017A1E0 00000000"
+
+  - name: "Infinite Health"
+    author: "MadCatz"
+    codes:
+      - "200C2000 8C620108"
+      - "200C2004 AEC20350"
+      - "200C2008 03E00008"
+      - "200C200C AC620100"
+      - "20201840 0C030800"
+
+  - name: "Extra Ammo"
+    author: "Code Master"
+    notes: "[Multi-Player Codes]"
+    codes:
+      - "D016323C 00001821"
+      - "20163244 00521021"
+
+  - name: "Max Infinite Ammo"
+    author: "Code Master"
+    notes: "[Multi-Player Codes]"
+    codes:
+      - "D016323C 00001821"
+      - "20163244 240203E7"
+
+  - name: "Never Reload/Infinite Grenades"
+    author: "Code Master"
+    notes: "[Multi-Player Codes]"
+    codes:
+      - "D016329C 0000802D"
+      - "201632C8 00000000"
+
+  - name: "Unlock All Chapters/Bonus Materials"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D0100238 00002335"
+      - "20393CA4 0000000E"
+
+  - name: "Unlock All Missionsextras"
+    author: "MadCatz"
+    codes:
+      - "20393CA4 0000000D"

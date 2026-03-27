@@ -1,0 +1,97 @@
+# Steel Dragon EX cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52482
+
+game: "Steel Dragon EX"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52482"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "1Hitkill"
+    author: "luc-ita"
+    notes: "[Shienryu (Steel Dragon)]"
+    codes:
+      - "D0136F0A 00000461"
+      - "20136F08 00000000"
+      - "D012BC56 00000461"
+      - "2012BC54 00000000"
+
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Shienryu (Steel Dragon)]"
+    codes:
+      - "901059D0 0C04161C"
+
+  - name: "Invincibility"
+    author: "nolberto82"
+    notes: "[Shienryu (Steel Dragon)]"
+    codes:
+      - "D0137692 00001020"
+      - "20137690 1000002B"
+
+  - name: "Invulnerable (Alternate)"
+    author: "luc-ita"
+    notes: "[Shienryu (Steel Dragon)]"
+    codes:
+      - "D01498AA 00001440"
+      - "201498A8 1000003A"
+      - "D01499AA 00003842"
+      - "201499A8 38020000"
+
+  - name: "P1 Inf Bomb"
+    author: "lee4"
+    notes: "[Shienryu (Steel Dragon)]"
+    codes:
+      - "001E4F68 00000063"
+
+  - name: "P1 Inf Lives"
+    author: "lee4"
+    notes: "[Shienryu (Steel Dragon)]"
+    codes:
+      - "001E4F70 00000063"
+
+  - name: "P2 Inf Bomb"
+    author: "lee4"
+    notes: "[Shienryu (Steel Dragon)]"
+    codes:
+      - "001E4F6A 00000063"
+
+  - name: "P2 Inf Lives"
+    author: "lee4"
+    notes: "[Shienryu (Steel Dragon)]"
+    codes:
+      - "001E4F72 00000063"
+
+  - name: "Pal2ntsc (Alternate)"
+    author: "lee4"
+    notes: "[Shienryu (Steel Dragon)]"
+    codes:
+      - "20102260 34050002"
+      - "20102264 24030002"
+      - "20102268 0000000C"
+      - "2010226C 03E00008"
+
+  - name: "Potential Y-Fixes (Type 2)"
+    author: "lee4"
+    notes: "[Shienryu (Steel Dragon)]"
+    codes:
+      - "00100624 00000010"
+      - "001006D8 00000010"
+
+  - name: "Use Bombs Even If You Don't Have Any"
+    author: "luc-ita"
+    notes: "[Shienryu (Steel Dragon)]"
+    codes:
+      - "D012B6D2 00001060"
+      - "2012B6D0 00000000"
+
+  - name: "Take Objects And Hit Anywhere (Read Notes)"
+    author: "luc-ita"
+    notes: "[Steel Dragon Evolution]"
+    codes:
+      - "D014B54C 0000102D"
+      - "2014B54C 24020001"

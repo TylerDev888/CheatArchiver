@@ -1,0 +1,93 @@
+# Klonoa 2 - Lunatea's Veil cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-50354
+
+game: "Klonoa 2 - Lunatea's Veil"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-50354"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01A4090 0030520F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "9030520C 0C0C86D4"
+
+  - name: "Always Low Attack Time"
+    author: "lee4"
+    notes: "[For 60Hz NTSC mode]"
+    codes:
+      - "D0377914 003001E0"
+      - "20377914 00000001"
+
+  - name: "Infinite Air"
+    author: "lee4"
+    notes: "[For 60Hz NTSC mode]"
+    codes:
+      - "1037790A 00003F80"
+
+  - name: "Infinite Health"
+    author: "lee4"
+    notes: "[For 60Hz NTSC mode]"
+    codes:
+      - "003778E0 00000006"
+
+  - name: "Infinite Lives"
+    author: "lee4"
+    notes: "[For 60Hz NTSC mode]"
+    codes:
+      - "003778E8 00000063"
+
+  - name: "Have 99 Gems"
+    author: "InterAct"
+    codes:
+      - "309F9A7B 64DA29B6"
+      - "309F9A7F 64DA29B6"
+
+  - name: "All Momett Dolls"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "003532E3 00000006"
+      - "203532E4 06060606"
+      - "203532E8 06060606"
+      - "203532EC 06060606"
+      - "203532F0 06060606"
+
+  - name: "All Visions Open"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "203532C8 FFFFFFFF"
+      - "203532F0 203532F4"
+      - "203532F8 203532FC"
+      - "20353300 20353304"
+      - "20353308 2035330C"
+
+  - name: "Max Gems On All Levels"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "203532D0 FFFFFFFF"
+      - "203532D4 FFFFFFFF"
+      - "203532D8 FFFFFFFF"
+      - "203532DC FFFFFFFF"
+      - "103532E0 0000FFFF"
+      - "003532E2 000000FF"
+
+  - name: "Never Have More Than 50% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "10377FE0 00000003"
+      - "10377FE0 00000003"

@@ -1,0 +1,78 @@
+# Disney's The Chronicles Of Narnia - The Lion, The Witch, And The Wardrobe cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53708
+
+game: "Disney's The Chronicles Of Narnia - The Lion, The Witch, And The Wardrobe"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53708"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "1Hitkill (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "2026107C 00000000"
+      - "202610E4 100000CE"
+
+  - name: "All Action Points Visible And One Shot To Fill Red Bar"
+    author: "luc-ita"
+    codes:
+      - "203352A8 C60200B0"
+      - "20302534 00000000"
+
+  - name: "Buy Upgrades Even Without Coins"
+    author: "luc-ita"
+    codes:
+      - "2037CBE8 00000000"
+      - "2037B460 00000000"
+
+  - name: "One Hit To Fill Red Bar"
+    author: "luc-ita"
+    codes:
+      - "20334720 00000000"
+      - "20302534 00000000"
+
+  - name: "Red Bar Does Not Drop After Hitting Objects"
+    author: "luc-ita"
+    codes:
+      - "20335440 00000000"
+
+  - name: "Throwing Tennis Balls Even Without Ammunition"
+    author: "luc-ita"
+    codes:
+      - "202D7F60 10000003"
+      - "202D7570 10000020"
+      - "202D6364 00000000"
+      - "2027127C 00000000"
+
+  - name: "Timer Stopped"
+    author: "luc-ita"
+    codes:
+      - "202D86B0 C4800CA4"
+
+  - name: "Untouchable (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "E004EFFE 01F2B702"
+      - "20262528 00000000"
+      - "2029E9D4 00000000"
+      - "2029E9EC 00000000"
+      - "2029D564 10000008"
+      - "E004EFF7 01F2B702"
+      - "20262528 0C09805A"
+      - "2029E9D4 0C0989DA"
+      - "2029E9EC 0C0989DA"
+      - "2029D564 10400008"
+
+  - name: "Use Arrows Even Without Ammunition"
+    author: "luc-ita"
+    codes:
+      - "2029BB1C 1000000B"
+
+  - name: "Use Healing Power Even With Zero Power"
+    author: "luc-ita"
+    codes:
+      - "20277C50 00000000"

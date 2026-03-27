@@ -1,0 +1,51 @@
+# Hitman 2 - Silent Assassin cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51109
+
+game: "Hitman 2 - Silent Assassin"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51109"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0416E84 00416E87"
+
+  - name: "All Weapons/Max Ammo"
+    author: "Codejunkies"
+    codes:
+      - "201567E0 00000000"
+      - "20156898 00000000"
+
+  - name: "Bomb Mode On"
+    author: "BigBossman"
+    codes:
+      - "004DA588 00000001"
+
+  - name: "God Mode"
+    author: "Codejunkies"
+    codes:
+      - "204DA580 3F800000"
+
+  - name: "Hitman Ali"
+    author: "Codejunkies"
+    codes:
+      - "204DC524 00000001"
+
+  - name: "Nailgun Mode On"
+    author: "BigBossman"
+    codes:
+      - "1050ABCE 00003F80"
+
+  - name: "No Gravity"
+    author: "Codejunkies"
+    codes:
+      - "20156C54 00000000"
+      - "20156BDC 00000000"
+      - "20156BA0 00000000"

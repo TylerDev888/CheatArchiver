@@ -1,0 +1,23 @@
+# Pizzicato Polka_ Suisei Genya cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65611
+
+game: "Pizzicato Polka_ Suisei Genya"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65611"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010E8F0 0C0439E4"
+
+  - name: "Replace New Game With Debug Menu"
+    author: "punk7890"
+    codes:
+      - "20322F20 00000003"

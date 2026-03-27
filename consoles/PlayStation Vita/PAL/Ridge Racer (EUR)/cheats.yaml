@@ -1,0 +1,18 @@
+# Ridge Racer (EUR) cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00048
+
+game: "Ridge Racer (EUR)"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00048"
+cheat_type: "Save Editor"
+source: "Credits: Slade"
+
+cheats:
+  - name: "500,000 Credits"
+    notes: "File: system0000.bin"
+    codes:
+      - "2000008F 0007A120"
+      - "2000008B 0007A120"

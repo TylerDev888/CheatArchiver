@@ -1,0 +1,96 @@
+# UEFA Champions League 2004-2005 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52909
+
+game: "UEFA Champions League 2004-2005"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52909"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01B2B14 0022E78F"
+
+  - name: "All Unlockables"
+    author: "Codejunkies"
+    codes:
+      - "20182F34 00000000"
+
+  - name: "AR Below 3.14 Fix"
+    author: "Codejunkies"
+    codes:
+      - "203CF9F0 3C03200F"
+      - "203CF9F8 8C65FFF8"
+      - "203CF9FC 24040079"
+      - "203CFA00 24030074"
+      - "203CFA04 0000000C"
+
+  - name: "Away Team Score 0"
+    author: "Codejunkies"
+    codes:
+      - "10573B5C 00000000"
+
+  - name: "Away Team Score 99"
+    author: "Codejunkies"
+    codes:
+      - "10573B5C 00000063"
+
+  - name: "Home Team Score 0"
+    author: "Codejunkies"
+    codes:
+      - "1046E73C 00000000"
+
+  - name: "Home Team Score 99"
+    author: "Codejunkies"
+    codes:
+      - "1046E73C 00000063"
+
+  - name: "Low Gravity Ball"
+    author: "Codejunkies"
+    codes:
+      - "2067A644 BD99999A"
+
+  - name: "Max Friction With Ball"
+    author: "Codejunkies"
+    codes:
+      - "2067A634 C0000000"
+
+  - name: "P1 Score 99 Goals (Press Select+Down)"
+    author: "Codejunkies"
+    codes:
+      - "D0739E82 0000FFBE"
+      - "00680CA0 00000063"
+
+  - name: "P1 Scores 0 Goals (Press Select+Up)"
+    author: "Codejunkies"
+    codes:
+      - "D0739E82 0000FFEE"
+      - "00680CA0 00000000"
+
+  - name: "P2 Scores 0 Goals (Press Select+Left)"
+    author: "Codejunkies"
+    codes:
+      - "D0739E82 0000FF7E"
+      - "00680CA4 00000000"
+
+  - name: "P2 Scores 99 Goals (Press Select+Right)"
+    author: "Codejunkies"
+    codes:
+      - "D0739E82 0000FFDE"
+      - "00680CA4 00000063"
+
+  - name: "Spot The Ball Mode"
+    author: "Codejunkies"
+    codes:
+      - "20106CC4 00000000"
+
+  - name: "Super Fast Football"
+    author: "Codejunkies"
+    codes:
+      - "202B3610 000000FA"

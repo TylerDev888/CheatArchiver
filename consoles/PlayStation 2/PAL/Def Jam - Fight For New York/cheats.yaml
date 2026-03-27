@@ -1,0 +1,35 @@
+# Def Jam - Fight For New York cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52507
+
+game: "Def Jam - Fight For New York"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52507"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F032FF60 0032FF63"
+
+  - name: "Infinite Reward Points"
+    author: "Codejunkies"
+    codes:
+      - "208EAFD0 0001869F"
+
+  - name: "Infinite Cash"
+    author: "Codejunkies"
+    notes: "[Profile 1]"
+    codes:
+      - "208EC680 05F5E0FF"
+
+  - name: "Infinite Dev Points"
+    author: "Codejunkies"
+    notes: "[Profile 1]"
+    codes:
+      - "208EC688 05F5E0FF"

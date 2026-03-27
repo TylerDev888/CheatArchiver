@@ -1,0 +1,25 @@
+# Ecco The Dolphin - Defender Of The Future cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-50499
+
+game: "Ecco The Dolphin - Defender Of The Future"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-50499"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0101E18 0038C627"
+
+  - name: "Open Levels/Soccer"
+    author: "InterAct"
+    codes:
+      - "20486150 FFFFFFFF"
+      - "20486154 FFFFFFFF"
+      - "20486158 FFFFFFFF"

@@ -1,0 +1,28 @@
+# Shadow Man 2 - The Second Coming cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50446
+
+game: "Shadow Man 2 - The Second Coming"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50446"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01D2948 001D294B"
+
+  - name: "Show Debug"
+    author: "Codejunkies"
+    codes:
+      - "202BA7F4 00000001"
+
+  - name: "Take No Damage"
+    author: "Codejunkies"
+    codes:
+      - "20104078 00000000"

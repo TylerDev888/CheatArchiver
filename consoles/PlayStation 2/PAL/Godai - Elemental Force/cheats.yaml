@@ -1,0 +1,58 @@
+# Godai - Elemental Force cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50433
+
+game: "Godai - Elemental Force"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50433"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0124984 00124987"
+
+  - name: "Must Be On (M)"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01001F8 00124987"
+
+  - name: "Start With 999 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "114F211C 000003E7"
+
+  - name: "Start With Only 1 Life"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E0010001 314F211C"
+      - "114F211C 00000001"
+
+  - name: "Start With Only 2 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E0010002 314F211C"
+      - "114F211C 00000002"
+
+  - name: "Start With Only 3 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E0010003 314F211C"
+      - "114F211C 00000003"
+
+  - name: "Start With Only 5 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E0010005 314F211C"
+      - "114F211C 00000005"

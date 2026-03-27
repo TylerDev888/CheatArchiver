@@ -1,0 +1,30 @@
+# BioShock_ The Collection cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA03979
+
+game: "BioShock_ The Collection"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA03979"
+cheat_type: "AP"
+source: "source: xdgmods"
+
+cheats:
+  - name: "Infinite Health"
+    notes: "File: *"
+    codes:
+      - "80020004 C12581B2"
+      - "28000032 7FFFFFFF"
+      - "28000036 7FFFFFFF"
+      - "2800003A 7FFFFFFF"
+      - "2800003E 7FFFFFFF"
+
+  - name: "God Mode"
+    notes: "File: *"
+    codes:
+      - "80020004 B28125C1"
+      - "28000032 7FFFFFFF"
+      - "28000036 7FFFFFFF"
+      - "2800003A 7FFFFFFF"
+      - "2800003E 7FFFFFFF"

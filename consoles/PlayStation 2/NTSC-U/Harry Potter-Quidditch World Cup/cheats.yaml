@@ -1,0 +1,247 @@
+# Harry Potter-Quidditch World Cup cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20769
+
+game: "Harry Potter-Quidditch World Cup"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20769"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master>tab"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0034A227"
+
+  - name: "Always Low Time (Challenge Mode)"
+    author: "Code Master>tab"
+    notes: "[Codes]"
+    codes:
+      - "20462C98 00000000"
+
+  - name: "P1 Press L1+Select To Stop Timer (Challenge Mode)"
+    author: "Code Master>tab"
+    notes: "[Codes]"
+    codes:
+      - "E004FBFE 0054C2C2"
+      - "2018BD74 00000000"
+      - "2018D95C 00000000"
+      - "2018D9C4 00000000"
+      - "2018DA2C 00000000"
+
+  - name: "P1 Press L2+Select To Start Timer (Challenge Mode)"
+    author: "Code Master>tab"
+    notes: "[Codes]"
+    codes:
+      - "E004FEFE 0054C2C2"
+      - "2018BD74 ACC30038"
+      - "2018D95C AD030038"
+      - "2018D9C4 AD030038"
+      - "2018DA2C AD030038"
+
+  - name: "P2 Press L1+Select To Stop Timer (Challenge Mode)"
+    author: "Code Master>tab"
+    notes: "[Codes]"
+    codes:
+      - "E004FBFE 0054C7C2"
+      - "2018BD74 00000000"
+      - "2018D95C 00000000"
+      - "2018D9C4 00000000"
+      - "2018DA2C 00000000"
+
+  - name: "P2 Press L2+Select To Start Timer (Challenge Mode)"
+    author: "Code Master>tab"
+    notes: "[Codes]"
+    codes:
+      - "E004FEFE 0054C7C2"
+      - "2018BD74 ACC30038"
+      - "2018D95C AD030038"
+      - "2018D9C4 AD030038"
+      - "2018DA2C AD030038"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master>tab"
+    notes: "[Codes]"
+    codes:
+      - "20399608 0000????"
+
+  - name: "Home Team Start With Score Modifier"
+    author: "Code Master>tab"
+    notes: "[Codes]"
+    codes:
+      - "D0399608 00000000"
+      - "20399608 0000????"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master>tab"
+    notes: "[Codes]"
+    codes:
+      - "2039960C 0000????"
+
+  - name: "Away Team Start With Score Modifier"
+    author: "Code Master>tab"
+    notes: "[Codes]"
+    codes:
+      - "D039960C 00000000"
+      - "2039960C 0000????"
+
+  - name: "Have All Cards"
+    author: "Code Master>tab"
+    notes: "[Codes]"
+    codes:
+      - "21DF3D80 FFFFFFFF"
+      - "21DF3D84 FFFFFFFF"
+      - "21DF3D88 FFFFFFFF"
+      - "21DF3D8C FFFFFFFF"
+      - "21DF3D90 FFFFFFFF"
+      - "21DF3D94 FFFFFFFF"
+      - "21DF3D98 FFFFFFFF"
+      - "11DF3D9C 0000FFFF"
+
+  - name: "Gryffindor-Passing"
+    author: "Code Master>tab"
+    notes: "[Have Challenge Finished Codes]"
+    codes:
+      - "21DF8160 00000001"
+
+  - name: "Gryffindor-Tackle And Shoot"
+    author: "Code Master>tab"
+    notes: "[Have Challenge Finished Codes]"
+    codes:
+      - "21DF817C 00000001"
+
+  - name: "Gryffindor-Seeker"
+    author: "Code Master>tab"
+    notes: "[Have Challenge Finished Codes]"
+    codes:
+      - "21DF8198 00000001"
+
+  - name: "Gryffindor-Beaters And Bludgers"
+    author: "Code Master>tab"
+    notes: "[Have Challenge Finished Codes]"
+    codes:
+      - "21DF81B4 00000001"
+
+  - name: "Gryffindor-Special Moves"
+    author: "Code Master>tab"
+    notes: "[Have Challenge Finished Codes]"
+    codes:
+      - "21DF81D0 00000001"
+
+  - name: "Gryffindor-Combos"
+    author: "Code Master>tab"
+    notes: "[Have Challenge Finished Codes]"
+    codes:
+      - "21DF81EC 00000001"
+
+  - name: "Slytherin-Passing"
+    author: "Code Master>tab"
+    notes: "[Have Challenge Finished Codes]"
+    codes:
+      - "21DF829C 00000001"
+
+  - name: "Slytherin-Tackle And Shoot"
+    author: "Code Master>tab"
+    notes: "[Have Challenge Finished Codes]"
+    codes:
+      - "21DF82B8 00000001"
+
+  - name: "Slytherin-Seeker"
+    author: "Code Master>tab"
+    notes: "[Have Challenge Finished Codes]"
+    codes:
+      - "21DF82D4 00000001"
+
+  - name: "Slytherin-Beaters And Bludgers"
+    author: "Code Master>tab"
+    notes: "[Have Challenge Finished Codes]"
+    codes:
+      - "21DF82F0 00000001"
+
+  - name: "Slytherin-Special Moves"
+    author: "Code Master>tab"
+    notes: "[Have Challenge Finished Codes]"
+    codes:
+      - "21DF830C 00000001"
+
+  - name: "Slytherin-Combos"
+    author: "Code Master>tab"
+    notes: "[Have Challenge Finished Codes]"
+    codes:
+      - "21DF8328 00000001"
+
+  - name: "Hufflepuff-Passing"
+    author: "Code Master>tab"
+    notes: "[Have Challenge Finished Codes]"
+    codes:
+      - "21DF83D8 00000001"
+
+  - name: "Hufflepuff-Tackle And Shoot"
+    author: "Code Master>tab"
+    notes: "[Have Challenge Finished Codes]"
+    codes:
+      - "21DF83F4 00000001"
+
+  - name: "Hufflepuff-Seeker"
+    author: "Code Master>tab"
+    notes: "[Have Challenge Finished Codes]"
+    codes:
+      - "21DF8410 00000001"
+
+  - name: "Hufflepuff-Beaters And Bludgers"
+    author: "Code Master>tab"
+    notes: "[Have Challenge Finished Codes]"
+    codes:
+      - "21DF842C 00000001"
+
+  - name: "Hufflepuff-Special Moves"
+    author: "Code Master>tab"
+    notes: "[Have Challenge Finished Codes]"
+    codes:
+      - "21DF8448 00000001"
+
+  - name: "Hufflepuff-Combos"
+    author: "Code Master>tab"
+    notes: "[Have Challenge Finished Codes]"
+    codes:
+      - "21DF8464 00000001"
+
+  - name: "Ravenclaw-Passing"
+    author: "Code Master>tab"
+    notes: "[Have Challenge Finished Codes]"
+    codes:
+      - "21DF8514 00000001"
+
+  - name: "Ravenclaw-Tackle And Shoot"
+    author: "Code Master>tab"
+    notes: "[Have Challenge Finished Codes]"
+    codes:
+      - "21DF8530 00000001"
+
+  - name: "Ravenclaw-Seeker"
+    author: "Code Master>tab"
+    notes: "[Have Challenge Finished Codes]"
+    codes:
+      - "21DF854C 00000001"
+
+  - name: "Ravenclaw-Beaters And Bludgers"
+    author: "Code Master>tab"
+    notes: "[Have Challenge Finished Codes]"
+    codes:
+      - "21DF8568 00000001"
+
+  - name: "Ravenclaw-Special Moves"
+    author: "Code Master>tab"
+    notes: "[Have Challenge Finished Codes]"
+    codes:
+      - "21DF8584 00000001"
+
+  - name: "Ravenclaw-Combos"
+    author: "Code Master>tab"
+    notes: "[Have Challenge Finished Codes]"
+    codes:
+      - "21DF85A0 00000001"

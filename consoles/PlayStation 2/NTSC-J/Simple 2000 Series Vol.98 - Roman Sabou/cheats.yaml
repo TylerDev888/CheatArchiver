@@ -1,0 +1,24 @@
+# Simple 2000 Series Vol.98 - Roman Sabou cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25631
+
+game: "Simple 2000 Series Vol.98 - Roman Sabou"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25631"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9010FD70 0C043F04"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9012C7B8 0C04B188"

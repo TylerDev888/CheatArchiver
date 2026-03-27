@@ -1,0 +1,42 @@
+# Love Drops cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66727
+
+game: "Love Drops"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66727"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90189EF8 0C062766"
+
+  - name: "All Gallery"
+    author: "punk7890"
+    codes:
+      - "4028205C 00060001"
+      - "FFFFFFFF 00000000"
+      - "10282074 0000FFFF"
+      - "00282076 000000FF"
+
+  - name: "All Music"
+    author: "punk7890"
+    codes:
+      - "2028209C FFFFFFFF"
+
+  - name: "Main Menu = Test Menu (After Logos)"
+    author: "punk7890"
+    codes:
+      - "00163018 0000001A"
+      - "10163020 00001C70"
+
+  - name: "Quit Game = Test Menu"
+    author: "punk7890"
+    codes:
+      - "201639A0 0806871C"

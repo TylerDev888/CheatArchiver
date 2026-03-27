@@ -1,0 +1,64 @@
+# Van Hellsing cheat data
+# Console: Game Boy Advance
+# Region:  NTSC-U
+# Serial:  AGB-BANE-USA
+
+game: "Van Hellsing"
+console: "Game Boy Advance"
+region: "NTSC-U"
+serial: "AGB-BANE-USA"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Red Keys"
+    notes: "File: NTSC"
+    codes:
+      - "03004B2C 0004"
+
+  - name: "Health"
+    notes: "File: NTSC"
+    codes:
+      - "33004B1C 0050"
+
+  - name: "1-Hit Kill All Bosses"
+    notes: "File: NTSC"
+    codes:
+      - "33001E4C 0000"
+      - "33001c30 0000"
+      - "33001CE4 0000"
+      - "33001B7C 0000"
+
+  - name: "Press A Turn Into Werewolf"
+    notes: "File: NTSC"
+    codes:
+      - "33001140 0000"
+
+  - name: "Have Pistol"
+    notes: "File: NTSC"
+    codes:
+      - "33001140 0002"
+
+  - name: "Press Up+R For Cross Bow"
+    notes: "File: NTSC"
+    codes:
+      - "74000130 02BF"
+      - "33001140 0003"
+
+  - name: "Press Down+R For Lightning Gun"
+    notes: "File: NTSC"
+    codes:
+      - "74000130 027F"
+      - "33001140 0004"
+
+  - name: "No Reloading Regular Gun"
+    notes: "File: NTSC"
+    codes:
+      - "73004A6C 0006"
+      - "83004A6C 0001"
+
+  - name: "Quick Charge Lightning Gun"
+    notes: "File: NTSC"
+    codes:
+      - "73004B64 0001"
+      - "83004B64 0100"

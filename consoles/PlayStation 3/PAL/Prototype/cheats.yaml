@@ -1,0 +1,142 @@
+# Prototype cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00269
+
+game: "Prototype"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00269"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Current Evolution Points"
+    notes: "File: BLES00269-DATA-*\\USERDATA.BIN"
+    codes:
+      - "20000C24 0098967F"
+      - "200012A4 0098967F"
+
+  - name: "Max Total Evolution Points Collected"
+    notes: "File: BLES00269-DATA-*\\USERDATA.BIN"
+    codes:
+      - "20001BA0 0098967F"
+
+  - name: "Max Hydras Killed"
+    notes: "File: BLES00269-DATA-*\\USERDATA.BIN"
+    codes:
+      - "200007E4 000F423F"
+
+  - name: "No Hydras Killed"
+    notes: "File: BLES00269-DATA-*\\USERDATA.BIN"
+    codes:
+      - "200007E4 00000000"
+
+  - name: "Max Alerts Caused"
+    notes: "File: BLES00269-DATA-*\\USERDATA.BIN"
+    codes:
+      - "2000083C 000F423F"
+
+  - name: "No Alerts Caused"
+    notes: "File: BLES00269-DATA-*\\USERDATA.BIN"
+    codes:
+      - "2000083C 00000000"
+
+  - name: "Max Deaths"
+    notes: "File: BLES00269-DATA-*\\USERDATA.BIN"
+    codes:
+      - "20000968 000F423F"
+
+  - name: "No Deaths"
+    notes: "File: BLES00269-DATA-*\\USERDATA.BIN"
+    codes:
+      - "20000968 00000000"
+
+  - name: "Max Hunters Killed"
+    notes: "File: BLES00269-DATA-*\\USERDATA.BIN"
+    codes:
+      - "20001628 000F423F"
+
+  - name: "No Hunters Killed"
+    notes: "File: BLES00269-DATA-*\\USERDATA.BIN"
+    codes:
+      - "20001628 00000000"
+
+  - name: "Max Infected Water Towers Destroyed"
+    notes: "File: BLES00269-DATA-*\\USERDATA.BIN"
+    codes:
+      - "20001664 000F423F"
+
+  - name: "No Infected Water Towers Destroyed"
+    notes: "File: BLES00269-DATA-*\\USERDATA.BIN"
+    codes:
+      - "20001664 00000000"
+
+  - name: "Max Infected Hives Destroyed"
+    notes: "File: BLES00269-DATA-*\\USERDATA.BIN"
+    codes:
+      - "200022A0 000F423F"
+
+  - name: "No Infected Hives Destroyed"
+    notes: "File: BLES00269-DATA-*\\USERDATA.BIN"
+    codes:
+      - "200022A0 00000000"
+
+  - name: "Max Infected Civilians Killed"
+    notes: "File: BLES00269-DATA-*\\USERDATA.BIN"
+    codes:
+      - "20002B54 000F423F"
+
+  - name: "No Infected Civilians Killed"
+    notes: "File: BLES00269-DATA-*\\USERDATA.BIN"
+    codes:
+      - "20002B54 00000000"
+
+  - name: "Max Alerts Escaped"
+    notes: "File: BLES00269-DATA-*\\USERDATA.BIN"
+    codes:
+      - "20002D1C 000F423F"
+
+  - name: "No Alerts Escaped"
+    notes: "File: BLES00269-DATA-*\\USERDATA.BIN"
+    codes:
+      - "20002D1C 00000000"
+
+  - name: "Max Evolved Infected Killed"
+    notes: "File: BLES00269-DATA-*\\USERDATA.BIN"
+    codes:
+      - "200037B4 000F423F"
+
+  - name: "No Evolved Infected Killed"
+    notes: "File: BLES00269-DATA-*\\USERDATA.BIN"
+    codes:
+      - "200037B4 00000000"
+
+  - name: "Init Custom Crc32 For Crc.bin (required)"
+    notes: "[Checksum]  File: ICON0.PNG"
+    codes:
+      - "set crc_bandwidth:32"
+      - "set crc_polynomial:0x04C11DB7"
+      - "set crc_initial_value:0xFFFFFFFF"
+      - "set crc_output_xor:0"
+      - "set crc_reflection_input:0"
+      - "set crc_reflection_output:0"
+      - "set range:0x0000,eof+1"
+      - "set [crc_init]:crc"
+
+  - name: "Calculate Custom Crc32 For Crc.bin (required)"
+    notes: "[Checksum]  File: USERDATA.BIN"
+    codes:
+      - "set crc_bandwidth:32"
+      - "set crc_polynomial:0x04C11DB7"
+      - "set crc_initial_value:[crc_init]"
+      - "set crc_output_xor:0"
+      - "set crc_reflection_input:0"
+      - "set crc_reflection_output:0"
+      - "set range:0x0000,eof+1"
+      - "set [hash]:crc"
+
+  - name: "Update Custom Crc32 For Crc.bin (required)"
+    notes: "[Checksum]  File: CRC.BIN"
+    codes:
+      - "write at 0x0:[hash]"

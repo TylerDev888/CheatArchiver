@@ -1,0 +1,95 @@
+# Arkanoid Plus! cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  W8KE
+
+game: "Arkanoid Plus!"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "W8KE"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Inf Lives"
+    author: "Skiller"
+    notes: "[All Modes]"
+    codes:
+      - "02035D40 00000000"
+
+  - name: "Gain Lives"
+    author: "Skiller"
+    notes: "[All Modes]"
+    codes:
+      - "02035D40 00000001"
+
+  - name: "Max Score"
+    author: "Skiller"
+    notes: "[All Modes]"
+    codes:
+      - "04033B64 3C0005F5"
+      - "04033B68 6000E0FF"
+
+  - name: "Finish Stage"
+    author: "Skiller"
+    notes: "[All Modes]"
+    codes:
+      - "0059A68D 00000001"
+
+  - name: "Press - To Open Clear Gates (again To Close)"
+    author: "Skiller"
+    notes: "[All Modes]"
+    codes:
+      - "285F82EA 00001000"
+      - "0059A68D 00000000"
+      - "CC000000 00000001"
+      - "0059A68D 00000001"
+      - "E0000000 80008000"
+
+  - name: "Always Have ?? Pad"
+    author: "Skiller"
+    notes: "[All Modes]"
+    codes:
+      - "C2040F3C 00000002"
+      - "3860[PAD] 90650020"
+      - "60000000 00000000"
+
+  - name: "On Pickup Ball = Lazer Ball"
+    author: "Skiller"
+    notes: "[All Modes]"
+    codes:
+      - "C201DB54 00000002"
+      - "38600001 90650000"
+      - "60000000 00000000"
+
+  - name: "Always Have Lazer Ball"
+    author: "Skiller"
+    notes: "[All Modes]"
+    codes:
+      - "C2018E54 00000002"
+      - "38A00001 90A40000"
+      - "60000000 00000000"
+
+  - name: "Game Time Does Not Move"
+    author: "Skiller"
+    notes: "[Arcade Mode Codes]"
+    codes:
+      - "04035AD4 60000000"
+
+  - name: "Round Timer Does Not Move"
+    author: "Skiller"
+    notes: "[Arcade Mode Codes]"
+    codes:
+      - "04035ADC 60000000"
+
+  - name: "Level Time"
+    author: "Skiller"
+    notes: "[Time Mode Codes]"
+    codes:
+      - "04035B84 60000000"
+
+  - name: "Time Limit"
+    author: "Skiller"
+    notes: "[Time Mode Codes]"
+    codes:
+      - "04035B88 60000000"

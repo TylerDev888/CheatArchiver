@@ -1,0 +1,21 @@
+# Condemned 2_ Bloodshot cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00219
+
+game: "Condemned 2_ Bloodshot"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00219"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Add For Filename.sav (required)"
+    notes: "File: FILENAME.SAV  (set [csum]:add(0x000000,0x0BFFBF)) (write at 0x0BFF70:[csum])"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof-8"
+      - "set [csum]:add(0x000000,pointer)"
+      - "set pointer:eof-7"
+      - "write next (0):[csum]"

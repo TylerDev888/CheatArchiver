@@ -1,0 +1,228 @@
+# Capcom Vs. SNK 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65047
+
+game: "Capcom Vs. SNK 2"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65047"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "GameMasterZer0>CMX"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0010DE37"
+
+  - name: "Access Extra Options"
+    author: "HackFreak"
+    codes:
+      - "1053581E 00000101"
+
+  - name: "All Attacks Hurt P1"
+    author: "HackFreak"
+    codes:
+      - "2014D2C8 3C010048"
+      - "2014D2D4 8424F544"
+      - "2014D2E0 A423F544"
+
+  - name: "All Attacks Hurt P2"
+    author: "HackFreak"
+    codes:
+      - "2014D2C8 3C010048"
+      - "2014D2D4 8424FB14"
+      - "2014D2E0 A423FB14"
+
+  - name: "Background Modifier (Training Mode)"
+    author: "HackFreak"
+    codes:
+      - "003F706C 000000??"
+
+  - name: "Disable Background"
+    author: "HackFreak"
+    codes:
+      - "2017A658 00000000"
+
+  - name: "Groove Edit Unlocked"
+    author: "HackFreak"
+    codes:
+      - "005357DD 00000001"
+
+  - name: "Hit Anywhere (Both Players)"
+    author: "HackFreak"
+    codes:
+      - "20147CBC 00000000"
+
+  - name: "Hit Anywhere (P1 Only)"
+    author: "HackFreak"
+    codes:
+      - "20147CB8 0232102B"
+      - "20147CBC 14400024"
+
+  - name: "Hit Anywhere (P2 Only)"
+    author: "HackFreak"
+    codes:
+      - "20147CB8 0232102B"
+      - "20147CBC 10400024"
+
+  - name: "Max Groove Points"
+    author: "GameMasterZer0>CMX"
+    codes:
+      - "20617E56 0098967F"
+
+  - name: "No Groove Edit Cap"
+    author: "HackFreak"
+    codes:
+      - "00535736 00000001"
+
+  - name: "P1 Can Do Air Moves"
+    author: "HackFreak"
+    codes:
+      - "0049F557 00000000"
+
+  - name: "P1 Can Throw Anywhere, P2 Can't Throw At All"
+    author: "HackFreak"
+    codes:
+      - "20298A40 03E00008"
+      - "20298A44 0085102B"
+
+  - name: "P1 Infinite Groove Time"
+    author: "GameMasterZer0>CMX"
+    codes:
+      - "20510DFC 000003E8"
+
+  - name: "P1 Infinite Guard Crash"
+    author: "GameMasterZer0>CMX"
+    codes:
+      - "10510D3C 00003030"
+
+  - name: "P1 Infinite Health"
+    author: "GameMasterZer0>CMX"
+    codes:
+      - "20510C74 36003600"
+      - "10510C78 00003600"
+
+  - name: "P1 Invisible"
+    author: "HackFreak"
+    codes:
+      - "0049F44B 00000000"
+
+  - name: "P2 Can Do Air Moves"
+    author: "HackFreak"
+    codes:
+      - "0049FB27 00000000"
+
+  - name: "P2 Can Throw Anywhere, P1 Can't Throw At All"
+    author: "HackFreak"
+    codes:
+      - "20298A40 03E00008"
+      - "20298A44 00A4102B"
+
+  - name: "P2 Infinite Groove Time"
+    author: "GameMasterZer0>CMX"
+    codes:
+      - "2051199C 000003E8"
+
+  - name: "P2 Infinite Guard Crash"
+    author: "GameMasterZer0>CMX"
+    codes:
+      - "105118DC 00003030"
+
+  - name: "P2 Infinite Health"
+    author: "GameMasterZer0>CMX"
+    codes:
+      - "20511814 36003600"
+      - "20511818 00003600"
+
+  - name: "P2 Invisible"
+    author: "HackFreak"
+    codes:
+      - "0049FA1B 00000000"
+
+  - name: "P1 Always Uses ? Groove Modifier"
+    author: "HackFreak"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "0049F92C 000000??"
+
+  - name: "P1 Character Modifier (All Modes)"
+    author: "HackFreak"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "0049F91C 000000??"
+
+  - name: "P1 Character Modifier (Training Mode)"
+    author: "HackFreak"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "0049F401 000000??"
+
+  - name: "P1-2 Character Modifier (For Ratio And 3 On 3 Matches)"
+    author: "HackFreak"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "0049F91D 000000??"
+
+  - name: "P1-3 Character Modifier (For Ratio And 3 On 3 Matches)"
+    author: "HackFreak"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "0049F91E 000000??"
+
+  - name: "P2 Always Uses ? Groove Modifier"
+    author: "HackFreak"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "0049FEFC 000000??"
+
+  - name: "P2 Character Modifier (All Modes)"
+    author: "HackFreak"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "0049FEEC 000000??"
+
+  - name: "P2 Character Modifier (Training Mode)"
+    author: "HackFreak"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "0049F9D1 000000??"
+
+  - name: "P2-2 Character Modifier (For Ratio And 3 On 3 Matches)"
+    author: "HackFreak"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "0049FEED 000000??"
+
+  - name: "P2-3 Character Modifier (For Ratio And 3 On 3 Matches)"
+    author: "HackFreak"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "0049FEEE 000000??"
+
+  - name: "Players Can Select The Same Characters"
+    author: "HackFreak"
+    codes:
+      - "0053581C 00000001"
+
+  - name: "Pocket Fighters"
+    author: "HackFreak"
+    codes:
+      - "2049F448 3E800000"
+      - "2049F44C 3E800000"
+      - "2049F450 3E800000"
+      - "2049FA18 3E800000"
+      - "2049FA1C 3E800000"
+      - "2049FA20 3E800000"
+
+  - name: "Throw Anywhere (Both Players)"
+    author: "HackFreak"
+    codes:
+      - "20298AE4 24020001"
+
+  - name: "Unlock Shin Akuma & God Rugal"
+    author: "GameMasterZer0>CMX"
+    codes:
+      - "203F701C FFFFFFFF"

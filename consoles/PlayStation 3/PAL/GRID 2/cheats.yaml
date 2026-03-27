@@ -1,0 +1,38 @@
+# GRID 2 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01737
+
+game: "GRID 2"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01737"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Decompress Save (required)"
+    notes: "File: PROGRESS.DAT"
+    codes:
+      - "Decompress(*, -15)"
+
+  - name: "Compress Save (required)"
+    notes: "File: PROGRESS.DAT"
+    codes:
+      - "Compress(*)"
+
+  - name: "Update Sha256 For Progress.dat (required)"
+    notes: "File: PROGRESS.DAT  (set range:0x000000,0x002F9B)"
+    codes:
+      - "set pointer:lastbyte-0x1F"
+      - "set range:0x000000,pointer"
+      - "set [hash]:SHA256"
+      - "write next (0):[hash]"
+
+  - name: "Update Crc32 For Secuinfo.bin (required)"
+    notes: "File: SECUINFO.BIN  (set range:0x000004,0x000027)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"

@@ -1,0 +1,2662 @@
+# Madden NFL 2005 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21000
+
+game: "Madden NFL 2005"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21000"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "205E7750 0805524C"
+      - "F066852C 0066852F"
+      - "20154930 3C0401F0"
+      - "20154934 24840000"
+      - "20154938 3C05000F"
+      - "2015493C 24A5FFF0"
+      - "20154940 0C16D3CC"
+      - "20154944 24064000"
+      - "20154948 0C196B12"
+      - "2015494C 0000202D"
+      - "20154950 3C0501F0"
+      - "20154954 24A50000"
+      - "20154958 3C04000F"
+      - "2015495C 2484FFF0"
+      - "20154960 0C16D3CC"
+      - "20154964 24064000"
+      - "20154968 08179DD6"
+      - "2015496C 00000000"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F030A508 006685E7"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "905C88B0 0C195CE0"
+      - "200C2000 3C090000"
+      - "200C2004 0818269E"
+      - "200C2008 68890007"
+
+  - name: "Access Attributes Window In Franchise Mode"
+    author: "nolberto82"
+    codes:
+      - "200A0000 34020001"
+      - "200A0004 AD220090"
+      - "200A0008 8FA20030"
+      - "200A000C 0817B6F9"
+      - "205EDBDC 08028000"
+
+  - name: "1St Quarter"
+    author: "Code Master"
+    notes: "[Away Team Always Has The Ball Codes]"
+    codes:
+      - "D080A740 00000001"
+      - "0080AB18 00000001"
+
+  - name: "2Nd Quarter"
+    author: "Code Master"
+    notes: "[Away Team Always Has The Ball Codes]"
+    codes:
+      - "D080A740 00000002"
+      - "0080AB18 00000001"
+
+  - name: "3Rd Quarter"
+    author: "Code Master"
+    notes: "[Away Team Always Has The Ball Codes]"
+    codes:
+      - "D080A740 00000003"
+      - "0080AB18 00000001"
+
+  - name: "4Th Quarter"
+    author: "Code Master"
+    notes: "[Away Team Always Has The Ball Codes]"
+    codes:
+      - "D080A740 00000004"
+      - "0080AB18 00000001"
+
+  - name: "All Game"
+    author: "Code Master"
+    notes: "[Away Team Always Has The Ball Codes]"
+    codes:
+      - "0080AB18 00000001"
+
+  - name: "Infinite Challenge Plays"
+    author: "MadCatz"
+    notes: "[Away Team Codes]"
+    codes:
+      - "2076DD80 00000002"
+
+  - name: "Infinite Time Outs"
+    author: "MadCatz"
+    notes: "[Away Team Codes]"
+    codes:
+      - "2080AC20 00000003"
+
+  - name: "No Challenge Plays"
+    author: "MadCatz"
+    notes: "[Away Team Codes]"
+    codes:
+      - "2076DD80 00000000"
+
+  - name: "No Time Outs"
+    author: "MadCatz"
+    notes: "[Away Team Codes]"
+    codes:
+      - "2080AC20 00000000"
+
+  - name: "2-Point Conversion's Score Modifier"
+    author: "Code Master"
+    notes: "[Away Team No Time-Outs Codes]"
+    codes:
+      - "10351C18 000000??"
+      - "103843BC 000000??"
+
+  - name: "Extra Point's Score Modifier"
+    author: "Code Master"
+    notes: "[Away Team No Time-Outs Codes]"
+    codes:
+      - "10351C00 000000??"
+      - "103843B4 000000??"
+
+  - name: "Have All Cards (Version 7.0 Or Higher Needed!)"
+    author: "Code Master"
+    notes: "[Away Team No Time-Outs Codes]"
+    codes:
+      - "21E30434 00000119"
+      - "41E304A0 01190001"
+      - "00FFE01F 00000010"
+
+  - name: "Infinite Tokens Remaining"
+    author: "Code Master"
+    notes: "[Away Team No Time-Outs Codes]"
+    codes:
+      - "11E30348 0000FFFF"
+
+  - name: "Max Tokens Earned"
+    author: "Code Master"
+    notes: "[Away Team No Time-Outs Codes]"
+    codes:
+      - "21E30340 05F5E0FF"
+
+  - name: "Max Tokens Remaining"
+    author: "Code Master"
+    notes: "[Away Team No Time-Outs Codes]"
+    codes:
+      - "21E30348 05F5E0FF"
+
+  - name: "Max Tokens Spent"
+    author: "Code Master"
+    notes: "[Away Team No Time-Outs Codes]"
+    codes:
+      - "21E30344 05F5E0FF"
+
+  - name: "No Tokens Earned"
+    author: "Code Master"
+    notes: "[Away Team No Time-Outs Codes]"
+    codes:
+      - "21E30340 00000000"
+
+  - name: "No Tokens Spent"
+    author: "Code Master"
+    notes: "[Away Team No Time-Outs Codes]"
+    codes:
+      - "21E30344 00000000"
+
+  - name: "Safety's Score Modifier"
+    author: "Code Master"
+    notes: "[Away Team No Time-Outs Codes]"
+    codes:
+      - "10351D48 0000FF??"
+      - "1038436C 0000FF??"
+
+  - name: "Touch Down's Score Modifier"
+    author: "Code Master"
+    notes: "[Away Team No Time-Outs Codes]"
+    codes:
+      - "10351964 000000??"
+      - "10351930 000000??"
+      - "10384374 000000??"
+
+  - name: "1St And 5"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "203448AC 30820001"
+      - "203527AC 30820001"
+
+  - name: "1St And 15"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "203448D8 38820001"
+      - "203527AC 38820001"
+
+  - name: "3Rd Down"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "20344654 38820001"
+      - "20351A34 38820001"
+      - "20351A70 38820001"
+      - "20371ED8 38820001"
+      - "20465624 38820001"
+
+  - name: "5Th Down"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "20344634 30820001"
+      - "20351A14 30820001"
+      - "20351A90 30820001"
+      - "20371EAC 30820001"
+      - "20465648 30820001"
+
+  - name: "Tight Fit"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "2031A7A4 38820001"
+      - "20445524 38820001"
+      - "20445BA8 38820001"
+      - "20446028 38820001"
+
+  - name: "Wind Gust"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "203902EC 38820001"
+
+  - name: "Bad Spot"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "203510C4 24020001"
+
+  - name: "Bingo!"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "204719F8 24020001"
+
+  - name: "Coffin Corner"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "20367FB0 24020001"
+
+  - name: "Couch Potato"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "2035A84C 24020001"
+
+  - name: "Da Bomb"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "203E0FF0 24020001"
+      - "203E16F4 24020001"
+
+  - name: "Da Boot"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "20367F1C 24020001"
+      - "20367FEC 24020001"
+      - "20368020 24020001"
+      - "204E1160 24020001"
+
+  - name: "Extra Credit"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "2047F568 24020001"
+      - "2047F978 24020001"
+
+  - name: "Fumblitis"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "204716C0 24020001"
+
+  - name: "Hands Of Glue"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "20471984 24020001"
+
+  - name: "Hands Of Stone"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "204719B0 24020001"
+
+  - name: "Human Plow"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "2035E958 24020001"
+      - "2035EA60 24020001"
+
+  - name: "Jam"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "203B94EC 24020001"
+      - "203B9E8C 24020001"
+
+  - name: "Lame Duck"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "203E0F94 24020001"
+
+  - name: "Mistake Free"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "204716DC 24020001"
+      - "20471A34 24020001"
+      - "204729A8 24020001"
+
+  - name: "Mr. Mobility"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "2039C710 24020001"
+
+  - name: "Ouch!"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "20365CC4 24020001"
+
+  - name: "Passerby"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "20380080 24020001"
+      - "203F9BCC 24020001"
+      - "203FCE9C 24020001"
+      - "2046F300 24020001"
+
+  - name: "Penetration"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "2040BAA8 24020001"
+
+  - name: "Pocket Protectors"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "2040BAF0 24020001"
+
+  - name: "QB On Target"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "203DD53C 24020001"
+
+  - name: "Super Dive"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "203A7AE0 24020001"
+
+  - name: "Time Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "20474C00 24020001"
+      - "20475E40 24020001"
+
+  - name: "Toast"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "203B951C 24020001"
+      - "203B9EBC 24020001"
+
+  - name: "Touchy"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "2047816C 24020001"
+
+  - name: "Unforced Errors"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "203CCBC8 24020001"
+
+  - name: "Worker's Comp"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "203664FC 24020001"
+
+  - name: "Cannot Be Tackled : Hold R1"
+    author: "nolberto82"
+    codes:
+      - "203A3F8C 10400006"
+      - "203A3788 27BDFF30"
+      - "203C25B4 1040009C"
+      - "D07CF991 03310000"
+      - "203A3F8C 10000006"
+      - "203A3788 03E00008"
+      - "203C25B4 1000009C"
+
+  - name: "Change Possession After Play : Hold L2"
+    author: "nolberto82"
+    codes:
+      - "20351940 46010034"
+      - "203519F0 1000006F"
+      - "20351AC0 56620007"
+      - "D07CF992 03310000"
+      - "20351940 46000034"
+      - "203519F0 10000000"
+      - "20351AC0 00000000"
+
+  - name: "Always 1St Down"
+    author: "Codejunkies"
+    notes: "[Constant Down Codes]"
+    codes:
+      - "1080AB10 00000001"
+
+  - name: "Always 4Th Down"
+    author: "Codejunkies"
+    notes: "[Constant Down Codes]"
+    codes:
+      - "1080AB10 00000004"
+
+  - name: "Always Start On 2Nd Down"
+    author: "Codejunkies"
+    notes: "[Constant Down Codes]"
+    codes:
+      - "D080AB10 00000001"
+      - "1080AB10 00000002"
+
+  - name: "Always Start On 3Rd Down"
+    author: "Codejunkies"
+    notes: "[Constant Down Codes]"
+    codes:
+      - "D080AB10 00000001"
+      - "1080AB10 00000003"
+
+  - name: "Press L1 & R1 To Reset Timer"
+    author: "MadCatz"
+    notes: "[Franchise Mode Codes; For Practice Drills]"
+    codes:
+      - "D07CF982 0000F3FF"
+      - "20792718 00000000"
+
+  - name: "Press L2 & R2 For More Time"
+    author: "MadCatz"
+    notes: "[Franchise Mode Codes; For Practice Drills]"
+    codes:
+      - "D07CF982 0000FCFF"
+      - "20792718 42C80000"
+
+  - name: "Press R1 & R2 For Lot's Of Points"
+    author: "MadCatz"
+    notes: "[Franchise Mode Codes; For Practice Drills]"
+    codes:
+      - "D07CF982 0000F5FF"
+      - "20792774 000F423F"
+
+  - name: "Infinite Attribute Bonus Points"
+    author: "nolberto82"
+    codes:
+      - "202219EC 24020001"
+
+  - name: "Infinite Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "2080A74C 00000028"
+
+  - name: "P1 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CF982 0000FAFF"
+      - "2080A764 0000012C"
+
+  - name: "P1 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CF982 0000FBFE"
+      - "2080A74C 00000001"
+
+  - name: "P1 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CF982 0000FEFE"
+      - "1080AB10 00000001"
+
+  - name: "P1 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CF982 0000F5FF"
+      - "2080A764 00000001"
+
+  - name: "P1 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CF982 0000F7FE"
+      - "2080A74C 00000028"
+
+  - name: "P1 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CF982 0000FDFE"
+      - "1080AB10 00000004"
+
+  - name: "P2 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFA82 0000FAFF"
+      - "2080A764 0000012C"
+
+  - name: "P2 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFA82 0000FBFE"
+      - "2080A74C 00000001"
+
+  - name: "P2 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFA82 0000FEFE"
+      - "1080AB10 00000001"
+
+  - name: "P2 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFA82 0000F5FF"
+      - "2080A764 00000001"
+
+  - name: "P2 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFA82 0000F7FE"
+      - "2080A74C 00000028"
+
+  - name: "P2 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFA82 0000FDFE"
+      - "1080AB10 00000004"
+
+  - name: "P3 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFB82 0000FAFF"
+      - "2080A764 0000012C"
+
+  - name: "P3 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFB82 0000FBFE"
+      - "2080A74C 00000001"
+
+  - name: "P3 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFB82 0000FEFE"
+      - "1080AB10 00000001"
+
+  - name: "P3 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFB82 0000F5FF"
+      - "2080A764 00000001"
+
+  - name: "P3 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFB82 0000F7FE"
+      - "2080A74C 00000028"
+
+  - name: "P3 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFB82 0000FDFE"
+      - "1080AB10 00000004"
+
+  - name: "P4 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFC82 0000FAFF"
+      - "2080A764 0000012C"
+
+  - name: "P4 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFC82 0000FBFE"
+      - "2080A74C 00000001"
+
+  - name: "P4 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFC82 0000FEFE"
+      - "1080AB10 00000001"
+
+  - name: "P4 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFC82 0000F5FF"
+      - "2080A764 00000001"
+
+  - name: "P4 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFC82 0000F7FE"
+      - "2080A74C 00000028"
+
+  - name: "P4 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFC82 0000FDFE"
+      - "1080AB10 00000004"
+
+  - name: "P5 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFD82 0000FAFF"
+      - "2080A764 0000012C"
+
+  - name: "P5 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFD82 0000FBFE"
+      - "2080A74C 00000001"
+
+  - name: "P5 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFD82 0000FEFE"
+      - "1080AB10 00000001"
+
+  - name: "P5 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFD82 0000F5FF"
+      - "2080A764 00000001"
+
+  - name: "P5 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFD82 0000F7FE"
+      - "2080A74C 00000028"
+
+  - name: "P5 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFD82 0000FDFE"
+      - "1080AB10 00000004"
+
+  - name: "P6 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFE82 0000FAFF"
+      - "2080A764 0000012C"
+
+  - name: "P6 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFE82 0000FBFE"
+      - "2080A74C 00000001"
+
+  - name: "P6 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFE82 0000FEFE"
+      - "1080AB10 00000001"
+
+  - name: "P6 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFE82 0000F5FF"
+      - "2080A764 00000001"
+
+  - name: "P6 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFE82 0000F7FE"
+      - "2080A74C 00000028"
+
+  - name: "P6 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFE82 0000FDFE"
+      - "1080AB10 00000004"
+
+  - name: "P7 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFF82 0000FAFF"
+      - "2080A764 0000012C"
+
+  - name: "P7 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFF82 0000FBFE"
+      - "2080A74C 00000001"
+
+  - name: "P7 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFF82 0000FEFE"
+      - "1080AB10 00000001"
+
+  - name: "P7 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFF82 0000F5FF"
+      - "2080A764 00000001"
+
+  - name: "P7 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFF82 0000F7FE"
+      - "2080A74C 00000028"
+
+  - name: "P7 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07CFF82 0000FDFE"
+      - "1080AB10 00000004"
+
+  - name: "P8 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07D0082 0000FAFF"
+      - "2080A764 0000012C"
+
+  - name: "P8 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07D0082 0000FBFE"
+      - "2080A74C 00000001"
+
+  - name: "P8 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07D0082 0000FEFE"
+      - "1080AB10 00000001"
+
+  - name: "P8 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07D0082 0000F5FF"
+      - "2080A764 00000001"
+
+  - name: "P8 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07D0082 0000F7FE"
+      - "2080A74C 00000028"
+
+  - name: "P8 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D07D0082 0000FDFE"
+      - "1080AB10 00000004"
+
+  - name: "Start On 2Nd Quarter"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D080A740 00000001"
+      - "2080A740 00000002"
+
+  - name: "Start On 3Rd Quarter"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D080A740 00000001"
+      - "2080A740 00000003"
+
+  - name: "Start On 4Th Quarter"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D080A740 00000001"
+      - "2080A740 00000004"
+
+  - name: "Always 2Nd Down"
+    author: "MadCatz"
+    notes: "[Play Now Codes; Use Only One At A Time]"
+    codes:
+      - "2080AB10 00000002"
+
+  - name: "Always 3Rd Down"
+    author: "MadCatz"
+    notes: "[Play Now Codes; Use Only One At A Time]"
+    codes:
+      - "2080AB10 00000003"
+
+  - name: "Press L1 & L2 For 2Nd Down"
+    author: "MadCatz"
+    notes: "[Play Now Codes; Use Only One At A Time]"
+    codes:
+      - "D07CF982 0000FAFF"
+      - "2080AB10 00000002"
+
+  - name: "Press L1 & R1 For 4Th Down"
+    author: "MadCatz"
+    notes: "[Play Now Codes; Use Only One At A Time]"
+    codes:
+      - "D07CF982 0000F3FF"
+      - "2080AB10 00000004"
+
+  - name: "Press L2 & R2 For More Play Clock Time"
+    author: "MadCatz"
+    notes: "[Play Now Codes; Use Only One At A Time]"
+    codes:
+      - "D07CF982 0000FCFF"
+      - "2080A74C 00000063"
+
+  - name: "Press R1 & R2 For 3Rd Down"
+    author: "MadCatz"
+    notes: "[Play Now Codes; Use Only One At A Time]"
+    codes:
+      - "D07CF982 0000F5FF"
+      - "2080AB10 00000003"
+
+  - name: "Press Square & X For More Quarter Time"
+    author: "MadCatz"
+    notes: "[Play Now Codes; Use Only One At A Time]"
+    codes:
+      - "D07CF982 00003BFF"
+      - "2080A764 000000F0"
+
+  - name: "Press Triangle & Circle For 0 Quarter Time"
+    author: "MadCatz"
+    notes: "[Play Now Codes; Use Only One At A Time]"
+    codes:
+      - "D07CF982 0000CEFF"
+      - "2080A764 00000000"
+
+  - name: "Press R1+Select For More Time To Pick Plays"
+    author: "Codejunkies"
+    notes: "[Player 3 Time Codes]"
+    codes:
+      - "5A6F1760 85B2F0C2"
+
+  - name: "Press L2+Select For 1St Down"
+    author: "Codejunkies"
+    notes: "[Player 8 Down Codes]"
+    codes:
+      - "D07D0082 0000FEFE"
+      - "1080AB10 00000001"
+      - "77A8AAF3 78C12F3D"
+
+  - name: "Press L1+Select For Very Low Time To Pick Plays"
+    author: "Codejunkies"
+    notes: "[Player 8 Time Codes]"
+    codes:
+      - "D07D0082 0000FBFE"
+      - "2080A74C 00000001"
+      - "5A6F1760 85B2F0C2"
+
+  - name: "Max Token Balance"
+    author: "MadCatz"
+    notes: "[Profile 1 Codes]"
+    codes:
+      - "21E30348 0098967F"
+
+  - name: "No Token Balance"
+    author: "MadCatz"
+    notes: "[Profile 1 Codes]"
+    codes:
+      - "21E30348 00000000"
+
+  - name: "Score Touchdown/2 Pt Conversion After Any Play : Hold L1"
+    author: "nolberto82"
+    codes:
+      - "20351944 4500000C"
+      - "20351C14 45000002"
+      - "20351C74 4502000C"
+      - "20351C78 8E220014"
+      - "D07CF990 04310000"
+      - "20351944 00000000"
+      - "20351C14 00000000"
+      - "20351C74 00000000"
+      - "20351C78 24020006"
+
+  - name: "Player 1 Press L1 For More Time To Pick Plays"
+    author: "Codejunkies"
+    notes: "[Time Codes]"
+    codes:
+      - "D07CF982 0000FBFF"
+      - "2080A74C 00000028"
+
+  - name: "Have All Cards"
+    author: "Codejunkies"
+    notes: "[Tokens Earned]"
+    codes:
+      - "21E30434 00000119"
+      - "41E304A0 00FF0001"
+      - "00FFE01F 00000010"
+      - "41E3089C 001A0001"
+      - "00FFF00F 00000010"
+
+  - name: "Card 1"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E304A0 00FFE01F"
+
+  - name: "Card 2"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E304A4 00FFE02F"
+
+  - name: "Card 3"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E304A8 00FFE03F"
+
+  - name: "Card 4"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E304AC 00FFE04F"
+
+  - name: "Card 5"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E304B0 00FFE05F"
+
+  - name: "Card 6"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E304B4 00FFE06F"
+
+  - name: "Card 7"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E304B8 00FFE07F"
+
+  - name: "Card 8"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E304BC 00FFE08F"
+
+  - name: "Card 9"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E304C0 00FFE09F"
+
+  - name: "Card 10"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E304C4 00FFE0AF"
+
+  - name: "Card 11"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E304C8 00FFE0BF"
+
+  - name: "Card 12"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E304CC 00FFE0CF"
+
+  - name: "Card 13"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E304D0 00FFE0DF"
+
+  - name: "Card 14"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E304D4 00FFE0EF"
+
+  - name: "Card 15"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E304D8 00FFE0FF"
+
+  - name: "Card 16"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E304DC 00FFE10F"
+
+  - name: "Card 17"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E304E0 00FFE11F"
+
+  - name: "Card 18"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E304E4 00FFE12F"
+
+  - name: "Card 19"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E304E8 00FFE13F"
+
+  - name: "Card 20"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E304EC 00FFE14F"
+
+  - name: "Card 21"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E304F0 00FFE15F"
+
+  - name: "Card 22"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E304F4 00FFE16F"
+
+  - name: "Card 23"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E304F8 00FFE17F"
+
+  - name: "Card 24"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E304FC 00FFE18F"
+
+  - name: "Card 25"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30500 00FFE19F"
+
+  - name: "Card 26"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30504 00FFE1AF"
+
+  - name: "Card 27"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30508 00FFE1BF"
+
+  - name: "Card 28"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3050C 00FFE1CF"
+
+  - name: "Card 29"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30510 00FFE1DF"
+
+  - name: "Card 30"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30514 00FFE1EF"
+
+  - name: "Card 31"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30518 00FFE1FF"
+
+  - name: "Card 32"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3051C 00FFE20F"
+
+  - name: "Card 33"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30520 00FFE21F"
+
+  - name: "Card 34"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30524 00FFE22F"
+
+  - name: "Card 35"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30528 00FFE23F"
+
+  - name: "Card 36"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3052C 00FFE24F"
+
+  - name: "Card 37"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30530 00FFE25F"
+
+  - name: "Card 38"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30534 00FFE26F"
+
+  - name: "Card 39"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30538 00FFE27F"
+
+  - name: "Card 40"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3053C 00FFE28F"
+
+  - name: "Card 41"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30540 00FFE29F"
+
+  - name: "Card 42"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30544 00FFE2AF"
+
+  - name: "Card 43"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30548 00FFE2BF"
+
+  - name: "Card 44"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3054C 00FFE2CF"
+
+  - name: "Card 45"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30550 00FFE2DF"
+
+  - name: "Card 46"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30554 00FFE2EF"
+
+  - name: "Card 47"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30558 00FFE2FF"
+
+  - name: "Card 48"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3055C 00FFE30F"
+
+  - name: "Card 49"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30560 00FFE31F"
+
+  - name: "Card 50"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30564 00FFE32F"
+
+  - name: "Card 51"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30568 00FFE33F"
+
+  - name: "Card 52"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3056C 00FFE34F"
+
+  - name: "Card 53"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30570 00FFE35F"
+
+  - name: "Card 54"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30574 00FFE36F"
+
+  - name: "Card 55"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30578 00FFE37F"
+
+  - name: "Card 56"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3057C 00FFE38F"
+
+  - name: "Card 57"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30580 00FFE39F"
+
+  - name: "Card 58"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30584 00FFE3AF"
+
+  - name: "Card 59"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30588 00FFE3BF"
+
+  - name: "Card 60"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3058C 00FFE3CF"
+
+  - name: "Card 61"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30590 00FFE3DF"
+
+  - name: "Card 62"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30594 00FFE3EF"
+
+  - name: "Card 63"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30598 00FFE3FF"
+
+  - name: "Card 64"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3059C 00FFE40F"
+
+  - name: "Card 65"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E305A0 00FFE41F"
+
+  - name: "Card 66"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E305A4 00FFE42F"
+
+  - name: "Card 67"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E305A8 00FFE43F"
+
+  - name: "Card 68"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E305AC 00FFE44F"
+
+  - name: "Card 69"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E305B0 00FFE45F"
+
+  - name: "Card 70"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E305B4 00FFE46F"
+
+  - name: "Card 71"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E305B8 00FFE47F"
+
+  - name: "Card 72"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E305BC 00FFE48F"
+
+  - name: "Card 73"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E305C0 00FFE49F"
+
+  - name: "Card 74"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E305C4 00FFE4AF"
+
+  - name: "Card 75"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E305C8 00FFE4BF"
+
+  - name: "Card 76"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E305CC 00FFE4CF"
+
+  - name: "Card 77"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E305D0 00FFE4DF"
+
+  - name: "Card 78"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E305D4 00FFE4EF"
+
+  - name: "Card 79"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E305D8 00FFE4FF"
+
+  - name: "Card 80"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E305DC 00FFE50F"
+
+  - name: "Card 81"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E305E0 00FFE51F"
+
+  - name: "Card 82"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E305E4 00FFE52F"
+
+  - name: "Card 83"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E305E8 00FFE53F"
+
+  - name: "Card 84"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E305EC 00FFE54F"
+
+  - name: "Card 85"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E305F0 00FFE55F"
+
+  - name: "Card 86"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E305F4 00FFE56F"
+
+  - name: "Card 87"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E305F8 00FFE57F"
+
+  - name: "Card 88"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E305FC 00FFE58F"
+
+  - name: "Card 89"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30600 00FFE59F"
+
+  - name: "Card 90"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30604 00FFE5AF"
+
+  - name: "Card 91"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30608 00FFE5BF"
+
+  - name: "Card 92"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3060C 00FFE5CF"
+
+  - name: "Card 93"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30610 00FFE5DF"
+
+  - name: "Card 94"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30614 00FFE5EF"
+
+  - name: "Card 95"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30618 00FFE5FF"
+
+  - name: "Card 96"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3061C 00FFE60F"
+
+  - name: "Card 97"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30620 00FFE61F"
+
+  - name: "Card 98"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30624 00FFE62F"
+
+  - name: "Card 99"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30628 00FFE63F"
+
+  - name: "Card 100"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3062C 00FFE64F"
+
+  - name: "Card 101"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30630 00FFE65F"
+
+  - name: "Card 102"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30634 00FFE66F"
+
+  - name: "Card 103"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30638 00FFE67F"
+
+  - name: "Card 104"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3063C 00FFE68F"
+
+  - name: "Card 105"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30640 00FFE69F"
+
+  - name: "Card 106"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30644 00FFE6AF"
+
+  - name: "Card 107"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30648 00FFE6BF"
+
+  - name: "Card 108"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3064C 00FFE6CF"
+
+  - name: "Card 109"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30650 00FFE6DF"
+
+  - name: "Card 110"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30654 00FFE6EF"
+
+  - name: "Card 111"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30658 00FFE6FF"
+
+  - name: "Card 112"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3065C 00FFE70F"
+
+  - name: "Card 113"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30660 00FFE71F"
+
+  - name: "Card 114"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30664 00FFE72F"
+
+  - name: "Card 115"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30668 00FFE73F"
+
+  - name: "Card 116"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3066C 00FFE74F"
+
+  - name: "Card 117"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30670 00FFE75F"
+
+  - name: "Card 118"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30674 00FFE76F"
+
+  - name: "Card 119"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30678 00FFE77F"
+
+  - name: "Card 120"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3067C 00FFE78F"
+
+  - name: "Card 121"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30680 00FFE79F"
+
+  - name: "Card 122"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30684 00FFE7AF"
+
+  - name: "Card 123"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30688 00FFE7BF"
+
+  - name: "Card 124"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3068C 00FFE7CF"
+
+  - name: "Card 125"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30690 00FFE7DF"
+
+  - name: "Card 126"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30694 00FFE7EF"
+
+  - name: "Card 127"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30698 00FFE7FF"
+
+  - name: "Card 128"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3069C 00FFE80F"
+
+  - name: "Card 129"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E306A0 00FFE81F"
+
+  - name: "Card 130"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E306A4 00FFE82F"
+
+  - name: "Card 131"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E306A8 00FFE83F"
+
+  - name: "Card 132"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E306AC 00FFE84F"
+
+  - name: "Card 133"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E306B0 00FFE85F"
+
+  - name: "Card 134"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E306B4 00FFE86F"
+
+  - name: "Card 135"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E306B8 00FFE87F"
+
+  - name: "Card 136"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E306BC 00FFE88F"
+
+  - name: "Card 137"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E306C0 00FFE89F"
+
+  - name: "Card 138"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E306C4 00FFE8AF"
+
+  - name: "Card 139"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E306C8 00FFE8BF"
+
+  - name: "Card 140"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E306CC 00FFE8CF"
+
+  - name: "Card 141"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E306D0 00FFE8DF"
+
+  - name: "Card 142"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E306D4 00FFE8EF"
+
+  - name: "Card 143"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E306D8 00FFE8FF"
+
+  - name: "Card 144"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E306DC 00FFE90F"
+
+  - name: "Card 145"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E306E0 00FFE91F"
+
+  - name: "Card 146"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E306E4 00FFE92F"
+
+  - name: "Card 147"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E306E8 00FFE93F"
+
+  - name: "Card 148"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E306EC 00FFE94F"
+
+  - name: "Card 149"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E306F0 00FFE95F"
+
+  - name: "Card 150"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E306F4 00FFE96F"
+
+  - name: "Card 151"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E306F8 00FFE97F"
+
+  - name: "Card 152"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E306FC 00FFE98F"
+
+  - name: "Card 153"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30700 00FFE99F"
+
+  - name: "Card 154"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30704 00FFE9AF"
+
+  - name: "Card 155"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30708 00FFE9BF"
+
+  - name: "Card 156"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3070C 00FFE9CF"
+
+  - name: "Card 157"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30710 00FFE9DF"
+
+  - name: "Card 158"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30714 00FFE9EF"
+
+  - name: "Card 159"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30718 00FFE9FF"
+
+  - name: "Card 160"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3071C 00FFEA0F"
+
+  - name: "Card 161"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30720 00FFEA1F"
+
+  - name: "Card 162"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30724 00FFEA2F"
+
+  - name: "Card 163"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30728 00FFEA3F"
+
+  - name: "Card 164"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3072C 00FFEA4F"
+
+  - name: "Card 165"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30730 00FFEA5F"
+
+  - name: "Card 166"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30734 00FFEA6F"
+
+  - name: "Card 167"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30738 00FFEA7F"
+
+  - name: "Card 168"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3073C 00FFEA8F"
+
+  - name: "Card 169"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30740 00FFEA9F"
+
+  - name: "Card 170"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30744 00FFEAAF"
+
+  - name: "Card 171"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30748 00FFEABF"
+
+  - name: "Card 172"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3074C 00FFEACF"
+
+  - name: "Card 173"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30750 00FFEADF"
+
+  - name: "Card 174"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30754 00FFEAEF"
+
+  - name: "Card 175"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30758 00FFEAFF"
+
+  - name: "Card 176"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3075C 00FFEB0F"
+
+  - name: "Card 177"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30760 00FFEB1F"
+
+  - name: "Card 178"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30764 00FFEB2F"
+
+  - name: "Card 179"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30768 00FFEB3F"
+
+  - name: "Card 180"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3076C 00FFEB4F"
+
+  - name: "Card 181"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30770 00FFEB5F"
+
+  - name: "Card 182"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30774 00FFEB6F"
+
+  - name: "Card 183"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30778 00FFEB7F"
+
+  - name: "Card 184"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3077C 00FFEB8F"
+
+  - name: "Card 185"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30780 00FFEB9F"
+
+  - name: "Card 186"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30784 00FFEBAF"
+
+  - name: "Card 187"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30788 00FFEBBF"
+
+  - name: "Card 188"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3078C 00FFEBCF"
+
+  - name: "Card 189"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30790 00FFEBDF"
+
+  - name: "Card 190"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30794 00FFEBEF"
+
+  - name: "Card 191"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30798 00FFEBFF"
+
+  - name: "Card 192"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3079C 00FFEC0F"
+
+  - name: "Card 193"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E307A0 00FFEC1F"
+
+  - name: "Card 194"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E307A4 00FFEC2F"
+
+  - name: "Card 195"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E307A8 00FFEC3F"
+
+  - name: "Card 196"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E307AC 00FFEC4F"
+
+  - name: "Card 197"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E307B0 00FFEC5F"
+
+  - name: "Card 198"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E307B4 00FFEC6F"
+
+  - name: "Card 199"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E307B8 00FFEC7F"
+
+  - name: "Card 200"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E307BC 00FFEC8F"
+
+  - name: "Card 201"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E307C0 00FFEC9F"
+
+  - name: "Card 202"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E307C4 00FFECAF"
+
+  - name: "Card 203"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E307C8 00FFECBF"
+
+  - name: "Card 204"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E307CC 00FFECCF"
+
+  - name: "Card 205"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E307D0 00FFECDF"
+
+  - name: "Card 206"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E307D4 00FFECEF"
+
+  - name: "Card 207"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E307D8 00FFECFF"
+
+  - name: "Card 208"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E307DC 00FFED0F"
+
+  - name: "Card 209"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E307E0 00FFED1F"
+
+  - name: "Card 210"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E307E4 00FFED2F"
+
+  - name: "Card 211"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E307E8 00FFED3F"
+
+  - name: "Card 212"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E307EC 00FFED4F"
+
+  - name: "Card 213"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E307F0 00FFED5F"
+
+  - name: "Card 214"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E307F4 00FFED6F"
+
+  - name: "Card 215"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E307F8 00FFED7F"
+
+  - name: "Card 216"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E307FC 00FFED8F"
+
+  - name: "Card 217"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30800 00FFED9F"
+
+  - name: "Card 218"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30804 00FFEDAF"
+
+  - name: "Card 219"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30808 00FFEDBF"
+
+  - name: "Card 220"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3080C 00FFEDCF"
+
+  - name: "Card 221"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30810 00FFEDDF"
+
+  - name: "Card 222"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30814 00FFEDEF"
+
+  - name: "Card 223"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30818 00FFEDFF"
+
+  - name: "Card 224"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3081C 00FFEE0F"
+
+  - name: "Card 225"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30820 00FFEE1F"
+
+  - name: "Card 226"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30824 00FFEE2F"
+
+  - name: "Card 227"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30828 00FFEE3F"
+
+  - name: "Card 228"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3082C 00FFEE4F"
+
+  - name: "Card 229"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30830 00FFEE5F"
+
+  - name: "Card 230"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30834 00FFEE6F"
+
+  - name: "Card 231"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30838 00FFEE7F"
+
+  - name: "Card 232"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3083C 00FFEE8F"
+
+  - name: "Card 233"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30840 00FFEE9F"
+
+  - name: "Card 234"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30844 00FFEEAF"
+
+  - name: "Card 235"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30848 00FFEEBF"
+
+  - name: "Card 236"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3084C 00FFEECF"
+
+  - name: "Card 237"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30850 00FFEEDF"
+
+  - name: "Card 238"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30854 00FFEEEF"
+
+  - name: "Card 239"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30858 00FFEEFF"
+
+  - name: "Card 240"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3085C 00FFEF0F"
+
+  - name: "Card 241"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30860 00FFEF1F"
+
+  - name: "Card 242"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30864 00FFEF2F"
+
+  - name: "Card 243"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30868 00FFEF3F"
+
+  - name: "Card 244"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3086C 00FFEF4F"
+
+  - name: "Card 245"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30870 00FFEF5F"
+
+  - name: "Card 246"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30874 00FFEF6F"
+
+  - name: "Card 247"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30878 00FFEF7F"
+
+  - name: "Card 248"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3087C 00FFEF8F"
+
+  - name: "Card 249"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30880 00FFEF9F"
+
+  - name: "Card 250"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30884 00FFEFAF"
+
+  - name: "Card 251"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30888 00FFEFBF"
+
+  - name: "Card 252"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3088C 00FFEFCF"
+
+  - name: "Card 253"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30890 00FFEFDF"
+
+  - name: "Card 254"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30894 00FFEFEF"
+
+  - name: "Card 255"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30898 00FFEFFF"
+
+  - name: "Card 256"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E3089C 00FFF00F"
+
+  - name: "Card 257"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E308A0 00FFF01F"
+
+  - name: "Card 258"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E308A4 00FFF02F"
+
+  - name: "Card 259"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E308A8 00FFF03F"
+
+  - name: "Card 260"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E308AC 00FFF04F"
+
+  - name: "Card 261"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E308B0 00FFF05F"
+
+  - name: "Card 262"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E308B4 00FFF06F"
+
+  - name: "Card 263"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E308B8 00FFF07F"
+
+  - name: "Card 264"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E308BC 00FFF08F"
+
+  - name: "Card 265"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E308C0 00FFF09F"
+
+  - name: "Card 266"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E308C4 00FFF0AF"
+
+  - name: "Card 267"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E308C8 00FFF0BF"
+
+  - name: "Card 268"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E308CC 00FFF0CF"
+
+  - name: "Card 269"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E308D0 00FFF0DF"
+
+  - name: "Card 270"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E308D4 00FFF0EF"
+
+  - name: "Card 271"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E308D8 00FFF0FF"
+
+  - name: "Card 272"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E308DC 00FFF10F"
+
+  - name: "Card 273"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E308E0 00FFF11F"
+
+  - name: "Card 274"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E308E4 00FFF12F"
+
+  - name: "Card 275"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E308E8 00FFF13F"
+
+  - name: "Card 276"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E308EC 00FFF14F"
+
+  - name: "Card 277"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E308F0 00FFF15F"
+
+  - name: "Card 278"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E308F4 00FFF16F"
+
+  - name: "Card 279"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E308F8 00FFF17F"
+
+  - name: "Card 280"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E308FC 00FFF18F"
+
+  - name: "Card 281"
+    author: "Code Master"
+    notes: "[With These Codes, You Must Have This Extra Enable Code On For These Codes To Function]"
+    codes:
+      - "21E30900 00FFF19F"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F030A508 006685E7"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "906685E4 0C16D3CC"

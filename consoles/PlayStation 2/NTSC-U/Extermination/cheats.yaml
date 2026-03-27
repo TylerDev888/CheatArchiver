@@ -1,0 +1,1333 @@
+# Extermination cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97112
+
+game: "Extermination"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97112"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01AAE48 00110B5F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00110B5F"
+
+  - name: "0% Infection"
+    author: "InterAct"
+    codes:
+      - "108104DA 00000000"
+      - "1081085E 00000000"
+
+  - name: "Always Low Timer"
+    author: "Code Master"
+    codes:
+      - "20810750 00000000"
+
+  - name: "Infinite Flame Thrower Fuel"
+    author: "Codejunkies"
+    notes: "[Grenade Ammo]"
+    codes:
+      - "20810CAC 00630063"
+
+  - name: "Infinite Grenade Rounds"
+    author: "Codejunkies"
+    notes: "[Grenade Ammo]"
+    codes:
+      - "10810CAA 0000270F"
+
+  - name: "Never Have More Than 10 Grenade Rounds"
+    author: "Codejunkies"
+    notes: "[Grenade Ammo]"
+    codes:
+      - "E001000A 30810CAA"
+      - "10810CAA 0000000A"
+
+  - name: "Never Have More Than 25 Grenade Rounds"
+    author: "Codejunkies"
+    notes: "[Grenade Ammo]"
+    codes:
+      - "E0010019 30810CAA"
+      - "10810CAA 00000019"
+
+  - name: "Never Have More Than 50 Grenade Rounds"
+    author: "Codejunkies"
+    notes: "[Grenade Ammo]"
+    codes:
+      - "E0010032 30810CAA"
+      - "10810CAA 00000032"
+
+  - name: "Never Have More Than 75 Grenade Rounds"
+    author: "Codejunkies"
+    notes: "[Grenade Ammo]"
+    codes:
+      - "E001004B 30810CAA"
+      - "10810CAA 0000004B"
+
+  - name: "Never Have More Than 100 Grenade Rounds"
+    author: "Codejunkies"
+    notes: "[Grenade Ammo]"
+    codes:
+      - "E0010064 30810CAA"
+      - "10810CAA 00000064"
+
+  - name: "No Reload Flame Thrower"
+    author: "Codejunkies"
+    notes: "[Grenade Ammo]"
+    codes:
+      - "10810CAE 00000063"
+
+  - name: "About Infectious Fluid"
+    author: "Code Master"
+    notes: "[Have All Classified Files]"
+    codes:
+      - "00810D0C 00000001"
+
+  - name: "Activation Of Sentry Gun"
+    author: "Code Master"
+    notes: "[Have All Classified Files]"
+    codes:
+      - "00810D0B 00000001"
+
+  - name: "All Classified Files"
+    author: "Code Master"
+    notes: "[Have All Classified Files]"
+    codes:
+      - "00810D0B 00000001"
+      - "40810D0C 00050001"
+      - "01010101 00000000"
+
+  - name: "Card Key Directive"
+    author: "Code Master"
+    notes: "[Have All Classified Files]"
+    codes:
+      - "00810D0D 00000001"
+
+  - name: "Database Search B"
+    author: "Code Master"
+    notes: "[Have All Classified Files]"
+    codes:
+      - "00810D1B 00000001"
+
+  - name: "Facility Interior Summary"
+    author: "Code Master"
+    notes: "[Have All Classified Files]"
+    codes:
+      - "00810D1A 00000001"
+
+  - name: "Fort Steward Security Manual"
+    author: "Code Master"
+    notes: "[Have All Classified Files]"
+    codes:
+      - "00810D11 00000001"
+
+  - name: "Fort Stewart Power System"
+    author: "Code Master"
+    notes: "[Have All Classified Files]"
+    codes:
+      - "00810D1F 00000001"
+
+  - name: "Last Note From Recon Member"
+    author: "Code Master"
+    notes: "[Have All Classified Files]"
+    codes:
+      - "00810D13 00000001"
+
+  - name: "Life Forms Weakpoint"
+    author: "Code Master"
+    notes: "[Have All Classified Files]"
+    codes:
+      - "00810D19 00000001"
+
+  - name: "Lvl 1 Lab Security Corridor"
+    author: "Code Master"
+    notes: "[Have All Classified Files]"
+    codes:
+      - "00810D1C 00000001"
+
+  - name: "Lvl 2 Lab Security Corridor"
+    author: "Code Master"
+    notes: "[Have All Classified Files]"
+    codes:
+      - "00810D1E 00000001"
+
+  - name: "Notice To Security Officers"
+    author: "Code Master"
+    notes: "[Have All Classified Files]"
+    codes:
+      - "00810D0E 00000001"
+
+  - name: "Recon Instructions 1"
+    author: "Code Master"
+    notes: "[Have All Classified Files]"
+    codes:
+      - "00810D14 00000001"
+
+  - name: "Recon Instructions 2"
+    author: "Code Master"
+    notes: "[Have All Classified Files]"
+    codes:
+      - "00810D15 00000001"
+
+  - name: "Recon Instructions 3"
+    author: "Code Master"
+    notes: "[Have All Classified Files]"
+    codes:
+      - "00810D17 00000001"
+
+  - name: "Recon Urgent Instructions"
+    author: "Code Master"
+    notes: "[Have All Classified Files]"
+    codes:
+      - "00810D18 00000001"
+
+  - name: "Sealing Maximum Security Area"
+    author: "Code Master"
+    notes: "[Have All Classified Files]"
+    codes:
+      - "00810D10 00000001"
+
+  - name: "Security Lockdown Release"
+    author: "Code Master"
+    notes: "[Have All Classified Files]"
+    codes:
+      - "00810D0F 00000001"
+
+  - name: "SPML (Missile Launcher)"
+    author: "Code Master"
+    notes: "[Have All Classified Files]"
+    codes:
+      - "00810D1D 00000001"
+
+  - name: "Travis' Business Card"
+    author: "Code Master"
+    notes: "[Have All Classified Files]"
+    codes:
+      - "00810D12 00000001"
+
+  - name: "Water Filter System"
+    author: "Code Master"
+    notes: "[Have All Classified Files]"
+    codes:
+      - "00810D16 00000001"
+
+  - name: "Have All Maps"
+    author: "InterAct"
+    codes:
+      - "20810CB8 01010101"
+      - "20810CBC 01010101"
+      - "10810CC0 00000101"
+      - "00810CC2 00000001"
+
+  - name: "About SPR4"
+    author: "Code Master"
+    notes: "[Have All Top Secret Files]"
+    codes:
+      - "00810D21 00000001"
+
+  - name: "About Ultimate Suit"
+    author: "Code Master"
+    notes: "[Have All Top Secret Files]"
+    codes:
+      - "00810D22 00000001"
+
+  - name: "All Top Secret Files"
+    author: "Code Master"
+    notes: "[Have All Top Secret Files]"
+    codes:
+      - "40810D20 00040001"
+      - "01010101 00000000"
+
+  - name: "Classified Document A"
+    author: "Code Master"
+    notes: "[Have All Top Secret Files]"
+    codes:
+      - "00810D28 00000001"
+
+  - name: "Classified Document B"
+    author: "Code Master"
+    notes: "[Have All Top Secret Files]"
+    codes:
+      - "00810D2A 00000001"
+
+  - name: "Classified Document C"
+    author: "Code Master"
+    notes: "[Have All Top Secret Files]"
+    codes:
+      - "00810D2D 00000001"
+
+  - name: "Climate In Antarctica"
+    author: "Code Master"
+    notes: "[Have All Top Secret Files]"
+    codes:
+      - "00810D23 00000001"
+
+  - name: "Delivery Log"
+    author: "Code Master"
+    notes: "[Have All Top Secret Files]"
+    codes:
+      - "00810D2E 00000001"
+
+  - name: "Department Of Defense Orders"
+    author: "Code Master"
+    notes: "[Have All Top Secret Files]"
+    codes:
+      - "00810D2F 00000001"
+
+  - name: "Excavation Duty Log"
+    author: "Code Master"
+    notes: "[Have All Top Secret Files]"
+    codes:
+      - "00810D27 00000001"
+
+  - name: "Findings On Ho213"
+    author: "Code Master"
+    notes: "[Have All Top Secret Files]"
+    codes:
+      - "00810D24 00000001"
+
+  - name: "Ho214 Incubation Data"
+    author: "Code Master"
+    notes: "[Have All Top Secret Files]"
+    codes:
+      - "00810D29 00000001"
+
+  - name: "Hydraulic Observation Booth"
+    author: "Code Master"
+    notes: "[Have All Top Secret Files]"
+    codes:
+      - "00810D2B 00000001"
+
+  - name: "Hydroclast Report"
+    author: "Code Master"
+    notes: "[Have All Top Secret Files]"
+    codes:
+      - "00810D2C 00000001"
+
+  - name: "Operation: Cold Limit"
+    author: "Code Master"
+    notes: "[Have All Top Secret Files]"
+    codes:
+      - "00810D20 00000001"
+
+  - name: "Research On Ho313"
+    author: "Code Master"
+    notes: "[Have All Top Secret Files]"
+    codes:
+      - "00810D25 00000001"
+
+  - name: "Thorn Mode"
+    author: "Code Master"
+    notes: "[Have All Top Secret Files]"
+    codes:
+      - "D0810CA4 0010FF02"
+      - "10810CA4 0000FFFF"
+
+  - name: "Travis' Note"
+    author: "Code Master"
+    notes: "[Have All Top Secret Files]"
+    codes:
+      - "00810D26 00000001"
+
+  - name: "Have All Weapon Parts"
+    author: "Code Master"
+    codes:
+      - "40810C64 00040001"
+      - "01010101 00000000"
+
+  - name: "Have Battery Pack-6 Guage"
+    author: "Code Master"
+    codes:
+      - "00810C7F 00000001"
+
+  - name: "Have Battery Pack-18 Guage"
+    author: "Code Master"
+    codes:
+      - "00810C80 00000001"
+
+  - name: "Have Battery Pack-24 Gauge"
+    author: "Code Master"
+    codes:
+      - "00810C81 00000001"
+
+  - name: "Have Card Key Beta"
+    author: "Code Master"
+    codes:
+      - "00810C88 00000001"
+
+  - name: "Have Delta Auto Sight"
+    author: "Code Master"
+    codes:
+      - "00810C6E 00000001"
+
+  - name: "Activate Freight Elevator"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CCB 00000001"
+
+  - name: "Activated All Detonators"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CE1 00000001"
+
+  - name: "All Dennis' Memos"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CC3 00000001"
+      - "40810CC4 00070001"
+      - "01010101 00000000"
+      - "10810CE0 00000101"
+      - "00810CE2 00000001"
+
+  - name: "Analysis Of Dvd-Rom Disc"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CDE 00000001"
+
+  - name: "Deactivate Security Lockdown"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CC9 00000001"
+
+  - name: "Detonator In Lvl 1 Lab Arena"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CD3 00000001"
+
+  - name: "Detonator In Lvl 1 Lab Armed"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CD4 00000001"
+
+  - name: "Detonator In Lvl 2 Lab Arena"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CD5 00000001"
+
+  - name: "Detonator In Lvl 2 Lab Armed"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CD6 00000001"
+
+  - name: "Effects Of Fuel Drum Explosion"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CCE 00000001"
+
+  - name: "Escape From Power Reactor"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CDC 00000001"
+
+  - name: "Evacuation Meeting Point Memo"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CE2 00000001"
+
+  - name: "Getting Inside The Facility"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CC3 00000001"
+
+  - name: "Getting Into Transformer Room"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CC7 00000001"
+
+  - name: "Head Back To Infirmary"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CD7 00000001"
+
+  - name: "Maximum Security Area Structure"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CE0 00000001"
+
+  - name: "Mission From Madigan"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CDA 00000001"
+
+  - name: "Mission: Destroy The Fort"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CD0 00000001"
+
+  - name: "Mission: Destroy The Fort (Rev)"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CD1 00000001"
+
+  - name: "Navigating Elevations And Cliffs"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CC4 00000001"
+
+  - name: "Operating The Drawbridge"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CC6 00000001"
+
+  - name: "Rally Point Confirmed"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CC8 00000001"
+
+  - name: "Route Back To Lab Area"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CD2 00000001"
+
+  - name: "Route To Maximum Security Area"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CDF 00000001"
+
+  - name: "Route To Power Reactor"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CD9 00000001"
+
+  - name: "Route To Power Reactor Area"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CD8 00000001"
+
+  - name: "Rush To Power Reactor Rooftop"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CDB 00000001"
+
+  - name: "Security Lockdown Deactivated"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CCA 00000001"
+
+  - name: "Shortest Route To Rally Point"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CC5 00000001"
+
+  - name: "The Last Detonator And DVD Disc"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CDD 00000001"
+
+  - name: "Through Water Filtration"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CCD 00000001"
+
+  - name: "To Bldg. B From Water Filtration"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CCF 00000001"
+
+  - name: "Way To Ground Facility Bldg. B"
+    author: "Code Master"
+    notes: "[Have Dennis' Memo Codes]"
+    codes:
+      - "00810CCC 00000001"
+
+  - name: "Tag 1"
+    author: "Code Master"
+    notes: "[Have Dog Tag Codes]"
+    codes:
+      - "00810C91 00000001"
+
+  - name: "Tag 2"
+    author: "Code Master"
+    notes: "[Have Dog Tag Codes]"
+    codes:
+      - "00810C92 00000001"
+
+  - name: "Tag 3"
+    author: "Code Master"
+    notes: "[Have Dog Tag Codes]"
+    codes:
+      - "00810C93 00000001"
+
+  - name: "Tag 4"
+    author: "Code Master"
+    notes: "[Have Dog Tag Codes]"
+    codes:
+      - "00810C94 00000001"
+
+  - name: "Tag 5"
+    author: "Code Master"
+    notes: "[Have Dog Tag Codes]"
+    codes:
+      - "00810C95 00000001"
+
+  - name: "Tag 6"
+    author: "Code Master"
+    notes: "[Have Dog Tag Codes]"
+    codes:
+      - "00810C96 00000001"
+
+  - name: "Tag 7"
+    author: "Code Master"
+    notes: "[Have Dog Tag Codes]"
+    codes:
+      - "00810C97 00000001"
+
+  - name: "Tag 8"
+    author: "Code Master"
+    notes: "[Have Dog Tag Codes]"
+    codes:
+      - "00810C98 00000001"
+
+  - name: "Tag 9"
+    author: "Code Master"
+    notes: "[Have Dog Tag Codes]"
+    codes:
+      - "00810C99 00000001"
+
+  - name: "Tag 10"
+    author: "Code Master"
+    notes: "[Have Dog Tag Codes]"
+    codes:
+      - "00810C9A 00000001"
+
+  - name: "Tag 11"
+    author: "Code Master"
+    notes: "[Have Dog Tag Codes]"
+    codes:
+      - "00810C9B 00000001"
+
+  - name: "Tag 12"
+    author: "Code Master"
+    notes: "[Have Dog Tag Codes]"
+    codes:
+      - "00810C9C 00000001"
+
+  - name: "Tag 13"
+    author: "Code Master"
+    notes: "[Have Dog Tag Codes]"
+    codes:
+      - "00810C9D 00000001"
+
+  - name: "Tag 14"
+    author: "Code Master"
+    notes: "[Have Dog Tag Codes]"
+    codes:
+      - "00810C9E 00000001"
+
+  - name: "Tag 15"
+    author: "Code Master"
+    notes: "[Have Dog Tag Codes]"
+    codes:
+      - "00810C9F 00000001"
+
+  - name: "Have Dog Tag Receiver Unit"
+    author: "Code Master"
+    codes:
+      - "00810C6A 00000001"
+
+  - name: "Have Dot Sight"
+    author: "Code Master"
+    codes:
+      - "00810C6B 00000001"
+
+  - name: "Have Flamethrower Unit"
+    author: "Code Master"
+    codes:
+      - "00810C68 00000001"
+
+  - name: "Have Full Auto Trigger Group"
+    author: "Code Master"
+    codes:
+      - "00810C73 00000001"
+
+  - name: "Have Grenade Launcher Unit"
+    author: "Code Master"
+    codes:
+      - "00810C66 00000001"
+
+  - name: "Have Grenade Launcher Unit AT-6"
+    author: "Code Master"
+    codes:
+      - "00810C67 00000001"
+
+  - name: "Have Interceptor Unit"
+    author: "Code Master"
+    codes:
+      - "00810C6F 00000001"
+
+  - name: "Have Missile Launcher Unit-A"
+    author: "Code Master"
+    codes:
+      - "00810C70 00000001"
+
+  - name: "Have Missile Launcher Unit-B"
+    author: "Code Master"
+    codes:
+      - "00810C71 00000001"
+
+  - name: "Have Missile Launcher Unit-C"
+    author: "Code Master"
+    codes:
+      - "00810C72 00000001"
+
+  - name: "Have Night Vision Scope"
+    author: "Code Master"
+    codes:
+      - "00810C6D 00000001"
+
+  - name: "All Operation Manuals"
+    author: "Code Master"
+    notes: "[Have Operation Manual Codes]"
+    codes:
+      - "00810CE3 00000001"
+      - "40810CE4 00050001"
+      - "01010101 00000000"
+
+  - name: "Device: LCAC Assault Craft"
+    author: "Code Master"
+    notes: "[Have Operation Manual Codes]"
+    codes:
+      - "00810CF2 00000001"
+
+  - name: "Guide: Ground Facility Bldg. B"
+    author: "Code Master"
+    notes: "[Have Operation Manual Codes]"
+    codes:
+      - "00810CED 00000001"
+
+  - name: "Manual: M129 Gun Turret"
+    author: "Code Master"
+    notes: "[Have Operation Manual Codes]"
+    codes:
+      - "00810CF4 00000001"
+
+  - name: "Manual: M-2HB Machine Gun"
+    author: "Code Master"
+    notes: "[Have Operation Manual Codes]"
+    codes:
+      - "00810CF3 00000001"
+
+  - name: "Manual: MTS Bed"
+    author: "Code Master"
+    notes: "[Have Operation Manual Codes]"
+    codes:
+      - "00810CE7 00000001"
+
+  - name: "Manual: Save Terminal"
+    author: "Code Master"
+    notes: "[Have Operation Manual Codes]"
+    codes:
+      - "00810CE3 00000001"
+
+  - name: "Note: Advistory: Fuel Storage Drums"
+    author: "Code Master"
+    notes: "[Have Operation Manual Codes]"
+    codes:
+      - "00810CE4 00000001"
+
+  - name: "Notice: Air Vents"
+    author: "Code Master"
+    notes: "[Have Operation Manual Codes]"
+    codes:
+      - "00810CEE 00000001"
+
+  - name: "Notice: Ammo Supply Storage"
+    author: "Code Master"
+    notes: "[Have Operation Manual Codes]"
+    codes:
+      - "00810CE6 00000001"
+
+  - name: "Notice: Arctic Manholes"
+    author: "Code Master"
+    notes: "[Have Operation Manual Codes]"
+    codes:
+      - "00810CE9 00000001"
+
+  - name: "Notice: Boiler Room Tools"
+    author: "Code Master"
+    notes: "[Have Operation Manual Codes]"
+    codes:
+      - "00810CEA 00000001"
+
+  - name: "Notice: Door Operation"
+    author: "Code Master"
+    notes: "[Have Operation Manual Codes]"
+    codes:
+      - "00810CEC 00000001"
+
+  - name: "Procedure: Biohazard Shutters"
+    author: "Code Master"
+    notes: "[Have Operation Manual Codes]"
+    codes:
+      - "00810CE8 00000001"
+
+  - name: "Usage Note: Slide Rail"
+    author: "Code Master"
+    notes: "[Have Operation Manual Codes]"
+    codes:
+      - "00810CE5 00000001"
+
+  - name: "Usage: Climbing Spikes"
+    author: "Code Master"
+    notes: "[Have Operation Manual Codes]"
+    codes:
+      - "00810CEF 00000001"
+
+  - name: "Usage: Power Reactor Crane"
+    author: "Code Master"
+    notes: "[Have Operation Manual Codes]"
+    codes:
+      - "00810CF1 00000001"
+
+  - name: "Usage: Power Reactor Elevator"
+    author: "Code Master"
+    notes: "[Have Operation Manual Codes]"
+    codes:
+      - "00810CF0 00000001"
+
+  - name: "Usage: Water Drainage Valve"
+    author: "Code Master"
+    notes: "[Have Operation Manual Codes]"
+    codes:
+      - "00810CEB 00000001"
+
+  - name: "Have Shotgun Unit"
+    author: "Code Master"
+    codes:
+      - "00810C65 00000001"
+
+  - name: "Addition By George, An Observer"
+    author: "Code Master"
+    notes: "[Have Staff Log Codes]"
+    codes:
+      - "00810D00 00000001"
+
+  - name: "All Staff Logs"
+    author: "Code Master"
+    notes: "[Have Staff Log Codes]"
+    codes:
+      - "00810CF5 00000001"
+      - "10810CF6 00000101"
+      - "40810CF8 00040001"
+      - "01010101 00000000"
+      - "10810D08 00000101"
+      - "00810D0A 00000001"
+
+  - name: "Journal: George H., Observer"
+    author: "Code Master"
+    notes: "[Have Staff Log Codes]"
+    codes:
+      - "00810CF5 00000001"
+
+  - name: "Last Log Of Dr. Jim Jorgensen"
+    author: "Code Master"
+    notes: "[Have Staff Log Codes]"
+    codes:
+      - "00810CF9 00000001"
+
+  - name: "Last Memo By Julian H."
+    author: "Code Master"
+    notes: "[Have Staff Log Codes]"
+    codes:
+      - "00810D05 00000001"
+
+  - name: "Letter From Drawbridge Tech"
+    author: "Code Master"
+    notes: "[Have Staff Log Codes]"
+    codes:
+      - "00810CF7 00000001"
+
+  - name: "Letter From Sonia To Cindy"
+    author: "Code Master"
+    notes: "[Have Staff Log Codes]"
+    codes:
+      - "00810D02 00000001"
+
+  - name: "Memo By Cindy Chen"
+    author: "Code Master"
+    notes: "[Have Staff Log Codes]"
+    codes:
+      - "00810D06 00000001"
+
+  - name: "Memo By Dudley"
+    author: "Code Master"
+    notes: "[Have Staff Log Codes]"
+    codes:
+      - "00810D0A 00000001"
+
+  - name: "Memo By Excavation Engineer"
+    author: "Code Master"
+    notes: "[Have Staff Log Codes]"
+    codes:
+      - "00810D07 00000001"
+
+  - name: "Memo: Corporal Kirkwood"
+    author: "Code Master"
+    notes: "[Have Staff Log Codes]"
+    codes:
+      - "00810CFB 00000001"
+
+  - name: "Memo: Curtis A., Researcher"
+    author: "Code Master"
+    notes: "[Have Staff Log Codes]"
+    codes:
+      - "00810D03 00000001"
+
+  - name: "Memo: Duane J., Researcher"
+    author: "Code Master"
+    notes: "[Have Staff Log Codes]"
+    codes:
+      - "00810D04 00000001"
+
+  - name: "Memo: Graham M., Engineer"
+    author: "Code Master"
+    notes: "[Have Staff Log Codes]"
+    codes:
+      - "00810D01 00000001"
+
+  - name: "Memo: Robert C., Engineer"
+    author: "Code Master"
+    notes: "[Have Staff Log Codes]"
+    codes:
+      - "00810CFF 00000001"
+
+  - name: "Memo: Robert Cameron"
+    author: "Code Master"
+    notes: "[Have Staff Log Codes]"
+    codes:
+      - "00810CFD 00000001"
+
+  - name: "New Security System"
+    author: "Code Master"
+    notes: "[Have Staff Log Codes]"
+    codes:
+      - "00810CFA 00000001"
+
+  - name: "Note By Train Mechanic"
+    author: "Code Master"
+    notes: "[Have Staff Log Codes]"
+    codes:
+      - "00810D09 00000001"
+
+  - name: "Note: James B., Researcher"
+    author: "Code Master"
+    notes: "[Have Staff Log Codes]"
+    codes:
+      - "00810D08 00000001"
+
+  - name: "Notice To All Personnel"
+    author: "Code Master"
+    notes: "[Have Staff Log Codes]"
+    codes:
+      - "00810CF8 00000001"
+
+  - name: "Work Log: Dr. Ernie Hartmann"
+    author: "Code Master"
+    notes: "[Have Staff Log Codes]"
+    codes:
+      - "00810CF6 00000001"
+
+  - name: "Work Log: Dr. Jim Jorgensen"
+    author: "Code Master"
+    notes: "[Have Staff Log Codes]"
+    codes:
+      - "00810CFC 00000001"
+
+  - name: "Work Log: Michael, Engineer"
+    author: "Code Master"
+    notes: "[Have Staff Log Codes]"
+    codes:
+      - "00810CFE 00000001"
+
+  - name: "Have Tactical Grip Unit"
+    author: "Code Master"
+    codes:
+      - "00810C64 00000001"
+
+  - name: "Have U.R.S. Cover"
+    author: "Code Master"
+    codes:
+      - "00810C69 00000001"
+
+  - name: "Have Zoom Scope"
+    author: "Code Master"
+    codes:
+      - "00810C6C 00000001"
+
+  - name: "Infinite Health"
+    author: "InterAct"
+    codes:
+      - "1081085A 000042C8"
+      - "108104D2 000042C8"
+
+  - name: "Have All Classified Files"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00810D0B 00000001"
+      - "20810D0C 01010101"
+      - "20810D10 01010101"
+      - "20810D14 01010101"
+      - "20810D18 01010101"
+      - "20810D1C 01010101"
+
+  - name: "Have All Dennis' Memos"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00810CC3 00000001"
+      - "20810CC4 01010101"
+      - "20810CC8 01010101"
+      - "20810CCC 01010101"
+      - "20810CD0 01010101"
+      - "20810CD4 01010101"
+      - "20810CD8 01010101"
+      - "20810CDC 01010101"
+      - "10810CE0 00000101"
+      - "00810CE2 00000001"
+
+  - name: "Have All Ops Manuals"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00810CE3 00000001"
+      - "20810CE4 01010101"
+      - "20810CE8 01010101"
+      - "20810CEC 01010101"
+      - "20810CF0 01010101"
+      - "00810CF4 00000001"
+
+  - name: "Have All Staff Logs"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00810CF5 00000001"
+      - "10810CF6 00000101"
+      - "20810CF8 01010101"
+      - "20810CFC 01010101"
+      - "20810D00 01010101"
+      - "20810D04 01010101"
+      - "10810D08 00000101"
+      - "00810D0A 00000001"
+
+  - name: "Have All Top Secret Files"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "20810D20 01010101"
+      - "20810D24 01010101"
+      - "20810D28 01010101"
+      - "20810D2C 01010101"
+
+  - name: "Have Arctic Parka"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00810C7E 00000001"
+
+  - name: "Have Card Key Alpha"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00810C87 00000001"
+
+  - name: "Have Climbing Spikes"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00810C7D 00000001"
+
+  - name: "Have Crowbar"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00810C8B 00000001"
+
+  - name: "Have Dvd-Rom"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00810C8F 00000001"
+
+  - name: "Have Gary's Bomb"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00810C8C 00000001"
+
+  - name: "Have Metal Tag 1"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00810C8D 00000001"
+
+  - name: "Have Metal Tag 2"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00810C8E 00000001"
+
+  - name: "Have Roger's Knife"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00810C90 00000001"
+
+  - name: "Have Snow Truck Key"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00810C89 00000001"
+
+  - name: "Have Train Key"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00810C8A 00000001"
+
+  - name: "Infinite Booster Type A"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00810C85 00000063"
+
+  - name: "Infinite Booster Type B"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00810C86 00000063"
+
+  - name: "Infinite Mts Vaccine"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00810C84 00000063"
+
+  - name: "Infinite Recovery Unit A"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00810C82 00000063"
+
+  - name: "Infinite Recovery Unit B"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00810C83 00000063"
+
+  - name: "Me So Thorny"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "E002FF02 00810CA4"
+      - "D0810CA6 00000000"
+      - "10810CA4 0000FFFF"
+
+  - name: "Infinite Ammo Machinegun"
+    author: "Codejunkies"
+    notes: "[Machinegun Ammo]"
+    codes:
+      - "10810CB4 0000270F"
+
+  - name: "Never Have More Than 10 Machine Gun Bullets"
+    author: "Codejunkies"
+    notes: "[Machinegun Ammo]"
+    codes:
+      - "E001000A 30810CB4"
+      - "10810CB4 0000000A"
+
+  - name: "Never Have More Than 25 Machine Gun Bullets"
+    author: "Codejunkies"
+    notes: "[Machinegun Ammo]"
+    codes:
+      - "E0010019 30810CB4"
+      - "10810CB4 00000019"
+
+  - name: "Never Have More Than 50 Machine Gun Bullets"
+    author: "Codejunkies"
+    notes: "[Machinegun Ammo]"
+    codes:
+      - "E0010032 30810CB4"
+      - "10810CB4 00000032"
+
+  - name: "Never Have More Than 75 Machine Gun Bullets"
+    author: "Codejunkies"
+    notes: "[Machinegun Ammo]"
+    codes:
+      - "E001004B 30810CB4"
+      - "10810CB4 0000004B"
+
+  - name: "Never Have More Than 100 Machine Gun Bullets"
+    author: "Codejunkies"
+    notes: "[Machinegun Ammo]"
+    codes:
+      - "E0010064 30810CB4"
+      - "10810CB4 00000064"
+
+  - name: "No Reloads Machine Gun"
+    author: "Codejunkies"
+    notes: "[Machinegun Ammo]"
+    codes:
+      - "00810C62 000000FF"
+
+  - name: "Infinite Battery"
+    author: "Codejunkies"
+    notes: "[Rocket Ammo]"
+    codes:
+      - "00810CB2 00000030"
+      - "00810CB7 00000030"
+
+  - name: "Infinite Rockets"
+    author: "Codejunkies"
+    notes: "[Rocket Ammo]"
+    codes:
+      - "10810CB0 0000270F"
+
+  - name: "Never Have More Than 10 Rockets"
+    author: "Codejunkies"
+    notes: "[Rocket Ammo]"
+    codes:
+      - "E001000A 30810CB0"
+      - "10810CB0 0000000A"
+
+  - name: "Never Have More Than 25 Rockets"
+    author: "Codejunkies"
+    notes: "[Rocket Ammo]"
+    codes:
+      - "E0010019 30810CB0"
+      - "10810CB0 00000019"
+
+  - name: "Never Have More Than 50 Rockets"
+    author: "Codejunkies"
+    notes: "[Rocket Ammo]"
+    codes:
+      - "E0010032 30810CB0"
+      - "10810CB0 00000032"
+
+  - name: "Never Have More Than 75 Rockets"
+    author: "Codejunkies"
+    notes: "[Rocket Ammo]"
+    codes:
+      - "E001004B 30810CB0"
+      - "10810CB0 0000004B"
+
+  - name: "Never Have More Than 100 Rockets"
+    author: "Codejunkies"
+    notes: "[Rocket Ammo]"
+    codes:
+      - "E0010064 30810CB0"
+      - "10810CB0 00000064"
+
+  - name: "Infinite Shotgun Shells"
+    author: "Codejunkies"
+    notes: "[Shotgun Ammo]"
+    codes:
+      - "10810CA8 0000270F"
+
+  - name: "Never Have More Than 10 Shotgun Shells"
+    author: "Codejunkies"
+    notes: "[Shotgun Ammo]"
+    codes:
+      - "E001000A 30810CA8"
+      - "10810CA8 0000000A"
+
+  - name: "Never Have More Than 25 Shotgun Shells"
+    author: "Codejunkies"
+    notes: "[Shotgun Ammo]"
+    codes:
+      - "E0010019 30810CA8"
+      - "10810CA8 00000019"
+
+  - name: "Never Have More Than 50 Shotgun Shells"
+    author: "Codejunkies"
+    notes: "[Shotgun Ammo]"
+    codes:
+      - "E0010032 30810CA8"
+      - "10810CA8 00000032"
+
+  - name: "Never Have More Than 75 Shotgun Shells"
+    author: "Codejunkies"
+    notes: "[Shotgun Ammo]"
+    codes:
+      - "E001004B 30810CA8"
+      - "10810CA8 0000004B"
+
+  - name: "Never Have More Than 100 Shotgun Shells"
+    author: "Codejunkies"
+    notes: "[Shotgun Ammo]"
+    codes:
+      - "E0010064 30810CA8"
+      - "10810CA8 00000064"
+
+  - name: "Never Infected"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "108104DA 00000000"
+      - "1081085E 00000000"
+
+  - name: "Infinite Ammo-Shotgun"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10810CA8 0000270F"
+
+  - name: "Infinite Ammo-Grenade Launcher"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10810CAA 0000270F"
+
+  - name: "Infinite Ammo-Flame Thrower"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20810CAC 00630063"
+
+  - name: "Infinite Ammo-Machine Gun"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10810CB4 0000270F"

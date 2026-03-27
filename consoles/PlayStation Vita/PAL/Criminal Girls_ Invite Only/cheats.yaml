@@ -1,0 +1,85 @@
+# Criminal Girls_ Invite Only cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00636
+
+game: "Criminal Girls_ Invite Only"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00636"
+cheat_type: "Save Editor"
+source: "Credits: Bucanero"
+
+cheats:
+  - name: "999,999 Cm"
+    notes: "File: data000*.bin"
+    codes:
+      - "200198BC 000F423F"
+
+  - name: "Kisaragi Level Up"
+    notes: "File: data000*.bin"
+    codes:
+      - "20000D24 00000000"
+
+  - name: "Kisaragi 9999 Hp"
+    notes: "File: data000*.bin"
+    codes:
+      - "10000D30 0000270F"
+      - "10000D34 0000270F"
+
+  - name: "Kisaragi 999 Mp"
+    notes: "File: data000*.bin"
+    codes:
+      - "10000D38 000003E7"
+      - "10000D3C 000003E7"
+
+  - name: "Ran Level Up"
+    notes: "File: data000*.bin"
+    codes:
+      - "20003920 00000000"
+
+  - name: "Ran 9999 Hp"
+    notes: "File: data000*.bin"
+    codes:
+      - "1000392C 0000270F"
+      - "10003930 0000270F"
+
+  - name: "Ran 999 Mp"
+    notes: "File: data000*.bin"
+    codes:
+      - "10003934 000003E7"
+      - "10003938 000003E7"
+
+  - name: "Alice Level Up"
+    notes: "File: data000*.bin"
+    codes:
+      - "2000651C 00000000"
+
+  - name: "Alice 9999 Hp"
+    notes: "File: data000*.bin"
+    codes:
+      - "10006528 0000270F"
+      - "1000652C 0000270F"
+
+  - name: "Alice 999 Mp"
+    notes: "File: data000*.bin"
+    codes:
+      - "10006530 000003E7"
+      - "10006534 000003E7"
+
+  - name: "Sako Level Up"
+    notes: "File: data000*.bin"
+    codes:
+      - "2000BD14 00000000"
+
+  - name: "Sako 9999 Hp"
+    notes: "File: data000*.bin"
+    codes:
+      - "1000BD20 0000270F"
+      - "1000BD24 0000270F"
+
+  - name: "Sako 999 Mp"
+    notes: "File: data000*.bin"
+    codes:
+      - "1000BD28 000003E7"
+      - "1000BD2C 000003E7"

@@ -1,0 +1,49 @@
+# Tony Hawk's Project 8 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Tony Hawk's Project 8"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9011B884 0C10B6C2"
+
+  - name: "Timer Always Disabled"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2034ED5C 00000000"
+
+  - name: "Press Select + L1 To Stop Timer"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "D0514B9C 0000FBFE"
+      - "2034ED5C 00000000"
+
+  - name: "Press Select + R1 To Start Timer"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "D0514B9C 0000F7FE"
+      - "2034ED5C 00621823"
+
+  - name: "Huge Score"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2067DFF0 05F5E0FF"
+
+  - name: "Infinite Stokens"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2067E098 05F5E0FF"

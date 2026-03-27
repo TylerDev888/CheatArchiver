@@ -1,0 +1,113 @@
+# Rugby 2002 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20262
+
+game: "Rugby 2002"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20262"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F012B964 0012B967"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0012B967"
+
+  - name: "All Goal's Score Modifier"
+    author: "Code Master"
+    codes:
+      - "201AAA38 24630063"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "10537D78 0000????"
+
+  - name: "Away Team Start With Score Modifier"
+    author: "Code Master"
+    codes:
+      - "D0537D78 00000000"
+      - "10537D78 0000????"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "10537A2C 0000????"
+
+  - name: "Home Team Start With Score Modifier"
+    author: "Code Master"
+    codes:
+      - "D0537A2C 00000000"
+      - "10537A2C 0000????"
+
+  - name: "P1 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D040CB82 0000FAFF"
+      - "20417034 00000000"
+
+  - name: "P1 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D040CB82 0000F5FF"
+      - "20417034 43B40000"
+
+  - name: "P2 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D040CC82 0000FAFF"
+      - "20417034 00000000"
+
+  - name: "P2 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D040CC82 0000F5FF"
+      - "20417034 43B40000"
+
+  - name: "Team A Always Scores 0"
+    author: "Codejunkies"
+    notes: "[Team A Codes]"
+    codes:
+      - "00537A2C 00000000"
+
+  - name: "Team A Always Scores 99"
+    author: "Codejunkies"
+    notes: "[Team A Codes]"
+    codes:
+      - "00537A2C 00000063"
+
+  - name: "Team B Always Scores 0"
+    author: "Codejunkies"
+    notes: "[Team B Codes]"
+    codes:
+      - "00537D78 00000000"
+
+  - name: "Team B Always Scores 99"
+    author: "Codejunkies"
+    notes: "[Team B Codes]"
+    codes:
+      - "00537D78 00000063"
+
+  - name: "Have More Time (Press L2+Up To Activate)"
+    author: "Codejunkies"
+    notes: "[Timer Codes]"
+    codes:
+      - "D040CB82 0000FEEF"
+      - "10417036 00000000"
+
+  - name: "Skip To The End Of The Half (Press L2+Down To Activate)"
+    author: "Codejunkies"
+    notes: "[Timer Codes]"
+    codes:
+      - "D040CB82 0000FEBF"
+      - "10417036 000043B2"

@@ -1,0 +1,21 @@
+# LEGO The Hobbit cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01998
+
+game: "LEGO The Hobbit"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01998"
+cheat_type: "Save Editor"
+source: "by bucanero"
+
+cheats:
+  - name: "Update Checksum For Game1 (required)"
+    notes: "File: GAME1"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x14,pointer"
+      - "set [hash]:fnv1:0xFFFFFFFF"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x0010:[hash]"

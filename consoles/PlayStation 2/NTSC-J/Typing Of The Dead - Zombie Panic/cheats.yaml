@@ -1,0 +1,27 @@
+# Typing Of The Dead - Zombie Panic cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62566
+
+game: "Typing Of The Dead - Zombie Panic"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62566"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Infinite Timer"
+    author: "luc-ita"
+    codes:
+      - "20234228 00000000"
+
+  - name: "No Camera Shaking When Being Hit"
+    author: "luc-ita"
+    codes:
+      - "201EDFBC 10000022"
+
+  - name: "Untouchable"
+    author: "luc-ita"
+    codes:
+      - "201A1444 2403007F"

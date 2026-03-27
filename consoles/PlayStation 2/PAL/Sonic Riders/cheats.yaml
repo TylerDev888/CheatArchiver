@@ -1,0 +1,94 @@
+# Sonic Riders cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53560
+
+game: "Sonic Riders"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53560"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F010EF1C 0010EF1F"
+
+  - name: "100 Rings"
+    author: "Codejunkies"
+    codes:
+      - "2049A0EC 00000064"
+
+  - name: "Infinite Air"
+    author: "Codejunkies"
+    codes:
+      - "20499ED8 00030250"
+
+  - name: "Infinite Funds"
+    author: "Codejunkies"
+    codes:
+      - "2095D428 000F423F"
+
+  - name: "Instant Win"
+    author: "Codejunkies"
+    codes:
+      - "E0020000 2049A5D0"
+      - "E0010203 2049A5D2"
+      - "2049A5D0 02030000"
+
+  - name: "Low Time"
+    author: "Codejunkies"
+    codes:
+      - "20487F70 00000000"
+
+  - name: "Opponents Don't Move"
+    author: "luc-ita"
+    codes:
+      - "201D3F08 08028000"
+      - "200A0000 3C01004A"
+      - "200A0004 24219340"
+      - "200A0008 10310003"
+      - "200A000C 8E2311D8"
+      - "200A0010 08074FC6"
+      - "200A0014 A3A4091F"
+      - "200A0018 08074FC4"
+
+  - name: "Start On 3Rd Lap"
+    author: "Codejunkies"
+    codes:
+      - "E0020000 0049A5D0"
+      - "D049A5D2 00000001"
+      - "2049A5D0 02030000"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90205988 0C043C1E"
+
+  - name: "Max Rings In Race"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "201D337C 24050064"
+
+  - name: "Infinite Rings"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2095D428 000F4235"
+
+  - name: "Infinite Air P1"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20499ED8 00030D40"
+
+  - name: "Infinite Air P2"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2049B1D8 00030D40"

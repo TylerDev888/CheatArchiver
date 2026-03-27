@@ -1,0 +1,24 @@
+# Momotaro Densetsu USA cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62555
+
+game: "Momotaro Densetsu USA"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62555"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9031C790 0C0C718C"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90328954 0C0CCF5D"

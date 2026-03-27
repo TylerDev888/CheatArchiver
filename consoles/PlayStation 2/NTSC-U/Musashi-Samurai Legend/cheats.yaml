@@ -1,0 +1,177 @@
+# Musashi-Samurai Legend cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20983
+
+game: "Musashi-Samurai Legend"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20983"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90292E90 00832021"
+
+  - name: "Disable FMV"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20285338 24020001"
+
+  - name: "Max HP"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "206C6B88 43960000"
+
+  - name: "Infinite HP"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "206C6B8C 43960000"
+
+  - name: "Max MP"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "206C6B90 43960000"
+
+  - name: "Infinite MP"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "206C6B94 43960000"
+
+  - name: "Max Strength"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "206C6B98 43480000"
+
+  - name: "Max Defense"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "206C6B9C 43480000"
+
+  - name: "Max Focus"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "206C6BA0 43480000"
+
+  - name: "Max Luck"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "206C6BA4 43480000"
+
+  - name: "Max All Stats"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "406C6B98 00040001"
+      - "43480000 00000000"
+
+  - name: "Max Money"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "206C6BA8 4CBEBC20"
+
+  - name: "Level 99"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "206C6BAC 42C40000"
+
+  - name: "Gain 50000 EXP Per Kill"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201D5024 3413C350"
+
+  - name: "Gain 25000 EXP Per Kill"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201D5024 341361A8"
+
+  - name: "Gain 10000 EXP Per Kill"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201D5024 34132710"
+
+  - name: "Gain 5000 EXP Per Kill"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201D5024 34131388"
+
+  - name: "Gain 1000 EXP Per Kill"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201D5024 341303E8"
+
+  - name: "Gain 500 EXP Per Kill"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201D5024 341301F4"
+
+  - name: "Gain 100 EXP Per Kill"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201D5024 34130064"
+
+  - name: "Have All Rescue List"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "106C76E2 0000FFFF"
+      - "106C76E4 0000FFFF"
+      - "006C76E6 000000FF"
+
+  - name: "Have All Weapons"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "206C76EC FFFFFFFF"
+
+  - name: "Have All Artifacts"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "206C76F0 FFFFFFFF"
+
+  - name: "Iron Parts"
+    author: "Code Master"
+    notes: "[Max Parts Codes]"
+    codes:
+      - "006C74EB 000000E3"
+
+  - name: "Steel Parts"
+    author: "Code Master"
+    notes: "[Max Parts Codes]"
+    codes:
+      - "006C74EC 000000E3"
+
+  - name: "Mithril Parts"
+    author: "Code Master"
+    notes: "[Max Parts Codes]"
+    codes:
+      - "006C74ED 000000E3"
+
+  - name: "Magic Alloy"
+    author: "Code Master"
+    notes: "[Max Parts Codes]"
+    codes:
+      - "006C74EE 000000E3"

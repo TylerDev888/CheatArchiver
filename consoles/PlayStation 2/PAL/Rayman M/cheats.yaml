@@ -1,0 +1,483 @@
+# Rayman M cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50457
+
+game: "Rayman M"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50457"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0131084 000001FD"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    notes: "[Ammo Codes]"
+    codes:
+      - "00D2A240 00000099"
+
+  - name: "Never Have More Than 25% Ammo"
+    author: "Codejunkies"
+    notes: "[Ammo Codes]"
+    codes:
+      - "E1010026 30D2A240"
+      - "00D2A240 00000026"
+
+  - name: "Never Have More Than 50% Ammo"
+    author: "Codejunkies"
+    notes: "[Ammo Codes]"
+    codes:
+      - "E101004C 30D2A240"
+      - "00D2A240 0000004C"
+
+  - name: "Never Have More Than 75% Ammo"
+    author: "Codejunkies"
+    notes: "[Ammo Codes]"
+    codes:
+      - "E1010072 30D2A240"
+      - "00D2A240 00000072"
+
+  - name: "Enemies Have 0 Lums"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "00D27258 00000000"
+      - "00D28664 00000000"
+      - "00D299B4 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "00D2A250 00000005"
+
+  - name: "Never Have More Than 25% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "00D2A250 00000001"
+      - "00D2A250 00000001"
+
+  - name: "Never Have More Than 50% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "00D2A250 00000002"
+      - "00D2A250 00000002"
+
+  - name: "Never Have More Than 75% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "00D2A250 00000003"
+      - "00D2A250 00000003"
+
+  - name: "0 Lums"
+    author: "Codejunkies"
+    notes: "[Player 1 Lums Codes]"
+    codes:
+      - "00EAF04C 00000000"
+
+  - name: "99 Lums"
+    author: "Codejunkies"
+    notes: "[Player 1 Lums Codes]"
+    codes:
+      - "00EAF04C 00000063"
+
+  - name: "Unlock All Characters"
+    author: "InterAct"
+    codes:
+      - "20E4FCDC 00000001"
+      - "20E4FCE4 00000001"
+      - "20E4FCF4 00000001"
+
+  - name: "Advanced League"
+    author: "Codejunkies"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "20E4FD18 00000001"
+      - "20E4FD1C 00000001"
+      - "20E4FD20 00000001"
+      - "20E4FD54 00000001"
+      - "20E4FD58 00000001"
+      - "20E4FD5C 00000001"
+      - "20E4FD90 00000001"
+      - "20E4FD94 00000001"
+      - "20E4FD98 00000001"
+      - "20E4FDD8 00000001"
+      - "20E4FDDC 00000001"
+      - "20E4FDE0 00000001"
+      - "20E4FE18 00000001"
+      - "20E4FE1C 00000001"
+      - "20E4FE20 00000001"
+      - "20E4FE60 00000001"
+      - "20E4FE64 00000001"
+      - "20E4FE68 00000001"
+
+  - name: "Beginner League"
+    author: "Codejunkies"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "20E4FD48 00000001"
+      - "20E4FD4C 00000001"
+      - "20E4FD50 00000001"
+      - "20E4FD84 00000001"
+      - "20E4FD88 00000001"
+      - "20E4FD8C 00000001"
+      - "20E4FDCC 00000001"
+      - "20E4FDD0 00000001"
+      - "20E4FDD4 00000001"
+      - "20E4FE0C 00000001"
+      - "20E4FE10 00000001"
+      - "20E4FE14 00000001"
+      - "20E4FE54 00000001"
+      - "20E4FE58 00000001"
+      - "20E4FE5C 00000001"
+
+  - name: "Bonus League"
+    author: "Codejunkies"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "20E4FD3C 00000001"
+      - "20E4FD78 00000001"
+      - "20E4FDB4 00000001"
+      - "20E4FDF0 00000001"
+      - "20E4FDF4 00000001"
+      - "20E4FDF8 00000001"
+      - "20E4FDFC 00000001"
+      - "20E4FE00 00000001"
+
+  - name: "Experienceert League"
+    author: "Codejunkies"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "20E4FD24 00000001"
+      - "20E4FD28 00000001"
+      - "20E4FD2C 00000001"
+      - "20E4FD60 00000001"
+      - "20E4FD64 00000001"
+      - "20E4FD68 00000001"
+      - "20E4FD9C 00000001"
+      - "20E4FDA0 00000001"
+      - "20E4FDA4 00000001"
+      - "20E4FE24 00000001"
+      - "20E4FE28 00000001"
+      - "20E4FE2C 00000001"
+      - "20E4FE6C 00000001"
+      - "20E4FE70 00000001"
+      - "20E4FE74 00000001"
+
+  - name: "Extreme League"
+    author: "Codejunkies"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "20E4FD30 00000001"
+      - "20E4FD34 00000001"
+      - "20E4FD38 00000001"
+      - "20E4FD6C 00000001"
+      - "20E4FD70 00000001"
+      - "20E4FD74 00000001"
+      - "20E4FDA8 00000001"
+      - "20E4FDAC 00000001"
+      - "20E4FDB0 00000001"
+      - "20E4FDE4 00000001"
+      - "20E4FDE8 00000001"
+      - "20E4FDEC 00000001"
+      - "20E4FE30 00000001"
+      - "20E4FE34 00000001"
+      - "20E4FE38 00000001"
+      - "20E4FE78 00000001"
+      - "20E4FE7C 00000001"
+      - "20E4FE80 00000001"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001124EF"
+
+  - name: "Player 1"
+    author: "Xploder"
+    notes: "[Unlimited Bullets]"
+    codes:
+      - "20E18450 00000009"
+
+  - name: "Player 2"
+    author: "Xploder"
+    notes: "[Unlimited Bullets]"
+    codes:
+      - "20E1546C 00000009"
+
+  - name: "Advanced League Battle Arenas"
+    author: "Xploder"
+    notes: "[Unlock (For Single Player Mode)]"
+    codes:
+      - "20E4F518 00000001"
+      - "20E4F51C 00000001"
+      - "20E4F520 00000001"
+
+  - name: "Advanced League Race Arenas"
+    author: "Xploder"
+    notes: "[Unlock (For Single Player Mode)]"
+    codes:
+      - "20E4F5CC 00000001"
+      - "20E4F5D0 00000001"
+      - "20E4F5D4 00000001"
+
+  - name: "Expert League Battle Arenas"
+    author: "Xploder"
+    notes: "[Unlock (For Single Player Mode)]"
+    codes:
+      - "20E4F524 00000001"
+      - "20E4F528 00000001"
+      - "20E4F52C 00000001"
+
+  - name: "Expert League Race Arenas"
+    author: "Xploder"
+    notes: "[Unlock (For Single Player Mode)]"
+    codes:
+      - "20E4F5D8 00000001"
+      - "20E4F5DC 00000001"
+      - "20E4F5E0 00000001"
+
+  - name: "Extreme League Battle Arenas"
+    author: "Xploder"
+    notes: "[Unlock (For Single Player Mode)]"
+    codes:
+      - "20E4F530 00000001"
+      - "20E4F534 00000001"
+      - "20E4F538 00000001"
+
+  - name: "Extreme League Race Arenas"
+    author: "Xploder"
+    notes: "[Unlock (For Single Player Mode)]"
+    codes:
+      - "20E4F5E4 00000001"
+      - "20E4F5E8 00000001"
+      - "20E4F5EC 00000001"
+
+  - name: "Bonus League Battle Arenas"
+    author: "Xploder"
+    notes: "[Unlock (For Single Player Mode)]"
+    codes:
+      - "20E4F53C 00000001"
+
+  - name: "Bonus League Race Arenas"
+    author: "Xploder"
+    notes: "[Unlock (For Single Player Mode)]"
+    codes:
+      - "20E4F5F0 00000001"
+      - "20E4F5F4 00000001"
+      - "20E4F5F8 00000001"
+      - "20E4F5FC 00000001"
+      - "20E4F600 00000001"
+
+  - name: "Have All Levels Completed"
+    author: "Xploder"
+    notes: "[Unlock (For Single Player Mode)]"
+    codes:
+      - "40E4F50C 000D0001"
+      - "00000002 00000000"
+      - "40E4F548 000D0001"
+      - "00000002 00000000"
+      - "40E4F584 000D0001"
+      - "00000002 00000000"
+      - "40E4F5C0 00110001"
+      - "00000002 00000000"
+      - "40E4F60C 00100001"
+      - "00000002 00000000"
+      - "40E4F654 00100001"
+      - "00000002 00000000"
+
+  - name: "Timber Wood"
+    author: "Xploder"
+    notes: "[Advanced League]"
+    codes:
+      - "20E4F518 00000001"
+
+  - name: "Haunted Yard"
+    author: "Xploder"
+    notes: "[Advanced League]"
+    codes:
+      - "20E4F51C 00000001"
+
+  - name: "Palm Beach"
+    author: "Xploder"
+    notes: "[Advanced League]"
+    codes:
+      - "20E4F520 00000001"
+
+  - name: "Dawn Sand"
+    author: "Xploder"
+    notes: "[Advanced League]"
+    codes:
+      - "20E4F5CC 00000001"
+
+  - name: "Water Canyon"
+    author: "Xploder"
+    notes: "[Advanced League]"
+    codes:
+      - "20E4F5D0 00000001"
+
+  - name: "Thousand Waterfalls"
+    author: "Xploder"
+    notes: "[Advanced League]"
+    codes:
+      - "20E4F5D4 00000001"
+
+  - name: "Spellbound Forest"
+    author: "Xploder"
+    notes: "[Expert League]"
+    codes:
+      - "20E4F524 00000001"
+
+  - name: "Lys Palace"
+    author: "Xploder"
+    notes: "[Expert League]"
+    codes:
+      - "20E4F528 00000001"
+
+  - name: "Coconut Island"
+    author: "Xploder"
+    notes: "[Expert League]"
+    codes:
+      - "20E4F52C 00000001"
+
+  - name: "Forest Jump"
+    author: "Xploder"
+    notes: "[Expert League]"
+    codes:
+      - "20E4F5D8 00000001"
+
+  - name: "Zenith Harbour"
+    author: "Xploder"
+    notes: "[Expert League]"
+    codes:
+      - "20E4F5DC 00000001"
+
+  - name: "Treasure Ship"
+    author: "Xploder"
+    notes: "[Expert League]"
+    codes:
+      - "20E4F5E0 00000001"
+
+  - name: "Gemstone Temple"
+    author: "Xploder"
+    notes: "[Extreme League]"
+    codes:
+      - "20E4F530 00000001"
+
+  - name: "Forgotten Dungeon"
+    author: "Xploder"
+    notes: "[Extreme League]"
+    codes:
+      - "20E4F534 00000001"
+
+  - name: "Ghastly Trees"
+    author: "Xploder"
+    notes: "[Extreme League]"
+    codes:
+      - "20E4F538 00000001"
+
+  - name: "Pipe Maze"
+    author: "Xploder"
+    notes: "[Extreme League]"
+    codes:
+      - "20E4F5E4 00000001"
+
+  - name: "Lava Factory"
+    author: "Xploder"
+    notes: "[Extreme League]"
+    codes:
+      - "20E4F5E8 00000001"
+
+  - name: "Electric Final"
+    author: "Xploder"
+    notes: "[Extreme League]"
+    codes:
+      - "20E4F5EC 00000001"
+
+  - name: "Spooky Towers"
+    author: "Xploder"
+    notes: "[Bonus League]"
+    codes:
+      - "20E4F578 00000001"
+
+  - name: "Future"
+    author: "Xploder"
+    notes: "[Bonus League]"
+    codes:
+      - "20E4F5F0 00000001"
+
+  - name: "Big Bang"
+    author: "Xploder"
+    notes: "[Bonus League]"
+    codes:
+      - "20E4F5F4 00000001"
+
+  - name: "Born To Slide"
+    author: "Xploder"
+    notes: "[Bonus League]"
+    codes:
+      - "20E4F5F8 00000001"
+
+  - name: "On And On"
+    author: "Xploder"
+    notes: "[Bonus League]"
+    codes:
+      - "20E4F5FC 00000001"
+
+  - name: "Speed Stress"
+    author: "Xploder"
+    notes: "[Bonus League]"
+    codes:
+      - "20E4F600 00000001"
+
+  - name: "Shadow Plain"
+    author: "Xploder"
+    notes: "[Beginner League]"
+    codes:
+      - "20E4F548 00000001"
+
+  - name: "Rise And Shrine"
+    author: "Xploder"
+    notes: "[Beginner League]"
+    codes:
+      - "20E4F54C 00000001"
+
+  - name: "Sunset Coast"
+    author: "Xploder"
+    notes: "[Beginner League]"
+    codes:
+      - "20E4F550 00000001"
+
+  - name: "First Ruins"
+    author: "Xploder"
+    notes: "[Beginner League]"
+    codes:
+      - "20E4F60C 00000001"
+
+  - name: "Nebulous Tower"
+    author: "Xploder"
+    notes: "[Beginner League]"
+    codes:
+      - "20E4F610 00000001"
+
+  - name: "Dark Sewer"
+    author: "Xploder"
+    notes: "[Beginner League]"
+    codes:
+      - "20E4F614 00000001"
+
+  - name: "Beginner League:"
+    author: "Xploder"
+    notes: "[Popolopi Gold]"
+    codes:
+      - "20E4F60C 00000002"

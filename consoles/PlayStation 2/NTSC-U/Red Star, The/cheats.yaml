@@ -1,0 +1,49 @@
+# Red Star, The cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20885
+
+game: "Red Star, The"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20885"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) by Skiller"
+    notes: "[Master Codes]"
+    codes:
+      - "9010E5C0 0C043918"
+
+  - name: "Free Upgrades (Buy Them Even With No Money) by Skiller"
+    codes:
+      - "201856D8 24030000"
+      - "201826F4 24030000"
+
+  - name: "Gun Never Overheating by Skiller"
+    codes:
+      - "2020F2D0 E61F0408"
+
+  - name: "INF HP (Both Players) by Skiller"
+    codes:
+      - "200A0000 E4610014"
+      - "200A0004 08084551"
+      - "200A0008 C4600014"
+      - "20211540 08028000"
+
+  - name: "Quick Power Up by Skiller"
+    codes:
+      - "20212410 3C02447A"
+      - "2021241C 3C820884"
+
+  - name: "Shield Never Overheats by Skiller"
+    codes:
+      - "20211038 E61F08E0"
+
+  - name: "Unlock Serects by lee4"
+    codes:
+      - "4082AE64 000F0002"
+      - "00000001 00000000"
+      - "4082B004 000F0002"
+      - "00000001 00000000"

@@ -1,0 +1,379 @@
+# Bloody Roar 3 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20212
+
+game: "Bloody Roar 3"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20212"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01BAE08 001BAE0B"
+
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01BAE08 000001FD"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001DB537"
+
+  - name: "H Beast Mode"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes (Only Activate One)]"
+    codes:
+      - "1020D5F0 00000007"
+
+  - name: "Hard Mode"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes (Only Activate One)]"
+    codes:
+      - "1020D5F0 00000003"
+
+  - name: "High Speed Mode"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes (Only Activate One)]"
+    codes:
+      - "1020D5F0 00000005"
+
+  - name: "Knock Down Mode"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes (Only Activate One)]"
+    codes:
+      - "1020D5F0 00000004"
+
+  - name: "Low Speed Mode"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes (Only Activate One)]"
+    codes:
+      - "1020D5F0 00000006"
+
+  - name: "No Guard"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes (Only Activate One)]"
+    codes:
+      - "1020D5F0 00000002"
+
+  - name: "Sudden Death"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes (Only Activate One)]"
+    codes:
+      - "1020D5F0 00000001"
+
+  - name: "Sumo Mode"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes (Only Activate One)]"
+    codes:
+      - "1020D5F0 00000008"
+
+  - name: "Blocking Disabled Both Players"
+    author: "nolberto82"
+    codes:
+      - "2013AD4C 00000000"
+
+  - name: "Character Modifier P1"
+    author: "Code Master"
+    codes:
+      - "101F539E 000000??"
+
+  - name: "Character Modifier P2"
+    author: "Code Master"
+    codes:
+      - "101F53F6 000000??"
+
+  - name: "Enable Extra Modes"
+    author: "InterAct"
+    codes:
+      - "1020D5F4 0000FFFF"
+      - "101F5C2C 0000FFFF"
+
+  - name: "Player 1 Activator"
+    author: "Skiller"
+    notes: "[health codes]"
+    codes:
+      - "200A0000 3C01001F"
+      - "200A0004 8C2154F8"
+      - "200A0008 10200013"
+      - "200A0028 3C01001F"
+      - "200A002C 8C2154FC"
+      - "200A0030 10200009"
+      - "200A0034 3C020021"
+      - "200A0038 9042E543"
+      - "200A003C 240300FC"
+      - "200A0040 14430005"
+      - "200A0048 240200FF"
+      - "200A0058 03E00008"
+      - "201DB54C 08028000"
+
+  - name: "Player 1 Inf HP"
+    author: "Skiller"
+    notes: "[health codes]"
+    codes:
+      - "200A0010 AC200244"
+      - "200A0014 AC200248"
+
+  - name: "Player 1 Inf/Max Beast"
+    author: "Skiller"
+    notes: "[health codes]"
+    codes:
+      - "200A0018 24023BFF"
+      - "200A001C AC220264"
+
+  - name: "Player 1 Kill Player 2 (Hold L2+R2)"
+    author: "Skiller"
+    notes: "[health codes]"
+    codes:
+      - "200A004C AC220244"
+      - "200A0050 AC220248"
+
+  - name: "Player 1 Zero Player 2 Beast Guage (Hold L2+R2)"
+    author: "Skiller"
+    notes: "[health codes]"
+    codes:
+      - "200A0054 AC200264"
+
+  - name: "Player 2 Activator"
+    author: "Skiller"
+    notes: "[health codes]"
+    codes:
+      - "200A0100 3C01001F"
+      - "200A0104 8C2154FC"
+      - "200A0108 10200013"
+      - "200A0128 3C01001F"
+      - "200A012C 8C2154F8"
+      - "200A0130 10200009"
+      - "200A0134 3C020021"
+      - "200A0138 9042E643"
+      - "200A013C 240300FC"
+      - "200A0140 14430005"
+      - "200A0148 240200FF"
+      - "200A0158 03E00008"
+      - "201D41D4 08028040"
+
+  - name: "Player 2 Inf HP"
+    author: "Skiller"
+    notes: "[health codes]"
+    codes:
+      - "200A0110 AC200244"
+      - "200A0114 AC200248"
+
+  - name: "Player 2 Inf/Max Beast"
+    author: "Skiller"
+    notes: "[health codes]"
+    codes:
+      - "200A0118 24023BFF"
+      - "200A011C AC220264"
+
+  - name: "Player 2 Kill Player 1 (Hold L2+R2)"
+    author: "Skiller"
+    notes: "[health codes]"
+    codes:
+      - "200A014C AC220244"
+      - "200A0150 AC220248"
+
+  - name: "Player 2 Zero Player 1 Beast Guage (Hold L2+R2)"
+    author: "Skiller"
+    notes: "[health codes]"
+    codes:
+      - "200A0154 AC200264"
+
+  - name: "Hit Anywhere Both Players"
+    author: "nolberto82"
+    codes:
+      - "2013AA1C 00000000"
+      - "2013AA2C 00000000"
+      - "2013AA44 00000000"
+
+  - name: "Max/Inf Beast Charge (Both Players)"
+    author: "Skiller"
+    codes:
+      - "2013D808 AE020264"
+
+  - name: "Alice"
+    author: "Codejunkies"
+    notes: "[Mode Type]"
+    codes:
+      - "101F539E 00000001"
+
+  - name: "Bakuryu"
+    author: "Codejunkies"
+    notes: "[Player 1 Is Always...]"
+    codes:
+      - "101F539E 00000002"
+
+  - name: "Busuzima"
+    author: "Codejunkies"
+    notes: "[Player 1 Is Always...]"
+    codes:
+      - "101F539E 00000003"
+
+  - name: "Gado"
+    author: "Codejunkies"
+    notes: "[Player 1 Is Always...]"
+    codes:
+      - "101F539E 00000004"
+
+  - name: "Jenny"
+    author: "Codejunkies"
+    notes: "[Player 1 Is Always...]"
+    codes:
+      - "101F539E 00000005"
+
+  - name: "Kohryu"
+    author: "Codejunkies"
+    notes: "[Player 1 Is Always...]"
+    codes:
+      - "101F539E 0000000D"
+
+  - name: "Long"
+    author: "Codejunkies"
+    notes: "[Player 1 Is Always...]"
+    codes:
+      - "101F539E 00000006"
+
+  - name: "Shenlong"
+    author: "Codejunkies"
+    notes: "[Player 1 Is Always...]"
+    codes:
+      - "101F539E 00000008"
+
+  - name: "Shiva"
+    author: "Codejunkies"
+    notes: "[Player 1 Is Always...]"
+    codes:
+      - "101F539E 00000007"
+
+  - name: "Stun"
+    author: "Codejunkies"
+    notes: "[Player 1 Is Always...]"
+    codes:
+      - "101F539E 0000000A"
+
+  - name: "Uranus"
+    author: "Codejunkies"
+    notes: "[Player 1 Is Always...]"
+    codes:
+      - "101F539E 0000000E"
+
+  - name: "Uriko"
+    author: "Codejunkies"
+    notes: "[Player 1 Is Always...]"
+    codes:
+      - "101F539E 0000000B"
+
+  - name: "Xion"
+    author: "Codejunkies"
+    notes: "[Player 1 Is Always...]"
+    codes:
+      - "101F539E 00000009"
+
+  - name: "Yugo"
+    author: "Codejunkies"
+    notes: "[Player 1 Is Always...]"
+    codes:
+      - "101F539E 0000000C"
+
+  - name: "Skip Fmv"
+    notes: "[Misc Codes]"
+    codes:
+      - "201DD3C0 24020001"
+
+  - name: "Inf Timer"
+    notes: "[Misc Codes]"
+    codes:
+      - "2012FCE4 00000000"
+
+  - name: "Game Modes Mods"
+    notes: "[Misc Codes]"
+    codes:
+      - "1020D5F0 0000[MODE]"
+
+  - name: "Unlock Extra Modes"
+    notes: "[Misc Codes]"
+    codes:
+      - "1020D5F4 0000FFFF"
+      - "101F5C2C 0000FFFF"
+
+  - name: "Player 1 Play As"
+    notes: "[Character Mod Codes]"
+    codes:
+      - "101F539E 0000[CHMD]"
+
+  - name: "Player 2 Play As"
+    notes: "[Character Mod Codes]"
+    codes:
+      - "101F53F6 0000[CHMD]"
+
+  - name: "Activator"
+    notes: "[Player 1]"
+    codes:
+      - "200A0000 3C01001F"
+      - "200A0004 8C2154F8"
+      - "200A0008 10200013"
+      - "200A0028 3C01001F"
+      - "200A002C 8C2154FC"
+      - "200A0030 10200009"
+      - "200A0034 3C020021"
+      - "200A0038 9042E543"
+      - "200A003C 240300FC"
+      - "200A0040 14430005"
+      - "200A0048 240200FF"
+      - "200A0058 03E00008"
+      - "201DB54C 08028000"
+
+  - name: "Inf HP"
+    notes: "[Player 1]"
+    codes:
+      - "200A0010 AC200244"
+      - "200A0014 AC200248"
+
+  - name: "Inf/Max Beast"
+    notes: "[Player 1]"
+    codes:
+      - "200A0018 24023BFF"
+      - "200A001C AC220264"
+
+  - name: "Kill Player 2 (hold L2+r2)"
+    notes: "[Player 1]"
+    codes:
+      - "200A004C AC220244"
+      - "200A0050 AC220248"
+
+  - name: "Zero Player 2 Beast Guage (hold L2+r2)"
+    notes: "[Player 1]"
+    codes:
+      - "200A0054 AC200264"
+
+  - name: "Kill Player 1 (hold L2+r2)"
+    notes: "[Player 2]"
+    codes:
+      - "200A014C AC220244"
+      - "200A0150 AC220248"
+
+  - name: "Zero Player 1 Beast Guage (hold L2+r2)"
+    notes: "[Player 2]"
+    codes:
+      - "200A0154 AC200264"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001DB537"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901DB534 0C07AE45"

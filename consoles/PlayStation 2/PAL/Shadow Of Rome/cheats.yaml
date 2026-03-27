@@ -1,0 +1,42 @@
+# Shadow Of Rome cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52950
+
+game: "Shadow Of Rome"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52950"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02756A8 002756AB"
+
+  - name: "Disable AI (Press L3 Or R3 To Activate/Disable)"
+    author: "Codejunkies"
+    codes:
+      - "D04BC402 0000FFFD"
+      - "2023586C 24010000"
+      - "D04BC402 0000FFFB"
+      - "2023586C 2C4100B0"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "20159424 03E00008"
+
+  - name: "Max Coins"
+    author: "Codejunkies"
+    codes:
+      - "10551C04 0000270F"
+
+  - name: "Unbreakable Weapons"
+    author: "Codejunkies"
+    codes:
+      - "201A20E0 00000000"
+      - "201A20CC 00000000"

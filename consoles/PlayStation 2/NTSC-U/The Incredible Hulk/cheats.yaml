@@ -1,0 +1,46 @@
+# The Incredible Hulk cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21765
+
+game: "The Incredible Hulk"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21765"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90573178 0C15CC06"
+
+  - name: "Gain Max Rage Meter (one Hit)"
+    codes:
+      - "201DB128 8C500004"
+
+  - name: "Inf Rage"
+    codes:
+      - "201DB3D0 00401023"
+
+  - name: "Inf HP"
+    codes:
+      - "201DADCC 00401023"
+
+  - name: "Gain 10,000 Score No Matter What"
+    codes:
+      - "200A0000 34012710"
+      - "200A0004 02218820"
+      - "200A0008 3C01006E"
+      - "200A000C 08076D5D"
+      - "200A0010 AC22DB78"
+      - "201DB570 08028000"
+      - "201DB574 00000000"
+
+  - name: "Compleat Feats Fasts (gain Upgrades)"
+    codes:
+      - "200A0018 24A52710"
+      - "200A001C 08097E52"
+      - "200A0020 00A0802D"
+      - "2025F940 08028006"

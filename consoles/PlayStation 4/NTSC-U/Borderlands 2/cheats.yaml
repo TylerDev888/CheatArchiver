@@ -1,0 +1,36 @@
+# Borderlands 2 cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA01401
+
+game: "Borderlands 2"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA01401"
+cheat_type: "AP"
+source: "source: xdgmods"
+
+cheats:
+  - name: "+max Money"
+    notes: "File: *"
+    codes:
+      - "80010003 28003200"
+      - "28000004 2FD7C1FF"
+
+  - name: "+max Eridium"
+    notes: "File: *"
+    codes:
+      - "80010003 28003200"
+      - "08000008 00000063"
+
+  - name: "+max Seraph Crystals"
+    notes: "File: *"
+    codes:
+      - "80010003 28003200"
+      - "08000009 0000007F"
+
+  - name: "Level 80"
+    notes: "File: *"
+    codes:
+      - "80010001 10000000"
+      - "08000001 00000080"

@@ -1,0 +1,42 @@
+# EA Sports Cricket 2005 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53342
+
+game: "EA Sports Cricket 2005"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53342"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0483814 00483817"
+
+  - name: "Press L1 For 2Nd Batting Team Scores 0"
+    author: "Codejunkies"
+    codes:
+      - "D0925C02 0000FBFF"
+      - "107ECAE4 00000000"
+
+  - name: "Press L2 For 1St Batting Team Scores 0"
+    author: "Codejunkies"
+    codes:
+      - "D0925C02 0000FEFF"
+      - "107ECAE6 00000000"
+
+  - name: "Press R1 For 2Nd Batting Team Scores 9999"
+    author: "Codejunkies"
+    codes:
+      - "D0925C02 0000F7FF"
+      - "107ECAE4 0000270F"
+
+  - name: "Press R2 For 1St Batting Team Scores 9999"
+    author: "Codejunkies"
+    codes:
+      - "D0925C02 0000FDFF"
+      - "107ECAE6 0000270F"

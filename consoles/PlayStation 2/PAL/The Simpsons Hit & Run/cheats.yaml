@@ -1,0 +1,29 @@
+# The Simpsons Hit & Run cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "The Simpsons Hit & Run"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0040877B"
+
+  - name: "No Damage All Vehicles"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2028C118 34013634"
+
+  - name: "Unlimited Time On Timed Missions"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20173F14 34023634"

@@ -1,0 +1,26 @@
+# Realms Of Ancient War cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  NPJB00351
+
+game: "Realms Of Ancient War"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "NPJB00351"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Data.dat (required)"
+    notes: "File: NPJB00351-GAMESAVE*\\DATA.DAT"
+
+  - name: "Update Crc32 (required)"
+    notes: "File: DATA.DAT"
+    codes:
+      - "set range:0x000000,0x006E27"
+      - "set pointer:eof-7"
+      - "set range:0x000000,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x006E28:[hash]"
+      - "set pointer:eof-7"
+      - "write next (0):[hash]"

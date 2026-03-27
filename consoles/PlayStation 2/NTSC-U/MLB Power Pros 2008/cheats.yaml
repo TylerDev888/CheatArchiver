@@ -1,0 +1,84 @@
+# MLB Power Pros 2008 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21748
+
+game: "MLB Power Pros 2008"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21748"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90688ED8 0C1A235E"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9069A948 0C1A83A6"
+
+  - name: "L1 & L2 To Make Home Team Score 99"
+    author: "BigBossman"
+    codes:
+      - "D0A6B402 0000FAFF"
+      - "00AB03B7 00000063"
+
+  - name: "L1 & L3 To Make Home Team Score 0"
+    author: "BigBossman"
+    codes:
+      - "D0A6B402 0000FBFD"
+      - "00AB03B7 00000000"
+
+  - name: "R1 & R2 To Make Away Team Score 99"
+    author: "BigBossman"
+    codes:
+      - "D0A6B402 0000F5FF"
+      - "00AB0BB3 00000063"
+
+  - name: "R1 & R3 To Make Away Team Score 0"
+    author: "BigBossman"
+    codes:
+      - "D0A6B402 0000F7FB"
+      - "00AB0BB3 00000000"
+
+  - name: "Select & L1 For No Strikes"
+    author: "BigBossman"
+    codes:
+      - "D0A6B402 0000FBFE"
+      - "00AAF81A 00000000"
+
+  - name: "Select & L2 For Two Strikes"
+    author: "BigBossman"
+    codes:
+      - "D0A6B402 0000FEFE"
+      - "00AAF81A 00000002"
+
+  - name: "Select & L3 For No Balls"
+    author: "BigBossman"
+    codes:
+      - "D0A6B402 0000FFFC"
+      - "00AAF81B 00000000"
+
+  - name: "Select & R1 For No Outs"
+    author: "BigBossman"
+    codes:
+      - "D0A6B402 0000F7FE"
+      - "00AAF81C 00000000"
+
+  - name: "Select & R2 For Two Outs"
+    author: "BigBossman"
+    codes:
+      - "D0A6B402 0000FDFE"
+      - "00AAF81C 00000002"
+
+  - name: "Select & R3 For Three Balls"
+    author: "BigBossman"
+    codes:
+      - "D0A6B402 0000FFFA"
+      - "00AAF81B 00000003"

@@ -1,0 +1,94 @@
+# Darksiders cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00705
+
+game: "Darksiders"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00705"
+cheat_type: "Save Editor"
+source: "From zeick"
+
+cheats:
+  - name: "Decompress Dssave (required)"
+    notes: "File: DSSAVE"
+    codes:
+      - "Decompress(0x00000035, 15)"
+
+  - name: "Max Health"
+    notes: "File: ~extracted\\00000035.dat"
+    codes:
+      - "search \"Health\""
+      - "write next (7):FFC99A3B"
+
+  - name: "Max Souls"
+    notes: "File: ~extracted\\00000035.dat"
+    codes:
+      - "search \"Souls\""
+      - "write next (6):286B6E4E"
+
+  - name: "Max Wrath"
+    notes: "File: ~extracted\\00000035.dat"
+    codes:
+      - "search \"Wrath\""
+      - "write next (6):286B6E4E"
+
+  - name: "Max Chaos"
+    notes: "File: ~extracted\\00000035.dat"
+    codes:
+      - "search \"Chaos\""
+      - "write next (6):286B6E4E"
+
+  - name: "Max Sword Level"
+    notes: "File: ~extracted\\00000035.dat"
+    codes:
+      - "search \"sword/warsword\""
+      - "write next (35):05"
+
+  - name: "159 Kills On Angelic Beast"
+    notes: "File: ~extracted\\00000035.dat"
+    codes:
+      - "search \"NumberOfKillsOnBird\""
+      - "write next (20):9F"
+
+  - name: "665 Demons Killed"
+    notes: "File: ~extracted\\00000035.dat"
+    codes:
+      - "search \"NumberOfDemonsKilled\""
+      - "write next (21):9902"
+
+  - name: "149 Demons Killed On Horseback"
+    notes: "File: ~extracted\\00000035.dat"
+    codes:
+      - "search \"NumberOfDemonsKilledOnHorseback\""
+      - "write next (32):95"
+
+  - name: "149 Demons Killed With Enviroment"
+    notes: "File: ~extracted\\00000035.dat"
+    codes:
+      - "search \"NumberOfEnemiesKilledWithEnvironment\""
+      - "write next (37):95"
+
+  - name: "99 Miles Travelled"
+    notes: "File: ~extracted\\00000035.dat"
+    codes:
+      - "search \"DistanceTraveledMounted\""
+      - "write next (24):0000C642"
+
+  - name: "149 Chests Searched"
+    notes: "File: ~extracted\\00000035.dat"
+    codes:
+      - "search \"NumberOfChestsOpened\""
+      - "write next (21):95"
+
+  - name: "26 Artifacts Collected"
+    notes: "File: ~extracted\\00000035.dat"
+    codes:
+      - "search \"NumberOfArtifactsCollected\""
+      - "write next (27):1A"
+
+  - name: "Compress Dssave (required)"
+    notes: "File: DSSAVE"
+    codes:
+      - "Compress(0x00000035)"

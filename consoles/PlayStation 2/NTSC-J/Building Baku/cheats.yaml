@@ -1,0 +1,24 @@
+# Building Baku cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62157
+
+game: "Building Baku"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62157"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Master Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90165CA0 0C0596D0"
+
+  - name: "Master Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90147144 0C056A89"

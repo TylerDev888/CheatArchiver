@@ -1,0 +1,23 @@
+# Sonic Unleashed cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00425
+
+game: "Sonic Unleashed"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00425"
+cheat_type: "Save Editor"
+source: "From zeick"
+
+cheats:
+  - name: "999999 Coins"
+    notes: "File: SYS-DATA"
+    codes:
+      - "write at 0x00008F3C:000F423F"
+
+  - name: "99 Camera Flash"
+    notes: "File: SYS-DATA"
+    codes:
+      - "write at 0x00008F43:63"
+      - "write at 0x00008F47:63"

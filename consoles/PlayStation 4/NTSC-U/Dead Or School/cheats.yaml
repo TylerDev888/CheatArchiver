@@ -1,0 +1,30 @@
+# Dead Or School cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA17637
+
+game: "Dead Or School"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA17637"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Max Yen"
+    author: "几工几勹丹卞回尺卞凵呂丹#8668"
+    notes: "File: savefile\\auto"
+    codes:
+      - "1000001E 0000FFFF"
+
+  - name: "Max Reinforcement Mats"
+    author: "几工几勹丹卞回尺卞凵呂丹#8668"
+    notes: "File: savefile\\auto"
+    codes:
+      - "10000021 0000FFFF"
+
+  - name: "Max Mod Gears"
+    author: "几工几勹丹卞回尺卞凵呂丹#8668"
+    notes: "File: savefile\\auto"
+    codes:
+      - "00000023 00000063"

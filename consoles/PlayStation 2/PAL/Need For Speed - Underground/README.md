@@ -1,0 +1,138 @@
+# Need For Speed - Underground
+
+**Console:** PlayStation 2  
+**Region:** PAL  
+**Serial:** SLES-51967  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### (M) Must Be On
+**Author:** Codejunkies  
+**Notes:** [Master Codes]
+
+```
+F03B0F64 000001FD
+```
+
+---
+
+### Have Skyline From Start
+**Author:** Codejunkies
+
+```
+204ADA1C 00000001
+```
+
+---
+
+### Infinite Turbo
+**Author:** Codejunkies
+
+```
+2018D858 00000000
+201D3CC4 AE2303F0
+201D3CC8 AE2303F8
+201D3CC0 240303E8
+2018D674 10000005
+```
+
+---
+
+### Max Cash
+**Author:** Codejunkies
+
+```
+204ADA0C 05F5E0FF
+```
+
+---
+
+### Max Circuit Starts
+**Author:** Codejunkies
+
+```
+204B598C 05F5E0FF
+```
+
+---
+
+### Max Circuit Style
+**Author:** Codejunkies
+
+```
+204B5994 05F5E0FF
+```
+
+---
+
+### Max Circuit Wins
+**Author:** Codejunkies
+
+```
+204B5990 05F5E0FF
+```
+
+---
+
+### Max Style
+**Author:** Codejunkies
+
+```
+204A6274 05F5E0FF
+```
+
+---
+
+### Stacks Of Extras Unlocked A
+**Author:** Codejunkies
+
+```
+204AC9E8 02020202
+204AC9EC 02020202
+204AC9D0 02020202
+204AC9D4 02020202
+204AC9D8 02020202
+204AC9DC 02020202
+204AC9E0 02020202
+204AC9E4 02020202
+204AC9E8 02020202
+204AC9EC 02020202
+204AC9F0 02020202
+```
+
+---
+
+### Stacks Of Extras Unlocked B
+**Author:** Codejunkies
+
+```
+204AC9F4 02020202
+204AC9F8 02020202
+204AC9FC 02020202
+204ACA00 02020202
+204ACA04 02020202
+204ACA08 02020202
+204ACA0C 02020202
+204ACA10 02020202
+204ACA14 02020202
+204ACA18 02020202
+204ACA1C 02020202
+204ACA20 02020202
+204ACA24 02020202
+204ACA28 02020202
+204ACA2C 02020202
+204ACA30 02020202
+204ACA34 02020202
+204ACA38 02020202
+204ACA3C 02020202
+204ACA40 02020202
+204ACA44 02020202
+204ACA48 02020202
+204ACA4C 02020202
+204ACA50 02020202
+```
+
+---

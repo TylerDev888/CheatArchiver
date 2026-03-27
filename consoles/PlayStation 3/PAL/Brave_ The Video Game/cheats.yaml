@@ -1,0 +1,25 @@
+# Brave_ The Video Game cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01542
+
+game: "Brave_ The Video Game"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01542"
+cheat_type: "Save Editor"
+source: "From Game Genie PS3"
+
+cheats:
+  - name: "Max Coins"
+    notes: "File: BRAVE0"
+    codes:
+      - "2000062C 3B9AC9FF"
+
+  - name: "Update Crc32 For Brave0 (required)"
+    notes: "File: BRAVE0  (set range:0x00000C,0x0006E2)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x00000C,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000004:[hash]"

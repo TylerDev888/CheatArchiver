@@ -1,0 +1,28 @@
+# Rahxephon [Limited Edition] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25264
+
+game: "Rahxephon [Limited Edition]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25264"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90255BD0 0C09569C"
+
+  - name: "Press L3 For Debug Menu"
+    author: "punk7890"
+    codes:
+      - "20100CC0 0C044500"
+      - "20100CC4 24040001"
+      - "D030F102 0000FFFD"
+      - "002915DC 00000001"
+      - "D030F102 0000FFFF"
+      - "002915DC 00000000"

@@ -1,0 +1,157 @@
+# Chikyuu Boueigun 4 cheat data
+# Console: PlayStation 3
+# Region:  Unknown
+# Serial:  BLJS10209
+
+game: "Chikyuu Boueigun 4"
+console: "PlayStation 3"
+region: "Unknown"
+serial: "BLJS10209"
+cheat_type: "Save Editor"
+source: "From Keha World & Bokosuka Games"
+
+cheats:
+  - name: "Wing Diver - All Mission All Difficulty Clear"
+    notes: "File: DEFP_M00.MST"
+    codes:
+      - "write at 0x21C:repeat(0x055,0x1F)"
+
+  - name: "Air Raider - All Mission All Difficulty Clear"
+    notes: "File: DEFP_M00.MST"
+    codes:
+      - "write at 0x41C:repeat(0x055,0x1F)"
+
+  - name: "Fencer - All Mission All Difficulty Clear"
+    notes: "File: DEFP_M00.MST"
+    codes:
+      - "write at 0x61C:repeat(0x055,0x1F)"
+
+  - name: "Ranger Armor 9999"
+    notes: "File: MAIN.GST"
+    codes:
+      - "write at 0x14:0000527F"
+      - "write at 0xE0:0000527F"
+
+  - name: "Wingdiver Armor 9999"
+    notes: "File: MAIN.GST"
+    codes:
+      - "write at 0x18:0000A5D5"
+      - "write at 0xE4:0000A5D5"
+
+  - name: "Airraider Armor 9999"
+    notes: "File: MAIN.GST"
+    codes:
+      - "write at 0x1C:0000527F"
+      - "write at 0xE8:0000527F"
+
+  - name: "Fencer Armor 9999"
+    notes: "File: MAIN.GST"
+    codes:
+      - "write at 0x20:000041A9"
+      - "write at 0xEC:000041A9"
+
+  - name: "Gekiha - Shild Bearer 119"
+    notes: "File: TROPHY.DAT"
+    codes:
+      - "write at 0x114:00000077"
+
+  - name: "Gekiha - Yusousen 199"
+    notes: "File: TROPHY.DAT"
+    codes:
+      - "write at 0x12C:000000C7"
+
+  - name: "Gekiha - Kyodai Seibutsu 19999"
+    notes: "File: TROPHY.DAT"
+    codes:
+      - "write at 0x17C:00004E1F"
+
+  - name: "Gekiha - Queen 23"
+    notes: "File: TROPHY.DAT"
+    codes:
+      - "write at 0x180:00000017"
+
+  - name: "Gekiha - Kumogata Kyodai Seibutsu 11999"
+    notes: "File: TROPHY.DAT"
+    codes:
+      - "write at 0x18C:00002EDF"
+
+  - name: "Gekiha - Hector 499"
+    notes: "File: TROPHY.DAT"
+    codes:
+      - "write at 0x1A8:000001F3"
+
+  - name: "Gekiha - Retarius 359"
+    notes: "File: TROPHY.DAT"
+    codes:
+      - "write at 0x1C0:00000167"
+
+  - name: "Gekiha - Chika Tunnel Deguchi 199"
+    notes: "File: TROPHY.DAT"
+    codes:
+      - "write at 0x1C4:000000C7"
+
+  - name: "Gekiha - Red Color 149"
+    notes: "File: TROPHY.DAT"
+    codes:
+      - "write at 0x218:00000095"
+
+  - name: "Gekiha - Hikou Drone 4999"
+    notes: "File: TROPHY.DAT"
+    codes:
+      - "write at 0x21C:00001387"
+
+  - name: "Update Crc32 For Slotinfo.dat (required)"
+    notes: "File: SLOTINFO.DAT"
+    codes:
+      - "set range:0x000014,EOF+1"
+      - "set [hash]:CRC32"
+      - "write at 0x000010:[hash]"
+
+  - name: "Update Crc32 For Common.cfg (required)"
+    notes: "File: COMMON.CFG"
+    codes:
+      - "set range:0x000014,EOF+1"
+      - "set [hash]:CRC32"
+      - "write at 0x000010:[hash]"
+
+  - name: "Update Crc32 For Trophy.dat (required)"
+    notes: "File: TROPHY.DAT"
+    codes:
+      - "set range:0x000014,EOF+1"
+      - "set [hash]:CRC32"
+      - "write at 0x000010:[hash]"
+
+  - name: "Update Crc32 For Defp_m00.mst (required)"
+    notes: "File: DEFP_M00.MST"
+    codes:
+      - "set range:0x000014,EOF+1"
+      - "set [hash]:CRC32"
+      - "write at 0x000010:[hash]"
+
+  - name: "Update Crc32 For Defp_m01.mst (required)"
+    notes: "File: DEFP_M01.MST"
+    codes:
+      - "set range:0x000014,EOF+1"
+      - "set [hash]:CRC32"
+      - "write at 0x000010:[hash]"
+
+  - name: "Update Crc32 For Defp_m02.mst (required)"
+    notes: "File: DEFP_M02.MST"
+    codes:
+      - "set range:0x000014,EOF+1"
+      - "set [hash]:CRC32"
+      - "write at 0x000010:[hash]"
+
+  - name: "Update Crc32 For Main.gst (required)"
+    notes: "File: MAIN.GST"
+    codes:
+      - "set range:0x000014,EOF+1"
+      - "set [hash]:CRC32"
+      - "write at 0x000010:[hash]"
+
+  - name: "Update Crc32 For System.cfg (required)"
+    notes: "File: SYSTEM.CFG"
+    codes:
+      - "set range:0x000014,EOF+1"
+      - "set [hash]:CRC32"
+      - "write at 0x000010:[hash]"

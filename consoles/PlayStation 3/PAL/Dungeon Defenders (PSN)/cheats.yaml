@@ -1,0 +1,30 @@
+# Dungeon Defenders (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00652
+
+game: "Dungeon Defenders (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00652"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Decompress Save (required)"
+    notes: "File: PAYLOAD"
+    codes:
+      - "Decompress(*, 15)"
+
+  - name: "Compress Save (required)"
+    notes: "File: PAYLOAD"
+    codes:
+      - "Compress(*)"
+
+  - name: "Update Crc32big For Payload (required)"
+    notes: "File: PAYLOAD  (set range:0x000014,0x009D81)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000014,pointer"
+      - "set [hash]:CRC32Big"
+      - "write at 0x000010:[hash]"

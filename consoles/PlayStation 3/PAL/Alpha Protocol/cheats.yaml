@@ -1,0 +1,25 @@
+# Alpha Protocol cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00704
+
+game: "Alpha Protocol"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00704"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Advancement Points"
+    notes: "File: BLES00704-*\\GAMEDATA"
+    codes:
+      - "8001000C 656D656E"
+      - "74506F69 6E747300"
+      - "2800000C 000003E8"
+
+  - name: "Max Money"
+    notes: "File: BLES00704-*\\GAMEDATA"
+    codes:
+      - "80010004 064D6F6E"
+      - "28000007 05F5E0FF"

@@ -1,0 +1,22 @@
+# Nascar '07 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54223
+
+game: "Nascar '07"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54223"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Max Skill Points"
+    author: "luc-ita"
+    codes:
+      - "21FD0EC0 05F5E0FF"
+
+  - name: "Opponents Maintain Initial Speed (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "2015EC44 00000000"

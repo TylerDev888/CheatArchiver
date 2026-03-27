@@ -1,0 +1,59 @@
+# Rogue Hearts Dungeon cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66736
+
+game: "Rogue Hearts Dungeon"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66736"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "1Hitkill - Alternative Code"
+    author: "luc-ita"
+    codes:
+      - "20178D90 24030001"
+
+  - name: "1Hitkill - Use With \"Always Full Life\" Code"
+    author: "luc-ita"
+    codes:
+      - "20176080 24068000"
+
+  - name: "Always Full Life"
+    author: "luc-ita"
+    codes:
+      - "2017E704 AC510318"
+
+  - name: "Buy Treasures Even Without Medals"
+    author: "luc-ita"
+    codes:
+      - "2019CAB8 1000000A"
+
+  - name: "Collecting Gold Gives You 999999 Gold"
+    author: "luc-ita"
+    codes:
+      - "20176B58 3C06000F"
+      - "20176B64 24C6423F"
+
+  - name: "Conditions Always At The Maximum"
+    author: "luc-ita"
+    codes:
+      - "2017368C 8E120324"
+
+  - name: "Kill An Enemy To Level Up"
+    author: "luc-ita"
+    codes:
+      - "20173FA0 00000000"
+
+  - name: "Kill An Enemy To Rise To The Maximum Level"
+    author: "luc-ita"
+    codes:
+      - "20173FA0 00000000"
+      - "2017326C 24060015"
+
+  - name: "Skip Logo And Intro"
+    author: "luc-ita"
+    codes:
+      - "201894AC 1000003A"

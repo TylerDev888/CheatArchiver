@@ -1,0 +1,110 @@
+# Enchanted Arms cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS30028
+
+game: "Enchanted Arms"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS30028"
+cheat_type: "AP"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Tb"
+    notes: "File: BLUS30028GAME*\\EM_GAME.DAT"
+    codes:
+      - "20000074 05F5E0FF"
+      - "2002013C 05F5E0FF"
+
+  - name: "Reset Game Time"
+    notes: "File: BLUS30028GAME*\\EM_GAME.DAT"
+    codes:
+      - "20000070 00000000"
+      - "200200F0 00000000"
+
+  - name: "Max Level"
+    notes: "[Character Atsuma Codes]  File: BLUS30028GAME*\\EM_GAME.DAT"
+    codes:
+      - "8001000C 00410074"
+      - "00730075 006D0061"
+      - "28000048 00000063"
+
+  - name: "Max Exp"
+    notes: "[Character Atsuma Codes]  File: BLUS30028GAME*\\EM_GAME.DAT"
+    codes:
+      - "8001000C 00410074"
+      - "00730075 006D0061"
+      - "2800004C 05F5E0FF"
+      - "28000050 05F5E0FF"
+
+  - name: "Next Level"
+    notes: "[Character Atsuma Codes]  File: BLUS30028GAME*\\EM_GAME.DAT"
+    codes:
+      - "8001000C 00410074"
+      - "00730075 006D0061"
+      - "28000054 00000001"
+
+  - name: "Max Sp"
+    notes: "[Character Atsuma Codes]  File: BLUS30028GAME*\\EM_GAME.DAT"
+    codes:
+      - "8001000C 00410074"
+      - "00730075 006D0061"
+      - "28000058 0000270F"
+
+  - name: "Max Vp"
+    notes: "[Character Atsuma Codes]  File: BLUS30028GAME*\\EM_GAME.DAT"
+    codes:
+      - "8001000C 00410074"
+      - "00730075 006D0061"
+      - "2800005C 0000270F"
+      - "28000060 0000270F"
+
+  - name: "Max Fp"
+    notes: "[Character Atsuma Codes]  File: BLUS30028GAME*\\EM_GAME.DAT"
+    codes:
+      - "8001000C 00410074"
+      - "00730075 006D0061"
+      - "28000064 0000270F"
+
+  - name: "Max Hp"
+    notes: "[Character Atsuma Codes]  File: BLUS30028GAME*\\EM_GAME.DAT"
+    codes:
+      - "8001000C 00410074"
+      - "00730075 006D0061"
+      - "28000328 0000270F"
+
+  - name: "Max Ep"
+    notes: "[Character Atsuma Codes]  File: BLUS30028GAME*\\EM_GAME.DAT"
+    codes:
+      - "8001000C 00410074"
+      - "00730075 006D0061"
+      - "2800032C 0000270F"
+
+  - name: "Max Direct"
+    notes: "[Character Atsuma Codes]  File: BLUS30028GAME*\\EM_GAME.DAT"
+    codes:
+      - "8001000C 00410074"
+      - "00730075 006D0061"
+      - "18000332 0000270F"
+
+  - name: "Max Range"
+    notes: "[Character Atsuma Codes]  File: BLUS30028GAME*\\EM_GAME.DAT"
+    codes:
+      - "8001000C 00410074"
+      - "00730075 006D0061"
+      - "18000334 0000270F"
+
+  - name: "Max Support"
+    notes: "[Character Atsuma Codes]  File: BLUS30028GAME*\\EM_GAME.DAT"
+    codes:
+      - "8001000C 00410074"
+      - "00730075 006D0061"
+      - "18000336 0000270F"
+
+  - name: "Max Agility"
+    notes: "[Character Atsuma Codes]  File: BLUS30028GAME*\\EM_GAME.DAT"
+    codes:
+      - "8001000C 00410074"
+      - "00730075 006D0061"
+      - "18000338 0000270F"

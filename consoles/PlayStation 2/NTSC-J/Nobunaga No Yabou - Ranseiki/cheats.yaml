@@ -1,0 +1,24 @@
+# Nobunaga No Yabou - Ranseiki cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62148
+
+game: "Nobunaga No Yabou - Ranseiki"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62148"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90121280 0C048448"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9012F9EC 0C04D58C"

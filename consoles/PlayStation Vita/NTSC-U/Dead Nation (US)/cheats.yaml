@@ -1,0 +1,246 @@
+# Dead Nation (US) cheat data
+# Console: PlayStation Vita
+# Region:  NTSC-U
+# Serial:  PCSA00151
+
+game: "Dead Nation (US)"
+console: "PlayStation Vita"
+region: "NTSC-U"
+serial: "PCSA00151"
+cheat_type: "Save Editor"
+source: "Credits: Slade"
+
+cheats:
+  - name: "9,999,999 Cash"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "20006A47 0098967F"
+
+  - name: "Max Rifle"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "20006A8B 00040404"
+
+  - name: "Smg Unlock (no Purchase)"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "00006AA7 00000003"
+
+  - name: "Smg Purchasable"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "20006AB3 09090909"
+      - "00006AB7 00000001"
+
+  - name: "Smg Max Level"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "20006AAB 09090909"
+      - "00006AAF 00000001"
+
+  - name: "Smg Infinite Ammo"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "10006ABD 0000FFFF"
+
+  - name: "Shotgun Unlock (no Purchase)"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "00006AC7 00000003"
+
+  - name: "Shotgun Purchasable"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "20006AB3 09090909"
+      - "00006AD7 00000001"
+
+  - name: "Shotgun Max Level"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "20006ACB 09090909"
+      - "00006ACF 00000001"
+
+  - name: "Shotgun Infinite Ammo"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "10006ADD 0000FFFF"
+
+  - name: "Flamethrower Unlock (no Purchase)"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "00006AE7 00000003"
+
+  - name: "Flamethrower Purchasable"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "20006AF3 04040404"
+
+  - name: "Flamethrower Max Level"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "20006AEB 04040404"
+
+  - name: "Flamethrower Infinite Ammo"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "10006AFD 0000FFFF"
+
+  - name: "Blade Cannon Unlock (no Purchase)"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "00006B07 00000003"
+
+  - name: "Blade Cannon Purchasable"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "20006B13 FF010202"
+
+  - name: "Blade Cannon Max Level"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "20006B0B FF010202"
+
+  - name: "Blade Cannon Infinite Ammo"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "10006B1D 0000FFFF"
+
+  - name: "Launcher Unlock (no Purchase)"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "00006B27 00000003"
+
+  - name: "Launcher Purchasable"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "10006B33 00000204"
+
+  - name: "Launcher Max Level"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "20006B2B 09090909"
+
+  - name: "Launcher Infinite Ammo"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "10006B3D 0000FFFF"
+
+  - name: "Shocker Unlock (no Purchase)"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "00006B47 00000003"
+
+  - name: "Shocker Purchasable"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "20006B53 04040404"
+
+  - name: "Shocker Max Level"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "20006B4B 04040404"
+
+  - name: "Shocker Infinite Ammo"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "10006B5D 0000FFFF"
+
+  - name: "Flare Max Level"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "10006B6B 00000304"
+
+  - name: "Flare Max Ammo"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "10006B7D 0000FFFF"
+
+  - name: "Grenade Max Level"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "10006B8B 00000304"
+
+  - name: "Grenade Infinite Ammo"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "10006B9D 0000FFFF"
+
+  - name: "Mine Unlock (no Purchase)"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "00006BA7 00000003"
+
+  - name: "Mine Purchasable"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "10006BB3 00000304"
+
+  - name: "Mine Max Level"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "10006BAB 00000304"
+
+  - name: "Mine Infinite Ammo"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "10006BBD 0000FFFF"
+
+  - name: "Molotov Unlock (no Purchase)"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "00006BC7 00000003"
+
+  - name: "Molotov Purchasable"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "00006BD3 00000002"
+
+  - name: "Molotov Max Level"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "00006BCB 00000002"
+
+  - name: "Molotov Infinite Ammo"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "10006BDD 0000FFFF"
+
+  - name: "Dynamite Unlock (no Purchase)"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "00006BE7 00000003"
+
+  - name: "Dynamite Purchasable"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "00006BF3 00000001"
+
+  - name: "Dynamite Max Level"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "00006BEB 00000001"
+
+  - name: "Dynamite Infinite Ammo"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "10006BFD 0000FFFF"
+
+  - name: "Auto-turret Unlock (no Purchase)"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "00006C07 00000003"
+
+  - name: "Auto-turret Purchasable"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "10006C13 00000303"
+
+  - name: "Auto-turret Max Level"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "10006C0B 00000303"
+
+  - name: "Auto-turret Infinite Ammo"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "10006C1D 0000FFFF"

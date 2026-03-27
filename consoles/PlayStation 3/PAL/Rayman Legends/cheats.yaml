@@ -1,0 +1,17 @@
+# Rayman Legends cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01863
+
+game: "Rayman Legends"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01863"
+cheat_type: "Save Editor"
+source: "From SHAkA"
+
+cheats:
+  - name: "Max Lums"
+    notes: "File: SYS-DATA"
+    codes:
+      - "write at 0x00002A99:0x3B9AC9FF"

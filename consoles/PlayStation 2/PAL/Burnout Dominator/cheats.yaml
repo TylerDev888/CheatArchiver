@@ -1,0 +1,141 @@
+# Burnout Dominator cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54627
+
+game: "Burnout Dominator"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54627"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Add Time (Press R2 To Activate)"
+    author: "luc-ita"
+    codes:
+      - "202DBD14 00000000"
+      - "D0491858 0000FDFF"
+      - "21D1CBD0 000000A5"
+
+  - name: "Drive Through Walls (Use At Your Own Risk!)"
+    author: "luc-ita"
+    codes:
+      - "2027C554 10000006"
+
+  - name: "Easy Earning Drift And Maniac Points"
+    author: "luc-ita"
+    codes:
+      - "202FB9C4 10000012"
+      - "202FB890 00000000"
+
+  - name: "Extremely Easy Earning Drift And Maniac Points"
+    author: "luc-ita"
+    codes:
+      - "202FB9C4 10000012"
+      - "202FB890 00000000"
+      - "202FB8A4 00000000"
+
+  - name: "Going Against Walls Doesn't Cause Loss Of Speed"
+    author: "luc-ita"
+    codes:
+      - "2027CC10 00000000"
+      - "2027CC10 00000000"
+      - "2027CBEC 00000000"
+      - "2027CBE0 00000000"
+
+  - name: "Opponents Don't Move (Activate With R3, Deactivate With L3)"
+    author: "luc-ita"
+    codes:
+      - "D0491858 0000FFFB"
+      - "2026B6A8 00000000"
+      - "D0491858 0000FFFD"
+      - "2026B6A8 0060F809"
+
+  - name: "Turbo Always At Max"
+    author: "luc-ita"
+    codes:
+      - "21E89EA4 44340000"
+      - "01E89F0D 00000001"
+
+  - name: "Win Any Challenge To Unlock Any Event That Requires Dominator Points"
+    author: "luc-ita"
+    codes:
+      - "2017F4CC 00000000"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "901E661C 0C0E2A0E"
+
+  - name: "Max Dominator Points"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2055E470 00002710"
+
+  - name: "Press Select + Up To Unlock All (All Your Results Will Be Removed And All Events Will Be NEW)"
+    author: "Xploder"
+    notes: "[Events Codes]"
+    codes:
+      - "E002FFEE 0049165C"
+      - "4055E474 00160001"
+      - "01010101 00000000"
+
+  - name: "Press Select + Left To Have All Completed As Bronze"
+    author: "Xploder"
+    notes: "[Events Codes]"
+    codes:
+      - "E002FF7E 0049165C"
+      - "4055E474 00160001"
+      - "04040404 00000000"
+
+  - name: "Press Select + Right To Have All Completed As Silver"
+    author: "Xploder"
+    notes: "[Events Codes]"
+    codes:
+      - "E002FFDE 0049165C"
+      - "4055E474 00160001"
+      - "05050505 00000000"
+
+  - name: "Press Select + Down To Have All Completed As Gold"
+    author: "Xploder"
+    notes: "[Events Codes]"
+    codes:
+      - "E002FFBE 0049165C"
+      - "4055E474 00160001"
+      - "06060606 00000000"
+
+  - name: "Get All Cars In Garage"
+    author: "Xploder"
+    notes: "[Events Codes]"
+    codes:
+      - "2055E578 FFFFFFFF"
+
+  - name: "Unlock All Trophies"
+    author: "Xploder"
+    notes: "[Events Codes]"
+    codes:
+      - "2055E598 FFFFFFFF"
+      - "0055E59C 00000007"
+
+  - name: "Unlock All Signature Shortcuts"
+    author: "Xploder"
+    notes: "[Events Codes]"
+    codes:
+      - "2055E5B8 0FFFFFFF"
+
+  - name: "Press L3 To Activate"
+    author: "Xploder"
+    notes: "[Infinite Boost Codes]"
+    codes:
+      - "D049165C 0000FFFD"
+      - "202DB77C 00000000"
+
+  - name: "Press R3 To Deactivate"
+    author: "Xploder"
+    notes: "[Infinite Boost Codes]"
+    codes:
+      - "D049165C 0000FFFB"
+      - "202DB77C 00000000"

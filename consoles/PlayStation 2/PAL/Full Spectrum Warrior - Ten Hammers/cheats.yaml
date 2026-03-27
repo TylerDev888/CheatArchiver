@@ -1,0 +1,51 @@
+# Full Spectrum Warrior - Ten Hammers cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53909
+
+game: "Full Spectrum Warrior - Ten Hammers"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53909"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "903C9BA8 0C13C49A"
+
+  - name: "Fix"
+    notes: "[ARMAX FIX]"
+    codes:
+      - "E00E4EEC 004A046C"
+      - "E00D0C0F 004A046E"
+      - "204A6C40 080F2708"
+      - "203C9C20 3C0401B0"
+      - "203C9C24 3C050008"
+      - "203C9C28 0C136AA7"
+      - "203C9C2C 3C060008"
+      - "203C9C30 0C13B65C"
+      - "203C9C34 0000202D"
+      - "203C9C38 3C0501B0"
+      - "203C9C3C 3C040008"
+      - "203C9C40 0C136AA7"
+      - "203C9C44 3C060008"
+      - "203C9C48 08129B12"
+      - "203C9C4C 00000000"
+
+  - name: "Below 3.14 Fix"
+    author: "Codejunkies"
+    codes:
+      - "204F0F40 3C03200F"
+      - "204F0F48 8C65FFF8"
+      - "204F0F4C 24040079"
+      - "204F0F50 24030074"
+      - "204F0F54 0000000C"
+
+  - name: "God Mode"
+    author: "Codejunkies"
+    codes:
+      - "0060D147 00000001"

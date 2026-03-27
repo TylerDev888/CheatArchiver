@@ -1,0 +1,19 @@
+# F1 Race Stars cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01715
+
+game: "F1 Race Stars"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01715"
+cheat_type: "Save Editor"
+source: "From aldostools"
+
+cheats:
+  - name: "Update Crc32 For Profile (required)"
+    notes: "File: PROFILE"
+    codes:
+      - "set range:0x000020,0x267F"
+      - "set [hash]:CRC32"
+      - "write at 0x000010:[hash]"

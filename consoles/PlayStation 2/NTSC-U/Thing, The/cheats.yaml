@@ -1,0 +1,61 @@
+# Thing, The cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20371
+
+game: "Thing, The"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20371"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0129A88 00133867"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00133867"
+
+  - name: "Infinite Ammo"
+    author: "InterAct"
+    codes:
+      - "2050A564 24030032"
+
+  - name: "Infinite Health"
+    author: "InterAct"
+    codes:
+      - "2041901C 3C0142C8"
+      - "20419024 AE01009C"
+
+  - name: "Never Freeze"
+    author: "Codejunkies"
+    codes:
+      - "204194D4 AE0104A4"
+      - "204194DC AE0104A4"
+      - "204194E0 AE0104A4"
+
+  - name: "Never Freeze To Death"
+    author: "Code Master"
+    codes:
+      - "204194D4 AE0004A4"
+      - "204194DC AE0004A4"
+      - "204194E0 AE0004A4"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00133867"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90133864 0C04341C"

@@ -1,0 +1,737 @@
+# Lightning Returns_ Final Fantasy XIII cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM60558
+
+game: "Lightning Returns_ Final Fantasy XIII"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM60558"
+cheat_type: "Save Editor"
+source: "From Savedata.jp & bokosukagames"
+
+cheats:
+  - name: "Read Encryption Key.dat (required)"
+    notes: "File: BLJM60558-*\\KEY.DAT"
+    codes:
+      - "set [key]:read(0x0, 0x10)"
+
+  - name: "Decrypt App.dat (required)"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "set range:0x000000,eof+1"
+      - "DECRYPT FFXIII(3, [key])"
+
+  - name: "Cursed Treasure Are 9 Kinds Of 99 Pieces"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "4201DDE4 6D61745F"
+      - "40090012 00000000"
+      - "4201DDE8 6162695F"
+      - "40090012 00000000"
+      - "4201DDEC 305F3030"
+      - "40090012 00000001"
+      - "4001DDF5 00000063"
+      - "40090012 00000000"
+
+  - name: "All Kinds Of Other Items 53 99"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "420235E1 00000000"
+      - "40350012 00000000"
+      - "420235D8 6D61745F"
+      - "40350012 00000000"
+      - "410235DC 00007A5F"
+      - "40350012 00000000"
+      - "420235DE 30303000"
+      - "400A0012 00000100"
+      - "42023692 30313000"
+      - "400A0012 00000100"
+      - "42023746 30323000"
+      - "400A0012 00000100"
+      - "420237FA 30333000"
+      - "400A0012 00000100"
+      - "420238AE 30343000"
+      - "40060012 00000100"
+      - "20023632 6B65795F"
+      - "10023636 0000775F"
+      - "20023638 736D696C"
+      - "0002363C 0000006B"
+      - "20023644 67696C5F"
+      - "10023648 00006C5F"
+      - "2002364A 30303000"
+      - "20023776 67696C5F"
+      - "1002377A 00006C5F"
+      - "2002377C 30313000"
+      - "2002379A 67696C5F"
+      - "1002379E 00006C5F"
+      - "200237A0 30323000"
+      - "200237AC 67696C5F"
+      - "100237B0 0000725F"
+      - "200237B2 30303000"
+      - "200237BE 67696C5F"
+      - "100237C2 0000645F"
+      - "200237C4 30303000"
+      - "2002383C 67696C5F"
+      - "10023840 0000725F"
+      - "20023842 30313000"
+      - "20023872 67696C5F"
+      - "10023876 0000645F"
+      - "20023878 30323000"
+      - "20023884 6B65795F"
+      - "10023888 0000775F"
+      - "2002388A 6B696E6F"
+      - "20023896 6B65795F"
+      - "1002389A 0000775F"
+      - "2002389C 6B696E6F"
+      - "000238A0 00000032"
+      - "200238A8 6B65795F"
+      - "100238AC 0000775F"
+      - "200238AE 68616E61"
+      - "000238B2 00000032"
+      - "200238BA 6B65795F"
+      - "100238BE 0000775F"
+      - "200238C0 68616E61"
+      - "000238C4 00000033"
+      - "200238CC 6B65795F"
+      - "100238D0 0000775F"
+      - "200238D2 74616E65"
+      - "200238DE 6B65795F"
+      - "100238E2 0000775F"
+      - "200238E4 79617361"
+      - "000238E8 00000069"
+      - "20023914 6B65795F"
+      - "10023918 0000775F"
+      - "2002391A 73686972"
+      - "0002391E 00000075"
+      - "20023926 6B65795F"
+      - "1002392A 0000775F"
+      - "2002392C 64726167"
+      - "00023930 00000032"
+      - "20023938 6B65795F"
+      - "1002393C 0000775F"
+      - "2002393E 74616E74"
+      - "00023942 00000061"
+      - "2002394A 6B65795F"
+      - "1002394E 0000775F"
+      - "20023950 6472696E"
+      - "00023954 0000006B"
+      - "2002395C 6B65795F"
+      - "10023960 0000775F"
+      - "20023962 666F6F64"
+      - "2002396E 67696C5F"
+      - "10023972 0000645F"
+      - "20023974 30313000"
+      - "20023980 6B65795F"
+      - "10023984 0000775F"
+      - "20023986 6D696C6B"
+      - "400235E9 00000063"
+      - "40350012 00000000"
+
+  - name: "Game Progress On 0 Day First 00:00"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2000136A 00000000"
+      - "2000136E 00000000"
+
+  - name: "Game Progress On Day 6 6:00"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2000136A 00000001"
+      - "2000136E 9254D380"
+
+  - name: "All Key Items"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "4201DDE4 6D61745F"
+      - "40090012 00000000"
+      - "4201DDE8 6162695F"
+      - "40090012 00000000"
+      - "4201DDEC 305F3030"
+      - "40090012 00000001"
+      - "4001DDF5 00000063"
+      - "40090012 00000000"
+
+  - name: "Day 0 Time 0:00"
+    notes: "[Time Mod]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2000136A 00000000"
+      - "2000136E 00000000"
+
+  - name: "Day 6 Time 6:00"
+    notes: "[Time Mod]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2000136A 00000001"
+      - "2000136E 9254D380"
+
+  - name: "All Skill Cost 30 Atb"
+    notes: "[Time Mod]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "42036460 77656172"
+      - "41900032 00000000"
+      - "42036464 5F737030"
+      - "41900032 00000000"
+      - "42036468 33300000"
+      - "41900032 00000000"
+
+  - name: "Hoshihime"
+    notes: "[Equipment Set]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "20031C14 7765615F"
+      - "20031C18 6A613032"
+
+  - name: "Knight Of Round Table"
+    notes: "[Equipment Set]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "20031C26 7368695F"
+      - "20031C2A 62613034"
+
+  - name: "Guard Of Avalon"
+    notes: "[Equipment Set]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "20031C4A 7368695F"
+      - "20031C4E 62613033"
+
+  - name: "Ability Power-up/level Up To Max"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "42036470 FE000000"
+      - "41900032 00000000"
+      - "41036474 000000FF"
+      - "41900032 00000000"
+
+  - name: "Max Money (999999999)"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "200012F6 3B9AC9FF"
+
+  - name: "All Components"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "4201DDE4 6D61745F"
+      - "40090012 00000000"
+      - "4201DDE8 6162695F"
+      - "40090012 00000000"
+      - "4201DDEC 305F3030"
+      - "40090012 00000001"
+      - "4001DDF5 00000063"
+      - "40090012 00000000"
+
+  - name: "All Other Items"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "420235E1 00000000"
+      - "40350012 00000000"
+      - "420235D8 6D61745F"
+      - "40350012 00000000"
+      - "410235DC 00007A5F"
+      - "40350012 00000000"
+      - "420235DE 30303000"
+      - "400A0012 00000100"
+      - "42023692 30313000"
+      - "400A0012 00000100"
+      - "42023746 30323000"
+      - "400A0012 00000100"
+      - "420237FA 30333000"
+      - "400A0012 00000100"
+      - "420238AE 30343000"
+      - "40060012 00000100"
+      - "20023632 6B65795F"
+      - "10023636 0000775F"
+      - "20023638 736D696C"
+      - "0002363C 0000006B"
+      - "20023644 67696C5F"
+      - "10023648 00006C5F"
+      - "2002364A 30303000"
+      - "20023776 67696C5F"
+      - "1002377A 00006C5F"
+      - "2002377C 30313000"
+      - "2002379A 67696C5F"
+      - "1002379E 00006C5F"
+      - "200237A0 30323000"
+      - "200237AC 67696C5F"
+      - "100237B0 0000725F"
+      - "200237B2 30303000"
+      - "200237BE 67696C5F"
+      - "100237C2 0000645F"
+      - "200237C4 30303000"
+      - "2002383C 67696C5F"
+      - "10023840 0000725F"
+      - "20023842 30313000"
+      - "20023872 67696C5F"
+      - "10023876 0000645F"
+      - "20023878 30323000"
+      - "20023884 6B65795F"
+      - "10023888 0000775F"
+      - "2002388A 6B696E6F"
+      - "20023896 6B65795F"
+      - "1002389A 0000775F"
+      - "2002389C 6B696E6F"
+      - "000238A0 00000032"
+      - "200238A8 6B65795F"
+      - "100238AC 0000775F"
+      - "200238AE 68616E61"
+      - "000238B2 00000032"
+      - "200238BA 6B65795F"
+      - "100238BE 0000775F"
+      - "200238C0 68616E61"
+      - "000238C4 00000033"
+      - "200238CC 6B65795F"
+      - "100238D0 0000775F"
+      - "200238D2 74616E65"
+      - "200238DE 6B65795F"
+      - "100238E2 0000775F"
+      - "200238E4 79617361"
+      - "000238E8 00000069"
+      - "20023914 6B65795F"
+      - "10023918 0000775F"
+      - "2002391A 73686972"
+      - "0002391E 00000075"
+      - "20023926 6B65795F"
+      - "1002392A 0000775F"
+      - "2002392C 64726167"
+      - "00023930 00000032"
+      - "20023938 6B65795F"
+      - "1002393C 0000775F"
+      - "2002393E 74616E74"
+      - "00023942 00000061"
+      - "2002394A 6B65795F"
+      - "1002394E 0000775F"
+      - "20023950 6472696E"
+      - "00023954 0000006B"
+      - "2002395C 6B65795F"
+      - "10023960 0000775F"
+      - "20023962 666F6F64"
+      - "2002396E 67696C5F"
+      - "10023972 0000645F"
+      - "20023974 30313000"
+      - "20023980 6B65795F"
+      - "10023984 0000775F"
+      - "20023986 6D696C6B"
+      - "400235E9 00000063"
+      - "40350012 00000000"
+
+  - name: "99 Soul Seeds (must Have At Least 1 Soul Seed)"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "80010004 6D5F6C74"
+      - "0800000C 00000063"
+
+  - name: "Day 1 Time 7:00"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2000136A 00000000"
+      - "2000136E 532602C0"
+
+  - name: "Day 2 Time 7:00"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2000136A 00000000"
+      - "2000136E 938580C0"
+
+  - name: "Day 3 Time 7:00"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2000136A 00000000"
+      - "2000136E D3E4FEC0"
+
+  - name: "Day 4 Time 7:00"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2000136A 00000001"
+      - "2000136E 14447CC0"
+
+  - name: "Day 5 Time 7:00"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2000136A 00000001"
+      - "2000136E 54A3FAC0"
+
+  - name: "Day 6 Time 7:00"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2000136A 00000001"
+      - "2000136E 950378C0"
+
+  - name: "Day 7 Time 7:00"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2000136A 00000001"
+      - "2000136E D562F6C0"
+
+  - name: "Day 8 Time 7:00"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2000136A 00000002"
+      - "2000136E 15C274C0"
+
+  - name: "Day 9 Time 7:00"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2000136A 00000002"
+      - "2000136E 5621F2C0"
+
+  - name: "Day 10 Time 7:00"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2000136A 00000002"
+      - "2000136E 968170C0"
+
+  - name: "Day 11 Time 7:00"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2000136A 00000002"
+      - "2000136E D6E0EEC0"
+
+  - name: "Day 12 Time 7:00"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2000136A 00000003"
+      - "2000136E 17406CC0"
+
+  - name: "Day 13 Time 7:00"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2000136A 00000003"
+      - "2000136E 579FEAC0"
+
+  - name: "Day 14 Time 7:00"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2000136A 00000003"
+      - "2000136E 97FF68C0"
+
+  - name: "Medicine Of Heroes"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "6865726F 00000000"
+
+  - name: "Location Item1 Elixir 65535"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2001C464 69745F00"
+      - "2001C467 656C6978"
+      - "2001C46B 69720000"
+      - "1001C474 0000FFFF"
+
+  - name: "Location Item2 Phoenix Down 65535"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2001C476 69745F00"
+      - "2001C479 7068656E"
+      - "2001C47D 7874616C"
+      - "1001C486 0000FFFF"
+
+  - name: "Location Item3 Mega Cure 65535"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2001C488 69745F00"
+      - "2001C48B 756E6963"
+      - "2001C48F 6F000000"
+      - "1001C498 0000FFFF"
+
+  - name: "Hp 50000"
+    notes: "[Lightning Stats]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "1001B3A5 0000C350"
+
+  - name: "Hp 99999"
+    notes: "[Lightning Stats]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2001B3A3 0001869F"
+
+  - name: "Physical Attack 9999"
+    notes: "[Lightning Stats]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2001B3B3 0000270F"
+
+  - name: "Magical Attack 9999"
+    notes: "[Lightning Stats]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2001B3B7 0000270F"
+
+  - name: "Ep99 Current"
+    notes: "[Lightning Stats]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2000138A 00030570"
+
+  - name: "Ep99 Max"
+    notes: "[Lightning Stats]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2000138E 00030570"
+
+  - name: "Max Atb (200)"
+    notes: "[Lightning Stats]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "0001B3AE 000000C8"
+
+  - name: "999% Stagger Power (swords) And 99,999 Guard Defense (shields)"
+    notes: "[Lightning Stats]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "42034724 0001869F"
+      - "41200018 00000000"
+
+  - name: "99,999 Strength (swords) And Hp (shields)"
+    notes: "[Lightning Stats]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "42034704 0001869F"
+      - "41200018 00000000"
+
+  - name: "99,999 Magic (swords) And Atb Speed (shields)"
+    notes: "[Lightning Stats]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "42034708 0001869F"
+      - "41200018 00000000"
+
+  - name: "Weapon And Armor Masamune"
+    notes: "[Equipment Set]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "20031C38 7765615F"
+      - "20031C3C 68613031"
+
+  - name: "All Skill Get The Ability Atb Spd +30"
+    notes: "[Ability Mod]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "42036460 77656172"
+      - "41900032 00000000"
+      - "42036464 5F737030"
+      - "41900032 00000000"
+      - "42036468 33300000"
+      - "41900032 00000000"
+
+  - name: "Ability Cost 0 Atb (except Guard Cost 1 Atb)"
+    notes: "[Ability Mod]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "40036470 0000009C"
+      - "41900032 00000000"
+
+  - name: "Super Power-up Ability"
+    notes: "[Ability Mod]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "40036471 00000000"
+      - "41900032 00000000"
+      - "42036472 000000FF"
+      - "41900032 00000000"
+
+  - name: "Mega Power-up Ability"
+    notes: "[Ability Mod]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "40036471 00000000"
+      - "41900032 00000000"
+      - "42036472 0000FFFF"
+      - "41900032 00000000"
+
+  - name: "Ultra Power-up Ability"
+    notes: "[Ability Mod]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "40036471 00000000"
+      - "41900032 00000000"
+      - "42036472 0001FFFF"
+      - "41900032 00000000"
+
+  - name: "Gorgonopsid Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "10025D2D 00000050"
+
+  - name: "Gremlin Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "10025D38 00000078"
+
+  - name: "Triffid Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "10025D43 00000050"
+
+  - name: "Rafflesia Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "10025D4E 00000064"
+
+  - name: "Puchinero Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT  ( 100 animals already punitive )"
+    codes:
+      - "10025D59 00000064"
+
+  - name: "Apanda Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT  ( 30 animals punitive already )"
+    codes:
+      - "10025D64 0000001E"
+
+  - name: "Goblin Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "10025D7A 0000005A"
+
+  - name: "Schrodinger Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "10025D85 0000003C"
+
+  - name: "Hoplite Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "10025D90 00000050"
+
+  - name: "Dreadnought Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "10025D9B 0000001E"
+
+  - name: "Meonekton Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "10025DA6 0000FFFF"
+
+  - name: "Skata'ne Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "10025DBC 0000003C"
+
+  - name: "Gurangatch Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT  (Grand Gutch battle after the victory against the conditional main quest ( dead Dune ) 4-2 in \" Thieves volunteer \")"
+    codes:
+      - "10025DC7 0000001E"
+
+  - name: "Cactuar Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "10025DD2 0000001E"
+
+  - name: "Niblet Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "10025E14 00000078"
+
+  - name: "Megappuru Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT  ( 80 animals punitive already )"
+    codes:
+      - "10025E35 00000050"
+
+  - name: "Masurao Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT  ( 100 animals already punitive )"
+    codes:
+      - "10025E4B 00000064"
+
+  - name: "Sugriva Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT  (room after the events of The first test of the third)"
+    codes:
+      - "10025E6C 0000001E"
+
+  - name: "Gaunt Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "10025EB9 0000003C"
+
+  - name: "Dryad Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT  (x6 round after winning conditional Dryad ( Wilderness ) in \" for a little peace \" sub- quest)"
+    codes:
+      - "10025EC4 00000064"
+
+  - name: "Arcangeli Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT  (room after the events of The first test of the second)"
+    codes:
+      - "10025ECF 0000001E"
+
+  - name: "Skeleton Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "10025EDA 0000003C"
+
+  - name: "Zarutisu Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT  ( 30 animals punitive already )"
+    codes:
+      - "10025EFB 0000001E"
+
+  - name: "Zomok Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "10025F1C 0000001E"
+
+  - name: "Chocobo Eater Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT  (Chocobo Eater game after winning conditional ( Wilderness ) in \" what you eat nest in chaos \" sub- quest)"
+    codes:
+      - "10025F27 0000001E"
+
+  - name: "Earth Eater Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "10025F32 0000001E"
+
+  - name: "Chimera Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT  (room after the events of third test of the first)"
+    codes:
+      - "10025F3D 0000000F"
+
+  - name: "Cyclops Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT  ( 30 animals punitive already )"
+    codes:
+      - "10025F48 0000001E"
+
+  - name: "Desert Sahagin Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "10025FB6 00000050"
+
+  - name: "Grand Prix Emissions Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT  ( 60 animals punitive already )"
+    codes:
+      - "10025FCC 0000003C"
+
+  - name: "Yuijinshan Omega"
+    notes: "[Unlock Fights Against All Omega Monster]  File: BLJM60558-*\\APP.DAT  ( 30 animals punitive already )"
+    codes:
+      - "10025FD7 0000001E"
+
+  - name: "Day 0 Time 23:00"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "2000136A 00000000"
+      - "2000136E 3DB0D8C0"
+
+  - name: "All Materials 65535 Pieces"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "4201DDE4 6D61745F"
+      - "40100012 00000000"
+      - "4201DDE8 6162695F"
+      - "40090012 00000000"
+      - "4201DDEC 305F3030"
+      - "40090012 00000001"
+      - "4201DE8A 6375735F"
+      - "40070012 00000000"
+      - "4201DE8E 305F3030"
+      - "40070012 00000001"
+      - "4101DDF4 0000FFFF"
+      - "40100012 00000000"
+
+  - name: "All Materials 255 Pieces"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "4201DDE4 6D61745F"
+      - "40100012 00000000"
+      - "4201DDE8 6162695F"
+      - "40090012 00000000"
+      - "4201DDEC 305F3030"
+      - "40090012 00000001"
+      - "4201DE8A 6375735F"
+      - "40070012 00000000"
+      - "4201DE8E 305F3030"
+      - "40070012 00000001"
+      - "4001DDF5 000000FF"
+      - "40100012 00000000"
+
+  - name: "Update App.dat Checksum (required)"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "set pointer:eof-0x7"
+      - "set range:0x0,pointer"
+      - "set [hash]:ff13_checksum"
+      - "write next (4):[hash]"
+
+  - name: "Encrypt App.dat (required)"
+    notes: "File: BLJM60558-*\\APP.DAT"
+    codes:
+      - "set range:0x000000,eof+1"
+      - "ENCRYPT FFXIII(3, [key])"

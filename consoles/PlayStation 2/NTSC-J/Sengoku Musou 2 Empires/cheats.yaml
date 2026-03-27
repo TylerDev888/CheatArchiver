@@ -1,0 +1,24 @@
+# Sengoku Musou 2 Empires cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66542
+
+game: "Sengoku Musou 2 Empires"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66542"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9012B4D0 0C04ACDC"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90170E68 0C047BC2"

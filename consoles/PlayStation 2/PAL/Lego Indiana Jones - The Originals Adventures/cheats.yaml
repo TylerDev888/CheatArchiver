@@ -1,0 +1,23 @@
+# Lego Indiana Jones - The Originals Adventures cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-55133
+
+game: "Lego Indiana Jones - The Originals Adventures"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-55133"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Take Studs Anywhere - Light Effect"
+    author: "luc-ita"
+    codes:
+      - "202C86A8 10000059"
+
+  - name: "Take Studs Anywhere - Strong Effect"
+    author: "luc-ita"
+    codes:
+      - "202C865C 00000000"
+      - "202C86A8 10000059"

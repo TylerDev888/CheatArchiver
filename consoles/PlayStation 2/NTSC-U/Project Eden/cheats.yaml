@@ -1,0 +1,116 @@
+# Project Eden cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20164
+
+game: "Project Eden"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20164"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001D5517"
+
+  - name: "[M] Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100080 001D5517"
+
+  - name: "Amber: Infinite Ammo"
+    author: "InterAct"
+    codes:
+      - "1130FBDA 000042C8"
+
+  - name: "Amber: Infinite Health"
+    author: "InterAct"
+    codes:
+      - "1130FBFA 000042C8"
+
+  - name: "Andre: Infinite Ammo"
+    author: "InterAct"
+    codes:
+      - "1131004A 000042C8"
+
+  - name: "Andre: Infinite Health"
+    author: "InterAct"
+    codes:
+      - "1131006A 000042C8"
+
+  - name: "Carter: Infinite Ammo"
+    author: "InterAct"
+    codes:
+      - "113104BA 000042C8"
+
+  - name: "Carter: Infinite Health"
+    author: "InterAct"
+    codes:
+      - "113104DA 000042C8"
+
+  - name: "Infinite Ammo"
+    author: "Code Master"
+    codes:
+      - "2013E2DC 00000000"
+
+  - name: "Infinite Ammo Amber"
+    author: "InterAct"
+    codes:
+      - "1130F8DA 000042C8"
+
+  - name: "Infinite Ammo Andre"
+    author: "InterAct"
+    codes:
+      - "1130FD4A 000042C8"
+
+  - name: "Infinite Ammo Carter"
+    author: "InterAct"
+    codes:
+      - "113174EA 000042C8"
+
+  - name: "Infinite Ammo Moniko"
+    author: "InterAct"
+    codes:
+      - "1130F46A 000042C8"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    codes:
+      - "201DFAD8 C461000C"
+      - "201DFAE8 E4610008"
+      - "201DF914 E4400008"
+
+  - name: "Infinite Health Amber"
+    author: "InterAct"
+    codes:
+      - "1130F8FA 00004316"
+
+  - name: "Infinite Health Andre"
+    author: "InterAct"
+    codes:
+      - "1130FD6A 000042C8"
+
+  - name: "Infinite Health Carter"
+    author: "InterAct"
+    codes:
+      - "113199EA 000042C8"
+
+  - name: "Infinite Health Moniko"
+    author: "InterAct"
+    codes:
+      - "1130F48A 000042C8"
+
+  - name: "Minoko: Infinite Ammo"
+    author: "InterAct"
+    codes:
+      - "1130F76A 000042C8"
+
+  - name: "Minoko: Infinite Health"
+    author: "InterAct"
+    codes:
+      - "1130F78A 000042C8"

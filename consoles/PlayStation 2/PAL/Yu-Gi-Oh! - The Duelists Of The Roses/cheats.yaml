@@ -1,0 +1,170 @@
+# Yu-Gi-Oh! - The Duelists Of The Roses cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51579
+
+game: "Yu-Gi-Oh! - The Duelists Of The Roses"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51579"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0193454 00193457"
+
+  - name: "Player 1 1 LP"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "102DAEDA 00000001"
+
+  - name: "Player 1 9999 Lp"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "102DAEDA 0000270F"
+
+  - name: "Press L3 For Extra Move"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "D02E8E42 0000FFFB"
+      - "102DB9E6 00000000"
+
+  - name: "End Match After First Move"
+    author: "Codejunkies"
+    notes: "[Player 2 LP Codes]"
+    codes:
+      - "201DF828 00000000"
+
+  - name: "Infinite Turns"
+    author: "Codejunkies"
+    notes: "[Player 2 LP Codes]"
+    codes:
+      - "002DB8F3 00000001"
+
+  - name: "Player 2 0 LP"
+    author: "Codejunkies"
+    notes: "[Player 2 LP Codes]"
+    codes:
+      - "102DB22A 00000000"
+
+  - name: "Player 2 1 LP"
+    author: "Codejunkies"
+    notes: "[Player 2 LP Codes]"
+    codes:
+      - "102DB22A 00000001"
+
+  - name: "Player 2 9999 Lp"
+    author: "Codejunkies"
+    notes: "[Player 2 LP Codes]"
+    codes:
+      - "102DB22A 0000270F"
+
+  - name: "Deck Cost 1"
+    author: "Codejunkies"
+    notes: "[Replace Intro Into...]"
+    codes:
+      - "103029F6 00000001"
+
+  - name: "Ending 1"
+    author: "Codejunkies"
+    notes: "[Replace Intro Into...]"
+    codes:
+      - "202BDB64 4D444500"
+      - "202BDB68 36415F56"
+
+  - name: "Ending 2"
+    author: "Codejunkies"
+    notes: "[Replace Intro Into...]"
+    codes:
+      - "202BDB64 4D444500"
+      - "202BDB68 36435F56"
+
+  - name: "Improved Framerate/Animations"
+    author: "Codejunkies"
+    notes: "[Replace Intro Into...]"
+    codes:
+      - "20209228 00000000"
+
+  - name: "Infinite Summon Power Use"
+    author: "Codejunkies"
+    notes: "[Replace Intro Into...]"
+    codes:
+      - "201DF904 00000000"
+
+  - name: "Max Summon Power After Use"
+    author: "Codejunkies"
+    notes: "[Replace Intro Into...]"
+    codes:
+      - "200FFF00 24010063"
+      - "200FFF04 A0810341"
+      - "200FFF08 03E00008"
+      - "200FFF10 0C0CFACE"
+      - "201DF908 0803FFC0"
+
+  - name: "Unlock All Cards"
+    author: "Codejunkies"
+    notes: "[Replace Intro Into...]"
+    codes:
+      - "20216308 3C035237"
+      - "2021630C 34638B9C"
+      - "20216310 AC830000"
+
+  - name: "1P 9999 LP"
+    author: "Codejunkies"
+    codes:
+      - "102DAEDA 0000270F"
+
+  - name: "2P 0 LP"
+    author: "Codejunkies"
+    codes:
+      - "102DB22A 00000000"
+
+  - name: "2P 1 LP"
+    author: "Codejunkies"
+    codes:
+      - "102DB22A 00000001"
+
+  - name: "Have All Cards In Chest"
+    author: "Hacc"
+    notes: "[Battle Map Codes]"
+    codes:
+      - "20216300 3C036762"
+      - "20216304 34630525"
+      - "20216308 AC830000"
+
+  - name: "Never Deck Cost To Battle"
+    author: "Hacc"
+    notes: "[Battle Map Codes]"
+    codes:
+      - "10239822 00001000"
+
+  - name: "P1 Press L2+R2 For Instant Win"
+    author: "Hacc"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "D02E8E42 0000FCFF"
+      - "102DB22A 00000000"
+
+  - name: "P2 Press L2+R2 For Instant Win"
+    author: "Hacc"
+    notes: "[In-Battle Codes]"
+    codes:
+      - "D02E8F42 0000FCFF"
+      - "102DAEDA 00000000"
+
+  - name: "P1 Max Reverse Joker Command"
+    author: "Hacc"
+    codes:
+      - "DE19E790 58B5????"
+
+  - name: "P2 Max Reverse Joker Command"
+    author: "Hacc"
+    codes:
+      - "DE19EC90 58B5????"

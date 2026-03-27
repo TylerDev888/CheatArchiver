@@ -1,0 +1,30 @@
+# The Elder Scrolls IV_ Oblivion cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00048
+
+game: "The Elder Scrolls IV_ Oblivion"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00048"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Max Skills(fill Aa-dd With Armor/athletics/blade/block)"
+    notes: "File: SYS-DATA  ([Max Stats (Fill aa-dd with Str/Int/Will/Agi)]) (80010004 090A0B0C) (28000000 C8C8C8C8) (28000004 64C8C8C8)"
+    codes:
+      - "80010004 AABBCCDD"
+      - "28000000 64646464"
+      - "28000004 64646464"
+      - "28000008 64646464"
+      - "2800000C 64646464"
+      - "28000010 64646464"
+      - "08000014 00000064"
+
+  - name: "Max Stats (fill Aa-dd With Str/int/will/agi)(thank You Chaoszage)"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80010004 73645342"
+      - "28000000 C8C8C8C8"
+      - "28000004 64C8C8C8"

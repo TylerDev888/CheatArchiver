@@ -1,0 +1,58 @@
+# God of War cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA07408
+
+game: "God of War"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA07408"
+cheat_type: "AP"
+source: "source: xdgmods"
+
+cheats:
+  - name: "Find Equipment (id) V = Equipment Rune Slot 1 To 3 ( Currently Set To Valkyrie Chest)"
+    notes: "File: *  \\\\880V0008 5DB74F7B"
+    codes:
+      - "CF35641B 00000000"
+
+  - name: "Defense – (pick Only The One/s Your Armor Has)"
+    notes: "File: *"
+    codes:
+      - "88010008 0B72D37F"
+      - "6DC3F0F0 00000000"
+
+  - name: "Vitality – (pick Only The One/s Your Armor Has)"
+    notes: "File: *"
+    codes:
+      - "88010008 CBC51FB7"
+      - "7C16F8F3 00000000"
+
+  - name: "Luck – (pick Only The One/s Your Armor Has)"
+    notes: "File: *"
+    codes:
+      - "88010008 93E62C7A"
+      - "854C0000 00000000"
+
+  - name: "Runic – (pick Only The One/s Your Armor Has)"
+    notes: "File: *"
+    codes:
+      - "88010008 48B6FD1A"
+      - "C0CB4E01 00000000"
+
+  - name: "Cooldown – (pick Only The One/s Your Armor Has)"
+    notes: "File: *"
+    codes:
+      - "88010008 57B8D16A"
+      - "F17D1E01 00000000"
+
+  - name: "Strength – (pick Only The One/s Your Armor Has) (credits To Skiller)"
+    notes: "File: *"
+    codes:
+      - "88010008 7A00D0F0"
+      - "1CCEAB3A 00000000"
+
+  - name: "Set To 99 (credits To Skiller)"
+    notes: "File: *"
+    codes:
+      - "28000008 42C60000"

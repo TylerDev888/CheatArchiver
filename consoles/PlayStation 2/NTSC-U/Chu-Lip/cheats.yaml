@@ -1,0 +1,54 @@
+# Chu-Lip cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20742
+
+game: "Chu-Lip"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20742"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Skiller"
+    notes: "[Masters]"
+    codes:
+      - "9018975C 0C0648D1"
+
+  - name: "Infinite Hearts"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "101A69EC 00000063"
+
+  - name: "Max Hearts"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "101A69EE 00000063"
+
+  - name: "Max Infinite Hearts"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "201A69EC 00630063"
+
+  - name: "Max Money"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "201A69F4 0001869F"
+
+  - name: "Best Name Mode"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "101A69FC 0000000A"
+
+  - name: "Max Kisses"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "101A69FE 0000FFFF"

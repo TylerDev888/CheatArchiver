@@ -1,0 +1,23 @@
+# Princess Maker - Refine cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-20361
+
+game: "Princess Maker - Refine"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-20361"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9019A758 0C06697E"
+
+  - name: "Re-Enable Unused Music Mode In Change Clothes Menu"
+    author: "punk7890"
+    codes:
+      - "20136ED4 24020001"

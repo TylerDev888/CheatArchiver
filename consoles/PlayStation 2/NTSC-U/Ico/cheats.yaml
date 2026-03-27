@@ -1,0 +1,117 @@
+# Ico cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97113
+
+game: "Ico"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97113"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F024E5D4 0024E5D7"
+
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0102520 0024E5D7"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0024E5D7"
+
+  - name: "Air Walker"
+    author: "Code Master"
+    codes:
+      - "E002F7FE 002811D2"
+      - "201E1728 03E00008"
+      - "201E172C 00000000"
+      - "E002FDFE 002811D2"
+      - "201E1728 27BDFF70"
+      - "201E172C 8F83A418"
+
+  - name: "Braindead Enemy A.I."
+    author: "InterAct"
+    codes:
+      - "20160720 03E00008"
+      - "20160724 00000000"
+      - "201FBB48 03E00008"
+      - "201FBB4C 00000000"
+
+  - name: "Normal Walk"
+    author: "Codejunkies"
+    codes:
+      - "E002BFFE 002811D2"
+      - "201E1728 27BDFF70"
+      - "201E172C 8F83A418"
+
+  - name: "Pause And Press L2 To Save Anywhere"
+    author: "InterAct"
+    codes:
+      - "D02811D2 0000FEFF"
+      - "1063314C 00000019"
+
+  - name: "Press L1+Select To Save Game"
+    author: "Code Master"
+    codes:
+      - "D02811D2 0000FBFE"
+      - "1063314C 0000001C"
+
+  - name: "Press Select + X For Normal Walk"
+    author: "InterAct"
+    codes:
+      - "E004BFFE 002811D2"
+      - "201E1728 27BDFF70"
+      - "201E172C 8F83A418"
+
+  - name: "Press Select To Walk On Air"
+    author: "InterAct"
+    codes:
+      - "E004FFFE 002811D2"
+      - "201E1728 03E00008"
+      - "201E172C 00000000"
+
+  - name: "Stupid Enemy AI"
+    author: "InterAct"
+    codes:
+      - "20160720 03E00008"
+      - "20160724 03E00008"
+      - "201FBB48 03E00008"
+      - "201FBB4C 00000000"
+
+  - name: "Your Character Can Walk On Air"
+    author: "Codejunkies"
+    codes:
+      - "E002FFFE 002811D2"
+      - "201E1728 03E00008"
+      - "201E172C 00000000"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0024E5D7"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9024E5D4 0C09904A"
+
+  - name: "Idiot AI"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20160720 03E00008"
+      - "20160724 00000000"
+      - "201FBB48 03E00008"
+      - "201FBB4C 00000000"

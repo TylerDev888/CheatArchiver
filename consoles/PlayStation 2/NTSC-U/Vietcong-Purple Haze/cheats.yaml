@@ -1,0 +1,43 @@
+# Vietcong-Purple Haze cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21068
+
+game: "Vietcong-Purple Haze"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21068"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "904B7114 0C13081F"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203C12B8 3C014BCE"
+      - "203C12BC AC810008"
+
+  - name: "Infinite Ammo"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203A97F8 00000000"
+
+  - name: "Extra Ammo"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203A97F0 00661021"
+
+  - name: "Never Reload"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203C9B70 00000000"

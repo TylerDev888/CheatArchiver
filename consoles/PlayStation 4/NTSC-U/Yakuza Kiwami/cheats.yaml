@@ -1,0 +1,100 @@
+# Yakuza Kiwami cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA06997
+
+game: "Yakuza Kiwami"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA06997"
+cheat_type: "AP"
+source: "source: playersquared.com forums"
+
+cheats:
+  - name: "Easy Difficulty"
+    notes: "File: *"
+    codes:
+      - "1000040C 00000000"
+
+  - name: "Normal Difficulty"
+    notes: "File: *"
+    codes:
+      - "1000040C 00000101"
+
+  - name: "Hard Difficulty"
+    notes: "File: *"
+    codes:
+      - "1000040C 00000202"
+
+  - name: "Legend Difficulty"
+    notes: "File: *"
+    codes:
+      - "1000040C 00000303"
+
+  - name: "Max Health"
+    notes: "File: *"
+    codes:
+      - "10007286 0000FFFF"
+      - "10007288 0000FFFF"
+
+  - name: "Max Wooden Tags"
+    notes: "File: *"
+    codes:
+      - "2000C778 3B9AC9FF"
+
+  - name: "Max Mahjong Sticks"
+    notes: "File: *"
+    codes:
+      - "2000C788 05F5E0FF"
+
+  - name: "Max Shogi Points"
+    notes: "File: *"
+    codes:
+      - "2000C790 3B9AC9FF"
+
+  - name: "Max All Items In Storage (item Only)"
+    notes: "File: *"
+    codes:
+      - "40007FBA 00000063"
+      - "40960010 00000000"
+
+  - name: "All Weapons In Storage Have Infinite Durability"
+    notes: "File: *"
+    codes:
+      - "41008C36 0000FFFF"
+      - "40C80010 00000000"
+      - "41008C38 0000FFFF"
+      - "40C80010 00000000"
+
+  - name: "Have War God Talisman In Slot 1 (gear/accessory)"
+    notes: "File: *"
+    codes:
+      - "1000A624 000001AD"
+      - "0000A62A 00000001"
+
+  - name: "Have Amon Sunglasses In Slot 2 (gear/accessory)"
+    notes: "File: *"
+    codes:
+      - "1000A634 000001C5"
+      - "0000A63A 00000001"
+
+  - name: "Have Encounter Finder In Slot 3 (gear/accessory)"
+    notes: "File: *"
+    codes:
+      - "1000A644 000001BA"
+      - "0000A64A 00000001"
+
+  - name: "Have Majima Senor In Slot 4 (gear/accessory)"
+    notes: "File: *"
+    codes:
+      - "1000A654 000004E6"
+      - "0000A65A 00000001"
+
+  - name: "All Weapon In Storage Have Infinite Durability"
+    author: "Krustytoe"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "41008C36 0000FFFF"
+      - "40680010 00000000"
+      - "41008C38 0000FFFF"
+      - "40680010 00000000"

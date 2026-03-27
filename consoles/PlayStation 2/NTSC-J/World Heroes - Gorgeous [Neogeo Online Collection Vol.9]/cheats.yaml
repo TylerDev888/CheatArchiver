@@ -1,0 +1,25 @@
+# World Heroes - Gorgeous [Neogeo Online Collection Vol.9] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25782
+
+game: "World Heroes - Gorgeous [Neogeo Online Collection Vol.9]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25782"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "902699A0 0C09A610"
+
+  - name: "Force Videout To 480I Instead Of 240P"
+    author: "lee4"
+    codes:
+      - "20213574 24110001"
+      - "20213578 24120002"
+      - "20213584 24130001"

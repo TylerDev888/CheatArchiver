@@ -1,0 +1,55 @@
+# Splatter Master cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53368
+
+game: "Splatter Master"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53368"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code(Must Be On)"
+    author: "Azagthoth"
+    notes: "[Master Codes]"
+    codes:
+      - "9011A920 00832021"
+
+  - name: "Infinite Gold"
+    author: "Azagthoth"
+    notes: "[Shop Codes]"
+    codes:
+      - "20189E0C 00000000"
+
+  - name: "Max Gold"
+    author: "Azagthoth"
+    notes: "[Shop Codes]"
+    codes:
+      - "20282558 000F423F"
+
+  - name: "Infinite Gas"
+    author: "Azagthoth"
+    codes:
+      - "20283F04 000A1388"
+
+  - name: "Infinite Health ASM"
+    author: "Azagthoth"
+    codes:
+      - "201667BC 00000000"
+
+  - name: "Infinite Hearts(Health)"
+    author: "Azagthoth"
+    codes:
+      - "20283F00 00C800C8"
+
+  - name: "Max/Infinite Gold In Game"
+    author: "Azagthoth"
+    codes:
+      - "20283F08 000F423F"
+
+  - name: "Pickup Gold For 9999 Gold"
+    author: "Azagthoth"
+    codes:
+      - "201B76F4 2463270F"

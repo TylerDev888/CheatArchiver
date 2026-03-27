@@ -1,0 +1,21 @@
+# Bioshock Infinite cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA03986
+
+game: "Bioshock Infinite"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA03986"
+cheat_type: "AP"
+source: "source: xdgmods"
+
+cheats:
+  - name: "God Mode"
+    notes: "File: *  (Credits to @Dynamite#0001)"
+    codes:
+      - "80020004 B28125C1"
+      - "28000032 7FFFFFFF"
+      - "28000036 7FFFFFFF"
+      - "2800003A 7FFFFFFF"
+      - "2800003E 7FFFFFFF"

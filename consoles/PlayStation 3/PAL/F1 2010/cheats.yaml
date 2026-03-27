@@ -1,0 +1,20 @@
+# F1 2010 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00917
+
+game: "F1 2010"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00917"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Dwadd For Savedata (required)"
+    notes: "File: SAVEDATA  (set [csum]:dwadd(0xC,0x07FFFF))"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof+1"
+      - "set [csum]:dwadd(0xC,pointer)"
+      - "write at 0x000000:[csum]"

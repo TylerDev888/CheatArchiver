@@ -1,0 +1,59 @@
+# Theme Park Rollercoaster cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20099
+
+game: "Theme Park Rollercoaster"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20099"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0230EF8 000001FD"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0027ACE3"
+
+  - name: "99 Gold Tickets"
+    author: "InterAct"
+    codes:
+      - "1039763C 00000063"
+
+  - name: "Buying Things Doesn't Decrease Money"
+    author: "Code Master"
+    codes:
+      - "20100700 00000000"
+
+  - name: "Buying Things Increases Money"
+    author: "Code Master"
+    codes:
+      - "201006F0 00F13821"
+
+  - name: "Free Purchases"
+    author: "Code Master"
+    codes:
+      - "202A60B8 00000001"
+
+  - name: "Free Rides & Staff"
+    author: "InterAct"
+    codes:
+      - "002A60B8 00000001"
+
+  - name: "Have All Ultimate Coaster Awards"
+    author: "Code Master"
+    codes:
+      - "202B3070 00000001"
+
+  - name: "Max Gold Tickets"
+    author: "Code Master"
+    codes:
+      - "2039763C 000000FF"

@@ -1,0 +1,500 @@
+# Disgaea D2_ A Brighter Darkness cheat data
+# Console: PlayStation 3
+# Region:  Unknown
+# Serial:  BLJS10205
+
+game: "Disgaea D2_ A Brighter Darkness"
+console: "PlayStation 3"
+region: "Unknown"
+serial: "BLJS10205"
+cheat_type: "AP"
+source: "From KE-HA"
+
+cheats:
+  - name: "Hel 9999999999999"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "1000056A 00000918"
+      - "2000056C 4E729FFF"
+
+  - name: "Mana 9999999 - The First Person"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "200016E8 0098967F"
+
+  - name: "Exp 99999999999=lv9999 - Laharl"
+    notes: "File: SAVEDATA.DAT  (A maker is bokosukagames.)"
+    codes:
+      - "200005A0 00000017"
+      - "200005A4 4876E7FF"
+
+  - name: "Exp 99999999999=lv9999 - Etona"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "20002000 00000017"
+      - "20002004 4876E7FF"
+
+  - name: "Item 1 Hp/sp/atk/def/int/res/hit/spd 999999"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "200DD590 00000000"
+      - "200DD594 000F423F"
+      - "200DD598 00000000"
+      - "200DD59C 000F423F"
+      - "420DD5A0 00000000"
+      - "40060008 00000000"
+      - "420DD5A4 000F423F"
+      - "40060008 00000000"
+
+  - name: "Item 1 Counter 1"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "000DD5E4 00000001"
+
+  - name: "Item 1 Pop./move/jump/range 10"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "000DD5ED 0000000A"
+      - "100DD5EE 00000A0A"
+      - "000DD5F1 0000000A"
+
+  - name: "Item 1 Critical 100%"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "000DD5F4 00000064"
+
+  - name: "Max Hell"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "1000056A 00000918"
+      - "2000056C 4E729FFF"
+
+  - name: "Item 1-200 Status Max(non-working Or Not Compatible)"
+    notes: "[Item And Gears Related Codes]  File: SAVEDATA.DAT"
+    codes:
+      - "420DD594 05F5E0FF"
+      - "40C80190 00000000"
+      - "420DD59C 05F5E0FF"
+      - "40C80190 00000000"
+      - "420DD5A4 05F5E0FF"
+      - "40C80190 00000000"
+      - "420DD5AC 05F5E0FF"
+      - "40C80190 00000000"
+      - "420DD5B4 05F5E0FF"
+      - "40C80190 00000000"
+      - "420DD5BC 05F5E0FF"
+      - "40C80190 00000000"
+      - "420DD5C4 05F5E0FF"
+      - "40C80190 00000000"
+      - "420DD5CC 05F5E0FF"
+      - "40C80190 00000000"
+      - "420DD5E4 00000009"
+      - "40C80190 00000000"
+      - "420DD5ED 0000000A"
+      - "40C80190 00000000"
+      - "420DD5EE 00000063"
+      - "40C80190 00000000"
+      - "420DD5EF 00000063"
+      - "40C80190 00000000"
+      - "420DD5F1 0000000A"
+      - "40C80190 00000000"
+      - "420DD5F4 00000064"
+      - "40C80190 00000000"
+
+  - name: "Char 1-40 Equipments Aptitude 300%"
+    notes: "[Item And Gears Related Codes]  File: SAVEDATA.DAT"
+    codes:
+      - "41001A9C 0000012C"
+      - "40281A60 00000000"
+      - "41001ABC 0000012C"
+      - "40281A60 00000000"
+      - "41001A9E 0000012C"
+      - "40281A60 00000000"
+      - "41001ABE 0000012C"
+      - "40281A60 00000000"
+      - "41001AA0 0000012C"
+      - "40281A60 00000000"
+      - "41001AC0 0000012C"
+      - "40281A60 00000000"
+      - "41001AA2 0000012C"
+      - "40281A60 00000000"
+      - "41001AC2 0000012C"
+      - "40281A60 00000000"
+      - "41001AA4 0000012C"
+      - "40281A60 00000000"
+      - "41001AC4 0000012C"
+      - "40281A60 00000000"
+      - "41001AA6 0000012C"
+      - "40281A60 00000000"
+      - "41001AC6 0000012C"
+      - "40281A60 00000000"
+      - "41001AA8 0000012C"
+      - "40281A60 00000000"
+      - "41001AC8 0000012C"
+      - "40281A60 00000000"
+      - "41001AAA 0000012C"
+      - "40281A60 00000000"
+      - "41001ACA 0000012C"
+      - "40281A60 00000000"
+
+  - name: "Char 1 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "200016E8 0098967F"
+
+  - name: "Char 2 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20003148 0098967F"
+
+  - name: "Char 3 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20004BA8 0098967F"
+
+  - name: "Char 4 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20006608 0098967F"
+
+  - name: "Char 5 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20008068 0098967F"
+
+  - name: "Char 6 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20009AC8 0098967F"
+
+  - name: "Char 7 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "2000B528 0098967F"
+
+  - name: "Char 8 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "2000CF88 0098967F"
+
+  - name: "Char 9 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "2000E9E8 0098967F"
+
+  - name: "Char 10 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20010448 0098967F"
+
+  - name: "Char 11 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20011EA8 0098967F"
+
+  - name: "Char 12 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20013908 0098967F"
+
+  - name: "Char 13 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20015368 0098967F"
+
+  - name: "Char 14 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20016DC8 0098967F"
+
+  - name: "Char 15 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20018828 0098967F"
+
+  - name: "Char 16 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "2001A288 0098967F"
+
+  - name: "Char 17 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "2001BCE8 0098967F"
+
+  - name: "Char 18 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "2001D748 0098967F"
+
+  - name: "Char 19 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "2001F1A8 0098967F"
+
+  - name: "Char 20 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20020C08 0098967F"
+
+  - name: "Char 21 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20022668 0098967F"
+
+  - name: "Char 22 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "200240C8 0098967F"
+
+  - name: "Char 23 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20025B28 0098967F"
+
+  - name: "Char 24 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20027588 0098967F"
+
+  - name: "Char 25 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20028FE8 0098967F"
+
+  - name: "Char 26 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "2002AA48 0098967F"
+
+  - name: "Char 27 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "2002C4A8 0098967F"
+
+  - name: "Char 28 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "2002DF08 0098967F"
+
+  - name: "Char 29 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "2002F968 0098967F"
+
+  - name: "Char 30 Max Mana"
+    notes: "[Max Mana Related Codes(char 1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "200313C8 0098967F"
+
+  - name: "Char 1 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "200005A0 00000017"
+      - "200005A4 4876E7FF"
+
+  - name: "Char 2 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20002000 00000017"
+      - "20002004 4876E7FF"
+
+  - name: "Char 3 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20003A60 00000017"
+      - "20003A64 4876E7FF"
+
+  - name: "Char 4 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "200054C0 00000017"
+      - "200054C4 4876E7FF"
+
+  - name: "Char 5 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20006F20 00000017"
+      - "20006F24 4876E7FF"
+
+  - name: "Char 6 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20008980 00000017"
+      - "20008984 4876E7FF"
+
+  - name: "Char 7 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "2000A3E0 00000017"
+      - "2000A3E4 4876E7FF"
+
+  - name: "Char 8 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "2000BE40 00000017"
+      - "2000BE44 4876E7FF"
+
+  - name: "Char 9 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "2000D8A0 00000017"
+      - "2000D8A4 4876E7FF"
+
+  - name: "Char 10 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "2000F300 00000017"
+      - "2000F304 4876E7FF"
+
+  - name: "Char 11 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20010D60 00000017"
+      - "20010D64 4876E7FF"
+
+  - name: "Char 12 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "200127C0 00000017"
+      - "200127C4 4876E7FF"
+
+  - name: "Char 13 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20014220 00000017"
+      - "20014224 4876E7FF"
+
+  - name: "Char 14 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20015C80 00000017"
+      - "20015C84 4876E7FF"
+
+  - name: "Char 15 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "200176E0 00000017"
+      - "200176E4 4876E7FF"
+
+  - name: "Char 16 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20019140 00000017"
+      - "20019144 4876E7FF"
+
+  - name: "Char 17 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "2001ABA0 00000017"
+      - "2001ABA4 4876E7FF"
+
+  - name: "Char 18 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "2001C600 00000017"
+      - "2001C604 4876E7FF"
+
+  - name: "Char 19 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "2001E060 00000017"
+      - "2001E064 4876E7FF"
+
+  - name: "Char 20 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "2001FAC0 00000017"
+      - "2001FAC4 4876E7FF"
+
+  - name: "Char 21 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20021520 00000017"
+      - "20021524 4876E7FF"
+
+  - name: "Char 22 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20022F80 00000017"
+      - "20022F84 4876E7FF"
+
+  - name: "Char 23 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "200249E0 00000017"
+      - "200249E4 4876E7FF"
+
+  - name: "Char 24 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20026440 00000017"
+      - "20026444 4876E7FF"
+
+  - name: "Char 25 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20027EA0 00000017"
+      - "20027EA4 4876E7FF"
+
+  - name: "Char 26 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20029900 00000017"
+      - "20029904 4876E7FF"
+
+  - name: "Char 27 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "2002B360 00000017"
+      - "2002B364 4876E7FF"
+
+  - name: "Char 28 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "2002CDC0 00000017"
+      - "2002CDC4 4876E7FF"
+
+  - name: "Char 29 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "2002E820 00000017"
+      - "2002E824 4876E7FF"
+
+  - name: "Char 30 Max Exp"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "20030280 00000017"
+      - "20030284 4876E7FF"
+
+  - name: "Item 1-200 Status Max"
+    notes: "[Max Exp Related Codes(1~30)]  File: SAVEDATA.DAT"
+    codes:
+      - "420DD594 05F5E0FF"
+      - "40C80190 00000000"
+      - "420DD59C 05F5E0FF"
+      - "40C80190 00000000"
+      - "420DD5A4 05F5E0FF"
+      - "40C80190 00000000"
+      - "420DD5AC 05F5E0FF"
+      - "40C80190 00000000"
+      - "420DD5B4 05F5E0FF"
+      - "40C80190 00000000"
+      - "420DD5BC 05F5E0FF"
+      - "40C80190 00000000"
+      - "420DD5C4 05F5E0FF"
+      - "40C80190 00000000"
+      - "420DD5CC 05F5E0FF"
+      - "40C80190 00000000"
+      - "420DD5E4 00000009"
+      - "40C80190 00000000"
+      - "420DD5ED 0000000A"
+      - "40C80190 00000000"
+      - "420DD5EE 00000063"
+      - "40C80190 00000000"
+      - "420DD5EF 00000063"
+      - "40C80190 00000000"
+      - "420DD5F1 0000000A"
+      - "40C80190 00000000"
+      - "420DD5F4 00000064"
+      - "40C80190 00000000"

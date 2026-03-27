@@ -1,0 +1,118 @@
+# yakuza 0 cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM61249
+
+game: "yakuza 0"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM61249"
+cheat_type: "Save Editor"
+source: "From savedata.jp"
+
+cheats:
+  - name: "Kiryu Max Money"
+    notes: "File: USER01"
+    codes:
+      - "1000F28A 00000918"
+      - "2000F284 4E729FFF"
+
+  - name: "Majima Max Money"
+    notes: "File: USER01"
+    codes:
+      - "1000F292 00000918"
+      - "2000F294 4E729FFF"
+
+  - name: "Difficulty Easy"
+    notes: "File: USER01"
+    codes:
+      - "1000040C 00000000"
+
+  - name: "Difficulty Normal"
+    notes: "File: USER01"
+    codes:
+      - "1000040C 00000101"
+
+  - name: "Difficulty Hard"
+    notes: "File: USER01"
+    codes:
+      - "1000040C 00000202"
+
+  - name: "Difficulty Legend"
+    notes: "File: USER01"
+    codes:
+      - "1000040C 00000303"
+
+  - name: "Amulette Du Demon Kiryu"
+    notes: "File: USER01"
+    codes:
+      - "0000D01B 00000001"
+      - "1000D014 000001AD"
+
+  - name: "Armure Kiryu"
+    notes: "File: USER01"
+    codes:
+      - "0000D02B 00000001"
+      - "1000D024 0000017B"
+
+  - name: "Lunette Amon Kiryu"
+    notes: "File: USER01"
+    codes:
+      - "0000D03B 00000001"
+      - "1000D034 000001C5"
+
+  - name: "Gold Pistol Kiryu"
+    notes: "File: USER01"
+    codes:
+      - "0000CE3B 00000001"
+      - "1000CE34 00000168"
+      - "1000CE36 0000FFFF"
+      - "1000CE38 0000FFFF"
+
+  - name: "Gold Shootgun Kiryu"
+    notes: "File: USER01"
+    codes:
+      - "0000CE4B 00000001"
+      - "1000CE44 000002A6"
+      - "1000CE46 0000FFFF"
+      - "1000CE48 0000FFFF"
+
+  - name: "Amulette Du Demon Majima"
+    notes: "File: USER01"
+    codes:
+      - "0000D10B 00000001"
+      - "1000D104 000001AD"
+
+  - name: "Armure Majima"
+    notes: "File: USER01"
+    codes:
+      - "0000D11B 00000001"
+      - "1000D114 0000017B"
+
+  - name: "Detecteur Majima"
+    notes: "File: USER01"
+    codes:
+      - "0000D12B 00000001"
+      - "1000D124 000001B9"
+
+  - name: "Lunette Amon Majima"
+    notes: "File: USER01"
+    codes:
+      - "0000D13B 00000001"
+      - "1000D134 000001C5"
+
+  - name: "Gold Pistol Majima"
+    notes: "File: USER01"
+    codes:
+      - "0000CF2B 00000001"
+      - "1000CF24 00000168"
+      - "1000CF26 0000FFFF"
+      - "1000CF28 0000FFFF"
+
+  - name: "Gold Shootgun Majima"
+    notes: "File: USER01"
+    codes:
+      - "0000CF3B 00000001"
+      - "1000CF34 000002A6"
+      - "1000CF36 0000FFFF"
+      - "1000CF38 0000FFFF"

@@ -1,0 +1,49 @@
+# Crouching Tiger, Hidden Dragon cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51916
+
+game: "Crouching Tiger, Hidden Dragon"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51916"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02180C4 002180C7"
+
+  - name: "99 Continues"
+    author: "Codejunkies"
+    codes:
+      - "0023C52C 00000063"
+
+  - name: "Attack Maxed"
+    author: "Codejunkies"
+    codes:
+      - "2023BC68 40B00000"
+
+  - name: "Defence Maxed"
+    author: "Codejunkies"
+    codes:
+      - "2023BC6C 40800000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "2023BC50 50000000"
+      - "2023BC58 50000000"
+
+  - name: "Rapid Unarmed Level Gain"
+    author: "Codejunkies"
+    codes:
+      - "2023BC88 40000000"
+
+  - name: "Rapid Weapons Level Gain"
+    author: "Codejunkies"
+    codes:
+      - "2023BC90 40000000"

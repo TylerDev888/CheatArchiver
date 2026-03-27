@@ -1,0 +1,490 @@
+# Yakuza 3 cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA15325
+
+game: "Yakuza 3"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA15325"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Max Money"
+    author: "Krustytoe"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20007CA8 FFC99A3B"
+
+  - name: "Max Exp"
+    author: "Krustytoe"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "200058C8 00CA9A3B"
+      - "200058CC 00CA9A3B"
+
+  - name: "Max Casino Chips"
+    author: "Krustytoe"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20007CAC FFE0F505"
+
+  - name: "Max Wooden Tags(Gambling Den)"
+    author: "Krustytoe"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20007CB0 FFE0F505"
+
+  - name: "Max Battle Arena Skill Points"
+    author: "Krustytoe"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20007CB8 FFE0F505"
+
+  - name: "Easy"
+    author: "Krustytoe"
+    notes: "[Difficulty]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10000014 00000000"
+
+  - name: "Normal"
+    author: "Krustytoe"
+    notes: "[Difficulty]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10000014 00000101"
+
+  - name: "Hard"
+    author: "Krustytoe"
+    notes: "[Difficulty]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10000014 00000202"
+
+  - name: "EX Hard"
+    author: "Krustytoe"
+    notes: "[Difficulty]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10000014 00000303"
+
+  - name: "Golden Gun in Slot 1"
+    author: "Krustytoe"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20005A40 FFFF4B03"
+      - "20005A44 0100FEFF"
+
+  - name: "Dragon Emblem Sword in Slot 2"
+    author: "Krustytoe"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20005A48 FFFF1103"
+      - "20005A4C 0100FEFF"
+
+  - name: "Dragon Nunchaku in Slot 3"
+    author: "Krustytoe"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20005A50 FFFF3B03"
+      - "20005A54 0100FEFF"
+
+  - name: "War God Talisman in Slot 4"
+    author: "Krustytoe"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20005A58 03D20000"
+      - "20005A5C 01000000"
+
+  - name: "Divine Dragon Short Sword in Slot 5"
+    author: "Krustytoe"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20005A60 FFFFF902"
+      - "20005A64 0100FEFF"
+
+  - name: "Dragon Flak Vest in Slot 6"
+    author: "Krustytoe"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20005A68 0000AA03"
+      - "20005A6C 01000000"
+
+  - name: "Dragon Mail in Slot 7"
+    author: "Krustytoe"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20005A70 0000A503"
+      - "20005A74 01000000"
+
+  - name: "Dragon Flash Driver in Slot 8"
+    author: "Krustytoe"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20005A78 FFFF0003"
+      - "20005A7C 0100FEFF"
+
+  - name: "Blue Dragon Bat in Slot 9"
+    author: "Krustytoe"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20005A80 FFFF0403"
+      - "20005A84 0100FEFF"
+
+  - name: "Photon Blade RG in Slot 10"
+    author: "Krustytoe"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20005A88 FFFF0903"
+      - "20005A8C 0100FEFF"
+
+  - name: "Dragon Hammer in Slot 11"
+    author: "Krustytoe"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20005A90 FFFF1503"
+      - "20005A94 0100FEFF"
+
+  - name: "White Dragon Spear in Slot 12"
+    author: "Krustytoe"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20005A98 FFFF1D03"
+      - "20005A9C 0100FEFF"
+
+  - name: "Dragon Knuckles in Slot 13"
+    author: "Krustytoe"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20005AA0 FFFF2803"
+      - "20005AA4 0100FEFF"
+
+  - name: "Chinese Dragon Tonfa in Slot 14"
+    author: "Krustytoe"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20005AA8 FFFF3403"
+      - "20005AAC 0100FEFF"
+
+  - name: "Dragon Taiko Sticks in Slot 15"
+    author: "Krustytoe"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20005AB0 FFFF4603"
+      - "20005AB4 0100FEFF"
+
+  - name: "Beads of Good Fortune (No Encounter) in Slot 16"
+    author: "Krustytoe"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20005AB8 0000DB03"
+      - "20005ABC 01000000"
+
+  - name: "50 items and materials, infinite durability for weapon in storage"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "41005CE0 00000002"
+      - "40200008 00000001"
+      - "42005CE2 00000000"
+      - "40200008 00000000"
+      - "40005CE7 00000032"
+      - "40200008 00000000"
+      - "41005DE0 000000AF"
+      - "400D0008 00000001"
+      - "42005DE2 00000000"
+      - "400D0008 00000000"
+      - "40005DE7 00000032"
+      - "400D0008 00000000"
+      - "41005E48 000000F5"
+      - "400E0008 00000001"
+      - "42005E4A 00000000"
+      - "400E0008 00000000"
+      - "40005E4F 00000032"
+      - "400E0008 00000000"
+      - "41005EB8 0000010C"
+      - "401A0008 00000001"
+      - "42005EBA 00000000"
+      - "401A0008 00000000"
+      - "40005EBF 00000032"
+      - "401A0008 00000000"
+      - "41005F88 00000127"
+      - "401A0008 00000001"
+      - "42005F8A 00000000"
+      - "401A0008 00000000"
+      - "40005F8F 00000032"
+      - "401A0008 00000000"
+      - "41006058 00000142"
+      - "401D0008 00000001"
+      - "4200605A 00000000"
+      - "401D0008 00000000"
+      - "4000605F 00000032"
+      - "401D0008 00000000"
+      - "41006140 000001BD"
+      - "405F0008 00000001"
+      - "42006142 00000000"
+      - "405F0008 00000000"
+      - "40006147 00000032"
+      - "405F0008 00000000"
+      - "41006438 00000221"
+      - "400C0008 00000001"
+      - "4200643A 00000000"
+      - "400C0008 00000000"
+      - "4000643F 00000032"
+      - "400C0008 00000000"
+      - "20006498 024E0000"
+      - "2000649C 00000032"
+      - "410064A0 00000055"
+      - "40170008 00000001"
+      - "420064A2 00000000"
+      - "40170008 00000000"
+      - "400064A7 00000032"
+      - "40170008 00000000"
+      - "41006558 000002E5"
+      - "40680008 00000001"
+      - "4200655A FFFFFFFF"
+      - "40680008 00000000"
+      - "4000655F 00000001"
+      - "40680008 00000000"
+      - "41006898 000003C5"
+      - "40390008 00000001"
+      - "4200689A 00000000"
+      - "40390008 00000000"
+      - "4000689F 00000001"
+      - "40390008 00000000"
+      - "41006A60 0000039A"
+      - "401E0008 00000001"
+      - "42006A62 00000000"
+      - "401E0008 00000000"
+      - "40006A67 00000001"
+      - "401E0008 00000000"
+
+  - name: "Heat action"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "420018FC FFFFFFFF"
+      - "40030004 00000000"
+
+  - name: "Number of encounters"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "1000531E 00000032"
+
+  - name: "Haruka's request"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005324 00002AF8"
+
+  - name: "Shogi"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "000053BC 00000005"
+
+  - name: "Heat action finish"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "00005924 0000000A"
+
+  - name: "Number of knockdowns"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "00005925 00000064"
+
+  - name: "Number of weapon destructions"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "00005926 00000064"
+
+  - name: "Blue Bat's Glory"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "10006E30 00003404"
+      - "00006E36 00000001"
+
+  - name: "Arena points 999,000"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20007CB8 00583E0F"
+
+  - name: "Cabaret club (funds: 9999999)"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20007CBC 05F5E0FF"
+
+  - name: "Roulette, Poker, Blackjack funds"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "10007CC0 00009C40"
+
+  - name: "Chinchirorin, Dinghan Gamble, Koi Koi, Oicho Kabu funds"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "10007CC4 0000EA60"
+
+  - name: "Meals Collection"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "42008A3C FFFFFFFF"
+      - "40080004 00000000"
+      - "20008A5C 00000007"
+
+  - name: "Modified weapon collection"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "42008A7C FFFFFFFF"
+      - "40020004 00000000"
+      - "20008A84 00000FFF"
+
+  - name: "Number of participations in all Arena tournaments: 10"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "41009808 0000000A"
+      - "400D0002 00000000"
+
+  - name: "Number of victories in all Arena tournaments: 10"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "41009822 0000000A"
+      - "400D0002 00000000"
+
+  - name: "All Arena fighters"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "4200983C 80000000"
+      - "40320004 00000000"
+
+  - name: "All Arena singles fighters: 1 win in each tournament"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "41009928 00000001"
+      - "428A0002 00000000"
+
+  - name: "All Arena singles fighters: 0 losses in all matches"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "41009F26 00000000"
+      - "428A0002 00000000"
+
+  - name: "All Arena tag fighters: 1 win in each match"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "4100A57C 00000001"
+      - "4014001A 00000000"
+      - "4100A57E 00000001"
+      - "4014001A 00000000"
+
+  - name: "Arena Tag Team Losses: 0"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "4100A77C 00000000"
+      - "41040002 00000000"
+
+  - name: "Coin Locker"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "4200AA88 FFFFFFFF"
+      - "40030004 00000000"
+      - "2000AA94 F0000000"
+      - "4200AB08 FFFFFFFF"
+      - "40030004 00000000"
+      - "2000AB14 F0000000"
+
+  - name: "Aromatherapy Massage"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "0000BBE4 00000003"
+      - "0000BBE8 00000003"
+
+  - name: "Darts"
+    notes: "[points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "4200BFF4 0000003F"
+      - "40030004 00000000"
+      - "4200C068 0000003F"
+      - "40030004 00000000"
+
+  - name: "Billiards"
+    notes: "[points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "2000C3F4 77777777"
+
+  - name: "Karaoke"
+    notes: "[points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "4000C7FC 00000001"
+      - "40060004 00000000"
+      - "4100C7FD 000003E7"
+      - "40060004 00000000"
+      - "4000C7FF 00000050"
+      - "40060004 00000000"
+
+  - name: "Bowling"
+    notes: "[points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "0000CC44 000000C8"
+
+  - name: "Come, Come!"
+    notes: "[points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "1000D86C 00002710"
+
+  - name: "Chinchirorin"
+    notes: "[points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "1000D04A 00004E20"
+
+  - name: "Dinghan Gamble"
+    notes: "[points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "1000D450 00004E20"
+
+  - name: "Oicho Kabu"
+    notes: "[points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10010AA0 00002710"
+
+  - name: "Roulette"
+    notes: "[points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "1000DC74 00004E20"
+
+  - name: "Poker"
+    notes: "[points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "1000EC74 00002710"
+
+  - name: "Blackjack"
+    notes: "[points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "1000E478 00002710"
+
+  - name: "UFO Catcher"
+    notes: "[points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "4000E880 00000001"
+      - "40190004 00000000"
+
+  - name: "Mahjong"
+    notes: "[points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "1000F484 0000C350"
+
+  - name: "Batting"
+    notes: "[points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "4100F88C 00000708"
+      - "40040004 00000000"
+      - "4000F8A0 0000001F"
+      - "40020004 00000000"
+
+  - name: "Golf"
+    notes: "[points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "2000FCA0 FFFFFFFB"
+
+  - name: "Fishing"
+    notes: "[points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "00010EAB 000000FF"
+
+  - name: "Shooting"
+    notes: "[points]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "000107B4 00000032"

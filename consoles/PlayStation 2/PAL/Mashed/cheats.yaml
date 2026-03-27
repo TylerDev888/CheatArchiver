@@ -1,0 +1,107 @@
+# Mashed cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Mashed"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "901FE4DC 0240202D"
+
+  - name: "Last Point (Battle Mode)"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "E003FFFE 0080F242"
+      - "20788720 00000007"
+      - "40788724 00030001"
+      - "00000000 00000000"
+
+  - name: "Last Lap"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "E003FFFD 0080F242"
+      - "20787278 00000002"
+
+  - name: "Finish Race"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "E003FFFB 0080F242"
+      - "20787278 00000003"
+
+  - name: "Unlimited Bomb Time"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20150E54 000000FF"
+
+  - name: "Bronze"
+    author: "Xploder"
+    notes: "[Single Player]"
+    codes:
+      - "207859BC 00000002"
+
+  - name: "Silver"
+    author: "Xploder"
+    notes: "[Single Player]"
+    codes:
+      - "207859C0 00000002"
+
+  - name: "Gold"
+    author: "Xploder"
+    notes: "[Single Player]"
+    codes:
+      - "207859CC 00000002"
+
+  - name: "Time Trial"
+    author: "Xploder"
+    notes: "[Single Player]"
+    codes:
+      - "207859B8 00000002"
+
+  - name: "Battle"
+    author: "Xploder"
+    notes: "[Single Player]"
+    codes:
+      - "207859E4 00000002"
+
+  - name: "Unlock"
+    author: "Xploder"
+    notes: "[Multi Player]"
+    codes:
+      - "207859C4 00000002"
+
+  - name: "Powers Ups"
+    author: "Xploder"
+    notes: "[Multi Player]"
+    codes:
+      - "207859C8 00000002"
+
+  - name: "Hold The Flag"
+    author: "Xploder"
+    notes: "[Multi Player]"
+    codes:
+      - "207859D0 00000002"
+
+  - name: "Fugitive"
+    author: "Xploder"
+    notes: "[Multi Player]"
+    codes:
+      - "207859D4 00000002"
+
+  - name: "Everything"
+    author: "Xploder"
+    notes: "[Multi Player]"
+    codes:
+      - "407859BC 009B0001"
+      - "00000002 00000000"

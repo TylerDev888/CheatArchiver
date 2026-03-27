@@ -1,0 +1,23 @@
+# Growlanser IV - Return cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62560
+
+game: "Growlanser IV - Return"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62560"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010DBB0 0C043694"
+
+  - name: "Press L3 For Debug Menu"
+    author: "punk7890"
+    codes:
+      - "003208B0 00000001"

@@ -1,0 +1,29 @@
+# Luxor - Pharaoh's Challenge cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-55064
+
+game: "Luxor - Pharaoh's Challenge"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-55064"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Each Coin Taken Adds One Ankh"
+    author: "luc-ita"
+    codes:
+      - "2011AE88 00000000"
+
+  - name: "Freeze Balls"
+    author: "luc-ita"
+    codes:
+      - "2011CF34 460C0000"
+      - "D0376BC0 00000010"
+      - "2011CF34 00000000"
+
+  - name: "Lots Of Points Per Combination Made"
+    author: "luc-ita"
+    codes:
+      - "2012BD70 246300FF"

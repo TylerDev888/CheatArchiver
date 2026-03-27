@@ -1,0 +1,39 @@
+# Prince of Persia Trilogy 3D cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01092
+
+game: "Prince of Persia Trilogy 3D"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01092"
+cheat_type: "AP"
+source: ""
+
+cheats:
+  - name: "Update Md5_xor For _prof (required)"
+    notes: "File: _PROF  (set range:0x000000,0x00039E) (write at 0x00039F:[hash])"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:MD5_XOR"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"
+
+  - name: "Update Md5_xor For _player (required)"
+    notes: "File: _PLAYER  (set range:0x000000,0x005954) (write at 0x005955:[hash])"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:MD5_XOR"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"
+
+  - name: "Update Md5_xor For _details (required)"
+    notes: "File: _DETAILS  (set range:0x000000,0x00018F) (write at 0x000190:[hash])"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:MD5_XOR"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"

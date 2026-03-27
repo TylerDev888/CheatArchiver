@@ -1,0 +1,55 @@
+# Garfield 2 - Tale Of Two Kitties cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54172
+
+game: "Garfield 2 - Tale Of Two Kitties"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54172"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Always Have Helmet And Invulnerable Effect"
+    author: "luc-ita"
+    codes:
+      - "2044C9D8 00000000"
+      - "2044C9F8 00000000"
+      - "2044CA00 0C113238"
+
+  - name: "Always Have Helmet On Your Head"
+    author: "luc-ita"
+    codes:
+      - "202A2BB8 10000003"
+      - "202A2BE8 34030004"
+
+  - name: "Always Perfect Musical Game"
+    author: "luc-ita"
+    codes:
+      - "2045F944 E4810490"
+
+  - name: "Jump In Mid-Air"
+    author: "luc-ita"
+    codes:
+      - "204404A4 24050002"
+
+  - name: "Take 1 Circle To Complete The Goal With The Goose"
+    author: "luc-ita"
+    codes:
+      - "2045BC54 00000000"
+
+  - name: "Take 1 Piece Of Cake To Complete The Goal"
+    author: "luc-ita"
+    codes:
+      - "2042549C 340300FF"
+
+  - name: "Take 1 Watch To Complete The Goal"
+    author: "luc-ita"
+    codes:
+      - "2045BA6C 00000000"
+
+  - name: "Timer Stopped"
+    author: "luc-ita"
+    codes:
+      - "2045C734 1000002B"

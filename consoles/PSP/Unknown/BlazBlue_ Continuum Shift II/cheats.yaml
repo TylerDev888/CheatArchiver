@@ -1,0 +1,33 @@
+# BlazBlue_ Continuum Shift II cheat data
+# Console: PSP
+# Region:  Unknown
+# Serial:  NPJH50401
+
+game: "BlazBlue_ Continuum Shift II"
+console: "PSP"
+region: "Unknown"
+serial: "NPJH50401"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Unlock All Gallery(by bucanero)"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "41000160 00000101"
+      - "40AD0002 00000000"
+
+  - name: "9999999 P$ Credits"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "2002E378 0098967F"
+
+  - name: "Update Wadd For System.dat (required)"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "set [csum]:0"
+      - "carry(2)"
+      - "set pointer:eof+1"
+      - "set [csum]:wadd(0x000004,pointer)"
+      - "set [csum]:xor:FFFF"
+      - "write at 0x000000:[csum]"

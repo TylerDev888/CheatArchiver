@@ -1,0 +1,50 @@
+# Destruction Derby Arena cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-51979
+
+game: "Destruction Derby Arena"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-51979"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0160198 0016019B"
+
+  - name: "60 Hertz"
+    author: "Codejunkies"
+    codes:
+      - "20264D08 24120002"
+
+  - name: "AR Max Below 3.14 Fix"
+    author: "Codejunkies"
+    codes:
+      - "2026F880 3C03200F"
+      - "2026F888 8C65FFF8"
+      - "2026F88C 24040079"
+      - "2026F890 24030074"
+      - "2026F894 0000000C"
+
+  - name: "Infinite Turbo Usage"
+    author: "Codejunkies"
+    codes:
+      - "202D2AE8 00000000"
+
+  - name: "Max Score"
+    author: "Codejunkies"
+    codes:
+      - "20188954 24120001"
+      - "2017FB90 0C062252"
+      - "20188948 3C0105F0"
+      - "2018894C AC4101D4"
+
+  - name: "Open All"
+    author: "Codejunkies"
+    codes:
+      - "2017E460 00000000"

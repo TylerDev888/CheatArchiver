@@ -1,0 +1,18 @@
+# Hustle Kings™ (PSN) cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUA80291
+
+game: "Hustle Kings™ (PSN)"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUA80291"
+cheat_type: "Save Editor"
+source: "From gingerbread (Using BSD's Patch Creator)"
+
+cheats:
+  - name: "Hkc 900,000,000(only For New Saves. Make Sure You Have Played A Match In Career Mode.)"
+    notes: "File: USRDATA"
+    codes:
+      - "search \"HKC\":1"
+      - "write next (6):0x35A4E900"

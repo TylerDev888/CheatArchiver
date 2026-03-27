@@ -1,0 +1,17 @@
+# Flashback (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB01417
+
+game: "Flashback (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB01417"
+cheat_type: "Save Editor"
+source: "From SHAkA"
+
+cheats:
+  - name: "999 Skills Point"
+    notes: "File: PAYLOAD"
+    codes:
+      - "write at 0x0000010A:0x03E7"

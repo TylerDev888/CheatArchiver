@@ -1,0 +1,43 @@
+# Rainbow Skies cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUB31360
+
+game: "Rainbow Skies"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUB31360"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Rainbow Coins"
+    notes: "File: DATA.DAT"
+    codes:
+      - "20000924 05F5E0FF"
+
+  - name: "Potions Slots 99"
+    notes: "File: DATA.DAT"
+    codes:
+      - "000205FB 00000063"
+
+  - name: "Misc. Items Slots 99"
+    notes: "File: DATA.DAT"
+    codes:
+      - "000205FF 00000063"
+
+  - name: "Food Slots 99"
+    notes: "File: DATA.DAT"
+    codes:
+      - "00020603 00000063"
+
+  - name: "Small Health Tonic Food"
+    notes: "File: DATA.DAT  (This code will replace the first food in your list with a Tonic that will permanently) (increase your HP +9,999,999, MP +9,999, STR +9,999, DEF +9,999, AGL +9,999 and LUK +9,999.)"
+    codes:
+      - "200125F6 000001DE"
+      - "10012600 0000270F"
+      - "10012602 0000270F"
+      - "10012604 0000270F"
+      - "10012606 0000270F"
+      - "20012608 0098967F"
+      - "2001260C 0000270F"

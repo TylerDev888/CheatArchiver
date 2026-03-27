@@ -1,0 +1,34 @@
+# Torakapuu! Dash cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65302
+
+game: "Torakapuu! Dash"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65302"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010F078 0C043BC6"
+
+  - name: "All Points In Black Account Record Book"
+    author: "punk7890"
+    codes:
+      - "204161C0 FFFFFFFF"
+      - "204161C4 FFFFFFFF"
+      - "204161C8 FFFFFFFF"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "204161D0 FFFFFFFF"
+      - "204161D4 FFFFFFFF"
+      - "204161D8 FFFFFFFF"
+      - "204161DC FFFFFFFF"
+      - "004161E0 000000FF"

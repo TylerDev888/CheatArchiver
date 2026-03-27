@@ -1,0 +1,39 @@
+# Metal Gear Solid 3 HD cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00176
+
+game: "Metal Gear Solid 3 HD"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00176"
+cheat_type: "Save Editor"
+source: "by bucanero"
+
+cheats:
+  - name: "Decode Master.bin (required)"
+    notes: "[Decrypt Mgs3]  File: *MASTER.BIN"
+    codes:
+      - "set range:0x0000,0x001F"
+      - "DECRYPT mgs_base64"
+
+  - name: "Decrypt Data.bin (required)"
+    notes: "[Decrypt Mgs3]  File: *DATA.BIN"
+    codes:
+      - "set range:0x000000,0x00497B"
+      - "DECRYPT mgs(\"3MetalSolidSnakeEaterGear\")"
+
+  - name: "Encrypt Data.bin (required)"
+    notes: "[Encrypt Mgs3]  File: *DATA.BIN"
+    codes:
+      - "set range:0x000000,0x00497B"
+      - "set [master_hash]:CRC32"
+      - "ENCRYPT mgs(\"3MetalSolidSnakeEaterGear\")"
+
+  - name: "Encode Master.bin (required)"
+    notes: "[Encrypt Mgs3]  File: *MASTER.BIN"
+    codes:
+      - "write at 0x0008:[master_hash]"
+      - "write at 0x0010:[master_hash]"
+      - "set range:0x0000,0x001F"
+      - "ENCRYPT mgs_base64"

@@ -1,0 +1,75 @@
+# Hot Wheels - Stunt Track Challenge cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20954
+
+game: "Hot Wheels - Stunt Track Challenge"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20954"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "903C3310 0C10FECD"
+
+  - name: "Inf Boost"
+    author: "47iscool"
+    codes:
+      - "2032CF40 10000003"
+
+  - name: "5 Decals Collected-All Game Break"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "203153F0 24030005"
+      - "203153F4 AC83000C"
+      - "203153FC 24020000"
+
+  - name: "Finish Race For Best Score"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "200C0220 080DBAB1"
+      - "200C0224 AC620004"
+      - "2036EA84 2402270F"
+      - "2036EA88 08030088"
+
+  - name: "P1 Press L1+Select To Stop Lap Timer"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "D091A842 0000FBFE"
+      - "20146870 00000000"
+
+  - name: "P1 Press L2+Select To Restart Lap Timer"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "D091A842 0000FEFE"
+      - "20146870 E4600000"
+
+  - name: "P1 Press R1+Select To Restart Overall Timer"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "D091A842 0000FDFE"
+      - "2014688C E60104A8"
+
+  - name: "P1 Press R1+Select To Stop Overall Timer"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "D091A842 0000FEFE"
+      - "2014688C 00000000"
+
+  - name: "Unlock All Events"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "20315350 24020001"
+      - "20315358 AC820004"

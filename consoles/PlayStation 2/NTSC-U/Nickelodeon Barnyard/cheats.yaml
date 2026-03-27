@@ -1,0 +1,43 @@
+# Nickelodeon Barnyard cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21277
+
+game: "Nickelodeon Barnyard"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21277"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "904B2470 00832021"
+
+  - name: "Max Gopher Bucks"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20EA25E0 0000270F"
+      - "20EA25E4 0000270F"
+
+  - name: "Infinite Stamina"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20EA25EC 00000000"
+
+  - name: "Infinite Milk Supply"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20421088 00000000"
+
+  - name: "Unlock All Bonus/Antics"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20C615BC FFFFFFFF"

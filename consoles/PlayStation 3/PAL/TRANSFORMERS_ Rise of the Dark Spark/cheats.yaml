@@ -1,0 +1,20 @@
+# TRANSFORMERS_ Rise of the Dark Spark cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES02018
+
+game: "TRANSFORMERS_ Rise of the Dark Spark"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES02018"
+cheat_type: "AP"
+source: ""
+
+cheats:
+  - name: "Update Sha1 For Bles0218-profile\\payload"
+    notes: "File: BLES0218-PROFILE\\PAYLOAD  (set range:0x000014,0x0002D4)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000014,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x000000:[hash]"

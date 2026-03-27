@@ -1,0 +1,19 @@
+# Kick Beat cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00885
+
+game: "Kick Beat"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00885"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 (required)"
+    notes: "File: PROFILE.DAT"
+    codes:
+      - "set range:0x0,0x191A"
+      - "set [hash]:crc32"
+      - "write at 0x191B:[hash]"

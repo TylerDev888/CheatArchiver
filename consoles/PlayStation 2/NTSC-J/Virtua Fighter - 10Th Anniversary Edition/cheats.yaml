@@ -1,0 +1,52 @@
+# Virtua Fighter - 10Th Anniversary Edition cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-68018
+
+game: "Virtua Fighter - 10Th Anniversary Edition"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-68018"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Infinite Round Time"
+    author: "BigBossman"
+    codes:
+      - "1073468A 00005050"
+
+  - name: "Infinite Time To Select Character"
+    author: "BigBossman"
+    codes:
+      - "0073401A 000000BA"
+
+  - name: "Player 1 Advances To Next Fight After Winning 1 Round"
+    author: "BigBossman"
+    codes:
+      - "007346C0 00000002"
+
+  - name: "Player 1 Infinite Health"
+    author: "BigBossman"
+    codes:
+      - "0072F890 000000C9"
+
+  - name: "Player 1 Modifier"
+    author: "BigBossman"
+    codes:
+      - "00734810 000000??"
+
+  - name: "Player 2 Modifier"
+    author: "BigBossman"
+    codes:
+      - "00734814 000000??"
+
+  - name: "Player 2 Never Wins Rounds"
+    author: "BigBossman"
+    codes:
+      - "007346C1 00000000"
+
+  - name: "Player 2 No Health"
+    author: "BigBossman"
+    codes:
+      - "007300C0 00000000"

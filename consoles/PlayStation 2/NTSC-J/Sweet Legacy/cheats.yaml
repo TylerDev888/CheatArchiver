@@ -1,0 +1,28 @@
+# Sweet Legacy cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25190
+
+game: "Sweet Legacy"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25190"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90150858 0C0541BE"
+
+  - name: "Unlock Everything"
+    author: "punk7890"
+    codes:
+      - "001AC568 00000001"
+      - "401AC548 00050001"
+      - "FFFFFFFF 00000000"
+      - "20124404 2402FFFF"
+      - "20124408 A4820000"
+      - "2012440C 00000000"

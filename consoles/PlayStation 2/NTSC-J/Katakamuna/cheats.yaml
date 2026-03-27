@@ -1,0 +1,40 @@
+# Katakamuna cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65762
+
+game: "Katakamuna"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65762"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90155A70 0C055644"
+
+  - name: "New Game = Debug Menu"
+    author: "punk7890"
+    codes:
+      - "20100D10 0C0442C2"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "401B74E8 00060001"
+      - "FFFFFFFF 00000000"
+      - "101B7500 0000FFFF"
+
+  - name: "Unlock All Main Menu Options"
+    author: "punk7890"
+    codes:
+      - "201B74E4 FFFFFFFF"
+
+  - name: "Unlock All Music"
+    author: "punk7890"
+    codes:
+      - "201B7508 FFFFFFFF"

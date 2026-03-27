@@ -1,0 +1,179 @@
+# Hyperdimension Neptunia mk2 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01507
+
+game: "Hyperdimension Neptunia mk2"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01507"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3 and gvargas (CMP)"
+
+cheats:
+  - name: "Max Credits"
+    notes: "File: GAME.BIN"
+    codes:
+      - "2000B760 05F5E0FF"
+
+  - name: "Credits Spent"
+    notes: "[Data Stats]  File: GAME.BIN"
+    codes:
+      - "200009E0 00000000"
+
+  - name: "Credits Gained"
+    notes: "[Data Stats]  File: GAME.BIN"
+    codes:
+      - "200009E8 00000000"
+
+  - name: "Max Exp"
+    notes: "[Character Nepgear]  File: GAME.BIN"
+    codes:
+      - "20000A38 05F5E0FF"
+
+  - name: "Max Hp"
+    notes: "[Character Nepgear]  File: GAME.BIN"
+    codes:
+      - "20000A4C 0001869F"
+      - "20000A5C 0001869F"
+
+  - name: "Max Ap"
+    notes: "[Character Nepgear]  File: GAME.BIN"
+    codes:
+      - "20000A50 0001869F"
+      - "20000A60 0001869F"
+
+  - name: "Max Sp"
+    notes: "[Character Nepgear]  File: GAME.BIN"
+    codes:
+      - "20000A64 0001869F"
+
+  - name: "Max Str"
+    notes: "[Character Nepgear]  File: GAME.BIN"
+    codes:
+      - "20000A68 0001869F"
+
+  - name: "Max Vit"
+    notes: "[Character Nepgear]  File: GAME.BIN"
+    codes:
+      - "20000A6C 0001869F"
+
+  - name: "Max Int"
+    notes: "[Character Nepgear]  File: GAME.BIN"
+    codes:
+      - "20000A70 0001869F"
+
+  - name: "Max Men"
+    notes: "[Character Nepgear]  File: GAME.BIN"
+    codes:
+      - "20000A74 0001869F"
+
+  - name: "Max Agi"
+    notes: "[Character Nepgear]  File: GAME.BIN"
+    codes:
+      - "20000A78 0001869F"
+
+  - name: "Max Tec"
+    notes: "[Character Nepgear]  File: GAME.BIN"
+    codes:
+      - "20000A7C 0001869F"
+
+  - name: "Max Avd"
+    notes: "[Character Nepgear]  File: GAME.BIN"
+    codes:
+      - "20000A80 0001869F"
+
+  - name: "Max Luk"
+    notes: "[Character Nepgear]  File: GAME.BIN"
+    codes:
+      - "20000A84 0001869F"
+
+  - name: "Max Mov"
+    notes: "[Character Nepgear]  File: GAME.BIN"
+    codes:
+      - "20000A88 0001869F"
+
+  - name: "Compa"
+    notes: "[Max Lily Rank Codes]  File: GAME.BIN"
+    codes:
+      - "20000EB0 000001F4"
+
+  - name: "If"
+    notes: "[Max Lily Rank Codes]  File: GAME.BIN"
+    codes:
+      - "20001318 000001F4"
+
+  - name: "Uni"
+    notes: "[Max Lily Rank Codes]  File: GAME.BIN"
+    codes:
+      - "20001780 000001F4"
+
+  - name: "Nisa"
+    notes: "[Max Lily Rank Codes]  File: GAME.BIN"
+    codes:
+      - "20001BE8 000001F4"
+
+  - name: "Gust"
+    notes: "[Max Lily Rank Codes]  File: GAME.BIN"
+    codes:
+      - "20002050 000001F4"
+
+  - name: "5pb"
+    notes: "[Max Lily Rank Codes]  File: GAME.BIN"
+    codes:
+      - "200024B8 000001F4"
+
+  - name: "Rom"
+    notes: "[Max Lily Rank Codes]  File: GAME.BIN"
+    codes:
+      - "20002920 000001F4"
+
+  - name: "Ram"
+    notes: "[Max Lily Rank Codes]  File: GAME.BIN"
+    codes:
+      - "20002D88 000001F4"
+
+  - name: "Neptune"
+    notes: "[Max Lily Rank Codes]  File: GAME.BIN"
+    codes:
+      - "200031F0 000001F4"
+
+  - name: "Noire"
+    notes: "[Max Lily Rank Codes]  File: GAME.BIN"
+    codes:
+      - "20003658 000001F4"
+
+  - name: "Vert"
+    notes: "[Max Lily Rank Codes]  File: GAME.BIN"
+    codes:
+      - "20003AC0 000001F4"
+
+  - name: "Blanc"
+    notes: "[Max Lily Rank Codes]  File: GAME.BIN  (For [Amount:FF:HEX:BIG] values visit http://ps3cheating.net/hyperdimension-neptunia-mk2-blus30901/)"
+    codes:
+      - "20003F28 000001F4"
+
+  - name: "Planeptune"
+    notes: "[Planeptune Capital]  File: GAME.BIN"
+    codes:
+      - "0000B765 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Leanbox"
+    notes: "[Planeptune Capital]  File: GAME.BIN"
+    codes:
+      - "0000B766 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Lastation"
+    notes: "[Planeptune Capital]  File: GAME.BIN"
+    codes:
+      - "0000B767 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Lowee"
+    notes: "[Planeptune Capital]  File: GAME.BIN"
+    codes:
+      - "0000B768 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Arfoire"
+    notes: "[Planeptune Capital]  File: GAME.BIN"
+    codes:
+      - "0000B769 000000[Amount:FF:HEX:BIG]"

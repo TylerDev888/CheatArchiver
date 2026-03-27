@@ -1,0 +1,17 @@
+# Truck Racer cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01798
+
+game: "Truck Racer"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01798"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Max Money"
+    notes: "File: GAMEDATA"
+    codes:
+      - "write at 0x000016F5:0x98967F"

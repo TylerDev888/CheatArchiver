@@ -1,0 +1,54 @@
+# Conflict Vietnam cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Conflict Vietnam"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9031CC70 0C0DB1DC"
+
+  - name: "Health (All Squad)"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C2010 E6000074"
+      - "200C2014 4600A503"
+      - "200C2018 03E00008"
+      - "200C201C 8E100014"
+      - "20100CCC 0C030804"
+      - "20100CD0 00000000"
+
+  - name: "Ammunition (No Reload)"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C2020 96E300B6"
+      - "200C2024 00031180"
+      - "200C2028 03E00008"
+      - "200C202C AE620070"
+      - "20168A28 0C030808"
+      - "20223334 00000000"
+
+  - name: "Grenades"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20222B88 00000000"
+
+  - name: "Skill Points"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C2000 2402270F"
+      - "200C2004 03E00008"
+      - "200C2008 A4821AA8"
+      - "20217CA8 08030800"

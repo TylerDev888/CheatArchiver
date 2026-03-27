@@ -1,0 +1,29 @@
+# Conflict Desert Storm cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Conflict Desert Storm"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 002CE1F7"
+
+  - name: "Unlimited Ammunition"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "201A85EC 24420000"
+
+  - name: "No Reload"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "201A8688 24420000"

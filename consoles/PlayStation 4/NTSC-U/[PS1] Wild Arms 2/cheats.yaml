@@ -1,0 +1,34 @@
+# [PS1] Wild Arms 2 cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA34855
+
+game: "[PS1] Wild Arms 2"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA34855"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Example of working code 100 ps points to all charcters"
+    notes: "File: PS1HDSNAP(([0-9\\.\\-]+)?)\\user_snapshot__slot_[0-9]+\\.bin (Quick Save:)"
+    codes:
+      - "80010009 03435055"
+      - "0472616D 5F000000"
+      - "92000000 00000011"
+      - "9E000000 00200000"
+      - "4811A795 00000064"
+      - "4008007C 00000000"
+
+  - name: "All Items but gaps"
+    notes: "File: PS1HDSNAP(([0-9\\.\\-]+)?)\\user_snapshot__slot_[0-9]+\\.bin (Quick Save:)"
+    codes:
+      - "80010009 03435055"
+      - "0472616D 5F000000"
+      - "92000000 00000011"
+      - "9E000000 00200000"
+      - "4911ABE8 0000FE00"
+      - "40FF0002 00000001"
+      - "4911ADE8 0000FEFF"
+      - "40810002 00000001"

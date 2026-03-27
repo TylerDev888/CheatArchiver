@@ -1,0 +1,26 @@
+# Freedom Wars_ Remastered cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA48975
+
+game: "Freedom Wars_ Remastered"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA48975"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Max Entitlement Points"
+    notes: "File: savedata0\\user_data[0-9]+.dat"
+    codes:
+      - "20071E51 05F5E0FF"
+
+  - name: "Weapons MODS"
+    notes: "File: savedata0\\user_data[0-9]+.dat"
+    codes:
+      - "80010008 04000000"
+      - "57504E00 00000000"
+      - "92000000 00000014"
+      - "[WEAPONSLOT]"
+      - "[MODTYPE]"

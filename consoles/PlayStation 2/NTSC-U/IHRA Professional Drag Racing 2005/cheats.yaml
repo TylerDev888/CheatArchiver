@@ -1,0 +1,42 @@
+# IHRA Professional Drag Racing 2005 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20935
+
+game: "IHRA Professional Drag Racing 2005"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20935"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "90111FF0 0C045F8A"
+
+  - name: "Buying Parts Doesn't Decrease Money"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202FCE60 00000000"
+
+  - name: "Buying Parts Increases Money"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202FCE5C 46010000"
+
+  - name: "Buying Vehicles Doesn't Decrease Money"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202F58A4 00000000"
+
+  - name: "Buying Vehicles Increases Money"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202F5898 46010000"

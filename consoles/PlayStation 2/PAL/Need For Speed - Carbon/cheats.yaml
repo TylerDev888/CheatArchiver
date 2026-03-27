@@ -1,0 +1,31 @@
+# Need For Speed - Carbon cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54321
+
+game: "Need For Speed - Carbon"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54321"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Max Traffic"
+    author: "nolberto82>Ralf"
+    codes:
+      - "20102EFC 3C024000"
+      - "20102F04 1000000F"
+      - "20102F44 44820000"
+
+  - name: "Max Traffic Modifier"
+    author: "nolberto82>Ralf"
+    codes:
+      - "20102EFC 3C02????"
+      - "20102F04 1000000F"
+      - "20102F44 44820000"
+
+  - name: "No Traffic"
+    author: "nolberto82>Ralf"
+    codes:
+      - "20102F04 1000000F"

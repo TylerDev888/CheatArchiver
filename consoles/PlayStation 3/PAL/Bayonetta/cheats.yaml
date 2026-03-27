@@ -1,0 +1,190 @@
+# Bayonetta cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00599
+
+game: "Bayonetta"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00599"
+cheat_type: "Save Editor"
+source: "From zeick"
+
+cheats:
+  - name: "9999999 Halos"
+    notes: "File: CNTDAT"
+    codes:
+      - "write at 0x0000EF44:0098967F"
+      - "write at 0x0000EF48:0098967F"
+
+  - name: "99999 Compound Yellow"
+    notes: "File: CNTDAT"
+    codes:
+      - "write at 0x0000EF5A:270F"
+
+  - name: "99999 Compound Green"
+    notes: "File: CNTDAT"
+    codes:
+      - "write at 0x0000EF5E:270F"
+
+  - name: "99999 Compound Red"
+    notes: "File: CNTDAT"
+    codes:
+      - "write at 0x0000EF62:270F"
+
+  - name: "99999 Green Herb"
+    notes: "File: CNTDAT"
+    codes:
+      - "write at 0x0000EF66:270F"
+
+  - name: "99999 Mega Green"
+    notes: "File: CNTDAT"
+    codes:
+      - "write at 0x0000EF6A:270F"
+
+  - name: "99999 Purple Magic"
+    notes: "File: CNTDAT"
+    codes:
+      - "write at 0x0000EF6E:270F"
+
+  - name: "99999 Mega Purple"
+    notes: "File: CNTDAT"
+    codes:
+      - "write at 0x0000EF72:270F"
+
+  - name: "99999 Bloody Rose"
+    notes: "File: CNTDAT"
+    codes:
+      - "write at 0x0000EF76:270F"
+
+  - name: "99999 Mega Bloody"
+    notes: "File: CNTDAT"
+    codes:
+      - "write at 0x0000EF7A:270F"
+
+  - name: "99999 Yellow Moon"
+    notes: "File: CNTDAT"
+    codes:
+      - "write at 0x0000EF7E:270F"
+
+  - name: "99999 Mega Yellow"
+    notes: "File: CNTDAT"
+    codes:
+      - "write at 0x0000EF82:270F"
+
+  - name: "99999 Broken Heart"
+    notes: "File: CNTDAT"
+    codes:
+      - "write at 0x0000EF96:270F"
+
+  - name: "99999 Broken Pearl"
+    notes: "File: CNTDAT"
+    codes:
+      - "write at 0x0000EF9E:270F"
+
+  - name: "99999 Arcade Bullet"
+    notes: "File: CNTDAT"
+    codes:
+      - "write at 0x0000EF8A:270F"
+
+  - name: "99999 Red Hot Shot"
+    notes: "File: CNTDAT"
+    codes:
+      - "write at 0x0000EF8E:270F"
+
+  - name: "99999 Magic Flute"
+    notes: "File: CNTDAT"
+    codes:
+      - "write at 0x0000EF86:270F"
+
+  - name: "Low Game Time"
+    notes: "File: CNTDAT"
+    codes:
+      - "20000024 00000000"
+
+  - name: "Unlock All Chapters (need To Find Final Value The True One Ff Is Nice)"
+    notes: "File: CNTDAT"
+    codes:
+      - "00000028 000000FF"
+
+  - name: "Level Of Difficulty"
+    notes: "File: CNTDAT"
+
+  - name: "Very Easy"
+    notes: "File: CNTDAT"
+    codes:
+      - "00000033 00000000"
+
+  - name: "Easy"
+    notes: "File: CNTDAT"
+    codes:
+      - "00000033 00000001"
+
+  - name: "Normal"
+    notes: "File: CNTDAT"
+    codes:
+      - "00000033 00000002"
+
+  - name: "Hard"
+    notes: "File: CNTDAT"
+    codes:
+      - "00000033 00000003"
+
+  - name: "Non-stop Infinite Climax"
+    notes: "File: CNTDAT"
+    codes:
+      - "00000033 00000004"
+
+  - name: "Max Mp"
+    notes: "File: CNTDAT"
+    codes:
+      - "0000EF3C 43C80000"
+
+  - name: "Max Hp"
+    notes: "File: CNTDAT"
+    codes:
+      - "0000EF40 00000010"
+
+  - name: "Max Halos"
+    notes: "File: CNTDAT"
+    codes:
+      - "2000EF44 3B9AC9FF"
+      - "2000EF48 3B9AC9FF"
+
+  - name: "Have All Items"
+    notes: "File: CNTDAT"
+    codes:
+      - "0000EF67 00000003"
+      - "0000EF6B 00000001"
+      - "0000EF6F 00000003"
+      - "0000EF73 00000001"
+      - "0000EF77 00000003"
+      - "0000EF7B 00000001"
+      - "0000EF7F 00000003"
+      - "0000EF83 00000001"
+      - "0000EF8B 00000003"
+      - "0000EF8F 00000001"
+
+  - name: "Update Xor For Usrdat (required)"
+    notes: "File: USRDAT  (set [hash]:xor(0x000018,0x01294F,4))"
+    codes:
+      - "set [hash]:0"
+      - "set pointer:eof+1"
+      - "set [hash]:xor(0x000018,pointer,4)"
+      - "write at 0x000014:[hash]"
+
+  - name: "Update Xor For Sysdat (required)"
+    notes: "File: SYSDAT  (set [hash]:xor(0x000018,0x00153F,4))"
+    codes:
+      - "set [hash]:0"
+      - "set pointer:eof+1"
+      - "set [hash]:xor(0x000018,pointer,4)"
+      - "write at 0x000014:[hash]"
+
+  - name: "Update Xor For Cntdat (required)"
+    notes: "File: CNTDAT  (set [hash]:xor(0x000018,0x01294F,4))"
+    codes:
+      - "set [hash]:0"
+      - "set pointer:eof+1"
+      - "set [hash]:xor(0x000018,pointer,4)"
+      - "write at 0x000014:[hash]"

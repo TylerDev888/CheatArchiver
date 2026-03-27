@@ -1,0 +1,23 @@
+# Gokujou Seitokai cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66086
+
+game: "Gokujou Seitokai"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66086"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010FC10 0C043EAC"
+
+  - name: "Replace New Game With Debug Menu"
+    author: "punk7890"
+    codes:
+      - "10D0274A 00000004"

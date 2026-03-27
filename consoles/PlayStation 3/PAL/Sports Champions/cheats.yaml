@@ -1,0 +1,44 @@
+# Sports Champions cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BCES01012
+
+game: "Sports Champions"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BCES01012"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Stats.bin (required)"
+    notes: "File: STATS.BIN  (set range:0x000004,0x000BFE)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"
+
+  - name: "Update Crc32 For Resume.bin (required)"
+    notes: "File: RESUME.BIN  (set range:0x000004,0x00330F)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"
+
+  - name: "Update Crc32 For User0.bin (required)"
+    notes: "File: USER0.BIN  (set range:0x000004,0x00FC97)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"
+
+  - name: "Update Crc32 For Vp_gd_bc.bin (required)"
+    notes: "File: VP_GD_BC.BIN  (set range:0x000004,0x09607F)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"

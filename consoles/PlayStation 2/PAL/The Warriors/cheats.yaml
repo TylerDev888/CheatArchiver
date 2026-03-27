@@ -1,0 +1,79 @@
+# The Warriors cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "The Warriors"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90149DC4 0C11348C"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2010 84620146"
+      - "200C2014 A4620144"
+      - "200C2018 03E00008"
+      - "200C201C 28420002"
+      - "20221130 0C030804"
+
+  - name: "Rage"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2000 00021821"
+      - "200C2004 AE430650"
+      - "200C2008 03E00008"
+      - "200C200C 0062182A"
+      - "2024AC78 0C030800"
+
+  - name: "Points"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "206FE490 0098967F"
+
+  - name: "Flash"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "21FD88D0 00000009"
+
+  - name: "Cash"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "21FD88FC 000003E7"
+
+  - name: "Spray Paint"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "21FD8928 00000009"
+
+  - name: "Cuffs"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "21FD8980 00000009"
+
+  - name: "Keys"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "21FD89AC 00000009"
+
+  - name: "One Hit Fills Rage"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "20264F10 24630064"

@@ -1,0 +1,28 @@
+# PAYDAY 2 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01902
+
+game: "PAYDAY 2"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01902"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Md5 For Info.bin (required)"
+    notes: "File: INFO.BIN"
+    codes:
+      - "set pointer:lastbyte-0xF"
+      - "set range:0x000004,pointer"
+      - "set [hash]:MD5"
+      - "write next (0):[hash]"
+
+  - name: "Update Md5 For Header.bin (required)"
+    notes: "File: HEADER.BIN"
+    codes:
+      - "set pointer:lastbyte-0xF"
+      - "set range:0x000004,pointer"
+      - "set [hash]:MD5"
+      - "write next (0):[hash]"

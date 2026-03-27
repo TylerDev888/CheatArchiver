@@ -1,0 +1,50 @@
+# TNA Impact! cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21787
+
+game: "TNA Impact!"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21787"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Skiller"
+    notes: "[Master Codes]"
+    codes:
+      - "901AD718 0C06B56E"
+
+  - name: "Inf Impact! Everyone"
+    author: "Skiller"
+    codes:
+      - "D0108CAA 0000460C"
+      - "20108CA8 46160001"
+
+  - name: "Instant Impact! Everyone"
+    author: "Skiller"
+    codes:
+      - "D0136582 00000062"
+      - "20136580 8E030304"
+
+  - name: "Player 1 Modifier"
+    author: "BigBossman"
+    codes:
+      - "10313BE4 000000??"
+
+  - name: "Player 2 Modifier"
+    author: "BigBossman"
+    codes:
+      - "10313BE8 000000??"
+
+  - name: "Player 3 Modifier"
+    author: "BigBossman"
+    codes:
+      - "10313BEC 000000??"
+
+  - name: "Player 4 Modifier"
+    author: "BigBossman"
+    codes:
+      - "10313BF0 000000??"

@@ -1,0 +1,57 @@
+# Off-Road Wide Open cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50232
+
+game: "Off-Road Wide Open"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50232"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100268 000001FD"
+
+  - name: "Constant 4 Retries"
+    author: "Codejunkies"
+    codes:
+      - "102E3710 00000004"
+
+  - name: "Constant 4 Retry's"
+    author: "Codejunkies"
+    codes:
+      - "30B1E2BB 64DA29D5"
+
+  - name: "Division Standings 99 Points"
+    author: "InterAct"
+    codes:
+      - "30B12BD7 64DA29B6"
+
+  - name: "Have 99 Points Division Standings"
+    author: "Codejunkies"
+    codes:
+      - "102E7E2C 00000063"
+
+  - name: "Pots Of Cash"
+    author: "InterAct"
+    codes:
+      - "30B115FB 64DA28EA"
+      - "30B115F9 64DA29EA"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 002A104F"
+
+  - name: "Unlimited Money"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "102E6850 0723FFFF"
+      - "102E6852 072300FF"

@@ -1,0 +1,740 @@
+# NHL '06 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21241
+
+game: "NHL '06"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21241"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "9010D9FC 0C0456E5"
+
+  - name: "Master Code"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "90534A94 0C14D470"
+
+  - name: "Each Goal Worth 2"
+    author: "MadCatz"
+    notes: "[Away Team]"
+    codes:
+      - "000C0001 00000001"
+
+  - name: "Each Goal Worth 5"
+    author: "MadCatz"
+    notes: "[Away Team]"
+    codes:
+      - "000C0001 00000004"
+
+  - name: "Each Goal Worth 10"
+    author: "MadCatz"
+    notes: "[Away Team]"
+    codes:
+      - "000C0001 00000009"
+
+  - name: "Each Goal Worth 25"
+    author: "MadCatz"
+    notes: "[Away Team]"
+    codes:
+      - "000C0001 00000017"
+
+  - name: "Each Goal Worth 50"
+    author: "MadCatz"
+    notes: "[Away Team]"
+    codes:
+      - "000C0001 00000031"
+
+  - name: "Has 0 Goals (Press Select+Down)"
+    author: "MadCatz"
+    notes: "[Away Team]"
+    codes:
+      - "D1032642 0000FFBE"
+      - "107AD772 00000000"
+
+  - name: "Has 99 Goals (Press Select+Up)"
+    author: "MadCatz"
+    notes: "[Away Team]"
+    codes:
+      - "D1032642 0000FFEE"
+      - "107AD772 00000063"
+
+  - name: "Max Breakaways"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD798 0000270F"
+
+  - name: "Max Empty Net Goals"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD77C 0000270F"
+
+  - name: "Max Faceoffs Won"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD780 0000270F"
+
+  - name: "Max Hits"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD7A0 0000270F"
+
+  - name: "Max One-Timer Goals"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD796 0000270F"
+
+  - name: "Max One-Timers"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD792 0000270F"
+
+  - name: "Max Overall Passing"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD7A2 0000270F"
+
+  - name: "Max Overall Penalty Shots"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD79C 0000270F"
+
+  - name: "Max Overall Powerplays"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD784 0000270F"
+
+  - name: "Max Passing"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD7A4 0000270F"
+
+  - name: "Max Penalties"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD78C 0000270F"
+
+  - name: "Max Penalty Minutes"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD78E 00000257"
+
+  - name: "Max Penalty Shots"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD79E 0000270F"
+
+  - name: "Max Powerplay Minutes"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD78A 00000257"
+
+  - name: "Max Powerplays"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD786 0000270F"
+
+  - name: "Max Shorthanded Goals"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD778 0000270F"
+
+  - name: "Max Shots"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD770 0000270F"
+
+  - name: "Max Time On Attack"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD790 00000257"
+
+  - name: "No Breakaways"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD798 00000000"
+
+  - name: "No Empty Net Goals"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD77C 00000000"
+
+  - name: "No Faceoffs Won"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD780 00000000"
+
+  - name: "No Hits"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD7A0 00000000"
+
+  - name: "No One-Timer Goals"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD796 00000000"
+
+  - name: "No One-Timers"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD792 00000000"
+
+  - name: "No Overall Passing"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD7A2 00000000"
+
+  - name: "No Overall Penalty Shots"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD79C 00000000"
+
+  - name: "No Overall Powerplays"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD784 00000000"
+
+  - name: "No Passing"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD7A4 00000000"
+
+  - name: "No Penalties"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD78C 00000000"
+
+  - name: "No Penalty Minutes"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD78E 00000000"
+
+  - name: "No Penalty Shots"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD79E 00000000"
+
+  - name: "No Powerplay Minutes"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD78A 00000000"
+
+  - name: "No Powerplays"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD786 00000000"
+
+  - name: "No Shorthanded Goals"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD778 00000000"
+
+  - name: "No Shots"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD770 00000000"
+
+  - name: "No Time On Attack"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "107AD790 00000000"
+
+  - name: "All Upgrades Are Free"
+    author: "Code Master"
+    notes: "[Dynasty Mode Codes]"
+    codes:
+      - "205CA694 24020000"
+
+  - name: "Free Agents Sign To Lower Terms"
+    author: "Code Master"
+    notes: "[Dynasty Mode Codes]"
+    codes:
+      - "206FE11C 00252698"
+      - "206FE124 00252698"
+
+  - name: "Trade Allowed If Maximum Roster Reached"
+    author: "Code Master"
+    notes: "[Dynasty Mode Codes]"
+    codes:
+      - "2070AA3C 0028BFD8"
+
+  - name: "Trade Allowed If Minimum Goalies Reached"
+    author: "Code Master"
+    notes: "[Dynasty Mode Codes]"
+    codes:
+      - "2070AA34 0028BFD8"
+
+  - name: "Trade Allowed If Minimum Skaters Reached"
+    author: "Code Master"
+    notes: "[Dynasty Mode Codes]"
+    codes:
+      - "2070AA38 0028BFD8"
+
+  - name: "Trades Never Rejected"
+    author: "Code Master"
+    notes: "[Dynasty Mode Codes]"
+    codes:
+      - "4070AA14 00080001"
+      - "0028BFD8 00000000"
+      - "2070AA40 0028BFD8"
+      - "2070AA44 0028BFD8"
+      - "2028C090 00000000"
+
+  - name: "Has 0 Goals (Press Select+Right)"
+    author: "MadCatz"
+    notes: "[Home Team]"
+    codes:
+      - "D1032642 0000FFDE"
+      - "107AD716 00000000"
+
+  - name: "Has 99 Goals (Press Select+Left)"
+    author: "MadCatz"
+    notes: "[Home Team]"
+    codes:
+      - "D1032642 0000FF7E"
+      - "107AD716 00000063"
+
+  - name: "Score Multiplier Enabler (Must Be On For Score Multipliers)"
+    author: "MadCatz"
+    notes: "[Score Multiplier Codes]"
+    codes:
+      - "200C2000 92610030"
+      - "200C2004 3C10000C"
+      - "200C2008 00300820"
+      - "200C200C 90210000"
+      - "200C2010 00411020"
+      - "200C2014 03E00008"
+      - "200C2018 24100011"
+      - "20176FF4 0C030800"
+
+  - name: "Infinite Away Team Speed Boost"
+    author: "MadCatz"
+    notes: "[Speed Boost Codes]"
+    codes:
+      - "000C0005 00000001"
+
+  - name: "Infinite Home Team Speed Boost"
+    author: "MadCatz"
+    notes: "[Speed Boost Codes]"
+    codes:
+      - "000C0004 00000001"
+
+  - name: "No Away Team Speed Boost"
+    author: "MadCatz"
+    notes: "[Speed Boost Codes]"
+    codes:
+      - "000C0005 000000FF"
+
+  - name: "No Home Team Speed Boost"
+    author: "MadCatz"
+    notes: "[Speed Boost Codes]"
+    codes:
+      - "000C0004 000000FF"
+
+  - name: "Speed Boost Enabler (Must Be On For Speed Boost Codes)"
+    author: "MadCatz"
+    notes: "[Speed Boost Codes]"
+    codes:
+      - "200C2020 3C03000C"
+      - "200C2024 80440030"
+      - "200C2028 00832020"
+      - "200C202C 80830004"
+      - "200C2030 10600005"
+      - "200C2034 2004FFFF"
+      - "200C2038 50830002"
+      - "200C203C 00001820"
+      - "200C2040 3C034170"
+      - "200C2044 AC43019C"
+      - "200C2048 0807AF2A"
+      - "200C204C 44810800"
+      - "201EBCA4 08030808"
+
+  - name: "All Goals Score For Away Team"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20176F38 24020001"
+
+  - name: "All Goals Score For Home Team"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20176F38 24020000"
+
+  - name: "Away Team Scores 0"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "107AD772 00000000"
+
+  - name: "Away Team Scores 20"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "107AD772 00000014"
+
+  - name: "Away Team Scores 50"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "107AD772 00000032"
+
+  - name: "Away Team Start With Score 5"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07AD772 00000000"
+      - "107AD772 00000005"
+
+  - name: "Away Team Start With Score 10"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07AD772 00000000"
+      - "107AD772 0000000A"
+
+  - name: "Away Team Start With Score 20"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07AD772 00000000"
+      - "107AD772 00000014"
+
+  - name: "Away Team Start With Score 50"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07AD772 00000000"
+      - "107AD772 00000032"
+
+  - name: "Goal's Score 2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "10176FF8 00000002"
+
+  - name: "Goal's Score 5"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "10176FF8 00000005"
+
+  - name: "Goal's Score 10"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "10176FF8 0000000A"
+
+  - name: "Home Team Scores 0"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "107AD716 00000000"
+
+  - name: "Home Team Scores 20"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "107AD716 00000014"
+
+  - name: "Home Team Scores 50"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "107AD716 00000032"
+
+  - name: "Home Team Start With Score 5"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07AD716 00000000"
+      - "107AD716 00000005"
+
+  - name: "Home Team Start With Score 10"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07AD716 00000000"
+      - "107AD716 0000000A"
+
+  - name: "Home Team Start With Score 20"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07AD716 00000000"
+      - "107AD716 00000014"
+
+  - name: "Home Team Start With Score 50"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07AD716 00000000"
+      - "107AD716 00000032"
+
+  - name: "P1 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1032642 0000FAFF"
+      - "107A1388 000004B0"
+
+  - name: "P1 Press L1+Select For 2Nd Period"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1032642 0000FBFE"
+      - "207A138C 00010001"
+
+  - name: "P1 Press L2+Select For 3Rd Period"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1032642 0000FEFE"
+      - "207A138C 00020002"
+
+  - name: "P1 Press R1+R2 To End Period"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1032642 0000F5FF"
+      - "107A1388 00000001"
+
+  - name: "P2 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1032942 0000FAFF"
+      - "107A1388 000004B0"
+
+  - name: "P2 Press L1+Select For 2Nd Period"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1032942 0000FBFE"
+      - "207A138C 00010001"
+
+  - name: "P2 Press L2+Select For 3Rd Period"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1032942 0000FEFE"
+      - "207A138C 00020002"
+
+  - name: "P2 Press R1+R2 To End Period"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1032942 0000F5FF"
+      - "107A1388 00000001"
+
+  - name: "P3 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1032C42 0000FAFF"
+      - "107A1388 000004B0"
+
+  - name: "P3 Press L1+Select For 2Nd Period"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1032C42 0000FBFE"
+      - "207A138C 00010001"
+
+  - name: "P3 Press L2+Select For 3Rd Period"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1032C42 0000FEFE"
+      - "207A138C 00020002"
+
+  - name: "P3 Press R1+R2 To End Period"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1032C42 0000F5FF"
+      - "107A1388 00000001"
+
+  - name: "P4 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1032F42 0000FAFF"
+      - "107A1388 000004B0"
+
+  - name: "P4 Press L1+Select For 2Nd Period"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1032F42 0000FBFE"
+      - "207A138C 00010001"
+
+  - name: "P4 Press L2+Select For 3Rd Period"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1032F42 0000FEFE"
+      - "207A138C 00020002"
+
+  - name: "P4 Press R1+R2 To End Period"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1032F42 0000F5FF"
+      - "107A1388 00000001"
+
+  - name: "P5 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1033242 0000FAFF"
+      - "107A1388 000004B0"
+
+  - name: "P5 Press L1+Select For 2Nd Period"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1033242 0000FBFE"
+      - "207A138C 00010001"
+
+  - name: "P5 Press L2+Select For 3Rd Period"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1033242 0000FEFE"
+      - "207A138C 00020002"
+
+  - name: "P5 Press R1+R2 To End Period"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1033242 0000F5FF"
+      - "107A1388 00000001"
+
+  - name: "P6 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1033542 0000FAFF"
+      - "107A1388 000004B0"
+
+  - name: "P6 Press L1+Select For 2Nd Period"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1033542 0000FBFE"
+      - "207A138C 00010001"
+
+  - name: "P6 Press L2+Select For 3Rd Period"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1033542 0000FEFE"
+      - "207A138C 00020002"
+
+  - name: "P6 Press R1+R2 To End Period"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1033542 0000F5FF"
+      - "107A1388 00000001"
+
+  - name: "P7 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1033842 0000FAFF"
+      - "107A1388 000004B0"
+
+  - name: "P7 Press L1+Select For 2Nd Period"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1033842 0000FBFE"
+      - "207A138C 00010001"
+
+  - name: "P7 Press L2+Select For 3Rd Period"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1033842 0000FEFE"
+      - "207A138C 00020002"
+
+  - name: "P7 Press R1+R2 To End Period"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1033842 0000F5FF"
+      - "107A1388 00000001"
+
+  - name: "P8 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1033B42 0000FAFF"
+      - "107A1388 000004B0"
+
+  - name: "P8 Press L1+Select For 2Nd Period"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1033B42 0000FBFE"
+      - "207A138C 00010001"
+
+  - name: "P8 Press L2+Select For 3Rd Period"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1033B42 0000FEFE"
+      - "207A138C 00020002"
+
+  - name: "P8 Press R1+R2 To End Period"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1033B42 0000F5FF"
+      - "107A1388 00000001"

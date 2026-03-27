@@ -1,0 +1,74 @@
+# Stacked With Daniel Negreanu cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21259
+
+game: "Stacked With Daniel Negreanu"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21259"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Infinite Money"
+    author: "Code Master"
+    notes: "[CPU 1 Codes]"
+    codes:
+      - "10605858 0000FFFF"
+
+  - name: "Max Money"
+    author: "Code Master"
+    notes: "[CPU 1 Codes]"
+    codes:
+      - "20605858 05F5E0FF"
+
+  - name: "No Money"
+    author: "Code Master"
+    notes: "[CPU 1 Codes]"
+    codes:
+      - "20605858 00000000"
+
+  - name: "Do Not Lose Money From Bets"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2015D60C 00000000"
+
+  - name: "Gain Money From Bets"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2015D5FC 00C3302D"
+
+  - name: "Infinite Money (Player)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "10605280 0000FFFF"
+
+  - name: "Max Money (All Dealers/CPU)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "40605308 007D0022"
+      - "05F5E0FF 00000000"
+
+  - name: "Max Money (Player)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20605280 05F5E0FF"
+
+  - name: "No Money (All Dealers/CPU)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "40605308 007D0022"
+      - "00000000 00000000"
+
+  - name: "No Money (Player)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20605280 00000000"

@@ -1,0 +1,47 @@
+# Silent Hill_ Book of Memories (EUR) cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00115
+
+game: "Silent Hill_ Book of Memories (EUR)"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00115"
+cheat_type: "Save Editor"
+source: "Credits: Slade"
+
+cheats:
+  - name: "99 Health Packs"
+    notes: "File: data0000.bin"
+    codes:
+      - "0000611B 00000063"
+
+  - name: "99 Ammo Packs"
+    notes: "File: data0000.bin"
+    codes:
+      - "00006113 00000063"
+
+  - name: "99 Wrenches"
+    notes: "File: data0000.bin"
+    codes:
+      - "00006123 00000063"
+
+  - name: "999 Upgrade Points"
+    notes: "File: data0000.bin"
+    codes:
+      - "1000632F 000003E7"
+
+  - name: "Level 99"
+    notes: "File: data0000.bin"
+    codes:
+      - "00006337 00000063"
+
+  - name: "9,999,999 Mr"
+    notes: "File: data0000.bin"
+    codes:
+      - "2000633B 0098967F"
+
+  - name: "99 Keys"
+    notes: "File: data0000.bin  (\"Keys reset to zero every level.\")"
+    codes:
+      - "00006333 00000063"

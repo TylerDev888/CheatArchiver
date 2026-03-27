@@ -1,0 +1,37 @@
+# Class of Heroes 2G cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS31461
+
+game: "Class of Heroes 2G"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS31461"
+cheat_type: "Save Editor"
+source: "cheat by SHAkA"
+
+cheats:
+  - name: "Monster Kills 500"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "write at 0x224BF:0x01000001F2"
+
+  - name: "Monster Kills 10,000"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "write at 0x224BF:0x010000270E"
+
+  - name: "Monster Kills 50,000"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "write at 0x224BF:0x010000C34E"
+
+  - name: "Money"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "write at 0x2ADE0:0x3B9AC9FF"
+
+  - name: "X99 Wyvern Call Ticket"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "write at 0x2A639:0x028C63"

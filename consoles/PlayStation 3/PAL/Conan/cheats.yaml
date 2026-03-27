@@ -1,0 +1,35 @@
+# Conan cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00076
+
+game: "Conan"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00076"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Unlock King Difficulty"
+    notes: "File: BLES00076_PREFS\\PROFILE.NSI"
+    codes:
+      - "700000A1 00000080"
+
+  - name: "Unlock All Concept Art"
+    notes: "File: BLES00076_PREFS\\PROFILE.NSI"
+    codes:
+      - "2000009C FFFFFFFF"
+      - "720000A0 007FFFFF"
+
+  - name: "Unlock All Cheats"
+    notes: "File: BLES00076_PREFS\\PROFILE.NSI"
+    codes:
+      - "700000A0 0000000F"
+
+  - name: "Max Experience (not Working)"
+    notes: "File: BLES00076_PREFS\\PROFILE.NSI"
+    codes:
+      - "62000000 00000018"
+      - "62100000 00000028"
+      - "62400000 497423F0"

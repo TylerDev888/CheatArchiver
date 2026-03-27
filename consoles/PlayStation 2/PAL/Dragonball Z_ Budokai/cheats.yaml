@@ -1,0 +1,50 @@
+# Dragonball Z_ Budokai cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Dragonball Z_ Budokai"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0010B037"
+
+  - name: "Unlimited Health"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "5057A294 00000004"
+      - "5057A290 00000000"
+
+  - name: "Unlimited KI"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "5057A29C 00000004"
+      - "5057A298 00000000"
+
+  - name: "Physical Capsules"
+    author: "Xploder"
+    notes: "[Have All]"
+    codes:
+      - "205E9D30 01010101"
+
+  - name: "Ability Capsules"
+    author: "Xploder"
+    notes: "[Have All]"
+    codes:
+      - "205E9D28 01010101"
+      - "205E9D2D 01010101"
+
+  - name: "Unlock All Characters"
+    author: "Xploder"
+    notes: "[Have All]"
+    codes:
+      - "20361E44 00FFFFFF"

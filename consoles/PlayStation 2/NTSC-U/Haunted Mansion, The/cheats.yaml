@@ -1,0 +1,69 @@
+# Haunted Mansion, The cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20681
+
+game: "Haunted Mansion, The"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20681"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00125FB7"
+
+  - name: "Disable FMV"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201245D0 24020001"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20156288 C6610200"
+      - "2015628C E6610204"
+
+  - name: "Max Fortune Cards"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20163574 AC640000"
+      - "1016357A 00001000"
+
+  - name: "Infinite Lives"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2014928C 00000000"
+
+  - name: "Extra Lives"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10149288 00000001"
+
+  - name: "Max Infinite Lives"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 24100009"
+      - "200C0224 080B6BF4"
+      - "200C0228 AC500000"
+      - "20162BAC 0C030088"
+
+  - name: "Max Souls"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0230 AC410000"
+      - "200C0234 08057815"
+      - "200C0238 8C420000"
+      - "2015E048 0C03008C"
+      - "2015E04C 8C410004"

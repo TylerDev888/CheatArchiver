@@ -1,0 +1,33 @@
+# Vietcong - Purple Haze cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52799
+
+game: "Vietcong - Purple Haze"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52799"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F04B7214 004B7217"
+
+  - name: "Infinite Ammo/No Reloads"
+    author: "Codejunkies"
+    codes:
+      - "203C9C78 00000000"
+
+  - name: "Infinite Grenades"
+    author: "Codejunkies"
+    codes:
+      - "203A9900 24020009"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "20543048 00000001"

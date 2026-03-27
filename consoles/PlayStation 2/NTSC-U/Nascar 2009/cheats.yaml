@@ -1,0 +1,56 @@
+# Nascar 2009 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21744
+
+game: "Nascar 2009"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21744"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90415798 0C10558E"
+
+  - name: "Always First Place"
+    author: "SkillerCMP"
+    codes:
+      - "D05F10C6 00010000"
+      - "105F10C6 00000000"
+
+  - name: "Press Select Last Lap"
+    author: "SkillerCMP"
+    codes:
+      - "E002FFFE 00695DC2"
+      - "506094F6 00000002"
+      - "005F10C4 00000000"
+
+  - name: "Total Laps Always \"amount\""
+    author: "SkillerCMP"
+    codes:
+      - "106094F6 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Inf Fuel"
+    author: "SkillerCMP"
+    codes:
+      - "20156E90 00000000"
+
+  - name: "Inf Tires"
+    author: "SkillerCMP"
+    codes:
+      - "20151734 00000000"
+      - "20151738 00000000"
+      - "20151780 00000000"
+
+  - name: "Gain/Use Money/Skill Points To Get Max"
+    author: "SkillerCMP"
+    codes:
+      - "200A0000 3C033B9A"
+      - "200A0004 3463C9FF"
+      - "200A0008 AD230000"
+      - "200A000C 03E00008"
+      - "203F2D34 08028000"

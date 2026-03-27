@@ -1,0 +1,135 @@
+# Hobbit, The cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51723
+
+game: "Hobbit, The"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51723"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "1Hitkill"
+    author: "luc-ita"
+    codes:
+      - "201B9090 46000001"
+
+  - name: "Always Full And Maximum Life"
+    author: "luc-ita"
+    codes:
+      - "2046DFBC 42F00000"
+      - "2046E014 41F00000"
+
+  - name: "Automatically Defeated Npcs"
+    author: "luc-ita"
+    codes:
+      - "201BEDFC 00000000"
+
+  - name: "Buy Everything Even Without Coins"
+    author: "luc-ita"
+    codes:
+      - "20223FAC 00000000"
+      - "202241E0 00000000"
+      - "20224354 00000000"
+      - "20224124 00000000"
+      - "20224068 00000000"
+      - "2022429C 00000000"
+      - "20224408 00000000"
+      - "20224568 00000000"
+      - "202245B0 00000000"
+      - "202244B4 00000000"
+
+  - name: "Godmode"
+    author: "luc-ita"
+    codes:
+      - "20142E50 03E00008"
+
+  - name: "Jump Higher"
+    author: "luc-ita"
+    codes:
+      - "2046DB9C 449C4000"
+
+  - name: "Jump Much Higher"
+    author: "luc-ita"
+    codes:
+      - "2046DB9C 44ED8000"
+      - "2015C878 10000010"
+
+  - name: "Max Rock Ammo Increased To 900"
+    author: "luc-ita"
+    codes:
+      - "20140D84 3C014461"
+
+  - name: "Moonjump"
+    author: "luc-ita"
+    codes:
+      - "20146550 00000000"
+      - "20146430 00000000"
+      - "20153904 E62005E4"
+      - "D04F64C8 00000040"
+      - "20153904 00000000"
+
+  - name: "Move Faster"
+    author: "luc-ita"
+    codes:
+      - "2046DB90 43FA0000"
+
+  - name: "Move Much Faster"
+    author: "luc-ita"
+    codes:
+      - "2046DB90 44610000"
+
+  - name: "No Keys Are Needed To Open Chests"
+    author: "luc-ita"
+    codes:
+      - "20234AB4 00000000"
+
+  - name: "No Stamina Is Required To Execute Charged Shots"
+    author: "luc-ita"
+    codes:
+      - "2014A134 00000000"
+
+  - name: "Rocks And Other Resources Always Maxed Out"
+    author: "luc-ita"
+    codes:
+      - "201414E8 00000000"
+
+  - name: "Take Items Anywhere"
+    author: "luc-ita"
+    codes:
+      - "20153DF4 00000000"
+
+  - name: "You Don't Need Ammo To Throw Rocks"
+    author: "luc-ita"
+    codes:
+      - "20147644 00000000"
+      - "20132540 00000000"
+
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F03D3E2C 000001FD"
+
+  - name: "Masses Of Silver Pennies"
+    author: "Codejunkies"
+    codes:
+      - "2046DFB0 45000000"
+      - "2046E00C 45000000"
+
+  - name: "Super Health Up"
+    author: "Codejunkies"
+    codes:
+      - "2046DFCC 44AF0000"
+
+  - name: "Unlimited Health Potions"
+    author: "Codejunkies"
+    codes:
+      - "2046E06C 40300000"
+
+  - name: "Unlimited Stones"
+    author: "Codejunkies"
+    codes:
+      - "2046DFB4 41200000"

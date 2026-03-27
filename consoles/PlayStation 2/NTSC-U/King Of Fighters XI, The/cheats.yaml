@@ -1,0 +1,407 @@
+# King Of Fighters XI, The cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21687
+
+game: "King Of Fighters XI, The"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21687"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "F0115F60 00115F63"
+
+  - name: "100% Complete Status"
+    author: "lee4"
+    codes:
+      - "408AA7D0 00140001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Blocking Disabled Both Players"
+    author: "nolberto82"
+    codes:
+      - "201A2478 30A20000"
+
+  - name: "Player 1 Character 1 Mod"
+    author: "lee4"
+    notes: "[Character Mod Codes]"
+    codes:
+      - "008A97E0 000000??"
+
+  - name: "Player 1 Character 2 Mod"
+    author: "lee4"
+    notes: "[Character Mod Codes]"
+    codes:
+      - "008A9800 000000??"
+
+  - name: "Player 1 Character 3 Mod"
+    author: "lee4"
+    notes: "[Character Mod Codes]"
+    codes:
+      - "008A9820 000000??"
+
+  - name: "Player 2 Character 1 Mod"
+    author: "lee4"
+    notes: "[Character Mod Codes]"
+    codes:
+      - "008A9A28 000000??"
+
+  - name: "Player 2 Character 2 Mod"
+    author: "lee4"
+    notes: "[Character Mod Codes]"
+    codes:
+      - "008A9A48 000000??"
+
+  - name: "Player 2 Character 3 Mod"
+    author: "lee4"
+    notes: "[Character Mod Codes]"
+    codes:
+      - "008A9A68 000000??"
+
+  - name: "Disable AI"
+    author: "lee4"
+    codes:
+      - "008A5D29 00000080"
+
+  - name: "Freeze Timer"
+    author: "lee4"
+    codes:
+      - "008A5D28 00000010"
+
+  - name: "Hit Anywhere Both Players"
+    author: "nolberto82"
+    codes:
+      - "201C398C 10000004"
+
+  - name: "Infinite Time"
+    author: "CMX"
+    codes:
+      - "108A9598 00000063"
+
+  - name: "P1 1-Hit Death-Char 1"
+    author: "CMX"
+    codes:
+      - "D08A97E4 00000070"
+      - "208A97E4 00010001"
+
+  - name: "P1 1-Hit Death-Char 2"
+    author: "CMX"
+    codes:
+      - "D08A9804 00000070"
+      - "208A9804 00010001"
+
+  - name: "P1 1-Hit Death-Char 3"
+    author: "CMX"
+    codes:
+      - "D08A9824 00000070"
+      - "208A9824 00010001"
+
+  - name: "P1 Infinite Health Character 1"
+    author: "lee4"
+    codes:
+      - "208A97E4 00700070"
+
+  - name: "P1 Infinite Health Character 2"
+    author: "lee4"
+    codes:
+      - "208A9804 00700070"
+
+  - name: "P1 Infinite Health Character 3"
+    author: "lee4"
+    codes:
+      - "208A9824 00700070"
+
+  - name: "P1 Max Power Gauge"
+    author: "lee4"
+    codes:
+      - "108A96C8 000003E7"
+
+  - name: "P1 Max Score"
+    author: "CMX"
+    codes:
+      - "208A96D4 05F5E0FF"
+
+  - name: "P1 Max Skill Gauge"
+    author: "lee4"
+    codes:
+      - "108A96CC 000003E7"
+
+  - name: "P1 No Power Gauge"
+    author: "CMX"
+    codes:
+      - "108A96C8 00000000"
+
+  - name: "P1 No Skill Gauge"
+    author: "CMX"
+    codes:
+      - "108A96CC 00000000"
+
+  - name: "P1 Quick Score Gain"
+    author: "CMX"
+    codes:
+      - "108A96D4 0000FFFF"
+
+  - name: "P2 Infinite Health-Char 1"
+    author: "CMX"
+    codes:
+      - "208A9A2C 00700070"
+
+  - name: "P2 Infinite Health-Char 2"
+    author: "CMX"
+    codes:
+      - "208A9A4C 00700070"
+
+  - name: "P2 Infinite Health-Char 3"
+    author: "CMX"
+    codes:
+      - "208A9A6C 00700070"
+
+  - name: "P2 Max Power Gauge"
+    author: "CMX"
+    codes:
+      - "108A9910 000003E7"
+
+  - name: "P2 Max Score"
+    author: "CMX"
+    codes:
+      - "208A991C 05F5E0FF"
+
+  - name: "P2 Max Skill Gauge"
+    author: "CMX"
+    codes:
+      - "108A9914 000003E7"
+
+  - name: "P2 No Health Character 1"
+    author: "lee4"
+    codes:
+      - "D08A9A2C 00000070"
+      - "208A9A2C 00000000"
+
+  - name: "P2 No Health Character 2"
+    author: "lee4"
+    codes:
+      - "D08A9A4C 00000070"
+      - "208A9A4C 00000000"
+
+  - name: "P2 No Health Character 3"
+    author: "lee4"
+    codes:
+      - "D08A9A6C 00000070"
+      - "208A9A6C 00000000"
+
+  - name: "P2 No Power Gauge"
+    author: "lee4"
+    codes:
+      - "108A9910 00000000"
+
+  - name: "P2 No Skill Gauge"
+    author: "lee4"
+    codes:
+      - "108A9914 00000000"
+
+  - name: "P2 Quick Score Gain"
+    author: "CMX"
+    codes:
+      - "108A991C 0000FFFF"
+
+  - name: "Pal2ntsc"
+    author: "lee4"
+    codes:
+      - "20100260 24120002"
+
+  - name: "Player 1 = CPU (Press R3 When At The \"Next Stage\" Screen)"
+    author: "punk7890"
+    codes:
+      - "D08AA682 0000FFFB"
+      - "008A969A 00000002"
+
+  - name: "Player 2 = CPU (Press L3 When At The \"Next Stage\" Screen)"
+    author: "punk7890"
+    codes:
+      - "D08AA682 0000FFFD"
+      - "008A98E2 00000002"
+
+  - name: "Shrink Screen"
+    author: "lee4"
+    codes:
+      - "008B6DC0 00000001"
+
+  - name: "Unlock Extra Characters"
+    author: "lee4"
+    codes:
+      - "108AA7C0 0000FFFF"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master>lee4"
+    notes: "[Masters]"
+    codes:
+      - "90116118 00832021"
+
+  - name: "Have Game 100% Complete"
+    author: "Code Master>lee4"
+    notes: "[Codes]"
+    codes:
+      - "408AA7D0 00140001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Quick Score Gain"
+    author: "Code Master>lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "108A96D4 0000FFFF"
+
+  - name: "Max Score"
+    author: "Code Master>lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "208A96D4 05F5E0FF"
+
+  - name: "Infinite Health-Char 1"
+    author: "Code Master>lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "208A97E4 00700070"
+
+  - name: "75% Health-Char 1"
+    author: "Code Master>lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "D08A97E4 00000070"
+      - "208A97E4 00540054"
+
+  - name: "50% Health-Char 1"
+    author: "Code Master>lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "D08A97E4 00000070"
+      - "208A97E4 00380038"
+
+  - name: "25% Health-Char 1"
+    author: "Code Master>lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "D08A97E4 00000070"
+      - "208A97E4 001C001C"
+
+  - name: "1-Hit Death-Char 1"
+    author: "Code Master>lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "D08A97E4 00000070"
+      - "208A97E4 00010001"
+
+  - name: "No Health-Char 1"
+    author: "Code Master>lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "208A97E4 00000000"
+
+  - name: "Infinite Health-Char 2"
+    author: "Code Master>lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "208A9804 00700070"
+
+  - name: "75% Health-Char 2"
+    author: "Code Master>lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "D08A9804 00000070"
+      - "208A9804 00540054"
+
+  - name: "50% Health-Char 2"
+    author: "Code Master>lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "D08A9804 00000070"
+      - "208A9804 00380038"
+
+  - name: "25% Health-Char 2"
+    author: "Code Master>lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "D08A9804 00000070"
+      - "208A9804 001C001C"
+
+  - name: "1-Hit Death-Char 2"
+    author: "Code Master>lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "D08A9804 00000070"
+      - "208A9804 00010001"
+
+  - name: "No Health-Char 2"
+    author: "Code Master>lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "208A9804 00000000"
+
+  - name: "Infinite Health-Char 3"
+    author: "Code Master>lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "208A9824 00700070"
+
+  - name: "75% Health-Char 3"
+    author: "Code Master>lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "D08A9824 00000070"
+      - "208A9824 00540054"
+
+  - name: "50% Health-Char 3"
+    author: "Code Master>lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "D08A9824 00000070"
+      - "208A9824 00380038"
+
+  - name: "25% Health-Char 3"
+    author: "Code Master>lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "D08A9824 00000070"
+      - "208A9824 001C001C"
+
+  - name: "1-Hit Death-Char 3"
+    author: "Code Master>lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "D08A9824 00000070"
+      - "208A9824 00010001"
+
+  - name: "No Health-Char 3"
+    author: "Code Master>lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "208A9824 00000000"
+
+  - name: "Max Power Gauge"
+    author: "Code Master>lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "108A96C8 000003E7"
+
+  - name: "No Power Gauge"
+    author: "Code Master>lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "108A96C8 00000000"
+
+  - name: "Max Skill Gauge"
+    author: "Code Master>lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "108A96CC 000003E7"
+
+  - name: "No Skill Gauge"
+    author: "Code Master>lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "108A96CC 00000000"

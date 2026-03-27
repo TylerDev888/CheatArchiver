@@ -1,0 +1,53 @@
+# Charlie And The Chocolate Factory cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53386
+
+game: "Charlie And The Chocolate Factory"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53386"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02E53BC 002E53BF"
+
+  - name: "Enable Debug Level Select On Main Menu"
+    author: "Codejunkies"
+    codes:
+      - "2047E8C0 00000001"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "902E5330 0C047F92"
+      - "200C2000 3C0142C8"
+      - "200C201C 03E00008"
+      - "200C2020 C440000C"
+      - "2028C064 0C030800"
+
+  - name: "Energy"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C200C 8C41000C"
+      - "200C2010 AC410014"
+
+  - name: "Candy Power"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2014 8C41004C"
+      - "200C2018 AC410054"
+
+  - name: "Debug Menu Level Select"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "2047E8C0 00000001"

@@ -1,0 +1,29 @@
+# Castle Fantasia cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65899
+
+game: "Castle Fantasia"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65899"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9011AFB0 0C046B94"
+
+  - name: "Enable Debug Mode"
+    author: "punk7890"
+    codes:
+      - "0020BE72 00000001"
+
+  - name: "Unlock All Art Gallery"
+    author: "punk7890"
+    codes:
+      - "403E20B0 00500001"
+      - "01010101 00000000"

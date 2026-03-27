@@ -1,0 +1,732 @@
+# Pac-Man World 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20224
+
+game: "Pac-Man World 2"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20224"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F02C6A00 002DB3B7"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 002DB48F"
+
+  - name: "9 Apples"
+    author: "InterAct"
+    codes:
+      - "103635EC 00000004"
+
+  - name: "9 Cherries"
+    author: "InterAct"
+    codes:
+      - "103635E4 00000006"
+
+  - name: "9 Peaches"
+    author: "InterAct"
+    codes:
+      - "103635F0 00000008"
+
+  - name: "9 Ships"
+    author: "InterAct"
+    codes:
+      - "103635F4 00000006"
+
+  - name: "9 Strawberries"
+    author: "InterAct"
+    codes:
+      - "103635E8 00000006"
+
+  - name: "999 Dots"
+    author: "InterAct"
+    codes:
+      - "103635C4 0000008E"
+
+  - name: "Never Have Above 2 Apples"
+    author: "Codejunkies"
+    notes: "[Apple Codes]"
+    codes:
+      - "E0010002 303635EC"
+      - "103635EC 00000002"
+
+  - name: "Never Have Above 5 Apples"
+    author: "Codejunkies"
+    notes: "[Apple Codes]"
+    codes:
+      - "E0010005 303635EC"
+      - "103635EC 00000005"
+
+  - name: "100% Complete"
+    author: "Code Master"
+    notes: "[Avalanche Alley Codes]"
+    codes:
+      - "1049D0D0 00000064"
+
+  - name: "Best Time Trial"
+    author: "Code Master"
+    notes: "[Avalanche Alley Codes]"
+    codes:
+      - "2049D064 00000000"
+
+  - name: "Have Level Completed"
+    author: "Code Master"
+    notes: "[Avalanche Alley Codes]"
+    codes:
+      - "2049D05C 00000001"
+
+  - name: "Max Apples"
+    author: "Code Master"
+    notes: "[Avalanche Alley Codes]"
+    codes:
+      - "1049D082 00000063"
+
+  - name: "Max Apples Total"
+    author: "Code Master"
+    notes: "[Avalanche Alley Codes]"
+    codes:
+      - "1049D076 00000063"
+
+  - name: "Max Cherries"
+    author: "Code Master"
+    notes: "[Avalanche Alley Codes]"
+    codes:
+      - "1049D07C 00000063"
+
+  - name: "Max Cherries Total"
+    author: "Code Master"
+    notes: "[Avalanche Alley Codes]"
+    codes:
+      - "1049D070 00000063"
+
+  - name: "Max Dots"
+    author: "Code Master"
+    notes: "[Avalanche Alley Codes]"
+    codes:
+      - "1049D0CA 000003E7"
+
+  - name: "Max Dots Total"
+    author: "Code Master"
+    notes: "[Avalanche Alley Codes]"
+    codes:
+      - "1049D0C8 000003E7"
+
+  - name: "Max Galaxians"
+    author: "Code Master"
+    notes: "[Avalanche Alley Codes]"
+    codes:
+      - "1049D086 00000063"
+
+  - name: "Max Galaxians Total"
+    author: "Code Master"
+    notes: "[Avalanche Alley Codes]"
+    codes:
+      - "1049D07A 00000063"
+
+  - name: "Max Melons Total"
+    author: "Code Master"
+    notes: "[Avalanche Alley Codes]"
+    codes:
+      - "1049D078 00000063"
+
+  - name: "Max Oranges"
+    author: "Code Master"
+    notes: "[Avalanche Alley Codes]"
+    codes:
+      - "1049D080 00000063"
+
+  - name: "Max Oranges Total"
+    author: "Code Master"
+    notes: "[Avalanche Alley Codes]"
+    codes:
+      - "1049D074 00000063"
+
+  - name: "Max Peaches"
+    author: "Code Master"
+    notes: "[Avalanche Alley Codes]"
+    codes:
+      - "1049D084 00000063"
+
+  - name: "Max Score"
+    author: "Code Master"
+    notes: "[Avalanche Alley Codes]"
+    codes:
+      - "2049D06C 000F423F"
+
+  - name: "Max Strawberries"
+    author: "Code Master"
+    notes: "[Avalanche Alley Codes]"
+    codes:
+      - "1049D07E 00000063"
+
+  - name: "Max Strawberries Total"
+    author: "Code Master"
+    notes: "[Avalanche Alley Codes]"
+    codes:
+      - "1049D072 00000063"
+
+  - name: "Open Next Path"
+    author: "Code Master"
+    notes: "[Avalanche Alley Codes]"
+    codes:
+      - "2049D0E0 00000001"
+
+  - name: "Blurry Mode (Press Select+R1 To Activate)"
+    author: "Codejunkies"
+    notes: "[Blur Codes]"
+    codes:
+      - "D05F5DC2 0000F7FE"
+      - "205B770C 00680002"
+
+  - name: "Normal Blur (Press Select+R1+R2 To Activate)"
+    author: "Codejunkies"
+    notes: "[Blur Codes]"
+    codes:
+      - "D05F5DC2 0000F5FF"
+      - "205B770C 00000002"
+
+  - name: "Sweaty Pac-Ball (Press L1+L2 To Activate; Press L2+R2 To Deactivate)"
+    author: "Codejunkies"
+    notes: "[Blur Codes]"
+    codes:
+      - "D05F5DC2 0000F3FF"
+      - "201E8324 24110005"
+      - "D05F5DC2 0000FCFF"
+      - "201E8324 24110005"
+
+  - name: "Totally Drunk Mode (Press Select+R2 To Activate)"
+    author: "Codejunkies"
+    notes: "[Blur Codes]"
+    codes:
+      - "D05F5DC2 0000FDFE"
+      - "205B770C 00780002"
+
+  - name: "Never Have Above 2 Cherries"
+    author: "Codejunkies"
+    notes: "[Cherry Codes]"
+    codes:
+      - "E0010002 303635E4"
+      - "103635E4 00000002"
+
+  - name: "Never Have Above 5 Cherries"
+    author: "Codejunkies"
+    notes: "[Cherry Codes]"
+    codes:
+      - "E0010005 303635E4"
+      - "103635E4 00000005"
+
+  - name: "Hyper Game Modifiere (Press Select+L1 To Activate)"
+    author: "Codejunkies"
+    notes: "[Game Speed Codes]"
+    codes:
+      - "D05F5DC2 0000FBFE"
+      - "205BA924 40000000"
+
+  - name: "Invincible Pac-Man (Not Ghosts)"
+    author: "Codejunkies"
+    notes: "[Game Speed Codes]"
+    codes:
+      - "205B7BB0 FFFFFFFF"
+
+  - name: "Invisible Pac-Man"
+    author: "Codejunkies"
+    notes: "[Game Speed Codes]"
+    codes:
+      - "205B8D6C 00000001"
+
+  - name: "Normal Speed (Press Select+L1+L2 To Activate)"
+    author: "Codejunkies"
+    notes: "[Game Speed Codes]"
+    codes:
+      - "D05F5DC2 0000FAFF"
+      - "205BA924 3F800000"
+
+  - name: "Slow Motion Modifiere (Press Select+L2 To Activate)"
+    author: "Codejunkies"
+    notes: "[Game Speed Codes]"
+    codes:
+      - "D05F5DC2 0000FEFE"
+      - "205BA924 3E000000"
+
+  - name: "Get Fruits From Anywhere"
+    author: "nolberto82"
+    codes:
+      - "20229AF8 00000000"
+
+  - name: "Low Gravity"
+    author: "InterAct"
+    notes: "[Gravity Codes]"
+    codes:
+      - "205B8758 3E000000"
+
+  - name: "Moon Gravity"
+    author: "InterAct"
+    notes: "[Gravity Codes]"
+    codes:
+      - "205B8758 3D000000"
+
+  - name: "Pac-Man Is Very Fast"
+    author: "Codejunkies"
+    notes: "[Gravity Codes]"
+    codes:
+      - "205B875C 3FE00000"
+
+  - name: "Perfect Moon Jump"
+    author: "InterAct"
+    notes: "[Gravity Codes]"
+    codes:
+      - "205B8758 3DC00000"
+
+  - name: "Super Gravity"
+    author: "InterAct"
+    notes: "[Gravity Codes]"
+    codes:
+      - "205B8758 3F800000"
+
+  - name: "Super Low Gravity"
+    author: "InterAct"
+    notes: "[Gravity Codes]"
+    codes:
+      - "205B8758 3A000000"
+
+  - name: "Yellow Shadows (Old School)"
+    author: "Codejunkies"
+    notes: "[Gravity Codes]"
+    codes:
+      - "205BA8C8 FF00FFFF"
+
+  - name: "Bonus Token 1"
+    author: "Code Master"
+    notes: "[Have Token Codes]"
+    codes:
+      - "2049CC80 00000001"
+
+  - name: "Bonus Token 2"
+    author: "Code Master"
+    notes: "[Have Token Codes]"
+    codes:
+      - "2049D14C 00000001"
+
+  - name: "Extra Token 1"
+    author: "Code Master"
+    notes: "[Have Token Codes]"
+    codes:
+      - "2049CBF8 00000001"
+
+  - name: "Token 1"
+    author: "Code Master"
+    notes: "[Have Token Codes]"
+    codes:
+      - "2049D788 00000001"
+
+  - name: "Token 2"
+    author: "Code Master"
+    notes: "[Have Token Codes]"
+    codes:
+      - "2049D12C 00000001"
+
+  - name: "Token 3"
+    author: "Code Master"
+    notes: "[Have Token Codes]"
+    codes:
+      - "2049D130 00000001"
+
+  - name: "Token 4"
+    author: "Code Master"
+    notes: "[Have Token Codes]"
+    codes:
+      - "2049D0AC 00000001"
+
+  - name: "Token 5"
+    author: "Code Master"
+    notes: "[Have Token Codes]"
+    codes:
+      - "2049CBE8 00000001"
+
+  - name: "Token 6"
+    author: "Code Master"
+    notes: "[Have Token Codes]"
+    codes:
+      - "2049D13C 00000001"
+
+  - name: "Token 7"
+    author: "Code Master"
+    notes: "[Have Token Codes]"
+    codes:
+      - "2049D690 00000001"
+
+  - name: "Token 8"
+    author: "Code Master"
+    notes: "[Have Token Codes]"
+    codes:
+      - "2049CE14 00000001"
+
+  - name: "Jump In Midair"
+    author: "nolberto82"
+    codes:
+      - "201E957C 00000000"
+      - "201E95A0 10000006"
+
+  - name: "Have 99 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "10495B50 00000063"
+
+  - name: "Never Have More Than 1 Life"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E0010001 30495B50"
+      - "10495B50 00000001"
+
+  - name: "Never Have More Than 2 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E0010002 30495B50"
+      - "10495B50 00000002"
+
+  - name: "Never Have More Than 3 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E0010003 30495B50"
+      - "10495B50 00000003"
+
+  - name: "All Map Levels"
+    author: "InterAct"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "205B86C4 FFFFFFFF"
+
+  - name: "Always Eat Ghosts (Ms Pac-Man Arcade)"
+    author: "InterAct"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "205CAE28 00000000"
+      - "205CAE54 00000000"
+      - "205CAE80 00000000"
+      - "205CAEAC 00000000"
+
+  - name: "Always Eat Ghosts (Pac-Man Arcade)"
+    author: "InterAct"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "205ED488 00000000"
+      - "205ED4B4 00000000"
+      - "205ED4E0 00000000"
+      - "205ED50C 00000000"
+
+  - name: "Always Pac-Man Piece (Pac-Attack Arcade)"
+    author: "InterAct"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "0057E328 00000001"
+
+  - name: "Awesome Score (Ms Pac-Man Arcade)"
+    author: "InterAct"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "205CADC8 000F423F"
+
+  - name: "Awesome Score (Pac-Man Arcade)"
+    author: "InterAct"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "205BB878 000F423F"
+
+  - name: "Engine Speed Modifier (Default 3F800000)"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "205BA924 ????????"
+
+  - name: "Extra Lives"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "10177008 00000001"
+
+  - name: "G Blur Alpha Modifier (Default 00)"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "005B770E 000000??"
+
+  - name: "G Blur Scale Modifier (Default 00)"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "005B770F 000000??"
+
+  - name: "G Brighten RGBA Modifier (Default 00000000)"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "205B7714 ????????"
+
+  - name: "G Brightness Modifier (Default 00)"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "005B7710 000000??"
+
+  - name: "Ghosts Are Frozen"
+    author: "InterAct"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "205B7B80 FFFFFFFF"
+
+  - name: "Ghosts Paused"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "205B7B80 00000001"
+
+  - name: "Global Filter Modifier (Default 0002)"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "105B770C 0000????"
+
+  - name: "Gravity Modifier (Default 3E4ccccd)"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "205B8758 ????????"
+
+  - name: "Idiot AI (Classic Mode)"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "20194AC8 03E00008"
+      - "20194ACC 00000000"
+
+  - name: "Infinite Lives"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "10495B50 00000009"
+
+  - name: "Infinite Lives (Ms Pac-Man Arcade)"
+    author: "InterAct"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "005BB690 00000004"
+
+  - name: "Infinite Lives (Pac-Man Arcade)"
+    author: "InterAct"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "005BB840 00000004"
+
+  - name: "Invincible"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "20176E50 03E00008"
+      - "20176E54 00000000"
+
+  - name: "Max Dots Eaten"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "205B9F50 000003E7"
+
+  - name: "Max Mellons"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "103635F4 00000063"
+
+  - name: "Max Score (Pac-Attack Arcade)"
+    author: "InterAct"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "2057E41C 0098967F"
+
+  - name: "Max Tokens"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "10495B80 000000C8"
+
+  - name: "Pac-Man Always Sweats"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "201E8324 24110005"
+
+  - name: "Pacman Global Movement Tweak Modifier (Default 3F800000)"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "205B875C ????????"
+
+  - name: "Pacman Global Scale Modifier (Default 3F800000)"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "205B9104 ????????"
+
+  - name: "Press L1+R1 To Enable Sweaty Pac-Ball (Press X To Sweat.)"
+    author: "InterAct"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "D05F5DC2 0000F3FF"
+      - "201E8324 24110005"
+
+  - name: "Remove Health Meter On Screen"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "205B7BBC 00000000"
+
+  - name: "Shadow Color Modifier (Default 000000, RGB, Like HTML)"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "205BA8C8 00??????"
+
+  - name: "Unlock All Levels"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "205B86C4 00000001"
+
+  - name: "Moon Jump"
+    author: "nolberto82"
+    codes:
+      - "201E957C 00000000"
+      - "201E95A0 10000006"
+      - "201E6E3C 00000000"
+
+  - name: "Always Eat Ghost 1"
+    author: "Code Master"
+    notes: "[Ms. Pac-Man Arcade Codes]"
+    codes:
+      - "205CAE28 00000000"
+
+  - name: "Always Eat Ghost 2"
+    author: "Code Master"
+    notes: "[Ms. Pac-Man Arcade Codes]"
+    codes:
+      - "205CAE54 00000000"
+
+  - name: "Always Eat Ghost 3"
+    author: "Code Master"
+    notes: "[Ms. Pac-Man Arcade Codes]"
+    codes:
+      - "205CAE80 00000000"
+
+  - name: "Always Eat Ghost 4"
+    author: "Code Master"
+    notes: "[Ms. Pac-Man Arcade Codes]"
+    codes:
+      - "205CAEAC 00000000"
+
+  - name: "Quick Score Gain"
+    author: "Code Master"
+    notes: "[Ms. Pac-Man Arcade Codes]"
+    codes:
+      - "105CADC8 0000FFFF"
+
+  - name: "Always Pac-Man Piece"
+    author: "Code Master"
+    notes: "[Pac-Attack Arcade Codes]"
+    codes:
+      - "1057E328 00000001"
+
+  - name: "Have 9 Peaches"
+    author: "Codejunkies"
+    notes: "[Peach Codes]"
+    codes:
+      - "103635F0 00000005"
+
+  - name: "Never Have Above 2 Peaches"
+    author: "Codejunkies"
+    notes: "[Peach Codes]"
+    codes:
+      - "E0010002 303635F0"
+      - "103635F0 00000002"
+
+  - name: "Never Have Above 5 Peaches"
+    author: "Codejunkies"
+    notes: "[Peach Codes]"
+    codes:
+      - "E0010005 303635F0"
+      - "103635F0 00000005"
+
+  - name: "Never Have Above 2 Ships"
+    author: "Codejunkies"
+    notes: "[Ship Codes]"
+    codes:
+      - "E0010002 303635F4"
+      - "103635F4 00000002"
+
+  - name: "Never Have Above 5 Ships"
+    author: "Codejunkies"
+    notes: "[Ship Codes]"
+    codes:
+      - "E0010005 303635F4"
+      - "103635F4 00000005"
+
+  - name: "Huge Modifiere (Press Select+Cross To Activate)"
+    author: "Codejunkies"
+    notes: "[Size Codes]"
+    codes:
+      - "D05F5DC2 0000BFFE"
+      - "205B9104 3FD00000"
+
+  - name: "Micro Modifiere (Press Select+Triangle To Activate)"
+    author: "Codejunkies"
+    notes: "[Size Codes]"
+    codes:
+      - "D05F5DC2 0000EFFE"
+      - "205B9104 3DD00000"
+
+  - name: "Mini Modifiere (Press Select+Circle To Activate)"
+    author: "Codejunkies"
+    notes: "[Size Codes]"
+    codes:
+      - "D05F5DC2 0000DFFE"
+      - "205B9104 3E900000"
+
+  - name: "Normal Size (Press Select+Square To Activate)"
+    author: "Codejunkies"
+    notes: "[Size Codes]"
+    codes:
+      - "D05F5DC2 00007FFE"
+      - "205B9104 3F800000"
+
+  - name: "Press L2+R2 To Disable Sweaty Pac-Ball"
+    author: "InterAct"
+    notes: "[Speed Codes]"
+    codes:
+      - "D05F5DC2 0000FCFF"
+      - "201E8324 24110005"
+
+  - name: "Never Have Above 2 Strawberries"
+    author: "Codejunkies"
+    notes: "[Strawberry Codes]"
+    codes:
+      - "E0010002 303635E8"
+      - "103635E8 00000002"
+
+  - name: "Never Have Above 5 Strawberries"
+    author: "Codejunkies"
+    notes: "[Strawberry Codes]"
+    codes:
+      - "E0010005 303635E8"
+      - "103635E8 00000005"

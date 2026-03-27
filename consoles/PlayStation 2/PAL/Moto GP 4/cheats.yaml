@@ -1,0 +1,56 @@
+# Moto GP 4 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-52892
+
+game: "Moto GP 4"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-52892"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F026DD10 0026DD13"
+
+  - name: "Buy Even Without GP Points"
+    author: "luc-ita"
+    codes:
+      - "201A5B74 10000006"
+      - "201B6894 00000000"
+
+  - name: "Drive Anywhere (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "202040A0 00000000"
+
+  - name: "Freeze Challenge Timers"
+    author: "Codejunkies"
+    codes:
+      - "202065C8 00000000"
+
+  - name: "Freeze Training Timers"
+    author: "Codejunkies"
+    codes:
+      - "201BABF8 00000000"
+
+  - name: "No Loss Of Speed If You Go Off The Road Or Collide With Walls"
+    author: "luc-ita"
+    codes:
+      - "201FE6E0 00000000"
+      - "20257494 00000000"
+      - "20257474 00000000"
+
+  - name: "Opponents Don't Move"
+    author: "luc-ita"
+    codes:
+      - "202033D0 10000261"
+
+  - name: "Spend Some GP For Lots Of Current GP"
+    author: "Codejunkies"
+    codes:
+      - "201B688C 3C0F000F"

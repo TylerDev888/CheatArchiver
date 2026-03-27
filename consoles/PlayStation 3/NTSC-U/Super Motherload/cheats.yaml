@@ -1,0 +1,26 @@
+# Super Motherload cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUB31341
+
+game: "Super Motherload"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUB31341"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "All Characters Money 999,999,999"
+    notes: "File: NCHAR"
+    codes:
+      - "write at 0x0000003C:0x3B9AC9FF"
+      - "write at 0x000000AC:0x3B9AC9FF"
+      - "write at 0x0000011C:0x3B9AC9FF"
+      - "write at 0x0000018C:0x3B9AC9FF"
+      - "write at 0x000001FC:0x3B9AC9FF"
+      - "write at 0x0000026C:0x3B9AC9FF"
+      - "write at 0x000002DC:0x3B9AC9FF"
+      - "write at 0x0000034C:0x3B9AC9FF"
+      - "write at 0x000003BC:0x3B9AC9FF"
+      - "write at 0x0000042C:0x3B9AC9FF"

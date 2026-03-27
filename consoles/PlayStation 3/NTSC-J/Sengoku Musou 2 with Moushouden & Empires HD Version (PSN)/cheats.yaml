@@ -1,0 +1,25 @@
+# Sengoku Musou 2 with Moushouden & Empires HD Version (PSN) cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  NPJB00439
+
+game: "Sengoku Musou 2 with Moushouden & Empires HD Version (PSN)"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "NPJB00439"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Money 9999999"
+    notes: "File: DATA.BIN"
+    codes:
+      - "20002758 0098967F"
+
+  - name: "Update Add For Data.bin (required)"
+    notes: "File: DATA.BIN"
+    codes:
+      - "set [csum]:0"
+      - "set [csum]:add(0x000008,0x0036DF)"
+      - "write at 0x0036E0:[csum]"
+      - "write at 0x023790:[csum]"

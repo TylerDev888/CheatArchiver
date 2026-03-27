@@ -1,0 +1,24 @@
+# Monochrome Factor_ Cross Road cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-55103
+
+game: "Monochrome Factor_ Cross Road"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-55103"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010FD98 0C043F0E"
+
+  - name: "Replace New Game With Debug Menu"
+    author: "punk7890"
+    codes:
+      - "D0C1D6E4 00000001"
+      - "10C1D6E4 00000004"

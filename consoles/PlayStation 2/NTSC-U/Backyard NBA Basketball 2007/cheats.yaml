@@ -1,0 +1,138 @@
+# Backyard NBA Basketball 2007 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21485
+
+game: "Backyard NBA Basketball 2007"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21485"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90122088 0C04AF28"
+
+  - name: "Home Team Scores 255"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "206857B4 000000FF"
+
+  - name: "Home Team Scores 150"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "206857B4 00000096"
+
+  - name: "Home Team Scores 0"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "206857B4 00000000"
+
+  - name: "Home Team Starts With 150"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D06857B4 00000000"
+      - "206857B4 00000096"
+
+  - name: "Home Team Starts With 100"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D06857B4 00000000"
+      - "206857B4 00000064"
+
+  - name: "Home Team Starts With 50"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D06857B4 00000000"
+      - "206857B4 00000032"
+
+  - name: "Home Team Starts With 20"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D06857B4 00000000"
+      - "206857B4 00000014"
+
+  - name: "Away Team Scores 255"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "206857B8 000000FF"
+
+  - name: "Away Team Scores 150"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "206857B8 00000096"
+
+  - name: "Away Team Scores 0"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "206857B8 00000000"
+
+  - name: "Away Team Starts With 150"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D06857B8 00000000"
+      - "206857B8 00000096"
+
+  - name: "Away Team Starts With 100"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D06857B8 00000000"
+      - "206857B8 00000064"
+
+  - name: "Away Team Starts With 50"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D06857B8 00000000"
+      - "206857B8 00000032"
+
+  - name: "Away Team Starts With 20"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D06857B8 00000000"
+      - "206857B8 00000014"
+
+  - name: "P1 Press L1+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D11D6F42 0000FBFE"
+      - "20386EAC 00000000"
+
+  - name: "P1 Press L2+Select To Restart Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D11D6F42 0000FEFE"
+      - "20386EAC E48004B8"
+
+  - name: "P2 Press L1+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D11D7C02 0000FBFE"
+      - "20386EAC 00000000"
+
+  - name: "P2 Press L2+Select To Restart Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D11D7C02 0000FEFE"
+      - "20386EAC E48004B8"

@@ -1,0 +1,30 @@
+# Eco Shooter Plant 530 cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  W6BE
+
+game: "Eco Shooter Plant 530"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "W6BE"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Inf Vacume"
+    author: "Skiller"
+    codes:
+      - "040567E8 D27A00F0"
+      - "04056D1C D2630000"
+      - "04056798 D27A00E4"
+
+  - name: "Inf Ammo (ce)"
+    author: "Skiller"
+    codes:
+      - "04040514 7C002215"
+
+  - name: "Hits Dont Lower Ammo(ce)"
+    author: "Skiller"
+    codes:
+      - "040561E4 60000000"
+      - "040561EC 60000000"

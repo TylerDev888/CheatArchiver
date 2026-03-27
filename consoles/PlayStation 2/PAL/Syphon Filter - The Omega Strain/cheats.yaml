@@ -1,0 +1,405 @@
+# Syphon Filter - The Omega Strain cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-52033
+
+game: "Syphon Filter - The Omega Strain"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-52033"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "901001E8 0C045912"
+      - "F026B8E8 0026B8EB"
+      - "2049AA6C 52504F49"
+      - "2049AA70 30383250"
+      - "2049AA74 474D492E"
+      - "2049AA78 0000313B"
+
+  - name: "Invisible (No Awareness)"
+    author: "Codejunkies"
+    notes: "[AI Codes]"
+    codes:
+      - "2016B53C 0805AE3E"
+
+  - name: "Maximum Flashlight"
+    author: "Codejunkies"
+    notes: "[AI Codes]"
+    codes:
+      - "2049ECF8 43000000"
+      - "2049ED00 43000000"
+
+  - name: "Non Aggressive"
+    author: "Codejunkies"
+    notes: "[AI Codes]"
+    codes:
+      - "2016C8C0 03E00008"
+
+  - name: "Open Levels"
+    author: "Codejunkies"
+    notes: "[AI Codes]"
+    codes:
+      - "20338F6C 24020001"
+
+  - name: "Open Weapons"
+    author: "Codejunkies"
+    notes: "[AI Codes]"
+    codes:
+      - "20338AFC 24020001"
+
+  - name: "Play Once To Complete All Objectives"
+    author: "Codejunkies"
+    notes: "[AI Codes]"
+    codes:
+      - "20339AF8 2401FFFF"
+      - "20339AFC AC410084"
+      - "20339B08 24020001"
+
+  - name: "10 Times More Ammo"
+    author: "Codejunkies"
+    notes: "[Ammo Codes]"
+    codes:
+      - "20186794 00000000"
+      - "201867B4 2410000A"
+
+  - name: "2 Times More Ammo"
+    author: "Codejunkies"
+    notes: "[Ammo Codes]"
+    codes:
+      - "20186794 00000000"
+      - "201867B4 24100002"
+
+  - name: "4 Times More Ammo"
+    author: "Codejunkies"
+    notes: "[Ammo Codes]"
+    codes:
+      - "20186794 00000000"
+      - "201867B4 24100004"
+
+  - name: "99 Times More Ammo"
+    author: "Codejunkies"
+    notes: "[Ammo Codes]"
+    codes:
+      - "20186794 00000000"
+      - "201867B4 24100062"
+
+  - name: "Start With Armor Gauge 20 Times Bigger"
+    author: "Codejunkies"
+    notes: "[Armor Codes]"
+    codes:
+      - "20490FD8 00001388"
+
+  - name: "Start With Armor Gauge 3599166 Times Bigger"
+    author: "Codejunkies"
+    notes: "[Armor Codes]"
+    codes:
+      - "20490FD8 7F000000"
+
+  - name: "Start With Armor Gauge 8 Times Bigger"
+    author: "Codejunkies"
+    notes: "[Armor Codes]"
+    codes:
+      - "20490FD8 000007D0"
+
+  - name: "Start With Armor Gauge Twice Bigger"
+    author: "Codejunkies"
+    notes: "[Armor Codes]"
+    codes:
+      - "20490FD8 000001F4"
+
+  - name: "Health Twice Bigger"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "201B6FB4 3C014000"
+      - "201B6FC8 44810000"
+
+  - name: "Health X10 Bigger"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "201B6FB4 3C014120"
+      - "201B6FC8 44810000"
+
+  - name: "Health X100 Bigger"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "201B6FB4 3C0142C8"
+      - "201B6FC8 44810000"
+
+  - name: "Health X3599166 Bigger"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "201B6FB4 3C057F00"
+      - "201B6FD4 3C057F00"
+
+  - name: "X Fix"
+    author: "Codejunkies"
+    notes: "[Screen Fixes Codes]"
+    codes:
+      - "2039D584 0803FF60"
+      - "200FFD80 24010050"
+      - "200FFD84 0061182D"
+      - "200FFD8C 3C011200"
+      - "200FFD90 03E00008"
+      - "200FFD94 FC230080"
+
+  - name: "Y Fix"
+    author: "Codejunkies"
+    notes: "[Screen Fixes Codes]"
+    codes:
+      - "2039D584 0803FF60"
+      - "200FFD80 3C010003"
+      - "200FFD84 0061182F"
+      - "200FFD8C 3C011200"
+      - "200FFD90 03E00008"
+      - "200FFD94 FC230080"
+
+  - name: "Y&X Fix"
+    author: "Codejunkies"
+    notes: "[Screen Fixes Codes]"
+    codes:
+      - "2039D584 0803FF60"
+      - "200FFD80 3C010003"
+      - "200FFD84 0061182F"
+      - "200FFD88 24010050"
+      - "200FFD8C 0061182D"
+      - "200FFD94 3C011200"
+      - "200FFD98 03E00008"
+      - "200FFD9C FC230080"
+
+  - name: "1 Hit Kill"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "200FFEC0 3C010050"
+      - "200FFEC4 8C21F658"
+      - "200FFEC8 14350002"
+      - "200FFED0 08061F42"
+      - "200FFED8 08061EFE"
+      - "20187BF0 0803FFB0"
+
+  - name: "Everybody But Hero Slower (/2)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "200FFF00 3C030050"
+      - "200FFF04 8C63F658"
+      - "200FFF08 24632ED0"
+      - "200FFF0C 14A30002"
+      - "200FFF10 3C013F00"
+      - "200FFF14 3C013F80"
+      - "200FFF1C 44810000"
+      - "200FFF20 080F3D19"
+      - "203CF460 0803FFC0"
+
+  - name: "Everybody But Hero Slower (/4)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "200FFF00 3C030050"
+      - "200FFF04 8C63F658"
+      - "200FFF08 24632ED0"
+      - "200FFF0C 14A30002"
+      - "200FFF10 3C013E80"
+      - "200FFF14 3C013F80"
+      - "200FFF1C 44810000"
+      - "200FFF20 080F3D19"
+      - "203CF460 0803FFC0"
+
+  - name: "Everybody Quick (X1.5)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "200FFF00 3C013FC0"
+      - "200FFF04 44810000"
+      - "200FFF20 080F3D19"
+      - "203CF460 0803FFC0"
+
+  - name: "Everybody Quick (X2)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "200FFF00 3C014000"
+      - "200FFF04 44810000"
+      - "200FFF20 080F3D19"
+      - "203CF460 0803FFC0"
+
+  - name: "Everybody Quick (X3)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "200FFF00 3C014040"
+      - "200FFF04 44810000"
+      - "200FFF20 080F3D19"
+      - "203CF460 0803FFC0"
+
+  - name: "FPS Mode"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "2017BFBC 00000000"
+      - "202462B0 AC800934"
+
+  - name: "Freeze Timer"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "2023B720 AE0006DC"
+      - "2023B724 44800000"
+
+  - name: "God Mode"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "200FFFC0 3C010050"
+      - "200FFFC4 8C21F658"
+      - "200FFFC8 10240002"
+      - "200FFFD0 E6800040"
+      - "200FFFD8 080FB962"
+      - "203EE580 0803FFF0"
+
+  - name: "Levitation Mode (Press L3 To Activate, Press R3 To Stop. Whilst In Levitation Mode; Press L3+Triangle To Go Up; L3+X To Go Down)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "100FFE00 00000000"
+      - "D056549C 0000EFFD"
+      - "100FFE00 00003F80"
+      - "D056549C 0000BFFD"
+      - "100FFE00 0000BF80"
+      - "E002FFFD 0056549C"
+      - "201E2CC4 24020000"
+      - "2019F9F8 0803FF7C"
+      - "E002FFFB 0056549C"
+      - "201E2CC4 92A20012"
+      - "2019F9F8 C4400008"
+      - "200FFDF0 3C010050"
+      - "200FFDF4 8C21F658"
+      - "200FFDF8 14310006"
+      - "100FFE02 00003C01"
+      - "200FFE04 C4400008"
+      - "200FFE08 44811000"
+      - "200FFE0C 46020000"
+      - "200FFE10 E4400008"
+      - "200FFE14 08067E7F"
+
+  - name: "Quick Hero (X1.5)-Slow Opponents(/2)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "200FFF00 3C030050"
+      - "200FFF04 8C63F658"
+      - "200FFF08 24632ED0"
+      - "200FFF0C 14A30002"
+      - "200FFF10 3C013F00"
+      - "200FFF14 3C013FC0"
+      - "200FFF1C 44810000"
+      - "200FFF20 080F3D19"
+      - "203CF460 0803FFC0"
+
+  - name: "Quick Hero (X1.5)-Slow Opponents(/4)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "200FFF00 3C030050"
+      - "200FFF04 8C63F658"
+      - "200FFF08 24632ED0"
+      - "200FFF0C 14A30002"
+      - "200FFF10 3C013E80"
+      - "200FFF14 3C013FC0"
+      - "200FFF1C 44810000"
+      - "200FFF20 080F3D19"
+      - "203CF460 0803FFC0"
+
+  - name: "Quick Hero (X2)-Slow Opponents(/2)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "200FFF00 3C030050"
+      - "200FFF04 8C63F658"
+      - "200FFF08 24632ED0"
+      - "200FFF0C 14A30002"
+      - "200FFF10 3C013F00"
+      - "200FFF14 3C014000"
+      - "200FFF1C 44810000"
+      - "200FFF20 080F3D19"
+      - "203CF460 0803FFC0"
+
+  - name: "Quick Hero (X2)-Slow Opponents(/4)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "200FFF00 3C030050"
+      - "200FFF04 8C63F658"
+      - "200FFF08 24632ED0"
+      - "200FFF0C 14A30002"
+      - "200FFF10 3C013E80"
+      - "200FFF14 3C014000"
+      - "200FFF1C 44810000"
+      - "200FFF20 080F3D19"
+      - "203CF460 0803FFC0"
+
+  - name: "Quick Hero Only (X1.5)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "200FFF00 3C030050"
+      - "200FFF04 8C63F658"
+      - "200FFF08 24632ED0"
+      - "200FFF0C 14A30002"
+      - "200FFF10 3C013F80"
+      - "200FFF14 3C013FC0"
+      - "200FFF1C 44810000"
+      - "200FFF20 080F3D19"
+      - "203CF460 0803FFC0"
+
+  - name: "Quick Hero Only (X2)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "200FFF00 3C030050"
+      - "200FFF04 8C63F658"
+      - "200FFF08 24632ED0"
+      - "200FFF0C 14A30002"
+      - "200FFF10 3C013F80"
+      - "200FFF14 3C014000"
+      - "200FFF1C 44810000"
+      - "200FFF20 080F3D19"
+      - "203CF460 0803FFC0"
+
+  - name: "Quick Hero Only (X3)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "200FFF00 3C030050"
+      - "200FFF04 8C63F658"
+      - "200FFF08 24632ED0"
+      - "200FFF0C 14A30002"
+      - "200FFF10 3C013F80"
+      - "200FFF14 3C014040"
+      - "200FFF1C 44810000"
+      - "200FFF20 080F3D19"
+      - "203CF460 0803FFC0"
+
+  - name: "Walk Through Walls (Press L3 For Walk Thru Walls, R3 To Stop)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "D056549C 0000FFFD"
+      - "201E2CC4 24020000"
+      - "D056549C 0000FFFB"
+      - "201E2CC4 92A20012"
+
+  - name: "60 Hertz Mode"
+    author: "Codejunkies"
+    codes:
+      - "201028B8 24120002"

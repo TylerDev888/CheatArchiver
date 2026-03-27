@@ -1,0 +1,500 @@
+# Mercenaries 2-World In Flames cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21650
+
+game: "Mercenaries 2-World In Flames"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21650"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Lajos Szalay"
+    notes: "[Masters]"
+    codes:
+      - "904903A8 0C109375"
+      - "2012EF74 00441021"
+
+  - name: "P1 Press Select To Skip FMV"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "2049B128 24020001"
+      - "D0A83D1C 0000FFFE"
+      - "2049B128 8C620000"
+
+  - name: "Infinite Health"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 3C014448"
+      - "200C0224 0804E1C7"
+      - "200C0228 AE010098"
+      - "20138610 08030088"
+
+  - name: "Infinite Grenades"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "2012A054 00000000"
+
+  - name: "Extra Grenades"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "2012A044 00441021"
+
+  - name: "Infinite Ammo/Never Reload"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "2012BEC8 00000000"
+
+  - name: "Max Infinite Ammo"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "200C0230 240103E7"
+      - "200C0234 4481A000"
+      - "200C0238 080577D7"
+      - "200C023C E454022C"
+      - "2015DF58 0803008C"
+
+  - name: "Max Infinite Funds"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "200C0240 3C014CBE"
+      - "200C0244 3421BC20"
+      - "200C0248 AC4112B0"
+      - "200C024C 03E00008"
+      - "200C0250 8E020044"
+      - "2029EAC4 0C030090"
+
+  - name: "Infinite Fuel Reserves"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "2017BA54 00000000"
+
+  - name: "Max Infinite Fuel Reserves"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "200C0260 C4401678"
+      - "200C0264 E4401674"
+      - "200C0268 03E00008"
+      - "200C026C 8E020044"
+      - "2029F3E4 0C030098"
+
+  - name: "Max All Stockpile Items"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "2020D5A0 24010009"
+      - "2020D5A4 AC41025C"
+
+  - name: "P1 Press R3+Left Disable Mission Timer"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "D0A83D1C 0000FF7B"
+      - "2032F390 00000000"
+
+  - name: "P1 Press R3+Right Enable Mission Timer"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "D0A83D1C 0000FFDB"
+      - "2032F390 C44C002C"
+
+  - name: "P1 Press Circle To Moon Jump"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "D0A83D1C 0000DFFF"
+      - "204FB760 30000000"
+      - "D0A83D1C 0000FFFF"
+      - "204FB760 40200000"
+
+  - name: "Univ. Petroleum"
+    author: "Lajos Szalay"
+    notes: "[Always Good Faction Codes]"
+    codes:
+      - "205C8504 3F800000"
+
+  - name: "Pirates"
+    author: "Lajos Szalay"
+    notes: "[Always Good Faction Codes]"
+    codes:
+      - "205C8534 3F800000"
+
+  - name: "Guerrillas"
+    author: "Lajos Szalay"
+    notes: "[Always Good Faction Codes]"
+    codes:
+      - "205C8564 3F800000"
+
+  - name: "Allies"
+    author: "Lajos Szalay"
+    notes: "[Always Good Faction Codes]"
+    codes:
+      - "205C8594 3F800000"
+
+  - name: "Chinese"
+    author: "Lajos Szalay"
+    notes: "[Always Good Faction Codes]"
+    codes:
+      - "205C85C4 3F800000"
+
+  - name: "P1 Press L3+Left To All Good Factions"
+    author: "Lajos Szalay"
+    notes: "[Always Good Faction Codes]"
+    codes:
+      - "E005FF7D 00A83D1C"
+      - "205C8504 3F800000"
+      - "205C8594 3F800000"
+      - "205C8534 3F800000"
+      - "205C8564 3F800000"
+      - "205C85C4 3F800000"
+
+  - name: "P1 Press L3+Right Reset To All Neutral Factions"
+    author: "Lajos Szalay"
+    notes: "[Always Good Faction Codes]"
+    codes:
+      - "E005FFDD 00A83D1C"
+      - "205C8504 3DCCCCCD"
+      - "205C8594 3DCCCCCD"
+      - "205C8534 3DCCCCCD"
+      - "205C8564 3DCCCCCD"
+      - "205C85C4 3DCCCCCD"
+
+  - name: "Jen"
+    author: "Lajos Szalay"
+    notes: "[Change Player Character Codes [Note 2]]"
+    codes:
+      - "205C8714 707E723D"
+
+  - name: "Mattias"
+    author: "Lajos Szalay"
+    notes: "[Change Player Character Codes [Note 2]]"
+    codes:
+      - "205C8714 C3C67997"
+
+  - name: "Chris"
+    author: "Lajos Szalay"
+    notes: "[Change Player Character Codes [Note 2]]"
+    codes:
+      - "205C8714 B5D9D774"
+
+  - name: "Infinite Ammo/Grenades (All Weapons)"
+    author: "Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "20575898 00000001"
+
+  - name: "God Mode"
+    author: "Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "605CEFCC 00000006"
+      - "60000001 00000110"
+
+  - name: "P1 Press L2+Left Display Factions Enable"
+    author: "Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "E005FE7F 00A83D1C"
+      - "205CC35C 00000001"
+      - "205CC39C 00000001"
+      - "205CC3FC 00000001"
+      - "205CC45C 00000001"
+      - "205CC4BC 00000001"
+
+  - name: "P1 Press L2+Right Display Factions Disable"
+    author: "Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "E005FEDF 00A83D1C"
+      - "205CC35C 00000000"
+      - "205CC39C 00000000"
+      - "205CC3FC 00000000"
+      - "205CC45C 00000000"
+      - "205CC4BC 00000000"
+
+  - name: "P1 Press R2+Left Big Map Onscreen Enable"
+    author: "Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "D0A83D1C 0000FD7F"
+      - "205310A8 42F40000"
+
+  - name: "P1 Press R2+Right Big Map Onscreen Disable"
+    author: "Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "D0A83D1C 0000FDDF"
+      - "205310A8 42240000"
+
+  - name: "P1 Press Select+Up No Texture Enable"
+    author: "Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "D0A83D1C 0000FFEE"
+      - "20620EE9 00000000"
+
+  - name: "P1 Press Select+Down No Texture Disable"
+    author: "Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "D0A83D1C 0000FFBE"
+      - "20620EE9 00000001"
+
+  - name: "Total Play Time 0:00:00"
+    author: "Lajos Szalay"
+    notes: "[Statistics Codes]"
+    codes:
+      - "2061FE40 00000000"
+
+  - name: "Always 1St Save"
+    author: "Lajos Szalay"
+    notes: "[Statistics Codes]"
+    codes:
+      - "2061FE18 00000000"
+
+  - name: "Max Number Of Grenades Thrown"
+    author: "Lajos Szalay"
+    notes: "[Statistics Codes]"
+    codes:
+      - "2061FE24 05F5E0FF"
+
+  - name: "No Number Of Grenades Thrown"
+    author: "Lajos Szalay"
+    notes: "[Statistics Codes]"
+    codes:
+      - "2061FE24 00000000"
+
+  - name: "Max Number Of C4 Cgarges Placed"
+    author: "Lajos Szalay"
+    notes: "[Statistics Codes]"
+    codes:
+      - "2061FE20 05F5E0FF"
+
+  - name: "No Number Of C4 Cgarges Placed"
+    author: "Lajos Szalay"
+    notes: "[Statistics Codes]"
+    codes:
+      - "2061FE20 00000000"
+
+  - name: "Max Number Of Rockets Fired"
+    author: "Lajos Szalay"
+    notes: "[Statistics Codes]"
+    codes:
+      - "2061FE28 05F5E0FF"
+
+  - name: "No Number Of Rockets Fired"
+    author: "Lajos Szalay"
+    notes: "[Statistics Codes]"
+    codes:
+      - "2061FE28 00000000"
+
+  - name: "Max Number Of Bullets Fired"
+    author: "Lajos Szalay"
+    notes: "[Statistics Codes]"
+    codes:
+      - "2061FE1C 05F5E0FF"
+
+  - name: "No Number Of Bullets Fired"
+    author: "Lajos Szalay"
+    notes: "[Statistics Codes]"
+    codes:
+      - "2061FE1C 00000000"
+
+  - name: "Max Medevacs"
+    author: "Lajos Szalay"
+    notes: "[Statistics Codes]"
+    codes:
+      - "2061FE14 05F5E0FF"
+
+  - name: "No Medevacs"
+    author: "Lajos Szalay"
+    notes: "[Statistics Codes]"
+    codes:
+      - "2061FE14 00000000"
+
+  - name: "Max Critical Hits"
+    author: "Lajos Szalay"
+    notes: "[Statistics Codes]"
+    codes:
+      - "2061FE2C 05F5E0FF"
+
+  - name: "No Critical Hits"
+    author: "Lajos Szalay"
+    notes: "[Statistics Codes]"
+    codes:
+      - "2061FE2C 00000000"
+
+  - name: "Max Deaths"
+    author: "Lajos Szalay"
+    notes: "[Statistics Codes]"
+    codes:
+      - "2061FE10 05F5E0FF"
+
+  - name: "No Deaths"
+    author: "Lajos Szalay"
+    notes: "[Statistics Codes]"
+    codes:
+      - "2061FE10 00000000"
+
+  - name: "Max Retries"
+    author: "Lajos Szalay"
+    notes: "[Statistics Codes]"
+    codes:
+      - "2061FE0C 05F5E0FF"
+
+  - name: "No Retries"
+    author: "Lajos Szalay"
+    notes: "[Statistics Codes]"
+    codes:
+      - "2061FE0C 00000000"
+
+  - name: "Max Universal Petroleum Killed"
+    author: "Lajos Szalay"
+    notes: "[Humans Killed Codes]"
+    codes:
+      - "2061FD14 4CBEBC20"
+
+  - name: "No Universal Petroleum Killed"
+    author: "Lajos Szalay"
+    notes: "[Humans Killed Codes]"
+    codes:
+      - "2061FD14 00000000"
+
+  - name: "Max Pirates Killed"
+    author: "Lajos Szalay"
+    notes: "[Humans Killed Codes]"
+    codes:
+      - "2061FD40 4CBEBC20"
+
+  - name: "No Venezuelan Army Killed"
+    author: "Lajos Szalay"
+    notes: "[Humans Killed Codes]"
+    codes:
+      - "2061FD40 00000000"
+
+  - name: "Max Manley SAM Destroyed"
+    author: "Lajos Szalay"
+    notes: "[Vehicles Destroyed Codes]"
+    codes:
+      - "2061F504 4CBEBC20"
+
+  - name: "No Manley SAM Destroyed"
+    author: "Lajos Szalay"
+    notes: "[Vehicles Destroyed Codes]"
+    codes:
+      - "2061F504 00000000"
+
+  - name: "Max SM Cargo Destroyed"
+    author: "Lajos Szalay"
+    notes: "[Vehicles Destroyed Codes]"
+    codes:
+      - "2061F6B0 4CBEBC20"
+
+  - name: "No SM Cargo Destroyed"
+    author: "Lajos Szalay"
+    notes: "[Vehicles Destroyed Codes]"
+    codes:
+      - "2061F6B0 00000000"
+
+  - name: "Max Gunney Bird Destroyed"
+    author: "Lajos Szalay"
+    notes: "[Vehicles Destroyed Codes]"
+    codes:
+      - "2061F6D4 4CBEBC20"
+
+  - name: "No Gunney Bird Destroyed"
+    author: "Lajos Szalay"
+    notes: "[Vehicles Destroyed Codes]"
+    codes:
+      - "2061F6D4 00000000"
+
+  - name: "Max Brigante Destroyed"
+    author: "Lajos Szalay"
+    notes: "[Vehicles Destroyed Codes]"
+    codes:
+      - "2061F774 4CBEBC20"
+
+  - name: "No Brigante Destroyed"
+    author: "Lajos Szalay"
+    notes: "[Vehicles Destroyed Codes]"
+    codes:
+      - "2061F774 00000000"
+
+  - name: "Max Serrano Light Tank Destroyed"
+    author: "Lajos Szalay"
+    notes: "[Vehicles Destroyed Codes]"
+    codes:
+      - "2061F860 4CBEBC20"
+
+  - name: "No Serrano Light Tank Destroyed"
+    author: "Lajos Szalay"
+    notes: "[Vehicles Destroyed Codes]"
+    codes:
+      - "2061F860 00000000"
+
+  - name: "Max Bashy Scout Destroyed"
+    author: "Lajos Szalay"
+    notes: "[Vehicles Destroyed Codes]"
+    codes:
+      - "2061F8A0 4CBEBC20"
+
+  - name: "No Bashy Scout Destroyed"
+    author: "Lajos Szalay"
+    notes: "[Vehicles Destroyed Codes]"
+    codes:
+      - "2061F8A0 00000000"
+
+  - name: "Fuel Cans"
+    author: "Lajos Szalay"
+    notes: "[Have All Max Collectibles Items Codes]"
+    codes:
+      - "20A1B778 00000019"
+
+  - name: "Crash Pallets"
+    author: "Lajos Szalay"
+    notes: "[Have All Max Collectibles Items Codes]"
+    codes:
+      - "20A1B774 00000019"
+
+  - name: "Dogtags"
+    author: "Lajos Szalay"
+    notes: "[Have All Max Collectibles Items Codes]"
+    codes:
+      - "20A1B77C 0000000A"
+
+  - name: "Briefcases"
+    author: "Lajos Szalay"
+    notes: "[Have All Max Collectibles Items Codes]"
+    codes:
+      - "20A1B780 0000000A"
+
+  - name: "Pirate Chests"
+    author: "Lajos Szalay"
+    notes: "[Have All Max Collectibles Items Codes]"
+    codes:
+      - "20A1B784 0000000A"
+
+  - name: "Schematics"
+    author: "Lajos Szalay"
+    notes: "[Have All Max Collectibles Items Codes]"
+    codes:
+      - "20A1B788 0000000A"
+
+  - name: "Propagande Materials"
+    author: "Lajos Szalay"
+    notes: "[Have All Max Collectibles Items Codes]"
+    codes:
+      - "20A1B78C 0000000A"

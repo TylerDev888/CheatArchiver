@@ -1,0 +1,44 @@
+# Asterix & Obelix XXL2 - Mission Las Vegum cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53725
+
+game: "Asterix & Obelix XXL2 - Mission Las Vegum"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53725"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "1Hitkill"
+    author: "luc-ita"
+    codes:
+      - "2027AAC8 10000005"
+
+  - name: "Instantly Kill Romans (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "202856B8 24020006"
+      - "D058A602 0000E7FF"
+      - "202856C0 A08202B8"
+      - "D058A602 0000B7FF"
+      - "202856C0 00000000"
+
+  - name: "Jump In Midair"
+    author: "luc-ita"
+    codes:
+      - "20267708 10000046"
+      - "20267738 00000000"
+
+  - name: "Take Roman Helmets Anywhere"
+    author: "luc-ita"
+    codes:
+      - "20299BA0 00000000"
+      - "20299A54 00000000"
+      - "2029986C 00000000"
+
+  - name: "Untouchable"
+    author: "luc-ita"
+    codes:
+      - "202634F4 00000000"

@@ -1,0 +1,22 @@
+# Dragon's Dogma_ Dark Arisen cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01794
+
+game: "Dragon's Dogma_ Dark Arisen"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01794"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Data0.dat (required)"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "set [end]:read(0x8,4)"
+      - "set [end]:[end]+1F"
+      - "set range:0x000020,[end]"
+      - "set [hash]:CRC32"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x000018:[hash]"

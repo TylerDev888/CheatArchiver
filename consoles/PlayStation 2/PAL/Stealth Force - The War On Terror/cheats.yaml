@@ -1,0 +1,36 @@
+# Stealth Force - The War On Terror cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53361
+
+game: "Stealth Force - The War On Terror"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53361"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01D1970 001D1973"
+
+  - name: "Infinite Ammo/No Reloads"
+    author: "Codejunkies"
+    codes:
+      - "2014DA2C 00000000"
+
+  - name: "Infinite Grenade Launcher Ammo"
+    author: "Codejunkies"
+    codes:
+      - "20165618 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "2015A620 0803FFC0"
+      - "200FFF00 24050064"
+      - "200FFF04 AC8500FC"
+      - "200FFF08 03E00008"

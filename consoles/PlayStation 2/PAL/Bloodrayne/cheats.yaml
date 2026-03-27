@@ -1,0 +1,103 @@
+# Bloodrayne cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Bloodrayne"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 002DFACF"
+      - "200C0000 23BDFFE0"
+      - "200C0004 FFA40010"
+      - "200C0008 3C04003B"
+      - "200C000C 34847C08"
+      - "200C0010 94810000"
+      - "200C0014 00000000"
+      - "200C0018 00000000"
+      - "200C001C 00000000"
+      - "200C0020 00000000"
+      - "200C0024 00000000"
+      - "200C0028 00000000"
+      - "200C002C 00000000"
+      - "200C0030 00000000"
+      - "200C0034 00000000"
+      - "200C0038 A4810000"
+      - "200C003C DFA40010"
+      - "200C0040 03E00008"
+      - "200C0044 23BD0020"
+      - "202DFAE4 08030000"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "50A37B98 00000004"
+      - "00A37B94 00000000"
+
+  - name: "Ammunition"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "102C08C4 00000000"
+
+  - name: "God Mode"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "200C0014 34210001"
+
+  - name: "Time Factor"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "200C0018 34210002"
+
+  - name: "Enemies"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "200C001C 34210004"
+
+  - name: "Restore Health"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "200C0020 34210008"
+
+  - name: "Filled Bloodlust"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "200C0024 34210010"
+
+  - name: "Show Weapons"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "200C0028 34210020"
+
+  - name: "Juggy Mode"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "200C002C 34210040"
+
+  - name: "Gratuitous Dismemberment"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "200C0030 34210080"
+
+  - name: "Level Select"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "200C0034 34210100"

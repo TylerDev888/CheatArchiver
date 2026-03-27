@@ -1,0 +1,215 @@
+# RESIDENT EVIL 0 HD  Zero cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB02226
+
+game: "RESIDENT EVIL 0 HD  Zero"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB02226"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Decrypt Data0.dat (required)"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "set range:0x000000,eof+1"
+      - "DECRYPT blowfish_ecb(\"SBmdYgEamc=#sA0)Mhs9#>/4iiXbMPxW\")"
+
+  - name: "Save Count 0 Times"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "0001C90D 00000000"
+      - "0001C923 00000000"
+
+  - name: "Play Time 00:00:00"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "2001C924 00000000"
+
+  - name: "Max Hp Rebecca"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "0001DA17 000000FF"
+
+  - name: "Max Hp Billy"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "0001DB2B 000000FF"
+
+  - name: "Rebecca Physical Strength Maximum (easy)(http://web.save-editor.com/cache/bbs_savedata_ps3/11947.html)"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "0001DB87 00000096"
+
+  - name: "Rebecca Physical Strength Maximum (normal)"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "0001DA17 00000096"
+
+  - name: "Rebecca Physical Strength Maximum (hard)"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "0001D95F 00000096"
+
+  - name: "Rebecca Item 1: Custom Handgun(http://emu.web-g-p.com/info/system/save_ps3_system_title_decrypt_biohazard_0.html)"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "00039097 00000013"
+      - "1003909A 0000000F"
+
+  - name: "Rebecca Item 2: Magnum"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "0003909F 0000000A"
+      - "100390A2 0000000F"
+
+  - name: "Rebecca Item 3: Rocket Launcher (infinite)"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "000390A7 00000017"
+      - "100390AA 0000FFFF"
+
+  - name: "Rebecca Item 4: 9999 First Aid Spray"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "000390AF 00000035"
+      - "100390B2 0000270F"
+
+  - name: "Rebecca Item 5: 9999 Mixed Herbs (full Recovery + Detoxification)"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "000390B7 00000033"
+      - "100390BA 0000270F"
+
+  - name: "Rebecca Item 6: 9999 Ink Ribbons"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "000390BF 00000037"
+      - "100390C2 0000270F"
+
+  - name: "Rebeca Infinite Ammo Slot 1"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "1003909A 0000FFFF"
+
+  - name: "Rebeca Infinite Ammo Slot 2"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "100390A2 0000FFFF"
+
+  - name: "Rebeca Infinite Ammo Slot 3"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "100390AA 0000FFFF"
+
+  - name: "Rebeca Infinite Ammo Slot 4"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "100390B2 0000FFFF"
+
+  - name: "Rebeca Infinite Ammo Slot 5"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "100390BA 0000FFFF"
+
+  - name: "Rebeca Infinite Ammo Slot 6"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "100390C2 0000FFFF"
+
+  - name: "Billy Maximum Health (easy)"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "0001DC9B 000000FA"
+
+  - name: "Billy Maximum Health (normal)"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "0001DB2B 000000FA"
+
+  - name: "Billy Maximum Health (hard)"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "0001DA73 000000FA"
+
+  - name: "Billy's Item 1: Custom Handgun"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "000390D3 00000011"
+      - "100390D6 0000000F"
+
+  - name: "Billy's Item 2: Magnum"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "000390DB 0000000A"
+      - "100390DE 0000000F"
+
+  - name: "Billy's Item 3: Rocket Launcher (infinite)"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "000390E3 00000017"
+      - "100390E6 0000000F"
+
+  - name: "Billy's Item 4: 9999 First Aid Spray"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "000390EB 00000035"
+      - "100390EE 0000270F"
+
+  - name: "Billy's Item 5: 9999 Mixed Herbs (full Recovery + Detoxification)"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "000390F3 00000033"
+      - "100390F6 0000270F"
+
+  - name: "Billy's Item 6: 9999 Ink Ribbons"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "000390FB 00000037"
+      - "100390FE 0000270F"
+
+  - name: "Bill Infinite Ammo Slot 1"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "100390D6 0000FFFF"
+
+  - name: "Bill Infinite Ammo Slot 2"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "100390DE 0000FFFF"
+
+  - name: "Bill Infinite Ammo Slot 3"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "100390E6 0000FFFF"
+
+  - name: "Bill Infinite Ammo Slot 4"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "100390EE 0000FFFF"
+
+  - name: "Bill Infinite Ammo Slot 5"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "100390F6 0000FFFF"
+
+  - name: "Bill Infinite Ammo Slot 6"
+    notes: "[Save Slot 1]  File: DATA0.DAT"
+    codes:
+      - "100390FE 0000FFFF"
+
+  - name: "Update Sha1 For Data0.dat (required)"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000040,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x00000C:[hash]"
+
+  - name: "Encrypt Data0.dat (required)"
+    notes: "File: DATA0.DAT"
+    codes:
+      - "set range:0x000000,eof+1"
+      - "ENCRYPT blowfish_ecb(\"SBmdYgEamc=#sA0)Mhs9#>/4iiXbMPxW\")"

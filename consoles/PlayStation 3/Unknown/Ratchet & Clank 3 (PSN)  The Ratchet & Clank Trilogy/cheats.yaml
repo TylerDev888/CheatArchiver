@@ -1,0 +1,17 @@
+# Ratchet & Clank 3 (PSN)  The Ratchet & Clank Trilogy cheat data
+# Console: PlayStation 3
+# Region:  Unknown
+# Serial:  NPEA00387
+
+game: "Ratchet & Clank 3 (PSN)  The Ratchet & Clank Trilogy"
+console: "PlayStation 3"
+region: "Unknown"
+serial: "NPEA00387"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Bolts"
+    notes: "File: NPEA00387_RC3_SAVEDATA_*\\USR-DATA"
+    codes:
+      - "20000024 05F5E0FF"

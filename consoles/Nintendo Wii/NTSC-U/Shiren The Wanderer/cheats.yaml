@@ -1,0 +1,141 @@
+# Shiren The Wanderer cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  RFSEEB
+
+game: "Shiren The Wanderer"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "RFSEEB"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Inf Current HP"
+    author: "Skiller"
+    codes:
+      - "C20C440C 00000002"
+      - "A9430002 B1430000"
+      - "A8630004 00000000"
+
+  - name: "Max HP"
+    author: "Skiller"
+    codes:
+      - "C20C43BC 00000003"
+      - "394001F4 B1430002"
+      - "B1430000 A8630002"
+      - "60000000 00000000"
+
+  - name: "Lots Of Money 999999"
+    author: "Skiller"
+    codes:
+      - "C21AA6CC 00000003"
+      - "3C00000F 6000423F"
+      - "90100100 80100100"
+      - "60000000 00000000"
+
+  - name: "Max Money On Pickup"
+    author: "Skiller"
+    codes:
+      - "C20C3D18 00000002"
+      - "3C00000F 6000423F"
+      - "90030100 00000000"
+
+  - name: "Level 99 After 1 Battle"
+    author: "Skiller"
+    codes:
+      - "040C586C 7C030378"
+
+  - name: "Item Mod"
+    author: "Skiller"
+    notes: "[Slot 1 Mod Codes]"
+    codes:
+      - "02C91A18 0000[ITE]"
+
+  - name: "Item Skill Slot 1"
+    author: "Skiller"
+    notes: "[Skills]"
+    codes:
+      - "00C91A20 000000[SK]"
+
+  - name: "Item Skill Slot 2"
+    author: "Skiller"
+    notes: "[Skills]"
+    codes:
+      - "00C91A21 000000[SK]"
+
+  - name: "Item Skill Slot 3"
+    author: "Skiller"
+    notes: "[Skills]"
+    codes:
+      - "00C91A22 000000[SK]"
+
+  - name: "Item Skill Slot 4"
+    author: "Skiller"
+    notes: "[Skills]"
+    codes:
+      - "00C91A23 000000[SK]"
+
+  - name: "Item Skill Slot 5"
+    author: "Skiller"
+    notes: "[Skills]"
+    codes:
+      - "00C91A24 000000[SK]"
+
+  - name: "Item Skill Slot 6"
+    author: "Skiller"
+    notes: "[Skills]"
+    codes:
+      - "00C91A25 000000[SK]"
+
+  - name: "Item Skill Slot 7"
+    author: "Skiller"
+    notes: "[Skills]"
+    codes:
+      - "00C91A26 000000[SK]"
+
+  - name: "Item Skill Slot 8"
+    author: "Skiller"
+    notes: "[Skills]"
+    codes:
+      - "00C91A27 000000[SK]"
+
+  - name: "Item Skill Slot 9"
+    author: "Skiller"
+    notes: "[Skills]"
+    codes:
+      - "00C91A28 000000[SK]"
+
+  - name: "Item Skill Slot 10"
+    author: "Skiller"
+    notes: "[Skills]"
+    codes:
+      - "00C91A29 000000[SK]"
+
+  - name: "Item Skill Slot 11"
+    author: "Skiller"
+    notes: "[Skills]"
+    codes:
+      - "00C91A2A 000000[SK]"
+
+  - name: "Item Skill Slot 12"
+    author: "Skiller"
+    notes: "[Skills]"
+    codes:
+      - "00C91A2B 000000[SK]"
+
+  - name: "Item Skill Alots Amount Max"
+    author: "Skiller"
+    notes: "[Skills]"
+    codes:
+      - "00C91A2D 0000000C"
+
+  - name: "Item Max: +"
+    author: "Skiller"
+    codes:
+      - "00C91A2C 0000000C"
+
+  - name: "Item + Points"
+    author: "Skiller"
+    codes:
+      - "02C91A40 0000[Amount:2710:HEX:BIG]"

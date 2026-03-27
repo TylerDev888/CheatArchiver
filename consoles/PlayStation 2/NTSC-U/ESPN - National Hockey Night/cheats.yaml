@@ -1,0 +1,72 @@
+# ESPN - National Hockey Night cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20166
+
+game: "ESPN - National Hockey Night"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20166"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0126E84 00126E87"
+
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0126E84 000001FD"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00120D1F"
+
+  - name: "End Period: Press R3"
+    author: "Codejunkies"
+    codes:
+      - "D068344C 00000400"
+      - "2068ADA8 00B33045"
+
+  - name: "P1 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D0683480 0000FAFF"
+      - "2068ADA8 463B8000"
+
+  - name: "P1 Press R1+R2 To End Period"
+    author: "Code Master"
+    codes:
+      - "D0683480 0000F5FF"
+      - "2068ADA8 3F800000"
+
+  - name: "P2 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D0683A80 0000FAFF"
+      - "2068ADA8 463B8000"
+
+  - name: "P2 Press R1+R2 To End Period"
+    author: "Code Master"
+    codes:
+      - "D0683A80 0000F5FF"
+      - "2068ADA8 3F800000"
+
+  - name: "Start On 2Nd Period"
+    author: "Code Master"
+    codes:
+      - "D068ADB4 00000000"
+      - "1068ADB4 00000001"
+
+  - name: "Start On 3Rd Period"
+    author: "Code Master"
+    codes:
+      - "D068ADB4 00000000"
+      - "1068ADB4 00000002"

@@ -1,0 +1,39 @@
+# BlazBlue_ Centralfiction cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES02230
+
+game: "BlazBlue_ Centralfiction"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES02230"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Max P$ Money(by Bucanero)"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "2000BBF8 0098967F"
+
+  - name: "Unlock All Gallery"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "420001C4 02020202"
+      - "406E0004 00000000"
+
+  - name: "Unlock Test Voices"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "4000037C 00000002"
+      - "40210001 00000000"
+
+  - name: "Update Wadd For System.dat (required)(by Bucanero)"
+    notes: "File: SYSTEM.DAT"
+    codes:
+      - "set [csum]:0"
+      - "carry(2)"
+      - "set pointer:eof+1"
+      - "set [csum]:wadd(0x000004,pointer)"
+      - "set [csum]:xor:FFFF"
+      - "write at 0x000000:[csum]"

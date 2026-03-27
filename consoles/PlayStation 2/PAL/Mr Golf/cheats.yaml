@@ -1,0 +1,41 @@
+# Mr Golf cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Mr Golf"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001E325F"
+
+  - name: "Player 1"
+    author: "Xploder"
+    notes: "[Always On First Shot]"
+    codes:
+      - "21DAC8EC 00000001"
+
+  - name: "Player 2"
+    author: "Xploder"
+    notes: "[Always On First Shot]"
+    codes:
+      - "21DAC8F8 00000001"
+
+  - name: "Player 3"
+    author: "Xploder"
+    notes: "[Always On First Shot]"
+    codes:
+      - "21DAC904 00000001"
+
+  - name: "Player 4"
+    author: "Xploder"
+    notes: "[Always On First Shot]"
+    codes:
+      - "21DAC910 00000001"

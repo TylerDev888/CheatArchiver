@@ -1,0 +1,37 @@
+# New York Race cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50556
+
+game: "New York Race"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50556"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0200B14 002B418F"
+
+  - name: "All Cars"
+    author: "InterAct"
+    codes:
+      - "2074E9C8 11111111"
+      - "2074E9BC 11111111"
+      - "2074E9C0 11111111"
+      - "2074E9B4 11111111"
+      - "2074E9C4 11111111"
+      - "2074E9CC 11111111"
+      - "2074E9B8 11111111"
+      - "2074E9D0 11111111"
+      - "2074E9D4 11111111"
+      - "2074E9D8 11111111"
+
+  - name: "All Championship Levels Open"
+    author: "Codejunkies"
+    codes:
+      - "2074E9DC 10101010"

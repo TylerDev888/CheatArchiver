@@ -1,0 +1,27 @@
+# Crash of the Titans cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  RQJE7D
+
+game: "Crash of the Titans"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "RQJE7D"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Inf Current HP"
+    author: "Skiller"
+    codes:
+      - "C20E55E4 00000002"
+      - "C0030000 D0040000"
+      - "C0040000 00000000"
+
+  - name: "Max/Inf HP"
+    author: "Skiller"
+    codes:
+      - "C20E55E4 00000003"
+      - "3F4042B0 93430000"
+      - "93440000 C0040000"
+      - "60000000 00000000"

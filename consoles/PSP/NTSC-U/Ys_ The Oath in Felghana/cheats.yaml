@@ -1,0 +1,27 @@
+# Ys_ The Oath in Felghana cheat data
+# Console: PSP
+# Region:  NTSC-U
+# Serial:  ULUS10558
+
+game: "Ys_ The Oath in Felghana"
+console: "PSP"
+region: "NTSC-U"
+serial: "ULUS10558"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Possession Money 999999"
+    notes: "File: *"
+    codes:
+      - "2000017C 000F423F"
+
+  - name: "Level 99"
+    notes: "File: *"
+    codes:
+      - "00000180 00000063"
+
+  - name: "Level 50"
+    notes: "File: *"
+    codes:
+      - "00000180 00000032"

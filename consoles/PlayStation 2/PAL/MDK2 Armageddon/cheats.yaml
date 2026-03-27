@@ -1,0 +1,48 @@
+# MDK2 Armageddon cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "MDK2 Armageddon"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001A0777"
+
+  - name: "Kurt"
+    author: "Xploder"
+    notes: "[Unlimited Health]"
+    codes:
+      - "2013FAB0 0000FFFF"
+
+  - name: "Doc"
+    author: "Xploder"
+    notes: "[Unlimited Health]"
+    codes:
+      - "2012F430 0000FFFF"
+
+  - name: "Hyde"
+    author: "Xploder"
+    notes: "[Unlimited Health]"
+    codes:
+      - "2013B890 0000FFFF"
+
+  - name: "Ammunition"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2014BBFC 000000FF"
+
+  - name: "Jetpack"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20149C00 000000FF"
+      - "20149BA4 000000FF"

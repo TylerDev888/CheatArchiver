@@ -1,0 +1,100 @@
+# ESPN MLS Extra Time cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20128
+
+game: "ESPN MLS Extra Time"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20128"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001DFD37"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "0035606B 000000??"
+
+  - name: "Home Team Start With Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D035606A 00000000"
+      - "0035606B 000000??"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "0035606C 000000??"
+
+  - name: "Away Team Start With Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D035606C 00000000"
+      - "0035606C 000000??"
+
+  - name: "P1 Press R1+R2 For More Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D03062C2 0000F5FF"
+      - "20356280 00002328"
+
+  - name: "P1 Press L1+L2 To End The Half"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D03062C2 0000FAFF"
+      - "20356280 00000000"
+
+  - name: "P2 Press R1+R2 For More Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0306442 0000F5FF"
+      - "20356280 00002328"
+
+  - name: "P2 Press L1+L2 To End The Half"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0306442 0000FAFF"
+      - "20356280 00000000"
+
+  - name: "P3 Press R1+R2 For More Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D03065C2 0000F5FF"
+      - "20356280 00002328"
+
+  - name: "P3 Press L1+L2 To End The Half"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D03065C2 0000FAFF"
+      - "20356280 00000000"
+
+  - name: "P4 Press R1+R2 For More Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0306742 0000F5FF"
+      - "20356280 00002328"
+
+  - name: "P4 Press L1+L2 To End The Half"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0306742 0000FAFF"
+      - "20356280 00000000"

@@ -1,0 +1,73 @@
+# Wave Rally cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-20170
+
+game: "Wave Rally"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-20170"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "902072FC 0C08A082"
+
+  - name: "Finish In 1St Place"
+    author: "lee4"
+    codes:
+      - "006D3E30 00000000"
+
+  - name: "Max Engine Status"
+    author: "lee4"
+    codes:
+      - "0039B574 0000000C"
+
+  - name: "Max Grip Status"
+    author: "lee4"
+    codes:
+      - "0039B578 0000000C"
+
+  - name: "Max Handling Status"
+    author: "lee4"
+    codes:
+      - "0039B570 0000000C"
+
+  - name: "Max Race Points"
+    author: "lee4"
+    codes:
+      - "D06CDA52 00000000"
+      - "206CDA50 000003E7"
+
+  - name: "Max Tricks Status"
+    author: "lee4"
+    codes:
+      - "0039B57C 0000000C"
+
+  - name: "Never Penalty Misses"
+    author: "lee4"
+    codes:
+      - "006D3DE4 00000000"
+      - "006D3DE8 00000009"
+
+  - name: "P1 Vibration OFF"
+    author: "lee4"
+    codes:
+      - "0033EC00 00000000"
+      - "0039BA20 00000000"
+
+  - name: "P2 Vibration OFF"
+    author: "lee4"
+    codes:
+      - "0033EC04 00000000"
+      - "0039BA24 00000000"
+
+  - name: "Start On Lap 3"
+    author: "lee4"
+    codes:
+      - "D06D3DF8 00000000"
+      - "106D3DF8 00000002"

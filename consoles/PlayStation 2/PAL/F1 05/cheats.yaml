@@ -1,0 +1,44 @@
+# F1 05 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "F1 05"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9027B7D0 0C0BAC78"
+      - "200C2000 2001FFFF"
+      - "200C2010 2001FFFF"
+      - "203AB3C8 08030800"
+
+  - name: "All Classic Cars"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "200C2004 AC410264"
+
+  - name: "All Helmets"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "200C2008 AC410268"
+
+  - name: "Street Circuit"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "200C200C AC41026C"
+
+  - name: "All Throphies"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "200C2014 AC410270"

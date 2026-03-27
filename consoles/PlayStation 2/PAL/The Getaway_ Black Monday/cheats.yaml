@@ -1,0 +1,58 @@
+# The Getaway_ Black Monday cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "The Getaway_ Black Monday"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9030CD14 0C10C68C"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2000 3C014100"
+      - "200C2004 AC810630"
+      - "200C2008 03E00008"
+      - "200C200C 44810000"
+      - "201DA8E8 0C030800"
+
+  - name: "Ammo"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "201EBCC0 00000000"
+
+  - name: "Grenades"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "201EB58C 00000000"
+
+  - name: "All Levels"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "202DA750 00071820"
+      - "20296AEC 24020001"
+      - "202B9430 24020001"
+
+  - name: "All Key Rings"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "20593EA4 01010101"
+      - "20593EA8 01010101"
+      - "20593EAC 02020201"
+      - "20593EB0 02020202"
+      - "20593EB4 02020202"
+      - "20593EB8 03030302"

@@ -1,0 +1,36 @@
+# Dark Sector cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00222
+
+game: "Dark Sector"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00222"
+cheat_type: "AP"
+source: ""
+
+cheats:
+  - name: "Update Md5 For 01.sav (required)"
+    notes: "File: BLES00222\\??.SAV  (set range:0x000010,0x0158CB)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000010,pointer"
+      - "set [hash]:MD5"
+      - "write at 0x000000:[hash]"
+
+  - name: "Update Md5 For Settings (required)"
+    notes: "File: SETTINGS  (set range:0x000010,0x0005F5)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000010,pointer"
+      - "set [hash]:MD5"
+      - "write at 0x000000:[hash]"
+
+  - name: "Update Md5 For Continue.sav (required)"
+    notes: "File: CONTINUE.SAV  (set range:0x000010,0x010568)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000010,pointer"
+      - "set [hash]:MD5"
+      - "write at 0x000000:[hash]"

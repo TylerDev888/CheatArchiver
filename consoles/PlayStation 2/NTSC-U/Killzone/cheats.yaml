@@ -1,0 +1,255 @@
+# Killzone cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97402
+
+game: "Killzone"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97402"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0147108 0014710B"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "902AD0B0 00832021"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "90416764 0C0AB440"
+
+  - name: "Big Head Mode"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "00514022 00000001"
+
+  - name: "God Mode"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "005DA45D 00000001"
+
+  - name: "Lock Circle"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "005DA460 00000001"
+
+  - name: "P1 Press L2+Select For Victory On Current Level"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "D07C4602 0000FEFE"
+      - "00514024 00000001"
+      - "D07C4602 0000FFFF"
+      - "00514024 00000000"
+
+  - name: "Show Coordinates"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "005DA462 00000001"
+
+  - name: "Spread Circle"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "005DA461 00000001"
+
+  - name: "All Levels Available"
+    author: "Codejunkies"
+    codes:
+      - "201D723C 24020001"
+
+  - name: "Ar Max Below 3.14 Fix"
+    author: "Codejunkies"
+    codes:
+      - "202B62A8 3C03200F"
+      - "202B62B0 8C65FFF8"
+      - "202B62B4 24040079"
+      - "202B62B8 24030074"
+      - "202B62BC 0000000C"
+
+  - name: "Auto Fire"
+    author: "RENEGADE"
+    notes: "[ASM Codes]"
+    codes:
+      - "2028AB98 00000000"
+
+  - name: "No Recoil"
+    author: "RENEGADE"
+    notes: "[ASM Codes]"
+    codes:
+      - "2028AF4C AE000158"
+
+  - name: "Display Coordinates"
+    author: "Codejunkies"
+    codes:
+      - "2047DC44 24020001"
+
+  - name: "Display Lock Circle"
+    author: "Codejunkies"
+    codes:
+      - "20479118 24020001"
+
+  - name: "Display Spread Circle"
+    author: "Codejunkies"
+    codes:
+      - "204791D4 24020001"
+
+  - name: "Have Guns Don't Overheat"
+    author: "MadCatz"
+    codes:
+      - "200C2040 44800800"
+      - "200C2044 44816000"
+      - "200C2048 03E00008"
+      - "200C204C E7C1010C"
+      - "2047CF40 0C030810"
+
+  - name: "Infinite Ammo (No Reload)"
+    author: "MadCatz"
+    codes:
+      - "2028B670 00000000"
+
+  - name: "Infinite Health"
+    author: "MadCatz"
+    codes:
+      - "201F86D4 00000000"
+      - "201F86E4 C6200230"
+      - "201F86E8 C6210240"
+      - "201F86EC E621023C"
+
+  - name: "Infinite Stamina"
+    author: "MadCatz"
+    codes:
+      - "2023F59C 3C0142C8"
+      - "2023F5A4 E441030C"
+      - "2023F5A8 46010834"
+
+  - name: "Max Primary Ammo"
+    author: "MadCatz"
+    codes:
+      - "200C2010 8FC200EC"
+      - "200C2014 240103E7"
+      - "200C2018 03E00008"
+      - "200C201C AC410004"
+      - "2047BC64 0C030804"
+
+  - name: "Max Secondary Ammo"
+    author: "MadCatz"
+    codes:
+      - "200C2000 8C6100F0"
+      - "200C2004 24060063"
+      - "200C2008 03E00008"
+      - "200C200C AC260000"
+      - "2047D82C 0C030800"
+      - "2047D830 00000000"
+
+  - name: "Mission Complete (Press L2+Down To Complete Mission)"
+    author: "MadCatz"
+    codes:
+      - "D07C4602 0000FEBF"
+      - "00514024 00000001"
+
+  - name: "Always Max Health Can Be Recovered"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "200C0220 3C0144C8"
+      - "200C0224 AC410230"
+      - "200C0228 03E00008"
+      - "200C022C C4440230"
+      - "2047AC08 0C030088"
+
+  - name: "Always Max Primary Ammo"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2047BB0C 240403E7"
+      - "2047BB10 AC440000"
+
+  - name: "Always Max Secondary Ammo"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2047D830 24060063"
+      - "2047D834 AC460000"
+
+  - name: "Always Objective Succeeded"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201CCDB0 080733AC"
+      - "201CCDB4 00000000"
+
+  - name: "Extra Ammo"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202899D4 00431023"
+
+  - name: "Guns Never Overheat"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2028AEF4 AE00010C"
+
+  - name: "Halo-Legacy Mode Control Setting"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "00416DF0 00000004"
+      - "00416EB0 00000006"
+
+  - name: "Infinite Ammo"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202899D8 00000000"
+
+  - name: "Max Infinite Ammo"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202899D4 240203E7"
+
+  - name: "Never Reload"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2028B674 00000000"
+
+  - name: "P1 Press L2+Up To Skip FMV"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07C4602 0000FEEF"
+      - "203CD868 24020001"
+      - "D07C4602 0000FFFF"
+      - "203CD868 8C620000"
+
+  - name: "Unlock All Levels"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201D7234 00821821"
+      - "201D7238 24020001"
+      - "201D723C AC6202D4"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "902AD0B0 00832021"

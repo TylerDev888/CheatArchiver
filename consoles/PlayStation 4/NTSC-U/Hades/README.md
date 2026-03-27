@@ -1,0 +1,134 @@
+# Hades
+
+**Console:** PlayStation 4  
+**Region:** NTSC-U  
+**Serial:** CUSA27387  
+**Cheat Type:** AP  
+**Source:** [source: xdgmods](source: xdgmods)  
+
+---
+
+## Cheats
+
+### Max Thick Skin (super Health)
+**Author:**   
+**Notes:** File: *
+
+```
+80010014 530C0000
+004D6574 61557067
+72616465 73540000
+88010012 4865616C
+74684D65 74615570
+67726164 654E0000
+A8000012 00000008
+00000000 F8690841
+```
+
+---
+
+### Max Chtonic Vitality (super Health Regen After Each Area)
+**Author:**   
+**Notes:** File: *
+
+```
+80010014 530C0000
+004D6574 61557067
+72616465 73540000
+88010014 446F6F72
+4865616C 4D657461
+55706772 6164654E
+A8000014 00000008
+00000000 F8690841
+```
+
+---
+
+### Max Fierypresence (super Max Damage/enemies Are At Max Health Must Have Nyx Upgrade)
+**Author:**   
+**Notes:** File: *
+
+```
+80010014 530C0000
+004D6574 61557067
+72616465 73540000
+88010017 46697273
+74537472 696B654D
+65746155 70677261
+64654E00 00000000
+A8000017 00000008
+00000000 00408F40
+```
+
+---
+
+### Max Greater Reflex (infinite Dash)
+**Author:**   
+**Notes:** File: *
+
+```
+80010014 530C0000
+004D6574 61557067
+72616465 73540000
+88010013 5374616D
+696E614D 65746155
+70677261 64654E00
+A8000013 00000008
+00000000 F8690841
+```
+
+---
+
+### Max Stygian Soul (unlimited Cast) Must Have Nyx Upgrade)
+**Author:**   
+**Notes:** File: *
+
+```
+80010014 530C0000
+004D6574 61557067
+72616465 73540000
+88010016 52656C6F
+6164416D 6D6F4D65
+74615570 67726164
+654E0000 00000000
+A8000016 00000008
+00000000 F8690841
+```
+
+---
+
+### Max Fierypresence (super Max Damage When Enemies Are At Max Health)
+**Author:**   
+**Notes:** [Max Skills Stats:{{<div style=\
+
+```
+80010014 530C0000
+004D6574 61557067
+72616465 73540000
+88010017 46697273
+74537472 696B654D
+65746155 70677261
+64654E00 00000000
+A8000017 00000008
+00000000 00408F40
+```
+
+---
+
+### Max Stygian Soul (unlimited Ranged Attck)
+**Author:**   
+**Notes:** [Max Skills Stats:{{<div style=\
+
+```
+80010014 530C0000
+004D6574 61557067
+72616465 73540000
+88010016 52656C6F
+6164416D 6D6F4D65
+74615570 67726164
+654E0000 00000000
+A8000016 00000008
+00000000 F8690841
+```
+
+---

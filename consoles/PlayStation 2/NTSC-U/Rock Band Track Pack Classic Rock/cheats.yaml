@@ -1,0 +1,42 @@
+# Rock Band Track Pack Classic Rock cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21876
+
+game: "Rock Band Track Pack Classic Rock"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21876"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90376960 0C0DDA00"
+
+  - name: "Entire Band - Infinite Overdrive"
+    notes: "[Misc Codes]"
+    codes:
+      - "2019CBD4 460C0000"
+
+  - name: "Instrument Rock Meter - Never Fail"
+    notes: "[Misc Codes]"
+    codes:
+      - "201B5640 46001840"
+
+  - name: "Vocal Rock Meter - Never Fail"
+    notes: "[Misc Codes]"
+    codes:
+      - "201B56B0 46001840"
+
+  - name: "Strum to Gain & Never Lose."
+    notes: "[Misc Codes]"
+    codes:
+      - "201C0C20 0C07074A"
+
+  - name: "1 Note Hit = \"amount\" Notes"
+    notes: "[Note Multiplier:{!warning: Note Streak Will Always Be 0 Instrument Note Streak Codes: Does Not Work For Vocalist.}]"
+    codes:
+      - "101C1D2C 0000[Amount:2710:HEX:BIG]"

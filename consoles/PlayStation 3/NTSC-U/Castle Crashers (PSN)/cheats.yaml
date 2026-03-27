@@ -1,0 +1,182 @@
+# Castle Crashers (PSN) cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUB30181
+
+game: "Castle Crashers (PSN)"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUB30181"
+cheat_type: "Save Editor"
+source: "zeick"
+
+cheats:
+  - name: "Money 999999"
+    notes: "[Green Knight]  File: CC_0.DAT"
+    codes:
+      - "write at 0x0000003B:000F423F"
+
+  - name: "Xp Points Lvl99"
+    notes: "[Green Knight]  File: CC_0.DAT"
+    codes:
+      - "write at 0x0000002A:0FFFFFFF"
+
+  - name: "Strength Max"
+    notes: "[Green Knight]  File: CC_0.DAT"
+    codes:
+      - "write at 0x00000030:19"
+
+  - name: "Magic Max"
+    notes: "[Green Knight]  File: CC_0.DAT"
+    codes:
+      - "write at 0x00000031:19"
+
+  - name: "Defense Max"
+    notes: "[Green Knight]  File: CC_0.DAT"
+    codes:
+      - "write at 0x00000032:19"
+
+  - name: "Agility"
+    notes: "[Green Knight]  File: CC_0.DAT"
+    codes:
+      - "write at 0x00000033:19"
+
+  - name: "99 Potion"
+    notes: "[Green Knight]  File: CC_0.DAT"
+    codes:
+      - "write at 0x00000037:63"
+
+  - name: "99 Sandwich"
+    notes: "[Green Knight]  File: CC_0.DAT"
+    codes:
+      - "write at 0x00000038:63"
+
+  - name: "99 Bomb"
+    notes: "[Green Knight]  File: CC_0.DAT"
+    codes:
+      - "write at 0x00000039:63"
+
+  - name: "Goldskull Unlock Insane Difficulty"
+    notes: "[Green Knight]  File: CC_0.DAT"
+    codes:
+      - "write at 0x0000005D:02"
+
+  - name: "Unlock Grey Knight"
+    notes: "[Grey Knight]  File: CC_0.DAT"
+    codes:
+      - "write at 0x00000128:80"
+
+  - name: "Unlock Barbarian"
+    notes: "[Barbarian]  File: CC_0.DAT"
+    codes:
+      - "write at 0x00000168:80"
+
+  - name: "Unlock Thief"
+    notes: "[Thief]  File: CC_0.DAT"
+    codes:
+      - "write at 0x000001A8:80"
+
+  - name: "Unlock Fencer"
+    notes: "[Fencer]  File: CC_0.DAT"
+    codes:
+      - "write at 0x000001E8:80"
+
+  - name: "Unlock Killer Beekeeper"
+    notes: "[Killer Beekeeper]  File: CC_0.DAT"
+    codes:
+      - "write at 0x00000228:80"
+
+  - name: "Unlock Industrialist"
+    notes: "[Industrialist]  File: CC_0.DAT"
+    codes:
+      - "write at 0x00000268:80"
+
+  - name: "Unlock Alien"
+    notes: "[Alien]  File: CC_0.DAT"
+    codes:
+      - "write at 0x000002A8:80"
+
+  - name: "Unlock King"
+    notes: "[King]  File: CC_0.DAT"
+    codes:
+      - "write at 0x000002E8:80"
+
+  - name: "Unlock Brute"
+    notes: "[Brute]  File: CC_0.DAT"
+    codes:
+      - "write at 0x00000328:80"
+
+  - name: "Unlock Snakey"
+    notes: "[Snakey]  File: CC_0.DAT"
+    codes:
+      - "write at 0x00000368:80"
+
+  - name: "Unlock Saracen"
+    notes: "[Saracen]  File: CC_0.DAT"
+    codes:
+      - "write at 0x000003A8:80"
+
+  - name: "Unlock Royal Guard"
+    notes: "[Royal Guard]  File: CC_0.DAT"
+    codes:
+      - "write at 0x000003E8:80"
+
+  - name: "Unlock Stove Face"
+    notes: "[Stove Face]  File: CC_0.DAT"
+    codes:
+      - "write at 0x00000428:80"
+
+  - name: "Unlock Peasant"
+    notes: "[Peasant]  File: CC_0.DAT"
+    codes:
+      - "write at 0x00000468:80"
+
+  - name: "Unlock Bear"
+    notes: "[Bear]  File: CC_0.DAT"
+    codes:
+      - "write at 0x000004A8:80"
+
+  - name: "Unlock Necromancer"
+    notes: "[Necromancer]  File: CC_0.DAT"
+    codes:
+      - "write at 0x000004E8:80"
+
+  - name: "Unlock Cone Head"
+    notes: "[Cone Head]  File: CC_0.DAT"
+    codes:
+      - "write at 0x00000528:80"
+
+  - name: "Unlock Civilian"
+    notes: "[Civilian]  File: CC_0.DAT"
+    codes:
+      - "write at 0x00000568:80"
+
+  - name: "Unlock Open Faced Grey Knight"
+    notes: "[Open Faced Grey Knight]  File: CC_0.DAT"
+    codes:
+      - "write at 0x000005A8:80"
+
+  - name: "Unlock Fire Demon"
+    notes: "[Fire Demon]  File: CC_0.DAT"
+    codes:
+      - "write at 0x000005E8:80"
+
+  - name: "Unlock Skeleton"
+    notes: "[Skeleton]  File: CC_0.DAT"
+    codes:
+      - "write at 0x00000628:80"
+
+  - name: "Unlock Iceskimo"
+    notes: "[Iceskimo]  File: CC_0.DAT"
+    codes:
+      - "write at 0x00000668:80"
+
+  - name: "Unlock Ninja"
+    notes: "[Ninja]  File: CC_0.DAT"
+    codes:
+      - "write at 0x00000668:80"
+
+  - name: "Unlock Cult Minion"
+    notes: "[Cult Minion]  File: CC_0.DAT"
+    codes:
+      - "write at 0x000006A8:80"

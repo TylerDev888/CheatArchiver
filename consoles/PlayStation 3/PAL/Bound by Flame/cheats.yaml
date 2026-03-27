@@ -1,0 +1,34 @@
+# Bound by Flame cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01952
+
+game: "Bound by Flame"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01952"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Decompress Save (required)"
+    notes: "File: SAVEDATA"
+    codes:
+      - "Decompress(0x000000AA, -15)"
+
+  - name: "Gold"
+    notes: "File: ~extracted\\000000aa.dat  ((Apply on 000000aa.dat only))"
+    codes:
+      - "search \"gold###\""
+      - "write next (108):0xF423F0"
+
+  - name: "Godmode"
+    notes: "File: ~extracted\\000000aa.dat"
+    codes:
+      - "search \"GOD_MODE\""
+      - "write next (62):0x07554E4B4E4F574E"
+
+  - name: "Compress Save (required)"
+    notes: "File: SAVEDATA"
+    codes:
+      - "Compress(0x000000AA)"

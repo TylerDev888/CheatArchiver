@@ -1,0 +1,22 @@
+# Sorcery Saga_ Curse of the Great Curry God (EUR) cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00429
+
+game: "Sorcery Saga_ Curse of the Great Curry God (EUR)"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00429"
+cheat_type: "Save Editor"
+source: "Credits: Slade"
+
+cheats:
+  - name: "99,999 Gold In Piggy Bank"
+    notes: "File: SaveData_0001.sav"
+    codes:
+      - "20001548 0001869F"
+
+  - name: "99,999 Gold In Funds"
+    notes: "File: SaveData_0001.sav"
+    codes:
+      - "200362E0 0001869F"

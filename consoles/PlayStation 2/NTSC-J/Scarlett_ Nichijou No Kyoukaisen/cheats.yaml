@@ -1,0 +1,61 @@
+# Scarlett_ Nichijou No Kyoukaisen cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-55079
+
+game: "Scarlett_ Nichijou No Kyoukaisen"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-55079"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "902229F8 0C088A26"
+
+  - name: "All Chapters"
+    author: "punk7890"
+    codes:
+      - "104831AC 000003E8"
+
+  - name: "Enable Debug Display"
+    author: "punk7890"
+    codes:
+      - "201B77E8 00000000"
+      - "201B7788 00000000"
+
+  - name: "Enable Omake"
+    author: "punk7890"
+    codes:
+      - "0053DF0C 00000001"
+
+  - name: "Enable Unused Games [Read Note]"
+    author: "punk7890"
+    codes:
+      - "E003D7FF 0046A97E"
+      - "10483BB6 0000001D"
+      - "00483C1E 00000000"
+      - "00483C25 00000000"
+      - "E003DBFF 0046A97E"
+      - "10483BB6 0000001E"
+      - "00483C1E 00000000"
+      - "00483C25 00000000"
+
+  - name: "Replace Omake Mode With Unused Final With Sanarara Short Story Game"
+    author: "punk7890"
+    codes:
+      - "00161ED0 0000000E"
+
+  - name: "Unlock All Sanarara Short Story Routes"
+    author: "punk7890"
+    codes:
+      - "004831B0 00000007"
+
+  - name: "Unlock All Sanarara Story: 01 Nozomi Routes"
+    author: "punk7890"
+    codes:
+      - "004831AE 0000000F"

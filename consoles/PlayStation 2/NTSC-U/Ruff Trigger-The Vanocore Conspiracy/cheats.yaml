@@ -1,0 +1,140 @@
+# Ruff Trigger-The Vanocore Conspiracy cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21314
+
+game: "Ruff Trigger-The Vanocore Conspiracy"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21314"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "902DD350 00832021"
+
+  - name: "Disable FMV"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202C8458 24020001"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 E4400078"
+      - "200C0224 03E00008"
+      - "200C0228 46800020"
+      - "2013E958 0C030088"
+
+  - name: "Health Never Decreases"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2010B70C 00000000"
+
+  - name: "Infinite Lives"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201388DC 00000000"
+
+  - name: "Extra Lives"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101388D4 00000001"
+
+  - name: "Max Infinite Lives"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201388D4 24020064"
+
+  - name: "Infinite Ammo Usage"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20129FB0 00000000"
+
+  - name: "Max Current Ammo"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2013E570 8C51000C"
+      - "2013E574 AC510000"
+
+  - name: "Max Overall Ammo"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0230 240603E7"
+      - "200C0234 03E00008"
+      - "200C0238 AC46000C"
+      - "2013E5B4 0C03008C"
+
+  - name: "Infinite Werewolf Power"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2013E7CC 3C013F80"
+      - "2013E7D4 AC4106E0"
+
+  - name: "Infinite Werewolf Power Usage"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20111A40 00000000"
+
+  - name: "Quick Max Tykels"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2010B048 00000000"
+
+  - name: "Always Gain 10000 Tykels"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2010AFFC 24042710"
+
+  - name: "Always Gain 5000 Tykels"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2010AFFC 24041388"
+
+  - name: "Always Gain 1000 Tykels"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2010AFFC 240403E8"
+
+  - name: "Always Gain 100 Tykels"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2010AFFC 24040064"
+
+  - name: "Infinite Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2019EDE8 00000000"
+
+  - name: "Infinite Double Jumps"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201A52CC 00000000"
+
+  - name: "Infinite Oxygen"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201A97FC 00000000"

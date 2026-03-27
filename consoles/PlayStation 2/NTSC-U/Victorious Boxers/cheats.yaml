@@ -1,0 +1,74 @@
+# Victorious Boxers cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20282
+
+game: "Victorious Boxers"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20282"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001A80F7"
+
+  - name: "P1 Never Beat"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101C4C88 00000000"
+
+  - name: "P1 Easily Beat"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101C4C88 00000004"
+
+  - name: "P2 Never Beat"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101C5E68 00000000"
+
+  - name: "P2 Easily Beat"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101C5E68 00000004"
+
+  - name: "P1 Strong Jaw"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101C4076 000000EE"
+
+  - name: "P1 Weak Jaw"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101C4076 00000000"
+
+  - name: "P2 Strong Jaw"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101C526A 000000EE"
+
+  - name: "P2 Weak Jaw"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101C526A 00000000"
+
+  - name: "Have All Levels & Characters"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101C2714 00000030"
+      - "101C317C 00000030"
+      - "101C6AFC 00000030"

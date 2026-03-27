@@ -1,0 +1,18 @@
+# ELEX cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA04317
+
+game: "ELEX"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA04317"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Mod Stat/Skill/Perk"
+    notes: "File: SaveData[0-9]{4}\\SaveData[0-9]{4}"
+    codes:
+      - "80010004 [Stat/Skill/Perk]"
+      - "18000004 0000[Amount:03E7:HEX:BIG]"

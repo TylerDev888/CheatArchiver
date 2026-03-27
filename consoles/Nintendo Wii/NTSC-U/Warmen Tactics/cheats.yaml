@@ -1,0 +1,29 @@
+# Warmen Tactics cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  WWAE
+
+game: "Warmen Tactics"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "WWAE"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Inf Ammo (all Weapons)"
+    author: "Skiller"
+    codes:
+      - "040595BC 38030000"
+
+  - name: "Alt) Inf Hp+fire Safty"
+    author: "Skiller"
+    codes:
+      - "C205A410 00000003"
+      - "2C1D0000 4082000C"
+      - "38000064 48000008"
+      - "7C1F0050 00000000"
+      - "C205A408 00000003"
+      - "2C1D0000 40820008"
+      - "38000064 90030074"
+      - "60000000 00000000"

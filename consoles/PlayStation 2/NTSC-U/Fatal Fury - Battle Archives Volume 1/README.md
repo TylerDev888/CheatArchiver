@@ -1,0 +1,67 @@
+# Fatal Fury - Battle Archives Volume 1
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-21537  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Enable Code (Must Be On)
+**Author:** lee4  
+**Notes:** [Master Codes]
+
+```
+901D1920 0C0745F0
+```
+
+---
+
+### Enable Ryo (Fatal Fury Special)
+**Author:** lee4
+
+```
+E0020003 00222D30
+6035A0B8 FFFFFF99
+00020001 0000E060
+```
+
+---
+
+### Force Videout To 480I Instead Of 240P
+**Author:** lee4
+
+```
+2019AE4C 24110001
+2019AE50 24120002
+2019AE5C 24130001
+```
+
+---
+
+### Player 1 Infinite Energy (FF1, FFS, FF3)
+**Author:** Skiller
+
+```
+200A000C 03E00008
+200A0010 27BD0010
+200A001C 20060060
+200A0020 A1C60000
+200A0024 03E00008
+200A0028 27BD0010
+201534E8 08028000
+201534EC 00000000
+E0020000 00222D30
+200A0000 341703B8
+200A0004 12EF0005
+E0020003 00222D30
+200A0000 3417049B
+200A0004 12EF0005
+E0020004 00222D30
+200A0000 34170488
+200A0004 12EF0005
+```
+
+---

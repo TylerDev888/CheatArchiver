@@ -1,0 +1,303 @@
+# Dokapon Kingdom cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21778
+
+game: "Dokapon Kingdom"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21778"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9031AD98 0C0C6B0E"
+
+  - name: "Max Money"
+    author: "SkillerCMP"
+    notes: "[Player 1(your Player)]"
+    codes:
+      - "20544CD8 3B9AC9FF"
+
+  - name: "Inf HP (max)"
+    author: "SkillerCMP"
+    notes: "[Player 1(your Player)]"
+    codes:
+      - "10544B14 0000270F"
+
+  - name: "Inf Current HP"
+    author: "SkillerCMP"
+    notes: "[Player 1(your Player)]"
+    codes:
+      - "200A0000 24010032"
+      - "200A0004 2402000A"
+      - "200A0008 3C030054"
+      - "200A000C 34634B14"
+      - "200A0010 94640010"
+      - "200A0014 10600004"
+      - "200A001C 00821018"
+      - "200A0020 00220820"
+      - "200A0024 A4610000"
+      - "200A002C 03E00008"
+      - "2031B26C 08028000"
+
+  - name: "Current EXP"
+    author: "SkillerCMP"
+    notes: "[Player 1(your Player)]"
+    codes:
+      - "20544CE4 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Max At"
+    author: "SkillerCMP"
+    notes: "[Stats:{Use At Your Own Risk Iv Had Some Odd Things Happen With The Flowing Codes Not Able To Get Away From The Upgrade Screen :(}]"
+    codes:
+      - "10544B1C 000003E7"
+
+  - name: "Max Df"
+    author: "SkillerCMP"
+    notes: "[Stats:{Use At Your Own Risk Iv Had Some Odd Things Happen With The Flowing Codes Not Able To Get Away From The Upgrade Screen :(}]"
+    codes:
+      - "10544B1E 000003E7"
+
+  - name: "Max Mg"
+    author: "SkillerCMP"
+    notes: "[Stats:{Use At Your Own Risk Iv Had Some Odd Things Happen With The Flowing Codes Not Able To Get Away From The Upgrade Screen :(}]"
+    codes:
+      - "10544B20 000003E7"
+
+  - name: "Max Sp"
+    author: "SkillerCMP"
+    notes: "[Stats:{Use At Your Own Risk Iv Had Some Odd Things Happen With The Flowing Codes Not Able To Get Away From The Upgrade Screen :(}]"
+    codes:
+      - "10544B22 000003E7"
+
+  - name: "Max HP"
+    author: "SkillerCMP"
+    notes: "[Stats:{Use At Your Own Risk Iv Had Some Odd Things Happen With The Flowing Codes Not Able To Get Away From The Upgrade Screen :(}]"
+    codes:
+      - "10544B24 000003E7"
+
+  - name: "CPU/Human Character Mod"
+    author: "SkillerCMP"
+    notes: "[Mod Codes]"
+    codes:
+      - "00544B4C 000000[Amount:00:HEX:BIG]"
+
+  - name: "Sex Mod"
+    author: "SkillerCMP"
+    notes: "[Mod Codes]"
+    codes:
+      - "00544B3C 000000[SEX]"
+
+  - name: "Job Class Mod"
+    author: "SkillerCMP"
+    notes: "[Mod Codes]"
+    codes:
+      - "00544B40 000000[JOB]"
+
+  - name: "Hair Color Mod"
+    author: "SkillerCMP"
+    notes: "[Mod Codes]"
+    codes:
+      - "00544B44 000000[COL]"
+
+  - name: "Weapon Mod"
+    author: "SkillerCMP"
+    notes: "[Mod Codes]"
+    codes:
+      - "00544B9A 000000[WEP]"
+
+  - name: "Arms Mod"
+    author: "SkillerCMP"
+    notes: "[Mod Codes]"
+    codes:
+      - "00544B9B 000000[ARM]"
+
+  - name: "Attack Skill Skills 1 Mod"
+    author: "SkillerCMP"
+    notes: "[Mod Codes]"
+    codes:
+      - "00544B9E 000000[SKI]"
+
+  - name: "Defensive Skills 2 Mod"
+    author: "SkillerCMP"
+    notes: "[Mod Codes]"
+    codes:
+      - "00544B9F 000000[SK2]"
+
+  - name: "Accesories Mod"
+    author: "SkillerCMP"
+    notes: "[Mod Codes]"
+    codes:
+      - "00544B9C 000000[ACC]"
+
+  - name: "Item Mod Slot 1"
+    author: "SkillerCMP"
+    notes: "[Items Mods]"
+    codes:
+      - "00544BA0 0000[ITEM]"
+
+  - name: "Item Mod Slot 2"
+    author: "SkillerCMP"
+    notes: "[Items Mods]"
+    codes:
+      - "00544BAC 0000[ITEM]"
+
+  - name: "Item Mod Slot 3"
+    author: "SkillerCMP"
+    notes: "[Items Mods]"
+    codes:
+      - "00544BB8 0000[ITEM]"
+
+  - name: "Item Mod Slot 4"
+    author: "SkillerCMP"
+    notes: "[Items Mods]"
+    codes:
+      - "00544BC4 0000[ITEM]"
+
+  - name: "Item Mod Slot 5"
+    author: "SkillerCMP"
+    notes: "[Items Mods]"
+    codes:
+      - "00544BD0 0000[ITEM]"
+
+  - name: "Item Mod Slot 6"
+    author: "SkillerCMP"
+    notes: "[Items Mods]"
+    codes:
+      - "00544BDC 0000[ITEM]"
+
+  - name: "Item Mod Slot 7"
+    author: "SkillerCMP"
+    notes: "[Items Mods]"
+    codes:
+      - "00544BE8 0000[ITEM]"
+
+  - name: "Item Mod Slot 8"
+    author: "SkillerCMP"
+    notes: "[Items Mods]"
+    codes:
+      - "00544BF4 0000[ITEM]"
+
+  - name: "Item Mod Slot 9"
+    author: "SkillerCMP"
+    notes: "[Items Mods]"
+    codes:
+      - "00544C00 0000[ITEM]"
+
+  - name: "Item Mod Slot 10"
+    author: "SkillerCMP"
+    notes: "[Items Mods]"
+    codes:
+      - "00544C0C 0000[ITEM]"
+
+  - name: "Item Mod Slot 11"
+    author: "SkillerCMP"
+    notes: "[Items Mods]"
+    codes:
+      - "00544C18 0000[ITEM]"
+
+  - name: "Item Mod Slot 12"
+    author: "SkillerCMP"
+    notes: "[Items Mods]"
+    codes:
+      - "00544C24 0000[ITEM]"
+
+  - name: "Magic Mod Slot 1"
+    author: "SkillerCMP"
+    notes: "[Magic Mods]"
+    codes:
+      - "00544C30 0000[MAG]"
+
+  - name: "Magic Mod Slot 2"
+    author: "SkillerCMP"
+    notes: "[Magic Mods]"
+    codes:
+      - "00544C31 0000[MAG]"
+
+  - name: "Magic Mod Slot 3"
+    author: "SkillerCMP"
+    notes: "[Magic Mods]"
+    codes:
+      - "00544C32 0000[MAG]"
+
+  - name: "Magic Mod Slot 4"
+    author: "SkillerCMP"
+    notes: "[Magic Mods]"
+    codes:
+      - "00544C33 0000[MAG]"
+
+  - name: "Magic Mod Slot 5"
+    author: "SkillerCMP"
+    notes: "[Magic Mods]"
+    codes:
+      - "00544C34 0000[MAG]"
+
+  - name: "Magic Mod Slot 6"
+    author: "SkillerCMP"
+    notes: "[Magic Mods]"
+    codes:
+      - "00544C35 0000[MAG]"
+
+  - name: "Magic Mod Slot 7"
+    author: "SkillerCMP"
+    notes: "[Magic Mods]"
+    codes:
+      - "00544C36 0000[MAG]"
+
+  - name: "Magic Mod Slot 8"
+    author: "SkillerCMP"
+    notes: "[Magic Mods]"
+    codes:
+      - "00544C37 0000[MAG]"
+
+  - name: "Magic Mod Slot 9"
+    author: "SkillerCMP"
+    notes: "[Magic Mods]"
+    codes:
+      - "00544C38 0000[MAG]"
+
+  - name: "Magic Mod Slot 10"
+    author: "SkillerCMP"
+    notes: "[Magic Mods]"
+    codes:
+      - "00544C39 0000[MAG]"
+
+  - name: "Magic Mod Slot 11"
+    author: "SkillerCMP"
+    notes: "[Magic Mods]"
+    codes:
+      - "00544C3A 0000[MAG]"
+
+  - name: "Magic Mod Slot 12"
+    author: "SkillerCMP"
+    notes: "[Magic Mods]"
+    codes:
+      - "00544C3B 0000[MAG]"
+
+  - name: "Job Open"
+    author: "SkillerCMP"
+    notes: "[Warrior]"
+    codes:
+      - "00544B58 00000001"
+
+  - name: "Job Level/Rate Of Pay"
+    author: "SkillerCMP"
+    notes: "[Warrior]"
+    codes:
+      - "00544B5C 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Battle Skill Mod"
+    author: "SkillerCMP"
+    notes: "[Warrior]"
+    codes:
+      - "00544B5A 000000[BS]"
+
+  - name: "Level/Rate Of Pay"
+    author: "SkillerCMP"
+    notes: "[Magician]"
+    codes:
+      - "00544B62 000000[Amount:FF:HEX:BIG]"

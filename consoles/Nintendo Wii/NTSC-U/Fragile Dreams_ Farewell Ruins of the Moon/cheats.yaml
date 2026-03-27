@@ -1,0 +1,179 @@
+# Fragile Dreams_ Farewell Ruins of the Moon cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  R2GEXJ
+
+game: "Fragile Dreams_ Farewell Ruins of the Moon"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "R2GEXJ"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Inf HP Player/1 Hit Kill Enemy"
+    author: "Skiller"
+    codes:
+      - "C2081AD4 00000006"
+      - "826339F8 3EE0456E"
+      - "62F7656D 7C179800"
+      - "41820010 80033A0C"
+      - "2C000001 48000008"
+      - "2C007FFF 90033A08"
+      - "60000000 00000000"
+
+  - name: "Have All Briefcase"
+    author: "Skiller"
+    codes:
+      - "083A5178 01010101"
+      - "20430004 00000000"
+      - "083A5290 01010101"
+      - "20060004 00000000"
+      - "023A52B8 00000101"
+
+  - name: "On Level Up Have Max Str"
+    author: "Skiller"
+    codes:
+      - "C2078210 00000002"
+      - "3C805F5E 6084E0FF"
+      - "90833A10 00000000"
+
+  - name: "Max Str"
+    author: "Skiller"
+    codes:
+      - "0430CE90 05F5E0FF"
+
+  - name: "EXP Multiplyer X\"amount\""
+    author: "Skiller"
+    notes: "1F9C00[Amount:0A:HEX:BIG] 7FDC1A14"
+    codes:
+      - "C20DAF9C 00000002"
+      - "60000000 00000000"
+
+  - name: "Items Only Take 1 On Hand Slot"
+    author: "Skiller"
+    notes: "[Items]"
+    codes:
+      - "C213E134 00000002"
+      - "39200000 9923000A"
+      - "8923000A 00000000"
+
+  - name: "Have Item In Slot 1"
+    author: "Skiller"
+    notes: "[Press 1+2 To Give Your Self Item]"
+    codes:
+      - "2839BF76 00000300"
+      - "043A52D0 0000[ITE]"
+      - "043A52D4 FFFFFFFF"
+      - "043A530C FFFFFFFF"
+      - "E0000000 80008000"
+
+  - name: "Have Item In Slot 2"
+    author: "Skiller"
+    notes: "[Press 1+2 To Give Your Self Item]"
+    codes:
+      - "2839BF76 00000300"
+      - "043A52EC 0000[ITE]"
+      - "043A52F0 FFFFFFFF"
+      - "043A5328 FFFFFFFF"
+      - "E0000000 80008000"
+
+  - name: "Have Item In Slot 3"
+    author: "Skiller"
+    notes: "[Press 1+2 To Give Your Self Item]"
+    codes:
+      - "2839BF76 00000300"
+      - "043A5308 0000[ITE]"
+      - "043A530C FFFFFFFF"
+      - "043A5344 FFFFFFFF"
+      - "E0000000 80008000"
+
+  - name: "Have Item In Slot 4"
+    author: "Skiller"
+    notes: "[Press 1+2 To Give Your Self Item]"
+    codes:
+      - "2839BF76 00000300"
+      - "043A5324 0000[ITE]"
+      - "043A5328 FFFFFFFF"
+      - "043A5360 FFFFFFFF"
+      - "E0000000 80008000"
+
+  - name: "Have Item In Slot 5"
+    author: "Skiller"
+    notes: "[Press 1+2 To Give Your Self Item]"
+    codes:
+      - "2839BF76 00000300"
+      - "043A5340 0000[ITE]"
+      - "043A5344 FFFFFFFF"
+      - "043A537C FFFFFFFF"
+      - "E0000000 80008000"
+
+  - name: "Have Item In Slot 6"
+    author: "Skiller"
+    notes: "[Press 1+2 To Give Your Self Item]"
+    codes:
+      - "2839BF76 00000300"
+      - "043A535C 0000[ITE]"
+      - "043A5360 FFFFFFFF"
+      - "043A5398 FFFFFFFF"
+      - "E0000000 80008000"
+
+  - name: "Have Item In Slot 7"
+    author: "Skiller"
+    notes: "[Press 1+2 To Give Your Self Item]"
+    codes:
+      - "2839BF76 00000300"
+      - "043A5378 0000[ITE]"
+      - "043A537C FFFFFFFF"
+      - "043A53B4 FFFFFFFF"
+      - "E0000000 80008000"
+
+  - name: "Have Item In Slot 8"
+    author: "Skiller"
+    notes: "[Press 1+2 To Give Your Self Item]"
+    codes:
+      - "2839BF76 00000300"
+      - "043A5394 0000[ITE]"
+      - "043A5398 FFFFFFFF"
+      - "043A53D0 FFFFFFFF"
+      - "E0000000 80008000"
+
+  - name: "Have Item In Slot 9"
+    author: "Skiller"
+    notes: "[Press 1+2 To Give Your Self Item]"
+    codes:
+      - "2839BF76 00000300"
+      - "043A53B0 0000[ITE]"
+      - "043A53B4 FFFFFFFF"
+      - "043A53EC FFFFFFFF"
+      - "E0000000 80008000"
+
+  - name: "Have Item In Slot 10"
+    author: "Skiller"
+    notes: "[Press 1+2 To Give Your Self Item]"
+    codes:
+      - "2839BF76 00000300"
+      - "043A53CC 0000[ITE]"
+      - "043A53D0 FFFFFFFF"
+      - "043A5408 FFFFFFFF"
+      - "E0000000 80008000"
+
+  - name: "Have Item In Slot 11"
+    author: "Skiller"
+    notes: "[Press 1+2 To Give Your Self Item]"
+    codes:
+      - "2839BF76 00000300"
+      - "043A53E8 0000[ITE]"
+      - "043A53EC FFFFFFFF"
+      - "043A5424 FFFFFFFF"
+      - "E0000000 80008000"
+
+  - name: "Have Item In Slot 12"
+    author: "Skiller"
+    notes: "[Press 1+2 To Give Your Self Item]"
+    codes:
+      - "2839BF76 00000300"
+      - "043A5404 0000[ITE]"
+      - "043A5408 FFFFFFFF"
+      - "043A5440 FFFFFFFF"
+      - "E0000000 80008000"

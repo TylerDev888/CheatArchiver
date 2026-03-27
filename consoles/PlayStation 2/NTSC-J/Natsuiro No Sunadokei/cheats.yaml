@@ -1,0 +1,27 @@
+# Natsuiro No Sunadokei cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65136
+
+game: "Natsuiro No Sunadokei"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65136"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9027BFE0 0C09EFA0"
+
+  - name: "Press L3 For Texture Viewer, R3 To Disable"
+    author: "punk7890"
+    codes:
+      - "D1720B02 0000FFFD"
+      - "0049F998 00000001"
+      - "D1720B02 0000FFFB"
+      - "0049F998 00000000"
+      - "10259810 0000057C"

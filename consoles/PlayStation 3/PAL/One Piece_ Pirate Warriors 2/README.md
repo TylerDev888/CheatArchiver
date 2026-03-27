@@ -1,0 +1,175 @@
+# One Piece_ Pirate Warriors 2
+
+**Console:** PlayStation 3  
+**Region:** PAL  
+**Serial:** BLES01913  
+**Cheat Type:** Save Editor  
+
+---
+
+## Cheats
+
+### Berry 999999999
+**Author:**   
+**Notes:** File: DATA.BIN
+
+```
+2000A614 3B9ACA99
+2000A618 3B9ACA99
+```
+
+---
+
+### All Coin Star.18 Lv.max
+**Author:**   
+**Notes:** File: DATA.BIN
+
+```
+4202A1F2 04124301
+42580010 00000000
+```
+
+---
+
+### Exp 999999(lv.1-lv.50) - All Characters
+**Author:**   
+**Notes:** File: DATA.BIN
+
+```
+420000E0 000F423F
+402F0180 00000000
+```
+
+---
+
+### Exp 9999999(lv.50-lv.100) - All Characters
+**Author:**   
+**Notes:** File: DATA.BIN
+
+```
+420000E0 0098967F
+402F0180 00000000
+```
+
+---
+
+### Exp 999999 -rufi
+**Author:**   
+**Notes:** File: DATA.BIN
+
+```
+200000E0 000F423F
+```
+
+---
+
+### Nakama ! 9999 - All Characters
+**Author:**   
+**Notes:** File: DATA.BIN
+
+```
+4100474A 0000423F
+404300F0 00000000
+```
+
+---
+
+### Nakama ! 9999 - Nami
+**Author:**   
+**Notes:** File: DATA.BIN
+
+```
+1000492A 0000FFFF
+```
+
+---
+
+### Growth Limit Break - All Characters
+**Author:**   
+**Notes:** File: DATA.BIN
+
+```
+400000F8 00000005
+402F0180 00000000
+```
+
+---
+
+### Life Attack Defense Hissatsu Max - All Characters
+**Author:**   
+**Notes:** File: DATA.BIN
+
+```
+400000F8 00000005
+402F0180 00000000
+410000E4 00002710
+402F0180 00000000
+420000E6 03E803E8
+402F0180 00000000
+400000EA 00000004
+402F0180 00000000
+400000EC 00000004
+402F0180 00000000
+```
+
+---
+
+### Lv.256 *appearance - All Characters
+**Author:**   
+**Notes:** File: DATA.BIN
+
+```
+400000EB 000000FF
+402F0180 00000000
+```
+
+---
+
+### Berry Shop All Unlock
+**Author:**   
+**Notes:** File: DATA.BIN
+
+```
+4001B600 0000000D
+40370001 00000000
+4001B639 0000000D
+413A0001 00000000
+4001B796 0000000D
+402F0001 00000000
+```
+
+---
+
+### All Characters Unlock
+**Author:**   
+**Notes:** File: DATA.BIN  (You can only use 5 Slots but with 15 points.)
+
+```
+410000F9 00001919
+402F0180 00000000
+400000FB 00000019
+402F0180 00000000
+```
+
+---
+
+### 15 Skill Slot Points(if You Can't Add More Skill More Up Or Down.)
+**Author:**   
+**Notes:** File: DATA.BIN
+
+```
+400000EC 0000000F
+402F0180 00000000
+```
+
+---
+
+### Character Modifier:
+**Author:**   
+**Notes:** File: DATA.BIN
+
+```
+00029AC7 000000[CHAR]
+```
+
+---

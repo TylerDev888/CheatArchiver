@@ -1,0 +1,144 @@
+# Virtua Fighter 4 (Japanese) cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62130
+
+game: "Virtua Fighter 4 (Japanese)"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62130"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 002DFB5F"
+
+  - name: "Infinite Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20314E8C 44E10000"
+
+  - name: "Infinite Health P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1087F920 000000C9"
+
+  - name: "No Health P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1087F920 00000000"
+
+  - name: "75% Health P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D087F920 000000C9"
+      - "1087F920 00000096"
+
+  - name: "50% Health P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D087F920 000000C9"
+      - "1087F920 00000064"
+
+  - name: "25% Health P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D087F920 000000C9"
+      - "1087F920 00000032"
+
+  - name: "1-Hit Death P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D087F920 000000C9"
+      - "1087F920 00000001"
+
+  - name: "P1 Needs 1 Win To Win"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0314EE8 00000000"
+      - "00314EE8 00000001"
+
+  - name: "P1 Never Wins"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "00314EE8 00000000"
+
+  - name: "Infinite Health P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "108800C8 000000C9"
+
+  - name: "No Health P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "108800C8 00000000"
+
+  - name: "75% Health P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D08800C8 000000C9"
+      - "108800C8 00000096"
+
+  - name: "50% Health P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D08800C8 000000C9"
+      - "108800C8 00000064"
+
+  - name: "25% Health P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D08800C8 000000C9"
+      - "108800C8 00000032"
+
+  - name: "1-Hit Death P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D08800C8 000000C9"
+      - "108800C8 00000001"
+
+  - name: "P2 Needs 1 Win To Win"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0314EE8 00000000"
+      - "00314EE9 00000001"
+
+  - name: "P2 Never Wins"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "00314EE9 00000000"
+
+  - name: "Start On Final Stage (Arcade Mode)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0314EF6 00000000"
+      - "00314EF7 0000000C"
+
+  - name: "Start On Bonus Stage (Arcade Mode)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0314EF6 00000000"
+      - "00314EF7 0000000D"

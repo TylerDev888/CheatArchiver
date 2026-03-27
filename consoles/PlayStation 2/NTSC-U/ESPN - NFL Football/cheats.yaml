@@ -1,0 +1,35 @@
+# ESPN - NFL Football cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20727
+
+game: "ESPN - NFL Football"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20727"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0B34744 00B34747"
+
+  - name: "Maxed Play Time"
+    author: "Codejunkies"
+    codes:
+      - "204E4080 000FFFFF"
+
+  - name: "Unlock All Milestones"
+    author: "Codejunkies"
+    codes:
+      - "204E4088 FFFFFFFF"
+      - "204E408C FFFFFFFF"
+      - "204E4090 FFFFFFFF"
+      - "204E4094 FFFFFFFF"
+      - "204E4098 FFFFFFFF"
+      - "204E409C FFFFFFFF"
+      - "204E40A0 FFFFFFFF"
+      - "204E40A4 FFFFFFFF"

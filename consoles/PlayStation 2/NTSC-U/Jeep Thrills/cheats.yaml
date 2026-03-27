@@ -1,0 +1,40 @@
+# Jeep Thrills cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21760
+
+game: "Jeep Thrills"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21760"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Master Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "901E7D18 0C079EEE"
+
+  - name: "Master Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "901D03E0 0C0767AE"
+
+  - name: "Always Finish In First Place"
+    author: "nolberto82"
+    codes:
+      - "2016CDCC 34020001"
+
+  - name: "Infinite Boost"
+    author: "nolberto82"
+    codes:
+      - "20116498 00000000"
+
+  - name: "Win Race After Crossing The Finish Line"
+    author: "nolberto82"
+    codes:
+      - "2016CD20 34030000"
+      - "2016CDCC 34020001"

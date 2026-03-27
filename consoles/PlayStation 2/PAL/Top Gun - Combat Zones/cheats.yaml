@@ -1,0 +1,33 @@
+# Top Gun - Combat Zones cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50568
+
+game: "Top Gun - Combat Zones"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50568"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F012EB88 000001FD"
+
+  - name: "Enemies Can Not Fire"
+    author: "Codejunkies"
+    codes:
+      - "001C0F25 00000000"
+
+  - name: "Huge Score"
+    author: "InterAct"
+    codes:
+      - "201E480C 0FFFFFFF"
+
+  - name: "Infinite Time"
+    author: "InterAct"
+    codes:
+      - "101C121A 000043E3"

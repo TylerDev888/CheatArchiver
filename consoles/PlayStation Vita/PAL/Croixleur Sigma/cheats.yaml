@@ -1,0 +1,42 @@
+# Croixleur Sigma cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00767
+
+game: "Croixleur Sigma"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00767"
+cheat_type: "Save Editor"
+source: "Credits: Slade,Konnoke"
+
+cheats:
+  - name: "99,999 Gold"
+    notes: "File: FILENAME0.bin"
+    codes:
+      - "2000BC88 0001869F"
+
+  - name: "999,999 Sliver"
+    notes: "File: FILENAME0.bin"
+    codes:
+      - "2000BC8C 000F423F"
+
+  - name: "Records: Set Number Of Acquired Gold Coins To 9999"
+    notes: "File: FILENAME0.bin"
+    codes:
+      - "2000B468 0000270F"
+
+  - name: "Records: Set Number Of Acquired Silver Coins To 99999"
+    notes: "File: FILENAME0.bin"
+    codes:
+      - "2000B46C 0001869F"
+
+  - name: "Records: Set Number Of Defeated Monsters To 999"
+    notes: "File: FILENAME0.bin"
+    codes:
+      - "2000AF70 000003E7"
+
+  - name: "Records: Set Number Of Defeated Monsters To 9999"
+    notes: "File: FILENAME0.bin"
+    codes:
+      - "2000AF70 0000270F"

@@ -1,0 +1,52 @@
+# Borderlands 3 cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA07823
+
+game: "Borderlands 3"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA07823"
+cheat_type: "AP"
+source: "by bucanero"
+
+cheats:
+  - name: "Decrypt Profile (required)"
+    notes: "File: profile  (use profile xor keys)"
+    codes:
+      - "search \"BP_DefaultOakProfile_C\""
+      - "set [size]:read(pointer+0x17,4)"
+      - "set [size]:endian_swap"
+      - "set [size]:[size]+0x1A"
+      - "set range:pointer+0x1B,pointer+[size]"
+      - "DECRYPT borderlands3(0)"
+
+  - name: "Decrypt Save-game"
+    notes: "File: *  (use save-game xor keys) () (cheat codes go here) ()"
+    codes:
+      - "search \"OakSaveGame\""
+      - "set [size]:read(pointer+0x0C,4)"
+      - "set [size]:endian_swap"
+      - "set [size]:[size]+0x0F"
+      - "set range:pointer+0x10,pointer+[size]"
+      - "DECRYPT borderlands3(1)"
+
+  - name: "Encrypt Profile (required)"
+    notes: "File: profile"
+    codes:
+      - "search \"BP_DefaultOakProfile_C\""
+      - "set [size]:read(pointer+0x17,4)"
+      - "set [size]:endian_swap"
+      - "set [size]:[size]+0x1A"
+      - "set range:pointer+0x1B,pointer+[size]"
+      - "ENCRYPT borderlands3(0)"
+
+  - name: "Encrypt Save-game"
+    notes: "File: *"
+    codes:
+      - "search \"OakSaveGame\""
+      - "set [size]:read(pointer+0x0C,4)"
+      - "set [size]:endian_swap"
+      - "set [size]:[size]+0x0F"
+      - "set range:pointer+0x10,pointer+[size]"
+      - "ENCRYPT borderlands3(1)"

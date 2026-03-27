@@ -1,0 +1,40 @@
+# King Of Fighters, The - Nests [Neogeo Online Collection Vol.7] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25661
+
+game: "King Of Fighters, The - Nests [Neogeo Online Collection Vol.7]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25661"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "90134BB0 00832021"
+
+  - name: "P1 Inf HP"
+    author: "lee4"
+    notes: "[home version]"
+    codes:
+      - "E0022E39 004EF124"
+      - "607C1210 00000067"
+      - "00000001 000001B2"
+
+  - name: "P1 Inf HP  by lee4"
+    notes: "[home version]"
+    codes:
+      - "E0022E4B 004EF124"
+      - "6022E360 00000066"
+      - "00000001 000040C4"
+
+  - name: "P2 Inf HP  by lee4"
+    notes: "[home version]"
+    codes:
+      - "E0022E39 004EF124"
+      - "607C1210 00000067"
+      - "00000001 00000442"

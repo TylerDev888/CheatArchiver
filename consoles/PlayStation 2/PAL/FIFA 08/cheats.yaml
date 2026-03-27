@@ -1,0 +1,103 @@
+# FIFA 08 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "FIFA 08"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "906090B0 0C0C91D4"
+
+  - name: "Start At 10 Goals"
+    author: "Xploder"
+    notes: "[Home Team Codes]"
+    codes:
+      - "D08FC008 00000000"
+      - "208FC008 0000000A"
+
+  - name: "Start At 20 Goals"
+    author: "Xploder"
+    notes: "[Home Team Codes]"
+    codes:
+      - "D08FC008 00000000"
+      - "208FC008 00000014"
+
+  - name: "Start At 50 Goals"
+    author: "Xploder"
+    notes: "[Home Team Codes]"
+    codes:
+      - "D08FC008 00000000"
+      - "208FC008 00000032"
+
+  - name: "Start At 100 Goals"
+    author: "Xploder"
+    notes: "[Home Team Codes]"
+    codes:
+      - "D08FC008 00000000"
+      - "208FC008 00000064"
+
+  - name: "Never Score"
+    author: "Xploder"
+    notes: "[Home Team Codes]"
+    codes:
+      - "208FC008 00000000"
+
+  - name: "Press Select + L1 To Reset Goals"
+    author: "Xploder"
+    notes: "[Home Team Codes]"
+    codes:
+      - "D093B2C2 0000FBFE"
+      - "208FC008 00000000"
+
+  - name: "Press Select + R1 To Reset Goals"
+    author: "Xploder"
+    notes: "[Away Team Codes]"
+    codes:
+      - "D093B2C2 0000F7FE"
+      - "20903540 00000000"
+
+  - name: "Press Select + L2 To Reset Timer"
+    author: "Xploder"
+    notes: "[Timer Codes]"
+    codes:
+      - "D093B2C2 0000FEFE"
+      - "209174B0 00000000"
+
+  - name: "Press Select + R2 To Finish Current Half"
+    author: "Xploder"
+    notes: "[Timer Codes]"
+    codes:
+      - "D093B2C2 0000FDFE"
+      - "209174B0 00000278"
+
+  - name: "Max Fan Support"
+    author: "Xploder"
+    notes: "[Manager Mode Codes]"
+    codes:
+      - "210A1060 42C80000"
+
+  - name: "Max Job Security"
+    author: "Xploder"
+    notes: "[Manager Mode Codes]"
+    codes:
+      - "210A1054 42C80000"
+
+  - name: "Infinite Money"
+    author: "Xploder"
+    notes: "[Manager Mode Codes]"
+    codes:
+      - "210A1050 4E000000"
+
+  - name: "Be A Pro: Quick Level Up"
+    author: "Xploder"
+    notes: "[Manager Mode Codes]"
+    codes:
+      - "208EBA3C 05F5E0FF"

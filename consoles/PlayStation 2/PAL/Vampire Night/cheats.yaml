@@ -1,0 +1,135 @@
+# Vampire Night cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-50411
+
+game: "Vampire Night"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-50411"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01E2350 000001FD"
+
+  - name: "Infinite Continues"
+    author: "Codejunkies"
+    notes: "[Continues Codes]"
+    codes:
+      - "10308728 000001CE"
+
+  - name: "Never Have Any Continues"
+    author: "Codejunkies"
+    notes: "[Continues Codes]"
+    codes:
+      - "E0010000 30308728"
+      - "10308728 00000000"
+
+  - name: "Never Have More Than 1 Continues"
+    author: "Codejunkies"
+    notes: "[Continues Codes]"
+    codes:
+      - "E0010001 30308728"
+      - "10308728 00000001"
+
+  - name: "Never Have More Than 2 Continues"
+    author: "Codejunkies"
+    notes: "[Continues Codes]"
+    codes:
+      - "E0010002 30308728"
+      - "10308728 00000002"
+
+  - name: "Never Have More Than 3 Continues"
+    author: "Codejunkies"
+    notes: "[Continues Codes]"
+    codes:
+      - "E0010003 30308728"
+      - "10308728 00000003"
+
+  - name: "P1 Invincible"
+    author: "InterAct"
+    codes:
+      - "10500740 00000005"
+
+  - name: "Infinite Ammo/No Reload"
+    author: "Codejunkies"
+    notes: "[Player 1 Ammo Codes]"
+    codes:
+      - "1050077C 00000009"
+
+  - name: "Never Have More Than 1 Ammo"
+    author: "Codejunkies"
+    notes: "[Player 1 Ammo Codes]"
+    codes:
+      - "E0010001 3050077C"
+      - "1050077C 00000001"
+
+  - name: "Never Have More Than 2 Ammo"
+    author: "Codejunkies"
+    notes: "[Player 1 Ammo Codes]"
+    codes:
+      - "E0010002 3050077C"
+      - "1050077C 00000002"
+
+  - name: "Never Have More Than 3 Ammo"
+    author: "Codejunkies"
+    notes: "[Player 1 Ammo Codes]"
+    codes:
+      - "E0010003 3050077C"
+      - "1050077C 00000003"
+
+  - name: "Never Have More Than 4 Ammo"
+    author: "Codejunkies"
+    notes: "[Player 1 Ammo Codes]"
+    codes:
+      - "E0010004 3050077C"
+      - "1050077C 00000004"
+
+  - name: "Never Have More Than 5 Ammo"
+    author: "Codejunkies"
+    notes: "[Player 1 Ammo Codes]"
+    codes:
+      - "E0010005 3050077C"
+      - "1050077C 00000005"
+
+  - name: "Player 2 Invincible"
+    author: "Codejunkies"
+    notes: "[Player 1 Ammo Codes]"
+    codes:
+      - "10500AC4 00000005"
+      - "10500A88 00000005"
+
+  - name: "Easy Bosses"
+    author: "Codejunkies"
+    notes: "[Player 2 Ammo Codes]"
+    codes:
+      - "102D8D6C 00000000"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0140008 00165587"
+
+  - name: "Stupid Bosses"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "002D8D6C 28096800"
+
+  - name: "Unlimited Health"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "00500740 28096805"
+
+  - name: "Unlimited Ammunition"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "0050077C 28096809"

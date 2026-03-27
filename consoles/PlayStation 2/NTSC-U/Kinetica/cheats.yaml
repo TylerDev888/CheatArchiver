@@ -1,0 +1,383 @@
+# Kinetica cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97132
+
+game: "Kinetica"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97132"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0147140 001ACF97"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master>StalkerX"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001ACF97"
+
+  - name: "All Races Are 1 Lap"
+    author: "Code Master>StalkerX"
+    codes:
+      - "2012B138 24060001"
+
+  - name: "All Races Are 5 Laps"
+    author: "Code Master>StalkerX"
+    codes:
+      - "2012B138 24060005"
+
+  - name: "All Races Are 10 Laps"
+    author: "Code Master>StalkerX"
+    codes:
+      - "2012B138 2406000A"
+
+  - name: "Always Low Lap Time"
+    author: "Code Master>StalkerX"
+    codes:
+      - "2020AEA0 00000000"
+
+  - name: "Always Low Total Time"
+    author: "Code Master>StalkerX"
+    codes:
+      - "2020AE74 00000000"
+
+  - name: "Extra Retries"
+    author: "Code Master>StalkerX"
+    codes:
+      - "101236D0 00000001"
+
+  - name: "Have All Seasons Complete"
+    author: "Code Master>StalkerX"
+    codes:
+      - "201FCE80 00000004"
+
+  - name: "Infinite Boost"
+    author: "Code Master>StalkerX"
+    codes:
+      - "91270B5D 49111622"
+      - "D4C0CC02 4FFA5D00"
+      - "7A6145C1 AC14FC68"
+      - "D786CA51 FC2FBE79"
+
+  - name: "Infinite Race Retries"
+    author: "InterAct"
+    codes:
+      - "101FCB6C 00000006"
+
+  - name: "Infinite Retries"
+    author: "Code Master>StalkerX"
+    codes:
+      - "201FCB6C 00000009"
+      - "2020ABD8 00000009"
+
+  - name: "P1 Character Modifier"
+    author: "Code Master>StalkerX"
+    codes:
+      - "101FCDA0 000000??"
+
+  - name: "Player 1 Argos"
+    author: "InterAct"
+    notes: "[P1 Codes]"
+    codes:
+      - "101FCDA0 0000000E"
+
+  - name: "Player 1 Crank"
+    author: "InterAct"
+    notes: "[P1 Codes]"
+    codes:
+      - "101FCDA0 00000009"
+
+  - name: "Player 1 Cyan"
+    author: "InterAct"
+    notes: "[P1 Codes]"
+    codes:
+      - "101FCDA0 00000010"
+
+  - name: "Player 1 Dusk"
+    author: "InterAct"
+    notes: "[P1 Codes]"
+    codes:
+      - "101FCDA0 0000000B"
+
+  - name: "Player 1 Evalon"
+    author: "InterAct"
+    notes: "[P1 Codes]"
+    codes:
+      - "101FCDA0 0000000D"
+
+  - name: "Player 1 Gore"
+    author: "InterAct"
+    notes: "[P1 Codes]"
+    codes:
+      - "101FCDA0 00000012"
+
+  - name: "Player 1 Greck"
+    author: "InterAct"
+    notes: "[P1 Codes]"
+    codes:
+      - "101FCDA0 00000008"
+
+  - name: "Player 1 Maddox"
+    author: "InterAct"
+    notes: "[P1 Codes]"
+    codes:
+      - "101FCDA0 00000011"
+
+  - name: "Player 1 Siba"
+    author: "InterAct"
+    notes: "[P1 Codes]"
+    codes:
+      - "101FCDA0 00000007"
+
+  - name: "Player 1 Silkut"
+    author: "InterAct"
+    notes: "[P1 Codes]"
+    codes:
+      - "101FCDA0 0000000A"
+
+  - name: "Player 1 Steyer"
+    author: "InterAct"
+    notes: "[P1 Codes]"
+    codes:
+      - "101FCDA0 0000000F"
+
+  - name: "Player 1 Thorn"
+    author: "InterAct"
+    notes: "[P1 Codes]"
+    codes:
+      - "101FCDA0 0000000C"
+
+  - name: "P2 Character Modifier"
+    author: "Code Master>StalkerX"
+    codes:
+      - "101FCDA4 000000??"
+
+  - name: "Player 2 Argos"
+    author: "InterAct"
+    notes: "[P2 Codes]"
+    codes:
+      - "101FCDA4 0000000E"
+
+  - name: "Player 2 Crank"
+    author: "InterAct"
+    notes: "[P2 Codes]"
+    codes:
+      - "101FCDA4 00000009"
+
+  - name: "Player 2 Cyan"
+    author: "InterAct"
+    notes: "[P2 Codes]"
+    codes:
+      - "101FCDA4 00000010"
+
+  - name: "Player 2 Dusk"
+    author: "InterAct"
+    notes: "[P2 Codes]"
+    codes:
+      - "101FCDA4 0000000B"
+
+  - name: "Player 2 Evalon"
+    author: "InterAct"
+    notes: "[P2 Codes]"
+    codes:
+      - "101FCDA4 0000000D"
+
+  - name: "Player 2 Gore"
+    author: "InterAct"
+    notes: "[P2 Codes]"
+    codes:
+      - "101FCDA4 00000012"
+
+  - name: "Player 2 Greck"
+    author: "InterAct"
+    notes: "[P2 Codes]"
+    codes:
+      - "101FCDA4 00000008"
+
+  - name: "Player 2 Maddox"
+    author: "InterAct"
+    notes: "[P2 Codes]"
+    codes:
+      - "101FCDA4 00000011"
+
+  - name: "Player 2 Siba"
+    author: "InterAct"
+    notes: "[P2 Codes]"
+    codes:
+      - "101FCDA4 00000007"
+
+  - name: "Player 2 Silkut"
+    author: "InterAct"
+    notes: "[P2 Codes]"
+    codes:
+      - "101FCDA4 0000000A"
+
+  - name: "Player 2 Steyer"
+    author: "InterAct"
+    notes: "[P2 Codes]"
+    codes:
+      - "101FCDA4 0000000F"
+
+  - name: "Player 2 Thorn"
+    author: "InterAct"
+    notes: "[P2 Codes]"
+    codes:
+      - "101FCDA4 0000000C"
+
+  - name: "All Characters"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "401FCE2C 00120001"
+      - "00000001 00000000"
+
+  - name: "Argos"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "201FCE60 00000001"
+
+  - name: "Ava"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "201FCE30 00000001"
+
+  - name: "Cera"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "201FCE2C 00000001"
+
+  - name: "Crank"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "201FCE4C 00000001"
+
+  - name: "Cyan"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "201FCE68 00000001"
+
+  - name: "Dusk"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "201FCE54 00000001"
+
+  - name: "Evalon"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "201FCE5C 00000001"
+
+  - name: "Gore"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "201FCE70 00000001"
+
+  - name: "Greck"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "201FCE48 00000001"
+
+  - name: "Maddox"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "201FCE6C 00000001"
+
+  - name: "Razzo"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "201FCE40 00000001"
+
+  - name: "Siba"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "201FCE44 00000001"
+
+  - name: "Silkut"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "201FCE50 00000001"
+
+  - name: "Steyer"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "201FCE64 00000001"
+
+  - name: "Thorn"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "201FCE58 00000001"
+
+  - name: "Vigor"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "201FCE34 00000001"
+
+  - name: "Xia"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "201FCE38 00000001"
+
+  - name: "Zinon"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Character Codes]"
+    codes:
+      - "201FCE3C 00000001"
+
+  - name: "Unlock All Tracks And Seasons"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "101FCE80 00000004"
+
+  - name: "Unlock Crank"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "101FCE4C 00000001"
+
+  - name: "Unlock Greck"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "101FCE48 00000001"
+
+  - name: "Unlock Siba"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "101FCE44 00000001"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master>StalkerX"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001ACF97"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master>StalkerX"
+    notes: "[Masters]"
+    codes:
+      - "901ACF94 0C07076B"

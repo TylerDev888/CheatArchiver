@@ -1,0 +1,32 @@
+# Saint Seiya Chapter Sanctuary cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53201
+
+game: "Saint Seiya Chapter Sanctuary"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53201"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0134E6C 00134E6F"
+
+  - name: "Open All Characters/Demon Pope Fist"
+    author: "Codejunkies"
+    codes:
+      - "20527EBC FFFFFFFF"
+
+  - name: "Player 1 Has Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "200FFF04 14600003"
+      - "200FFF0C 3C0142C8"
+      - "200FFF10 AC81005C"
+      - "200FFF20 03E00008"
+      - "202B483C 0803FFC0"

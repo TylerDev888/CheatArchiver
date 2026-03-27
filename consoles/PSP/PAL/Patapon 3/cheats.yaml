@@ -1,0 +1,24 @@
+# Patapon 3 cheat data
+# Console: PSP
+# Region:  PAL
+# Serial:  UCES01421
+
+game: "Patapon 3"
+console: "PSP"
+region: "PAL"
+serial: "UCES01421"
+cheat_type: "Save Editor"
+source: "encryption by bucanero"
+
+cheats:
+  - name: "Decrypt Secure.bin (required)"
+    notes: "File: SECURE.BIN  (// mods should go here)"
+    codes:
+      - "set range:0x0000,EOF+1"
+      - "DECRYPT camellia_ecb(\"SVsyE56pniSRS9dIPTiE8ApDaUnN0AEa\")"
+
+  - name: "Encrypt Secure.bin (required)"
+    notes: "File: SECURE.BIN  (CWCheats) () (_C1 # Disable Save Hash Check) (_L 0xD0235CB0 0x00000018) (_L 0x20235CB0 0x8E050000) (_L 0xD0235FA4 0x00000018) (_L 0x20235FA4 0x8E050000) () (# Original code by Owocek) (# Adapted to USA by Madwig) (# The code works on EUR / USA) (# After saving once code is not ..."
+    codes:
+      - "set range:0x0000,EOF+1"
+      - "ENCRYPT camellia_ecb(\"SVsyE56pniSRS9dIPTiE8ApDaUnN0AEa\")"

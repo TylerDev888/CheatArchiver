@@ -1,0 +1,26 @@
+# Saishuu Heiki Kanojo cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65275
+
+game: "Saishuu Heiki Kanojo"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65275"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9040F438 0C103CB6"
+
+  - name: "Enable Debug Menu [View Note]"
+    author: "punk7890"
+    codes:
+      - "D0B285B2 0000F7FF"
+      - "20438770 24100004"
+      - "D0B285B2 0000FFFF"
+      - "20438770 0000802D"

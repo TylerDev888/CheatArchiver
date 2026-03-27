@@ -1,0 +1,206 @@
+# FateUnlimited Codes cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-55108
+
+game: "FateUnlimited Codes"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-55108"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code(MUST BE ON)"
+    notes: "[Master]"
+    codes:
+      - "90106758 0C04197E"
+
+  - name: "Joker Controller 1"
+    notes: "[Jokers]"
+    codes:
+      - "D0522F82 0000[Joker:PS2]"
+
+  - name: "Joker Controller 2"
+    notes: "[Jokers]"
+    codes:
+      - "D0523082 0000[Joker:PS2]"
+
+  - name: "Activator}"
+    notes: "[Activator Character Codes]"
+    codes:
+      - "200A0000 3C010052"
+      - "200A0004 8C22C870"
+      - "200A0008 24030001"
+      - "200A000C 1443003E"
+      - "200A0014 8C22C874"
+      - "200A0018 1040001C"
+      - "200A0090 8C23C87C"
+      - "200A0094 1060001C"
+      - "200A010C 03E00008"
+      - "D0522F82 0000F0FF"
+      - "20106C2C 08028000"
+
+  - name: "Inf HP"
+    notes: "[Player 1(must Turn On Activator)]"
+    codes:
+      - "200A0020 AC40023C"
+
+  - name: "Inf Power"
+    notes: "[Player 1(must Turn On Activator)]"
+    codes:
+      - "200A0024 8C440248"
+      - "200A0028 AC44024C"
+
+  - name: "No Power"
+    notes: "[Player 1(must Turn On Activator)]"
+    codes:
+      - "200A0054 AC40024C"
+
+  - name: "Press Select P1 (player 2 = 1 Hit Kill)"
+    notes: "[Player 1(must Turn On Activator)]"
+    codes:
+      - "200A00A8 3C040052"
+      - "200A00AC 90842F82"
+      - "200A00B0 240500FE"
+      - "200A00B4 14850005"
+      - "200A00BC 8C640234"
+      - "200A00C0 24050001"
+      - "200A00C4 00852022"
+      - "200A00C8 AC64023C"
+
+  - name: "Inf HP Player 2"
+    notes: "[Player 2(must Turn On Activator)]"
+    codes:
+      - "200A009C AC60023C"
+
+  - name: "Inf Power Player 2"
+    notes: "[Player 2(must Turn On Activator)]"
+    codes:
+      - "200A00A0 8C640248"
+      - "200A00A4 AC64024C"
+
+  - name: "No Power Player 2"
+    notes: "[Player 2(must Turn On Activator)]"
+    codes:
+      - "200A00D0 AC60024C"
+
+  - name: "Press Select P2 (player 1 = 1 Hit Kill)"
+    notes: "[Player 2(must Turn On Activator)]"
+    codes:
+      - "200A002C 3C040052"
+      - "200A0030 90843082"
+      - "200A0034 240500FE"
+      - "200A0038 14850005"
+      - "200A0040 8C440234"
+      - "200A0044 24050001"
+      - "200A0048 00852022"
+      - "200A004C AC44023C"
+
+  - name: "Timer Always (99)"
+    notes: "[Misc]"
+    codes:
+      - "1051D8C4 00001734"
+
+  - name: "Stage Mod"
+    author: "Lee4"
+    notes: "[Misc]"
+    codes:
+      - "00531C48 0000000[STM]"
+
+  - name: "No Hude (press Select In Battle)"
+    notes: "[Misc]"
+    codes:
+      - "D0522F82 0000FFFE"
+      - "2051D894 10000000"
+
+  - name: "No Holy Cup (press Select In Battle)"
+    notes: "[Misc]"
+    codes:
+      - "D0522F82 0000FFFE"
+      - "0051D8C8 00000000"
+
+  - name: "Max Holy Cup (press Select In Battle)(1 Hit Will Give U Bonus)"
+    notes: "[Misc]"
+    codes:
+      - "D0522F82 0000FFFE"
+      - "1051D8CC 0000270F"
+
+  - name: "Inf Holy Cup Bonus"
+    notes: "[Misc]"
+    codes:
+      - "1051D8D0 0000015F"
+
+  - name: "Score Leaders (cmp Score 9999999)"
+    notes: "[Misc]"
+    codes:
+      - "4051E930 00460003"
+      - "00504D43 00000000"
+      - "4051E938 00460003"
+      - "0098967F 00000000"
+
+  - name: "Max Score (both Players)"
+    notes: "[Other Character Codes]"
+    codes:
+      - "201A39B0 AE070000"
+
+  - name: "Max Score/Wins (memory)"
+    notes: "[Player 1]"
+    codes:
+      - "2051D978 0098967F"
+
+  - name: "Character Mod"
+    author: "Lee4"
+    notes: "[Player 1]"
+    codes:
+      - "00531B68 000000[CM]"
+
+  - name: "Clothing Mod"
+    author: "Lee4"
+    notes: "[Player 1]"
+    codes:
+      - "00531B6C 0000000[COL]"
+
+  - name: "Unlock Everything"
+    author: "SkillerCMP>Lee4"
+    notes: "[Unlocks]"
+    codes:
+      - "40523890 000F0001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Unlock All Characters"
+    notes: "[Unlocks]"
+    codes:
+      - "20523890 FFFFFFFF"
+      - "00523897 000000FF"
+
+  - name: "Unlock Survival"
+    notes: "[Unlocks]"
+    codes:
+      - "00523895 000000FF"
+
+  - name: "Have All Extras"
+    notes: "[Unlocks]"
+    codes:
+      - "00523896 000000FF"
+      - "405238BC 00040001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Open U/C Material & Bgm"
+    author: "Lee4"
+    notes: "[Unlocks]"
+    codes:
+      - "00523896 000000FF"
+
+  - name: "Unlock All Stages"
+    author: "Lee4"
+    notes: "[Unlocks]"
+    codes:
+      - "00523894 000000FF"
+
+  - name: "Unlock All System Voices"
+    author: "Lee4"
+    notes: "[Unlocks]"
+    codes:
+      - "10523898 0000FFFF"
+      - "0052389A 000000FF"

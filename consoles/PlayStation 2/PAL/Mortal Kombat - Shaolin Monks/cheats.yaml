@@ -1,0 +1,90 @@
+# Mortal Kombat - Shaolin Monks cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53524
+
+game: "Mortal Kombat - Shaolin Monks"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53524"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0383574 00383577"
+
+  - name: "All Kontent And Vs Characters Open"
+    author: "Codejunkies"
+    notes: "[Kombo Kodes]"
+    codes:
+      - "205D8588 FFFFFFFF"
+      - "205D858C FFFFFFFF"
+      - "205D8590 FFFFFFFF"
+      - "205D8594 FFFFFFFF"
+      - "205D8598 FFFFFFFF"
+      - "205D859C FFFFFFFF"
+      - "205D85A0 FFFFFFFF"
+      - "205D85A4 FFFFFFFF"
+      - "205D85A8 FFFFFFFF"
+      - "205D85AC FFFFFFFF"
+
+  - name: "Quick Combo Multiplier"
+    author: "Codejunkies"
+    notes: "[Kombo Kodes]"
+    codes:
+      - "20175890 2442000A"
+
+  - name: "Super Combo Multiplier"
+    author: "Codejunkies"
+    notes: "[Kombo Kodes]"
+    codes:
+      - "20175890 24420064"
+
+  - name: "No Clip (ASM CODE) \"Hold/Release L3\""
+    author: "Unicorngoulash"
+    codes:
+      - "D0652300 00000200"
+      - "2038E254 1000001C"
+      - "D0652300 00000000"
+      - "2038E254 0620001C"
+
+  - name: "Buying Skills Does Not Deplete XP"
+    author: "Codejunkies"
+    notes: "[XP Codes]"
+    codes:
+      - "20174BB4 00000000"
+
+  - name: "Earn XP For 99999999 XP"
+    author: "Codejunkies"
+    notes: "[XP Codes]"
+    codes:
+      - "2017443C 3C1105F5"
+      - "20174458 3631E0FF"
+
+  - name: "Infinite Energy"
+    author: "Codejunkies"
+    notes: "[XP Codes]"
+    codes:
+      - "20169464 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[XP Codes]"
+    codes:
+      - "20296D38 8C4303A0"
+      - "20296D3C AC430398"
+
+  - name: "Quick Fill Fatality Meter"
+    author: "Codejunkies"
+    notes: "[XP Codes]"
+    codes:
+      - "200FFF00 3C0344FA"
+      - "200FFF04 AC434BB8"
+      - "200FFF08 C7B40020"
+      - "200FFF0C 08076881"
+      - "201DA1FC 0803FFC0"
+      - "201DA200 00000000"

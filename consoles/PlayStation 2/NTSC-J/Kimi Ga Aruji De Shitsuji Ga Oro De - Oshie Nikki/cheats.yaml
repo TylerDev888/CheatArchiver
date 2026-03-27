@@ -1,0 +1,24 @@
+# Kimi Ga Aruji De Shitsuji Ga Oro De - Oshie Nikki cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66934
+
+game: "Kimi Ga Aruji De Shitsuji Ga Oro De - Oshie Nikki"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66934"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90411C98 0C1046CE"
+
+  - name: "Unlock All CG & Endings"
+    author: "punk7890"
+    codes:
+      - "41CDA728 000B0001"
+      - "FFFFFFFF 00000000"

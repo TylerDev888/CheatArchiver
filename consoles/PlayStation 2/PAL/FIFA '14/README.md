@@ -1,0 +1,61 @@
+# FIFA '14
+
+**Console:** PlayStation 2  
+**Region:** PAL  
+**Serial:** SLES-55671  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Enable Code
+**Author:** lee4
+
+```
+902F6B20 0C0BDA70
+```
+
+---
+
+### Pal2ntsc
+**Author:** lee4
+
+```
+205B20E8 24120002
+```
+
+---
+
+### Pal2ntsc (Alternate)
+**Author:** lee4
+
+```
+202EF120 34050002
+202EF124 24030002
+202EF128 0000000C
+202EF12C 03E00008
+```
+
+---
+
+### Y-Fix (Alternate)
+**Author:** lee4
+
+```
+200FFF40 64420000
+200FFF44 64428000
+200FFF48 64428000
+200FFF4C 64428000
+200FFF50 64428000
+200FFF54 64428000
+200FFF58 64428000
+200FFF5C 64428000
+200FFF60 FD020000
+200FFF64 0814936A
+200FFF68 8D230098
+20524DA0 0803FFD0
+20524DA4 00000000
+```
+
+---

@@ -1,0 +1,769 @@
+# Road Kill cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20687
+
+game: "Road Kill"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20687"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0031574F"
+
+  - name: "Infinite Health P1"
+    author: "Code Master"
+    notes: "[P1 Codes]"
+    codes:
+      - "20442370 3F800000"
+
+  - name: "75% Health P1"
+    author: "Code Master"
+    notes: "[P1 Codes]"
+    codes:
+      - "D0442372 00003F80"
+      - "20442370 3F400000"
+
+  - name: "50% Health P1"
+    author: "Code Master"
+    notes: "[P1 Codes]"
+    codes:
+      - "D0442372 00003F80"
+      - "20442370 3F000000"
+
+  - name: "25% Health P1"
+    author: "Code Master"
+    notes: "[P1 Codes]"
+    codes:
+      - "D0442372 00003F80"
+      - "20442370 3E800000"
+
+  - name: "1-Hit Death P1"
+    author: "Code Master"
+    notes: "[P1 Codes]"
+    codes:
+      - "D0442372 00003F80"
+      - "20442370 3C23D70A"
+
+  - name: "No Health P1"
+    author: "Code Master"
+    notes: "[P1 Codes]"
+    codes:
+      - "20442370 00000000"
+
+  - name: "Infinite Turbo P1"
+    author: "Code Master"
+    notes: "[P1 Codes]"
+    codes:
+      - "20442418 40000000"
+
+  - name: "No Turbo P1"
+    author: "Code Master"
+    notes: "[P1 Codes]"
+    codes:
+      - "20442418 00000000"
+
+  - name: "Weapon Modifier P1"
+    author: "Code Master"
+    notes: "[P1 Codes]"
+    codes:
+      - "20471338 ????????"
+
+  - name: "Gatling Gun"
+    author: "Code Master"
+    notes: "[P1 Infinite Ammo Codes]"
+    codes:
+      - "20471340 00000063"
+
+  - name: "Shotgun"
+    author: "Code Master"
+    notes: "[P1 Infinite Ammo Codes]"
+    codes:
+      - "20471344 00000063"
+
+  - name: "Taser"
+    author: "Code Master"
+    notes: "[P1 Infinite Ammo Codes]"
+    codes:
+      - "20471348 00000063"
+
+  - name: "Sentry Gun"
+    author: "Code Master"
+    notes: "[P1 Infinite Ammo Codes]"
+    codes:
+      - "2047134C 00000063"
+
+  - name: "Twisting Missiles"
+    author: "Code Master"
+    notes: "[P1 Infinite Ammo Codes]"
+    codes:
+      - "20471350 00000063"
+
+  - name: "Cluster Missiles"
+    author: "Code Master"
+    notes: "[P1 Infinite Ammo Codes]"
+    codes:
+      - "20471354 00000063"
+
+  - name: "Normal Missiles"
+    author: "Code Master"
+    notes: "[P1 Infinite Ammo Codes]"
+    codes:
+      - "20471358 00000063"
+
+  - name: "Cam Missiles"
+    author: "Code Master"
+    notes: "[P1 Infinite Ammo Codes]"
+    codes:
+      - "2047135C 00000063"
+
+  - name: "Timed Mines"
+    author: "Code Master"
+    notes: "[P1 Infinite Ammo Codes]"
+    codes:
+      - "20471360 00000063"
+
+  - name: "Land Mines"
+    author: "Code Master"
+    notes: "[P1 Infinite Ammo Codes]"
+    codes:
+      - "20471364 00000063"
+
+  - name: "Cluster Mines"
+    author: "Code Master"
+    notes: "[P1 Infinite Ammo Codes]"
+    codes:
+      - "20471368 00000063"
+
+  - name: "Bombs"
+    author: "Code Master"
+    notes: "[P1 Infinite Ammo Codes]"
+    codes:
+      - "2047136C 00000063"
+
+  - name: "Flash Mines"
+    author: "Code Master"
+    notes: "[P1 Infinite Ammo Codes]"
+    codes:
+      - "20471370 00000063"
+
+  - name: "Detonated Mines"
+    author: "Code Master"
+    notes: "[P1 Infinite Ammo Codes]"
+    codes:
+      - "20471374 00000063"
+
+  - name: "Sniper Rifle"
+    author: "Code Master"
+    notes: "[P1 Infinite Ammo Codes]"
+    codes:
+      - "20471378 00000063"
+
+  - name: "Air Strike"
+    author: "Code Master"
+    notes: "[P1 Infinite Ammo Codes]"
+    codes:
+      - "2047137C 00000063"
+
+  - name: "Flamethrower"
+    author: "Code Master"
+    notes: "[P1 Infinite Ammo Codes]"
+    codes:
+      - "20471380 00000063"
+
+  - name: "All Weapons"
+    author: "Code Master"
+    notes: "[P1 Infinite Ammo Codes]"
+    codes:
+      - "40471340 00120001"
+      - "00000063 00000000"
+
+  - name: "Infinite Health P2"
+    author: "Code Master"
+    notes: "[P2 Codes]"
+    codes:
+      - "20445030 3F800000"
+
+  - name: "75% Health P2"
+    author: "Code Master"
+    notes: "[P2 Codes]"
+    codes:
+      - "D0445032 00003F80"
+      - "20445030 3F400000"
+
+  - name: "50% Health P2"
+    author: "Code Master"
+    notes: "[P2 Codes]"
+    codes:
+      - "D0445032 00003F80"
+      - "20445030 3F000000"
+
+  - name: "25% Health P2"
+    author: "Code Master"
+    notes: "[P2 Codes]"
+    codes:
+      - "D0445032 00003F80"
+      - "20445030 3E800000"
+
+  - name: "1-Hit Death P2"
+    author: "Code Master"
+    notes: "[P2 Codes]"
+    codes:
+      - "D0445032 00003F80"
+      - "20445030 3C23D70A"
+
+  - name: "No Health P2"
+    author: "Code Master"
+    notes: "[P2 Codes]"
+    codes:
+      - "20445030 00000000"
+
+  - name: "Infinite Turbo P2"
+    author: "Code Master"
+    notes: "[P2 Codes]"
+    codes:
+      - "204450D8 40000000"
+
+  - name: "No Turbo P2"
+    author: "Code Master"
+    notes: "[P2 Codes]"
+    codes:
+      - "204450D8 00000000"
+
+  - name: "Weapon Modifier P2"
+    author: "Code Master"
+    notes: "[P2 Codes]"
+    codes:
+      - "20472CCC ????????"
+
+  - name: "Infinite Health P3"
+    author: "Code Master"
+    notes: "[P3 Codes]"
+    codes:
+      - "20447CF0 3F800000"
+
+  - name: "75% Health P3"
+    author: "Code Master"
+    notes: "[P3 Codes]"
+    codes:
+      - "D0447CF2 00003F80"
+      - "20447CF0 3F400000"
+
+  - name: "50% Health P3"
+    author: "Code Master"
+    notes: "[P3 Codes]"
+    codes:
+      - "D0447CF2 00003F80"
+      - "20447CF0 3F000000"
+
+  - name: "25% Health P3"
+    author: "Code Master"
+    notes: "[P3 Codes]"
+    codes:
+      - "D0447CF2 00003F80"
+      - "20447CF0 3E800000"
+
+  - name: "1-Hit Death P3"
+    author: "Code Master"
+    notes: "[P3 Codes]"
+    codes:
+      - "D0447CF2 00003F80"
+      - "20447CF0 3C23D70A"
+
+  - name: "No Health P3"
+    author: "Code Master"
+    notes: "[P3 Codes]"
+    codes:
+      - "20447CF0 00000000"
+
+  - name: "Infinite Turbo P3"
+    author: "Code Master"
+    notes: "[P3 Codes]"
+    codes:
+      - "20447D98 40000000"
+
+  - name: "No Turbo P3"
+    author: "Code Master"
+    notes: "[P3 Codes]"
+    codes:
+      - "20447D98 00000000"
+
+  - name: "Weapon Modifier P3"
+    author: "Code Master"
+    notes: "[P3 Codes]"
+    codes:
+      - "20474660 ????????"
+
+  - name: "Infinite Health P4"
+    author: "Code Master"
+    notes: "[P4 Codes]"
+    codes:
+      - "2044A9B0 3F800000"
+
+  - name: "75% Health P4"
+    author: "Code Master"
+    notes: "[P4 Codes]"
+    codes:
+      - "D044A9B2 00003F80"
+      - "2044A9B0 3F400000"
+
+  - name: "50% Health P4"
+    author: "Code Master"
+    notes: "[P4 Codes]"
+    codes:
+      - "D044A9B2 00003F80"
+      - "2044A9B0 3F000000"
+
+  - name: "25% Health P4"
+    author: "Code Master"
+    notes: "[P4 Codes]"
+    codes:
+      - "D044A9B2 00003F80"
+      - "2044A9B0 3E800000"
+
+  - name: "1-Hit Death P4"
+    author: "Code Master"
+    notes: "[P4 Codes]"
+    codes:
+      - "D044A9B2 00003F80"
+      - "2044A9B0 3C23D70A"
+
+  - name: "No Health P4"
+    author: "Code Master"
+    notes: "[P4 Codes]"
+    codes:
+      - "2044A9B0 00000000"
+
+  - name: "Infinite Turbo P4"
+    author: "Code Master"
+    notes: "[P4 Codes]"
+    codes:
+      - "2044AA58 40000000"
+
+  - name: "No Turbo P4"
+    author: "Code Master"
+    notes: "[P4 Codes]"
+    codes:
+      - "2044AA58 00000000"
+
+  - name: "Weapon Modifier P4"
+    author: "Code Master"
+    notes: "[P4 Codes]"
+    codes:
+      - "20475FF4 ????????"
+
+  - name: "Infinite Salvage"
+    author: "Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "104714BC 0000FFFF"
+
+  - name: "Max Salvage"
+    author: "Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "204714BC 05F5E0FF"
+
+  - name: "Access All Multiplayer Arenas"
+    author: "Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "202B30E0 00000000"
+      - "202B3248 00000000"
+
+  - name: "Fireball"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "20597F9C 00000001"
+
+  - name: "Razor"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059802C 00000001"
+
+  - name: "Brahma"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "205980BC 00000001"
+
+  - name: "Shag"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059814C 00000001"
+
+  - name: "Yellow"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "205981DC 00000001"
+
+  - name: "Brady"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059826C 00000001"
+
+  - name: "Juice"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "205982FC 00000001"
+
+  - name: "Lawdog"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059838C 00000001"
+
+  - name: "Bulldog"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059841C 00000001"
+
+  - name: "Sanford"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "205984AC 00000001"
+
+  - name: "Lizard"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059853C 00000001"
+
+  - name: "Tub"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "205985CC 00000001"
+
+  - name: "Drifter"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059865C 00000001"
+
+  - name: "Stump"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "205986EC 00000001"
+
+  - name: "S.T.V."
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059877C 00000001"
+
+  - name: "Cajones"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059880C 00000001"
+
+  - name: "Tornado"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059889C 00000001"
+
+  - name: "Mullet"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059893C 00000001"
+
+  - name: "Rigg"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "205989BC 00000001"
+
+  - name: "Mercenary"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "20598A4C 00000001"
+
+  - name: "Hoss"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "20598ADC 00000001"
+
+  - name: "Junky"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "20598B6C 00000001"
+
+  - name: "Grim"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "20598BFC 00000001"
+
+  - name: "Senor"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "20598C8C 00000001"
+
+  - name: "Beaver"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "20598D1C 00000001"
+
+  - name: "Ese"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "20598DAC 00000001"
+
+  - name: "Pinata"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "20598E3C 00000001"
+
+  - name: "Goblin"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "20598ECC 00000001"
+
+  - name: "Bean"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "20598F5C 00000001"
+
+  - name: "Widget"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "20598FEC 00000001"
+
+  - name: "Banjo"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059907C 00000001"
+
+  - name: "DWI"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059910C 00000001"
+
+  - name: "Molotov"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059919C 00000001"
+
+  - name: "Jethro"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059922C 00000001"
+
+  - name: "Bagger"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "205992BC 00000001"
+
+  - name: "Ray"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059934C 00000001"
+
+  - name: "Vault"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "205993DC 00000001"
+
+  - name: "Recon"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059946C 00000001"
+
+  - name: "Thunder"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "205994FC 00000001"
+
+  - name: "Flatbed"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059958C 00000001"
+
+  - name: "Lightning"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059961C 00000001"
+
+  - name: "Pimp"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "205996AC 00000001"
+
+  - name: "Fang"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059973C 00000001"
+
+  - name: "Monster"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "205997CC 00000001"
+
+  - name: "Burner"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059985C 00000001"
+
+  - name: "Primer"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "205998EC 00000001"
+
+  - name: "Pumpkin"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059997C 00000001"
+
+  - name: "Gutless"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "20599A0C 00000001"
+
+  - name: "Offroad"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "20599A9C 00000001"
+
+  - name: "Rattail"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "20599B2C 00000001"
+
+  - name: "Omega"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "20599BBC 00000001"
+
+  - name: "Spirit"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "20599C4C 00000001"
+
+  - name: "Stalker"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "20599CDC 00000001"
+
+  - name: "Bruiser"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "20599D6C 00000001"
+
+  - name: "Bling"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "20599DFC 00000001"
+
+  - name: "Drone"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "20599E8C 00000001"
+
+  - name: "Bumper"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "20599F1C 00000001"
+
+  - name: "Grinder"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "20599FAC 00000001"
+
+  - name: "Gauntlet"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059A03C 00000001"
+
+  - name: "Dumper"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059A0CC 00000001"
+
+  - name: "Axl"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059A15C 00000001"
+
+  - name: "Crate"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059A1EC 00000001"
+
+  - name: "Orange"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059A27C 00000001"
+
+  - name: "Clintos"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "2059A30C 00000001"
+
+  - name: "All Vehicles"
+    author: "Code Master"
+    notes: "[Unlock Vehicle Codes]"
+    codes:
+      - "40597F9C 00400024"
+      - "00000001 00000000"

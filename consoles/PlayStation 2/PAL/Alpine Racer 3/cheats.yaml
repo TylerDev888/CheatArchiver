@@ -1,0 +1,128 @@
+# Alpine Racer 3 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-50887
+
+game: "Alpine Racer 3"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-50887"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F022795C 0022795F"
+
+  - name: "All Characters"
+    author: "Codejunkies"
+    codes:
+      - "20127620 24020001"
+
+  - name: "All Colours"
+    author: "Codejunkies"
+    codes:
+      - "201275F8 24020001"
+
+  - name: "All Gears"
+    author: "Codejunkies"
+    codes:
+      - "201275C8 24020001"
+
+  - name: "All Movies"
+    author: "Codejunkies"
+    codes:
+      - "20126B60 24020001"
+      - "20126B04 24020001"
+
+  - name: "All Tracks"
+    author: "Codejunkies"
+    codes:
+      - "20127598 24020001"
+
+  - name: "Freeze Timer"
+    author: "Codejunkies"
+    codes:
+      - "201A7040 00000000"
+
+  - name: "Hyper Mode"
+    author: "Codejunkies"
+    codes:
+      - "D025F582 0000FFEE"
+      - "20100B64 00000000"
+      - "D025F582 0000FFBE"
+      - "20100B64 0C04309C"
+
+  - name: "Max Money"
+    author: "Codejunkies"
+    codes:
+      - "20126C20 3C025FAB"
+
+  - name: "Opponents Don't Move"
+    author: "luc-ita"
+    codes:
+      - "20146CC8 08028000"
+      - "20146CCC 7FB00000"
+      - "200A0000 90830834"
+      - "200A0004 3C012025"
+      - "200A0008 8C21FC70"
+      - "200A000C 8C2106C8"
+      - "200A0010 10240003"
+      - "200A0014 08051DDD"
+      - "200A001C 08051B34"
+
+  - name: "Scratching Against Walls For A Short Time Does Not Reduce Speed"
+    author: "luc-ita"
+    codes:
+      - "201CC6A0 00000000"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0022795F"
+
+  - name: "Unlimited Money"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20126C20 3C020590"
+
+  - name: "Tracks"
+    author: "Xploder"
+    notes: "[Unlock All]"
+    codes:
+      - "20127598 20020001"
+
+  - name: "Equipment"
+    author: "Xploder"
+    notes: "[Unlock All]"
+    codes:
+      - "201275C8 20020001"
+
+  - name: "Characters"
+    author: "Xploder"
+    notes: "[Unlock All]"
+    codes:
+      - "20127620 20020001"
+
+  - name: "Costumes"
+    author: "Xploder"
+    notes: "[Unlock All]"
+    codes:
+      - "201275F8 20020001"
+
+  - name: "Theatre Option"
+    author: "Xploder"
+    notes: "[Unlock All]"
+    codes:
+      - "20257F90 00000001"
+
+  - name: "Movies"
+    author: "Xploder"
+    notes: "[Unlock All]"
+    codes:
+      - "20126B60 20020001"

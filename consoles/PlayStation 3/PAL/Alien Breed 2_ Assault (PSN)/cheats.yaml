@@ -1,0 +1,95 @@
+# Alien Breed 2_ Assault (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00345
+
+game: "Alien Breed 2_ Assault (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00345"
+cheat_type: "Save Editor"
+source: "From zeick & chaoszage"
+
+cheats:
+  - name: "9999999 Money"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"env_Split\""
+      - "write next (32):00000098967F"
+
+  - name: "Max Assault Rifle Ammo"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABWeap_AssaultRifle_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (10):270F0000270F"
+
+  - name: "Max Shotcannon Ammo"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABWeap_ShotCannon_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (10):070F0000070F"
+
+  - name: "Max Flamethrower Ammo"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABWeap_FlameThrower_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (10):270F0000270F"
+
+  - name: "Max Hyperblaster Ammo"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABWeap_HyperBlaster_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (10):270F0000270F"
+
+  - name: "99 Largehealthkits"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABItem_LargeHealthKit\""
+      - "search next 0xFFFFFFFF"
+      - "write next (11):63"
+
+  - name: "99 Smallhealthkits"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABItem_SmallHealthKit_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (11):63"
+
+  - name: "99 Fraggrenades"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABItem_FragGrenade_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (11):63"
+
+  - name: "99 Stungrenades"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABItem_Flare_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (11):63"
+
+  - name: "99 Sentryguns"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABItem_SentryGun1_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (11):63"
+
+  - name: "99 Hardenedarmour"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABItem_Armour_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (11):63"
+
+  - name: "Default:update Crc32 (required)"
+    notes: "File: GAME.DAT"
+    codes:
+      - "set range:0xB0,0x2000A7"
+      - "set [crc]:crc32big"
+      - "write at 0xA8:[crc]"

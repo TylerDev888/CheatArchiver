@@ -1,0 +1,469 @@
+# Midway Arcade Treasures cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20801
+
+game: "Midway Arcade Treasures"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20801"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "901358F4 0C04F38F"
+
+  - name: "Infinite Cash"
+    author: "MadCatz"
+    notes: "[720]"
+    codes:
+      - "D018DC30 00005552"
+      - "101FC596 0000270F"
+
+  - name: "Infinite City Time"
+    author: "MadCatz"
+    notes: "[720]"
+    codes:
+      - "D018DC30 00005552"
+      - "101FC594 00000080"
+
+  - name: "Infinite Park Tickets"
+    author: "MadCatz"
+    notes: "[720]"
+    codes:
+      - "D018DC30 00005552"
+      - "001FC59B 00000002"
+
+  - name: "More Downhill Park Time (Press [L2])"
+    author: "MadCatz"
+    notes: "[720]"
+    codes:
+      - "E0025552 0018DC30"
+      - "D04A3342 0000FEFF"
+      - "001FD260 000000A0"
+
+  - name: "Infinite Time"
+    author: "Code Master"
+    notes: "[720Â° Codes]"
+    codes:
+      - "101FC594 000000FF"
+
+  - name: "Max Cash"
+    author: "Code Master"
+    notes: "[720Â° Codes]"
+    codes:
+      - "D0250E4A 0000001F"
+      - "101FC596 0000270F"
+
+  - name: "Quick Score Gain"
+    author: "Code Master"
+    notes: "[720Â° Codes]"
+    codes:
+      - "D0250E4A 0000001F"
+      - "001FC57E 000000FF"
+
+  - name: "Super Quick Score Gain"
+    author: "Code Master"
+    notes: "[720Â° Codes]"
+    codes:
+      - "D0250E4A 0000001F"
+      - "101FC57E 0000FFFF"
+
+  - name: "Infinite Energy"
+    author: "MadCatz"
+    notes: "[Blaster]"
+    codes:
+      - "D0480B00 00005355"
+      - "00609B16 00000003"
+
+  - name: "Infinite Lives"
+    author: "Code Master"
+    notes: "[Blaster Codes]"
+    codes:
+      - "D0229C82 00000060"
+      - "0060C0FE 00000003"
+
+  - name: "Max Score"
+    author: "Code Master"
+    notes: "[Blaster Codes]"
+    codes:
+      - "E0020060 00229C82"
+      - "1060C0FA 00009909"
+      - "1060C0FC 00009999"
+
+  - name: "Infinite Smart Bombs"
+    author: "MadCatz"
+    notes: "[Defender]"
+    codes:
+      - "D0611B70 00004F43"
+      - "0060A5A3 00000003"
+
+  - name: "Infinite Invisio"
+    author: "MadCatz"
+    notes: "[Defender II]"
+    codes:
+      - "D0618040 00004546"
+      - "0060C1B9 0000003F"
+
+  - name: "Player 1 Infinite Health"
+    author: "MadCatz"
+    notes: "[Gauntlet]"
+    codes:
+      - "D070B890 00005254"
+      - "1100205A 00000F27"
+
+  - name: "Player 1 Infinite Keys"
+    author: "MadCatz"
+    notes: "[Gauntlet]"
+    codes:
+      - "D070B890 00005254"
+      - "01002060 00000006"
+
+  - name: "Player 1 Infinite Potions"
+    author: "MadCatz"
+    notes: "[Gauntlet]"
+    codes:
+      - "D070B890 00005254"
+      - "0100205C 00000007"
+
+  - name: "Player 2 Infinite Health"
+    author: "MadCatz"
+    notes: "[Gauntlet]"
+    codes:
+      - "D070B890 00005254"
+      - "11002056 00000F27"
+
+  - name: "Player 2 Infinite Keys"
+    author: "MadCatz"
+    notes: "[Gauntlet]"
+    codes:
+      - "D070B890 00005254"
+      - "01002062 00000006"
+
+  - name: "Player 2 Infinite Potions"
+    author: "MadCatz"
+    notes: "[Gauntlet]"
+    codes:
+      - "D070B890 00005254"
+      - "0100205E 00000007"
+
+  - name: "Infinite Health P1"
+    author: "Code Master"
+    notes: "[Gauntlet Codes]"
+    codes:
+      - "D01A8E96 0000006F"
+      - "1100204E 00000F27"
+
+  - name: "Infinite Health P2"
+    author: "Code Master"
+    notes: "[Gauntlet Codes]"
+    codes:
+      - "D01A8E96 0000006F"
+      - "11002056 00000F27"
+
+  - name: "Max Score P1"
+    author: "Code Master"
+    notes: "[Gauntlet Codes]"
+    codes:
+      - "D01A8E96 0000006F"
+      - "11002066 00000F27"
+
+  - name: "Max Score P2"
+    author: "Code Master"
+    notes: "[Gauntlet Codes]"
+    codes:
+      - "D01A8E96 0000006F"
+      - "1100206E 00000F27"
+
+  - name: "Infinite Drops"
+    author: "MadCatz"
+    notes: "[Klax]"
+    codes:
+      - "D07039B0 00005445"
+      - "00AED9ED 00000000"
+
+  - name: "P1 Press L1+Select For Instant Win"
+    author: "Code Master"
+    notes: "[Klax Codes]"
+    codes:
+      - "D049AB42 0000FBFE"
+      - "00AEDA47 00000000"
+
+  - name: "P1 Press L2+Select For 1 Klax Left"
+    author: "Code Master"
+    notes: "[Klax Codes]"
+    codes:
+      - "D049AB42 0000FEFE"
+      - "00AEDA47 00000001"
+
+  - name: "Max Time"
+    author: "MadCatz"
+    notes: "[Marble Madness]"
+    codes:
+      - "D071BCB0 0000554D"
+      - "00AF87A3 0000003C"
+
+  - name: "P1 Press L1+Select For More Time"
+    author: "Code Master"
+    notes: "[Marble Madness Codes]"
+    codes:
+      - "D04984C2 0000FBFE"
+      - "00AF87A3 0000003C"
+
+  - name: "P1 Press L2+Select For Low Time"
+    author: "Code Master"
+    notes: "[Marble Madness Codes]"
+    codes:
+      - "D04984C2 0000FEFE"
+      - "00AF87A3 00000001"
+
+  - name: "Must Be On"
+    author: "MadCatz"
+    codes:
+      - "901019DC 0C04D422"
+      - "901019DC 0C04D5F4"
+      - "901019DC 0C04D74A"
+      - "901019DC 0C050232"
+      - "901019DC 0C0502D0"
+      - "901019DC 0C0507F8"
+      - "901019DC 0C0507FC"
+      - "901019DC 0C05087C"
+      - "901019DC 0C050CF6"
+      - "901019DC 0C052332"
+      - "901019DC 0C04DDDE"
+      - "90102760 0C077354"
+
+  - name: "Infinite Papers"
+    author: "MadCatz"
+    notes: "[Paperboy]"
+    codes:
+      - "D0197760 00004544"
+      - "001FC083 0000000A"
+
+  - name: "Infinite Damage"
+    author: "MadCatz"
+    notes: "[Rampage]"
+    codes:
+      - "D06006D0 00005A49"
+      - "0060E876 000000C8"
+
+  - name: "Infinite Health P3"
+    author: "Code Master"
+    notes: "[Rampage Codes]"
+    codes:
+      - "D022A00E 00000060"
+      - "0060E926 000000C8"
+
+  - name: "Max Score P3"
+    author: "Code Master"
+    notes: "[Rampage Codes]"
+    codes:
+      - "E0020060 0022A00E"
+      - "2060EA34 09090909"
+      - "2060EA38 09090909"
+
+  - name: "Quick Score Gain P1"
+    author: "Code Master"
+    notes: "[Rampage Codes]"
+    codes:
+      - "D022A00E 00000060"
+      - "2060EA28 09090909"
+
+  - name: "Quick Score Gain P2"
+    author: "Code Master"
+    notes: "[Rampage Codes]"
+    codes:
+      - "D022A00E 00000060"
+      - "2060EA30 09090909"
+
+  - name: "Quick Score Gain P3"
+    author: "Code Master"
+    notes: "[Rampage Codes]"
+    codes:
+      - "D022A00E 00000060"
+      - "2060EA38 09090909"
+
+  - name: "More Time (Press [L2])"
+    author: "MadCatz"
+    notes: "[Rampart]"
+    codes:
+      - "E0024F43 00711280"
+      - "D04A1642 0000FEFF"
+      - "00AE3AC0 0000000F"
+
+  - name: "Infinite Cannons"
+    author: "BigBossman"
+    notes: "[Rampart Codes]"
+    codes:
+      - "00AE3BCD 00000009"
+
+  - name: "Infinite Fuel Main Tank"
+    author: "MadCatz"
+    notes: "[Road Blasters]"
+    codes:
+      - "D01A9A16 0000006F"
+      - "10AFE140 0000FF00"
+
+  - name: "Infinite Fuel Reserve Tank"
+    author: "MadCatz"
+    notes: "[Road Blasters]"
+    codes:
+      - "D01A9A16 0000006F"
+      - "10AFF440 0000FF00"
+
+  - name: "Infinite Sinibombs"
+    author: "MadCatz"
+    notes: "[Sinistar]"
+    codes:
+      - "D0453740 0000454C"
+      - "0060A3EB 00000001"
+
+  - name: "Player 1 Infinite Lives"
+    author: "MadCatz"
+    notes: "[Smash TV]"
+    codes:
+      - "D08F2A40 00005259"
+      - "1093BE4C 00000003"
+
+  - name: "Player 2 Infinite Lives"
+    author: "MadCatz"
+    notes: "[Smash TV]"
+    codes:
+      - "D08F2A40 00005259"
+      - "1093BE84 00000003"
+
+  - name: "Infinite Lives P1"
+    author: "Code Master"
+    notes: "[Smash TV Codes]"
+    codes:
+      - "D0174AFE 00000093"
+      - "1093BE4C 00000009"
+
+  - name: "Infinite Lives P2"
+    author: "Code Master"
+    notes: "[Smash TV Codes]"
+    codes:
+      - "D0174AFE 00000093"
+      - "1093BE84 00000009"
+
+  - name: "Player 1 Max Wrenches"
+    author: "MadCatz"
+    notes: "[Super Sprint]"
+    codes:
+      - "D0194510 00004545"
+      - "001FCE40 00000003"
+
+  - name: "Player 2 Max Wrenches"
+    author: "MadCatz"
+    notes: "[Super Sprint]"
+    codes:
+      - "D0194510 00004545"
+      - "001FCE41 00000003"
+
+  - name: "Player 3 Max Wrenches"
+    author: "MadCatz"
+    notes: "[Super Sprint]"
+    codes:
+      - "D0194510 00004545"
+      - "001FCE42 00000003"
+
+  - name: "No Score P1"
+    author: "Code Master"
+    notes: "[Super Sprint Codes]"
+    codes:
+      - "D024FECA 0000001F"
+      - "101FCE00 00000000"
+
+  - name: "No Score P2"
+    author: "Code Master"
+    notes: "[Super Sprint Codes]"
+    codes:
+      - "D024FECA 0000001F"
+      - "101FCE02 00000000"
+
+  - name: "No Score P3"
+    author: "Code Master"
+    notes: "[Super Sprint Codes]"
+    codes:
+      - "D024FECA 0000001F"
+      - "101FCE04 00000000"
+
+  - name: "Infinite Cans"
+    author: "MadCatz"
+    notes: "[Toobin']"
+    codes:
+      - "D06F03F0 00006F72"
+      - "0169C410 00000007"
+
+  - name: "Infinite Cans P1"
+    author: "Code Master"
+    notes: "[Toobin' Codes]"
+    codes:
+      - "D01AAEA6 00000069"
+      - "0169C410 00000009"
+
+  - name: "Infinite Cans P2"
+    author: "Code Master"
+    notes: "[Toobin' Codes]"
+    codes:
+      - "D01AAEA6 00000069"
+      - "0169C411 00000009"
+
+  - name: "Infinite Bombs"
+    author: "MadCatz"
+    notes: "[Vindicators]"
+    codes:
+      - "D072EF90 0000424D"
+      - "00AF336C 00000063"
+
+  - name: "Infinite Fuel"
+    author: "MadCatz"
+    notes: "[Vindicators]"
+    codes:
+      - "D072EF90 0000424D"
+      - "00AF3356 00000063"
+
+  - name: "Infinite Shield"
+    author: "MadCatz"
+    notes: "[Vindicators]"
+    codes:
+      - "D072EF90 0000424D"
+      - "00AF336A 00000063"
+
+  - name: "Infinite Smart Shots"
+    author: "MadCatz"
+    notes: "[Vindicators]"
+    codes:
+      - "D072EF90 0000424D"
+      - "00AF336E 00000063"
+
+  - name: "Infinite Stars"
+    author: "MadCatz"
+    notes: "[Vindicators]"
+    codes:
+      - "D072EF90 0000424D"
+      - "00AF3357 00000063"
+
+  - name: "Always Have Key P1"
+    author: "Code Master"
+    notes: "[Gauntlet Codes]"
+    codes:
+      - "01002060 00000001"
+
+  - name: "Infinite Main Full Tank"
+    author: "Code Master"
+    notes: "[Road Blasters Codes]"
+    codes:
+      - "D01A9A16 0000006F"
+      - "10AFE140 0000FF00"
+
+  - name: "Infinite Reserve Tank"
+    author: "Code Master"
+    notes: "[Road Blasters Codes]"
+    codes:
+      - "D01A9A16 0000006F"
+      - "10AFF440 0000FF00"

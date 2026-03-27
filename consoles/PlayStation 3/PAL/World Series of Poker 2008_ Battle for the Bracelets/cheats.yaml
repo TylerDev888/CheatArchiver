@@ -1,0 +1,20 @@
+# World Series of Poker 2008_ Battle for the Bracelets cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00139
+
+game: "World Series of Poker 2008_ Battle for the Bracelets"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00139"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Savefile.sav (required)"
+    notes: "File: SAVEFILE.SAV  (set range:0x000008,0x030FFF)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000008,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"

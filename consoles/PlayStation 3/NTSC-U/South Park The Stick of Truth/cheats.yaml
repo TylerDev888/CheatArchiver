@@ -1,0 +1,68 @@
+# South Park The Stick of Truth cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS31191
+
+game: "South Park The Stick of Truth"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS31191"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Max Experience"
+    notes: "File: SYS-DATA"
+    codes:
+      - "write at 0x0008B930:0x271000"
+
+  - name: "Net Worth"
+    notes: "File: SYS-DATA"
+    codes:
+      - "write at 0x0008BFC2:0x3B9AC9FF"
+
+  - name: "Upgrade Points"
+    notes: "File: SYS-DATA"
+    codes:
+      - "write at 0x0008B937:0x98967F00"
+
+  - name: "Perk Points"
+    notes: "File: SYS-DATA"
+    codes:
+      - "write at 0x0008B93B:0x98967F00"
+
+  - name: "Lvl 15"
+    notes: "File: SYS-DATA"
+    codes:
+      - "search 0x53CB55CF"
+      - "write next (-25):0x0F"
+
+  - name: "Exp 10000"
+    notes: "File: SYS-DATA"
+    codes:
+      - "search 0x53CB55CF"
+      - "write next (-22):0x2710"
+
+  - name: "99 Perk Points"
+    notes: "File: SYS-DATA"
+    codes:
+      - "search 0x53CB55CF"
+      - "write next (-9):0x63"
+
+  - name: "99 Upgrade Points"
+    notes: "File: SYS-DATA"
+    codes:
+      - "search 0x53CB55CF"
+      - "write next (-13):0x63"
+
+  - name: "Money 1000000.00"
+    notes: "File: SYS-DATA"
+    codes:
+      - "search 0x53CB55CF"
+      - "write next (1660):0x05F5E100"
+
+  - name: "Canadian Money"
+    notes: "File: SYS-DATA"
+    codes:
+      - "search 0x53CB55CF"
+      - "write next (1708):0x000F41DC"

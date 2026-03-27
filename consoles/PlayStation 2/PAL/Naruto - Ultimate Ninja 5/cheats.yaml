@@ -1,0 +1,292 @@
+# Naruto - Ultimate Ninja 5 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-55605
+
+game: "Naruto - Ultimate Ninja 5"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-55605"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Skiller>Lajos Szalay"
+    notes: "[Master Codes]"
+    codes:
+      - "90161E10 0C05872C"
+      - "200C0220 3C013F80"
+      - "200C0224 56400002"
+      - "200C0230 52400002"
+      - "200C0240 3C014170"
+      - "200C0244 56400001"
+      - "200C024C 52400001"
+      - "200C0254 08095353"
+      - "200C0258 00000000"
+      - "20254D44 08030088"
+
+  - name: "Have Character"
+    author: "Lajos Szalay"
+    notes: "[Collection Codes]"
+    codes:
+      - "201E94B4 2402FFFF"
+
+  - name: "Have Diorama Character"
+    author: "Lajos Szalay"
+    notes: "[Collection Codes]"
+    codes:
+      - "201E96FC 24020003"
+
+  - name: "Have Figure"
+    author: "Lajos Szalay"
+    notes: "[Collection Codes]"
+    codes:
+      - "201E96AC 24020003"
+
+  - name: "Have Movie"
+    author: "Lajos Szalay"
+    notes: "[Collection Codes]"
+    codes:
+      - "201E96EC 24020003"
+
+  - name: "Have Music"
+    author: "Lajos Szalay"
+    notes: "[Collection Codes]"
+    codes:
+      - "201E96BC 24020003"
+
+  - name: "Have Ultimate Justu"
+    author: "Lajos Szalay"
+    notes: "[Collection Codes]"
+    codes:
+      - "201E96DC 24020003"
+
+  - name: "Have Voice"
+    author: "Lajos Szalay"
+    notes: "[Collection Codes]"
+    codes:
+      - "201E96CC 24020003"
+
+  - name: "Have All Max Infinite Items"
+    author: "Lajos Szalay"
+    notes: "[Master Mode Codes]"
+    codes:
+      - "201E9B74 24020063"
+
+  - name: "Infinite Health"
+    author: "Lajos Szalay"
+    notes: "[Master Mode Codes]"
+    codes:
+      - "E0020130 0070C14C"
+      - "2070C158 C441022C"
+      - "2070C160 E4410224"
+
+  - name: "Infinite Items"
+    author: "Lajos Szalay"
+    notes: "[Master Mode Codes]"
+    codes:
+      - "201E9B64 00000000"
+
+  - name: "Infinite Special"
+    author: "Lajos Szalay"
+    notes: "[Master Mode Codes]"
+    codes:
+      - "E004802D 006D1178"
+      - "200C0270 C4560230"
+      - "200C0274 03E00008"
+      - "200C0278 E4560228"
+      - "206D1180 0C03009C"
+
+  - name: "Infinite Super Attack"
+    author: "Lajos Szalay"
+    notes: "[Master Mode Codes]"
+    codes:
+      - "E0020008 006D41C4"
+      - "206D41D0 3C0142C8"
+      - "206D41D4 AC610234"
+
+  - name: "Infinite Money Ryo"
+    author: "Lajos Szalay"
+    notes: "[Money Codes]"
+    codes:
+      - "201FD91C 00000000"
+
+  - name: "Max Infinite Money Ryo"
+    author: "Lajos Szalay"
+    notes: "[Money Codes]"
+    codes:
+      - "201FD94C 3C0205F5"
+      - "201FD954 3442E0FF"
+      - "201FD960 AC420034"
+
+  - name: "P1 Press Select To Skip FMV"
+    author: "Lajos Szalay"
+    codes:
+      - "20159750 8C620000"
+      - "D0619282 0000FFFE"
+      - "20159750 24020001"
+
+  - name: "Pal2ntsc"
+    author: "lee4"
+    notes: "[PAL2NTSC codes]"
+    codes:
+      - "2015E6A0 34050002"
+      - "2015E6A4 24030002"
+      - "2015E6A8 0000000C"
+      - "2015E6AC 03E00008"
+
+  - name: "Y-FIX (Part 1)"
+    author: "lee4"
+    notes: "[PAL2NTSC codes]"
+    codes:
+      - "200FFF80 3C020003"
+      - "200FFF84 0062182F"
+      - "200FFF88 64630000"
+      - "200FFF8C FCA30000"
+      - "200FFF90 DE020020"
+      - "200FFF94 03E00008"
+      - "2014FC90 0C03FFE0"
+      - "2014FC94 00000000"
+
+  - name: "Y-FIX (Part 2)"
+    author: "lee4"
+    notes: "[PAL2NTSC codes]"
+    codes:
+      - "200FFFC0 64630000"
+      - "200FFFC4 64630000"
+      - "200FFFC8 64638000"
+      - "200FFFCC 64638000"
+      - "200FFFD0 64638000"
+      - "200FFFD4 64638000"
+      - "200FFFD8 64638000"
+      - "200FFFDC 64638000"
+      - "200FFFE0 FC430080"
+      - "200FFFE4 03E00008"
+      - "20107730 0C03FFF0"
+      - "20107734 3C021200"
+
+  - name: "Infinite Health P1"
+    author: "Lajos Szalay"
+    notes: "[VS Mode Codes]"
+    codes:
+      - "200C0228 AE21006C"
+
+  - name: "Infinite Linked Attack P1"
+    author: "Lajos Szalay"
+    notes: "[VS Mode Codes]"
+    codes:
+      - "200C0238 AE210074"
+
+  - name: "Infinite Special P1"
+    author: "Lajos Szalay"
+    notes: "[VS Mode Codes]"
+    codes:
+      - "200C0248 AE210070"
+
+  - name: "No Health P1"
+    author: "Lajos Szalay"
+    notes: "[VS Mode Codes]"
+    codes:
+      - "200C0228 AE20006C"
+
+  - name: "No Linked Attack P1"
+    author: "Lajos Szalay"
+    notes: "[VS Mode Codes]"
+    codes:
+      - "200C0238 AE200074"
+
+  - name: "No Special P1"
+    author: "Lajos Szalay"
+    notes: "[VS Mode Codes]"
+    codes:
+      - "200C0248 AE200070"
+
+  - name: "P1 Press L1+Select Infinite Health P2"
+    author: "Lajos Szalay"
+    notes: "[VS Mode Codes]"
+    codes:
+      - "D0619282 0000FBFE"
+      - "200C0234 AE21006C"
+
+  - name: "P1 Press L2+Select For Instant Kill P2"
+    author: "Lajos Szalay"
+    notes: "[VS Mode Codes]"
+    codes:
+      - "D0619282 0000FEFE"
+      - "200C0234 AE20006C"
+
+  - name: "P1 Press L3+L1 To Infinite Linked Attack P2"
+    author: "Lajos Szalay"
+    notes: "[VS Mode Codes]"
+    codes:
+      - "D0619282 0000FBFD"
+      - "200C022C AE210074"
+
+  - name: "P1 Press L3+L2 To No Linked Attack P2"
+    author: "Lajos Szalay"
+    notes: "[VS Mode Codes]"
+    codes:
+      - "D0619282 0000FEFD"
+      - "200C022C AE200074"
+
+  - name: "P1 Press L3+R1 For Normal Linked Attack P2"
+    author: "Lajos Szalay"
+    notes: "[VS Mode Codes]"
+    codes:
+      - "D0619282 0000F7FD"
+      - "200C022C 00000000"
+
+  - name: "P1 Press R1+Select For Normal Health P2"
+    author: "Lajos Szalay"
+    notes: "[VS Mode Codes]"
+    codes:
+      - "D0619282 0000F7FE"
+      - "200C0234 00000000"
+
+  - name: "P1 Press R3+Down To Enable Timer"
+    author: "Lajos Szalay"
+    notes: "[VS Mode Codes]"
+    codes:
+      - "D0619282 0000FFBB"
+      - "201F1DA8 AC830004"
+
+  - name: "P1 Press R3+L1 To Infinite Special P2"
+    author: "Lajos Szalay"
+    notes: "[VS Mode Codes]"
+    codes:
+      - "D0619282 0000FBFB"
+      - "200C0250 AE210070"
+
+  - name: "P1 Press R3+L2 To No Special P2"
+    author: "Lajos Szalay"
+    notes: "[VS Mode Codes]"
+    codes:
+      - "D0619282 0000FEFB"
+      - "200C0250 AE200070"
+
+  - name: "P1 Press R3+R1 For Normal Special P2"
+    author: "Lajos Szalay"
+    notes: "[VS Mode Codes]"
+    codes:
+      - "D0619282 0000F7FB"
+      - "200C0250 00000000"
+
+  - name: "P1 Press R3+Up To Disable Timer"
+    author: "Lajos Szalay"
+    notes: "[VS Mode Codes]"
+    codes:
+      - "D0619282 0000FFEB"
+      - "201F1DA8 00000000"
+
+  - name: "Unlock All Characters"
+    author: "Lajos Szalay"
+    notes: "[VS Mode Codes]"
+    codes:
+      - "201E94B4 24020003"
+
+  - name: "Unlock All Linked Characters"
+    author: "Lajos Szalay"
+    notes: "[VS Mode Codes]"
+    codes:
+      - "201E95AC 2402FFFF"

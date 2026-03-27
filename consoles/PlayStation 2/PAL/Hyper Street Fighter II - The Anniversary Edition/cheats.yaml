@@ -1,0 +1,71 @@
+# Hyper Street Fighter II - The Anniversary Edition cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52444
+
+game: "Hyper Street Fighter II - The Anniversary Edition"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52444"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F012AE14 0012AE17"
+
+  - name: "1 Hit Kill Player 2"
+    author: "Codejunkies"
+    notes: "[De Codes (Sles 52444)]"
+    codes:
+      - "200FFF00 28630001"
+      - "200FFF04 14030004"
+      - "200FFF0C 24030001"
+      - "200FFF14 A4A30766"
+      - "200FFF18 AF804CF0"
+      - "200FFF1C 08145117"
+      - "20514458 0803FFC0"
+
+  - name: "Display Debug Infos"
+    author: "Codejunkies"
+    notes: "[De Codes (Sles 52444)]"
+    codes:
+      - "20100BE0 00000000"
+
+  - name: "Player 1 Has Infinite Health"
+    author: "Codejunkies"
+    notes: "[De Codes (Sles 52444)]"
+    codes:
+      - "20514398 24020090"
+      - "20514444 A4A20366"
+      - "20514448 AF824CF8"
+
+  - name: "Player 1 Has Infinite Super"
+    author: "Codejunkies"
+    notes: "[De Codes (Sles 52444)]"
+    codes:
+      - "2051446C 24020030"
+      - "20514484 A4A205F0"
+
+  - name: "Always Super"
+    author: "Codejunkies"
+    notes: "[P1 Codes]"
+    codes:
+      - "21B005F0 00000030"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[P1 Codes]"
+    codes:
+      - "21B00364 00900000"
+
+  - name: "No Health"
+    author: "Codejunkies"
+    notes: "[P1 Codes]"
+    codes:
+      - "E0020000 00B00364"
+      - "D0B00366 00000090"
+      - "21B00364 00010000"

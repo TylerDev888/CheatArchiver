@@ -1,0 +1,28 @@
+# Eggo Mania cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51101
+
+game: "Eggo Mania"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51101"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01279D8 000001FD"
+
+  - name: "Monster Score"
+    author: "Codejunkies"
+    codes:
+      - "204C013C 05F5E0FF"
+
+  - name: "Set The Timer To 0"
+    author: "Codejunkies"
+    codes:
+      - "204BFF30 00000000"

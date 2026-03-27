@@ -1,0 +1,29 @@
+# Runabout 3 - Neo Age cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51223
+
+game: "Runabout 3 - Neo Age"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51223"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01258FC 001258FF"
+
+  - name: "Infinite Time"
+    author: "nolberto82"
+    codes:
+      - "201DD7A4 34040001"
+
+  - name: "Unlock Everything"
+    author: "Codejunkies"
+    codes:
+      - "203139D8 FFFFFFFF"
+      - "203139DC FFFFFFFF"

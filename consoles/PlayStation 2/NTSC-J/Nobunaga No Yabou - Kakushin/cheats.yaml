@@ -1,0 +1,24 @@
+# Nobunaga No Yabou - Kakushin cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66279
+
+game: "Nobunaga No Yabou - Kakushin"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66279"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9017D910 0C05F5EC"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9018CFC8 0C064CAE"

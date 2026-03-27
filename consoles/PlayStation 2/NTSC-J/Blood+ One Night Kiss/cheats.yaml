@@ -1,0 +1,37 @@
+# Blood+ One Night Kiss cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25677
+
+game: "Blood+ One Night Kiss"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25677"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90110958 0C0441FE"
+
+  - name: "L3 + R3 For Stage Select (While In A Map)"
+    author: "punk7890"
+    codes:
+      - "201F8C60 0C096092"
+      - "20258248 3C020045"
+      - "2025824C 84427742"
+      - "20258250 2403FFF9"
+      - "20258254 14430002"
+      - "20258258 2402FFFE"
+      - "2025825C ACC23D7C"
+      - "20258260 8CC33D7C"
+      - "20258264 03E00008"
+      - "20258268 2402FFFE"
+
+  - name: "Replace Ç¿¼Æ‰‹Å›³É‘‘ With Main Debug Menu"
+    author: "punk7890"
+    codes:
+      - "0024A874 00000008"

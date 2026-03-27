@@ -1,0 +1,28 @@
+# Triggerheart Exelica Enhanced cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-55052
+
+game: "Triggerheart Exelica Enhanced"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-55052"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90110258 0C04403E"
+
+  - name: "Unlock All Gallery"
+    author: "punk7890"
+    codes:
+      - "202AE0C8 0C04F728"
+      - "202AE0CC 2404FFFF"
+      - "2013DCA0 AC440000"
+      - "2013DCA4 8C420000"
+      - "2013DCA8 03E00008"
+      - "2013DCAC 00451024"

@@ -1,0 +1,22 @@
+# SIREN_ Blood Curse cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BCES00294
+
+game: "SIREN_ Blood Curse"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BCES00294"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Siren.dat (required)"
+    notes: "File: SIREN.DAT  (Checksum offset is located within the checksum range.) (Initializing checksum with null bytes) (set range:0x0,0x00075F)"
+    codes:
+      - "write at 0x00000C:00000000"
+      - "set pointer:eof+1"
+      - "set range:0x0,pointer"
+      - "set [hash]:CRC32"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x00000C:[hash]"

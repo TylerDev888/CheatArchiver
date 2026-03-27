@@ -1,0 +1,619 @@
+# X2 Wolverine's Revenge cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20337
+
+game: "X2 Wolverine's Revenge"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20337"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 002B1BAF"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "902B1BAC 0C0B08D8"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2011BCDC C44000C4"
+      - "2011BCE4 E44000C0"
+
+  - name: "Infinite Rage"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002FFFE 103AC142"
+      - "203C48C0 42C80000"
+      - "203C48C4 42C80000"
+      - "E002FFFE 003AC142"
+      - "203C48C0 00000000"
+      - "203C48C4 00000000"
+
+  - name: "Unlock All Play Movies"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035F5AC FFFFFFFF"
+
+  - name: "Disable Fog"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20360774 00000001"
+      - "20360778 3F800000"
+
+  - name: "Have Cheat Menu (Pause Game)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203616DC 00000001"
+
+  - name: "Unlock All Challenges"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203AC610 FFFFFFFF"
+
+  - name: "Unlock All Costumes"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203AC62C FFFFFFFF"
+
+  - name: "Unlock All Cerebros"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203AC630 FFFFFFFF"
+
+  - name: "Unlock All Production Artwork"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203235B8 0000003E"
+
+  - name: "Default Speed Modifier (Default 3F800000)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FA18 ????????"
+
+  - name: "Dodge Flick Delay Modifier (Default 3E19999a)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FB64 ????????"
+
+  - name: "Dodge Pad Minimum (Default 78)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FB68 000000??"
+
+  - name: "Show Skeleton"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FBB4 00000001"
+
+  - name: "Show IK Axes"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FBB8 00000001"
+
+  - name: "Show Lights"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FBBC 00000001"
+
+  - name: "Show Shadows"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FBC4 00000001"
+
+  - name: "Show Nearest Light"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FBCC 00000001"
+
+  - name: "Show Mount Points"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FBD8 00000001"
+
+  - name: "Invisible"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FBDC 00000001"
+
+  - name: "Show NPC LOS Line"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FBE0 00000001"
+
+  - name: "Show Last Fight Camera Path"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FBE4 00000001"
+
+  - name: "Show Last Animation Path"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FBE8 00000001"
+
+  - name: "Show Memory Profiles"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FC10 00000001"
+
+  - name: "All Locking/Unlocking Automated"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FD58 00000000"
+
+  - name: "Engage Acts As Lock On & Change Target"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FD58 00000001"
+
+  - name: "Separate Combat Initiate & Target Button"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FD58 00000002"
+
+  - name: "Autolock Is A Toggle"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FD5C 00000001"
+
+  - name: "Always Autolock Closest"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FD60 00000001"
+
+  - name: "Dont Always Face Enemy"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FD68 00000001"
+
+  - name: "Force Wolvie To Fight (Autolocks When Attacked)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FD74 00000001"
+
+  - name: "Lock Initiate Max Distance Modifier (Default 40E00000)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FD7C ????????"
+
+  - name: "Lock Cancel Distance Modifier (Default 41200000)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FD80 ????????"
+
+  - name: "Lock Initiate Max Y Distance Modifier (Default 40400000)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FD84 ????????"
+
+  - name: "Lock Cancel Min Distance Modifier (Default 40800000)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FD88 ????????"
+
+  - name: "Strike From Anywhere"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FD8C 00000001"
+
+  - name: "Speed (Motion) Modifier (Default 3F800000)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FD90 ????????"
+
+  - name: "Speed (Punch) Modifier (Default 3Fb33333)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FD94 ????????"
+
+  - name: "Speed (Kick) Modifier (Default 3F900000)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FD98 ????????"
+
+  - name: "Speed (Slash) Modifier (Default 3F900000)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FD9C ????????"
+
+  - name: "Speed (Other) Modifier (Default 3F800000)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FDA4 ????????"
+
+  - name: "Smooth Motion Maxvel Modifier (Default 41600000)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FDB0 ????????"
+
+  - name: "Smooth Motion Accel Modifier (Default 41600000)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FDB4 ????????"
+
+  - name: "Smooth Motion Decel Modifier (Default 41600000)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FDB8 ????????"
+
+  - name: "Run Speed Threshold Modifier (Default 40Af4396)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FDBC ????????"
+
+  - name: "Steering In Mid-Air In Running Jump"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2035FE0C 00000001"
+
+  - name: "Foggy"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20360774 00000001"
+
+  - name: "Show VRAM Usage"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203607E8 00000001"
+
+  - name: "Show Performance"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20360814 00000001"
+
+  - name: "Show NPC View Cones"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2036081C 00000001"
+
+  - name: "Invulnerable"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20360824 00000001"
+
+  - name: "Baddies Stand Still"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20360828 00000001"
+
+  - name: "Show Pathfinding Routes"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2036082C 00000001"
+
+  - name: "No Realtime Lighting"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20360920 00000000"
+
+  - name: "Dont Convert Dim Lights To Ambient"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20360924 00000000"
+
+  - name: "No Animated Lights"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20360934 00000000"
+
+  - name: "No Animation Curves"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20360964 00000000"
+
+  - name: "No Animation Optimisation"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20360968 00000000"
+
+  - name: "Shadow Z-Bias Modifier (Default 41000000)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203609D8 ????????"
+
+  - name: "Show Shadow As Searchlight"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203609E4 00000001"
+
+  - name: "Show Character Collision Volumes"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20360A20 00000001"
+
+  - name: "Show Full Character Cylinder"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20360A24 00000001"
+
+  - name: "Screen Effects Off"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20360A28 00000000"
+
+  - name: "Disable Rails & Fixed Cameras"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20360AE0 00000001"
+
+  - name: "Show Camera Bounding Boxes"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20360AE4 00000001"
+
+  - name: "Unlock All Doors"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20360B10 00000001"
+
+  - name: "Show Nearest Guns Darta"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20360C38 00000001"
+
+  - name: "Full Inventory"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20360EE8 00000001"
+
+  - name: "Show Sound System Stats"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20361168 00000001"
+
+  - name: "Show Sound Emitters"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2036116C 00000001"
+
+  - name: "Disable Collisions"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20361690 00000001"
+
+  - name: "Dont Render Matts Particles"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20361DE8 00000000"
+
+  - name: "Health Heal Time Delay Modifier (Default 40A00000)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202D8294 ????????"
+
+  - name: "Health Heal Speed Modifier (Default 41700000)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202D8298 ????????"
+
+  - name: "Health Segment2 Healing Slowdown Modifier (Default 3Fc00000)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202D829C ????????"
+
+  - name: "Health Segment1 Healing Slowdown Modifier (Default 40000000)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202D82A0 ????????"
+
+  - name: "Rage Heal Time Delay Modifier (Default 40A00000)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202D82A4 ????????"
+
+  - name: "Rage Heal Speed Modifier (Default 3F800000)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202D82A8 ????????"
+
+  - name: "Wolvie Takes Combat Damage Rage Modifier (Default 3D4ccccd)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202D82AC ????????"
+
+  - name: "Wolvie Hurts Enemy Rage Modifier (Default 3Ca3d70a)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202D82B0 ????????"
+
+  - name: "Brightness Ceiling Modifier (Default 437F0000)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203A1188 ????????"
+
+  - name: "Freeze Objects"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203A120C 00000001"
+
+  - name: "Have All Strike Levels"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203ABD60 00000003"
+
+  - name: "1-Hit Kill"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203ACE74 00000001"
+
+  - name: "Disable HUD"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203ACE78 00000001"
+
+  - name: "Disable Mission Countdown"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203ACE7C 00000001"
+
+  - name: "Player Damage Multipler Modifier (Default 41200000)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203C48CC ????????"
+
+  - name: "Max Time In Rage Modifier (Default 41500000)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203C48D0 ????????"
+
+  - name: "Rage Animation Speed Modifier (Default 3Fa00000)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203C48D4 ????????"
+
+  - name: "Max Combat Score"
+    author: "Code Master"
+    notes: "[End Level Stats Codes]"
+    codes:
+      - "20362454 05F5E0FF"
+
+  - name: "Max Total Score"
+    author: "Code Master"
+    notes: "[End Level Stats Codes]"
+    codes:
+      - "203ABD88 05F5E0FF"
+
+  - name: "Max Stealth Strikes"
+    author: "Code Master"
+    notes: "[End Level Stats Codes]"
+    codes:
+      - "103D85F0 000003E7"
+
+  - name: "Max Double Strikes"
+    author: "Code Master"
+    notes: "[End Level Stats Codes]"
+    codes:
+      - "103D85F2 000003E7"
+
+  - name: "Max Triple Strikes"
+    author: "Code Master"
+    notes: "[End Level Stats Codes]"
+    codes:
+      - "103D85F4 000003E7"
+
+  - name: "Max Bowling Bonus"
+    author: "Code Master"
+    notes: "[End Level Stats Codes]"
+    codes:
+      - "103D85F6 000003E7"
+
+  - name: "Max Combat Points"
+    author: "Code Master"
+    notes: "[End Level Stats Codes]"
+    codes:
+      - "103D85F8 000003E7"
+
+  - name: "Max Dog Tags"
+    author: "Code Master"
+    notes: "[End Level Stats Codes]"
+    codes:
+      - "103D85FA 000003E7"
+
+  - name: "Max Cerebro File"
+    author: "Code Master"
+    notes: "[End Level Stats Codes]"
+    codes:
+      - "103D85FC 000003E7"
+
+  - name: "Max Comic Cover"
+    author: "Code Master"
+    notes: "[End Level Stats Codes]"
+    codes:
+      - "103D85FE 000003E7"

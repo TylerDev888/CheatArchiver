@@ -1,0 +1,35 @@
+# Robots cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Robots"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "902E2660 0C0BCAAA"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2000 46000046"
+      - "200C2004 03E00008"
+      - "200C2008 E44103D0"
+      - "201B4E40 0C030800"
+
+  - name: "Scrap"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2010 2402270F"
+      - "200C2014 03E00008"
+      - "200C2018 AC820004"
+      - "20218134 08030804"

@@ -1,0 +1,24 @@
+# Simple 2000 Series Vol.80 - The Oneechanpuruu cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62638
+
+game: "Simple 2000 Series Vol.80 - The Oneechanpuruu"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62638"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9020F258 0C083C3E"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "901E91F4 0C081790"

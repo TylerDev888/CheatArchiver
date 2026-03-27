@@ -1,0 +1,62 @@
+# Rally Fusion cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20361
+
+game: "Rally Fusion"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20361"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0030B427"
+
+  - name: "Access All Multiplayer Cars"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20918FF8 FFFFFFFF"
+
+  - name: "Access All Multiplayer Tracks"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20918FFC FFFFFFFF"
+
+  - name: "Access All Multiplayer Modes"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20919000 FFFFFFFF"
+
+  - name: "Access All Tracks"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20919008 FFFFFFFF"
+
+  - name: "Always Low Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201BBB0C 00000000"
+
+  - name: "Press L1+Select To End Race"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 9421E082"
+      - "200C0224 3402FBFE"
+      - "200C0228 14220002"
+      - "200C022C 24020001"
+      - "200C0230 AC820060"
+      - "200C0234 03E00008"
+      - "200C0238 8C820060"
+      - "201C8958 08030088"
+      - "201C895C 3C010072"

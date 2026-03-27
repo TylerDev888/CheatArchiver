@@ -1,0 +1,39 @@
+# G1 Jockey 4 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53917
+
+game: "G1 Jockey 4"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53917"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0106F14 00106F17"
+
+  - name: "Infinite RP"
+    author: "Codejunkies"
+    codes:
+      - "20947438 0000FFFF"
+
+  - name: "Infinite Stamina"
+    author: "Codejunkies"
+    codes:
+      - "2016DE58 00000000"
+
+  - name: "Max Earnings"
+    author: "Codejunkies"
+    codes:
+      - "20946ECC 000F423F"
+      - "209473C4 000F423F"
+
+  - name: "Quick Fill Potential"
+    author: "Codejunkies"
+    codes:
+      - "2016E404 00000000"

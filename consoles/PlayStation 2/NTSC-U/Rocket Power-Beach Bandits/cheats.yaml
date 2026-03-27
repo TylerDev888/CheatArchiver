@@ -1,0 +1,34 @@
+# Rocket Power-Beach Bandits cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20473
+
+game: "Rocket Power-Beach Bandits"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20473"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 003657C7"
+
+  - name: "Hella Score Gained Per Trick"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2024BC9C 2442270F"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 3C013F80"
+      - "200C0224 AE810210"
+      - "200C0228 03E00008"
+      - "200C022C C6800210"
+      - "20141418 0C030088"

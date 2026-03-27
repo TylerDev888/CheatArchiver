@@ -1,0 +1,142 @@
+# Power Rangers - Super Legends cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21679
+
+game: "Power Rangers - Super Legends"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21679"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Skiller"
+    notes: "[Master Codes]"
+    codes:
+      - "901174D0 0C045CDC"
+
+  - name: "Enable Code(Must Be On)"
+    author: "Azagthoth"
+    notes: "[Master Codes]"
+    codes:
+      - "90122D30 00832021"
+
+  - name: "1 Hit Kill"
+    author: "Azagthoth"
+    codes:
+      - "21304710 ACA00018"
+
+  - name: "Completed Ranger Spelling After One Pickup"
+    author: "Skiller"
+    codes:
+      - "212A6D50 200F003F"
+
+  - name: "Infinite Activator P1(Must Be On)"
+    author: "Azagthoth"
+    codes:
+      - "200A0000 3C010088"
+      - "200A0004 8C2158D0"
+      - "200A0008 10200004"
+      - "200A002C 03E00008"
+      - "D08858D0 00100000"
+      - "201179A4 08028000"
+      - "D08858D0 00000000"
+      - "201179A4 03E00008"
+
+  - name: "Infinite Activator P2(Must Be On)"
+    author: "Azagthoth"
+    codes:
+      - "200A0040 3C030088"
+      - "200A0044 8C6358D4"
+      - "200A0048 10600008"
+      - "200A006C 03E00008"
+      - "D08858D4 00100000"
+      - "20122CA8 08028010"
+      - "D08858D4 00000000"
+      - "20122CA8 03E00008"
+
+  - name: "Infinite Ammo P1"
+    author: "Azagthoth"
+    codes:
+      - "200A0018 8C230054"
+      - "200A001C AC230058"
+
+  - name: "Infinite Ammo P2"
+    author: "Azagthoth"
+    codes:
+      - "200A0058 8C660054"
+      - "200A005C AC660058"
+
+  - name: "Infinite Health P1"
+    author: "Azagthoth"
+    codes:
+      - "200A0010 8C220014"
+      - "200A0014 AC220018"
+
+  - name: "Infinite Health P2"
+    author: "Azagthoth"
+    codes:
+      - "200A0050 8C650014"
+      - "200A0054 AC650018"
+      - "200A0050 8C650014"
+      - "200A0054 AC650018"
+
+  - name: "Infinite Power Bar P1"
+    author: "Azagthoth"
+    codes:
+      - "200A0020 2404012C"
+      - "200A0024 AC240038"
+
+  - name: "Infinite Power P2"
+    author: "Azagthoth"
+    codes:
+      - "200A0060 2407012C"
+      - "200A0064 AC670038"
+
+  - name: "Max Combo Hits"
+    author: "Skiller"
+    codes:
+      - "212A7088 00000000"
+
+  - name: "Infinite Time"
+    author: "Azagthoth"
+    notes: "[Megazord Battle Codes]"
+    codes:
+      - "21228EB0 00000000"
+
+  - name: "Max Green Bar"
+    author: "Azagthoth"
+    notes: "[Megazord Battle Codes]"
+    codes:
+      - "202B726C AE01004C"
+
+  - name: "P1 Joker Command"
+    author: "Azagthoth"
+    codes:
+      - "D049A902 0000????"
+
+  - name: "P2 Joker"
+    author: "lee4"
+    codes:
+      - "D049AD02 0000????"
+
+  - name: "Time Orbs 1000X (Works For Both Players)"
+    author: "Skiller"
+    codes:
+      - "212A7F74 08028000"
+      - "200A0000 200203E8"
+      - "200A0004 004E7020"
+      - "200A0008 03E00008"
+      - "200A000C ADEE03D8"
+
+  - name: "Timeline Collectibles Gain 10X"
+    author: "Skiller"
+    codes:
+      - "112A6D84 0000000A"
+
+  - name: "Total Enemies Defeated Gain 10X"
+    author: "Skiller"
+    codes:
+      - "112637CC 0000000A"

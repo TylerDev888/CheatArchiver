@@ -1,0 +1,42 @@
+# Nogizaka Haruka No Himitsu Cosplay, Hajime Mashita cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25892
+
+game: "Nogizaka Haruka No Himitsu Cosplay, Hajime Mashita"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25892"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010F898 0C043DCE"
+
+  - name: "Unlock All Album"
+    author: "punk7890"
+    codes:
+      - "403B4C70 000F0001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Unlock All Costumes"
+    author: "punk7890"
+    codes:
+      - "403B61C8 000D0001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Unlock All Figurines"
+    author: "punk7890"
+    codes:
+      - "203B61F8 FFFFFFFF"
+      - "203B61FC FFFFFFFF"
+      - "203B6200 FFFFFFFF"
+
+  - name: "Unlock Omake And After Story"
+    author: "punk7890"
+    codes:
+      - "203AC378 FFFFFFFF"

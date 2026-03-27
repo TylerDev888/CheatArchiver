@@ -1,0 +1,120 @@
+# Pro Evolution Soccer cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50412
+
+game: "Pro Evolution Soccer"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50412"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0E7EF2C 00E7EF2F"
+
+  - name: "Away Team Score 0 (Press R2 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D128C782 0000FDFF"
+      - "012207CC 00000000"
+
+  - name: "Away Team Score 99 (Press R1 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D128C782 0000F7FF"
+      - "012207CC 00000063"
+
+  - name: "Home Team Score 0 (Press L2 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D128C782 0000FEFF"
+      - "012207CB 00000000"
+
+  - name: "Home Team Score 99 (Press L1 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D128C832 0000FBFF"
+      - "012207CB 00000063"
+
+  - name: "Infinite Money"
+    author: "Codejunkies"
+    codes:
+      - "11277EC8 000003E7"
+
+  - name: "Infinite Transfers"
+    author: "Codejunkies"
+    codes:
+      - "0127956C 00000063"
+
+  - name: "Unlock All Teams"
+    author: "Codejunkies"
+    codes:
+      - "01221E30 000000FF"
+
+  - name: "Win All Trophies"
+    author: "Codejunkies"
+    codes:
+      - "01221E3C 000000FF"
+
+  - name: "Away Team Score 0 - Press R2"
+    author: "Codejunkies"
+    codes:
+      - "F1887229 64DA3EEA"
+      - "218EB377 64DA29E9"
+
+  - name: "Away Team Score 99 - Press R1"
+    author: "Codejunkies"
+    codes:
+      - "F1887229 64DA30EA"
+      - "218EB377 64DA29B6"
+
+  - name: "Infinite Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "11277DC8 000003E7"
+
+  - name: "Never More Than 200 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E00100C8 31277DC8"
+      - "11277DC8 000000C8"
+
+  - name: "Never More Than 400 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E0010190 31277DC8"
+      - "11277DC8 00000190"
+
+  - name: "Never More Than 600 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E0010258 31277DC8"
+      - "11277DC8 00000258"
+
+  - name: "Never More Than 800 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E0010320 31277DC8"
+      - "11277DC8 00000320"
+
+  - name: "Home Team Score 0 - Press L2"
+    author: "Codejunkies"
+    codes:
+      - "F1887229 64DA3FEA"
+      - "218EB376 64DA29E9"
+
+  - name: "Home Team Score 99 - Press L1"
+    author: "Codejunkies"
+    codes:
+      - "F1887229 64DA3CEA"
+      - "218EB376 64DA29B6"

@@ -1,0 +1,23 @@
+# Vegas Party
+
+**Console:** Nintendo Wii  
+**Region:** NTSC-U  
+**Serial:** SVPESZ  
+**Cheat Type:** Gecko  
+
+---
+
+## Cheats
+
+### Lots Of Money Player 1 (slots)
+**Author:** Skiller
+
+```
+C2043E00 00000004
+2D940000 408E0010
+3C0005F5 6000E0FF
+7C13192E 7C13182E
+60000000 00000000
+```
+
+---

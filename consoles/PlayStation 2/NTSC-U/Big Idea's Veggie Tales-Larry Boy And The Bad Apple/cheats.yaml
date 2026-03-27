@@ -1,0 +1,33 @@
+# Big Idea's Veggie Tales-Larry Boy And The Bad Apple cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21440
+
+game: "Big Idea's Veggie Tales-Larry Boy And The Bad Apple"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21440"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90305534 0C0B54FF"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 3C013F80"
+      - "200C0224 080544E4"
+      - "200C0228 AC410270"
+      - "201421CC 0C030088"
+
+  - name: "Infinite Power Drencher"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201C1354 00000000"

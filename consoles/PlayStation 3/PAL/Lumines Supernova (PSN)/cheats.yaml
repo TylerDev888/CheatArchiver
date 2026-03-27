@@ -1,0 +1,21 @@
+# Lumines Supernova (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00066
+
+game: "Lumines Supernova (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00066"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Sys-data (required)"
+    notes: "File: SYS-DATA  (set range:0x000000,0x00EDEF) (write at 0x00EDF0:[hash])"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:CRC32"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"

@@ -1,0 +1,55 @@
+# Winback - Covert Operations cheat data
+# Console: PlayStation 2
+# Region:  Unknown
+# Serial:  No
+
+game: "Winback - Covert Operations"
+console: "PlayStation 2"
+region: "Unknown"
+serial: "No"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0237AB8 0025554F"
+
+  - name: "All Characters Open"
+    author: "InterAct"
+    codes:
+      - "103825BC 0000FFFF"
+      - "103825BE 0000000F"
+
+  - name: "Infinite Health"
+    author: "InterAct"
+    codes:
+      - "002D4DB9 00000064"
+
+  - name: "No Reload Pistol"
+    author: "InterAct"
+    codes:
+      - "002D4DB5 0000000F"
+
+  - name: "No Reload R. Launcher"
+    author: "InterAct"
+    codes:
+      - "003486BB 00000004"
+      - "002D4DAF 00000004"
+
+  - name: "No Reload S. Pistol"
+    author: "InterAct"
+    codes:
+      - "003486B4 0000000A"
+
+  - name: "No Reload Shotgun"
+    author: "InterAct"
+    codes:
+      - "002D4DB1 0000000A"
+
+  - name: "No Reload SMG"
+    author: "InterAct"
+    codes:
+      - "002D4D9B 00000032"

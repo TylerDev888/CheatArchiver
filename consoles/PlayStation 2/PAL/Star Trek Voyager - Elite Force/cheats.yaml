@@ -1,0 +1,69 @@
+# Star Trek Voyager - Elite Force cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50738
+
+game: "Star Trek Voyager - Elite Force"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50738"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0290258 0029026F"
+
+  - name: "Disable AI"
+    author: "Codejunkies"
+    notes: "[Single Activation Codes]"
+    codes:
+      - "100FFF08 00000020"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Single Activation Codes]"
+    codes:
+      - "100FFF08 00000010"
+
+  - name: "Undead Mode"
+    author: "Codejunkies"
+    notes: "[Single Activation Codes]"
+    codes:
+      - "100FFF08 00004000"
+
+  - name: "Go Anywhere (Press L3 To Activate; R3 To De-Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D044A1C2 0000FFFD"
+      - "100FFF20 00000001"
+      - "D044A1C2 0000FFFB"
+      - "100FFF20 00000000"
+
+  - name: "Must Be On For Codes Below"
+    author: "Codejunkies"
+    codes:
+      - "200FFF00 3C020032"
+      - "200FFF04 8C4240AC"
+      - "200FFF0C 10020007"
+      - "200FFF14 AC430160"
+      - "200FFF1C 8C4200EC"
+      - "200FFF24 AC4305D0"
+      - "200FFF2C 24030070"
+      - "200FFF30 080A4086"
+      - "20290214 0803FFC0"
+      - "100FFF22 00002403"
+      - "100FFF0A 00002403"
+
+  - name: "Show Frame/Delta"
+    author: "Codejunkies"
+    codes:
+      - "2015D2F8 00000000"
+
+  - name: "Show Packets Infiniteo"
+    author: "Codejunkies"
+    codes:
+      - "2015C9B0 00000000"

@@ -1,0 +1,150 @@
+# Disaster Report cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20561
+
+game: "Disaster Report"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20561"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01D2174 001D2177"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001D2177"
+
+  - name: "Have All Compasses"
+    author: "Code Master"
+    codes:
+      - "203FE8EC FFFFFFFF"
+      - "203FE8F0 FFFFFFF7"
+
+  - name: "Have All Maps"
+    author: "Code Master"
+    codes:
+      - "2036CC00 FFFFFFFF"
+      - "2036CC04 FFFFFFFF"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "10380906 000042C8"
+
+  - name: "Never Have More Than 25% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E00141C8 30380906"
+      - "10380906 000041C8"
+
+  - name: "Never Have More Than 50% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0014248 30380906"
+      - "10380906 00004248"
+
+  - name: "Never Have More Than 75% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0014296 30380906"
+      - "10380906 00004296"
+
+  - name: "Infinite HP"
+    author: "Code Master"
+    codes:
+      - "20380904 42C80000"
+
+  - name: "Infinite QP"
+    author: "Code Master"
+    codes:
+      - "20380908 42C80000"
+
+  - name: "Never Thirsty"
+    author: "Codejunkies"
+    codes:
+      - "1038090A 000042C8"
+
+  - name: "Always Low Distance Traveled"
+    author: "Code Master"
+    notes: "[Status Screen Codes]"
+    codes:
+      - "204144C4 00000000"
+
+  - name: "Always Low Play Time"
+    author: "Code Master"
+    notes: "[Status Screen Codes]"
+    codes:
+      - "204144B4 00000000"
+
+  - name: "Always Low Water Consumed"
+    author: "Code Master"
+    notes: "[Status Screen Codes]"
+    codes:
+      - "204144C8 00000000"
+
+  - name: "Hella Distance Traveled"
+    author: "Code Master"
+    notes: "[Status Screen Codes]"
+    codes:
+      - "204144C4 461C3F9A"
+
+  - name: "Never Have Saved"
+    author: "Code Master"
+    notes: "[Status Screen Codes]"
+    codes:
+      - "204144B8 00000000"
+
+  - name: "No Falls"
+    author: "Code Master"
+    notes: "[Status Screen Codes]"
+    codes:
+      - "204144C0 00000000"
+
+  - name: "No Game Overs"
+    author: "Code Master"
+    notes: "[Status Screen Codes]"
+    codes:
+      - "204144BC 00000000"
+
+  - name: "Saved Only Once"
+    author: "Code Master"
+    notes: "[Status Screen Codes]"
+    codes:
+      - "204144B8 00000001"
+
+  - name: "Always On 1St Save"
+    author: "Codejunkies"
+    notes: "[The Following Codes Effects The End Of Game Statistics]"
+    codes:
+      - "104144B8 00000001"
+
+  - name: "Low Distance Traveled"
+    author: "Codejunkies"
+    notes: "[The Following Codes Effects The End Of Game Statistics]"
+    codes:
+      - "104144C6 00000000"
+
+  - name: "Low Play Time"
+    author: "Codejunkies"
+    notes: "[The Following Codes Effects The End Of Game Statistics]"
+    codes:
+      - "104144B4 000000F0"
+
+  - name: "Low Water Consumed"
+    author: "Codejunkies"
+    notes: "[The Following Codes Effects The End Of Game Statistics]"
+    codes:
+      - "104144CA 00003F00"

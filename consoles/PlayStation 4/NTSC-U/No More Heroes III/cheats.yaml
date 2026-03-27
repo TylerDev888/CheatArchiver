@@ -1,0 +1,26 @@
+# No More Heroes III cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA32167
+
+game: "No More Heroes III"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA32167"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Unlock ALL Chips"
+    author: "Zeraf3000"
+    notes: "File: JCTSaveSlot\\ue4savegame.ps4.sav"
+    codes:
+      - "80[SLOT]0019 44656174"
+      - "68476C6F 62654368"
+      - "69705265 77617264"
+      - "41727261 79000000"
+      - "8801000D 496E7431"
+      - "3650726F 70657274"
+      - "79000000 00000000"
+      - "48000013 00000003"
+      - "40340002 00000000"

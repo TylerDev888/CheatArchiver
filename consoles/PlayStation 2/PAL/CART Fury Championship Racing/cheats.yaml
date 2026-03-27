@@ -1,0 +1,35 @@
+# CART Fury Championship Racing cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50267
+
+game: "CART Fury Championship Racing"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50267"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01D4C8C 000001FD"
+
+  - name: "Driving 101 - 0 Barrels"
+    author: "Codejunkies"
+    codes:
+      - "00609140 00000000"
+
+  - name: "Open All Cars"
+    author: "InterAct"
+    codes:
+      - "005AC209 000000FF"
+      - "005AC20A 000000FF"
+
+  - name: "Open All Tracks"
+    author: "InterAct"
+    codes:
+      - "005AC20D 000000FF"
+      - "005AC20E 000000FF"

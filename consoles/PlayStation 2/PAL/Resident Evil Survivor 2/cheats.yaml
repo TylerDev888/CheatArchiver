@@ -1,0 +1,41 @@
+# Resident Evil Survivor 2 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Resident Evil Survivor 2"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0010C04F"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "203A8168 00007FFF"
+
+  - name: "Continues"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "1059EFB2 07230FFF"
+
+  - name: "Magnum"
+    author: "Xploder"
+    notes: "[Unlimited Ammunition]"
+    codes:
+      - "005B147E 68092864"
+
+  - name: "Assault"
+    author: "Xploder"
+    notes: "[Unlimited Ammunition]"
+    codes:
+      - "205B1480 000000C8"

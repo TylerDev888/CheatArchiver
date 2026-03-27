@@ -1,0 +1,35 @@
+# Police 247 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Police 247"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0010C83F"
+
+  - name: "Lives"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "003A6A28 680928FF"
+
+  - name: "Continues"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "003A2F10 680928FF"
+
+  - name: "Time"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "003A69F8 6809280F"

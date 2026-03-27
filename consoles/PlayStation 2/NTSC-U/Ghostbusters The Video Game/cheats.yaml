@@ -1,0 +1,32 @@
+# Ghostbusters The Video Game cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21882
+
+game: "Ghostbusters The Video Game"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21882"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90470640 0C11C138"
+
+  - name: "Damages No Cost"
+    author: "SkillerCMP"
+    codes:
+      - "201C6FAC E47F0000"
+
+  - name: "Time In Level: 0:00:00"
+    author: "SkillerCMP"
+    codes:
+      - "2020B624 E61F0058"
+
+  - name: "Weapon Never Overheats"
+    author: "SkillerCMP"
+    codes:
+      - "2015C814 00000000"

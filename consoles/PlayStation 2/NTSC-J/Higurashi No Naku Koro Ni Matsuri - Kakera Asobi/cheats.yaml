@@ -1,0 +1,51 @@
+# Higurashi No Naku Koro Ni Matsuri - Kakera Asobi cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66913
+
+game: "Higurashi No Naku Koro Ni Matsuri - Kakera Asobi"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66913"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "901A9BA0 0C06A690"
+
+  - name: "New Game = Debug Menu"
+    author: "punk7890"
+    codes:
+      - "20103D90 2405FFFF"
+
+  - name: "Unlock All Movies"
+    author: "punk7890"
+    codes:
+      - "002B5EF5 000000FF"
+
+  - name: "Unlock All Music"
+    author: "punk7890"
+    codes:
+      - "002B5EED 000000FF"
+      - "102B5EEE 0000FFFF"
+      - "202B5EF0 FFFFFFFF"
+
+  - name: "Unlock All Pictures"
+    author: "punk7890"
+    codes:
+      - "002B5EE3 000000FF"
+      - "202B5EE4 FFFFFFFF"
+      - "202B5EE8 FFFFFFFF"
+
+  - name: "Unlock All Scenarios"
+    author: "punk7890"
+    codes:
+      - "002B5F99 000000FF"
+      - "102B5F9A 0000FFFF"
+      - "402B5FA0 00060001"
+      - "FFFFFFFF 00000000"
+      - "002B5FB8 000000FF"

@@ -1,0 +1,117 @@
+# Surfing H3O cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20009
+
+game: "Surfing H3O"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20009"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0101368 0010136B"
+
+  - name: "Always Clear Level"
+    author: "Codejunkies"
+    notes: "[Continues Codes]"
+    codes:
+      - "10457E28 00000001"
+
+  - name: "Always Have High Total Score"
+    author: "Codejunkies"
+    notes: "[Continues Codes]"
+    codes:
+      - "10457E20 0000FFFF"
+
+  - name: "Infinite Continues"
+    author: "Codejunkies"
+    notes: "[Continues Codes]"
+    codes:
+      - "1024A5E4 00000005"
+
+  - name: "Infinite Takeoffs"
+    author: "Codejunkies"
+    notes: "[Continues Codes]"
+    codes:
+      - "10456AA4 00000002"
+
+  - name: "Never Have More Than 1 Continue"
+    author: "Codejunkies"
+    notes: "[Continues Codes]"
+    codes:
+      - "E0010001 3024A5E4"
+      - "1024A5E4 00000001"
+
+  - name: "Never Have More Than 2 Continues"
+    author: "Codejunkies"
+    notes: "[Continues Codes]"
+    codes:
+      - "E0010002 3024A5E4"
+      - "1024A5E4 00000002"
+
+  - name: "Never Have More Than 3 Continues"
+    author: "Codejunkies"
+    notes: "[Continues Codes]"
+    codes:
+      - "E0010003 3024A5E4"
+      - "1024A5E4 00000003"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001FDE0F"
+
+  - name: "Access All Characters"
+    author: "Code Master"
+    codes:
+      - "2018E6F4 00000000"
+
+  - name: "Extra Continues"
+    author: "Code Master"
+    codes:
+      - "1017F6A0 00000001"
+
+  - name: "Extra Takeoffs"
+    author: "Code Master"
+    codes:
+      - "101509F8 00000001"
+
+  - name: "High Score"
+    author: "InterAct"
+    codes:
+      - "10457E20 0000FFFF"
+
+  - name: "Infinite Take Offs"
+    author: "InterAct"
+    codes:
+      - "10456AA4 00000002"
+
+  - name: "Max Score"
+    author: "Code Master"
+    codes:
+      - "20457E20 0098967F"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001FDE0F"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901FDE0C 0C089BC1"
+
+  - name: "Quick Score Gain"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10457E20 0000FFFF"

@@ -1,0 +1,31 @@
+# Fantavision cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Fantavision"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001B4F4B"
+
+  - name: "Unlimited Energy"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "10498DB8 0723270F"
+      - "10498DC0 0723270F"
+
+  - name: "Maximum Score"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "20674218 540BE3FF"
+      - "1067421C 07230002"

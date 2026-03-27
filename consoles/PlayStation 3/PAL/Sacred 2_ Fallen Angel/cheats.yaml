@@ -1,0 +1,66 @@
+# Sacred 2_ Fallen Angel cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00410
+
+game: "Sacred 2_ Fallen Angel"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00410"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Decompress Save (required)"
+    notes: "File: SAVE.DAT  (Steps to mod(Only for the 1st char):) (1.Turn on Compression Check(located near bottom right near patch creator)) (2.double click on save.dat) (3.a small window pop up with 2 files list) (4.right click on the xxx.neo file and click apply cheats.) (5.select your desired cheats and..."
+    codes:
+      - "Decompress(*, 15)"
+
+  - name: "32767 Skill Points(apply On Xxx.neo File)"
+    notes: "File: ~extracted\\*.dat"
+    codes:
+      - "search 0xFFFFAA07"
+      - "write next 8:0x7FFF"
+
+  - name: "32767 Attribute Points(apply On Xxx.neo File)"
+    notes: "File: ~extracted\\*.dat"
+    codes:
+      - "search 0xFFFFAA07"
+      - "write next A:0x7FFF"
+
+  - name: "Lots Of Gold(apply On Xxx.neo File)"
+    notes: "File: ~extracted\\*.dat"
+    codes:
+      - "search 0xFFFFAA07"
+      - "write next 19A:0x7FFFFFFF"
+
+  - name: "Lots Of Kills Counts(apply On Xxx.neo File)"
+    notes: "File: ~extracted\\*.dat"
+    codes:
+      - "search 0xFFFFAA07"
+      - "write next 1CC:0x7FFFFFFF"
+
+  - name: "Kill 1 To Max Out Level(apply On Xxx.neo File)"
+    notes: "File: ~extracted\\*.dat"
+    codes:
+      - "search 0xFFFFAA07"
+      - "write next C:0x03B86412"
+
+  - name: "Max Gold(apply On Xxx.neo File)"
+    notes: "File: ~extracted\\*.dat"
+    codes:
+      - "search 0xFFFFAA07"
+      - "write next 19A:0x7FFFFFFF"
+
+  - name: "Easy Leveling(apply On Xxx.neo File)"
+    notes: "File: ~extracted\\*.dat"
+    codes:
+      - "search 0xFFFFAA07"
+      - "write next 5:0x01"
+      - "search 0xFFFFAA07"
+      - "write next C:0x709E9CB7"
+
+  - name: "Compress Save (required)"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "Compress(*)"

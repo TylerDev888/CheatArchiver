@@ -1,0 +1,35 @@
+# Inspector Gadget - Mad Robots Invasion cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51247
+
+game: "Inspector Gadget - Mad Robots Invasion"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51247"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0163554 00163557"
+
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "901B9260 0C06E440"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90163554 0C06B257"
+
+  - name: "Infinite Lives"
+    author: "Codejunkies"
+    codes:
+      - "105EDBE8 00000009"

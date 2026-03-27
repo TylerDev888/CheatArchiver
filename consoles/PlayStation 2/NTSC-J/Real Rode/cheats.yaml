@@ -1,0 +1,23 @@
+# Real Rode cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-55104
+
+game: "Real Rode"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-55104"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010E370 0C043884"
+
+  - name: "New Game = Debug Menu"
+    author: "punk7890"
+    codes:
+      - "0016D408 00000018"

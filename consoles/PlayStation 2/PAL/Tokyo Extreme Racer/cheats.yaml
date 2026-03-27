@@ -1,0 +1,34 @@
+# Tokyo Extreme Racer cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Tokyo Extreme Racer"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001121AF"
+
+  - name: "Unlimited Money"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2037E780 05F5E0FF"
+
+  - name: "All Cars Available In Shop"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2037E764 FFFFFFFF"
+      - "2037E768 FFFFFFFF"
+      - "2037E76C FFFFFFFF"
+      - "2037E770 FFFFFFFF"
+      - "2037E774 FFFFFFFF"
+      - "2037E778 FFFFFFFF"

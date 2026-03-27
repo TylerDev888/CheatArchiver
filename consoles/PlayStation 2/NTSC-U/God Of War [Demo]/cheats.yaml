@@ -1,0 +1,38 @@
+# God Of War [Demo] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97467
+
+game: "God Of War [Demo]"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97467"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01797E8 001797EB"
+
+  - name: "Enable All Magic"
+    author: "Codejunkies"
+    codes:
+      - "102F9C42 0000FFFF"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "206E9A18 42C80000"
+
+  - name: "Infinite Magic Energy"
+    author: "Codejunkies"
+    codes:
+      - "202F9C1C 42C80000"
+
+  - name: "Max Level"
+    author: "Codejunkies"
+    codes:
+      - "202F9C28 00007530"

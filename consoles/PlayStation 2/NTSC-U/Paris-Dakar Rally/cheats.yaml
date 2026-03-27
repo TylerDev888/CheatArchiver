@@ -1,0 +1,72 @@
+# Paris-Dakar Rally cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20324
+
+game: "Paris-Dakar Rally"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20324"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master>StalkerX"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00125E17"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master>StalkerX"
+    notes: "[Masters]"
+    codes:
+      - "90125E14 0C046286"
+
+  - name: "Always Low Time"
+    author: "Code Master>StalkerX"
+    notes: "[Codes]"
+    codes:
+      - "20178C68 00000000"
+
+  - name: "Infinite Repairs"
+    author: "Code Master>StalkerX"
+    notes: "[Codes]"
+    codes:
+      - "204D6AAC 000003E7"
+
+  - name: "Unlock All 4X4 Drive Vehicles"
+    author: "Code Master>StalkerX"
+    notes: "[Codes]"
+    codes:
+      - "004D8F4C 0000000F"
+
+  - name: "Unlock All Motorbike Vehicles"
+    author: "Code Master>StalkerX"
+    notes: "[Codes]"
+    codes:
+      - "004D8F4D 0000000F"
+
+  - name: "Unlock All Buggy Vehicles"
+    author: "Code Master>StalkerX"
+    notes: "[Codes]"
+    codes:
+      - "004D8F4E 0000000F"
+
+  - name: "Unlock All Quad Vehicles"
+    author: "Code Master>StalkerX"
+    notes: "[Codes]"
+    codes:
+      - "004D8F4F 0000000F"
+
+  - name: "Unlock All Stages (Arcade Mode)"
+    author: "Code Master>StalkerX"
+    notes: "[Codes]"
+    codes:
+      - "204D6A8C 0000FFFF"
+
+  - name: "Unlock All Stages (Time Attack Mode)"
+    author: "Code Master>StalkerX"
+    notes: "[Codes]"
+    codes:
+      - "204D6A90 0000FFFF"

@@ -1,0 +1,18 @@
+# Ragnarok Odyssey ACE cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB01926
+
+game: "Ragnarok Odyssey ACE"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB01926"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Md2 For Ply-mirr (required)"
+    codes:
+      - "set range:0x000100,0x0000F6"
+      - "set [hash]:MD2"
+      - "write at 0x0000F7:[hash]"

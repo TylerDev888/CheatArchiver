@@ -1,0 +1,868 @@
+# Rumble Roses cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20970
+
+game: "Rumble Roses"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20970"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0121C84 00121C87"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "90121E08 00832021"
+
+  - name: "All Characters"
+    author: "Codejunkies"
+    notes: "[Enable Characters-Exhibition Mode]"
+    codes:
+      - "403DA86C 00050001"
+      - "FF01FF01 00000000"
+      - "103DA880 0000FF01"
+
+  - name: "Becky"
+    author: "Codejunkies"
+    notes: "[Enable Characters-Exhibition Mode]"
+    codes:
+      - "003DA879 000000FF"
+
+  - name: "Black Belt Demon"
+    author: "Codejunkies"
+    notes: "[Enable Characters-Exhibition Mode]"
+    codes:
+      - "003DA86F 000000FF"
+
+  - name: "Dr Cutter"
+    author: "Codejunkies"
+    notes: "[Enable Characters-Exhibition Mode]"
+    codes:
+      - "003DA87D 000000FF"
+
+  - name: "Judgement"
+    author: "Codejunkies"
+    notes: "[Enable Characters-Exhibition Mode]"
+    codes:
+      - "003DA873 000000FF"
+
+  - name: "Killer Khan"
+    author: "Codejunkies"
+    notes: "[Enable Characters-Exhibition Mode]"
+    codes:
+      - "003DA875 000000FF"
+
+  - name: "Lady X"
+    author: "Codejunkies"
+    notes: "[Enable Characters-Exhibition Mode]"
+    codes:
+      - "003DA880 000000FF"
+
+  - name: "Lady X Substance"
+    author: "Codejunkies"
+    notes: "[Enable Characters-Exhibition Mode]"
+    codes:
+      - "003DA881 000000FF"
+
+  - name: "Mistress Spencer"
+    author: "Codejunkies"
+    notes: "[Enable Characters-Exhibition Mode]"
+    codes:
+      - "003DA87B 000000FF"
+
+  - name: "Noble Rose"
+    author: "Codejunkies"
+    notes: "[Enable Characters-Exhibition Mode]"
+    codes:
+      - "003DA871 000000FF"
+
+  - name: "Rowdy Reiko"
+    author: "Codejunkies"
+    notes: "[Enable Characters-Exhibition Mode]"
+    codes:
+      - "003DA86D 000000FF"
+
+  - name: "Sgt Clemets"
+    author: "Codejunkies"
+    notes: "[Enable Characters-Exhibition Mode]"
+    codes:
+      - "003DA877 000000FF"
+
+  - name: "Showbiz"
+    author: "Codejunkies"
+    notes: "[Enable Characters-Exhibition Mode]"
+    codes:
+      - "003DA87F 000000FF"
+
+  - name: "Unlock All Characters"
+    author: "MadCatz"
+    notes: "[Exhibition Codes]"
+    codes:
+      - "403DA86C 00060001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Activation Code (Use With Frozen Characters)"
+    author: "Code Master"
+    notes: "[Full Camera Mode Codes (Needs Freeze Characters)]"
+    codes:
+      - "200C0020 3C07000C"
+      - "200C0024 24020003"
+      - "200C0028 00A03021"
+      - "200C002C C4C00030"
+      - "200C0030 C4E10000"
+      - "200C0034 46000800"
+      - "200C0038 E4C00030"
+      - "200C003C 24C60004"
+      - "200C0040 24E70004"
+      - "200C0044 2442FFFF"
+      - "200C0048 1C40FFF8"
+      - "200C004C 00000000"
+      - "200C0050 C6400164"
+      - "200C0054 C4E10000"
+      - "200C0058 46000800"
+      - "200C005C E6400164"
+      - "200C0060 03E00008"
+      - "200C0064 3C0340F0"
+      - "201B5C20 0C030008"
+      - "E002FFFF 01D75F42"
+      - "400C0000 00040001"
+      - "00000000 00000000"
+
+  - name: "P1 Press L1+Down To Decrease Y-Position Slower"
+    author: "Code Master"
+    notes: "[Full Camera Mode Codes (Needs Freeze Characters)]"
+    codes:
+      - "D1D75F42 0000FBBF"
+      - "200C0004 BD000000"
+
+  - name: "P1 Press L1+Left To Decrease X-Position Slower"
+    author: "Code Master"
+    notes: "[Full Camera Mode Codes (Needs Freeze Characters)]"
+    codes:
+      - "D1D75F42 0000FB7F"
+      - "200C0000 BD000000"
+
+  - name: "P1 Press L1+Right To Increase X-Position Slower"
+    author: "Code Master"
+    notes: "[Full Camera Mode Codes (Needs Freeze Characters)]"
+    codes:
+      - "D1D75F42 0000FBDF"
+      - "200C0000 3D000000"
+
+  - name: "P1 Press L1+Up To Increase Y-Position Slower"
+    author: "Code Master"
+    notes: "[Full Camera Mode Codes (Needs Freeze Characters)]"
+    codes:
+      - "D1D75F42 0000FBEF"
+      - "200C0004 3D000000"
+
+  - name: "P1 Press L2+Down To Zoom In Slower"
+    author: "Code Master"
+    notes: "[Full Camera Mode Codes (Needs Freeze Characters)]"
+    codes:
+      - "D1D75F42 0000FEBF"
+      - "200C000C BC000000"
+
+  - name: "P1 Press L2+Left To Decrease Z-Position Slower"
+    author: "Code Master"
+    notes: "[Full Camera Mode Codes (Needs Freeze Characters)]"
+    codes:
+      - "D1D75F42 0000FE7F"
+      - "200C0008 BD000000"
+
+  - name: "P1 Press L2+Right To Increase Z-Position Slower"
+    author: "Code Master"
+    notes: "[Full Camera Mode Codes (Needs Freeze Characters)]"
+    codes:
+      - "D1D75F42 0000FEDF"
+      - "200C0008 3D000000"
+
+  - name: "P1 Press L2+Up To Zoom Out Slower"
+    author: "Code Master"
+    notes: "[Full Camera Mode Codes (Needs Freeze Characters)]"
+    codes:
+      - "D1D75F42 0000FEEF"
+      - "200C000C 3C000000"
+
+  - name: "P1 Press R1+Down To Decrease Y-Position"
+    author: "Code Master"
+    notes: "[Full Camera Mode Codes (Needs Freeze Characters)]"
+    codes:
+      - "D1D75F42 0000F7BF"
+      - "200C0004 BE000000"
+
+  - name: "P1 Press R1+Left To Decrease X-Position"
+    author: "Code Master"
+    notes: "[Full Camera Mode Codes (Needs Freeze Characters)]"
+    codes:
+      - "D1D75F42 0000F77F"
+      - "200C0000 BE000000"
+
+  - name: "P1 Press R1+Right To Increase X-Position"
+    author: "Code Master"
+    notes: "[Full Camera Mode Codes (Needs Freeze Characters)]"
+    codes:
+      - "D1D75F42 0000F7DF"
+      - "200C0000 3E000000"
+
+  - name: "P1 Press R1+Up To Increase Y-Position"
+    author: "Code Master"
+    notes: "[Full Camera Mode Codes (Needs Freeze Characters)]"
+    codes:
+      - "D1D75F42 0000F7EF"
+      - "200C0004 3E000000"
+
+  - name: "P1 Press R2+Down To Zoom In"
+    author: "Code Master"
+    notes: "[Full Camera Mode Codes (Needs Freeze Characters)]"
+    codes:
+      - "D1D75F42 0000FDBF"
+      - "200C000C BD000000"
+
+  - name: "P1 Press R2+Left To Decrease Z-Position"
+    author: "Code Master"
+    notes: "[Full Camera Mode Codes (Needs Freeze Characters)]"
+    codes:
+      - "D1D75F42 0000FD7F"
+      - "200C0008 BE000000"
+
+  - name: "P1 Press R2+Right To Increase Z-Position"
+    author: "Code Master"
+    notes: "[Full Camera Mode Codes (Needs Freeze Characters)]"
+    codes:
+      - "D1D75F42 0000FDDF"
+      - "200C0008 3E000000"
+
+  - name: "P1 Press R2+Up To Zoom Out"
+    author: "Code Master"
+    notes: "[Full Camera Mode Codes (Needs Freeze Characters)]"
+    codes:
+      - "D1D75F42 0000FDEF"
+      - "200C000C 3D000000"
+
+  - name: "Aigle"
+    author: "MadCatz"
+    notes: "[Gallery Codes]"
+    codes:
+      - "003DA88E 00000001"
+
+  - name: "Aisha"
+    author: "MadCatz"
+    notes: "[Gallery Codes]"
+    codes:
+      - "003DA898 00000001"
+
+  - name: "Anesthesia"
+    author: "MadCatz"
+    notes: "[Gallery Codes]"
+    codes:
+      - "003DA896 00000001"
+
+  - name: "Bloody Shadow"
+    author: "MadCatz"
+    notes: "[Gallery Codes]"
+    codes:
+      - "003DA88D 00000001"
+
+  - name: "Candy Cane"
+    author: "MadCatz"
+    notes: "[Gallery Codes]"
+    codes:
+      - "003DA893 00000001"
+
+  - name: "Complete Gallery"
+    author: "Codejunkies"
+    notes: "[Gallery Codes]"
+    codes:
+      - "103DA886 00000101"
+      - "403DA888 00040001"
+      - "01010101 00000000"
+      - "103DA898 00000101"
+
+  - name: "Dixie Clemets"
+    author: "MadCatz"
+    notes: "[Gallery Codes]"
+    codes:
+      - "003DA890 00000001"
+
+  - name: "Dr. Cutter"
+    author: "MadCatz"
+    notes: "[Gallery Codes]"
+    codes:
+      - "003DA897 00000001"
+
+  - name: "Evil Rose"
+    author: "MadCatz"
+    notes: "[Gallery Codes]"
+    codes:
+      - "003DA88B 00000001"
+
+  - name: "Judgment"
+    author: "MadCatz"
+    notes: "[Gallery Codes]"
+    codes:
+      - "003DA88C 00000001"
+
+  - name: "Makoto Aihara"
+    author: "MadCatz"
+    notes: "[Gallery Codes]"
+    codes:
+      - "003DA888 00000001"
+
+  - name: "Miss Spencer"
+    author: "MadCatz"
+    notes: "[Gallery Codes]"
+    codes:
+      - "003DA894 00000001"
+
+  - name: "Reiko Hinomoto"
+    author: "MadCatz"
+    notes: "[Gallery Codes]"
+    codes:
+      - "003DA886 00000001"
+
+  - name: "Sgt. Clemets"
+    author: "MadCatz"
+    notes: "[Gallery Codes]"
+    codes:
+      - "003DA891 00000001"
+
+  - name: "The Black Belt Demon"
+    author: "MadCatz"
+    notes: "[Gallery Codes]"
+    codes:
+      - "003DA889 00000001"
+
+  - name: "Must Be On"
+    author: "MadCatz"
+    codes:
+      - "90273234 0C048796"
+
+  - name: "Back Cheer 1"
+    author: "Code Master"
+    notes: "[P1 Hold L1, Then Press X For Character Codes [See Note]]"
+    codes:
+      - "003D7BC6 00000000"
+      - "D1D75F42 0000BBFF"
+      - "21D5548C 00000A28"
+
+  - name: "Back Cheer 2"
+    author: "Code Master"
+    notes: "[P1 Hold L1, Then Press X For Character Codes [See Note]]"
+    codes:
+      - "003D7BC6 00000000"
+      - "D1D75F42 0000BBFF"
+      - "21D5548C 00000A8C"
+
+  - name: "Back Dancer 1"
+    author: "Code Master"
+    notes: "[P1 Hold L1, Then Press X For Character Codes [See Note]]"
+    codes:
+      - "003D7BC6 00000000"
+      - "D1D75F42 0000BBFF"
+      - "21D5548C 00000898"
+
+  - name: "Back Dancer 2"
+    author: "Code Master"
+    notes: "[P1 Hold L1, Then Press X For Character Codes [See Note]]"
+    codes:
+      - "003D7BC6 00000000"
+      - "D1D75F42 0000BBFF"
+      - "21D5548C 000008FC"
+
+  - name: "Dance Par Teachers"
+    author: "Code Master"
+    notes: "[P1 Hold L1, Then Press X For Character Codes [See Note]]"
+    codes:
+      - "003D7BC6 00000000"
+      - "D1D75F42 0000BBFF"
+      - "21D5548C 000009C4"
+
+  - name: "Huge Character?"
+    author: "Code Master"
+    notes: "[P1 Hold L1, Then Press X For Character Codes [See Note]]"
+    codes:
+      - "003D7BC6 00000000"
+      - "D1D75F42 0000BBFF"
+      - "21D5548C 00000B54"
+
+  - name: "Invisible Character?"
+    author: "Code Master"
+    notes: "[P1 Hold L1, Then Press X For Character Codes [See Note]]"
+    codes:
+      - "003D7BC6 00000000"
+      - "D1D75F42 0000BBFF"
+      - "21D5548C 00000BB8"
+
+  - name: "Manager"
+    author: "Code Master"
+    notes: "[P1 Hold L1, Then Press X For Character Codes [See Note]]"
+    codes:
+      - "003D7BC6 00000000"
+      - "D1D75F42 0000BBFF"
+      - "21D5548C 00000960"
+
+  - name: "Tiny Character?"
+    author: "Code Master"
+    notes: "[P1 Hold L1, Then Press X For Character Codes [See Note]]"
+    codes:
+      - "003D7BC6 00000000"
+      - "D1D75F42 0000BBFF"
+      - "21D5548C 00000AF0"
+
+  - name: "Infinite Lethal Move"
+    author: "MadCatz"
+    notes: "[Player 1]"
+    codes:
+      - "216D6EF4 00000064"
+
+  - name: "Max Lethal Move Counter"
+    author: "MadCatz"
+    notes: "[Player 1]"
+    codes:
+      - "216D6EEC 00000005"
+
+  - name: "No Lethal Move"
+    author: "MadCatz"
+    notes: "[Player 1]"
+    codes:
+      - "216D6EF4 00000000"
+
+  - name: "No Lethal Move Counter"
+    author: "MadCatz"
+    notes: "[Player 1]"
+    codes:
+      - "216D6EEC 00000000"
+
+  - name: "Humiliation Gauge Empty"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "216D6FCC 3F800000"
+
+  - name: "Humiliation Gauge Full"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "216D6FC8 00000019"
+      - "216D6FCC 41A00000"
+      - "216D6FD0 000004CF"
+
+  - name: "Infinite Lethal/Killer Moves"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "216D6EEC 00000002"
+
+  - name: "Lethal Move Counter Always Full"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "216D6EF4 00000063"
+
+  - name: "Enable All Costumes"
+    author: "Codejunkies"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "403DA8A0 00050001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Entrance Modifier"
+    author: "BigBossman"
+    notes: "[Rule Modifiers]"
+    codes:
+      - "003D7BC6 000000??"
+
+  - name: "Humiliation Finish Only Modifier"
+    author: "BigBossman"
+    notes: "[Rule Modifiers]"
+    codes:
+      - "003D7BCB 000000??"
+
+  - name: "Pinfalls Modifier"
+    author: "BigBossman"
+    notes: "[Rule Modifiers]"
+    codes:
+      - "003D7BA1 000000??"
+
+  - name: "Ring Out Modifier"
+    author: "BigBossman"
+    notes: "[Rule Modifiers]"
+    codes:
+      - "003D7BA4 000000??"
+
+  - name: "Time Limit Modifier"
+    author: "BigBossman"
+    notes: "[Rule Modifiers]"
+    codes:
+      - "003D7BA8 000000??"
+
+  - name: "P1 Press L3+Left To Rotate Left Slower"
+    author: "Code Master"
+    notes: "[Scaling & Rotation Codes (L3+R3 To Reset)]"
+    codes:
+      - "D1D75F42 0000FF7D"
+      - "200C0014 BA800000"
+
+  - name: "P1 Press L3+Right To Rotate Right Slower"
+    author: "Code Master"
+    notes: "[Scaling & Rotation Codes (L3+R3 To Reset)]"
+    codes:
+      - "D1D75F42 0000FFDD"
+      - "200C0014 3A800000"
+
+  - name: "P1 Press L3+Up To Scale Up Slower"
+    author: "Code Master"
+    notes: "[Scaling & Rotation Codes (L3+R3 To Reset)]"
+    codes:
+      - "D1D75F42 0000FFED"
+      - "200C0010 3A800000"
+
+  - name: "P1 Press R3+Down To Scale Down"
+    author: "Code Master"
+    notes: "[Scaling & Rotation Codes (L3+R3 To Reset)]"
+    codes:
+      - "D1D75F42 0000FFBB"
+      - "200C0010 BB800000"
+
+  - name: "P1 Press R3+Down To Scale Down Slower"
+    author: "Code Master"
+    notes: "[Scaling & Rotation Codes (L3+R3 To Reset)]"
+    codes:
+      - "D1D75F42 0000FFBD"
+      - "200C0010 BA800000"
+
+  - name: "P1 Press R3+Left To Rotate Left"
+    author: "Code Master"
+    notes: "[Scaling & Rotation Codes (L3+R3 To Reset)]"
+    codes:
+      - "D1D75F42 0000FF7B"
+      - "200C0014 BB800000"
+
+  - name: "P1 Press R3+Right To Rotate Right"
+    author: "Code Master"
+    notes: "[Scaling & Rotation Codes (L3+R3 To Reset)]"
+    codes:
+      - "D1D75F42 0000FFDB"
+      - "200C0014 3B800000"
+
+  - name: "P1 Press R3+Up To Scale Up"
+    author: "Code Master"
+    notes: "[Scaling & Rotation Codes (L3+R3 To Reset)]"
+    codes:
+      - "D1D75F42 0000FFEB"
+      - "200C0010 3B800000"
+
+  - name: "Back Stage"
+    author: "Code Master"
+    notes: "[Stage Modifier Codes [See Note]]"
+    codes:
+      - "003D7CE0 0000000A"
+
+  - name: "Back Stage 2"
+    author: "Code Master"
+    notes: "[Stage Modifier Codes [See Note]]"
+    codes:
+      - "003D7CE0 0000000B"
+
+  - name: "Beach Stage"
+    author: "Code Master"
+    notes: "[Stage Modifier Codes [See Note]]"
+    codes:
+      - "003D7CE0 0000000D"
+
+  - name: "Beach-Ring 1"
+    author: "Code Master"
+    notes: "[Stage Modifier Codes [See Note]]"
+    codes:
+      - "003D7CE0 00000003"
+
+  - name: "Exhibition-Ring 1"
+    author: "Code Master"
+    notes: "[Stage Modifier Codes [See Note]]"
+    codes:
+      - "003D7CE0 00000000"
+
+  - name: "Exhibition-Ring 2"
+    author: "Code Master"
+    notes: "[Stage Modifier Codes [See Note]]"
+    codes:
+      - "003D7CE0 00000001"
+
+  - name: "Exhibition-Ring 3"
+    author: "Code Master"
+    notes: "[Stage Modifier Codes [See Note]]"
+    codes:
+      - "003D7CE0 00000002"
+
+  - name: "Mad Mud-Stage"
+    author: "Code Master"
+    notes: "[Stage Modifier Codes [See Note]]"
+    codes:
+      - "003D7CE0 00000009"
+
+  - name: "Warehouse Stage"
+    author: "Code Master"
+    notes: "[Stage Modifier Codes [See Note]]"
+    codes:
+      - "003D7CE0 0000000C"
+
+  - name: "Always Max Humilation P1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "216D6FC8 0000000A"
+      - "216D6FCC 41C80000"
+      - "216D6FD0 000003E7"
+
+  - name: "Always Max Humilation P2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2156AFC8 0000000A"
+      - "2156AFCC 41C80000"
+      - "2156AFD0 000003E7"
+
+  - name: "Always No Humiliation P1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "216D6FC8 00000000"
+      - "216D6FCC 00000000"
+      - "216D6FD0 00000000"
+
+  - name: "Always No Humiliation P2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2156AFC8 00000000"
+      - "2156AFCC 00000000"
+      - "2156AFD0 00000000"
+
+  - name: "Can Use All Costumes In Mad Mud Match"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "C15BB201 3725D908"
+
+  - name: "Disable Health Bars"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2029EEA0 03E00008"
+      - "2029EEA4 00000000"
+
+  - name: "Disable HUD"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2029E560 03E00008"
+      - "2029E564 00000000"
+
+  - name: "Disable Pinfall Victories"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201C449C 00000000"
+
+  - name: "Disable Shadows"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201F1048 00000000"
+
+  - name: "First Player To Do A Submission/Humilation Wins"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2022DD78 00000000"
+
+  - name: "Gallery Camera Can Zoom More"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "10304A36 00001000"
+      - "20304A54 00000000"
+
+  - name: "Idiot AI"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202DE260 03E00008"
+      - "202DE264 00000000"
+
+  - name: "Infinite Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20382944 00000000"
+
+  - name: "Infinite Time To Break Submission/Humilation"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2022DDE4 00000000"
+
+  - name: "P1 Press L1+L2 To Disable HUD"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 01D75F42"
+      - "2029E560 03E00008"
+      - "2029E564 00000000"
+
+  - name: "P1 Press L1+R1 To Freeze Characters"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1D75F42 0000F3FF"
+      - "203829A0 00000001"
+
+  - name: "P1 Press L1+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1D75F42 0000FBFE"
+      - "201C3994 00000000"
+
+  - name: "P1 Press L2+R2 To Unfreeze Characters"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1D75F42 0000FCFF"
+      - "203829A0 00000000"
+
+  - name: "P1 Press L2+Select To Restart Timer"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1D75F42 0000FEFE"
+      - "201C3994 AF8384D4"
+
+  - name: "P1 Press R1+R2 To Re-Enable HUD"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 01D75F42"
+      - "2029E560 27BDFE40"
+      - "2029E564 FFBF0090"
+
+  - name: "P1 Press R1+Select To Reset Pin Count To Zero"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1D75F42 0000F7FE"
+      - "201C4498 24030000"
+      - "D1D75F42 0000FFFF"
+      - "201C4498 24630001"
+
+  - name: "P1 Press R2+Select To For 3-Count"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D1D75F42 0000FDFE"
+      - "201C4498 240300FF"
+      - "D1D75F42 0000FFFF"
+      - "201C4498 24630001"
+
+  - name: "Stop Timer"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201C3994 00000000"
+
+  - name: "Unlock All Costumes"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "403DA8A0 00070001"
+      - "FFFFFFFF 00000000"
+
+  - name: "All Exhibition Mode Characters"
+    author: "Code Master"
+    notes: "[Unlock Exhibition Mode Character Codes]"
+    codes:
+      - "403DA86C 00050001"
+      - "01010101 00000000"
+      - "103DA880 00000101"
+
+  - name: "All Story Mode Characters"
+    author: "Code Master"
+    notes: "[Unlock Story Mode Character Codes]"
+    codes:
+      - "103DA852 00000101"
+      - "403DA854 00040001"
+      - "01010101 00000000"
+      - "103DA864 00000101"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90121E08 00832021"
+
+  - name: "Infinite Lethal Moves P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "216D6EEC 00000005"
+
+  - name: "No Lethal Moves P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "216D6EEC 00000000"
+
+  - name: "Always Full Lethal Move Indicator P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "216D6EF4 00000064"
+
+  - name: "Always Empty Lethal Move Indicator P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "216D6EF4 00000000"
+
+  - name: "Infinite Lethal Moves P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2156AEEC 00000005"
+
+  - name: "No Lethal Moves P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2156AEEC 00000000"
+
+  - name: "Always Full Lethal Move Indicator P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2156AEF4 00000064"
+
+  - name: "Always Empty Lethal Move Indicator P2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2156AEF4 00000000"
+
+  - name: "All Gallery"
+    author: "Code Master"
+    notes: "[Unlock Gallery Codes]"
+    codes:
+      - "103DA886 00000101"
+      - "403DA888 00040001"
+      - "01010101 00000000"
+      - "103DA898 00000101"

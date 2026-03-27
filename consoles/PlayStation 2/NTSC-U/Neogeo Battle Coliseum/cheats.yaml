@@ -1,0 +1,24 @@
+# Neogeo Battle Coliseum cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21708
+
+game: "Neogeo Battle Coliseum"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21708"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90109258 0C04243E"
+
+  - name: "Unlock All Gallery"
+    author: "punk7890"
+    codes:
+      - "403928C0 00200001"
+      - "FFFFFFFF 00000000"

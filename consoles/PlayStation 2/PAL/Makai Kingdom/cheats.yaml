@@ -1,0 +1,29 @@
+# Makai Kingdom cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Makai Kingdom"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9012D120 0C046382"
+
+  - name: "Bonus Points (Character Creation)"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "102A6B08 0000270F"
+
+  - name: "Gold"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "102E3750 0000270F"

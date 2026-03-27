@@ -1,0 +1,32 @@
+# La-Mulana Ex (EUR) cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00694
+
+game: "La-Mulana Ex (EUR)"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00694"
+cheat_type: "Save Editor"
+source: "Credits: Slade"
+
+cheats:
+  - name: "Max Health"
+    notes: "File: save/lm_00.sav"
+    codes:
+      - "1000000D 0000E703"
+
+  - name: "999 Coins"
+    notes: "File: save/lm_00.sav"
+    codes:
+      - "100010E5 0000E703"
+
+  - name: "100 Weights"
+    notes: "File: save/lm_00.sav"
+    codes:
+      - "000010E4 00000064"
+
+  - name: "6 Pistol Ammo"
+    notes: "File: save/lm_00.sav"
+    codes:
+      - "000010FA 00000006"

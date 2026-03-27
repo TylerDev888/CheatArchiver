@@ -1,0 +1,48 @@
+# Naval Ops - Warship Gunner cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51893
+
+game: "Naval Ops - Warship Gunner"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51893"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0163820 00163823"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "20316CFC 00000000"
+
+  - name: "Infinite Repair Points"
+    author: "Codejunkies"
+    codes:
+      - "202CA2B4 00000000"
+
+  - name: "Instant Reload"
+    author: "Codejunkies"
+    codes:
+      - "20329980 2412270F"
+      - "20329984 A612000E"
+
+  - name: "No Hull Damage"
+    author: "Codejunkies"
+    codes:
+      - "20297880 0803FFC0"
+      - "200FFF00 2412270F"
+      - "200FFF04 AC520054"
+      - "200FFF08 080A5E22"
+
+  - name: "Upgrade 1 Tech/Purchase 1 Item For Lots Of Budget"
+    author: "Codejunkies"
+    codes:
+      - "20275128 3C0505F5"
+      - "20275134 3C0505F5"

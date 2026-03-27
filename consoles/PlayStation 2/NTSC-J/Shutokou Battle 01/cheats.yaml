@@ -1,0 +1,29 @@
+# Shutokou Battle 01 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65308
+
+game: "Shutokou Battle 01"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65308"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "Karat Corporation"
+    notes: "[Master Codes]"
+    codes:
+      - "9014B698 0C04ADFA"
+
+  - name: "Master Code"
+    author: "Karat Corporation"
+    notes: "[Master Codes]"
+    codes:
+      - "F01000A4 0014B69B"
+
+  - name: "CP MAX"
+    author: "Karat Corporation"
+    codes:
+      - "20815B30 0098967F"

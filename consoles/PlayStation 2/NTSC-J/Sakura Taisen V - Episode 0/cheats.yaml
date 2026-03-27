@@ -1,0 +1,41 @@
+# Sakura Taisen V - Episode 0 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65531
+
+game: "Sakura Taisen V - Episode 0"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65531"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9029F350 0C0A7C7C"
+
+  - name: "Hold X To Levitate"
+    author: "punk7890"
+    codes:
+      - "D02EDA02 0000BFFF"
+      - "206532B0 3D000000"
+
+  - name: "Infinite Max Health"
+    author: "punk7890"
+    codes:
+      - "1064159A 000003E7"
+      - "1064159C 000003E7"
+
+  - name: "Infinite Special Attack"
+    author: "punk7890"
+    codes:
+      - "80E8B89B 489B1C89"
+
+  - name: "Max Crush"
+    author: "punk7890"
+    codes:
+      - "102CDE26 000003E7"
+      - "102CDE28 000003E7"

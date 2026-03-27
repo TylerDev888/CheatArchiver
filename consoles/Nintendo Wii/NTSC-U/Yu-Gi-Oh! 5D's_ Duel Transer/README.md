@@ -1,0 +1,48 @@
+# Yu-Gi-Oh! 5D's_ Duel Transer
+
+**Console:** Nintendo Wii  
+**Region:** NTSC-U  
+**Serial:** R8DEA4  
+**Cheat Type:** Gecko  
+
+---
+
+## Cheats
+
+### Have All Cards ..
+**Author:** Skiller
+
+```
+005715F3 00000009
+085715F4 00090009
+28D40004 00000000
+00573949 00000009
+```
+
+---
+
+### Have No Cards
+**Author:** Skiller
+
+```
+005715F3 00000000
+085715F4 00000000
+28D40004 00000000
+00573949 00000000
+```
+
+---
+
+### Deck Name (s Master Deck)
+**Author:** Skiller
+
+```
+06571588 00000027
+0053006B 0069006C
+006C0065 00720073
+0020004D 00610073
+00740065 00720020
+00440065 0063006B
+```
+
+---

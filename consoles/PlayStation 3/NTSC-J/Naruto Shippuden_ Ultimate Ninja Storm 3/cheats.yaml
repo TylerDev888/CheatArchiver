@@ -1,0 +1,50 @@
+# Naruto Shippuden_ Ultimate Ninja Storm 3 cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLAS50577
+
+game: "Naruto Shippuden_ Ultimate Ninja Storm 3"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLAS50577"
+cheat_type: "Save Editor"
+source: "From KE-HA"
+
+cheats:
+  - name: "Ryo 999999999"
+    notes: "File: STORM3.S"
+    codes:
+      - "20000130 3B9AC9FF"
+
+  - name: "Hero Points 999999"
+    notes: "File: STORM3.S"
+    codes:
+      - "20019E94 0098967F"
+
+  - name: "Legend Points 999999"
+    notes: "File: STORM3.S"
+    codes:
+      - "20019E98 0098967F"
+
+  - name: "Item All 99"
+    notes: "File: STORM3.S"
+    codes:
+      - "41005CAA 00000063"
+      - "41450008 00000000"
+
+  - name: "Max Ryo"
+    notes: "File: STORM3.S"
+    codes:
+      - "2001C818 0098967F"
+      - "20000130 0098967F"
+
+  - name: "Max All Items"
+    notes: "File: STORM3.S"
+    codes:
+      - "42005CA8 00000063"
+      - "41460008 00000000"
+
+  - name: "Reset Game Time"
+    notes: "File: STORM3.S"
+    codes:
+      - "2000012C 00000000"

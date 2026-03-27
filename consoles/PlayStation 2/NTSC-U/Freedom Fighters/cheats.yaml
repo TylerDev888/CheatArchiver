@@ -1,0 +1,117 @@
+# Freedom Fighters cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20723
+
+game: "Freedom Fighters"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20723"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00103D8F"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90103D8C 0C043D84"
+
+  - name: "Blind Mode On (Invisible To Enemies)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "2053DBB8 3F800000"
+
+  - name: "God Mode On (Infinite Health)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "205403F8 3F800000"
+
+  - name: "Infinite Ammo"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "202F11A4 00000000"
+
+  - name: "Extra Ammo"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "202EDD4C 02903021"
+
+  - name: "Never Reload"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "2030415C 00000000"
+
+  - name: "P1 Press L1+Up To Have Items+Rifle"
+    author: "Code Master"
+    notes: "[Activate In-Game Cheat Codes [Note 2]]"
+    codes:
+      - "D04C3D82 0000FBEF"
+      - "20190654 00000000"
+      - "D04C3D82 0010FBEF"
+      - "20190654 10400016"
+
+  - name: "P1 Press L1+Right To Have Items+Sniper"
+    author: "Code Master"
+    notes: "[Activate In-Game Cheat Codes [Note 2]]"
+    codes:
+      - "D04C3D82 0000FBDF"
+      - "201906CC 00000000"
+      - "D04C3D82 0010FBDF"
+      - "201906CC 10400016"
+
+  - name: "P1 Press L1+Down To Have Items+Hgun"
+    author: "Code Master"
+    notes: "[Activate In-Game Cheat Codes [Note 2]]"
+    codes:
+      - "D04C3D82 0000FBBF"
+      - "20190744 00000000"
+      - "D04C3D82 0010FBBF"
+      - "20190744 10400016"
+
+  - name: "P1 Press L1+Left To Have Items+Rocket"
+    author: "Code Master"
+    notes: "[Activate In-Game Cheat Codes [Note 2]]"
+    codes:
+      - "D04C3D82 0000FB7F"
+      - "201907BC 00000000"
+      - "D04C3D82 0010FB7F"
+      - "201907BC 10400016"
+
+  - name: "P1 Press L1+L3 To Have Items+Shotgun"
+    author: "Code Master"
+    notes: "[Activate In-Game Cheat Codes [Note 2]]"
+    codes:
+      - "D04C3D82 0000FBFD"
+      - "20190834 00000000"
+      - "D04C3D82 0010FBFD"
+      - "20190834 10400016"
+
+  - name: "P1 Press L2+Up For Infinite Ammo"
+    author: "Code Master"
+    notes: "[Activate In-Game Cheat Codes [Note 2]]"
+    codes:
+      - "D04C3D82 0000FEEF"
+      - "20190B04 00000000"
+      - "D04C3D82 0010FEEF"
+      - "20190B04 10400015"
+
+  - name: "P1 Press L2+Right For Full Charisma"
+    author: "Code Master"
+    notes: "[Activate In-Game Cheat Codes [Note 2]]"
+    codes:
+      - "D04C3D82 0000FEDF"
+      - "20190B78 00000000"
+      - "D04C3D82 0010FEDF"
+      - "20190B78 10400015"

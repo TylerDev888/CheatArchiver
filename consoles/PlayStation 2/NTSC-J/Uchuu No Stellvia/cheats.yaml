@@ -1,0 +1,57 @@
+# Uchuu No Stellvia cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25294
+
+game: "Uchuu No Stellvia"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25294"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Master Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9016DE38 0C05B736"
+
+  - name: "Debug Scene Select Menu"
+    author: "punk7890"
+    notes: "[Miscellaneous]"
+    codes:
+      - "201E8064 24020004"
+      - "001E806A 00000022"
+
+  - name: "Unlock All Cards"
+    author: "punk7890"
+    notes: "[Miscellaneous]"
+    codes:
+      - "407B8D90 00230001"
+      - "01010101 00000000"
+      - "107B8E1C 00000101"
+
+  - name: "Unlock All Gallery"
+    author: "punk7890"
+    notes: "[Miscellaneous]"
+    codes:
+      - "007B8E73 00000001"
+      - "407B8E74 00200001"
+      - "01010101 00000000"
+
+  - name: "Unlock All Movies"
+    author: "punk7890"
+    notes: "[Miscellaneous]"
+    codes:
+      - "107B8E1E 00000101"
+      - "407B8E20 00140001"
+      - "01010101 00000000"
+      - "107B8E70 00000101"
+      - "007B8E72 00000001"
+
+  - name: "Unlock Voice Previewer & Simulator Room"
+    author: "punk7890"
+    notes: "[Miscellaneous]"
+    codes:
+      - "107B8F0C 0000FFFF"

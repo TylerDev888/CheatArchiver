@@ -1,0 +1,43 @@
+# Master Rally cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50906
+
+game: "Master Rally"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50906"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F03CA4BC 003CA4BF"
+
+  - name: "Disable Engine Damage"
+    author: "Codejunkies"
+    codes:
+      - "201411AC AE200018"
+
+  - name: "Disable Gear Damage"
+    author: "Codejunkies"
+    codes:
+      - "20141224 AE200020"
+
+  - name: "Disable Steering Damage"
+    author: "Codejunkies"
+    codes:
+      - "20141170 AE200014"
+
+  - name: "Disable Suspension Damage"
+    author: "Codejunkies"
+    codes:
+      - "201411E8 AE20001C"
+
+  - name: "Disable Tyres Damage"
+    author: "Codejunkies"
+    codes:
+      - "20141260 AE200024"

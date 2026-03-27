@@ -1,0 +1,135 @@
+# X-Men-Legends cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20656
+
+game: "X-Men-Legends"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20656"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0011838F"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204D540C E480023C"
+
+  - name: "Infinite Energy"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203CEE3C E4810244"
+
+  - name: "Infinite All Health Packs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20389F98 00000000"
+
+  - name: "Max All Health Packs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20389F98 24030063"
+      - "20389F9C A243001C"
+
+  - name: "Infinite Health Packs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "0079A130 00000063"
+
+  - name: "Infinite Energy Packs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "0079A154 00000063"
+
+  - name: "Max Tech Bits"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2079A5A0 000F423F"
+
+  - name: "P1 Press L1+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0C92D42 0000FBFE"
+      - "201414C8 00000000"
+
+  - name: "P1 Press L2+Select To Restart Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0C92D42 0000FEFE"
+      - "201414C8 E61405D8"
+
+  - name: "Max Credits (Danger Room)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20716AA8 0000270F"
+
+  - name: "Quick EXP Gain"
+    author: "Code Master"
+    notes: "[Beast Codes]"
+    codes:
+      - "11031B48 0000FFFF"
+
+  - name: "Max EXP"
+    author: "Code Master"
+    notes: "[Beast Codes]"
+    codes:
+      - "21031B48 05F5E0FF"
+
+  - name: "Level 99"
+    author: "Code Master"
+    notes: "[Beast Codes]"
+    codes:
+      - "01031B50 00000063"
+
+  - name: "Max Strike"
+    author: "Code Master"
+    notes: "[Beast Codes]"
+    codes:
+      - "01031B53 00000063"
+
+  - name: "Max Agility"
+    author: "Code Master"
+    notes: "[Beast Codes]"
+    codes:
+      - "01031B54 00000063"
+
+  - name: "Max Body"
+    author: "Code Master"
+    notes: "[Beast Codes]"
+    codes:
+      - "01031B55 00000063"
+
+  - name: "Max Focus"
+    author: "Code Master"
+    notes: "[Beast Codes]"
+    codes:
+      - "01031B56 00000063"
+
+  - name: "Infinite Skill Points"
+    author: "Code Master"
+    notes: "[Beast Codes]"
+    codes:
+      - "01031B63 00000063"
+
+  - name: "Infinite Stat Points"
+    author: "Code Master"
+    notes: "[Beast Codes]"
+    codes:
+      - "01031B64 00000063"

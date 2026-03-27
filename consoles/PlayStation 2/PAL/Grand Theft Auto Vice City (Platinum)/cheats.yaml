@@ -1,0 +1,783 @@
+# Grand Theft Auto Vice City (Platinum) cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Grand Theft Auto Vice City (Platinum)"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90121FE4 0C041C64"
+      - "200C0000 0C096F24"
+      - "200C0004 00000000"
+      - "200C0008 27BDFFE0"
+      - "200C000C AFA4001C"
+      - "200C0010 AFA50018"
+      - "200C0014 AFA30014"
+      - "200C0018 3C04005C"
+      - "200C001C 34841880"
+      - "200C0020 9081007A"
+      - "200C0024 24030031"
+      - "200C0028 1423000A"
+      - "200C002C 90810079"
+      - "200C0030 24030032"
+      - "200C0034 14230007"
+      - "200C0038 24030020"
+      - "200C003C A0830079"
+      - "200C0040 00000000"
+      - "200C0044 00000000"
+      - "200C0048 24050044"
+      - "200C004C 00000000"
+      - "200C0050 00000000"
+      - "200C0054 0C0A2A03"
+      - "200C0058 24050001"
+      - "200C005C 8C440610"
+      - "200C0060 00000000"
+      - "200C0064 00000000"
+      - "200C0068 00000000"
+      - "200C006C 8FA4001C"
+      - "200C0070 8FA50018"
+      - "200C0074 8FA30014"
+      - "200C0078 0809C040"
+      - "200C007C 27BD0020"
+      - "202700F8 08030000"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "402D2F0C 00040001"
+      - "00000000 00000000"
+      - "202D2F1C 3C0142C8"
+      - "202D2F20 AC410368"
+
+  - name: "Armor"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "202D30F0 3C0142C8"
+      - "202D30F4 AC41036C"
+
+  - name: "Ammunition"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20158668 14009DE5"
+      - "2015866C 24020063"
+      - "201586D8 24020063"
+
+  - name: "Mission Time"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "202BA8C8 00000000"
+
+  - name: "Run Ability"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "005C84FC 00000001"
+
+  - name: "10,000,000 Cash"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "205C845C 00989680"
+
+  - name: "Vehicles Take No Damage"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2016F4A0 03E00008"
+      - "2016F4A4 00000000"
+      - "20186300 03E00008"
+      - "20186304 00000000"
+
+  - name: "Wanted Level 0"
+    author: "Xploder"
+    notes: "[Always]"
+    codes:
+      - "200C0060 0C0A7BA8"
+      - "200C0064 24050000"
+
+  - name: "Wanted Level 1"
+    author: "Xploder"
+    notes: "[Always]"
+    codes:
+      - "200C0060 0C0A7BA8"
+      - "200C0064 24050001"
+
+  - name: "Wanted Level 2"
+    author: "Xploder"
+    notes: "[Always]"
+    codes:
+      - "200C0060 0C0A7BA8"
+      - "200C0064 24050002"
+
+  - name: "Wanted Level 3"
+    author: "Xploder"
+    notes: "[Always]"
+    codes:
+      - "200C0060 0C0A7BA8"
+      - "200C0064 24050003"
+
+  - name: "Wanted Level 4"
+    author: "Xploder"
+    notes: "[Always]"
+    codes:
+      - "200C0060 0C0A7BA8"
+      - "200C0064 24050004"
+
+  - name: "Sunny"
+    author: "Xploder"
+    notes: "[Weather]"
+    codes:
+      - "204B1F2C 00000000"
+      - "204B1F30 00000000"
+
+  - name: "Overcast"
+    author: "Xploder"
+    notes: "[Weather]"
+    codes:
+      - "204B1F2C 00000001"
+      - "204B1F30 00000001"
+
+  - name: "Rainy"
+    author: "Xploder"
+    notes: "[Weather]"
+    codes:
+      - "204B1F2C 00000002"
+      - "204B1F30 00000002"
+
+  - name: "Foggy"
+    author: "Xploder"
+    notes: "[Weather]"
+    codes:
+      - "204B1F2C 00000003"
+      - "204B1F30 00000003"
+
+  - name: "Standard"
+    author: "Xploder"
+    notes: "[Weather]"
+    codes:
+      - "204B1F2C 00000004"
+      - "204B1F30 00000004"
+
+  - name: "4X Game Speed"
+    author: "Xploder"
+    notes: "[Game Speed]"
+    codes:
+      - "204B1B58 40800000"
+
+  - name: "2X Game Speed"
+    author: "Xploder"
+    notes: "[Game Speed]"
+    codes:
+      - "204B1B58 40000000"
+
+  - name: "Half Game Speed"
+    author: "Xploder"
+    notes: "[Game Speed]"
+    codes:
+      - "204B1B58 3F000000"
+
+  - name: "Quarter Game Speed"
+    author: "Xploder"
+    notes: "[Game Speed]"
+    codes:
+      - "204B1B58 3E800000"
+
+  - name: "Landstalker"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 20040082"
+      - "200C0044 0C09E798"
+
+  - name: "Idaho"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 20040083"
+      - "200C0044 0C09E798"
+
+  - name: "Stinger"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 20040084"
+      - "200C0044 0C09E798"
+
+  - name: "Linerunner"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 20040085"
+      - "200C0044 0C09E798"
+
+  - name: "Perennial"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 20040086"
+      - "200C0044 0C09E798"
+
+  - name: "Sentinel"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 20040087"
+      - "200C0044 0C09E798"
+
+  - name: "Patroit"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 20040088"
+      - "200C0044 0C09E798"
+
+  - name: "Firetruck"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 20040089"
+      - "200C0044 0C09E798"
+
+  - name: "Trashmaster"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 2004008A"
+      - "200C0044 0C09E798"
+
+  - name: "Stretch"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 2004008B"
+      - "200C0044 0C09E798"
+
+  - name: "Manana"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 2004008C"
+      - "200C0044 0C09E798"
+
+  - name: "Infernus"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 2004008D"
+      - "200C0044 0C09E798"
+
+  - name: "Voodoo"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 2004008E"
+      - "200C0044 0C09E798"
+
+  - name: "Pony"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 2004008F"
+      - "200C0044 0C09E798"
+
+  - name: "Mule"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 20040090"
+      - "200C0044 0C09E798"
+
+  - name: "Cheetah"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 20040091"
+      - "200C0044 0C09E798"
+
+  - name: "Ambulance"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 20040092"
+      - "200C0044 0C09E798"
+
+  - name: "FBI Washington"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 20040093"
+      - "200C0044 0C09E798"
+
+  - name: "Moonbeam"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 20040094"
+      - "200C0044 0C09E798"
+
+  - name: "Esperanto"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 20040095"
+      - "200C0044 0C09E798"
+
+  - name: "Taxi"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 20040096"
+      - "200C0044 0C09E798"
+
+  - name: "Washington"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 20040097"
+      - "200C0044 0C09E798"
+
+  - name: "Bobcat"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 20040098"
+      - "200C0044 0C09E798"
+
+  - name: "Mr.Whoopee"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 20040099"
+      - "200C0044 0C09E798"
+
+  - name: "BF Injection"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 2004009A"
+      - "200C0044 0C09E798"
+
+  - name: "Hunter"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 2004009B"
+      - "200C0044 0C09E798"
+
+  - name: "Police"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 2004009C"
+      - "200C0044 0C09E798"
+
+  - name: "Enforcer"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 2004009D"
+      - "200C0044 0C09E798"
+
+  - name: "Securica"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 2004009E"
+      - "200C0044 0C09E798"
+
+  - name: "Banshee"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 2004009F"
+      - "200C0044 0C09E798"
+
+  - name: "Bus"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400A1"
+      - "200C0044 0C09E798"
+
+  - name: "Rhino"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400A2"
+      - "200C0044 0C09E798"
+
+  - name: "Barracks"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400A3"
+      - "200C0044 0C09E798"
+
+  - name: "Cuban Hermes"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400A4"
+      - "200C0044 0C09E798"
+
+  - name: "Coach"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400A7"
+      - "200C0044 0C09E798"
+
+  - name: "Cabbie"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400A8"
+      - "200C0044 0C09E798"
+
+  - name: "Stallion"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400A9"
+      - "200C0044 0C09E798"
+
+  - name: "Rumpo"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400AA"
+      - "200C0044 0C09E798"
+
+  - name: "Romeros Hearse"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400AC"
+      - "200C0044 0C09E798"
+
+  - name: "Sentinel XS"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400AE"
+      - "200C0044 0C09E798"
+
+  - name: "Admiral"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400AF"
+      - "200C0044 0C09E798"
+
+  - name: "Sea Sparrow"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400B1"
+      - "200C0044 0C09E798"
+
+  - name: "Gang Burrito"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400B3"
+      - "200C0044 0C09E798"
+
+  - name: "Flatbed"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400B9"
+      - "200C0044 0C09E798"
+
+  - name: "Yankee"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400BA"
+      - "200C0044 0C09E798"
+
+  - name: "Caddy"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400BB"
+      - "200C0044 0C09E798"
+
+  - name: "Zerba Cab"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400BC"
+      - "200C0044 0C09E798"
+
+  - name: "Top Fun"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400BD"
+      - "200C0044 0C09E798"
+
+  - name: "Sea Plane"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400BE"
+      - "200C0044 0C09E798"
+
+  - name: "Glendale"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400C4"
+      - "200C0044 0C09E798"
+
+  - name: "Oceanic"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400C5"
+      - "200C0044 0C09E798"
+
+  - name: "Sparrow"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400C7"
+      - "200C0044 0C09E798"
+
+  - name: "Patriot"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400C8"
+      - "200C0044 0C09E798"
+
+  - name: "Love Fist"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400C9"
+      - "200C0044 0C09E798"
+
+  - name: "Hermes"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400CC"
+      - "200C0044 0C09E798"
+
+  - name: "Sabre"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400CD"
+      - "200C0044 0C09E798"
+
+  - name: "Sabre Turbo"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400CE"
+      - "200C0044 0C09E798"
+
+  - name: "Pheonix"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400CF"
+      - "200C0044 0C09E798"
+
+  - name: "Walton"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400D0"
+      - "200C0044 0C09E798"
+
+  - name: "Regina"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400D1"
+      - "200C0044 0C09E798"
+
+  - name: "Comet"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400D2"
+      - "200C0044 0C09E798"
+
+  - name: "Deluxo"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400D3"
+      - "200C0044 0C09E798"
+
+  - name: "Burrito"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400D4"
+      - "200C0044 0C09E798"
+
+  - name: "Spand Express"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400D5"
+      - "200C0044 0C09E798"
+
+  - name: "Baggage Handler"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400D7"
+      - "200C0044 0C09E798"
+
+  - name: "Kaufman Cab"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400D8"
+      - "200C0044 0C09E798"
+
+  - name: "Maverick"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400D9"
+      - "200C0044 0C09E798"
+
+  - name: "VCN Maverick"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400DA"
+      - "200C0044 0C09E798"
+
+  - name: "Rancher"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400DB"
+      - "200C0044 0C09E798"
+
+  - name: "FBI Rancher"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400DC"
+      - "200C0044 0C09E798"
+
+  - name: "Virgo"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400DD"
+      - "200C0044 0C09E798"
+
+  - name: "Greenwood"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400DE"
+      - "200C0044 0C09E798"
+
+  - name: "Hotring Racer 1"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400E0"
+      - "200C0044 0C09E798"
+
+  - name: "Sandking"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400E1"
+      - "200C0044 0C09E798"
+
+  - name: "Blister Compact"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400E2"
+      - "200C0044 0C09E798"
+
+  - name: "Police Maverick"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400E3"
+      - "200C0044 0C09E798"
+
+  - name: "Boxville"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400E4"
+      - "200C0044 0C09E798"
+
+  - name: "Benson"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400E5"
+      - "200C0044 0C09E798"
+
+  - name: "Mesa Grande"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400E6"
+      - "200C0044 0C09E798"
+
+  - name: "Hotring Racer 2"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400E8"
+      - "200C0044 0C09E798"
+
+  - name: "Hotring Racer 3"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400E9"
+      - "200C0044 0C09E798"
+
+  - name: "Bloodring Banger 1"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400EA"
+      - "200C0044 0C09E798"
+
+  - name: "Bloodring Banger 2"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400EB"
+      - "200C0044 0C09E798"
+
+  - name: "Cheetah 2"
+    author: "Xploder"
+    notes: "[Have Any Vehicle]"
+    codes:
+      - "200C0040 200400EC"
+      - "200C0044 0C09E798"

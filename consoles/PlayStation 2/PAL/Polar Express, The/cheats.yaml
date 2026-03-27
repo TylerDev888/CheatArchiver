@@ -1,0 +1,47 @@
+# Polar Express, The cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52685
+
+game: "Polar Express, The"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52685"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Each Coin Adds An Attempt"
+    author: "luc-ita"
+    codes:
+      - "2012A454 24070001"
+      - "2012A4C4 00000000"
+
+  - name: "Go Through Objects And Walls"
+    author: "luc-ita"
+    codes:
+      - "D090CA9C 00008200"
+      - "20277C48 1040000C"
+      - "D090CA9C 00001200"
+      - "20277C48 1000000C"
+
+  - name: "Invulnerable"
+    author: "luc-ita"
+    codes:
+      - "20113710 00000000"
+
+  - name: "Jump And Walk In Mid-Air"
+    author: "luc-ita"
+    codes:
+      - "20130618 00000000"
+      - "2012EB00 00000000"
+
+  - name: "Scrooge 1Hitkill"
+    author: "luc-ita"
+    codes:
+      - "2018D208 00000000"
+
+  - name: "Tennis Challenge - 1 Point To Win Or Lose"
+    author: "luc-ita"
+    codes:
+      - "2017D054 00000000"

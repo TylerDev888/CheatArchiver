@@ -1,0 +1,22 @@
+# Ratchet & Clank Future_ Tools Of Destruction cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BCES00052
+
+game: "Ratchet & Clank Future_ Tools Of Destruction"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BCES00052"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Bolts"
+    notes: "File: GAME.SAV"
+    codes:
+      - "2000041C 05F5E0FF"
+
+  - name: "Max Raritanium"
+    notes: "File: GAME.SAV"
+    codes:
+      - "20000420 05F5E0FF"

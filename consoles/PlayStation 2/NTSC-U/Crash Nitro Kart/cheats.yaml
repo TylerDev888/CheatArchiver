@@ -1,0 +1,118 @@
+# Crash Nitro Kart cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20649
+
+game: "Crash Nitro Kart"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20649"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9043F0F8 0C10FBE6"
+
+  - name: "P1 Max Reverse Joker Commands"
+    notes: "[Jokers]"
+    codes:
+      - "D1864082 0000[Joker:PS2]"
+
+  - name: "P2 Max Reverse Joker Commands"
+    notes: "[Jokers]"
+    codes:
+      - "D1864102 0000[Joker:PS2]"
+
+  - name: "Skip Videos"
+    codes:
+      - "20343258 00000000"
+
+  - name: "All Cutscenes & Extra Tracks Unlocked"
+    codes:
+      - "2079B880 DFFFBFFF"
+
+  - name: "All Characters & Ghosts Unlocked (time Trial)"
+    codes:
+      - "2079B884 FFFFFFFF"
+      - "2079B888 FFFFFFFF"
+
+  - name: "100% (adventure Mode)"
+    codes:
+      - "20793570 640D040C"
+      - "10793574 00000101"
+      - "207937E0 44239085"
+      - "207937E4 50912809"
+      - "207937E8 1C013804"
+      - "207937EC 25008A02"
+      - "207937F0 11C04280"
+      - "207937F4 000004A0"
+      - "207937F8 00000000"
+      - "207937FC 00000000"
+      - "20793800 00050000"
+      - "20793804 00100020"
+      - "20793808 00040008"
+      - "2079380C 00000000"
+      - "20793810 00000000"
+      - "2079C7A4 45141500"
+
+  - name: "One Lap Races"
+    codes:
+      - "007CC0DC 00000001"
+
+  - name: "Amount Mod Opponent Races"
+    codes:
+      - "007CC0EC 000000[Amount:04:HEX:BIG]"
+
+  - name: "Language Modifier Codes:"
+    codes:
+      - "00749958 0000[LANG]"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0108D28 00447477"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90447474 0C10A1F8"
+
+  - name: "Always Low Lap Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20186E94 24010000"
+      - "20186E98 AC41000C"
+
+  - name: "Max Fruit"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 8E220010"
+      - "200C0224 24010063"
+      - "200C0228 03E00008"
+      - "200C022C AC4100B0"
+      - "20138804 0C030088"
+
+  - name: "Have All Collectables"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "207937E0 DEFFBDFF"
+      - "207937E4 F7BFEF7F"
+      - "207937E8 FDEFFBDF"
+      - "207937EC FF7BFEF7"
+      - "207937F0 7FDEFFBD"
+      - "207937F4 DFF7BFEF"
+      - "207937F8 F7FDEFFB"
+      - "207937FC BDFF7BFE"
+      - "20793800 EF7FDEFF"
+      - "20793804 FBDFF7BF"
+      - "20793808 FEF7FDEF"
+      - "2079380C FFBDFF7B"
+      - "20793810 000F7FDE"

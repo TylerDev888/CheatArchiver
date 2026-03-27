@@ -1,0 +1,119 @@
+# Marvel Super Hero Squad cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21910
+
+game: "Marvel Super Hero Squad"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21910"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9042E2A8 0C10B852"
+
+  - name: "Ntsc Fix (xy And Pal2ntsc)"
+    codes:
+      - "10406888 000002A8"
+      - "1040693C 000002A8"
+      - "00406884 00000010"
+      - "00406938 00000010"
+      - "204064C0 24120002"
+
+  - name: "Have All Characters"
+    author: "SkillerCMP"
+    notes: "[Unlockers]"
+    codes:
+      - "2182EFE8 FFFFFFFF"
+      - "0182EFEC 00000001"
+
+  - name: "Grounded"
+    author: "SkillerCMP"
+    notes: "[Unlockers]"
+    codes:
+      - "0182FC88 00000001"
+
+  - name: "Super Nockbacks"
+    author: "SkillerCMP"
+    notes: "[Unlockers]"
+    codes:
+      - "0182FC89 00000001"
+
+  - name: "One-Hit Takedown"
+    author: "SkillerCMP"
+    notes: "[Unlockers]"
+    codes:
+      - "0182FC8A 00000001"
+
+  - name: "Infinite Shard Duration"
+    author: "SkillerCMP"
+    notes: "[Unlockers]"
+    codes:
+      - "0182FC8B 00000001"
+
+  - name: "Thrown Object Takedown"
+    author: "SkillerCMP"
+    notes: "[Unlockers]"
+    codes:
+      - "0182FC8C 00000001"
+
+  - name: "No Block Mode"
+    author: "SkillerCMP"
+    notes: "[Unlockers]"
+    codes:
+      - "0182FC8D 00000001"
+
+  - name: "Activator (MUST BE ON)"
+    author: "SkillerCMP"
+    notes: "[Misc]"
+    codes:
+      - "200A0000 3C16000A"
+      - "200A0004 AEC20014"
+      - "200A0008 90420EF8"
+      - "200A000C 08044780"
+      - "200A0020 3C01000A"
+      - "200A0024 8C210014"
+      - "200A0028 10200034"
+      - "200A0030 24020001"
+      - "200A0058 3C02FFFF"
+      - "200A005C 3442FFFF"
+      - "200A0100 03E00008"
+      - "20111DF8 08028000"
+      - "20407C00 08028008"
+
+  - name: "Have All Cheats"
+    author: "SkillerCMP"
+    notes: "[Misc]"
+    codes:
+      - "200A0048 A0220EF8"
+      - "200A004C A0220EF9"
+      - "200A0034 A0220EFA"
+      - "200A0038 A0220EFB"
+      - "200A003C A0220EFC"
+      - "200A0040 A0220EFD"
+
+  - name: "Unlock All Characters .."
+    author: "SkillerCMP"
+    notes: "[Misc]"
+    codes:
+      - "200A0060 AC220258"
+      - "200A0044 A022025C"
+
+  - name: "Unlock All Arenas"
+    author: "SkillerCMP"
+    notes: "[Misc]"
+    codes:
+      - "200A0064 AC220250"
+
+  - name: "Unlock All Costumes"
+    author: "SkillerCMP"
+    notes: "[Misc]"
+    codes:
+      - "200A0068 AC220268"
+      - "200A0050 A022026C"
+      - "200A006C AC220270"
+      - "200A0054 A0220274"

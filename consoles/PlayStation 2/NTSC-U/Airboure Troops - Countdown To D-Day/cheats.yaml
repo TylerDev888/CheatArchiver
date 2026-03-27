@@ -1,0 +1,38 @@
+# Airboure Troops - Countdown To D-Day cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21125
+
+game: "Airboure Troops - Countdown To D-Day"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21125"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "90131908 0C044F5E"
+
+  - name: "Gain Ammo As You Fire"
+    author: "MadCatz"
+    codes:
+      - "203F123C 24630001"
+
+  - name: "Infinite Ammo (All Weapons)"
+    author: "MadCatz"
+    codes:
+      - "203F1240 00000000"
+
+  - name: "Infinite Health"
+    author: "MadCatz"
+    codes:
+      - "21057134 000003E7"
+
+  - name: "Max Health"
+    author: "MadCatz"
+    codes:
+      - "21057130 000003E7"

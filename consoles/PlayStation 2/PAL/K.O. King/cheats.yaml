@@ -1,0 +1,24 @@
+# K.O. King cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54537
+
+game: "K.O. King"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54537"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9020AE80 0C082B48"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9020E840 0C08DA39"

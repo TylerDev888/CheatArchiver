@@ -1,0 +1,26 @@
+# Pokemon Battle Revolution cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  RPBE01
+
+game: "Pokemon Battle Revolution"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "RPBE01"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Goto Store Press 1+2 Max Poke Coupons (999,999)"
+    author: "Skiller"
+    codes:
+      - "2851DD12 FCFF0300"
+      - "C2167624 00000004"
+      - "2C000008 40820010"
+      - "60000000 3CC0000F"
+      - "60C6423F 90C40000"
+      - "7CA5002E 00000000"
+      - "E0000000 80008000"
+      - "2A51DD12 FCFF0300"
+      - "04167624 7CA5002E"
+      - "E0000000 80008000"

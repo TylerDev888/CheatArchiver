@@ -1,0 +1,41 @@
+# VIP cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50730
+
+game: "VIP"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50730"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F012C3A0 0012C3B7"
+
+  - name: "All Unlocked"
+    author: "Codejunkies"
+    codes:
+      - "203286C8 00000008"
+
+  - name: "Big Cash Boost Level 1 (Press R1 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "10347E82 0000F7FF"
+      - "20E46570 05F5E0FF"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0154578 0012C3B7"
+
+  - name: "Unlock Everything"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "003286C8 28096808"

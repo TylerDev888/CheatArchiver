@@ -1,0 +1,19 @@
+# Bionic Commando cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00465
+
+game: "Bionic Commando"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00465"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Ammo"
+    notes: "File: BLES00465-LIST-3\\SAVE1.DAT"
+    codes:
+      - "80010009 616D6D6F"
+      - "5F706F6F 6C000000"
+      - "2800000E 804FC347"

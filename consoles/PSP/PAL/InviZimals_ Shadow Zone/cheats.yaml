@@ -1,0 +1,46 @@
+# InviZimals_ Shadow Zone cheat data
+# Console: PSP
+# Region:  PAL
+# Serial:  UCES01411
+
+game: "InviZimals_ Shadow Zone"
+console: "PSP"
+region: "PAL"
+serial: "UCES01411"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Update Save Owner To Current Psp"
+    notes: "File: GAMEDATA"
+    codes:
+      - "set [wlan]:host_wlan_addr"
+      - "write at 0x0034:[wlan]"
+
+  - name: "Lock Save To Current Psp"
+    notes: "File: GAMEDATA"
+    codes:
+      - "00000030 00000001"
+
+  - name: "Unlock Save To Any Psp"
+    notes: "File: GAMEDATA"
+    codes:
+      - "00000030 00000000"
+
+  - name: "Update Custom Adler32 (required)"
+    notes: "File: GAMEDATA"
+    codes:
+      - "write at 0x000C:0x99547688"
+      - "set range:0x0000,EOF+1"
+      - "set [hash]:Adler32:0x00000000"
+      - "set [hash]:endian_swap"
+      - "write at 0x000C:[hash]"
+
+  - name: "Update Murmur3-32 Hash (required)"
+    notes: "File: GAMEDATA"
+    codes:
+      - "write at 0x000C:0x99547688"
+      - "set range:0x0000,EOF+1"
+      - "set [hash]:murmur3_32"
+      - "set [hash]:endian_swap"
+      - "write at 0x000C:[hash]"

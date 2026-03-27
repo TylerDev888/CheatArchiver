@@ -1,0 +1,24 @@
+# Kono Haretasora No Shita De cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65925
+
+game: "Kono Haretasora No Shita De"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65925"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9011F180 0C047C08"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "4041BA04 00060001"
+      - "FFFFFFFF 00000000"

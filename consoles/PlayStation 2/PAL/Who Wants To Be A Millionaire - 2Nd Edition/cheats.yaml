@@ -1,0 +1,42 @@
+# Who Wants To Be A Millionaire - 2Nd Edition cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50495
+
+game: "Who Wants To Be A Millionaire - 2Nd Edition"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50495"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F013FCB8 000001FD"
+
+  - name: "50:50 Lifeline Removes All Wrong Answers"
+    author: "nolberto82"
+    codes:
+      - "20128F50 00000000"
+      - "20128F60 AE140000"
+
+  - name: "Any Answer Is Correct"
+    author: "nolberto82"
+    codes:
+      - "20130F88 00401821"
+
+  - name: "Have Infinite Lifelines"
+    author: "Codejunkies"
+    codes:
+      - "20134D88 24020001"
+      - "20134D7C 24020001"
+
+  - name: "Infinite Lifelines"
+    author: "InterAct"
+    codes:
+      - "2027F6A0 00000001"
+      - "2027F6A4 00000001"
+      - "2027F69C 00000001"

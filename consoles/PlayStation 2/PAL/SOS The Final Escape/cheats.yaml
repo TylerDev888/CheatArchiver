@@ -1,0 +1,31 @@
+# SOS The Final Escape cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "SOS The Final Escape"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001D2DA3"
+      - "F0100008 001D2DB7"
+
+  - name: "HP"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "203A70F0 42C80000"
+      - "203A7104 42C80000"
+
+  - name: "QP"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "203A7108 42C80000"

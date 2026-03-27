@@ -1,0 +1,60 @@
+# Castlevania Dracula X Chronicles cheat data
+# Console: PSP
+# Region:  NTSC-U
+# Serial:  ULUS10277
+
+game: "Castlevania Dracula X Chronicles"
+console: "PSP"
+region: "NTSC-U"
+serial: "ULUS10277"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Remaining Machine 99"
+    notes: "File: *"
+    codes:
+      - "00000257 00000063"
+
+  - name: "Heart 99"
+    notes: "File: *"
+    codes:
+      - "00000255 00000063"
+
+  - name: "Hp 999"
+    notes: "File: *"
+    codes:
+      - "10000F3F 000003E7"
+      - "10000F43 000003E7"
+
+  - name: "Hp 9999(Applicable To Numbers Over 10000, But The Display Will Be Corrupted)"
+    notes: "File: *"
+    codes:
+      - "10000F3F 0000270F"
+      - "10000F43 0000270F"
+
+  - name: "Mp 999"
+    notes: "File: *"
+    codes:
+      - "10000F4F 000003E7"
+
+  - name: "Mp 9999 Applicable To Numbers Over 10000, But The Display Is Corrupted)"
+    notes: "File: *"
+    codes:
+      - "10000F4F 0000270F"
+      - "10000F53 0000270F"
+
+  - name: "Str 99"
+    notes: "File: *"
+    codes:
+      - "00000F57 00000063"
+
+  - name: "Con 99"
+    notes: "File: *"
+    codes:
+      - "00000F5B 00000063"
+
+  - name: "Int 99"
+    notes: "File: *"
+    codes:
+      - "00000F5F 00000063"

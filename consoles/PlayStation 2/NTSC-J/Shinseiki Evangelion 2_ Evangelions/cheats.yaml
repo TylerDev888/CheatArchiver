@@ -1,0 +1,29 @@
+# Shinseiki Evangelion 2_ Evangelions cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25299
+
+game: "Shinseiki Evangelion 2_ Evangelions"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25299"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9019C378 0C067086"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90100330 0C06E73A"
+
+  - name: "Debug Menu At Boot"
+    author: "punk7890"
+    codes:
+      - "001D3914 000000??"

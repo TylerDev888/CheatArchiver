@@ -1,0 +1,42 @@
+# FIFA 2001 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50014
+
+game: "FIFA 2001"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50014"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F023F040 000001FD"
+
+  - name: "15 Goals"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "102D379C 0000000F"
+
+  - name: "Score 0"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "102D379C 00000000"
+
+  - name: "Score 10"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "102D379C 0000000A"
+
+  - name: "Score 15"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "102D371C 0000000F"

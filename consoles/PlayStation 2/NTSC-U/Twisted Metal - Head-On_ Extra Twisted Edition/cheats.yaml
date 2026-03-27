@@ -1,0 +1,54 @@
+# Twisted Metal - Head-On_ Extra Twisted Edition cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97621
+
+game: "Twisted Metal - Head-On_ Extra Twisted Edition"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97621"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Freeze Attacks Cannot Freeze [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D012090C AE226308"
+      - "2012090C 00000000"
+
+  - name: "Infinite Weapons [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D01487A4 2442FFFF"
+      - "201487A4 00000000"
+      - "D01487AC ACA20038"
+      - "201487AC 00000000"
+
+  - name: "Infinite Lives [5]"
+    author: "bungholio"
+    codes:
+      - "D0BE94C0 00000002"
+      - "10BE94C0 00000005"
+
+  - name: "Infinite Special Energy"
+    author: "bungholio"
+    codes:
+      - "2011BDCC 00000000"
+
+  - name: "Joker"
+    author: "bungholio"
+    codes:
+      - "D04ED602 0000????"
+
+  - name: "Kill 1 Opponent To Advance To The Next Stage"
+    author: "bungholio"
+    codes:
+      - "00BE94B8 00000000"
+
+  - name: "Player 1 - Default Vehicle Gravity (Default Value Is 3Fb47ae1)"
+    author: "Josh_7774"
+    codes:
+      - "21EA6C98 ????????"

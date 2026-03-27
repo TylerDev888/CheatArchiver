@@ -1,0 +1,17 @@
+# Shrek Forever After cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS30496
+
+game: "Shrek Forever After"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS30496"
+cheat_type: "Save Editor"
+source: "by Krustytoe"
+
+cheats:
+  - name: "Max Coins"
+    notes: "File: SAVEGAME.DAT"
+    codes:
+      - "20000CFC 05F5E0FF"

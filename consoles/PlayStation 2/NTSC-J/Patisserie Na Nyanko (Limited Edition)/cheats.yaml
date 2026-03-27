@@ -1,0 +1,24 @@
+# Patisserie Na Nyanko (Limited Edition) cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65639
+
+game: "Patisserie Na Nyanko (Limited Edition)"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65639"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90151B18 0C05466E"
+
+  - name: "Press L3 For Debug Menu"
+    author: "punk7890"
+    codes:
+      - "D015EB0A 0000FFFD"
+      - "2016D580 00000002"

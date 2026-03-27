@@ -1,0 +1,42 @@
+# Yumemi Hakusho_ Second Dream cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-55071
+
+game: "Yumemi Hakusho_ Second Dream"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-55071"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90195038 0C0653B6"
+
+  - name: "Press L3 For Texture Viewer, R3 To Disable"
+    author: "punk7890"
+    codes:
+      - "20102C60 08055BD2"
+      - "10156F88 00006264"
+      - "D0586552 0000FFFD"
+      - "00258128 00000001"
+      - "D0586552 0000FFFB"
+      - "00258128 00000000"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "401B5B70 00080001"
+      - "FFFFFFFF 00000000"
+      - "001B5B90 000000FF"
+
+  - name: "Unlock All Memories"
+    author: "punk7890"
+    codes:
+      - "401B5BB4 00040001"
+      - "FFFFFFFF 00000000"
+      - "001B5BC4 000000FF"

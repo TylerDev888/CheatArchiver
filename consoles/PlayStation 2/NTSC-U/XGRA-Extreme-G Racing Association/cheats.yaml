@@ -1,0 +1,118 @@
+# XGRA-Extreme-G Racing Association cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20632
+
+game: "XGRA-Extreme-G Racing Association"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20632"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001ED69F"
+
+  - name: "Infinite Shield Energy"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202B1E20 440FC000"
+      - "202B1E28 440FC000"
+
+  - name: "Start/Stop Lap Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0274E42 0000FBFE"
+      - "20123D18 00000000"
+      - "D0274E42 0000FEFE"
+      - "20123D18 FE020068"
+
+  - name: "Scavenger City-City Circuit"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "002A97AD 00000001"
+
+  - name: "Scavenger City-Outlands Circuit"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "002A97AF 00000001"
+
+  - name: "Vostok, Anatarctica-Vostok Peaks Circuit"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "002A97B1 00000001"
+
+  - name: "Vostok, Anatarctica-Vostok Coastal Circuit"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "002A97B3 00000001"
+
+  - name: "Dunroth's Folly-Dunroth's Folly Circuit"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "002A97B5 00000001"
+
+  - name: "Dunroth's Folly-Dunroth's Rift Circuit"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "002A97B7 00000001"
+
+  - name: "Deep Space E.R.F. Station-Mining Dome Circuit"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "002A97B9 00000001"
+
+  - name: "Deep Space E.R.F. Station-E.R.F. Unit Circuit"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "002A97BB 00000001"
+
+  - name: "Deep Sea Anomaly-Anomaly 17 Circuit"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "002A97BD 00000001"
+
+  - name: "Deep Sea Anomaly-Anomaly 19 Circuit"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "002A97BF 00000001"
+
+  - name: "Santarem, Brazilia-Reacator Circuit"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "002A97C1 00000001"
+
+  - name: "Santarem, Brazilia-Torre Circuit"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "002A97C3 00000001"
+
+  - name: "Culver's Reach-Hellas Ridge Circuit"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "002A97C5 00000001"
+
+  - name: "Culver's Reach-Arabian Ridge Circuit"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "002A97C7 00000001"

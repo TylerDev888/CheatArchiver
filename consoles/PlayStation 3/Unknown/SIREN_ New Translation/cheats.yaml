@@ -1,0 +1,22 @@
+# SIREN_ New Translation cheat data
+# Console: PlayStation 3
+# Region:  Unknown
+# Serial:  BCJS30020
+
+game: "SIREN_ New Translation"
+console: "PlayStation 3"
+region: "Unknown"
+serial: "BCJS30020"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Siren.dat (required)"
+    notes: "File: SIREN.DAT  (Checksum offset is located within the checksum range.) (Initializing checksum with null bytes) (set range:0x0,0x000477)"
+    codes:
+      - "write at 0x00000C:00000000"
+      - "set pointer:eof+1"
+      - "set range:0x0,pointer"
+      - "set [hash]:CRC32"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x00000C:[hash]"

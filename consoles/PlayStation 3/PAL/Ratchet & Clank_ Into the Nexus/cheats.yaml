@@ -1,0 +1,50 @@
+# Ratchet & Clank_ Into the Nexus cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BCES01908
+
+game: "Ratchet & Clank_ Into the Nexus"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BCES01908"
+cheat_type: "Save Editor"
+source: "From SHAkA & Skiller (CMP)"
+
+cheats:
+  - name: "Max Bolts"
+    notes: "File: GAME.SAV"
+    codes:
+      - "write at 0x0000105D:0x98967F00"
+      - "write at 0x00001065:0x98967F00"
+
+  - name: "Max Raritarium"
+    notes: "File: GAME.SAV"
+    codes:
+      - "write at 0x00001061:0x98967F00"
+      - "write at 0x00001069:0x98967F00"
+
+  - name: "Max Ammo"
+    notes: "[Weapons 1 = Omniwrench Millennium 12]  File: GAME.SAV"
+    codes:
+      - "20000014 7E800000"
+      - "20000020 7E800000"
+
+  - name: "Exp"
+    notes: "[Weapons 1 = Omniwrench Millennium 12]  File: GAME.SAV"
+    codes:
+      - "2000001C 43FA0000"
+
+  - name: "Unlock Weapons"
+    notes: "[Weapons 1 = Omniwrench Millennium 12]  File: GAME.SAV"
+    codes:
+      - "00000071 00000003"
+
+  - name: "[exp]"
+    notes: "[Weapons 3 = Swingshot]  File: GAME.SAV"
+    codes:
+      - "200000EC 43FA0000"
+
+  - name: "[unlock Weapons]"
+    notes: "[Weapons 3 = Swingshot]  File: GAME.SAV"
+    codes:
+      - "00000141 00000003"

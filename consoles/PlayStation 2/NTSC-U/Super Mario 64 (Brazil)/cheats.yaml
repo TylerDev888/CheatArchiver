@@ -1,0 +1,34 @@
+# Super Mario 64 (Brazil) cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-62390
+
+game: "Super Mario 64 (Brazil)"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-62390"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "901001BC 0C075DA8"
+
+  - name: "Master Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "90220DE0 0C088322"
+
+  - name: "Get One Coin To Have 100 (For Star)"
+    author: "47iscool"
+    codes:
+      - "20131568 24030064"
+
+  - name: "Inf Health (ASM)"
+    author: "47iscool"
+    codes:
+      - "20134F38 10000007"

@@ -1,0 +1,41 @@
+# Twin Caliber cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Twin Caliber"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0011E1DF"
+
+  - name: "Unlimited Continues"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "206738AC 00000009"
+
+  - name: "Unlimited Health"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "2187D924 42C80000"
+
+  - name: "Unlimited TNT"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "2066EDB0 00000063"
+
+  - name: "Maximum Bodycount"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "2187DA18 3B9AC9FF"

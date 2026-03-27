@@ -1,0 +1,205 @@
+# Crash Bandicoot - Wrath Of Cortex cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50386
+
+game: "Crash Bandicoot - Wrath Of Cortex"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50386"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01C8DC8 000001FD"
+
+  - name: "1St Hub Done"
+    author: "Codejunkies"
+    codes:
+      - "1058B1F4 000000FF"
+      - "1058B29C 000000FF"
+      - "1058B264 000000FF"
+      - "1058B30C 000000FF"
+      - "1058B1A0 000000FF"
+
+  - name: "2Nd Hub Done"
+    author: "Codejunkies"
+    codes:
+      - "1058B210 000000FF"
+      - "1058B4E8 000000FF"
+      - "1058B280 000000FF"
+      - "1058B328 000000FF"
+      - "1058B168 000000FF"
+
+  - name: "3Rd Hub Done"
+    author: "Codejunkies"
+    codes:
+      - "1058B248 000000FF"
+      - "1058B2B8 000000FF"
+      - "1058B184 000000FF"
+      - "1058B130 000000FF"
+      - "1058B2D4 000000FF"
+
+  - name: "4Th Hub Done"
+    author: "Codejunkies"
+    codes:
+      - "1058B1BC 000000FF"
+      - "1058B360 000000FF"
+      - "1058B408 000000FF"
+      - "1058B1D8 000000FF"
+      - "1058B478 000000FF"
+
+  - name: "5Th Hub Done"
+    author: "Codejunkies"
+    codes:
+      - "1058B14C 000000FF"
+      - "1058B344 000000FF"
+      - "1058B2F0 000000FF"
+      - "1058B494 000000FF"
+      - "1058B4CC 000000FF"
+
+  - name: "6Th Hub Done"
+    author: "Codejunkies"
+    codes:
+      - "1058B424 000000FF"
+      - "1058B440 000000FF"
+      - "1058B45C 000000FF"
+      - "1058B4B0 000000FF"
+      - "1058B22C 000000FF"
+
+  - name: "99 Lives"
+    author: "Codejunkies"
+    codes:
+      - "00634880 00000063"
+
+  - name: "All Moves/Powers"
+    author: "InterAct"
+    codes:
+      - "20630C34 00000001"
+
+  - name: "Always Have Gray Gem"
+    author: "luc-ita"
+    codes:
+      - "20234378 24020000"
+
+  - name: "Always Have The Third Mask"
+    author: "luc-ita"
+    codes:
+      - "2058A00E 00000003"
+      - "201D0D78 10000003"
+      - "201D187C 00000000"
+
+  - name: "Complex Shadow On"
+    author: "InterAct"
+    codes:
+      - "2062FB10 00000001"
+
+  - name: "Crazy Hub Reflection"
+    author: "InterAct"
+    codes:
+      - "206309E0 410DFDD0"
+
+  - name: "Full Health"
+    author: "Codejunkies"
+    codes:
+      - "105A88B4 000000C8"
+
+  - name: "Invincibility"
+    author: "InterAct"
+    codes:
+      - "20630C28 00000001"
+
+  - name: "Invincibility (Press L2 To Activate And R2 To Deactivate)"
+    author: "Codejunkies"
+    codes:
+      - "D1D43302 0000FEFF"
+      - "000FFF00 00000001"
+      - "D1D43302 0000FDFF"
+      - "000FFF00 00000000"
+      - "D00FFF00 00000001"
+      - "105803AE 00000020"
+
+  - name: "Invisibility (Press L2)"
+    author: "Codejunkies"
+    codes:
+      - "D1D3FDAA 0000FBFF"
+      - "20631238 00000001"
+
+  - name: "Jump Higher - ASM"
+    author: "luc-ita"
+    codes:
+      - "20250D98 00000000"
+
+  - name: "Jump Higher - RAM"
+    author: "luc-ita"
+    codes:
+      - "205F2684 40000000"
+
+  - name: "Jump Much Higher - RAM"
+    author: "luc-ita"
+    codes:
+      - "205F2684 40000000"
+      - "105F2690 00000005"
+
+  - name: "Massive Fireboss"
+    author: "InterAct"
+    codes:
+      - "105B956A 00004080"
+      - "105B956E 00004080"
+      - "105B9572 00004080"
+
+  - name: "Moonjump"
+    author: "luc-ita"
+    codes:
+      - "D1D3FD8C 00000040"
+      - "2057EEB4 3DCCCCCD"
+
+  - name: "Open All Areas"
+    author: "InterAct"
+    codes:
+      - "1058B11C 000000FF"
+      - "1058B120 000000FF"
+      - "1058B124 000000FF"
+      - "1058B128 000000FF"
+      - "1058B12C 000000FF"
+
+  - name: "Open Up All Areas"
+    author: "Codejunkies"
+    codes:
+      - "1058C54C 00000001"
+      - "1058C550 00000001"
+      - "1058C554 00000001"
+      - "1058C558 00000001"
+      - "1058C55C 00000001"
+
+  - name: "Show Co-Ordinates"
+    author: "Codejunkies"
+    codes:
+      - "20630C2C 00000001"
+
+  - name: "Some Crates Break Automatically - When Crash Is On Foot"
+    author: "luc-ita"
+    codes:
+      - "201FAC68 00000000"
+      - "201FAE74 00000000"
+      - "201FAE88 00000000"
+      - "201FAF7C 00000000"
+      - "201FAFA8 00000000"
+      - "201FAFCC 00000000"
+      - "201FAFE0 0807EC07"
+
+  - name: "Space Gravity"
+    author: "InterAct"
+    codes:
+      - "20632990 BA90EDD0"
+
+  - name: "Take Wumpa Anywhere"
+    author: "luc-ita"
+    codes:
+      - "201FC01C 00000000"
+      - "201FC03C 00000000"
+      - "201FC070 00000000"

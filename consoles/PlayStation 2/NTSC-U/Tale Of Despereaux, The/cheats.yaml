@@ -1,0 +1,67 @@
+# Tale Of Despereaux, The cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21852
+
+game: "Tale Of Despereaux, The"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21852"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Buy Even Without Cheese And/Or Buttons"
+    author: "luc-ita"
+    codes:
+      - "202A88F0 00000000"
+
+  - name: "Climb High Instead Of Descending When Using Ears V1"
+    author: "luc-ita"
+    codes:
+      - "212D6DC4 41500000"
+
+  - name: "Climb High Instead Of Descending When Using Ears V2"
+    author: "luc-ita"
+    codes:
+      - "212D6DC4 42480000"
+
+  - name: "Godmode+1Hitkill"
+    author: "luc-ita"
+    codes:
+      - "2010F780 0C028000"
+      - "200A0000 3C0100B8"
+      - "200A0004 3421B10C"
+      - "200A0008 10330003"
+      - "200A000C 00000000"
+      - "200A0010 08075186"
+      - "200A0014 00000000"
+      - "200A0018 03E00008"
+      - "202514B8 AC400008"
+
+  - name: "Jump Higher"
+    author: "luc-ita"
+    codes:
+      - "212D6D5C 430C0000"
+      - "212D6D60 430C0000"
+
+  - name: "Jump In Midair"
+    author: "luc-ita"
+    codes:
+      - "201BA5BC 24020004"
+
+  - name: "Jump Much Higher"
+    author: "luc-ita"
+    codes:
+      - "212D6D5C 433E0000"
+      - "212D6D60 433E0000"
+
+  - name: "Low Gravity V1"
+    author: "luc-ita"
+    codes:
+      - "212D6D4C C2C80000"
+
+  - name: "Low Gravity V2"
+    author: "luc-ita"
+    codes:
+      - "212D6D4C C2480000"

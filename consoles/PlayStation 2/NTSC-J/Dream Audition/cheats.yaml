@@ -1,0 +1,23 @@
+# Dream Audition cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-20016
+
+game: "Dream Audition"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-20016"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90227D58 0C089EFC"
+
+  - name: "Main Menu \"Option\" = Debug SND Test Info Menu"
+    author: "punk7890"
+    codes:
+      - "2023B518 0012FDD8"

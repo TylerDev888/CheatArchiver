@@ -1,0 +1,32 @@
+# BlazBlue_ Chronophantasma Extend cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00863
+
+game: "BlazBlue_ Chronophantasma Extend"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00863"
+cheat_type: "Save Editor"
+source: "Credits: Bucanero"
+
+cheats:
+  - name: "9999999 P$"
+    notes: "File: SYSTEM/SYSTEM.DAT"
+    codes:
+      - "20007F50 0098967F"
+
+  - name: "Unlock All Gallery"
+    notes: "File: SYSTEM/SYSTEM.DAT"
+    codes:
+      - "420001A0 02020202"
+      - "40B00004 00000000"
+
+  - name: "Update Wadd For System.dat (required)"
+    notes: "File: SYSTEM/SYSTEM.DAT  \\\\carry(2)"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof+1"
+      - "set [csum]:wadd(0x000004,pointer)"
+      - "set [csum]:xor:FFFF"
+      - "write at 0x000000:[csum]"

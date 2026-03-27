@@ -1,0 +1,247 @@
+# Dai-2-Ji Super Robot Taisen OG cheat data
+# Console: PlayStation 3
+# Region:  Unknown
+# Serial:  BLJS10133
+
+game: "Dai-2-Ji Super Robot Taisen OG"
+console: "PlayStation 3"
+region: "Unknown"
+serial: "BLJS10133"
+cheat_type: "Save Editor"
+source: "From savedata.jp"
+
+cheats:
+  - name: "Max Money"
+    notes: "File: SYSDATA.SAV"
+    codes:
+      - "2000027F 05F5E0FF"
+
+  - name: "Max Sr Points"
+    notes: "File: SYSDATA.SAV"
+    codes:
+      - "20000672 000000FF"
+
+  - name: "Strengthening Parts All 99"
+    notes: "File: SYSDATA.SAV"
+    codes:
+      - "4000051C 00000063"
+      - "402B0001 00000000"
+      - "400005F0 00000063"
+      - "402B0001 00000000"
+
+  - name: "Ability All 99"
+    notes: "File: SYSDATA.SAV"
+    codes:
+      - "4000055C 00000063"
+      - "40150001 00000000"
+      - "40000630 00000063"
+      - "40150001 00000000"
+
+  - name: "Game Mode - Normal"
+    notes: "File: SYSDATA.SAV"
+    codes:
+      - "0000025E 00000000"
+
+  - name: "Game Mode - Ex"
+    notes: "File: SYSDATA.SAV"
+    codes:
+      - "0000025E 00000001"
+
+  - name: "Game Mode - Special"
+    notes: "File: SYSDATA.SAV"
+    codes:
+      - "0000025E 00000002"
+
+  - name: "Total Turn 1"
+    notes: "File: SYSDATA.SAV"
+    codes:
+      - "20000277 00000001"
+
+  - name: "Pilot Exp All 65535"
+    notes: "File: PARMDAT.SAV"
+    codes:
+      - "4101B558 0000FFFF"
+      - "4100003E 00000000"
+
+  - name: "Pilot Pp All 9999"
+    notes: "File: PARMDAT.SAV"
+    codes:
+      - "4101B55A 0000270F"
+      - "4100003E 00000000"
+
+  - name: "Pilot Shooting Down All 49"
+    notes: "File: PARMDAT.SAV"
+    codes:
+      - "4101B556 00000031"
+      - "4100003E 00000000"
+
+  - name: "Geographical Feature Adaptation Ssss All Pilot"
+    notes: "File: PARMDAT.SAV"
+    codes:
+      - "4201B568 04040404"
+      - "4100003E 00000000"
+
+  - name: "Weapon 49 Kinds All 4"
+    notes: "File: PARMDAT.SAV"
+    codes:
+      - "4201F354 FFFFFFFF"
+      - "40060004 00000000"
+      - "2001F36C 0FFFFFFF"
+      - "4101F375 00000100"
+      - "40040003 00000000"
+      - "4101F381 00000200"
+      - "40040003 00000000"
+      - "4101F38D 00000300"
+      - "40040003 00000000"
+      - "4101F399 00000400"
+      - "40040003 00000000"
+      - "4101F3A5 00000500"
+      - "40040003 00000000"
+      - "4101F3B1 00000600"
+      - "40040003 00000000"
+      - "4101F3BD 00000700"
+      - "40040003 00000000"
+      - "4101F3C9 00000800"
+      - "40040003 00000000"
+      - "4101F3D5 00000900"
+      - "40040003 00000000"
+      - "4101F3E1 00000A00"
+      - "40040003 00000000"
+      - "4101F3ED 00000B00"
+      - "40040003 00000000"
+      - "4101F3F9 00000C00"
+      - "40040003 00000000"
+      - "4101F405 00000D00"
+      - "40040003 00000000"
+      - "4101F411 00000E00"
+      - "40040003 00000000"
+      - "4101F41D 00000F00"
+      - "40040003 00000000"
+      - "4101F429 00001000"
+      - "40040003 00000000"
+      - "4101F435 00001100"
+      - "40040003 00000000"
+      - "4101F441 00001200"
+      - "40040003 00000000"
+      - "4101F44D 00001300"
+      - "40040003 00000000"
+      - "4101F459 00001400"
+      - "40040003 00000000"
+      - "4101F465 00001500"
+      - "40040003 00000000"
+      - "4101F471 00001600"
+      - "40040003 00000000"
+      - "4101F47D 00001700"
+      - "40040003 00000000"
+      - "4101F489 00001800"
+      - "40040003 00000000"
+      - "4101F495 00001900"
+      - "40040003 00000000"
+      - "4101F4A1 00001A00"
+      - "40040003 00000000"
+      - "4101F4AD 00001B00"
+      - "40040003 00000000"
+      - "4101F4B9 00001C00"
+      - "40040003 00000000"
+      - "4101F4C5 00001D00"
+      - "40040003 00000000"
+      - "4101F4D1 00001E00"
+      - "40040003 00000000"
+      - "4101F4DD 00001F00"
+      - "40040003 00000000"
+      - "4101F4E9 00002000"
+      - "40040003 00000000"
+      - "4101F4F5 00002100"
+      - "40040003 00000000"
+      - "4101F501 00002200"
+      - "40040003 00000000"
+      - "4101F50D 00002300"
+      - "40040003 00000000"
+      - "4101F519 00002400"
+      - "40040003 00000000"
+      - "4101F525 00002500"
+      - "40040003 00000000"
+      - "4101F531 00002700"
+      - "40040003 00000000"
+      - "4101F53D 00002800"
+      - "40040003 00000000"
+      - "4101F549 00002900"
+      - "40040003 00000000"
+      - "4101F555 00002A00"
+      - "40040003 00000000"
+      - "4101F561 00002B00"
+      - "40040003 00000000"
+      - "4101F56D 00002C00"
+      - "40040003 00000000"
+      - "4101F579 00002D00"
+      - "40040003 00000000"
+      - "4101F585 00002E00"
+      - "40040003 00000000"
+      - "4101F591 00002F00"
+      - "40040003 00000000"
+      - "4101F59D 00003000"
+      - "40040003 00000000"
+      - "4101F5A9 00003100"
+      - "40040003 00000000"
+      - "4101F5B5 00003200"
+      - "40040003 00000000"
+
+  - name: "Turn 0"
+    notes: "[Super Robot Taisen OG: Dark Prison DLC]  File: SYSDATA.SAV"
+    codes:
+      - "20000277 00000000"
+
+  - name: "Money 99999999"
+    notes: "[Super Robot Taisen OG: Dark Prison DLC]  File: SYSDATA.SAV"
+    codes:
+      - "2000027F 05F5E0FF"
+
+  - name: "Ap 99999999"
+    notes: "[Super Robot Taisen OG: Dark Prison DLC]  File: SYSDATA.SAV"
+    codes:
+      - "20000287 05F5E0FF"
+
+  - name: "Mode Change - Normal"
+    notes: "[Super Robot Taisen OG: Dark Prison DLC]  File: SYSDATA.SAV"
+    codes:
+      - "0000025E 00000000"
+
+  - name: "Mode Change - Ex Hard Mode"
+    notes: "[Super Robot Taisen OG: Dark Prison DLC]  File: SYSDATA.SAV"
+    codes:
+      - "0000025E 00000001"
+
+  - name: "Mode Change - Special Display Mode"
+    notes: "[Super Robot Taisen OG: Dark Prison DLC]  File: SYSDATA.SAV"
+    codes:
+      - "0000025E 00000002"
+
+  - name: "All Ability 99"
+    notes: "[Super Robot Taisen OG: Dark Prison DLC]  File: SYSDATA.SAV"
+    codes:
+      - "42000565 00630063"
+      - "400A0004 00000000"
+      - "1000058D 00000063"
+      - "1000056F 0000FFFF"
+      - "42000679 00630063"
+      - "400A0004 00000000"
+      - "100006A1 00000063"
+      - "10000683 0000FFFF"
+
+  - name: "All Strengthening Parts 99"
+    notes: "[Super Robot Taisen OG: Dark Prison DLC]  File: SYSDATA.SAV"
+    codes:
+      - "42000523 63636363"
+      - "40110004 00000000"
+      - "42000637 63636363"
+      - "40110004 00000000"
+
+  - name: "Max Level"
+    notes: "[Super Robot Taisen OG: Dark Prison DLC]  File: PARMDAT.SAV"
+    codes:
+      - "4101B556 000003E7"
+      - "4032003E 00000000"
+      - "4101B558 0000BF68"
+      - "4032003E 00000000"
+      - "4101B55A 0000270F"
+      - "4032003E 00000000"

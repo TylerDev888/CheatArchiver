@@ -1,0 +1,30 @@
+# James Cameron's Dark Angel cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51333
+
+game: "James Cameron's Dark Angel"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51333"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F03BA624 003BA627"
+
+  - name: "Infinite Rage"
+    author: "Codejunkies"
+    codes:
+      - "101193C4 000002B8"
+
+  - name: "Lots Of Health"
+    author: "Codejunkies"
+    codes:
+      - "20160200 3C017F00"
+      - "20160204 AC8102A0"
+      - "20160208 AC8102A4"

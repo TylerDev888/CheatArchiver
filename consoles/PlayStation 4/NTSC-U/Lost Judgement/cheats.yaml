@@ -1,0 +1,28 @@
+# Lost Judgement cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA28183
+
+game: "Lost Judgement"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA28183"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Search and replace item"
+    notes: "File: data.sav"
+    codes:
+      - "8001000C 7B227075"
+      - "6964223A [ID]"
+      - "A8000008 00000004"
+      - "[ID] 00000000"
+
+  - name: "Add Item"
+    notes: "File: data.sav"
+    codes:
+      - "search 0x22706C61796572223A"
+      - "search next 0x2263617272795F6974656D22"
+      - "search next 0x226D5F6C69737422"
+      - "Insert Next A: \"{\".ver\":1,\"m_count\":[Amount:99999999:UTF08:TXT],\"m_item_id\":{\"puid\":[ID]}},\""

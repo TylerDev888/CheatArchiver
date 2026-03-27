@@ -1,0 +1,142 @@
+# Timesplitters - Future Perfect
+
+**Console:** PlayStation 2  
+**Region:** PAL  
+**Serial:** SLES-52993  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### (M) Must Be On
+**Author:** Codejunkies  
+**Notes:** [Master Codes]
+
+```
+F01001FC 001001FF
+```
+
+---
+
+### All Challenges/Arcade Leagues Open
+**Author:** Codejunkies
+
+```
+20306740 240FFFFF
+```
+
+---
+
+### All Cheats Open
+**Author:** Codejunkies
+
+```
+203067A8 240EFFFF
+```
+
+---
+
+### All Story Levels Open
+**Author:** Codejunkies
+
+```
+20306A38 240EFFFF
+```
+
+---
+
+### AR Below 3.14 Fix
+**Author:** Codejunkies
+
+```
+2057BB70 3C03200F
+2057BB78 8C65FFF8
+2057BB7C 24040079
+2057BB80 24030074
+2057BB84 0000000C
+```
+
+---
+
+### Infinite Ammo/Grenades
+**Author:** Codejunkies
+
+```
+202E83EC 00000000
+202E83C0 00000000
+```
+
+---
+
+### Infinite Health
+**Author:** Codejunkies
+
+```
+205D5638 8DE401D0
+205D563C ADE401CC
+205D5640 C5E001CC
+205D5644 4600A034
+205D5648 080E22C6
+205D564C 00000000
+20388B10 0817558E
+20388B14 00000000
+```
+
+---
+
+### Neaten UI (Narrower Text)
+**Author:** RyTheHexer
+
+```
+2060CEB0 3F333333
+```
+
+---
+
+### One-Hit Kills
+**Author:** RyTheHexer
+
+```
+200FF050 C4A201D8
+200FF054 C5E00000
+200FF058 3C090010
+200FF05C AD25EFF8
+200FF060 08097D16
+2025F450 0803FC14
+2025F454 00000000
+200FF100 45000002
+200FF104 E5E001CC
+200FF108 E5E301CC
+200FF10C 3C090010
+200FF110 8D2AEFF8
+200FF114 11EA0002
+200FF11C ADE001CC
+200FF120 0806BC6A
+201AF19C 0803FC40
+201AF1A0 00000000
+```
+
+---
+
+### Unlock Everything
+**Author:** RyTheHexer
+
+```
+20306A38 200EFFFF
+20306A3C ADEE0BF4
+203067A8 200EFFFF
+203067AC ADEE0BFC
+```
+
+---
+
+### Widescreen 16:10
+**Author:** RyTheHexer
+
+```
+0060CEA8 00000010
+0060CEAC 0000000A
+```
+
+---

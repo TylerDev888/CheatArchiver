@@ -1,0 +1,56 @@
+# Test Drive Unlimited cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21490
+
+game: "Test Drive Unlimited"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21490"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9025D9D0 0C09761C"
+
+  - name: "Start Game With Loads Of Cr"
+    codes:
+      - "103A8204 000005F5"
+      - "103A820C 0000E0FF"
+
+  - name: "Yes/No Menu For Buy House For Max Money"
+    codes:
+      - "203678D8 08028000"
+      - "200A0000 8C520020"
+      - "200A0004 3C0E05F5"
+      - "200A0008 35CEE0FF"
+      - "200A000C AC4E0020"
+      - "200A0010 080D9E37"
+
+  - name: "Everythings Free No Money Need"
+    codes:
+      - "203B81BC 00000000"
+      - "203CBB38 00000000"
+      - "203678D8 00000000"
+      - "20437EB4 00000000"
+      - "20437DD4 00000000"
+
+  - name: "Master Points Gain Mod"
+    codes:
+      - "10BBFFAC 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Car Rental Inf Time"
+    codes:
+      - "2037FA70 00000000"
+
+  - name: "Car Rental Time Mod (alternet Inf Time Code)"
+    codes:
+      - "2060A02C [45610000:2710:FLOAT:BIG]"
+
+  - name: "Max/Inf Money"
+    notes: "[Moving Section Just For Refrince]"
+    codes:
+      - "21ABC6E8 05F5E0FF"

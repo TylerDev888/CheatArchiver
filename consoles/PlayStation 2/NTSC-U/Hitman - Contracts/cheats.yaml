@@ -1,0 +1,260 @@
+# Hitman - Contracts cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20882
+
+game: "Hitman - Contracts"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20882"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0450C0C 00450C0F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master>GameMasterZer0>Lajos Szalay"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00450C0F"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "90450BF8 0C1142C0"
+
+  - name: "Always Have 99 Saves Left"
+    author: "Code Master>GameMasterZer0>Lajos Szalay"
+    codes:
+      - "200C0220 24070063"
+      - "200C0224 03E00008"
+      - "200C0228 AE670C00"
+      - "2042EA1C 0C030088"
+
+  - name: "Disable FMV"
+    author: "Code Master>GameMasterZer0>Lajos Szalay"
+    codes:
+      - "20455C28 24020001"
+
+  - name: "Extra Saves When Saving"
+    author: "Code Master>GameMasterZer0>Lajos Szalay"
+    codes:
+      - "1037BD94 00000001"
+
+  - name: "Gain Ammo As You Fire"
+    author: "MadCatz"
+    codes:
+      - "2020F9AC 24420009"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "1020F9AC 00000000"
+
+  - name: "Infinite Health"
+    author: "Code Master>GameMasterZer0>Lajos Szalay"
+    codes:
+      - "203A3990 00000000"
+
+  - name: "Infinite Saves"
+    author: "Codejunkies"
+    codes:
+      - "1037BD94 00000000"
+
+  - name: "Infinite: Saves"
+    author: "MadCatz"
+    codes:
+      - "200C2000 34070063"
+      - "200C2004 0810BA88"
+      - "200C2008 AE670C00"
+      - "2042EA1C 08030800"
+
+  - name: "Levitate (L3)"
+    author: "47iscool"
+    codes:
+      - "E002FFFD 00483D42"
+      - "60497230 41C80000"
+      - "00020001 00000638"
+
+  - name: "Max Inf Syringes"
+    author: "47iscool"
+    codes:
+      - "20210444 244203E7"
+      - "203B5D00 26050000"
+
+  - name: "Mission Accomplished: Max: Alerts"
+    author: "MadCatz"
+    codes:
+      - "20518AD4 0000270F"
+
+  - name: "Mission Accomplished: Max: Close Encounters"
+    author: "MadCatz"
+    codes:
+      - "20518ACC 0000270F"
+
+  - name: "Mission Accomplished: Max: Enemies Harmed"
+    author: "MadCatz"
+    codes:
+      - "20518ADC 000F423F"
+
+  - name: "Mission Accomplished: Max: Enemies Killed"
+    author: "MadCatz"
+    codes:
+      - "20518AD8 000F423F"
+
+  - name: "Mission Accomplished: Max: Innocents Harmed"
+    author: "MadCatz"
+    codes:
+      - "20518AE4 0000270F"
+
+  - name: "Mission Accomplished: Max: Innocents Killed"
+    author: "MadCatz"
+    codes:
+      - "20518AE0 0000270F"
+
+  - name: "Mission Accomplished: Max: Shots Fired"
+    author: "MadCatz"
+    codes:
+      - "20518AC8 05F5E0FF"
+
+  - name: "Mission Accomplished: No: Alerts"
+    author: "MadCatz"
+    codes:
+      - "20518AD4 00000000"
+
+  - name: "Mission Accomplished: No: Close Encounters"
+    author: "MadCatz"
+    codes:
+      - "20518ACC 00000000"
+
+  - name: "Mission Accomplished: No: Enemies Harmed"
+    author: "MadCatz"
+    codes:
+      - "20518ADC 00000000"
+
+  - name: "Mission Accomplished: No: Enemies Killed"
+    author: "MadCatz"
+    codes:
+      - "20518AD8 00000000"
+
+  - name: "Mission Accomplished: No: Head Shots"
+    author: "MadCatz"
+    codes:
+      - "20518AD0 00000000"
+
+  - name: "Mission Accomplished: No: Innocents Harmed"
+    author: "MadCatz"
+    codes:
+      - "20518AE4 00000000"
+
+  - name: "Mission Accomplished: No: Innocents Killed"
+    author: "MadCatz"
+    codes:
+      - "20518AE0 00000000"
+
+  - name: "Mission Accomplished: No: Shots Fired"
+    author: "MadCatz"
+    codes:
+      - "20518AC8 00000000"
+
+  - name: "Never Reload"
+    author: "Code Master>GameMasterZer0>Lajos Szalay"
+    codes:
+      - "2020F9B4 00000000"
+
+  - name: "P1 Press L3+R3 For Level Select (Main Menu)"
+    author: "Code Master>GameMasterZer0>Lajos Szalay"
+    codes:
+      - "D0483D42 0000FFF9"
+      - "2041F9F0 00000000"
+      - "D0483D42 0000FFFF"
+      - "2041F9F0 10400032"
+
+  - name: "P1 Press R1+Down For Invisible Mode Off"
+    author: "Code Master>GameMasterZer0>Lajos Szalay"
+    codes:
+      - "D0483D42 0000F7BF"
+      - "20506A40 00000000"
+
+  - name: "P1 Press R1+Left For God Mode On"
+    author: "Code Master>GameMasterZer0>Lajos Szalay"
+    codes:
+      - "D0483D42 0000F77F"
+      - "20507318 3F800000"
+
+  - name: "P1 Press R1+Right For God Mode On"
+    author: "Code Master>GameMasterZer0>Lajos Szalay"
+    codes:
+      - "D0483D42 0000F7DF"
+      - "20507318 3F800000"
+
+  - name: "P1 Press R1+Up For Invisible Mode On"
+    author: "Code Master>GameMasterZer0>Lajos Szalay"
+    codes:
+      - "D0483D42 0000F7EF"
+      - "20506A40 3F800000"
+
+  - name: "60 FPS Patch"
+    author: "Josh_7774"
+    notes: "[Patch]"
+    codes:
+      - "2053A70C 00000001"
+
+  - name: "Disable Screen Blur FX"
+    author: "Josh_7774"
+    notes: "[Patch]"
+    codes:
+      - "201A0F80 00000000"
+
+  - name: "Press L2 + Start In Game For Cheat Menu"
+    author: "punk7890"
+    codes:
+      - "2053247C 00000001"
+
+  - name: "Save Once For 99 Saves Left"
+    author: "Code Master>GameMasterZer0>Lajos Szalay"
+    codes:
+      - "2037BD94 24050063"
+
+  - name: "Saves Left Don't Decrease When Saving"
+    author: "Code Master>GameMasterZer0>Lajos Szalay"
+    codes:
+      - "2037BDA0 00000000"
+
+  - name: "Slow Motion (R2+Up=On & R2+Down=Off)"
+    author: "Code Master>GameMasterZer0>Lajos Szalay"
+    codes:
+      - "200C0240 3C0800A0"
+      - "200C0244 00000000"
+      - "200C0248 00000000"
+      - "200C024C 00000000"
+      - "200C0250 00000000"
+      - "200C0254 00000000"
+      - "200C0258 1D00FFFD"
+      - "200C025C 2508FFFF"
+      - "200C0260 03E00008"
+      - "200C0264 00000000"
+      - "D0483D42 0000FDEF"
+      - "20450C24 08030090"
+      - "D0483D42 0000FDBF"
+      - "20450C24 03E00008"
+
+  - name: "Walk Through Walls And On Air (Updated) (R2+Up On/R2+Down Off)"
+    author: "47iscool"
+    codes:
+      - "E004FDEF 00483D42"
+      - "20230798 C6010030"
+      - "202307AC C4410008"
+      - "202307BC E6410004"
+      - "20233DE8 00000000"
+      - "E004FDBF 00483D42"
+      - "20230798 E6010030"
+      - "202307AC E4410008"
+      - "202307BC C6410004"
+      - "20233DE8 0C0D2691"

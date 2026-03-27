@@ -1,0 +1,209 @@
+# Resident Evil Outbreak [Public Beta 1.0] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-29089
+
+game: "Resident Evil Outbreak [Public Beta 1.0]"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-29089"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Animation Sequence Picker Player 1"
+    author: "bungholio"
+    codes:
+      - "004A674B 000000??"
+
+  - name: "Enemies Can't Touch Player 1"
+    author: "bungholio"
+    codes:
+      - "004A6752 00000020"
+
+  - name: "Enemies Don't Notice Player 1 (Because You Are Dead) (L2+UP=ON, L2+DOWN=OFF)"
+    author: "bungholio"
+    codes:
+      - "D02B079C 0000FEEF"
+      - "004A6751 00000001"
+      - "D02B079C 0000FEBF"
+      - "004A6751 00000000"
+
+  - name: "Have All Files"
+    author: "bungholio"
+    codes:
+      - "104B9C00 0000FFFF"
+
+  - name: "Number Of Players Present"
+    author: "bungholio"
+    codes:
+      - "004BAE20 0000000?"
+
+  - name: "Player 1 Alternative Costume Modifier"
+    author: "bungholio"
+    codes:
+      - "004A676C 000000??"
+
+  - name: "Player 1 Character Model Modifier"
+    author: "bungholio"
+    codes:
+      - "104A6764 0000????"
+
+  - name: "Player 1 Character Type Modifier"
+    author: "bungholio"
+    codes:
+      - "004A6748 000000??"
+
+  - name: "Player 1 Damage Modifier [Or Is It Multiplier?]"
+    author: "bungholio"
+    codes:
+      - "204A6774 ????????"
+
+  - name: "!- Item Values"
+    author: "nobody"
+    notes: "[Player 1 Item Slot Modifiers]  02 - Iron Pipe 03 - Curved Iron Pipe 04 - Green Herb 05 - Red Herb 06 - Red Herb 07 - Handgun Rounds (30) 08 - G. Launcher0Burst Rounds (4) 09 - First Aid Spray 0a - Handgun (15) 0b - Green Herb 0c - Handgun Rounds (30) 0d - Burst Rounds (4) 0e - Blue Herb 0f - Ass..."
+
+  - name: "Player 1 Item Slot 1"
+    author: "bungholio"
+    notes: "[Player 1 Item Slot Modifiers]"
+    codes:
+      - "004A6834 000000??"
+
+  - name: "Player 1 Item Slot 2"
+    author: "bungholio"
+    notes: "[Player 1 Item Slot Modifiers]"
+    codes:
+      - "004A6835 000000??"
+
+  - name: "Player 1 Item Slot 3"
+    author: "bungholio"
+    notes: "[Player 1 Item Slot Modifiers]"
+    codes:
+      - "004A6836 000000??"
+
+  - name: "Player 1 Item Slot 4"
+    author: "bungholio"
+    notes: "[Player 1 Item Slot Modifiers]"
+    codes:
+      - "004A6837 000000??"
+
+  - name: "Player 1 Special Item Slot"
+    author: "bungholio"
+    notes: "[Player 1 Item Slot Modifiers]"
+    codes:
+      - "004A6838 000000??"
+
+  - name: "Player 1 Yoko Item Slot 5"
+    author: "bungholio"
+    notes: "[Player 1 Item Slot Modifiers]"
+    codes:
+      - "004A6839 000000??"
+
+  - name: "Player 1 Yoko Item Slot 6"
+    author: "bungholio"
+    notes: "[Player 1 Item Slot Modifiers]"
+    codes:
+      - "004A683A 000000??"
+
+  - name: "Player 1 Yoko Item Slot 7"
+    author: "bungholio"
+    notes: "[Player 1 Item Slot Modifiers]"
+    codes:
+      - "004A683B 000000??"
+
+  - name: "Player 1 Yoko Item Slot 8"
+    author: "bungholio"
+    notes: "[Player 1 Item Slot Modifiers]"
+    codes:
+      - "004A683C 000000??"
+
+  - name: "Player 1 Speed Modifier #1"
+    author: "bungholio"
+    codes:
+      - "204A6758 ????????"
+
+  - name: "Player 1 Speed Modifier #2"
+    author: "bungholio"
+    codes:
+      - "204A6770 ????????"
+
+  - name: "Player 1 Status Modifier"
+    author: "bungholio"
+    codes:
+      - "004A6750 000000??"
+
+  - name: "Player 1 Virus Gauge Modifier #1"
+    author: "bungholio"
+    codes:
+      - "204A675C ????????"
+
+  - name: "Player 1 Virus Gauge Modifier #2"
+    author: "bungholio"
+    codes:
+      - "204A6768 ????????"
+
+  - name: "Player 1 Walk Through Walls"
+    author: "bungholio"
+    codes:
+      - "204A6860 FFFFFFFF"
+      - "204A687C FFFFFFFF"
+
+  - name: "Rapid Fire Player 1"
+    author: "bungholio"
+    codes:
+      - "D02B079C 0000B7FF"
+      - "004A6753 000000FF"
+
+  - name: "Completed Events Modifier 1 Of 2"
+    author: "bungholio"
+    notes: "[Scenario Completion Codes]"
+    codes:
+      - "203B7B78 ????????"
+
+  - name: "Completed Events Modifier 2 Of 2"
+    author: "bungholio"
+    notes: "[Scenario Completion Codes]"
+    codes:
+      - "203B7B7C ????????"
+
+  - name: "Determines Whether Your Result Points Are A New Best Record"
+    author: "bungholio"
+    notes: "[Scenario Completion Codes]"
+    codes:
+      - "003B7B85 000000??"
+
+  - name: "Determines Whether Your Scenario Completion Time Is A New Best Record"
+    author: "bungholio"
+    notes: "[Scenario Completion Codes]"
+    codes:
+      - "003B7206 000000??"
+
+  - name: "No Damage Clear"
+    author: "bungholio"
+    notes: "[Scenario Completion Codes]"
+    codes:
+      - "003B7B74 00000000"
+
+  - name: "No Weapon Clear"
+    author: "bungholio"
+    notes: "[Scenario Completion Codes]"
+    codes:
+      - "003B7B75 00000000"
+
+  - name: "Result Points Modifier"
+    author: "bungholio"
+    notes: "[Scenario Completion Codes]"
+    codes:
+      - "203B7B34 ????????"
+
+  - name: "Scenario Completion Time Rank Modifier"
+    author: "bungholio"
+    notes: "[Scenario Completion Codes]"
+    codes:
+      - "003B7B87 000000??"
+
+  - name: "Survivor Modifier"
+    author: "bungholio"
+    notes: "[Scenario Completion Codes]"
+    codes:
+      - "003B7B76 000000??"

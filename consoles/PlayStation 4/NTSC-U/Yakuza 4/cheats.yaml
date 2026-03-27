@@ -1,0 +1,734 @@
+# Yakuza 4 cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA15326
+
+game: "Yakuza 4"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA15326"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Max Money"
+    notes: "[Akiyama Currencies]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "200082D4 3B9AC9FF"
+
+  - name: "Max Eco Points"
+    notes: "[Akiyama Currencies]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "20008334 3B9AC9FF"
+
+  - name: "Max Souls"
+    notes: "[Akiyama Currencies]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "0000589C 00000063"
+
+  - name: "Max Casino Chips"
+    notes: "[Akiyama Currencies]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "200082E4 05F5E0FF"
+
+  - name: "Max Wooden Tags"
+    notes: "[Akiyama Currencies]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "200082F4 05F5E0FF"
+
+  - name: "Max Mahjong Sticks"
+    notes: "[Akiyama Currencies]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "20008304 05F5E0FF"
+
+  - name: "Max Pachinko Balls"
+    notes: "[Akiyama Currencies]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "20008384 05F5E0FF"
+
+  - name: "Total Continue Stat 00"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "0000847B 00000000"
+
+  - name: "Current Continue Stat 00"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "0000848F 00000000"
+
+  - name: "Melee Kills 99"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "00009B49 00000063"
+
+  - name: "Destroyed by using Weapons Stat 99"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "00009B4A 00000063"
+
+  - name: "Walking Distance 99.9km"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20009B4C 47C34E00"
+
+  - name: "Cave(?) Army Gold Max"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20008324 05F5B9F0"
+
+  - name: "Picked up trash from street stat 19"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "0000530F 00000013"
+
+  - name: "\"Create a Fighter!\" Gold Max"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20008348 05F5B9F0"
+
+  - name: "All Chars LV19"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "400057D8 00000013"
+      - "400400B0 00000000"
+
+  - name: "All Chars EXP 22500"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "420057E0 000057E4"
+      - "400400B0 00000000"
+
+  - name: "All Chars Have A Golden Gun"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "20005A84 02F1FFFF"
+      - "10005A88 0000FFFF"
+      - "20005B24 02F1FFFF"
+      - "10005B28 0000FFFF"
+      - "20005BC4 02F1FFFF"
+      - "10005BC8 0000FFFF"
+      - "20005C64 02F1FFFF"
+      - "10005C68 0000FFFF"
+
+  - name: "Heat Guage Max"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "420057D0 46AF0000"
+      - "400400B0 00000000"
+
+  - name: "Heat Guage Rising Max(Refill?)"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "400057D7 0000001F"
+      - "400400B0 00000000"
+
+  - name: "Saigo's Training Completed"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "200027FC 001E39FF"
+
+  - name: "IF7-R is Finished"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "2000285C FFFFFFFF"
+      - "20002860 FFFFFFFF"
+      - "10002864 0000FFFF"
+
+  - name: "Sennin(?) Quest Completed"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "1000281E 00001FFF"
+
+  - name: "Easy"
+    notes: "[Difficulty Modifer]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10000014 00000000"
+
+  - name: "Normal"
+    notes: "[Difficulty Modifer]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10000014 00000101"
+
+  - name: "Hard"
+    notes: "[Difficulty Modifer]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10000014 00000202"
+
+  - name: "Ex-Hard"
+    notes: "[Difficulty Modifer]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10000014 00000303"
+
+  - name: "All Chars Max Money"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "420082D0 3B9AC9FF"
+      - "40040004 00000000"
+
+  - name: "All Chars abilites x99"
+    notes: "File: data.saveps4\\data.saveps4"
+    codes:
+      - "000057EC 00000063"
+      - "0000589C 00000063"
+      - "0000594C 00000063"
+      - "000059FC 00000063"
+
+  - name: "Kiryu - Slot 1"
+    notes: "[Kiryu Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005A84 0000[ID]"
+      - "20005A86 [Ammo-Durabilty]"
+      - "10005A8A 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Kiryu - Slot 2"
+    notes: "[Kiryu Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005A8C 0000[ID]"
+      - "20005A8E [Ammo-Durabilty]"
+      - "10005A92 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Kiryu - Slot 3"
+    notes: "[Kiryu Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005A94 0000[ID]"
+      - "20005A96 [Ammo-Durabilty]"
+      - "10005A9A 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Kiryu - Slot 4"
+    notes: "[Kiryu Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005A9C 0000[ID]"
+      - "20005A9E [Ammo-Durabilty]"
+      - "10005AA2 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Kiryu - Slot 5"
+    notes: "[Kiryu Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005AA4 0000[ID]"
+      - "20005AA6 [Ammo-Durabilty]"
+      - "10005AAA 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Kiryu - Slot 6"
+    notes: "[Kiryu Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005AAC 0000[ID]"
+      - "20005AAE [Ammo-Durabilty]"
+      - "10005AB2 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Kiryu - Slot 7"
+    notes: "[Kiryu Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005AB4 0000[ID]"
+      - "20005AB6 [Ammo-Durabilty]"
+      - "10005ABA 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Kiryu - Slot 8"
+    notes: "[Kiryu Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005ABC 0000[ID]"
+      - "20005ABE [Ammo-Durabilty]"
+      - "10005AC2 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Kiryu - Slot 9"
+    notes: "[Kiryu Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005AC4 0000[ID]"
+      - "20005AC6 [Ammo-Durabilty]"
+      - "10005ACA 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Kiryu - Slot 10"
+    notes: "[Kiryu Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005ACC 0000[ID]"
+      - "20005ACE [Ammo-Durabilty]"
+      - "10005AD2 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Kiryu - Slot 11"
+    notes: "[Kiryu Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005AD4 0000[ID]"
+      - "20005AD6 [Ammo-Durabilty]"
+      - "10005ADA 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Kiryu - Slot 12"
+    notes: "[Kiryu Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005ADC 0000[ID]"
+      - "20005ADE [Ammo-Durabilty]"
+      - "10005AE2 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Kiryu - Slot 13"
+    notes: "[Kiryu Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005AE4 0000[ID]"
+      - "20005AE6 [Ammo-Durabilty]"
+      - "10005AEA 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Kiryu - Slot 14"
+    notes: "[Kiryu Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005AEC 0000[ID]"
+      - "20005AEE [Ammo-Durabilty]"
+      - "10005AF2 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Kiryu - Slot 15"
+    notes: "[Kiryu Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005AF4 0000[ID]"
+      - "20005AF6 [Ammo-Durabilty]"
+      - "10005AFA 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Kiryu - Slot 16"
+    notes: "[Kiryu Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005AFC 0000[ID]"
+      - "20005AFE [Ammo-Durabilty]"
+      - "10005B02 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Kiryu - Slot 17"
+    notes: "[Kiryu Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005B04 0000[ID]"
+      - "20005B06 [Ammo-Durabilty]"
+      - "10005B0A 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Kiryu - Slot 18"
+    notes: "[Kiryu Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005B0C 0000[ID]"
+      - "20005B0E [Ammo-Durabilty]"
+      - "10005B12 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Kiryu - Slot 19"
+    notes: "[Kiryu Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005B14 0000[ID]"
+      - "20005B16 [Ammo-Durabilty]"
+      - "10005B1A 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Kiryu - Slot 20"
+    notes: "[Kiryu Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005B1C 0000[ID]"
+      - "20005B1E [Ammo-Durabilty]"
+      - "10005B22 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Akiyama - Slot 1"
+    notes: "[Akiyama Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005B24 0000[ID]"
+      - "20005B26 [Ammo-Durabilty]"
+      - "10005B2A 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Akiyama - Slot 2"
+    notes: "[Akiyama Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005B2C 0000[ID]"
+      - "20005B2E [Ammo-Durabilty]"
+      - "10005B32 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Akiyama - Slot 3"
+    notes: "[Akiyama Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005B34 0000[ID]"
+      - "20005B36 [Ammo-Durabilty]"
+      - "10005B3A 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Akiyama - Slot 4"
+    notes: "[Akiyama Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005B3C 0000[ID]"
+      - "20005B3E [Ammo-Durabilty]"
+      - "10005B42 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Akiyama - Slot 5"
+    notes: "[Akiyama Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005B44 0000[ID]"
+      - "20005B46 [Ammo-Durabilty]"
+      - "10005B4A 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Akiyama - Slot 6"
+    notes: "[Akiyama Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005B4C 0000[ID]"
+      - "20005B4E [Ammo-Durabilty]"
+      - "10005B52 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Akiyama - Slot 7"
+    notes: "[Akiyama Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005B54 0000[ID]"
+      - "20005B56 [Ammo-Durabilty]"
+      - "10005B5A 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Akiyama - Slot 8"
+    notes: "[Akiyama Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005B5C 0000[ID]"
+      - "20005B5E [Ammo-Durabilty]"
+      - "10005B62 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Akiyama - Slot 9"
+    notes: "[Akiyama Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005B64 0000[ID]"
+      - "20005B66 [Ammo-Durabilty]"
+      - "10005B6A 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Akiyama - Slot 10"
+    notes: "[Akiyama Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005B6C 0000[ID]"
+      - "20005B6E [Ammo-Durabilty]"
+      - "10005B72 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Akiyama - Slot 11"
+    notes: "[Akiyama Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005B74 0000[ID]"
+      - "20005B76 [Ammo-Durabilty]"
+      - "10005B7A 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Akiyama - Slot 12"
+    notes: "[Akiyama Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005B7C 0000[ID]"
+      - "20005B7E [Ammo-Durabilty]"
+      - "10005B82 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Akiyama - Slot 13"
+    notes: "[Akiyama Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005B84 0000[ID]"
+      - "20005B86 [Ammo-Durabilty]"
+      - "10005B8A 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Akiyama - Slot 14"
+    notes: "[Akiyama Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005B8C 0000[ID]"
+      - "20005B8E [Ammo-Durabilty]"
+      - "10005B92 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Akiyama - Slot 15"
+    notes: "[Akiyama Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005B94 0000[ID]"
+      - "20005B96 [Ammo-Durabilty]"
+      - "10005B9A 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Akiyama - Slot 16"
+    notes: "[Akiyama Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005B9C 0000[ID]"
+      - "20005B9E [Ammo-Durabilty]"
+      - "10005BA2 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Akiyama - Slot 17"
+    notes: "[Akiyama Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005BA4 0000[ID]"
+      - "20005BA6 [Ammo-Durabilty]"
+      - "10005BAA 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Akiyama - Slot 18"
+    notes: "[Akiyama Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005BAC 0000[ID]"
+      - "20005BAE [Ammo-Durabilty]"
+      - "10005BB2 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Akiyama - Slot 19"
+    notes: "[Akiyama Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005BB4 0000[ID]"
+      - "20005BB6 [Ammo-Durabilty]"
+      - "10005BBA 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Akiyama - Slot 20"
+    notes: "[Akiyama Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005BBC 0000[ID]"
+      - "20005BBE [Ammo-Durabilty]"
+      - "10005BC2 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Saejima - Slot 1"
+    notes: "[Saejima Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005BC4 0000[ID]"
+      - "20005BC6 [Ammo-Durabilty]"
+      - "10005BCA 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Saejima - Slot 2"
+    notes: "[Saejima Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005BCC 0000[ID]"
+      - "20005BCE [Ammo-Durabilty]"
+      - "10005BD2 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Saejima - Slot 3"
+    notes: "[Saejima Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005BD4 0000[ID]"
+      - "20005BD6 [Ammo-Durabilty]"
+      - "10005BDA 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Saejima - Slot 4"
+    notes: "[Saejima Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005BDC 0000[ID]"
+      - "20005BDE [Ammo-Durabilty]"
+      - "10005BE2 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Saejima - Slot 5"
+    notes: "[Saejima Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005BE4 0000[ID]"
+      - "20005BE6 [Ammo-Durabilty]"
+      - "10005BEA 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Saejima - Slot 6"
+    notes: "[Saejima Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005BEC 0000[ID]"
+      - "20005BEE [Ammo-Durabilty]"
+      - "10005BF2 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Saejima - Slot 7"
+    notes: "[Saejima Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005BF4 0000[ID]"
+      - "20005BF6 [Ammo-Durabilty]"
+      - "10005BFA 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Saejima - Slot 8"
+    notes: "[Saejima Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005BFC 0000[ID]"
+      - "20005BFE [Ammo-Durabilty]"
+      - "10005C02 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Saejima - Slot 9"
+    notes: "[Saejima Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005C04 0000[ID]"
+      - "20005C06 [Ammo-Durabilty]"
+      - "10005C0A 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Saejima - Slot 10"
+    notes: "[Saejima Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005C0C 0000[ID]"
+      - "20005C0E [Ammo-Durabilty]"
+      - "10005C12 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Saejima - Slot 11"
+    notes: "[Saejima Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005C14 0000[ID]"
+      - "20005C16 [Ammo-Durabilty]"
+      - "10005C1A 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Saejima - Slot 12"
+    notes: "[Saejima Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005C1C 0000[ID]"
+      - "20005C1E [Ammo-Durabilty]"
+      - "10005C22 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Saejima - Slot 13"
+    notes: "[Saejima Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005C24 0000[ID]"
+      - "20005C26 [Ammo-Durabilty]"
+      - "10005C2A 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Saejima - Slot 14"
+    notes: "[Saejima Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005C2C 0000[ID]"
+      - "20005C2E [Ammo-Durabilty]"
+      - "10005C32 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Saejima - Slot 15"
+    notes: "[Saejima Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005C34 0000[ID]"
+      - "20005C36 [Ammo-Durabilty]"
+      - "10005C3A 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Saejima - Slot 16"
+    notes: "[Saejima Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005C3C 0000[ID]"
+      - "20005C3E [Ammo-Durabilty]"
+      - "10005C42 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Saejima - Slot 17"
+    notes: "[Saejima Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005C44 0000[ID]"
+      - "20005C46 [Ammo-Durabilty]"
+      - "10005C4A 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Saejima - Slot 18"
+    notes: "[Saejima Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005C4C 0000[ID]"
+      - "20005C4E [Ammo-Durabilty]"
+      - "10005C52 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Saejima - Slot 19"
+    notes: "[Saejima Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005C54 0000[ID]"
+      - "20005C56 [Ammo-Durabilty]"
+      - "10005C5A 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Saejima - Slot 20"
+    notes: "[Saejima Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005C5C 0000[ID]"
+      - "20005C5E [Ammo-Durabilty]"
+      - "10005C62 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Tanimura - Slot 1"
+    notes: "[Tanimura Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005C64 0000[ID]"
+      - "20005C66 [Ammo-Durabilty]"
+      - "10005C6A 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Tanimura - Slot 2"
+    notes: "[Tanimura Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005C6C 0000[ID]"
+      - "20005C6E [Ammo-Durabilty]"
+      - "10005C72 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Tanimura - Slot 3"
+    notes: "[Tanimura Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005C74 0000[ID]"
+      - "20005C76 [Ammo-Durabilty]"
+      - "10005C7A 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Tanimura - Slot 4"
+    notes: "[Tanimura Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005C7C 0000[ID]"
+      - "20005C7E [Ammo-Durabilty]"
+      - "10005C82 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Tanimura - Slot 5"
+    notes: "[Tanimura Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005C84 0000[ID]"
+      - "20005C86 [Ammo-Durabilty]"
+      - "10005C8A 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Tanimura - Slot 6"
+    notes: "[Tanimura Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005C8C 0000[ID]"
+      - "20005C8E [Ammo-Durabilty]"
+      - "10005C92 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Tanimura - Slot 7"
+    notes: "[Tanimura Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005C94 0000[ID]"
+      - "20005C96 [Ammo-Durabilty]"
+      - "10005C9A 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Tanimura - Slot 8"
+    notes: "[Tanimura Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005C9C 0000[ID]"
+      - "20005C9E [Ammo-Durabilty]"
+      - "10005CA2 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Tanimura - Slot 9"
+    notes: "[Tanimura Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005CA4 0000[ID]"
+      - "20005CA6 [Ammo-Durabilty]"
+      - "10005CAA 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Tanimura - Slot 10"
+    notes: "[Tanimura Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005CAC 0000[ID]"
+      - "20005CAE [Ammo-Durabilty]"
+      - "10005CB2 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Tanimura - Slot 11"
+    notes: "[Tanimura Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005CB4 0000[ID]"
+      - "20005CB6 [Ammo-Durabilty]"
+      - "10005CBA 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Tanimura - Slot 12"
+    notes: "[Tanimura Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005CBC 0000[ID]"
+      - "20005CBE [Ammo-Durabilty]"
+      - "10005CC2 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Tanimura - Slot 13"
+    notes: "[Tanimura Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005CC4 0000[ID]"
+      - "20005CC6 [Ammo-Durabilty]"
+      - "10005CCA 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Tanimura - Slot 14"
+    notes: "[Tanimura Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005CCC 0000[ID]"
+      - "20005CCE [Ammo-Durabilty]"
+      - "10005CD2 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Tanimura - Slot 15"
+    notes: "[Tanimura Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005CD4 0000[ID]"
+      - "20005CD6 [Ammo-Durabilty]"
+      - "10005CDA 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Tanimura - Slot 16"
+    notes: "[Tanimura Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005CDC 0000[ID]"
+      - "20005CDE [Ammo-Durabilty]"
+      - "10005CE2 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Tanimura - Slot 17"
+    notes: "[Tanimura Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005CE4 0000[ID]"
+      - "20005CE6 [Ammo-Durabilty]"
+      - "10005CEA 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Tanimura - Slot 18"
+    notes: "[Tanimura Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005CEC 0000[ID]"
+      - "20005CEE [Ammo-Durabilty]"
+      - "10005CF2 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Tanimura - Slot 19"
+    notes: "[Tanimura Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005CF4 0000[ID]"
+      - "20005CF6 [Ammo-Durabilty]"
+      - "10005CFA 000000[AMOUNT:63:HEX:BIG]"
+
+  - name: "Tanimura - Slot 20"
+    notes: "[Tanimura Items Mod]  File: data.saveps4\\data.saveps4"
+    codes:
+      - "10005CFC 0000[ID]"
+      - "20005CFE [Ammo-Durabilty]"
+      - "10005D02 000000[AMOUNT:63:HEX:BIG]"

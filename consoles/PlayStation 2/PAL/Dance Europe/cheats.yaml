@@ -1,0 +1,23 @@
+# Dance Europe cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52107
+
+game: "Dance Europe"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52107"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0175534 00175537"
+
+  - name: "Have 99,999,999 Score"
+    author: "Codejunkies"
+    codes:
+      - "201E5080 05F5E0FF"

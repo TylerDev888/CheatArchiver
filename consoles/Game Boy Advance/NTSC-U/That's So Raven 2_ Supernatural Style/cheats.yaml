@@ -1,0 +1,67 @@
+# That's So Raven 2_ Supernatural Style cheat data
+# Console: Game Boy Advance
+# Region:  NTSC-U
+# Serial:  AGB-BZSE-USA
+
+game: "That's So Raven 2_ Supernatural Style"
+console: "Game Boy Advance"
+region: "NTSC-U"
+serial: "AGB-BZSE-USA"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Possible Enable Code (Pad method):"
+    notes: "[Enable Code]  File: NTSC"
+    codes:
+      - "00001673 000A"
+      - "10004DB0 0007"
+
+  - name: "Max Cash"
+    notes: "File: NTSC"
+    codes:
+      - "82015548 270f"
+
+  - name: "Max/Inf Health"
+    notes: "File: NTSC"
+    codes:
+      - "320176C4 0006"
+      - "32015502 0006"
+
+  - name: "Max/Inf Transformation Bar"
+    notes: "File: NTSC"
+    codes:
+      - "82015544 06FF"
+
+  - name: "Max/Inf Pies"
+    notes: "File: NTSC"
+    codes:
+      - "32015529 00F2"
+
+  - name: "Unlock lvl 2"
+    notes: "File: NTSC"
+    codes:
+      - "82015510 FFFF"
+
+  - name: "Vison Changer(Picture mod"
+    notes: "File: NTSC"
+    codes:
+      - "320154f0 00[VISION]"
+
+  - name: "Chearleader outfit"
+    notes: "File: NTSC"
+    codes:
+      - "3201500 0001"
+
+  - name: "Have Everything (Ravens Store)"
+    notes: "File: NTSC"
+    codes:
+      - "82015512 FFFF"
+      - "82015514 FFFF"
+      - "8201553E 3FF7"
+      - "82015540 07FF"
+      - "32015516 0007"
+      - "32015511 0080"
+      - "3201553b 001F"
+      - "3201553C 00FF"
+      - "32015534 0004"

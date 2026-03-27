@@ -1,0 +1,67 @@
+# WWF Smackdown! - Just Bring It! [Demo] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-29011
+
+game: "WWF Smackdown! - Just Bring It! [Demo]"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-29011"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01D18B8 001115EF"
+
+  - name: "All Characters After Save"
+    author: "Codejunkies"
+    codes:
+      - "007245A6 000000FF"
+
+  - name: "All Movies After Save"
+    author: "Codejunkies"
+    codes:
+      - "0072B018 0000003F"
+
+  - name: "All Special Modes After Save"
+    author: "Codejunkies"
+    codes:
+      - "007245A8 000000FF"
+
+  - name: "Easy Matches"
+    author: "Codejunkies"
+    codes:
+      - "102E2FC8 00000000"
+
+  - name: "Infinite Creation Points"
+    author: "Codejunkies"
+    codes:
+      - "D1A6AF40 00000090"
+      - "11A6AF40 000003E7"
+
+  - name: "Max Sd! Meter-P1: Press L1"
+    author: "Codejunkies"
+    codes:
+      - "D02F5982 0000FBFF"
+      - "21B28C4C 00630000"
+      - "D02F5982 0000FBFF"
+      - "21B42544 00000063"
+      - "D02F5982 0000FBFF"
+      - "21B434B4 00000063"
+      - "D02F5982 0000FBFF"
+      - "21B406D4 00000063"
+      - "D02F5982 0000FBFF"
+      - "21B42514 00000063"
+      - "D02F5982 0000FBFF"
+      - "21B51804 00000063"
+      - "D02F5982 0000FBFF"
+      - "21B28C7C 00630000"
+
+  - name: "Wins (Slobber Knocker)"
+    author: "Codejunkies"
+    codes:
+      - "10725C84 00000063"

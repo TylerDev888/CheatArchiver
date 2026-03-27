@@ -1,0 +1,53 @@
+# King Kong cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "King Kong"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90105834 0C1819F2"
+
+  - name: "Human"
+    author: "Xploder"
+    notes: "[Health]"
+    codes:
+      - "202D5308 00000000"
+
+  - name: "Kong"
+    author: "Xploder"
+    notes: "[Health]"
+    codes:
+      - "10EE5CBE 000042C8"
+
+  - name: "Pistol"
+    author: "Xploder"
+    notes: "[Ammo]"
+    codes:
+      - "20DAC958 00000064"
+
+  - name: "Shotgun"
+    author: "Xploder"
+    notes: "[Ammo]"
+    codes:
+      - "20DAC9E8 00000064"
+
+  - name: "Sniper"
+    author: "Xploder"
+    notes: "[Ammo]"
+    codes:
+      - "20DACA30 00000064"
+
+  - name: "Machine Gun"
+    author: "Xploder"
+    notes: "[Ammo]"
+    codes:
+      - "20DAC9A0 00000064"

@@ -1,0 +1,91 @@
+# NeoGeo Battle Coliseum cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54395
+
+game: "NeoGeo Battle Coliseum"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54395"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Pal2ntsc"
+    notes: "[Misc Codes]"
+    codes:
+      - "20100260 24120002"
+
+  - name: "Shrink Screen"
+    notes: "[Misc Codes]"
+    codes:
+      - "00318A98 00000001"
+
+  - name: "Infinite Time"
+    notes: "[Misc Codes]"
+    codes:
+      - "00318E50 0000002C"
+
+  - name: "Unlock All Characters"
+    notes: "[Misc Codes]"
+    codes:
+      - "20318A84 FFFFFFFF"
+      - "20318A88 FFFFFFFF"
+
+  - name: "100% Complete"
+    notes: "[Misc Codes]"
+    codes:
+      - "40323330 00200001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Inf HP (character 1)"
+    notes: "[P1]"
+    codes:
+      - "203CA568 00E000E0"
+
+  - name: "Inf Guard (character 1)"
+    notes: "[P1]"
+    codes:
+      - "003CA56E 000000E0"
+
+  - name: "Inf HP (character 2)"
+    notes: "[P1]"
+    codes:
+      - "203CA584 00E000E0"
+
+  - name: "Inf Guard (character 2)"
+    notes: "[P1]"
+    codes:
+      - "003CA58A 000000E0"
+
+  - name: "Inf Power Gauge (both Character)"
+    notes: "[P1]"
+    codes:
+      - "003CA4B6 000000FF"
+
+  - name: "No HP (character 1)"
+    notes: "[P2]"
+    codes:
+      - "D03CA71C 000000E0"
+      - "203CA71C 00010001"
+
+  - name: "No Guard (character 1)"
+    notes: "[P2]"
+    codes:
+      - "003CA722 00000000"
+
+  - name: "No HP (character 2)"
+    notes: "[P2]"
+    codes:
+      - "D03CA738 000000E0"
+      - "203CA738 00010001"
+
+  - name: "No Guard (character 2)"
+    notes: "[P2]"
+    codes:
+      - "003CA73E 00000000"
+
+  - name: "No Power Gauge (both Character)"
+    notes: "[P2]"
+    codes:
+      - "003CA66A 00000000"

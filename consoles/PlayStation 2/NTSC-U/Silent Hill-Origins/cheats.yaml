@@ -1,0 +1,213 @@
+# Silent Hill-Origins cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21731
+
+game: "Silent Hill-Origins"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21731"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90293E40 00832021"
+
+  - name: "P1 Press Select To Skip FMV"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202F9950 8C620000"
+      - "D06CBE42 0000FFFE"
+      - "202F9950 24020001"
+
+  - name: "Infinite Health"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20136178 E6000BDC"
+
+  - name: "Never Reload"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20137F7C 00000000"
+
+  - name: "Never Reload With Max Clip"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20137F78 240203E7"
+
+  - name: "Infinite Ammo"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2018FA08 00000000"
+
+  - name: "Max Infinite Ammo"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2018FA04 240203E7"
+
+  - name: "Extra Ammo"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2018FA04 00441021"
+
+  - name: "Infinite Items"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20190A8C 00000000"
+
+  - name: "Max Infinite Items"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20190A88 240303E7"
+
+  - name: "Extra Items"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20190A88 00661821"
+
+  - name: "Infinite Run (Never Exhausted)"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20137988 00000000"
+
+  - name: "Spotty Flashlight"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101E43D8 00000000"
+
+  - name: "P1 Press L2+R2+L1+R1 To Replenish Health"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1012EF84 00000007"
+      - "D06CBE42 0000F0FF"
+      - "1012EF84 00000003"
+
+  - name: "P1 Press L3+R3+L1+R1 To Suicide"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D06CBE42 0000F9F3"
+      - "2012EFA8 14830000"
+      - "D06CBE42 0000FFFF"
+      - "2012EFA8 1483000A"
+
+  - name: "P1 Press R3+L1 For Double Speed"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E005FBFB 006CBE42"
+      - "200C0220 3C014000"
+      - "200C0224 AE210E80"
+      - "200C0228 03E00008"
+      - "200C022C C6200E80"
+      - "20121F98 0C030088"
+
+  - name: "P1 Press R3+L2 For Triple Speed"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E005FEFB 006CBE42"
+      - "200C0220 3C014090"
+      - "200C0224 AE210E80"
+      - "200C0228 03E00008"
+      - "200C022C C6200E80"
+      - "20121F98 0C030088"
+
+  - name: "P1 Press R3+R2 For Normal Speed"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E005FDFB 006CBE42"
+      - "200C0220 3C013F80"
+      - "200C0224 AE210E80"
+      - "200C0228 03E00008"
+      - "200C022C C6200E80"
+      - "20121F98 0C030088"
+
+  - name: "P1 Press L3+L1 Enable Turbo Mode"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D06CBE42 0000FBFD"
+      - "101D70C0 00000000"
+
+  - name: "P1 Press L3+L2 Disable Turbo Mode"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D06CBE42 0000FEFD"
+      - "101D70C0 0000000A"
+
+  - name: "P1 Press R3+L1 Enable Goggels Mode"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D06CBE42 0000F7FD"
+      - "101E4430 00000000"
+
+  - name: "P1 Press R3+L2 Disable Goggels Mode"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D06CBE42 0000FDFD"
+      - "101E4430 00000006"
+
+  - name: "God Mode"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "2013617C AE010F64"
+
+  - name: "Quick Death Enemies"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "1012EEE8 00000003"
+      - "2012EF08 10000004"
+
+  - name: "Unlock Extra Options"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "203387EC 00000000"
+
+  - name: "Unlock All Maps"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "20338804 00000000"
+
+  - name: "Noise Filter"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "101E4456 00001000"
+
+  - name: "Extra Blood"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "00338994 00000001"
+
+  - name: "Always Bloody Foot Steps"
+    author: "Lajos Szalay>Skiller>Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "00338614 00000001"

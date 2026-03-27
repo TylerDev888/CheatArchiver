@@ -1,0 +1,90 @@
+# DK_ King of Swing cheat data
+# Console: Game Boy Advance
+# Region:  NTSC-U
+# Serial:  AGB-BBKE-USA
+
+game: "DK_ King of Swing"
+console: "Game Boy Advance"
+region: "NTSC-U"
+serial: "AGB-BBKE-USA"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "0000 type"
+    notes: "[Jokers]  File: NTSC"
+    codes:
+      - "02022004 ????"
+      - "03000040 ????"
+      - "03000044 ????"
+      - "03000060 ????"
+      - "03000064 ????"
+      - "03000100 ????"
+      - "0300036C ????"
+
+  - name: "FFFF type"
+    notes: "[Jokers]  File: NTSC"
+    codes:
+      - "03000046 ????"
+
+  - name: "Inf Health"
+    author: "SkillerCMP"
+    notes: "File: NTSC"
+    codes:
+      - "3300002C 0003"
+
+  - name: "Inf/Max Bannanas"
+    author: "SkillerCMP"
+    notes: "File: NTSC"
+    codes:
+      - "83000030 012C"
+
+  - name: "All Missions Compleat(Note You have to Beat Main boss one time to unlock everything ..You must win - this does not inclues the Jungle jam)"
+    author: "SkillerCMP"
+    notes: "File: NTSC"
+    codes:
+      - "43000200 0101"
+      - "00000033 0002"
+      - "430002E0 0101"
+      - "00000003 0002"
+      - "430002E8 0101"
+      - "00000008 0002"
+      - "43000390 0101"
+      - "0000000A 0002"
+      - "43000280 7f05"
+      - "00000005 0002"
+      - "330002E6 0001"
+      - "33000268 0001"
+      - "83000290 0101"
+      - "83000292 0101"
+      - "83000294 1401"
+
+  - name: "Player MOD (Story)"
+    author: "SkillerCMP"
+    notes: "[Character]  File: NTSC"
+    codes:
+      - "3300014E 000[NAME]"
+
+  - name: "Player Red"
+    author: "SkillerCMP"
+    notes: "[Character]  File: NTSC"
+    codes:
+      - "330002A0 000[NAME]"
+
+  - name: "Player Blue"
+    author: "SkillerCMP"
+    notes: "[Character]  File: NTSC"
+    codes:
+      - "330002A1 000[NAME]"
+
+  - name: "Player Yellow"
+    author: "SkillerCMP"
+    notes: "[Character]  File: NTSC"
+    codes:
+      - "330002A2 000[NAME]"
+
+  - name: "Player Green"
+    author: "SkillerCMP"
+    notes: "[Character]  File: NTSC"
+    codes:
+      - "330002A3 000[NAME]"

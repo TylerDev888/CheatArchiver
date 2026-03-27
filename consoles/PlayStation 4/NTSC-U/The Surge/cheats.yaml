@@ -1,0 +1,30 @@
+# The Surge cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA04733
+
+game: "The Surge"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA04733"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Infinite Health"
+    author: "ProbablyRaging"
+    notes: "File: autosave[0-3]\\autosave[0-3].sav"
+    codes:
+      - "200005AD 003C1C46"
+
+  - name: "Infinite Stamina"
+    author: "hoanghieptrans"
+    notes: "File: autosave[0-3]\\autosave[0-3].sav"
+    codes:
+      - "100005A5 0000FA44"
+
+  - name: "Infinite Energy"
+    author: "hoanghieptrans"
+    notes: "File: autosave[0-3]\\autosave[0-3].sav"
+    codes:
+      - "100005A9 0000FA44"

@@ -1,0 +1,51 @@
+# X-Squad cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50031
+
+game: "X-Squad"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50031"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0166A5C 000001FD"
+
+  - name: "Bad Guys Can't Attack"
+    author: "InterAct"
+    codes:
+      - "20117648 00000000"
+
+  - name: "Finish The Level (Press L2 To Finish The Level You Are Currently Playing)"
+    author: "Codejunkies"
+    codes:
+      - "D022DF9A 0000FEFF"
+      - "2028E728 00000001"
+      - "D022DF9A 0000FFFF"
+      - "2028E728 00000000"
+
+  - name: "Have Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "11AC1BF8 0000001E"
+
+  - name: "Have Infinite Pistol Ammo"
+    author: "Codejunkies"
+    codes:
+      - "11AD04D4 0000000F"
+
+  - name: "Have Infinite Shield"
+    author: "Codejunkies"
+    codes:
+      - "11AC1BFC 00000019"
+
+  - name: "Infinite Ammo All Levels"
+    author: "InterAct"
+    codes:
+      - "20290BD4 00000001"

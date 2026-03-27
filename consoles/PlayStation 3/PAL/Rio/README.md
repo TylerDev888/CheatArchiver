@@ -1,0 +1,62 @@
+# Rio
+
+**Console:** PlayStation 3  
+**Region:** PAL  
+**Serial:** BLES01139  
+**Cheat Type:** Save Editor  
+
+---
+
+## Cheats
+
+### Get Crc32 For 66600004.dat (required)
+**Author:**   
+**Notes:** File: 66600004.DAT
+
+```
+set [hash_66600004.DAT]:CRC32
+set [size_66600004.DAT]:eof+1
+```
+
+---
+
+### Get Crc32 For 6660000e.dat (required)
+**Author:**   
+**Notes:** File: 6660000E.DAT
+
+```
+set [hash_6660000E.DAT]:CRC32
+set [size_6660000E.DAT]:eof+1
+```
+
+---
+
+### Get Crc32 For 66600011.dat (required)
+**Author:**   
+**Notes:** File: 66600011.DAT  (dependency: SAVE.BIN)
+
+```
+set [hash_66600011.DAT]:CRC32
+set [size_66600011.DAT]:eof+1
+```
+
+---
+
+### Update Crc32 For 56600001.dat And 96600000.dat (required)
+**Author:**   
+**Notes:** File: SAVE.BIN  (set range:0x000010,0x000223)
+
+```
+write at 0x000014:[size_66600004.DAT]
+write at 0x000018:[hash_66600004.DAT]
+write at 0x000024:[size_6660000E.DAT]
+write at 0x000028:[hash_6660000E.DAT]
+write at 0x000034:[size_66600011.DAT]
+write at 0x000038:[hash_66600011.DAT]
+set pointer:eof+1
+set range:0x000010,pointer
+set [hash]:CRC32
+write at 0x000008:[hash]
+```
+
+---

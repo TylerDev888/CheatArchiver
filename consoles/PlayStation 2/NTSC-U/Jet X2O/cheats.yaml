@@ -1,0 +1,346 @@
+# Jet X2O cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97173
+
+game: "Jet X2O"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97173"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01DE414 001DE417"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001DE417"
+
+  - name: "Max Accel"
+    author: "Code Master"
+    notes: "[Aftershock Craft Codes]"
+    codes:
+      - "002ACF0A 0000007F"
+
+  - name: "Max All Stats"
+    author: "Code Master"
+    notes: "[Aftershock Craft Codes]"
+    codes:
+      - "202ACF80 7F7F7F7F"
+
+  - name: "Max Handling"
+    author: "Code Master"
+    notes: "[Aftershock Craft Codes]"
+    codes:
+      - "002ACF30 0000007F"
+
+  - name: "Max Speed"
+    author: "Code Master"
+    notes: "[Aftershock Craft Codes]"
+    codes:
+      - "002ACF31 0000007F"
+
+  - name: "Max Stability"
+    author: "Code Master"
+    notes: "[Aftershock Craft Codes]"
+    codes:
+      - "002ACF0B 0000007F"
+
+  - name: "Unlock Decal 1"
+    author: "Code Master"
+    notes: "[Aftershock Craft Codes]"
+    codes:
+      - "002ACE7C 00000001"
+
+  - name: "Unlock Decal 2"
+    author: "Code Master"
+    notes: "[Aftershock Craft Codes]"
+    codes:
+      - "002ACE7D 00000001"
+
+  - name: "Unlock Decal 3"
+    author: "Code Master"
+    notes: "[Aftershock Craft Codes]"
+    codes:
+      - "002ACE84 00000001"
+
+  - name: "Boost Never Decreases"
+    author: "InterAct"
+    codes:
+      - "20145AB8 03E00008"
+      - "20145ABC 00000000"
+      - "20145B38 03E00008"
+      - "20145B3C 00000000"
+
+  - name: "Max Balance"
+    author: "Code Master"
+    notes: "[Eva Del Toro Codes]"
+    codes:
+      - "202839A8 3F800000"
+
+  - name: "Max Strength"
+    author: "Code Master"
+    notes: "[Eva Del Toro Codes]"
+    codes:
+      - "202839AC 3F800000"
+
+  - name: "Max Tricks"
+    author: "Code Master"
+    notes: "[Eva Del Toro Codes]"
+    codes:
+      - "202839B4 3F800000"
+
+  - name: "Max Weight"
+    author: "Code Master"
+    notes: "[Eva Del Toro Codes]"
+    codes:
+      - "202839B0 3F800000"
+
+  - name: "Have More Lift When Jumping"
+    author: "Codejunkies"
+    codes:
+      - "202B6C64 54C80000"
+
+  - name: "Disable Collisions"
+    author: "Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "20165E90 03E00008"
+      - "20165E94 00000000"
+
+  - name: "Fast Wave Speed"
+    author: "Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "202A5550 BFFF0000"
+
+  - name: "Hella Score Gain"
+    author: "Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "20114590 2407270F"
+
+  - name: "Infinite Boost (Upon Pickup)"
+    author: "Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "20145B10 00000000"
+      - "20145B88 00000000"
+
+  - name: "Infinite Points Remaining"
+    author: "Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "D0269488 0010BFFF"
+      - "202616E8 00000063"
+      - "D0269488 0000BFFF"
+      - "202616E8 00000000"
+
+  - name: "Infinite Turbo Boost"
+    author: "Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "20117A60 3C013FE8"
+      - "20117A68 AE210000"
+
+  - name: "Max Speed Always 0-CPU Opponents"
+    author: "Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "2026446C 00000000"
+
+  - name: "Out Of Water Thrust Modifier (Default 3E8ccccd)"
+    author: "Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "202B6C64 ????????"
+
+  - name: "Unlock All Craft"
+    author: "Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "402ACE3C 00040001"
+      - "01010101 00000000"
+
+  - name: "Unlock All Decals"
+    author: "Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "402ACE64 000C0001"
+      - "01010101 00000000"
+
+  - name: "Unlock All Wetsuits"
+    author: "Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "402ACE4C 00060001"
+      - "01010101 00000000"
+
+  - name: "Wave Height Modifier (Default 40A00000)"
+    author: "Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "202B6C14 ????????"
+
+  - name: "Waves Don't Move"
+    author: "Code Master"
+    notes: "[Misc. Codes]"
+    codes:
+      - "202A5550 00000000"
+
+  - name: "Counterforce"
+    author: "Code Master"
+    notes: "[Unlock Craft Codes]"
+    codes:
+      - "002ACE45 00000001"
+
+  - name: "Dark Thorne"
+    author: "Code Master"
+    notes: "[Unlock Craft Codes]"
+    codes:
+      - "002ACE43 00000001"
+
+  - name: "Golden Tiger"
+    author: "Code Master"
+    notes: "[Unlock Craft Codes]"
+    codes:
+      - "002ACE47 00000001"
+
+  - name: "Mastermind"
+    author: "Code Master"
+    notes: "[Unlock Craft Codes]"
+    codes:
+      - "002ACE3F 00000001"
+
+  - name: "Mixmaster"
+    author: "Code Master"
+    notes: "[Unlock Craft Codes]"
+    codes:
+      - "002ACE4B 00000001"
+
+  - name: "Renegade"
+    author: "Code Master"
+    notes: "[Unlock Craft Codes]"
+    codes:
+      - "002ACE3D 00000001"
+
+  - name: "Sunburst"
+    author: "Code Master"
+    notes: "[Unlock Craft Codes]"
+    codes:
+      - "002ACE49 00000001"
+
+  - name: "Tsunami"
+    author: "Code Master"
+    notes: "[Unlock Craft Codes]"
+    codes:
+      - "002ACE3E 00000001"
+
+  - name: "Valkyrie"
+    author: "Code Master"
+    notes: "[Unlock Craft Codes]"
+    codes:
+      - "002ACE41 00000001"
+
+  - name: "All Riders"
+    author: "Code Master"
+    notes: "[Unlock Rider Codes]"
+    codes:
+      - "202ACE38 01010101"
+
+  - name: "Kenji Tanaka"
+    author: "Code Master"
+    notes: "[Unlock Rider Codes]"
+    codes:
+      - "002ACE3B 00000001"
+
+  - name: "Lia Cardoso"
+    author: "Code Master"
+    notes: "[Unlock Rider Codes]"
+    codes:
+      - "002ACE3A 00000001"
+
+  - name: "Vittorio Calabria"
+    author: "Code Master"
+    notes: "[Unlock Rider Codes]"
+    codes:
+      - "002ACE39 00000001"
+
+  - name: "Vladi Zakharov"
+    author: "Code Master"
+    notes: "[Unlock Rider Codes]"
+    codes:
+      - "002ACE38 00000001"
+
+  - name: "All Tracks"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "202ACE94 01010101"
+
+  - name: "Aquatica"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "002ACE96 00000001"
+
+  - name: "Metronox"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "002ACE97 00000001"
+
+  - name: "Neotropic"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "002ACE95 00000001"
+
+  - name: "Permafrost"
+    author: "Code Master"
+    notes: "[Unlock Track Codes]"
+    codes:
+      - "002ACE94 00000001"
+
+  - name: "Wetsuit 1"
+    author: "Code Master"
+    notes: "[Unlock Wetsuit Codes]"
+    codes:
+      - "002ACE4F 00000001"
+
+  - name: "Wetsuit 2"
+    author: "Code Master"
+    notes: "[Unlock Wetsuit Codes]"
+    codes:
+      - "002ACE50 00000001"
+
+  - name: "Wetsuit 3"
+    author: "Code Master"
+    notes: "[Unlock Wetsuit Codes]"
+    codes:
+      - "002ACE51 00000001"
+
+  - name: "Big Waves"
+    author: "Codejunkies"
+    notes: "[Waves Codes]"
+    codes:
+      - "202B6C14 41A00000"
+
+  - name: "No Waves"
+    author: "Codejunkies"
+    notes: "[Waves Codes]"
+    codes:
+      - "202B6C14 00000000"
+
+  - name: "Turbo Waves"
+    author: "Codejunkies"
+    notes: "[Waves Codes]"
+    codes:
+      - "202A5550 BFF00000"

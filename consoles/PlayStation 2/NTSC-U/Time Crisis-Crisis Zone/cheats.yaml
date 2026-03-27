@@ -1,0 +1,91 @@
+# Time Crisis-Crisis Zone cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20927
+
+game: "Time Crisis-Crisis Zone"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20927"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0010ECEF"
+
+  - name: "Infinite Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2012EA14 00000000"
+
+  - name: "P1 Press L1+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D07B5882 0000FBFE"
+      - "2012EA14 00000000"
+
+  - name: "P1 Press L2+Select To Restart Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D07B5882 0000FEFE"
+      - "2012EA14 E422C678"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2012ED80 00000000"
+
+  - name: "Infinite Ammo"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2015F2C0 00000000"
+
+  - name: "1-Hit Death (Non-Boss Enemies)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2017837C AC800020"
+
+  - name: "Quick Score Gain"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2020CCD4 240203E7"
+
+  - name: "Quicker Score Gain"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2020CCD4 2402270F"
+
+  - name: "Quick Max Score"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2020CCD4 3C020098"
+      - "2020CCD8 3442967F"
+
+  - name: "Unlock Everything"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "408DDA80 00040001"
+      - "FFFFFFFF 00000000"
+      - "208DDAA0 00000009"
+      - "208DDAA4 00000009"
+
+  - name: "Max Hit (Crisis Missions)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2079C680 000003E7"
+      - "2079C684 000003E7"

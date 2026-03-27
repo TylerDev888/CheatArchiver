@@ -1,0 +1,33 @@
+# Piglet's Big Game cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20659
+
+game: "Piglet's Big Game"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20659"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0011C87F"
+
+  - name: "Max Cookies (Little Roo)"
+    author: "Code Master"
+    codes:
+      - "2054DB74 000000E1"
+
+  - name: "Max Cookies (Overall)"
+    author: "Code Master"
+    codes:
+      - "204F39B8 0000270F"
+
+  - name: "Max Cookies (Pooh)"
+    author: "Code Master"
+    codes:
+      - "2054D6A0 0000009B"

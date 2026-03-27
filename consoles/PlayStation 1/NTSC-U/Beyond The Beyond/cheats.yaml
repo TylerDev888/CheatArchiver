@@ -1,0 +1,78 @@
+# Beyond The Beyond cheat data
+# Console: PlayStation 1
+# Region:  NTSC-U
+# Serial:  SCUS-94702
+
+game: "Beyond The Beyond"
+console: "PlayStation 1"
+region: "NTSC-U"
+serial: "SCUS-94702"
+cheat_type: "GameShark"
+source: ""
+
+cheats:
+  - name: "Slow Down Encounters (Based on games Battle Machanics)"
+    notes: "[Reandom Battles]"
+    codes:
+      - "8008E74C [BBB]"
+      - "8008E74E 0005"
+
+  - name: "Encounters Speed x2"
+    notes: "[Reandom Battles]"
+    codes:
+      - "8008E71C 0002"
+      - "8008E71E 252C"
+
+  - name: "Battles Happen At Every ## Steps"
+    notes: "[Reandom Battles]"
+    codes:
+      - "8006E040 [PI]"
+      - "8006E042 2AA1"
+      - "8006E044 0003"
+      - "8006E046 1020"
+
+  - name: "Gain XX Money After Battle"
+    notes: "[Non-Visual Battle End Screen]"
+    codes:
+      - "90036AD0 [MONEYA]"
+
+  - name: "Gain XX Exp After Battle"
+    notes: "[Non-Visual Battle End Screen]"
+    codes:
+      - "90036B34 [EXPALL]"
+
+  - name: "Max Exp (Max Level After 1 Battle - holding X for a bit)"
+    notes: "[Max Value After Battle Non-Visual]"
+    codes:
+      - "9007772C AC460040"
+
+  - name: "Max Money"
+    notes: "[Max Value After Battle Non-Visual]"
+    codes:
+      - "9007778C AC253884"
+
+  - name: "Gain XX Money MOD"
+    notes: "[Gain Per On Screen Enemies]"
+    codes:
+      - "90042430 3C018010"
+      - "90042434 8C2E9B0C"
+      - "90042438 [VIEMOD]"
+      - "900424C8 3C018010"
+      - "900424CC 8C2E9B0C"
+      - "900424D0 [VIEMOD]"
+      - "90042560 3C018010"
+      - "90042564 8C2E9B0C"
+      - "90042568 [VIEMOD]"
+
+  - name: "Gain XX EXP MOD"
+    notes: "[Gain Per On Screen Enemies]"
+    codes:
+      - "900423F8 3C018010"
+      - "90042400 8C299B08"
+      - "90042404 [VIEMOD]"
+      - "90042490 3C018010"
+      - "90042498 8C299B08"
+      - "9004249C [VIEMOD]"
+      - "90042528 3C018010"
+      - "90042530 8C299B08"
+      - "90042534 [VIEMOD]"

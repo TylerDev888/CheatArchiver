@@ -1,0 +1,262 @@
+# FIFA Soccer 2003 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20580
+
+game: "FIFA Soccer 2003"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20580"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0322EF8 003BF26F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 003BF26F"
+
+  - name: "All Goal's Score For Away Team"
+    author: "Code Master"
+    codes:
+      - "201867D0 24030004"
+
+  - name: "All Goal's Score For Home Team"
+    author: "Code Master"
+    codes:
+      - "201867D0 24030000"
+
+  - name: "Score 0 Goals"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "103DB874 00000000"
+
+  - name: "Score 20 Goals"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "103DB874 00000014"
+
+  - name: "Score Never Goes Above 1 Goal"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "E0010001 303DB874"
+      - "103DB874 00000001"
+
+  - name: "Score Never Goes Above 2 Goals"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "E0010002 303DB874"
+      - "103DB874 00000002"
+
+  - name: "Score Never Goes Above 3 Goals"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "E0010003 303DB874"
+      - "103DB874 00000003"
+
+  - name: "The Away Team Wins"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "D05DCAC2 0000F5FF"
+      - "103DB870 00000000"
+      - "D05DCAC2 0000F5FF"
+      - "103DB874 00000014"
+
+  - name: "The Home Team Wins"
+    author: "Codejunkies"
+    notes: "[Away Team Score Codes]"
+    codes:
+      - "D05DCAC2 0000FAFF"
+      - "103DB870 00000014"
+      - "D05DCAC2 0000FAFF"
+      - "103DB874 00000000"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "203DB874 0000????"
+
+  - name: "Away Team Start With Score Modifier"
+    author: "Code Master"
+    codes:
+      - "D03DB874 00000000"
+      - "203DB874 0000????"
+
+  - name: "Bookings Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "203DD43C 0000????"
+
+  - name: "Corners Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "203DD438 0000????"
+
+  - name: "Fouls Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "203DD444 0000????"
+
+  - name: "Offsides Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "203DD448 0000????"
+
+  - name: "Shots On Target Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "203DD434 0000????"
+
+  - name: "Tackles Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "103DD45E 0000????"
+
+  - name: "Total Shots Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "203DD42C 0000????"
+
+  - name: "Goal's Score Modifier"
+    author: "Code Master"
+    codes:
+      - "101867E4 000000??"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "203DB870 0000????"
+
+  - name: "Home Team Start With Score Modifier"
+    author: "Code Master"
+    codes:
+      - "D03DB870 00000000"
+      - "203DB870 0000????"
+
+  - name: "P1 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D05DCB42 00000005"
+      - "103DD9E0 00000000"
+
+  - name: "P1 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D05DCB42 0000000A"
+      - "103DD9E0 00000170"
+
+  - name: "P2 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D05DCC42 00000005"
+      - "103DD9E0 00000000"
+
+  - name: "P2 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D05DCC42 0000000A"
+      - "103DD9E0 00000170"
+
+  - name: "P3 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D05DCD42 00000005"
+      - "103DD9E0 00000000"
+
+  - name: "P3 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D05DCD42 0000000A"
+      - "103DD9E0 00000170"
+
+  - name: "P4 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D05DCE42 00000005"
+      - "103DD9E0 00000000"
+
+  - name: "P4 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D05DCE42 0000000A"
+      - "103DD9E0 00000170"
+
+  - name: "P5 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D05DCF42 00000005"
+      - "103DD9E0 00000000"
+
+  - name: "P5 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D056CF42 0000000A"
+      - "103DD9E0 00000170"
+
+  - name: "P6 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D05DD042 00000005"
+      - "103DD9E0 00000000"
+
+  - name: "P6 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D056D042 0000000A"
+      - "103DD9E0 00000170"
+
+  - name: "P7 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D05DD142 00000005"
+      - "103DD9E0 00000000"
+
+  - name: "P7 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D056D142 0000000A"
+      - "103DD9E0 00000170"
+
+  - name: "P8 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D05DD242 00000005"
+      - "103DD9E0 00000000"
+
+  - name: "P8 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D056D242 0000000A"
+      - "103DD9E0 00000170"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 003BF26F"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "903BF26C 0C0F3D65"

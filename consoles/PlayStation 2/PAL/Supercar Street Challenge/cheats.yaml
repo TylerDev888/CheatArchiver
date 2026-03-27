@@ -1,0 +1,26 @@
+# Supercar Street Challenge cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50419
+
+game: "Supercar Street Challenge"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50419"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Opponents Don't Move"
+    author: "luc-ita"
+    codes:
+      - "D010DE4C 8E6200F0"
+      - "2010DE4C 0804379B"
+
+  - name: "Timer Always At Zero"
+    author: "luc-ita"
+    codes:
+      - "D010D73C 10400005"
+      - "2010D73C 00000000"
+      - "D010D744 0480001A"
+      - "2010D744 1000001A"

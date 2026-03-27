@@ -1,0 +1,67 @@
+# Scott Pilgrim vs. The World (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00258
+
+game: "Scott Pilgrim vs. The World (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00258"
+cheat_type: "Save Editor"
+source: "From zeick"
+
+cheats:
+  - name: "Scott"
+    notes: "File: DATA"
+
+  - name: "$9999"
+    notes: "File: DATA"
+    codes:
+      - "search 0xFFFFFFFF"
+      - "write next (-36):461C3C00"
+
+  - name: "9 Lives"
+    notes: "File: DATA"
+    codes:
+      - "search 0xFFFFFFFF"
+      - "write next (-29):09"
+
+  - name: "Hp 9999"
+    notes: "File: DATA"
+    codes:
+      - "search 0xFFFFFFFF"
+      - "write next (-64):461C3C00"
+      - "search 0xFFFFFFFF"
+      - "write next (-48):461C3C00"
+
+  - name: "Wp 9999"
+    notes: "File: DATA"
+    codes:
+      - "search 0xFFFFFFFF"
+      - "write next (-44):461C3C00"
+      - "search 0xFFFFFFFF"
+      - "write next (-68):461C3C00"
+
+  - name: "Spd 99"
+    notes: "File: DATA"
+    codes:
+      - "search 0xFFFFFFFF"
+      - "write next (-56):461C3C00"
+      - "search 0xFFFFFFFF"
+      - "write next (-84):42C60000"
+
+  - name: "Str 9999"
+    notes: "File: DATA"
+    codes:
+      - "search 0xFFFFFFFF"
+      - "write next (-76):461C3C00"
+      - "search 0xFFFFFFFF"
+      - "write next (-56):461C3C00"
+
+  - name: "Def 9999"
+    notes: "File: DATA"
+    codes:
+      - "search 0xFFFFFFFF"
+      - "write next (-88):461C3C00"
+      - "search 0xFFFFFFFF"
+      - "write next (-56):461C3C00"

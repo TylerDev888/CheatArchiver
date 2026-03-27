@@ -1,0 +1,19 @@
+# Harry Potter And The Order Of The Phoenix - SLUS_216.19.CMP cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21619
+
+game: "Harry Potter And The Order Of The Phoenix - SLUS_216.19.CMP"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21619"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]  90476CD8 0C11DADE"
+
+  - name: "Discovery Points Multiplayer"
+    codes:
+      - "1017CCB8 0000[Amount:2710:HEX:BIG]"

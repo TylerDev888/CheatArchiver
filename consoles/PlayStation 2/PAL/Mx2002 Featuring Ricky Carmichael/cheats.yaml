@@ -1,0 +1,37 @@
+# Mx2002 Featuring Ricky Carmichael cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Mx2002 Featuring Ricky Carmichael"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001BF96F"
+
+  - name: "Unlock Everything"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20355F80 FFFFFFFF"
+      - "10355F94 0723FFFF"
+      - "00355F96 680928FF"
+
+  - name: "Career"
+    author: "Xploder"
+    notes: "[Maximum Points]"
+    codes:
+      - "10344F0C 0723FFFF"
+
+  - name: "Freestyle"
+    author: "Xploder"
+    notes: "[Maximum Points]"
+    codes:
+      - "004349BB 68092870"

@@ -1,0 +1,381 @@
+# GTC Africa cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20395
+
+game: "GTC Africa"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20395"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0138A48 001465C7"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001465C7"
+
+  - name: "999 Points P1"
+    author: "InterAct"
+    codes:
+      - "C13B1F92 BCA99E6A"
+      - "CE4D69EA BCA99E6A"
+
+  - name: "All Cars - Single Race"
+    author: "InterAct"
+    codes:
+      - "C13B1906 BCA99B8C"
+
+  - name: "All Cars - Team All Stars"
+    author: "InterAct"
+    codes:
+      - "C13B1E3E BCA99B87"
+
+  - name: "All Cars - Team Cobra"
+    author: "InterAct"
+    codes:
+      - "C13B1C42 BCA99B87"
+
+  - name: "All Cars - Team Lithium"
+    author: "InterAct"
+    codes:
+      - "C13B1FAA BCA99B87"
+
+  - name: "All Cars - Team Pro-Racing"
+    author: "InterAct"
+    codes:
+      - "C13B115A BCA99B87"
+
+  - name: "All Cars - Team Tech-X"
+    author: "InterAct"
+    codes:
+      - "C13B13D6 BCA99B87"
+
+  - name: "All Cars - Team Tornado"
+    author: "InterAct"
+    codes:
+      - "C13B10EE BCA99B87"
+
+  - name: "All Championships"
+    author: "InterAct"
+    codes:
+      - "C13B14CA BCA99B86"
+
+  - name: "Have All Cars (Single Race)"
+    author: "Code Master"
+    codes:
+      - "21C3DD88 00000009"
+
+  - name: "All Stars Team"
+    author: "Code Master"
+    notes: "[Have All Cars Codes]"
+    codes:
+      - "11C3E0C0 00000004"
+
+  - name: "All Teams"
+    author: "Code Master"
+    notes: "[Have All Cars Codes]"
+    codes:
+      - "41C3DF34 00060063"
+      - "00000004 00000000"
+
+  - name: "Cobra Team"
+    author: "Code Master"
+    notes: "[Have All Cars Codes]"
+    codes:
+      - "11C3E24C 00000004"
+
+  - name: "Lithium Team"
+    author: "Code Master"
+    notes: "[Have All Cars Codes]"
+    codes:
+      - "21C3DF34 00000004"
+
+  - name: "Pro-Racing Team"
+    author: "Code Master"
+    notes: "[Have All Cars Codes]"
+    codes:
+      - "11C3E564 00000004"
+
+  - name: "Tech-X Team"
+    author: "Code Master"
+    notes: "[Have All Cars Codes]"
+    codes:
+      - "11C3E3D8 00000004"
+
+  - name: "Tornado Team"
+    author: "Code Master"
+    notes: "[Have All Cars Codes]"
+    codes:
+      - "11C3E6F0 00000004"
+
+  - name: "Have All Championship Modes"
+    author: "Code Master"
+    codes:
+      - "21C3EAD4 00000003"
+
+  - name: "Max Points (Championship Mode)"
+    author: "Code Master"
+    codes:
+      - "10518DF4 000003E7"
+      - "11C3DF1C 000003E7"
+
+  - name: "Start On Lap 3"
+    author: "InterAct"
+    codes:
+      - "D03EBD8C 00000001"
+      - "103EBD8C 00000003"
+
+  - name: "Start On Lap 4"
+    author: "InterAct"
+    codes:
+      - "D03EBD8C 00000001"
+      - "103EBD8C 00000004"
+
+  - name: "Start On Lap 5"
+    author: "InterAct"
+    codes:
+      - "D03EBD8C 00000001"
+      - "103EBD8C 00000005"
+
+  - name: "Start On Lap Modifier (00-09)"
+    author: "Code Master"
+    codes:
+      - "D03EBD8C 00000001"
+      - "103EBD8C 000000??"
+
+  - name: "Player 1 Has 999 Points"
+    author: "Codejunkies"
+    notes: "[Start On Lap...]"
+    codes:
+      - "11C3DF1C 000003E7"
+      - "10518DF4 000003E7"
+
+  - name: "Single Race Mode"
+    author: "Codejunkies"
+    notes: "[These Codes Unlock The Cars For The Team Specified]"
+    codes:
+      - "11C3DD88 00000009"
+
+  - name: "Team Lithium"
+    author: "Codejunkies"
+    notes: "[These Codes Unlock The Cars For The Team Specified]"
+    codes:
+      - "11C3DF34 00000004"
+
+  - name: "Unlock All Championships"
+    author: "Codejunkies"
+    notes: "[These Codes Unlock The Cars For The Team Specified]"
+    codes:
+      - "11C3EAD4 00000003"
+
+  - name: "Unlock All Cars"
+    author: "InterAct"
+    codes:
+      - "11C3E0C0 00000004"
+      - "11C3E24C 00000004"
+      - "11C3DF34 00000004"
+      - "11C3E564 00000004"
+      - "11C3E3D8 00000004"
+      - "11C3E6F0 00000004"
+
+  - name: "All Challenges"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "41C3EBF4 000F0043"
+      - "00000001 00000000"
+
+  - name: "Checkpoint"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "11C3F560 00000001"
+
+  - name: "Downhill 1"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "21C3ED00 00000001"
+
+  - name: "Downhill 2"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "11C3F348 00000001"
+
+  - name: "Downhill 3"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "11C3F778 00000001"
+
+  - name: "Hillclimb 1"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "11C3EF18 00000001"
+
+  - name: "Hillclimb 2"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "11C3F66C 00000001"
+
+  - name: "Overtake Pursuit"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "11C3F990 00000001"
+
+  - name: "Performance"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "11C3F884 00000001"
+
+  - name: "Point To Point 1"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "11C3F454 00000001"
+
+  - name: "Point To Point 2"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "11C3FA9C 00000001"
+
+  - name: "Speed Pursuit 1"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "21C3EBF4 00000001"
+
+  - name: "Speed Pursuit 2"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "11C3F130 00000001"
+
+  - name: "Timed Catch Up"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "11C3EE0C 00000001"
+
+  - name: "Timed Pursuit 1"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "11C3F024 00000001"
+
+  - name: "Timed Pursuit 2"
+    author: "Code Master"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "11C3F23C 00000001"
+
+  - name: "Unlock Checkpoint"
+    author: "InterAct"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "C13B015E BCA99B84"
+
+  - name: "Unlock Downhill 1"
+    author: "InterAct"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "C13B09FE BCA99B84"
+
+  - name: "Unlock Downhill 2"
+    author: "InterAct"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "C13B0346 BCA99B84"
+
+  - name: "Unlock Downhill 3"
+    author: "InterAct"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "C13B0776 BCA99B84"
+
+  - name: "Unlock Hillclimb 1"
+    author: "InterAct"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "C13B0F96 BCA99B84"
+
+  - name: "Unlock Hillclimb 2"
+    author: "InterAct"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "C13B0062 BCA99B84"
+
+  - name: "Unlock Overtake Pursuit"
+    author: "InterAct"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "C13B050E BCA99B84"
+
+  - name: "Unlock Performance"
+    author: "InterAct"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "C13B067A BCA99B84"
+
+  - name: "Unlock Point To Point 1"
+    author: "InterAct"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "C13B024A BCA99B84"
+
+  - name: "Unlock Point To Point 2"
+    author: "InterAct"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "C13B0412 BCA99B84"
+
+  - name: "Unlock Speed Pursuit 1"
+    author: "InterAct"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "C13B0BEA BCA99B84"
+
+  - name: "Unlock Speed Pursuit 2"
+    author: "InterAct"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "C13B0DAE BCA99B84"
+
+  - name: "Unlock Timed Catch Up"
+    author: "InterAct"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "C13B0882 BCA99B84"
+
+  - name: "Unlock Timed Pursuit 1"
+    author: "InterAct"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "C13B0E9A BCA99B84"
+
+  - name: "Unlock Timed Pursuit 2"
+    author: "InterAct"
+    notes: "[Unlock Challenge Codes]"
+    codes:
+      - "C13B0CB2 BCA99B84"
+
+  - name: "Disable Timer And Opponents"
+    author: "Codejunkies"
+    notes: "[Unlock Tracks]"
+    codes:
+      - "1019A380 00000000"

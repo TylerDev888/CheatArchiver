@@ -1,0 +1,60 @@
+# Call Of Duty - Finest Hour cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52782
+
+game: "Call Of Duty - Finest Hour"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52782"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "901001E8 0C042494"
+
+  - name: "Disable AI"
+    author: "Codejunkies"
+    notes: "[Single Player Codes]"
+    codes:
+      - "E0030007 00234948"
+      - "E0023063 0023494A"
+      - "20163E70 03E00008"
+      - "20163E74 00000000"
+
+  - name: "Disable Damage"
+    author: "Codejunkies"
+    notes: "[Single Player Codes]"
+    codes:
+      - "E0030007 00234948"
+      - "E0023063 0023494A"
+      - "2022BB78 24020001"
+      - "2022BFE0 24020001"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    notes: "[Single Player Codes]"
+    codes:
+      - "E0020007 00234948"
+      - "D023494A 00003063"
+      - "2023490C 1000000C"
+
+  - name: "Hyper Mode"
+    author: "Codejunkies"
+    notes: "[Speed Codes (DE Version)]"
+    codes:
+      - "E0020007 00234948"
+      - "D023494A 00003063"
+      - "203E2C30 404CCCCD"
+
+  - name: "Quicker Game"
+    author: "Codejunkies"
+    notes: "[Speed Codes (DE Version)]"
+    codes:
+      - "E0020007 00234948"
+      - "D023494A 00003063"
+      - "203E2C30 3FECCCCD"

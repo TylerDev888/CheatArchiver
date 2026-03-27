@@ -1,0 +1,129 @@
+# Incredibles, The - Rise Of The Underminer cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53474
+
+game: "Incredibles, The - Rise Of The Underminer"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53474"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "2Hitskill"
+    author: "luc-ita"
+    codes:
+      - "202BEBD8 10000040"
+
+  - name: "Earn Upgrade Points To Have Max Quantity"
+    author: "luc-ita"
+    codes:
+      - "20233CC0 10000003"
+
+  - name: "Fly Mode (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "D05B0042 0000FFFA"
+      - "0065AAF8 00000001"
+      - "D05B0042 0000FFFC"
+      - "0065AAF8 00000000"
+
+  - name: "Fly Mode - Alternate Mode (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "D05B0042 0000FFFA"
+      - "0065A8F6 00000000"
+      - "D05B0042 0000FFFA"
+      - "006595B6 00000000"
+      - "D05B0042 0000FFFC"
+      - "0065A8F6 00000001"
+      - "D05B0042 0000FFFC"
+      - "006595B6 00000001"
+
+  - name: "Immediate Recovery After Death"
+    author: "luc-ita"
+    codes:
+      - "2042209C 00000000"
+      - "204220D4 8462001E"
+
+  - name: "Unlimitednukes (Cheat Nukes)"
+    author: "luc-ita"
+    notes: "[Internal Cheats]"
+    codes:
+      - "005AE86F 00000001"
+
+  - name: "Unlock All Levels"
+    author: "luc-ita"
+    notes: "[Internal Cheats]"
+    codes:
+      - "00596F00 00000001"
+
+  - name: "Allowmastercheats (Read Notes)"
+    author: "luc-ita"
+    notes: "[Internal Debug Features]"
+    codes:
+      - "005AE9AD 00000001"
+
+  - name: "Disable HUD"
+    author: "luc-ita"
+    notes: "[Internal Debug Features]"
+    codes:
+      - "005AE939 00000000"
+
+  - name: "Displaypaddebuginfo"
+    author: "luc-ita"
+    notes: "[Internal Debug Features]"
+    codes:
+      - "205963F0 00000001"
+
+  - name: "Nocutscenes"
+    author: "luc-ita"
+    notes: "[Internal Debug Features]"
+    codes:
+      - "005AE861 00000001"
+
+  - name: "Nomovies"
+    author: "luc-ita"
+    notes: "[Internal Debug Features]"
+    codes:
+      - "005AE9A4 00000001"
+
+  - name: "Nomusic"
+    author: "luc-ita"
+    notes: "[Internal Debug Features]"
+    codes:
+      - "005AE860 00000001"
+
+  - name: "Play The Demo Instead Of The Full Game"
+    author: "luc-ita"
+    notes: "[Internal Debug Features]"
+    codes:
+      - "205AE9B0 00000001"
+
+  - name: "Invulnerable (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "005AE944 00000000"
+      - "202393E0 38420001"
+      - "D05B0042 0000EFFE"
+      - "202393E0 34020001"
+
+  - name: "Jump In Midair (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "2024656C AE6201D4"
+      - "D05B0042 0000BDFF"
+      - "2024656C 00000000"
+      - "D05B0042 0000FDFF"
+      - "2024656C 00000000"
+
+  - name: "Jump To Levitate (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "20242F40 10000003"
+
+  - name: "Slow Descent From Jumping"
+    author: "luc-ita"
+    codes:
+      - "20242C94 3C03C000"

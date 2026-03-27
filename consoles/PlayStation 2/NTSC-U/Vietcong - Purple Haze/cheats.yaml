@@ -1,0 +1,60 @@
+# Vietcong - Purple Haze cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21068
+
+game: "Vietcong - Purple Haze"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21068"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F04B7114 004B7117"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 004B7117"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "9022933C 0C12DBFC"
+      - "200C2000 0220202D"
+      - "200C2004 14060004"
+      - "200C200C E4570008"
+      - "200C2010 0C0DE264"
+      - "200C2018 080DD3E5"
+
+  - name: "Infinite Health"
+    author: "MadCatz"
+    codes:
+      - "20374F88 08030800"
+      - "20374F8C 00000000"
+      - "20374F90 00000000"
+
+  - name: "Extra Ammo"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "203A97F0 00661021"
+
+  - name: "Infinite Ammo"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "203A97F8 00000000"
+
+  - name: "Never Reload"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "203C9B70 00000000"

@@ -1,0 +1,102 @@
+# Drome Racers cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20577
+
+game: "Drome Racers"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20577"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0134474 00134477"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F03282A0 00134477"
+
+  - name: "Max Build Tokens"
+    author: "Code Master"
+    notes: "[Career Mode Codes]"
+    codes:
+      - "204F3F04 05F5E0FF"
+
+  - name: "Max Credits"
+    author: "Code Master"
+    notes: "[Career Mode Codes]"
+    codes:
+      - "204F3F00 05F5E0FF"
+
+  - name: "Quick Build Token Gain"
+    author: "Code Master"
+    notes: "[Career Mode Codes]"
+    codes:
+      - "104F3F04 0000FFFF"
+
+  - name: "Quick Credits Gain"
+    author: "Code Master"
+    notes: "[Career Mode Codes]"
+    codes:
+      - "104F3F00 0000FFFF"
+
+  - name: "Always Have 0 Credits"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "E0020000 304F3F00"
+      - "E0010000 304F3F02"
+      - "204F3F00 00000000"
+
+  - name: "Never Have More Than 1 Credits"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "E0020001 304F3F00"
+      - "E0010000 304F3F02"
+      - "204F3F00 00000001"
+
+  - name: "Never Have More Than 2 Credits"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "E0020002 304F3F00"
+      - "E0010000 304F3F02"
+      - "204F3F00 00000002"
+
+  - name: "Never Have More Than 3 Credits"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "E0020003 304F3F00"
+      - "E0010000 304F3F02"
+      - "204F3F00 00000003"
+
+  - name: "Stop Lap Timer"
+    author: "Code Master"
+    codes:
+      - "20270F2C 00000000"
+
+  - name: "Stop Total Lap Timer"
+    author: "Code Master"
+    codes:
+      - "202AF7DC 00000000"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F03282A0 00134477"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90134474 0C048E68"

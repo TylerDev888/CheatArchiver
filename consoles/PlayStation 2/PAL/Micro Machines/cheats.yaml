@@ -1,0 +1,117 @@
+# Micro Machines cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50820
+
+game: "Micro Machines"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50820"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02FCB14 002FCB17"
+
+  - name: "Explode Bomb: Press R1"
+    author: "Codejunkies"
+    notes: "[911 Emergency - 4P Only]"
+    codes:
+      - "D044A1C2 0000F7FF"
+      - "20F6E4F4 00000000"
+
+  - name: "More Time Bombtag: Press L1"
+    author: "Codejunkies"
+    notes: "[911 Emergency - 4P Only]"
+    codes:
+      - "D044A1C2 0000FBFF"
+      - "20F6E4F4 00008000"
+
+  - name: "Explode Bomb (Press R1 To Activate)"
+    author: "Codejunkies"
+    notes: "[Hicksville Hoedown]"
+    codes:
+      - "D044A1C2 0000F7FF"
+      - "20DA2EB4 00000000"
+
+  - name: "More Time Bombtag (Press L1 To Activate)"
+    author: "Codejunkies"
+    notes: "[Hicksville Hoedown]"
+    codes:
+      - "D044A1C2 0000FBFF"
+      - "20DA2EB4 00008000"
+
+  - name: "Unlock All Championships"
+    author: "Codejunkies"
+    codes:
+      - "10417284 00000003"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 002FCB17"
+
+  - name: "Unlock All Championship Cups"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "00417284 00000003"
+
+  - name: "Unlock Hovercraft Bonus Vehicle"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "00417284 00000004"
+
+  - name: "Unlimited Time"
+    author: "Xploder"
+    notes: "[Micro GP Mode]"
+    codes:
+      - "20215234 00000000"
+
+  - name: "Large Time Extend"
+    author: "Xploder"
+    notes: "[Micro GP Mode]"
+    codes:
+      - "2021507C 24047FFD"
+
+  - name: "Larger Time Extend"
+    author: "Xploder"
+    notes: "[Micro GP Mode]"
+    codes:
+      - "2021507C 24043FFE"
+
+  - name: "Largest Time Extend"
+    author: "Xploder"
+    notes: "[Micro GP Mode]"
+    codes:
+      - "2021507C 24041FFF"
+
+  - name: "Player 1"
+    author: "Xploder"
+    notes: "[Unlimited Lives]"
+    codes:
+      - "20F6FA18 00000009"
+
+  - name: "Player 2"
+    author: "Xploder"
+    notes: "[Unlimited Lives]"
+    codes:
+      - "20F7F788 00000009"
+
+  - name: "Player 3"
+    author: "Xploder"
+    notes: "[Unlimited Lives]"
+    codes:
+      - "20F754F8 00000009"
+
+  - name: "Player 4"
+    author: "Xploder"
+    notes: "[Unlimited Lives]"
+    codes:
+      - "20F78268 00000009"

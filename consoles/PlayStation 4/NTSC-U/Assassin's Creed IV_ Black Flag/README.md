@@ -1,0 +1,34 @@
+# Assassin's Creed IV_ Black Flag
+
+**Console:** PlayStation 4  
+**Region:** NTSC-U  
+**Serial:** CUSA00010  
+**Cheat Type:** SaveWizard  
+
+---
+
+## Cheats
+
+### Max Resources
+**Author:** krustytoe  
+**Notes:** File: Black Flag - Save Progress (AC4AC4([0-1])\\AC4[0-2].SAV)
+
+```
+8001000C 19000B2B
+000000AB CED88711
+18000031 000007D0
+8001000C 19000B2A
+000000DC 514B6511
+18000031 000007D0
+8001000C 19000B2C
+0000008D 6D660011
+18000031 000007D0
+8001000C 19000B2D
+000000EA 0FED0E11
+18000031 000007D0
+8001000C 19000B29
+0000002A 678D1F11
+18000031 000007D0
+```
+
+---

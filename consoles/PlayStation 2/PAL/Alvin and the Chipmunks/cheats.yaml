@@ -1,0 +1,47 @@
+# Alvin and the Chipmunks cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-55052
+
+game: "Alvin and the Chipmunks"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-55052"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code(MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9024BAE8 0C092E62"
+
+  - name: "Combo Multiplier Xamount"
+    notes: "[Misc]"
+    codes:
+      - "2011E66C 3404[Amount:2710:HEX:BIG]"
+      - "2011E590 3404[Amount:2710:HEX:BIG]"
+      - "2011E4B4 3404[Amount:2710:HEX:BIG]"
+
+  - name: "Score Gain Xamount"
+    notes: "[Misc]"
+    codes:
+      - "2011E670 3403[Amount:2710:HEX:BIG]"
+      - "2011E594 3403[Amount:2710:HEX:BIG]"
+      - "2011E4B8 3403[Amount:2710:HEX:BIG]"
+
+  - name: "Everything Adds To Perfect"
+    notes: "[Misc]"
+    codes:
+      - "2010992C 8C821220"
+      - "20109934 AC821220"
+      - "2011E6C0 8C821220"
+      - "2011E6C8 AC821220"
+      - "2011E5E4 8C821220"
+      - "2011E5EC AC821220"
+
+  - name: "Missing Stars Maxs Meater"
+    notes: "[Misc]"
+    codes:
+      - "20109944 8C621234"
+      - "2011E7BC 8CE21234"

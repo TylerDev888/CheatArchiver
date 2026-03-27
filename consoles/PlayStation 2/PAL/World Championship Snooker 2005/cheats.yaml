@@ -1,0 +1,91 @@
+# World Championship Snooker 2005 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53082
+
+game: "World Championship Snooker 2005"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53082"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "E00FBF89 004C93C4"
+      - "E00E0C13 004C93C6"
+      - "203CCB48 08138C66"
+      - "204E3198 3C0401B0"
+      - "204E319C 3C050008"
+      - "204E31A0 0C13BF89"
+      - "204E31A4 3C060008"
+      - "204E31A8 0C137462"
+      - "204E31AC 0000202D"
+      - "204E31B0 3C0501B0"
+      - "204E31B4 3C040008"
+      - "204E31B8 0C13BF89"
+      - "204E31BC 3C060008"
+      - "204E31C0 080F32D4"
+      - "204E31C4 00000000"
+      - "F04C93C4 004C93C7"
+      - "901001E8 0C138E82"
+
+  - name: "AR Below 3.14 Fix (Use This Code If Your AR Max Is Prior Version 3.14)"
+    author: "Codejunkies"
+    codes:
+      - "204E2E08 3C03200F"
+      - "204E2E10 8C65FFF8"
+      - "204E2E14 24040079"
+      - "204E2E18 24030074"
+      - "204E2E1C 0000000C"
+
+  - name: "'The Tour' Cheating Page (Control AI Win)"
+    author: "Codejunkies"
+    notes: "[Cheat Menu]"
+    codes:
+      - "200FFEFC 8E8502DC"
+      - "200FFF00 24010068"
+      - "200FFF04 14250004"
+      - "200FFF0C 24050069"
+      - "200FFF24 08041E56"
+      - "E002019B 10506800"
+      - "E0010000 10506802"
+      - "20107950 8E8502DC"
+      - "E002019B 00506800"
+      - "D0506802 00000000"
+      - "20107950 0803FFBF"
+
+  - name: "'The Tour' Cheating Page (Control Player Win)"
+    author: "Codejunkies"
+    notes: "[Cheat Menu]"
+    codes:
+      - "200FFEFC 8E8502DC"
+      - "200FFF00 24010030"
+      - "200FFF04 14250004"
+      - "200FFF0C 24050069"
+      - "200FFF24 08041E56"
+      - "E002019B 10506800"
+      - "E0010000 10506802"
+      - "20107950 8E8502DC"
+      - "E002019B 00506800"
+      - "D0506802 00000000"
+      - "20107950 0803FFBF"
+
+  - name: "Old School Mode"
+    author: "Codejunkies"
+    codes:
+      - "20609124 00000001"
+
+  - name: "Open All Unlockables"
+    author: "Codejunkies"
+    codes:
+      - "20609108 00000001"
+
+  - name: "Opponent Concede Frame (Press L1+L2+R1+R2 When You Have The Hand To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D067C782 0000F0FF"
+      - "205C1114 0000001D"

@@ -1,0 +1,37 @@
+# Worms 4 - Mayhem cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53096
+
+game: "Worms 4 - Mayhem"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53096"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F053812C 0053812F"
+
+  - name: "Have All/Infinite Weapons"
+    author: "Codejunkies"
+    codes:
+      - "203B0B00 24060009"
+
+  - name: "Press L1+R1 To Unfreeze Round/Go Timer"
+    author: "Codejunkies"
+    notes: "[Unfreeze Timer Before Taking Your Shot]"
+    codes:
+      - "D098A242 0000F3FF"
+      - "203E3A30 AC65001C"
+
+  - name: "Press L2+R2 To Freeze Round/Go Timer"
+    author: "Codejunkies"
+    notes: "[Unfreeze Timer Before Taking Your Shot]"
+    codes:
+      - "D098A242 0000FCFF"
+      - "203E3A30 00000000"

@@ -1,0 +1,150 @@
+# Midnight Club 3 - DUB Edition cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52942
+
+game: "Midnight Club 3 - DUB Edition"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52942"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0540AD4 00540AD7"
+      - "201A0DD8 00000000"
+      - "201A0DF0 00000000"
+
+  - name: "Disable Car Damage"
+    author: "Codejunkies"
+    codes:
+      - "202D36A0 03E00008"
+      - "202D36A4 00000000"
+
+  - name: "Dumb AI (Press Down To Activate; Select To Stop)"
+    author: "Codejunkies"
+    codes:
+      - "D06B6A42 0000FFBF"
+      - "203FF968 24020000"
+      - "D06B6A42 0000FFFE"
+      - "203FF968 8E020000"
+
+  - name: "Max Cash"
+    author: "Codejunkies"
+    codes:
+      - "207BC29C 05F5E0FF"
+
+  - name: "No Opponent"
+    author: "Codejunkies"
+    notes: "[Max Opponent Modifier]"
+    codes:
+      - "203D4D1C 24060000"
+
+  - name: "Opponent"
+    author: "Codejunkies"
+    notes: "[Max Opponent Modifier]"
+    codes:
+      - "203D4D1C 24060001"
+
+  - name: "Opponents"
+    author: "Codejunkies"
+    notes: "[Max Opponent Modifier]"
+    codes:
+      - "203D4D1C 24060002"
+
+  - name: "No AI (This Code Will Crash In Carrer Mode)"
+    author: "Codejunkies"
+    codes:
+      - "0061579B 00000000"
+
+  - name: "No Cpvs"
+    author: "Codejunkies"
+    codes:
+      - "0061579C 00000000"
+
+  - name: "No Pedestrians"
+    author: "Codejunkies"
+    codes:
+      - "0061579A 00000000"
+
+  - name: "No Traffic"
+    author: "Codejunkies"
+    codes:
+      - "00615799 00000000"
+
+  - name: "Normal Speed (Press R3)"
+    author: "Codejunkies"
+    codes:
+      - "E002FFFB 006B6A42"
+      - "20431228 45000003"
+      - "20431210 45010007"
+
+  - name: "Slow Motion (Press L3)"
+    author: "Codejunkies"
+    codes:
+      - "E002FFFD 006B6A42"
+      - "20431228 44810000"
+      - "20431210 3C013C00"
+
+  - name: "Turbo (Press Circle+X At The Same Time To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "E102009F 006B6A43"
+      - "20261B40 3C017F00"
+      - "20261B44 44810800"
+      - "E102009F 106B6A43"
+      - "20261B40 C4400024"
+      - "20261B44 46000842"
+
+  - name: "Open Abilities"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "00615548 00000001"
+
+  - name: "Open All"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "20615544 01010101"
+      - "10615548 00000101"
+
+  - name: "Open Cities"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "00615545 00000001"
+
+  - name: "Open Customisation"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "00615547 00000001"
+
+  - name: "Open Insanity"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "00615549 00000001"
+
+  - name: "Open Races"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "00615544 00000001"
+
+  - name: "Open Upgrades"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "0061554A 00000001"
+
+  - name: "Open Vehicles"
+    author: "Codejunkies"
+    notes: "[Unlock Codes]"
+    codes:
+      - "00615546 00000001"

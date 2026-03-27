@@ -1,0 +1,160 @@
+# King Of Fighters The Orochi Saga Collection
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-21554  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Enable Code (MUST BE ON)
+**Author:**   
+**Notes:** [Masters]
+
+```
+902ADCD8 0C0AB6DE
+200A0000 3C010033
+200A0004 8C21565C
+200A0008 3C02002D
+200A000C 8C42467C
+200A0010 3C07003C
+200A0014 94E4A202
+200A0018 94E6A602
+200A0020 10400152
+200A0028 8C421080
+200A002C 1020000F
+200A0034 24030001
+200A0038 1023004C
+200A0040 24030002
+200A0044 10230089
+200A004C 24030003
+200A0050 102300C6
+200A0058 24030004
+200A005C 10230103
+200A0064 10000141
+200A00EC 1000011F
+200A01EC 100000DF
+200A032C 1000008F
+200A044C 10000047
+200A0570 03E00008
+202A016C 08028000
+```
+
+---
+
+### Inf HP
+**Author:** SkillerCMP:Codes>Lee4:Testing  
+**Notes:** [Player 1]  File: King Of Fighters 94
+
+```
+200A0070 240300CF
+200A0074 A0430220
+200A0078 A0430222
+```
+
+---
+
+### Press Start+up For 1 Hit Kills P2
+**Author:** SkillerCMP:Codes>Lee4:Testing  
+**Notes:** [Player 1]  File: King Of Fighters 94
+
+```
+200A007C 3405FFE7
+200A0080 14A40003
+200A0088 A0400420
+200A008C A0400422
+```
+
+---
+
+### Max/Inf Power
+**Author:** SkillerCMP:Codes>Lee4:Testing  
+**Notes:** [Player 1]  File: King Of Fighters 94
+
+```
+200A00B8 2403007F
+200A00BC A0430218
+200A00C4 A0430250
+```
+
+---
+
+### Press Start+up For 1 Hit Kills P1
+**Author:** SkillerCMP:Codes>Lee4:Testing  
+**Notes:** [Player 2]  File: King Of Fighters 94
+
+```
+200A00A0 3405FFE7
+200A00A4 14A60003
+200A00AC A0400222
+200A00B0 A0400220
+```
+
+---
+
+### Inf Time
+**Author:** SkillerCMP:Codes>Lee4:Testing  
+**Notes:** File: King Of fighters 95
+
+```
+200A01CC 24030060
+200A01D0 A0432837
+200A01D4 A0432836
+```
+
+---
+
+### Inf Timer
+**Author:** SkillerCMP:Codes>Lee4:Testing  
+**Notes:** File: King of Fighters 96
+
+```
+200A02E4 24030060
+200A02E8 A0432837
+200A02EC A0432836
+```
+
+---
+
+### Max/Inf Power (advanced Mode)
+**Author:** SkillerCMP:Codes>Lee4:Testing  
+**Notes:** [Player 1]  File: King Of Fighters 97
+
+```
+200A03B8 24030003
+200A03BC A04302E2
+200A03C4 24030040
+200A03C8 A04301EB
+200A03DC 24030023
+200A03E0 A043025E
+```
+
+---
+
+### Max/Inf Power (extra Mode)
+**Author:** SkillerCMP:Codes>Lee4:Testing  
+**Notes:** [Player 1]  File: King Of Fighters 97
+
+```
+200A0400 24030081
+200A0404 A04301E9
+200A040C 2403003F
+200A0410 A04301EB
+200A0418 24030004
+200A041C A043024C
+```
+
+---
+
+### Anti-Gravity Moves (both Modes)
+**Author:** SkillerCMP:Codes>Lee4:Testing  
+**Notes:** [Player 1]  File: King Of Fighters 97
+
+```
+200A03D0 24030010
+200A03D4 A04301E1
+```
+
+---

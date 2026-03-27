@@ -1,0 +1,48 @@
+# Jack and Dexter_ The Precursor Legacy cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-50361
+
+game: "Jack and Dexter_ The Precursor Legacy"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-50361"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ONe)"
+    notes: "[Masters]"
+    codes:
+      - "90125AD8 0C04965E"
+      - "200FF000 3C012000"
+      - "200FF004 03212025"
+      - "200FF008 3C053C04"
+      - "200FF00C 34A50008"
+      - "200FF010 24062000"
+      - "200FF014 8C830000"
+      - "200FF018 14650002"
+      - "200FF01C 34630004"
+      - "200FF020 AC830000"
+      - "200FF024 24C6FFFC"
+      - "200FF028 1CC0FFFA"
+      - "200FF02C 24840004"
+      - "200FF030 03200008"
+      - "200FF034 00000000"
+      - "2010ACFC 0C03FC00"
+
+  - name: "Always 60hz"
+    codes:
+      - "2010FE20 24120002"
+
+  - name: "Health Hud Always Open"
+    codes:
+      - "008CCAB8 0000002D"
+
+  - name: "Inf HP (asm)"
+    codes:
+      - "20786F38 00000000"
+
+  - name: "Inf HP (memory)"
+    codes:
+      - "20182970 41000000"

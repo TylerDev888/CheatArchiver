@@ -1,0 +1,106 @@
+# Broken Sword - The Sleeping Dragon
+
+**Console:** PlayStation 2  
+**Region:** PAL  
+**Serial:** SLES-51557  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### (M) Must Be On
+**Author:** Codejunkies  
+**Notes:** [Master Codes]
+
+```
+F024250C 0024250F
+```
+
+---
+
+### Fast Run
+**Author:** Codejunkies
+
+```
+201489C4 3C014080
+```
+
+---
+
+### Fast Walk
+**Author:** Codejunkies
+
+```
+20148B1C 3C014040
+```
+
+---
+
+### Press L3 To Zoom In; R3 To Zoom Out
+**Author:** Codejunkies
+
+```
+D00FFFF2 00000000
+200FFFF0 3F800000
+200FFF00 3C030040
+200FFF04 8463BB02
+200FFF08 3C080010
+200FFF0C 8D01FFF0
+200FFF10 2402FFFB
+200FFF14 14430003
+200FFF1C 24218000
+200FFF20 AD01FFF0
+200FFF24 2402FFFD
+200FFF28 14430003
+200FFF30 24217000
+200FFF34 AD01FFF0
+200FFF40 0806B538
+201AD4DC 0803FFC0
+```
+
+---
+
+### Quick Animations
+**Author:** Codejunkies
+
+```
+201DD424 3C014080
+```
+
+---
+
+### Quick Animations (Press L3 To Zoom In; R3 To Zoom Out)
+**Author:** Codejunkies
+
+```
+201DD424 3C014080
+D00FFFF2 00000000
+200FFFF0 3F800000
+200FFF00 3C030040
+200FFF04 8463BB02
+200FFF08 3C080010
+200FFF0C 8D01FFF0
+200FFF10 2402FFFB
+200FFF14 14430003
+200FFF1C 24218000
+200FFF20 AD01FFF0
+200FFF24 2402FFFD
+200FFF28 14430003
+200FFF30 24217000
+200FFF34 AD01FFF0
+200FFF40 0806B538
+201AD4DC 0803FFC0
+```
+
+---
+
+### School Of Walk
+**Author:** Codejunkies
+
+```
+20153070 3C014080
+20152FB8 3C014080
+```
+
+---

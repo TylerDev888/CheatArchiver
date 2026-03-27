@@ -1,0 +1,41 @@
+# Raging Blades cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51235
+
+game: "Raging Blades"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51235"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F022BE34 0022BE37"
+
+  - name: "Infinite Continues"
+    author: "Codejunkies"
+    codes:
+      - "2030D85C 00000008"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "2029C420 00F000F0"
+
+  - name: "Infinite/Max Force"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "2029C424 0000270F"
+
+  - name: "Super Damage Dealing"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "2029C42C 4479C000"

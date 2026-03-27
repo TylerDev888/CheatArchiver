@@ -1,0 +1,185 @@
+# Backyard Basketball cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20704
+
+game: "Backyard Basketball"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20704"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001DF8A7"
+
+  - name: "All 2-Pointer's Score For Away Team"
+    author: "Code Master"
+    codes:
+      - "2019D72C 00000000"
+
+  - name: "All 2-Pointer's Score For Home Team"
+    author: "Code Master"
+    codes:
+      - "1019D72E 00001000"
+
+  - name: "All 3-Pointer's Score For Away Team"
+    author: "Code Master"
+    codes:
+      - "2019D8B8 00000000"
+
+  - name: "All 3-Pointer's Score For Home Team"
+    author: "Code Master"
+    codes:
+      - "1019D8BA 00001000"
+
+  - name: "Away Team 2-Pointer's Score Modifier"
+    author: "Code Master"
+    codes:
+      - "1019D738 000000??"
+
+  - name: "Away Team 3-Pointer's Score Modifier"
+    author: "Code Master"
+    codes:
+      - "1019D8C4 000000??"
+
+  - name: "3-Pointers Equal 20"
+    author: "MadCatz"
+    notes: "[Away Team Codes]"
+    codes:
+      - "2019D8C4 24420014"
+
+  - name: "All Baskets Score 10"
+    author: "MadCatz"
+    notes: "[Away Team Codes]"
+    codes:
+      - "2019D738 2442000A"
+
+  - name: "Scores 0"
+    author: "MadCatz"
+    notes: "[Away Team Codes]"
+    codes:
+      - "206481A4 00000000"
+
+  - name: "Scores 999"
+    author: "MadCatz"
+    notes: "[Away Team Codes]"
+    codes:
+      - "206481A4 000003E7"
+
+  - name: "Away Team Never Scores"
+    author: "Code Master"
+    codes:
+      - "1019D738 00000000"
+      - "1019D8C4 00000000"
+
+  - name: "Away Team Score Modifier (000-3E7)"
+    author: "Code Master"
+    codes:
+      - "200C0230 03E00008"
+      - "200C0234 AC820510"
+      - "201999F8 0C03008C"
+      - "201999FC 24020???"
+
+  - name: "Home Team 2-Pointer's Score Modifier"
+    author: "Code Master"
+    codes:
+      - "1019D744 000000??"
+
+  - name: "Home Team 3-Pointer's Score Modifier"
+    author: "Code Master"
+    codes:
+      - "1019D8D4 000000??"
+
+  - name: "Home Team Never Scores"
+    author: "Code Master"
+    codes:
+      - "1019D744 00000000"
+      - "1019D8D4 00000000"
+
+  - name: "Home Team Score Modifier (000-3E7)"
+    author: "Code Master"
+    codes:
+      - "200C0220 03E00008"
+      - "200C0224 AC820510"
+      - "20199A00 0C030088"
+      - "20199A04 24020???"
+
+  - name: "Infinite Shot Clock"
+    author: "Code Master"
+    codes:
+      - "20459A10 00000000"
+
+  - name: "Infinite Time-Outs (Both Teams)"
+    author: "Code Master"
+    codes:
+      - "2015685C 00000000"
+
+  - name: "Only 1 Time-Out Allowed (Both Teams)"
+    author: "Code Master"
+    codes:
+      - "2015685C AC600000"
+
+  - name: "P1 Press L1+Select To Stop Timer"
+    author: "Code Master"
+    codes:
+      - "D0E5A502 0000FBFE"
+      - "20459A30 00000000"
+
+  - name: "P1 Press L2+Select To Start Timer"
+    author: "Code Master"
+    codes:
+      - "D0E5A502 0000FEFE"
+      - "20459A30 0C055624"
+
+  - name: "P2 Press L1+Select To Stop Timer"
+    author: "Code Master"
+    codes:
+      - "D0E5B302 0000FBFE"
+      - "20459A30 00000000"
+
+  - name: "P2 Press L2+Select To Start Timer"
+    author: "Code Master"
+    codes:
+      - "D0E5B302 0000FEFE"
+      - "20459A30 0C055624"
+
+  - name: "P3 Press L1+Select To Stop Timer"
+    author: "Code Master"
+    codes:
+      - "D0E5B502 0000FBFE"
+      - "20459A30 00000000"
+
+  - name: "P3 Press L2+Select To Start Timer"
+    author: "Code Master"
+    codes:
+      - "D0E5B502 0000FEFE"
+      - "20459A30 0C055624"
+
+  - name: "P4 Press L1+Select To Stop Timer"
+    author: "Code Master"
+    codes:
+      - "D0E5B6C2 0000FBFE"
+      - "20459A30 00000000"
+
+  - name: "P4 Press L2+Select To Start Timer"
+    author: "Code Master"
+    codes:
+      - "D0E5B6C2 0000FEFE"
+      - "20459A30 0C055624"
+
+  - name: "P5 Press L1+Select To Stop Timer"
+    author: "Code Master"
+    codes:
+      - "D0E5B8C2 0000FBFE"
+      - "20459A30 00000000"
+
+  - name: "P5 Press L2+Select To Start Timer"
+    author: "Code Master"
+    codes:
+      - "D0E5B8C2 0000FEFE"
+      - "20459A30 0C055624"

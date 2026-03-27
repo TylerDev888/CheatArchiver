@@ -1,0 +1,98 @@
+# Without Warning cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21156
+
+game: "Without Warning"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21156"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Master Codes]"
+    codes:
+      - "9035D8EC 0C0DD175"
+
+  - name: "Master Code"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "90110248 0C04D3CE"
+
+  - name: "God Mode"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "004A5A8B 00000001"
+
+  - name: "Infinite Ammo"
+    author: "MadCatz"
+    codes:
+      - "200C2008 03E00008"
+      - "200C200C AC8200F4"
+      - "201B7040 08030802"
+
+  - name: "Infinite Grenades"
+    author: "MadCatz"
+    codes:
+      - "2016E294 00000000"
+
+  - name: "Infinite Health"
+    author: "MadCatz"
+    codes:
+      - "200C2000 03E00008"
+      - "200C2004 AC820014"
+      - "201B5410 08030800"
+
+  - name: "Disable Bullet Explosion While Firing"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201B7A64 00000000"
+
+  - name: "Extra Ammo"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201B49C8 00661821"
+
+  - name: "Extra Grenades"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "1016E294 00000001"
+
+  - name: "Max Infinite Ammo"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201B49C8 24030063"
+
+  - name: "Max Infinite Grenades"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2016E294 24020005"
+
+  - name: "Never Reload"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201B7A1C 00000000"
+
+  - name: "Weapons Can Zoom Forever"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "10200F0E 00001000"
+      - "20200F28 00000000"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Masters]"
+    codes:
+      - "9035D8EC 0C0DD175"

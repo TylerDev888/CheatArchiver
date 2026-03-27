@@ -1,0 +1,28 @@
+# Alien_ Isolation
+
+**Console:** PlayStation 4  
+**Region:** NTSC-U  
+**Serial:** CUSA00362  
+**Cheat Type:** AP  
+**Source:** [by bucanero](by bucanero)  
+
+---
+
+## Cheats
+
+### Update Sha1 Xor64 For Thefile (required)
+**Author:**   
+**Notes:** File: THEFILE
+
+```
+set [off1]:read(0x18, 4)
+set [off1]:endian_swap
+set [off2]:read(0x1C, 4)
+set [off2]:endian_swap
+set pointer:[off1]+[off2]-1
+set range:0x20,pointer
+set [csum]:sha1_xor64
+write at 0x08:[csum]
+```
+
+---

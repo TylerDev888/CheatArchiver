@@ -1,0 +1,47 @@
+# Gundam Breaker 3 (JPN) cheat data
+# Console: PlayStation Vita
+# Region:  NTSC-J
+# Serial:  PCSG00760
+
+game: "Gundam Breaker 3 (JPN)"
+console: "PlayStation Vita"
+region: "NTSC-J"
+serial: "PCSG00760"
+cheat_type: "Save Editor"
+source: "Credits: hippotamamus, Sabishinbo, ness151"
+
+cheats:
+  - name: "Max Gp"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "20019590 0098967F"
+
+  - name: "Max Low Quality Plastic"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "200C93FC 00000F27"
+
+  - name: "Max Regular Plastic"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "200C93FE 00000F27"
+
+  - name: "Max High Quality Plastic"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "200C9400 00000F27"
+
+  - name: "Max Low Quality Hard Plastic"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "200C9402 00000F27"
+
+  - name: "Max Hard Plastic"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "200C9404 00000F27"
+
+  - name: "Max High Quality Hard Plastic"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "200C9406 000000FF"

@@ -1,0 +1,36 @@
+# Shadow Of Memories cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50112
+
+game: "Shadow Of Memories"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50112"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F02262D4 000001FD"
+
+  - name: "Infinite Energy Cells"
+    author: "InterAct"
+    codes:
+      - "10352D50 0000000A"
+      - "103534B2 0000000A"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F015C008 0023080F"
+
+  - name: "Unlimited Power"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "10352D50 0000000A"

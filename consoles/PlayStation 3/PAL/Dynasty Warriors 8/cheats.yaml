@@ -1,0 +1,92 @@
+# Dynasty Warriors 8 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01865
+
+game: "Dynasty Warriors 8"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01865"
+cheat_type: "Save Editor"
+source: "By True Red Heart from Goldfinger, bruticus0 from CMP and JorgeFFC"
+
+cheats:
+  - name: "Gold 999999"
+    notes: "File: NPUB31234-SAVEDATA\\APP.BIN"
+    codes:
+      - "200000BD 000F423F"
+
+  - name: "Unlock Main Generals"
+    notes: "File: NPUB31234-SAVEDATA\\APP.BIN"
+    codes:
+      - "400134CC 00000001"
+      - "4064003C 00000000"
+
+  - name: "Main Generals Max Exp 999999"
+    notes: "File: NPUB31234-SAVEDATA\\APP.BIN"
+    codes:
+      - "420134DD 000F423F"
+      - "4064003C 00000000"
+
+  - name: "Main Generals Attack/defense/stamina 1000"
+    notes: "File: NPUB31234-SAVEDATA\\APP.BIN"
+    codes:
+      - "420134D1 03E803E8"
+      - "4064003C 00000000"
+      - "410134D5 000003E8"
+      - "4064003C 00000000"
+
+  - name: "All Skills Lv20"
+    notes: "File: NPUB31234-SAVEDATA\\APP.BIN"
+    codes:
+      - "41014C39 00000114"
+      - "40120002 00000000"
+
+  - name: "First 1830 Weapon Slots Attack Power 255"
+    notes: "File: NPUB31234-SAVEDATA\\APP.BIN  (First 1830 Weapon Slots Attribute) (42015D45 xxxxxxxx) (47260018 00000000) (41015D49 0000xxxx) (47260018 00000000)"
+    codes:
+      - "40015D44 000000FF"
+      - "47260018 00000000"
+
+  - name: "First 1830 Weapon Slots Attributes Lv10"
+    notes: "File: NPUB31234-SAVEDATA\\APP.BIN"
+    codes:
+      - "42015D4B 0A0A0A0A"
+      - "47260018 00000000"
+      - "41015D4F 00000A0A"
+      - "47260018 00000000"
+
+  - name: "Slot 1 Animal/mount Speed 500 (may Be Too Fast)"
+    notes: "File: NPUB31234-SAVEDATA\\APP.BIN"
+    codes:
+      - "10020B7B 000001F4"
+
+  - name: "Slot 1 Animal/mount Breakthrough Force 1000"
+    notes: "File: NPUB31234-SAVEDATA\\APP.BIN"
+    codes:
+      - "10020B81 000003E8"
+
+  - name: "Slot 1 Animal/mount Abilities (represented By The 010203)"
+    notes: "File: NPUB31234-SAVEDATA\\APP.BIN"
+    codes:
+      - "20020B85 000A0B0C"
+
+  - name: "All Animal/mount Speed 500, Force 1000, All 3 Abilities"
+    notes: "File: NPUB31234-SAVEDATA\\APP.BIN"
+    codes:
+      - "41020B7B 000001F4"
+      - "40460018 00000000"
+      - "41020B81 000003E8"
+      - "40460018 00000000"
+      - "41020B85 000A0B0C"
+      - "40460018 00000000"
+
+  - name: "Ambition Mode Fame 9999"
+    notes: "File: NPUB31234-SAVEDATA\\APP.BIN"
+    codes:
+      - "100221D5 0000270F"
+
+  - name: "Ambition Mode Facilities Material 9999 / Weapons Material 9999"
+    notes: "File: NPUB31234-SAVEDATA\\APP.BIN"
+    codes:
+      - "20021CF9 270F270F"

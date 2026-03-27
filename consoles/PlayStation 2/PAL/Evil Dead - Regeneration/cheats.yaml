@@ -1,0 +1,96 @@
+# Evil Dead - Regeneration cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53457
+
+game: "Evil Dead - Regeneration"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53457"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F014B738 0014B73B"
+
+  - name: "1 Hit Kills Enemies"
+    author: "Codejunkies"
+    codes:
+      - "200FFF1C 080EF1C4"
+      - "203BC708 0803FFC0"
+      - "200FFF00 24010001"
+      - "200FFF04 A4810052"
+      - "200FFF08 A4810054"
+      - "200FFF0C A4810056"
+      - "200FFF10 A4810058"
+      - "200FFF18 90A20069"
+
+  - name: "All Cinematics/Extras"
+    author: "Codejunkies"
+    codes:
+      - "406EB63C 000C0001"
+      - "00000000 00000000"
+      - "106EB66C 00000000"
+      - "006EB66E 00000000"
+
+  - name: "All Levels"
+    author: "Codejunkies"
+    codes:
+      - "006EB618 00000009"
+
+  - name: "Infinite Health Ash"
+    author: "Codejunkies"
+    codes:
+      - "204DDDEC 84820054"
+      - "204DDDF4 A4820052"
+
+  - name: "Infinite Health Sam"
+    author: "Codejunkies"
+    codes:
+      - "204DE1AC 86220054"
+      - "204DE1B4 A6220052"
+
+  - name: "Quick Ash"
+    author: "Codejunkies"
+    codes:
+      - "204DDE00 0C03FFE0"
+      - "200FFF84 3C023FC0"
+      - "200FFF8C 03E00008"
+      - "200FFF88 AC220110"
+      - "200FFF80 8C810014"
+
+  - name: "Quick Sam"
+    author: "Codejunkies"
+    codes:
+      - "204DE1C0 0C03FFE8"
+      - "200FFFA4 3C023FC0"
+      - "200FFFAC 03E00008"
+      - "200FFFA8 AC220110"
+      - "200FFFA0 8E210014"
+
+  - name: "Slow Motion Enemies"
+    author: "Codejunkies"
+    codes:
+      - "20167A08 3C023EC0"
+
+  - name: "Very Fast Ash"
+    author: "Codejunkies"
+    codes:
+      - "204DDE00 0C03FFE0"
+      - "200FFF84 3C024000"
+      - "200FFF8C 03E00008"
+      - "200FFF88 AC220110"
+      - "200FFF80 8C810014"
+
+  - name: "Very Fast Sam"
+    author: "Codejunkies"
+    codes:
+      - "204DE1C0 0C03FFE8"
+      - "200FFFA4 3C024000"
+      - "200FFFAC 03E00008"
+      - "200FFFA8 AC220110"
+      - "200FFFA0 8E210014"

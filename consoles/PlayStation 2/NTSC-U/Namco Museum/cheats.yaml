@@ -1,0 +1,137 @@
+# Namco Museum cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20273
+
+game: "Namco Museum"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20273"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90910BF8 0C2442A6"
+
+  - name: "Joker 1"
+    notes: "[Joker]"
+    codes:
+      - "00A1C4C2 0000[Joker:PS2]"
+
+  - name: "Joker 2"
+    notes: "[Joker]"
+    codes:
+      - "00A1C542 0000[Joker:PS2]"
+
+  - name: "Inf Lives"
+    notes: "File: Ms. Pac-Man"
+    codes:
+      - "001174C6 00000060"
+
+  - name: "Start With ?? Lives P1"
+    notes: "File: Ms. Pac-Man"
+    codes:
+      - "20116108 240200[Amount:99:HEX:BIG]"
+
+  - name: "Start With ?? Lives P2"
+    notes: "File: Ms. Pac-Man"
+    codes:
+      - "20116D74 240200[Amount:99:HEX:BIG]"
+
+  - name: "Start With ?? Lives P1,p2"
+    notes: "File: PacMan"
+    codes:
+      - "20109E74 240200[Amount:99:HEX:BIG]"
+
+  - name: "Player 1 Lives"
+    notes: "File: PacMan And Ms Pacman"
+    codes:
+      - "00A608E0 00000004"
+
+  - name: "Player 2 Lives"
+    notes: "File: PacMan And Ms Pacman"
+    codes:
+      - "00A608E4 00000004"
+
+  - name: "Double Shot And Never Die (has A Bug)"
+    notes: "File: Galaga"
+    codes:
+      - "20133304 24020001"
+
+  - name: "Jump To Stage ?? Hold X On Last Kill"
+    notes: "File: Galaga"
+    codes:
+      - "2013A6A8 24630001"
+      - "D0A1C4C2 0000BFFF"
+      - "2013A6A8 240300[Amount:63:HEX:BIG]"
+
+  - name: "Alt) Inf Lives"
+    notes: "[Current Player Codes]  File: Galaga"
+    codes:
+      - "00A74050 00000003"
+
+  - name: "Alt) Stage Select"
+    notes: "[Current Player Codes]  File: Galaga"
+    codes:
+      - "00A74051 000000[Amount:63:HEX:BIG]"
+
+  - name: "Alt) Double Shot And Never Die"
+    notes: "[Current Player Codes]  File: Galaga"
+    codes:
+      - "00A74057 00000001"
+      - "00A7405B 00000001"
+
+  - name: "Fire Power Mod On Pick Up ??"
+    notes: "[Both Players Codes]  File: Galaga Arrangement"
+    codes:
+      - "20837888 2403[FP]"
+
+  - name: "Fire Power P1"
+    notes: "[Player 1 Codes]  File: Galaga Arrangement"
+    codes:
+      - "00A637C4 0000[FP]"
+
+  - name: "Fire Power P2"
+    notes: "[Player 1 Codes]  File: Galaga Arrangement"
+    codes:
+      - "00A63744 0000[FP]"
+
+  - name: "Alt) Inf Lives P1"
+    notes: "File: Galaxian"
+    codes:
+      - "00A60B6C 00000003"
+
+  - name: "Jump To Stage ?? Hold X On Last Kill/Enemy Exit"
+    notes: "[Both Player Codes]  File: Dig Dug"
+    codes:
+      - "20175434 24420001"
+      - "D0A1C4C2 0000BFFF"
+      - "20175434 2402[Amount:63:HEX:BIG]"
+
+  - name: "Alt)inf Lives P1"
+    notes: "[Player 1 Codes]  File: Dig Dug"
+    codes:
+      - "00A8B738 00000009"
+
+  - name: "Alt)start On Level ?? P1"
+    notes: "[Player 1 Codes]  File: Dig Dug"
+    codes:
+      - "00A8B73D 000000[Amount:63:HEX:BIG]"
+
+  - name: "Alt)inf Lives P2"
+    notes: "[Player 2 Codes]  File: Dig Dug"
+    codes:
+      - "00A8B7A8 00000009"
+
+  - name: "Alt)start On Level ?? P2"
+    notes: "[Player 2 Codes]  File: Dig Dug"
+    codes:
+      - "00A8B7AD 000000[Amount:63:HEX:BIG]"
+
+  - name: "Infinite Time"
+    notes: "File: Pole Position"
+    codes:
+      - "00AE69DB 00000063"

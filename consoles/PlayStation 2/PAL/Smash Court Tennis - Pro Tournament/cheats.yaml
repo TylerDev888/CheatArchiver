@@ -1,0 +1,45 @@
+# Smash Court Tennis - Pro Tournament cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-50810
+
+game: "Smash Court Tennis - Pro Tournament"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-50810"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100104 000001FD"
+
+  - name: "1P Gets 40"
+    author: "InterAct"
+    codes:
+      - "D045E682 0000F0FF"
+      - "1121AF1C 00000003"
+
+  - name: "CP Always Score 0"
+    author: "InterAct"
+    codes:
+      - "1121AFB0 00000000"
+
+  - name: "Max Points"
+    author: "InterAct"
+    codes:
+      - "11222864 0000FFFF"
+
+  - name: "Trophy Room - Unlock Everything"
+    author: "InterAct"
+    codes:
+      - "21222898 FFFFFFFF"
+      - "1122289C 0000FFFF"
+
+  - name: "Unlock Hitomi Yoshino/Red Ace"
+    author: "InterAct"
+    codes:
+      - "11E77A50 0000000F"

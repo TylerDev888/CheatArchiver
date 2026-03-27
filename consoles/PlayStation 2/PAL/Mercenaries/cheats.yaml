@@ -1,0 +1,446 @@
+# Mercenaries cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52590
+
+game: "Mercenaries"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52590"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01BACA8 001BACAB"
+
+  - name: "All Moods Always Visible"
+    author: "Codejunkies"
+    codes:
+      - "20556A84 00000001"
+      - "20556B44 00000001"
+      - "20556AE4 00000001"
+      - "20556BA4 00000001"
+      - "20556A24 00000001"
+
+  - name: "Hyper Mode (Press Select+Left)"
+    author: "Codejunkies"
+    notes: "[Animation Speed Modifier]"
+    codes:
+      - "D1FFA78C 00001800"
+      - "204A5540 00000060"
+
+  - name: "Normal Speed (Press Select+Down)"
+    author: "Codejunkies"
+    notes: "[Animation Speed Modifier]"
+    codes:
+      - "D1FFA78C 00001400"
+      - "204A5540 0000003C"
+
+  - name: "Quicker Game (Press Select+Up)"
+    author: "Codejunkies"
+    notes: "[Animation Speed Modifier]"
+    codes:
+      - "D1FFA78C 00001100"
+      - "204A5540 00000044"
+
+  - name: "Slow Motion (Press Select+Right)"
+    author: "Codejunkies"
+    notes: "[Animation Speed Modifier]"
+    codes:
+      - "D1FFA78C 00001200"
+      - "204A5540 00000010"
+
+  - name: "Max Bullets Fired"
+    author: "Codejunkies"
+    notes: "[Bullet Fired Codes]"
+    codes:
+      - "205A7B0C 05F5E0FF"
+
+  - name: "No Bullets Fired"
+    author: "Codejunkies"
+    notes: "[Bullet Fired Codes]"
+    codes:
+      - "205A7B0C 00000000"
+
+  - name: "Max Civilians Killed"
+    author: "Codejunkies"
+    notes: "[Civilians]"
+    codes:
+      - "205A7A68 4CBEBC20"
+
+  - name: "No Civilians Killed"
+    author: "Codejunkies"
+    notes: "[Civilians]"
+    codes:
+      - "205A7A68 00000000"
+
+  - name: "Max Critical Hits"
+    author: "Codejunkies"
+    notes: "[Critical Hit Codes]"
+    codes:
+      - "205A7B10 05F5E0FF"
+
+  - name: "No Critical Hits"
+    author: "Codejunkies"
+    notes: "[Critical Hit Codes]"
+    codes:
+      - "205A7B10 00000000"
+
+  - name: "Max Deaths"
+    author: "Codejunkies"
+    notes: "[Death Codes]"
+    codes:
+      - "205A7B00 05F5E0FF"
+
+  - name: "No Deaths"
+    author: "Codejunkies"
+    notes: "[Death Codes]"
+    codes:
+      - "205A7B00 00000000"
+
+  - name: "Disable Aggressive AI (Set Hostile Range To Null Value)"
+    author: "Codejunkies"
+    codes:
+      - "2017129C 44803000"
+
+  - name: "Disable Car Damage"
+    author: "Codejunkies"
+    codes:
+      - "2013915C 00000000"
+
+  - name: "Max Distance Traveled On Foot"
+    author: "Codejunkies"
+    notes: "[Distance On Foot Codes]"
+    codes:
+      - "205A6B64 7F000000"
+
+  - name: "No Distance Traveled On Foot"
+    author: "Codejunkies"
+    notes: "[Distance On Foot Codes]"
+    codes:
+      - "205A6B64 00000000"
+
+  - name: "Always 1St Save"
+    author: "Codejunkies"
+    notes: "[Distance Traveled With M1025]"
+    codes:
+      - "205A7B08 00000000"
+
+  - name: "Max Distance Traveled With M1025"
+    author: "Codejunkies"
+    notes: "[Distance Traveled With M1025]"
+    codes:
+      - "205A6D10 7F000000"
+
+  - name: "No Distance Traveled With M1025"
+    author: "Codejunkies"
+    notes: "[Distance Traveled With M1025]"
+    codes:
+      - "205A6D10 00000000"
+
+  - name: "Freeze Mission Timer"
+    author: "Codejunkies"
+    codes:
+      - "202A0B94 AC40002C"
+
+  - name: "Infinite Ammo (Press Select Up To Activate Select Down To Stop)"
+    author: "Codejunkies"
+    codes:
+      - "D1FFA78C 00001100"
+      - "20124E5C AEA40230"
+      - "D1FFA78C 00004100"
+      - "20124E5C AEA20230"
+
+  - name: "Infinite Health (Main Character)"
+    author: "Codejunkies"
+    codes:
+      - "E0030000 105595B4"
+      - "E0020000 105595B6"
+      - "605595B4 000043FA"
+      - "00010001 0000004B"
+
+  - name: "Invincible"
+    author: "Codejunkies"
+    codes:
+      - "E0030000 105595B4"
+      - "E0020000 105595B6"
+      - "605595B4 000000DF"
+      - "00000001 00000110"
+
+  - name: "Max Jaju Destroyed"
+    author: "Codejunkies"
+    notes: "[Jaju]"
+    codes:
+      - "205A722C 4CBEBC20"
+
+  - name: "No Jaju Destroyed"
+    author: "Codejunkies"
+    notes: "[Jaju]"
+    codes:
+      - "205A722C 00000000"
+
+  - name: "Even Lower Gravity"
+    author: "Codejunkies"
+    notes: "[Jump Codes]"
+    codes:
+      - "200FFF00 3C013E80"
+      - "200FFF04 4481A000"
+      - "200FFF08 0809432C"
+      - "20250C90 0803FFC0"
+
+  - name: "Low Gravity"
+    author: "Codejunkies"
+    notes: "[Jump Codes]"
+    codes:
+      - "200FFF00 3C013F80"
+      - "200FFF04 4481A000"
+      - "200FFF08 0809432C"
+      - "20250C90 0803FFC0"
+
+  - name: "Lower Gravity"
+    author: "Codejunkies"
+    notes: "[Jump Codes]"
+    codes:
+      - "200FFF00 3C013F00"
+      - "200FFF04 4481A000"
+      - "200FFF08 0809432C"
+      - "20250C90 0803FFC0"
+
+  - name: "Very Very Low Gravity"
+    author: "Codejunkies"
+    notes: "[Jump Codes]"
+    codes:
+      - "200FFF00 3C013E00"
+      - "200FFF04 4481A000"
+      - "200FFF08 0809432C"
+      - "20250C90 0803FFC0"
+
+  - name: "Max Cash"
+    author: "Codejunkies"
+    codes:
+      - "20168970 3C014CBE"
+      - "20168978 AE010B60"
+
+  - name: "Max Medivacs Called"
+    author: "Codejunkies"
+    notes: "[Medivac Codes]"
+    codes:
+      - "205A7B04 05F5E0FF"
+
+  - name: "No Medivacs Called"
+    author: "Codejunkies"
+    notes: "[Medivac Codes]"
+    codes:
+      - "205A7B04 00000000"
+
+  - name: "Max North Koreans Killed"
+    author: "Codejunkies"
+    notes: "[North Koreans]"
+    codes:
+      - "205A7A70 4CBEBC20"
+
+  - name: "No North Koreans Killed"
+    author: "Codejunkies"
+    notes: "[North Koreans]"
+    codes:
+      - "205A7A70 00000000"
+
+  - name: "Fast Sprint"
+    author: "Codejunkies"
+    notes: "[Press L1+R1+L2+R2 To Activate]"
+    codes:
+      - "E004000F 01FFA78C"
+      - "E0030000 105595B4"
+      - "E0020000 105595B6"
+      - "605595B4 00004180"
+      - "00010001 00000165"
+
+  - name: "Ultra Fast Sprint"
+    author: "Codejunkies"
+    notes: "[Press L1+R1+L2+R2 To Activate]"
+    codes:
+      - "E004000F 01FFA78C"
+      - "E0030000 105595B4"
+      - "E0020000 105595B6"
+      - "605595B4 00004280"
+      - "00010001 00000165"
+
+  - name: "Very Fast Sprint"
+    author: "Codejunkies"
+    notes: "[Press L1+R1+L2+R2 To Activate]"
+    codes:
+      - "E004000F 01FFA78C"
+      - "E0030000 105595B4"
+      - "E0020000 105595B6"
+      - "605595B4 00004200"
+      - "00010001 00000165"
+
+  - name: "Max Retires"
+    author: "Codejunkies"
+    notes: "[Retries Codes]"
+    codes:
+      - "205A7AFC 05F5E0FF"
+
+  - name: "No Retries"
+    author: "Codejunkies"
+    notes: "[Retries Codes]"
+    codes:
+      - "205A7AFC 00000000"
+
+  - name: "Max Special Bonus"
+    author: "Codejunkies"
+    notes: "[Special Bonus Codes]"
+    codes:
+      - "205A7B18 05F5E0FF"
+
+  - name: "American Hero"
+    author: "Codejunkies"
+    notes: "[Start A New Game With...]"
+    codes:
+      - "20553298 B5D9D774"
+
+  - name: "Brit Hero"
+    author: "Codejunkies"
+    notes: "[Start A New Game With...]"
+    codes:
+      - "20553298 707E723D"
+
+  - name: "Han Solo"
+    author: "Codejunkies"
+    notes: "[Start A New Game With...]"
+    codes:
+      - "20553298 E8E4793E"
+
+  - name: "Indiana Jones"
+    author: "Codejunkies"
+    notes: "[Start A New Game With...]"
+    codes:
+      - "20553298 D46EB4C7"
+
+  - name: "Sweden Hero"
+    author: "Codejunkies"
+    notes: "[Start A New Game With...]"
+    codes:
+      - "20553298 C3C67997"
+
+  - name: "Low Total Play Time"
+    author: "Codejunkies"
+    notes: "[Total Time Codes]"
+    codes:
+      - "205A7B1C 00000000"
+
+  - name: "Max Transport Trucks Destroyed"
+    author: "Codejunkies"
+    notes: "[Transport Trucks Destroyed Codes]"
+    codes:
+      - "205A7324 00000000"
+
+  - name: "Press R3+Down For Normal Zoom"
+    author: "Codejunkies"
+    notes: "[Zoom Codes]"
+    codes:
+      - "D1FFA78C 00004400"
+      - "2021C84C 3C013F80"
+
+  - name: "Press R3+Up For X16 Zoom"
+    author: "Codejunkies"
+    notes: "[Zoom Codes]"
+    codes:
+      - "D1FFA78C 00001400"
+      - "2021C84C 3C014180"
+
+  - name: "Press R3+Up For X32 Zoom"
+    author: "Codejunkies"
+    notes: "[Zoom Codes]"
+    codes:
+      - "D1FFA78C 00001400"
+      - "2021C84C 3C014200"
+
+  - name: "Press R3+Up For X64 Zoom"
+    author: "Codejunkies"
+    notes: "[Zoom Codes]"
+    codes:
+      - "D1FFA78C 00001400"
+      - "2021C84C 3C014280"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9043CDB8 0C0F4655"
+
+  - name: "Health/Armour"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2000 C6000160"
+      - "200C2004 0804C383"
+      - "200C2008 E6000094"
+      - "20130D00 08030800"
+
+  - name: "Ammo (No Reload)"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2010 C454022C"
+      - "200C2014 E4540230"
+      - "200C2018 03E00008"
+      - "200C201C 4680A520"
+      - "2014D488 0C030804"
+
+  - name: "Grenades"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "2014D58C 24030009"
+      - "2014D598 AC430230"
+
+  - name: "Cash"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2020 34219680"
+      - "200C2024 44810000"
+      - "200C2028 E4400B60"
+      - "200C202C 03E00008"
+      - "200C2030 8E020044"
+      - "2026BCE4 3C014B18"
+      - "2026BCE0 0C030808"
+
+  - name: "Friendly Factions"
+    author: "Xploder"
+    notes: "[Always]"
+    codes:
+      - "200C2040 00431021"
+      - "200C2044 3C013F80"
+      - "200C2048 080BD1D2"
+      - "200C204C AC410018"
+      - "202F4740 08030810"
+
+  - name: "Hostile Factions"
+    author: "Xploder"
+    notes: "[Always]"
+    codes:
+      - "200C2040 00431021"
+      - "200C2044 3C01BF80"
+      - "200C2048 080BD1D2"
+      - "200C204C AC410018"
+      - "202F4740 08030810"
+
+  - name: "All Shop Items"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "4051EDFC 003F0003"
+      - "00000000 00000001"
+
+  - name: "Cheap Shop Items"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "4051EE00 003F0003"
+      - "00000001 00000000"

@@ -1,0 +1,207 @@
+# Zone Of The Enders cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20148
+
+game: "Zone Of The Enders"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20148"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F02003EC 000001FD"
+
+  - name: "0 Continues Used"
+    author: "InterAct"
+    codes:
+      - "1048EF4A 00000000"
+
+  - name: "0 Saves Used"
+    author: "InterAct"
+    codes:
+      - "1048EF48 00000000"
+
+  - name: "9999 Defeated"
+    author: "InterAct"
+    codes:
+      - "1048EF46 0000270F"
+
+  - name: "Almost Unstoppable"
+    author: "InterAct"
+    codes:
+      - "0048EF01 000000FF"
+
+  - name: "Always Very Hard"
+    author: "InterAct"
+    codes:
+      - "0048EF00 00000003"
+
+  - name: "Code Breaker Version 1-5 Enable Code (Must Be On)"
+    author: "Code Master"
+    codes:
+      - "F0200008 0047A467"
+
+  - name: "Code Breaker Version 6+ Enable Code (Must Be On)"
+    author: "Code Master"
+    codes:
+      - "9047A464 0C11EE9A"
+
+  - name: "Press L2 + D-Pad LEFT = Decoy Equipped"
+    author: "InterAct"
+    notes: "[Have Weapons Equipped Codes]"
+    codes:
+      - "D04AA442 0000FE7F"
+      - "1048EF2A 00000009"
+
+  - name: "Press L2 + D-Pad Right = Mummy Equipped"
+    author: "InterAct"
+    notes: "[Have Weapons Equipped Codes]"
+    codes:
+      - "D04AA442 0000FEDF"
+      - "1048EF2A 0000000A"
+
+  - name: "Press L2 + L1 = Comet Equipped"
+    author: "InterAct"
+    notes: "[Have Weapons Equipped Codes]"
+    codes:
+      - "D04AA442 0000FAFF"
+      - "1048EF2A 00000006"
+
+  - name: "Press L2 + O = Bounder Equipped"
+    author: "InterAct"
+    notes: "[Have Weapons Equipped Codes]"
+    codes:
+      - "D04AA442 0000DEFF"
+      - "1048EF2A 00000003"
+
+  - name: "Press L2 + R1 = Gauntlet Equipped"
+    author: "InterAct"
+    notes: "[Have Weapons Equipped Codes]"
+    codes:
+      - "D04AA442 0000F6FF"
+      - "1048EF2A 00000007"
+
+  - name: "Press L2 + R2 = Sniper Equipped"
+    author: "InterAct"
+    notes: "[Have Weapons Equipped Codes]"
+    codes:
+      - "D04AA442 0000FCFF"
+      - "1048EF2A 00000008"
+
+  - name: "Press L2 + Square = Halbered Equipped"
+    author: "InterAct"
+    notes: "[Have Weapons Equipped Codes]"
+    codes:
+      - "D04AA442 00007EFF"
+      - "1048EF2A 00000005"
+
+  - name: "Press L2 + Triangle = Phalanx Equipped"
+    author: "InterAct"
+    notes: "[Have Weapons Equipped Codes]"
+    codes:
+      - "D04AA442 0000EEFF"
+      - "1048EF2A 00000004"
+
+  - name: "Press L2 + X = Geyser Equipped"
+    author: "InterAct"
+    notes: "[Have Weapons Equipped Codes]"
+    codes:
+      - "D04AA442 0000BEFF"
+      - "1048EF2A 00000002"
+
+  - name: "Press L2 = Javelin Equipped"
+    author: "InterAct"
+    notes: "[Have Weapons Equipped Codes]"
+    codes:
+      - "D04AA442 0000FEFF"
+      - "1048EF2A 00000001"
+
+  - name: "Infinite Bounder"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "1048EF32 000003E7"
+
+  - name: "Infinite Comet"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "1048EF38 000003E7"
+
+  - name: "Infinite Decoy"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "1048EF3E 000003E7"
+
+  - name: "Infinite Gauntlet"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "1048EF3A 000003E7"
+
+  - name: "Infinite Geyser"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "1048EF30 000003E7"
+
+  - name: "Infinite Halberd"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "1048EF36 000003E7"
+
+  - name: "Infinite Javelin"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "1048EF2E 000003E7"
+
+  - name: "Infinite Mummy"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "1048EF40 000003E7"
+
+  - name: "Infinite Phalanx"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "1048EF34 000003E7"
+
+  - name: "Infinite Sniper"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "1048EF3C 000003E7"
+
+  - name: "City 2"
+    author: "Code Master"
+    notes: "[No Casualties Codes]"
+    codes:
+      - "1049D58A 00004180"
+
+  - name: "Town 2"
+    author: "Code Master"
+    notes: "[No Casualties Codes]"
+    codes:
+      - "1049D44A 00004130"
+
+  - name: "Town 3"
+    author: "Code Master"
+    notes: "[No Casualties Codes]"
+    codes:
+      - "1049D44A 00004170"
+
+  - name: "Weapon Modifier"
+    author: "Code Master"
+    notes: "[No Casualties Codes]"
+    codes:
+      - "1048EF2A 000000??"

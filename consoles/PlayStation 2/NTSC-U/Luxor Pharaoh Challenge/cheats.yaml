@@ -1,0 +1,54 @@
+# Luxor Pharaoh Challenge cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21703
+
+game: "Luxor Pharaoh Challenge"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21703"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "901AA980 0C06AA08"
+
+  - name: "Gain +10000 For Each Break"
+    author: "SkillerCMP"
+    notes: "[Misc]  100% Accuracy"
+    codes:
+      - "2011B374 26732710"
+      - "20131418 ACE10010"
+
+  - name: "Accuracy Bonus +10000"
+    author: "SkillerCMP"
+    notes: "[Misc]"
+    codes:
+      - "2013145C 24422710"
+
+  - name: "Accuracy Bonus X By 10000"
+    author: "SkillerCMP"
+    notes: "[Misc]"
+    codes:
+      - "10131460 00002710"
+
+  - name: "Balls Destroyed"
+    author: "SkillerCMP"
+    notes: "[Misc]"
+    codes:
+      - "1012B2C0 00002710"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Skiller"
+    notes: "[Masters]"
+    codes:
+      - "901AA980 0C06AA08"
+
+  - name: "100% Accuracy"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "20131418 ACE10010"

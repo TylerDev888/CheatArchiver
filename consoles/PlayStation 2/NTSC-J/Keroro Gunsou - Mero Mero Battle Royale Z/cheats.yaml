@@ -1,0 +1,29 @@
+# Keroro Gunsou - Mero Mero Battle Royale Z cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25575
+
+game: "Keroro Gunsou - Mero Mero Battle Royale Z"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25575"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9012E7E8 0C04C56E"
+
+  - name: "Enable Code (For Progressive Mode Only)"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90139698 0C04E54E"
+
+  - name: "Enable Progressive Mode"
+    author: "punk7890"
+    codes:
+      - "20120AFC 24110002"

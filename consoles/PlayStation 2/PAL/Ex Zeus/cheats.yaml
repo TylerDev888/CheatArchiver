@@ -1,0 +1,43 @@
+# Ex Zeus cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52601
+
+game: "Ex Zeus"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52601"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010DF40 0C043778"
+
+  - name: "Max Bombs"
+    author: "punk7890"
+    codes:
+      - "201EA704 00000009"
+
+  - name: "Max Gold"
+    author: "punk7890"
+    codes:
+      - "201EA700 000003E7"
+
+  - name: "Max Lock Energy System"
+    author: "punk7890"
+    codes:
+      - "201EA714 00000010"
+
+  - name: "Max Score"
+    author: "punk7890"
+    codes:
+      - "201EA708 0098967F"
+
+  - name: "Max Shield"
+    author: "punk7890"
+    codes:
+      - "201EA70C 00000010"

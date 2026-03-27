@@ -1,0 +1,957 @@
+# Scarface - The World Is Yours
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-21111  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Enable Code (Must Be On)
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Master Codes]
+
+```
+9073F1BC 0C1D1186
+200C0000 3C0105F5
+200C0004 3421E0FF
+200C01F8 08173DC0
+200C01FC 00000000
+205C76E0 08030000
+```
+
+---
+
+### Infinite Drugs
+**Author:** Josh_7774  
+**Notes:** [Main]
+
+```
+D080A76C 02000001
+9C1BC357 00000C20
+00010001 00020000
+```
+
+---
+
+### Infinite Health
+**Author:** Josh_7774  
+**Notes:** [Main]
+
+```
+D080A76C 02000001
+60808D18 00000180
+00010001 00010000
+```
+
+---
+
+### Infinite Money
+**Author:** Josh_7774  
+**Notes:** [Main]
+
+```
+D080A76C 02000001
+9C1BC357 00000BE0
+00010001 00020000
+```
+
+---
+
+### Max Arm Shots
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0050 8C820364
+200C0054 AC410000
+```
+
+---
+
+### Max Chainsaw Arm Removals
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0060 8C820374
+200C0064 AC410000
+```
+
+---
+
+### Max Chainsaw Body Dismemberments
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0078 8C82038C
+200C007C AC410000
+```
+
+---
+
+### Max Chainsaw Decapitations
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0068 8C82037C
+200C006C AC410000
+```
+
+---
+
+### Max Chainsaw Leg Removals
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0070 8C820384
+200C0074 AC410000
+```
+
+---
+
+### Max Clean Cash
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0008 8C82006C
+200C000C AC410000
+```
+
+---
+
+### Max Dirty Cash
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0010 8C820074
+200C0014 AC410000
+```
+
+---
+
+### Max Groin Shots
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0040 8C820354
+200C0044 AC410000
+```
+
+---
+
+### Max Head Shots
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0028 8C82033C
+200C002C AC410000
+```
+
+---
+
+### Max Kidney Shots
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0048 8C82035C
+200C004C AC410000
+```
+
+---
+
+### Max Left Nut Shots
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0030 8C820344
+200C0034 AC410000
+```
+
+---
+
+### Max Leg Shots
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0058 8C82036C
+200C005C AC410000
+```
+
+---
+
+### Max Melee Counters
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0080 8C820394
+200C0084 AC410000
+```
+
+---
+
+### Max Right Nut Shots
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0038 8C82034C
+200C003C AC410000
+```
+
+---
+
+### Max Total Ammo Used
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0018 8C82032C
+200C001C AC410000
+```
+
+---
+
+### Max Total Kills
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0020 8C820334
+200C0024 AC410000
+```
+
+---
+
+### No Arm Shots
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0050 8C820364
+200C0054 AC400000
+```
+
+---
+
+### No Chainsaw Arm Removals
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0060 8C820374
+200C0064 AC400000
+```
+
+---
+
+### No Chainsaw Body Dismemberments
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0078 8C82038C
+200C007C AC400000
+```
+
+---
+
+### No Chainsaw Decapitations
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0068 8C82037C
+200C006C AC400000
+```
+
+---
+
+### No Chainsaw Leg Removals
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0070 8C820384
+200C0074 AC400000
+```
+
+---
+
+### No Clean Cash
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0008 8C82006C
+200C000C AC400000
+```
+
+---
+
+### No Dirty Cash
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0010 8C820074
+200C0014 AC400000
+```
+
+---
+
+### No Groin Shots
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0040 8C820354
+200C0044 AC400000
+```
+
+---
+
+### No Head Shots
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0028 8C82033C
+200C002C AC400000
+```
+
+---
+
+### No Kidney Shots
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0048 8C82035C
+200C004C AC400000
+```
+
+---
+
+### No Left Nut Shots
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0030 8C820344
+200C0034 AC400000
+```
+
+---
+
+### No Leg Shots
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0058 8C82036C
+200C005C AC400000
+```
+
+---
+
+### No Melee Counters
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0080 8C820394
+200C0084 AC400000
+```
+
+---
+
+### No Right Nut Shots
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0038 8C82034C
+200C003C AC400000
+```
+
+---
+
+### No Total Ammo Used
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0018 8C82032C
+200C001C AC400000
+```
+
+---
+
+### No Total Kills
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Stats Codes]
+
+```
+200C0020 8C820334
+200C0024 AC400000
+```
+
+---
+
+### Always Gain Balls
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+1081C6DC 00000064
+```
+
+---
+
+### Cop Heat Never Increases
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+20475980 03E00008
+20475984 00000000
+```
+
+---
+
+### Exra Ammo
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+203CE774 00511021
+```
+
+---
+
+### Infinite Ammo
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+203CE77C 00000000
+```
+
+---
+
+### Infinite Health (In-Car)
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+20537EA8 3C0142C8
+20537EB8 AE610080
+```
+
+---
+
+### Infinite Health (On-Foot)
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+2039E9BC C4820184
+2039E9C4 E4820180
+```
+
+---
+
+### Less Vehicle Damage
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+20380CB0 03E00008
+20380CB4 00000000
+```
+
+---
+
+### Max Infinite Ammo
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+203CE774 240203E7
+```
+
+---
+
+### Never Reload
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+203D03F4 00000000
+```
+
+---
+
+### Never Reload With Max Clip
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+203D03F0 24030063
+```
+
+---
+
+### P1 Press L1+Down To Decrease Balls
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+D0842502 0000FBBF
+1081C6DC 0000FFF6
+D0842502 0000FFFF
+1081C6DC 00000000
+```
+
+---
+
+### P1 Press L1+Up To Increase Balls
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+D0842502 0000FBEF
+1081C6DC 0000000A
+D0842502 0000FFFF
+1081C6DC 00000000
+```
+
+---
+
+### Press R1+Down To Decrease Cop Heat
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+D0842502 0000F7BF
+1081C6DE 0000FFF6
+D0842502 0000FFFF
+1081C6DE 00000000
+```
+
+---
+
+### Press R1+Up To Increase Cop Heat
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+D0842502 0000F7EF
+1081C6DE 0000000A
+D0842502 0000FFFF
+1081C6DE 00000000
+```
+
+---
+
+### Press R2+Down To Decrease Gang Heat
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+D0842502 0000FDBF
+1081C6E0 00000001
+D0842502 0000FFFF
+1081C6E0 00000000
+```
+
+---
+
+### Press R2+Up To Increase Gang Heat
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+D0842502 0000FDEF
+1081C6E0 00000001
+D0842502 0000FFFF
+1081C6E0 00000000
+```
+
+---
+
+### Vehicles Never Locked
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+20380AB0 03E00008
+20380AB4 24020000
+```
+
+---
+
+### Visibility Never Increases
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+20475BE0 00000000
+```
+
+---
+
+### Black Suit Tony
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C0188 8C8205AC
+200C018C AC400000
+```
+
+---
+
+### Blue Pinstrike Suit Tony With Shades
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C01A8 8C8205CC
+200C01AC AC400000
+```
+
+---
+
+### Breal-The World Is Yours-Music Track
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C0158 8C82057C
+200C015C AC400000
+```
+
+---
+
+### Change Time Of Day
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C0138 8C82055C
+200C013C AC400000
+```
+
+---
+
+### Decrease Cop Heat
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C0130 8C820554
+200C0134 AC400000
+```
+
+---
+
+### Decrease Gang Heat
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C0120 8C820544
+200C0124 AC400000
+```
+
+---
+
+### Fill Balls Meter
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C0108 8C82052C
+200C010C AC400000
+```
+
+---
+
+### Gray Suit Tony
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C01C0 8C8205E4
+200C01C4 AC400000
+```
+
+---
+
+### Gray Suit Tony With Shades
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C01C8 8C8205EC
+200C01CC AC400000
+```
+
+---
+
+### Hawaiian Shirt Tony
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C01B0 8C8205D4
+200C01B4 AC400000
+```
+
+---
+
+### Hawaiian Shirt Tony With Shades
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C01B8 8C8205DC
+200C01BC AC400000
+```
+
+---
+
+### Increase Cop Heat
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C0128 8C82054C
+200C012C AC400000
+```
+
+---
+
+### Increase Gang Heat
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C0118 8C82053C
+200C011C AC400000
+```
+
+---
+
+### Max Ammo
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C0110 8C820534
+200C0114 AC400000
+```
+
+---
+
+### Refill Health
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C0100 8C820524
+200C0104 AC400000
+```
+
+---
+
+### Repair Tony's Vehicle
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C0150 8C820574
+200C0154 AC400000
+```
+
+---
+
+### Sandy Shirt Tony
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C01D0 8C8205F4
+200C01D4 AC400000
+```
+
+---
+
+### Sandy Shirt Tony With Shades
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C01D8 8C8205FC
+200C01DC AC400000
+```
+
+---
+
+### Spawn Ariel MK III
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C0170 8C820594
+200C0174 AC400000
+```
+
+---
+
+### Spawn Bacinari
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C0160 8C820584
+200C0164 AC400000
+```
+
+---
+
+### Spawn Bodog Stampede
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C0180 8C8205A4
+200C0184 AC400000
+```
+
+---
+
+### Spawn Bulldozer
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C0168 8C82058C
+200C016C AC400000
+```
+
+---
+
+### Spawn Odin VH88
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C0178 8C82059C
+200C017C AC400000
+```
+
+---
+
+### Toggle Lightning
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C0148 8C82056C
+200C014C AC400000
+```
+
+---
+
+### Toggle Rain
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C0140 8C820564
+200C0144 AC400000
+```
+
+---
+
+### White Suit Tony
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C0190 8C8205B4
+200C0194 AC400000
+```
+
+---
+
+### White Suit Tony With Shades
+**Author:** Code Master>Lajos Szalay  
+**Notes:** [Unlock Cheat Codes]
+
+```
+200C0198 8C8205BC
+200C019C AC400000
+```
+
+---
+
+### Disable Fall Damage [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D039D5F2 0000AE20
+2039D5F0 00000000
+```
+
+---
+
+### Infinite Ammo - No Reload [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D03D03F6 0000AE03
+203D03F4 00000000
+```
+
+---
+
+### Infinite Ammo [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D03CE77E 0000AE02
+203CE77C 00000000
+```
+
+---
+
+### No Recoil When Firing Weapons [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D056AD36 0000E620
+2056AD34 00000000
+```
+
+---

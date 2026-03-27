@@ -1,0 +1,44 @@
+# Ace Combat - Squadron Leader cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-52424
+
+game: "Ace Combat - Squadron Leader"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-52424"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0320CB8 00320CBB"
+
+  - name: "Infinite Bombs/Secondary Missiles"
+    author: "Codejunkies"
+    codes:
+      - "2012964C 00000000"
+
+  - name: "Infinite Missiles"
+    author: "Codejunkies"
+    codes:
+      - "20127D7C 00000000"
+
+  - name: "Instant Bomb/Secondary Missile Reload Time"
+    author: "Codejunkies"
+    codes:
+      - "20128F84 00000000"
+
+  - name: "Instant Missile Reload Time"
+    author: "Codejunkies"
+    codes:
+      - "201275D8 00000000"
+      - "20127664 00000000"
+
+  - name: "Purchase A Plane For Lots Of Cash"
+    author: "Codejunkies"
+    codes:
+      - "2029E878 3C0305F5"

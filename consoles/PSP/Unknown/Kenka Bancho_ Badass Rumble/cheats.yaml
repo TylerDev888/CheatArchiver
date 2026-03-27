@@ -1,0 +1,27 @@
+# Kenka Bancho_ Badass Rumble cheat data
+# Console: PSP
+# Region:  Unknown
+# Serial:  ULJS00517
+
+game: "Kenka Bancho_ Badass Rumble"
+console: "PSP"
+region: "Unknown"
+serial: "ULJS00517"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Possession Money 99999999"
+    notes: "File: *"
+    codes:
+      - "20000148 05F5E0FF"
+
+  - name: "Physical Strength 2000"
+    notes: "File: *"
+    codes:
+      - "100001F6 000007D0"
+
+  - name: "Stamina 2000"
+    notes: "File: *"
+    codes:
+      - "10000250 000007D0"

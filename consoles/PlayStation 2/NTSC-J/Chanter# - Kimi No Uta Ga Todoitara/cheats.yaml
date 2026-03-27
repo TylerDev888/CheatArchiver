@@ -1,0 +1,32 @@
+# Chanter# - Kimi No Uta Ga Todoitara cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66816
+
+game: "Chanter# - Kimi No Uta Ga Todoitara"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66816"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9018D4E0 0C0634E0"
+
+  - name: "Unlock All CG Gallery"
+    author: "punk7890"
+    codes:
+      - "40281824 00060001"
+      - "FFFFFFFF 00000000"
+      - "0028183C 000000FF"
+
+  - name: "Unlock All Main Menu Items"
+    author: "punk7890"
+    codes:
+      - "20280660 FFFFFFFF"
+      - "20280664 FFFFFFFF"
+      - "20280668 FFFFFFFF"

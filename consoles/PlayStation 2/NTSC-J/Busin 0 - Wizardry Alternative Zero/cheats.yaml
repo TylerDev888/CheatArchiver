@@ -1,0 +1,33 @@
+# Busin 0 - Wizardry Alternative Zero cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65378
+
+game: "Busin 0 - Wizardry Alternative Zero"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65378"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Buy Even Without Money From The Girl"
+    author: "luc-ita"
+    codes:
+      - "202F3094 10000048"
+
+  - name: "Level Up At Adventurer's Inn Even Without EXP"
+    author: "luc-ita"
+    codes:
+      - "20151DE8 00000000"
+      - "20152308 00000000"
+
+  - name: "Rest At Adventurer's Inn Even Without Money"
+    author: "luc-ita"
+    codes:
+      - "20153C38 10000003"
+
+  - name: "Win A Battle To Get Maximum EXP"
+    author: "luc-ita"
+    codes:
+      - "201C7F08 00000000"

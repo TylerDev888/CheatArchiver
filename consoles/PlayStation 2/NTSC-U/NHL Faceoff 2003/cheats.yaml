@@ -1,0 +1,421 @@
+# NHL Faceoff 2003 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97220
+
+game: "NHL Faceoff 2003"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97220"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F038D1D8 00384F6F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00384F6F"
+
+  - name: "All Goal's Score For Away Team"
+    author: "Code Master"
+    codes:
+      - "202CC600 24430002"
+
+  - name: "All Goal's Score For Home Team"
+    author: "Code Master"
+    codes:
+      - "202CC600 24430000"
+
+  - name: "Away Advantage: Press L3"
+    author: "Codejunkies"
+    codes:
+      - "D09CE502 0000FFFD"
+      - "108BEB30 00000063"
+      - "D09CE502 0000FFFD"
+      - "108BEB2E 00000000"
+
+  - name: "Away Team Instant Win"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "D08AE488 0000000A"
+      - "208AE48C 00000002"
+      - "D08AE488 0000000A"
+      - "208AE488 00000000"
+      - "108BEB30 0000012C"
+      - "1059C6FC 00000064"
+      - "1059C75C 00000064"
+      - "1059C7BC 00000064"
+      - "108BEB2E 00000000"
+      - "1059C6FA 00000000"
+      - "1059C75A 00000000"
+      - "1059C7BA 00000000"
+
+  - name: "Infinite Time Outs"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "008ACFD9 00000001"
+
+  - name: "Away Team No Time-Outs"
+    author: "Code Master"
+    codes:
+      - "008ACFD9 00000000"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "108BEB30 0000????"
+
+  - name: "Attack Zone Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "1059C744 0000????"
+      - "1059C7A4 0000????"
+
+  - name: "Breakaways Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "1059C724 0000????"
+      - "1059C784 0000????"
+
+  - name: "Checks Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "1059C740 0000????"
+      - "1059C7A0 0000????"
+
+  - name: "Faceoffs Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "1059C73C 0000????"
+      - "1059C79C 0000????"
+
+  - name: "Max Breakaways Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "1059C720 0000????"
+      - "1059C780 0000????"
+
+  - name: "Max Faceoffs Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "1059C738 0000????"
+      - "1059C798 0000????"
+
+  - name: "Max One-Timers Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "1059C728 0000????"
+      - "1059C788 0000????"
+
+  - name: "Max Passing Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "1059C748 0000????"
+      - "1059C7A8 0000????"
+
+  - name: "Max Penalty Shots Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "1059C730 0000????"
+      - "1059C790 0000????"
+
+  - name: "Max Power Plays Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "1059C708 0000????"
+      - "1059C768 0000????"
+
+  - name: "One-Timers Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "1059C72C 0000????"
+      - "1059C78C 0000????"
+
+  - name: "Passing Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "1059C74C 0000????"
+      - "1059C7AC 0000????"
+
+  - name: "Penalties Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "1059C704 0000????"
+      - "1059C764 0000????"
+
+  - name: "Penalty Shots Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "1059C734 0000????"
+      - "1059C794 0000????"
+
+  - name: "Power Plays Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "1059C70C 0000????"
+      - "1059C76C 0000????"
+
+  - name: "PP Minutes Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "1059C710 0000????"
+      - "1059C770 0000????"
+
+  - name: "PP Shots Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "1059C714 0000????"
+      - "1059C774 0000????"
+
+  - name: "Score Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "1059C6FC 0000????"
+      - "1059C75C 0000????"
+
+  - name: "Short Handed Goals Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "1059C71C 0000????"
+      - "1059C77C 0000????"
+
+  - name: "Shots Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "1059C700 0000????"
+      - "1059C760 0000????"
+
+  - name: "Goal's Score Modifier"
+    author: "Code Master"
+    codes:
+      - "102CC60C 000000??"
+
+  - name: "Home Advantage: Press R3"
+    author: "Codejunkies"
+    codes:
+      - "D09CE502 0000FFFB"
+      - "108BEB2E 00000063"
+      - "D09CE502 0000FFFB"
+      - "108BEB30 00000000"
+
+  - name: "Home Team Instant Win"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "D08AE488 0000000A"
+      - "208AE48C 00000002"
+      - "D08AE488 0000000A"
+      - "208AE488 00000000"
+      - "108BEB2E 0000012C"
+      - "1059C6FA 00000064"
+      - "1059C75A 00000064"
+      - "1059C7BA 00000064"
+      - "108BEB30 00000000"
+      - "1059C6FC 00000000"
+      - "1059C75C 00000000"
+      - "1059C7BC 00000000"
+
+  - name: "No Time Outs"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "008ACFD8 00000000"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "108BEB2E 0000????"
+
+  - name: "Infinite Creation Points"
+    author: "InterAct"
+    codes:
+      - "201A4F28 00000000"
+      - "2A8F3AAC 00000000"
+
+  - name: "Infinite Player Creation Points"
+    author: "Code Master"
+    codes:
+      - "201A4F28 00000000"
+      - "201A4F3C 00000000"
+
+  - name: "Infinite Time-Outs (Both Teams)"
+    author: "Code Master"
+    codes:
+      - "108ACFD8 00000101"
+
+  - name: "P1 Press L1+Select For More Time"
+    author: "Code Master"
+    codes:
+      - "E002FBFE 009CE482"
+      - "208AE488 0000000A"
+      - "208AE48C 00000000"
+
+  - name: "P1 Press L2+Select For Low Time"
+    author: "Code Master"
+    codes:
+      - "E002FEFE 009CE482"
+      - "208AE488 00000000"
+      - "208AE48C 00000001"
+
+  - name: "P2 Press L1+Select For More Time"
+    author: "Code Master"
+    codes:
+      - "E002FBFE 009CE582"
+      - "208AE488 0000000A"
+      - "208AE48C 00000000"
+
+  - name: "P2 Press L2+Select For Low Time"
+    author: "Code Master"
+    codes:
+      - "E002FEFE 009CE582"
+      - "208AE488 00000000"
+      - "208AE48C 00000001"
+
+  - name: "P3 Press L1+Select For More Time"
+    author: "Code Master"
+    codes:
+      - "E002FBFE 009CE682"
+      - "208AE488 0000000A"
+      - "208AE48C 00000000"
+
+  - name: "P3 Press L2+Select For Low Time"
+    author: "Code Master"
+    codes:
+      - "E002FEFE 009CE682"
+      - "208AE488 00000000"
+      - "208AE48C 00000001"
+
+  - name: "P4 Press L1+Select For More Time"
+    author: "Code Master"
+    codes:
+      - "E002FBFE 009CE782"
+      - "208AE488 0000000A"
+      - "208AE48C 00000000"
+
+  - name: "P4 Press L2+Select For Low Time"
+    author: "Code Master"
+    codes:
+      - "E002FEFE 009CE782"
+      - "208AE488 00000000"
+      - "208AE48C 00000001"
+
+  - name: "P5 Press L1+Select For More Time"
+    author: "Code Master"
+    codes:
+      - "E002FBFE 009CE882"
+      - "208AE488 0000000A"
+      - "208AE48C 00000000"
+
+  - name: "P5 Press L2+Select For Low Time"
+    author: "Code Master"
+    codes:
+      - "E002FEFE 009CE882"
+      - "208AE488 00000000"
+      - "208AE48C 00000001"
+
+  - name: "P6 Press L1+Select For More Time"
+    author: "Code Master"
+    codes:
+      - "E002FBFE 009CE982"
+      - "208AE488 0000000A"
+      - "208AE48C 00000000"
+
+  - name: "P6 Press L2+Select For Low Time"
+    author: "Code Master"
+    codes:
+      - "E002FEFE 009CE982"
+      - "208AE488 00000000"
+      - "208AE48C 00000001"
+
+  - name: "P7 Press L1+Select For More Time"
+    author: "Code Master"
+    codes:
+      - "E002FBFE 009CEA82"
+      - "208AE488 0000000A"
+      - "208AE48C 00000000"
+
+  - name: "P7 Press L2+Select For Low Time"
+    author: "Code Master"
+    codes:
+      - "E002FEFE 009CEA82"
+      - "208AE488 00000000"
+      - "208AE48C 00000001"
+
+  - name: "P8 Press L1+Select For More Time"
+    author: "Code Master"
+    codes:
+      - "E002FBFE 009CEB82"
+      - "208AE488 0000000A"
+      - "208AE48C 00000000"
+
+  - name: "P8 Press L2+Select For Low Time"
+    author: "Code Master"
+    codes:
+      - "E002FEFE 009CEB82"
+      - "208AE488 00000000"
+      - "208AE48C 00000001"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00384F6F"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90384F6C 0C0ED917"
+
+  - name: "No Time-Outs (Both Teams)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "108ACFD8 00000101"
+
+  - name: "Home Team Infinite Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "008ACFD8 00000001"
+
+  - name: "Home Team No Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "008ACFD8 00000000"
+
+  - name: "Away Team Infinite Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "008ACFD9 00000001"

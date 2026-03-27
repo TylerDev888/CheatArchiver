@@ -1,0 +1,72 @@
+# Assassin's Creed_ Valhalla cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA18534
+
+game: "Assassin's Creed_ Valhalla"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA18534"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Weapon Swap Mod"
+    notes: "File: (Auto|Manual|Quick)Save\\d+\\(Auto|Manual|Quick)Save[0-9]+.sav"
+    codes:
+      - "80010008 BFE232C3"
+      - "BFE232C3 00000000"
+      - "8801000C 1C000B01"
+      - "[Weapon]"
+      - "93000000 00000012"
+      - "28000000 0000000A"
+      - "A8000016 00000008"
+      - "[Weapon]"
+
+  - name: "Varins Axe To Mjolnir"
+    notes: "File: (Auto|Manual|Quick)Save\\d+\\(Auto|Manual|Quick)Save[0-9]+.sav"
+    codes:
+      - "80010008 BFE232C3"
+      - "BFE232C3 00000000"
+      - "8801000C 1C000B01"
+      - "0CBB7518 B5010000"
+      - "93000000 00000012"
+      - "28000000 0000000A"
+      - "A8000016 00000008"
+      - "ACD07518 B5010000"
+
+  - name: "Housecarl’s Axe To Mjolnir"
+    notes: "File: (Auto|Manual|Quick)Save\\d+\\(Auto|Manual|Quick)Save[0-9]+.sav"
+    codes:
+      - "80010008 BFE232C3"
+      - "BFE232C3 00000000"
+      - "8801000C 1C000B01"
+      - "A14D670E 7E010000"
+      - "93000000 00000012"
+      - "28000000 0000000A"
+      - "A8000016 00000008"
+      - "ACD07518 B5010000"
+
+  - name: "Mjolnir To Excalibur"
+    notes: "File: (Auto|Manual|Quick)Save\\d+\\(Auto|Manual|Quick)Save[0-9]+.sav"
+    codes:
+      - "80010008 BFE232C3"
+      - "BFE232C3 00000000"
+      - "8801000C 1C000B01"
+      - "ACD07518 B5010000"
+      - "93000000 00000012"
+      - "28000000 0000000A"
+      - "A8000016 00000008"
+      - "95AB7418 B5010000"
+
+  - name: "Excalibur To Mjolnir"
+    notes: "File: (Auto|Manual|Quick)Save\\d+\\(Auto|Manual|Quick)Save[0-9]+.sav"
+    codes:
+      - "80010008 BFE232C3"
+      - "BFE232C3 00000000"
+      - "8801000C 1C000B01"
+      - "95AB7418 B5010000"
+      - "93000000 00000012"
+      - "28000000 0000000A"
+      - "A8000016 00000008"
+      - "ACD07518 B5010000"

@@ -1,0 +1,40 @@
+# Ys vs. Sora no Kiseki cheat data
+# Console: PSP
+# Region:  Unknown
+# Serial:  NPJH50276
+
+game: "Ys vs. Sora no Kiseki"
+console: "PSP"
+region: "Unknown"
+serial: "NPJH50276"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Possession Money 99999999"
+    notes: "File: *"
+    codes:
+      - "20002714 05F5E0FF"
+
+  - name: "Possession Money 50000000"
+    notes: "File: *"
+    codes:
+      - "20002714 02FAF080"
+
+  - name: "Bp 99999"
+    notes: "File: *"
+    codes:
+      - "20002724 0001869F"
+
+  - name: "Bp 25500"
+    notes: "File: *"
+    codes:
+      - "20002724 0000639C"
+
+  - name: "All Characters Lv.98"
+    notes: "File: *"
+    codes:
+      - "40000004 00000062"
+      - "40070048 00000000"
+      - "400002D4 00000062"
+      - "400A0048 00000000"

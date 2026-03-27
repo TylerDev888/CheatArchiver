@@ -1,0 +1,19 @@
+# Terminator_ Salvation cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00537
+
+game: "Terminator_ Salvation"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00537"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Md5 (required)"
+    notes: "File: HEADER.BIN"
+    codes:
+      - "set range:0x000004,0x00050C"
+      - "set [hash]:MD5"
+      - "write at 0x00050D:[hash]"

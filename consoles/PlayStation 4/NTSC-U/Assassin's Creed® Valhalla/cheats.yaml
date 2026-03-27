@@ -1,0 +1,92 @@
+# Assassin's Creed® Valhalla cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA18522
+
+game: "Assassin's Creed® Valhalla"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA18522"
+cheat_type: "AP"
+source: "source: xdgmods.com forum"
+
+cheats:
+  - name: "Ac Valhalla Resource Sheet"
+    notes: "File: *  (Equipment Swap Mod (Template) *) (X = The Item ID You Have Goes Here) (Y = The Item ID You Want Goes Here) (V = 01 or 0A) \\\\XXXXXXXX XXXXXXXX \\\\28000000 000000VV \\\\YYYYYYYY YYYYYYYY (*All equipment tiers MUST match in order for swap to work!) (Eg. Legendary weapons (Excalibur, Mjolnir) ..."
+    codes:
+      - "80010008 BFE232C3"
+      - "BFE232C3 00000000"
+      - "8801000C 1C000B01"
+      - "93000000 00000012"
+      - "A8000016 00000008"
+
+  - name: "Varins Axe To Mjolnir"
+    notes: "File: *"
+    codes:
+      - "80010008 BFE232C3"
+      - "BFE232C3 00000000"
+      - "8801000C 1C000B01"
+      - "0CBB7518 B5010000"
+      - "93000000 00000012"
+      - "28000000 0000000A"
+      - "A8000016 00000008"
+      - "ACD07518 B5010000"
+
+  - name: "Housecarl’s Axe To Mjolnir"
+    notes: "File: *"
+    codes:
+      - "80010008 BFE232C3"
+      - "BFE232C3 00000000"
+      - "8801000C 1C000B01"
+      - "A14D670E 7E010000"
+      - "93000000 00000012"
+      - "28000000 0000000A"
+      - "A8000016 00000008"
+      - "ACD07518 B5010000"
+
+  - name: "Mjolnir To Excalibur"
+    notes: "File: *"
+    codes:
+      - "80010008 BFE232C3"
+      - "BFE232C3 00000000"
+      - "8801000C 1C000B01"
+      - "ACD07518 B5010000"
+      - "93000000 00000012"
+      - "28000000 0000000A"
+      - "A8000016 00000008"
+      - "95AB7418 B5010000"
+
+  - name: "Excalibur To Mjolnir"
+    notes: "File: *"
+    codes:
+      - "80010008 BFE232C3"
+      - "BFE232C3 00000000"
+      - "8801000C 1C000B01"
+      - "95AB7418 B5010000"
+      - "93000000 00000012"
+      - "28000000 0000000A"
+      - "A8000016 00000008"
+      - "ACD07518 B5010000"
+
+  - name: "Luxuries(Wrath of The Druids DLC (Ireland Resources))"
+    notes: "File: *  \\\\3757D714C B010000"
+
+  - name: "Delicacies"
+    notes: "File: *"
+    codes:
+      - "1541918D C7010000"
+
+  - name: "Texts"
+    notes: "File: *"
+    codes:
+      - "3C43918D C7010000"
+
+  - name: "Clothing"
+    notes: "File: *"
+    codes:
+      - "4B43918D C7010000"
+
+  - name: "Trade Post Supplies Money Irish Cargo"
+    notes: "File: *"
+    codes:
+      - "1C0B8152 D7010000"

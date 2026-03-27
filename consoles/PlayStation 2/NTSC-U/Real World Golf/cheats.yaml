@@ -1,0 +1,24 @@
+# Real World Golf cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21332
+
+game: "Real World Golf"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21332"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90344D98 0C0D130E"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90319400 0C0C9F83"

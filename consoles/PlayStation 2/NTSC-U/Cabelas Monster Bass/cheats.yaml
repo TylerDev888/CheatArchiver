@@ -1,0 +1,47 @@
+# Cabelas Monster Bass cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21715
+
+game: "Cabelas Monster Bass"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21715"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9011ED38 0C047AF6"
+
+  - name: "Freeze Time"
+    author: "Azagthoth>SkillerCMP"
+    notes: "Infinite Time (Alt)"
+    codes:
+      - "204692C4 00000000"
+      - "606B6410 41F00000"
+      - "00020001 000000F4"
+      - "606B6410 00000000"
+      - "00020001 000000F8"
+
+  - name: "Freeze Fish"
+    author: "Azagthoth>SkillerCMP"
+    codes:
+      - "006BABC8 00000001"
+
+  - name: "Skeleton Mode"
+    author: "Azagthoth>SkillerCMP"
+    codes:
+      - "00693B38 00000001"
+
+  - name: "Freeze Fish (alt)"
+    author: "Azagthoth>SkillerCMP"
+    codes:
+      - "104E8B5C 00000001"
+
+  - name: "Skeleton Mode (alt)"
+    author: "Azagthoth>SkillerCMP"
+    codes:
+      - "10355700 00000001"

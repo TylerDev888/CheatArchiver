@@ -1,0 +1,35 @@
+# Alice in Wonderland cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  SALE4Q
+
+game: "Alice in Wonderland"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "SALE4Q"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Quick Achievements (1 For Max)"
+    author: "Skiller"
+    codes:
+      - "04190BAC 8003001C"
+
+  - name: "Inf HP"
+    author: "Skiller"
+    codes:
+      - "040EC74C C0030064"
+
+  - name: "Gain 100x Upgrade Points"
+    author: "Skiller"
+    codes:
+      - "C2149A94 00000002"
+      - "1C9D0064 7C9F2214"
+      - "60000000 00000000"
+
+  - name: "Buy Upgrade Get 999999"
+    author: "Skiller"
+    codes:
+      - "04149B28 3C80000F"
+      - "04149B2C 6084423F"

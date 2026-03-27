@@ -1,0 +1,39 @@
+# Fantastic Fortune 2 - Triple Star cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25396
+
+game: "Fantastic Fortune 2 - Triple Star"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25396"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90111690 0C04454C"
+
+  - name: "Unlock All Album"
+    author: "punk7890"
+    codes:
+      - "2015C554 2406FFFF"
+      - "2015C584 FC460000"
+      - "2015C588 03E00008"
+      - "2015C58C DC420000"
+
+  - name: "Unlock All Gallery"
+    author: "punk7890"
+    codes:
+      - "2015C5F4 2406FFFF"
+      - "2015C620 A0460000"
+      - "2015C624 03E00008"
+      - "2015C628 90420000"
+
+  - name: "Unlock Main Menu Items"
+    author: "punk7890"
+    codes:
+      - "003F1784 000000FF"

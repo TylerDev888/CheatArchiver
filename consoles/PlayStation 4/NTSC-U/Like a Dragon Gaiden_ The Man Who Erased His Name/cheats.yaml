@@ -1,0 +1,20 @@
+# Like a Dragon Gaiden_ The Man Who Erased His Name cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA43228
+
+game: "Like a Dragon Gaiden_ The Man Who Erased His Name"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA43228"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Add Item"
+    notes: "File: data.sav"
+    codes:
+      - "search 0x22706C61796572223A"
+      - "search next 0x2263617272795F6974656D22"
+      - "search next 0x226D5F6C69737422"
+      - "Insert Next A: \"{\".ver\":1,\"m_count\":[Amount:99999999:UTF08:TXT],\"m_item_id\":{\"puid\":[ID]}},\""

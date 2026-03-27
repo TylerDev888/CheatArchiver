@@ -1,0 +1,95 @@
+# LOTR_ The Two Towers cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "LOTR_ The Two Towers"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 002C458F"
+
+  - name: "Unlimited Health"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "200C0220 340123F0"
+      - "200C0224 03200008"
+      - "200C0228 AC810300"
+      - "20224710 0C030088"
+
+  - name: "Maximum Upgrade Points"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20381BD0 05F5E0FF"
+      - "2038C510 05F5E0FF"
+
+  - name: "Huge Experience Gain"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20152860 3C024A1C"
+      - "2015286C 44826000"
+
+  - name: "Skip Fmvs"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "0026A748 28096800"
+
+  - name: "Always Devastating"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "00381964 28096801"
+
+  - name: "Built-In Cheats"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "004648CF 28096801"
+
+  - name: "Isildur"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "004648A1 28096801"
+      - "004648A3 28096801"
+
+  - name: "Arrows"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "0011F30C 28096800"
+
+  - name: "Missiles"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "00381968 28096801"
+
+  - name: "Aragorn"
+    author: "Xploder"
+    notes: "[Maximum Experience Level Gained]"
+    codes:
+      - "00464B54 28096809"
+
+  - name: "Legolas"
+    author: "Xploder"
+    notes: "[Maximum Experience Level Gained]"
+    codes:
+      - "00464EA4 28096809"
+
+  - name: "Gimli"
+    author: "Xploder"
+    notes: "[Maximum Experience Level Gained]"
+    codes:
+      - "004651F4 28096809"

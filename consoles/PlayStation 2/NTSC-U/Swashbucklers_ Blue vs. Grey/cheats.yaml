@@ -1,0 +1,36 @@
+# Swashbucklers_ Blue vs. Grey cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21691
+
+game: "Swashbucklers_ Blue vs. Grey"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21691"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90133A10 0C04CE2C"
+
+  - name: "Inf Money - Buy/Sell"
+    author: "SkillerCMP"
+    notes: "[Misc Codes]"
+    codes:
+      - "207D372C 00000000"
+
+  - name: "Inf/Max Money"
+    author: "SkillerCMP"
+    notes: "[Misc Codes]"
+    codes:
+      - "2025A27C 08028000"
+      - "200A0000 3C0200AC"
+      - "200A0004 8C42BB58"
+      - "200A0008 10400006"
+      - "200A0010 3C0105F5"
+      - "200A0014 3421E0FF"
+      - "200A0018 AC410044"
+      - "200A0024 03E00008"

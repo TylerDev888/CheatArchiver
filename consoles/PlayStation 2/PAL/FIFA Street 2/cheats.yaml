@@ -1,0 +1,100 @@
+# FIFA Street 2 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53796
+
+game: "FIFA Street 2"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53796"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F041FB0C 0041FB0F"
+
+  - name: "Always Gamebreaker"
+    author: "Codejunkies"
+    codes:
+      - "2027FCD8 3C0145B0"
+      - "2027FCE0 AC410014"
+
+  - name: "Press R1+R2+Select For Away Team Wins"
+    author: "Codejunkies"
+    notes: "[Away Team Codes]"
+    codes:
+      - "D0E67F82 0000F5FE"
+      - "205057E0 00000000"
+      - "D0E67F82 0000F5FE"
+      - "205058A8 00000032"
+
+  - name: "Score 0"
+    author: "Codejunkies"
+    notes: "[Away Team Codes]"
+    codes:
+      - "205058A8 00000000"
+
+  - name: "Start With 1 Goal"
+    author: "Codejunkies"
+    notes: "[Away Team Codes]"
+    codes:
+      - "E0020000 005058A8"
+      - "D05058AA 00000000"
+      - "205058A8 00000001"
+
+  - name: "Start With 5 Goals"
+    author: "Codejunkies"
+    notes: "[Away Team Codes]"
+    codes:
+      - "E0020000 005058A8"
+      - "D05058AA 00000000"
+      - "205058A8 00000005"
+
+  - name: "Start With 10 Goals"
+    author: "Codejunkies"
+    notes: "[Away Team Codes]"
+    codes:
+      - "E0020000 005058A8"
+      - "D05058AA 00000000"
+      - "205058A8 0000000A"
+
+  - name: "Press L1+L2+Select For Home Team Wins"
+    author: "Codejunkies"
+    notes: "[Home Team Scores]"
+    codes:
+      - "D0E67F82 0000FAFE"
+      - "205057E0 00000032"
+      - "D0E67F82 0000FAFE"
+      - "205058A8 00000000"
+
+  - name: "Infinite Skill Bills"
+    author: "Codejunkies"
+    codes:
+      - "D0E67F82 0000FFFE"
+      - "20929780 05F5E0FF"
+
+  - name: "P1 Scores Max Trick Points/P2 Scores No Trick Points"
+    author: "Codejunkies"
+    notes: "[Trick Points Codes]"
+    codes:
+      - "200FFF00 3C0105F0"
+      - "200FFF04 14070003"
+      - "200FFF08 AC600018"
+      - "200FFF0C AC610018"
+      - "200FFF14 0805DDAC"
+      - "201776AC 0803FFC0"
+
+  - name: "P2 Scores Max Trick Points/P1 Scores No Trick Points"
+    author: "Codejunkies"
+    notes: "[Trick Points Codes]"
+    codes:
+      - "200FFF00 3C0105F0"
+      - "200FFF04 10070003"
+      - "200FFF08 AC600018"
+      - "200FFF0C AC610018"
+      - "200FFF14 0805DDAC"
+      - "201776AC 0803FFC0"

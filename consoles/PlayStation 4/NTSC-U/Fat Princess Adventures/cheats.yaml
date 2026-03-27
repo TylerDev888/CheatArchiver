@@ -1,0 +1,39 @@
+# Fat Princess Adventures cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA01388
+
+game: "Fat Princess Adventures"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA01388"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Mod Money"
+    author: "Dynamite#0001"
+    notes: "File: SAVEDATA00\\FILENAME0.DAT"
+    codes:
+      - "800[Slot<Profile Slot>]0014 66697374"
+      - "00000000 00000000"
+      - "00000000 00000000"
+      - "28000014 [Amount:3B9AC9FF:HEX:BIG<Money>]"
+
+  - name: "Mod GEMS"
+    author: "Dynamite#0001"
+    notes: "File: SAVEDATA00\\FILENAME0.DAT"
+    codes:
+      - "800[Slot<Profile Slot>]0014 66697374"
+      - "00000000 00000000"
+      - "00000000 00000000"
+      - "28000018 [Amount:3B9AC9FF:HEX:BIG<Gems>]"
+
+  - name: "Mod EXP"
+    author: "Dynamite#0001"
+    notes: "File: SAVEDATA00\\FILENAME0.DAT"
+    codes:
+      - "800[Slot<Profile Slot>]0014 66697374"
+      - "00000000 00000000"
+      - "00000000 00000000"
+      - "2800001C [Amount:3B9AC9FF:HEX:BIG<Exp>]"

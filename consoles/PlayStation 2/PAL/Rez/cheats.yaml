@@ -1,0 +1,171 @@
+# Rez cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-50501
+
+game: "Rez"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-50501"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0101040 001E07DF"
+
+  - name: "Access Locked Levels (Press L1+L2+R1+R2 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D02F8DA0 0000000F"
+      - "110A0710 00000004"
+
+  - name: "Always Ultimate Life Form"
+    author: "Codejunkies"
+    notes: "[Always Life Form Codes]"
+    codes:
+      - "102F9630 00000006"
+
+  - name: "Always Unknown Life Form"
+    author: "Codejunkies"
+    notes: "[Always Life Form Codes]"
+    codes:
+      - "102F9630 00000007"
+
+  - name: "Life Form Level 0 (Press Select+L2)"
+    author: "Codejunkies"
+    notes: "[Life Form Codes]"
+    codes:
+      - "D02F8DA0 00000101"
+      - "102F9630 00000000"
+
+  - name: "Life Form Level 1 (Press Select+R2)"
+    author: "Codejunkies"
+    notes: "[Life Form Codes]"
+    codes:
+      - "D02F8DA0 00000102"
+      - "102F9630 00000001"
+
+  - name: "Life Form Level 2 (Press Select+L1)"
+    author: "Codejunkies"
+    notes: "[Life Form Codes]"
+    codes:
+      - "D02F8DA0 00000104"
+      - "102F9630 00000002"
+
+  - name: "Life Form Level 3 (Press Select+R1)"
+    author: "Codejunkies"
+    notes: "[Life Form Codes]"
+    codes:
+      - "D02F8DA0 00000108"
+      - "102F9630 00000003"
+
+  - name: "Life Form Level 4 (Press Select+Right)"
+    author: "Codejunkies"
+    notes: "[Life Form Codes]"
+    codes:
+      - "D02F8DA0 00002100"
+      - "102F9630 00000004"
+
+  - name: "Life Form Level 5 (Press Select+Up)"
+    author: "Codejunkies"
+    notes: "[Life Form Codes]"
+    codes:
+      - "D02F8DA0 00001100"
+      - "102F9630 00000005"
+
+  - name: "Ultimate Level Life Form (Press Select+Left)"
+    author: "Codejunkies"
+    notes: "[Life Form Codes]"
+    codes:
+      - "D02F8DA0 00008100"
+      - "102F9630 00000006"
+
+  - name: "Unknown Life Form (Press Select+Down)"
+    author: "Codejunkies"
+    notes: "[Life Form Codes]"
+    codes:
+      - "D02F8DA0 00004100"
+      - "102F9630 00000007"
+
+  - name: "Max Evolution Gauge"
+    author: "InterAct"
+    codes:
+      - "D02F967C 00000000"
+      - "102F967C 00000006"
+
+  - name: "Max Overdrive"
+    author: "InterAct"
+    codes:
+      - "102F9680 00000004"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001E07DF"
+
+  - name: "Overdrive"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "002F9680 28096804"
+
+  - name: "Evolution"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "D02F967C 00000000"
+      - "002F967C 28096806"
+
+  - name: "Level 0"
+    author: "Xploder"
+    notes: "[Life Form Level]"
+    codes:
+      - "D02F8DA0 28091100"
+      - "002F9630 28096800"
+
+  - name: "Level 1"
+    author: "Xploder"
+    notes: "[Life Form Level]"
+    codes:
+      - "D02F8DA0 28094100"
+      - "002F9630 28096801"
+
+  - name: "Level 2"
+    author: "Xploder"
+    notes: "[Life Form Level]"
+    codes:
+      - "D02F8DA0 28098100"
+      - "002F9630 28096802"
+
+  - name: "Level 3"
+    author: "Xploder"
+    notes: "[Life Form Level]"
+    codes:
+      - "D02F8DA0 28092100"
+      - "002F9630 28096803"
+
+  - name: "Level 4"
+    author: "Xploder"
+    notes: "[Life Form Level]"
+    codes:
+      - "D02F8DA0 28090104"
+      - "002F9630 28096804"
+
+  - name: "Level 5"
+    author: "Xploder"
+    notes: "[Life Form Level]"
+    codes:
+      - "D02F8DA0 28090108"
+      - "002F9630 28096805"
+
+  - name: "Ultimate Level"
+    author: "Xploder"
+    notes: "[Life Form Level]"
+    codes:
+      - "D02F8DA0 28090101"
+      - "002F9630 28096806"

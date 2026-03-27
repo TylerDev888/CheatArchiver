@@ -1,0 +1,764 @@
+# NFL Gameday 2002 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97131
+
+game: "NFL Gameday 2002"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97131"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0168F00 00144747"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00144747"
+
+  - name: "Yard Dash Max"
+    author: "Codejunkies"
+    notes: "[40 Yard Dash Codes]"
+    codes:
+      - "00543C02 00000064"
+
+  - name: "Yard Dash Super"
+    author: "Codejunkies"
+    notes: "[40 Yard Dash Codes]"
+    codes:
+      - "00543C02 000000FF"
+
+  - name: "Meter Hurdle Max"
+    author: "Codejunkies"
+    notes: "[60 Meter Hurdle Codes]"
+    codes:
+      - "00543C03 00000064"
+
+  - name: "Meter Hurdle Super"
+    author: "Codejunkies"
+    notes: "[60 Meter Hurdle Codes]"
+    codes:
+      - "00543C03 000000FF"
+
+  - name: "All Stats Max"
+    author: "InterAct"
+    codes:
+      - "30DBE9A9 64DA55B5"
+      - "30DCE9B7 64DA55B5"
+      - "C5391383 64DA29E9"
+      - "00010001 4CCC110F"
+
+  - name: "All Stats Super"
+    author: "InterAct"
+    codes:
+      - "30DBE9A9 64DA28EA"
+      - "30DCE9B7 64DA28EA"
+      - "C5391383 64DA29E9"
+      - "00010001 2363AAAA"
+
+  - name: "Always 1St Down"
+    author: "Code Master"
+    codes:
+      - "104798D0 00000001"
+
+  - name: "Always 4Th Down"
+    author: "Code Master"
+    codes:
+      - "104798D0 00000004"
+
+  - name: "Always Start On 2Nd Down"
+    author: "Code Master"
+    codes:
+      - "D04798D0 00000001"
+      - "104798D0 00000002"
+
+  - name: "Always Start On 3Rd Down"
+    author: "Code Master"
+    codes:
+      - "D04798D0 00000001"
+      - "104798D0 00000003"
+
+  - name: "Awareness (IQ) Max"
+    author: "Codejunkies"
+    notes: "[Awareness Codes]"
+    codes:
+      - "00543C0B 00000064"
+
+  - name: "Awareness (IQ) Super"
+    author: "Codejunkies"
+    notes: "[Awareness Codes]"
+    codes:
+      - "00543C0B 000000FF"
+
+  - name: "Away Team Infnite Time Outs"
+    author: "InterAct"
+    codes:
+      - "30AA4209 64DA29D6"
+
+  - name: "Away Team No Time Outs"
+    author: "InterAct"
+    codes:
+      - "30AA4209 64DA29E9"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "10479758 0000????"
+
+  - name: "Away Team Scores 0"
+    author: "InterAct"
+    codes:
+      - "30AA4203 64DA29E9"
+
+  - name: "Away Team Scores 99"
+    author: "InterAct"
+    codes:
+      - "30AA4203 64DA29B6"
+
+  - name: "Away Team Start With Score Modifier"
+    author: "Code Master"
+    codes:
+      - "D0479758 00000000"
+      - "10479758 0000????"
+
+  - name: "Bench Press Max"
+    author: "Codejunkies"
+    notes: "[Bench Codes]"
+    codes:
+      - "00543C08 00000064"
+
+  - name: "Bench Press Super"
+    author: "Codejunkies"
+    notes: "[Bench Codes]"
+    codes:
+      - "00543C08 000000FF"
+
+  - name: "Broad Jump Max"
+    author: "Codejunkies"
+    notes: "[Broad Jump Codes]"
+    codes:
+      - "00543C07 00000064"
+
+  - name: "Broad Jump Super"
+    author: "Codejunkies"
+    notes: "[Broad Jump Codes]"
+    codes:
+      - "00543C07 000000FF"
+
+  - name: "Infinite Creation Points"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "10543C0E 000003E7"
+
+  - name: "Max All Stats"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "10543C02 00006464"
+      - "40543C04 00020001"
+      - "64646464 00000000"
+      - "10543C0C 00006464"
+
+  - name: "Max Fly Pattern"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "00543C0C 00000064"
+
+  - name: "Max Hook Route"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "00543C0A 00000064"
+
+  - name: "Max Leg Squat"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "00543C06 00000064"
+
+  - name: "Max Out Route"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "00543C09 00000064"
+
+  - name: "Max Post Pattern"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "00543C0D 00000064"
+
+  - name: "Max Shuttle"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "00543C04 00000064"
+
+  - name: "Max Vertical Jump"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "00543C05 00000064"
+
+  - name: "Heavy Created Character"
+    author: "Codejunkies"
+    notes: "[Created Character Codes]"
+    codes:
+      - "105465AA 000003E7"
+      - "105425D0 000003E7"
+
+  - name: "Light Created Character"
+    author: "Codejunkies"
+    notes: "[Created Character Codes]"
+    codes:
+      - "105465AA 00000130"
+      - "105425D0 00000000"
+
+  - name: "Fly Pattern Super"
+    author: "Codejunkies"
+    notes: "[Fly Pattern Codes]"
+    codes:
+      - "00543C0C 000000FF"
+
+  - name: "Home Team Infinite Time Outs"
+    author: "InterAct"
+    codes:
+      - "30AA420B 64DA29D6"
+
+  - name: "Home Team No Time Outs"
+    author: "InterAct"
+    codes:
+      - "30AA420B 64DA29E9"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "10479750 0000????"
+
+  - name: "Home Team Scores 0"
+    author: "InterAct"
+    codes:
+      - "30AA42FB 64DA29E9"
+
+  - name: "Home Team Scores 99"
+    author: "InterAct"
+    codes:
+      - "30AA42FB 64DA29B6"
+
+  - name: "Home Team Start With Score Modifier"
+    author: "Code Master"
+    codes:
+      - "D0479750 00000000"
+      - "10479750 0000????"
+
+  - name: "Hook Route Super"
+    author: "Codejunkies"
+    notes: "[Hook Route Codes]"
+    codes:
+      - "00543C0A 000000FF"
+
+  - name: "Infinite Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "104798C4 00000028"
+
+  - name: "Leg Squat Super"
+    author: "Codejunkies"
+    notes: "[Leg Squat Codes]"
+    codes:
+      - "00543C06 000000FF"
+
+  - name: "Out Route Super"
+    author: "Codejunkies"
+    notes: "[Out Route Codes]"
+    codes:
+      - "00543C09 000000FF"
+
+  - name: "Out Route Max"
+    author: "InterAct"
+    codes:
+      - "20DCE9B0 64DA29B5"
+
+  - name: "P1 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "E002FAFF 002BC342"
+      - "204798BC 00000000"
+      - "104798C0 00000005"
+
+  - name: "P1 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D02BC342 0000FBFE"
+      - "104798C4 00000001"
+
+  - name: "P1 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "D02BC342 0000FEFE"
+      - "104798D0 00000001"
+
+  - name: "P1 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    codes:
+      - "E002F5FF 002BC342"
+      - "204798BC 00000001"
+      - "104798C0 00000000"
+
+  - name: "P1 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D02BC342 0000F7FE"
+      - "104798C4 00000028"
+
+  - name: "P1 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "D02BC342 0000FDFE"
+      - "104798D0 00000004"
+
+  - name: "P2 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "E002FAFF 002BC442"
+      - "204798BC 00000000"
+      - "104798C0 00000005"
+
+  - name: "P2 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D02BC442 0000FBFE"
+      - "104798C4 00000001"
+
+  - name: "P2 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "D02BC442 0000FEFE"
+      - "104798D0 00000001"
+
+  - name: "P2 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    codes:
+      - "E002F5FF 002BC442"
+      - "204798BC 00000001"
+      - "104798C0 00000000"
+
+  - name: "P2 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D02BC442 0000F7FE"
+      - "104798C4 00000028"
+
+  - name: "P2 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "D02BC442 0000FDFE"
+      - "104798D0 00000004"
+
+  - name: "P3 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "E002FAFF 002BC542"
+      - "204798BC 00000000"
+      - "104798C0 00000005"
+
+  - name: "P3 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D02BC542 0000FBFE"
+      - "104798C4 00000001"
+
+  - name: "P3 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "D02BC542 0000FEFE"
+      - "104798D0 00000001"
+
+  - name: "P3 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    codes:
+      - "E002F5FF 002BC542"
+      - "204798BC 00000001"
+      - "104798C0 00000000"
+
+  - name: "P3 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D02BC542 0000F7FE"
+      - "104798C4 00000028"
+
+  - name: "P3 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "D02BC542 0000FDFE"
+      - "104798D0 00000004"
+
+  - name: "P4 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "E002FAFF 002BC642"
+      - "204798BC 00000000"
+      - "104798C0 00000005"
+
+  - name: "P4 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D02BC642 0000FBFE"
+      - "104798C4 00000001"
+
+  - name: "P4 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "D02BC642 0000FEFE"
+      - "104798D0 00000001"
+
+  - name: "P4 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    codes:
+      - "E002F5FF 002BC642"
+      - "204798BC 00000001"
+      - "104798C0 00000000"
+
+  - name: "P4 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D02BC642 0000F7FE"
+      - "104798C4 00000028"
+
+  - name: "P4 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "D02BC642 0000FDFE"
+      - "104798D0 00000004"
+
+  - name: "P5 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "E002FAFF 002BC742"
+      - "204798BC 00000000"
+      - "104798C0 00000005"
+
+  - name: "P5 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D02BC742 0000FBFE"
+      - "104798C4 00000001"
+
+  - name: "P5 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "D02BC742 0000FEFE"
+      - "104798D0 00000001"
+
+  - name: "P5 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    codes:
+      - "E002F5FF 002BC742"
+      - "204798BC 00000001"
+      - "104798C0 00000000"
+
+  - name: "P5 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D02BC742 0000F7FE"
+      - "104798C4 00000028"
+
+  - name: "P5 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "D02BC742 0000FDFE"
+      - "104798D0 00000004"
+
+  - name: "P6 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "E002FAFF 002BC842"
+      - "204798BC 00000000"
+      - "104798C0 00000005"
+
+  - name: "P6 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D02BC842 0000FBFE"
+      - "104798C4 00000001"
+
+  - name: "P6 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "D02BC842 0000FEFE"
+      - "104798D0 00000001"
+
+  - name: "P6 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    codes:
+      - "E002F5FF 002BC842"
+      - "204798BC 00000001"
+      - "104798C0 00000000"
+
+  - name: "P6 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D02BC842 0000F7FE"
+      - "104798C4 00000028"
+
+  - name: "P6 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "D02BC842 0000FDFE"
+      - "104798D0 00000004"
+
+  - name: "P7 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "E002FAFF 002BC942"
+      - "204798BC 00000000"
+      - "104798C0 00000005"
+
+  - name: "P7 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D02BC942 0000FBFE"
+      - "104798C4 00000001"
+
+  - name: "P7 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "D02BC942 0000FEFE"
+      - "104798D0 00000001"
+
+  - name: "P7 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    codes:
+      - "E002F5FF 002BC942"
+      - "204798BC 00000001"
+      - "104798C0 00000000"
+
+  - name: "P7 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D02BC942 0000F7FE"
+      - "104798C4 00000028"
+
+  - name: "P7 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "D02BC942 0000FDFE"
+      - "104798D0 00000004"
+
+  - name: "P8 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "E002FAFF 002BCA42"
+      - "204798BC 00000000"
+      - "104798C0 00000005"
+
+  - name: "P8 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D02BCA42 0000FBFE"
+      - "104798C4 00000001"
+
+  - name: "P8 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "D02BCA42 0000FEFE"
+      - "104798D0 00000001"
+
+  - name: "P8 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    codes:
+      - "E002F5FF 002BCA42"
+      - "204798BC 00000001"
+      - "104798C0 00000000"
+
+  - name: "P8 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    codes:
+      - "D02BCA42 0000F7FE"
+      - "104798C4 00000028"
+
+  - name: "P8 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "D02BCA42 0000FDFE"
+      - "104798D0 00000004"
+
+  - name: "All Statistics Max"
+    author: "Codejunkies"
+    notes: "[Post Pattern Codes]"
+    codes:
+      - "10543C02 00006464"
+      - "10543C0C 00006464"
+      - "40543C04 00020001"
+      - "64646464 00000000"
+
+  - name: "All Statistics Super"
+    author: "Codejunkies"
+    notes: "[Post Pattern Codes]"
+    codes:
+      - "10543C02 0000FFFF"
+      - "10543C0C 0000FFFF"
+      - "40543C04 00020001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Post Pattern Super"
+    author: "Codejunkies"
+    notes: "[Post Pattern Codes]"
+    codes:
+      - "00543C0D 000000FF"
+
+  - name: "Post Pattern Max"
+    author: "InterAct"
+    codes:
+      - "20DCE9B4 64DA29B5"
+
+  - name: "Press Select+R1 For 1St Down"
+    author: "InterAct"
+    codes:
+      - "30B66E69 64DA30EF"
+      - "20AB457B 64DA29D4"
+
+  - name: "Press Select+R2 For 4Th Down"
+    author: "InterAct"
+    codes:
+      - "30B66E69 64DA3EEF"
+      - "20AB457B 64DA29D5"
+
+  - name: "Start On 2Nd Quarter"
+    author: "Codejunkies"
+    notes: "[Quarter Codes]"
+    codes:
+      - "D04798D2 00000000"
+      - "104798D2 00000001"
+
+  - name: "Start On 3Rd Quarter"
+    author: "Codejunkies"
+    notes: "[Quarter Codes]"
+    codes:
+      - "D04798D2 00000000"
+      - "104798D2 00000002"
+
+  - name: "Start On 4Th Quarter"
+    author: "Codejunkies"
+    notes: "[Quarter Codes]"
+    codes:
+      - "D04798D2 00000000"
+      - "104798D2 00000003"
+
+  - name: "Always Score 0"
+    author: "Codejunkies"
+    notes: "[Score Codes]"
+    codes:
+      - "10479750 00000000"
+
+  - name: "Always Score 99"
+    author: "Codejunkies"
+    notes: "[Score Codes]"
+    codes:
+      - "10479750 00000063"
+
+  - name: "Shuttle Super"
+    author: "Codejunkies"
+    notes: "[Shuttle Codes]"
+    codes:
+      - "00543C04 000000FF"
+
+  - name: "Infinite Time Outs"
+    author: "Codejunkies"
+    notes: "[Time Out Codes]"
+    codes:
+      - "10479760 00000003"
+
+  - name: "Jump Back To The 1St Down (Press Select R1 To Activate)"
+    author: "Codejunkies"
+    notes: "[Time Out Codes]"
+    codes:
+      - "102BC3C2 0000F7FE"
+      - "004798D0 00000001"
+
+  - name: "No Time Outs"
+    author: "Codejunkies"
+    notes: "[Time Out Codes]"
+    codes:
+      - "10479760 00000000"
+
+  - name: "Skip To The 4Th Down (Press Select R2 To Activate)"
+    author: "Codejunkies"
+    notes: "[Time Out Codes]"
+    codes:
+      - "102BC3C2 0000FDFE"
+      - "004798D0 00000004"
+
+  - name: "Vertical Jump Super"
+    author: "Codejunkies"
+    notes: "[Vertical Jump Codes]"
+    codes:
+      - "00543C05 000000FF"
+
+  - name: "Vertical Jump Max"
+    author: "InterAct"
+    codes:
+      - "20DCE9AC 64DA29B5"
+
+  - name: "Home Team Infinite Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10479760 00000003"
+
+  - name: "Home Team No Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10479760 00000000"
+
+  - name: "Away Team Infinite Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10479762 00000003"
+
+  - name: "Away Team No Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10479762 00000000"
+
+  - name: "Max 40 Yard Dash"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "00543C02 00000064"
+
+  - name: "Max 60 Meter Hurdle"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "00543C03 00000064"
+
+  - name: "Max Broad Jump"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "00543C07 00000064"
+
+  - name: "Max Bench Press"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "00543C08 00000064"
+
+  - name: "Max Awareness (IQ)"
+    author: "Code Master"
+    notes: "[Character Creation Codes]"
+    codes:
+      - "00543C0B 00000064"

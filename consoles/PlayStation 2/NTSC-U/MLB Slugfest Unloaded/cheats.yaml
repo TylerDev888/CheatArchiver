@@ -1,0 +1,174 @@
+# MLB Slugfest Unloaded cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20889
+
+game: "MLB Slugfest Unloaded"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20889"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001B5B67"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901B5B64 0C070176"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "205CB628 0000????"
+
+  - name: "Home Team Start With Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D05CB628 00000000"
+      - "205CB628 0000????"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "205CB65C 0000????"
+
+  - name: "Away Team Start With Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D05CB65C 00000000"
+      - "205CB65C 0000????"
+
+  - name: "Home Team Infinite Turbo"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "205C7BB8 42C80000"
+
+  - name: "Home Team No Turbo"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "205C7BB8 00000000"
+
+  - name: "Away Team Infinite Turbo"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "205C7BBC 42C80000"
+
+  - name: "Away Team No Turbo"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "205C7BBC 00000000"
+
+  - name: "All Runs Score For Home Team"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20105640 24630000"
+
+  - name: "All Runs Score For Away Team"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20105640 24630034"
+
+  - name: "Runs Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1010564C 000000??"
+
+  - name: "Infinite Strikes"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "105CB504 00000000"
+
+  - name: "1 Strike And You Are Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D05CB504 00000000"
+      - "105CB504 00000002"
+
+  - name: "2 Strikes And You Are Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D05CB504 00000000"
+      - "105CB504 00000001"
+
+  - name: "Infinite Balls"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "105CB510 00000000"
+
+  - name: "1 Ball And You Walk"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D05CB510 00000000"
+      - "105CB510 00000003"
+
+  - name: "2 Balls And You Walk"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D05CB510 00000000"
+      - "105CB510 00000002"
+
+  - name: "3 Balls And You Walk"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D05CB510 00000000"
+      - "105CB510 00000001"
+
+  - name: "Infinite Outs"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "105CB514 00000000"
+
+  - name: "1 Out And You Are Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D05CB514 00000000"
+      - "105CB514 00000002"
+
+  - name: "2 Outs And You Are Out"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "D05CB514 00000000"
+      - "105CB514 00000001"
+
+  - name: "Always Full Count"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "105CB504 00000002"
+      - "105CB510 00000003"
+
+  - name: "Always Full Count & 2 Outs"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "105CB504 00000002"
+      - "105CB510 00000003"
+      - "105CB514 00000002"

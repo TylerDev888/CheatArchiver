@@ -1,0 +1,28 @@
+# Quantum Conundrum (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00895
+
+game: "Quantum Conundrum (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00895"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32big For Profile.qcp (required)"
+    notes: "File: PROFILE.QCP  (set range:0x000008,0x000533)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000008,pointer"
+      - "set [hash]:CRC32Big"
+      - "write at 0x000004:[hash]"
+
+  - name: "Update Sha1 For Profile.qcp (required)"
+    notes: "File: PROFILE.QCP  (set range:0x00001C,0x0003BA)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x00001C,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x000008:[hash]"

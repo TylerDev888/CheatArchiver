@@ -1,0 +1,48 @@
+# Backyard Wrestling 2_ There Goes The Neighborhood cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Backyard Wrestling 2_ There Goes The Neighborhood"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "901FFC2C 0C07FD12"
+
+  - name: "Infinite Health"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "205501E8 00001F40"
+
+  - name: "1-Hit Kills"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "D05501E8 00300000"
+      - "105501E8 00000001"
+
+  - name: "Infinite Turbo"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "20550AB0 000007D0"
+
+  - name: "No Turbo"
+    author: "Xploder"
+    notes: "[Player 1]"
+    codes:
+      - "20550AB0 00000000"
+
+  - name: "Money"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20539BD8 05F5E0FF"

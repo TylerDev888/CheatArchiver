@@ -1,0 +1,18 @@
+# Magic Orbz cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00068
+
+game: "Magic Orbz"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00068"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "9 Hearts By Chaoszage"
+    notes: "File: MAINDATA"
+    codes:
+      - "search 0x636F6E74726F6C"
+      - "write next (-6):0x41100000"

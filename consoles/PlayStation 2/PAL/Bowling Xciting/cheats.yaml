@@ -1,0 +1,51 @@
+# Bowling Xciting cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51861
+
+game: "Bowling Xciting"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51861"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9018A5D8 0C06291E"
+
+  - name: "PAL To NTSC (60Hz)"
+    author: "punk7890"
+    codes:
+      - "20156878 24120002"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9015C17C 0C060776"
+
+  - name: "Always Strike (Raise Pins)"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "E002FEFF 001DDB42"
+      - "401A70FC 000A0001"
+      - "00000000 00000000"
+
+  - name: "Reset Pins (Lower Pins)"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "E002FDFF 001DDB42"
+      - "401A70FC 000A0001"
+      - "00000001 00000000"
+
+  - name: "Unlimited Chances"
+    author: "Xploder"
+    notes: "[Quest Mode]"
+    codes:
+      - "201F97FC 0000270F"

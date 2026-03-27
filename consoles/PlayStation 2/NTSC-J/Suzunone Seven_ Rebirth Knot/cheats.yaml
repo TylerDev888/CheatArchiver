@@ -1,0 +1,35 @@
+# Suzunone Seven_ Rebirth Knot cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-55243
+
+game: "Suzunone Seven_ Rebirth Knot"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-55243"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90221C78 0C0886C6"
+
+  - name: "All Extra Options Unlocked"
+    author: "punk7890"
+    codes:
+      - "004A53CA 000000FF"
+      - "20173268 0C06C7E8"
+      - "2017326C 020D6823"
+      - "201B1FA0 2402FFFF"
+      - "201B1FA4 A1C20BD0"
+      - "201B1FA8 03E00008"
+      - "201B1FAC 91CC0BD0"
+
+  - name: "Enable Debug Display"
+    author: "punk7890"
+    codes:
+      - "201B62C8 00000000"
+      - "201B6328 00000000"

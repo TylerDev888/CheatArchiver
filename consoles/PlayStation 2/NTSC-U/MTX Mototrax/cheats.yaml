@@ -1,0 +1,213 @@
+# MTX Mototrax cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20399
+
+game: "MTX Mototrax"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20399"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02C3088 002C308B"
+      - "40347CA4 000D0001"
+      - "00000000 00000000"
+      - "20395378 080D1F29"
+      - "20347CD0 080E54DF"
+      - "20347CD4 8E020060"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F02C3000 0039535F"
+
+  - name: "AR MAX Below 3.14 Fix"
+    author: "Codejunkies"
+    codes:
+      - "2039B180 3C03200F"
+      - "2039B188 8C65FFF8"
+      - "2039B18C 24040079"
+      - "2039B190 24030074"
+      - "2039B194 0000000C"
+
+  - name: "Max Score"
+    author: "Code Master"
+    notes: "[Freestyle Mode Codes]"
+    codes:
+      - "209B8534 05F5E0FF"
+
+  - name: "P1 Press L1+Select To Restart Timer"
+    author: "Code Master"
+    notes: "[Freestyle Mode Codes]"
+    codes:
+      - "D0AC4F00 0000FEFE"
+      - "20246E98 AE030054"
+
+  - name: "P1 Press L1+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[Freestyle Mode Codes]"
+    codes:
+      - "D0AC4F00 0000FBFE"
+      - "20246E98 00000000"
+
+  - name: "Quick Score Gain"
+    author: "Code Master"
+    notes: "[Freestyle Mode Codes]"
+    codes:
+      - "109B8534 0000FFFF"
+
+  - name: "Freeze Timer (Race)"
+    author: "Codejunkies"
+    codes:
+      - "20301E48 00000000"
+
+  - name: "Max MTX (Free Ride)"
+    author: "Codejunkies"
+    codes:
+      - "20347CA4 3C01000E"
+      - "20347CA8 3C02007B"
+      - "20347CAC AC41BA88"
+
+  - name: "Max Score (Freestyle)"
+    author: "Codejunkies"
+    codes:
+      - "20347CB0 3C01000E"
+      - "20347CB4 3C02009C"
+      - "20347CB8 AC418534"
+
+  - name: "No Opponent Races"
+    author: "Codejunkies"
+    codes:
+      - "10305A48 00000002"
+
+  - name: "Always Low Lap Timer"
+    author: "Code Master"
+    notes: "[Race Mode Codes]"
+    codes:
+      - "20301E4C AC400000"
+
+  - name: "Always Only 1 Opponent"
+    author: "Code Master"
+    notes: "[Race Mode Codes]"
+    codes:
+      - "20305A4C 00000000"
+      - "10305A54 00000002"
+
+  - name: "Always Only 2 Opponents"
+    author: "Code Master"
+    notes: "[Race Mode Codes]"
+    codes:
+      - "20305A4C 00000000"
+      - "10305A54 00000003"
+
+  - name: "Always Only 3 Opponents"
+    author: "Code Master"
+    notes: "[Race Mode Codes]"
+    codes:
+      - "20305A4C 00000000"
+      - "10305A54 00000004"
+
+  - name: "Always Only 4 Opponents"
+    author: "Code Master"
+    notes: "[Race Mode Codes]"
+    codes:
+      - "20305A4C 00000000"
+      - "10305A54 00000005"
+
+  - name: "Always Only 5 Opponents"
+    author: "Code Master"
+    notes: "[Race Mode Codes]"
+    codes:
+      - "20305A4C 00000000"
+      - "10305A54 00000006"
+
+  - name: "Always Only 6 Opponents"
+    author: "Code Master"
+    notes: "[Race Mode Codes]"
+    codes:
+      - "20305A4C 00000000"
+      - "10305A54 00000007"
+
+  - name: "Always Only 7 Opponents"
+    author: "Code Master"
+    notes: "[Race Mode Codes]"
+    codes:
+      - "20305A4C 00000000"
+      - "10305A54 00000008"
+
+  - name: "No Opponents"
+    author: "Code Master"
+    notes: "[Race Mode Codes]"
+    codes:
+      - "20305A4C 00000000"
+
+  - name: "Only Race 1 Lap"
+    author: "Code Master"
+    notes: "[Race Mode Codes]"
+    codes:
+      - "20301E1C AC820034"
+
+  - name: "Spider Mode (High Jumps)"
+    author: "Codejunkies"
+    codes:
+      - "20117838 3C014180"
+
+  - name: "Constant Nosedive"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "10117830 00003800"
+
+  - name: "Constant Wheelie Mode"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "10117830 000038A8"
+
+  - name: "Disable Vsync"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "203C1944 00000000"
+
+  - name: "Max MXTP (Free Ride Mode)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "207ABA88 000F423F"
+
+  - name: "Stretch Armstrong"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "10117838 00004180"
+
+  - name: "Stretched Character"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "10117838 000041C0"
+
+  - name: "Tiny Mode"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "10117838 00004300"
+
+  - name: "Ultra Slow Timer (Freestyle)"
+    author: "Codejunkies"
+    codes:
+      - "20246E90 2463FFFF"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9039535C 0C0EB089"

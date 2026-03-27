@@ -1,0 +1,55 @@
+# Ghost Master_ The Gravenville Chronicles cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Ghost Master_ The Gravenville Chronicles"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90243400 0C097177"
+      - "200C2000 2401002F"
+      - "200C2014 03E00008"
+      - "200C2018 8F83A214"
+      - "201FB1C4 0C030800"
+
+  - name: "Health (All Ghosts)"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "201FDE00 E4410070"
+
+  - name: "Plasm"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C2008 8F81A218"
+      - "200C200C AF81A214"
+      - "200C2010 AF81A210"
+
+  - name: "Mega Scare"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "20199B5C 46000001"
+
+  - name: "Fast Resistance Reduction"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "20199CC8 3C014120"
+      - "20199CCC 44810000"
+
+  - name: "Fast Spell Use"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "20115B04 3C013F00"
+      - "20115B14 44810000"

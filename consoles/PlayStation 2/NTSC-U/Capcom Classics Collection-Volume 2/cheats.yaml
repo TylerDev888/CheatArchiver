@@ -1,0 +1,1330 @@
+# Capcom Classics Collection-Volume 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21473
+
+game: "Capcom Classics Collection-Volume 2"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21473"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]  90160AB0 00832021"
+
+  - name: "All Bonus"
+    notes: "File: Main Menu  40259DEC 00140070 00000002 00000000 40259DF0 00140070 00000002 00000000 40259DF4 00140070 00000002 00000000"
+
+  - name: "Infinite Credits"
+    notes: "File: 1941"
+    codes:
+      - "D01B9552 00003246"
+      - "004D87C9 00000009"
+
+  - name: "Quick Hi-Score Gain"
+    notes: "File: 1941"
+    codes:
+      - "D01B9552 00003246"
+      - "104D880A 00009999"
+
+  - name: "Max Hi-Score"
+    notes: "File: 1941"
+    codes:
+      - "D01B9552 00003246"
+      - "204D8808 99999999"
+
+  - name: "Max Vital/Rolls"
+    notes: "[Player 1]  File: 1941"
+    codes:
+      - "D01B9552 00003246"
+      - "004D8814 00000005"
+
+  - name: "Infinite Vital/Rolls"
+    notes: "[Player 1]  File: 1941"
+    codes:
+      - "D01B9552 00003246"
+      - "004D8815 00000005"
+
+  - name: "Quick Score Gain"
+    notes: "[Player 1]  File: 1941"
+    codes:
+      - "D01B9552 00003246"
+      - "104D8828 00009999"
+
+  - name: "Max Score"
+    notes: "[Player 1]  File: 1941"
+    codes:
+      - "E0023246 001B9552"
+      - "104D8826 00009999"
+      - "104D8828 00009999"
+
+  - name: "Infinite Ammo"
+    notes: "[Player 1]  File: 1941"
+    codes:
+      - "D01B9552 00003246"
+      - "004D8857 00000099"
+
+  - name: "Fully Loaded Weapon"
+    notes: "[Player 1]  File: 1941"
+    codes:
+      - "D01B9552 00003246"
+      - "004E3FE8 00000007"
+
+  - name: "Invincible"
+    notes: "[Player 1]  File: 1941"
+    codes:
+      - "D01B9552 00003246"
+      - "004D886A 00000001"
+
+  - name: "Max Energy Value"
+    notes: "[Player 1]  File: 1941"
+    codes:
+      - "D01B9552 00003246"
+      - "004D8814 00000006"
+
+  - name: "Class Level 8"
+    notes: "[Player 1]  File: 1941"
+    codes:
+      - "D01B9552 00003246"
+      - "004D883C 00000007"
+
+  - name: "After Image"
+    notes: "[Player 1]  File: 1941"
+    codes:
+      - "D01B9552 00003246"
+      - "004D8852 00000001"
+
+  - name: "Gun Type - Vulcan"
+    notes: "[Player 1]  File: 1941"
+    codes:
+      - "D01B9552 00003246"
+      - "004D8838 00000000"
+
+  - name: "Gun Type - Machine Gun"
+    notes: "[Player 1]  File: 1941"
+    codes:
+      - "D01B9552 00003246"
+      - "004D8838 00000001"
+
+  - name: "Gun Type - Super Shell"
+    notes: "[Player 1]  File: 1941"
+    codes:
+      - "D01B9552 00003246"
+      - "004D8838 00000002"
+
+  - name: "Gun Type - Missile"
+    notes: "[Player 1]  File: 1941"
+    codes:
+      - "D01B9552 00003246"
+      - "004D8838 00000003"
+
+  - name: "Rapid Fire"
+    notes: "[Player 1]  File: 1941"
+    codes:
+      - "E0033246 001B9552"
+      - "004D8EE1 00000003"
+      - "004DB2E1 00000003"
+      - "004DB361 00000003"
+
+  - name: "Extreme Firepower"
+    notes: "[Player 1]  File: 1941"
+    codes:
+      - "D01B9552 00003246"
+      - "004E3FE8 00000006"
+
+  - name: "Side Fighters - Left Fighter"
+    notes: "[Player 1]  File: 1941"
+    codes:
+      - "E0033246 001B9552"
+      - "004E1509 00000001"
+      - "004E1508 00000001"
+      - "004E14B4 00000005"
+
+  - name: "Side Fighters - Right Fighter"
+    notes: "[Player 1]  File: 1941"
+    codes:
+      - "E0043246 001B9552"
+      - "004E1489 00000001"
+      - "004E1488 00000001"
+      - "004E148B 00000001"
+      - "004E1534 00000005"
+
+  - name: "Side Fighters - Both Fighters"
+    notes: "[Player 1]  File: 1941"
+    codes:
+      - "E0073246 001B9552"
+      - "004E1509 00000001"
+      - "004E1508 00000001"
+      - "004E14B4 00000005"
+      - "004E1489 00000001"
+      - "004E1488 00000001"
+      - "004E148B 00000001"
+      - "004E1534 00000005"
+
+  - name: "Invincibility - 1st Side Fighter"
+    notes: "[Player 1]  File: 1941  I+nvincibility - 2nd Side Fighter"
+    codes:
+      - "E0023246 001B9552"
+      - "004E14D4 00000002"
+      - "004E1554 00000002"
+      - "E0023246 001B9552"
+      - "004E13D4 00000002"
+      - "004E1454 00000002"
+
+  - name: "Rapid Fire - 1st Side Fighter"
+    notes: "[Player 1]  File: 1941"
+    codes:
+      - "E0023246 001B9552"
+      - "004E14DD 00000003"
+      - "004E155D 00000003"
+
+  - name: "Rapid Fire - 2nd Side Fighter"
+    notes: "[Player 1]  File: 1941"
+    codes:
+      - "E0023246 001B9552"
+      - "004E13DD 00000003"
+      - "004E145D 00000003"
+
+  - name: "Infinite Time"
+    notes: "File: Last Duel"
+    codes:
+      - "006104C9 00000099"
+
+  - name: "Infinite Lives"
+    notes: "[Player 1]  File: Last Duel"
+    codes:
+      - "006104D6 0000000B"
+
+  - name: "Invincibility"
+    notes: "[Player 1]  File: Last Duel"
+    codes:
+      - "0061062B 00000080"
+
+  - name: "Infinite Rolling"
+    notes: "[Player 1]  File: Last Duel"
+    codes:
+      - "00610628 00000006"
+
+  - name: "Maximum Homing Missiles"
+    notes: "[Player 1]  File: Last Duel"
+    codes:
+      - "00610627 00000006"
+
+  - name: "Pod On - Left"
+    notes: "[Player 1]  File: Last Duel"
+    codes:
+      - "006115EC 00000001"
+
+  - name: "Pod On - Right"
+    notes: "[Player 1]  File: Last Duel"
+    codes:
+      - "0061164C 00000001"
+
+  - name: "Get Maximum Speed - Car"
+    notes: "[Player 1]  File: Last Duel"
+    codes:
+      - "00610622 00000060"
+
+  - name: "Get Maximum Speed - Plane"
+    notes: "[Player 1]  File: Last Duel"
+    codes:
+      - "00610622 0000000C"
+
+  - name: "Rapid Fire - Weapon"
+    notes: "[Player 1]  File: Last Duel"
+    codes:
+      - "00610629 00000000"
+
+  - name: "Rapid Fire - H. Missiles"
+    notes: "[Player 1]  File: Last Duel"
+    codes:
+      - "0061062A 00000000"
+
+  - name: "Rapid Fire - Left Pod"
+    notes: "[Player 1]  File: Last Duel"
+    codes:
+      - "0061161E 00000000"
+
+  - name: "Rapid Fire - Right Pod"
+    notes: "[Player 1]  File: Last Duel"
+    codes:
+      - "0061167E 00000000"
+
+  - name: "Always Have Normal Weapon"
+    notes: "[Player 1]  File: Last Duel"
+    codes:
+      - "00610626 00000000"
+
+  - name: "Always Have Double"
+    notes: "[Player 1]  File: Last Duel"
+    codes:
+      - "00610626 00000002"
+
+  - name: "Always Have 3-Way"
+    notes: "[Player 1]  File: Last Duel"
+    codes:
+      - "00610626 00000004"
+
+  - name: "Always Have Shotgun"
+    notes: "[Player 1]  File: Last Duel"
+    codes:
+      - "00610626 00000006"
+
+  - name: "Always Have Flame"
+    notes: "[Player 1]  File: Last Duel"
+    codes:
+      - "00610626 00000008"
+
+  - name: "Stage Select - Stage 1"
+    notes: "File: Magic Sword"
+    codes:
+      - "004E13D6 000000[Amount:3C:HEX:BIG<Stage 1 to 62>]"
+
+  - name: "Infinite Health"
+    notes: "[Player 1]  File: Magic Sword"
+    codes:
+      - "204E14BC 5B095B09"
+
+  - name: "Infinite Keys-Type 1"
+    notes: "[Player 1]  File: Magic Sword"
+    codes:
+      - "004E1519 00000009"
+
+  - name: "Infinite Keys-Type 2"
+    notes: "[Player 1]  File: Magic Sword"
+    codes:
+      - "004E151A 00000009"
+
+  - name: "Infinite Keys-Type 3"
+    notes: "[Player 1]  File: Magic Sword"
+    codes:
+      - "004E151B 00000009"
+
+  - name: "Invincibility (player)"
+    notes: "[Player 1]  File: Magic Sword"
+    codes:
+      - "004E1510 00000002"
+
+  - name: "Invincibility (partner)"
+    notes: "[Player 1]  File: Magic Sword"
+    codes:
+      - "004E22F5 00000075"
+
+  - name: "Inf Magic"
+    notes: "[Player 1]  File: Magic Sword"
+    codes:
+      - "004E14EC 00000099"
+
+  - name: "Max Power"
+    notes: "[Player 1]  File: Magic Sword"
+    codes:
+      - "004E14FB 00000060"
+      - "004E14FA 00000060"
+
+  - name: "No Magic Item Floor Limit"
+    notes: "[Player 1]  File: Magic Sword"
+    codes:
+      - "004E1528 00000003"
+
+  - name: "No Magic Stick Power Limit"
+    notes: "[Player 1]  File: Magic Sword"
+    codes:
+      - "004E1545 000000FF"
+      - "004E1547 00000001"
+
+  - name: "Max Weapon Level"
+    notes: "[Player 1]  File: Magic Sword"
+    codes:
+      - "004E20D5 0000000C"
+
+  - name: "Max Shield Level"
+    notes: "[Player 1]  File: Magic Sword"
+    codes:
+      - "004E21D5 00000008"
+
+  - name: "Poison No Effect"
+    notes: "[Player 1]  File: Magic Sword"
+    codes:
+      - "004E1513 00000000"
+
+  - name: "Partner Max Level"
+    notes: "[Player 1]  File: Magic Sword"
+    codes:
+      - "004E22D5 0000000E"
+
+  - name: "Partner - None"
+    notes: "[Player 1]  File: Magic Sword"
+    codes:
+      - "004E1517 00000000"
+      - "004E22D1 00000000"
+
+  - name: "Partner - Ninja"
+    notes: "[Player 1]  File: Magic Sword"
+    codes:
+      - "004E1517 00000001"
+      - "004E22D1 [MMPA]"
+
+  - name: "Magic Item - Mod"
+    notes: "[Player 1]  File: Magic Sword"
+    codes:
+      - "004E1526 [MDMI]"
+
+  - name: "Partner - Mod"
+    notes: "[Player 2]  File: Magic Sword"
+    codes:
+      - "004E15D7 00000001"
+      - "004E2391 [MMPA]"
+
+  - name: "Inf Lives"
+    notes: "[Player 1]  File: Mega Twins"
+    codes:
+      - "004D98EB 00000003"
+
+  - name: "Inf Health"
+    notes: "[Player 1]  File: Mega Twins"
+    codes:
+      - "004D991B 00000040"
+
+  - name: "Jump Shoes"
+    notes: "[Player 1]  File: Mega Twins"
+    codes:
+      - "004D9922 00000001"
+
+  - name: "Sword Level - Level Mod"
+    notes: "[Player 1]  File: Mega Twins"
+    codes:
+      - "004D992F 000000[Amount:07:HEX:BIG<0 is 1>]"
+
+  - name: "Magic Type - Mod"
+    notes: "[Player 1]  File: Mega Twins"
+    codes:
+      - "004D9924 [MTMT]"
+
+  - name: "Helm Type - Mod"
+    notes: "[Player 1]  File: Mega Twins"
+    codes:
+      - "004D9923 [MTHT]"
+
+  - name: "Sword Level - Level 1"
+    notes: "[Player 2]  File: Mega Twins"
+    codes:
+      - "004D99EF 000000[Amount:07:HEX:BIG<0 is 1>]"
+
+  - name: "Infinite Transforms On Pickup"
+    notes: "File: Side Arms"
+    codes:
+      - "00532825 00000002"
+
+  - name: "Invincibility On"
+    notes: "[Player 1]  File: Side Arms"
+    codes:
+      - "00533A1E 00000080"
+
+  - name: "Always Have Full Speed"
+    notes: "[Player 1]  File: Side Arms"
+    codes:
+      - "00533A28 00000003"
+
+  - name: "Always Have Bit"
+    notes: "[Player 1]  File: Side Arms"
+    codes:
+      - "00533A21 00000016"
+
+  - name: "Always Have S.g."
+    notes: "[Player 1]  File: Side Arms"
+    codes:
+      - "00533A22 00000016"
+
+  - name: "Always Have M.b.l."
+    notes: "[Player 1]  File: Side Arms"
+    codes:
+      - "00533A23 00000016"
+
+  - name: "Always Have 3 Way"
+    notes: "[Player 1]  File: Side Arms"
+    codes:
+      - "00533A24 00000016"
+
+  - name: "Always Have Autofire"
+    notes: "[Player 1]  File: Side Arms"
+    codes:
+      - "00533A25 00000016"
+
+  - name: "Always Have No Energy CPU"
+    notes: "File: Street Fighter"
+    codes:
+      - "105F48AA 00000000"
+
+  - name: "Rounds Won Always = 0 CPU"
+    notes: "File: Street Fighter"
+    codes:
+      - "005F48AC 00000000"
+
+  - name: "Infinite Health P1"
+    notes: "[Player 1]  File: Street Fighter"
+    codes:
+      - "105F08F6 00000B04"
+
+  - name: "Quick Score Gain P1"
+    notes: "[Player 1]  File: Street Fighter"
+    codes:
+      - "105F0916 00000909"
+      - "005F0918 00000909"
+
+  - name: "Max Score P1"
+    notes: "[Player 1]  File: Street Fighter"
+    codes:
+      - "105F0912 00000909"
+      - "205F0914 09090909"
+      - "105F0918 00000909"
+
+  - name: "Finish Round To Win Match Pl1"
+    notes: "[Player 1]  File: Street Fighter"
+    codes:
+      - "005F08F8 00000002"
+
+  - name: "Always Have No Energy Pl1"
+    notes: "[Player 1]  File: Street Fighter"
+    codes:
+      - "105F08F6 00000000"
+
+  - name: "Rounds Won Always = 0 Pl1"
+    notes: "[Player 1]  File: Street Fighter"
+    codes:
+      - "005F08F8 00000000"
+
+  - name: "Always Quick Motion Pl1"
+    notes: "[Player 1]  File: Street Fighter"
+    codes:
+      - "005F6673 00000000"
+
+  - name: "Easy Tatsumaki Pl1"
+    notes: "[Player 1]  File: Street Fighter"
+    codes:
+      - "005F0906 00000002"
+
+  - name: "Easy Syouryuuken Pl1"
+    notes: "[Player 1]  File: Street Fighter"
+    codes:
+      - "005F0909 00000002"
+
+  - name: "Easy Hadouken Pl1"
+    notes: "[Player 1]  File: Street Fighter"
+    codes:
+      - "005F090C 00000002"
+
+  - name: "Infinite Health P2"
+    notes: "[Player 2]  File: Street Fighter"
+    codes:
+      - "105F0920 00000B04"
+
+  - name: "Quick Score Gain P2"
+    notes: "[Player 2]  File: Street Fighter"
+    codes:
+      - "205F0940 09090909"
+
+  - name: "Max Score P2"
+    notes: "[Player 2]  File: Street Fighter"
+    codes:
+      - "005F093D 00000009"
+      - "105F093E 00000909"
+      - "205F0940 09090909"
+
+  - name: "Finish Round To Win Match Pl2"
+    notes: "[Player 2]  File: Street Fighter"
+    codes:
+      - "005F0922 00000002"
+
+  - name: "Always Have No Energy Pl2"
+    notes: "[Player 2]  File: Street Fighter"
+    codes:
+      - "105F0920 00000000"
+
+  - name: "Rounds Won Always = 0 Pl2"
+    notes: "[Player 2]  File: Street Fighter"
+    codes:
+      - "005F0922 00000000"
+
+  - name: "Always Quick Motion Pl2"
+    notes: "[Player 2]  File: Street Fighter"
+    codes:
+      - "005F66A3 00000000"
+
+  - name: "Easy Tatsumaki Pl2"
+    notes: "[Player 2]  File: Street Fighter"
+    codes:
+      - "005F0930 00000002"
+
+  - name: "Easy Syouryuuken Pl2"
+    notes: "[Player 2]  File: Street Fighter"
+    codes:
+      - "005F0933 00000002"
+
+  - name: "Easy Hadouken Pl2"
+    notes: "[Player 2]  File: Street Fighter"
+    codes:
+      - "005F0936 00000002"
+
+  - name: "Invincible - Invincible"
+    notes: "File: Strider"
+    codes:
+      - "004F27D8 00000000"
+
+  - name: "Invincible - No Hit Invincible"
+    notes: "File: Strider"
+    codes:
+      - "004F23E5 0000006B"
+
+  - name: "Infinite Psyfer (sword Power)"
+    notes: "File: Strider"
+    codes:
+      - "004F23D3 000000FF"
+
+  - name: "Infinite Shadow"
+    notes: "File: Strider"
+    codes:
+      - "004F23D1 00000076"
+
+  - name: "Infinite Wolf Time"
+    notes: "File: Strider"
+    codes:
+      - "004F23E8 00000000"
+      - "004F23E9 000000FF"
+
+  - name: "Pods - One Pod"
+    notes: "File: Strider"
+    codes:
+      - "004F23D4 00000001"
+
+  - name: "Pods - Two Pods"
+    notes: "File: Strider"
+    codes:
+      - "004F23D4 00000002"
+
+  - name: "Pods - Wolf"
+    notes: "File: Strider"
+    codes:
+      - "004F23D4 00000000"
+      - "004F23E8 000000FF"
+
+  - name: "Stage Select - Mod"
+    notes: "File: Strider"
+    codes:
+      - "004F23A2 000000[Amount:04:HEX:BIG<0 stage 1 goes to 4>]"
+
+  - name: "Infinite Super Bar"
+    notes: "[Player 1]  File: Super SFII Turbo"
+    codes:
+      - "0084C412 00000030"
+
+  - name: "No Super Bar"
+    notes: "[Player 1]  File: Super SFII Turbo"
+    codes:
+      - "0084C412 00000000"
+
+  - name: "Infinite Car Health"
+    notes: "File: The Speed Rumbler"
+    codes:
+      - "104B098C 00000000"
+
+  - name: "Super Shots"
+    notes: "File: The Speed Rumbler"
+    codes:
+      - "004B09B8 00000002"
+
+  - name: "Super Speed"
+    notes: "File: The Speed Rumbler"
+    codes:
+      - "004B09B0 0000000F"
+
+  - name: "P1 Inf Lives*"
+    notes: "File: Three Wonders"
+    codes:
+      - "004F7657 00000003"
+
+  - name: "P2 Inf Lives*"
+    notes: "File: Three Wonders"
+    codes:
+      - "004F7658 00000003"
+
+  - name: "Inf Super Bomb Ammo"
+    notes: "[Player 1]  File: Three Wonders"
+    codes:
+      - "004F76A6 000000FF"
+
+  - name: "1 Heart = Extra Life"
+    notes: "[Player 1]  File: Three Wonders"
+    codes:
+      - "004F7687 00000063"
+      - "004F7689 00000064"
+
+  - name: "Weapon - Normal"
+    notes: "[Player 1]  File: Three Wonders"
+    codes:
+      - "004F7684 00000001"
+
+  - name: "Weapon - Hyper Shot"
+    notes: "[Player 1]  File: Three Wonders"
+    codes:
+      - "004F7684 00000002"
+
+  - name: "Weapon - Tail Shot"
+    notes: "[Player 1]  File: Three Wonders"
+    codes:
+      - "004F7684 00000003"
+
+  - name: "Weapon - Bound Shot"
+    notes: "[Player 1]  File: Three Wonders"
+    codes:
+      - "004F7684 00000004"
+
+  - name: "Weapon - Super Bomb"
+    notes: "[Player 1]  File: Three Wonders"
+    codes:
+      - "004F7684 00000000"
+
+  - name: "Option - Flames"
+    notes: "[Player 1]  File: Three Wonders"
+    codes:
+      - "004F7653 00000001"
+
+  - name: "Option - Circular"
+    notes: "[Player 1]  File: Three Wonders"
+    codes:
+      - "004F7653 00000002"
+
+  - name: "Unlimited Boss Time"
+    notes: "[Chariot]  File: Three Wonders"
+    codes:
+      - "004F7872 00000027"
+      - "004F7873 0000000F"
+
+  - name: "Max Options"
+    notes: "[Player 1]  File: Three Wonders"
+    codes:
+      - "004F80AB 00000006"
+      - "004F80AD 00000007"
+
+  - name: "Max Fire Power"
+    notes: "[Player 1]  File: Three Wonders"
+    codes:
+      - "004F80B5 00000004"
+      - "004F80B7 00000004"
+
+  - name: "Max Bomb Power"
+    notes: "[Player 1]  File: Three Wonders"
+    codes:
+      - "004F80B2 00000002"
+
+  - name: "Protection"
+    notes: "[Player 1]  File: Three Wonders"
+    codes:
+      - "004F80AE 00000001"
+
+  - name: "1 Heart = Extra Life*"
+    notes: "[Player 1]  File: Three Wonders"
+    codes:
+      - "004F80BD 00000059"
+      - "004F80BC 0000005A"
+
+  - name: "Fire - Rapid Shot"
+    notes: "[Player 1]  File: Three Wonders"
+    codes:
+      - "004F80AF 00000001"
+
+  - name: "Fire - Wide Shot"
+    notes: "[Player 1]  File: Three Wonders"
+    codes:
+      - "004F80AF 00000002"
+
+  - name: "Skip Rounds"
+    notes: "[Don't Pull Codes]  File: Three Wonders"
+    codes:
+      - "004F78BA 00000000"
+
+  - name: "Fruit = 100000"
+    notes: "[Don't Pull Codes]  File: Three Wonders"
+    codes:
+      - "004F7733 0000002C"
+
+  - name: "1 Fruit = Extra Life"
+    notes: "[Player 1]  File: Three Wonders"
+    codes:
+      - "004F772C 00000062"
+      - "004F772E 00000063"
+
+  - name: "Infinite Health-Don't Enable When Under Attack"
+    notes: "File: Tiger Road"
+    codes:
+      - "10510940 00000040"
+
+  - name: "Kill This Boss Now!*"
+    notes: "File: Tiger Road"
+    codes:
+      - "005103B0 00000000"
+
+  - name: "Inf Bombs"
+    notes: "[Player 1]  File: Varth"
+    codes:
+      - "004DF563 00000005"
+
+  - name: "Max Missile Power"
+    notes: "[Player 1]  File: Varth"
+    codes:
+      - "004DF566 00000003"
+
+  - name: "Fire Type - Normal"
+    notes: "[Player 1]  File: Varth"
+    codes:
+      - "004DF562 00000000"
+
+  - name: "Fire Type - 3-Way"
+    notes: "[Player 1]  File: Varth"
+    codes:
+      - "004DF562 00000002"
+
+  - name: "Fire Type - Laser"
+    notes: "[Player 1]  File: Varth"
+    codes:
+      - "004DF562 00000004"
+
+  - name: "Missile Type* - H"
+    notes: "[Player 1]  File: Varth"
+    codes:
+      - "004DF568 00000000"
+
+  - name: "Missile Type* - M"
+    notes: "[Player 1]  File: Varth"
+    codes:
+      - "004DF568 00000001"
+
+  - name: "Missile Type* - N"
+    notes: "[Player 1]  File: Varth"
+    codes:
+      - "004DF568 00000002"
+
+  - name: "Hyper Shot - Fire Only"
+    notes: "[Player 1]  File: Varth"
+    codes:
+      - "004DF4F1 00000000"
+
+  - name: "Hyper Shot - Missile Only"
+    notes: "[Player 1]  File: Varth"
+    codes:
+      - "004DF4F4 00000000"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90160AB0 00832021"
+
+  - name: "Max Vital P1"
+    author: "Code Master"
+    notes: "[1941 Codes]"
+    codes:
+      - "004D8814 00000005"
+
+  - name: "Infinite Vital P1"
+    author: "Code Master"
+    notes: "[1941 Codes]"
+    codes:
+      - "004D8815 00000005"
+
+  - name: "Infinite Ammo P1"
+    author: "Code Master"
+    notes: "[1941 Codes]"
+    codes:
+      - "004D8857 00000099"
+
+  - name: "Max Vital P2"
+    author: "Code Master"
+    notes: "[1941 Codes]"
+    codes:
+      - "004D8816 00000005"
+
+  - name: "Infinite Vital P2"
+    author: "Code Master"
+    notes: "[1941 Codes]"
+    codes:
+      - "004D8817 00000005"
+
+  - name: "Infinite Ammo P2"
+    author: "Code Master"
+    notes: "[1941 Codes]"
+    codes:
+      - "004D8858 00000099"
+
+  - name: "Infinite Lives P1"
+    author: "Code Master"
+    notes: "[Avengers Codes]"
+    codes:
+      - "00491EC4 00000005"
+
+  - name: "Infinite Lives P2"
+    author: "Code Master"
+    notes: "[Avengers Codes]"
+    codes:
+      - "00491EC5 00000005"
+
+  - name: "Max Coins"
+    author: "Code Master"
+    notes: "[Black Tiger Codes]"
+    codes:
+      - "104A5142 00000909"
+      - "104A5144 00000909"
+      - "004A5146 00000009"
+
+  - name: "Infinite Keys"
+    author: "Code Master"
+    notes: "[Black Tiger Codes]"
+    codes:
+      - "004A5149 00000009"
+      - "004A514A 00000009"
+
+  - name: "Always Have Armor"
+    author: "Code Master"
+    notes: "[Black Tiger Codes]"
+    codes:
+      - "104A514C 00000202"
+
+  - name: "Infinite Potions"
+    author: "Code Master"
+    notes: "[Black Tiger Codes]"
+    codes:
+      - "104A514E 00000909"
+
+  - name: "Infinite Health P3"
+    author: "Code Master"
+    notes: "[Captain Commando Codes]"
+    codes:
+      - "104FD200 00004800"
+
+  - name: "Quick Score Gain P3"
+    author: "Code Master"
+    notes: "[Captain Commando Codes]"
+    codes:
+      - "104FD2A6 00009999"
+
+  - name: "Max Score P3"
+    author: "Code Master"
+    notes: "[Captain Commando Codes]"
+    codes:
+      - "004FD2A5 00000099"
+      - "104FD2A6 00009999"
+
+  - name: "Infinite Lives P3"
+    author: "Code Master"
+    notes: "[King Of Dragons Codes]"
+    codes:
+      - "004F244D 00000005"
+
+  - name: "Infinite Keys-Type 1 P1"
+    author: "Code Master"
+    notes: "[Magic Sword Codes]"
+    codes:
+      - "004E1519 00000009"
+
+  - name: "Infinite Keys-Type 2 P1"
+    author: "Code Master"
+    notes: "[Magic Sword Codes]"
+    codes:
+      - "004E151A 00000009"
+
+  - name: "Infinite Keys-Type 3 P1"
+    author: "Code Master"
+    notes: "[Magic Sword Codes]"
+    codes:
+      - "004E151B 00000009"
+
+  - name: "Infinite Bombs P1"
+    author: "Code Master"
+    notes: "[Mega Twins Codes]"
+    codes:
+      - "004D9943 00000003"
+
+  - name: "Infinite Bombs P2"
+    author: "Code Master"
+    notes: "[Mega Twins Codes]"
+    codes:
+      - "004D9A03 00000003"
+
+  - name: "Infinite Super Bar P1"
+    author: "Code Master"
+    notes: "[Super SFII Turbo Codes]"
+    codes:
+      - "1084C412 00000030"
+
+  - name: "No Super Bar P1"
+    author: "Code Master"
+    notes: "[Super SFII Turbo Codes]"
+    codes:
+      - "1084C412 00000000"
+
+  - name: "Infinite Super Bar P2"
+    author: "Code Master"
+    notes: "[Super SFII Turbo Codes]"
+    codes:
+      - "1084C812 00000030"
+
+  - name: "No Super Bar P2"
+    author: "Code Master"
+    notes: "[Super SFII Turbo Codes]"
+    codes:
+      - "1084C812 00000000"
+
+  - name: "1941-Tips"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "20259DEC 00000002"
+
+  - name: "1941-Art"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "20259DF0 00000002"
+
+  - name: "1941-Music"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "20259DF4 00000002"
+
+  - name: "Avengers-Tips"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "20259FAC 00000002"
+
+  - name: "Avengers-Art"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "20259FB0 00000002"
+
+  - name: "Avengers-Music"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "20259FB4 00000002"
+
+  - name: "Black Tiger-Tips"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025A16C 00000002"
+
+  - name: "Black Tiger-Art"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025A170 00000002"
+
+  - name: "Black Tiger-Music"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025A174 00000002"
+
+  - name: "Block Block-Tips"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025A32C 00000002"
+
+  - name: "Block Block-Art"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025A330 00000002"
+
+  - name: "Block Block-Music"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025A334 00000002"
+
+  - name: "Captain Commando-Art"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025A4F0 00000002"
+
+  - name: "Captain Commando-Music"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025A4F4 00000002"
+
+  - name: "Eco Fighters-Tips"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025A6AC 00000002"
+
+  - name: "Eco Fighters-Art"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025A6B0 00000002"
+
+  - name: "Eco Fighters-Music"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025A6B4 00000002"
+
+  - name: "King Of Dragons-Tips"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025A86C 00000002"
+
+  - name: "King Of Dragons-Art"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025A870 00000002"
+
+  - name: "King Of Dragons-Music"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025A874 00000002"
+
+  - name: "Knights Of The Round-Tips"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025AA2C 00000002"
+
+  - name: "Knights Of The Round-Art"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025AA30 00000002"
+
+  - name: "Knights Of The Round-Music"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025AA34 00000002"
+
+  - name: "Last Duel-Tips"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025ABEC 00000002"
+
+  - name: "Last Duel-Art"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025ABF0 00000002"
+
+  - name: "Last Duel-Music"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025ABF4 00000002"
+
+  - name: "Magic Sword-Tips"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025ADAC 00000002"
+
+  - name: "Magic Sword-Art"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025ADB0 00000002"
+
+  - name: "Magic Sword-Music"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025ADB4 00000002"
+
+  - name: "Mega Twins-Tips"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025AF6C 00000002"
+
+  - name: "Mega Twins-Art"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025AF70 00000002"
+
+  - name: "Mega Twins-Music"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025AF74 00000002"
+
+  - name: "Quiz & Dragons-Tips"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025B12C 00000002"
+
+  - name: "Quiz & Dragons-Art"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025B130 00000002"
+
+  - name: "Quiz & Dragons-Music"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025B134 00000002"
+
+  - name: "Side Arms-Tips"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025B2EC 00000002"
+
+  - name: "Side Arms-Art"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025B2F0 00000002"
+
+  - name: "Side Arms-Music"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025B2F4 00000002"
+
+  - name: "Street Fighter-Tips"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025B4AC 00000002"
+
+  - name: "Street Fighter-Art"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025B4B0 00000002"
+
+  - name: "Street Fighter-Music"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025B4B4 00000002"
+
+  - name: "Strider-Tips"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025B4AC 00000002"
+
+  - name: "Strider-Art"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025B4B0 00000002"
+
+  - name: "Strider-Music"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025B4B4 00000002"
+
+  - name: "Super SFII Turbo-Tips"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025B66C 00000002"
+
+  - name: "Super SFII Turbo-Art"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025B670 00000002"
+
+  - name: "Super SFII Turbo-Music"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025B674 00000002"
+
+  - name: "The Speed Rumbler-Tips"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025B9EC 00000002"
+
+  - name: "The Speed Rumbler-Art"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025B9F0 00000002"
+
+  - name: "The Speed Rumbler-Music"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025B9F4 00000002"
+
+  - name: "Three Wonders-Tips"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025BBAC 00000002"
+
+  - name: "Three Wonders-Art"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025BBB0 00000002"
+
+  - name: "Three Wonders-Music"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025BBB4 00000002"
+
+  - name: "Tiger Road-Tips"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025BD6C 00000002"
+
+  - name: "Tiger Road-Art"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025BD70 00000002"
+
+  - name: "Tiger Road-Music"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025BD74 00000002"
+
+  - name: "Varth-Tips"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025BF2C 00000002"
+
+  - name: "Varth-Art"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025BF30 00000002"
+
+  - name: "Varth-Music"
+    author: "Code Master"
+    notes: "[Unlock Bonus Codes]"
+    codes:
+      - "2025BF34 00000002"

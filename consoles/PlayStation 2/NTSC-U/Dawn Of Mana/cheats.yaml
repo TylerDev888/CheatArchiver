@@ -1,0 +1,172 @@
+# Dawn Of Mana cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21574
+
+game: "Dawn Of Mana"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21574"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Godmode Only"
+    author: "luc-ita"
+    codes:
+      - "204029D4 08028000"
+      - "204029D8 3C01000A"
+      - "200A0000 3C0343FA"
+      - "200A0004 AE630178"
+      - "200A000C 03E00008"
+      - "200A0010 27BD00D0"
+
+  - name: "Godmode+1Hitkill"
+    author: "luc-ita"
+    codes:
+      - "204029D4 08028000"
+      - "204029D8 3C01000A"
+      - "200A0000 3C0343FA"
+      - "200A0004 AE630178"
+      - "200A0008 AC330014"
+      - "200A000C 03E00008"
+      - "200A0010 27BD00D0"
+      - "2025E368 08028009"
+      - "200A0024 E60C0178"
+      - "200A0028 3C04000A"
+      - "200A002C 8C840014"
+      - "200A0030 10900007"
+      - "200A0034 3C013F80"
+      - "200A0038 44810000"
+      - "200A003C C6010178"
+      - "200A0040 46010034"
+      - "200A0044 45000002"
+      - "200A004C E6000178"
+      - "200A0050 080978DC"
+
+  - name: "Jump In Midair/Infinite Second Jump"
+    author: "luc-ita"
+    codes:
+      - "20411C9C 3C021300"
+
+  - name: "Skip Logo, Intro And Gameplay Demo"
+    author: "luc-ita"
+    codes:
+      - "20570660 10000018"
+
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90528218 0C14A02E"
+
+  - name: "Player 1 Controller (reverse)"
+    notes: "[Jokers]"
+    codes:
+      - "D0A03F02 0000????"
+
+  - name: "Player 2 Controller (reverse)"
+    notes: "[Jokers]"
+    codes:
+      - "D0A03F82 0000????"
+
+  - name: "Player ? Controller (reverse)"
+    notes: "[Jokers]"
+    codes:
+      - "D0A04002 0000????"
+
+  - name: "Player 1 Controller (normal)"
+    notes: "[Jokers]"
+    codes:
+      - "D0A04070 0000????"
+
+  - name: "Player 2 Controller (normal)"
+    notes: "[Jokers]"
+    codes:
+      - "D0A0407C 0000????"
+
+  - name: "Player ? Controller (normal)"
+    notes: "[Jokers]"
+    codes:
+      - "D0A04080 0000????"
+
+  - name: "Max HP Bar (gain 1 HP Pickup)"
+    codes:
+      - "20111290 24029C40"
+
+  - name: "Max HP Bar (memory)"
+    codes:
+      - "106C5350 00009C40"
+
+  - name: "Max Str (memory)"
+    codes:
+      - "106C5354 000061A8"
+
+  - name: "Max Lucre (when Picked Up)"
+    codes:
+      - "202C0D14 AE04023C"
+
+  - name: "Max/Inf Lucre"
+    codes:
+      - "206C538C 3B9AC9FF"
+
+  - name: "Max Lucre Alternative (this Seems To Add To The One Above)"
+    codes:
+      - "206C5414 3B9AC9FF"
+
+  - name: "Inf HP (fixed)"
+    codes:
+      - "2025E460 08028000"
+      - "200A0000 3C1B42C8"
+      - "200A0004 103B0003"
+      - "200A000C 03E00008"
+      - "200A0014 03E00008"
+      - "200A0018 AEA10178"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master>Skiller"
+    notes: "[Masters]"
+    codes:
+      - "9050B6E0 00832021"
+
+  - name: "Infinite Lucre"
+    author: "Code Master>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "106C5414 0000FFFF"
+
+  - name: "Max Lucre"
+    author: "Code Master>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "206C5414 05F5E0FF"
+
+  - name: "Max White Eggs"
+    author: "Code Master>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "206C51BC 00000063"
+
+  - name: "Max Gold Eggs"
+    author: "Code Master>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "206C51C0 00000063"
+
+  - name: "Infinite Health"
+    author: "Code Master>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "20273230 3C0143FA"
+      - "20273238 AC810178"
+
+  - name: "Max Health"
+    author: "Code Master>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "106C5350 00009C40"
+
+  - name: "Max STR"
+    author: "Code Master>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "106C5354 000061A8"

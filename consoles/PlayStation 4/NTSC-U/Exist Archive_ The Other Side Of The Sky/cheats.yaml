@@ -1,0 +1,19 @@
+# Exist Archive_ The Other Side Of The Sky cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA04726
+
+game: "Exist Archive_ The Other Side Of The Sky"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA04726"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "255 Skill Points"
+    author: "Dynamite"
+    notes: "File: savedata(000[1-9])\\savedata.bin"
+    codes:
+      - "400003F0 000000FF"
+      - "400E037C 00000000"

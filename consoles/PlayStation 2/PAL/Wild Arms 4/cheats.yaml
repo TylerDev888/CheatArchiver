@@ -1,0 +1,77 @@
+# Wild Arms 4 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54239
+
+game: "Wild Arms 4"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54239"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Buy Even Without Gella (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "202824F4 10000008"
+      - "20282DA8 10000003"
+      - "20283358 00000000"
+      - "2028333C 00000000"
+
+  - name: "Infinite Accelerator Gauge"
+    author: "luc-ita"
+    codes:
+      - "201759A4 00000000"
+
+  - name: "Jump In Midair"
+    author: "luc-ita"
+    codes:
+      - "201B7704 34420000"
+
+  - name: "Nodamage+1Hitkill"
+    author: "luc-ita"
+    codes:
+      - "20183200 08028000"
+      - "20183204 28B60005"
+      - "200A0000 12C00003"
+      - "200A0008 03E00008"
+      - "200A0010 27BDFF50"
+      - "200A0014 FFBF0090"
+      - "200A0018 08060C82"
+      - "20185234 00000000"
+
+  - name: "Take Objects Anywhere When Using The Accelerator Gauge"
+    author: "luc-ita"
+    codes:
+      - "201DB588 00000000"
+
+  - name: "Use Abilities Even Without Fps (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "2024A4E4 10000006"
+
+  - name: "Use Commands Even Without Mps"
+    author: "luc-ita"
+    codes:
+      - "2024B85C 00000000"
+
+  - name: "Walk At Double The Speed"
+    author: "luc-ita"
+    codes:
+      - "201B7210 3C024126"
+
+  - name: "Walk At Quad The Speed"
+    author: "luc-ita"
+    codes:
+      - "201B7210 3C0241A6"
+
+  - name: "Win A Battle For Max Gella"
+    author: "luc-ita"
+    codes:
+      - "20207288 00000000"
+
+  - name: "Win A Battle To Reach The Max Level"
+    author: "luc-ita"
+    codes:
+      - "20223A0C 00000000"

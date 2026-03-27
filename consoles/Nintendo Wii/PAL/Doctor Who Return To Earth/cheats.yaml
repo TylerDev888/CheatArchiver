@@ -1,0 +1,108 @@
+# Doctor Who Return To Earth cheat data
+# Console: Nintendo Wii
+# Region:  PAL
+# Serial:  SDOPLR
+
+game: "Doctor Who Return To Earth"
+console: "Nintendo Wii"
+region: "PAL"
+serial: "SDOPLR"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Inf Air (stage 1)"
+    author: "Skiller"
+    codes:
+      - "04010B24 EC00F828"
+
+  - name: "Inf HP"
+    author: "Skiller"
+    codes:
+      - "C200D270 00000002"
+      - "3EE042C8 92E3004C"
+      - "C023004C 00000000"
+
+  - name: "Use Money Get 999"
+    author: "Skiller"
+    codes:
+      - "0403D228 388003E7"
+      - "0403D41C 388003E7"
+
+  - name: "Go To Bonus Section Get 1000 Money"
+    author: "Skiller"
+    codes:
+      - "C200F5B4 00000002"
+      - "3B6003E8 9363061C"
+      - "8063061C 00000000"
+
+  - name: "Unlock All Bonus Content (view)"
+    author: "Skiller"
+    codes:
+      - "C203D9AC 00000002"
+      - "38000001 901C0020"
+      - "801C0020 00000000"
+
+  - name: "Unlimited Ammo"
+    author: "Skiller"
+    codes:
+      - "0401BB2C 38030000"
+
+  - name: "Inf HP (circuit)"
+    author: "Skiller"
+    codes:
+      - "0402878C EC21F828"
+      - "04025640 EC00D828"
+
+  - name: "Unlimited Ammo(crystals)"
+    author: "Skiller"
+    codes:
+      - "0401BB2C 38030000"
+
+  - name: "Blue"
+    author: "Skiller"
+    notes: "[Have 3 Crystals First 3 Slots]"
+    codes:
+      - "047F004C 00000003"
+      - "087F006C 00000001"
+      - "20020004 00000000"
+
+  - name: "Red"
+    author: "Skiller"
+    notes: "[Have 3 Crystals First 3 Slots]"
+    codes:
+      - "047F0050 00000003"
+      - "087F006C 00000002"
+      - "20020004 00000000"
+
+  - name: "Yellow"
+    author: "Skiller"
+    notes: "[Have 3 Crystals First 3 Slots]"
+    codes:
+      - "047F0054 00000003"
+      - "087F006C 00000003"
+      - "20020004 00000000"
+
+  - name: "Purple"
+    author: "Skiller"
+    notes: "[Have 3 Crystals First 3 Slots]"
+    codes:
+      - "047F0058 00000003"
+      - "087F006C 00000004"
+      - "20020004 00000000"
+
+  - name: "Green"
+    author: "Skiller"
+    notes: "[Have 3 Crystals First 3 Slots]"
+    codes:
+      - "047F005C 00000003"
+      - "087F006C 00000005"
+      - "20020004 00000000"
+
+  - name: "Gold"
+    author: "Skiller"
+    notes: "[Have 3 Crystals First 3 Slots]"
+    codes:
+      - "047F0060 00000003"
+      - "087F006C 00000006"
+      - "20020004 00000000"

@@ -1,0 +1,194 @@
+# BlazBlue_ Continuum Shift Extend cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01487
+
+game: "BlazBlue_ Continuum Shift Extend"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01487"
+cheat_type: "AP"
+source: "From Game Genie For PS3 & Ngu-tripate"
+
+cheats:
+  - name: "Unlock All Gallery Visuals"
+    notes: "File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "41000160 00000202"
+      - "40F90002 00000000"
+
+  - name: "16777215 P$ (working)"
+    notes: "[Ngu-tripate For Ps3cheating\\misc]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E3161:FFFFFF"
+
+  - name: "Lvl 33 (working)"
+    notes: "[Ngu-tripate For Ps3cheating\\misc]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E316D:017BCF"
+
+  - name: "Lvl 100 (working)"
+    notes: "[Ngu-tripate For Ps3cheating\\misc]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E316D:FF423F"
+
+  - name: "All Gallery Unlock(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\misc]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x00000160:repeat(200,01)"
+
+  - name: "Beginner Clear(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\tutorial]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E2AF0:03020202"
+
+  - name: "Intermediate Clear(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\tutorial]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E2B0E:03020202020202"
+
+  - name: "Advance Clear(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\tutorial]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E2B2C:030202"
+
+  - name: "Strategies Clear(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\tutorial]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E2B4A:03020202020202020202020202020202020202"
+
+  - name: "Reward Points (working)"
+    notes: "[Ngu-tripate For Ps3cheating\\abyss Mode]  File: BLES01487-SYSTEM\\SYSTEM.DAT  (for apply the code Reward points you need have create save on abyss mode)"
+    codes:
+      - "write at 0x000E344A:FFFF"
+
+  - name: "Unlock Level Selection Abyss Mode (working)"
+    notes: "[Ngu-tripate For Ps3cheating\\abyss Mode]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E343B:03"
+
+  - name: "Unlock All Item Shop (working)"
+    notes: "[Ngu-tripate For Ps3cheating\\abyss Mode]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E3240:repeat(79,00000002)"
+      - "write at 0x000E3420:00000002000000020000000200000002"
+      - "write at 0x000E3430:0000000200000002"
+
+  - name: "Unlock All Story Character True End Also (clear 0%) And \"complete : Ex1 & Ex2\" (working)"
+    notes: "[Ngu-tripate For Ps3cheating\\story Mode]  File: BLES01487-SYSTEM\\SYSTEM.DAT  (Apply this code after have use code to unlock all story)"
+    codes:
+      - "write at 0x00020A30:repeat(160,01)"
+
+  - name: "Complete(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\story Mode]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x00000560:0000FFFF0000FFFF0000FFFF000000FF"
+      - "write at 0x00000570:000000FF000000FF000000FF000000FF"
+      - "write at 0x00000580:0000FFFF000000FF000000FF000000FF"
+      - "write at 0x00000590:000000FF000000FF000000FF000000FF"
+      - "write at 0x000005A0:000000FF000000FF00000000000000FF"
+
+  - name: "Ragna The Bloodedge 100%(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\challenge Mode]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E2B68:010101010101010101010101010101"
+
+  - name: "Jin Kisaragi 100%(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\challenge Mode]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E2B7C:010101010101010101010101010101"
+
+  - name: "Noel Vermillion 100%(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\challenge Mode]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E2B90:010101010101010101010101010101"
+
+  - name: "Rachel Alucard 100%(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\challenge Mode]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E2BA4:010101010101010101010101010101"
+
+  - name: "Taokaka 100%(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\challenge Mode]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E2BB8:010101010101010101010101010101"
+
+  - name: "Iron Tager 100%(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\challenge Mode]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E2BCC:010101010101010101010101010101"
+
+  - name: "Litchi Faye Ling 100%(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\challenge Mode]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E2BE0:010101010101010101010101010101"
+
+  - name: "Arakune 100%(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\challenge Mode]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E2BF4:010101010101010101010101010101"
+
+  - name: "Bang Shishigami 100%(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\challenge Mode]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E2C08:010101010101010101010101010101"
+
+  - name: "Carl Clover 100%(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\challenge Mode]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E2C1C:010101010101010101010101010101"
+
+  - name: "Haku Men 100%(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\challenge Mode]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E2C30:010101010101010101010101010101"
+
+  - name: "A 11 100%(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\challenge Mode]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E2C44:010101010101010101010101010101"
+
+  - name: "Tsubaki Yayoi 100%(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\challenge Mode]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E2C58:010101010101010101010101010101"
+
+  - name: "Hazama 100%(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\challenge Mode]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E2C6C:010101010101010101010101010101"
+
+  - name: "U 12 100%(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\challenge Mode]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E2C80:010101010101010101010101010101"
+
+  - name: "Makoto Nanaya 100%(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\challenge Mode]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E2C94:010101010101010101010101010101"
+
+  - name: "Walkenhayn R Hellsing 100%(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\challenge Mode]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E2CA8:010101010101010101010101010101"
+
+  - name: "Platinum The Trinity 100%(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\challenge Mode]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E2CBC:010101010101010101010101010101"
+
+  - name: "Reluis Clover 100%(working)"
+    notes: "[Ngu-tripate For Ps3cheating\\challenge Mode]  File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "write at 0x000E2CD0:010101010101010101010101010101"
+
+  - name: "Update Wadd Checksum (required)"
+    notes: "File: BLES01487-SYSTEM\\SYSTEM.DAT"
+    codes:
+      - "set [csum]:0"
+      - "carry(2)"
+      - "set pointer:eof+1"
+      - "set [csum]:wadd(0x000004,pointer)"
+      - "set [csum]:xor:FFFF"
+      - "write at 0x000000:[csum]"

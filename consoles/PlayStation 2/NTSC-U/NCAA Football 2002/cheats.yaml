@@ -1,0 +1,399 @@
+# NCAA Football 2002 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20241
+
+game: "NCAA Football 2002"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20241"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01E0238 0037279F"
+
+  - name: "Always 1St Down"
+    author: "Code Master"
+    codes:
+      - "20175500 24020001"
+
+  - name: "Always 4Th Down"
+    author: "Code Master"
+    codes:
+      - "20175500 24020004"
+
+  - name: "Away Team Always Has The Ball"
+    author: "Code Master"
+    codes:
+      - "201758C0 24020001"
+
+  - name: "2-Point Conversions Score Modifier"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D046DC68 00000000"
+      - "10200760 00000002"
+
+  - name: "Extra Point's Score Modifier"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D046DC68 00000000"
+      - "10200764 00000001"
+
+  - name: "Field Goal's Score Modifier"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D046DC68 00000000"
+      - "10200238 00000003"
+
+  - name: "Safety's Score Modifier"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D046DC68 00000000"
+      - "102008BC 0000FFFE"
+
+  - name: "Touch Down's Score Modifier"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0030000 0046DC68"
+      - "10200484 00000006"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "1043CFCC 0000????"
+
+  - name: "Away Team Start With Score Modifier"
+    author: "Code Master"
+    codes:
+      - "D043CFCC 00000000"
+      - "1043CFCC 0000????"
+
+  - name: "Home/Away Team Only Codes Activator"
+    author: "Code Master"
+    notes: "[Both Team Codes]"
+    codes:
+      - "203FEA28 3C010040"
+      - "203FEA2C 03E00008"
+      - "203FEA30 AC22EA48"
+      - "201758C0 080FFA8A"
+
+  - name: "Buy Pennants With No Credits"
+    author: "Code Master"
+    codes:
+      - "201B5B0C 24020001"
+
+  - name: "Code Breaker Version 1-5 Enable Code (Must Be On)"
+    author: "Code Master"
+    codes:
+      - "F0100008 00372877"
+
+  - name: "Code Breaker Version 6+ Enable Code (Must Be On)"
+    author: "Code Master"
+    codes:
+      - "90372874 0C0CDF4E"
+
+  - name: "Home Team Always Has The Ball"
+    author: "Code Master"
+    codes:
+      - "201758C0 24020000"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "1043CFC8 0000????"
+
+  - name: "Home Team Start With Score Modifier"
+    author: "Code Master"
+    codes:
+      - "D043CFC8 00000000"
+      - "1043CFC8 0000????"
+
+  - name: "Infinite Campus Credits"
+    author: "InterAct"
+    codes:
+      - "D1B6F400 0020270F"
+      - "11B6F400 0000270F"
+      - "D1B6F170 0020270F"
+      - "11B6F170 0000270F"
+      - "D1B4A210 0020270F"
+      - "11B4A210 0000270F"
+
+  - name: "P1 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "D044A082 0000FEFE"
+      - "20175500 24020001"
+      - "D044A082 0000FFFF"
+      - "20175500 8C620030"
+
+  - name: "P1 Press R1+Select To Disable Timers"
+    author: "Code Master"
+    codes:
+      - "D044A082 0000F7FE"
+      - "201F61B8 00000000"
+
+  - name: "P1 Press R2+Select To Enable Timers"
+    author: "Code Master"
+    codes:
+      - "D044A082 0000FDFE"
+      - "201F61B8 2442FFFF"
+
+  - name: "P1 Press Select+L2 For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "D044A082 0000FDFE"
+      - "20175500 24020004"
+      - "D044A082 0000FFFF"
+      - "20175500 8C620030"
+
+  - name: "P2 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "D044A182 0000FEFE"
+      - "20175500 24020001"
+      - "D044A182 0000FFFF"
+      - "20175500 8C620030"
+
+  - name: "P2 Press R1+Select To Disable Timers"
+    author: "Code Master"
+    codes:
+      - "D044A182 0000F7FE"
+      - "201F61B8 00000000"
+
+  - name: "P2 Press R2+Select To Enable Timers"
+    author: "Code Master"
+    codes:
+      - "D044A182 0000FDFE"
+      - "201F61B8 2442FFFF"
+
+  - name: "P2 Press Select+L2 For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "D044A182 0000FDFE"
+      - "20175500 24020004"
+      - "D044A182 0000FFFF"
+      - "20175500 8C620030"
+
+  - name: "P3 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "D044A282 0000FEFE"
+      - "20175500 24020001"
+      - "D044A282 0000FFFF"
+      - "20175500 8C620030"
+
+  - name: "P3 Press R1+Select To Disable Timers"
+    author: "Code Master"
+    codes:
+      - "D044A282 0000F7FE"
+      - "201F61B8 00000000"
+
+  - name: "P3 Press R2+Select To Enable Timers"
+    author: "Code Master"
+    codes:
+      - "D044A282 0000FDFE"
+      - "201F61B8 2442FFFF"
+
+  - name: "P3 Press Select+L2 For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "D044A282 0000FDFE"
+      - "20175500 24020004"
+      - "D044A282 0000FFFF"
+      - "20175500 8C620030"
+
+  - name: "P4 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "D044A382 0000FEFE"
+      - "20175500 24020001"
+      - "D044A382 0000FFFF"
+      - "20175500 8C620030"
+
+  - name: "P4 Press R1+Select To Disable Timers"
+    author: "Code Master"
+    codes:
+      - "D044A382 0000F7FE"
+      - "201F61B8 00000000"
+
+  - name: "P4 Press R2+Select To Enable Timers"
+    author: "Code Master"
+    codes:
+      - "D044A382 0000FDFE"
+      - "201F61B8 2442FFFF"
+
+  - name: "P4 Press Select+L2 For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "D044A382 0000FDFE"
+      - "20175500 24020004"
+      - "D044A382 0000FFFF"
+      - "20175500 8C620030"
+
+  - name: "P5 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "D044A482 0000FEFE"
+      - "20175500 24020001"
+      - "D044A482 0000FFFF"
+      - "20175500 8C620030"
+
+  - name: "P5 Press R1+Select To Disable Timers"
+    author: "Code Master"
+    codes:
+      - "D044A482 0000F7FE"
+      - "201F61B8 00000000"
+
+  - name: "P5 Press R2+Select To Enable Timers"
+    author: "Code Master"
+    codes:
+      - "D044A482 0000FDFE"
+      - "201F61B8 2442FFFF"
+
+  - name: "P5 Press Select+L2 For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "D044A482 0000FDFE"
+      - "20175500 24020004"
+      - "D044A482 0000FFFF"
+      - "20175500 8C620030"
+
+  - name: "P6 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "D044A582 0000FEFE"
+      - "20175500 24020001"
+      - "D044A582 0000FFFF"
+      - "20175500 8C620030"
+
+  - name: "P6 Press R1+Select To Disable Timers"
+    author: "Code Master"
+    codes:
+      - "D044A582 0000F7FE"
+      - "201F61B8 00000000"
+
+  - name: "P6 Press R2+Select To Enable Timers"
+    author: "Code Master"
+    codes:
+      - "D044A582 0000FDFE"
+      - "201F61B8 2442FFFF"
+
+  - name: "P6 Press Select+L2 For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "D044A582 0000FDFE"
+      - "20175500 24020004"
+      - "D044A582 0000FFFF"
+      - "20175500 8C620030"
+
+  - name: "P7 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "D044A682 0000FEFE"
+      - "20175500 24020001"
+      - "D044A682 0000FFFF"
+      - "20175500 8C620030"
+
+  - name: "P7 Press R1+Select To Disable Timers"
+    author: "Code Master"
+    codes:
+      - "D044A682 0000F7FE"
+      - "201F61B8 00000000"
+
+  - name: "P7 Press R2+Select To Enable Timers"
+    author: "Code Master"
+    codes:
+      - "D044A682 0000FDFE"
+      - "201F61B8 2442FFFF"
+
+  - name: "P7 Press Select+L2 For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "D044A682 0000FDFE"
+      - "20175500 24020004"
+      - "D044A682 0000FFFF"
+      - "20175500 8C620030"
+
+  - name: "P8 Press L2+Select For 1St Down"
+    author: "Code Master"
+    codes:
+      - "D044A782 0000FEFE"
+      - "20175500 24020001"
+      - "D044A782 0000FFFF"
+      - "20175500 8C620030"
+
+  - name: "P8 Press R1+Select To Disable Timers"
+    author: "Code Master"
+    codes:
+      - "D044A782 0000F7FE"
+      - "201F61B8 00000000"
+
+  - name: "P8 Press R2+Select To Enable Timers"
+    author: "Code Master"
+    codes:
+      - "D044A782 0000FDFE"
+      - "201F61B8 2442FFFF"
+
+  - name: "P8 Press Select+L2 For 4Th Down"
+    author: "Code Master"
+    codes:
+      - "D044A782 0000FDFE"
+      - "20175500 24020004"
+      - "D044A782 0000FFFF"
+      - "20175500 8C620030"
+
+  - name: "Always Score 0"
+    author: "Codejunkies"
+    notes: "[Team 1 Codes]"
+    codes:
+      - "1043CFCC 00000000"
+
+  - name: "Always Score 99"
+    author: "Codejunkies"
+    notes: "[Team 1 Codes]"
+    codes:
+      - "1043CFCC 00000063"
+
+  - name: "Infinite Credits"
+    author: "Codejunkies"
+    notes: "[Team 2 Codes]"
+    codes:
+      - "E001270F 21B6F400"
+      - "11B6F400 0000270F"
+      - "E001270F 21B6F170"
+      - "11B6F170 0000270F"
+      - "E001270F 21B4A210"
+      - "11B4A210 0000270F"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00372877"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90372874 0C0CDF4E"
+
+  - name: "Infinite Campus Credits (Start New Profile)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D1B6F400 0020270F"
+      - "11B6F400 0000270F"
+      - "D1B6F170 0020270F"
+      - "11B6F170 0000270F"
+      - "D1B4A210 0020270F"
+      - "11B4A210 0000270F"

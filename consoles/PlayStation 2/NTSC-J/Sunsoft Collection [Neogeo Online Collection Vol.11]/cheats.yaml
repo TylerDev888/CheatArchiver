@@ -1,0 +1,34 @@
+# Sunsoft Collection [Neogeo Online Collection Vol.11] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25849
+
+game: "Sunsoft Collection [Neogeo Online Collection Vol.11]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25849"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9012D8F8 0C0495EE"
+
+  - name: "Enable Code (For Progessive Modes Only)"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90114190 0C04500C"
+
+  - name: "Enable Progressive Mode (512X224p Main Menus Only)"
+    author: "punk7890"
+    codes:
+      - "00100608 00000000"
+
+  - name: "Enable Progressive Mode (640X448p In-Game Only)"
+    author: "punk7890"
+    codes:
+      - "00371EAC 00000002"

@@ -1,0 +1,115 @@
+# King Of Fighters 2002, The (Unlimited Match) cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25915
+
+game: "King Of Fighters 2002, The (Unlimited Match)"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25915"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "90110618 0C04412E"
+
+  - name: "ALL Characters"
+    author: "Fullcodes"
+    codes:
+      - "105CFB58 000003FF"
+
+  - name: "ALL Mission"
+    author: "Fullcodes"
+    codes:
+      - "105CFA60 00000202"
+      - "405CFA30 000C0001"
+      - "02020202 00000000"
+
+  - name: "English (Neogeo MODE)"
+    author: "lee4"
+    codes:
+      - "005B9980 00000001"
+
+  - name: "Freeze Timer"
+    author: "lee4"
+    codes:
+      - "005BE2E8 000000FF"
+
+  - name: "Inf Time (P1 Hold L1+R1 OFF)"
+    author: "lee4"
+    codes:
+      - "D18F8D42 0010F3FF"
+      - "005BE2F0 00000099"
+
+  - name: "Infinite Time (ASM)"
+    author: "lee4>Azagthoth"
+    codes:
+      - "201F02E4 00000000"
+
+  - name: "P1 Inf Guard"
+    author: "lee4"
+    codes:
+      - "005CD216 00000078"
+
+  - name: "P1 Inf HP"
+    author: "lee4"
+    codes:
+      - "005CD208 00000066"
+      - "D05CD5D4 00000001"
+      - "005CD208 00000078"
+
+  - name: "P1 Inf Pow"
+    author: "lee4"
+    codes:
+      - "005CD2B3 00000005"
+      - "005CD1B9 00000090"
+
+  - name: "P1 Joker"
+    author: "lee4"
+    codes:
+      - "D18F8D42 0000????"
+
+  - name: "P1 No HP (P2 Press Select)"
+    author: "lee4"
+    codes:
+      - "D18F8C42 0000FFFE"
+      - "105CD208 00000001"
+
+  - name: "P2 Inf HP"
+    author: "lee4"
+    codes:
+      - "005CD428 00000066"
+      - "D05CD5D4 00000001"
+      - "005CD428 00000078"
+
+  - name: "P2 Joker"
+    author: "lee4"
+    codes:
+      - "D18F8C42 0000????"
+
+  - name: "P2 No Guard"
+    author: "lee4"
+    codes:
+      - "005CD436 00000000"
+
+  - name: "P2 No HP (P1 Press Select)"
+    author: "lee4"
+    codes:
+      - "D18F8D42 0000FFFE"
+      - "105CD428 00000001"
+
+  - name: "P2 No Pow"
+    author: "lee4"
+    codes:
+      - "005CD4D3 00000000"
+      - "005CD3D9 00000000"
+
+  - name: "Unlock All Gallery"
+    author: "lee4"
+    codes:
+      - "405CFA68 003C0001"
+      - "01010101 00000000"

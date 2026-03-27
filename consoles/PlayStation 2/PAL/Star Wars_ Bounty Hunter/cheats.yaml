@@ -1,0 +1,43 @@
+# Star Wars_ Bounty Hunter cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Star Wars_ Bounty Hunter"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001992EF"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "202F7C40 46000506"
+      - "202F7C44 E62001E8"
+
+  - name: "Continues"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "103C6784 05F5E0FF"
+
+  - name: "Ammunition"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2017D4BC 00000000"
+
+  - name: "Jetpack"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20206418 00000000"
+      - "20206B54 00000000"

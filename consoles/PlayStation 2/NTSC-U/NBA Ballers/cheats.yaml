@@ -1,0 +1,607 @@
+# NBA Ballers cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20541
+
+game: "NBA Ballers"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20541"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01190AC 001190AF"
+      - "2027A67C 0803FFC0"
+      - "200FFF14 0809E9A1"
+      - "200FFF10 AE020000"
+      - "200FFF08 00561021"
+      - "20755F88 4754454E"
+      - "20755F8C 4D5C4955"
+      - "20755F90 4C55444F"
+      - "20755F94 495C5345"
+      - "20755F98 5052504F"
+      - "20755F9C 2E303832"
+      - "20755FA0 00474D49"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "901190AC 0C043876"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "90161B34 0C04643C"
+
+  - name: "Alternate [M] Must Be On"
+    author: "MadCatz"
+    codes:
+      - "F0100008 00161B37"
+
+  - name: "Infinite House"
+    author: "MadCatz"
+    codes:
+      - "200C2000 3C1B3F80"
+      - "200C2004 449B6000"
+      - "200C2008 E64C0BE0"
+      - "200C200C 0806950D"
+      - "201A5430 08030800"
+
+  - name: "Infinite Juice"
+    author: "MadCatz"
+    codes:
+      - "201A51F0 E6220BDC"
+
+  - name: "Buying Cars Doesn't Decrease Balance"
+    author: "Code Master"
+    notes: "[Inside Stuff Codes]"
+    codes:
+      - "203A72D8 00000000"
+      - "203A72DC 00000000"
+
+  - name: "Buying Cribs Doesn't Decrease Balance"
+    author: "Code Master"
+    notes: "[Inside Stuff Codes]"
+    codes:
+      - "2029C824 00000000"
+      - "2029C830 00000000"
+
+  - name: "Have All Ballers Cinema-Film Vault"
+    author: "Code Master"
+    notes: "[Inside Stuff Codes]"
+    codes:
+      - "20709B7C FFFFFFFF"
+      - "20709B80 FFFFFFFF"
+
+  - name: "Have All Ballers Signed"
+    author: "Code Master"
+    notes: "[Inside Stuff Codes]"
+    codes:
+      - "40709B04 00070001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Have All Collectibles-Big Shots"
+    author: "Code Master"
+    notes: "[Inside Stuff Codes]"
+    codes:
+      - "20709B2C FFFFFFFF"
+      - "10709B30 0000FFFF"
+
+  - name: "Have All Collectibles-Friends"
+    author: "Code Master"
+    notes: "[Inside Stuff Codes]"
+    codes:
+      - "00706869 000000FF"
+      - "1070686A 0000FFFF"
+
+  - name: "Have All Collectibles-Magazines"
+    author: "Code Master"
+    notes: "[Inside Stuff Codes]"
+    codes:
+      - "20709B20 FFFFFFFF"
+      - "20709B24 FFFFFFFF"
+      - "00709B28 000000FF"
+
+  - name: "Have All Collectibles-Midway"
+    author: "Code Master"
+    notes: "[Inside Stuff Codes]"
+    codes:
+      - "10709B32 0000FFFF"
+      - "10709B34 0000FFFF"
+
+  - name: "Max Balance"
+    author: "Code Master"
+    notes: "[Inside Stuff Codes]"
+    codes:
+      - "20709B38 05F5E0FF"
+      - "20709B3C 05F5E0FF"
+
+  - name: "Quick Balance Gain"
+    author: "Code Master"
+    notes: "[Inside Stuff Codes]"
+    codes:
+      - "10709B38 0000FFFF"
+      - "10709B3C 0000FFFF"
+
+  - name: "Signing A Baller Doesn't Decrease Balance"
+    author: "Code Master"
+    notes: "[Inside Stuff Codes]"
+    codes:
+      - "2029C47C 00000000"
+      - "2029C484 00000000"
+
+  - name: "Unlock All Cribs"
+    author: "Code Master"
+    notes: "[Inside Stuff Codes]"
+    codes:
+      - "20709B00 FFFFFFFF"
+
+  - name: "Unlock All Garage-Cars"
+    author: "Code Master"
+    notes: "[Inside Stuff Codes]"
+    codes:
+      - "207081E4 FFFFFFFF"
+      - "007085E8 000000FF"
+
+  - name: "Inside Stuff: Max: Cash"
+    author: "MadCatz"
+    codes:
+      - "20709B38 3B9AC9FF"
+      - "20709B3C 3B9AC9FF"
+
+  - name: "Max Cash"
+    author: "Codejunkies"
+    codes:
+      - "202E1210 0803FF80"
+      - "202E1214 3C1105F0"
+      - "200FFE00 AE11004C"
+      - "200FFE04 080B8498"
+      - "200FFE08 AE110048"
+
+  - name: "Player 1: Press L1 + L2 For 20 Points"
+    author: "MadCatz"
+    codes:
+      - "D07DC540 0000FEFF"
+      - "21136B58 00000014"
+
+  - name: "Player 1: Press L2 For 10 Points"
+    author: "MadCatz"
+    codes:
+      - "D07DC540 0000FEFF"
+      - "21136B58 0000000A"
+
+  - name: "Player 1: Press L3 To Reset Opponents Score"
+    author: "MadCatz"
+    codes:
+      - "D07DC540 0000FFFD"
+      - "21136B5C 00000000"
+
+  - name: "Player 1: Ultimate Score Code"
+    author: "MadCatz"
+    codes:
+      - "2027A678 8E220000"
+      - "2027A680 AE220000"
+
+  - name: "Player 2 Never Scores"
+    author: "Codejunkies"
+    codes:
+      - "200FFF00 14170004"
+
+  - name: "Profile 1: Rags To Riches: Max: Cash"
+    author: "MadCatz"
+    codes:
+      - "2070AEEC 3B9AC9FF"
+
+  - name: "Profile 1: Rags To Riches: Max: Stats"
+    author: "MadCatz"
+    codes:
+      - "01B82624 00000023"
+      - "01B82670 00000023"
+      - "01B826BC 00000023"
+      - "01B82708 00000023"
+      - "01B82754 00000023"
+      - "01B827A0 00000023"
+      - "01B827EC 00000023"
+      - "01B82838 00000023"
+      - "01B82884 00000023"
+      - "01B828D0 00000023"
+      - "01B8291C 00000023"
+      - "01B82926 00000023"
+      - "01B829B4 00000023"
+      - "01B82A00 00000023"
+      - "01B82A4C 00000023"
+      - "01B82A98 00000023"
+
+  - name: "Change Stat Once For Max Stat"
+    author: "Code Master"
+    notes: "[Rags To Riches Codes]"
+    codes:
+      - "202B3D48 24040023"
+
+  - name: "Infinite Skill Points"
+    author: "Code Master"
+    notes: "[Rags To Riches Codes]"
+    codes:
+      - "203AACD4 00000000"
+
+  - name: "Unlock All Specials"
+    author: "Code Master"
+    notes: "[Rags To Riches Codes]"
+    codes:
+      - "2070AFAC 00000000"
+
+  - name: "Access All Cribs"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202E1888 24020001"
+
+  - name: "Infinite Juice (All Players)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201A5348 00000000"
+
+  - name: "Infinite Shot Clock"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "207C2BB4 00000000"
+
+  - name: "P1 Press L1+Select For Full Shot Clock"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07BC542 0000FBFE"
+      - "207C2BB4 00000000"
+
+  - name: "P1 Press L2+Select For Expired Shot Clock"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07BC542 0000FEFE"
+      - "207C2BB4 447A0000"
+
+  - name: "P2 Press L1+Select For Full Shot Clock"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07BC702 0000FBFE"
+      - "207C2BB4 00000000"
+
+  - name: "P2 Press L2+Select For Expired Shot Clock"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07BC702 0000FEFE"
+      - "207C2BB4 447A0000"
+
+  - name: "P3 Press L1+Select For Full Shot Clock"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07BC8C2 0000FBFE"
+      - "207C2BB4 00000000"
+
+  - name: "P3 Press L2+Select For Expired Shot Clock"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07BC8C2 0000FEFE"
+      - "207C2BB4 447A0000"
+
+  - name: "P4 Press L1+Select For Full Shot Clock"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07BCA82 0000FBFE"
+      - "207C2BB4 00000000"
+
+  - name: "P4 Press L2+Select For Expired Shot Clock"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07BCA82 0000FEFE"
+      - "207C2BB4 447A0000"
+
+  - name: "P5 Press L1+Select For Full Shot Clock"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07BCC42 0000FBFE"
+      - "207C2BB4 00000000"
+
+  - name: "P5 Press L2+Select For Expired Shot Clock"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07BCC42 0000FEFE"
+      - "207C2BB4 447A0000"
+
+  - name: "P6 Press L1+Select For Full Shot Clock"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07BCE02 0000FBFE"
+      - "207C2BB4 00000000"
+
+  - name: "P6 Press L2+Select For Expired Shot Clock"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07BCE02 0000FEFE"
+      - "207C2BB4 447A0000"
+
+  - name: "P7 Press L1+Select For Full Shot Clock"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07BCFC2 0000FBFE"
+      - "207C2BB4 00000000"
+
+  - name: "P7 Press L2+Select For Expired Shot Clock"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07BCFC2 0000FEFE"
+      - "207C2BB4 447A0000"
+
+  - name: "P8 Press L1+Select For Full Shot Clock"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07BD182 0000FBFE"
+      - "207C2BB4 00000000"
+
+  - name: "P8 Press L2+Select For Expired Shot Clock"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07BD182 0000FEFE"
+      - "207C2BB4 447A0000"
+
+  - name: "Shot Clock Length X1/2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "207C2BA8 40F00000"
+
+  - name: "Shot Clock Length X2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "207C2BA8 41F00000"
+
+  - name: "Shot Clock Length X4"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "207C2BA8 42700000"
+
+  - name: "Unlock: All Big Shots"
+    author: "MadCatz"
+    codes:
+      - "20709B2C FFFFFFFF"
+
+  - name: "Unlock: All Cars"
+    author: "MadCatz"
+    codes:
+      - "20709B44 FFFFFFFF"
+      - "20709B48 FFFFFFFF"
+
+  - name: "Unlock: All Film Vault"
+    author: "MadCatz"
+    codes:
+      - "20709B7C FFFFFFFF"
+
+  - name: "Unlock: All Friends"
+    author: "MadCatz"
+    codes:
+      - "20709B28 FFFFFFFF"
+
+  - name: "Unlock: All Magazines"
+    author: "MadCatz"
+    codes:
+      - "20709B20 FFFFFFFF"
+
+  - name: "Unlock: All Midway"
+    author: "MadCatz"
+    codes:
+      - "20709B30 FFFFFFFF"
+
+  - name: "Unlock: All Sign A Ballers"
+    author: "MadCatz"
+    codes:
+      - "20709B04 FFFFFFFF"
+      - "20709B08 FFFFFFFF"
+      - "20709B0C FFFFFFFF"
+      - "20709B10 FFFFFFFF"
+      - "20709B14 FFFFFFFF"
+      - "20709B18 FFFFFFFF"
+      - "20709B1C FFFFFFFF"
+
+  - name: "P1 & P3 Never Score"
+    author: "Code Master"
+    notes: "[Use Only One of These Codes At A Time]"
+    codes:
+      - "200C0220 ACA00000"
+      - "200C0224 ACA00008"
+      - "200C0228 0809E6A1"
+      - "200C022C 8CA40000"
+      - "20279A80 08030088"
+
+  - name: "P1 Never Scores"
+    author: "Code Master"
+    notes: "[Use Only One of These Codes At A Time]"
+    codes:
+      - "200C0220 ACA00000"
+      - "200C0224 0809E6A1"
+      - "200C0228 8CA40000"
+      - "20279A80 08030088"
+
+  - name: "P1 Starts With 2"
+    author: "Code Master"
+    notes: "[Use Only One of These Codes At A Time]"
+    codes:
+      - "200C0220 8CA40000"
+      - "200C0224 54800001"
+      - "200C0228 24040002"
+      - "200C022C 0809E6A1"
+      - "200C0230 ACA40000"
+      - "20279A80 08030088"
+
+  - name: "P1 Starts With 5"
+    author: "Code Master"
+    notes: "[Use Only One of These Codes At A Time]"
+    codes:
+      - "200C0220 8CA40000"
+      - "200C0224 54800001"
+      - "200C0228 24040005"
+      - "200C022C 0809E6A1"
+      - "200C0230 ACA40000"
+      - "20279A80 08030088"
+
+  - name: "P1 Starts With 10"
+    author: "Code Master"
+    notes: "[Use Only One of These Codes At A Time]"
+    codes:
+      - "200C0220 8CA40000"
+      - "200C0224 54800001"
+      - "200C0228 2404000A"
+      - "200C022C 0809E6A1"
+      - "200C0230 ACA40000"
+      - "20279A80 08030088"
+
+  - name: "P2 & P3 Never Score"
+    author: "Code Master"
+    notes: "[Use Only One of These Codes At A Time]"
+    codes:
+      - "200C0220 ACA00004"
+      - "200C0224 ACA00008"
+      - "200C0228 0809E6A1"
+      - "200C022C 8CA40000"
+      - "20279A80 08030088"
+
+  - name: "P2 Never Scores"
+    author: "Code Master"
+    notes: "[Use Only One of These Codes At A Time]"
+    codes:
+      - "200C0220 ACA00004"
+      - "200C0224 0809E6A1"
+      - "200C0228 8CA40000"
+      - "20279A80 08030088"
+
+  - name: "P2 Starts With 2"
+    author: "Code Master"
+    notes: "[Use Only One of These Codes At A Time]"
+    codes:
+      - "200C0220 8CA40004"
+      - "200C0224 54800001"
+      - "200C0228 24040002"
+      - "200C022C 0809E6A1"
+      - "200C0230 ACA40004"
+      - "20279A80 08030088"
+
+  - name: "P2 Starts With 5"
+    author: "Code Master"
+    notes: "[Use Only One of These Codes At A Time]"
+    codes:
+      - "200C0220 8CA40004"
+      - "200C0224 54800001"
+      - "200C0228 24040005"
+      - "200C022C 0809E6A1"
+      - "200C0230 ACA40004"
+      - "20279A80 08030088"
+
+  - name: "P2 Starts With 10"
+    author: "Code Master"
+    notes: "[Use Only One of These Codes At A Time]"
+    codes:
+      - "200C0220 8CA40004"
+      - "200C0224 54800001"
+      - "200C0228 2404000A"
+      - "200C022C 0809E6A1"
+      - "200C0230 ACA40004"
+      - "20279A80 08030088"
+
+  - name: "P3 Never Scores"
+    author: "Code Master"
+    notes: "[Use Only One of These Codes At A Time]"
+    codes:
+      - "200C0220 ACA00008"
+      - "200C0224 0809E6A1"
+      - "200C0228 8CA40000"
+      - "20279A80 08030088"
+
+  - name: "P3 Starts With 2"
+    author: "Code Master"
+    notes: "[Use Only One of These Codes At A Time]"
+    codes:
+      - "200C0220 8CA40008"
+      - "200C0224 54800001"
+      - "200C0228 24040002"
+      - "200C022C 0809E6A1"
+      - "200C0230 ACA40008"
+      - "20279A80 08030088"
+
+  - name: "P3 Starts With 5"
+    author: "Code Master"
+    notes: "[Use Only One of These Codes At A Time]"
+    codes:
+      - "200C0220 8CA40008"
+      - "200C0224 54800001"
+      - "200C0228 24040005"
+      - "200C022C 0809E6A1"
+      - "200C0230 ACA40008"
+      - "20279A80 08030088"
+
+  - name: "P3 Starts With 10"
+    author: "Code Master"
+    notes: "[Use Only One of These Codes At A Time]"
+    codes:
+      - "200C0220 8CA40008"
+      - "200C0224 54800001"
+      - "200C0228 2404000A"
+      - "200C022C 0809E6A1"
+      - "200C0230 ACA40008"
+      - "20279A80 08030088"
+
+  - name: "Player 1 Wins After One Shoot"
+    author: "Codejunkies"
+    notes: "[You Must Have 'Player 2 Never Scores' Code On In Order To Use The Following Code]"
+    codes:
+      - "200FFF0C 2402000C"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901190AC 0C043876"
+
+  - name: "Signing A Baller Doesnt Decrease Balance"
+    author: "Code Master"
+    notes: "[Inside Stuff Codes]"
+    codes:
+      - "2029C47C 00000000"
+      - "2029C484 00000000"
+
+  - name: "Buying Cribs Doesnt Decrease Balance"
+    author: "Code Master"
+    notes: "[Inside Stuff Codes]"
+    codes:
+      - "2029C824 00000000"
+      - "2029C830 00000000"
+
+  - name: "Buying Cars Doesnt Decrease Balance"
+    author: "Code Master"
+    notes: "[Inside Stuff Codes]"
+    codes:
+      - "203A72D8 00000000"
+      - "203A72DC 00000000"

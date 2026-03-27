@@ -1,0 +1,22 @@
+# Blazblue_ Continuum Shift EXTEND cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM60394
+
+game: "Blazblue_ Continuum Shift EXTEND"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM60394"
+cheat_type: "AP"
+source: "aldotools"
+
+cheats:
+  - name: "Update Wadd For System.dat (required)"
+    notes: "File: SYSTEM.DAT  (set [csum]:wadd(0x000004,0x0E89E7))"
+    codes:
+      - "set [csum]:0"
+      - "carry(2)"
+      - "set pointer:eof+1"
+      - "set [csum]:wadd(0x000004,pointer)"
+      - "set [csum]:xor:FFFF"
+      - "write at 0x000000:[csum]"

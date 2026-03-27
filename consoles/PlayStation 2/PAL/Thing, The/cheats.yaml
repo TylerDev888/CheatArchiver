@@ -1,0 +1,78 @@
+# Thing, The cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50975
+
+game: "Thing, The"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50975"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0133850 00133867"
+
+  - name: "Ammo Increase When Used"
+    author: "Codejunkies"
+    codes:
+      - "2050A6D4 20630001"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "2050A6D0 240303E7"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "20419184 3C0141F0"
+      - "2041918C 44810000"
+      - "20419194 AE01009C"
+
+  - name: "Infinite Health (Press Select+Up To Activate And Select+Down To De-Activate)"
+    author: "Codejunkies"
+    codes:
+      - "200FFF00 3C0100C2"
+      - "200FFF04 8C2191E0"
+      - "200FFF0C 10010004"
+      - "200FFF08 3C0341F0"
+      - "200FFF18 AC23009C"
+      - "200FFF28 24030070"
+      - "200FFF2C 0804CE04"
+      - "D09A8DC2 0000FFEE"
+      - "2013380C 0803FFC0"
+      - "D09A8DC2 0000FFBE"
+      - "2013380C 24030070"
+
+  - name: "Level Select (Start A New Game To Activate This Code)"
+    author: "Codejunkies"
+    codes:
+      - "10691BC4 00005A98"
+
+  - name: "Maniac Runner"
+    author: "Codejunkies"
+    codes:
+      - "2043F240 3C024040"
+      - "2043F238 00000000"
+
+  - name: "Max Ammo (Press R3 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D09A8DC2 0000FFFF"
+      - "2050A9A4 8C620010"
+      - "D09A8DC2 0000FFFF"
+      - "2050A9A8 00000000"
+      - "D09A8DC2 0000FFFB"
+      - "2050A9A4 2402270F"
+      - "D09A8DC2 0000FFFB"
+      - "2050A9A8 AC620010"
+
+  - name: "Never Cold"
+    author: "Codejunkies"
+    codes:
+      - "20419630 44800000"

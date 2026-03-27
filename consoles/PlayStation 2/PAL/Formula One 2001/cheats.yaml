@@ -1,0 +1,153 @@
+# Formula One 2001 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-50004
+
+game: "Formula One 2001"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-50004"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01F9E54 000001FD"
+
+  - name: "98 Laps (Quick Race)"
+    author: "Codejunkies"
+    notes: "[Lap Codes]"
+    codes:
+      - "1029EF3C 00000062"
+      - "1029E800 00000062"
+
+  - name: "Start On Last Lap (Quick Race)"
+    author: "Codejunkies"
+    notes: "[Lap Codes]"
+    codes:
+      - "1029EF3C 00000000"
+      - "1029E800 00000000"
+
+  - name: "BAR Honda"
+    author: "InterAct"
+    notes: "[Lots of Const Points Codes]"
+    codes:
+      - "20397D7C 0000270F"
+
+  - name: "Points - Benetton-Renault"
+    author: "Codejunkies"
+    codes:
+      - "20399A2C 0000270F"
+
+  - name: "Points - D Coulthard"
+    author: "Codejunkies"
+    codes:
+      - "20398074 0000270F"
+
+  - name: "Points - E Irvine"
+    author: "Codejunkies"
+    codes:
+      - "20398194 0000270F"
+
+  - name: "Points - Ferrari"
+    author: "Codejunkies"
+    codes:
+      - "20399C3C 0000270F"
+
+  - name: "Points - G Fisichella"
+    author: "Codejunkies"
+    codes:
+      - "203982B4 0000270F"
+
+  - name: "Points - G Mazzacane"
+    author: "Codejunkies"
+    codes:
+      - "203983D4 0000270F"
+
+  - name: "Points - H Frentzen"
+    author: "Codejunkies"
+    codes:
+      - "203984F4 0000270F"
+
+  - name: "Points - J Alesi"
+    author: "Codejunkies"
+    codes:
+      - "20398614 0000270F"
+
+  - name: "Points - J Button"
+    author: "Codejunkies"
+    codes:
+      - "20398734 0000270F"
+
+  - name: "Points - J Montoya"
+    author: "Codejunkies"
+    codes:
+      - "20399424 0000270F"
+
+  - name: "Points - J Trulli"
+    author: "Codejunkies"
+    codes:
+      - "20398974 0000270F"
+
+  - name: "Points - J Verstappen"
+    author: "Codejunkies"
+    codes:
+      - "20398A94 0000270F"
+
+  - name: "Points - J Villeneuve"
+    author: "Codejunkies"
+    codes:
+      - "20398BB4 0000270F"
+
+  - name: "Points - Jordan Honda"
+    author: "Codejunkies"
+    codes:
+      - "2039A20C 0000270F"
+
+  - name: "Points - L Burti"
+    author: "Codejunkies"
+    codes:
+      - "20398CD4 0000270F"
+
+  - name: "Points - M Hakkinen"
+    author: "Codejunkies"
+    codes:
+      - "20398DF4 0000270F"
+
+  - name: "Points - M Schumacher"
+    author: "Codejunkies"
+    codes:
+      - "20398F14 0000270F"
+
+  - name: "Points - Mclaren Mercedes"
+    author: "Codejunkies"
+    codes:
+      - "2039A42C 0000270F"
+
+  - name: "Points - N Heidfeld"
+    author: "Codejunkies"
+    codes:
+      - "20399034 0000270F"
+
+  - name: "Points - O Panis"
+    author: "Codejunkies"
+    codes:
+      - "20398854 0000270F"
+
+  - name: "Points - R Barrichello"
+    author: "Codejunkies"
+    codes:
+      - "20399154 0000270F"
+
+  - name: "Points - R Schumacher"
+    author: "Codejunkies"
+    codes:
+      - "20399274 0000270F"
+
+  - name: "Points - Williams BMW"
+    author: "Codejunkies"
+    codes:
+      - "2039ABEC 0000270F"

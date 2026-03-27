@@ -1,0 +1,42 @@
+# Wall-E cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-55186
+
+game: "Wall-E"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-55186"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code(MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "903DFB30 0C0F7E74"
+
+  - name: "Pal2ntsc"
+    notes: "[Misc Codes]"
+    codes:
+      - "203DA958 24120002"
+
+  - name: "Have 65536 Points"
+    notes: "[Misc Codes]"
+    codes:
+      - "20578370 3C020001"
+      - "20578374 AC820068"
+      - "20578378 03E00008"
+      - "2057837C 8C820068"
+
+  - name: "Inf Health"
+    notes: "[Misc Codes]"
+    codes:
+      - "205784B4 C4800008"
+      - "005784C2 00000080"
+
+  - name: "Inf Beam"
+    notes: "[Misc Codes]"
+    codes:
+      - "20578574 C4800018"
+      - "00578582 00000080"

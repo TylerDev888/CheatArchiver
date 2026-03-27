@@ -1,0 +1,30 @@
+# Fragments Blue cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66203
+
+game: "Fragments Blue"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66203"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010ECD0 0C043ADC"
+
+  - name: "Unlock All Album"
+    author: "punk7890"
+    codes:
+      - "40297450 00050001"
+      - "FFFFFFFF 00000000"
+      - "10297464 0000FFFF"
+
+  - name: "Unlock All Sound"
+    author: "punk7890"
+    codes:
+      - "00297ED0 000000FF"

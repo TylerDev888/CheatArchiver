@@ -1,0 +1,104 @@
+# Fallout - Brotherhood Of Steel cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51526
+
+game: "Fallout - Brotherhood Of Steel"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51526"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100198 0010019B"
+
+  - name: "60 Hertz"
+    author: "Codejunkies"
+    codes:
+      - "201B8170 24120002"
+
+  - name: "Disable A.I. (Ignore Enemy)"
+    author: "Codejunkies"
+    codes:
+      - "20109AEC 24020001"
+
+  - name: "1000 XP Per Kill"
+    author: "Codejunkies"
+    notes: "[Experience Codes]"
+    codes:
+      - "200FFF00 3C01447A"
+      - "200FFF04 44816000"
+      - "200FFF08 460C0000"
+      - "200FFF0C 08053DCC"
+      - "2014F72C 0803FFC0"
+
+  - name: "10000 XP Per Kill"
+    author: "Codejunkies"
+    notes: "[Experience Codes]"
+    codes:
+      - "200FFF00 3C01461C"
+      - "200FFF04 44816000"
+      - "200FFF08 460C0000"
+      - "200FFF0C 08053DCC"
+      - "2014F72C 0803FFC0"
+
+  - name: "100000 XP Per Kill"
+    author: "Codejunkies"
+    notes: "[Experience Codes]"
+    codes:
+      - "200FFF00 3C0147C3"
+      - "200FFF04 44816000"
+      - "200FFF08 460C0000"
+      - "200FFF0C 08053DCC"
+      - "2014F72C 0803FFC0"
+
+  - name: "Over 2,000,000,000 XP After 1 Kill"
+    author: "Codejunkies"
+    notes: "[Experience Codes]"
+    codes:
+      - "2014F728 3C014F00"
+      - "2014F72C 44810000"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "201A9534 00000000"
+
+  - name: "Infinite Caps"
+    author: "Codejunkies"
+    codes:
+      - "201685CC 0C03FFD0"
+      - "201685D0 3C060090"
+      - "200FFF40 AC660824"
+      - "200FFF44 08071D42"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "2015AB78 E6620054"
+
+  - name: "Infinite Skill Pts Use"
+    author: "Codejunkies"
+    notes: "[Skill Pts Codes]"
+    codes:
+      - "2016C370 00000000"
+
+  - name: "Skill Pts Increase When Used"
+    author: "Codejunkies"
+    notes: "[Skill Pts Codes]"
+    codes:
+      - "2016C370 46010000"
+
+  - name: "Y Fix"
+    author: "Codejunkies"
+    codes:
+      - "201B87A8 0803FFE0"
+      - "200FFF80 3C010003"
+      - "200FFF84 0061182F"
+      - "200FFF88 FCA30000"
+      - "200FFF8C 0806E1EB"

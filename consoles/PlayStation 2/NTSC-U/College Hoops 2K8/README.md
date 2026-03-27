@@ -1,0 +1,53 @@
+# College Hoops 2K8
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-21673  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Disable Icon Passing
+**Author:** nolberto82
+
+```
+20318324 1000005D
+```
+
+---
+
+### Score From Anywhere
+**Author:** nolberto82
+
+```
+200A0000 4600E346
+200A0004 3C080085
+200A0008 95083A80
+200A000C 31090800
+200A0010 11200002
+200A0014 3C0A4700
+200A0018 448A8000
+200A001C 08096A05
+2025A80C 08028000
+```
+
+---
+
+### Steal From Anywhere
+**Author:** nolberto82
+
+```
+20238E88 0040802D
+20238EA0 02021024
+20298970 4600A528
+20298974 4616A529
+E0040000 30853C16
+20238E88 34100001
+20238EA0 34020001
+20298970 3C084700
+20298974 4488A000
+```
+
+---

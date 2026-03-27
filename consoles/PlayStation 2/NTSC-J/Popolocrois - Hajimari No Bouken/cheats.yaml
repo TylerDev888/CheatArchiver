@@ -1,0 +1,24 @@
+# Popolocrois - Hajimari No Bouken cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SCPS 15027
+
+game: "Popolocrois - Hajimari No Bouken"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SCPS 15027"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90113E18 0C044F2E"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9011A76C 0C049760"

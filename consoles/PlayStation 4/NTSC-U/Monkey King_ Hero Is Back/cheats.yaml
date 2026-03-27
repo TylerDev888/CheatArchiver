@@ -1,0 +1,32 @@
+# Monkey King_ Hero Is Back cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA16311
+
+game: "Monkey King_ Hero Is Back"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA16311"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Vitality Pill (X large) Max"
+    author: "Zeraf3000"
+    notes: "File: ue4Game\\d+\\ue4savegame.ps4.sav"
+    codes:
+      - "80010019 45436F6E"
+      - "73756D65 4974656D"
+      - "49443A3A 50696C6C"
+      - "48505F58 4C000000"
+      - "08000064 000000FF"
+
+  - name: "Magic Medicine (X Large) Max"
+    author: "Zeraf3000"
+    notes: "File: ue4Game\\d+\\ue4savegame.ps4.sav"
+    codes:
+      - "80010019 45436F6E"
+      - "73756D65 4974656D"
+      - "49443A3A 50696C6C"
+      - "4D505F58 4C000000"
+      - "08000064 000000FF"

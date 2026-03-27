@@ -1,0 +1,80 @@
+# Trapt cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53824
+
+game: "Trapt"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53824"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F013E724 0013E727"
+
+  - name: "Charge Time Do Not Decrease Upon Use"
+    author: "Codejunkies"
+    notes: "[Charge Time Codes]"
+    codes:
+      - "203182AC 00000000"
+
+  - name: "Instant Charge Time"
+    author: "Codejunkies"
+    notes: "[Charge Time Codes]"
+    codes:
+      - "20256F34 A6230020"
+      - "20256F38 00000000"
+
+  - name: "Giant Allura"
+    author: "Codejunkies"
+    notes: "[Size Modifier Codes]"
+    codes:
+      - "200FFF00 3C010081"
+      - "200FFF04 8C212330"
+      - "200FFF08 3C043FF0"
+      - "200FFF0C AC240134"
+      - "200FFF10 AC240130"
+      - "200FFF14 AC240138"
+      - "200FFF18 0807F8BC"
+      - "200FFF1C 3C043F80"
+      - "201FE2E8 0803FFC0"
+
+  - name: "Mini Allura"
+    author: "Codejunkies"
+    notes: "[Size Modifier Codes]"
+    codes:
+      - "200FFF00 3C010081"
+      - "200FFF04 8C212330"
+      - "200FFF08 3C043F20"
+      - "200FFF0C AC240134"
+      - "200FFF10 AC240130"
+      - "200FFF14 AC240138"
+      - "200FFF18 0807F8BC"
+      - "200FFF1C 3C043F80"
+      - "201FE2E8 0803FFC0"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "20176B58 00000000"
+
+  - name: "Infinite Time (Survival)"
+    author: "Codejunkies"
+    codes:
+      - "201719B8 00000000"
+
+  - name: "Max Warl"
+    author: "Codejunkies"
+    codes:
+      - "202BC510 3C0405F0"
+      - "202BC514 AC440038"
+
+  - name: "One Hit Kills"
+    author: "Codejunkies"
+    codes:
+      - "2016CD94 24030000"

@@ -1,0 +1,20 @@
+# Sonic & Sega All-Stars Racing cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00750
+
+game: "Sonic & Sega All-Stars Racing"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00750"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Dwadd For Profile.dat (required)"
+    notes: "File: PROFILE.DAT  (set [csum]:dwadd(0x000004,0x0A5FFF))"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof+1"
+      - "set [csum]:dwadd(0x000004,pointer)"
+      - "write at 0x000000:[csum]"

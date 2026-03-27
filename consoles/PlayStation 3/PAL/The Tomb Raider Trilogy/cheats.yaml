@@ -1,0 +1,26 @@
+# The Tomb Raider Trilogy cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01195
+
+game: "The Tomb Raider Trilogy"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01195"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Unlock All"
+    notes: "[Tomb Raider Legend]  File: PROFILE.DAT"
+    codes:
+      - "42000160 FFFFFFFF"
+      - "409B0004 00000000"
+      - "420003D0 FFFFFFFF"
+      - "40160004 00000000"
+
+  - name: "Unlock Almost All *this Don't Unlock The Cheats From The Game"
+    notes: "[Tomb Raider Anniversary]  File: PROFILE.DAT"
+    codes:
+      - "42000040 FFFFFFFF"
+      - "40D90004 00000000"

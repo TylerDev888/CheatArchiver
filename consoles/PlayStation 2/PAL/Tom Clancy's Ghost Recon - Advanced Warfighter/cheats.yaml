@@ -1,0 +1,56 @@
+# Tom Clancy's Ghost Recon - Advanced Warfighter cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53763
+
+game: "Tom Clancy's Ghost Recon - Advanced Warfighter"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53763"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F014B45C 0014B45F"
+      - "E002FFF0 006CE7C0"
+      - "D06CE7C2 000027BD"
+      - "206CE7C0 03E00008"
+
+  - name: "Display FPS Info"
+    author: "Codejunkies"
+    codes:
+      - "20352504 00000000"
+
+  - name: "Dumb A.I."
+    author: "Codejunkies"
+    codes:
+      - "20232834 24020000"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "10105DA0 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "204C4CC0 0C03FFC0"
+      - "200FFF00 24010064"
+      - "200FFF04 AEA10384"
+      - "200FFF08 02A0502D"
+      - "200FFF0C 03E00008"
+
+  - name: "No Enemies"
+    author: "Codejunkies"
+    codes:
+      - "203FF8D8 00000000"
+
+  - name: "Open All Missions"
+    author: "Codejunkies"
+    codes:
+      - "007B560C 00000016"
+      - "007B5610 00000001"

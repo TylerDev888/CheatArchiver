@@ -1,0 +1,17 @@
+# CastleStorm (PSN) cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUB30537
+
+game: "CastleStorm (PSN)"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUB30537"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Max Money"
+    notes: "File: PROFILE.DAT"
+    codes:
+      - "write at 0x0000000D:0x3B9AC9FF"

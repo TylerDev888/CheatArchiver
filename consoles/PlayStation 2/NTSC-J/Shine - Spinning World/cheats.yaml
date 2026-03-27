@@ -1,0 +1,24 @@
+# Shine - Spinning World cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65120
+
+game: "Shine - Spinning World"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65120"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010D2D8 0C04345E"
+
+  - name: "Unlock All Album"
+    author: "punk7890"
+    codes:
+      - "20291604 FFFFFFFF"
+      - "20291608 FFFFFFFF"

@@ -1,0 +1,42 @@
+# Iinazuke [Limited Edition] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66732
+
+game: "Iinazuke [Limited Edition]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66732"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90193138 0C064BF6"
+
+  - name: "Press L3 For Texture Viewer, R3 To Disable"
+    author: "punk7890"
+    codes:
+      - "2015BB9C 0C0553F6"
+      - "00155018 00000014"
+      - "D055AAF2 0000FFFD"
+      - "0022C6C8 00000001"
+      - "D055AAF2 0000FFFB"
+      - "0022C6C8 00000000"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "401B4ED0 00050001"
+      - "FFFFFFFF 00000000"
+      - "101B4EE4 0000FFFF"
+
+  - name: "Unlock Omake Menu & Memories"
+    author: "punk7890"
+    codes:
+      - "101B4EF2 0000FFFF"
+      - "401B4EF4 00040001"
+      - "FFFFFFFF 00000000"

@@ -1,0 +1,23 @@
+# Aces Of War cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52532
+
+game: "Aces Of War"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52532"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90110BB0 0C044294"
+
+  - name: "Enable Debug Menu At Boot"
+    author: "punk7890"
+    codes:
+      - "0016AD5C 00000000"

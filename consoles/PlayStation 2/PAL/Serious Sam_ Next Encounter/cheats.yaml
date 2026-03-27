@@ -1,0 +1,76 @@
+# Serious Sam_ Next Encounter cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Serious Sam_ Next Encounter"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "902C8BEC 0C0BEAB2"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C2000 46000306"
+      - "200C2004 03E00008"
+      - "200C2008 E60C00F0"
+      - "2020E158 0C030800"
+
+  - name: "Armour"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2020E20C E60003D8"
+      - "2020ED24 4600A306"
+
+  - name: "Ammunition"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "201B2EB0 00000000"
+      - "201B2E8C 00000000"
+      - "201B2E64 00000000"
+
+  - name: "Oxygen"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20204F80 4600A846"
+
+  - name: "Vehicle Fuel"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C2020 C460015C"
+      - "200C2024 46000306"
+      - "200C2028 03E00008"
+      - "200C202C E4600158"
+      - "20205974 0C030808"
+
+  - name: "All Weapons"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "202258C4 24030001"
+      - "201FD79C 24020001"
+
+  - name: "All Levels"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "2025DD00 24020029"
+
+  - name: "Gold Medal"
+    author: "Xploder"
+    notes: "[Always]"
+    codes:
+      - "20210960 E60206D8"

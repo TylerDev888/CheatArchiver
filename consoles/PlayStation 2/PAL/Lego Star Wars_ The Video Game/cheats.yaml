@@ -1,0 +1,67 @@
+# Lego Star Wars_ The Video Game cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Lego Star Wars_ The Video Game"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "902B2050 0C0BEB16"
+      - "200C2000 00771021"
+      - "200C2004 24030001"
+      - "200C2008 03E00008"
+      - "200C200C A0430073"
+
+  - name: "Health (Both Players)"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2010 24130004"
+      - "200C2014 03E00008"
+      - "200C2018 A0931061"
+      - "2025FA24 0C030804"
+
+  - name: "Each Stud Gives Max Studs"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "2025D68C 3C0205F5"
+      - "2025D690 3442E0FF"
+      - "2025D694 AC820140"
+
+  - name: "Total Studs"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "2054791C 05F5E0FF"
+
+  - name: "All Hints"
+    author: "Xploder"
+    notes: "[View Bar Items to Unlock]"
+    codes:
+      - "202DD4C0 0C030800"
+      - "202DD4C4 005E1818"
+
+  - name: "All Characters"
+    author: "Xploder"
+    notes: "[View Bar Items to Unlock]"
+    codes:
+      - "202DD79C 24030001"
+      - "202DD7A4 A0430073"
+      - "2022FD44 24020001"
+
+  - name: "All Extras"
+    author: "Xploder"
+    notes: "[View Bar Items to Unlock]"
+    codes:
+      - "10547918 0000FFFF"
+      - "202DDB94 0C030800"
+      - "202DDB98 005E1818"

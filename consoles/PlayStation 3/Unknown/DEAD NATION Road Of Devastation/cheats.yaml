@@ -1,0 +1,112 @@
+# DEAD NATION Road Of Devastation cheat data
+# Console: PlayStation 3
+# Region:  Unknown
+# Serial:  NPEA00143
+
+game: "DEAD NATION Road Of Devastation"
+console: "PlayStation 3"
+region: "Unknown"
+serial: "NPEA00143"
+cheat_type: "Save Editor"
+source: "From startuga (Using BSD's Patch Creator)"
+
+cheats:
+  - name: "999999999 Money"
+    notes: "[Unlimited Ammo And Max Items Single Player]  File: SAVEDATA.DAT"
+    codes:
+      - "write at 0x005D07:3B9AC9FF"
+      - "write at 0x001816:3B9AC9FF"
+
+  - name: "Unlimited Ammo Assault Rifle"
+    notes: "[Unlimited Ammo And Max Items Single Player]  File: SAVEDATA.DAT"
+    codes:
+      - "write at 0x005D5B:03E7FFFF"
+      - "write at 0x00186A:03E7FFFF"
+
+  - name: "Unlimited Ammo Smg"
+    notes: "[Unlimited Ammo And Max Items Single Player]  File: SAVEDATA.DAT"
+    codes:
+      - "write at 0x005D7B:03E7FFFF"
+      - "write at 0x00188A:03E7FFFF"
+
+  - name: "Unlimited Ammo Shotgun"
+    notes: "[Unlimited Ammo And Max Items Single Player]  File: SAVEDATA.DAT"
+    codes:
+      - "write at 0x005D9B:03E7FFFF"
+      - "write at 0x0018AA:03E7FFFF"
+
+  - name: "Unlimited Ammo Flamethrower"
+    notes: "[Unlimited Ammo And Max Items Single Player]  File: SAVEDATA.DAT"
+    codes:
+      - "write at 0x005DBB:03E7FFFF"
+      - "write at 0x0018CA:03E7FFFF"
+
+  - name: "Unlimited Ammo Blade Cannon"
+    notes: "[Unlimited Ammo And Max Items Single Player]  File: SAVEDATA.DAT"
+    codes:
+      - "write at 0x005DDB:03E7FFFF"
+      - "write at 0x0018EA:03E7FFFF"
+
+  - name: "Unlimited Ammo Launcher"
+    notes: "[Unlimited Ammo And Max Items Single Player]  File: SAVEDATA.DAT"
+    codes:
+      - "write at 0x005DFB:03E7FFFF"
+      - "write at 0x00190A:03E7FFFF"
+
+  - name: "Unlimited Ammo Shocker"
+    notes: "[Unlimited Ammo And Max Items Single Player]  File: SAVEDATA.DAT"
+    codes:
+      - "write at 0x005E1B:03E7FFFF"
+      - "write at 0x00192A:03E7FFFF"
+
+  - name: "999 Ammo Flare"
+    notes: "[Unlimited Ammo And Max Items Single Player]  File: SAVEDATA.DAT"
+    codes:
+      - "write at 0x005E3B:03E7"
+      - "write at 0x00194A:03E7"
+
+  - name: "999 Ammo Grenade"
+    notes: "[Unlimited Ammo And Max Items Single Player]  File: SAVEDATA.DAT"
+    codes:
+      - "write at 0x005E5B:03E7"
+      - "write at 0x00196A:03E7"
+
+  - name: "999 Ammo Mine"
+    notes: "[Unlimited Ammo And Max Items Single Player]  File: SAVEDATA.DAT"
+    codes:
+      - "write at 0x005E7B:03E7"
+      - "write at 0x00198A:03E7"
+
+  - name: "999 Ammo Molotov"
+    notes: "[Unlimited Ammo And Max Items Single Player]  File: SAVEDATA.DAT"
+    codes:
+      - "write at 0x005E9B:03E7"
+      - "write at 0x0019AA:03E7"
+
+  - name: "999 Ammo Dynamite"
+    notes: "[Unlimited Ammo And Max Items Single Player]  File: SAVEDATA.DAT"
+    codes:
+      - "write at 0x005EBB:03E7"
+      - "write at 0x0019CA:03E7"
+
+  - name: "Max Money"
+    author: "chaoszage"
+    notes: "[Dlc Only]  File: SAVEDATA.DAT"
+    codes:
+      - "20004004 7FFFFFFF"
+
+  - name: "All Ammo Max"
+    notes: "[Dlc Only]  File: SAVEDATA.DAT"
+    codes:
+      - "41004058 00007FFF"
+      - "400C0020 00000000"
+
+  - name: "16777215 Money For Local Co-op Player 1"
+    notes: "[Others]  File: SAVEDATA.DAT"
+    codes:
+      - "write at 0x00002556:00FFFFFF"
+
+  - name: "16777215 Money For Local Co-op Player 2"
+    notes: "[Others]  File: SAVEDATA.DAT"
+    codes:
+      - "write at 0x00002756:00FFFFFF"

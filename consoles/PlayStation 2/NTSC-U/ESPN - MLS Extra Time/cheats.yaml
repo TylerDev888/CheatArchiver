@@ -1,0 +1,116 @@
+# ESPN - MLS Extra Time cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20128
+
+game: "ESPN - MLS Extra Time"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20128"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0115B78 00115B7B"
+
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0115B78 000001FD"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001DFD37"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "0035606C 000000??"
+
+  - name: "Away Team Start With Score Modifier"
+    author: "Code Master"
+    codes:
+      - "D035606C 00000000"
+      - "0035606C 000000??"
+
+  - name: "End Half (Press R3 To Activate)"
+    author: "InterAct"
+    codes:
+      - "D03561A6 00000400"
+      - "20320620 00000000"
+      - "D03561A6 00000400"
+      - "20356280 00000000"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "0035606B 000000??"
+
+  - name: "Home Team Start With Score Modifier"
+    author: "Code Master"
+    codes:
+      - "D035606A 00000000"
+      - "0035606B 000000??"
+
+  - name: "P1 Press L1+L2 To End The Half"
+    author: "Code Master"
+    codes:
+      - "D03062C2 0000FAFF"
+      - "20356280 00000000"
+
+  - name: "P1 Press R1+R2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D03062C2 0000F5FF"
+      - "20356280 00002328"
+
+  - name: "P2 Press L1+L2 To End The Half"
+    author: "Code Master"
+    codes:
+      - "D0306442 0000FAFF"
+      - "20356280 00000000"
+
+  - name: "P2 Press R1+R2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D0306442 0000F5FF"
+      - "20356280 00002328"
+
+  - name: "P3 Press L1+L2 To End The Half"
+    author: "Code Master"
+    codes:
+      - "D03065C2 0000FAFF"
+      - "20356280 00000000"
+
+  - name: "P3 Press R1+R2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D03065C2 0000F5FF"
+      - "20356280 00002328"
+
+  - name: "P4 Press L1+L2 To End The Half"
+    author: "Code Master"
+    codes:
+      - "D0306742 0000FAFF"
+      - "20356280 00000000"
+
+  - name: "P4 Press R1+R2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D0306742 0000F5FF"
+      - "20356280 00002328"
+
+  - name: "Press L3 To Reset Time To 0"
+    author: "InterAct"
+    codes:
+      - "D03561A6 00000200"
+      - "20320620 00002328"
+      - "D03561A6 00000200"
+      - "20356280 00002328"

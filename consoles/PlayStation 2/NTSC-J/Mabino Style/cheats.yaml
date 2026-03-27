@@ -1,0 +1,24 @@
+# Mabino Style cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM 65940
+
+game: "Mabino Style"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM 65940"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9010FC10 0C043EAC"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9027F1A8 0C049660"

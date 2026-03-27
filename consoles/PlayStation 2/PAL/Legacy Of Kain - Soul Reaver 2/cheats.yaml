@@ -1,0 +1,99 @@
+# Legacy Of Kain - Soul Reaver 2 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50196
+
+game: "Legacy Of Kain - Soul Reaver 2"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50196"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01A8D90 000001FD"
+
+  - name: "Ghostly Guards"
+    author: "Codejunkies"
+    notes: "[Raziel Size Modifiers]"
+    codes:
+      - "202859D8 00000000"
+      - "20279CC8 00000000"
+      - "20285D48 00000000"
+      - "202860B8 00000000"
+
+  - name: "Ghostly Raziel"
+    author: "Codejunkies"
+    notes: "[Raziel Size Modifiers]"
+    codes:
+      - "2026F458 00002000"
+
+  - name: "Massive Guard 1"
+    author: "Codejunkies"
+    notes: "[Raziel Size Modifiers]"
+    codes:
+      - "20285870 40800000"
+      - "20285874 3FF00000"
+      - "20285878 3FF00000"
+
+  - name: "Massive Guard 2"
+    author: "Codejunkies"
+    notes: "[Raziel Size Modifiers]"
+    codes:
+      - "20279B60 40800000"
+      - "20279B64 40800000"
+      - "20279B68 40800000"
+
+  - name: "Massive Guard 3"
+    author: "Codejunkies"
+    notes: "[Raziel Size Modifiers]"
+    codes:
+      - "20285BE0 40800000"
+      - "20285BE4 40800000"
+      - "20285BE8 40800000"
+
+  - name: "Massive Guard 4"
+    author: "Codejunkies"
+    notes: "[Raziel Size Modifiers]"
+    codes:
+      - "20285F50 40800000"
+      - "20285F54 40800000"
+      - "20285F58 40800000"
+
+  - name: "Massive Raziel"
+    author: "Codejunkies"
+    notes: "[Raziel Size Modifiers]"
+    codes:
+      - "2026F2F0 3FE00000"
+      - "2026F2F4 3FE00000"
+      - "2026F2F8 3FE00000"
+
+  - name: "Midget Raziel"
+    author: "Codejunkies"
+    notes: "[Raziel Size Modifiers]"
+    codes:
+      - "2026F2F0 3F000000"
+      - "2026F2F4 3F000000"
+      - "2026F2F8 3F000000"
+
+  - name: "Ghostly Guards (First 4)"
+    author: "InterAct"
+    codes:
+      - "202859D8 00000A00"
+      - "20279CC8 00000A00"
+      - "20285D48 00000A00"
+      - "202860B8 00000A00"
+
+  - name: "Invincible"
+    author: "InterAct"
+    codes:
+      - "2023DDD4 00000000"
+
+  - name: "Joe Pasquale Mode"
+    author: "InterAct"
+    codes:
+      - "2023D850 3FF00000"

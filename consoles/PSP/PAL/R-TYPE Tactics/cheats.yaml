@@ -1,0 +1,27 @@
+# R-TYPE Tactics cheat data
+# Console: PSP
+# Region:  PAL
+# Serial:  ULES01121
+
+game: "R-TYPE Tactics"
+console: "PSP"
+region: "PAL"
+serial: "ULES01121"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Solmonadium 999"
+    notes: "File: *"
+    codes:
+      - "100912D0 000003E7"
+
+  - name: "Etherium 999"
+    notes: "File: *"
+    codes:
+      - "100912D4 000003E7"
+
+  - name: "Baidolgen 999"
+    notes: "File: *"
+    codes:
+      - "100912D8 000003E7"

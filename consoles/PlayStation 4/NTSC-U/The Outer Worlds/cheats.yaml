@@ -1,0 +1,53 @@
+# The Outer Worlds cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA16285
+
+game: "The Outer Worlds"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA16285"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Max Stats - Bonus are still only Set by game"
+    author: "༼༻_Almighty_༺༽"
+    notes: "File: (TheOuterWorlds|Autosave)[0-9a-zA-Z]{1,4}\\savegame.dat"
+    codes:
+      - "80010011 43534846"
+      - "00020000 00010000"
+      - "00020000 00000000"
+      - "8802000A 01FFFFFF"
+      - "FF010000 00000000"
+      - "88020004 00000012"
+      - "4A000004 0000270F"
+      - "40120004 00000000"
+      - "80010011 43534846"
+      - "00020000 00010000"
+      - "00020000 00000000"
+      - "8801000A 01FFFFFF"
+      - "FF010000 00000000"
+      - "88020004 00000012"
+      - "4A000004 0000270F"
+      - "40120004 00000000"
+
+  - name: "Max EXP"
+    author: "༼༻_Almighty_༺༽"
+    notes: "File: (TheOuterWorlds|Autosave)[0-9a-zA-Z]{1,4}\\savegame.dat"
+    codes:
+      - "80010011 43534846"
+      - "00020000 00010000"
+      - "00020000 00000000"
+      - "8801000A 01FFFFFF"
+      - "FF010000 00000000"
+      - "2800000B 05F5E0FF"
+
+  - name: "Max level Past 30 - Really Only For looks"
+    author: "༼༻_Almighty_༺༽"
+    notes: "File: (TheOuterWorlds|Autosave)[0-9a-zA-Z]{1,4}\\savegame.dat"
+    codes:
+      - "80010011 43534846"
+      - "00020000 00010000"
+      - "00020000 00000000"
+      - "28000018 00000063"

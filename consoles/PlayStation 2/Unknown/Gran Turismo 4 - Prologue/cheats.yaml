@@ -1,0 +1,78 @@
+# Gran Turismo 4 - Prologue cheat data
+# Console: PlayStation 2
+# Region:  Unknown
+# Serial:  PBPX-95524
+
+game: "Gran Turismo 4 - Prologue"
+console: "PlayStation 2"
+region: "Unknown"
+serial: "PBPX-95524"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Nachbrenner"
+    notes: "[Master Codes]"
+    codes:
+      - "F0106AE0 0000000E"
+
+  - name: "Disable Arcade Crash Penalty"
+    author: "Nachbrenner"
+    codes:
+      - "202ECAF8 70002C28"
+
+  - name: "Disable HUD (Arcade Mode)"
+    author: "Nachbrenner"
+    codes:
+      - "D0433E74 0000FFEE"
+      - "20457B5C 00101800"
+
+  - name: "Disable HUD (School Mode)"
+    author: "Nachbrenner"
+    codes:
+      - "D0433E74 0000FFEE"
+      - "20457354 00101800"
+
+  - name: "Enable HUD (Arcade Mode)"
+    author: "Nachbrenner"
+    codes:
+      - "D0433E74 0000FFBE"
+      - "20457B5C 002B2520"
+
+  - name: "Enable HUD (School Mode)"
+    author: "Nachbrenner"
+    codes:
+      - "D0433E74 0000FFBE"
+      - "20457354 002ACA08"
+
+  - name: "Normal Opponents"
+    author: "Nachbrenner"
+    codes:
+      - "D0433E74 0000FFDE"
+      - "202DDDE8 1440FFF9"
+
+  - name: "Ntsc2pal"
+    author: "Nachbrenner"
+    codes:
+      - "203C19E0 24120003"
+
+  - name: "Stupid Opponents (Always First)"
+    author: "Nachbrenner"
+    codes:
+      - "D0433E74 0000FF7E"
+      - "202DDDE8 70001428"
+
+  - name: "Unlock All Cars/Lessons"
+    author: "Nachbrenner"
+    codes:
+      - "200C2000 24050003"
+      - "200C2004 0809844A"
+      - "200C2008 AC650004"
+      - "2012DC74 0C030800"
+
+  - name: "Y-Fix"
+    author: "Nachbrenner"
+    codes:
+      - "003782A4 00000032"
+      - "003782CC 00000032"

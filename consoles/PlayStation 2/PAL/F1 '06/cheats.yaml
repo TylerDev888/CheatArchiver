@@ -1,0 +1,25 @@
+# F1 '06 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-53950
+
+game: "F1 '06"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-53950"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F027537C 0027537F"
+
+  - name: "Infinite Fuel"
+    author: "Codejunkies"
+    codes:
+      - "201D4638 3C0342C8"
+      - "201D4650 AC4308E8"
+      - "201D4648 AC4308E8"

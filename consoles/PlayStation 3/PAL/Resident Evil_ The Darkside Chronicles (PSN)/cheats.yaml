@@ -1,0 +1,25 @@
+# Resident Evil_ The Darkside Chronicles (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00816
+
+game: "Resident Evil_ The Darkside Chronicles (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00816"
+cheat_type: "Save Editor"
+source: "From Zephyer"
+
+cheats:
+  - name: "Max Gold"
+    notes: "[Save Slot 01 Codes]  File: DATA.BIN"
+    codes:
+      - "20002660 0098967F"
+
+  - name: "All Weapons Have Max Ammo"
+    notes: "[Save Slot 01 Codes]  File: DATA.BIN"
+    codes:
+      - "42002668 00002710"
+      - "40030004 00000000"
+      - "42002678 00002710"
+      - "40060004 00000000"

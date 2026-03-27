@@ -1,0 +1,24 @@
+# Simple 2000 Series Ultimate Vol.16 - Sengoku Vs. Gendai cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62459
+
+game: "Simple 2000 Series Ultimate Vol.16 - Sengoku Vs. Gendai"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62459"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "901C3400 0C070CA8"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "901CA070 0C079C53"

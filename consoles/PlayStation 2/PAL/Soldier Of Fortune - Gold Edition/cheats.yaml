@@ -1,0 +1,121 @@
+# Soldier Of Fortune - Gold Edition cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50739
+
+game: "Soldier Of Fortune - Gold Edition"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50739"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F04321A8 004321BF"
+
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F04321BC 004321BF"
+
+  - name: "Show Debug Location"
+    author: "Codejunkies"
+    notes: "[Debug Info]"
+    codes:
+      - "201141F8 00000000"
+
+  - name: "Show More Info"
+    author: "Codejunkies"
+    notes: "[Debug Info]"
+    codes:
+      - "203F2FE0 00000000"
+
+  - name: "Show Packets"
+    author: "Codejunkies"
+    notes: "[Debug Info]"
+    codes:
+      - "20118044 00000000"
+
+  - name: "Show Trace/Points"
+    author: "Codejunkies"
+    notes: "[Debug Info]"
+    codes:
+      - "203CB2D8 00000000"
+
+  - name: "Hyper Mode - Press R2+Select"
+    author: "Codejunkies"
+    notes: "[Show Debug Infos]"
+    codes:
+      - "D06CF482 0000FEFE"
+      - "20591CAC 3E000000"
+
+  - name: "Normal Anims - Press R1+R2+L1+L2"
+    author: "Codejunkies"
+    notes: "[Show Debug Infos]"
+    codes:
+      - "D06CF482 0000F0FF"
+      - "20591CAC 3F800000"
+
+  - name: "Slo Mo Animations - Press L2+Select"
+    author: "Codejunkies"
+    notes: "[Show Debug Infos]"
+    codes:
+      - "D06CF482 0000FEFE"
+      - "20591CAC 41000000"
+
+  - name: "Bad Guys Don't Shoot"
+    author: "Codejunkies"
+    codes:
+      - "201DA514 2402FFFF"
+
+  - name: "God Mode"
+    author: "Codejunkies"
+    codes:
+      - "20FFFF14 24010010"
+      - "20FFFF18 AC6101A0"
+
+  - name: "God Mode And No Clip/Fly Mode"
+    author: "Codejunkies"
+    codes:
+      - "D06CF482 0000FAFF"
+      - "202D7FE4 24030001"
+      - "D06CF482 0000F5FF"
+      - "202D7FE4 24030000"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "203BFC18 24630000"
+      - "203BBDF8 24510000"
+      - "203BDD50 24420000"
+      - "203BD440 24510000"
+
+  - name: "Infinite Item Usage"
+    author: "Codejunkies"
+    codes:
+      - "203B2C94 24420000"
+
+  - name: "Must Be On For God Mode/W.T.W."
+    author: "Codejunkies"
+    codes:
+      - "200FFF00 3C030056"
+      - "200FFF04 8C63BD34"
+      - "200FFF0C 10000007"
+      - "200FFF2C 24030070"
+      - "200FFF30 0810C85A"
+      - "20432164 0803FFC0"
+
+  - name: "Walk Through Walls - Press L3 To Turn On, R3 To Turn Off"
+    author: "Codejunkies"
+    codes:
+      - "D06CF482 0000FFFD"
+      - "200FFF20 24010001"
+      - "D06CF482 0000FFFD"
+      - "200FFF24 AC61019C"
+      - "D06CF482 0000FFFB"
+      - "200FFF20 24010000"

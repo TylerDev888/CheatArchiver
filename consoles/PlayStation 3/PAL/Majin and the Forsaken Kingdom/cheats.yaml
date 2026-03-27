@@ -1,0 +1,54 @@
+# Majin and the Forsaken Kingdom cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00919
+
+game: "Majin and the Forsaken Kingdom"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00919"
+cheat_type: "Save Editor"
+source: "From SHAkA"
+
+cheats:
+  - name: "Max Shared And Life"
+    notes: "File: SAVEDATA"
+    codes:
+      - "write at 0x00004D35:0x98967F00"
+      - "write at 0x00004D39:0x98967F00"
+      - "write at 0x00004D45:0x98967F00"
+
+  - name: "Max Blue Fruit"
+    notes: "File: SAVEDATA  (From chaoszage)"
+    codes:
+      - "write at 0x00005359:0x98967F00"
+
+  - name: "Health Lv10"
+    notes: "File: SAVEDATA"
+    codes:
+      - "000053A7 0000000A"
+
+  - name: "Strength Lv10"
+    notes: "File: SAVEDATA"
+    codes:
+      - "000053AB 0000000A"
+
+  - name: "Wind Lv4"
+    notes: "File: SAVEDATA"
+    codes:
+      - "000053AF 00000004"
+
+  - name: "Lightning Lv4"
+    notes: "File: SAVEDATA"
+    codes:
+      - "000053B3 00000004"
+
+  - name: "Flame Lv4"
+    notes: "File: SAVEDATA"
+    codes:
+      - "000053B7 00000004"
+
+  - name: "Purification Lv4"
+    notes: "File: SAVEDATA"
+    codes:
+      - "000053BB 00000004"

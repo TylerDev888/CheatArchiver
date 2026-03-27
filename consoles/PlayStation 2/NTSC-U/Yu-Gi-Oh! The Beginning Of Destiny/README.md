@@ -1,0 +1,134 @@
+# Yu-Gi-Oh! The Beginning Of Destiny
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-21683  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Enable Code (Must Be On)
+**Author:** Skiller  
+**Notes:** [Master Codes]
+
+```
+90112118 0C0447EE
+```
+
+---
+
+### Can Summon Any Monster + Infinite Summon
+**Author:** nolberto82
+
+```
+20174674 34020000
+216A383C 30420000
+```
+
+---
+
+### Press Select For All Cards At Card Menu
+**Author:** Skiller  
+**Notes:** [Deck Codes]
+
+```
+200A0000 3C01014D
+200A0004 34216184
+200A0008 94230000
+200A000C 34020FA7
+200A0010 14620019
+200A0038 3C0400A9
+200A003C 3484A050
+200A0044 A4830000
+200A0048 24840002
+200A004C 24A50001
+200A0050 A4850000
+200A0054 24840002
+200A0058 34070109
+200A005C A4870000
+200A0060 24840002
+200A0064 24210002
+200A0068 94230000
+200A0070 1403FFF4
+200A0078 03E00008
+200A007C 27BD0050
+E002FFFE 0025C482
+2017DDD8 08028000
+2017DDDC 00000000
+```
+
+---
+
+### Activation Code (Must Be On)
+**Author:** Skiller  
+**Notes:** [Draw Time Codes]
+
+```
+200A0100 12800011
+200A0138 1000000F
+200A0178 03E00008
+D169B786 000027BD
+2169B780 08028040
+```
+
+---
+
+### Player 1 Refill Max HP When Draw
+**Author:** Skiller  
+**Notes:** [Draw Time Codes]
+
+```
+200A0148 34071F40
+200A014C AE07FFF0
+```
+
+---
+
+### Player 2 No Cards
+**Author:** Skiller  
+**Notes:** [Draw Time Codes]
+
+```
+200A0108 AE000000
+```
+
+---
+
+### Player 2 No Draw
+**Author:** Skiller  
+**Notes:** [Draw Time Codes]
+
+```
+200A010C AE00FFFC
+```
+
+---
+
+### Max Cash Upon Buying/Winning
+**Author:** Skiller
+
+```
+2015FC60 10000008
+```
+
+---
+
+### Max Infinite DP
+**Author:** Skiller
+
+```
+2035682C 3B9AC9FF
+```
+
+---
+
+### Move Cards For 10 Cards
+**Author:** Skiller
+
+```
+201B5888 2706000A
+```
+
+---

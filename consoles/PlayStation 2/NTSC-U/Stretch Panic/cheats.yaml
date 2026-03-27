@@ -1,0 +1,51 @@
+# Stretch Panic cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20182
+
+game: "Stretch Panic"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20182"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F011F604 0013C4AB"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0010D3DF"
+
+  - name: "99 Points"
+    author: "InterAct"
+    codes:
+      - "106AF098 00000063"
+
+  - name: "Max Points"
+    author: "Code Master"
+    codes:
+      - "206AF098 000003E7"
+
+  - name: "Points Worth Modifier"
+    author: "Code Master"
+    codes:
+      - "2014EECC 246300??"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0010D3DF"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9010D3DC 0C0461E8"

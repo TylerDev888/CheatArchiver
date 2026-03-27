@@ -1,0 +1,67 @@
+# The Mark Of Kri cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "The Mark Of Kri"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0032ADD7"
+
+  - name: "Always Return To Inn"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "203EEB00 00000001"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "206BD948 43480000"
+      - "206BD944 43480000"
+
+  - name: "Arrows"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "206BEB78 00000014"
+      - "206BEC30 00000004"
+
+  - name: "Challenge 1"
+    author: "Xploder"
+    notes: "[Completed]"
+    codes:
+      - "20399F84 00000001"
+
+  - name: "Challenge 2"
+    author: "Xploder"
+    notes: "[Completed]"
+    codes:
+      - "20399F90 00000001"
+
+  - name: "Challenge 3"
+    author: "Xploder"
+    notes: "[Completed]"
+    codes:
+      - "20399F9C 00000001"
+
+  - name: "Challenge 4"
+    author: "Xploder"
+    notes: "[Completed]"
+    codes:
+      - "20399FA8 00000001"
+
+  - name: "Challenge 5"
+    author: "Xploder"
+    notes: "[Completed]"
+    codes:
+      - "20399FB4 00000001"

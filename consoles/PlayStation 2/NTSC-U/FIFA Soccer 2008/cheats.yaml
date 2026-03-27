@@ -1,0 +1,876 @@
+# FIFA Soccer 2008 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21648
+
+game: "FIFA Soccer 2008"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21648"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "906091D0 00832021"
+
+  - name: "Home Team Scores 50"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "208FBF88 00000032"
+
+  - name: "Home Team Scores 20"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "208FBF88 00000014"
+
+  - name: "Home Team Scores 0"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "208FBF88 00000000"
+
+  - name: "Home Team Starts With 50"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D08FBF88 00000000"
+      - "208FBF88 00000032"
+
+  - name: "Home Team Starts With 20"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D08FBF88 00000000"
+      - "208FBF88 00000014"
+
+  - name: "Home Team Starts With 10"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D08FBF88 00000000"
+      - "208FBF88 0000000A"
+
+  - name: "Home Team Starts With 5"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D08FBF88 00000000"
+      - "208FBF88 00000005"
+
+  - name: "Away Team Scores 50"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "209034C0 00000032"
+
+  - name: "Away Team Scores 20"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "209034C0 00000014"
+
+  - name: "Away Team Scores 0"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "209034C0 00000000"
+
+  - name: "Away Team Starts With 50"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D09034C0 00000000"
+      - "209034C0 00000032"
+
+  - name: "Away Team Starts With 20"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D09034C0 00000000"
+      - "209034C0 00000014"
+
+  - name: "Away Team Starts With 10"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D09034C0 00000000"
+      - "209034C0 0000000A"
+
+  - name: "Away Team Starts With 5"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D09034C0 00000000"
+      - "209034C0 00000005"
+
+  - name: "All Goal's Score For Home Team"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2032F5D4 24030000"
+
+  - name: "All Goal's Score For Away Team"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2032F5D4 24035F04"
+
+  - name: "Goal's Score 10"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1032F5F0 0000000A"
+
+  - name: "Goal's Score 5"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1032F5F0 00000005"
+
+  - name: "Goal's Score 2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1032F5F0 00000002"
+
+  - name: "P1 Press L1+Select To Display Debug Info"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D093B242 0000FBFE"
+      - "207A34F4 00000001"
+
+  - name: "P1 Press L2+Select To Hide Debug Info"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D093B242 0000FEFE"
+      - "207A34F4 00000000"
+
+  - name: "Always Display Debug Info"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "207A34F4 00000001"
+
+  - name: "P1 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D093B242 0000FAFF"
+      - "10917430 00000000"
+
+  - name: "P1 Press R1+R2 To End Half"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D093B242 0000F5FF"
+      - "10917430 00000170"
+
+  - name: "P2 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D093B342 0000FAFF"
+      - "10917430 00000000"
+
+  - name: "P2 Press R1+R2 To End Half"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D093B342 0000F5FF"
+      - "10917430 00000170"
+
+  - name: "P3 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D093B442 0000FAFF"
+      - "10917430 00000000"
+
+  - name: "P3 Press R1+R2 To End Half"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D093B442 0000F5FF"
+      - "10917430 00000170"
+
+  - name: "P4 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D093B542 0000FAFF"
+      - "10917430 00000000"
+
+  - name: "P4 Press R1+R2 To End Half"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D093B542 0000F5FF"
+      - "10917430 00000170"
+
+  - name: "P5 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D093B642 0000FAFF"
+      - "10917430 00000000"
+
+  - name: "P5 Press R1+R2 To End Half"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D093B642 0000F5FF"
+      - "10917430 00000170"
+
+  - name: "P6 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D093B742 0000FAFF"
+      - "10917430 00000000"
+
+  - name: "P6 Press R1+R2 To End Half"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D093B742 0000F5FF"
+      - "10917430 00000170"
+
+  - name: "P7 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D093B842 0000FAFF"
+      - "10917430 00000000"
+
+  - name: "P7 Press R1+R2 To End Half"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D093B842 0000F5FF"
+      - "10917430 00000170"
+
+  - name: "P8 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D093B942 0000FAFF"
+      - "10917430 00000000"
+
+  - name: "P8 Press R1+R2 To End Half"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D093B942 0000F5FF"
+      - "10917430 00000170"
+
+  - name: "Max Corners"
+    author: "Code Master"
+    notes: "[Home Team Stats Codes]"
+    codes:
+      - "208FBF78 00000063"
+
+  - name: "No Corners"
+    author: "Code Master"
+    notes: "[Home Team Stats Codes]"
+    codes:
+      - "208FBF78 00000000"
+
+  - name: "Max Offsides"
+    author: "Code Master"
+    notes: "[Home Team Stats Codes]"
+    codes:
+      - "208FBF7C 00000063"
+
+  - name: "No Offsides"
+    author: "Code Master"
+    notes: "[Home Team Stats Codes]"
+    codes:
+      - "208FBF7C 00000000"
+
+  - name: "Max Total Shots"
+    author: "Code Master"
+    notes: "[Home Team Stats Codes]"
+    codes:
+      - "208FBF80 00000063"
+
+  - name: "No Total Shots"
+    author: "Code Master"
+    notes: "[Home Team Stats Codes]"
+    codes:
+      - "208FBF80 00000000"
+
+  - name: "Max Shots On Target"
+    author: "Code Master"
+    notes: "[Home Team Stats Codes]"
+    codes:
+      - "208FBF84 00000063"
+
+  - name: "No Shots On Target"
+    author: "Code Master"
+    notes: "[Home Team Stats Codes]"
+    codes:
+      - "208FBF84 00000000"
+
+  - name: "Max Fouls"
+    author: "Code Master"
+    notes: "[Home Team Stats Codes]"
+    codes:
+      - "208FBF94 00000063"
+
+  - name: "No Fouls"
+    author: "Code Master"
+    notes: "[Home Team Stats Codes]"
+    codes:
+      - "208FBF94 00000000"
+
+  - name: "Max Bookings"
+    author: "Code Master"
+    notes: "[Home Team Stats Codes]"
+    codes:
+      - "208FBF98 00000063"
+
+  - name: "No Bookings"
+    author: "Code Master"
+    notes: "[Home Team Stats Codes]"
+    codes:
+      - "208FBF98 00000000"
+
+  - name: "Max Tackles"
+    author: "Code Master"
+    notes: "[Home Team Stats Codes]"
+    codes:
+      - "208FBFA4 00000063"
+
+  - name: "No Tackles"
+    author: "Code Master"
+    notes: "[Home Team Stats Codes]"
+    codes:
+      - "208FBFA4 00000000"
+
+  - name: "Infinite Points"
+    author: "Code Master"
+    notes: "[Fan Shop Codes]"
+    codes:
+      - "11509A78 0000FFFF"
+
+  - name: "Max Points"
+    author: "Code Master"
+    notes: "[Fan Shop Codes]"
+    codes:
+      - "21509A78 05F5E0FF"
+
+  - name: "Buying Items Doesnt Decrease Points"
+    author: "Code Master"
+    notes: "[Fan Shop Codes]"
+    codes:
+      - "202501AC 00000000"
+
+  - name: "Buying Items Increases Points"
+    author: "Code Master"
+    notes: "[Fan Shop Codes]"
+    codes:
+      - "202501A8 00431021"
+
+  - name: "World XI Team"
+    author: "Code Master"
+    notes: "[Unlock Extra Codes]"
+    codes:
+      - "21514048 00000001"
+
+  - name: "Classic XI Team"
+    author: "Code Master"
+    notes: "[Unlock Extra Codes]"
+    codes:
+      - "21514068 00000001"
+
+  - name: "Funny SFX"
+    author: "Code Master"
+    notes: "[Unlock Extra Codes]"
+    codes:
+      - "21514588 00000001"
+
+  - name: "Football 1"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "21514088 00000001"
+
+  - name: "Football 2"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "215140A8 00000001"
+
+  - name: "Football 3"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "215140C8 00000001"
+
+  - name: "Football 4"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "215140E8 00000001"
+
+  - name: "Football 5"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "21514108 00000001"
+
+  - name: "Football 6"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "21514128 00000001"
+
+  - name: "Football 7"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "21514148 00000001"
+
+  - name: "Football 8"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "21514168 00000001"
+
+  - name: "Football 9"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "21514188 00000001"
+
+  - name: "Football 10"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "215141A8 00000001"
+
+  - name: "Football 11"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "215141C8 00000001"
+
+  - name: "Football 12"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "215141E8 00000001"
+
+  - name: "Football 13"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "21514208 00000001"
+
+  - name: "Football 14"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "21514228 00000001"
+
+  - name: "Football 15"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "21514248 00000001"
+
+  - name: "Football 16"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "21514268 00000001"
+
+  - name: "Football 17"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "21514288 00000001"
+
+  - name: "Football 18"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "215142A8 00000001"
+
+  - name: "Football 19"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "215142C8 00000001"
+
+  - name: "Football 20"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "215142E8 00000001"
+
+  - name: "Football 21"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "21514308 00000001"
+
+  - name: "Football 22"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "21514328 00000001"
+
+  - name: "Football 23"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "21514348 00000001"
+
+  - name: "Football 24"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "21514368 00000001"
+
+  - name: "Football 25"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "21514388 00000001"
+
+  - name: "Football 26"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "215143A8 00000001"
+
+  - name: "Football 27"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "215143C8 00000001"
+
+  - name: "Football 28"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "215143E8 00000001"
+
+  - name: "Football 29"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "21514408 00000001"
+
+  - name: "Football 30"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "21514428 00000001"
+
+  - name: "Football 31"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "21514448 00000001"
+
+  - name: "Football 32"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "21514468 00000001"
+
+  - name: "Football 33"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "21514488 00000001"
+
+  - name: "Football 34"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "215144A8 00000001"
+
+  - name: "All Footballs"
+    author: "Code Master"
+    notes: "[Unlock Football Codes]"
+    codes:
+      - "41514088 00220008"
+      - "00000001 00000000"
+
+  - name: "Celebrations Pack 1"
+    author: "Code Master"
+    notes: "[Unlock Creation Central Codes]"
+    codes:
+      - "215144C8 00000001"
+
+  - name: "Celebrations Pack 2"
+    author: "Code Master"
+    notes: "[Unlock Creation Central Codes]"
+    codes:
+      - "215144E8 00000001"
+
+  - name: "Stadium 1"
+    author: "Code Master"
+    notes: "[Unlock Stadium Codes]"
+    codes:
+      - "21514508 00000001"
+
+  - name: "Stadium 2"
+    author: "Code Master"
+    notes: "[Unlock Stadium Codes]"
+    codes:
+      - "21514528 00000001"
+
+  - name: "Stadium 3"
+    author: "Code Master"
+    notes: "[Unlock Stadium Codes]"
+    codes:
+      - "21514548 00000001"
+
+  - name: "Stadium 4"
+    author: "Code Master"
+    notes: "[Unlock Stadium Codes]"
+    codes:
+      - "21514568 00000001"
+
+  - name: "Highbury"
+    author: "Code Master"
+    notes: "[Unlock Stadium Codes]"
+    codes:
+      - "21514A28 00000001"
+
+  - name: "All Stadiums"
+    author: "Code Master"
+    notes: "[Unlock Stadium Codes]"
+    codes:
+      - "41514508 00040008"
+      - "00000001 00000000"
+      - "21514A28 00000001"
+
+  - name: "Kit 1"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "215145C8 00000001"
+
+  - name: "Kit 2"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "215145E8 00000001"
+
+  - name: "Kit 3"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "21514608 00000001"
+
+  - name: "Kit 4"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "21514628 00000001"
+
+  - name: "Kit 5"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "21514648 00000001"
+
+  - name: "Kit 6"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "21514668 00000001"
+
+  - name: "Kit 7"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "21514688 00000001"
+
+  - name: "Kit 8"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "215146A8 00000001"
+
+  - name: "Kit 9"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "215146C8 00000001"
+
+  - name: "Kit 10"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "215146E8 00000001"
+
+  - name: "Kit 11"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "21514708 00000001"
+
+  - name: "Kit 12"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "21514728 00000001"
+
+  - name: "Kit 13"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "21514748 00000001"
+
+  - name: "Kit 14"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "21514768 00000001"
+
+  - name: "Kit 15"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "21514788 00000001"
+
+  - name: "Kit 16"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "215147A8 00000001"
+
+  - name: "Kit 17"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "215147C8 00000001"
+
+  - name: "Kit 18"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "215147E8 00000001"
+
+  - name: "Kit 19"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "21514808 00000001"
+
+  - name: "Kit 20"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "21514828 00000001"
+
+  - name: "Kit 21"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "21514848 00000001"
+
+  - name: "Kit 22"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "21514868 00000001"
+
+  - name: "Kit 23"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "21514888 00000001"
+
+  - name: "Kit 24"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "215148A8 00000001"
+
+  - name: "Kit 25"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "215148C8 00000001"
+
+  - name: "Kit 26"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "215148E8 00000001"
+
+  - name: "Kit 27"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "21514908 00000001"
+
+  - name: "Kit 28"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "21514928 00000001"
+
+  - name: "Kit 29"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "21514948 00000001"
+
+  - name: "Kit 30"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "21514968 00000001"
+
+  - name: "Kit 31"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "21514988 00000001"
+
+  - name: "Kit 32"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "215149A8 00000001"
+
+  - name: "Kit 33"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "215149C8 00000001"
+
+  - name: "Kit 34"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "215149E8 00000001"
+
+  - name: "Kit 35"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "21514A08 00000001"
+
+  - name: "All Kits"
+    author: "Code Master"
+    notes: "[Unlock 3rd Kit Codes]"
+    codes:
+      - "415145C8 00230008"
+      - "00000001 00000000"

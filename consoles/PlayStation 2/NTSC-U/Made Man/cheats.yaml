@@ -1,0 +1,44 @@
+# Made Man cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21587
+
+game: "Made Man"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21587"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code(Must Be On)"
+    author: "Azagthoth"
+    notes: "[Master Codes]"
+    codes:
+      - "902A1E88 00832021"
+
+  - name: "Master Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "902B43E8 0C0AD0A2"
+
+  - name: "Infinite Ammo/No Reload"
+    author: "Azagthoth"
+    codes:
+      - "201A1FF8 00000000"
+
+  - name: "Infinite Health"
+    author: "Azagthoth"
+    codes:
+      - "2016ADAC 3C014448"
+
+  - name: "Joker Command"
+    author: "Azagthoth"
+    codes:
+      - "D03661C2 0000????"
+
+  - name: "Player Pointer"
+    author: "Azagthoth"
+    codes:
+      - "603171E4 0000????"

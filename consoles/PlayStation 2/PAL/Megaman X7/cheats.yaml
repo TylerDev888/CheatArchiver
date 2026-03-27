@@ -1,0 +1,111 @@
+# Megaman X7 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51885
+
+game: "Megaman X7"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51885"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01049AC 001049AF"
+
+  - name: "Infinite Health Main Character"
+    author: "Codejunkies"
+    codes:
+      - "10E5A79C 000003E7"
+
+  - name: "Infinite Health Sub Character"
+    author: "Codejunkies"
+    codes:
+      - "10E5A89C 000003E7"
+      - "10E5A81C 000003E7"
+
+  - name: "Infinite Lives"
+    author: "Codejunkies"
+    codes:
+      - "1046C220 00000009"
+
+  - name: "Main Character Is Invincible"
+    author: "Codejunkies"
+    codes:
+      - "10E5A794 00000001"
+
+  - name: "Megaman X Selectable"
+    author: "Codejunkies"
+    codes:
+      - "10E4C9E8 00000003"
+      - "10E4CA26 0000C234"
+      - "10E4CA4E 00004234"
+
+  - name: "Sub Character Is Invincible"
+    author: "Codejunkies"
+    codes:
+      - "10E5A814 00000001"
+      - "10E5A894 00000001"
+
+  - name: "Mastercode:"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "901049AC 0C0615DC"
+
+  - name: "Lives"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2046C220 00000009"
+
+  - name: "Special Weapon Energy"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20130B84 00000000"
+
+  - name: "Main Character Energy"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20E5A79C 00000080"
+
+  - name: "Secondry Character Energy"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20E5A81C 00000080"
+
+  - name: "X"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "20E4C9E8 00000003"
+      - "20E4C9F8 00000003"
+      - "20E4CA24 C2340000"
+      - "20E4CA4C 42340000"
+      - "20E4CA74 43070000"
+      - "20E4CA9C 43610000"
+
+  - name: "All Level Repliods"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "2039C2DC A0830000"
+
+  - name: "All Special Weapons"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "204F6680 000003FF"
+
+  - name: "Maximum Power/Speed/Special"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "204F6684 000FFFFF"

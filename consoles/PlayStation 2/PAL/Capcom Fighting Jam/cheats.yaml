@@ -1,0 +1,64 @@
+# Capcom Fighting Jam cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52854
+
+game: "Capcom Fighting Jam"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52854"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02990F8 002990FB"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "20342F94 35E835E8"
+
+  - name: "Infinite Power"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "003430A0 000000FF"
+
+  - name: "Press L3 To Make Your Character Shrink"
+    author: "Codejunkies"
+    notes: "[Player 1 Size Modifier Codes]"
+    codes:
+      - "E002FFFD 003F39DC"
+      - "30400000 00342E9C"
+      - "30400000 00342E98"
+      - "D03F39DC 0000FFFD"
+      - "30400000 00342EA0"
+
+  - name: "Press R3 To Make Your Character Grow"
+    author: "Codejunkies"
+    notes: "[Player 1 Size Modifier Codes]"
+    codes:
+      - "E002FFFB 003F39DC"
+      - "30400000 00342E98"
+      - "30400000 00342E9C"
+      - "D03F39DC 0000FFFB"
+      - "30400000 00342EA0"
+
+  - name: "1 Hit Kill"
+    author: "Codejunkies"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "E0020001 30343554"
+      - "E0010001 30343556"
+      - "20343554 00010001"
+
+  - name: "No Power Gauge"
+    author: "Codejunkies"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "00343660 00000000"

@@ -1,0 +1,64 @@
+# Sundered_ Eldritch Edition cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA07282
+
+game: "Sundered_ Eldritch Edition"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA07282"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Shield Instant Regen (0sec)"
+    author: "Zeraf3000"
+    notes: "[Get the SHIELD ability first:{{unlock all the INITIAL skills in the shield tree and then apply these codes}}]  File: sce_sdmemory\\memory.dat"
+    codes:
+      - "8[SV]001D 53484945"
+      - "4C442D5B 4D656469"
+      - "756D5D53 6869656C"
+      - "64446F77 6E74696D"
+      - "65000000 00000000"
+      - "2800001D 0000000F"
+
+  - name: "Super Max Shield Regen Units per sec"
+    author: "Zeraf3000"
+    notes: "[Get the SHIELD ability first:{{unlock all the INITIAL skills in the shield tree and then apply these codes}}]  File: sce_sdmemory\\memory.dat"
+    codes:
+      - "8[SV]001A 53484945"
+      - "4C442D5B 4D656469"
+      - "756D5D53 6869656C"
+      - "64526567 656E0000"
+      - "2800001A 0000270F"
+
+  - name: "Super Damage"
+    author: "Zeraf3000"
+    notes: "[Get the SHIELD ability first:{{unlock all the INITIAL skills in the shield tree and then apply these codes}}]  File: sce_sdmemory\\memory.dat"
+    codes:
+      - "8[SV]0016 53484945"
+      - "4C442D5B 536D616C"
+      - "6C5D4461 6D616765"
+      - "2D310000 00000000"
+      - "28000016 0000270F"
+
+  - name: "Energy Instant Regen"
+    author: "Zeraf3000"
+    notes: "[Get the DOUBLE JUMP ability first:{{unlock all the initial skills in the Double Jump tree and then apply these codes}}]  File: sce_sdmemory\\memory.dat"
+    codes:
+      - "8[SV]001E 444F5542"
+      - "4C455F4A 554D505B"
+      - "4D656469 756D5D45"
+      - "6E657267 79526567"
+      - "656E0000 00000000"
+      - "2800001E 0000270F"
+
+  - name: "Energy Bar Super Max"
+    author: "Zeraf3000"
+    notes: "[Get the DOUBLE JUMP ability first:{{unlock all the initial skills in the Double Jump tree and then apply these codes}}]  File: sce_sdmemory\\memory.dat"
+    codes:
+      - "8[SV]0018 53484945"
+      - "4C442D5B 4D656469"
+      - "756D5D45 6E657267"
+      - "79426172 00000000"
+      - "28000018 000000FF"

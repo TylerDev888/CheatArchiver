@@ -1,0 +1,76 @@
+# Gitaroo Man cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50653
+
+game: "Gitaroo Man"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50653"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100C48 000001FD"
+
+  - name: "Big Character Models"
+    author: "Codejunkies"
+    notes: "[Screen Codes]"
+    codes:
+      - "2027FFF4 3FC00000"
+      - "20280008 3FC00000"
+
+  - name: "Complete Collection"
+    author: "Codejunkies"
+    notes: "[Screen Codes]"
+    codes:
+      - "202AC490 FFFFFFFF"
+      - "202AC4A0 FFFFFFFF"
+
+  - name: "Postage Stamp Screen Mode"
+    author: "Codejunkies"
+    notes: "[Screen Codes]"
+    codes:
+      - "2027FFA0 3FC00000"
+      - "2027FFB4 3FC00000"
+
+  - name: "Small Screen Mode"
+    author: "Codejunkies"
+    notes: "[Screen Codes]"
+    codes:
+      - "2027FFA0 3F000000"
+      - "2027FFB4 3F000000"
+
+  - name: "Unlock Master Levels"
+    author: "Codejunkies"
+    notes: "[Screen Codes]"
+    codes:
+      - "2027F160 00000001"
+      - "2027F170 00000001"
+      - "2027F180 00000001"
+      - "2027F190 00000001"
+      - "2027F1A0 00000001"
+      - "2027F1B0 00000001"
+      - "2027F1C0 00000001"
+      - "2027F1D0 00000001"
+      - "2027F1E0 00000001"
+      - "2027F1F0 00000001"
+
+  - name: "Unlock Normal Levels"
+    author: "Codejunkies"
+    notes: "[Screen Codes]"
+    codes:
+      - "2027F0B0 00000001"
+      - "2027F0C0 00000001"
+      - "2027F0D0 00000001"
+      - "2027F0E0 00000001"
+      - "2027F0F0 00000001"
+      - "2027F100 00000001"
+      - "2027F110 00000001"
+      - "2027F120 00000001"
+      - "2027F130 00000001"
+      - "2027F140 00000001"

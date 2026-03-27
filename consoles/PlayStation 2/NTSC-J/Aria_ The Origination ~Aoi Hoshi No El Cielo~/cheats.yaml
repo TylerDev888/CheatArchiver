@@ -1,0 +1,25 @@
+# Aria_ The Origination ~Aoi Hoshi No El Cielo~ cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-55014
+
+game: "Aria_ The Origination ~Aoi Hoshi No El Cielo~"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-55014"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9020B460 0C082CC0"
+
+  - name: "Enable Debug Menu [View Note]"
+    author: "punk7890"
+    codes:
+      - "0010D840 00000000"
+      - "D047EC80 0000FFFE"
+      - "202746DC 00000000"

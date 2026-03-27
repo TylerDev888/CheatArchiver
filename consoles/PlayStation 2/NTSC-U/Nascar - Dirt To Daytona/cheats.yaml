@@ -1,0 +1,98 @@
+# Nascar - Dirt To Daytona cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20441
+
+game: "Nascar - Dirt To Daytona"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20441"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 002F9287"
+
+  - name: "Fastest Lap Always 0:00.0"
+    author: "Code Master"
+    notes: "[Car & Truck Modes - Daytona International Speedway Codes]"
+    codes:
+      - "10956F12 00000001"
+      - "20956F18 00000000"
+
+  - name: "All Top-5"
+    author: "Code Master"
+    notes: "[Have Top-5 Completed Codes]"
+    codes:
+      - "4095E8AC 00050001"
+      - "00000001 00000000"
+
+  - name: "Champion"
+    author: "Code Master"
+    notes: "[Have Top-5 Completed Codes]"
+    codes:
+      - "2095A410 00000001"
+
+  - name: "Legend"
+    author: "Code Master"
+    notes: "[Have Top-5 Completed Codes]"
+    codes:
+      - "20959984 00000001"
+
+  - name: "Pro"
+    author: "Code Master"
+    notes: "[Have Top-5 Completed Codes]"
+    codes:
+      - "20959978 00000001"
+
+  - name: "Rookie"
+    author: "Code Master"
+    notes: "[Have Top-5 Completed Codes]"
+    codes:
+      - "20959974 00000001"
+
+  - name: "Veteran"
+    author: "Code Master"
+    notes: "[Have Top-5 Completed Codes]"
+    codes:
+      - "2095C904 00000001"
+
+  - name: "All Top-10"
+    author: "Code Master"
+    notes: "[Have Top-10 Completed Codes]"
+    codes:
+      - "4095E8C4 00050001"
+      - "00000001 00000000"
+
+  - name: "All Wins"
+    author: "Code Master"
+    notes: "[Have Win Completed Codes]"
+    codes:
+      - "4095E894 00050001"
+      - "00000001 00000000"
+
+  - name: "Buying Parts Doesn't Decrease Money (Career Mode)"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "20286F54 00000000"
+
+  - name: "Buying Parts Increases Money (Career Mode)"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "20286F4C 00641821"
+
+  - name: "Max Money (Career Mode)"
+    author: "Code Master"
+    notes: "[Miscellaneous Codes]"
+    codes:
+      - "200C0220 3C0205F5"
+      - "200C0224 3442E0FF"
+      - "200C0228 03E00008"
+      - "200C022C AC620004"
+      - "20286F88 08030088"

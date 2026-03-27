@@ -1,0 +1,21 @@
+# Resistance_ Fall of Man cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BCES00001
+
+game: "Resistance_ Fall of Man"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BCES00001"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Profile.sav (required)"
+    notes: "File: PROFILE.SAV  (set range:0x000010,0x003387)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000010,pointer"
+      - "set [hash]:CRC32"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x00000C:[hash]"

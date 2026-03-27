@@ -1,0 +1,76 @@
+# Lollipop Chainsaw cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01525
+
+game: "Lollipop Chainsaw"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01525"
+cheat_type: "Save Editor"
+source: "From KE-HA"
+
+cheats:
+  - name: "Gold Medal 99,999"
+    notes: "File: PAYLOAD"
+    codes:
+      - "20000088 0001869F"
+
+  - name: "Platinum Medal 999"
+    notes: "File: PAYLOAD"
+    codes:
+      - "1000008E 000003E7"
+
+  - name: "Nick Ticket 9"
+    notes: "File: PAYLOAD"
+    codes:
+      - "0000009F 00000009"
+
+  - name: "Lollipop 9"
+    notes: "File: PAYLOAD"
+    codes:
+      - "000000A3 00000009"
+
+  - name: "Health 99999"
+    notes: "File: PAYLOAD"
+    codes:
+      - "200000B0 0001869F"
+
+  - name: "Lollopop Health Bars 99999"
+    notes: "File: PAYLOAD"
+    codes:
+      - "200000C4 0001869F"
+
+  - name: "Damage Resistance 99999.99"
+    notes: "File: PAYLOAD"
+    codes:
+      - "200000C8 47C34FFF"
+
+  - name: "All Stages Unlocked(from Bokosuka)"
+    notes: "File: PAYLOAD"
+    codes:
+      - "0000012F 00000001"
+      - "00000133 00000001"
+      - "00000137 00000001"
+      - "0000013B 00000001"
+      - "0000013F 00000001"
+      - "00000143 00000001"
+
+  - name: "All 35 Zombie Albums Unlocked"
+    notes: "File: PAYLOAD"
+    codes:
+      - "400056CB 00000001"
+      - "40230010 00000000"
+
+  - name: "All 40 Lollipop Cases Gained"
+    notes: "File: PAYLOAD"
+    codes:
+      - "400059CB 00000001"
+      - "40280010 00000000"
+
+  - name: "Default:update Crc32 (required)"
+    notes: "File: PAYLOAD"
+    codes:
+      - "set range:0x8,0x60BF"
+      - "set [crc]:crc32big"
+      - "write at 0x4:[crc]"

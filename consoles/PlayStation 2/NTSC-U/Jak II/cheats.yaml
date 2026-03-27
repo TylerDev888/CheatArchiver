@@ -1,0 +1,407 @@
+# Jak II cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97265
+
+game: "Jak II"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97265"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "40116F0C 00180001"
+      - "00000000 00000000"
+      - "10116F6C 00000000"
+      - "00116F6E 00000000"
+      - "00108E00 00000000"
+      - "F0100020 00100023"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0011F49B"
+      - "200FF000 3C012000"
+      - "200FF004 03212025"
+      - "200FF008 3C053C04"
+      - "200FF00C 34A50008"
+      - "200FF010 24062000"
+      - "200FF014 8C830000"
+      - "200FF018 14650002"
+      - "200FF01C 34630004"
+      - "200FF020 AC830000"
+      - "200FF024 24C6FFFC"
+      - "200FF028 1CC0FFFA"
+      - "200FF02C 24840004"
+      - "200FF030 03200008"
+      - "200FF034 00000000"
+      - "201085A8 0C03FC00"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "9011F498 0C047CCE"
+      - "200FF000 3C012000"
+      - "200FF004 03212025"
+      - "200FF008 3C053C04"
+      - "200FF00C 34A50008"
+      - "200FF010 24062000"
+      - "200FF014 8C830000"
+      - "200FF018 14650002"
+      - "200FF01C 34630004"
+      - "200FF020 AC830000"
+      - "200FF024 24C6FFFC"
+      - "200FF028 1CC0FFFA"
+      - "200FF02C 24840004"
+      - "200FF030 03200008"
+      - "200FF034 00000000"
+      - "201085A8 0C03FC00"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0012002B"
+      - "200FFFF0 3C032008"
+      - "200FFFF4 3C028D0C"
+      - "200FFFF8 03E00008"
+      - "200FFFFC AC620040"
+      - "201034A4 0803FFFC"
+
+  - name: "Activate Cheat Modifier"
+    author: "Code Master"
+    codes:
+      - "20622F40 ????????"
+
+  - name: "Activate Single Cheat Modifier Codes (CB V7.0 Or Higher Needed!) Note"
+    author: "NA"
+    notes: "[Activate Single Cheat Modifier Codes (CB V7.0 Or Higher Needed!)]  N/A"
+
+  - name: "Big Head Mode"
+    author: "Code Master"
+    notes: "[Activate Single Cheat Modifier Codes (CB V7.0 Or Higher Needed!)]"
+    codes:
+      - "70622F42 00000001"
+
+  - name: "Invulnerability"
+    author: "Code Master"
+    notes: "[Activate Single Cheat Modifier Codes (CB V7.0 Or Higher Needed!)]"
+    codes:
+      - "70622F40 00000008"
+
+  - name: "Mirror World"
+    author: "Code Master"
+    notes: "[Activate Single Cheat Modifier Codes (CB V7.0 Or Higher Needed!)]"
+    codes:
+      - "70622F40 00000002"
+
+  - name: "Small Head Mode"
+    author: "Code Master"
+    notes: "[Activate Single Cheat Modifier Codes (CB V7.0 Or Higher Needed!)]"
+    codes:
+      - "70622F42 00000002"
+
+  - name: "Toggle Jak's Goatee"
+    author: "Code Master"
+    notes: "[Activate Single Cheat Modifier Codes (CB V7.0 Or Higher Needed!)]"
+    codes:
+      - "70622F40 00000001"
+
+  - name: "Unlimited Ammo"
+    author: "Code Master"
+    notes: "[Activate Single Cheat Modifier Codes (CB V7.0 Or Higher Needed!)]"
+    codes:
+      - "70622F40 00000004"
+
+  - name: "Unlimited Dark Jak"
+    author: "Code Master"
+    notes: "[Activate Single Cheat Modifier Codes (CB V7.0 Or Higher Needed!)]"
+    codes:
+      - "70622F40 00000010"
+
+  - name: "Have All Items, Daxter, Dark Jak And All Dark Jak Moves, All Guns, Hoverboard, And Whatever Else [Saveable]"
+    author: "bungholio"
+    codes:
+      - "20622F30 07DDF7E0"
+
+  - name: "Infinite Ammo (Scatter Gun)"
+    author: "Code Master"
+    codes:
+      - "20622F58 42480000"
+
+  - name: "Infinite Double Jumps"
+    author: "bungholio"
+    codes:
+      - "D0128182 0000BFFF"
+      - "101978A0 00001007"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    codes:
+      - "2019C5C0 41000000"
+
+  - name: "Infinite: Air (3Rd Titan Suit)"
+    author: "MadCatz"
+    codes:
+      - "200FFFA0 3C013F80"
+      - "200FFFA4 44810800"
+      - "200FFFA8 44830000"
+      - "200FFFAC 086A8267"
+      - "200FFFB0 E6C100A0"
+      - "21AA0994 0803FFE8"
+
+  - name: "Infinite: Ammo"
+    author: "MadCatz"
+    codes:
+      - "207F0120 00000000"
+
+  - name: "Infinite: Dark Eco"
+    author: "MadCatz"
+    codes:
+      - "20622F28 42C80000"
+
+  - name: "Infinite: Health"
+    author: "MadCatz"
+    codes:
+      - "207EE590 00000000"
+
+  - name: "Infinite: Health (1St Titan Suit)"
+    author: "MadCatz"
+    codes:
+      - "200FFF80 C46100CC"
+      - "200FFF84 46000806"
+      - "200FFF88 0838C78B"
+      - "200FFF8C E46000C8"
+      - "20E31E24 0803FFE0"
+
+  - name: "Infinite: Health (2Nd Titan Suit)"
+    author: "MadCatz"
+    codes:
+      - "200FFF90 C46100CC"
+      - "200FFF94 46000806"
+      - "200FFF98 0868EC8B"
+      - "200FFF9C E46000C8"
+      - "21A3B224 0803FFE4"
+
+  - name: "Infinite: Health (3Rd Titan Suit)"
+    author: "MadCatz"
+    codes:
+      - "200FFF60 C46100CC"
+      - "200FFF64 46000806"
+      - "200FFF68 086A1CFF"
+      - "200FFF6C E46000C8"
+      - "21A873FA 0803FFD8"
+
+  - name: "Infinite: Health (Drill Platform)"
+    author: "MadCatz"
+    codes:
+      - "200FFF70 3C014180"
+      - "200FFF74 44810000"
+      - "200FFF78 084F6909"
+      - "200FFF7C E6C001FC"
+
+  - name: "Infinite: Health (Gun Turret)"
+    author: "MadCatz"
+    codes:
+      - "2013DB10 3C01CFCD"
+
+  - name: "Infinite: Metal Head Skull Gems"
+    author: "MadCatz"
+    codes:
+      - "20622F14 4B18967F"
+      - "20622F18 4B18967F"
+
+  - name: "Infinite: Precursor Orbs"
+    author: "MadCatz"
+    codes:
+      - "20622F1C 4B18967F"
+      - "20622F20 4B18967F"
+
+  - name: "English"
+    author: "Code Master"
+    notes: "[Language Modifier Codes]"
+    codes:
+      - "A01108B0 03E00008"
+      - "A01108B4 24020001"
+
+  - name: "French"
+    author: "Code Master"
+    notes: "[Language Modifier Codes]"
+    codes:
+      - "A01108B0 03E00008"
+      - "A01108B4 24020002"
+
+  - name: "German"
+    author: "Code Master"
+    notes: "[Language Modifier Codes]"
+    codes:
+      - "A01108B0 03E00008"
+      - "A01108B4 24020004"
+
+  - name: "Italian"
+    author: "Code Master"
+    notes: "[Language Modifier Codes]"
+    codes:
+      - "A01108B0 03E00008"
+      - "A01108B4 24020005"
+
+  - name: "Japanese"
+    author: "Code Master"
+    notes: "[Language Modifier Codes]"
+    codes:
+      - "A01108B0 03E00008"
+      - "A01108B4 24020000"
+
+  - name: "Portuguese"
+    author: "Code Master"
+    notes: "[Language Modifier Codes]"
+    codes:
+      - "A01108B0 03E00008"
+      - "A01108B4 24020007"
+
+  - name: "Spanish"
+    author: "Code Master"
+    notes: "[Language Modifier Codes]"
+    codes:
+      - "A01108B0 03E00008"
+      - "A01108B4 24020003"
+
+  - name: "25%"
+    author: "MadCatz"
+    notes: "[Limit Max Health]"
+    codes:
+      - "200FFFB4 3C014000"
+
+  - name: "50%"
+    author: "MadCatz"
+    notes: "[Limit Max Health]"
+    codes:
+      - "200FFFB4 3C014080"
+
+  - name: "75%"
+    author: "MadCatz"
+    notes: "[Limit Max Health]"
+    codes:
+      - "200FFFB4 3C0140C0"
+
+  - name: "Health Limit Enable Code (Must Be On For The Following 3 Codes)"
+    author: "MadCatz"
+    notes: "[Limit Max Health]"
+    codes:
+      - "200FFFB0 C461004C"
+      - "200FFFB8 4481B800"
+      - "200FFFBC 4601B834"
+      - "200FFFC0 45030001"
+      - "200FFFC4 4600B846"
+      - "200FFFC8 E461004C"
+      - "200FFFCC 0827F485"
+      - "200FFFD0 46010002"
+      - "209FD10C 0803FFEC"
+      - "209FD110 3C014100"
+
+  - name: "Max Gems"
+    author: "Codejunkies"
+    codes:
+      - "20116F18 3C032062"
+      - "20116F1C 3C024461"
+      - "20116F20 AC622F14"
+
+  - name: "Max Metal Head Skull Gems (Current)"
+    author: "Code Master"
+    codes:
+      - "20622F14 4479C000"
+
+  - name: "Max Orbs"
+    author: "Codejunkies"
+    codes:
+      - "20116F28 3C032062"
+      - "20116F2C 3C024461"
+      - "20116F30 AC622F20"
+
+  - name: "Max Precursor Orbs (Current)"
+    author: "Code Master"
+    codes:
+      - "20622F1C 43480000"
+
+  - name: "Max Precursor Orbs (Overall)"
+    author: "Code Master"
+    codes:
+      - "20622F20 43480000"
+
+  - name: "Max Score (Scatter Gun Course)"
+    author: "Code Master"
+    codes:
+      - "201C01E0 0001869F"
+
+  - name: "No Clipping - L3 + Up To Enable, L3 + Down To Disable"
+    author: "bungholio"
+    codes:
+      - "D0128182 0000FFED"
+      - "10197814 0000FFFF"
+      - "D0128182 0000FFBD"
+      - "10197814 00000011"
+
+  - name: "Infinite Health(Sig) Press Select On, L3 Off"
+    author: "Azagthoth"
+    notes: "[Protect Sig at Pumping Station]"
+    codes:
+      - "D0128180 0000FFFE"
+      - "20DC3AAC 00000000"
+      - "D0128180 0000FFFD"
+      - "20DC3AAC E4600204"
+
+  - name: "Unlock All Secrets"
+    author: "Code Master"
+    codes:
+      - "20622F48 FFFFFFFF"
+      - "2080A704 FFFFFFFF"
+      - "2080C894 FFFFFFFF"
+      - "2080EDD4 FFFFFFFF"
+      - "2080F624 FFFFFFFF"
+      - "20813964 FFFFFFFF"
+      - "20819214 FFFFFFFF"
+
+  - name: "P1 Press L1+Select To Stop Race Timer"
+    author: "Code Master"
+    notes: "[With this game, yes, I know the Enable Code is extra long, but it's necessary because this is the second game that crashes Code Breaker PS2 when you have codes active. This long enable code fixes the crash so the game boots up properly and the cheats will be active.]"
+    codes:
+      - "D0128182 0000FBFE"
+      - "20357144 00000000"
+
+  - name: "P1 Press L2+Select To Restart Race Timer"
+    author: "Code Master"
+    notes: "[With this game, yes, I know the Enable Code is extra long, but it's necessary because this is the second game that crashes Code Breaker PS2 when you have codes active. This long enable code fixes the crash so the game boots up properly and the cheats will be active.]"
+    codes:
+      - "D0128182 0000FEFE"
+      - "20357144 FF830014"
+
+  - name: "Blaster Weapon"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "20622F54 43480000"
+
+  - name: "Scatter Gun"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "20622F58 42C80000"
+
+  - name: "Vulcan Fury"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "20622F5C 43480000"
+
+  - name: "Peace Maker"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "20622F60 41200000"

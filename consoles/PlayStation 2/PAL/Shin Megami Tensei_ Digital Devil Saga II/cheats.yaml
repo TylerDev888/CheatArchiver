@@ -1,0 +1,144 @@
+# Shin Megami Tensei_ Digital Devil Saga II cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54555
+
+game: "Shin Megami Tensei_ Digital Devil Saga II"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54555"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9033E290 0C0CF84C"
+
+  - name: "Save Game To Make Game Extra"
+    notes: "[Misc Codes]"
+    codes:
+      - "0113FF0C 00000001"
+
+  - name: "Save Game To Make New Cycle"
+    notes: "[Misc Codes]"
+    codes:
+      - "0113FF0E 00000001"
+
+  - name: "Inf Money"
+    notes: "[Misc Codes]"
+    codes:
+      - "2113FF3C 0098967F"
+
+  - name: "Shop Points Max"
+    notes: "[Misc Codes]"
+    codes:
+      - "2115E554 000F423F"
+
+  - name: "Inf/All Items"
+    notes: "[Misc Codes]"
+    codes:
+      - "41141240 001C0001"
+      - "63636363 00000000"
+
+  - name: "Inf/All Ammo"
+    notes: "[Misc Codes]"
+    codes:
+      - "411412E0 00050001"
+      - "63636363 00000000"
+      - "011412F4 00000063"
+
+  - name: "Solar Noise{00 Min, Max 08]"
+    notes: "[Misc Codes]"
+    codes:
+      - "01140941 000000[Amount:08:HEX:BIG]"
+
+  - name: "All Combos"
+    notes: "[Misc Codes]"
+    codes:
+      - "21156E00 FFFFFFF0"
+      - "21156E04 FFFFFFFF"
+      - "21156E08 FFFFFFFF"
+      - "01156E0C 000000FF"
+
+  - name: "Have All Rings"
+    notes: "[Misc Codes]"
+    codes:
+      - "41141300 000E0001"
+      - "05050505 00000000"
+
+  - name: "Quick Atma Gain X"
+    notes: "[After Battle Codes]"
+    codes:
+      - "001F78F4 00000001"
+      - "101F78FC 0000[Amount:270F:HEX:BIG]"
+
+  - name: "Quick EXP Gain X"
+    notes: "[After Battle Codes]"
+    codes:
+      - "00219494 00000001"
+      - "10219498 0000[Amount:270F:HEX:BIG]"
+
+  - name: "Quick Money Gain X"
+    notes: "[After Battle Codes]"
+    codes:
+      - "001F7AF0 00000001"
+      - "101F7AF8 0000[Amount:270F:HEX:BIG]"
+
+  - name: "Character Mod"
+    notes: "[Party Leader Codes]"
+    codes:
+      - "01140964 000000[CM]"
+
+  - name: "Inf/Max HP"
+    notes: "[Party Leader Codes]"
+    codes:
+      - "11140966 000003E7"
+      - "11140968 000003E7"
+
+  - name: "Inf/Max MP"
+    notes: "[Party Leader Codes]"
+    codes:
+      - "1114096A 000003E7"
+      - "1114096C 000003E7"
+
+  - name: "Max EXP"
+    notes: "[Party Leader Codes]"
+    codes:
+      - "21140970 0098967F"
+
+  - name: "Max Lvl"
+    notes: "[Party Leader Codes]"
+    codes:
+      - "01140974 00000063"
+
+  - name: "Max Strength"
+    notes: "[Party Leader Codes]"
+    codes:
+      - "01140976 00000063"
+
+  - name: "Max Vitality"
+    notes: "[Party Leader Codes]"
+    codes:
+      - "01140977 00000063"
+
+  - name: "Max Magic"
+    notes: "[Party Leader Codes]"
+    codes:
+      - "01140978 00000063"
+
+  - name: "Max Agility"
+    notes: "[Party Leader Codes]"
+    codes:
+      - "01140979 00000063"
+
+  - name: "Max Luck"
+    notes: "[Party Leader Codes]"
+    codes:
+      - "0114097A 00000063"
+
+  - name: "Max Exped"
+    notes: "[Reserve 1 Codes]"
+    codes:
+      - "21140B34 0098967F"

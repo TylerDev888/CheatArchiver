@@ -1,0 +1,36 @@
+# Toy Story 3 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00876
+
+game: "Toy Story 3"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00876"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Decompress Save (required)"
+    notes: "File: SAVE"
+    codes:
+      - "Decompress(*, 15)"
+
+  - name: "Compress Save (required)"
+    notes: "File: SAVE"
+    codes:
+      - "Compress(*)"
+
+  - name: "Update Crc-16 Ccitt For Save (required)"
+    notes: "File: SAVE  (set range:0x0000E4,0x031FFF)"
+    codes:
+      - "set crc_bandwidth:16"
+      - "set crc_polynomial:0x1021"
+      - "set crc_initial_value:0xFFFF"
+      - "set crc_output_xor:0xFFFFFFFF"
+      - "set crc_reflection_input:0"
+      - "set crc_reflection_output:0"
+      - "set pointer:eof+1"
+      - "set range:0x0000E4,pointer"
+      - "set [hash]:crc"
+      - "write at 0x000064:[hash]"

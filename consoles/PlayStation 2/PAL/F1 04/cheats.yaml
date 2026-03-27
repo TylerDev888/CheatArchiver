@@ -1,0 +1,26 @@
+# F1 04 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "F1 04"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9011DF6C 0C0D633C"
+
+  - name: "Stop Timer"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "D04F7282 0000FFFD"
+      - "2022239C 24420000"
+      - "D04F7282 0000FFFB"
+      - "2022239C 24420001"

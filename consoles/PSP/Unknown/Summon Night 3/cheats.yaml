@@ -1,0 +1,17 @@
+# Summon Night 3 cheat data
+# Console: PSP
+# Region:  Unknown
+# Serial:  NPJH50380
+
+game: "Summon Night 3"
+console: "PSP"
+region: "Unknown"
+serial: "NPJH50380"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Possession Max (9999999)"
+    notes: "File: *"
+    codes:
+      - "20026BE0 0098967F"

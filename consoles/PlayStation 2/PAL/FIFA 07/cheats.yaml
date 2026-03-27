@@ -1,0 +1,92 @@
+# FIFA 07 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "FIFA 07"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9061FE30 0C0DCF14"
+
+  - name: "Each Goal Is 5"
+    author: "Xploder"
+    notes: "[Press Select + R1 for Special Scoring (activate only one)]"
+    codes:
+      - "D08C8042 0000F7FE"
+      - "2037E5D0 24420005"
+
+  - name: "Each Goal Is 10"
+    author: "Xploder"
+    notes: "[Press Select + R1 for Special Scoring (activate only one)]"
+    codes:
+      - "D08C8042 0000F7FE"
+      - "2037E5D0 2442000A"
+
+  - name: "Press Select + L1 To Restore Normal Scoring"
+    author: "Xploder"
+    notes: "[Press Select + R1 for Special Scoring (activate only one)]"
+    codes:
+      - "D08C8042 0000FBFE"
+      - "2037E5D0 24420001"
+
+  - name: "Infinite Money"
+    author: "Xploder"
+    notes: "[Manager Mode Codes]"
+    codes:
+      - "20FC8E10 4E000000"
+
+  - name: "Max Job Security"
+    author: "Xploder"
+    notes: "[Manager Mode Codes]"
+    codes:
+      - "20FC8E14 42C60000"
+
+  - name: "Max Fan Support"
+    author: "Xploder"
+    notes: "[Manager Mode Codes]"
+    codes:
+      - "20FC8E20 42C60000"
+
+  - name: "High Sponsor Funding Per Game"
+    author: "Xploder"
+    notes: "[Manager Mode Codes]"
+    codes:
+      - "20FCF18C 4A989680"
+
+  - name: "High Sponsor Loyalty Bonus"
+    author: "Xploder"
+    notes: "[Manager Mode Codes]"
+    codes:
+      - "20FCF194 4CBCD3D8"
+
+  - name: "High Sponsor Extra Bonus"
+    author: "Xploder"
+    notes: "[Manager Mode Codes]"
+    codes:
+      - "20FCF198 4CBCD3D8"
+
+  - name: "High Sponsor League Bonus"
+    author: "Xploder"
+    notes: "[Manager Mode Codes]"
+    codes:
+      - "20FCF19C 4CBCD3D8"
+
+  - name: "High Sponsor Domestic Cup Bonus"
+    author: "Xploder"
+    notes: "[Manager Mode Codes]"
+    codes:
+      - "20FCF1A0 4CBCD3D8"
+
+  - name: "High Sponsor International Cup Bonus"
+    author: "Xploder"
+    notes: "[Manager Mode Codes]"
+    codes:
+      - "20FCF1A4 4CBCD3D8"

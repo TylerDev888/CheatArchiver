@@ -1,0 +1,27 @@
+# Dragon Quest Heroes cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA02769
+
+game: "Dragon Quest Heroes"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA02769"
+cheat_type: "AP"
+source: "source: krustytoe@hackinformer"
+
+cheats:
+  - name: "Max Out All Ingredients In Bag (99)"
+    notes: "File: *"
+    codes:
+      - "40003117 00000063"
+      - "404B0014 00000000"
+
+  - name: "All Characters - Max Exp (9,999,999)"
+    notes: "File: *"
+    codes:
+      - "420028A8 0098967F"
+      - "400D008C 00000000"
+
+  - name: "Accessory Effect Mod"
+    notes: "File: *  \\\\80010004 xxxxxxxx \\\\18000004 0000yyyy \\\\08000006 000000zz \\\\18000008 0000yyyy \\\\0800000A 000000zz \\\\1800000C 0000yyyy \\\\0800000E 000000zz (xxxxxxxx = Equipment ID) (0000yyyy = Value) (000000zz = Effect) (yyyy) (03E8 = 100) (2710 = 1000)"

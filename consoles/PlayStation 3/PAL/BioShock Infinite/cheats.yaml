@@ -1,0 +1,67 @@
+# BioShock Infinite cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01705
+
+game: "BioShock Infinite"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01705"
+cheat_type: "Save Editor"
+source: "From zeick"
+
+cheats:
+  - name: "Decompress Save (required)"
+    notes: "File: PAYLOAD"
+    codes:
+      - "Decompress(*, 15)"
+
+  - name: "Money $9999"
+    notes: "File: ~extracted\\*.dat"
+    codes:
+      - "search 0xC12581B2"
+      - "write next (4):0000270F"
+
+  - name: "Lockpicks 30"
+    notes: "File: ~extracted\\*.dat"
+    codes:
+      - "search 0xC12581B2"
+      - "write next (34):001E"
+
+  - name: "Red:info:cheats Below May Stop Story Trophies"
+    notes: "File: ~extracted\\*.dat"
+
+  - name: "Money 90000"
+    notes: "File: ~extracted\\*.dat"
+    codes:
+      - "search 0xC12581B2"
+      - "write next (4):00015F90"
+
+  - name: "Lockpicks $900"
+    notes: "File: ~extracted\\*.dat  (From Keha World)"
+    codes:
+      - "search 0xC12581B2"
+      - "write next (34):0384"
+
+  - name: "Silver Eagle 99999 *uses For Extracted Files List 1"
+    notes: "File: ~extracted\\*.dat  (*You must have at least one Silver Eagle)"
+    codes:
+      - "search C12581B2"
+      - "write next 4: 0001869F"
+
+  - name: "Lockpick 999 *uses For Extracted Files List 1"
+    notes: "File: ~extracted\\*.dat  (*You must have at least one Lockpick)"
+    codes:
+      - "search C12581B2"
+      - "write next 34: 000003E7"
+
+  - name: "Infinity Health (normal Mode) *uses For Extracted Files List 1"
+    notes: "File: ~extracted\\*.dat"
+    codes:
+      - "search C12581B2"
+      - "write next 97: 7FFFFF7FFFFF"
+
+  - name: "Compress Save (required)"
+    notes: "File: PAYLOAD"
+    codes:
+      - "Compress(*)"

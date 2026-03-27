@@ -1,0 +1,61 @@
+# Aqua Aqua cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20162
+
+game: "Aqua Aqua"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20162"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F011760C 000001FD"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001CB423"
+
+  - name: "Access Story Puzzle"
+    author: "Code Master"
+    codes:
+      - "2020401C 00000000"
+
+  - name: "Always Shielded"
+    author: "InterAct"
+    codes:
+      - "102006D0 00000001"
+
+  - name: "Infinite Time"
+    author: "Code Master"
+    codes:
+      - "202006B4 00000000"
+
+  - name: "Quick Score Gain"
+    author: "Code Master"
+    codes:
+      - "20101E48 3405270F"
+
+  - name: "Water Drain Meter Never Fills"
+    author: "Code Master"
+    codes:
+      - "20103974 00000000"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001CB423"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901CB420 0C075C51"

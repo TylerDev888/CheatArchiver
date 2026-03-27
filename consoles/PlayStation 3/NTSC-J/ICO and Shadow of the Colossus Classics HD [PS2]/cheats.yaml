@@ -1,0 +1,189 @@
+# ICO and Shadow of the Colossus Classics HD [PS2] cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BCAS20202
+
+game: "ICO and Shadow of the Colossus Classics HD [PS2]"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BCAS20202"
+cheat_type: "AP"
+source: ""
+
+cheats:
+  - name: "Save 1 Play Time 0:00"
+    notes: "File: BCES01097_ICO\\MASTER.BIN"
+    codes:
+      - "20000008 00000000"
+
+  - name: "Save 2 Play Time 0:00"
+    notes: "File: BCES01097_ICO\\MASTER.BIN"
+    codes:
+      - "2000001C 00000000"
+
+  - name: "Save 3 Play Time 0:00"
+    notes: "File: BCES01097_ICO\\MASTER.BIN"
+    codes:
+      - "20000030 00000000"
+
+  - name: "Save 4 Play Time 0:00"
+    notes: "File: BCES01097_ICO\\MASTER.BIN"
+    codes:
+      - "20000044 00000000"
+
+  - name: "Save 5 Play Time 0:00"
+    notes: "File: BCES01097_ICO\\MASTER.BIN"
+    codes:
+      - "20000058 00000000"
+
+  - name: "Update Checksum For Master.bin (required)"
+    notes: "File: BCES01097_ICO\\MASTER.BIN  (set [csum]:add(0x000000,0x0001FB) (write at 0x0001FC:[csum]"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof-4"
+      - "set [csum]:add(0x000000,pointer))"
+      - "set pointer:eof-3"
+      - "write next (0):[csum]"
+
+  - name: "Ultra Long Health(900)"
+    notes: "[Shadow Of The Colossus\\health Modifier (choose One)]  File: BCAS20202_SOTC\\GAME.00*"
+    codes:
+      - "20000090 44610000"
+
+  - name: "Easy Trophy For Max Health By Eating One Fruit"
+    notes: "[Shadow Of The Colossus\\health Modifier (choose One)]  File: BCAS20202_SOTC\\GAME.00*"
+    codes:
+      - "20000090 440E0000"
+
+  - name: "Max Grip(900)"
+    notes: "[Shadow Of The Colossus\\others]  File: BCAS20202_SOTC\\GAME.00*"
+    codes:
+      - "20000094 44610000"
+
+  - name: "Time Attack Mode Unlocked + Game Completion 1"
+    notes: "[Shadow Of The Colossus\\others]  File: BCAS20202_SOTC\\GAME.00*"
+    codes:
+      - "00003C3C 00000001"
+
+  - name: "Difficulty: Normal"
+    notes: "[Shadow Of The Colossus\\difficulty Modifier (choose One)]  File: BCAS20202_SOTC\\GAME.00*"
+    codes:
+      - "00003C44 00000000"
+
+  - name: "Difficulty: Hard"
+    notes: "[Shadow Of The Colossus\\difficulty Modifier (choose One)]  File: BCAS20202_SOTC\\GAME.00*"
+    codes:
+      - "00003C44 00000001"
+
+  - name: "Normal Black Horse"
+    notes: "[Shadow Of The Colossus\\horse Modifier (choose One)]  File: BCAS20202_SOTC\\GAME.00*"
+    codes:
+      - "00003C23 00000000"
+
+  - name: "White Horse"
+    notes: "[Shadow Of The Colossus\\horse Modifier (choose One)]  File: BCAS20202_SOTC\\GAME.00*"
+    codes:
+      - "00003C23 00000001"
+
+  - name: "Brown Horse"
+    notes: "[Shadow Of The Colossus\\horse Modifier (choose One)]  File: BCAS20202_SOTC\\GAME.00*"
+    codes:
+      - "00003C23 00000002"
+
+  - name: "Ico Horse"
+    notes: "[Shadow Of The Colossus\\horse Modifier (choose One)]  File: BCAS20202_SOTC\\GAME.00*"
+    codes:
+      - "00003C23 00000004"
+
+  - name: "All Items Equipped(original Ps2 Codes From Codebreaker,ported By Chaoszage)"
+    notes: "[Shadow Of The Colossus\\untested Codes]  File: BCAS20202_SOTC\\GAME.00*"
+    codes:
+      - "00003C22 000000CC"
+      - "10003C24 00002E0C"
+
+  - name: "All Time Trial Records 1 Sec"
+    notes: "[Shadow Of The Colossus\\untested Codes]  File: BCAS20202_SOTC\\GAME.00*"
+    codes:
+      - "42003C50 3F800000"
+      - "40100004 00000000"
+
+  - name: "Update Checksum For Game.000 (required)"
+    notes: "[Shadow Of The Colossus\\untested Codes]  File: BCAS20202_ICO\\GAME.000"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof-4"
+      - "set [csum]:add(0x000000,pointer)"
+      - "set pointer:eof-3"
+      - "write next (0):[csum]"
+
+  - name: "Update Checksum For Game.001 (required)"
+    notes: "[Shadow Of The Colossus\\untested Codes]  File: BCAS20202_ICO\\GAME.001"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof-4"
+      - "set [csum]:add(0x000000,pointer)"
+      - "set pointer:eof-3"
+      - "write next (0):[csum]"
+
+  - name: "Update Checksum For Game.002 (required)"
+    notes: "[Shadow Of The Colossus\\untested Codes]  File: BCAS20202_ICO\\GAME.002"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof-4"
+      - "set [csum]:add(0x000000,pointer)"
+      - "set pointer:eof-3"
+      - "write next (0):[csum]"
+
+  - name: "Update Checksum For Game.004 (required)"
+    notes: "[Shadow Of The Colossus\\untested Codes]  File: BCAS20202_ICO\\GAME.003"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof-4"
+      - "set [csum]:add(0x000000,pointer)"
+      - "set pointer:eof-3"
+      - "write next (0):[csum]"
+
+  - name: "Update Checksum For Game.005 (required)"
+    notes: "[Shadow Of The Colossus\\untested Codes]  File: BCAS20202_ICO\\GAME.005"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof-4"
+      - "set [csum]:add(0x000000,pointer)"
+      - "set pointer:eof-3"
+      - "write next (0):[csum]"
+
+  - name: "Update Checksum For Game.006 (required)"
+    notes: "[Shadow Of The Colossus\\untested Codes]  File: BCAS20202_ICO\\GAME.006"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof-4"
+      - "set [csum]:add(0x000000,pointer)"
+      - "set pointer:eof-3"
+      - "write next (0):[csum]"
+
+  - name: "Update Checksum For Game.007 (required)"
+    notes: "[Shadow Of The Colossus\\untested Codes]  File: BCAS20202_ICO\\GAME.007"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof-4"
+      - "set [csum]:add(0x000000,pointer)"
+      - "set pointer:eof-3"
+      - "write next (0):[csum]"
+
+  - name: "Update Checksum For Game.008 (required)"
+    notes: "[Shadow Of The Colossus\\untested Codes]  File: BCAS20202_ICO\\GAME.008"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof-4"
+      - "set [csum]:add(0x000000,pointer)"
+      - "set pointer:eof-3"
+      - "write next (0):[csum]"
+
+  - name: "Update Checksum For Game.009 (required)"
+    notes: "[Shadow Of The Colossus\\untested Codes]  File: BCAS20202_ICO\\GAME.009"
+    codes:
+      - "set [csum]:0"
+      - "set pointer:eof-4"
+      - "set [csum]:add(0x000000,pointer)"
+      - "set pointer:eof-3"
+      - "write next (0):[csum]"

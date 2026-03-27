@@ -1,0 +1,122 @@
+# Teenage Mutant Ninja Turtles_ Splintered Fate
+
+**Console:** PlayStation 4  
+**Region:** NTSC-U  
+**Serial:** CUSA50828  
+**Cheat Type:** SaveWizard  
+
+---
+
+## Cheats
+
+### Fast Abilities (Special Charge) Level 99
+**Author:** Zeraf3000  
+**Notes:** [Max each one of these upgrade FIRST before applying these codes:{otherwise you'll end up writing stuff in the wrong place and you might break your save,NOTE: Bare in mind that, even though the codes do increase the stats % to super levels, because the base values of each are so low to begin with...
+
+```
+80010008 75706772
+61646573 00000000
+88010009 35373034
+30303230 35000000
+88010005 6C657665
+6C000000 00000000
+18000007 00003939
+```
+
+---
+
+### Special Damage Level 99
+**Author:** Zeraf3000  
+**Notes:** [Max each one of these upgrade FIRST before applying these codes:{otherwise you'll end up writing stuff in the wrong place and you might break your save,NOTE: Bare in mind that, even though the codes do increase the stats % to super levels, because the base values of each are so low to begin with...
+
+```
+80010008 75706772
+61646573 00000000
+8801000A 31343537
+37343536 34340000
+88010005 6C657665
+6C000000 00000000
+18000007 00003939
+```
+
+---
+
+### Health Level 99
+**Author:** Zeraf3000  
+**Notes:** [Max each one of these upgrade FIRST before applying these codes:{otherwise you'll end up writing stuff in the wrong place and you might break your save,NOTE: Bare in mind that, even though the codes do increase the stats % to super levels, because the base values of each are so low to begin with...
+
+```
+80010008 75706772
+61646573 00000000
+88010009 33353332
+39353133 34000000
+88010005 6C657665
+6C000000 00000000
+18000007 00003939
+```
+
+---
+
+### Attack Damage Level 99
+**Author:** Zeraf3000  
+**Notes:** [Max each one of these upgrade FIRST before applying these codes:{otherwise you'll end up writing stuff in the wrong place and you might break your save,NOTE: Bare in mind that, even though the codes do increase the stats % to super levels, because the base values of each are so low to begin with...
+
+```
+80010008 75706772
+61646573 00000000
+88010009 34333734
+35333037 39000000
+88010005 6C657665
+6C000000 00000000
+18000007 00003939
+```
+
+---
+
+### Critical Chance Level 99
+**Author:** Zeraf3000  
+**Notes:** [Max each one of these upgrade FIRST before applying these codes:{otherwise you'll end up writing stuff in the wrong place and you might break your save,NOTE: Bare in mind that, even though the codes do increase the stats % to super levels, because the base values of each are so low to begin with...
+
+```
+80010008 75706772
+61646573 00000000
+88010009 35393939
+31393032 38000000
+88010005 6C657665
+6C000000 00000000
+18000007 00003939
+```
+
+---
+
+### Swiftness (Move speed) Level 99
+**Author:** Zeraf3000  
+**Notes:** [Max each one of these upgrade FIRST before applying these codes:{otherwise you'll end up writing stuff in the wrong place and you might break your save,NOTE: Bare in mind that, even though the codes do increase the stats % to super levels, because the base values of each are so low to begin with...
+
+```
+80010008 75706772
+61646573 00000000
+88010009 37383032
+30343139 34000000
+88010005 6C657665
+6C000000 00000000
+18000007 00003939
+```
+
+---
+
+### Critical Damage Level 99
+**Author:** Zeraf3000  
+**Notes:** [Max each one of these upgrade FIRST before applying these codes:{otherwise you'll end up writing stuff in the wrong place and you might break your save,NOTE: Bare in mind that, even though the codes do increase the stats % to super levels, because the base values of each are so low to begin with...
+
+```
+80010008 75706772
+61646573 00000000
+88010009 32343237
+36303738 35000000
+88010005 6C657665
+6C000000 00000000
+18000007 00003939
+```
+
+---

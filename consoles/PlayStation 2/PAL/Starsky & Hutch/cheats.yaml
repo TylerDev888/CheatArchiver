@@ -1,0 +1,122 @@
+# Starsky & Hutch cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51783
+
+game: "Starsky & Hutch"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51783"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0115C24 00115C27"
+
+  - name: "Have All Items (Slot 1)"
+    author: "Codejunkies"
+    codes:
+      - "20514CB0 FFFFFFFF"
+      - "20514CB4 FFFFFFFF"
+      - "20514CB8 FFFFFFFF"
+      - "20514CBC FFFFFFFF"
+      - "20514CC0 FFFFFFFF"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "201C1FDC 24420000"
+
+  - name: "Massive Viewer Ratings"
+    author: "Codejunkies"
+    codes:
+      - "2018FEB0 3C014D1C"
+      - "2018FEB8 AE410000"
+
+  - name: "One Hit Kill"
+    author: "Codejunkies"
+    codes:
+      - "2013B7C4 44800000"
+      - "2013B7C8 AE000114"
+
+  - name: "Unlock All Levels And Bonus Cars (Slot 1)"
+    author: "Codejunkies"
+    codes:
+      - "20514C64 00060606"
+      - "20514C68 4D1C0003"
+      - "20514C6C 4D1C0003"
+      - "20514C70 4D1C0003"
+      - "20514C74 4D1C0003"
+      - "20514C78 4D1C0003"
+      - "20514C7C 4D1C0003"
+      - "20514C80 4D1C0003"
+      - "20514C84 4D1C0003"
+      - "20514C88 4D1C0003"
+      - "20514C8C 4D1C0003"
+      - "20514C90 4D1C0003"
+      - "20514C94 4D1C0003"
+      - "20514C98 4D1C0003"
+      - "20514C9C 4D1C0003"
+      - "20514CA0 4D1C0003"
+      - "20514CA4 4D1C0003"
+      - "20514CA8 4D1C0003"
+      - "20514CAC 4D1C0003"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00115C27"
+
+  - name: "Unlock All Episodes"
+    author: "Xploder"
+    notes: "[Season 1]"
+    codes:
+      - "00514C64 00000006"
+
+  - name: "Maximum VR Episode 1"
+    author: "Xploder"
+    notes: "[Season 1]"
+    codes:
+      - "20514C68 4B18967F"
+
+  - name: "Maximum VR Episode 2"
+    author: "Xploder"
+    notes: "[Season 1]"
+    codes:
+      - "20514C6C 4B18967F"
+
+  - name: "Maximum VR Episode 3"
+    author: "Xploder"
+    notes: "[Season 1]"
+    codes:
+      - "20514C70 4B18967F"
+
+  - name: "Maximum VR Episode 4"
+    author: "Xploder"
+    notes: "[Season 1]"
+    codes:
+      - "20514C74 4B18967F"
+
+  - name: "Maximum VR Episode 5"
+    author: "Xploder"
+    notes: "[Season 1]"
+    codes:
+      - "20514C78 4B18967F"
+
+  - name: "Maximum VR Episode 6"
+    author: "Xploder"
+    notes: "[Season 1]"
+    codes:
+      - "20514C7C 4B18967F"
+
+  - name: "All Keys, Tokens, 2Nd Objectives"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "40514CB0 00050001"
+      - "FFFFFFFF 00000000"

@@ -1,0 +1,38 @@
+# Drakan - The Ancients' Gates cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-50006
+
+game: "Drakan - The Ancients' Gates"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-50006"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F010149C 004B0F57"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "204FBB24 739ACC45"
+
+  - name: "Pots Of Cash"
+    author: "Codejunkies"
+    codes:
+      - "204FBAE0 7FFFFF45"
+
+  - name: "Rapid Level Gain"
+    author: "Codejunkies"
+    codes:
+      - "204FBAEC 73C14750"
+
+  - name: "Skill Point Overload"
+    author: "Codejunkies"
+    codes:
+      - "204FBAF0 739ACC45"

@@ -1,0 +1,53 @@
+# Eye Toy Antigrav cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97414
+
+game: "Eye Toy Antigrav"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97414"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90241914 0C093EC5"
+
+  - name: "Infinite Turbo"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20140D00 00000000"
+      - "20140D94 00000000"
+      - "20140EE0 00000000"
+
+  - name: "Quick Score Gain"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2012D0B4 340503E7"
+
+  - name: "Super Quick Score Gain"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2012D0B4 3405270F"
+
+  - name: "Ultra Quick Score Gain"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2012D0B4 3405C350"
+
+  - name: "Quick Max Score"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2012D0C8 3C0205F5"
+      - "2012D0CC 3442E0FF"
+      - "2012D0D4 3C0305F5"
+      - "2012D0DC 3463E0FF"

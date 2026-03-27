@@ -1,0 +1,177 @@
+# Sega Superstars cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20999
+
+game: "Sega Superstars"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20999"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "90116FA0 0C051C60"
+
+  - name: "Infinite Time"
+    author: "Code Master"
+    notes: "[Billy Hatcher Codes]"
+    codes:
+      - "D0500502 0000AE23"
+      - "20500508 00000000"
+
+  - name: "Quick Mice Gain"
+    author: "Code Master"
+    notes: "[Chu Chu Rocket Codes]"
+    codes:
+      - "D04CFFA2 00008C85"
+      - "204CFFA8 240403E7"
+      - "D04CFDA4 00008023"
+      - "204CFDB4 00000000"
+      - "D04CFDCA 00008C62"
+      - "204CFDCC 240203E7"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[House Of The Dead Codes]"
+    codes:
+      - "E002882D 00505AE4"
+      - "20505AEC 24020006"
+      - "20505AF4 A2420110"
+      - "E002802D 005056C8"
+      - "205056CC 24020006"
+      - "205056D4 A2420110"
+
+  - name: "Max Kills"
+    author: "Code Master"
+    notes: "[House Of The Dead Codes]"
+    codes:
+      - "E004BF34 0050B850"
+      - "200C0220 240603E7"
+      - "200C0224 03E00008"
+      - "200C0228 AE8600F8"
+      - "2050B864 0C030088"
+
+  - name: "Quick Max Score"
+    author: "Code Master"
+    notes: "[House Of The Dead Codes]"
+    codes:
+      - "E0020836 004FC85C"
+      - "204FC874 3C03000F"
+      - "204FC87C 3463423F"
+
+  - name: "Puyos Score 10"
+    author: "Code Master"
+    notes: "[Puyo Puyo Fever Codes]"
+    codes:
+      - "D03408C4 0000382D"
+      - "103408C8 0000000A"
+
+  - name: "Puyos Score 2"
+    author: "Code Master"
+    notes: "[Puyo Puyo Fever Codes]"
+    codes:
+      - "D03408C4 0000382D"
+      - "103408C8 00000002"
+
+  - name: "Puyos Score 20"
+    author: "Code Master"
+    notes: "[Puyo Puyo Fever Codes]"
+    codes:
+      - "D03408C4 0000382D"
+      - "103408C8 00000014"
+
+  - name: "Puyos Score 5"
+    author: "Code Master"
+    notes: "[Puyo Puyo Fever Codes]"
+    codes:
+      - "D03408C4 0000382D"
+      - "103408C8 00000005"
+
+  - name: "Max Rings"
+    author: "Code Master"
+    notes: "[Sonic The Hedgehog Codes]"
+    codes:
+      - "D04D0908 00001821"
+      - "204D090C 241003E7"
+
+  - name: "Infinite Hearts"
+    author: "Code Master"
+    notes: "[Space Channel 5 Codes]"
+    codes:
+      - "D04E2FEC 00000880"
+      - "204E2FFC 00000000"
+      - "D04FDF90 0000202D"
+      - "204FDFA0 00000000"
+      - "D0507F04 00001ED8"
+      - "20507F14 00000000"
+
+  - name: "Infinite Lives"
+    author: "Code Master"
+    notes: "[Super Monkey Ball Codes]"
+    codes:
+      - "E002202D 004FF988"
+      - "204FF99C 24050009"
+      - "204FF9A0 AE0500C4"
+
+  - name: "Max Bananas"
+    author: "Code Master"
+    notes: "[Super Monkey Ball Codes]"
+    codes:
+      - "E0027418 004FF9BC"
+      - "204FF9CC 240503E7"
+      - "204FF9D0 AE0500D0"
+
+  - name: "Infinite Black Market Coins"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E005882D 004FDE18"
+      - "204FDE20 3C0405F5"
+      - "204FDE24 3484E0FF"
+      - "204FDE28 8E230000"
+      - "104FDE2E 00001000"
+      - "204FDE30 AC640008"
+
+  - name: "Infinite Health P1"
+    author: "Code Master"
+    notes: "[Virtua Fighter Codes]"
+    codes:
+      - "E0020843 004F3CA8"
+      - "204F3CAC 3C0142C8"
+      - "204F3CB0 AE0101A4"
+
+  - name: "Infinite Health P2"
+    author: "Code Master"
+    notes: "[Virtua Fighter Codes]"
+    codes:
+      - "E0020843 004F3C18"
+      - "204F3C1C 3C0142C8"
+      - "204F3C20 AE01019C"
+
+  - name: "No Health P1"
+    author: "Code Master"
+    notes: "[Virtua Fighter Codes]"
+    codes:
+      - "E0020843 004F3CA8"
+      - "204F3CAC 3C010000"
+      - "204F3CB0 AE0101A4"
+
+  - name: "No Health P2"
+    author: "Code Master"
+    notes: "[Virtua Fighter Codes]"
+    codes:
+      - "E0020843 004F3C18"
+      - "204F3C1C 3C010000"
+      - "204F3C20 AE01019C"
+
+  - name: "Infinite Balls"
+    author: "Code Master"
+    notes: "[Virtua Striker Codes]"
+    codes:
+      - "D04CC1CC 0000DF98"
+      - "204CC1E0 00000000"

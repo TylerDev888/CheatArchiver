@@ -1,0 +1,33 @@
+# Wizardry X - Zensen No Gakufu cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65840
+
+game: "Wizardry X - Zensen No Gakufu"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65840"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Buy Equipment Even Without Money"
+    author: "luc-ita"
+    codes:
+      - "2013EDCC 1000000C"
+      - "2013F484 24120000"
+
+  - name: "Level Up Even Without EXP"
+    author: "luc-ita"
+    codes:
+      - "2013D118 00000000"
+
+  - name: "Level Up For Maximum HP"
+    author: "luc-ita"
+    codes:
+      - "2012FDDC 00000000"
+
+  - name: "Rest Even Without Money"
+    author: "luc-ita"
+    codes:
+      - "2013D030 24020002"

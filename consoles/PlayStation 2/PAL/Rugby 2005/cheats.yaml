@@ -1,0 +1,125 @@
+# Rugby 2005 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53094
+
+game: "Rugby 2005"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53094"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0415AAC 00415AAF"
+
+  - name: "Infinite Special Abilities"
+    author: "Codejunkies"
+    codes:
+      - "2057FC40 00000000"
+
+  - name: "Hyper Mode (Press R3+Right)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "D06A6382 0000FFDB"
+      - "20479474 40400000"
+
+  - name: "Normal Speed (Press R3+Up)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "D06A6382 0000FFEB"
+      - "20479474 3F800000"
+
+  - name: "Quicker Game (Press R3+Left)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "D06A6382 0000FF7B"
+      - "20479474 3FC00000"
+
+  - name: "Slow Motion (Press R3+Down)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "D06A6382 0000FFBB"
+      - "20479474 3EC00000"
+
+  - name: "Team 1 Starts With 15 Conversions"
+    author: "Codejunkies"
+    notes: "[Start A Game With...]"
+    codes:
+      - "E1010000 005D45E1"
+      - "005D45E1 0000000F"
+
+  - name: "Team 1 Starts With 15 Penalties"
+    author: "Codejunkies"
+    notes: "[Start A Game With...]"
+    codes:
+      - "E1010000 005D45E3"
+      - "005D45E3 0000000F"
+
+  - name: "Team 1 Starts With 15 Tries"
+    author: "Codejunkies"
+    notes: "[Start A Game With...]"
+    codes:
+      - "E1010000 005D45E0"
+      - "005D45E0 0000000F"
+
+  - name: "Team 2 Starts With 15 Conversions"
+    author: "Codejunkies"
+    notes: "[Start A Game With...]"
+    codes:
+      - "E1010000 005D45E8"
+      - "005D45E8 0000000F"
+
+  - name: "Team 2 Starts With 15 Penalties"
+    author: "Codejunkies"
+    notes: "[Start A Game With...]"
+    codes:
+      - "E1010000 005D45EA"
+      - "005D45EA 0000000F"
+
+  - name: "Team 2 Starts With 15 Tries"
+    author: "Codejunkies"
+    notes: "[Start A Game With...]"
+    codes:
+      - "E1010000 005D45E7"
+      - "005D45E7 0000000F"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90413CB4 0C104E22"
+
+  - name: "Home Team Winning 100-0"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "E004FFFD 006A6382"
+      - "205D45E0 00000014"
+      - "005D45E7 00000000"
+      - "105D45E8 00000000"
+      - "005D45EA 00000000"
+
+  - name: "Away Team Winning 100-0"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "E004FFFB 006A6382"
+      - "205D45E0 00000000"
+      - "005D45E7 00000014"
+      - "105D45E8 00000000"
+      - "005D45EA 00000000"
+
+  - name: "Created Player Special Abilities"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "2014DCEC 24010001"

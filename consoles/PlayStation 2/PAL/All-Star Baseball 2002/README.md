@@ -1,0 +1,86 @@
+# All-Star Baseball 2002
+
+**Console:** PlayStation 2  
+**Region:** PAL  
+**Serial:** SLES-50218  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Must Be On (M)
+**Author:** InterAct  
+**Notes:** [Master Codes]
+
+```
+F031B834 000001FD
+```
+
+---
+
+### Infinite Card Packs
+**Author:** InterAct
+
+```
+200FFF40 3C03003B
+200FFF44 8C639BCC
+200FFF48 24020FFF
+200FFF50 AC620014
+200FFF54 080D320E
+200FFF58 3C030070
+D04CFF42 0000F0FF
+2034C834 0803FFD0
+D04CFF42 0000FFFF
+2034C834 24030070
+```
+
+---
+
+### Select+Up Away Has A Score Of 99/Home Team Has A Score Of 0
+**Author:** InterAct
+
+```
+200FFF00 3C030040
+200FFF04 8C63D404
+200FFF0C AC6207F8
+200FFF10 080D31EE
+200FFF14 24030070
+D04CFF42 0000FFEE
+2034C7B4 0803FFC0
+D04CFF42 0000FFBE
+2034C7B4 0803FFC0
+D04CFF42 0000FFFF
+2034C7B4 24030070
+D04CFF42 0000FFEE
+200FFF08 3C020063
+D04CFF42 0000FFBE
+200FFF08 34020063
+```
+
+---
+
+### Mastercode
+**Author:** Xploder  
+**Notes:** [Masters]
+
+```
+F0100008 002B8297
+```
+
+---
+
+### Every Run Scores 5
+**Author:** Xploder  
+**Notes:** [Other]
+
+```
+E002FFEE 0033AA82
+20107EDC 24420005
+20107F04 24630005
+E002FFBE 0033AA82
+20107EDC 24420001
+20107F04 24630001
+```
+
+---

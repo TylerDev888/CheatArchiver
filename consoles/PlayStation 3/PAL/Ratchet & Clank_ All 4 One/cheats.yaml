@@ -1,0 +1,64 @@
+# Ratchet & Clank_ All 4 One cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BCES01141
+
+game: "Ratchet & Clank_ All 4 One"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BCES01141"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Bolts"
+    notes: "[Ratchet]  File: GAME.SAV"
+    codes:
+      - "20000638 05F5E0FF"
+      - "2000063C 05F5E0FF"
+
+  - name: "Have All Weapons In Hand"
+    notes: "[Ratchet]  File: GAME.SAV"
+    codes:
+      - "42000650 00000006"
+      - "40100004 00000001"
+
+  - name: "Unlock All Gadgets"
+    notes: "[Ratchet]  File: GAME.SAV"
+    codes:
+      - "000003D0 00000001"
+      - "000003EC 00000001"
+      - "00000408 00000001"
+
+  - name: "Max Ammo"
+    notes: "[Arc Lasher]  File: GAME.SAV"
+    codes:
+      - "20000460 41F00000"
+      - "2000046C 41F00000"
+
+  - name: "Have All Upgrades"
+    notes: "[Arc Lasher]  File: GAME.SAV"
+    codes:
+      - "00000479 00000007"
+
+  - name: "Unlock Weapon In Store"
+    notes: "[Arc Lasher]  File: GAME.SAV"
+    codes:
+      - "00000478 00000001"
+
+  - name: "Unlock Gadgets"
+    notes: "[Clank]  File: GAME.SAV"
+    codes:
+      - "000015C0 00000001"
+      - "000015DC 00000001"
+      - "000015F8 00000001"
+
+  - name: "Blizer Max Have All Upgrades"
+    notes: "[Blizer]  File: GAME.SAV"
+    codes:
+      - "00001711 00000007"
+
+  - name: "Warmonger Have All Upgrades"
+    notes: "[Warmonger]  File: GAME.SAV"
+    codes:
+      - "000016A1 00000007"

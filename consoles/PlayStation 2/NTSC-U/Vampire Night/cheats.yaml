@@ -1,0 +1,516 @@
+# Vampire Night cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20221
+
+game: "Vampire Night"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20221"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0140084 001647C7"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0140008 001647C7"
+
+  - name: "All Boss Files"
+    author: "InterAct"
+    codes:
+      - "10494E7A 00000101"
+      - "20494E7C 01010101"
+      - "20494E80 01010101"
+      - "20494E84 01010101"
+      - "10494E88 00000101"
+
+  - name: "All Enemy Files"
+    author: "InterAct"
+    codes:
+      - "20494E6C 01010101"
+      - "20494E70 01010101"
+      - "20494E74 01010101"
+      - "10494E78 00000101"
+
+  - name: "All Item Files"
+    author: "InterAct"
+    codes:
+      - "10494E8A 00000101"
+      - "20494E8C 01010101"
+      - "20494E90 01010101"
+      - "20494E94 01010101"
+      - "20494E98 01010101"
+      - "20494E9C 01010101"
+      - "20494EA0 01010101"
+      - "20494EA4 01010101"
+      - "20494EA8 01010101"
+      - "20494EAC 01010101"
+      - "20494EB0 01010101"
+      - "20494EB4 01010101"
+      - "20494EB8 01010101"
+      - "10494EBC 00000101"
+
+  - name: "All Items"
+    author: "InterAct"
+    codes:
+      - "00494DDF 00000063"
+      - "20494DE0 63636363"
+      - "20494DE4 63636363"
+      - "20494DE8 63636363"
+      - "20494DEC 63636363"
+      - "20494DF0 63636363"
+      - "20494DF4 63636363"
+      - "20494DF8 63636363"
+      - "20494DFC 63636363"
+      - "20494E00 63636363"
+      - "20494E04 63636363"
+      - "20494E08 63636363"
+      - "20494E0C 63636363"
+      - "20494E10 00636363"
+
+  - name: "All Misc Files"
+    author: "InterAct"
+    codes:
+      - "10494EBE 00000101"
+      - "20494EC0 01010101"
+      - "20494EC4 01010101"
+      - "20494EC8 01010101"
+      - "20494ECC 01010101"
+      - "20494ED0 01010101"
+      - "20494ED4 01010101"
+      - "20494ED8 01010101"
+      - "20494EDC 01010101"
+      - "20494EE0 01010101"
+      - "00494EE4 00000001"
+
+  - name: "All Player Files"
+    author: "InterAct"
+    codes:
+      - "20494E60 01010101"
+      - "20494E64 01010101"
+      - "20494E68 01010101"
+
+  - name: "Gain Hella Silver"
+    author: "Code Master"
+    codes:
+      - "10494E14 0000FFFF"
+
+  - name: "Have All Boss Files"
+    author: "Code Master"
+    codes:
+      - "10494E7A 00000101"
+      - "10494E88 00000101"
+      - "40494E7C 00030001"
+      - "01010101 00000000"
+
+  - name: "Have All Enemy Files"
+    author: "Code Master"
+    codes:
+      - "10494E78 00000101"
+      - "40494E6C 00030001"
+      - "01010101 00000000"
+
+  - name: "Have All Item Files"
+    author: "Code Master"
+    codes:
+      - "10494E8A 00000101"
+      - "10494EBC 00000101"
+      - "40494E8C 000C0001"
+      - "01010101 00000000"
+
+  - name: "Have All Items"
+    author: "Code Master"
+    codes:
+      - "00494DDF 00000063"
+      - "40494DE0 000D0001"
+      - "63636363 00000000"
+
+  - name: "Have All Misc. Files"
+    author: "Code Master"
+    codes:
+      - "10494EBE 00000101"
+      - "00494EE4 00000001"
+      - "40494EC0 00090001"
+      - "01010101 00000000"
+
+  - name: "Have All Player Files"
+    author: "Code Master"
+    codes:
+      - "40494E60 00030001"
+      - "01010101 00000000"
+
+  - name: "Angel Brooch"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DF5 00000063"
+
+  - name: "Angel's Kiss"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494E10 00000063"
+
+  - name: "Angel's Miracle"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494E11 00000063"
+
+  - name: "Angel's Wink"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494E0F 00000063"
+
+  - name: "Army Gloves"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DEE 00000063"
+
+  - name: "Bullet X1.2"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DE3 00000063"
+
+  - name: "Bullet X1.5"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DE4 00000063"
+
+  - name: "Bullet X2.0"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DE5 00000063"
+
+  - name: "Comical Bullet"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DED 00000063"
+
+  - name: "Credit +2"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DFF 00000063"
+
+  - name: "Credit +4"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494E00 00000063"
+
+  - name: "Credit +6"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494E01 00000063"
+
+  - name: "Credit +10"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494E02 00000063"
+
+  - name: "Devil's Whisper"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494E12 00000063"
+
+  - name: "Dream Badge"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DF8 00000063"
+
+  - name: "Garlic Powder"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494E04 00000063"
+
+  - name: "Gatling Gun Bullet"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DEB 00000063"
+
+  - name: "Holmes Spectacles"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DFA 00000063"
+
+  - name: "Holy Earring"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DF3 00000063"
+
+  - name: "Hunter's Earring"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DF1 00000063"
+
+  - name: "Hunter's Gloves"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DEF 00000063"
+
+  - name: "Infinite Credits"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494E03 00000063"
+
+  - name: "Infinite Magazine"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DE2 00000063"
+
+  - name: "Launcher Bullet"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DEC 00000063"
+
+  - name: "Life +1"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DFC 00000063"
+
+  - name: "Life +2"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DFD 00000063"
+
+  - name: "Life +5"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DFE 00000063"
+
+  - name: "Machinegun Bullet"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DE9 00000063"
+
+  - name: "Magazine +2"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DDF 00000063"
+
+  - name: "Magazine +4"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DE0 00000063"
+
+  - name: "Magazine +8"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DE1 00000063"
+
+  - name: "Magnum Bullet"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DEA 00000063"
+
+  - name: "Maiden's Gloom"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494E0C 00000063"
+
+  - name: "Maiden's Sigh"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494E0B 00000063"
+
+  - name: "Member's Badge"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DF6 00000063"
+
+  - name: "Mystic Charm"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DF9 00000063"
+
+  - name: "Psychic Goggles"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DFB 00000063"
+
+  - name: "Score Ring"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DF0 00000063"
+
+  - name: "Score X2"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494E0D 00000063"
+
+  - name: "Score X4"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494E0E 00000063"
+
+  - name: "Shotgun Bullet"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DE8 00000063"
+
+  - name: "Silver 92.5 Bullets"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DE7 00000063"
+
+  - name: "Silver Badge"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DF7 00000063"
+
+  - name: "Silver Bullets"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DE6 00000063"
+
+  - name: "Silver Earring"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DF2 00000063"
+
+  - name: "Silver Powder"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494E05 00000063"
+
+  - name: "Spirit Brooch"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494DF4 00000063"
+
+  - name: "Warp 2"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494E06 00000063"
+
+  - name: "Warp 3"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494E07 00000063"
+
+  - name: "Warp 4"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494E08 00000063"
+
+  - name: "Warp 5"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494E09 00000063"
+
+  - name: "Warp 6"
+    author: "Code Master"
+    notes: "[Have Cheats Codes]"
+    codes:
+      - "00494E0A 00000063"
+
+  - name: "Infinite Ammo - P1:"
+    author: "InterAct"
+    codes:
+      - "1049306C 00000008"
+
+  - name: "Infinite Ammo - P2:"
+    author: "InterAct"
+    codes:
+      - "104933B4 00000008"
+
+  - name: "Infinite Health - P1:"
+    author: "InterAct"
+    codes:
+      - "10493030 00000009"
+
+  - name: "Infinite Health - P2:"
+    author: "InterAct"
+    codes:
+      - "10493378 00000009"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0140008 001647C7"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901647C4 0C050C74"
+
+  - name: "Infinite Health P1"
+    author: "Code Master"
+    notes: "[Have this game? Then you need the best Light Gun for the Playstation 2! The Scorpion II-Light Gun. Laser targeting system, auto fire, auto reload & more!! Plus, for $24.99, you CAN'T BEAT this light gun!!Click here now!!]"
+    codes:
+      - "10493030 00000009"
+
+  - name: "Infinite Ammo P1"
+    author: "Code Master"
+    notes: "[Have this game? Then you need the best Light Gun for the Playstation 2! The Scorpion II-Light Gun. Laser targeting system, auto fire, auto reload & more!! Plus, for $24.99, you CAN'T BEAT this light gun!!Click here now!!]"
+    codes:
+      - "1049306C 00000008"
+
+  - name: "Infinite Health P2"
+    author: "Code Master"
+    notes: "[Have this game? Then you need the best Light Gun for the Playstation 2! The Scorpion II-Light Gun. Laser targeting system, auto fire, auto reload & more!! Plus, for $24.99, you CAN'T BEAT this light gun!!Click here now!!]"
+    codes:
+      - "10493378 00000009"
+
+  - name: "Infinite Ammo P2"
+    author: "Code Master"
+    notes: "[Have this game? Then you need the best Light Gun for the Playstation 2! The Scorpion II-Light Gun. Laser targeting system, auto fire, auto reload & more!! Plus, for $24.99, you CAN'T BEAT this light gun!!Click here now!!]"
+    codes:
+      - "104933B4 00000008"

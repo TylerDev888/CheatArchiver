@@ -1,0 +1,38 @@
+# God Mode cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB01300
+
+game: "God Mode"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB01300"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Max Xp"
+    notes: "File: SAVES.CFG"
+    codes:
+      - "20000102 05F5E0FF"
+
+  - name: "Max Money"
+    notes: "File: SAVES.CFG"
+    codes:
+      - "20000106 05F5E0FF"
+      - "2000010A 05F5E0FF"
+
+  - name: "Update Crc32 For Saves.cfg (required)(checksum By Chaoszage)"
+    notes: "File: SAVES.CFG"
+    codes:
+      - "set range:0x00000C,0x00001F"
+      - "set [hash]:CRC32"
+      - "write at 0x000008:[hash]"
+      - "set [hash]:0"
+      - "set range:0x000024,0x0000F5"
+      - "set [hash]:CRC32"
+      - "write at 0x000020:[hash]"
+      - "set [hash]:0"
+      - "set range:0x0000FA,0x26D"
+      - "set [hash]:CRC32"
+      - "write at 0x0000F6:[hash]"

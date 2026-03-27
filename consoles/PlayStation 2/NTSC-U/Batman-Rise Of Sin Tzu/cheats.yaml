@@ -1,0 +1,173 @@
+# Batman-Rise Of Sin Tzu cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20709
+
+game: "Batman-Rise Of Sin Tzu"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20709"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0011F447"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 00A01821"
+      - "200C0224 AC850034"
+      - "200C0228 03E00008"
+      - "200C022C AC850038"
+      - "2028E14C 0C030088"
+      - "2028E150 240503E8"
+
+  - name: "Infinite Continues"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20290B68 00000000"
+
+  - name: "Extra Continues"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1023999C 00000001"
+
+  - name: "Buying Upgrades Doesnt Decrease Upgrade Points"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202C84C0 00000000"
+
+  - name: "Buying Upgrades Increases Upgrade Points"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202C84BC 00661821"
+
+  - name: "Access All Upgrades"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6B84 0000000F"
+
+  - name: "Infinite Green Tokens"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6AE8 000003E7"
+
+  - name: "Infinite Red Tokens"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6AEC 000003E7"
+
+  - name: "Infinite Silver Tokens"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6AF0 000003E7"
+
+  - name: "Infinite Gold Tokens"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6AF4 000003E7"
+
+  - name: "Infinite Bronze Tokens"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6AF8 000003E7"
+
+  - name: "Unlock All 3D Models (Heroes/Gadgets/Vehicles)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6AFC FFFFFFFF"
+
+  - name: "Unlock All 3D Models (Villians)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6B00 FFFFFFFF"
+
+  - name: "Unlock All Graphic Novels"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E0026AD0 008C6ADC"
+      - "208C6B04 FFFFFFFF"
+      - "208C6B08 FFFFFFFF"
+
+  - name: "Unlock All Toys"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6B0C FFFFFFFF"
+
+  - name: "Unlock All Cinematics"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6B10 FFFFFFFF"
+
+  - name: "Unlock All Concept Art"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6B14 FFFFFFFF"
+
+  - name: "Unlock All Extra Bonus Features"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6B18 FFFFFFFF"
+
+  - name: "Batman"
+    author: "Code Master"
+    notes: "[Max Upgrade Points Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6B88 05F5E0FF"
+
+  - name: "Robin"
+    author: "Code Master"
+    notes: "[Max Upgrade Points Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6B8C 05F5E0FF"
+
+  - name: "Nightwing"
+    author: "Code Master"
+    notes: "[Max Upgrade Points Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6B90 05F5E0FF"
+
+  - name: "Batgirl"
+    author: "Code Master"
+    notes: "[Max Upgrade Points Codes]"
+    codes:
+      - "D08C6ADC 00006AD0"
+      - "208C6B94 05F5E0FF"

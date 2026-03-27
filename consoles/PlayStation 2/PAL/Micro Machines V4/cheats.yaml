@@ -1,0 +1,127 @@
+# Micro Machines V4 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53668
+
+game: "Micro Machines V4"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53668"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02C7EF8 002C7EFB"
+
+  - name: "Disable A.I."
+    author: "Codejunkies"
+    codes:
+      - "201440D8 24020000"
+
+  - name: "Display Debug Gates"
+    author: "Codejunkies"
+    codes:
+      - "207B40F8 00000001"
+
+  - name: "Open All Cars"
+    author: "Codejunkies"
+    codes:
+      - "202B7CDC 24030009"
+      - "202B7CE0 A0430000"
+      - "202B7CE8 24020001"
+
+  - name: "Retro Camera"
+    author: "Codejunkies"
+    codes:
+      - "207B41CC 00000001"
+
+  - name: "Hyper Mode"
+    author: "Codejunkies"
+    notes: "[Speed Modifier Codes]"
+    codes:
+      - "207B41BC 3FC00000"
+
+  - name: "Quick Game"
+    author: "Codejunkies"
+    notes: "[Speed Modifier Codes]"
+    codes:
+      - "207B41BC 3FA00000"
+
+  - name: "Slow Motion"
+    author: "Codejunkies"
+    notes: "[Speed Modifier Codes]"
+    codes:
+      - "207B41BC 3F400000"
+
+  - name: "Super Slow Motion"
+    author: "Codejunkies"
+    notes: "[Speed Modifier Codes]"
+    codes:
+      - "207B41BC 3F000000"
+
+  - name: "Unlock All Circuits/Missions"
+    author: "Codejunkies"
+    codes:
+      - "202AB400 24010003"
+      - "202AB410 A08100AC"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "902C7EF8 0C0B94C6"
+
+  - name: "Starts At 7 Points"
+    author: "Xploder"
+    notes: "[Battle Mode: Player 1 / Team 1]"
+    codes:
+      - "D0708D70 00000004"
+      - "20708D70 00000007"
+
+  - name: "Starts At 11 Points"
+    author: "Xploder"
+    notes: "[Battle Mode: Player 1 / Team 1]"
+    codes:
+      - "D0708D70 00000004"
+      - "20708D70 0000000B"
+
+  - name: "Starts At 1 Point"
+    author: "Xploder"
+    notes: "[Battle Mode: Player 1 / Team 1]"
+    codes:
+      - "D0708D70 00000004"
+      - "20708D70 00000001"
+
+  - name: "Instant Win"
+    author: "Xploder"
+    notes: "[Battle Mode: Player 1 / Team 1]"
+    codes:
+      - "20708D70 0000000C"
+
+  - name: "Infinite Time"
+    author: "Xploder"
+    notes: "[Checkpoint Mode]"
+    codes:
+      - "207A1EE0 41100000"
+
+  - name: "All Circuits"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "2053857C 24040003"
+
+  - name: "All Cars"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "202B7CDC 24030009"
+
+  - name: "Stupid AI"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "201440D8 00001021"

@@ -1,0 +1,36 @@
+# BioShock cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00316
+
+game: "BioShock"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00316"
+cheat_type: "AP"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Decompress Save (required)"
+    notes: "File: BLES00316-*\\MAINSAVE.BSG"
+    codes:
+      - "Decompress(*, 15)"
+
+  - name: "Max Money(you Must Have At Least 1 Dollar To Use This Cheat.)"
+    notes: "File: BLES00316-*\\MAINSAVE.BSG"
+    codes:
+      - "80010008 02000000"
+      - "00220000 00000000"
+      - "18000008 0000270F"
+
+  - name: "Compress Save (required)"
+    notes: "File: MAINSAVE.BSG"
+    codes:
+      - "Compress(*)"
+
+  - name: "Max Adam(you Must Have At Least 1 Adam Use This Cheat.)"
+    notes: "File: BLES00316-*\\MAINSAVE.BSG"
+    codes:
+      - "80010008 02000000"
+      - "00220000 00000000"
+      - "18000012 0000270F"

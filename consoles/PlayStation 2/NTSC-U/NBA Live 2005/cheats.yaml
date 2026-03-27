@@ -1,0 +1,681 @@
+# NBA Live 2005 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21058
+
+game: "NBA Live 2005"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21058"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "E00E7B61 0013083C"
+      - "E00D0C04 0013083E"
+      - "202EF458 08040CE2"
+      - "20103388 3C0401F0"
+      - "2010338C 3C050008"
+      - "20103390 0C047B61"
+      - "20103394 3C060008"
+      - "20103398 0C0DB224"
+      - "2010339C 0000202D"
+      - "201033A0 3C0501F0"
+      - "201033A4 3C040008"
+      - "201033A8 0C047B61"
+      - "201033AC 3C060008"
+      - "201033B0 080BBD18"
+      - "201033B4 00000000"
+      - "F013083C 0013083F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "9013083C 0C047B61"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "9010F240 0C04409C"
+
+  - name: "All Jerseys Unlocked"
+    author: "Codejunkies"
+    codes:
+      - "20189910 24020001"
+
+  - name: "Ar Below 3.14 Fix"
+    author: "Codejunkies"
+    codes:
+      - "2036F8A0 3C03200F"
+      - "2036F8A8 8C65FFF8"
+      - "2036F8AC 24040079"
+      - "2036F8B0 24030074"
+      - "2036F8B4 0000000C"
+
+  - name: "Infinite Time Outs"
+    author: "MadCatz"
+    notes: "[Away Team Codes]"
+    codes:
+      - "00877E39 00000006"
+
+  - name: "Never Score"
+    author: "MadCatz"
+    notes: "[Away Team Codes]"
+    codes:
+      - "10877E30 00000000"
+
+  - name: "No Time Outs"
+    author: "MadCatz"
+    notes: "[Away Team Codes]"
+    codes:
+      - "00877E39 00000000"
+
+  - name: "Score 50"
+    author: "MadCatz"
+    notes: "[Away Team Codes]"
+    codes:
+      - "10877E30 00000032"
+
+  - name: "Score 100"
+    author: "MadCatz"
+    notes: "[Away Team Codes]"
+    codes:
+      - "10877E30 00000064"
+
+  - name: "Score 150"
+    author: "MadCatz"
+    notes: "[Away Team Codes]"
+    codes:
+      - "10877E30 00000096"
+
+  - name: "P1"
+    author: "Code Master"
+    notes: "[Away Team Infinite Stamina Codes]"
+    codes:
+      - "10878120 00007FFF"
+
+  - name: "P2"
+    author: "Code Master"
+    notes: "[Away Team Infinite Stamina Codes]"
+    codes:
+      - "1087814C 00007FFF"
+
+  - name: "P3"
+    author: "Code Master"
+    notes: "[Away Team Infinite Stamina Codes]"
+    codes:
+      - "10878178 00007FFF"
+
+  - name: "P4"
+    author: "Code Master"
+    notes: "[Away Team Infinite Stamina Codes]"
+    codes:
+      - "108781A4 00007FFF"
+
+  - name: "P5"
+    author: "Code Master"
+    notes: "[Away Team Infinite Stamina Codes]"
+    codes:
+      - "108781D0 00007FFF"
+
+  - name: "P6"
+    author: "Code Master"
+    notes: "[Away Team Infinite Stamina Codes]"
+    codes:
+      - "108781FC 00007FFF"
+
+  - name: "P7"
+    author: "Code Master"
+    notes: "[Away Team Infinite Stamina Codes]"
+    codes:
+      - "10878228 00007FFF"
+
+  - name: "P8"
+    author: "Code Master"
+    notes: "[Away Team Infinite Stamina Codes]"
+    codes:
+      - "10878254 00007FFF"
+
+  - name: "P9"
+    author: "Code Master"
+    notes: "[Away Team Infinite Stamina Codes]"
+    codes:
+      - "10878280 00007FFF"
+
+  - name: "P10"
+    author: "Code Master"
+    notes: "[Away Team Infinite Stamina Codes]"
+    codes:
+      - "108782AC 00007FFF"
+
+  - name: "P11"
+    author: "Code Master"
+    notes: "[Away Team Infinite Stamina Codes]"
+    codes:
+      - "108782D8 00007FFF"
+
+  - name: "P12"
+    author: "Code Master"
+    notes: "[Away Team Infinite Stamina Codes]"
+    codes:
+      - "10878304 00007FFF"
+
+  - name: "Dunk From Anywhere"
+    author: "nolberto82"
+    codes:
+      - "20585FBC 10400008"
+      - "D080D1C4 0000FF00"
+      - "20585FBC 00000000"
+
+  - name: "Infinite Time - 3 Point Shoot Out"
+    author: "BigBossman"
+    codes:
+      - "2084E704 00000E33"
+
+  - name: "Max Dynasty Points"
+    author: "Codejunkies"
+    codes:
+      - "2016DF9C 3C0105FA"
+      - "2016DFA0 AC410008"
+
+  - name: "Press L3 For No Quarter Time"
+    author: "MadCatz"
+    codes:
+      - "D080D302 0000FFFD"
+      - "2084B2A8 00000000"
+
+  - name: "Press R3 For More Quarter Time"
+    author: "MadCatz"
+    codes:
+      - "D080D302 0000FFFB"
+      - "2084B2A8 0000270F"
+
+  - name: "Press Select To End Quarter"
+    author: "Codejunkies"
+    codes:
+      - "E10100FE 0080D302"
+      - "1084B2A8 00000100"
+
+  - name: "Score From Anywhere : Hold R1"
+    author: "nolberto82"
+    codes:
+      - "205C9BEC 0040A02D"
+      - "D080D1C5 000000FF"
+      - "205C9BEC 34140000"
+
+  - name: "2-Pointer's Score 1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "105C7678 00000001"
+
+  - name: "2-Pointer's Score 5"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "105C7678 00000005"
+
+  - name: "2-Pointer's Score 10"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "105C7678 0000000A"
+
+  - name: "3-Pointer's Score 1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "105C73F0 00000001"
+
+  - name: "3-Pointer's Score 5"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "105C73F0 00000005"
+
+  - name: "3-Pointer's Score 10"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "105C73F0 0000000A"
+
+  - name: "Away Team Never Scores"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202AFE98 24030000"
+
+  - name: "Away Team Scores 150"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202AFE98 24030096"
+
+  - name: "Away Team Scores 255"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202AFE98 240300FF"
+
+  - name: "Away Team Scores 999"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202AFE98 240303E7"
+
+  - name: "Buy 1 NBA Store Item For Max NBA Store Points"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201CC238 3C0205F5"
+      - "201CC23C 3442E0FF"
+
+  - name: "Free Throw's Score 1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "105C766C 00000001"
+
+  - name: "Free Throw's Score 5"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "105C766C 00000005"
+
+  - name: "Free Throw's Score 10"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "105C766C 0000000A"
+
+  - name: "Home Team Never Scores"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202AFE90 24020000"
+
+  - name: "Home Team Scores 150"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202AFE90 24020096"
+
+  - name: "Home Team Scores 255"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202AFE90 240200FF"
+
+  - name: "Home Team Scores 999"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202AFE90 240203E7"
+
+  - name: "Infinite Shot Clock"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2084B328 000005A0"
+
+  - name: "Max NBA Store Points"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20FB84C8 05F5E0FF"
+
+  - name: "NBA Store Points Don't Decrease When Buying Items"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201CC244 00000000"
+
+  - name: "P1 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 0080D302"
+      - "2084B2A8 00004650"
+      - "2084B2B0 00004650"
+
+  - name: "P1 Press L1+R1 For More Shot Clock Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D080D302 0000F3FF"
+      - "2084B328 000005A0"
+
+  - name: "P1 Press L2+R2 For No Shot Clock Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D080D302 0000FCFF"
+      - "2084B328 00000000"
+
+  - name: "P1 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 0080D302"
+      - "2084B2A8 00000001"
+      - "2084B2B0 00000001"
+
+  - name: "P2 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 0080D402"
+      - "2084B2A8 00004650"
+      - "2084B2B0 00004650"
+
+  - name: "P2 Press L1+R1 For More Shot Clock Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D080D402 0000F3FF"
+      - "2084B328 000005A0"
+
+  - name: "P2 Press L2+R2 For No Shot Clock Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D080D402 0000FCFF"
+      - "2084B328 00000000"
+
+  - name: "P2 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 0080D402"
+      - "2084B2A8 00000001"
+      - "2084B2B0 00000001"
+
+  - name: "P3 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 0080D502"
+      - "2084B2A8 00004650"
+      - "2084B2B0 00004650"
+
+  - name: "P3 Press L1+R1 For More Shot Clock Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D080D502 0000F3FF"
+      - "2084B328 000005A0"
+
+  - name: "P3 Press L2+R2 For No Shot Clock Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D080D502 0000FCFF"
+      - "2084B328 00000000"
+
+  - name: "P3 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 0080D502"
+      - "2084B2A8 00000001"
+      - "2084B2B0 00000001"
+
+  - name: "P4 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 0080D602"
+      - "2084B2A8 00004650"
+      - "2084B2B0 00004650"
+
+  - name: "P4 Press L1+R1 For More Shot Clock Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D080D602 0000F3FF"
+      - "2084B328 000005A0"
+
+  - name: "P4 Press L2+R2 For No Shot Clock Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D080D602 0000FCFF"
+      - "2084B328 00000000"
+
+  - name: "P4 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 0080D602"
+      - "2084B2A8 00000001"
+      - "2084B2B0 00000001"
+
+  - name: "P5 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 0080D702"
+      - "2084B2A8 00004650"
+      - "2084B2B0 00004650"
+
+  - name: "P5 Press L1+R1 For More Shot Clock Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D080D702 0000F3FF"
+      - "2084B328 000005A0"
+
+  - name: "P5 Press L2+R2 For No Shot Clock Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D080D702 0000FCFF"
+      - "2084B328 00000000"
+
+  - name: "P5 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 0080D702"
+      - "2084B2A8 00000001"
+      - "2084B2B0 00000001"
+
+  - name: "P6 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 0080D802"
+      - "2084B2A8 00004650"
+      - "2084B2B0 00004650"
+
+  - name: "P6 Press L1+R1 For More Shot Clock Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D080D802 0000F3FF"
+      - "2084B328 000005A0"
+
+  - name: "P6 Press L2+R2 For No Shot Clock Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D080D802 0000FCFF"
+      - "2084B328 00000000"
+
+  - name: "P6 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 0080D802"
+      - "2084B2A8 00000001"
+      - "2084B2B0 00000001"
+
+  - name: "P7 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 0080D902"
+      - "2084B2A8 00004650"
+      - "2084B2B0 00004650"
+
+  - name: "P7 Press L1+R1 For More Shot Clock Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D080D902 0000F3FF"
+      - "2084B328 000005A0"
+
+  - name: "P7 Press L2+R2 For No Shot Clock Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D080D902 0000FCFF"
+      - "2084B328 00000000"
+
+  - name: "P7 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 0080D902"
+      - "2084B2A8 00000001"
+      - "2084B2B0 00000001"
+
+  - name: "P8 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 0080DA02"
+      - "2084B2A8 00004650"
+      - "2084B2B0 00004650"
+
+  - name: "P8 Press L1+R1 For More Shot Clock Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D080DA02 0000F3FF"
+      - "2084B328 000005A0"
+
+  - name: "P8 Press L2+R2 For No Shot Clock Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D080DA02 0000FCFF"
+      - "2084B328 00000000"
+
+  - name: "P8 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "E002FAFF 0080DA02"
+      - "2084B2A8 00000001"
+      - "2084B2B0 00000001"
+
+  - name: "Purchase NBA Store Item For Max NBA Store Points"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "200C0240 3C0205F5"
+      - "200C0244 3442E0FF"
+      - "200C0248 03E00008"
+      - "200C024C AC820008"
+      - "201CC220 08030090"
+
+  - name: "Quick Dynasty Points Gain"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "10FBA148 0000FFFF"
+
+  - name: "Quick NBA Store Points Gain"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "10FB84C8 0000FFFF"
+
+  - name: "Start On 2Nd Quarter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D084B2B8 00000000"
+      - "1084B2B8 00000001"
+
+  - name: "Start On 3Rd Quarter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D084B2B8 00000000"
+      - "1084B2B8 00000002"
+
+  - name: "Start On 4Th Quarter"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D084B2B8 00000000"
+      - "1084B2B8 00000003"
+
+  - name: "Unlock All NBA Store Items"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "40FB84CC 012C0001"
+      - "00000000 00000000"
+
+  - name: "View Dynasty Development For Max Dynasty Points"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "200C0220 3C010098"
+      - "200C0224 3421967F"
+      - "200C0228 AC410008"
+      - "200C022C 0805B7EA"
+      - "200C0230 24220000"
+      - "2016DFA0 08030088"
+
+  - name: "View NBA Store Item To Unlock It"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201CBDF8 AC40000C"
+      - "201CBDFC 24020000"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9013083C 0C047B61"
+
+  - name: "Home Team Infinite Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "00877C3D 00000006"
+
+  - name: "Home Team No Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "00877C3D 00000000"
+
+  - name: "Away Team Infinite Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "00877E39 00000006"
+
+  - name: "Away Team No Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "00877E39 00000000"
+
+  - name: "NBA Store Points Dont Decrease When Buying Items"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201CC244 00000000"

@@ -1,0 +1,20 @@
+# El Chavo Kart cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUB31489
+
+game: "El Chavo Kart"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUB31489"
+cheat_type: "Save Editor"
+source: "by SHAkA"
+
+cheats:
+  - name: "Update Sha1 For Payload (required)"
+    notes: "File: PAYLOAD  (set range:0x000014,0x00029A) (compress -w 15)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000014,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x000000:[hash]"

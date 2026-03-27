@@ -1,0 +1,96 @@
+# WWE Smackdown! Vs. RAW 2007 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54489
+
+game: "WWE Smackdown! Vs. RAW 2007"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54489"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "E00E5AA0 001CEAC8"
+      - "E00D0C0B 001CEACA"
+      - "20109740 080B619E"
+      - "202D8678 3C040160"
+      - "202D867C 3C050008"
+      - "202D8680 0C0B1997"
+      - "202D8684 3C060008"
+      - "202D8688 0C0B4B8E"
+      - "202D868C 0000202D"
+      - "202D8690 3C050160"
+      - "202D8694 3C040008"
+      - "202D8698 0C0B1997"
+      - "202D869C 3C060008"
+      - "202D86A0 080425D2"
+      - "202D86A4 00000000"
+      - "F01CEAC8 001CEACB"
+
+  - name: "Always Have Finisher"
+    author: "Codejunkies"
+    codes:
+      - "201AB0A0 A07202CC"
+
+  - name: "AR Max < 3.14 Fix"
+    author: "Codejunkies"
+    codes:
+      - "202D6978 3C03200F"
+      - "202D6980 8C65FFF8"
+      - "202D6984 24040079"
+      - "202D6988 24030074"
+      - "202D698C 0000000C"
+
+  - name: "Disable A.I. (Press L3 To Activate; Press R3 To Restart)"
+    author: "Codejunkies"
+    codes:
+      - "D1CF4B82 0000FFFD"
+      - "204F0F60 24020000"
+      - "D1CF4B82 0000FFFB"
+      - "204F0F60 2C420001"
+
+  - name: "Disable V-Sync"
+    author: "Codejunkies"
+    codes:
+      - "20108A48 03E00008"
+
+  - name: "Infinite Stamina"
+    author: "Codejunkies"
+    codes:
+      - "E0020001 004975F4"
+      - "D04975F6 00004503"
+      - "204975F4 00000000"
+
+  - name: "Max Cash After A Show"
+    author: "Codejunkies"
+    codes:
+      - "E002102D 00891550"
+      - "D0891552 00000051"
+      - "20891550 3C0205F0"
+
+  - name: "Max Cash After Contracting A Writer"
+    author: "Codejunkies"
+    codes:
+      - "E002102F 008915A4"
+      - "D08915A6 00000051"
+      - "208915A4 3C0205F0"
+
+  - name: "Max Cash In Locker"
+    author: "Codejunkies"
+    codes:
+      - "2010455C 3C0205F0"
+
+  - name: "Max Experience"
+    author: "Codejunkies"
+    codes:
+      - "201046D8 3C020002"
+
+  - name: "Open A.L.L"
+    author: "Codejunkies"
+    codes:
+      - "2027773C 24020001"

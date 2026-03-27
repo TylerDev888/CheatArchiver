@@ -1,0 +1,220 @@
+# Crash Of The Titans cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21583
+
+game: "Crash Of The Titans"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21583"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "905863D0 0C16189C"
+
+  - name: "Player 1 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "D06C0D02 0000[JOKER:PS2]"
+
+  - name: "Max Mojo After 1 Pick Up"
+    codes:
+      - "2038C24C 3C023B9A"
+      - "2038C250 3442C9FF"
+
+  - name: "Max Green Mojo After 1 Pick Up"
+    codes:
+      - "2038C23C 3C063B9A"
+      - "2038C244 3463C9FF"
+
+  - name: "Inf Lives"
+    codes:
+      - "2038C2D8 00000000"
+
+  - name: "Inf HP"
+    codes:
+      - "202002C8 08028000"
+      - "202002CC 00000000"
+      - "200A0000 3C1342B4"
+      - "200A0004 AC530004"
+      - "200A0008 03E00008"
+      - "200A000C 27BD0170"
+
+  - name: "Infinite Health (crash)"
+    codes:
+      - "200FFF00 8C610014"
+      - "200FFF04 AC610004"
+      - "200FFF08 08083012"
+      - "2026CE68 0C03FFC0"
+
+  - name: "Infinite Health (mounts)"
+    codes:
+      - "200FFF40 C4610014"
+      - "200FFF44 E4610004"
+      - "200FFF48 0809B3C3"
+      - "2026CF08 0803FFD0"
+
+  - name: "Infinite Power (mounts)"
+    codes:
+      - "201CAA6C 00000000"
+
+  - name: "Bigger Jumps"
+    codes:
+      - "201A7B7C 3C014040"
+      - "201A7B90 44817800"
+
+  - name: "Quick Mojo Gain"
+    codes:
+      - "201FED90 240603E8"
+
+  - name: "Super Quick Mojo Gain"
+    codes:
+      - "201FED90 24062710"
+
+  - name: "Low Gravity"
+    codes:
+      - "205B3C08 C1800000"
+
+  - name: "Even Lower Gravity"
+    codes:
+      - "205B3C08 C0C00000"
+
+  - name: "Enable Big Head Crash Cheat"
+    codes:
+      - "006B86CC 00000001"
+
+  - name: "Enable Shadow Crash Cheat"
+    codes:
+      - "006B86C8 00000001"
+
+  - name: "Display Level Info"
+    codes:
+      - "006B86C4 00000001"
+
+  - name: "Display Debug Info"
+    codes:
+      - "006B8690 00000001"
+
+  - name: "Infinite Time (mojo Rooms)"
+    codes:
+      - "20399DA4 00000000"
+
+  - name: "Infinite Time Using Free Jack Power-Up"
+    codes:
+      - "201FFC70 00000000"
+
+  - name: "Skip Movies"
+    codes:
+      - "202A828C 00000000"
+
+  - name: "All Episodes Unlocked (v7.0 Or Higher Required)"
+    notes: "[Unlocks]"
+    codes:
+      - "406DF498 00140001"
+      - "00000000 00000001"
+
+  - name: "All Mojo Rooms Unlocked (v7.0 Or Higher Required)"
+    notes: "[Unlocks]"
+    codes:
+      - "406DF4F8 00140001"
+      - "00000000 00000001"
+
+  - name: "All Enemy Info Unlocked (v7.0 Or Higher Required)"
+    notes: "[Unlocks]"
+    codes:
+      - "406DF438 00140001"
+      - "00000000 00000001"
+
+  - name: "All Concept Art Unlocked (v7.0 Or Higher Required)"
+    notes: "[Unlocks]"
+    codes:
+      - "406DF3D8 00140001"
+      - "00000000 00000001"
+
+  - name: "All Skins Unlocked (v7.0 Or Higher Required)"
+    notes: "[Unlocks]"
+    codes:
+      - "406DF628 00140001"
+      - "00000000 00000001"
+
+  - name: "All Crash Upgrades Unlocked (v7.0 Or Higher Required)"
+    notes: "[Unlocks]"
+    codes:
+      - "406DF548 001B0001"
+      - "00000000 00000001"
+
+  - name: "All Tutorials Unlocked (v7.0 Or Higher Required)"
+    notes: "[Unlocks]"
+    codes:
+      - "406DF698 00150001"
+      - "00000000 00000001"
+
+  - name: "Always Use ? Skin Modifier"
+    codes:
+      - "2025BA6C 2404[CSK]"
+
+  - name: "Display Player Position"
+    codes:
+      - "006B86D8 00000001"
+
+  - name: "L1+l2 For Slow Motion"
+    notes: "[Game Speed Modifier]"
+    codes:
+      - "D06C0D02 0000FAFF"
+      - "206B86AC 3E800000"
+
+  - name: "L2+r2 For Normal Speed"
+    notes: "[Game Speed Modifier]"
+    codes:
+      - "D06C0D02 0000FCFF"
+      - "206B86AC 3F800000"
+
+  - name: "R1+r2 For Hyper Mode"
+    notes: "[Game Speed Modifier]"
+    codes:
+      - "D06C0D02 0000F5FF"
+      - "206B86AC 40000000"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Skiller>Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90580134 0C165086"
+
+  - name: "Quick Max Mojo"
+    author: "Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2038C24C 3C023B9A"
+      - "2038C250 3442C9FF"
+
+  - name: "Quick Max Green Mojo"
+    author: "Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2038C23C 3C063B9A"
+      - "2038C244 3463C9FF"
+
+  - name: "Infinite Lives"
+    author: "Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101934D4 00000000"
+
+  - name: "Extra Lives"
+    author: "Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101934D4 00000001"
+
+  - name: "Infinite Health"
+    author: "Skiller>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20200250 3C0142B4"
+      - "20200254 AC410004"
+      - "1020025A 00001000"

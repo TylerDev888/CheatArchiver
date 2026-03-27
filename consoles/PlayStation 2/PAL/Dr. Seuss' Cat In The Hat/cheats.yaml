@@ -1,0 +1,29 @@
+# Dr. Seuss' Cat In The Hat cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52034
+
+game: "Dr. Seuss' Cat In The Hat"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52034"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02168EC 002168EF"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "201F8DB8 00000000"
+      - "201F8DA8 00000000"
+
+  - name: "Infinite Lives"
+    author: "Codejunkies"
+    codes:
+      - "201F8C14 00000000"

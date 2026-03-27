@@ -1,0 +1,28 @@
+# Marvel_ Ultimate Alliance cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00013
+
+game: "Marvel_ Ultimate Alliance"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00013"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Unlock All Characters"
+    notes: "File: BLES00013-F-OPTIONS\\SYS-DATA"
+    codes:
+      - "200002E4 FFFFFFFF"
+
+  - name: "Unlock All Costumes"
+    notes: "File: BLES00013-F-OPTIONS\\SYS-DATA"
+    codes:
+      - "200003E0 FFFFFFFF"
+      - "100003E4 0000FFFF"
+
+  - name: "Max S.h.i.e.l.d. Credits"
+    notes: "File: BLES00013-L-*\\SYS-DATA"
+    codes:
+      - "20000100 05F5E0FF"

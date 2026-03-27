@@ -1,0 +1,32 @@
+# Downtown Run cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Downtown Run"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0012873F"
+
+  - name: "Invulnerability"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2017BFD8 00000000"
+      - "2017C978 00000000"
+      - "2016598C 00000000"
+      - "20165DAC 00000000"
+
+  - name: "Unlimited Prestige"
+    author: "Xploder"
+    notes: "[The Good]"
+    codes:
+      - "202D9394 000F423F"

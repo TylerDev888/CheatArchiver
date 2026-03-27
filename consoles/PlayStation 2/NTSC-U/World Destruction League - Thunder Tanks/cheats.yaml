@@ -1,0 +1,119 @@
+# World Destruction League - Thunder Tanks cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20005
+
+game: "World Destruction League - Thunder Tanks"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20005"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100374 0000000E"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100040 001AFB5B"
+
+  - name: "Attack Of The Blur"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "1021C95C 00000001"
+
+  - name: "Banana Effect"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "1021C964 00000001"
+
+  - name: "Have All Weapons"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "1021C944 00000001"
+
+  - name: "High Speed Shrapnel"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "1021C960 00000001"
+
+  - name: "Homing Missiles"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "1021C958 00000001"
+
+  - name: "Invincibility P1"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "1021C940 00000001"
+
+  - name: "Matrix Camera"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "1021C950 00000001"
+
+  - name: "Pig Missiles"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "1021C94C 00000001"
+
+  - name: "Power Up Frenzy"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "1021C954 00000001"
+
+  - name: "Reverse Gravity"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "1021C948 00000001"
+
+  - name: "Infinite Lives"
+    author: "InterAct"
+    codes:
+      - "20F40A0C 00000001"
+
+  - name: "AI Doesn't Shoot You [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D011E298 0C048F5E"
+      - "2011E298 00000000"
+
+  - name: "Infinite Ammo (Special Weapons) [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D013EA08 AC820000"
+      - "2013EA08 00000000"
+
+  - name: "Kills Counter Doesn't Increment (Use For Endless Deathmatches) [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D0103B28 ACE30000"
+      - "20103B28 00000000"
+
+  - name: "Select + Up To Turn Off AI Shooting You, Select + Down To Turn Back On [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D1EBFA02 0000FFEE"
+      - "2011E298 00000000"
+      - "D1EBFA02 0000FFBE"
+      - "2011E298 0C048F5E"

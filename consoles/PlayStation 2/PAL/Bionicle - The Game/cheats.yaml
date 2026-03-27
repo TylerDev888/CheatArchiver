@@ -1,0 +1,103 @@
+# Bionicle - The Game cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51956
+
+game: "Bionicle - The Game"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51956"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F018BCB4 000001FD"
+
+  - name: "Infinite Energy"
+    author: "Codejunkies"
+    codes:
+      - "101FBCB8 0000000C"
+
+  - name: "Infinite Stamina"
+    author: "Codejunkies"
+    codes:
+      - "1032B21A 00004040"
+
+  - name: "5 Matorans"
+    author: "Codejunkies"
+    notes: "[Level 1]"
+    codes:
+      - "101FBD78 00000005"
+
+  - name: "100 Lightstones"
+    author: "Codejunkies"
+    notes: "[Level 1]"
+    codes:
+      - "101FBD80 00000064"
+
+  - name: "0 Matorans"
+    author: "Codejunkies"
+    notes: "[Level 2]"
+    codes:
+      - "101FBD78 00000000"
+
+  - name: "200 Lightstones"
+    author: "Codejunkies"
+    notes: "[Level 2]"
+    codes:
+      - "101FBD80 000000C8"
+
+  - name: "15 Matorans"
+    author: "Codejunkies"
+    notes: "[Level 3]"
+    codes:
+      - "101FBD78 0000000F"
+
+  - name: "90 Lightstones"
+    author: "Codejunkies"
+    notes: "[Level 3]"
+    codes:
+      - "101FBD80 0000005A"
+
+  - name: "168 Lightstones"
+    author: "Codejunkies"
+    notes: "[Level 4]"
+    codes:
+      - "101FBD80 000000A8"
+
+  - name: "6 Matorans"
+    author: "Codejunkies"
+    notes: "[Level 6]"
+    codes:
+      - "101FBD78 00000006"
+
+  - name: "170 Lightstones"
+    author: "Codejunkies"
+    notes: "[Level 6]"
+    codes:
+      - "101FBD80 000000AA"
+
+  - name: "4 Lightstones"
+    author: "Codejunkies"
+    notes: "[Level 8]"
+    codes:
+      - "101FBD80 00000004"
+
+  - name: "No Damage"
+    author: "luc-ita"
+    codes:
+      - "2014ED6C 03E00008"
+
+  - name: "Take Lightstones And Hit Enemies Anywhere - Light Effect"
+    author: "luc-ita"
+    codes:
+      - "20152EEC 100000AE"
+
+  - name: "Take Lightstones And Hit Enemies Anywhere - Strong Effect"
+    author: "luc-ita"
+    codes:
+      - "20152D00 10000129"

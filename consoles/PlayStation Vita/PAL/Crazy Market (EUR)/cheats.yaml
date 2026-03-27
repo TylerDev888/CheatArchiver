@@ -1,0 +1,22 @@
+# Crazy Market (EUR) cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00374
+
+game: "Crazy Market (EUR)"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00374"
+cheat_type: "Save Editor"
+source: "Credits: Slade"
+
+cheats:
+  - name: "99 Coffee"
+    notes: "File: data.bin"
+    codes:
+      - "10000520 00000063"
+
+  - name: "99,999,999 Coins"
+    notes: "File: data.bin"
+    codes:
+      - "20000524 05F5E0FF"

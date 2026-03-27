@@ -1,0 +1,407 @@
+# Shadow Tower Abyss
+
+**Console:** PlayStation 2  
+**Region:** NTSC-J  
+**Serial:** SLPS-25217  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Freeze Red Sand Spire Area Damage Inflict Timer
+**Author:** Josh_7774  
+**Notes:** [Main]
+
+```
+104A6DB4 00001000
+```
+
+---
+
+### L2 + Right For Super Speed Movement, L2 + Left For Normal Speed
+**Author:** Josh_7774  
+**Notes:** [Main]
+
+```
+D04B6902 0000FEDF
+201C32EC 3C02404C
+D04B6902 0000FE7F
+201C32EC 3C023F4C
+```
+
+---
+
+### Fly Mode - Circle + Right To Enable, Circle + Left To Disable, Circle + Up/Down To Go Up/Down
+**Author:** Josh_7774  
+**Notes:** [Main]
+
+```
+D04B6902 0000DFDF
+200FF000 00000001
+D04B6902 0000DF7F
+200FF000 00000000
+D00FF000 00000001
+10B7FD20 00000000
+D00FF000 00000001
+20B7F844 C302C000
+D04B6902 0000DFEF
+20B7F844 C4800000
+D04B6902 0000DFBF
+20B7F844 44400000
+D04B6902 0000DBEF
+20B7F844 C6000000
+D04B6902 0000DBBF
+20B7F844 46000000
+```
+
+---
+
+### Infinite Health
+**Author:** Josh_7774  
+**Notes:** [Main]
+
+```
+104B4D14 0000270F
+```
+
+---
+
+### Can Instantly Recast Spells [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01C0152 0000E660
+201C0150 00000000
+```
+
+---
+
+### Can Look Straight Up & Down [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01BF526 00003C02
+201BF524 3C02BFCC
+D01BF52A 00003442
+201BF528 3442CCCD
+D01BF54E 00003C02
+201BF54C 3C023FCC
+D01BF552 00003442
+201BF550 3442CCCD
+```
+
+---
+
+### Can Pause Game At Zero Health [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01C9A0E 00008442
+201C9A0C 00000000
+```
+
+---
+
+### Cannot Be Poisoned [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01C8886 0000AEA2
+201C8884 00000000
+```
+
+---
+
+### Disable Bloom [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01586EA 000032E3
+201586E8 32E30080
+```
+
+---
+
+### Disable Blurring [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D012A45A 00003C02
+2012A458 3C020000
+```
+
+---
+
+### Disable Fog [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D015B44E 00000C05
+2015B44C 00000000
+```
+
+---
+
+### Disable Reflections [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D0164302 00002402
+20164300 24020000
+```
+
+---
+
+### Equipping Gun Doesn't Slow Look Speed [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01C33FC 00003C02
+201C33FC 3C023F80
+```
+
+---
+
+### Falling Doesn't Slow Down Looking Speed [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01C3756 00003C02
+201C3754 3C024080
+D01C37CE 00003C02
+201C37CC 3C024080
+```
+
+---
+
+### Faster Look Speed [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01C29E6 00003C04
+201C29E4 3C043DCC
+D01C2976 00003C04
+201C2974 3C043DCC
+D01C31E6 00003C02
+201C31E4 3C024000
+D01C3252 00003C02
+201C3250 3C024000
+```
+
+---
+
+### Full Speed Movement When Weapon Is Equipped [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01C2E66 00002610
+201C2E64 2610FFFE
+D01C2EB6 00002610
+201C2EB4 26100002
+D01C3016 00002484
+201C3014 2484FFFE
+D01C306E 00002484
+201C306C 24840002
+```
+
+---
+
+### Gun Doesn't De-Equip When Taking Damage [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01C83DE 0000A202
+201C83DC 00000000
+```
+
+---
+
+### Health Never Decreases [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01CEAFE 0000A623
+201CEAFC 00000000
+```
+
+---
+
+### Higher FOV [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D0129B16 00003C02
+20129B14 3C023F40
+```
+
+---
+
+### Immune To Status Effects [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01CE322 00008D03
+201CE320 00000000
+```
+
+---
+
+### Increase Maximum Health Limit [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01CF33E 00006403
+201CF33C 64037FFF
+```
+
+---
+
+### Increase Maximum Mana Limit [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01CF39E 00006403
+201CF39C 64037FFF
+```
+
+---
+
+### Infinite Ammo - No Reload [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01C204E 0000A043
+201C204C 00000000
+```
+
+---
+
+### Infinite Ammo [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01CBBCE 0000A062
+201CBBCC 00000000
+```
+
+---
+
+### Infinite Durability [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01CCCE2 0000A0A2
+201CCCE0 00000000
+```
+
+---
+
+### Infinite Items [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01CBF56 0000A082
+201CBF54 00000000
+```
+
+---
+
+### Infinite Magic Shots [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01C0112 0000A263
+201C0110 00000000
+```
+
+---
+
+### Infinite Magic [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01C0106 0000A4A3
+201C0104 00000000
+```
+
+---
+
+### Infinite Melee Energy [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01C2626 0000A222
+201C2624 00000000
+```
+
+---
+
+### Invincibility [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01C837A 00002450
+201C8378 00000000
+```
+
+---
+
+### No Weight Carried [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01CF2E2 0000A651
+201CF2E0 00000000
+```
+
+---
+
+### Semi-Rapid Fire [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01C72FA 0000A223
+201C72F8 00000000
+```
+
+---
+
+### Taking Fall Damage Doesn't Slow You Down Temporarily [ASM]
+**Author:** Josh_7774  
+**Notes:** [[ASM]]
+
+```
+D01BE78A 0000AC64
+201BE788 00000000
+```
+
+---

@@ -1,0 +1,34 @@
+# Adventures Of Cookie & Cream, The cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20170
+
+game: "Adventures Of Cookie & Cream, The"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20170"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01ABF60 001E6827"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001E6827"
+
+  - name: "Infinite Time"
+    author: "InterAct"
+    codes:
+      - "2023154C 0000B000"
+
+  - name: "Low Total Time"
+    author: "InterAct"
+    codes:
+      - "20231548 00000000"

@@ -1,0 +1,60 @@
+# Silent Scope 2-Dark Silhouette cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20243
+
+game: "Silent Scope 2-Dark Silhouette"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20243"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00108897"
+
+  - name: "Infinite Health P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1025084C 00000100"
+
+  - name: "Infinite Bullets P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10250876 00000006"
+
+  - name: "Infinite Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10250882 000000FF"
+
+  - name: "Infinite Credits"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10262674 00000005"
+
+  - name: "Always Head Shot P1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "102466C4 00000000"
+
+  - name: "Have All Bosses"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "103E161E 0000FFFF"
+
+  - name: "Have All Extra Options"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203E1618 FFFFFFFF"

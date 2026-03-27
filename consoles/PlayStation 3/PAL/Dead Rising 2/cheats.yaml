@@ -1,0 +1,105 @@
+# Dead Rising 2 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00948
+
+game: "Dead Rising 2"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00948"
+cheat_type: "AP"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Level 50"
+    notes: "[Save Slot 1]  File: BLES00948-*\\DR2S000.DSF"
+    codes:
+      - "20000BC0 00000032"
+
+  - name: "Max Pp"
+    notes: "[Save Slot 1]  File: BLES00948-*\\DR2S000.DSF"
+    codes:
+      - "20000BC4 3B9AC9FF"
+      - "200013BA 3B9AC9FF"
+
+  - name: "Max Money"
+    notes: "[Save Slot 1]  File: BLES00948-*\\DR2S000.DSF"
+    codes:
+      - "20000BC8 3B9AC9FF"
+
+  - name: "Max Attack"
+    notes: "[Save Slot 1]  File: BLES00948-*\\DR2S000.DSF"
+    codes:
+      - "20000BCC 00000007"
+
+  - name: "Max Speed"
+    notes: "[Save Slot 1]  File: BLES00948-*\\DR2S000.DSF"
+    codes:
+      - "20000BD0 00000003"
+
+  - name: "Max Life"
+    notes: "[Save Slot 1]  File: BLES00948-*\\DR2S000.DSF"
+    codes:
+      - "20000BD4 0000000C"
+
+  - name: "Max Item Stock"
+    notes: "[Save Slot 1]  File: BLES00948-*\\DR2S000.DSF"
+    codes:
+      - "20000BD8 0000000C"
+
+  - name: "Max Throw Distance"
+    notes: "[Save Slot 1]  File: BLES00948-*\\DR2S000.DSF"
+    codes:
+      - "20000BD0 00000005"
+
+  - name: "Max Zombie Kill Count"
+    notes: "[Save Slot 1]  File: BLES00948-*\\DR2S000.DSF"
+    codes:
+      - "200013C8 3B9AC9FF"
+      - "200013CC 3B9AC9FF"
+      - "200013D0 3B9AC9FF"
+      - "200013D4 3B9AC9FF"
+      - "200013D8 3B9AC9FF"
+
+  - name: "Have All Combo Cards"
+    notes: "[Save Slot 1]  File: BLES00948-*\\DR2S000.DSF"
+    codes:
+      - "42000BE8 01010101"
+      - "40290004 00000000"
+
+  - name: "Item 1 The Skateboard Not Breaking"
+    notes: "[Save Slot 1]  File: BLES00948-*\\DR2S000.DSF"
+    codes:
+      - "20001DF6 01536B61"
+      - "20001DFA 7465626F"
+      - "20001DFE 61726400"
+      - "42001E02 00000000"
+      - "400D0004 00000000"
+      - "20001E36 00A02001"
+      - "10001E3A 00000000"
+
+  - name: "Item 2 The Laser Sword Not Breaking"
+    notes: "[Save Slot 1]  File: BLES00948-*\\DR2S000.DSF"
+    codes:
+      - "20001E6A 014C6173"
+      - "20001E6E 65724C69"
+      - "20001E72 67687453"
+      - "20001E76 776F7264"
+      - "42001E7A 00000000"
+      - "400C0004 00000000"
+      - "20001EAA 00A02001"
+      - "10001EAE 00000000"
+
+  - name: "Default:update Crc32 (required)"
+    notes: "[Save Slot 3]  File: BLES00948-*\\DR2S000.DSF"
+    codes:
+      - "set crc_bandwidth:32"
+      - "set crc_polynomial:0xEDB88320"
+      - "set crc_initial_value:0"
+      - "set crc_output_xor:0"
+      - "set crc_reflection_input:1"
+      - "set crc_reflection_output:0"
+      - "set range:0x4,0x49F9F"
+      - "set [hash]:crc"
+      - "write at 0x0:[hash]"
+      - "write at 0x49FA0:[hash]"

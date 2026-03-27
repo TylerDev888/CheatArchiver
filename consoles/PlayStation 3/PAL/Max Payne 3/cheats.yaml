@@ -1,0 +1,27 @@
+# Max Payne 3 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00942
+
+game: "Max Payne 3"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00942"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Pills(20000169 00000009 - Only Available On Checkpoints (not The Start Of A Chapter) In Story Mode > Continue.)"
+    notes: "File: BLES00942MP3_PROGRESSION\\RAGE.SAV"
+    codes:
+      - "8001000C 63686172"
+      - "5F617272 6179FDFF"
+      - "28000034 00000009"
+
+  - name: "Max Ammo(20000195 7fffffff 20000199 7fffffff 2000019d 7fffffff - Must Have Weapons Equipped. Only Available On Checkpoints (not The Start Of A Chapter) In Story Mode > Continue.)"
+    notes: "File: BLES00942MP3_PROGRESSION\\RAGE.SAV"
+    codes:
+      - "8001000C 63686172"
+      - "5F617272 6179FDFF"
+      - "4A000060 7FFFFFFF"
+      - "40030004 00000000"

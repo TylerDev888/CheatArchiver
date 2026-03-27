@@ -1,0 +1,1953 @@
+# Grand Theft Auto - Vice City cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51061
+
+game: "Grand Theft Auto - Vice City"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51061"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "CMX"
+    notes: "[Master Codes]"
+    codes:
+      - "901220EC 0C041C64"
+
+  - name: "Infinite Ammo-All Weapons"
+    author: "CMX"
+    codes:
+      - "20158D8C 00000000"
+      - "20158DF4 00000000"
+
+  - name: "Infinite Ammo-All Weapons (Inside Car)"
+    author: "CMX"
+    codes:
+      - "20158620 00000000"
+      - "20158684 00000000"
+
+  - name: "Infinite Health & Armour"
+    author: "RyTheHexer"
+    codes:
+      - "200FFE00 3C054348"
+      - "200FFE00 AC45036C"
+      - "200FFE00 AC450368"
+      - "200FFE00 03E00008"
+      - "202DAEA4 0C03FF80"
+      - "202DAEA8 00000000"
+
+  - name: "Kill Mission Timers"
+    author: "RyTheHexer"
+    codes:
+      - "20275F98 00000000"
+
+  - name: "Max Money"
+    author: "CMX"
+    codes:
+      - "205D265C 05F5E0FF"
+      - "205D2660 05F5E0FF"
+
+  - name: "Never Exhausted / Always Sprint"
+    author: "RyTheHexer"
+    codes:
+      - "20B5B05C 4479C000"
+
+  - name: "Never Lose Weapons"
+    author: "RyTheHexer"
+    codes:
+      - "201B4480 080B4DF9"
+
+  - name: "Never Wanted"
+    author: "RyTheHexer"
+    codes:
+      - "202A594C 8C060000"
+
+  - name: "No Vehicle Damage"
+    author: "RyTheHexer"
+    codes:
+      - "20168E5C 0805A398"
+
+  - name: "One-Hit Kills"
+    author: "RyTheHexer"
+    codes:
+      - "200FFE30 3C0500B6"
+      - "200FFE34 20A5AA40"
+      - "200FFE38 10B40003"
+      - "200FFE40 AE800368"
+      - "200FFE44 AE80036C"
+      - "200FFE48 DFBF00A0"
+      - "200FFE4C C7B60008"
+      - "200FFE50 080D5B96"
+      - "20356E50 0803FF8C"
+      - "20356E54 00000000"
+
+  - name: "Quick Money Gain"
+    author: "CMX"
+    codes:
+      - "105D265C 0000FFFF"
+      - "105D2660 0000FFFF"
+
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0122214 00122217"
+
+  - name: "Angel"
+    author: "Codejunkies"
+    notes: "[Bikes Modifier Codes]"
+    codes:
+      - "206B59F0 000000A6"
+
+  - name: "Faggio"
+    author: "Codejunkies"
+    notes: "[Bikes Modifier Codes]"
+    codes:
+      - "206B59F0 000000C0"
+
+  - name: "Freeway"
+    author: "Codejunkies"
+    notes: "[Bikes Modifier Codes]"
+    codes:
+      - "206B59F0 000000C1"
+
+  - name: "PCG 600"
+    author: "Codejunkies"
+    notes: "[Bikes Modifier Codes]"
+    codes:
+      - "206B59F0 000000BF"
+
+  - name: "Pizza Boy"
+    author: "Codejunkies"
+    notes: "[Bikes Modifier Codes]"
+    codes:
+      - "206B59F0 000000B2"
+
+  - name: "Sanchez"
+    author: "Codejunkies"
+    notes: "[Bikes Modifier Codes]"
+    codes:
+      - "206B59F0 000000C6"
+
+  - name: "Disable Blood"
+    author: "Codejunkies"
+    notes: "[Blood Codes]"
+    codes:
+      - "204ADF54 00000000"
+
+  - name: "Enable Blood"
+    author: "Codejunkies"
+    notes: "[Blood Codes]"
+    codes:
+      - "204ADF54 00000001"
+
+  - name: "Have All Hidden Packages"
+    author: "Codejunkies"
+    notes: "[Blood Codes]"
+    codes:
+      - "105C8464 00000064"
+
+  - name: "Hypermode (Press L2+R2+Up To Activate)"
+    author: "Codejunkies"
+    notes: "[Blood Codes]"
+    codes:
+      - "D05C1702 0000FCEF"
+      - "204B1C58 42000000"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    notes: "[Blood Codes]"
+    codes:
+      - "20158670 24420000"
+      - "201586D8 24420000"
+      - "20157EFC 24420000"
+      - "20157F60 24420000"
+
+  - name: "Normal Game Speed (Press L2+R2+Select To Activate)"
+    author: "Codejunkies"
+    notes: "[Blood Codes]"
+    codes:
+      - "D05C1702 0000FCFE"
+      - "204B1C58 3F800000"
+
+  - name: "Slow Motion (Press L2+R2+Down To Activate)"
+    author: "Codejunkies"
+    notes: "[Blood Codes]"
+    codes:
+      - "D05C1702 0000FCBF"
+      - "204B1C58 3E800000"
+
+  - name: "Walk Trough Walls (Press L3+L2 To Activate And L3+R2 To Deactivate)"
+    author: "Codejunkies"
+    notes: "[Blood Codes]"
+    codes:
+      - "D05C1702 0000FEFD"
+      - "2013D568 00000000"
+      - "D05C1702 0000FDFD"
+      - "2013D568 0C0E1490"
+
+  - name: "Black"
+    author: "Codejunkies"
+    notes: "[Body Colour Codes]"
+    codes:
+      - "006B5A10 00000000"
+
+  - name: "Blue"
+    author: "Codejunkies"
+    notes: "[Body Colour Codes]"
+    codes:
+      - "006B5A10 00000036"
+
+  - name: "Dark Blue"
+    author: "Codejunkies"
+    notes: "[Body Colour Codes]"
+    codes:
+      - "006B5A10 00000034"
+
+  - name: "Gold"
+    author: "Codejunkies"
+    notes: "[Body Colour Codes]"
+    codes:
+      - "006B5A10 00000027"
+
+  - name: "Light Blue"
+    author: "Codejunkies"
+    notes: "[Body Colour Codes]"
+    codes:
+      - "006B5A10 00000007"
+
+  - name: "Light Purple"
+    author: "Codejunkies"
+    notes: "[Body Colour Codes]"
+    codes:
+      - "006B5A10 00000005"
+
+  - name: "Metal Green"
+    author: "Codejunkies"
+    notes: "[Body Colour Codes]"
+    codes:
+      - "006B5A10 0000002E"
+
+  - name: "Metal Purple"
+    author: "Codejunkies"
+    notes: "[Body Colour Codes]"
+    codes:
+      - "006B5A10 00000037"
+
+  - name: "Metal Yellow"
+    author: "Codejunkies"
+    notes: "[Body Colour Codes]"
+    codes:
+      - "006B5A10 00000021"
+
+  - name: "Orange"
+    author: "Codejunkies"
+    notes: "[Body Colour Codes]"
+    codes:
+      - "006B5A10 00000016"
+
+  - name: "Red"
+    author: "Codejunkies"
+    notes: "[Body Colour Codes]"
+    codes:
+      - "006B5A10 0000001B"
+
+  - name: "Silver"
+    author: "Codejunkies"
+    notes: "[Body Colour Codes]"
+    codes:
+      - "006B5A10 0000001E"
+
+  - name: "Turqoise"
+    author: "Codejunkies"
+    notes: "[Body Colour Codes]"
+    codes:
+      - "006B5A10 00000002"
+
+  - name: "White"
+    author: "Codejunkies"
+    notes: "[Body Colour Codes]"
+    codes:
+      - "006B5A10 00000026"
+
+  - name: "Yellow"
+    author: "Codejunkies"
+    notes: "[Body Colour Codes]"
+    codes:
+      - "006B5A10 00000006"
+
+  - name: "Bloodring Banger"
+    author: "Codejunkies"
+    notes: "[Car Codes - Press L1+L2+Up For A Car]"
+    codes:
+      - "D05C1702 0000FAEF"
+      - "20279254 00000000"
+      - "D05C1702 0000FFFF"
+      - "20279254 14400007"
+
+  - name: "Caddy"
+    author: "Codejunkies"
+    notes: "[Car Codes - Press L1+L2+Up For A Car]"
+    codes:
+      - "D05C1702 0000FAEF"
+      - "20278EB8 14400000"
+      - "D05C1702 0000FFFF"
+      - "20278EB8 14400007"
+
+  - name: "Herse"
+    author: "Codejunkies"
+    notes: "[Car Codes - Press L1+L2+Up For A Car]"
+    codes:
+      - "D05C1702 0000FAEF"
+      - "20278E08 14400000"
+      - "D05C1702 0000FFFF"
+      - "20278E08 14400007"
+
+  - name: "Hotring Racer"
+    author: "Codejunkies"
+    notes: "[Car Codes - Press L1+L2+Up For A Car]"
+    codes:
+      - "D05C1702 0000FAEF"
+      - "20279280 14400000"
+      - "D05C1702 0000FFFF"
+      - "20279280 14400007"
+
+  - name: "Love Fist"
+    author: "Codejunkies"
+    notes: "[Car Codes - Press L1+L2+Up For A Car]"
+    codes:
+      - "D05C1702 0000FAEF"
+      - "20278E34 14400000"
+      - "D05C1702 0000FFFF"
+      - "20278E34 14400007"
+
+  - name: "Sabre Turbo"
+    author: "Codejunkies"
+    notes: "[Car Codes - Press L1+L2+Up For A Car]"
+    codes:
+      - "D05C1702 0000FAEF"
+      - "20278E8C 14400000"
+      - "D05C1702 0000FFFF"
+      - "20278E8C 14400007"
+
+  - name: "Trashmaster"
+    author: "Codejunkies"
+    notes: "[Car Codes - Press L1+L2+Up For A Car]"
+    codes:
+      - "D05C1702 0000FAEF"
+      - "20278E60 14400000"
+      - "D05C1702 0000FFFF"
+      - "20278E60 14400007"
+
+  - name: "Admiral"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000AF"
+
+  - name: "Ambulance"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 00000092"
+
+  - name: "Baggage Handler"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000D7"
+
+  - name: "Banshee"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 0000009F"
+
+  - name: "Barracks"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000A3"
+
+  - name: "Benson"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000E5"
+
+  - name: "BF Injection"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 0000009A"
+
+  - name: "Blister Comp"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000E2"
+
+  - name: "Bobcat"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 00000098"
+
+  - name: "Boxville"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000E4"
+
+  - name: "Burrito"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000B3"
+
+  - name: "Bus"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000A1"
+
+  - name: "Cab"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000D8"
+
+  - name: "Cabbie"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000A8"
+
+  - name: "Cheetah"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 00000091"
+
+  - name: "Coach"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000A7"
+
+  - name: "Comet"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000D2"
+
+  - name: "Cuban Hermes"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000A4"
+
+  - name: "Deluxo"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000D3"
+
+  - name: "Enforcer"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 0000009D"
+
+  - name: "Esperanto"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 00000095"
+
+  - name: "FBI Rancher"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000DC"
+
+  - name: "FBI Washington"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 00000093"
+
+  - name: "Fire Truck"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 00000089"
+
+  - name: "Flatbed"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000B9"
+
+  - name: "Glendale"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000C4"
+
+  - name: "Greenwood"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000DE"
+
+  - name: "Hermes"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000CC"
+
+  - name: "Hunter"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 0000009B"
+
+  - name: "Idaho"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 00000083"
+
+  - name: "Infernus"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 0000008D"
+
+  - name: "Landstalker"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 00000082"
+
+  - name: "Linerunner"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 00000085"
+
+  - name: "Manana"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 0000008C"
+
+  - name: "Maverick"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000D9"
+
+  - name: "Mesa Grande"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000E6"
+
+  - name: "Moonbeam"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 00000094"
+
+  - name: "Mr Whoopee"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 00000099"
+
+  - name: "Mule"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 00000090"
+
+  - name: "Oceanic"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000C5"
+
+  - name: "Patriot"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 00000088"
+
+  - name: "Perenial"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 00000086"
+
+  - name: "Phoenix"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000CF"
+
+  - name: "Police"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 0000009C"
+
+  - name: "Police MAV"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000E3"
+
+  - name: "Pony"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 0000008F"
+
+  - name: "Rancher"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000DB"
+
+  - name: "Regina"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000D1"
+
+  - name: "Rhino"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000A2"
+
+  - name: "Romero"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000AC"
+
+  - name: "Rumpo"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000AA"
+
+  - name: "Sabre"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000CD"
+
+  - name: "Sandking"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000E1"
+
+  - name: "Sea Plane"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000BE"
+
+  - name: "Sea Sparrow"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000B1"
+
+  - name: "Securica"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 0000009E"
+
+  - name: "Sentinel"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 00000087"
+
+  - name: "Spand Express"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000D5"
+
+  - name: "Sparrow"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000C7"
+
+  - name: "Stallion"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000A9"
+
+  - name: "Stinger"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 00000084"
+
+  - name: "Stretch"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 0000008B"
+
+  - name: "Taxi"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 00000096"
+
+  - name: "Top Fun"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000BD"
+
+  - name: "Unknown"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000EC"
+
+  - name: "VCN Maverick"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000DA"
+
+  - name: "Virgo"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000DD"
+
+  - name: "Voodoo"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 0000008E"
+
+  - name: "Walton"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000D0"
+
+  - name: "Washington"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 00000097"
+
+  - name: "Yankee"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000BA"
+
+  - name: "Zebra Cab"
+    author: "Codejunkies"
+    notes: "[Car Modifier Codes]"
+    codes:
+      - "206B59F0 000000BC"
+
+  - name: "Cops Have No AI"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "20199760 03E00008"
+      - "20199764 00000000"
+
+  - name: "Disable Car Damage"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "2016838C 00000000"
+
+  - name: "Maniac Runner"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "2012A9A0 3C024080"
+
+  - name: "Moon Jump"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "200FFF40 3C01005C"
+      - "200FFF44 80211003"
+      - "200FFF48 2403007F"
+      - "200FFF4C 1461000E"
+      - "200FFF54 3C013E00"
+      - "200FFF58 9384F108"
+      - "200FFF5C 2403016C"
+      - "200FFF60 3C02005C"
+      - "200FFF64 24427D40"
+      - "200FFF68 00831818"
+      - "200FFF70 00431021"
+      - "200FFF74 8C420000"
+      - "200FFF7C AC410074"
+      - "200FFF98 24030070"
+      - "200FFF9C 08048870"
+      - "201221BC 0803FFD0"
+
+  - name: "Never Exhausted"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "201CF694 10000014"
+
+  - name: "Never Have More Than 999 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E00203E7 305C7DDC"
+      - "E0010000 305C7DDE"
+      - "205C7DDC 000003E7"
+      - "E00203E7 305C7DE0"
+      - "E0010000 305C7DE2"
+      - "205C7DE0 000003E7"
+
+  - name: "Never Have More Than 9999 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E002270F 305C7DDC"
+      - "E0010000 305C7DDE"
+      - "205C7DDC 0000270F"
+      - "E002270F 305C7DE0"
+      - "E0010000 305C7DE2"
+      - "205C7DE0 0000270F"
+
+  - name: "Never Have More Than 99999 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E002869F 305C7DDC"
+      - "E0010001 305C7DDE"
+      - "205C7DDC 0001869F"
+      - "E002869F 305C7DE0"
+      - "E0010001 305C7DE2"
+      - "205C7DE0 0001869F"
+
+  - name: "Never Have More Than 999999 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E002423F 305C7DDC"
+      - "E001000F 305C7DDE"
+      - "205C7DDC 000F423F"
+      - "E002423F 305C7DE0"
+      - "E001000F 305C7DE2"
+      - "205C7DE0 000F423F"
+
+  - name: "Never Have More Than 9999999 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E002967F 305C7DDC"
+      - "E0010098 305C7DDE"
+      - "205C7DDC 0098967F"
+      - "E002967F 305C7DE0"
+      - "E0010098 305C7DE2"
+      - "205C7DE0 0098967F"
+
+  - name: "Never More Than 999 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E00203E7 305C835C"
+      - "E0010000 305C835E"
+      - "205C835C 000003E7"
+      - "E00203E7 305C8360"
+      - "E0010000 305C8362"
+      - "205C8360 000003E7"
+
+  - name: "Never More Than 9999 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E002270F 305C835C"
+      - "E0010000 305C835E"
+      - "205C835C 0000270F"
+      - "E002270F 305C8360"
+      - "E0010000 305C8362"
+      - "205C8360 0000270F"
+
+  - name: "Never More Than 99999 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E002869F 305C835C"
+      - "E0010001 305C835E"
+      - "205C835C 0001869F"
+      - "E002869F 305C8360"
+      - "E0010001 305C8362"
+      - "205C8360 0001869F"
+
+  - name: "Never More Than 999999 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E002423F 305C835C"
+      - "E001000F 305C835E"
+      - "205C835C 000F423F"
+      - "E002423F 305C8360"
+      - "E001000F 305C8362"
+      - "205C8360 000F423F"
+
+  - name: "Never More Than 9999999 Cash"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "E002967F 305C835C"
+      - "E0010098 305C835E"
+      - "205C835C 0098967F"
+      - "E002967F 305C8360"
+      - "E0010098 305C8362"
+      - "205C8360 0098967F"
+
+  - name: "No Pedestrians"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "204AB9F8 00000000"
+
+  - name: "No Traffic"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "204ABA90 00000000"
+
+  - name: "No Wanted Level"
+    author: "Codejunkies"
+    notes: "[Cash Codes]"
+    codes:
+      - "2029F07C 24060000"
+
+  - name: "Enable Blood (FR And DE)"
+    author: "Codejunkies"
+    notes: "[Censorship Codes]"
+    codes:
+      - "204AE054 00000001"
+
+  - name: "Monster Front Bike"
+    author: "Codejunkies"
+    notes: "[Censorship Codes]"
+    codes:
+      - "2012F0C0 3C034080"
+
+  - name: "Sd Bikes"
+    author: "Codejunkies"
+    notes: "[Censorship Codes]"
+    codes:
+      - "2012F0E0 3C034080"
+
+  - name: "Sd Characters"
+    author: "Codejunkies"
+    notes: "[Censorship Codes]"
+    codes:
+      - "20413040 3C013FA0"
+
+  - name: "Walk Trough Walls (Press Select+Up To Activate; Select+Down To Stop)"
+    author: "Codejunkies"
+    notes: "[Censorship Codes]"
+    codes:
+      - "D05C1602 0000FFEE"
+      - "2013D798 00000000"
+      - "D05C1602 0000FFBE"
+      - "2013D798 0C0E1444"
+
+  - name: "Fat Guy"
+    author: "Codejunkies"
+    notes: "[Character Modifier Codes - Press L1+L2+Down To Activate, And Use Only One Code At A Time]"
+    codes:
+      - "D05C1702 0000FABF"
+      - "20278F68 00000000"
+      - "D05C1702 0000FFFF"
+      - "20278F68 1440000F"
+
+  - name: "Hawaiian Shirt"
+    author: "Codejunkies"
+    notes: "[Character Modifier Codes - Press L1+L2+Down To Activate, And Use Only One Code At A Time]"
+    codes:
+      - "D05C1702 0000FABF"
+      - "20279324 00000000"
+      - "D05C1702 0000FFFF"
+      - "20279324 14400005"
+
+  - name: "Hooligan"
+    author: "Codejunkies"
+    notes: "[Character Modifier Codes - Press L1+L2+Down To Activate, And Use Only One Code At A Time]"
+    codes:
+      - "D05C1702 0000FABF"
+      - "20279228 00000000"
+      - "D05C1702 0000FFFF"
+      - "20279228 14400007"
+
+  - name: "Miss"
+    author: "Codejunkies"
+    notes: "[Character Modifier Codes - Press L1+L2+Down To Activate, And Use Only One Code At A Time]"
+    codes:
+      - "D05C1702 0000FABF"
+      - "20278F10 00000000"
+      - "D05C1702 0000FFFF"
+      - "20278F10 14400007"
+
+  - name: "Pink Suit"
+    author: "Codejunkies"
+    notes: "[Character Modifier Codes - Press L1+L2+Down To Activate, And Use Only One Code At A Time]"
+    codes:
+      - "D05C1702 0000FABF"
+      - "20278F3C 00000000"
+      - "D05C1702 0000FFFF"
+      - "20278F3C 14400007"
+
+  - name: "Prostitute"
+    author: "Codejunkies"
+    notes: "[Character Modifier Codes - Press L1+L2+Down To Activate, And Use Only One Code At A Time]"
+    codes:
+      - "D05C1702 0000FABF"
+      - "202791FC 00000000"
+      - "D05C1702 0000FFFF"
+      - "202791FC 14400007"
+
+  - name: "Punk"
+    author: "Codejunkies"
+    notes: "[Character Modifier Codes - Press L1+L2+Down To Activate, And Use Only One Code At A Time]"
+    codes:
+      - "D05C1702 0000FABF"
+      - "20278F94 14400000"
+      - "D05C1702 0000FFFF"
+      - "20278F94 14400007"
+
+  - name: "White Suit"
+    author: "Codejunkies"
+    notes: "[Character Modifier Codes - Press L1+L2+Down To Activate, And Use Only One Code At A Time]"
+    codes:
+      - "D05C1702 0000FABF"
+      - "20278EE4 00000000"
+      - "D05C1702 0000FFFF"
+      - "20278EE4 14400007"
+
+  - name: "X"
+    author: "Codejunkies"
+    notes: "[Character Modifier Codes - Press L1+L2+Down To Activate, And Use Only One Code At A Time]"
+    codes:
+      - "D05C1702 0000FABF"
+      - "20278FC0 14400000"
+      - "D05C1702 0000FFFF"
+      - "20278FC0 14400007"
+
+  - name: "All Weapons 1 (Press L3+Up To Activate)"
+    author: "Codejunkies"
+    notes: "[Cheat Codes]"
+    codes:
+      - "D05C1002 0000FFED"
+      - "20278278 00000000"
+      - "D05C1002 0000FFFF"
+      - "20278278 14400004"
+
+  - name: "All Weapons 2 (Katana) (Press L3+Down To Activate)"
+    author: "Codejunkies"
+    notes: "[Cheat Codes]"
+    codes:
+      - "D05C1602 0000FFBD"
+      - "2027812C 00000000"
+      - "D05C1602 0000FFFF"
+      - "2027812C 14400004"
+
+  - name: "All Weapons 2 (Press L3+Down To Activate Katana)"
+    author: "Codejunkies"
+    notes: "[Cheat Codes]"
+    codes:
+      - "D05C1002 0000FFBD"
+      - "2027829C 00000000"
+      - "D05C1002 0000FFFF"
+      - "2027829C 14400004"
+
+  - name: "All Weapons 3 (Chainsaw) (Press L3+Left To Activate)"
+    author: "Codejunkies"
+    notes: "[Cheat Codes]"
+    codes:
+      - "D05C1602 0000FF7D"
+      - "20278150 00000000"
+      - "D05C1602 0000FFFF"
+      - "20278150 14400006"
+
+  - name: "All Weapons 3 (Press L3+Left To Activate Chainsaw)"
+    author: "Codejunkies"
+    notes: "[Cheat Codes]"
+    codes:
+      - "D05C1002 0000FF7D"
+      - "202782C0 00000000"
+      - "D05C1002 0000FFFF"
+      - "202782C0 14400006"
+
+  - name: "All Weapons (Set 1) (Press L3+Up To Activate)"
+    author: "Codejunkies"
+    notes: "[Cheat Codes]"
+    codes:
+      - "D05C1602 0000FFED"
+      - "20278108 00000000"
+      - "D05C1602 0000FFFF"
+      - "20278108 14400004"
+
+  - name: "Armour Cheat (Press R3+Up To Activate)"
+    author: "Codejunkies"
+    notes: "[Cheat Codes]"
+    codes:
+      - "D05C1002 0000FFEB"
+      - "20278308 14400000"
+      - "D05C1002 0000FFFF"
+      - "20278308 1440001C"
+
+  - name: "Experienceloding Cars (Press Select+Right To Activate)"
+    author: "Codejunkies"
+    notes: "[Cheat Codes]"
+    codes:
+      - "D05C1002 0000FF7E"
+      - "2027878C 00000000"
+      - "D05C1002 0000FFFF"
+      - "2027878C 14400028"
+
+  - name: "Exploding Cars (Press Select+Left To Activate)"
+    author: "Codejunkies"
+    notes: "[Cheat Codes]"
+    codes:
+      - "D05C1602 0000FF7E"
+      - "2027861C 00000000"
+      - "D05C1502 0000FFFF"
+      - "2027861C 14400028"
+
+  - name: "Flying Cars (Press R1+R2+Right To Activate)"
+    author: "Codejunkies"
+    notes: "[Cheat Codes]"
+    codes:
+      - "D05C1002 0000F5DF"
+      - "20278C3C 14400000"
+      - "D05C1002 0000FFFF"
+      - "20278C3C 14400015"
+
+  - name: "Have Tank (Press Select+Up To Activate)"
+    author: "Codejunkies"
+    notes: "[Cheat Codes]"
+    codes:
+      - "D05C1002 0000FFEE"
+      - "20278710 00000000"
+      - "D05C1002 0000FFFF"
+      - "20278710 14400007"
+
+  - name: "Health Cheat (Press R3+Down To Activate)"
+    author: "Codejunkies"
+    notes: "[Cheat Codes]"
+    codes:
+      - "D05C1002 0000FFBB"
+      - "20278388 14400000"
+      - "D05C1002 0000FFFF"
+      - "20278388 14400046"
+
+  - name: "Hot Chicks (Press L3+Right To Activate)"
+    author: "Codejunkies"
+    notes: "[Cheat Codes]"
+    codes:
+      - "D05C1002 0000FFDD"
+      - "20279488 00000000"
+      - "D05C1002 0000FFFF"
+      - "20279488 1440000F"
+
+  - name: "Increase Wanted Level (Press R3+Left To Activate)"
+    author: "Codejunkies"
+    notes: "[Cheat Codes]"
+    codes:
+      - "D05C1602 0000FF7B"
+      - "20278340 00000000"
+      - "D05C1602 0000FFFF"
+      - "20278340 1440001F"
+
+  - name: "Jumping Cars (Press R1+R2+Right To Activate)"
+    author: "Codejunkies"
+    notes: "[Cheat Codes]"
+    codes:
+      - "D05C1602 0000F5DF"
+      - "20278ACC 14400000"
+      - "D05C1602 0000FFFF"
+      - "20278ACC 14400015"
+
+  - name: "No Level Wanted (Press R3+Right To Activate)"
+    author: "Codejunkies"
+    notes: "[Cheat Codes]"
+    codes:
+      - "D05C1002 0000FFDB"
+      - "2027853C 00000000"
+      - "D05C1002 0000FFFF"
+      - "2027853C 14400012"
+
+  - name: "No Wanted Level (Press R3+Right To Activate)"
+    author: "Codejunkies"
+    notes: "[Cheat Codes]"
+    codes:
+      - "D05C1602 0000FFDB"
+      - "202783CC 00000000"
+      - "D05C1602 0000FFFF"
+      - "202783CC 14400012"
+
+  - name: "Pedestrians Attack You (Press R1+R2+Up To Activate)"
+    author: "Codejunkies"
+    notes: "[Cheat Codes]"
+    codes:
+      - "D05C1002 0000F5BF"
+      - "20278964 14400000"
+      - "D05C1002 0000FFFF"
+      - "20278964 14400048"
+
+  - name: "Pedestrians Have Weapons (Press R1+R2+Left To Activate)"
+    author: "Codejunkies"
+    notes: "[Cheat Codes]"
+    codes:
+      - "D05C1002 0000F57F"
+      - "20278A94 14400000"
+      - "D05C1002 0000FFFF"
+      - "20278A94 14400015"
+
+  - name: "Quick Hours (Press Select+Down To Activate)"
+    author: "Codejunkies"
+    notes: "[Cheat Codes]"
+    codes:
+      - "D05C1002 0000FFBE"
+      - "2027873C 00000000"
+      - "D05C1002 0000FFFF"
+      - "2027873C 14400010"
+
+  - name: "Raging Pedestrians (Press R1+R2+Up To Activate)"
+    author: "Codejunkies"
+    notes: "[Cheat Codes]"
+    codes:
+      - "D05C1002 0000F5EF"
+      - "20278864 14400000"
+      - "D05C1002 0000FFFF"
+      - "20278864 1440003C"
+
+  - name: "See Through Cars (Press Select+Right To Activate)"
+    author: "Codejunkies"
+    notes: "[Cheat Codes]"
+    codes:
+      - "D05C1002 0000FFDE"
+      - "20278BD8 00000000"
+      - "D05C1002 0000FFFF"
+      - "20278BD8 14400015"
+
+  - name: "Stripe/Top=Black"
+    author: "Codejunkies"
+    notes: "[Color Modifier]"
+    codes:
+      - "006B5A11 00000000"
+
+  - name: "Stripe/Top=Blue"
+    author: "Codejunkies"
+    notes: "[Color Modifier]"
+    codes:
+      - "006B5A11 00000036"
+
+  - name: "Stripe/Top=D.Blue"
+    author: "Codejunkies"
+    notes: "[Color Modifier]"
+    codes:
+      - "006B5A11 00000034"
+
+  - name: "Stripe/Top=Gold"
+    author: "Codejunkies"
+    notes: "[Color Modifier]"
+    codes:
+      - "006B5A11 00000027"
+
+  - name: "Stripe/Top=L.Blue"
+    author: "Codejunkies"
+    notes: "[Color Modifier]"
+    codes:
+      - "006B5A11 00000007"
+
+  - name: "Stripe/Top=L.Purple"
+    author: "Codejunkies"
+    notes: "[Color Modifier]"
+    codes:
+      - "006B5A11 00000005"
+
+  - name: "Stripe/Top=Metal Green"
+    author: "Codejunkies"
+    notes: "[Color Modifier]"
+    codes:
+      - "006B5A11 0000002E"
+
+  - name: "Stripe/Top=Metal Purple"
+    author: "Codejunkies"
+    notes: "[Color Modifier]"
+    codes:
+      - "006B5A11 00000037"
+
+  - name: "Stripe/Top=Metal Yellow"
+    author: "Codejunkies"
+    notes: "[Color Modifier]"
+    codes:
+      - "006B5A11 00000021"
+
+  - name: "Stripe/Top=Orange"
+    author: "Codejunkies"
+    notes: "[Color Modifier]"
+    codes:
+      - "006B5A11 00000016"
+
+  - name: "Stripe/Top=Red"
+    author: "Codejunkies"
+    notes: "[Color Modifier]"
+    codes:
+      - "006B5A11 0000001B"
+
+  - name: "Stripe/Top=Silver"
+    author: "Codejunkies"
+    notes: "[Color Modifier]"
+    codes:
+      - "006B5A11 0000001E"
+
+  - name: "Stripe/Top=Turquoise"
+    author: "Codejunkies"
+    notes: "[Color Modifier]"
+    codes:
+      - "006B5A11 00000002"
+
+  - name: "Stripe/Top=White"
+    author: "Codejunkies"
+    notes: "[Color Modifier]"
+    codes:
+      - "006B5A11 00000026"
+
+  - name: "Stripe/Top=Yellow"
+    author: "Codejunkies"
+    notes: "[Color Modifier]"
+    codes:
+      - "006B5A11 00000006"
+
+  - name: "Freeze Mission Timer"
+    author: "Codejunkies"
+    notes: "[Health And Armour Codes]"
+    codes:
+      - "202703E8 00000000"
+
+  - name: "Infinite Armour"
+    author: "Codejunkies"
+    notes: "[Health And Armour Codes]"
+    codes:
+      - "200FFF00 3C0542C8"
+      - "200FFF04 AC45036C"
+      - "200FFF08 03E00008"
+      - "200FFF0C 46000836"
+      - "202D2CA4 0C03FFC0"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Health And Armour Codes]"
+    codes:
+      - "200FFF00 3C0542C8"
+      - "200FFF04 AC450368"
+      - "200FFF08 03E00008"
+      - "200FFF0C 46000024"
+      - "202DA728 0C03FFC0"
+
+  - name: "Infinite Health And Armour"
+    author: "Codejunkies"
+    notes: "[Health And Armour Codes]"
+    codes:
+      - "200FFF00 3C0542C8"
+      - "200FFF04 AC450368"
+      - "200FFF08 AC45036C"
+      - "200FFF0C 03E00008"
+      - "200FFF10 46000024"
+      - "202D2CA4 0C03FFC0"
+
+  - name: "Walk Through Walls (Press L2+L3 To Activate And R2+L3 To Deactivate)"
+    author: "Codejunkies"
+    notes: "[Health And Armour Codes]"
+    codes:
+      - "D05C1002 0000FEFD"
+      - "2013D778 00000000"
+      - "D05C1002 0000FDFD"
+      - "2013D778 0C0E1360"
+
+  - name: "Cars Never Blow Up"
+    author: "Codejunkies"
+    notes: "[Life Codes - Use Only One Of The 3 Codes]"
+    codes:
+      - "2015CBE0 03E00008"
+      - "2015CBE4 00000000"
+
+  - name: "Loads Of Pedestrians"
+    author: "Codejunkies"
+    notes: "[Life Codes - Use Only One Of The 3 Codes]"
+    codes:
+      - "204AB678 42800000"
+
+  - name: "Loads Of Traffic"
+    author: "Codejunkies"
+    notes: "[Life Codes - Use Only One Of The 3 Codes]"
+    codes:
+      - "204AB710 42800000"
+
+  - name: "All Weapons (Set 1 - Press L3+Up)"
+    author: "Codejunkies"
+    notes: "[Open Cheats]"
+    codes:
+      - "D05C1702 0000FFED"
+      - "202780C8 00000000"
+      - "D05C1702 0000FFFF"
+      - "202780C8 14400004"
+
+  - name: "All Weapons (Set 2 - Katana - Press L3+Down)"
+    author: "Codejunkies"
+    notes: "[Open Cheats]"
+    codes:
+      - "D05C1702 0000FFBD"
+      - "202780EC 00000000"
+      - "D05C1702 0000FFFF"
+      - "202780EC 14400004"
+
+  - name: "All Weapons (Set 3 - Chainsaw - Press L3+Left)"
+    author: "Codejunkies"
+    notes: "[Open Cheats]"
+    codes:
+      - "D05C1702 0000FF7D"
+      - "20278110 00000000"
+      - "D05C1702 0000FFFF"
+      - "20278110 14400006"
+
+  - name: "Exploding Cars - Press Select+Left"
+    author: "Codejunkies"
+    notes: "[Open Cheats]"
+    codes:
+      - "D05C1702 0000FF7E"
+      - "202785DC 00000000"
+      - "D05C1702 0000FFFF"
+      - "202785DC 14400028"
+
+  - name: "Flying Cars - Press R1+R2+Right"
+    author: "Codejunkies"
+    notes: "[Open Cheats]"
+    codes:
+      - "D05C1702 0000F5DF"
+      - "20278A8C 00000000"
+      - "D05C1702 0000FFFF"
+      - "20278A8C 14400015"
+
+  - name: "Have Tank - Press Select+Up"
+    author: "Codejunkies"
+    notes: "[Open Cheats]"
+    codes:
+      - "D05C1702 0000FFEE"
+      - "20278560 00000000"
+      - "D05C1702 0000FFFF"
+      - "20278560 14400007"
+
+  - name: "Hot Chicks - Press L3+Right"
+    author: "Codejunkies"
+    notes: "[Open Cheats]"
+    codes:
+      - "D05C1702 0000FFDD"
+      - "202792D8 00000000"
+      - "D05C1702 0000FFFF"
+      - "202792D8 1440000F"
+
+  - name: "Increase Wanted Level - Press R3+Left"
+    author: "Codejunkies"
+    notes: "[Open Cheats]"
+    codes:
+      - "D05C1702 0000FF7B"
+      - "20278300 00000000"
+      - "D05C1702 0000FFFF"
+      - "20278300 1440001F"
+
+  - name: "No Wanted Level - Press R3+Right"
+    author: "Codejunkies"
+    notes: "[Open Cheats]"
+    codes:
+      - "D05C1702 0000FFDB"
+      - "2027838C 00000000"
+      - "D05C1702 0000FFFF"
+      - "2027838C 14400012"
+
+  - name: "Quick Hours - Press Select+Down"
+    author: "Codejunkies"
+    notes: "[Open Cheats]"
+    codes:
+      - "D05C1702 0000FFBE"
+      - "2027858C 00000000"
+      - "D05C1702 0000FFFF"
+      - "2027858C 14400010"
+
+  - name: "See Through Cars - Press Select+Right"
+    author: "Codejunkies"
+    notes: "[Open Cheats]"
+    codes:
+      - "D05C1702 0000FFDE"
+      - "20278A28 00000000"
+      - "D05C1702 0000FFFF"
+      - "20278A28 14400015"
+
+  - name: "Loadsa"
+    author: "Codejunkies"
+    notes: "[Pedestrian Modifier]"
+    codes:
+      - "204B4C78 42800000"
+
+  - name: "Chick"
+    author: "Codejunkies"
+    notes: "[Press L1+L2+Down To Activate]"
+    codes:
+      - "D05C1602 0000FABF"
+      - "20278F50 00000000"
+      - "D05C1602 0000FFFF"
+      - "20278F50 14400007"
+
+  - name: "Pink Suit Guy"
+    author: "Codejunkies"
+    notes: "[Press L1+L2+Down To Activate]"
+    codes:
+      - "D05C1602 0000FABF"
+      - "20278F7C 00000000"
+      - "D05C1602 0000FFFF"
+      - "20278F7C 14400007"
+
+  - name: "X Guy"
+    author: "Codejunkies"
+    notes: "[Press L1+L2+Down To Activate]"
+    codes:
+      - "D05C1602 0000FABF"
+      - "20279000 14400000"
+      - "D05C1602 0000FFFF"
+      - "20279000 14400007"
+
+  - name: "Weather Type 1"
+    author: "Codejunkies"
+    notes: "[Press L1+L2+Left To Activate]"
+    codes:
+      - "D05C1002 0000FA7F"
+      - "20278594 00000000"
+      - "D05C1002 0000FFFF"
+      - "20278594 1440000F"
+
+  - name: "Weather Type 2"
+    author: "Codejunkies"
+    notes: "[Press L1+L2+Left To Activate]"
+    codes:
+      - "D05C1002 0000FA7F"
+      - "202785E0 14400000"
+      - "D05C1002 0000FFFF"
+      - "202785E0 1440000F"
+
+  - name: "Weather Type 3"
+    author: "Codejunkies"
+    notes: "[Press L1+L2+Left To Activate]"
+    codes:
+      - "D05C1002 0000FA7F"
+      - "2027862C 00000000"
+      - "D05C1002 0000FFFF"
+      - "2027862C 1440000F"
+
+  - name: "Weather Type 4"
+    author: "Codejunkies"
+    notes: "[Press L1+L2+Left To Activate]"
+    codes:
+      - "D05C1002 0000FA7F"
+      - "20278678 00000000"
+      - "D05C1002 0000FFFF"
+      - "20278678 1440000F"
+
+  - name: "Weather Type 5"
+    author: "Codejunkies"
+    notes: "[Press L1+L2+Left To Activate]"
+    codes:
+      - "D05C1002 0000FA7F"
+      - "202786C4 00000000"
+      - "D05C1002 0000FFFF"
+      - "202786C4 1440000F"
+
+  - name: "All Packages"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "205C7DE4 00000064"
+
+  - name: "All Rampages Passed"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B2630 00000023"
+
+  - name: "All Unique Jumps"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B25E0 00000024"
+
+  - name: "Best Insane Stunt"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B226C 00000008"
+
+  - name: "Boats Destroyed"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B221C 05F5E0FF"
+
+  - name: "Bullets Fired"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B2224 05F5E0FF"
+
+  - name: "Bullets That Hit"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B2238 05F5E0FF"
+
+  - name: "Days Passed"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B25C0 05F5E0FF"
+
+  - name: "Experiencelosives Used"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B2234 05F5E0FF"
+
+  - name: "Explosives Used"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B25A4 05F5E0FF"
+
+  - name: "Fire Truck Mission Level"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B22B8 05F5E0FF"
+
+  - name: "Fires Extinguished"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B261C 05F5E0FF"
+
+  - name: "Fishes Fed"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B22D0 05F5E0FF"
+
+  - name: "Game 100% Complete (Stat)"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B222C 431A0000"
+
+  - name: "Game 100% Complete(Stat)"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B259C 431A0000"
+
+  - name: "Highest Paramedic Level"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B22B4 05F5E0FF"
+
+  - name: "Highest Vigilante Level"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B2620 05F5E0FF"
+
+  - name: "Hospital Visits"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B224C 05F5E0FF"
+
+  - name: "Insane Jump Distance"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B225C 4E6E6B28"
+
+  - name: "Insane Jump Flips"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B2264 05F5E0FF"
+
+  - name: "Insane Jump Height"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B2260 4E6E6B28"
+
+  - name: "Insane Jump Rotation"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B25D8 05F5E0FF"
+
+  - name: "Max Flight Hours"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B263C 7FFFFFFF"
+
+  - name: "Max Visits From Loan Sharks"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B2650 4E6E6B28"
+
+  - name: "Miles By Golf Cart"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B2608 55C80000"
+
+  - name: "Miles By Helicopter"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B260C 55C80000"
+
+  - name: "Miles By Car"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B25FC 55C80000"
+
+  - name: "Miles By Boat"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B2604 55C80000"
+
+  - name: "Miles By Bike"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B2600 55C80000"
+
+  - name: "Miles On Foot"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B25F8 55C80000"
+
+  - name: "Mission Attempts"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B25E8 00000001"
+
+  - name: "Number Of Headshots"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B25AC 05F5E0FF"
+
+  - name: "Passengers Dropped Off"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B25F0 05F5E0FF"
+
+  - name: "People Wasted By Others"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B2214 05F5E0FF"
+
+  - name: "People Wasted"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B2210 05F5E0FF"
+
+  - name: "Planes & Helis Destroyed"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B2228 05F5E0FF"
+
+  - name: "Road Vehicles Destroyed"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B2588 05F5E0FF"
+
+  - name: "Safehouse Visits"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B25C4 05F5E0FF"
+
+  - name: "Sprayings"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B25C8 05F5E0FF"
+
+  - name: "Taxi Cash"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B25F4 05F5E0FF"
+
+  - name: "Times Busted"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B25B8 05F5E0FF"
+
+  - name: "Tires Popped"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B2590 05F5E0FF"
+
+  - name: "Unknown Cheat 1 (Press L1+L2+Right)"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "D05C1002 0000FADF"
+      - "20278D04 14400000"
+      - "D05C1002 0000FFFF"
+      - "20278D04 1440000E"
+
+  - name: "Unknown Cheat 2 (Press L1+L2+Right)"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "D05C1002 0000FADF"
+      - "20278D4C 00000000"
+      - "D05C1002 0000FFFF"
+      - "20278D4C 14400027"
+
+  - name: "Unknown Cheat 3 (Press L1+L2+Right)"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "D05C1002 0000FADF"
+      - "20278DF8 00000000"
+      - "D05C1002 0000FFFF"
+      - "20278DF8 14400017"
+
+  - name: "Unknown Cheat 4 (Press L1+L2+Right)"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "D05C1002 0000FADF"
+      - "20278F40 14400000"
+      - "D05C1002 0000FFFF"
+      - "20278F40 1440000F"
+
+  - name: "Unknown Cheat 5 (Press L1+L2+Right)"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "D05C1002 0000FADF"
+      - "202791C8 14000000"
+      - "D05C1002 0000FFFF"
+      - "20278658 14400012"
+
+  - name: "Unknown Cheat 6 (Press L1+L2+Right)"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "D05C1002 0000FADF"
+      - "20279220 00000000"
+      - "D05C1002 0000FFFF"
+      - "20279220 14400006"
+
+  - name: "Unknown Cheat 7 (Press L1+L2+Right)"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "D05C1002 0000FADF"
+      - "20279248 00000000"
+      - "D05C1002 0000FFFF"
+      - "20279248 1440003F"
+
+  - name: "Unknown Cheat 8 (Press L1+L2+Right)"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "D05C1002 0000FADF"
+      - "20279354 00000000"
+      - "D05C1002 0000FFFF"
+      - "20279354 14400012"
+
+  - name: "Unknown Cheat 9 (Press L1+L2+Right)"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "D05C1002 0000FADF"
+      - "20278E64 14400000"
+      - "D05C1002 0000FFFF"
+      - "20278E64 1440000E"
+
+  - name: "Unknown Cheat 10 (Press L1+L2+Right)"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "D05C1002 0000FADF"
+      - "20278EAC 00000000"
+      - "D05C1002 0000FFFF"
+      - "20278EAC 1440000E"
+
+  - name: "Vigilante Kills"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B2618 05F5E0FF"
+
+  - name: "Wanted Stars Attained"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B25B0 05F5E0FF"
+
+  - name: "Wanted Stars Evaded"
+    author: "Codejunkies"
+    notes: "[Statistics Codes]"
+    codes:
+      - "204B25B4 05F5E0FF"

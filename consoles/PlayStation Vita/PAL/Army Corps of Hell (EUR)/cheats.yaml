@@ -1,0 +1,22 @@
+# Army Corps of Hell (EUR) cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00050
+
+game: "Army Corps of Hell (EUR)"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00050"
+cheat_type: "Save Editor"
+source: "Credits: Slade"
+
+cheats:
+  - name: "9,999,999 Gems"
+    notes: "File: data0000.bin"
+    codes:
+      - "20000018 0098967F"
+
+  - name: "0 Gems Spent(\"Use 0 Gems Spent to reset the gems value back to 9,999,999.\")"
+    notes: "File: data0000.bin"
+    codes:
+      - "20000020 00000000"

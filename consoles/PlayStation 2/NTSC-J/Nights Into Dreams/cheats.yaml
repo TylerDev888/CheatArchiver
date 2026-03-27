@@ -1,0 +1,103 @@
+# Nights Into Dreams cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66926
+
+game: "Nights Into Dreams"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66926"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Always Get \"A\" Rank"
+    author: "Ramdemann"
+    codes:
+      - "2064F1F0 000186A0"
+      - "2064F1F8 000186A0"
+      - "2064F200 000186A0"
+      - "2064F208 000186A0"
+
+  - name: "Have All 4 Ideya"
+    author: "Ramdemann"
+    codes:
+      - "2064E6C8 00000004"
+
+  - name: "Infinite Thrust"
+    author: "Ramdemann"
+    codes:
+      - "20205A3C 00000000"
+
+  - name: "Infinite Time (ASM)"
+    author: "Ramdemann"
+    codes:
+      - "202DE13C 00000000"
+
+  - name: "Invincible"
+    author: "Skiller>Ramdemann"
+    codes:
+      - "20221EDC 10630078"
+
+  - name: "Save Data Name Modifier"
+    author: "Ramdemann"
+    codes:
+      - "2064F220 ????????"
+
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90145618 0C05152E"
+
+  - name: "Inf Timer"
+    codes:
+      - "202DE134 24030078"
+
+  - name: "Max Chips Gain"
+    codes:
+      - "202DE200 24100063"
+
+  - name: "Stage Timer Always 0"
+    codes:
+      - "002DE09C 00000000"
+
+  - name: "Chip Collection Defeated With 1"
+    codes:
+      - "202DDF3C AE400028"
+
+  - name: "Nights Timer"
+    author: "Ar Japan"
+    codes:
+      - "2064E6D4 00000078"
+
+  - name: "Inf Chips"
+    codes:
+      - "2064E6CC 00000063"
+
+  - name: "Chip Collectors Only Need 1"
+    codes:
+      - "2064E6D8 00000001"
+
+  - name: "Stage Timer"
+    codes:
+      - "2064E6DC 00000000"
+
+  - name: "Gain Score X By"
+    notes: "[Score Codes]"
+    codes:
+      - "200A0000 8C830B38"
+      - "200A0004 00108[MOD]"
+      - "200A0008 080B7333"
+      - "200A000C 00701821"
+      - "202DCCC8 08028000"
+      - "202DCCCC 00000000"
+
+  - name: "Gain Score Mod"
+    notes: "[Score Codes]"
+    codes:
+      - "200A0000 8C830B38"
+      - "200A0004 2410[Amount:2710:HEX:BIG]"
+      - "200A0008 080B7333"
+      - "200A000C 00701821"
+      - "202DCCC8 08028000"
+      - "202DCCCC 00000000"

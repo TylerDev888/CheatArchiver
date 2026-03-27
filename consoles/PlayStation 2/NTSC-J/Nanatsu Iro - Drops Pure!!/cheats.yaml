@@ -1,0 +1,38 @@
+# Nanatsu Iro - Drops Pure!! cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25758
+
+game: "Nanatsu Iro - Drops Pure!!"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25758"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010F858 0C043DBE"
+
+  - name: "Unlock All BGM"
+    author: "punk7890"
+    codes:
+      - "202A2E90 FFFFFFFF"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "402A1590 00080001"
+      - "FFFFFFFF 00000000"
+      - "402A15CC 00050001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Unlock All Movies"
+    author: "punk7890"
+    codes:
+      - "202A2EF0 01010101"
+      - "202A2EF4 01010101"
+      - "102A2EF8 00000101"

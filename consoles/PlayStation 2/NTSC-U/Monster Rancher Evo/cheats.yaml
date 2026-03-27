@@ -1,0 +1,223 @@
+# Monster Rancher Evo cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21330
+
+game: "Monster Rancher Evo"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21330"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90312A98 00832021"
+
+  - name: "Player 1 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "D04EFEC2 0000[Joker:PS2]"
+
+  - name: "Memcard Sub"
+    notes: "[Live Dump]"
+    codes:
+      - "200A0000 27BDFFC0"
+      - "200A0004 3C06000A"
+      - "200A0008 FFB20020"
+      - "200A0010 FFB10010"
+      - "200A0014 24C60104"
+      - "200A0018 FFB00000"
+      - "200A0020 FFBF0030"
+      - "200A0028 24070203"
+      - "200A002C 0040802D"
+      - "200A0030 0220282D"
+      - "200A0034 0240302D"
+      - "200A003C 0200202D"
+      - "200A0040 3C050010"
+      - "200A0044 0200202D"
+      - "200A004C 3C060070"
+      - "200A0050 0220282D"
+      - "200A0054 0240302D"
+      - "200A005C 0200202D"
+      - "200A0064 0200202D"
+      - "200A0068 0200282D"
+      - "200A006C 0200302D"
+      - "200A0074 0200202D"
+      - "200A0078 DFBF0030"
+      - "200A007C DFB20020"
+      - "200A0080 DFB10010"
+      - "200A0084 DFB00000"
+      - "200A0088 03E00008"
+      - "200A008C 27BD0040"
+
+  - name: "Memcardport-Multitap 1-4"
+    notes: "[Live Dump]"
+    codes:
+      - "200A000C 24040000"
+
+  - name: "Memcardslot-Slot 1-2"
+    notes: "[Live Dump]"
+    codes:
+      - "200A001C 24050000"
+
+  - name: "Start And Stop"
+    notes: "[Live Dump]"
+    codes:
+      - "200A0040 3C050010"
+      - "200A004C 3C060070"
+
+  - name: "Monster Rancher Evo Dump <select>"
+    notes: "[Live Dump]"
+    codes:
+      - "200A0038 0C0C50D2"
+      - "200A0070 0C0C50D2"
+      - "200A0058 0C0C50D2"
+      - "200A0024 0C0C4F42"
+      - "200A0048 0C0C5074"
+      - "200A0060 0C0C4F9A"
+      - "D04EFEC2 0000FFFE"
+      - "20312ADC 08028000"
+      - "D04EFEC2 0010FFFE"
+      - "20312ADC 03E00008"
+
+  - name: "Save Dump"
+    notes: "[Save Dump]"
+    codes:
+      - "20314268 3C030010"
+      - "2031426C 3C050170"
+      - "20530218 00100000"
+      - "2053020C 01700000"
+
+  - name: "Max Money"
+    author: "SkillerCMP"
+    codes:
+      - "2051B360 05F5E0FF"
+
+  - name: "Month Max"
+    author: "SkillerCMP"
+    codes:
+      - "0051B11C 0000000C"
+
+  - name: "Week"
+    author: "SkillerCMP"
+    codes:
+      - "0051B120 0000000?"
+
+  - name: "All Property"
+    author: "SkillerCMP"
+    codes:
+      - "1051B832 00006363"
+      - "4051B834 01F30001"
+      - "63636363 00000000"
+      - "1051C000 00006363"
+
+  - name: "Monster Book Compleated"
+    author: "SkillerCMP"
+    codes:
+      - "4051C668 00080001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Main Monster"
+    author: "SkillerCMP"
+    notes: "[Monster 1]"
+    codes:
+      - "0051C7E9 000000[MON]"
+
+  - name: "Sub Monster"
+    author: "SkillerCMP"
+    notes: "[Monster 1]"
+    codes:
+      - "0051C7EA 000000[MON]"
+
+  - name: "Never Tired"
+    author: "SkillerCMP"
+    notes: "[Monster 1]"
+    codes:
+      - "0051C802 00000000"
+
+  - name: "Max Bonding"
+    author: "SkillerCMP"
+    notes: "[Monster 1]"
+    codes:
+      - "1051C800 00006464"
+
+  - name: "Max Pow"
+    author: "SkillerCMP"
+    notes: "[Monster 1]"
+    codes:
+      - "1051C80E 0000270F"
+
+  - name: "Max Int"
+    author: "SkillerCMP"
+    notes: "[Monster 1]"
+    codes:
+      - "1051C810 0000270F"
+
+  - name: "Max Spd"
+    author: "SkillerCMP"
+    notes: "[Monster 1]"
+    codes:
+      - "1051C812 0000270F"
+
+  - name: "Max Acc"
+    author: "SkillerCMP"
+    notes: "[Monster 1]"
+    codes:
+      - "1051C814 0000270F"
+
+  - name: "Max Def"
+    author: "SkillerCMP"
+    notes: "[Monster 1]"
+    codes:
+      - "1051C816 0000270F"
+
+  - name: "Max Life"
+    author: "SkillerCMP"
+    notes: "[Monster 1]"
+    codes:
+      - "1051C818 0000270F"
+
+  - name: "Max Ap"
+    author: "SkillerCMP"
+    notes: "[Monster 1]"
+    codes:
+      - "2051C8AC 0000270F"
+
+  - name: "Trait 1"
+    author: "SkillerCMP"
+    notes: "[Trait Mod]"
+    codes:
+      - "0051C8D4 000000[TR]"
+
+  - name: "Trait 2"
+    author: "SkillerCMP"
+    notes: "[Trait Mod]"
+    codes:
+      - "0051C8D5 000000[TR]"
+
+  - name: "Trait 3"
+    author: "SkillerCMP"
+    notes: "[Trait Mod]"
+    codes:
+      - "0051C8D6 000000[TR]"
+
+  - name: "Trait 4"
+    author: "SkillerCMP"
+    notes: "[Trait Mod]"
+    codes:
+      - "0051C8D7 000000[TR]"
+
+  - name: "Trait 5"
+    author: "SkillerCMP"
+    notes: "[Trait Mod]"
+    codes:
+      - "0051C8D8 000000[TR]"
+
+  - name: "Trait 6"
+    author: "SkillerCMP"
+    notes: "[Trait Mod]"
+    codes:
+      - "0051C8D9 000000[TR]"

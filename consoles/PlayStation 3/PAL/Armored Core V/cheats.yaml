@@ -1,0 +1,39 @@
+# Armored Core V cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01440
+
+game: "Armored Core V"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01440"
+cheat_type: "Save Editor"
+source: "From Keha World"
+
+cheats:
+  - name: "Money 999,999,999 Au"
+    notes: "File: GPROG.DAT"
+    codes:
+      - "20027768 3B9AC9FF"
+
+  - name: "Team Points 999990"
+    notes: "File: GPROG.DAT"
+    codes:
+      - "20038398 000F4236"
+      - "200383A4 000F4236"
+
+  - name: "Pilot Name \"abcdefgh\""
+    notes: "File: GPROG.DAT"
+    codes:
+      - "20027728 00410042"
+      - "2002772C 00430044"
+      - "20027730 00450046"
+      - "20027734 00470048"
+
+  - name: "Team Name \"abcdefgh\""
+    notes: "File: GPROG.DAT"
+    codes:
+      - "20037C08 00610062"
+      - "20037C0C 00630064"
+      - "20037C10 00650066"
+      - "20037C14 00670068"

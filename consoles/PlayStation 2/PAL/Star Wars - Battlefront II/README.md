@@ -1,0 +1,83 @@
+# Star Wars - Battlefront II
+
+**Console:** PlayStation 2  
+**Region:** PAL  
+**Serial:** SLES-53502  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### (M) Must Be On
+**Author:** Codejunkies  
+**Notes:** [Master Codes]
+
+```
+E00A012A 001003F4
+E0090C04 001003F6
+20124928 4754454E
+2012492C 495C4955
+20124930 4F4D504F
+20124934 495C5344
+20124938 5052504F
+2012493C 2E303033
+20124940 3B474D49
+20124944 00000031
+F01003F4 001003F7
+E00C7EE6 003CBA28
+E00B0C10 003CBA2A
+2063F358 52504F49
+2063F35C 30303350
+2063F360 474D492E
+2063F364 00000000
+206052B8 54454E5C
+206052BC 5C495547
+206052C0 4D504F49
+206052C4 5C53444F
+206052C8 00000000
+2049F750 24C652B8
+F05D58A0 005D58A3
+```
+
+---
+
+### Below 3.14 Fix
+**Author:** Codejunkies
+
+```
+205F1B78 3C03200F
+205F1B80 8C65FFF8
+205F1B84 24040079
+205F1B88 24030074
+205F1B8C 0000000C
+```
+
+---
+
+### Infinite Ammo-Primary Weapon
+**Author:** Codejunkies
+
+```
+20303894 00000000
+```
+
+---
+
+### Infinite Energy
+**Author:** Codejunkies
+
+```
+201E2044 00000000
+```
+
+---
+
+### Infinite Jet Pack
+**Author:** Codejunkies
+
+```
+20244608 00000000
+```
+
+---

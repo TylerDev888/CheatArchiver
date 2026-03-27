@@ -1,0 +1,18 @@
+# Pac-Man Championship Edition DX (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00315
+
+game: "Pac-Man Championship Edition DX (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00315"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Unlock All Courses(in Order To Use This Cheat, You Must Have At Least One Stage Completed.)"
+    notes: "File: NPEB00315PCEDX-SAVEDATA\\SAVE0"
+    codes:
+      - "42000098 00000000"
+      - "4083006C 00000000"

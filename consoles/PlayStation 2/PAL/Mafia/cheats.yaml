@@ -1,0 +1,135 @@
+# Mafia cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52282
+
+game: "Mafia"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52282"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F03CE39C 003CE39F"
+
+  - name: "All Cars - Race Modes"
+    author: "Codejunkies"
+    codes:
+      - "208E7430 FFFFFFFF"
+      - "208E7428 FFFFFFFF"
+
+  - name: "Disable Cop AI"
+    author: "Codejunkies"
+    codes:
+      - "20370F20 03E00008"
+      - "20370F24 00000000"
+
+  - name: "Display Debug Info"
+    author: "Codejunkies"
+    codes:
+      - "202F11CC 00000000"
+
+  - name: "Display Debug Infos"
+    author: "Codejunkies"
+    codes:
+      - "202F121C 00000000"
+
+  - name: "Idiot Cop AI"
+    author: "Codejunkies"
+    codes:
+      - "20370370 03E00008"
+      - "20370374 00000000"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "2047D718 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "204D65A0 001143D0"
+
+  - name: "Infinite Health (Car)"
+    author: "Codejunkies"
+    codes:
+      - "2017109C 00000000"
+      - "201710AC 00000000"
+
+  - name: "Infinite Time"
+    author: "Codejunkies"
+    codes:
+      - "202AFAB0 00000000"
+      - "202AFAD8 00000000"
+
+  - name: "Max Cash In Free Ride"
+    author: "Codejunkies"
+    codes:
+      - "20A1A76C 05F5E0FF"
+
+  - name: "No Cars"
+    author: "Codejunkies"
+    codes:
+      - "20340940 03E00008"
+      - "20340944 00000000"
+
+  - name: "No Cops"
+    author: "Codejunkies"
+    codes:
+      - "20341140 03E00008"
+      - "20341144 00000000"
+
+  - name: "No Traffic"
+    author: "Codejunkies"
+    codes:
+      - "20219400 03E00008"
+      - "20219404 00000000"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90479EF8 0C0F389E"
+
+  - name: "Unlimited Ammo"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2047D708 000000FF"
+
+  - name: "Unlimited Health (On Foot)"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "201B3C08 000000FF"
+
+  - name: "Unlimited Health (In Car)"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2017109C 000000FF"
+      - "201710AC 000000FF"
+
+  - name: "Unlimited Time"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "202AFAD8 000000FF"
+
+  - name: "Unlimited Car Damage"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2024FBA4 000000FF"
+
+  - name: "Unlock Cars"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "204F6254 FFFFFFFF"
+      - "204F6258 FFFFFFFF"

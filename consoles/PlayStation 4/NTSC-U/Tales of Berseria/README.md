@@ -1,0 +1,970 @@
+# Tales of Berseria
+
+**Console:** PlayStation 4  
+**Region:** NTSC-U  
+**Serial:** CUSA03931  
+**Cheat Type:** AP  
+**Source:** [source:lee4_cmp@hackinformer/web-save.editor](source:lee4_cmp@hackinformer/web-save.editor)  
+
+---
+
+## Cheats
+
+### Velvet Status Codes
+**Author:**   
+**Notes:** File: *
+
+---
+
+### Velvet Exp Max Out After 1 Battle
+**Author:**   
+**Notes:** File: *
+
+```
+200351CC 05F5E0FE
+```
+
+---
+
+### Velvet Max Hp
+**Author:**   
+**Notes:** File: *
+
+```
+100351D4 0000270F
+```
+
+---
+
+### Velvet Bg 9
+**Author:**   
+**Notes:** File: *
+
+```
+000351DC 00000009
+```
+
+---
+
+### Velvet Attack Power
+**Author:**   
+**Notes:** File: *
+
+```
+100351E0 000007D0
+```
+
+---
+
+### Velvet Arte Attack
+**Author:**   
+**Notes:** File: *
+
+```
+100351E4 000007D0
+```
+
+---
+
+### Velvet Defense Power
+**Author:**   
+**Notes:** File: *
+
+```
+100351E8 000007D0
+```
+
+---
+
+### Velvet Arte Defense
+**Author:**   
+**Notes:** File: *
+
+```
+100351EC 000007D0
+```
+
+---
+
+### Velvet Focus
+**Author:**   
+**Notes:** File: *
+
+```
+100351F0 000007D0
+```
+
+---
+
+### Velvet Hp +
+**Author:**   
+**Notes:** File: *
+
+```
+10035214 0000270F
+```
+
+---
+
+### Velvet Attack Power +
+**Author:**   
+**Notes:** File: *
+
+```
+10035220 000007D0
+```
+
+---
+
+### Velvet Arte Attack +
+**Author:**   
+**Notes:** File: *
+
+```
+10035224 000007D0
+```
+
+---
+
+### Velvet Defense Power +
+**Author:**   
+**Notes:** File: *
+
+```
+10035228 000007D0
+```
+
+---
+
+### Velvet Arte Defense +
+**Author:**   
+**Notes:** File: *
+
+```
+1003522C 000007D0
+```
+
+---
+
+### Velvet Focus +
+**Author:**   
+**Notes:** File: *
+
+```
+10035230 000007D0
+```
+
+---
+
+### Laphicet Status Codes
+**Author:**   
+**Notes:** File: *
+
+---
+
+### Laphicet Exp Max Out After 1 Battle
+**Author:**   
+**Notes:** File: *
+
+```
+2003A1CC 05F5E0FE
+```
+
+---
+
+### Laphicet Max Hp
+**Author:**   
+**Notes:** File: *
+
+```
+1003A1D4 0000270F
+```
+
+---
+
+### Laphicet Bg 9
+**Author:**   
+**Notes:** File: *
+
+```
+0003A1DC 00000009
+```
+
+---
+
+### Laphicet Attack Power
+**Author:**   
+**Notes:** File: *
+
+```
+1003A1E0 000007D0
+```
+
+---
+
+### Laphicet Arte Attack
+**Author:**   
+**Notes:** File: *
+
+```
+1003A1E4 000007D0
+```
+
+---
+
+### Laphicet Defense Power
+**Author:**   
+**Notes:** File: *
+
+```
+1003A1E8 000007D0
+```
+
+---
+
+### Laphicet Arte Defense
+**Author:**   
+**Notes:** File: *
+
+```
+1003A1EC 000007D0
+```
+
+---
+
+### Laphicet Focus
+**Author:**   
+**Notes:** File: *
+
+```
+1003A1F0 000007D0
+```
+
+---
+
+### Laphicet Hp +
+**Author:**   
+**Notes:** File: *
+
+```
+1003A214 0000270F
+```
+
+---
+
+### Laphicet Attack Power +
+**Author:**   
+**Notes:** File: *
+
+```
+1003A220 000007D0
+```
+
+---
+
+### Laphicet Arte Attack +
+**Author:**   
+**Notes:** File: *
+
+```
+1003A224 000007D0
+```
+
+---
+
+### Laphicet Defense Power +
+**Author:**   
+**Notes:** File: *
+
+```
+1003A228 000007D0
+```
+
+---
+
+### Laphicet Arte Defense +
+**Author:**   
+**Notes:** File: *
+
+```
+1003A22C 000007D0
+```
+
+---
+
+### Laphicet Focus +
+**Author:**   
+**Notes:** File: *
+
+```
+1003A230 000007D0
+```
+
+---
+
+### Rokurou Status Codes
+**Author:**   
+**Notes:** File: *
+
+---
+
+### Rokurou Exp Max Out After 1 Battle
+**Author:**   
+**Notes:** File: *
+
+```
+2003F1CC 05F5E0FE
+```
+
+---
+
+### Rokurou Max Hp
+**Author:**   
+**Notes:** File: *
+
+```
+1003F1D4 0000270F
+```
+
+---
+
+### Rokurou Bg 9
+**Author:**   
+**Notes:** File: *
+
+```
+0003F1DC 00000009
+```
+
+---
+
+### Rokurou Attack Power
+**Author:**   
+**Notes:** File: *
+
+```
+1003F1E0 000007D0
+```
+
+---
+
+### Rokurou Arte Attack
+**Author:**   
+**Notes:** File: *
+
+```
+1003F1E4 000007D0
+```
+
+---
+
+### Rokurou Defense Power
+**Author:**   
+**Notes:** File: *
+
+```
+1003F1E8 000007D0
+```
+
+---
+
+### Rokurou Arte Defense
+**Author:**   
+**Notes:** File: *
+
+```
+1003F1EC 000007D0
+```
+
+---
+
+### Rokurou Focus
+**Author:**   
+**Notes:** File: *
+
+```
+1003F1F0 000007D0
+```
+
+---
+
+### Rokurou Hp +
+**Author:**   
+**Notes:** File: *
+
+```
+1003F214 0000270F
+```
+
+---
+
+### Rokurou Attack Power +
+**Author:**   
+**Notes:** File: *
+
+```
+1003F220 000007D0
+```
+
+---
+
+### Rokurou Arte Attack +
+**Author:**   
+**Notes:** File: *
+
+```
+1003F224 000007D0
+```
+
+---
+
+### Rokurou Defense Power +
+**Author:**   
+**Notes:** File: *
+
+```
+1003F228 000007D0
+```
+
+---
+
+### Rokurou Arte Defense +
+**Author:**   
+**Notes:** File: *
+
+```
+1003F22C 000007D0
+```
+
+---
+
+### Rokurou Focus +
+**Author:**   
+**Notes:** File: *
+
+```
+1003F230 000007D0
+```
+
+---
+
+### Eleanor Status Codes
+**Author:**   
+**Notes:** File: *
+
+---
+
+### Eleanor Exp Max Out After 1 Battle
+**Author:**   
+**Notes:** File: *
+
+```
+200441CC 05F5E0FE
+```
+
+---
+
+### Eleanor Max Hp
+**Author:**   
+**Notes:** File: *
+
+```
+100441D4 0000270F
+```
+
+---
+
+### Eleanor Bg 9
+**Author:**   
+**Notes:** File: *
+
+```
+000441DC 00000009
+```
+
+---
+
+### Eleanor Attack Power
+**Author:**   
+**Notes:** File: *
+
+```
+100441E0 000007D0
+```
+
+---
+
+### Eleanor Arte Attack
+**Author:**   
+**Notes:** File: *
+
+```
+100441E4 000007D0
+```
+
+---
+
+### Eleanor Defense Power
+**Author:**   
+**Notes:** File: *
+
+```
+100441E8 000007D0
+```
+
+---
+
+### Eleanor Arte Defense
+**Author:**   
+**Notes:** File: *
+
+```
+100441EC 000007D0
+```
+
+---
+
+### Eleanor Focus
+**Author:**   
+**Notes:** File: *
+
+```
+100441F0 000007D0
+```
+
+---
+
+### Eleanor Hp +
+**Author:**   
+**Notes:** File: *
+
+```
+10044214 0000270F
+```
+
+---
+
+### Eleanor Attack Power +
+**Author:**   
+**Notes:** File: *
+
+```
+10044220 000007D0
+```
+
+---
+
+### Eleanor Arte Attack +
+**Author:**   
+**Notes:** File: *
+
+```
+10044224 000007D0
+```
+
+---
+
+### Eleanor Defense Power +
+**Author:**   
+**Notes:** File: *
+
+```
+10044228 000007D0
+```
+
+---
+
+### Eleanor Arte Defense +
+**Author:**   
+**Notes:** File: *
+
+```
+1004422C 000007D0
+```
+
+---
+
+### Eleanor Focus +
+**Author:**   
+**Notes:** File: *
+
+```
+10044230 000007D0
+```
+
+---
+
+### Magilou Status Codes
+**Author:**   
+**Notes:** File: *
+
+---
+
+### Magilou Exp Max Out After 1 Battle
+**Author:**   
+**Notes:** File: *
+
+```
+200491CC 05F5E0FE
+```
+
+---
+
+### Magilou Max Hp
+**Author:**   
+**Notes:** File: *
+
+```
+100491D4 0000270F
+```
+
+---
+
+### Magilou Bg 9
+**Author:**   
+**Notes:** File: *
+
+```
+000491DC 00000009
+```
+
+---
+
+### Magilou Attack Power
+**Author:**   
+**Notes:** File: *
+
+```
+100491E0 000007D0
+```
+
+---
+
+### Magilou Arte Attack
+**Author:**   
+**Notes:** File: *
+
+```
+100491E4 000007D0
+```
+
+---
+
+### Magilou Defense Power
+**Author:**   
+**Notes:** File: *
+
+```
+100491E8 000007D0
+```
+
+---
+
+### Magilou Arte Defense
+**Author:**   
+**Notes:** File: *
+
+```
+100491EC 000007D0
+```
+
+---
+
+### Magilou Focus
+**Author:**   
+**Notes:** File: *
+
+```
+100491F0 000007D0
+```
+
+---
+
+### Magilou Hp +
+**Author:**   
+**Notes:** File: *
+
+```
+10049214 0000270F
+```
+
+---
+
+### Magilou Attack Power +
+**Author:**   
+**Notes:** File: *
+
+```
+10049220 000007D0
+```
+
+---
+
+### Magilou Arte Attack +
+**Author:**   
+**Notes:** File: *
+
+```
+10049224 000007D0
+```
+
+---
+
+### Magilou Defense Power +
+**Author:**   
+**Notes:** File: *
+
+```
+10049228 000007D0
+```
+
+---
+
+### Magilou Arte Defense +
+**Author:**   
+**Notes:** File: *
+
+```
+1004922C 000007D0
+```
+
+---
+
+### Magilou Focus +
+**Author:**   
+**Notes:** File: *
+
+```
+10049230 000007D0
+```
+
+---
+
+### Eizen Status Codes
+**Author:**   
+**Notes:** File: *
+
+---
+
+### Eizen Exp Max Out After 1 Battle
+**Author:**   
+**Notes:** File: *
+
+```
+2004E1CC 05F5E0FE
+```
+
+---
+
+### Eizen Max Hp
+**Author:**   
+**Notes:** File: *
+
+```
+1004E1D4 0000270F
+```
+
+---
+
+### Eizen Bg 9
+**Author:**   
+**Notes:** File: *
+
+```
+0004E1DC 00000009
+```
+
+---
+
+### Eizen Attack Power
+**Author:**   
+**Notes:** File: *
+
+```
+1004E1E0 000007D0
+```
+
+---
+
+### Eizen Arte Attack
+**Author:**   
+**Notes:** File: *
+
+```
+1004E1E4 000007D0
+```
+
+---
+
+### Eizen Defense Power
+**Author:**   
+**Notes:** File: *
+
+```
+1004E1E8 000007D0
+```
+
+---
+
+### Eizen Arte Defense
+**Author:**   
+**Notes:** File: *
+
+```
+1004E1EC 000007D0
+```
+
+---
+
+### Eizen Focus
+**Author:**   
+**Notes:** File: *
+
+```
+1004E1F0 000007D0
+```
+
+---
+
+### Eizen Hp +
+**Author:**   
+**Notes:** File: *
+
+```
+1004E214 0000270F
+```
+
+---
+
+### Eizen Attack Power +
+**Author:**   
+**Notes:** File: *
+
+```
+1004E220 000007D0
+```
+
+---
+
+### Eizen Arte Attack +
+**Author:**   
+**Notes:** File: *
+
+```
+1004E224 000007D0
+```
+
+---
+
+### Eizen Defense Power +
+**Author:**   
+**Notes:** File: *
+
+```
+1004E228 000007D0
+```
+
+---
+
+### Eizen Arte Defense +
+**Author:**   
+**Notes:** File: *
+
+```
+1004E22C 000007D0
+```
+
+---
+
+### Eizen Focus +
+**Author:**   
+**Notes:** File: *
+
+```
+1004E230 000007D0
+```
+
+---
+
+### Max Grade
+**Author:**   
+**Notes:** File: *
+
+```
+20000DFC 00144B50
+20000E38 00144B50
+```
+
+---
+
+### Material All 99
+**Author:**   
+**Notes:** File: *
+
+```
+400049B4 00000063
+409B0004 00000000
+```
+
+---
+
+### 1x All Potentites (glacite/ventite/acerite/ignite)
+**Author:**   
+**Notes:** File: *
+
+```
+400091B4 00000001
+40570004 00000000
+```
+
+---
+
+### 99x Sovereign Acerite
+**Author:**   
+**Notes:** File: *
+
+```
+000092FC 00000063
+```
+
+---
+
+### 3x Haggler's Acerite
+**Author:**   
+**Notes:** File: *
+
+```
+000092F8 00000003
+```
+
+---
+
+### First 200 Pieces Of Gear In Your Inventory (in Order Of Acquisition) To 9,999
+**Author:**   
+**Notes:** File: *
+
+```
+4100CDBC 0000270F
+40C80034 00000000
+4100CDC4 0000270F
+40C80034 00000000
+```
+
+---
+
+### All Skils On Gear Level 4
+**Author:**   
+**Notes:** File: *
+
+```
+4000CDCE 00000004
+40C80034 00000000
+4000CDD2 00000004
+40C80034 00000000
+4000CDD6 00000004
+40C80034 00000000
+4000CDDA 00000004
+40C80034 00000000
+```
+
+---

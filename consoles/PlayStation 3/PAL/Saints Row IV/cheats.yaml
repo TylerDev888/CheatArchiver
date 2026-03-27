@@ -1,0 +1,96 @@
+# Saints Row IV cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01889
+
+game: "Saints Row IV"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01889"
+cheat_type: "Save Editor"
+source: "From Keha World"
+
+cheats:
+  - name: "Money $20,000,000"
+    notes: "File: SYS-DATA"
+    codes:
+      - "2000D528 77359400"
+
+  - name: "Money $10,000,000"
+    notes: "File: SYS-DATA"
+    codes:
+      - "2000D528 40000000"
+
+  - name: "Data Clusters 999,999"
+    notes: "File: SYS-DATA"
+    codes:
+      - "2000D52C 000F423F"
+
+  - name: "Data Clusters 1254"
+    notes: "File: SYS-DATA"
+    codes:
+      - "2000D52C 000004E6"
+
+  - name: "Cash & Xp Multiplier 1000000"
+    notes: "File: SYS-DATA"
+    codes:
+      - "2000D50C 47C35000"
+
+  - name: "Cash & Xp Multiplier 1"
+    notes: "File: SYS-DATA"
+    codes:
+      - "2000D50C 00000001"
+
+  - name: "Invincible Against Small Arms"
+    notes: "File: SYS-DATA"
+    codes:
+      - "2000D4E4 00000000"
+
+  - name: "Invincible Against Explosives"
+    notes: "File: SYS-DATA"
+    codes:
+      - "2000D4E8 00000000"
+
+  - name: "Dual Wielding Melee"
+    notes: "File: SYS-DATA"
+    codes:
+      - "0000D54C 00000001"
+
+  - name: "Dual Wielding Pistol"
+    notes: "File: SYS-DATA"
+    codes:
+      - "0000D568 00000001"
+
+  - name: "Dual Wielding Smg"
+    notes: "File: SYS-DATA"
+    codes:
+      - "0000D584 00000001"
+
+  - name: "Dual Wielding Shotgun"
+    notes: "File: SYS-DATA"
+    codes:
+      - "0000D5A0 00000001"
+
+  - name: "Dual Wielding Rifle"
+    notes: "File: SYS-DATA"
+    codes:
+      - "0000D5BC 00000001"
+
+  - name: "Dual Wielding Rocket"
+    notes: "File: SYS-DATA"
+    codes:
+      - "0000D5D8 00000001"
+
+  - name: "Dual Wielding Spacial"
+    notes: "File: SYS-DATA"
+    codes:
+      - "0000D5F4 00000001"
+
+  - name: "Update Crc32:0 (required)"
+    notes: "File: SYS-DATA  (set range:0x000004,0x0239FF)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x000000:[hash"

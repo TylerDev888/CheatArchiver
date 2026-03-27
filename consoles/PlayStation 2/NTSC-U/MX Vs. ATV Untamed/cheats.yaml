@@ -1,0 +1,63 @@
+# MX Vs. ATV Untamed cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21701
+
+game: "MX Vs. ATV Untamed"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21701"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Skiller"
+    notes: "[Masters]"
+    codes:
+      - "903309D0 0C0CC21C"
+
+  - name: "Max Points"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "208CC84C 7FFFFFFF"
+
+  - name: "Quick Points Gain"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "20238538 3C050100"
+      - "2023853C 34A50000"
+
+  - name: "Items In Store Are Free"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "205196B4 3C030000"
+      - "2051B10C 00000000"
+
+  - name: "Buying Doesnt Decrease Points"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "2051B114 00000000"
+
+  - name: "Buying Doesnt Decrease Points (Alternate)"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "2051B110 00000000"
+
+  - name: "Gain Points When Buying Items"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "0051B110 00000021"
+
+  - name: "Store Will Pay You"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "205196B4 3C030000"
+      - "0051B110 00000021"

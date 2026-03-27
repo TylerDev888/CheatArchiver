@@ -1,0 +1,67 @@
+# Mission Impossible - Operation Surma cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52001
+
+game: "Mission Impossible - Operation Surma"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52001"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F047D4E4 0047D4E7"
+
+  - name: "Bypass Death Check"
+    author: "Codejunkies"
+    codes:
+      - "201156E0 00000000"
+
+  - name: "Disable A.I."
+    author: "Codejunkies"
+    codes:
+      - "2059721C 00000001"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "201E3404 24C20000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "20120BAC 8E210048"
+      - "20120BB4 AE210040"
+
+  - name: "Mission Never Fail"
+    author: "Codejunkies"
+    codes:
+      - "2059400C 00000001"
+
+  - name: "Open Levels Menu"
+    author: "Codejunkies"
+    codes:
+      - "205972E4 00000001"
+
+  - name: "Press Select+Down For Quick Game"
+    author: "Codejunkies"
+    codes:
+      - "D06568C2 0000FFBE"
+      - "203FFBC4 3C014000"
+
+  - name: "Press Select+Left For Normal Speed"
+    author: "Codejunkies"
+    codes:
+      - "D06568C2 0000FF7E"
+      - "203FFBC4 3C0135E9"
+
+  - name: "Press Select+Up For Slow Motion"
+    author: "Codejunkies"
+    codes:
+      - "D06568C2 0000FFEE"
+      - "203FFBC4 3C013500"

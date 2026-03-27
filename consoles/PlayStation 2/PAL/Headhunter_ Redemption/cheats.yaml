@@ -1,0 +1,45 @@
+# Headhunter_ Redemption cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Headhunter_ Redemption"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "903401E8 0C0F115E"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C2000 3C0142C8"
+      - "200C2004 44811000"
+      - "200C2008 03E00008"
+      - "200C200C E6020038"
+      - "201CDE88 0C030800"
+
+  - name: "Ammunition"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "201C4C74 240203E7"
+
+  - name: "One Hit Kill"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "2027F944 44800000"
+
+  - name: "Debug Menu"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "0043B848 00000001"

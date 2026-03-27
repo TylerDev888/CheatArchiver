@@ -1,0 +1,253 @@
+# Binary Domain cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01211
+
+game: "Binary Domain"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01211"
+cheat_type: "Save Editor"
+source: "From krustytoe"
+
+cheats:
+  - name: "Max Credits"
+    notes: "File: PRG*.PP"
+    codes:
+      - "2000093C 05F5E0FF"
+
+  - name: "Max Trust (all Characters)"
+    notes: "File: PRG*.PP"
+    codes:
+      - "420009BC 00009C40"
+      - "40080030 00000000"
+
+  - name: "All Nanomachines"
+    notes: "File: PRG*.PP"
+    codes:
+      - "20000888 FFFFFFFF"
+      - "2000088C FFFFFFFF"
+      - "20000890 FFFFFFFF"
+
+  - name: "Weapon Ammo Round Per Clip"
+    notes: "[Dan PRIMARY WEAPON UPGRADES]  File: PRG*.PP"
+    codes:
+      - "00000C04 00000005"
+
+  - name: "Weapon Power"
+    notes: "[Dan PRIMARY WEAPON UPGRADES]  File: PRG*.PP"
+    codes:
+      - "00000C05 00000007"
+
+  - name: "Weapon Range"
+    notes: "[Dan PRIMARY WEAPON UPGRADES]  File: PRG*.PP"
+    codes:
+      - "00000C06 00000005"
+
+  - name: "Weapon Accuracy"
+    notes: "[Dan PRIMARY WEAPON UPGRADES]  File: PRG*.PP"
+    codes:
+      - "00000C07 00000005"
+
+  - name: "Weapon Firerate"
+    notes: "[Dan PRIMARY WEAPON UPGRADES]  File: PRG*.PP"
+    codes:
+      - "00000C08 00000005"
+
+  - name: "Burst"
+    notes: "[Dan PRIMARY WEAPON UPGRADES]  File: PRG*.PP"
+    codes:
+      - "00000C09 00000004"
+
+  - name: "Charge"
+    notes: "[Dan PRIMARY WEAPON UPGRADES]  File: PRG*.PP"
+    codes:
+      - "00000C0A 00000005"
+
+  - name: "Update Crc32 For Sysdata.cfg (required)"
+    notes: "File: SYSDATA.CFG  (set range:0x10,0x001AFF)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x10,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000008:[hash]"
+
+  - name: "Update Crc32 For Prg00.pp (required)"
+    notes: "File: PRG00.PP  (set range:0x10,0x0316C7)"
+    codes:
+      - "set [endrange]:read(10,4)"
+      - "set [endrange]:[endrange]-1"
+      - "set range:0x10,[endrange]"
+      - "set [hash]:CRC32"
+      - "write at 0x8:[hash]"
+
+  - name: "Update Crc32 For Prg01.pp (required)"
+    notes: "File: PRG01.PP"
+    codes:
+      - "set [endrange]:read(10,4)"
+      - "set [endrange]:[endrange]-1"
+      - "set range:0x10,[endrange]"
+      - "set [hash]:CRC32"
+      - "write at 0x8:[hash]"
+
+  - name: "Update Crc32 For Prg02.pp (required)"
+    notes: "File: PRG02.PP"
+    codes:
+      - "set [endrange]:read(10,4)"
+      - "set [endrange]:[endrange]-1"
+      - "set range:0x10,[endrange]"
+      - "set [hash]:CRC32"
+      - "write at 0x8:[hash]"
+
+  - name: "Update Crc32 For Prg03.pp (required)"
+    notes: "File: PRG03.PP"
+    codes:
+      - "set [endrange]:read(10,4)"
+      - "set [endrange]:[endrange]-1"
+      - "set range:0x10,[endrange]"
+      - "set [hash]:CRC32"
+      - "write at 0x8:[hash]"
+
+  - name: "Update Crc32 For Prg04.pp (required)"
+    notes: "File: PRG04.PP"
+    codes:
+      - "set [endrange]:read(10,4)"
+      - "set [endrange]:[endrange]-1"
+      - "set range:0x10,[endrange]"
+      - "set [hash]:CRC32"
+      - "write at 0x8:[hash]"
+
+  - name: "Update Crc32 For Prg05.pp (required)"
+    notes: "File: PRG05.PP"
+    codes:
+      - "set [endrange]:read(10,4)"
+      - "set [endrange]:[endrange]-1"
+      - "set range:0x10,[endrange]"
+      - "set [hash]:CRC32"
+      - "write at 0x8:[hash]"
+
+  - name: "Update Crc32 For Prg06.pp (required)"
+    notes: "File: PRG06.PP"
+    codes:
+      - "set [endrange]:read(10,4)"
+      - "set [endrange]:[endrange]-1"
+      - "set range:0x10,[endrange]"
+      - "set [hash]:CRC32"
+      - "write at 0x8:[hash]"
+
+  - name: "Update Crc32 For Prg07.pp (required)"
+    notes: "File: PRG07.PP"
+    codes:
+      - "set [endrange]:read(10,4)"
+      - "set [endrange]:[endrange]-1"
+      - "set range:0x10,[endrange]"
+      - "set [hash]:CRC32"
+      - "write at 0x8:[hash]"
+
+  - name: "Update Crc32 For Prg08.pp (required)"
+    notes: "File: PRG08.PP"
+    codes:
+      - "set [endrange]:read(10,4)"
+      - "set [endrange]:[endrange]-1"
+      - "set range:0x10,[endrange]"
+      - "set [hash]:CRC32"
+      - "write at 0x8:[hash]"
+
+  - name: "Update Crc32 For Prg09.pp (required)"
+    notes: "File: PRG09.PP"
+    codes:
+      - "set [endrange]:read(10,4)"
+      - "set [endrange]:[endrange]-1"
+      - "set range:0x10,[endrange]"
+      - "set [hash]:CRC32"
+      - "write at 0x8:[hash]"
+
+  - name: "Update Crc32 For Prg10.pp (required)"
+    notes: "File: PRG10.PP  (set range:0x10,0x0316C7)"
+    codes:
+      - "set [endrange]:read(10,4)"
+      - "set [endrange]:[endrange]-1"
+      - "set range:0x10,[endrange]"
+      - "set [hash]:CRC32"
+      - "write at 0x8:[hash]"
+
+  - name: "Update Crc32 For Prg11.pp (required)"
+    notes: "File: PRG11.PP"
+    codes:
+      - "set [endrange]:read(10,4)"
+      - "set [endrange]:[endrange]-1"
+      - "set range:0x10,[endrange]"
+      - "set [hash]:CRC32"
+      - "write at 0x8:[hash]"
+
+  - name: "Update Crc32 For Prg12.pp (required)"
+    notes: "File: PRG12.PP"
+    codes:
+      - "set [endrange]:read(10,4)"
+      - "set [endrange]:[endrange]-1"
+      - "set range:0x10,[endrange]"
+      - "set [hash]:CRC32"
+      - "write at 0x8:[hash]"
+
+  - name: "Update Crc32 For Prg13.pp (required)"
+    notes: "File: PRG13.PP"
+    codes:
+      - "set [endrange]:read(10,4)"
+      - "set [endrange]:[endrange]-1"
+      - "set range:0x10,[endrange]"
+      - "set [hash]:CRC32"
+      - "write at 0x8:[hash]"
+
+  - name: "Update Crc32 For Prg14.pp (required)"
+    notes: "File: PRG14.PP"
+    codes:
+      - "set [endrange]:read(10,4)"
+      - "set [endrange]:[endrange]-1"
+      - "set range:0x10,[endrange]"
+      - "set [hash]:CRC32"
+      - "write at 0x8:[hash]"
+
+  - name: "Update Crc32 For Prg15.pp (required)"
+    notes: "File: PRG15.PP"
+    codes:
+      - "set [endrange]:read(10,4)"
+      - "set [endrange]:[endrange]-1"
+      - "set range:0x10,[endrange]"
+      - "set [hash]:CRC32"
+      - "write at 0x8:[hash]"
+
+  - name: "Update Crc32 For Prg16.pp (required)"
+    notes: "File: PRG16.PP"
+    codes:
+      - "set [endrange]:read(10,4)"
+      - "set [endrange]:[endrange]-1"
+      - "set range:0x10,[endrange]"
+      - "set [hash]:CRC32"
+      - "write at 0x8:[hash]"
+
+  - name: "Update Crc32 For Prg17.pp (required)"
+    notes: "File: PRG17.PP"
+    codes:
+      - "set [endrange]:read(10,4)"
+      - "set [endrange]:[endrange]-1"
+      - "set range:0x10,[endrange]"
+      - "set [hash]:CRC32"
+      - "write at 0x8:[hash]"
+
+  - name: "Update Crc32 For Prg18.pp (required)"
+    notes: "File: PRG18.PP"
+    codes:
+      - "set [endrange]:read(10,4)"
+      - "set [endrange]:[endrange]-1"
+      - "set range:0x10,[endrange]"
+      - "set [hash]:CRC32"
+      - "write at 0x8:[hash]"
+
+  - name: "Update Crc32 For Prg19.pp (required)"
+    notes: "File: PRG19.PP"
+    codes:
+      - "set [endrange]:read(10,4)"
+      - "set [endrange]:[endrange]-1"
+      - "set range:0x10,[endrange]"
+      - "set [hash]:CRC32"
+      - "write at 0x8:[hash]"

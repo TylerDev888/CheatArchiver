@@ -1,0 +1,222 @@
+# Backyard Baseball cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20865
+
+game: "Backyard Baseball"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20865"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 003BB43F"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "902CB3B0 0C0E1C64"
+
+  - name: "1 Ball And You Walk"
+    author: "Code Master"
+    codes:
+      - "200C0240 8C6200A0"
+      - "200C0244 50400001"
+      - "200C0248 24020003"
+      - "200C024C 08073200"
+      - "200C0250 AC6200A0"
+      - "201CC7FC 0C030090"
+
+  - name: "1 Out And You Are Out"
+    author: "Code Master"
+    codes:
+      - "200C0280 8C620094"
+      - "200C0284 50400001"
+      - "200C0288 24020002"
+      - "200C028C 0807322F"
+      - "200C0290 AC620094"
+      - "201CC8B8 0C0300A0"
+
+  - name: "1 Strike And You Are Out"
+    author: "Code Master"
+    codes:
+      - "200C0260 8C620090"
+      - "200C0264 50400001"
+      - "200C0268 24020002"
+      - "200C026C 08073217"
+      - "200C0270 AC620090"
+      - "201CC858 0C030098"
+
+  - name: "2 Balls And You Walk"
+    author: "Code Master"
+    codes:
+      - "200C0240 8C6200A0"
+      - "200C0244 50400001"
+      - "200C0248 24020002"
+      - "200C024C 08073200"
+      - "200C0250 AC6200A0"
+      - "201CC7FC 0C030090"
+
+  - name: "2 Outs And You Are Out"
+    author: "Code Master"
+    codes:
+      - "200C0280 8C620094"
+      - "200C0284 50400001"
+      - "200C0288 24020001"
+      - "200C028C 0807322F"
+      - "200C0290 AC620094"
+      - "201CC8B8 0C0300A0"
+
+  - name: "2 Strikes And You Are Out"
+    author: "Code Master"
+    codes:
+      - "200C0260 8C620090"
+      - "200C0264 50400001"
+      - "200C0268 24020001"
+      - "200C026C 08073217"
+      - "200C0270 AC620090"
+      - "201CC858 0C030098"
+
+  - name: "3 Balls And You Walk"
+    author: "Code Master"
+    codes:
+      - "200C0240 8C6200A0"
+      - "200C0244 50400001"
+      - "200C0248 24020001"
+      - "200C024C 08073200"
+      - "200C0250 AC6200A0"
+      - "201CC7FC 0C030090"
+
+  - name: "Away Team Leads 99-0 (Hold Select And Press R2)"
+    author: "MadCatz"
+    codes:
+      - "E002FDFE 00675882"
+      - "20EE7564 00000063"
+      - "20EE7568 00000000"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "200C0230 2401????"
+      - "200C0234 0805BCC0"
+      - "200C0238 AC810090"
+      - "201CCF88 0C03008C"
+      - "201CD100 0C03008C"
+
+  - name: "Clear No Balls (Hold R3 And Press Up)"
+    author: "MadCatz"
+    codes:
+      - "D0675882 0000FFEB"
+      - "20EDA774 00000000"
+
+  - name: "Clear Outs (Hold R3 And Press Left)"
+    author: "MadCatz"
+    codes:
+      - "D0675882 0000FF7B"
+      - "20EDA768 00000000"
+
+  - name: "Clear Strikes (Hold R3 And Press Right)"
+    author: "MadCatz"
+    codes:
+      - "D0675882 0000FFDB"
+      - "20EDA764 00000000"
+
+  - name: "Home Team Leads 99-0 (Hold Select And Press L2)"
+    author: "MadCatz"
+    codes:
+      - "E002FEFE 00675882"
+      - "20EE7568 00000063"
+      - "20EE7564 00000000"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "200C0220 2401????"
+      - "200C0224 0805BCC0"
+      - "200C0228 AC81008C"
+      - "201CD0A8 0C030088"
+      - "201CCF30 0C030088"
+
+  - name: "Infinite Balls"
+    author: "Code Master"
+    codes:
+      - "200C0240 24020000"
+      - "200C0244 08073200"
+      - "200C0248 AC6200A0"
+      - "201CC7FC 0C030090"
+
+  - name: "Infinite Custom Rookie Points"
+    author: "MadCatz"
+    codes:
+      - "201A6DBC 000000FF"
+      - "201A6A84 000000FF"
+
+  - name: "Infinite Outs"
+    author: "Code Master"
+    codes:
+      - "200C0280 24020000"
+      - "200C0284 0807322F"
+      - "200C0288 AC620094"
+      - "201CC8B8 0C0300A0"
+
+  - name: "Infinite Strikes"
+    author: "Code Master"
+    codes:
+      - "200C0260 24020000"
+      - "200C0264 08073217"
+      - "200C0268 AC620090"
+      - "201CC858 0C030098"
+
+  - name: "Last No Ball (Hold L3 And Press Up)"
+    author: "MadCatz"
+    codes:
+      - "D0675882 0000FFED"
+      - "20EDA774 00000003"
+
+  - name: "Last Out (Hold L3 And Press Left)"
+    author: "MadCatz"
+    codes:
+      - "D0675882 0000FF7D"
+      - "20EDA768 00000002"
+
+  - name: "Last Strike (Hold L3 And Press Right)"
+    author: "MadCatz"
+    codes:
+      - "D0675882 0000FFDD"
+      - "20EDA764 00000002"
+
+  - name: "Ninth Inning (Hold Select And Press R1)"
+    author: "MadCatz"
+    codes:
+      - "D0675882 0000F7FE"
+      - "20EDA778 00000009"
+
+  - name: "Sixth Inning (Hold Select And Press L1)"
+    author: "MadCatz"
+    codes:
+      - "D0675882 0000FBFE"
+      - "20EDA778 00000006"
+
+  - name: "Unlock All Goodies"
+    author: "MadCatz"
+    codes:
+      - "2026B0D4 2402FFFF"
+      - "1026B134 0000102D"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 003BB43F"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "903BB43C 0C0EFFA0"

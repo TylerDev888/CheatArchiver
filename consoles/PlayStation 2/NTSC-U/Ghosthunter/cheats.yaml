@@ -1,0 +1,108 @@
+# Ghosthunter cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20993
+
+game: "Ghosthunter"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20993"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0447E4C 00447E4F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00447E4F"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "90447E4C 0C114C3F"
+
+  - name: "Infinite Ability Energy"
+    author: "Code Master"
+    notes: "[Astral Codes]"
+    codes:
+      - "C0A6E611 38AE99B5"
+
+  - name: "Infinite Ammo"
+    author: "MadCatz"
+    codes:
+      - "202163F0 242007B4"
+
+  - name: "Infinite Energy-Astral"
+    author: "Codejunkies"
+    codes:
+      - "2032492C 00000000"
+
+  - name: "Infinite Ghost Energy"
+    author: "MadCatz"
+    codes:
+      - "20324880 00601023"
+
+  - name: "Infinite Health"
+    author: "MadCatz"
+    codes:
+      - "202F0034 E62202C4"
+
+  - name: "Enable"
+    author: "MadCatz"
+    notes: "[Limited Health]"
+    codes:
+      - "200C2004 4481F800"
+      - "200C2008 4600FFC2"
+      - "200C200C 461F0869"
+      - "200C2010 03E00008"
+      - "200C2014 E44102C4"
+      - "202F0034 0C030800"
+
+  - name: "Limit To 25%"
+    author: "MadCatz"
+    notes: "[Must Be On For Limited Health Cheats]"
+    codes:
+      - "200C2000 3C013E80"
+
+  - name: "Limit To 50%"
+    author: "MadCatz"
+    notes: "[Must Be On For Limited Health Cheats]"
+    codes:
+      - "200C2000 3C013F00"
+
+  - name: "Limit To 75%"
+    author: "MadCatz"
+    notes: "[Must Be On For Limited Health Cheats]"
+    codes:
+      - "200C2000 3C013F40"
+
+  - name: "Infinite Ghost Energy (Upon Pickup)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20324884 00000000"
+
+  - name: "Weak Enemies"
+    author: "Codejunkies"
+    codes:
+      - "20568620 00000001"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90447E4C 0C114C3F"
+
+  - name: "Quick Captures"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20568620 00000001"

@@ -1,0 +1,37 @@
+# Monster Hunter Portable 3rd cheat data
+# Console: PSP
+# Region:  NTSC-J
+# Serial:  ULJM05800
+
+game: "Monster Hunter Portable 3rd"
+console: "PSP"
+region: "NTSC-J"
+serial: "ULJM05800"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Decrypt Mhp3rd.bin (required)"
+    notes: "File: MHP3RD.BIN"
+    codes:
+      - "set range:0x0000,EOF+1"
+      - "DECRYPT monster_hunter(3)"
+
+  - name: "Update Custom Sha1 (required)"
+    notes: "File: MHP3RD.BIN"
+    codes:
+      - "add salt at (size-36), then calc sha1)"
+      - "hash stored at (size-24))"
+      - "set pointer:EOF-0x23"
+      - "set [temp]:read(pointer, 0x14)"
+      - "write next (0):\"VQ(DOdIO9?X3!2GmW#XF\""
+      - "set range:0x0000,EOF-0x10"
+      - "set [shasum]:SHA1"
+      - "write next (0):[temp]"
+      - "write next (12):[shasum]"
+
+  - name: "Encrypt Mhp3rd.bin (required)"
+    notes: "File: MHP3RD.BIN"
+    codes:
+      - "set range:0x0000,EOF+1"
+      - "ENCRYPT monster_hunter(3)"

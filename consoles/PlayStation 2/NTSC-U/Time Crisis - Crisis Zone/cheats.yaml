@@ -1,0 +1,141 @@
+# Time Crisis - Crisis Zone cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20927
+
+game: "Time Crisis - Crisis Zone"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20927"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F010ECEC 0010ECEF"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0010ECEF"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "9010ECEC 0C046ADC"
+
+  - name: "1-Hit Death (Non-Boss Enemies)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2017837C AC800020"
+
+  - name: "Infinite Ammo"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2015F2C0 00000000"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2012ED80 00000000"
+
+  - name: "Infinite Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2012EA14 00000000"
+
+  - name: "Max Hit (Crisis Missions)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2079C680 000003E7"
+      - "2079C684 000003E7"
+
+  - name: "P1 Press L1+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07B5882 0000FBFE"
+      - "2012EA14 00000000"
+
+  - name: "P1 Press L2+Select To Restart Timer"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D07B5882 0000FEFE"
+      - "2012EA14 E422C678"
+
+  - name: "Quick Max Score"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2020CCD4 3C020098"
+      - "2020CCD8 3442967F"
+
+  - name: "Quick Score Gain"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2020CCD4 240203E7"
+
+  - name: "Quicker Score Gain"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2020CCD4 2402270F"
+
+  - name: "Unlock Everything"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "408DDA80 00040001"
+      - "FFFFFFFF 00000000"
+      - "208DDAA0 00000009"
+      - "208DDAA4 00000009"
+
+  - name: "100% Achievement (This Unlocks Everything)"
+    author: "MadCatz"
+    codes:
+      - "408DDA80 00040001"
+      - "FFFFFFFF 00000000"
+      - "408DDAA0 00020001"
+      - "00000009 00000000"
+
+  - name: "Boot To Debug Menu"
+    author: "punk7890"
+    codes:
+      - "00101414 00000000"
+
+  - name: "Easy Mission Qualify"
+    author: "Codejunkies"
+    codes:
+      - "2079C6BC 000003E7"
+
+  - name: "Have 1-Hit Kills (Not Bosses)"
+    author: "MadCatz"
+    codes:
+      - "2017836C 4600001D"
+
+  - name: "Infinite Ammo-Machine Gun 1"
+    author: "Codejunkies"
+    codes:
+      - "207D1394 00000028"
+
+  - name: "Infinite Lives"
+    author: "Codejunkies"
+    codes:
+      - "208DCF28 00000009"
+
+  - name: "Massive Score Multiplier"
+    author: "MadCatz"
+    codes:
+      - "2020CCD8 2462270F"

@@ -1,0 +1,45 @@
+# Street Golfer cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53847
+
+game: "Street Golfer"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53847"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Always Hole-In-One"
+    author: "luc-ita"
+    codes:
+      - "D0211962 000016E3"
+      - "20211960 00000000"
+
+  - name: "One Shot To Always End With A Hole-In-One"
+    author: "luc-ita"
+    codes:
+      - "D021256E 00001460"
+      - "2021256C 00000000"
+      - "D0211962 000016E3"
+      - "20211960 00000000"
+      - "D0212586 0000AE03"
+      - "20212584 00000000"
+
+  - name: "One Shot To Always End With A PAR"
+    author: "luc-ita"
+    codes:
+      - "2024EB84 00000000"
+
+  - name: "Unlock All Golfers"
+    author: "punk7890"
+    codes:
+      - "10203378 00000101"
+      - "10203380 00000101"
+      - "10203388 00000101"
+      - "10203390 00000101"
+      - "10203398 00000101"
+      - "102033A0 00000101"
+      - "102033A8 00000101"
+      - "102033B0 00000101"

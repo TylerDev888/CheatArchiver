@@ -1,0 +1,181 @@
+# FIFA 2002 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20280
+
+game: "FIFA 2002"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20280"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0032DB6F"
+
+  - name: "All Goal's Score For Away Team"
+    author: "Code Master"
+    codes:
+      - "20176C04 24030004"
+
+  - name: "All Goal's Score For Home Team"
+    author: "Code Master"
+    codes:
+      - "20176C04 24030000"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "1035BCB4 0000????"
+
+  - name: "Away Team Start With Score Modifier"
+    author: "Code Master"
+    codes:
+      - "D035BCB4 00000000"
+      - "1035BCB4 0000????"
+
+  - name: "Bookings"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1035C104 0000????"
+
+  - name: "Corners"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1035C100 0000????"
+
+  - name: "Fouls"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1035C10C 0000????"
+
+  - name: "Offside"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1035C110 0000????"
+
+  - name: "Shots On Target"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "1035C0F4 0000????"
+
+  - name: "Goal's Score Modifier"
+    author: "Code Master"
+    codes:
+      - "10176C10 000000??"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "1035BCB0 0000????"
+
+  - name: "Home Team Start With Score Modifier"
+    author: "Code Master"
+    codes:
+      - "D035BCB0 00000000"
+      - "1035BCB0 0000????"
+
+  - name: "P1 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D060D302 0000FAFF"
+      - "1035C570 00000000"
+
+  - name: "P1 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D060D302 0000F5FF"
+      - "1035C570 000000FF"
+
+  - name: "P2 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D060D402 0000FAFF"
+      - "1035C570 00000000"
+
+  - name: "P2 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D060D402 0000F5FF"
+      - "1035C570 000000FF"
+
+  - name: "P3 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D060D502 0000FAFF"
+      - "1035C570 00000000"
+
+  - name: "P3 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D060D502 0000F5FF"
+      - "1035C570 000000FF"
+
+  - name: "P4 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D060D602 0000FAFF"
+      - "1035C570 00000000"
+
+  - name: "P4 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D060D602 0000F5FF"
+      - "1035C570 000000FF"
+
+  - name: "P5 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D060D702 0000FAFF"
+      - "1035C570 00000000"
+
+  - name: "P5 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D060D702 0000F5FF"
+      - "1035C570 000000FF"
+
+  - name: "P6 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D060D802 0000FAFF"
+      - "1035C570 00000000"
+
+  - name: "P6 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D060D802 0000F5FF"
+      - "1035C570 000000FF"
+
+  - name: "P7 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D060D902 0000FAFF"
+      - "1035C570 00000000"
+
+  - name: "P7 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D060D902 0000F5FF"
+      - "1035C570 000000FF"
+
+  - name: "P8 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D060DA02 0000FAFF"
+      - "1035C570 00000000"
+
+  - name: "P8 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D060DA02 0000F5FF"
+      - "1035C570 000000FF"

@@ -1,0 +1,33 @@
+# Oretachi Geasen Zoku Sono Vol.15 - Akumajou Dracula cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62729
+
+game: "Oretachi Geasen Zoku Sono Vol.15 - Akumajou Dracula"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62729"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Master Code"
+    author: "davintheraven"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100208 0011AC6B"
+
+  - name: "Inf. Hearts"
+    author: "davintheraven"
+    codes:
+      - "002F6089 00000099"
+
+  - name: "Inf. HP"
+    author: "davintheraven"
+    codes:
+      - "002F607C 00000010"
+
+  - name: "Inf. Lives"
+    author: "davintheraven"
+    codes:
+      - "002F607D 00000099"

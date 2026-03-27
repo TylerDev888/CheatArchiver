@@ -1,0 +1,114 @@
+# Killer 7 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53366
+
+game: "Killer 7"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53366"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01E2E98 001E2E9B"
+
+  - name: "All Characters Available"
+    author: "Codejunkies"
+    codes:
+      - "10674830 00000FFF"
+      - "10674834 0000FFFF"
+
+  - name: "Check Skill To Max Up Skills"
+    author: "Codejunkies"
+    codes:
+      - "200FFF00 24010005"
+      - "200FFF04 A0410000"
+      - "200FFF0C 080B4658"
+      - "200FFF08 80420000"
+      - "202D1958 0803FFC0"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "201FD340 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "201FC554 24020096"
+      - "201FC55C A64202B8"
+
+  - name: "Max Opponents Defeated"
+    author: "Codejunkies"
+    codes:
+      - "10674524 000003E7"
+
+  - name: "Big Player"
+    author: "Codejunkies"
+    notes: "[Size Modifier]"
+    codes:
+      - "206E0C78 3FC00000"
+
+  - name: "Giant Player"
+    author: "Codejunkies"
+    notes: "[Size Modifier]"
+    codes:
+      - "206E0C78 40000000"
+
+  - name: "Small Player"
+    author: "Codejunkies"
+    notes: "[Size Modifier]"
+    codes:
+      - "206E0C78 3F200000"
+
+  - name: "Very Small Player"
+    author: "Codejunkies"
+    notes: "[Size Modifier]"
+    codes:
+      - "206E0C78 3E800000"
+
+  - name: "Team Members Always Alive"
+    author: "Codejunkies"
+    codes:
+      - "20674828 00000000"
+      - "2067482C 0000FFFF"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90125248 0C04A3B2"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "2020AD3C A62202B8"
+
+  - name: "Ammo (No Reload)"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "201FD340 00000000"
+
+  - name: "All Smiths"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "202E8F34 24020001"
+      - "202E8F94 24020001"
+      - "202E8FD4 24020000"
+      - "202E8FF4 24020001"
+
+  - name: "Max Skills"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "202D1954 00620821"
+      - "202D1958 24020005"
+      - "202D195C A0220000"

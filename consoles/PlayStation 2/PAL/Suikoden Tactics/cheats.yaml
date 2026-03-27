@@ -1,0 +1,2842 @@
+# Suikoden Tactics cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53769
+
+game: "Suikoden Tactics"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53769"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F03845A4 003845A7"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "200FFF80 8462001C"
+      - "200FFF84 A4620008"
+
+  - name: "Max Def"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "200FFFB8 24012000"
+      - "200FFFBC A4610006"
+
+  - name: "Max Eva"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "200FFF9C A4610024"
+
+  - name: "Max Experience (Level 50)"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "200FFFB0 3401C34F"
+      - "200FFFB4 A4610000"
+
+  - name: "Max Luc"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "200FFFAC A461002C"
+
+  - name: "Max Mag"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "200FFF90 A4610022"
+
+  - name: "Max Mdf"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "200FFFA0 A4610028"
+
+  - name: "Max Pdf"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "200FFF98 A4610026"
+
+  - name: "Max Skl"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "200FFF94 A4610020"
+
+  - name: "Max Spd"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "200FFFA4 A461002A"
+
+  - name: "Max Str"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "200FFFA8 A461001E"
+
+  - name: "Must Be On For In Battle Codes"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "200FFFD0 080BB110"
+      - "200FFFD4 94620008"
+      - "202EC43C 0803FFE0"
+      - "200FFF88 240103E7"
+
+  - name: "Max Item"
+    author: "Codejunkies"
+    notes: "[Super Item Modifier Codes]"
+    codes:
+      - "E10200FE 004A3206"
+      - "200FFF30 24030063"
+      - "200FFF34 A6230002"
+      - "E10100FE 104A3206"
+      - "200FFF34 00000000"
+
+  - name: "Super Item"
+    author: "Codejunkies"
+    notes: "[Super Item Modifier Codes]"
+    codes:
+      - "200FFF44 080BC7C0"
+      - "20361710 0C03FFC0"
+      - "100FFF02 00002484"
+      - "100FFF06 00002403"
+      - "200FFF08 10640003"
+      - "200FFF10 A6240000"
+      - "E10200FD 004A3206"
+      - "100FFF00 00000001"
+      - "100FFF04 00000135"
+      - "E10200FB 004A3206"
+      - "100FFF00 0000FFFF"
+      - "100FFF04 00000000"
+      - "E10200FD 104A3206"
+      - "E10100FB 104A3206"
+      - "100FFF00 00000000"
+
+  - name: "1 Hit Kills Enemies"
+    author: "Codejunkies"
+    codes:
+      - "200FFE40 24020001"
+      - "200FFE44 A4620006"
+      - "200FFE48 080BB897"
+      - "202EE258 0803FF90"
+
+  - name: "Infinite Skill Points"
+    author: "Codejunkies"
+    codes:
+      - "10685CF0 0000270F"
+
+  - name: "Max Cash"
+    author: "Codejunkies"
+    codes:
+      - "20685CF8 05F0AB00"
+
+  - name: "Jokers 1"
+    notes: "[Jokers]"
+    codes:
+      - "004A3206 0000[Joker:PS2]"
+
+  - name: "Jokers 2"
+    notes: "[Jokers]"
+    codes:
+      - "004A3242 0000[Joker:PS2]"
+
+  - name: "Jokers 3"
+    notes: "[Jokers]"
+    codes:
+      - "004A32C2 0000[Joker:PS2]"
+
+  - name: "Jokers 4"
+    notes: "[Jokers]"
+    codes:
+      - "004A3406 0000[Joker:PS2]"
+
+  - name: "Jokers 5"
+    notes: "[Jokers]"
+    codes:
+      - "004A3442 0000[Joker:PS2]"
+
+  - name: "Jokers 6"
+    notes: "[Jokers]"
+    codes:
+      - "004A34C2 0000[Joker:PS2]"
+
+  - name: "Max Skill Points"
+    codes:
+      - "20685CF0 05F5E0FF"
+
+  - name: "Max Money"
+    codes:
+      - "20685CF8 05F5E0FF"
+
+  - name: "All Characters Can Use All Skills"
+    codes:
+      - "20341548 00000000"
+
+  - name: "After Battle EXP Mod"
+    codes:
+      - "202D5CB8 00028[EXP]"
+
+  - name: "Items Slot 1"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206795B8 0063[ITEM]"
+
+  - name: "Items Slot 2"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206795C0 0063[ITEM]"
+
+  - name: "Items Slot 3"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206795C8 0063[ITEM]"
+
+  - name: "Items Slot 4"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206795D0 0063[ITEM]"
+
+  - name: "Items Slot 5"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206795D8 0063[ITEM]"
+
+  - name: "Items Slot 6"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206795E0 0063[ITEM]"
+
+  - name: "Items Slot 7"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206795E8 0063[ITEM]"
+
+  - name: "Items Slot 8"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206795F0 0063[ITEM]"
+
+  - name: "Items Slot 9"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206795F8 0063[ITEM]"
+
+  - name: "Items Slot 10"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679600 0063[ITEM]"
+
+  - name: "Items Slot 11"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679608 0063[ITEM]"
+
+  - name: "Items Slot 12"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679610 0063[ITEM]"
+
+  - name: "Items Slot 13"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679618 0063[ITEM]"
+
+  - name: "Items Slot 14"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679620 0063[ITEM]"
+
+  - name: "Items Slot 15"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679628 0063[ITEM]"
+
+  - name: "Items Slot 16"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679630 0063[ITEM]"
+
+  - name: "Items Slot 17"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679638 0063[ITEM]"
+
+  - name: "Items Slot 18"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679640 0063[ITEM]"
+
+  - name: "Items Slot 19"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679648 0063[ITEM]"
+
+  - name: "Items Slot 20"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679650 0063[ITEM]"
+
+  - name: "Items Slot 21"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679658 0063[ITEM]"
+
+  - name: "Items Slot 22"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679660 0063[ITEM]"
+
+  - name: "Items Slot 23"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679668 0063[ITEM]"
+
+  - name: "Items Slot 24"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679670 0063[ITEM]"
+
+  - name: "Items Slot 25"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679678 0063[ITEM]"
+
+  - name: "Items Slot 26"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679680 0063[ITEM]"
+
+  - name: "Items Slot 27"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679688 0063[ITEM]"
+
+  - name: "Items Slot 28"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679690 0063[ITEM]"
+
+  - name: "Items Slot 29"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679698 0063[ITEM]"
+
+  - name: "Items Slot 30"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206796A0 0063[ITEM]"
+
+  - name: "Items Slot 31"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206796A8 0063[ITEM]"
+
+  - name: "Items Slot 32"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206796B0 0063[ITEM]"
+
+  - name: "Items Slot 33"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206796B8 0063[ITEM]"
+
+  - name: "Items Slot 34"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206796C0 0063[ITEM]"
+
+  - name: "Items Slot 35"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206796C8 0063[ITEM]"
+
+  - name: "Items Slot 36"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206796D0 0063[ITEM]"
+
+  - name: "Items Slot 37"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206796D8 0063[ITEM]"
+
+  - name: "Items Slot 38"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206796E0 0063[ITEM]"
+
+  - name: "Items Slot 39"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206796E8 0063[ITEM]"
+
+  - name: "Items Slot 40"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206796F0 0063[ITEM]"
+
+  - name: "Items Slot 41"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206796F8 0063[ITEM]"
+
+  - name: "Items Slot 42"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679700 0063[ITEM]"
+
+  - name: "Items Slot 43"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679708 0063[ITEM]"
+
+  - name: "Items Slot 44"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679710 0063[ITEM]"
+
+  - name: "Items Slot 45"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679718 0063[ITEM]"
+
+  - name: "Items Slot 46"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679720 0063[ITEM]"
+
+  - name: "Items Slot 47"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679728 0063[ITEM]"
+
+  - name: "Items Slot 48"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679730 0063[ITEM]"
+
+  - name: "Items Slot 49"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679738 0063[ITEM]"
+
+  - name: "Items Slot 50"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679740 0063[ITEM]"
+
+  - name: "Items Slot 51"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679748 0063[ITEM]"
+
+  - name: "Items Slot 52"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679750 0063[ITEM]"
+
+  - name: "Items Slot 53"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679758 0063[ITEM]"
+
+  - name: "Items Slot 54"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679760 0063[ITEM]"
+
+  - name: "Items Slot 55"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679768 0063[ITEM]"
+
+  - name: "Items Slot 56"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679770 0063[ITEM]"
+
+  - name: "Items Slot 57"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679778 0063[ITEM]"
+
+  - name: "Items Slot 58"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679780 0063[ITEM]"
+
+  - name: "Items Slot 59"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679788 0063[ITEM]"
+
+  - name: "Items Slot 60"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679790 0063[ITEM]"
+
+  - name: "Items Slot 61"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679798 0063[ITEM]"
+
+  - name: "Items Slot 62"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206797A0 0063[ITEM]"
+
+  - name: "Items Slot 63"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206797A8 0063[ITEM]"
+
+  - name: "Items Slot 64"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206797B0 0063[ITEM]"
+
+  - name: "Items Slot 65"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206797B8 0063[ITEM]"
+
+  - name: "Items Slot 66"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206797C0 0063[ITEM]"
+
+  - name: "Items Slot 67"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206797C8 0063[ITEM]"
+
+  - name: "Items Slot 68"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206797D0 0063[ITEM]"
+
+  - name: "Items Slot 69"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206797D8 0063[ITEM]"
+
+  - name: "Items Slot 70"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206797E0 0063[ITEM]"
+
+  - name: "Items Slot 71"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206797E8 0063[ITEM]"
+
+  - name: "Items Slot 72"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206797F0 0063[ITEM]"
+
+  - name: "Items Slot 73"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206797F8 0063[ITEM]"
+
+  - name: "Items Slot 74"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679800 0063[ITEM]"
+
+  - name: "Items Slot 75"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679808 0063[ITEM]"
+
+  - name: "Items Slot 76"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679810 0063[ITEM]"
+
+  - name: "Items Slot 77"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679818 0063[ITEM]"
+
+  - name: "Items Slot 78"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679820 0063[ITEM]"
+
+  - name: "Items Slot 79"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679828 0063[ITEM]"
+
+  - name: "Items Slot 80"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679830 0063[ITEM]"
+
+  - name: "Items Slot 81"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679838 0063[ITEM]"
+
+  - name: "Items Slot 82"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679840 0063[ITEM]"
+
+  - name: "Items Slot 83"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679848 0063[ITEM]"
+
+  - name: "Items Slot 84"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679850 0063[ITEM]"
+
+  - name: "Items Slot 85"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679858 0063[ITEM]"
+
+  - name: "Items Slot 86"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679860 0063[ITEM]"
+
+  - name: "Items Slot 87"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679868 0063[ITEM]"
+
+  - name: "Items Slot 88"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679870 0063[ITEM]"
+
+  - name: "Items Slot 89"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679878 0063[ITEM]"
+
+  - name: "Items Slot 90"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679880 0063[ITEM]"
+
+  - name: "Items Slot 91"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679888 0063[ITEM]"
+
+  - name: "Items Slot 92"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679890 0063[ITEM]"
+
+  - name: "Items Slot 93"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679898 0063[ITEM]"
+
+  - name: "Items Slot 94"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206798A0 0063[ITEM]"
+
+  - name: "Items Slot 95"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206798A8 0063[ITEM]"
+
+  - name: "Items Slot 96"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206798B0 0063[ITEM]"
+
+  - name: "Items Slot 97"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206798B8 0063[ITEM]"
+
+  - name: "Items Slot 98"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206798C0 0063[ITEM]"
+
+  - name: "Items Slot 99"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206798C8 0063[ITEM]"
+
+  - name: "Items Slot 100"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206798D0 0063[ITEM]"
+
+  - name: "Items Slot 101"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206798D8 0063[ITEM]"
+
+  - name: "Items Slot 102"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206798E0 0063[ITEM]"
+
+  - name: "Items Slot 103"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206798E8 0063[ITEM]"
+
+  - name: "Items Slot 104"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206798F0 0063[ITEM]"
+
+  - name: "Items Slot 105"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206798F8 0063[ITEM]"
+
+  - name: "Items Slot 106"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679900 0063[ITEM]"
+
+  - name: "Items Slot 107"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679908 0063[ITEM]"
+
+  - name: "Items Slot 108"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679910 0063[ITEM]"
+
+  - name: "Items Slot 109"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679918 0063[ITEM]"
+
+  - name: "Items Slot 110"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679920 0063[ITEM]"
+
+  - name: "Items Slot 111"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679928 0063[ITEM]"
+
+  - name: "Items Slot 112"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679930 0063[ITEM]"
+
+  - name: "Items Slot 113"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679938 0063[ITEM]"
+
+  - name: "Items Slot 114"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679940 0063[ITEM]"
+
+  - name: "Items Slot 115"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679948 0063[ITEM]"
+
+  - name: "Items Slot 116"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679950 0063[ITEM]"
+
+  - name: "Items Slot 117"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679958 0063[ITEM]"
+
+  - name: "Items Slot 118"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679960 0063[ITEM]"
+
+  - name: "Items Slot 119"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679968 0063[ITEM]"
+
+  - name: "Items Slot 120"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679970 0063[ITEM]"
+
+  - name: "Items Slot 121"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679978 0063[ITEM]"
+
+  - name: "Items Slot 122"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679980 0063[ITEM]"
+
+  - name: "Items Slot 123"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679988 0063[ITEM]"
+
+  - name: "Items Slot 124"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679990 0063[ITEM]"
+
+  - name: "Items Slot 125"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679998 0063[ITEM]"
+
+  - name: "Items Slot 126"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206799A0 0063[ITEM]"
+
+  - name: "Items Slot 127"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206799A8 0063[ITEM]"
+
+  - name: "Items Slot 128"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206799B0 0063[ITEM]"
+
+  - name: "Items Slot 129"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206799B8 0063[ITEM]"
+
+  - name: "Items Slot 130"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206799C0 0063[ITEM]"
+
+  - name: "Items Slot 131"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206799C8 0063[ITEM]"
+
+  - name: "Items Slot 132"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206799D0 0063[ITEM]"
+
+  - name: "Items Slot 133"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206799D8 0063[ITEM]"
+
+  - name: "Items Slot 134"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206799E0 0063[ITEM]"
+
+  - name: "Items Slot 135"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206799E8 0063[ITEM]"
+
+  - name: "Items Slot 136"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206799F0 0063[ITEM]"
+
+  - name: "Items Slot 137"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "206799F8 0063[ITEM]"
+
+  - name: "Items Slot 138"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679A00 0063[ITEM]"
+
+  - name: "Items Slot 139"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679A08 0063[ITEM]"
+
+  - name: "Items Slot 140"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679A10 0063[ITEM]"
+
+  - name: "Items Slot 141"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679A18 0063[ITEM]"
+
+  - name: "Items Slot 142"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679A20 0063[ITEM]"
+
+  - name: "Items Slot 143"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679A28 0063[ITEM]"
+
+  - name: "Items Slot 144"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679A30 0063[ITEM]"
+
+  - name: "Items Slot 145"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679A38 0063[ITEM]"
+
+  - name: "Items Slot 146"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679A40 0063[ITEM]"
+
+  - name: "Items Slot 147"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679A48 0063[ITEM]"
+
+  - name: "Items Slot 148"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679A50 0063[ITEM]"
+
+  - name: "Items Slot 149"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679A58 0063[ITEM]"
+
+  - name: "Items Slot 150"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679A60 0063[ITEM]"
+
+  - name: "Items Slot 151"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679A68 0063[ITEM]"
+
+  - name: "Items Slot 152"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679A70 0063[ITEM]"
+
+  - name: "Items Slot 153"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679A78 0063[ITEM]"
+
+  - name: "Items Slot 154"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679A80 0063[ITEM]"
+
+  - name: "Items Slot 155"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679A88 0063[ITEM]"
+
+  - name: "Items Slot 156"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679A90 0063[ITEM]"
+
+  - name: "Items Slot 157"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679A98 0063[ITEM]"
+
+  - name: "Items Slot 158"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679AA0 0063[ITEM]"
+
+  - name: "Items Slot 159"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679AA8 0063[ITEM]"
+
+  - name: "Items Slot 160"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679AB0 0063[ITEM]"
+
+  - name: "Items Slot 161"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679AB8 0063[ITEM]"
+
+  - name: "Items Slot 162"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679AC0 0063[ITEM]"
+
+  - name: "Items Slot 163"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679AC8 0063[ITEM]"
+
+  - name: "Items Slot 164"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679AD0 0063[ITEM]"
+
+  - name: "Items Slot 165"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679AD8 0063[ITEM]"
+
+  - name: "Items Slot 166"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679AE0 0063[ITEM]"
+
+  - name: "Items Slot 167"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679AE8 0063[ITEM]"
+
+  - name: "Items Slot 168"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679AF0 0063[ITEM]"
+
+  - name: "Items Slot 169"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679AF8 0063[ITEM]"
+
+  - name: "Items Slot 170"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679B00 0063[ITEM]"
+
+  - name: "Items Slot 171"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679B08 0063[ITEM]"
+
+  - name: "Items Slot 172"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679B10 0063[ITEM]"
+
+  - name: "Items Slot 173"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679B18 0063[ITEM]"
+
+  - name: "Items Slot 174"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679B20 0063[ITEM]"
+
+  - name: "Items Slot 175"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679B28 0063[ITEM]"
+
+  - name: "Items Slot 176"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679B30 0063[ITEM]"
+
+  - name: "Items Slot 177"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679B38 0063[ITEM]"
+
+  - name: "Items Slot 178"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679B40 0063[ITEM]"
+
+  - name: "Items Slot 179"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679B48 0063[ITEM]"
+
+  - name: "Items Slot 180"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679B50 0063[ITEM]"
+
+  - name: "Items Slot 181"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679B58 0063[ITEM]"
+
+  - name: "Items Slot 182"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679B60 0063[ITEM]"
+
+  - name: "Items Slot 183"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679B68 0063[ITEM]"
+
+  - name: "Items Slot 184"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679B70 0063[ITEM]"
+
+  - name: "Items Slot 185"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679B78 0063[ITEM]"
+
+  - name: "Items Slot 186"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679B80 0063[ITEM]"
+
+  - name: "Items Slot 187"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679B88 0063[ITEM]"
+
+  - name: "Items Slot 188"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679B90 0063[ITEM]"
+
+  - name: "Items Slot 189"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679B98 0063[ITEM]"
+
+  - name: "Items Slot 190"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679BA0 0063[ITEM]"
+
+  - name: "Items Slot 191"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679BA8 0063[ITEM]"
+
+  - name: "Items Slot 192"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679BB0 0063[ITEM]"
+
+  - name: "Items Slot 193"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679BB8 0063[ITEM]"
+
+  - name: "Items Slot 194"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679BC0 0063[ITEM]"
+
+  - name: "Items Slot 195"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679BC8 0063[ITEM]"
+
+  - name: "Items Slot 196"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679BD0 0063[ITEM]"
+
+  - name: "Items Slot 197"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679BD8 0063[ITEM]"
+
+  - name: "Items Slot 198"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679BE0 0063[ITEM]"
+
+  - name: "Items Slot 199"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679BE8 0063[ITEM]"
+
+  - name: "Items Slot 200"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679BF0 0063[ITEM]"
+
+  - name: "Items Slot 201"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679BF8 0063[ITEM]"
+
+  - name: "Items Slot 202"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679C00 0063[ITEM]"
+
+  - name: "Items Slot 203"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679C08 0063[ITEM]"
+
+  - name: "Items Slot 204"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679C10 0063[ITEM]"
+
+  - name: "Items Slot 205"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679C18 0063[ITEM]"
+
+  - name: "Items Slot 206"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679C20 0063[ITEM]"
+
+  - name: "Items Slot 207"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679C28 0063[ITEM]"
+
+  - name: "Items Slot 208"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679C30 0063[ITEM]"
+
+  - name: "Items Slot 209"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679C38 0063[ITEM]"
+
+  - name: "Items Slot 210"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679C40 0063[ITEM]"
+
+  - name: "Items Slot 211"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679C48 0063[ITEM]"
+
+  - name: "Items Slot 212"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679C50 0063[ITEM]"
+
+  - name: "Items Slot 213"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679C58 0063[ITEM]"
+
+  - name: "Items Slot 214"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679C60 0063[ITEM]"
+
+  - name: "Items Slot 215"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679C68 0063[ITEM]"
+
+  - name: "Items Slot 216"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679C70 0063[ITEM]"
+
+  - name: "Items Slot 217"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679C78 0063[ITEM]"
+
+  - name: "Items Slot 218"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679C80 0063[ITEM]"
+
+  - name: "Items Slot 219"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679C88 0063[ITEM]"
+
+  - name: "Items Slot 220"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679C90 0063[ITEM]"
+
+  - name: "Items Slot 221"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679C98 0063[ITEM]"
+
+  - name: "Items Slot 222"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679CA0 0063[ITEM]"
+
+  - name: "Items Slot 223"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679CA8 0063[ITEM]"
+
+  - name: "Items Slot 224"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679CB0 0063[ITEM]"
+
+  - name: "Items Slot 225"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679CB8 0063[ITEM]"
+
+  - name: "Items Slot 226"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679CC0 0063[ITEM]"
+
+  - name: "Items Slot 227"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679CC8 0063[ITEM]"
+
+  - name: "Items Slot 228"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679CD0 0063[ITEM]"
+
+  - name: "Items Slot 229"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679CD8 0063[ITEM]"
+
+  - name: "Items Slot 230"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679CE0 0063[ITEM]"
+
+  - name: "Items Slot 231"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679CE8 0063[ITEM]"
+
+  - name: "Items Slot 232"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679CF0 0063[ITEM]"
+
+  - name: "Items Slot 233"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679CF8 0063[ITEM]"
+
+  - name: "Items Slot 234"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679D00 0063[ITEM]"
+
+  - name: "Items Slot 235"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679D08 0063[ITEM]"
+
+  - name: "Items Slot 236"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679D10 0063[ITEM]"
+
+  - name: "Items Slot 237"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679D18 0063[ITEM]"
+
+  - name: "Items Slot 238"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679D20 0063[ITEM]"
+
+  - name: "Items Slot 239"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679D28 0063[ITEM]"
+
+  - name: "Items Slot 240"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679D30 0063[ITEM]"
+
+  - name: "Items Slot 241"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679D38 0063[ITEM]"
+
+  - name: "Items Slot 242"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679D40 0063[ITEM]"
+
+  - name: "Items Slot 243"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679D48 0063[ITEM]"
+
+  - name: "Items Slot 244"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679D50 0063[ITEM]"
+
+  - name: "Items Slot 245"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679D58 0063[ITEM]"
+
+  - name: "Items Slot 246"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679D60 0063[ITEM]"
+
+  - name: "Items Slot 247"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679D68 0063[ITEM]"
+
+  - name: "Items Slot 248"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679D70 0063[ITEM]"
+
+  - name: "Items Slot 249"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679D78 0063[ITEM]"
+
+  - name: "Items Slot 250"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679D80 0063[ITEM]"
+
+  - name: "Items Slot 251"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679D88 0063[ITEM]"
+
+  - name: "Items Slot 252"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679D90 0063[ITEM]"
+
+  - name: "Items Slot 253"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679D98 0063[ITEM]"
+
+  - name: "Items Slot 254"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679DA0 0063[ITEM]"
+
+  - name: "Items Slot 255"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679DA8 0063[ITEM]"
+
+  - name: "Items Slot 256"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679DB0 0063[ITEM]"
+
+  - name: "Items Slot 257"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679DB8 0063[ITEM]"
+
+  - name: "Items Slot 258"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679DC0 0063[ITEM]"
+
+  - name: "Items Slot 259"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679DC8 0063[ITEM]"
+
+  - name: "Items Slot 260"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679DD0 0063[ITEM]"
+
+  - name: "Items Slot 261"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679DD8 0063[ITEM]"
+
+  - name: "Items Slot 262"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679DE0 0063[ITEM]"
+
+  - name: "Items Slot 263"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679DE8 0063[ITEM]"
+
+  - name: "Items Slot 264"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679DF0 0063[ITEM]"
+
+  - name: "Items Slot 265"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679DF8 0063[ITEM]"
+
+  - name: "Items Slot 266"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679E00 0063[ITEM]"
+
+  - name: "Items Slot 267"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679E08 0063[ITEM]"
+
+  - name: "Items Slot 268"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679E10 0063[ITEM]"
+
+  - name: "Items Slot 269"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679E18 0063[ITEM]"
+
+  - name: "Items Slot 270"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679E20 0063[ITEM]"
+
+  - name: "Items Slot 271"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679E28 0063[ITEM]"
+
+  - name: "Items Slot 272"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679E30 0063[ITEM]"
+
+  - name: "Items Slot 273"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679E38 0063[ITEM]"
+
+  - name: "Items Slot 274"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679E40 0063[ITEM]"
+
+  - name: "Items Slot 275"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679E48 0063[ITEM]"
+
+  - name: "Items Slot 276"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679E50 0063[ITEM]"
+
+  - name: "Items Slot 277"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679E58 0063[ITEM]"
+
+  - name: "Items Slot 278"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679E60 0063[ITEM]"
+
+  - name: "Items Slot 279"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679E68 0063[ITEM]"
+
+  - name: "Items Slot 280"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679E70 0063[ITEM]"
+
+  - name: "Items Slot 281"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679E78 0063[ITEM]"
+
+  - name: "Items Slot 282"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679E80 0063[ITEM]"
+
+  - name: "Items Slot 283"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679E88 0063[ITEM]"
+
+  - name: "Items Slot 284"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679E90 0063[ITEM]"
+
+  - name: "Items Slot 285"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679E98 0063[ITEM]"
+
+  - name: "Items Slot 286"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679EA0 0063[ITEM]"
+
+  - name: "Items Slot 287"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679EA8 0063[ITEM]"
+
+  - name: "Items Slot 288"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679EB0 0063[ITEM]"
+
+  - name: "Items Slot 289"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679EB8 0063[ITEM]"
+
+  - name: "Items Slot 290"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679EC0 0063[ITEM]"
+
+  - name: "Items Slot 291"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679EC8 0063[ITEM]"
+
+  - name: "Items Slot 292"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679ED0 0063[ITEM]"
+
+  - name: "Items Slot 293"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679ED8 0063[ITEM]"
+
+  - name: "Items Slot 294"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679EE0 0063[ITEM]"
+
+  - name: "Items Slot 295"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679EE8 0063[ITEM]"
+
+  - name: "Items Slot 296"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679EF0 0063[ITEM]"
+
+  - name: "Items Slot 297"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679EF8 0063[ITEM]"
+
+  - name: "Items Slot 298"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679F00 0063[ITEM]"
+
+  - name: "Items Slot 299"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679F08 0063[ITEM]"
+
+  - name: "Items Slot 300"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679F10 0063[ITEM]"
+
+  - name: "Items Slot 301"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679F18 0063[ITEM]"
+
+  - name: "Items Slot 302"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679F20 0063[ITEM]"
+
+  - name: "Items Slot 303"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679F28 0063[ITEM]"
+
+  - name: "Items Slot 304"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679F30 0063[ITEM]"
+
+  - name: "Items Slot 305"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679F38 0063[ITEM]"
+
+  - name: "Items Slot 306"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679F40 0063[ITEM]"
+
+  - name: "Items Slot 307"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679F48 0063[ITEM]"
+
+  - name: "Items Slot 308"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679F50 0063[ITEM]"
+
+  - name: "Items Slot 309"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679F58 0063[ITEM]"
+
+  - name: "Items Slot 310"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679F60 0063[ITEM]"
+
+  - name: "Items Slot 311"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679F68 0063[ITEM]"
+
+  - name: "Items Slot 312"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679F70 0063[ITEM]"
+
+  - name: "Items Slot 313"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679F78 0063[ITEM]"
+
+  - name: "Items Slot 314"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679F80 0063[ITEM]"
+
+  - name: "Items Slot 315"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679F88 0063[ITEM]"
+
+  - name: "Items Slot 316"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679F90 0063[ITEM]"
+
+  - name: "Items Slot 317"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679F98 0063[ITEM]"
+
+  - name: "Items Slot 318"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679FA0 0063[ITEM]"
+
+  - name: "Items Slot 319"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679FA8 0063[ITEM]"
+
+  - name: "Items Slot 320"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679FB0 0063[ITEM]"
+
+  - name: "Items Slot 321"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679FB8 0063[ITEM]"
+
+  - name: "Items Slot 322"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679FC0 0063[ITEM]"
+
+  - name: "Items Slot 323"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679FC8 0063[ITEM]"
+
+  - name: "Items Slot 324"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679FD0 0063[ITEM]"
+
+  - name: "Items Slot 325"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679FD8 0063[ITEM]"
+
+  - name: "Items Slot 326"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679FE0 0063[ITEM]"
+
+  - name: "Items Slot 327"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679FE8 0063[ITEM]"
+
+  - name: "Items Slot 328"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679FF0 0063[ITEM]"
+
+  - name: "Items Slot 329"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "20679FF8 0063[ITEM]"
+
+  - name: "Items Slot 330"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A000 0063[ITEM]"
+
+  - name: "Items Slot 331"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A008 0063[ITEM]"
+
+  - name: "Items Slot 332"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A010 0063[ITEM]"
+
+  - name: "Items Slot 333"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A018 0063[ITEM]"
+
+  - name: "Items Slot 334"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A020 0063[ITEM]"
+
+  - name: "Items Slot 335"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A028 0063[ITEM]"
+
+  - name: "Items Slot 336"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A030 0063[ITEM]"
+
+  - name: "Items Slot 337"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A038 0063[ITEM]"
+
+  - name: "Items Slot 338"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A040 0063[ITEM]"
+
+  - name: "Items Slot 339"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A048 0063[ITEM]"
+
+  - name: "Items Slot 340"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A050 0063[ITEM]"
+
+  - name: "Items Slot 341"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A058 0063[ITEM]"
+
+  - name: "Items Slot 342"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A060 0063[ITEM]"
+
+  - name: "Items Slot 343"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A068 0063[ITEM]"
+
+  - name: "Items Slot 344"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A070 0063[ITEM]"
+
+  - name: "Items Slot 345"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A078 0063[ITEM]"
+
+  - name: "Items Slot 346"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A080 0063[ITEM]"
+
+  - name: "Items Slot 347"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A088 0063[ITEM]"
+
+  - name: "Items Slot 348"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A090 0063[ITEM]"
+
+  - name: "Items Slot 349"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A098 0063[ITEM]"
+
+  - name: "Items Slot 350"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A0A0 0063[ITEM]"
+
+  - name: "Items Slot 351"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A0A8 0063[ITEM]"
+
+  - name: "Items Slot 352"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A0B0 0063[ITEM]"
+
+  - name: "Items Slot 353"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A0B8 0063[ITEM]"
+
+  - name: "Items Slot 354"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A0C0 0063[ITEM]"
+
+  - name: "Items Slot 355"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A0C8 0063[ITEM]"
+
+  - name: "Items Slot 356"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A0D0 0063[ITEM]"
+
+  - name: "Items Slot 357"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A0D8 0063[ITEM]"
+
+  - name: "Items Slot 358"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A0E0 0063[ITEM]"
+
+  - name: "Items Slot 359"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A0E8 0063[ITEM]"
+
+  - name: "Items Slot 360"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A0F0 0063[ITEM]"
+
+  - name: "Items Slot 361"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A0F8 0063[ITEM]"
+
+  - name: "Items Slot 362"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A100 0063[ITEM]"
+
+  - name: "Items Slot 363"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A108 0063[ITEM]"
+
+  - name: "Items Slot 364"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A110 0063[ITEM]"
+
+  - name: "Items Slot 365"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A118 0063[ITEM]"
+
+  - name: "Items Slot 366"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A120 0063[ITEM]"
+
+  - name: "Items Slot 367"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A128 0063[ITEM]"
+
+  - name: "Items Slot 368"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A130 0063[ITEM]"
+
+  - name: "Items Slot 369"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A138 0063[ITEM]"
+
+  - name: "Items Slot 370"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A140 0063[ITEM]"
+
+  - name: "Items Slot 371"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A148 0063[ITEM]"
+
+  - name: "Items Slot 372"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A150 0063[ITEM]"
+
+  - name: "Items Slot 373"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A158 0063[ITEM]"
+
+  - name: "Items Slot 374"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A160 0063[ITEM]"
+
+  - name: "Items Slot 375"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A168 0063[ITEM]"
+
+  - name: "Items Slot 376"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A170 0063[ITEM]"
+
+  - name: "Items Slot 377"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A178 0063[ITEM]"
+
+  - name: "Items Slot 378"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A180 0063[ITEM]"
+
+  - name: "Items Slot 379"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A188 0063[ITEM]"
+
+  - name: "Items Slot 380"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A190 0063[ITEM]"
+
+  - name: "Items Slot 381"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A198 0063[ITEM]"
+
+  - name: "Items Slot 382"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A1A0 0063[ITEM]"
+
+  - name: "Items Slot 383"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A1A8 0063[ITEM]"
+
+  - name: "Items Slot 384"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A1B0 0063[ITEM]"
+
+  - name: "Items Slot 385"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A1B8 0063[ITEM]"
+
+  - name: "Items Slot 386"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A1C0 0063[ITEM]"
+
+  - name: "Items Slot 387"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A1C8 0063[ITEM]"
+
+  - name: "Items Slot 388"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A1D0 0063[ITEM]"
+
+  - name: "Items Slot 389"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A1D8 0063[ITEM]"
+
+  - name: "Items Slot 390"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A1E0 0063[ITEM]"
+
+  - name: "Items Slot 391"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A1E8 0063[ITEM]"
+
+  - name: "Items Slot 392"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A1F0 0063[ITEM]"
+
+  - name: "Items Slot 393"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A1F8 0063[ITEM]"
+
+  - name: "Items Slot 394"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A200 0063[ITEM]"
+
+  - name: "Items Slot 395"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A208 0063[ITEM]"
+
+  - name: "Items Slot 396"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A210 0063[ITEM]"
+
+  - name: "Items Slot 397"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A218 0063[ITEM]"
+
+  - name: "Items Slot 398"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A220 0063[ITEM]"
+
+  - name: "Items Slot 399"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A228 0063[ITEM]"
+
+  - name: "Items Slot 400"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A230 0063[ITEM]"
+
+  - name: "Items Slot 401"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A238 0063[ITEM]"
+
+  - name: "Items Slot 402"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A240 0063[ITEM]"
+
+  - name: "Items Slot 403"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A248 0063[ITEM]"
+
+  - name: "Items Slot 404"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A250 0063[ITEM]"
+
+  - name: "Items Slot 405"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A258 0063[ITEM]"
+
+  - name: "Items Slot 406"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A260 0063[ITEM]"
+
+  - name: "Items Slot 407"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A268 0063[ITEM]"
+
+  - name: "Items Slot 408"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A270 0063[ITEM]"
+
+  - name: "Items Slot 409"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A278 0063[ITEM]"
+
+  - name: "Items Slot 410"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A280 0063[ITEM]"
+
+  - name: "Items Slot 411"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A288 0063[ITEM]"
+
+  - name: "Items Slot 412"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A290 0063[ITEM]"
+
+  - name: "Items Slot 413"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A298 0063[ITEM]"
+
+  - name: "Items Slot 414"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A2A0 0063[ITEM]"
+
+  - name: "Items Slot 415"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A2A8 0063[ITEM]"
+
+  - name: "Items Slot 416"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A2B0 0063[ITEM]"
+
+  - name: "Items Slot 417"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A2B8 0063[ITEM]"
+
+  - name: "Items Slot 418"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A2C0 0063[ITEM]"
+
+  - name: "Items Slot 419"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A2C8 0063[ITEM]"
+
+  - name: "Items Slot 420"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A2D0 0063[ITEM]"
+
+  - name: "Items Slot 421"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A2D8 0063[ITEM]"
+
+  - name: "Items Slot 422"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A2E0 0063[ITEM]"
+
+  - name: "Items Slot 423"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A2E8 0063[ITEM]"
+
+  - name: "Items Slot 424"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A2F0 0063[ITEM]"
+
+  - name: "Items Slot 425"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A2F8 0063[ITEM]"
+
+  - name: "Items Slot 426"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A300 0063[ITEM]"
+
+  - name: "Items Slot 427"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A308 0063[ITEM]"
+
+  - name: "Items Slot 428"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A310 0063[ITEM]"
+
+  - name: "Items Slot 429"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A318 0063[ITEM]"
+
+  - name: "Items Slot 430"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A320 0063[ITEM]"
+
+  - name: "Items Slot 431"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A328 0063[ITEM]"
+
+  - name: "Items Slot 432"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A330 0063[ITEM]"
+
+  - name: "Items Slot 433"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A338 0063[ITEM]"
+
+  - name: "Items Slot 434"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A340 0063[ITEM]"
+
+  - name: "Items Slot 435"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A348 0063[ITEM]"
+
+  - name: "Items Slot 436"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A350 0063[ITEM]"
+
+  - name: "Items Slot 437"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A358 0063[ITEM]"
+
+  - name: "Items Slot 438"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A360 0063[ITEM]"
+
+  - name: "Items Slot 439"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A368 0063[ITEM]"
+
+  - name: "Items Slot 440"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A370 0063[ITEM]"
+
+  - name: "Items Slot 441"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A378 0063[ITEM]"
+
+  - name: "Items Slot 442"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A380 0063[ITEM]"
+
+  - name: "Items Slot 443"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A388 0063[ITEM]"
+
+  - name: "Items Slot 444"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A390 0063[ITEM]"
+
+  - name: "Items Slot 445"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A398 0063[ITEM]"
+
+  - name: "Items Slot 446"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A3A0 0063[ITEM]"
+
+  - name: "Items Slot 447"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A3A8 0063[ITEM]"
+
+  - name: "Items Slot 448"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A3B0 0063[ITEM]"
+
+  - name: "Items Slot 449"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A3B8 0063[ITEM]"
+
+  - name: "Items Slot 450"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A3C0 0063[ITEM]"
+
+  - name: "Items Slot 451"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A3C8 0063[ITEM]"
+
+  - name: "Items Slot 452"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A3D0 0063[ITEM]"
+
+  - name: "Items Slot 453"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A3D8 0063[ITEM]"
+
+  - name: "Items Slot 454"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A3E0 0063[ITEM]"
+
+  - name: "Items Slot 455"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A3E8 0063[ITEM]"
+
+  - name: "Items Slot 456"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A3F0 0063[ITEM]"
+
+  - name: "Items Slot 457"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A3F8 0063[ITEM]"
+
+  - name: "Items Slot 458"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A400 0063[ITEM]"
+
+  - name: "Items Slot 459"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A408 0063[ITEM]"
+
+  - name: "Items Slot 460"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A410 0063[ITEM]"
+
+  - name: "Items Slot 461"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A418 0063[ITEM]"
+
+  - name: "Items Slot 462"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A420 0063[ITEM]"
+
+  - name: "Items Slot 463"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A428 0063[ITEM]"
+
+  - name: "Items Slot 464"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A430 0063[ITEM]"
+
+  - name: "Items Slot 465"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A438 0063[ITEM]"
+
+  - name: "Items Slot 466"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A440 0063[ITEM]"
+
+  - name: "Items Slot 467"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A448 0063[ITEM]"
+
+  - name: "Items Slot 468"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A450 0063[ITEM]"
+
+  - name: "Items Slot 469"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A458 0063[ITEM]"
+
+  - name: "Items Slot 470"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A460 0063[ITEM]"
+
+  - name: "Items Slot 471"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A468 0063[ITEM]"
+
+  - name: "Items Slot 472"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A470 0063[ITEM]"
+
+  - name: "Items Slot 473"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A478 0063[ITEM]"
+
+  - name: "Items Slot 474"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A480 0063[ITEM]"
+
+  - name: "Items Slot 475"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A488 0063[ITEM]"
+
+  - name: "Items Slot 476"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A490 0063[ITEM]"
+
+  - name: "Items Slot 477"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A498 0063[ITEM]"
+
+  - name: "Items Slot 478"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A4A0 0063[ITEM]"
+
+  - name: "Items Slot 479"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A4A8 0063[ITEM]"
+
+  - name: "Items Slot 480"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A4B0 0063[ITEM]"
+
+  - name: "Items Slot 481"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A4B8 0063[ITEM]"
+
+  - name: "Items Slot 482"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A4C0 0063[ITEM]"
+
+  - name: "Items Slot 483"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A4C8 0063[ITEM]"
+
+  - name: "Items Slot 484"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A4D0 0063[ITEM]"
+
+  - name: "Items Slot 485"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A4D8 0063[ITEM]"
+
+  - name: "Items Slot 486"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A4E0 0063[ITEM]"
+
+  - name: "Items Slot 487"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A4E8 0063[ITEM]"
+
+  - name: "Items Slot 488"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A4F0 0063[ITEM]"
+
+  - name: "Items Slot 489"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A4F8 0063[ITEM]"
+
+  - name: "Items Slot 490"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A500 0063[ITEM]"
+
+  - name: "Items Slot 491"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A508 0063[ITEM]"
+
+  - name: "Items Slot 492"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A510 0063[ITEM]"
+
+  - name: "Items Slot 493"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A518 0063[ITEM]"
+
+  - name: "Items Slot 494"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A520 0063[ITEM]"
+
+  - name: "Items Slot 495"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A528 0063[ITEM]"
+
+  - name: "Items Slot 496"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A530 0063[ITEM]"
+
+  - name: "Items Slot 497"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A538 0063[ITEM]"
+
+  - name: "Items Slot 498"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A540 0063[ITEM]"
+
+  - name: "Items Slot 499"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A548 0063[ITEM]"
+
+  - name: "Items Slot 500"
+    notes: "[Max/Inf Item Mod]"
+    codes:
+      - "2067A550 0063[ITEM]"
+
+  - name: "Have Character"
+    notes: "[Kyril (adult) Codes]"
+    codes:
+      - "0067D4F8 000000E1"
+
+  - name: "Max EXP/Level 99"
+    notes: "[Kyril (adult) Codes]"
+    codes:
+      - "2067D4A8 000182B7"
+
+  - name: "Infinite HP"
+    notes: "[Kyril (adult) Codes]"
+    codes:
+      - "1067D4B0 000003E7"
+
+  - name: "Max HP"
+    notes: "[Kyril (adult) Codes]"
+    codes:
+      - "1067D4B2 000003E7"
+
+  - name: "Max Plus HP"
+    notes: "[Kyril (adult) Codes]"
+    codes:
+      - "1067D4C4 000003E7"
+
+  - name: "Max Plus Str"
+    notes: "[Kyril (adult) Codes]"
+    codes:
+      - "1067D4C6 000003E7"
+
+  - name: "Max Plus Skl"
+    notes: "[Kyril (adult) Codes]"
+    codes:
+      - "1067D4C8 000003E7"
+      - "1067D4CA 000003E7"
+
+  - name: "Max Plus Eva"
+    notes: "[Kyril (adult) Codes]"
+    codes:
+      - "1067D4CC 000003E7"
+
+  - name: "Max Plus Pdf"
+    notes: "[Kyril (adult) Codes]"
+    codes:
+      - "1067D4CE 000003E7"
+
+  - name: "Max Plus Mdf"
+    notes: "[Kyril (adult) Codes]"
+    codes:
+      - "1067D4D0 000003E7"
+
+  - name: "Max Plus Spd"
+    notes: "[Kyril (adult) Codes]"
+    codes:
+      - "1067D4D2 000003E7"
+
+  - name: "Max Plus Luc"
+    notes: "[Kyril (adult) Codes]"
+    codes:
+      - "1067D4D4 000003E7"
+
+  - name: "Level S-All Skills"
+    notes: "[Kyril (adult) Codes]"
+    codes:
+      - "4067D530 00090001"
+      - "06060606 00000000"
+
+  - name: "Body"
+    notes: "[Equipment Modifier Codes]"
+    codes:
+      - "1067D4D6 0000[ITEM]"
+
+  - name: "Hands"
+    notes: "[Equipment Modifier Codes]"
+    codes:
+      - "1067D4D8 0000[ITEM]"
+
+  - name: "Other 1"
+    notes: "[Equipment Modifier Codes]"
+    codes:
+      - "1067D4DA 0000[ITEM]"
+
+  - name: "Other 2"
+    notes: "[Equipment Modifier Codes]"
+    codes:
+      - "1067D4DC 0000[ITEM]"
+
+  - name: "Other 3"
+    notes: "[Equipment Modifier Codes]"
+    codes:
+      - "1067D4DE 0000[ITEM]"
+
+  - name: "Other 4"
+    notes: "[Equipment Modifier Codes]"
+    codes:
+      - "1067D4E0 0000[ITEM]"
+
+  - name: "Other 5"
+    notes: "[Equipment Modifier Codes]"
+    codes:
+      - "1067D4E2 0000[ITEM]"
+
+  - name: "Other 6"
+    notes: "[Equipment Modifier Codes]"
+    codes:
+      - "1067D4E4 0000[ITEM]"
+
+  - name: "Other 7"
+    notes: "[Equipment Modifier Codes]"
+    codes:
+      - "1067D4E6 0000[ITEM]"
+
+  - name: "Other 8"
+    notes: "[Equipment Modifier Codes]"
+    codes:
+      - "1067D4E8 0000[ITEM]"
+
+  - name: "Head"
+    notes: "[Rune Modifier Codes]"
+    codes:
+      - "0067D4EA 000000[RM]"
+
+  - name: "Right Hand"
+    notes: "[Rune Modifier Codes]"
+    codes:
+      - "0067D4EB 000000[RM]"
+
+  - name: "Left Hand"
+    notes: "[Rune Modifier Codes]"
+    codes:
+      - "0067D4EC 000000[RM]"
+
+  - name: "Slot 1"
+    notes: "[Max Overall Magic Level Codes]"
+    codes:
+      - "0067D4ED 00000009"
+
+  - name: "Slot 2"
+    notes: "[Max Overall Magic Level Codes]"
+    codes:
+      - "0067D4EE 00000009"
+
+  - name: "Slot 3"
+    notes: "[Max Overall Magic Level Codes]"
+    codes:
+      - "0067D4EF 00000009"
+
+  - name: "Slot 4"
+    notes: "[Max Overall Magic Level Codes]"
+    codes:
+      - "0067D4F0 00000009"

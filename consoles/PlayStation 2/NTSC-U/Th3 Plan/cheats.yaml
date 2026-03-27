@@ -1,0 +1,38 @@
+# Th3 Plan cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21466
+
+game: "Th3 Plan"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21466"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901759C0 0C05ECA2"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20298C58 C4800760"
+      - "20298C5C E48007C4"
+
+  - name: "Infinite Stamina"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20192CB4 00000000"
+
+  - name: "Unlock Bonus Mode"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "00309A90 00000001"
+      - "0030A0C0 00000001"

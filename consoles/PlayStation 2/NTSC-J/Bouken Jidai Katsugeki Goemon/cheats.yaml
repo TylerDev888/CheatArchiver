@@ -1,0 +1,90 @@
+# Bouken Jidai Katsugeki Goemon cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65066
+
+game: "Bouken Jidai Katsugeki Goemon"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65066"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Master Code"
+    author: "Wazap"
+    notes: "[Master Codes]"
+    codes:
+      - "F033C838 0000000E"
+
+  - name: "Have 30 Of Each Of The Top 3 Items"
+    author: "davintheraven"
+    codes:
+      - "2022A514 24020000"
+      - "2022A544 24020000"
+      - "2022CC44 24020000"
+
+  - name: "Inf. Air"
+    author: "Wazap"
+    codes:
+      - "103AFFFA 00003F80"
+
+  - name: "Inf. HP"
+    author: "Wazap"
+    codes:
+      - "103AFFEA 00004FFF"
+
+  - name: "Inf. MP"
+    author: "Wazap"
+    codes:
+      - "103AFFEE 00004FFF"
+
+  - name: "Max $"
+    author: "Wazap"
+    codes:
+      - "103AFFFC 0000270F"
+
+  - name: "Max Body"
+    author: "Wazap"
+    codes:
+      - "003B000A 00000063"
+
+  - name: "Max Bonus Points"
+    author: "Roadbike Beginners"
+    codes:
+      - "003B0006 00000063"
+
+  - name: "Max Heart"
+    author: "Wazap"
+    codes:
+      - "003B000B 00000063"
+
+  - name: "Max Level"
+    author: "Wazap"
+    codes:
+      - "103B0004 0000270F"
+
+  - name: "Max Luck"
+    author: "Wazap"
+    codes:
+      - "003B000C 00000063"
+
+  - name: "Max Out Items When Shopping (No Purchase Limit)"
+    author: "davintheraven"
+    codes:
+      - "20315B34 20020001"
+
+  - name: "Max Skill"
+    author: "Wazap"
+    codes:
+      - "003B0009 00000063"
+
+  - name: "Max Strength"
+    author: "Wazap"
+    codes:
+      - "003B0008 00000063"
+
+  - name: "Quick Level-Up"
+    author: "Roadbike Beginners"
+    codes:
+      - "003B0003 0000270F"

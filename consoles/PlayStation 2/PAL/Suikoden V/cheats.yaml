@@ -1,0 +1,172 @@
+# Suikoden V cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54087
+
+game: "Suikoden V"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54087"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02319AC 002319AF"
+
+  - name: "Infinite HP"
+    author: "Codejunkies"
+    notes: "[In-Battle Character Slot 1]"
+    codes:
+      - "11435750 000003E7"
+
+  - name: "Max HP"
+    author: "Codejunkies"
+    notes: "[In-Battle Character Slot 1]"
+    codes:
+      - "11435752 000003E7"
+
+  - name: "999 Acc"
+    author: "Codejunkies"
+    notes: "[Max Stats Codes]"
+    codes:
+      - "200FFF28 080B4EBE"
+      - "202D3AF4 0803FFC0"
+      - "200FFF2C 86030012"
+      - "200FFF00 240303E7"
+      - "200FFF18 A6030032"
+
+  - name: "999 Atk"
+    author: "Codejunkies"
+    notes: "[Max Stats Codes]"
+    codes:
+      - "200FFF28 080B4EBE"
+      - "202D3AF4 0803FFC0"
+      - "200FFF2C 86030012"
+      - "200FFF00 240303E7"
+      - "200FFF04 A6030028"
+
+  - name: "999 Eva"
+    author: "Codejunkies"
+    notes: "[Max Stats Codes]"
+    codes:
+      - "200FFF28 080B4EBE"
+      - "202D3AF4 0803FFC0"
+      - "200FFF2C 86030012"
+      - "200FFF00 240303E7"
+      - "200FFF1C A6030034"
+
+  - name: "999 Luk"
+    author: "Codejunkies"
+    notes: "[Max Stats Codes]"
+    codes:
+      - "200FFF28 080B4EBE"
+      - "202D3AF4 0803FFC0"
+      - "200FFF2C 86030012"
+      - "200FFF00 240303E7"
+      - "200FFF24 A6030038"
+
+  - name: "999 Mag"
+    author: "Codejunkies"
+    notes: "[Max Stats Codes]"
+    codes:
+      - "200FFF28 080B4EBE"
+      - "202D3AF4 0803FFC0"
+      - "200FFF2C 86030012"
+      - "200FFF00 240303E7"
+      - "200FFF08 A603002A"
+
+  - name: "999 Mdf"
+    author: "Codejunkies"
+    notes: "[Max Stats Codes]"
+    codes:
+      - "200FFF28 080B4EBE"
+      - "202D3AF4 0803FFC0"
+      - "200FFF2C 86030012"
+      - "200FFF00 240303E7"
+      - "200FFF10 A603002E"
+
+  - name: "999 Pdf"
+    author: "Codejunkies"
+    notes: "[Max Stats Codes]"
+    codes:
+      - "200FFF28 080B4EBE"
+      - "202D3AF4 0803FFC0"
+      - "200FFF2C 86030012"
+      - "200FFF00 240303E7"
+      - "200FFF0C A603002C"
+
+  - name: "999 Spd"
+    author: "Codejunkies"
+    notes: "[Max Stats Codes]"
+    codes:
+      - "200FFF28 080B4EBE"
+      - "202D3AF4 0803FFC0"
+      - "200FFF2C 86030012"
+      - "200FFF00 240303E7"
+      - "200FFF20 A6030036"
+
+  - name: "999 Tec"
+    author: "Codejunkies"
+    notes: "[Max Stats Codes]"
+    codes:
+      - "200FFF28 080B4EBE"
+      - "202D3AF4 0803FFC0"
+      - "200FFF2C 86030012"
+      - "200FFF00 240303E7"
+      - "200FFF14 A6030030"
+
+  - name: "Max All Stats"
+    author: "Codejunkies"
+    notes: "[Max Stats Codes]"
+    codes:
+      - "200FFF1C 080B4EBE"
+      - "202D3AF4 0803FFC0"
+      - "200FFF20 86030012"
+      - "200FFF00 3C0303E7"
+      - "200FFF04 346303E7"
+      - "200FFF08 AE030028"
+      - "200FFF0C AE03002C"
+      - "200FFF10 AE030030"
+      - "200FFF14 AE030034"
+      - "200FFF18 A6030038"
+
+  - name: "Hyper Mode (Press L2)"
+    author: "Codejunkies"
+    codes:
+      - "2036E048 24020001"
+
+  - name: "Infinite Potch"
+    author: "Codejunkies"
+    codes:
+      - "20A3BD10 0098967F"
+
+  - name: "Max/Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "202D3AFC 240203E7"
+      - "202D3B00 A6020014"
+
+  - name: "Quick Ap Gain (100 Per Fight)"
+    author: "Codejunkies"
+    codes:
+      - "E0021012 00AB3B78"
+      - "D0AB3B7A 00000000"
+      - "20AB3B78 24020064"
+
+  - name: "Quick Ap Gain (999 Per Fight)"
+    author: "Codejunkies"
+    codes:
+      - "E0021012 00AB3B78"
+      - "D0AB3B7A 00000000"
+      - "20AB3B78 240203E8"
+
+  - name: "Quick Experience Gain"
+    author: "Codejunkies"
+    codes:
+      - "E0020005 00AB324C"
+      - "D0AB324E 00001420"
+      - "20AB324C 00000000"

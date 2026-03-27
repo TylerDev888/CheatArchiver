@@ -1,0 +1,1055 @@
+# Resedent Evil 4 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21134
+
+game: "Resedent Evil 4"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21134"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "902A6E88 00832021"
+
+  - name: "Player 1 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "D0451402 0000[Joker:PS2]"
+
+  - name: "Player 2 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "D0451502 0000[Joker:PS2]"
+
+  - name: "Memcard Sub"
+    notes: "[Live Dump]"
+    codes:
+      - "200A0000 27BDFFC0"
+      - "200A0004 3C06000A"
+      - "200A0008 FFB20020"
+      - "200A0010 FFB10010"
+      - "200A0014 24C60104"
+      - "200A0018 FFB00000"
+      - "200A0020 FFBF0030"
+      - "200A0028 24070203"
+      - "200A002C 0040802D"
+      - "200A0030 0220282D"
+      - "200A0034 0240302D"
+      - "200A003C 0200202D"
+      - "200A0040 3C050010"
+      - "200A0044 0200202D"
+      - "200A004C 3C060070"
+      - "200A0050 0220282D"
+      - "200A0054 0240302D"
+      - "200A005C 0200202D"
+      - "200A0064 0200202D"
+      - "200A0068 0200282D"
+      - "200A006C 0200302D"
+      - "200A0074 0200202D"
+      - "200A0078 DFBF0030"
+      - "200A007C DFB20020"
+      - "200A0080 DFB10010"
+      - "200A0084 DFB00000"
+      - "200A0088 03E00008"
+      - "200A008C 27BD0040"
+
+  - name: "Memcardport-Multitap 1-4"
+    notes: "[Live Dump]"
+    codes:
+      - "200A000C 24040000"
+
+  - name: "Memcardslot-Slot 1-2"
+    notes: "[Live Dump]"
+    codes:
+      - "200A001C 24050000"
+
+  - name: "Start And Stop"
+    notes: "[Live Dump]"
+    codes:
+      - "200A0040 3C050010"
+      - "200A004C 3C060070"
+
+  - name: "Dump L3"
+    notes: "[Live Dump]"
+    codes:
+      - "200A0038 0C0AA4E0"
+      - "200A0070 0C0AA4E0"
+      - "200A0058 0C0AA4E0"
+      - "200A0024 0C0AA412"
+      - "200A0048 0C0AA7F0"
+      - "200A0060 0C0AA46C"
+      - "D0451402 0000FFFD"
+      - "202A6ECC 08028000"
+      - "D0451402 0010FFFD"
+      - "202A6ECC 03E00008"
+
+  - name: "Ntsc2pal"
+    codes:
+      - "202A5B08 24020002"
+
+  - name: "Have All Bottle Caps Need Atleast 1 First)"
+    codes:
+      - "410F66D4 000C0007"
+      - "00DC0000 00020000"
+      - "410F66E4 000C0007"
+      - "000100DD 00000002"
+      - "410F66D8 000C0007"
+      - "00010001 00000000"
+      - "410F66E8 000C0007"
+      - "00000001 00000000"
+
+  - name: "Invincible (l1+up=on/L1+down=off)"
+    codes:
+      - "E0020410 0045160A"
+      - "201C2C18 03E00008"
+      - "201C2C1C 00000000"
+      - "E0020440 0045160A"
+      - "201C2C18 27BDFF90"
+      - "201C2C1C 7FB00060"
+
+  - name: "Inf \"x Command\"(l3 : On R3 : Off)"
+    codes:
+      - "D0451402 0000FFFD"
+      - "20221738 00000000"
+      - "D0451402 0000FFFB"
+      - "20221738 AC820004"
+
+  - name: "Warp To/Room Mod (hold Select When Games Loading)"
+    codes:
+      - "D0451402 0000FFFE"
+      - "1042DA58 0000[WAP]"
+
+  - name: "Weapon Mod"
+    codes:
+      - "0042DA82 000000[WEP]"
+
+  - name: "Max/Inf Health (main)"
+    codes:
+      - "1042DA76 00000960"
+      - "1042DA78 00000960"
+
+  - name: "Max/Inf Health (partners)"
+    codes:
+      - "1042DA7A 000004B0"
+      - "1042DA7C 000004B0"
+
+  - name: "Max/Inf Ptas (money)"
+    codes:
+      - "2042DA6C 3B9AC9FF"
+
+  - name: "Save Game To Reset Game Time"
+    codes:
+      - "2042DA54 00000000"
+
+  - name: "Save Times Amount 0"
+    codes:
+      - "0042DA5A 00000000"
+
+  - name: "Never Reload"
+    codes:
+      - "2012009C 24420000"
+
+  - name: "Unlock Modes"
+    codes:
+      - "10430F66 0000FFFF"
+
+  - name: "Have All Ada Reports"
+    codes:
+      - "00430F6D 00000004"
+
+  - name: "Mercs Score"
+    codes:
+      - "203CFA6C 05F5E0FF"
+
+  - name: "Mercs Time Stop"
+    codes:
+      - "1041B668 00000DD0"
+
+  - name: "Mercs Max Kills"
+    codes:
+      - "203CFA84 0000270F"
+
+  - name: "Mercs Max Kills In A Row"
+    codes:
+      - "203CFA70 0000270F"
+
+  - name: "Main Character Mod"
+    notes: "Player's (You) Clothing Ashley's Clothing Toggle Auto Aim"
+    codes:
+      - "0042DA8A 0000000[CH]"
+      - "0042DA88 0000000[PL]"
+      - "0042DA8B 0000000[PL]"
+      - "0042DA89 0000000[PL]"
+      - "0042DA8D 0000000[PL]"
+      - "D0451402 0000F7EF"
+      - "00430F63 000000[A1][A2]"
+      - "D0451402 0000F7BF"
+      - "00430F63 000000[A1][A2]"
+
+  - name: "Times Killed"
+    notes: "[Results Codes]"
+    codes:
+      - "00430F34 00000000"
+
+  - name: "????"
+    notes: "[Results Codes]"
+    codes:
+      - "00430F36 00000000"
+
+  - name: "Max Enemies Killed"
+    notes: "[Results Codes]"
+    codes:
+      - "20430F38 000003E7"
+      - "20430F3C 0000270F"
+
+  - name: "Perfect Hit Ratio"
+    notes: "[Results Codes]"
+    codes:
+      - "20430F40 00000064"
+      - "20430F44 0000270F"
+      - "20430F48 00000064"
+      - "20430F4C 0000270F"
+
+  - name: "Slot 1"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F4FE0 03E700[MER]"
+
+  - name: "Slot 2"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F4FE8 03E700[MER]"
+
+  - name: "Slot 3"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F4FF0 03E700[MER]"
+
+  - name: "Slot 4"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F4FF8 03E700[MER]"
+
+  - name: "Slot 5"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5000 03E700[MER]"
+
+  - name: "Slot 6"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5008 03E700[MER]"
+
+  - name: "Slot 7"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5010 03E700[MER]"
+
+  - name: "Slot 8"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5018 03E700[MER]"
+
+  - name: "Slot 9"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5020 03E700[MER]"
+
+  - name: "Slot 10"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5028 03E700[MER]"
+
+  - name: "Slot 11"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5030 03E700[MER]"
+
+  - name: "Slot 12"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5038 03E700[MER]"
+
+  - name: "Slot 13"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5040 03E700[MER]"
+
+  - name: "Slot 14"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5048 03E700[MER]"
+
+  - name: "Slot 15"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5050 03E700[MER]"
+
+  - name: "Slot 16"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5058 03E700[MER]"
+
+  - name: "Slot 17"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5060 03E700[MER]"
+
+  - name: "Slot 18"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5068 03E700[MER]"
+
+  - name: "Slot 19"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5070 03E700[MER]"
+
+  - name: "Slot 20"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5078 03E700[MER]"
+
+  - name: "Slot 21"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5080 03E700[MER]"
+
+  - name: "Slot 22"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5088 03E700[MER]"
+
+  - name: "Slot 23"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5090 03E700[MER]"
+
+  - name: "Slot 24"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5098 03E700[MER]"
+
+  - name: "Slot 25"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F50A0 03E700[MER]"
+
+  - name: "Slot 26"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F50A8 03E700[MER]"
+
+  - name: "Slot 27"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F50B0 03E700[MER]"
+
+  - name: "Slot 28"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F50B8 03E700[MER]"
+
+  - name: "Slot 29"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F50C0 03E700[MER]"
+
+  - name: "Slot 30"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F50C8 03E700[MER]"
+
+  - name: "Slot 31"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F50D0 03E700[MER]"
+
+  - name: "Slot 32"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F50D8 03E700[MER]"
+
+  - name: "Slot 33"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F50E0 03E700[MER]"
+
+  - name: "Slot 34"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F50E8 03E700[MER]"
+
+  - name: "Slot 35"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F50F0 03E700[MER]"
+
+  - name: "Slot 36"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F50F8 03E700[MER]"
+
+  - name: "Slot 37"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5100 03E700[MER]"
+
+  - name: "Slot 38"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5108 03E700[MER]"
+
+  - name: "Slot 39"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5110 03E700[MER]"
+
+  - name: "Slot 40"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5118 03E700[MER]"
+
+  - name: "Slot 41"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5120 03E700[MER]"
+
+  - name: "Slot 42"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5128 03E700[MER]"
+
+  - name: "Slot 43"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5130 03E700[MER]"
+
+  - name: "Slot 44"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5138 03E700[MER]"
+
+  - name: "Slot 45"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5140 03E700[MER]"
+
+  - name: "Slot 46"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5148 03E700[MER]"
+
+  - name: "Slot 47"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5150 03E700[MER]"
+
+  - name: "Slot 48"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5158 03E700[MER]"
+
+  - name: "Slot 49"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5160 03E700[MER]"
+
+  - name: "Slot 50"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5168 03E700[MER]"
+
+  - name: "Slot 51"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5170 03E700[MER]"
+
+  - name: "Slot 52"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5178 03E700[MER]"
+
+  - name: "Slot 53"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5180 03E700[MER]"
+
+  - name: "Slot 54"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5188 03E700[MER]"
+
+  - name: "Slot 55"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5190 03E700[MER]"
+
+  - name: "Slot 56"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F5198 03E700[MER]"
+
+  - name: "Slot 57"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F51A0 03E700[MER]"
+
+  - name: "Slot 58"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F51A8 03E700[MER]"
+
+  - name: "Slot 59"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F51B0 03E700[MER]"
+
+  - name: "Slot 60"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F51B8 03E700[MER]"
+
+  - name: "Slot 61"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F51C0 03E700[MER]"
+
+  - name: "Slot 62"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F51C8 03E700[MER]"
+
+  - name: "Slot 63"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F51D0 03E700[MER]"
+
+  - name: "Slot 64"
+    notes: "[Slots Max Items/Item Mod:{<div Class=\"note\"><h4>note</H4><ul Class=\"bullet-List\"><li>the Items Will Be Ordered By The Game Once You Use The Code.</Li><li>they Will Not Appear In The Exact Slot Order You Entered.</Li><li>slots Are Listed Only For Easier Reading And Setup.</Li></Ul></Div>}]"
+    codes:
+      - "210F51D8 03E700[MER]"
+
+  - name: "Handgun"
+    notes: "[Merchent Max Upgrades]"
+    codes:
+      - "210F51E0 03070023"
+      - "110F51E4 00000603"
+
+  - name: "Shotgun"
+    notes: "[Merchent Max Upgrades]"
+    codes:
+      - "210F51E8 0107002C"
+      - "110F51EC 00000603"
+
+  - name: "Rifle"
+    notes: "[Merchent Max Upgrades]"
+    codes:
+      - "210F51F0 0107002E"
+      - "110F51F4 00000603"
+
+  - name: "Tmp"
+    notes: "[Merchent Max Upgrades]"
+    codes:
+      - "210F51F8 01070030"
+      - "110F51FC 00000603"
+
+  - name: "Punisher"
+    notes: "[Merchent Max Upgrades]"
+    codes:
+      - "210F5200 03070021"
+      - "110F5204 00000603"
+
+  - name: "Red9"
+    notes: "[Merchent Max Upgrades]"
+    codes:
+      - "210F5208 03070025"
+      - "110F520C 00000603"
+
+  - name: "Blacktail"
+    notes: "[Merchent Max Upgrades]"
+    codes:
+      - "210F5210 03070027"
+      - "110F5214 00000603"
+
+  - name: "Broken Butterfly"
+    notes: "[Merchent Max Upgrades]"
+    codes:
+      - "210F5218 01070029"
+      - "110F521C 00000403"
+
+  - name: "Rifle (semi-Auto)"
+    notes: "[Merchent Max Upgrades]"
+    codes:
+      - "210F5220 0206002F"
+      - "110F5224 00000603"
+
+  - name: "Riot Gun"
+    notes: "[Merchent Max Upgrades]"
+    codes:
+      - "210F5228 01070094"
+      - "110F522C 00000603"
+
+  - name: "Mine Thrower"
+    notes: "[Merchent Max Upgrades]"
+    codes:
+      - "210F5230 01040036"
+      - "110F5234 00000302"
+
+  - name: "Striker"
+    notes: "[Merchent Max Upgrades]"
+    codes:
+      - "210F5238 0106002D"
+      - "110F523C 00000703"
+
+  - name: "Killer7"
+    notes: "[Merchent Max Upgrades]"
+    codes:
+      - "210F5240 0103002A"
+      - "110F5244 00000303"
+
+  - name: "Chicago Typewriter"
+    notes: "[Merchent Max Upgrades]"
+    codes:
+      - "210F5248 01070034"
+      - "110F524C 00000701"
+
+  - name: "Matilda"
+    notes: "[Merchent Max Upgrades]"
+    codes:
+      - "210F5250 01070003"
+      - "110F5254 00000703"
+
+  - name: "Hand Cannon"
+    notes: "[Merchent Max Upgrades]"
+    codes:
+      - "210F5258 01070037"
+      - "110F525C 00000703"
+
+  - name: "Stop Most Animations Of Enemies"
+    author: "FloydFan"
+    codes:
+      - "2023053C 00000000"
+
+  - name: "Enemies Cant Grab"
+    author: "FloydFan"
+    notes: "[Character 1]"
+    codes:
+      - "201C3E70 03E00008"
+      - "201C3E74 00000000"
+
+  - name: "Cant Be Hit By Explosions"
+    author: "FloydFan"
+    notes: "[Character 1]"
+    codes:
+      - "201C1678 00000000"
+
+  - name: "Immune To Some Fire Damage"
+    author: "FloydFan"
+    notes: "[Character 1]"
+    codes:
+      - "20166E98 00000000"
+
+  - name: "Walk Thru Walls(r3+up=on/R3+down=off)"
+    author: "FloydFan"
+    notes: "[Character 1]"
+    codes:
+      - "D0430FA4 00004008"
+      - "201A206C 00000000"
+      - "D0430FA4 00004004"
+      - "201A206C 0C0688C2"
+
+  - name: "Ashley Cant Be Grabbed At All By Enemies,she's Also Immune To Bear Traps"
+    author: "FloydFan"
+    codes:
+      - "201C3AF8 03E00008"
+      - "201C3AFC 00000000"
+
+  - name: "Enemies Cant Throw Scythes"
+    author: "FloydFan"
+    notes: "[Enemies]"
+    codes:
+      - "20115B18 03E00008"
+      - "20115B1C 00000000"
+
+  - name: "Enemies Cant Throw Axes"
+    author: "FloydFan"
+    notes: "[Enemies]"
+    codes:
+      - "201158E8 03E00008"
+      - "201158EC 00000000"
+
+  - name: "Enemies Cant Shoot Arrows"
+    author: "FloydFan"
+    notes: "[Enemies]"
+    codes:
+      - "20115CF0 03E00008"
+      - "20115CF4 00000000"
+
+  - name: "Enemies Cant Shoot Rockets"
+    author: "FloydFan"
+    notes: "[Enemies]"
+    codes:
+      - "20116180 03E00008"
+      - "20116184 00000000"
+
+  - name: "Toggle Auto Aim V1 On/Off (r1+up=on/R1+down=off)"
+    author: "FloydFan"
+    codes:
+      - "D0430FA4 00000028"
+      - "70430F63 00000030"
+      - "D0430FA4 00000024"
+      - "70430F63 00000040"
+
+  - name: "Toggle Auto Aim V2 On/Off (r1+up=on/R1+down=off)"
+    author: "FloydFan"
+    codes:
+      - "D0451402 0000F7EF"
+      - "20430F63 00000030"
+      - "D0451402 0000F7BF"
+      - "20430F63 00000040"
+
+  - name: "Ada Can Buy Weapons That Are Fully Upgraded And Has Fully Upgraded Start With Weapons"
+    author: "FloydFan"
+    codes:
+      - "102F01CE 00000030"
+      - "202F01D0 06030107"
+      - "202F01D4 0206002F"
+      - "102F01D8 00000603"
+      - "002F01DA 00000047"
+      - "202F01DC 06010106"
+      - "202F01EC 03070027"
+      - "102F01F0 00000603"
+
+  - name: "No Get Floor/Ground Changes/Can Go Thru Some Ground & Floors(r3+right=on/R3+left=off)"
+    author: "FloydFan"
+    notes: "[Random Codes]"
+    codes:
+      - "D045160A 00000024"
+      - "201A20DC 00000000"
+      - "D045160A 00000084"
+      - "201A20DC 0C0689B4"
+
+  - name: "Turn Some Effects On/Off(r2+up=some Effects On/R2+down=some Effects Off)"
+    author: "FloydFan"
+    notes: "[Random Codes]"
+    codes:
+      - "D045160A 00000210"
+      - "0042DAF4 000000FD"
+      - "D045160A 00000240"
+      - "0042DAF4 00000002"
+
+  - name: "Have Access To All Pick-Ups In An Area & Can Open,save,climb If That Area Has Those Options(r1+right=on/R1+left=off)"
+    author: "FloydFan"
+    notes: "[Random Codes]"
+    codes:
+      - "E0020820 0045160A"
+      - "2019DC90 03E00008"
+      - "2019DC94 00000000"
+      - "E0020880 0045160A"
+      - "2019DC90 27BDFFF0"
+      - "2019DC94 FFBF0000"
+
+  - name: "Rocket Launcher"
+    author: "FloydFan"
+    notes: "[Weapons]"
+    codes:
+      - "203272BC 00000208"
+
+  - name: "Riot Shotgun"
+    author: "FloydFan"
+    notes: "[Weapons]"
+    codes:
+      - "2032741C 00000208"
+
+  - name: "Rocket Launcher (special)"
+    author: "FloydFan"
+    notes: "[Weapons]"
+    codes:
+      - "20327474 00000208"
+
+  - name: "Infinite Rocket Launcher"
+    author: "FloydFan"
+    notes: "[Weapons]"
+    codes:
+      - "203274CC 00000208"
+
+  - name: "Custom Tmp (hunks)"
+    author: "FloydFan"
+    notes: "[Weapons]"
+    codes:
+      - "20327524 00000204"
+
+  - name: "Krausers Bow"
+    author: "FloydFan"
+    notes: "[Weapons]"
+    codes:
+      - "2032757C 00000307"
+
+  - name: "Grenade"
+    author: "FloydFan"
+    notes: "[Weapons]"
+    codes:
+      - "20327B54 00000201"
+
+  - name: "Incendiary Grenade"
+    author: "FloydFan"
+    notes: "[Weapons]"
+    codes:
+      - "20327BAC 00000201"
+
+  - name: "Flash Grenade"
+    author: "FloydFan"
+    notes: "[Weapons]"
+    codes:
+      - "20327C04 00000201"
+
+  - name: "P.r.l."
+    author: "FloydFan"
+    notes: "[Weapons]"
+    codes:
+      - "203281DC 00000307"
+
+  - name: "Bowgun (adafs)"
+    author: "FloydFan"
+    notes: "[Weapons]"
+    codes:
+      - "20328234 00000305"
+
+  - name: "Shotgun (adafs)"
+    author: "FloydFan"
+    notes: "[Weapons]"
+    codes:
+      - "203282E4 00000206"
+
+  - name: "Chicago Typewriter (adafs)"
+    author: "FloydFan"
+    notes: "[Weapons]"
+    codes:
+      - "2032833C 00000307"
+
+  - name: "Silencer"
+    author: "FloydFan"
+    notes: "[Weapon Gear]"
+    codes:
+      - "203278EC 00000102"
+
+  - name: "Red9 Stock"
+    author: "FloydFan"
+    notes: "[Weapon Gear]"
+    codes:
+      - "20327944 00000103"
+
+  - name: "Tmp Stock"
+    author: "FloydFan"
+    notes: "[Weapon Gear]"
+    codes:
+      - "2032799C 00000202"
+
+  - name: "Scope (rifle)"
+    author: "FloydFan"
+    notes: "[Weapon Gear]"
+    codes:
+      - "203279F4 00000103"
+
+  - name: "Scope (rifle Semi-Auto)"
+    author: "FloydFan"
+    notes: "[Weapon Gear]"
+    codes:
+      - "20327A4C 00000103"
+
+  - name: "Scope (mine Thrower)"
+    author: "FloydFan"
+    notes: "[Weapon Gear]"
+    codes:
+      - "20327AA4 00000202"
+
+  - name: "Infra-Red Scope"
+    author: "FloydFan"
+    notes: "[Weapon Gear]"
+    codes:
+      - "20327AFC 00000103"
+
+  - name: "Handgun Bullets"
+    author: "FloydFan"
+    notes: "[Ammo]"
+    codes:
+      - "203275D4 00000102"
+
+  - name: "Tmp Bullets"
+    author: "FloydFan"
+    notes: "[Ammo]"
+    codes:
+      - "2032762C 00000102"
+
+  - name: "Shotgun Shells"
+    author: "FloydFan"
+    notes: "[Ammo]"
+    codes:
+      - "20327684 00000102"
+
+  - name: "Rifle Ammo"
+    author: "FloydFan"
+    notes: "[Ammo]"
+    codes:
+      - "203276DC 00000102"
+
+  - name: "Chicago Typewriter Ammo?"
+    author: "FloydFan"
+    notes: "[Ammo]"
+    codes:
+      - "20327734 00000102"
+
+  - name: "Hand Cannon Bullets"
+    author: "FloydFan"
+    notes: "[Ammo]"
+    codes:
+      - "2032778C 00000102"
+
+  - name: "Magnum Ammo"
+    author: "FloydFan"
+    notes: "[Ammo]"
+    codes:
+      - "203277E4 00000102"
+
+  - name: "Mine Darts"
+    author: "FloydFan"
+    notes: "[Ammo]"
+    codes:
+      - "2032783C 00000102"
+
+  - name: "Arrows"
+    author: "FloydFan"
+    notes: "[Ammo]"
+    codes:
+      - "20327894 00000104"
+
+  - name: "Bowgun Bolts (ada)"
+    author: "FloydFan"
+    notes: "[Ammo]"
+    codes:
+      - "2032828C 00000104"
+
+  - name: "All Ammo Takes Up No Space Code"
+    author: "FloydFan"
+    notes: "[Ammo]"
+    codes:
+      - "403275D4 00090016"
+      - "00000000 00000000"
+      - "2032828C 00000000"
+
+  - name: "Egg"
+    author: "FloydFan"
+    notes: "[Health/Weapon Items]"
+    codes:
+      - "20327CB4 00000101"
+
+  - name: "Brown Egg"
+    author: "FloydFan"
+    notes: "[Health/Weapon Items]"
+    codes:
+      - "20327D0C 00000101"
+
+  - name: "Golden Egg"
+    author: "FloydFan"
+    notes: "[Health/Weapon Items]"
+    codes:
+      - "20327D64 00000101"
+
+  - name: "1st Aid Spray"
+    author: "FloydFan"
+    notes: "[Health Items]"
+    codes:
+      - "20327C5C 00000201"
+
+  - name: "Black Bass"
+    author: "FloydFan"
+    notes: "[Health Items]"
+    codes:
+      - "20327DBC 00000301"
+
+  - name: "Black Bass (large)"
+    author: "FloydFan"
+    notes: "[Health Items]"
+    codes:
+      - "20327E14 00000602"
+
+  - name: "Green Herb"
+    author: "FloydFan"
+    notes: "[Health Items]"
+    codes:
+      - "20327E6C 00000201"
+
+  - name: "Red Herb"
+    author: "FloydFan"
+    notes: "[Health Items]"
+    codes:
+      - "20327EC4 00000201"
+
+  - name: "Yellow Herb"
+    author: "FloydFan"
+    notes: "[Health Items]"
+    codes:
+      - "20327F1C 00000201"
+
+  - name: "Green+red Herb Mix"
+    author: "FloydFan"
+    notes: "[Health Items]"
+    codes:
+      - "20327F74 00000201"
+
+  - name: "Green+yellow Herb Mix"
+    author: "FloydFan"
+    notes: "[Health Items]"
+    codes:
+      - "20327FCC 00000201"
+
+  - name: "Red+yellow Herb Mix"
+    author: "FloydFan"
+    notes: "[Health Items]"
+    codes:
+      - "20328024 00000201"
+
+  - name: "Green Herb X2 Mix"
+    author: "FloydFan"
+    notes: "[Health Items]"
+    codes:
+      - "2032807C 00000201"
+
+  - name: "Green Herb X3 Mix"
+    author: "FloydFan"
+    notes: "[Health Items]"
+    codes:
+      - "203280D4 00000201"
+
+  - name: "Green+red+yellow Herb Mix"
+    author: "FloydFan"
+    notes: "[Health Items]"
+    codes:
+      - "2032812C 00000201"
+
+  - name: "All Health Items Take Up No Space Except Eggs Code"
+    author: "FloydFan"
+    notes: "[Health Items]"
+    codes:
+      - "40327DBC 000B0016"
+      - "00000000 00000000"
+      - "20327C5C 00000000"
+
+  - name: "All Health Items Takes Up No Space Including Eggs Code"
+    author: "FloydFan"
+    notes: "[Health Items]"
+    codes:
+      - "40327C5C 000F0016"
+      - "00000000 00000000"
+
+  - name: "Plaga Sample(assignment Ada Item)"
+    author: "FloydFan"
+    notes: "[Misc. Item]"
+    codes:
+      - "20328184 00000201"

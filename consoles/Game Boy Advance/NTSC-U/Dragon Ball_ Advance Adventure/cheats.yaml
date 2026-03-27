@@ -1,0 +1,22 @@
+# Dragon Ball_ Advance Adventure cheat data
+# Console: Game Boy Advance
+# Region:  NTSC-U
+# Serial:  AGB-BDVE-USA
+
+game: "Dragon Ball_ Advance Adventure"
+console: "Game Boy Advance"
+region: "NTSC-U"
+serial: "AGB-BDVE-USA"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Points 9999(Free manevery hit)"
+    notes: "File: NTSC"
+    codes:
+      - "02020660:270F"
+
+  - name: "Lives 99"
+    notes: "File: NTSC"
+    codes:
+      - "02029F36:63"

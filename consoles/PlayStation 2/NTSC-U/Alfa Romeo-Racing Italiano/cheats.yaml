@@ -1,0 +1,77 @@
+# Alfa Romeo-Racing Italiano cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21321
+
+game: "Alfa Romeo-Racing Italiano"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21321"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90492E28 0C0F353A"
+
+  - name: "Unlock All Skills"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204452D0 24020000"
+      - "204452D4 03E00008"
+      - "204452D8 AC82031C"
+
+  - name: "Infinite Skill Points"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204461DC 00000000"
+
+  - name: "Extra Skill Points"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "104461D8 00000001"
+
+  - name: "Max Infinite Skill Points"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204461D8 2402270F"
+
+  - name: "Press L1+Select To Rest Race Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D05A5C9C 0000FBFE"
+      - "202B063C AC600008"
+      - "D05A5C9C 0000FFFF"
+      - "202B063C E4600008"
+
+  - name: "No Car Damage From Collisions"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202E6E48 00000000"
+
+  - name: "No Car Damage From Driving Offroad"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202E77E8 00000000"
+
+  - name: "Infinite Tiger Effect"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "102E7866 00001000"
+
+  - name: "Always Best Driver Condition"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "102E789E 00001000"

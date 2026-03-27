@@ -1,0 +1,45 @@
+# Victorious Boxers 2-Fighting Spirit cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21204
+
+game: "Victorious Boxers 2-Fighting Spirit"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21204"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901107F0 00832021"
+
+  - name: "Unlock All Stages"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2043DC8C 0000003B"
+      - "2043DC98 FFE7FFBF"
+      - "2043DC9C 07FFFBFF"
+
+  - name: "Unlock Everything"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "4043DCA0 00060001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Unlock Story Mode Extra"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "7043DCA0 00000020"
+
+  - name: "Unlock All Characters"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2043DCB0 FFFFFFFF"

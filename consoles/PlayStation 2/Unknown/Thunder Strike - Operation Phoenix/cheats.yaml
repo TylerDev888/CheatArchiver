@@ -1,0 +1,69 @@
+# Thunder Strike - Operation Phoenix cheat data
+# Console: PlayStation 2
+# Region:  Unknown
+# Serial:  No
+
+game: "Thunder Strike - Operation Phoenix"
+console: "PlayStation 2"
+region: "Unknown"
+serial: "No"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100158 00151FBF"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    notes: "[Slot 1 Ammo Codes]"
+    codes:
+      - "104261F0 00000032"
+
+  - name: "Never Have More Than 10 Ammo"
+    author: "Codejunkies"
+    notes: "[Slot 1 Ammo Codes]"
+    codes:
+      - "E001000A 304261F0"
+      - "104261F0 0000000A"
+
+  - name: "Never Have More Than 15 Ammo"
+    author: "Codejunkies"
+    notes: "[Slot 1 Ammo Codes]"
+    codes:
+      - "E001000F 304261F0"
+      - "104261F0 0000000F"
+
+  - name: "Never Have More Than 25 Ammo"
+    author: "Codejunkies"
+    notes: "[Slot 1 Ammo Codes]"
+    codes:
+      - "E0010019 304261F0"
+      - "104261F0 00000019"
+
+  - name: "Never Have More Than 5 Ammo"
+    author: "Codejunkies"
+    notes: "[Slot 1 Ammo Codes]"
+    codes:
+      - "E0010005 304261F0"
+      - "104261F0 00000005"
+
+  - name: "Infinite Armour"
+    author: "InterAct"
+    codes:
+      - "1056848E 0000437A"
+      - "1174D882 0000437A"
+
+  - name: "Mega Merits"
+    author: "InterAct"
+    codes:
+      - "1056812C 0000FFFF"
+      - "1056812E 000000FF"
+
+  - name: "No Gun Overheat"
+    author: "InterAct"
+    codes:
+      - "1056847C 00000000"

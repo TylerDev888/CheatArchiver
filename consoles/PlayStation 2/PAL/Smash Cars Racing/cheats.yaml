@@ -1,0 +1,143 @@
+# Smash Cars Racing cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51800
+
+game: "Smash Cars Racing"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51800"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0119664 00119667"
+
+  - name: "Always 1 Lap Races"
+    author: "Codejunkies"
+    notes: "[Lap Modifier]"
+    codes:
+      - "200FFF00 24020001"
+      - "200FFF04 03E00008"
+      - "201EB594 0803FFC0"
+
+  - name: "Always 2 Lap Races"
+    author: "Codejunkies"
+    notes: "[Lap Modifier]"
+    codes:
+      - "200FFF00 24020002"
+      - "200FFF04 03E00008"
+      - "201EB594 0803FFC0"
+
+  - name: "Always 5 Lap Races"
+    author: "Codejunkies"
+    notes: "[Lap Modifier]"
+    codes:
+      - "200FFF00 24020005"
+      - "200FFF04 03E00008"
+      - "201EB594 0803FFC0"
+
+  - name: "Aloha Drive"
+    author: "Codejunkies"
+    notes: "[Replace Firestarter Track Into...]"
+    codes:
+      - "00343308 0000000A"
+
+  - name: "Area 51"
+    author: "Codejunkies"
+    notes: "[Replace Firestarter Track Into...]"
+    codes:
+      - "00343308 00000001"
+
+  - name: "Back In The Ussr"
+    author: "Codejunkies"
+    notes: "[Replace Firestarter Track Into...]"
+    codes:
+      - "00343308 00000004"
+
+  - name: "Beach Smach Up"
+    author: "Codejunkies"
+    notes: "[Replace Firestarter Track Into...]"
+    codes:
+      - "00343308 00000002"
+
+  - name: "Castle Bustle"
+    author: "Codejunkies"
+    notes: "[Replace Firestarter Track Into...]"
+    codes:
+      - "00343308 0000000C"
+
+  - name: "Gold Rush"
+    author: "Codejunkies"
+    notes: "[Replace Firestarter Track Into...]"
+    codes:
+      - "00343308 00000008"
+
+  - name: "Jungle Beat"
+    author: "Codejunkies"
+    notes: "[Replace Firestarter Track Into...]"
+    codes:
+      - "00343308 00000007"
+
+  - name: "Rally Mess"
+    author: "Codejunkies"
+    notes: "[Replace Firestarter Track Into...]"
+    codes:
+      - "00343308 0000000B"
+
+  - name: "Tour De Smach"
+    author: "Codejunkies"
+    notes: "[Replace Firestarter Track Into...]"
+    codes:
+      - "00343308 00000003"
+
+  - name: "Viva La Cuba"
+    author: "Codejunkies"
+    notes: "[Replace Firestarter Track Into...]"
+    codes:
+      - "00343308 00000005"
+
+  - name: "Wild Wild West"
+    author: "Codejunkies"
+    notes: "[Replace Firestarter Track Into...]"
+    codes:
+      - "00343308 00000009"
+
+  - name: "Yellow River"
+    author: "Codejunkies"
+    notes: "[Replace Firestarter Track Into...]"
+    codes:
+      - "00343308 00000006"
+
+  - name: "All Championships Open"
+    author: "Codejunkies"
+    codes:
+      - "200FFF40 24020001"
+      - "200FFF44 03E00008"
+      - "20294810 0803FFD0"
+      - "20294918 0803FFD0"
+
+  - name: "All Tracks Available"
+    author: "Codejunkies"
+    codes:
+      - "202C5148 10000009"
+
+  - name: "Disable AI"
+    author: "Codejunkies"
+    codes:
+      - "201D972C 24030000"
+
+  - name: "Pay Championship Fee For Max Cash"
+    author: "Codejunkies"
+    codes:
+      - "202FE0A0 3C05000E"
+
+  - name: "Quick Cars"
+    author: "Codejunkies"
+    codes:
+      - "20174200 3C014400"
+      - "20174204 AC4102F4"

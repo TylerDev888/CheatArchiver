@@ -1,0 +1,28 @@
+# Power Volleyball cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54717
+
+game: "Power Volleyball"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54717"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Master Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "901C77C0 0C071D98"
+
+  - name: "Blue Team Wins On First Point Scored"
+    author: "BigBossman"
+    codes:
+      - "009FCAC8 0000000F"
+
+  - name: "Red Team Never Scores"
+    author: "BigBossman"
+    codes:
+      - "009FCACC 00000000"

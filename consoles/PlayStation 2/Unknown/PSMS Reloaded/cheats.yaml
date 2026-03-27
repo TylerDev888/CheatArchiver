@@ -1,0 +1,28 @@
+# PSMS Reloaded cheat data
+# Console: PlayStation 2
+# Region:  Unknown
+# Serial:  No
+
+game: "PSMS Reloaded"
+console: "PlayStation 2"
+region: "Unknown"
+serial: "No"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "9013F4A0 0C04FCD2"
+
+  - name: "Bank RAM Pointer"
+    author: "lee4"
+    codes:
+      - "6034C910 000000??"
+
+  - name: "Main RAM Pointer"
+    author: "lee4"
+    codes:
+      - "6034C908 000000??"

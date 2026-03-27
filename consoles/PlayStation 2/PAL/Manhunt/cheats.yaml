@@ -1,0 +1,279 @@
+# Manhunt cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52023
+
+game: "Manhunt"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52023"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0130544 000001FD"
+
+  - name: "Access Debug Menu"
+    author: "Codejunkies"
+    codes:
+      - "D05E9E32 0000FFFD"
+      - "2054CB58 00000001"
+      - "D05E9E32 0000FFFB"
+      - "2054CB58 00000000"
+
+  - name: "FPS Mode"
+    author: "Codejunkies"
+    codes:
+      - "20330618 00000000"
+      - "2033062C 00000000"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "20266808 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "20457D28 24030001"
+
+  - name: "Infinite Reload"
+    author: "Codejunkies"
+    codes:
+      - "20267750 00000000"
+
+  - name: "Infinite Run"
+    author: "Codejunkies"
+    codes:
+      - "20112F70 3C023F80"
+      - "20112F74 AC220FAC"
+
+  - name: "Infinite/Max Ammo"
+    author: "Codejunkies"
+    codes:
+      - "201B0728 24030063"
+      - "201B072C AE630098"
+      - "201B0730 AE6300A0"
+
+  - name: "Low AI"
+    author: "Codejunkies"
+    codes:
+      - "205ADC38 00000001"
+      - "205ADC3C 00000001"
+
+  - name: "All Levels Max Stars"
+    author: "Codejunkies"
+    notes: "[Players Must Have A Memory Card In Either Slot For the Auto-Save Feature To Save The Levels Open]"
+    codes:
+      - "105E1F08 00000005"
+      - "105E1FB8 00000005"
+      - "105E2068 00000005"
+      - "105E2118 00000005"
+      - "105E21C8 00000005"
+      - "105E2278 00000005"
+      - "105E2328 00000005"
+      - "105E23D8 00000005"
+      - "105E2488 00000005"
+      - "105E2538 00000005"
+      - "105E25E8 00000005"
+      - "105E2698 00000005"
+      - "105E2748 00000005"
+      - "105E27F8 00000005"
+      - "105E28A8 00000005"
+      - "105E2958 00000005"
+      - "105E2A08 00000005"
+      - "105E2AB8 00000005"
+      - "105E2B68 00000005"
+      - "105E2C18 00000005"
+
+  - name: "Open All Levels"
+    author: "Codejunkies"
+    notes: "[Players Must Have A Memory Card In Either Slot For the Auto-Save Feature To Save The Levels Open]"
+    codes:
+      - "105E1F04 00000001"
+      - "105E1FB4 00000001"
+      - "105E2064 00000001"
+      - "105E2114 00000001"
+      - "105E21C4 00000001"
+      - "105E2274 00000001"
+      - "105E2324 00000001"
+      - "105E23D4 00000001"
+      - "105E2484 00000001"
+      - "105E2534 00000001"
+      - "105E25E4 00000001"
+      - "105E2694 00000001"
+      - "105E2744 00000001"
+      - "105E27F4 00000001"
+      - "105E28A4 00000001"
+      - "105E2954 00000001"
+      - "105E2A04 00000001"
+      - "105E2AB4 00000001"
+      - "105E2B64 00000001"
+      - "105E2C14 00000001"
+
+  - name: "Press Down For Slow Motion"
+    author: "Codejunkies"
+    codes:
+      - "D05E9E32 0000FFBF"
+      - "2054A9BC 3E000000"
+
+  - name: "Press Select For Normal Speed"
+    author: "Codejunkies"
+    codes:
+      - "D05E9E32 0000FFFE"
+      - "2054A9BC 3F800000"
+
+  - name: "Press Up For Quicker Game"
+    author: "Codejunkies"
+    codes:
+      - "D05E9E32 0000FFEF"
+      - "2054A9BC 41000000"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90130A84 0C04997A"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20112CA4 AFC20010"
+
+  - name: "Stamina"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "201C0FC8 3C013F80"
+      - "201C0FCC AC8106EC"
+
+  - name: "Ammunition"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20266808 24013634"
+
+  - name: "Born Again"
+    author: "Xploder"
+    notes: "[Scene Selection]"
+    codes:
+      - "005E1F04 00000001"
+
+  - name: "Doorway Into Hell"
+    author: "Xploder"
+    notes: "[Scene Selection]"
+    codes:
+      - "005E1FB4 00000001"
+
+  - name: "Road To Ruin"
+    author: "Xploder"
+    notes: "[Scene Selection]"
+    codes:
+      - "005E2064 00000001"
+
+  - name: "White Trash"
+    author: "Xploder"
+    notes: "[Scene Selection]"
+    codes:
+      - "005E2114 00000001"
+
+  - name: "Fuelled By Hate"
+    author: "Xploder"
+    notes: "[Scene Selection]"
+    codes:
+      - "005E21C4 00000001"
+
+  - name: "Grounds For Assault"
+    author: "Xploder"
+    notes: "[Scene Selection]"
+    codes:
+      - "005E2274 00000001"
+
+  - name: "Strapped For Cash"
+    author: "Xploder"
+    notes: "[Scene Selection]"
+    codes:
+      - "005E2324 00000001"
+
+  - name: "View Of Innocence"
+    author: "Xploder"
+    notes: "[Scene Selection]"
+    codes:
+      - "005E23D4 00000001"
+
+  - name: "Drunk Driving"
+    author: "Xploder"
+    notes: "[Scene Selection]"
+    codes:
+      - "005E2484 00000001"
+
+  - name: "Graveyard Shift"
+    author: "Xploder"
+    notes: "[Scene Selection]"
+    codes:
+      - "005E2534 00000001"
+
+  - name: "Mouth Of Madness"
+    author: "Xploder"
+    notes: "[Scene Selection]"
+    codes:
+      - "005E25E4 00000001"
+
+  - name: "Doing Time"
+    author: "Xploder"
+    notes: "[Scene Selection]"
+    codes:
+      - "005E2694 00000001"
+
+  - name: "Kill The Rabbit"
+    author: "Xploder"
+    notes: "[Scene Selection]"
+    codes:
+      - "005E2744 00000001"
+
+  - name: "Divided They Fall"
+    author: "Xploder"
+    notes: "[Scene Selection]"
+    codes:
+      - "005E27F4 00000001"
+
+  - name: "Press Coverage"
+    author: "Xploder"
+    notes: "[Scene Selection]"
+    codes:
+      - "005E28A4 00000001"
+
+  - name: "Wrong Side Of The Tracks"
+    author: "Xploder"
+    notes: "[Scene Selection]"
+    codes:
+      - "005E2954 00000001"
+
+  - name: "Trained To Kill"
+    author: "Xploder"
+    notes: "[Scene Selection]"
+    codes:
+      - "005E2A04 00000001"
+
+  - name: "Border Patrol"
+    author: "Xploder"
+    notes: "[Scene Selection]"
+    codes:
+      - "005E2AB4 00000001"
+
+  - name: "Key Personnel"
+    author: "Xploder"
+    notes: "[Scene Selection]"
+    codes:
+      - "005E2B64 00000001"
+
+  - name: "Deliverance"
+    author: "Xploder"
+    notes: "[Scene Selection]"
+    codes:
+      - "005E2C14 00000001"

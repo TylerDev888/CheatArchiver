@@ -1,0 +1,19 @@
+# Horizon 2 Fobidden West cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA24705
+
+game: "Horizon 2 Fobidden West"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA24705"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Item Replacement"
+    notes: "File: checkpoint/.dat"
+    codes:
+      - "80010010 [Item<Item You Have>] 00000000"
+      - "A8000000 00000010"
+      - "[Item<Item You Want>]"

@@ -1,0 +1,27 @@
+# Hudson Selection Vol.2 - Star Soldier cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62350
+
+game: "Hudson Selection Vol.2 - Star Soldier"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62350"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Infinite Lives"
+    author: "luc-ita"
+    codes:
+      - "004907A8 00000063"
+
+  - name: "Laser Always Ready"
+    author: "luc-ita"
+    codes:
+      - "004907AA 00000000"
+
+  - name: "Untouchable"
+    author: "luc-ita"
+    codes:
+      - "00490800 00000021"

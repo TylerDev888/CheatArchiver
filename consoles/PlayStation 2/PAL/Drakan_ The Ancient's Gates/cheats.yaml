@@ -1,0 +1,35 @@
+# Drakan_ The Ancient's Gates cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Drakan_ The Ancient's Gates"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 004B0F57"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "204FBAD4 42C80000"
+
+  - name: "Magic"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "204FBAE4 42C80000"
+
+  - name: "Air"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20C8AF14 42C80000"

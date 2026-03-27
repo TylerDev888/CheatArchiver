@@ -1,0 +1,27 @@
+# Shantae and the Pirate's Curse cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA01609
+
+game: "Shantae and the Pirate's Curse"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA01609"
+cheat_type: "AP"
+source: "checksum by Zhaxxy"
+
+cheats:
+  - name: "Decompress Save (required)"
+    notes: "File: *  \\\\Decompress(*, -15)"
+
+  - name: "Compress Save (required)"
+    notes: "File: *  \\\\Compress(*)"
+
+  - name: "Update Jhash (required)"
+    notes: "File: *"
+    codes:
+      - "set range:0x0004,EOF+1"
+      - "set [csum]:jhash"
+      - "set [csum]:[csum]+0x4900DC7C"
+      - "set [csum]:endian_swap"
+      - "write at 0x0000:[csum]"

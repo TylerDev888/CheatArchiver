@@ -1,0 +1,69 @@
+# RAD Robotic Alchemic Drive cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20445
+
+game: "RAD Robotic Alchemic Drive"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20445"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0017362F"
+
+  - name: "Infinite Health (Everyone)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2011D9C8 00000000"
+
+  - name: "Infinite Boost (Everyone)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2011DB80 00000000"
+
+  - name: "Infinite Missiles (Everyone)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20127210 00000000"
+
+  - name: "Infinite Mech Specials (Everyone)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2011DB00 00000000"
+
+  - name: "Infinite Health (Only Players)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20235218 848200B4"
+      - "2023521C A48200B8"
+
+  - name: "Infinite Boost (Only Players)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20232E54 848200BC"
+      - "20232E58 A48200BE"
+
+  - name: "Infinite Mech Specials (Only Players)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20235248 848200BC"
+      - "2023524C A48200BE"
+
+  - name: "Access All Characters"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2020D64C 2402FFFF"

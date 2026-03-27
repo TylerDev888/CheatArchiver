@@ -1,0 +1,484 @@
+# Yakuza 0 cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA05070
+
+game: "Yakuza 0"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA05070"
+cheat_type: "AP"
+source: "source:krustytoe@hackinformer"
+
+cheats:
+  - name: "--kiryu Codes--"
+    notes: "File: *"
+
+  - name: "Kiryu - Dragon Of Dojima Style At Max"
+    notes: "File: *"
+    codes:
+      - "1000745E 000003E7"
+      - "10007462 0000FFFF"
+      - "10007464 0000FFFF"
+      - "10007466 0000FFFF"
+
+  - name: "Kiryu - Max All Items In Storage (item Only)"
+    notes: "File: *"
+    codes:
+      - "4000833A 00000063"
+      - "40960010 00000000"
+
+  - name: "Kiryu - All Weapons In Storage Have Infinite Durability"
+    notes: "File: *"
+    codes:
+      - "41009C36 0000FFFF"
+      - "40C80010 00000000"
+      - "41009C38 0000FFFF"
+      - "40C80010 00000000"
+
+  - name: "Kiryu - Have Golden Gun In Slot 1 (weapons)"
+    notes: "File: *"
+    codes:
+      - "1000CE34 00000168"
+      - "1000CE36 0000FFFF"
+      - "1000CE38 0000FFFF"
+      - "0000CE3A 00000001"
+
+  - name: "Kiryu - Have Steel Business Card In Slot 2 (weapons)"
+    notes: "File: *"
+    codes:
+      - "1000CE44 0000013F"
+      - "1000CE46 0000FFFF"
+      - "1000CE48 0000FFFF"
+      - "0000CE4A 00000001"
+
+  - name: "Kiryu - Have War God Talisman In Slot 1 (gear/accessory)"
+    notes: "File: *"
+    codes:
+      - "1000D014 000001AD"
+      - "0000D01A 00000001"
+
+  - name: "Kiryu - Have Amon Sunglasses In Slot 2 (gear/accessory)"
+    notes: "File: *"
+    codes:
+      - "1000D024 000001C5"
+      - "0000D02A 00000001"
+
+  - name: "--majima Codes--"
+    notes: "File: *"
+
+  - name: "Majima - Mad Dog Style At Max"
+    notes: "File: *"
+    codes:
+      - "1000785E 000003E7"
+      - "10007862 0000FFFF"
+      - "10007864 0000FFFF"
+      - "10007866 0000FFFF"
+
+  - name: "Majima - Max All Items In Storage (item Only)"
+    notes: "File: *"
+    codes:
+      - "40008FBA 00000063"
+      - "40960010 00000000"
+
+  - name: "Majima - Max All Material Parts (majima)"
+    notes: "File: *"
+    codes:
+      - "4000D1F6 00000001"
+      - "40600010 00000000"
+      - "4100D1FA 000003E7"
+      - "40600010 00000000"
+
+  - name: "Majima - All Weapons In Storage Have Infinite Durability"
+    notes: "File: *"
+    codes:
+      - "4100A8B6 0000FFFF"
+      - "40C80010 00000000"
+      - "4100A8B8 0000FFFF"
+      - "40C80010 00000000"
+
+  - name: "Majima - Have Golden Gun In Slot 1 (weapons)"
+    notes: "File: *"
+    codes:
+      - "1000CF24 00000168"
+      - "1000CF26 0000FFFF"
+      - "1000CF28 0000FFFF"
+      - "0000CF2A 00000001"
+
+  - name: "Majima - Have Steel Business Card In Slot 2 (weapons)"
+    notes: "File: *"
+    codes:
+      - "1000CF34 0000013F"
+      - "1000CF36 0000FFFF"
+      - "1000CF38 0000FFFF"
+      - "0000CF3A 00000001"
+
+  - name: "Majima - Have War God Talisman In Slot 1 (gear/accessory)"
+    notes: "File: *"
+    codes:
+      - "1000D104 000001AD"
+      - "0000D10A 00000001"
+
+  - name: "Majima - Have Amon Sunglasses In Slot 2 (gear/accessory)"
+    notes: "File: *"
+    codes:
+      - "1000D114 000001C5"
+      - "0000D11A 00000001"
+
+  - name: "Easy Difficulty"
+    notes: "File: *"
+    codes:
+      - "1000040C 00000000"
+
+  - name: "Normal Difficulty"
+    notes: "File: *"
+    codes:
+      - "1000040C 00000101"
+
+  - name: "Hard Difficulty"
+    notes: "File: *"
+    codes:
+      - "1000040C 00000202"
+
+  - name: "Legend Difficulty"
+    notes: "File: *"
+    codes:
+      - "1000040C 00000303"
+
+  - name: "Majima - Mad Dog Of Shimano Style At Max"
+    notes: "File: *  (Note: Can be use without unlocking style too) (Note: This will make you extremely Over Power)"
+    codes:
+      - "1000785E 000003E7"
+      - "10007862 0000FFFF"
+      - "10007864 0000FFFF"
+      - "10007866 0000FFFF"
+
+  - name: "Max All Items In Storage (item Only)"
+    notes: "[Kiryu Codes]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "4000833A 00000063"
+      - "40960010 00000000"
+
+  - name: "All Weapons In Storage Have Infinite Durability"
+    notes: "[Kiryu Codes]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "41009C36 0000FFFF"
+      - "40960010 00000000"
+      - "41009C38 0000FFFF"
+      - "40960010 00000000"
+
+  - name: "Have Golden Gun In Slot 1 (weapons)"
+    notes: "[Kiryu Codes]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "1000CE34 00000168"
+      - "1000CE36 0000FFFF"
+      - "1000CE38 0000FFFF"
+      - "0000CE3A 00000001"
+
+  - name: "Have War God Talisman In Slot 1 (gear/Accessory)"
+    notes: "[Kiryu Codes]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "1000D014 000001AD"
+      - "0000D01A 00000001"
+
+  - name: "Have Amon Sunglasses In Slot 2 (gear/Accessory)"
+    notes: "[Kiryu Codes]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "1000D024 000001C5"
+      - "0000D02A 00000001"
+
+  - name: "Max All Material Parts (majima)"
+    notes: "[Majima Codes]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "4000D1F6 00000001"
+      - "40600010 00000000"
+      - "4100D1FA 000003E7"
+      - "40600010 00000000"
+
+  - name: "Slot 1"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008334 0000[ID]"
+      - "1000833A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 2"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008344 0000[ID]"
+      - "1000834A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 3"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008354 0000[ID]"
+      - "1000835A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 4"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008364 0000[ID]"
+      - "1000836A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 5"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008374 0000[ID]"
+      - "1000837A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 6"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008384 0000[ID]"
+      - "1000838A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 7"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008394 0000[ID]"
+      - "1000839A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 8"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "200083A4 0000[ID]"
+      - "100083AA 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 9"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "200083B4 0000[ID]"
+      - "100083BA 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 10"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "200083C4 0000[ID]"
+      - "100083CA 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 11"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "200083D4 0000[ID]"
+      - "100083DA 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 12"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "200083E4 0000[ID]"
+      - "100083EA 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 13"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "200083F4 0000[ID]"
+      - "100083FA 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 14"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008404 0000[ID]"
+      - "1000840A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 15"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008414 0000[ID]"
+      - "1000841A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 16"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008424 0000[ID]"
+      - "1000842A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 17"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008434 0000[ID]"
+      - "1000843A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 18"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008444 0000[ID]"
+      - "1000844A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 19"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008454 0000[ID]"
+      - "1000845A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 20"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008464 0000[ID]"
+      - "1000846A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 21"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008474 0000[ID]"
+      - "1000847A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 22"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008484 0000[ID]"
+      - "1000848A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 23"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008494 0000[ID]"
+      - "1000849A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 24"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "200084A4 0000[ID]"
+      - "100084AA 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 25"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "200084B4 0000[ID]"
+      - "100084BA 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 26"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "200084C4 0000[ID]"
+      - "100084CA 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 27"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "200084D4 0000[ID]"
+      - "100084DA 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 28"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "200084E4 0000[ID]"
+      - "100084EA 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 29"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "200084F4 0000[ID]"
+      - "100084FA 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 30"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008504 0000[ID]"
+      - "1000850A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 31"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008514 0000[ID]"
+      - "1000851A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 32"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008524 0000[ID]"
+      - "1000852A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 33"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008534 0000[ID]"
+      - "1000853A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 34"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008544 0000[ID]"
+      - "1000854A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 35"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008554 0000[ID]"
+      - "1000855A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 36"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008564 0000[ID]"
+      - "1000856A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 37"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008574 0000[ID]"
+      - "1000857A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 38"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008584 0000[ID]"
+      - "1000858A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 39"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008594 0000[ID]"
+      - "1000859A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 40"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "200085A4 0000[ID]"
+      - "100085AA 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 41"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "200085B4 0000[ID]"
+      - "100085BA 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 42"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "200085C4 0000[ID]"
+      - "100085CA 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 43"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "200085D4 0000[ID]"
+      - "100085DA 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 44"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "200085E4 0000[ID]"
+      - "100085EA 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 45"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "200085F4 0000[ID]"
+      - "100085FA 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 46"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008604 0000[ID]"
+      - "1000860A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 47"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008614 0000[ID]"
+      - "1000861A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 48"
+    notes: "[Stroage-Section]  File: ([0-2][0-9]|30)\\data.saveps4"
+    codes:
+      - "20008624 0000[ID]"
+      - "1000862A 0000[Amount:2710:HEX:BIG]"

@@ -1,0 +1,19 @@
+# Zuma cheat data
+# Console: PlayStation 3
+# Region:  Unknown
+# Serial:  NPEA00126
+
+game: "Zuma"
+console: "PlayStation 3"
+region: "Unknown"
+serial: "NPEA00126"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Max Lives"
+    author: "chaoszage"
+    notes: "File: USER.DAT"
+    codes:
+      - "search \"LVL\""
+      - "write next (-158):63"

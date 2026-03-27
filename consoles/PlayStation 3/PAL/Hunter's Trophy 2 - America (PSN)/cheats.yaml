@@ -1,0 +1,17 @@
+# Hunter's Trophy 2 - America (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB01309
+
+game: "Hunter's Trophy 2 - America (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB01309"
+cheat_type: "Save Editor"
+source: "From SHAkA"
+
+cheats:
+  - name: "Max Skill Point"
+    notes: "File: GAMEDATA"
+    codes:
+      - "write at 0x0000000F:0x270F00"

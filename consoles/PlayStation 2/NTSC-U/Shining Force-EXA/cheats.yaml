@@ -1,0 +1,108 @@
+# Shining Force-EXA cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21567
+
+game: "Shining Force-EXA"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21567"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master>Skiller"
+    notes: "[Masters]"
+    codes:
+      - "9011C000 0C048EF8"
+
+  - name: "Max G"
+    author: "Code Master>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 00400821"
+      - "200C0224 3C0205F5"
+      - "200C0228 3442E0FF"
+      - "200C022C 080898C4"
+      - "200C0230 AC222A90"
+      - "20226308 08030088"
+
+  - name: "Max Mythril"
+    author: "Code Master>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "200C0240 00400821"
+      - "200C0244 3C0205F5"
+      - "200C0248 3442E0FF"
+      - "200C024C 080898B9"
+      - "200C0250 AC220C08"
+      - "202262DC 08030090"
+
+  - name: "Quick G Gain"
+    author: "Code Master>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "20226390 341003E7"
+
+  - name: "Super Quick G Gain"
+    author: "Code Master>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "20226390 3410270F"
+
+  - name: "Ultra Quick G Gain"
+    author: "Code Master>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "20226390 3410C350"
+
+  - name: "Shop Does Not Lose Items When Buying"
+    author: "Code Master>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "20248F68 00000000"
+
+  - name: "All Items Are Free"
+    author: "Code Master>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "20226428 00000000"
+      - "20226308 00000000"
+      - "2022640C 00000000"
+
+  - name: "Infinite MP"
+    author: "Code Master>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "201C1BB0 00000000"
+
+  - name: "Infinite HP"
+    author: "Code Master>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "2022ECE8 00000000"
+
+  - name: "War Items"
+    author: "Code Master>Skiller"
+    notes: "[Max Shop Item Codes]"
+    codes:
+      - "004C61F4 00000032"
+
+  - name: "Mage Items"
+    author: "Code Master>Skiller"
+    notes: "[Max Shop Item Codes]"
+    codes:
+      - "004C61F5 00000032"
+
+  - name: "Accessory"
+    author: "Code Master>Skiller"
+    notes: "[Max Shop Item Codes]"
+    codes:
+      - "004C61F6 00000032"
+
+  - name: "Misc."
+    author: "Code Master>Skiller"
+    notes: "[Max Shop Item Codes]"
+    codes:
+      - "004C61F7 00000032"

@@ -1,0 +1,38 @@
+# Barbarian cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50972
+
+game: "Barbarian"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50972"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100084 0000000E"
+
+  - name: "Dumb A.I."
+    author: "Codejunkies"
+    codes:
+      - "2013DFE4 00000000"
+
+  - name: "Infinite AP"
+    author: "Codejunkies"
+    codes:
+      - "0049AE8D 00000001"
+
+  - name: "Pal2ntsc"
+    author: "Codejunkies"
+    codes:
+      - "20255120 24120002"
+
+  - name: "Y-Fix"
+    author: "Codejunkies"
+    codes:
+      - "20255344 2412FFD2"

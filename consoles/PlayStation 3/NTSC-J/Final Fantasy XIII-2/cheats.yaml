@@ -1,0 +1,5932 @@
+# Final Fantasy XIII-2 cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BCAS20224
+
+game: "Final Fantasy XIII-2"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BCAS20224"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Read Encryption Key.dat (required)"
+    notes: "File: BCAS20224-*\\KEY.DAT"
+    codes:
+      - "set [key]:read(0x0, 0x10)"
+
+  - name: "Decrypt App.dat (required)"
+    notes: "File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "set range:0x000000,eof+1"
+      - "DECRYPT FFXIII(2, [key])"
+
+  - name: "Max Gil"
+    notes: "File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20002316 05F5E0FF"
+
+  - name: "Max Chip Coin"
+    notes: "File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20010CBA 3B9AC9FF"
+
+  - name: "Enemy Intel Reports 100%"
+    notes: "File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "4205B340 FFFFFFFF"
+      - "40F50009 00000000"
+      - "4205B344 FFFFFFFF"
+      - "40F50009 00000000"
+
+  - name: "All Fragments Skills Unlocked"
+    notes: "File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20017A56 0007FFFF"
+
+  - name: "Potion"
+    notes: "[Item Codes]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2004A268 69745F70"
+      - "2004A26C 6F74696F"
+      - "2004A270 6E000000"
+      - "2004A274 00000000"
+      - "1004A278 00000063"
+
+  - name: "Phoenix Down"
+    notes: "[Item Codes]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "1004A27A 00006974"
+      - "2004A27C 5F706865"
+      - "2004A280 6E787461"
+      - "2004A284 6C000000"
+      - "2004A288 00000063"
+
+  - name: "Wound Potion"
+    notes: "[Item Codes]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2004A28C 69745F68"
+      - "2004A290 706F7469"
+      - "2004A294 6F6E0000"
+      - "2004A298 00000000"
+      - "1004A29C 00000063"
+
+  - name: "Remedy"
+    notes: "[Item Codes]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "1004A29E 00006974"
+      - "2004A2A0 5F756E69"
+      - "2004A2A4 76657273"
+      - "2004A2A8 616C0000"
+      - "2004A2AC 00000063"
+
+  - name: "Librascope"
+    notes: "[Item Codes]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2004A2B0 69745F6C"
+      - "2004A2B4 69627261"
+      - "2004A2B8 00000000"
+      - "2004A2BC 00000000"
+      - "1004A2C0 00000063"
+
+  - name: "Antidote"
+    notes: "[Item Codes]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "1004A2C2 00006974"
+      - "2004A2C4 5F616E74"
+      - "2004A2C8 69646F74"
+      - "2004A2CC 65000000"
+      - "2004A2D0 00000063"
+
+  - name: "Holy Water"
+    notes: "[Item Codes]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2004A2D4 69745F68"
+      - "2004A2D8 6F6C7977"
+      - "2004A2DC 61746572"
+      - "2004A2E0 00000000"
+      - "1004A2E4 00000063"
+
+  - name: "Wax"
+    notes: "[Item Codes]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "1004A2E6 00006974"
+      - "2004A2E8 5F776178"
+      - "2004A2EC 00000000"
+      - "2004A2F0 00000000"
+      - "2004A2F4 00000063"
+
+  - name: "Painkiller"
+    notes: "[Item Codes]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2004A2F8 69745F73"
+      - "2004A2FC 65646174"
+      - "2004A300 69766500"
+      - "2004A304 00000000"
+      - "1004A308 00000063"
+
+  - name: "Mallet"
+    notes: "[Item Codes]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "1004A30A 00006974"
+      - "2004A30C 5F746F6E"
+      - "2004A310 6B617469"
+      - "2004A314 00000000"
+      - "2004A318 00000063"
+
+  - name: "Unicorn Horn"
+    notes: "[Item Codes]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2004A31C 69745F75"
+      - "2004A320 6E69636F"
+      - "2004A324 00000000"
+      - "2004A328 00000000"
+      - "1004A32C 00000063"
+
+  - name: "Phoenix Blood"
+    notes: "[Item Codes]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "1004A32E 00006974"
+      - "2004A330 5F706865"
+      - "2004A334 6E78626C"
+      - "2004A338 00000000"
+      - "2004A33C 00000063"
+
+  - name: "Elixir"
+    notes: "[Item Codes]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2004A340 69745F65"
+      - "2004A344 6C697869"
+      - "2004A348 72000000"
+      - "2004A34C 00000000"
+      - "1004A350 00000063"
+
+  - name: "Have All Monster Materials X99"
+    notes: "[Item Codes]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "42055308 6D617465"
+      - "40280012 00000000"
+      - "4205530C 7269616C"
+      - "40280012 00000000"
+      - "40055310 0000005F"
+      - "40280012 00000000"
+      - "42055311 61303030"
+      - "400A0012 00000001"
+      - "420553C5 61303130"
+      - "400A0012 00000001"
+      - "42055479 61303230"
+      - "400A0012 00000001"
+      - "4205552D 61303330"
+      - "400A0012 00000001"
+      - "41055318 0000FFFF"
+      - "40280012 00000000"
+
+  - name: "All Components X99"
+    notes: "[Item Codes]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "4204DAB4 6D617465"
+      - "408E0012 00000000"
+      - "4204DAB8 7269616C"
+      - "408E0012 00000000"
+      - "4004DABC 0000005F"
+      - "408E0012 00000000"
+      - "4204DABD 6A303030"
+      - "400A0012 00000001"
+      - "4204DB71 6A303130"
+      - "400A0012 00000001"
+      - "4204DC25 6A303230"
+      - "400A0012 00000001"
+      - "4204DCD9 6A303330"
+      - "400A0012 00000001"
+      - "4204DD8D 6A303430"
+      - "40060012 00000001"
+      - "4204DDF9 6D303030"
+      - "400A0012 00000001"
+      - "4204DEAD 6D303130"
+      - "400A0012 00000001"
+      - "4204DF61 6D303230"
+      - "400A0012 00000001"
+      - "4204E015 6D303330"
+      - "40070012 00000001"
+      - "4204E093 6D303431"
+      - "40090012 00000001"
+      - "4204E135 6D303530"
+      - "400A0012 00000001"
+      - "4204E1E9 6D303630"
+      - "400A0012 00000001"
+      - "4204E29D 6D303730"
+      - "40090012 00000001"
+      - "4204E33F 62303030"
+      - "40080012 00000001"
+      - "4204E3CF 6F303030"
+      - "400A0012 00000001"
+      - "4204E483 6F303130"
+      - "40030012 00000001"
+      - "4104DAC4 0000FFFF"
+      - "408E0012 00000000"
+
+  - name: "Cp"
+    notes: "[Character Codes\\serah]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20036C94 05F5E0FF"
+
+  - name: "Equipment Max"
+    notes: "[Character Codes\\serah]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00036C92 000000FF"
+
+  - name: "Max Atb"
+    notes: "[Character Codes\\serah]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00036CA7 0000003C"
+
+  - name: "Max At/mg"
+    notes: "[Character Codes\\serah]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20036CAC 0000270F"
+      - "0000270F 20036CB0"
+
+  - name: "Max Cp"
+    notes: "[Character Codes\\lightning(dlc Mode)]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "10031956 00002710"
+
+  - name: "Max Hp"
+    notes: "[Character Codes\\lightning(dlc Mode)]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2003195C 000F423F"
+
+  - name: "Max At"
+    notes: "[Character Codes\\lightning(dlc Mode)]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "1003196E 0000270F"
+
+  - name: "Max Mg"
+    notes: "[Character Codes\\lightning(dlc Mode)]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "10031972 0000270F"
+
+  - name: "Slot 1 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006368C 00000063"
+
+  - name: "Slot 1 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006369A 000F423F"
+
+  - name: "Slot 1 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006369E 0001869F"
+
+  - name: "Slot 1 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200636A2 0001869F"
+
+  - name: "Slot 1 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000636A9 0000003C"
+
+  - name: "Slot 2 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00063932 00000063"
+
+  - name: "Slot 2 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20063940 000F423F"
+
+  - name: "Slot 2 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20063944 0001869F"
+
+  - name: "Slot 2 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20063948 0001869F"
+
+  - name: "Slot 2 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006394F 0000003C"
+
+  - name: "Slot 3 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00063BD8 00000063"
+
+  - name: "Slot 3 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20063BE6 000F423F"
+
+  - name: "Slot 3 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20063BEA 0001869F"
+
+  - name: "Slot 3 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20063BEE 0001869F"
+
+  - name: "Slot 3 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00063BF5 0000003C"
+
+  - name: "Slot 4 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00063E7E 00000063"
+
+  - name: "Slot 4 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20063E8C 000F423F"
+
+  - name: "Slot 4 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20063E90 0001869F"
+
+  - name: "Slot 4 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20063E94 0001869F"
+
+  - name: "Slot 4 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00063E9B 0000003C"
+
+  - name: "Slot 5 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00064124 00000063"
+
+  - name: "Slot 5 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20064132 000F423F"
+
+  - name: "Slot 5 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20064136 0001869F"
+
+  - name: "Slot 5 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006413A 0001869F"
+
+  - name: "Slot 5 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00064141 0000003C"
+
+  - name: "Slot 6 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000643CA 00000063"
+
+  - name: "Slot 6 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200643D8 000F423F"
+
+  - name: "Slot 6 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200643DC 0001869F"
+
+  - name: "Slot 6 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200643E0 0001869F"
+
+  - name: "Slot 6 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000643E7 0000003C"
+
+  - name: "Slot 7 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00064670 00000063"
+
+  - name: "Slot 7 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006467E 000F423F"
+
+  - name: "Slot 7 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20064682 0001869F"
+
+  - name: "Slot 7 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20064686 0001869F"
+
+  - name: "Slot 7 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006468D 0000003C"
+
+  - name: "Slot 8 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00064916 00000063"
+
+  - name: "Slot 8 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20064924 000F423F"
+
+  - name: "Slot 8 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20064928 0001869F"
+
+  - name: "Slot 8 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006492C 0001869F"
+
+  - name: "Slot 8 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00064933 0000003C"
+
+  - name: "Slot 9 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00064BBC 00000063"
+
+  - name: "Slot 9 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20064BCA 000F423F"
+
+  - name: "Slot 9 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20064BCE 0001869F"
+
+  - name: "Slot 9 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20064BD2 0001869F"
+
+  - name: "Slot 9 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00064BD9 0000003C"
+
+  - name: "Slot 10 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00064E62 00000063"
+
+  - name: "Slot 10 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20064E70 000F423F"
+
+  - name: "Slot 10 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20064E74 0001869F"
+
+  - name: "Slot 10 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20064E78 0001869F"
+
+  - name: "Slot 10 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00064E7F 0000003C"
+
+  - name: "Slot 11 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00065108 00000063"
+
+  - name: "Slot 11 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20065116 000F423F"
+
+  - name: "Slot 11 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006511A 0001869F"
+
+  - name: "Slot 11 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006511E 0001869F"
+
+  - name: "Slot 11 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00065125 0000003C"
+
+  - name: "Slot 12 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000653AE 00000063"
+
+  - name: "Slot 12 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200653BC 000F423F"
+
+  - name: "Slot 12 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200653C0 0001869F"
+
+  - name: "Slot 12 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200653C4 0001869F"
+
+  - name: "Slot 12 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000653CB 0000003C"
+
+  - name: "Slot 13 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00065654 00000063"
+
+  - name: "Slot 13 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20065662 000F423F"
+
+  - name: "Slot 13 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20065666 0001869F"
+
+  - name: "Slot 13 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006566A 0001869F"
+
+  - name: "Slot 13 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00065671 0000003C"
+
+  - name: "Slot 14 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000658FA 00000063"
+
+  - name: "Slot 14 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20065908 000F423F"
+
+  - name: "Slot 14 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006590C 0001869F"
+
+  - name: "Slot 14 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20065910 0001869F"
+
+  - name: "Slot 14 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00065917 0000003C"
+
+  - name: "Slot 15 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00065BA0 00000063"
+
+  - name: "Slot 15 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20065BAE 000F423F"
+
+  - name: "Slot 15 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20065BB2 0001869F"
+
+  - name: "Slot 15 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20065BB6 0001869F"
+
+  - name: "Slot 15 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00065BBD 0000003C"
+
+  - name: "Slot 16 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00065E46 00000063"
+
+  - name: "Slot 16 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20065E54 000F423F"
+
+  - name: "Slot 16 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20065E58 0001869F"
+
+  - name: "Slot 16 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20065E5C 0001869F"
+
+  - name: "Slot 16 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00065E63 0000003C"
+
+  - name: "Slot 17 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000660EC 00000063"
+
+  - name: "Slot 17 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200660FA 000F423F"
+
+  - name: "Slot 17 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200660FE 0001869F"
+
+  - name: "Slot 17 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20066102 0001869F"
+
+  - name: "Slot 17 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00066109 0000003C"
+
+  - name: "Slot 18 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00066392 00000063"
+
+  - name: "Slot 18 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200663A0 000F423F"
+
+  - name: "Slot 18 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200663A4 0001869F"
+
+  - name: "Slot 18 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200663A8 0001869F"
+
+  - name: "Slot 18 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000663AF 0000003C"
+
+  - name: "Slot 19 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00066638 00000063"
+
+  - name: "Slot 19 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20066646 000F423F"
+
+  - name: "Slot 19 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006664A 0001869F"
+
+  - name: "Slot 19 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006664E 0001869F"
+
+  - name: "Slot 19 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00066655 0000003C"
+
+  - name: "Slot 20 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000668DE 00000063"
+
+  - name: "Slot 20 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200668EC 000F423F"
+
+  - name: "Slot 20 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200668F0 0001869F"
+
+  - name: "Slot 20 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200668F4 0001869F"
+
+  - name: "Slot 20 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000668FB 0000003C"
+
+  - name: "Slot 21 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00066B84 00000063"
+
+  - name: "Slot 21 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20066B92 000F423F"
+
+  - name: "Slot 21 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20066B96 0001869F"
+
+  - name: "Slot 21 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20066B9A 0001869F"
+
+  - name: "Slot 21 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00066BA1 0000003C"
+
+  - name: "Slot 22 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00066E2A 00000063"
+
+  - name: "Slot 22 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20066E38 000F423F"
+
+  - name: "Slot 22 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20066E3C 0001869F"
+
+  - name: "Slot 22 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20066E40 0001869F"
+
+  - name: "Slot 22 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00066E47 0000003C"
+
+  - name: "Slot 23 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000670D0 00000063"
+
+  - name: "Slot 23 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200670DE 000F423F"
+
+  - name: "Slot 23 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200670E2 0001869F"
+
+  - name: "Slot 23 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200670E6 0001869F"
+
+  - name: "Slot 23 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000670ED 0000003C"
+
+  - name: "Slot 24 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00067376 00000063"
+
+  - name: "Slot 24 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20067384 000F423F"
+
+  - name: "Slot 24 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20067388 0001869F"
+
+  - name: "Slot 24 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006738C 0001869F"
+
+  - name: "Slot 24 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00067393 0000003C"
+
+  - name: "Slot 25 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006761C 00000063"
+
+  - name: "Slot 25 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006762A 000F423F"
+
+  - name: "Slot 25 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006762E 0001869F"
+
+  - name: "Slot 25 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20067632 0001869F"
+
+  - name: "Slot 25 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00067639 0000003C"
+
+  - name: "Slot 26 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000678C2 00000063"
+
+  - name: "Slot 26 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200678D0 000F423F"
+
+  - name: "Slot 26 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200678D4 0001869F"
+
+  - name: "Slot 26 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200678D8 0001869F"
+
+  - name: "Slot 26 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000678DF 0000003C"
+
+  - name: "Slot 27 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00067B68 00000063"
+
+  - name: "Slot 27 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20067B76 000F423F"
+
+  - name: "Slot 27 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20067B7A 0001869F"
+
+  - name: "Slot 27 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20067B7E 0001869F"
+
+  - name: "Slot 27 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00067B85 0000003C"
+
+  - name: "Slot 28 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00067E0E 00000063"
+
+  - name: "Slot 28 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20067E1C 000F423F"
+
+  - name: "Slot 28 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20067E20 0001869F"
+
+  - name: "Slot 28 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20067E24 0001869F"
+
+  - name: "Slot 28 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00067E2B 0000003C"
+
+  - name: "Slot 29 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000680B4 00000063"
+
+  - name: "Slot 29 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200680C2 000F423F"
+
+  - name: "Slot 29 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200680C6 0001869F"
+
+  - name: "Slot 29 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200680CA 0001869F"
+
+  - name: "Slot 29 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000680D1 0000003C"
+
+  - name: "Slot 30 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006835A 00000063"
+
+  - name: "Slot 30 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20068368 000F423F"
+
+  - name: "Slot 30 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006836C 0001869F"
+
+  - name: "Slot 30 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20068370 0001869F"
+
+  - name: "Slot 30 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00068377 0000003C"
+
+  - name: "Slot 31 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00068600 00000063"
+
+  - name: "Slot 31 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006860E 000F423F"
+
+  - name: "Slot 31 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20068612 0001869F"
+
+  - name: "Slot 31 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20068616 0001869F"
+
+  - name: "Slot 31 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006861D 0000003C"
+
+  - name: "Slot 32 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000688A6 00000063"
+
+  - name: "Slot 32 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200688B4 000F423F"
+
+  - name: "Slot 32 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200688B8 0001869F"
+
+  - name: "Slot 32 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200688BC 0001869F"
+
+  - name: "Slot 32 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000688C3 0000003C"
+
+  - name: "Slot 33 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00068B4C 00000063"
+
+  - name: "Slot 33 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20068B5A 000F423F"
+
+  - name: "Slot 33 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20068B5E 0001869F"
+
+  - name: "Slot 33 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20068B62 0001869F"
+
+  - name: "Slot 33 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00068B69 0000003C"
+
+  - name: "Slot 34 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00068DF2 00000063"
+
+  - name: "Slot 34 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20068E00 000F423F"
+
+  - name: "Slot 34 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20068E04 0001869F"
+
+  - name: "Slot 34 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20068E08 0001869F"
+
+  - name: "Slot 34 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00068E0F 0000003C"
+
+  - name: "Slot 35 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00069098 00000063"
+
+  - name: "Slot 35 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200690A6 000F423F"
+
+  - name: "Slot 35 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200690AA 0001869F"
+
+  - name: "Slot 35 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200690AE 0001869F"
+
+  - name: "Slot 35 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000690B5 0000003C"
+
+  - name: "Slot 36 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006933E 00000063"
+
+  - name: "Slot 36 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006934C 000F423F"
+
+  - name: "Slot 36 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20069350 0001869F"
+
+  - name: "Slot 36 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20069354 0001869F"
+
+  - name: "Slot 36 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006935B 0000003C"
+
+  - name: "Slot 37 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000695E4 00000063"
+
+  - name: "Slot 37 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200695F2 000F423F"
+
+  - name: "Slot 37 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200695F6 0001869F"
+
+  - name: "Slot 37 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200695FA 0001869F"
+
+  - name: "Slot 37 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00069601 0000003C"
+
+  - name: "Slot 38 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006988A 00000063"
+
+  - name: "Slot 38 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20069898 000F423F"
+
+  - name: "Slot 38 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006989C 0001869F"
+
+  - name: "Slot 38 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200698A0 0001869F"
+
+  - name: "Slot 38 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000698A7 0000003C"
+
+  - name: "Slot 39 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00069B30 00000063"
+
+  - name: "Slot 39 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20069B3E 000F423F"
+
+  - name: "Slot 39 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20069B42 0001869F"
+
+  - name: "Slot 39 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20069B46 0001869F"
+
+  - name: "Slot 39 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00069B4D 0000003C"
+
+  - name: "Slot 40 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00069DD6 00000063"
+
+  - name: "Slot 40 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20069DE4 000F423F"
+
+  - name: "Slot 40 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20069DE8 0001869F"
+
+  - name: "Slot 40 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20069DEC 0001869F"
+
+  - name: "Slot 40 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00069DF3 0000003C"
+
+  - name: "Slot 41 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006A07C 00000063"
+
+  - name: "Slot 41 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006A08A 000F423F"
+
+  - name: "Slot 41 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006A08E 0001869F"
+
+  - name: "Slot 41 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006A092 0001869F"
+
+  - name: "Slot 41 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006A099 0000003C"
+
+  - name: "Slot 42 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006A322 00000063"
+
+  - name: "Slot 42 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006A330 000F423F"
+
+  - name: "Slot 42 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006A334 0001869F"
+
+  - name: "Slot 42 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006A338 0001869F"
+
+  - name: "Slot 42 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006A33F 0000003C"
+
+  - name: "Slot 43 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006A5C8 00000063"
+
+  - name: "Slot 43 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006A5D6 000F423F"
+
+  - name: "Slot 43 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006A5DA 0001869F"
+
+  - name: "Slot 43 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006A5DE 0001869F"
+
+  - name: "Slot 43 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006A5E5 0000003C"
+
+  - name: "Slot 44 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006A86E 00000063"
+
+  - name: "Slot 44 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006A87C 000F423F"
+
+  - name: "Slot 44 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006A880 0001869F"
+
+  - name: "Slot 44 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006A884 0001869F"
+
+  - name: "Slot 44 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006A88B 0000003C"
+
+  - name: "Slot 45 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006AB14 00000063"
+
+  - name: "Slot 45 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006AB22 000F423F"
+
+  - name: "Slot 45 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006AB26 0001869F"
+
+  - name: "Slot 45 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006AB2A 0001869F"
+
+  - name: "Slot 45 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006AB31 0000003C"
+
+  - name: "Slot 46 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006ADBA 00000063"
+
+  - name: "Slot 46 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006ADC8 000F423F"
+
+  - name: "Slot 46 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006ADCC 0001869F"
+
+  - name: "Slot 46 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006ADD0 0001869F"
+
+  - name: "Slot 46 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006ADD7 0000003C"
+
+  - name: "Slot 47 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006B060 00000063"
+
+  - name: "Slot 47 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006B06E 000F423F"
+
+  - name: "Slot 47 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006B072 0001869F"
+
+  - name: "Slot 47 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006B076 0001869F"
+
+  - name: "Slot 47 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006B07D 0000003C"
+
+  - name: "Slot 48 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006B306 00000063"
+
+  - name: "Slot 48 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006B314 000F423F"
+
+  - name: "Slot 48 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006B318 0001869F"
+
+  - name: "Slot 48 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006B31C 0001869F"
+
+  - name: "Slot 48 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006B323 0000003C"
+
+  - name: "Slot 49 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006B5AC 00000063"
+
+  - name: "Slot 49 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006B5BA 000F423F"
+
+  - name: "Slot 49 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006B5BE 0001869F"
+
+  - name: "Slot 49 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006B5C2 0001869F"
+
+  - name: "Slot 49 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006B5C9 0000003C"
+
+  - name: "Slot 50 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006B852 00000063"
+
+  - name: "Slot 50 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006B860 000F423F"
+
+  - name: "Slot 50 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006B864 0001869F"
+
+  - name: "Slot 50 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006B868 0001869F"
+
+  - name: "Slot 50 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006B86F 0000003C"
+
+  - name: "Slot 51 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006BAF8 00000063"
+
+  - name: "Slot 51 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006BB06 000F423F"
+
+  - name: "Slot 51 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006BB0A 0001869F"
+
+  - name: "Slot 51 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006BB0E 0001869F"
+
+  - name: "Slot 51 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006BB15 0000003C"
+
+  - name: "Slot 52 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006BD9E 00000063"
+
+  - name: "Slot 52 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006BDAC 000F423F"
+
+  - name: "Slot 52 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006BDB0 0001869F"
+
+  - name: "Slot 52 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006BDB4 0001869F"
+
+  - name: "Slot 52 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006BDBB 0000003C"
+
+  - name: "Slot 53 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006C044 00000063"
+
+  - name: "Slot 53 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006C052 000F423F"
+
+  - name: "Slot 53 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006C056 0001869F"
+
+  - name: "Slot 53 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006C05A 0001869F"
+
+  - name: "Slot 53 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006C061 0000003C"
+
+  - name: "Slot 54 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006C2EA 00000063"
+
+  - name: "Slot 54 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006C2F8 000F423F"
+
+  - name: "Slot 54 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006C2FC 0001869F"
+
+  - name: "Slot 54 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006C300 0001869F"
+
+  - name: "Slot 54 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006C307 0000003C"
+
+  - name: "Slot 55 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006C590 00000063"
+
+  - name: "Slot 55 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006C59E 000F423F"
+
+  - name: "Slot 55 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006C5A2 0001869F"
+
+  - name: "Slot 55 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006C5A6 0001869F"
+
+  - name: "Slot 55 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006C5AD 0000003C"
+
+  - name: "Slot 56 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006C836 00000063"
+
+  - name: "Slot 56 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006C844 000F423F"
+
+  - name: "Slot 56 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006C848 0001869F"
+
+  - name: "Slot 56 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006C84C 0001869F"
+
+  - name: "Slot 56 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006C853 0000003C"
+
+  - name: "Slot 57 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006CADC 00000063"
+
+  - name: "Slot 57 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006CAEA 000F423F"
+
+  - name: "Slot 57 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006CAEE 0001869F"
+
+  - name: "Slot 57 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006CAF2 0001869F"
+
+  - name: "Slot 57 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006CAF9 0000003C"
+
+  - name: "Slot 58 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006CD82 00000063"
+
+  - name: "Slot 58 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006CD90 000F423F"
+
+  - name: "Slot 58 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006CD94 0001869F"
+
+  - name: "Slot 58 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006CD98 0001869F"
+
+  - name: "Slot 58 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006CD9F 0000003C"
+
+  - name: "Slot 59 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006D028 00000063"
+
+  - name: "Slot 59 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006D036 000F423F"
+
+  - name: "Slot 59 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006D03A 0001869F"
+
+  - name: "Slot 59 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006D03E 0001869F"
+
+  - name: "Slot 59 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006D045 0000003C"
+
+  - name: "Slot 60 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006D2CE 00000063"
+
+  - name: "Slot 60 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006D2DC 000F423F"
+
+  - name: "Slot 60 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006D2E0 0001869F"
+
+  - name: "Slot 60 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006D2E4 0001869F"
+
+  - name: "Slot 60 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006D2EB 0000003C"
+
+  - name: "Slot 61 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006D574 00000063"
+
+  - name: "Slot 61 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006D582 000F423F"
+
+  - name: "Slot 61 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006D586 0001869F"
+
+  - name: "Slot 61 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006D58A 0001869F"
+
+  - name: "Slot 61 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006D591 0000003C"
+
+  - name: "Slot 62 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006D81A 00000063"
+
+  - name: "Slot 62 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006D828 000F423F"
+
+  - name: "Slot 62 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006D82C 0001869F"
+
+  - name: "Slot 62 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006D830 0001869F"
+
+  - name: "Slot 62 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006D837 0000003C"
+
+  - name: "Slot 63 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006DAC0 00000063"
+
+  - name: "Slot 63 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006DACE 000F423F"
+
+  - name: "Slot 63 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006DAD2 0001869F"
+
+  - name: "Slot 63 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006DAD6 0001869F"
+
+  - name: "Slot 63 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006DADD 0000003C"
+
+  - name: "Slot 64 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006DD66 00000063"
+
+  - name: "Slot 64 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006DD74 000F423F"
+
+  - name: "Slot 64 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006DD78 0001869F"
+
+  - name: "Slot 64 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006DD7C 0001869F"
+
+  - name: "Slot 64 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006DD83 0000003C"
+
+  - name: "Slot 65 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006E00C 00000063"
+
+  - name: "Slot 65 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006E01A 000F423F"
+
+  - name: "Slot 65 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006E01E 0001869F"
+
+  - name: "Slot 65 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006E022 0001869F"
+
+  - name: "Slot 65 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006E029 0000003C"
+
+  - name: "Slot 66 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006E2B2 00000063"
+
+  - name: "Slot 66 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006E2C0 000F423F"
+
+  - name: "Slot 66 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006E2C4 0001869F"
+
+  - name: "Slot 66 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006E2C8 0001869F"
+
+  - name: "Slot 66 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006E2CF 0000003C"
+
+  - name: "Slot 67 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006E558 00000063"
+
+  - name: "Slot 67 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006E566 000F423F"
+
+  - name: "Slot 67 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006E56A 0001869F"
+
+  - name: "Slot 67 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006E56E 0001869F"
+
+  - name: "Slot 67 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006E575 0000003C"
+
+  - name: "Slot 68 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006E7FE 00000063"
+
+  - name: "Slot 68 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006E80C 000F423F"
+
+  - name: "Slot 68 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006E810 0001869F"
+
+  - name: "Slot 68 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006E814 0001869F"
+
+  - name: "Slot 68 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006E81B 0000003C"
+
+  - name: "Slot 69 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006EAA4 00000063"
+
+  - name: "Slot 69 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006EAB2 000F423F"
+
+  - name: "Slot 69 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006EAB6 0001869F"
+
+  - name: "Slot 69 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006EABA 0001869F"
+
+  - name: "Slot 69 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006EAC1 0000003C"
+
+  - name: "Slot 70 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006ED4A 00000063"
+
+  - name: "Slot 70 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006ED58 000F423F"
+
+  - name: "Slot 70 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006ED5C 0001869F"
+
+  - name: "Slot 70 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006ED60 0001869F"
+
+  - name: "Slot 70 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006ED67 0000003C"
+
+  - name: "Slot 71 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006EFF0 00000063"
+
+  - name: "Slot 71 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006EFFE 000F423F"
+
+  - name: "Slot 71 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006F002 0001869F"
+
+  - name: "Slot 71 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006F006 0001869F"
+
+  - name: "Slot 71 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006F00D 0000003C"
+
+  - name: "Slot 72 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006F296 00000063"
+
+  - name: "Slot 72 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006F2A4 000F423F"
+
+  - name: "Slot 72 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006F2A8 0001869F"
+
+  - name: "Slot 72 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006F2AC 0001869F"
+
+  - name: "Slot 72 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006F2B3 0000003C"
+
+  - name: "Slot 73 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006F53C 00000063"
+
+  - name: "Slot 73 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006F54A 000F423F"
+
+  - name: "Slot 73 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006F54E 0001869F"
+
+  - name: "Slot 73 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006F552 0001869F"
+
+  - name: "Slot 73 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006F559 0000003C"
+
+  - name: "Slot 74 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006F7E2 00000063"
+
+  - name: "Slot 74 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006F7F0 000F423F"
+
+  - name: "Slot 74 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006F7F4 0001869F"
+
+  - name: "Slot 74 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006F7F8 0001869F"
+
+  - name: "Slot 74 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006F7FF 0000003C"
+
+  - name: "Slot 75 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006FA88 00000063"
+
+  - name: "Slot 75 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006FA96 000F423F"
+
+  - name: "Slot 75 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006FA9A 0001869F"
+
+  - name: "Slot 75 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006FA9E 0001869F"
+
+  - name: "Slot 75 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006FAA5 0000003C"
+
+  - name: "Slot 76 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006FD2E 00000063"
+
+  - name: "Slot 76 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006FD3C 000F423F"
+
+  - name: "Slot 76 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006FD40 0001869F"
+
+  - name: "Slot 76 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006FD44 0001869F"
+
+  - name: "Slot 76 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006FD4B 0000003C"
+
+  - name: "Slot 77 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006FFD4 00000063"
+
+  - name: "Slot 77 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006FFE2 000F423F"
+
+  - name: "Slot 77 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006FFE6 0001869F"
+
+  - name: "Slot 77 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2006FFEA 0001869F"
+
+  - name: "Slot 77 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0006FFF1 0000003C"
+
+  - name: "Slot 78 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007027A 00000063"
+
+  - name: "Slot 78 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20070288 000F423F"
+
+  - name: "Slot 78 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007028C 0001869F"
+
+  - name: "Slot 78 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20070290 0001869F"
+
+  - name: "Slot 78 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00070297 0000003C"
+
+  - name: "Slot 79 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00070520 00000063"
+
+  - name: "Slot 79 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007052E 000F423F"
+
+  - name: "Slot 79 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20070532 0001869F"
+
+  - name: "Slot 79 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20070536 0001869F"
+
+  - name: "Slot 79 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007053D 0000003C"
+
+  - name: "Slot 80 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000707C6 00000063"
+
+  - name: "Slot 80 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200707D4 000F423F"
+
+  - name: "Slot 80 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200707D8 0001869F"
+
+  - name: "Slot 80 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200707DC 0001869F"
+
+  - name: "Slot 80 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000707E3 0000003C"
+
+  - name: "Slot 81 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00070A6C 00000063"
+
+  - name: "Slot 81 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20070A7A 000F423F"
+
+  - name: "Slot 81 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20070A7E 0001869F"
+
+  - name: "Slot 81 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20070A82 0001869F"
+
+  - name: "Slot 81 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00070A89 0000003C"
+
+  - name: "Slot 82 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00070D12 00000063"
+
+  - name: "Slot 82 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20070D20 000F423F"
+
+  - name: "Slot 82 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20070D24 0001869F"
+
+  - name: "Slot 82 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20070D28 0001869F"
+
+  - name: "Slot 82 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00070D2F 0000003C"
+
+  - name: "Slot 83 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00070FB8 00000063"
+
+  - name: "Slot 83 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20070FC6 000F423F"
+
+  - name: "Slot 83 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20070FCA 0001869F"
+
+  - name: "Slot 83 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20070FCE 0001869F"
+
+  - name: "Slot 83 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00070FD5 0000003C"
+
+  - name: "Slot 84 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007125E 00000063"
+
+  - name: "Slot 84 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007126C 000F423F"
+
+  - name: "Slot 84 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20071270 0001869F"
+
+  - name: "Slot 84 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20071274 0001869F"
+
+  - name: "Slot 84 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007127B 0000003C"
+
+  - name: "Slot 85 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00071504 00000063"
+
+  - name: "Slot 85 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20071512 000F423F"
+
+  - name: "Slot 85 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20071516 0001869F"
+
+  - name: "Slot 85 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007151A 0001869F"
+
+  - name: "Slot 85 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00071521 0000003C"
+
+  - name: "Slot 86 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000717AA 00000063"
+
+  - name: "Slot 86 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200717B8 000F423F"
+
+  - name: "Slot 86 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200717BC 0001869F"
+
+  - name: "Slot 86 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200717C0 0001869F"
+
+  - name: "Slot 86 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000717C7 0000003C"
+
+  - name: "Slot 87 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00071A50 00000063"
+
+  - name: "Slot 87 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20071A5E 000F423F"
+
+  - name: "Slot 87 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20071A62 0001869F"
+
+  - name: "Slot 87 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20071A66 0001869F"
+
+  - name: "Slot 87 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00071A6D 0000003C"
+
+  - name: "Slot 88 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00071CF6 00000063"
+
+  - name: "Slot 88 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20071D04 000F423F"
+
+  - name: "Slot 88 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20071D08 0001869F"
+
+  - name: "Slot 88 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20071D0C 0001869F"
+
+  - name: "Slot 88 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00071D13 0000003C"
+
+  - name: "Slot 89 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00071F9C 00000063"
+
+  - name: "Slot 89 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20071FAA 000F423F"
+
+  - name: "Slot 89 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20071FAE 0001869F"
+
+  - name: "Slot 89 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20071FB2 0001869F"
+
+  - name: "Slot 89 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00071FB9 0000003C"
+
+  - name: "Slot 90 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00072242 00000063"
+
+  - name: "Slot 90 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20072250 000F423F"
+
+  - name: "Slot 90 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20072254 0001869F"
+
+  - name: "Slot 90 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20072258 0001869F"
+
+  - name: "Slot 90 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007225F 0000003C"
+
+  - name: "Slot 91 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000724E8 00000063"
+
+  - name: "Slot 91 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200724F6 000F423F"
+
+  - name: "Slot 91 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200724FA 0001869F"
+
+  - name: "Slot 91 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200724FE 0001869F"
+
+  - name: "Slot 91 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00072505 0000003C"
+
+  - name: "Slot 92 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007278E 00000063"
+
+  - name: "Slot 92 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007279C 000F423F"
+
+  - name: "Slot 92 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200727A0 0001869F"
+
+  - name: "Slot 92 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200727A4 0001869F"
+
+  - name: "Slot 92 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000727AB 0000003C"
+
+  - name: "Slot 93 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00072A34 00000063"
+
+  - name: "Slot 93 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20072A42 000F423F"
+
+  - name: "Slot 93 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20072A46 0001869F"
+
+  - name: "Slot 93 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20072A4A 0001869F"
+
+  - name: "Slot 93 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00072A51 0000003C"
+
+  - name: "Slot 94 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00072CDA 00000063"
+
+  - name: "Slot 94 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20072CE8 000F423F"
+
+  - name: "Slot 94 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20072CEC 0001869F"
+
+  - name: "Slot 94 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20072CF0 0001869F"
+
+  - name: "Slot 94 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00072CF7 0000003C"
+
+  - name: "Slot 95 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00072F80 00000063"
+
+  - name: "Slot 95 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20072F8E 000F423F"
+
+  - name: "Slot 95 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20072F92 0001869F"
+
+  - name: "Slot 95 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20072F96 0001869F"
+
+  - name: "Slot 95 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00072F9D 0000003C"
+
+  - name: "Slot 96 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00073226 00000063"
+
+  - name: "Slot 96 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20073234 000F423F"
+
+  - name: "Slot 96 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20073238 0001869F"
+
+  - name: "Slot 96 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007323C 0001869F"
+
+  - name: "Slot 96 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00073243 0000003C"
+
+  - name: "Slot 97 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000734CC 00000063"
+
+  - name: "Slot 97 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200734DA 000F423F"
+
+  - name: "Slot 97 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200734DE 0001869F"
+
+  - name: "Slot 97 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200734E2 0001869F"
+
+  - name: "Slot 97 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000734E9 0000003C"
+
+  - name: "Slot 98 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00073772 00000063"
+
+  - name: "Slot 98 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20073780 000F423F"
+
+  - name: "Slot 98 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20073784 0001869F"
+
+  - name: "Slot 98 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20073788 0001869F"
+
+  - name: "Slot 98 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007378F 0000003C"
+
+  - name: "Slot 99 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00073A18 00000063"
+
+  - name: "Slot 99 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20073A26 000F423F"
+
+  - name: "Slot 99 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20073A2A 0001869F"
+
+  - name: "Slot 99 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20073A2E 0001869F"
+
+  - name: "Slot 99 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00073A35 0000003C"
+
+  - name: "Slot 100 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00073CBE 00000063"
+
+  - name: "Slot 100 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20073CCC 000F423F"
+
+  - name: "Slot 100 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20073CD0 0001869F"
+
+  - name: "Slot 100 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20073CD4 0001869F"
+
+  - name: "Slot 100 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00073CDB 0000003C"
+
+  - name: "Slot 101 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00073F64 00000063"
+
+  - name: "Slot 101 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20073F72 000F423F"
+
+  - name: "Slot 101 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20073F76 0001869F"
+
+  - name: "Slot 101 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20073F7A 0001869F"
+
+  - name: "Slot 101 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00073F81 0000003C"
+
+  - name: "Slot 102 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007420A 00000063"
+
+  - name: "Slot 102 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20074218 000F423F"
+
+  - name: "Slot 102 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007421C 0001869F"
+
+  - name: "Slot 102 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20074220 0001869F"
+
+  - name: "Slot 102 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00074227 0000003C"
+
+  - name: "Slot 103 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000744B0 00000063"
+
+  - name: "Slot 103 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200744BE 000F423F"
+
+  - name: "Slot 103 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200744C2 0001869F"
+
+  - name: "Slot 103 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200744C6 0001869F"
+
+  - name: "Slot 103 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000744CD 0000003C"
+
+  - name: "Slot 104 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00074756 00000063"
+
+  - name: "Slot 104 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20074764 000F423F"
+
+  - name: "Slot 104 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20074768 0001869F"
+
+  - name: "Slot 104 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007476C 0001869F"
+
+  - name: "Slot 104 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00074773 0000003C"
+
+  - name: "Slot 105 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000749FC 00000063"
+
+  - name: "Slot 105 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20074A0A 000F423F"
+
+  - name: "Slot 105 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20074A0E 0001869F"
+
+  - name: "Slot 105 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20074A12 0001869F"
+
+  - name: "Slot 105 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00074A19 0000003C"
+
+  - name: "Slot 106 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00074CA2 00000063"
+
+  - name: "Slot 106 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20074CB0 000F423F"
+
+  - name: "Slot 106 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20074CB4 0001869F"
+
+  - name: "Slot 106 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20074CB8 0001869F"
+
+  - name: "Slot 106 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00074CBF 0000003C"
+
+  - name: "Slot 107 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00074F48 00000063"
+
+  - name: "Slot 107 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20074F56 000F423F"
+
+  - name: "Slot 107 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20074F5A 0001869F"
+
+  - name: "Slot 107 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20074F5E 0001869F"
+
+  - name: "Slot 107 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00074F65 0000003C"
+
+  - name: "Slot 108 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000751EE 00000063"
+
+  - name: "Slot 108 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200751FC 000F423F"
+
+  - name: "Slot 108 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20075200 0001869F"
+
+  - name: "Slot 108 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20075204 0001869F"
+
+  - name: "Slot 108 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007520B 0000003C"
+
+  - name: "Slot 109 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00075494 00000063"
+
+  - name: "Slot 109 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200754A2 000F423F"
+
+  - name: "Slot 109 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200754A6 0001869F"
+
+  - name: "Slot 109 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200754AA 0001869F"
+
+  - name: "Slot 109 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000754B1 0000003C"
+
+  - name: "Slot 110 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007573A 00000063"
+
+  - name: "Slot 110 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20075748 000F423F"
+
+  - name: "Slot 110 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007574C 0001869F"
+
+  - name: "Slot 110 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20075750 0001869F"
+
+  - name: "Slot 110 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00075757 0000003C"
+
+  - name: "Slot 111 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000759E0 00000063"
+
+  - name: "Slot 111 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200759EE 000F423F"
+
+  - name: "Slot 111 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200759F2 0001869F"
+
+  - name: "Slot 111 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200759F6 0001869F"
+
+  - name: "Slot 111 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000759FD 0000003C"
+
+  - name: "Slot 112 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00075C86 00000063"
+
+  - name: "Slot 112 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20075C94 000F423F"
+
+  - name: "Slot 112 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20075C98 0001869F"
+
+  - name: "Slot 112 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20075C9C 0001869F"
+
+  - name: "Slot 112 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00075CA3 0000003C"
+
+  - name: "Slot 113 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00075F2C 00000063"
+
+  - name: "Slot 113 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20075F3A 000F423F"
+
+  - name: "Slot 113 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20075F3E 0001869F"
+
+  - name: "Slot 113 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20075F42 0001869F"
+
+  - name: "Slot 113 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00075F49 0000003C"
+
+  - name: "Slot 114 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000761D2 00000063"
+
+  - name: "Slot 114 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200761E0 000F423F"
+
+  - name: "Slot 114 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200761E4 0001869F"
+
+  - name: "Slot 114 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200761E8 0001869F"
+
+  - name: "Slot 114 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000761EF 0000003C"
+
+  - name: "Slot 115 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00076478 00000063"
+
+  - name: "Slot 115 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20076486 000F423F"
+
+  - name: "Slot 115 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007648A 0001869F"
+
+  - name: "Slot 115 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007648E 0001869F"
+
+  - name: "Slot 115 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00076495 0000003C"
+
+  - name: "Slot 116 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007671E 00000063"
+
+  - name: "Slot 116 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007672C 000F423F"
+
+  - name: "Slot 116 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20076730 0001869F"
+
+  - name: "Slot 116 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20076734 0001869F"
+
+  - name: "Slot 116 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007673B 0000003C"
+
+  - name: "Slot 117 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000769C4 00000063"
+
+  - name: "Slot 117 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200769D2 000F423F"
+
+  - name: "Slot 117 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200769D6 0001869F"
+
+  - name: "Slot 117 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200769DA 0001869F"
+
+  - name: "Slot 117 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000769E1 0000003C"
+
+  - name: "Slot 118 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00076C6A 00000063"
+
+  - name: "Slot 118 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20076C78 000F423F"
+
+  - name: "Slot 118 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20076C7C 0001869F"
+
+  - name: "Slot 118 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20076C80 0001869F"
+
+  - name: "Slot 118 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00076C87 0000003C"
+
+  - name: "Slot 119 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00076F10 00000063"
+
+  - name: "Slot 119 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20076F1E 000F423F"
+
+  - name: "Slot 119 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20076F22 0001869F"
+
+  - name: "Slot 119 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20076F26 0001869F"
+
+  - name: "Slot 119 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00076F2D 0000003C"
+
+  - name: "Slot 120 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000771B6 00000063"
+
+  - name: "Slot 120 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200771C4 000F423F"
+
+  - name: "Slot 120 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200771C8 0001869F"
+
+  - name: "Slot 120 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200771CC 0001869F"
+
+  - name: "Slot 120 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000771D3 0000003C"
+
+  - name: "Slot 121 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007745C 00000063"
+
+  - name: "Slot 121 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007746A 000F423F"
+
+  - name: "Slot 121 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007746E 0001869F"
+
+  - name: "Slot 121 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20077472 0001869F"
+
+  - name: "Slot 121 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00077479 0000003C"
+
+  - name: "Slot 122 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00077702 00000063"
+
+  - name: "Slot 122 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20077710 000F423F"
+
+  - name: "Slot 122 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20077714 0001869F"
+
+  - name: "Slot 122 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20077718 0001869F"
+
+  - name: "Slot 122 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007771F 0000003C"
+
+  - name: "Slot 123 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000779A8 00000063"
+
+  - name: "Slot 123 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200779B6 000F423F"
+
+  - name: "Slot 123 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200779BA 0001869F"
+
+  - name: "Slot 123 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200779BE 0001869F"
+
+  - name: "Slot 123 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000779C5 0000003C"
+
+  - name: "Slot 124 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00077C4E 00000063"
+
+  - name: "Slot 124 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20077C5C 000F423F"
+
+  - name: "Slot 124 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20077C60 0001869F"
+
+  - name: "Slot 124 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20077C64 0001869F"
+
+  - name: "Slot 124 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00077C6B 0000003C"
+
+  - name: "Slot 125 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00077EF4 00000063"
+
+  - name: "Slot 125 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20077F02 000F423F"
+
+  - name: "Slot 125 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20077F06 0001869F"
+
+  - name: "Slot 125 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20077F0A 0001869F"
+
+  - name: "Slot 125 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00077F11 0000003C"
+
+  - name: "Slot 126 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007819A 00000063"
+
+  - name: "Slot 126 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200781A8 000F423F"
+
+  - name: "Slot 126 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200781AC 0001869F"
+
+  - name: "Slot 126 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200781B0 0001869F"
+
+  - name: "Slot 126 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000781B7 0000003C"
+
+  - name: "Slot 127 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00078440 00000063"
+
+  - name: "Slot 127 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007844E 000F423F"
+
+  - name: "Slot 127 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20078452 0001869F"
+
+  - name: "Slot 127 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20078456 0001869F"
+
+  - name: "Slot 127 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007845D 0000003C"
+
+  - name: "Slot 128 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000786E6 00000063"
+
+  - name: "Slot 128 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200786F4 000F423F"
+
+  - name: "Slot 128 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200786F8 0001869F"
+
+  - name: "Slot 128 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200786FC 0001869F"
+
+  - name: "Slot 128 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00078703 0000003C"
+
+  - name: "Slot 129 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007898C 00000063"
+
+  - name: "Slot 129 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007899A 000F423F"
+
+  - name: "Slot 129 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007899E 0001869F"
+
+  - name: "Slot 129 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200789A2 0001869F"
+
+  - name: "Slot 129 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000789A9 0000003C"
+
+  - name: "Slot 130 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00078C32 00000063"
+
+  - name: "Slot 130 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20078C40 000F423F"
+
+  - name: "Slot 130 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20078C44 0001869F"
+
+  - name: "Slot 130 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20078C48 0001869F"
+
+  - name: "Slot 130 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00078C4F 0000003C"
+
+  - name: "Slot 131 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00078ED8 00000063"
+
+  - name: "Slot 131 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20078EE6 000F423F"
+
+  - name: "Slot 131 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20078EEA 0001869F"
+
+  - name: "Slot 131 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20078EEE 0001869F"
+
+  - name: "Slot 131 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00078EF5 0000003C"
+
+  - name: "Slot 132 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007917E 00000063"
+
+  - name: "Slot 132 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007918C 000F423F"
+
+  - name: "Slot 132 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20079190 0001869F"
+
+  - name: "Slot 132 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20079194 0001869F"
+
+  - name: "Slot 132 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007919B 0000003C"
+
+  - name: "Slot 133 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00079424 00000063"
+
+  - name: "Slot 133 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20079432 000F423F"
+
+  - name: "Slot 133 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20079436 0001869F"
+
+  - name: "Slot 133 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007943A 0001869F"
+
+  - name: "Slot 133 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00079441 0000003C"
+
+  - name: "Slot 134 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000796CA 00000063"
+
+  - name: "Slot 134 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200796D8 000F423F"
+
+  - name: "Slot 134 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200796DC 0001869F"
+
+  - name: "Slot 134 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200796E0 0001869F"
+
+  - name: "Slot 134 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000796E7 0000003C"
+
+  - name: "Slot 135 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00079970 00000063"
+
+  - name: "Slot 135 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007997E 000F423F"
+
+  - name: "Slot 135 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20079982 0001869F"
+
+  - name: "Slot 135 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20079986 0001869F"
+
+  - name: "Slot 135 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007998D 0000003C"
+
+  - name: "Slot 136 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00079C16 00000063"
+
+  - name: "Slot 136 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20079C24 000F423F"
+
+  - name: "Slot 136 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20079C28 0001869F"
+
+  - name: "Slot 136 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20079C2C 0001869F"
+
+  - name: "Slot 136 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00079C33 0000003C"
+
+  - name: "Slot 137 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00079EBC 00000063"
+
+  - name: "Slot 137 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20079ECA 000F423F"
+
+  - name: "Slot 137 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20079ECE 0001869F"
+
+  - name: "Slot 137 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20079ED2 0001869F"
+
+  - name: "Slot 137 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00079ED9 0000003C"
+
+  - name: "Slot 138 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007A162 00000063"
+
+  - name: "Slot 138 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007A170 000F423F"
+
+  - name: "Slot 138 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007A174 0001869F"
+
+  - name: "Slot 138 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007A178 0001869F"
+
+  - name: "Slot 138 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007A17F 0000003C"
+
+  - name: "Slot 139 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007A408 00000063"
+
+  - name: "Slot 139 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007A416 000F423F"
+
+  - name: "Slot 139 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007A41A 0001869F"
+
+  - name: "Slot 139 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007A41E 0001869F"
+
+  - name: "Slot 139 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007A425 0000003C"
+
+  - name: "Slot 140 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007A6AE 00000063"
+
+  - name: "Slot 140 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007A6BC 000F423F"
+
+  - name: "Slot 140 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007A6C0 0001869F"
+
+  - name: "Slot 140 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007A6C4 0001869F"
+
+  - name: "Slot 140 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007A6CB 0000003C"
+
+  - name: "Slot 141 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007A954 00000063"
+
+  - name: "Slot 141 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007A962 000F423F"
+
+  - name: "Slot 141 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007A966 0001869F"
+
+  - name: "Slot 141 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007A96A 0001869F"
+
+  - name: "Slot 141 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007A971 0000003C"
+
+  - name: "Slot 142 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007ABFA 00000063"
+
+  - name: "Slot 142 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007AC08 000F423F"
+
+  - name: "Slot 142 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007AC0C 0001869F"
+
+  - name: "Slot 142 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007AC10 0001869F"
+
+  - name: "Slot 142 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007AC17 0000003C"
+
+  - name: "Slot 143 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007AEA0 00000063"
+
+  - name: "Slot 143 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007AEAE 000F423F"
+
+  - name: "Slot 143 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007AEB2 0001869F"
+
+  - name: "Slot 143 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007AEB6 0001869F"
+
+  - name: "Slot 143 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007AEBD 0000003C"
+
+  - name: "Slot 144 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007B146 00000063"
+
+  - name: "Slot 144 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007B154 000F423F"
+
+  - name: "Slot 144 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007B158 0001869F"
+
+  - name: "Slot 144 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007B15C 0001869F"
+
+  - name: "Slot 144 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007B163 0000003C"
+
+  - name: "Slot 145 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007B3EC 00000063"
+
+  - name: "Slot 145 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007B3FA 000F423F"
+
+  - name: "Slot 145 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007B3FE 0001869F"
+
+  - name: "Slot 145 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007B402 0001869F"
+
+  - name: "Slot 145 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007B409 0000003C"
+
+  - name: "Slot 146 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007B692 00000063"
+
+  - name: "Slot 146 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007B6A0 000F423F"
+
+  - name: "Slot 146 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007B6A4 0001869F"
+
+  - name: "Slot 146 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007B6A8 0001869F"
+
+  - name: "Slot 146 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007B6AF 0000003C"
+
+  - name: "Slot 147 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007B938 00000063"
+
+  - name: "Slot 147 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007B946 000F423F"
+
+  - name: "Slot 147 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007B94A 0001869F"
+
+  - name: "Slot 147 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007B94E 0001869F"
+
+  - name: "Slot 147 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007B955 0000003C"
+
+  - name: "Slot 148 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007BBDE 00000063"
+
+  - name: "Slot 148 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007BBEC 000F423F"
+
+  - name: "Slot 148 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007BBF0 0001869F"
+
+  - name: "Slot 148 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007BBF4 0001869F"
+
+  - name: "Slot 148 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007BBFB 0000003C"
+
+  - name: "Slot 149 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007BE84 00000063"
+
+  - name: "Slot 149 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007BE92 000F423F"
+
+  - name: "Slot 149 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007BE96 0001869F"
+
+  - name: "Slot 149 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007BE9A 0001869F"
+
+  - name: "Slot 149 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007BEA1 0000003C"
+
+  - name: "Slot 150 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007C12A 00000063"
+
+  - name: "Slot 150 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007C138 000F423F"
+
+  - name: "Slot 150 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007C13C 0001869F"
+
+  - name: "Slot 150 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007C140 0001869F"
+
+  - name: "Slot 150 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007C147 0000003C"
+
+  - name: "Slot 151 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007C3D0 00000063"
+
+  - name: "Slot 151 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007C3DE 000F423F"
+
+  - name: "Slot 151 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007C3E2 0001869F"
+
+  - name: "Slot 151 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007C3E6 0001869F"
+
+  - name: "Slot 151 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007C3ED 0000003C"
+
+  - name: "Slot 152 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007C676 00000063"
+
+  - name: "Slot 152 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007C684 000F423F"
+
+  - name: "Slot 152 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007C688 0001869F"
+
+  - name: "Slot 152 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007C68C 0001869F"
+
+  - name: "Slot 152 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007C693 0000003C"
+
+  - name: "Slot 153 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007C91C 00000063"
+
+  - name: "Slot 153 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007C92A 000F423F"
+
+  - name: "Slot 153 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007C92E 0001869F"
+
+  - name: "Slot 153 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007C932 0001869F"
+
+  - name: "Slot 153 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007C939 0000003C"
+
+  - name: "Slot 154 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007CBC2 00000063"
+
+  - name: "Slot 154 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007CBD0 000F423F"
+
+  - name: "Slot 154 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007CBD4 0001869F"
+
+  - name: "Slot 154 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007CBD8 0001869F"
+
+  - name: "Slot 154 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007CBDF 0000003C"
+
+  - name: "Slot 155 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007CE68 00000063"
+
+  - name: "Slot 155 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007CE76 000F423F"
+
+  - name: "Slot 155 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007CE7A 0001869F"
+
+  - name: "Slot 155 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007CE7E 0001869F"
+
+  - name: "Slot 155 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007CE85 0000003C"
+
+  - name: "Slot 156 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007D10E 00000063"
+
+  - name: "Slot 156 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007D11C 000F423F"
+
+  - name: "Slot 156 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007D120 0001869F"
+
+  - name: "Slot 156 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007D124 0001869F"
+
+  - name: "Slot 156 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007D12B 0000003C"
+
+  - name: "Slot 157 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007D3B4 00000063"
+
+  - name: "Slot 157 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007D3C2 000F423F"
+
+  - name: "Slot 157 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007D3C6 0001869F"
+
+  - name: "Slot 157 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007D3CA 0001869F"
+
+  - name: "Slot 157 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007D3D1 0000003C"
+
+  - name: "Slot 158 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007D65A 00000063"
+
+  - name: "Slot 158 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007D668 000F423F"
+
+  - name: "Slot 158 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007D66C 0001869F"
+
+  - name: "Slot 158 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007D670 0001869F"
+
+  - name: "Slot 158 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007D677 0000003C"
+
+  - name: "Slot 159 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007D900 00000063"
+
+  - name: "Slot 159 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007D90E 000F423F"
+
+  - name: "Slot 159 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007D912 0001869F"
+
+  - name: "Slot 159 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007D916 0001869F"
+
+  - name: "Slot 159 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007D91D 0000003C"
+
+  - name: "Slot 160 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007DBA6 00000063"
+
+  - name: "Slot 160 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007DBB4 000F423F"
+
+  - name: "Slot 160 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007DBB8 0001869F"
+
+  - name: "Slot 160 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007DBBC 0001869F"
+
+  - name: "Slot 160 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007DBC3 0000003C"
+
+  - name: "Slot 161 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007DE4C 00000063"
+
+  - name: "Slot 161 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007DE5A 000F423F"
+
+  - name: "Slot 161 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007DE5E 0001869F"
+
+  - name: "Slot 161 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007DE62 0001869F"
+
+  - name: "Slot 161 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007DE69 0000003C"
+
+  - name: "Slot 162 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007E0F2 00000063"
+
+  - name: "Slot 162 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007E100 000F423F"
+
+  - name: "Slot 162 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007E104 0001869F"
+
+  - name: "Slot 162 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007E108 0001869F"
+
+  - name: "Slot 162 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007E10F 0000003C"
+
+  - name: "Slot 163 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007E398 00000063"
+
+  - name: "Slot 163 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007E3A6 000F423F"
+
+  - name: "Slot 163 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007E3AA 0001869F"
+
+  - name: "Slot 163 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007E3AE 0001869F"
+
+  - name: "Slot 163 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007E3B5 0000003C"
+
+  - name: "Slot 164 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007E63E 00000063"
+
+  - name: "Slot 164 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007E64C 000F423F"
+
+  - name: "Slot 164 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007E650 0001869F"
+
+  - name: "Slot 164 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007E654 0001869F"
+
+  - name: "Slot 164 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007E65B 0000003C"
+
+  - name: "Slot 165 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007E8E4 00000063"
+
+  - name: "Slot 165 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007E8F2 000F423F"
+
+  - name: "Slot 165 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007E8F6 0001869F"
+
+  - name: "Slot 165 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007E8FA 0001869F"
+
+  - name: "Slot 165 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007E901 0000003C"
+
+  - name: "Slot 166 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007EB8A 00000063"
+
+  - name: "Slot 166 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007EB98 000F423F"
+
+  - name: "Slot 166 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007EB9C 0001869F"
+
+  - name: "Slot 166 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007EBA0 0001869F"
+
+  - name: "Slot 166 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007EBA7 0000003C"
+
+  - name: "Slot 167 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007EE30 00000063"
+
+  - name: "Slot 167 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007EE3E 000F423F"
+
+  - name: "Slot 167 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007EE42 0001869F"
+
+  - name: "Slot 167 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007EE46 0001869F"
+
+  - name: "Slot 167 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007EE4D 0000003C"
+
+  - name: "Slot 168 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007F0D6 00000063"
+
+  - name: "Slot 168 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007F0E4 000F423F"
+
+  - name: "Slot 168 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007F0E8 0001869F"
+
+  - name: "Slot 168 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007F0EC 0001869F"
+
+  - name: "Slot 168 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007F0F3 0000003C"
+
+  - name: "Slot 169 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007F37C 00000063"
+
+  - name: "Slot 169 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007F38A 000F423F"
+
+  - name: "Slot 169 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007F38E 0001869F"
+
+  - name: "Slot 169 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007F392 0001869F"
+
+  - name: "Slot 169 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007F399 0000003C"
+
+  - name: "Slot 170 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007F622 00000063"
+
+  - name: "Slot 170 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007F630 000F423F"
+
+  - name: "Slot 170 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007F634 0001869F"
+
+  - name: "Slot 170 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007F638 0001869F"
+
+  - name: "Slot 170 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007F63F 0000003C"
+
+  - name: "Slot 171 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007F8C8 00000063"
+
+  - name: "Slot 171 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007F8D6 000F423F"
+
+  - name: "Slot 171 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007F8DA 0001869F"
+
+  - name: "Slot 171 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007F8DE 0001869F"
+
+  - name: "Slot 171 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007F8E5 0000003C"
+
+  - name: "Slot 172 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007FB6E 00000063"
+
+  - name: "Slot 172 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007FB7C 000F423F"
+
+  - name: "Slot 172 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007FB80 0001869F"
+
+  - name: "Slot 172 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007FB84 0001869F"
+
+  - name: "Slot 172 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007FB8B 0000003C"
+
+  - name: "Slot 173 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007FE14 00000063"
+
+  - name: "Slot 173 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007FE22 000F423F"
+
+  - name: "Slot 173 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007FE26 0001869F"
+
+  - name: "Slot 173 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2007FE2A 0001869F"
+
+  - name: "Slot 173 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0007FE31 0000003C"
+
+  - name: "Slot 174 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000800BA 00000063"
+
+  - name: "Slot 174 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200800C8 000F423F"
+
+  - name: "Slot 174 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200800CC 0001869F"
+
+  - name: "Slot 174 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200800D0 0001869F"
+
+  - name: "Slot 174 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000800D7 0000003C"
+
+  - name: "Slot 175 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00080360 00000063"
+
+  - name: "Slot 175 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2008036E 000F423F"
+
+  - name: "Slot 175 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20080372 0001869F"
+
+  - name: "Slot 175 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20080376 0001869F"
+
+  - name: "Slot 175 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0008037D 0000003C"
+
+  - name: "Slot 176 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00080606 00000063"
+
+  - name: "Slot 176 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20080614 000F423F"
+
+  - name: "Slot 176 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20080618 0001869F"
+
+  - name: "Slot 176 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2008061C 0001869F"
+
+  - name: "Slot 176 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00080623 0000003C"
+
+  - name: "Slot 177 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000808AC 00000063"
+
+  - name: "Slot 177 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200808BA 000F423F"
+
+  - name: "Slot 177 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200808BE 0001869F"
+
+  - name: "Slot 177 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200808C2 0001869F"
+
+  - name: "Slot 177 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000808C9 0000003C"
+
+  - name: "Slot 178 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00080B52 00000063"
+
+  - name: "Slot 178 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20080B60 000F423F"
+
+  - name: "Slot 178 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20080B64 0001869F"
+
+  - name: "Slot 178 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20080B68 0001869F"
+
+  - name: "Slot 178 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00080B6F 0000003C"
+
+  - name: "Slot 179 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00080DF8 00000063"
+
+  - name: "Slot 179 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20080E06 000F423F"
+
+  - name: "Slot 179 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20080E0A 0001869F"
+
+  - name: "Slot 179 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20080E0E 0001869F"
+
+  - name: "Slot 179 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00080E15 0000003C"
+
+  - name: "Slot 180 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0008109E 00000063"
+
+  - name: "Slot 180 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200810AC 000F423F"
+
+  - name: "Slot 180 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200810B0 0001869F"
+
+  - name: "Slot 180 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200810B4 0001869F"
+
+  - name: "Slot 180 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000810BB 0000003C"
+
+  - name: "Slot 181 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00081344 00000063"
+
+  - name: "Slot 181 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20081352 000F423F"
+
+  - name: "Slot 181 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20081356 0001869F"
+
+  - name: "Slot 181 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2008135A 0001869F"
+
+  - name: "Slot 181 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00081361 0000003C"
+
+  - name: "Slot 182 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000815EA 00000063"
+
+  - name: "Slot 182 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200815F8 000F423F"
+
+  - name: "Slot 182 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200815FC 0001869F"
+
+  - name: "Slot 182 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20081600 0001869F"
+
+  - name: "Slot 182 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00081607 0000003C"
+
+  - name: "Slot 183 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00081890 00000063"
+
+  - name: "Slot 183 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2008189E 000F423F"
+
+  - name: "Slot 183 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200818A2 0001869F"
+
+  - name: "Slot 183 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200818A6 0001869F"
+
+  - name: "Slot 183 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000818AD 0000003C"
+
+  - name: "Slot 184 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00081B36 00000063"
+
+  - name: "Slot 184 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20081B44 000F423F"
+
+  - name: "Slot 184 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20081B48 0001869F"
+
+  - name: "Slot 184 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20081B4C 0001869F"
+
+  - name: "Slot 184 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00081B53 0000003C"
+
+  - name: "Slot 185 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00081DDC 00000063"
+
+  - name: "Slot 185 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20081DEA 000F423F"
+
+  - name: "Slot 185 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20081DEE 0001869F"
+
+  - name: "Slot 185 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20081DF2 0001869F"
+
+  - name: "Slot 185 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00081DF9 0000003C"
+
+  - name: "Slot 186 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00082082 00000063"
+
+  - name: "Slot 186 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20082090 000F423F"
+
+  - name: "Slot 186 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20082094 0001869F"
+
+  - name: "Slot 186 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20082098 0001869F"
+
+  - name: "Slot 186 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0008209F 0000003C"
+
+  - name: "Slot 187 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00082328 00000063"
+
+  - name: "Slot 187 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20082336 000F423F"
+
+  - name: "Slot 187 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2008233A 0001869F"
+
+  - name: "Slot 187 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2008233E 0001869F"
+
+  - name: "Slot 187 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00082345 0000003C"
+
+  - name: "Slot 188 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000825CE 00000063"
+
+  - name: "Slot 188 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200825DC 000F423F"
+
+  - name: "Slot 188 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200825E0 0001869F"
+
+  - name: "Slot 188 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200825E4 0001869F"
+
+  - name: "Slot 188 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000825EB 0000003C"
+
+  - name: "Slot 189 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00082874 00000063"
+
+  - name: "Slot 189 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20082882 000F423F"
+
+  - name: "Slot 189 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20082886 0001869F"
+
+  - name: "Slot 189 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2008288A 0001869F"
+
+  - name: "Slot 189 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00082891 0000003C"
+
+  - name: "Slot 190 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00082B1A 00000063"
+
+  - name: "Slot 190 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20082B28 000F423F"
+
+  - name: "Slot 190 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20082B2C 0001869F"
+
+  - name: "Slot 190 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20082B30 0001869F"
+
+  - name: "Slot 190 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00082B37 0000003C"
+
+  - name: "Slot 191 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00082DC0 00000063"
+
+  - name: "Slot 191 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20082DCE 000F423F"
+
+  - name: "Slot 191 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20082DD2 0001869F"
+
+  - name: "Slot 191 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20082DD6 0001869F"
+
+  - name: "Slot 191 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00082DDD 0000003C"
+
+  - name: "Slot 192 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00083066 00000063"
+
+  - name: "Slot 192 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20083074 000F423F"
+
+  - name: "Slot 192 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20083078 0001869F"
+
+  - name: "Slot 192 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2008307C 0001869F"
+
+  - name: "Slot 192 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00083083 0000003C"
+
+  - name: "Slot 193 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0008330C 00000063"
+
+  - name: "Slot 193 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2008331A 000F423F"
+
+  - name: "Slot 193 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2008331E 0001869F"
+
+  - name: "Slot 193 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20083322 0001869F"
+
+  - name: "Slot 193 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00083329 0000003C"
+
+  - name: "Slot 194 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000835B2 00000063"
+
+  - name: "Slot 194 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200835C0 000F423F"
+
+  - name: "Slot 194 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200835C4 0001869F"
+
+  - name: "Slot 194 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200835C8 0001869F"
+
+  - name: "Slot 194 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000835CF 0000003C"
+
+  - name: "Slot 195 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00083858 00000063"
+
+  - name: "Slot 195 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20083866 000F423F"
+
+  - name: "Slot 195 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2008386A 0001869F"
+
+  - name: "Slot 195 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2008386E 0001869F"
+
+  - name: "Slot 195 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00083875 0000003C"
+
+  - name: "Slot 196 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00083AFE 00000063"
+
+  - name: "Slot 196 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20083B0C 000F423F"
+
+  - name: "Slot 196 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20083B10 0001869F"
+
+  - name: "Slot 196 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20083B14 0001869F"
+
+  - name: "Slot 196 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00083B1B 0000003C"
+
+  - name: "Slot 197 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00083DA4 00000063"
+
+  - name: "Slot 197 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20083DB2 000F423F"
+
+  - name: "Slot 197 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20083DB6 0001869F"
+
+  - name: "Slot 197 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20083DBA 0001869F"
+
+  - name: "Slot 197 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00083DC1 0000003C"
+
+  - name: "Slot 198 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0008404A 00000063"
+
+  - name: "Slot 198 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20084058 000F423F"
+
+  - name: "Slot 198 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2008405C 0001869F"
+
+  - name: "Slot 198 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20084060 0001869F"
+
+  - name: "Slot 198 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00084067 0000003C"
+
+  - name: "Slot 199 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000842F0 00000063"
+
+  - name: "Slot 199 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200842FE 000F423F"
+
+  - name: "Slot 199 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20084302 0001869F"
+
+  - name: "Slot 199 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20084306 0001869F"
+
+  - name: "Slot 199 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0008430D 0000003C"
+
+  - name: "Slot 200 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00084596 00000063"
+
+  - name: "Slot 200 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200845A4 000F423F"
+
+  - name: "Slot 200 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200845A8 0001869F"
+
+  - name: "Slot 200 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200845AC 0001869F"
+
+  - name: "Slot 200 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000845B3 0000003C"
+
+  - name: "Slot 201 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0008483C 00000063"
+
+  - name: "Slot 201 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2008484A 000F423F"
+
+  - name: "Slot 201 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2008484E 0001869F"
+
+  - name: "Slot 201 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20084852 0001869F"
+
+  - name: "Slot 201 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00084859 0000003C"
+
+  - name: "Slot 202 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00084AE2 00000063"
+
+  - name: "Slot 202 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20084AF0 000F423F"
+
+  - name: "Slot 202 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20084AF4 0001869F"
+
+  - name: "Slot 202 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20084AF8 0001869F"
+
+  - name: "Slot 202 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00084AFF 0000003C"
+
+  - name: "Slot 203 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00084D88 00000063"
+
+  - name: "Slot 203 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20084D96 000F423F"
+
+  - name: "Slot 203 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20084D9A 0001869F"
+
+  - name: "Slot 203 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20084D9E 0001869F"
+
+  - name: "Slot 203 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00084DA5 0000003C"
+
+  - name: "Slot 204 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0008502E 00000063"
+
+  - name: "Slot 204 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2008503C 000F423F"
+
+  - name: "Slot 204 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20085040 0001869F"
+
+  - name: "Slot 204 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20085044 0001869F"
+
+  - name: "Slot 204 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0008504B 0000003C"
+
+  - name: "Slot 205 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000852D4 00000063"
+
+  - name: "Slot 205 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200852E2 000F423F"
+
+  - name: "Slot 205 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200852E6 0001869F"
+
+  - name: "Slot 205 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200852EA 0001869F"
+
+  - name: "Slot 205 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000852F1 0000003C"
+
+  - name: "Slot 206 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0008557A 00000063"
+
+  - name: "Slot 206 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20085588 000F423F"
+
+  - name: "Slot 206 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2008558C 0001869F"
+
+  - name: "Slot 206 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20085590 0001869F"
+
+  - name: "Slot 206 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00085597 0000003C"
+
+  - name: "Slot 207 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00085820 00000063"
+
+  - name: "Slot 207 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2008582E 000F423F"
+
+  - name: "Slot 207 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20085832 0001869F"
+
+  - name: "Slot 207 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20085836 0001869F"
+
+  - name: "Slot 207 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0008583D 0000003C"
+
+  - name: "Slot 208 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00085AC6 00000063"
+
+  - name: "Slot 208 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20085AD4 000F423F"
+
+  - name: "Slot 208 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20085AD8 0001869F"
+
+  - name: "Slot 208 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20085ADC 0001869F"
+
+  - name: "Slot 208 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00085AE3 0000003C"
+
+  - name: "Slot 209 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00085D6C 00000063"
+
+  - name: "Slot 209 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20085D7A 000F423F"
+
+  - name: "Slot 209 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20085D7E 0001869F"
+
+  - name: "Slot 209 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20085D82 0001869F"
+
+  - name: "Slot 209 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00085D89 0000003C"
+
+  - name: "Slot 210 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00086012 00000063"
+
+  - name: "Slot 210 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20086020 000F423F"
+
+  - name: "Slot 210 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20086024 0001869F"
+
+  - name: "Slot 210 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20086028 0001869F"
+
+  - name: "Slot 210 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0008602F 0000003C"
+
+  - name: "Slot 211 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000862B8 00000063"
+
+  - name: "Slot 211 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200862C6 000F423F"
+
+  - name: "Slot 211 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200862CA 0001869F"
+
+  - name: "Slot 211 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200862CE 0001869F"
+
+  - name: "Slot 211 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000862D5 0000003C"
+
+  - name: "Slot 212 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0008655E 00000063"
+
+  - name: "Slot 212 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2008656C 000F423F"
+
+  - name: "Slot 212 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20086570 0001869F"
+
+  - name: "Slot 212 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20086574 0001869F"
+
+  - name: "Slot 212 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0008657B 0000003C"
+
+  - name: "Slot 213 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00086804 00000063"
+
+  - name: "Slot 213 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20086812 000F423F"
+
+  - name: "Slot 213 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20086816 0001869F"
+
+  - name: "Slot 213 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2008681A 0001869F"
+
+  - name: "Slot 213 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00086821 0000003C"
+
+  - name: "Slot 214 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00086AAA 00000063"
+
+  - name: "Slot 214 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20086AB8 000F423F"
+
+  - name: "Slot 214 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20086ABC 0001869F"
+
+  - name: "Slot 214 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20086AC0 0001869F"
+
+  - name: "Slot 214 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00086AC7 0000003C"
+
+  - name: "Slot 215 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00086D50 00000063"
+
+  - name: "Slot 215 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20086D5E 000F423F"
+
+  - name: "Slot 215 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20086D62 0001869F"
+
+  - name: "Slot 215 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20086D66 0001869F"
+
+  - name: "Slot 215 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00086D6D 0000003C"
+
+  - name: "Slot 216 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00086FF6 00000063"
+
+  - name: "Slot 216 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20087004 000F423F"
+
+  - name: "Slot 216 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20087008 0001869F"
+
+  - name: "Slot 216 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2008700C 0001869F"
+
+  - name: "Slot 216 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00087013 0000003C"
+
+  - name: "Slot 217 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0008729C 00000063"
+
+  - name: "Slot 217 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200872AA 000F423F"
+
+  - name: "Slot 217 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200872AE 0001869F"
+
+  - name: "Slot 217 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200872B2 0001869F"
+
+  - name: "Slot 217 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000872B9 0000003C"
+
+  - name: "Slot 218 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00087542 00000063"
+
+  - name: "Slot 218 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20087550 000F423F"
+
+  - name: "Slot 218 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20087554 0001869F"
+
+  - name: "Slot 218 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20087558 0001869F"
+
+  - name: "Slot 218 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0008755F 0000003C"
+
+  - name: "Slot 219 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000877E8 00000063"
+
+  - name: "Slot 219 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200877F6 000F423F"
+
+  - name: "Slot 219 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200877FA 0001869F"
+
+  - name: "Slot 219 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200877FE 0001869F"
+
+  - name: "Slot 219 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00087805 0000003C"
+
+  - name: "Slot 220 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00087A8E 00000063"
+
+  - name: "Slot 220 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20087A9C 000F423F"
+
+  - name: "Slot 220 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20087AA0 0001869F"
+
+  - name: "Slot 220 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20087AA4 0001869F"
+
+  - name: "Slot 220 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00087AAB 0000003C"
+
+  - name: "Slot 221 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00087D34 00000063"
+
+  - name: "Slot 221 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20087D42 000F423F"
+
+  - name: "Slot 221 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20087D46 0001869F"
+
+  - name: "Slot 221 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20087D4A 0001869F"
+
+  - name: "Slot 221 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00087D51 0000003C"
+
+  - name: "Slot 222 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00087FDA 00000063"
+
+  - name: "Slot 222 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20087FE8 000F423F"
+
+  - name: "Slot 222 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20087FEC 0001869F"
+
+  - name: "Slot 222 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20087FF0 0001869F"
+
+  - name: "Slot 222 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00087FF7 0000003C"
+
+  - name: "Slot 223 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00088280 00000063"
+
+  - name: "Slot 223 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2008828E 000F423F"
+
+  - name: "Slot 223 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20088292 0001869F"
+
+  - name: "Slot 223 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20088296 0001869F"
+
+  - name: "Slot 223 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "0008829D 0000003C"
+
+  - name: "Slot 224 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00088526 00000063"
+
+  - name: "Slot 224 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20088534 000F423F"
+
+  - name: "Slot 224 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20088538 0001869F"
+
+  - name: "Slot 224 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "2008853C 0001869F"
+
+  - name: "Slot 224 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00088543 0000003C"
+
+  - name: "Slot 225 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000887CC 00000063"
+
+  - name: "Slot 225 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200887DA 000F423F"
+
+  - name: "Slot 225 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200887DE 0001869F"
+
+  - name: "Slot 225 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "200887E2 0001869F"
+
+  - name: "Slot 225 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "000887E9 0000003C"
+
+  - name: "Slot 226 Max Lvl 99"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00088A72 00000063"
+
+  - name: "Slot 226 Max Hp"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20088A80 000F423F"
+
+  - name: "Slot 226 Max Str"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20088A84 0001869F"
+
+  - name: "Slot 226 Max Mag"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "20088A88 0001869F"
+
+  - name: "Slot 226 Max Atb"
+    notes: "[Tamed Monster Stats]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "00088A8F 0000003C"
+
+  - name: "Update App.dat Checksum (required)"
+    notes: "[Encryption]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "set pointer:eof-0x7"
+      - "set range:0x0,pointer"
+      - "set [hash]:ff13_checksum"
+      - "write next (4):[hash]"
+
+  - name: "Encrypt App.dat (required)"
+    notes: "[Encryption]  File: BCAS20224-*\\APP.DAT"
+    codes:
+      - "set range:0x000000,eof+1"
+      - "ENCRYPT FFXIII(2, [key])"

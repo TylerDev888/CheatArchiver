@@ -1,0 +1,27 @@
+# Tournament of Legends cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  SGAE8P
+
+game: "Tournament of Legends"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "SGAE8P"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Turn CPU Into Player Controlled"
+    author: "Skiller"
+    codes:
+      - "C20CCEBC 00000005"
+      - "2C0405A0 4082001C"
+      - "7C84002E 2C040001"
+      - "4082000C 388005A0"
+      - "7F24012E 388005A0"
+      - "7C04002E 00000000"
+
+  - name: "Freeze Timer"
+    author: "Skiller"
+    codes:
+      - "0474F6E0 00000001"

@@ -1,0 +1,771 @@
+# Atelier Ayesha_ The Alchemist of Dusk
+
+**Console:** PlayStation 3  
+**Region:** NTSC-J  
+**Serial:** BLAS50484  
+**Cheat Type:** Save Editor  
+
+---
+
+## Cheats
+
+### Max Money
+**Author:**   
+**Notes:** File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000BD4C 0098967F
+```
+
+---
+
+### Reset Game Time Date
+**Author:**   
+**Notes:** File: BLAS50484-LIST-*\\USR-DATA
+
+```
+1008A0B7 0000005A
+```
+
+---
+
+### Start New Game With 120 Basket Slots
+**Author:**   
+**Notes:** File: BLAS50484-LIST-*\\USR-DATA
+
+```
+20090E8D 06270115
+20090E91 42638000
+20090E9F 000000CA
+20090EA9 00000001
+```
+
+---
+
+### Start New Game With Portable Container
+**Author:**   
+**Notes:** File: BLAS50484-LIST-*\\USR-DATA
+
+```
+20090E6D 03CE0114
+20090E71 42534000
+20090E7F 000000C1
+20090E89 00000001
+```
+
+---
+
+### Start New Game With Speculator Die With Amplify Power And Bring Fortune
+**Author:**   
+**Notes:** File: BLAS50484-LIST-*\\USR-DATA
+
+```
+20090EAD 0B690116
+20090EB1 428FC000
+20090EBF 000000D4
+10090EC3 000000CF
+20090EC9 00000001
+```
+
+---
+
+### Start New Game With Nomadic Shoes With Like The Wind Attribute
+**Author:**   
+**Notes:** File: BLAS50484-LIST-*\\USR-DATA
+
+```
+20090ECD 09E80117
+20090ED1 42820000
+20090EDF 000000C4
+20090EE9 00000001
+```
+
+---
+
+### Start New Game With Corrective Glasses With Gather Rate Up
+**Author:**   
+**Notes:** File: BLAS50484-LIST-*\\USR-DATA
+
+```
+20090EED 02480118
+20090EF1 42553DA1
+20090EFF 000000C5
+20090F09 00000001
+```
+
+---
+
+### Wilbell
+**Author:**   
+**Notes:** [Max Friendship Codes]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000C260 42C80000
+```
+
+---
+
+### Regina
+**Author:**   
+**Notes:** [Max Friendship Codes]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000C4E8 42C80000
+```
+
+---
+
+### Linca
+**Author:**   
+**Notes:** [Max Friendship Codes]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000C770 42C80000
+```
+
+---
+
+### Juris
+**Author:**   
+**Notes:** [Max Friendship Codes]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000C9F8 42C80000
+```
+
+---
+
+### Keithgrif
+**Author:**   
+**Notes:** [Max Friendship Codes]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000CC80 42C80000
+```
+
+---
+
+### Nio
+**Author:**   
+**Notes:** [Max Friendship Codes]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000CF08 42C80000
+```
+
+---
+
+### Marion(dlc)
+**Author:**   
+**Notes:** [Max Friendship Codes]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000D190 42C80000
+```
+
+---
+
+### Odelia(dlc)
+**Author:**   
+**Notes:** [Max Friendship Codes]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000D418 42C80000
+```
+
+---
+
+### Basket Slot 1 Ayesha Fairy Queen Staff
+**Author:**   
+**Notes:** [Modded Ultimate Gear In Basket Codes(remember Don't Use Dlc Weapons If You Don't Have Chars)]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+100392BE 00000163
+100392C0 000042F0
+100392C4 000000E0
+100392C6 000000B6
+100392C8 000000BC
+100392CA 000000B4
+100392CC 000000B0
+100392D0 000000FA
+100392D2 0000011E
+100392D4 000000B0
+100392D6 000000E8
+100392D8 00000001
+```
+
+---
+
+### Basket Slot 2 Willbel Spirit Broom
+**Author:**   
+**Notes:** [Modded Ultimate Gear In Basket Codes(remember Don't Use Dlc Weapons If You Don't Have Chars)]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+100392DE 00000168
+100392E0 000042F0
+100392E4 000000E0
+100392E6 000000B6
+100392E8 0000003F
+100392EA 000000B4
+100392EC 000000B0
+100392F0 000000FA
+100392F2 0000011E
+100392F4 000000F3
+100392F6 000000E8
+100392F8 00000001
+```
+
+---
+
+### Basket Slot 3 Linca Angel's Sword
+**Author:**   
+**Notes:** [Modded Ultimate Gear In Basket Codes(remember Don't Use Dlc Weapons If You Don't Have Chars)]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+100392FE 00000172
+10039300 000042F0
+10039304 000000E0
+10039306 000000B6
+10039308 0000003F
+1003930A 000000B4
+1003930C 000000B0
+10039310 000000FA
+10039312 0000011E
+10039314 000000F3
+10039316 000000E8
+10039318 00000001
+```
+
+---
+
+### Basket Slot 4 Juris White Fang
+**Author:**   
+**Notes:** [Modded Ultimate Gear In Basket Codes(remember Don't Use Dlc Weapons If You Don't Have Chars)]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+1003931E 00000177
+10039320 000042F0
+10039324 000000E0
+10039326 000000B6
+10039328 0000003F
+1003932A 000000B4
+1003932C 000000B0
+10039330 000000FA
+10039332 0000011E
+10039334 000000F3
+10039336 000000E8
+10039338 00000001
+```
+
+---
+
+### Basket Slot 5 Keithgriff Raibow Ring
+**Author:**   
+**Notes:** [Modded Ultimate Gear In Basket Codes(remember Don't Use Dlc Weapons If You Don't Have Chars)]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+1003933E 0000017C
+10039340 000042F0
+10039344 000000E0
+10039346 000000B6
+10039348 0000003F
+1003934A 000000B4
+1003934C 000000B0
+10039350 000000FA
+10039352 0000011E
+10039354 000000F3
+10039356 000000E8
+10039358 00000001
+```
+
+---
+
+### Basket Slot 6 Regina Diamond Pickaxe
+**Author:**   
+**Notes:** [Modded Ultimate Gear In Basket Codes(remember Don't Use Dlc Weapons If You Don't Have Chars)]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+1003935E 0000016D
+10039360 000042F0
+10039364 000000E0
+10039366 000000B6
+10039368 0000003F
+1003936A 000000B4
+1003936C 000000B0
+10039370 000000FA
+10039372 0000011E
+10039374 000000F3
+10039376 000000E8
+10039378 00000001
+```
+
+---
+
+### Basket Slot 7 Nio Single Mixer
+**Author:**   
+**Notes:** [Modded Ultimate Gear In Basket Codes(remember Don't Use Dlc Weapons If You Don't Have Chars)]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+1003937E 0000017F
+10039380 000042F0
+10039384 000000E0
+10039386 000000B6
+10039388 0000003F
+1003938A 000000B4
+1003938C 000000B0
+10039390 000000FA
+10039392 0000011E
+10039394 000000F3
+10039396 000000E8
+10039398 00000001
+```
+
+---
+
+### Basket Slot 8 Marion(dlcchar) Star Magnum
+**Author:**   
+**Notes:** [Modded Ultimate Gear In Basket Codes(remember Don't Use Dlc Weapons If You Don't Have Chars)]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+1003939E 000001EC
+100393A0 000042F0
+100393A4 000000E0
+100393A6 000000B6
+100393A8 0000003F
+100393AA 000000B4
+100393AC 000000B0
+100393B0 000000FA
+100393B2 0000011E
+100393B4 000000F3
+100393B6 000000E8
+100393B8 00000001
+```
+
+---
+
+### Basket Slot 9 Odelia(dlcchar) Shining Gear
+**Author:**   
+**Notes:** [Modded Ultimate Gear In Basket Codes(remember Don't Use Dlc Weapons If You Don't Have Chars)]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+100393BE 000001EF
+100393C0 000042F0
+100393C4 000000E0
+100393C6 000000B6
+100393C8 0000003F
+100393CA 000000B4
+100393CC 000000B0
+100393D0 000000FA
+100393D2 0000011E
+100393D4 000000F3
+100393D6 000000E8
+100393D8 00000001
+```
+
+---
+
+### Basket Slot 10 Ultimate Rainbow Shirt(ayesha Version)
+**Author:**   
+**Notes:** [Modded Ultimate Gear In Basket Codes(remember Don't Use Dlc Weapons If You Don't Have Chars)]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+100393DE 00000187
+100393E0 000042F0
+100393E4 000000BC
+100393E6 000000B6
+100393E8 000000B4
+100393EA 000000E0
+100393EC 000000BE
+100393F0 00000105
+100393F2 0000011E
+100393F4 000000F3
+100393F6 000000E8
+100393F8 00000001
+```
+
+---
+
+### Basket Slot 11 Ultimate Rainbow Shirt(others Version)
+**Author:**   
+**Notes:** [Modded Ultimate Gear In Basket Codes(remember Don't Use Dlc Weapons If You Don't Have Chars)]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+100393FE 00000187
+10039400 000042F0
+10039404 000000BC
+10039406 000000B6
+10039408 000000B4
+1003940A 000000E0
+1003940C 0000003F
+10039410 00000105
+10039412 0000011E
+10039414 000000F3
+10039416 000000E8
+10039418 00000001
+```
+
+---
+
+### Basket Slot 12 Ultimate Meteor Plate(others Version)
+**Author:**   
+**Notes:** [Modded Ultimate Gear In Basket Codes(remember Don't Use Dlc Weapons If You Don't Have Chars)]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+1003941E 0000018E
+10039420 000042F0
+10039424 000000BC
+10039426 000000B6
+10039428 000000B4
+1003942A 000000E0
+1003942C 0000003F
+10039430 00000105
+10039432 0000011E
+10039434 000000F3
+10039436 000000E8
+10039438 00000001
+```
+
+---
+
+### Basket Slot 13 Ultimate Acessory Slot 1(ayesha)
+**Author:**   
+**Notes:** [Modded Ultimate Gear In Basket Codes(remember Don't Use Dlc Weapons If You Don't Have Chars)]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+1003943E 00000197
+10039440 000042F0
+10039444 00000027
+10039446 000000BE
+10039448 000000B4
+1003944A 000000E0
+1003944C 000000B0
+10039450 00000105
+10039452 000000F5
+10039454 000000E8
+10039456 000000E7
+10039458 00000001
+```
+
+---
+
+### Basket Slot 14 Ultimate Acessory Slot 2(ayesha)
+**Author:**   
+**Notes:** [Modded Ultimate Gear In Basket Codes(remember Don't Use Dlc Weapons If You Don't Have Chars)]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+1003945E 00000191
+10039460 000042F0
+10039464 00000027
+10039466 000000BE
+10039468 000000B4
+1003946A 000000E0
+1003946C 000000B0
+10039470 00000105
+10039472 0000011E
+10039474 0000011D
+10039476 000000FA
+10039478 00000001
+```
+
+---
+
+### Basket Slot 14 Ultimate Acessory Slot 1(others)
+**Author:**   
+**Notes:** [Modded Ultimate Gear In Basket Codes(remember Don't Use Dlc Weapons If You Don't Have Chars)]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+1003947E 00000197
+10039480 000042F0
+10039484 0000003F
+10039486 000000BE
+10039488 000000B4
+1003948A 000000E0
+1003948C 000000B0
+10039490 00000105
+10039492 000000F5
+10039494 000000E8
+10039496 000000E7
+10039498 00000001
+```
+
+---
+
+### Basket Slot 15 Ultimate Acessory Slot 2(others)
+**Author:**   
+**Notes:** [Modded Ultimate Gear In Basket Codes(remember Don't Use Dlc Weapons If You Don't Have Chars)]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+1003949E 00000191
+100394A0 000042F0
+100394A4 0000003F
+100394A6 000000BE
+100394A8 000000B4
+100394AA 000000E0
+100394AC 000000B0
+100394B0 00000105
+100394B2 0000011E
+100394B4 0000011D
+100394B6 000000FA
+100394B8 00000001
+```
+
+---
+
+### Max Memory Pts
+**Author:**   
+**Notes:** [Character Ayesha]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2009D381 0000270F
+2009D385 0000270F
+```
+
+---
+
+### Max Alchemy Exp
+**Author:**   
+**Notes:** [Character Ayesha]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+200861F5 0098967F
+```
+
+---
+
+### Max Exp
+**Author:**   
+**Notes:** [Character Ayesha]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000BD64 000F423F
+```
+
+---
+
+### Max Hp
+**Author:**   
+**Notes:** [Character Ayesha]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000BD68 000003E7
+2000BD70 000003E7
+1000BE62 000003E7
+```
+
+---
+
+### Max Mp
+**Author:**   
+**Notes:** [Character Ayesha]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000BD6C 000003E7
+2000BD74 000003E7
+1000BE66 000003E7
+```
+
+---
+
+### Max Atk
+**Author:**   
+**Notes:** [Character Ayesha]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000BD78 000003E7
+1000BE6A 000003E7
+```
+
+---
+
+### Max Spd
+**Author:**   
+**Notes:** [Character Ayesha]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000BD7C 000003E7
+1000BE6E 000003E7
+```
+
+---
+
+### Max Def
+**Author:**   
+**Notes:** [Character Ayesha]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000BD80 000003E7
+1000BE72 000003E7
+```
+
+---
+
+### Max All Resistances
+**Author:**   
+**Notes:** [Character Ayesha]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000BD84 000003E7
+2000BD88 000003E7
+2000BD8C 000003E7
+2000BD90 000003E7
+```
+
+---
+
+### Max Critical Rate
+**Author:**   
+**Notes:** [Character Ayesha]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000BD94 000003E7
+1000BE86 000003E7
+```
+
+---
+
+### Max Critical
+**Author:**   
+**Notes:** [Character Ayesha]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000BD98 000003E7
+1000BE8A 000003E7
+```
+
+---
+
+### Max Power
+**Author:**   
+**Notes:** [Character Ayesha]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000BD9C 000003E7
+1000BE8E 000003E7
+```
+
+---
+
+### Max Ap Value
+**Author:**   
+**Notes:** [Character Ayesha]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000BDA0 000003E7
+1000BE92 000003E7
+```
+
+---
+
+### Max Skill Cut Cost
+**Author:**   
+**Notes:** [Character Ayesha]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000BDA4 000003E7
+1000BE96 000003E7
+```
+
+---
+
+### Max Evasion
+**Author:**   
+**Notes:** [Character Ayesha]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000BDA8 000003E7
+1000BE9A 000003E7
+```
+
+---
+
+### Max Action
+**Author:**   
+**Notes:** [Character Ayesha]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000BDAC 000003E7
+1000BE9E 000003E7
+```
+
+---
+
+### Max Damage Reduction
+**Author:**   
+**Notes:** [Character Ayesha]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000BDB0 000003E7
+1000BEA2 000003E7
+```
+
+---
+
+### Max Revival
+**Author:**   
+**Notes:** [Character Ayesha]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000BDC0 000003E7
+1000BEB2 000003E7
+```
+
+---
+
+### Max Exp Bonus
+**Author:**   
+**Notes:** [Character Ayesha]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000BDDC 000003E7
+1000BECE 000003E7
+```
+
+---
+
+### Max Money Bonus
+**Author:**   
+**Notes:** [Character Ayesha]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000BDE0 000003E7
+1000BED2 000003E7
+```
+
+---
+
+### Max Drop Rate
+**Author:**   
+**Notes:** [Character Ayesha]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000BDE4 000003E7
+1000BED6 000003E7
+```
+
+---
+
+### Add All Ailments In Attacks
+**Author:**   
+**Notes:** [Character Ayesha]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000BDC8 00000064
+2000BDCC 00000064
+2000BDD0 00000064
+2000BDD4 00000064
+2000BDD8 00000064
+```
+
+---
+
+### Max Additional Elemental Damages
+**Author:**   
+**Notes:** [Character Ayesha]  File: BLAS50484-LIST-*\\USR-DATA
+
+```
+2000BDB4 00000064
+2000BDB8 00000064
+2000BDBC 00000064
+```
+
+---

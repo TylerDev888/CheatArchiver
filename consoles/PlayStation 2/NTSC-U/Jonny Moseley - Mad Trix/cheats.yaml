@@ -1,0 +1,107 @@
+# Jonny Moseley - Mad Trix cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20229
+
+game: "Jonny Moseley - Mad Trix"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20229"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100090 0025EB97"
+
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "94F59FCA 1EA874B0"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0025EB97"
+
+  - name: "Culling Menu (L3 + D-Pad Right)"
+    author: "punk7890"
+    notes: "[Debug Menus (Replaces Pause Menu)]"
+    codes:
+      - "E008FFDB 00382442"
+      - "202E4168 6C6C7543"
+      - "202E416C 20676E69"
+      - "202E4170 756E654D"
+      - "202E4174 00000000"
+      - "20158D6C 00000000"
+      - "10158DB4 00000011"
+      - "00158DAC 00000020"
+      - "20158DBC 24020010"
+
+  - name: "Debug Menu (L3 + D-Pad Up)"
+    author: "punk7890"
+    notes: "[Debug Menus (Replaces Pause Menu)]"
+    codes:
+      - "E008FFEB 00382442"
+      - "202E4168 75626544"
+      - "202E416C 654D2067"
+      - "202E4170 0000756E"
+      - "202E4174 00000000"
+      - "20158D6C 00000000"
+      - "10158DB4 00000011"
+      - "00158DAC 00000020"
+      - "20158DBC 24020010"
+
+  - name: "Pause Menu (L3 + D-Pad Down)"
+    author: "punk7890"
+    notes: "[Debug Menus (Replaces Pause Menu)]"
+    codes:
+      - "E008FFBB 00382442"
+      - "202E4168 656D6147"
+      - "202E416C 75615020"
+      - "202E4170 4D206573"
+      - "202E4174 00756E65"
+      - "10158DB4 0000008C"
+      - "00158DAC 00000064"
+      - "20158DBC 24420010"
+      - "20158D6C 0C0589F0"
+
+  - name: "Physics Menu (L3 + D-Pad Left)"
+    author: "punk7890"
+    notes: "[Debug Menus (Replaces Pause Menu)]"
+    codes:
+      - "E008FF7B 00382442"
+      - "202E4168 73796850"
+      - "202E416C 20736369"
+      - "202E4170 756E654D"
+      - "202E4174 00000000"
+      - "20158D6C 00000000"
+      - "10158DB4 00000001"
+      - "00158DAC 00000020"
+      - "20158DBC 24020004"
+
+  - name: "Have All Levels"
+    author: "Code Master"
+    codes:
+      - "21F43534 00000000"
+      - "21F4337C 00000000"
+
+  - name: "High Score"
+    author: "InterAct"
+    codes:
+      - "203A2D44 4A000000"
+
+  - name: "Infinite Time"
+    author: "InterAct"
+    codes:
+      - "2044B398 42F68A20"
+
+  - name: "Max Score"
+    author: "Code Master"
+    codes:
+      - "203A2D44 4B18967F"

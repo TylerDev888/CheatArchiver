@@ -1,0 +1,81 @@
+# Police 24-7 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50285
+
+game: "Police 24-7"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50285"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0132F98 0010C83F"
+
+  - name: "Another Story Open"
+    author: "Codejunkies"
+    notes: "[Continues Codes]"
+    codes:
+      - "102C33A0 00000001"
+
+  - name: "Infinite Continues"
+    author: "Codejunkies"
+    notes: "[Continues Codes]"
+    codes:
+      - "103A2F10 00000003"
+
+  - name: "Infinite Time"
+    author: "Codejunkies"
+    notes: "[Continues Codes]"
+    codes:
+      - "103A69F8 00000999"
+
+  - name: "Never More Than 1 Continue"
+    author: "Codejunkies"
+    notes: "[Continues Codes]"
+    codes:
+      - "E0010001 303A2F10"
+      - "103A2F10 00000001"
+
+  - name: "Never More Than 2 Continues"
+    author: "Codejunkies"
+    notes: "[Continues Codes]"
+    codes:
+      - "E0010002 303A2F10"
+      - "103A2F10 00000002"
+
+  - name: "Rank: Commissioner"
+    author: "Codejunkies"
+    notes: "[Continues Codes]"
+    codes:
+      - "103A6A24 00000909"
+
+  - name: "Infinite Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "103A6A28 00000003"
+
+  - name: "Never More Than 1 Life"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E0010001 303A6A28"
+      - "103A6A28 00000001"
+
+  - name: "Never More Than 2 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E0010002 303A6A28"
+      - "103A6A28 00000002"
+
+  - name: "No Reload"
+    author: "Codejunkies"
+    codes:
+      - "103A6CF0 00000808"

@@ -1,0 +1,159 @@
+# Yakuza_ Dead Souls cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01399
+
+game: "Yakuza_ Dead Souls"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01399"
+cheat_type: "AP"
+source: "From Game Genie For PS3 & krustytoe"
+
+cheats:
+  - name: "Max Money"
+    notes: "File: USER01"
+    codes:
+      - "20008B48 3B9AC9FF"
+
+  - name: "Max Exp"
+    notes: "File: USER01"
+    codes:
+      - "2001CAFC 05F5E0FF"
+
+  - name: "Max Soul Points"
+    notes: "File: USER01"
+    codes:
+      - "0001CB06 000000FF"
+
+  - name: "Max Casino Chips"
+    notes: "File: USER01"
+    codes:
+      - "20008B4C 05F5E0FF"
+
+  - name: "Max Wooden Tag"
+    notes: "File: USER01"
+    codes:
+      - "20008B50 05F5E0FF"
+
+  - name: "Max Mahjong Sticks"
+    notes: "File: USER01"
+    codes:
+      - "20008B54 05F5E0FF"
+
+  - name: "Max Pachinko Balls"
+    notes: "File: USER01"
+    codes:
+      - "20008B74 05F5E0FF"
+
+  - name: "Max Slots Token"
+    notes: "File: USER01"
+    codes:
+      - "20008B78 0098967F"
+
+  - name: "Max Zombies Reward Points"
+    notes: "File: USER01"
+    codes:
+      - "20008B7C 05F5E0FF"
+
+  - name: "Max All Storage Items (except Weapons)"
+    notes: "File: USER01"
+    codes:
+      - "41005BDA 0000270F"
+      - "412B0008 00000000"
+
+  - name: "Inf Ammo(must Clear Slot 1-6 In Inventory Or It Will Be Replace)"
+    notes: "File: USER01"
+    codes:
+      - "10005B14 00000019"
+      - "10005B1A 0000FFFF"
+      - "10005B1C 0000001B"
+      - "10005B22 0000FFFF"
+      - "10005B24 0000001D"
+      - "10005B2A 0000FFFF"
+      - "10005B2C 0000001F"
+      - "10005B32 0000FFFF"
+      - "10005B34 00000021"
+      - "10005B3A 0000FFFF"
+      - "10005B3C 00000023"
+      - "10005B42 0000FFFF"
+
+  - name: "9999/9999 Hp(from Www55.atwiki.jp)"
+    notes: "File: USER01"
+    codes:
+      - "2001CAE4 270F270F"
+
+  - name: "Normal"
+    notes: "[Difficulty Modifer(choose One):(from savedata.jp)]  File: USER01"
+    codes:
+      - "10000014 00000101"
+
+  - name: "Hard"
+    notes: "[Difficulty Modifer(choose One):(from savedata.jp)]  File: USER01"
+    codes:
+      - "10000014 00000202"
+
+  - name: "Ex-hard"
+    notes: "[Difficulty Modifer(choose One):(from savedata.jp)]  File: USER01"
+    codes:
+      - "10000014 00000303"
+
+  - name: "Dead Souls"
+    notes: "[Difficulty Modifer(choose One):(from savedata.jp)]  File: USER01"
+    codes:
+      - "10000014 00000404"
+
+  - name: "Top Pachinko Payout"
+    notes: "[Minigame Challenge]  File: USER01"
+    codes:
+      - "20019EC4 0000270F"
+
+  - name: "Top Slots Payout"
+    notes: "[Minigame Challenge]  File: USER01"
+    codes:
+      - "20019EC8 0000270F"
+
+  - name: "Cee-lo"
+    notes: "[Minigame Challenge]  File: USER01"
+    codes:
+      - "20018B84 000F423F"
+
+  - name: "Cho-han"
+    notes: "[Minigame Challenge]  File: USER01"
+    codes:
+      - "20018C14 000F423F"
+
+  - name: "Koi-koi"
+    notes: "[Minigame Challenge]  File: USER01"
+    codes:
+      - "20018CBC 000F423F"
+
+  - name: "Oicho-kabu"
+    notes: "[Minigame Challenge]  File: USER01"
+    codes:
+      - "200196A8 000F423F"
+
+  - name: "Roulette"
+    notes: "[Minigame Challenge]  File: USER01"
+    codes:
+      - "20018D48 000F423F"
+
+  - name: "Poker"
+    notes: "[Minigame Challenge]  File: USER01"
+    codes:
+      - "20018DD8 000F423F"
+
+  - name: "Blackjack"
+    notes: "[Minigame Challenge]  File: USER01"
+    codes:
+      - "20018E64 000F423F"
+
+  - name: "Baccarat"
+    notes: "[Minigame Challenge]  File: USER01"
+    codes:
+      - "2001A274 000F423F"
+
+  - name: "Boxcelios"
+    notes: "[Minigame Challenge]  File: USER01"
+    codes:
+      - "0001A167 00000064"

@@ -1,0 +1,54 @@
+# Lego Indiana Jones_ The Original Adventures cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21759
+
+game: "Lego Indiana Jones_ The Original Adventures"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21759"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90449D50 0C1126FC"
+
+  - name: "Have All \"pause Menu\" Extras"
+    author: "SkillerCMP>Azagthoth"
+    codes:
+      - "200A0220 00661821"
+      - "200A0224 3C020000"
+      - "200A0228 34420000"
+      - "200A022C AC620000"
+      - "200A0230 080A092D"
+      - "200A0234 8C620000"
+      - "202824B0 08028088"
+      - "202824B4 00000000"
+
+  - name: "Use To Gain Lego Studs(cash)"
+    author: "SkillerCMP>Azagthoth"
+    codes:
+      - "201ECBA4 00431021"
+
+  - name: "Max/Inf HP"
+    author: "SkillerCMP>Azagthoth"
+    notes: "[Player 1]"
+    codes:
+      - "200A0014 A0431542"
+      - "200A0018 A0431543"
+
+  - name: "Max HP"
+    author: "SkillerCMP>Azagthoth"
+    notes: "[Player 1]"
+    codes:
+      - "200A0014 A0431542"
+
+  - name: "Inf HP"
+    author: "SkillerCMP>Azagthoth"
+    notes: "[Player 1]"
+    codes:
+      - "200A0014 90431542"
+      - "200A0018 A0431543"

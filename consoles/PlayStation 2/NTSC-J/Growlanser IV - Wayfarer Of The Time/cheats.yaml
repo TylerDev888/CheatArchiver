@@ -1,0 +1,23 @@
+# Growlanser IV - Wayfarer Of The Time cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65408
+
+game: "Growlanser IV - Wayfarer Of The Time"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65408"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010DC30 0C0436B4"
+
+  - name: "Press L3 For Debug Menu"
+    author: "punk7890"
+    codes:
+      - "004EA5B4 00000001"

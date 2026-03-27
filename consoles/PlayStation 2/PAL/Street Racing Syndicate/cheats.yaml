@@ -1,0 +1,53 @@
+# Street Racing Syndicate cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53045
+
+game: "Street Racing Syndicate"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53045"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01001E8 001001EB"
+
+  - name: "AR Below 3.14 Fix"
+    author: "Codejunkies"
+    codes:
+      - "204423D0 3C03200F"
+      - "204423D4 8C65FFF8"
+      - "204423D8 24040079"
+      - "204423DC 24030074"
+      - "204423E0 0000000C"
+      - "204423E4 3C010044"
+      - "204423E8 AC2023E0"
+
+  - name: "Hyper Mode"
+    author: "Codejunkies"
+    codes:
+      - "2039BD3C 3C013CB4"
+      - "E10000EC 3039BD40"
+
+  - name: "Infinite Nitro"
+    author: "Codejunkies"
+    codes:
+      - "20453124 00000000"
+
+  - name: "Maximum Cash (You Must Go In-Game To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "20297954 3C0705F0"
+      - "202979CC AC674C88"
+
+  - name: "Maximum Respect Points (You Must Go In-Game To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "20297954 3C0705F0"
+      - "202979D4 AC674C90"
+      - "202979E0 AFA70030"

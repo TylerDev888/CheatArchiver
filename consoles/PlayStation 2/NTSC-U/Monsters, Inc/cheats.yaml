@@ -1,0 +1,131 @@
+# Monsters, Inc cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97123
+
+game: "Monsters, Inc"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97123"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master>StalkerX"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00159457"
+
+  - name: "Start With 999 Screams"
+    author: "Code Master>StalkerX"
+    notes: "[Codes]"
+    codes:
+      - "D0B00620 00000000"
+      - "10B00620 000003E7"
+
+  - name: "Get 1 Scream For 999 Screams"
+    author: "Code Master>StalkerX"
+    notes: "[Codes]"
+    codes:
+      - "D0B00620 00000001"
+      - "10B00620 000003E7"
+
+  - name: "Infinite Health"
+    author: "Code Master>StalkerX"
+    notes: "[Codes]"
+    codes:
+      - "10B00622 00000005"
+
+  - name: "Start With 4 Canisters"
+    author: "Code Master>StalkerX"
+    notes: "[Codes]"
+    codes:
+      - "D0B00628 00000000"
+      - "10B00628 00000004"
+
+  - name: "Start With 4 Mice"
+    author: "Code Master>StalkerX"
+    notes: "[Codes]"
+    codes:
+      - "D0B0062A 00000000"
+      - "10B0062A 00000004"
+
+  - name: "Always Have 999 Screams"
+    author: "Code Master>StalkerX"
+    notes: "[Codes]"
+    codes:
+      - "201BB090 240303E7"
+      - "201BB09C A6630010"
+
+  - name: "Mailroom"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "20AFD928 00000001"
+
+  - name: "Main Street"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "20AFD950 00000001"
+
+  - name: "Sulley's Apartment"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "20AFD978 00000001"
+
+  - name: "Garbage Disposal"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "20AFD9B4 00000001"
+
+  - name: "Himalayas"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "20AFD9F0 00000001"
+
+  - name: "Door Vault"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "20AFDA04 00000001"
+
+  - name: "Showdown"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "20AFDA18 00000001"
+
+  - name: "Tot Bot Scare Fair"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Bonus Level Codes]"
+    codes:
+      - "20AFD944 00000032"
+
+  - name: "Canister Catastrophe"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Bonus Level Codes]"
+    codes:
+      - "20AFD96C 0000003C"
+
+  - name: "Closet Chaos"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Bonus Level Codes]"
+    codes:
+      - "20AFD9A8 00000046"
+
+  - name: "Furry Scurry"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Bonus Level Codes]"
+    codes:
+      - "20AFD9E4 00000050"
+
+  - name: "Yeti Says"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock Bonus Level Codes]"
+    codes:
+      - "20AFD9F8 0000005A"

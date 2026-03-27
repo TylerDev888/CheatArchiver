@@ -1,0 +1,25 @@
+# Monsters vs. Aliens cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00490
+
+game: "Monsters vs. Aliens"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00490"
+cheat_type: "Save Editor"
+source: "From chaoszage"
+
+cheats:
+  - name: "99999999 Dna Points"
+    notes: "File: GAMEDATA"
+    codes:
+      - "write at 0x44:05F5E0FF"
+
+  - name: "Update Crc32 (required)"
+    notes: "File: GAMEDATA  (set range:0x000004,0x000AA3)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"

@@ -1,0 +1,26 @@
+# Indiana Jones And The Emperor's Tomb cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50836
+
+game: "Indiana Jones And The Emperor's Tomb"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50836"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0120534 00120537"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "D034C368 0000010C"
+      - "2034C378 3C017F00"
+      - "D034C368 0000010C"
+      - "2034C388 AC41010C"

@@ -1,0 +1,45 @@
+# Pride_ Fighting Championships cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Pride_ Fighting Championships"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001134BF"
+
+  - name: "Health Player 1"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "502A6ADC 00000004"
+      - "002A6AE4 00000004"
+
+  - name: "Stamina Player 1"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "502A6ADC 00000004"
+      - "002A6AE0 00000004"
+
+  - name: "Health Player 2"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "502A85DC 00000004"
+      - "002A85E4 00000000"
+
+  - name: "Stamina Player 2"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "502A85DC 00000004"
+      - "002A85E0 00000000"

@@ -1,0 +1,68 @@
+# Karaoke Revolution cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20781
+
+game: "Karaoke Revolution"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20781"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master>tab"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100010 001FE7CF"
+
+  - name: "Code Breaker Version 6+ Enable Code (Must Be On)"
+    author: "Code Master>tab"
+    codes:
+      - "901FE7CC 0C0835D5"
+
+  - name: "Crowd Always Happy"
+    author: "Code Master>tab"
+    codes:
+      - "20188EF8 3C013F80"
+      - "2018AE50 3C013F80"
+      - "2018AE54 44810800"
+
+  - name: "Hella Quick Score Gain"
+    author: "Code Master>tab"
+    codes:
+      - "2018A0E4 24677FFF"
+
+  - name: "Quick Max Score"
+    author: "Code Master>tab"
+    codes:
+      - "2018A0DC 3C0705F5"
+      - "2018A0E4 34E7E0FF"
+
+  - name: "Quick Score Gain"
+    author: "Code Master>tab"
+    codes:
+      - "2018A0E4 246703E7"
+
+  - name: "Super Quick Score Gain"
+    author: "Code Master>tab"
+    codes:
+      - "2018A0E4 2467270F"
+
+  - name: "Unlock Everything"
+    author: "Code Master>tab"
+    codes:
+      - "202B5774 FFFFFFFF"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master>tab"
+    notes: "[Masters]"
+    codes:
+      - "F0100010 001FE7CF"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master>tab"
+    notes: "[Masters]"
+    codes:
+      - "901FE7CC 0C0835D5"

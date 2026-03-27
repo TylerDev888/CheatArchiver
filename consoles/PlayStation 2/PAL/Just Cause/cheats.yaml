@@ -1,0 +1,59 @@
+# Just Cause cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54137
+
+game: "Just Cause"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54137"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F04C64D0 004C64D3"
+
+  - name: "Infinite Ammo/No Reload"
+    author: "Codejunkies"
+    codes:
+      - "2030401C 25EF0000"
+
+  - name: "Infinite Grenades"
+    author: "Codejunkies"
+    codes:
+      - "2013E468 25EF0000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "201F79A4 3C017F00"
+      - "201F79B4 AE610514"
+
+  - name: "Max Guerrilla Relations"
+    author: "Codejunkies"
+    codes:
+      - "2183B478 0001869F"
+
+  - name: "Max Rioja Cartel Relations"
+    author: "Codejunkies"
+    codes:
+      - "2183B468 0001869F"
+
+  - name: "Moonjump"
+    author: "Codejunkies"
+    codes:
+      - "200FFF40 3C014080"
+      - "200FFF44 44810000"
+      - "200FFF48 080DEB50"
+      - "2037AD3C C5E00004"
+      - "D08DB242 0000DFFF"
+      - "2037AD3C 0803FFD0"
+
+  - name: "Unlock Dirt Bike/Gp/Gyrocopter/Boat"
+    author: "Codejunkies"
+    codes:
+      - "0183C668 0000000F"

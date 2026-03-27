@@ -1,0 +1,20 @@
+# Farming Simulator 2013 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01796
+
+game: "Farming Simulator 2013"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01796"
+cheat_type: "Save Editor"
+source: "From aldostools"
+
+cheats:
+  - name: "Money(requires Bsd 4.1.2 Or Higher)"
+    notes: "File: META.BIN"
+    codes:
+      - "search \"money=\""
+      - "set pointer:pointer+7"
+      - "delete next (0):until 0x22"
+      - "insert next (0):3939393939393939"

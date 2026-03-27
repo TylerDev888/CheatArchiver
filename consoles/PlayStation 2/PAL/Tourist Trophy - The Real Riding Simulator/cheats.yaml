@@ -1,0 +1,163 @@
+# Tourist Trophy - The Real Riding Simulator cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-53372
+
+game: "Tourist Trophy - The Real Riding Simulator"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-53372"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Nachbrenner>CJ"
+    notes: "[Master Codes]"
+    codes:
+      - "904E2360 0C141C06"
+
+  - name: "Double Acceleration"
+    author: "Nachbrenner>CJ"
+    notes: "[Gear Ratio Modifier Codes]"
+    codes:
+      - "20200274 3C013FC0"
+
+  - name: "Quadruple Acceleration"
+    author: "Nachbrenner>CJ"
+    notes: "[Gear Ratio Modifier Codes]"
+    codes:
+      - "20200274 3C014080"
+
+  - name: "Triple Acceleration"
+    author: "Nachbrenner>CJ"
+    notes: "[Gear Ratio Modifier Codes]"
+    codes:
+      - "20200274 3C014000"
+
+  - name: "X8 Acceleration"
+    author: "Nachbrenner>CJ"
+    notes: "[Gear Ratio Modifier Codes]"
+    codes:
+      - "20200274 3C014100"
+
+  - name: "1 Lap Races"
+    author: "Nachbrenner>CJ"
+    notes: "[Lap Modifier Codes]"
+    codes:
+      - "200FFF88 8C830000"
+      - "200FFF8C 24020001"
+      - "200FFF90 AC620000"
+      - "201B0204 0803FFE0"
+      - "200FFF94 0806C083"
+
+  - name: "10 Laps Races"
+    author: "Nachbrenner>CJ"
+    notes: "[Lap Modifier Codes]"
+    codes:
+      - "200FFF88 8C830000"
+      - "200FFF8C 2402000A"
+      - "200FFF90 AC620000"
+      - "201B0204 0803FFE0"
+      - "200FFF94 0806C083"
+
+  - name: "5 Lap Races"
+    author: "Nachbrenner>CJ"
+    notes: "[Lap Modifier Codes]"
+    codes:
+      - "200FFF88 8C830000"
+      - "200FFF8C 24020005"
+      - "200FFF90 AC620000"
+      - "201B0204 0803FFE0"
+      - "200FFF94 0806C083"
+
+  - name: "99 Laps Races"
+    author: "Nachbrenner>CJ"
+    notes: "[Lap Modifier Codes]"
+    codes:
+      - "200FFF88 8C830000"
+      - "200FFF8C 24020063"
+      - "200FFF90 AC620000"
+      - "201B0204 0803FFE0"
+      - "200FFF94 0806C083"
+
+  - name: "All Gold-Expert Class"
+    author: "Nachbrenner>CJ"
+    notes: "[License Codes]"
+    codes:
+      - "40839E48 000A0001"
+      - "0000F991 00000000"
+
+  - name: "All Gold-Junior Class"
+    author: "Nachbrenner>CJ"
+    notes: "[License Codes]"
+    codes:
+      - "40839E20 000A0001"
+      - "0000F991 00000000"
+
+  - name: "All Gold-Novice Class"
+    author: "Nachbrenner>CJ"
+    notes: "[License Codes]"
+    codes:
+      - "40839DF8 000A0001"
+      - "0000F991 00000000"
+
+  - name: "All Gold-Super Class"
+    author: "Nachbrenner>CJ"
+    notes: "[License Codes]"
+    codes:
+      - "40839E70 000A0001"
+      - "0000F991 00000000"
+
+  - name: "Fast Timer"
+    author: "Nachbrenner>CJ"
+    notes: "[Timer Codes]"
+    codes:
+      - "102054F4 00000262"
+
+  - name: "Freeze Timer"
+    author: "Nachbrenner>CJ"
+    notes: "[Timer Codes]"
+    codes:
+      - "E10100FD 00596404"
+      - "102054F6 00002442"
+      - "E10100FB 00596404"
+      - "102054F6 00002A00"
+
+  - name: "Slow Timer"
+    author: "Nachbrenner>CJ"
+    notes: "[Timer Codes]"
+    codes:
+      - "102054F4 00000001"
+
+  - name: "Mega Turbo (Press R3 To Activate)"
+    author: "Nachbrenner>CJ"
+    notes: "[Turbo Codes (All Bikes)]"
+    codes:
+      - "200FFF04 44810800"
+      - "200FFF0C 0808044C"
+      - "E10200FB 00596404"
+      - "20201128 0803FFC0"
+      - "200FFF00 3C014280"
+      - "E10100FB 10596404"
+      - "20201128 C6010570"
+
+  - name: "Turbo (Press R3 To Activate)"
+    author: "Nachbrenner>CJ"
+    notes: "[Turbo Codes (All Bikes)]"
+    codes:
+      - "200FFF04 44810800"
+      - "200FFF0C 0808044C"
+      - "E10200FB 00596404"
+      - "20201128 0803FFC0"
+      - "200FFF00 3C014180"
+      - "E10100FB 10596404"
+      - "20201128 C6010570"
+
+  - name: "Stupid AI"
+    author: "Nachbrenner>CJ"
+    codes:
+      - "E101007F 00596404"
+      - "201FBBA8 24020000"
+      - "E10100DF 00596404"
+      - "201FBBA8 1440FFF9"

@@ -1,0 +1,23 @@
+# Suisui Sweet - Amai Ai No Mitsukekata cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62437
+
+game: "Suisui Sweet - Amai Ai No Mitsukekata"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62437"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010AB30 0C042A74"
+
+  - name: "New Game = Debug Event Select Menu"
+    author: "punk7890"
+    codes:
+      - "0019D5FC 000000FF"

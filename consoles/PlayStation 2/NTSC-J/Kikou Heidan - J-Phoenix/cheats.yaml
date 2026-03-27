@@ -1,0 +1,23 @@
+# Kikou Heidan - J-Phoenix cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65033
+
+game: "Kikou Heidan - J-Phoenix"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65033"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "901EB8D8 0C07ADDE"
+
+  - name: "Replace Options Menu (From Main Menu) With Level Select + Camera Debugger"
+    author: "punk7890"
+    codes:
+      - "2020F8AC 00140518"

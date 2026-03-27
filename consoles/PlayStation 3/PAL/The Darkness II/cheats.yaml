@@ -1,0 +1,61 @@
+# The Darkness II cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01388
+
+game: "The Darkness II"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01388"
+cheat_type: "AP"
+source: "From Game Genie For PS3 & Keha World"
+
+cheats:
+  - name: "Essence 999 *3 Figures Of Current Price"
+    notes: "File: CONTINUE.SAV"
+    codes:
+      - "search 0x54616C656E74506F696E74733D:1"
+      - "write next D: 393939"
+
+  - name: "Essence 9999 *4 Figures Of Current Price"
+    notes: "File: CONTINUE.SAV"
+    codes:
+      - "search 0x54616C656E74506F696E74733D:1"
+      - "write next D: 39393939"
+
+  - name: "Essence 99999 *5 Figures Of Current Price"
+    notes: "File: CONTINUE.SAV"
+    codes:
+      - "search 0x54616C656E74506F696E74733D:1"
+      - "write next D: 3939393939"
+
+  - name: "Unlock New Game+"
+    notes: "File: CONTINUE.SAV"
+    codes:
+      - "8001000C 4861734E"
+      - "65774761 6D65506C"
+      - "08000013 00000031"
+
+  - name: "Update Md5 In Continue.sav (required)"
+    notes: "File: CONTINUE.SAV  (set range:0x000010,0x0244F7)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000010,pointer"
+      - "set [hash]:MD5"
+      - "write at 0x000000:[hash]"
+
+  - name: "Update Md5 In Settings (required)"
+    notes: "File: SETTINGS  (set range:0x000010,0x005CA1)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000010,pointer"
+      - "set [hash]:MD5"
+      - "write at 0x000000:[hash]"
+
+  - name: "Update Md5 Hashes (required)"
+    notes: "File: CONTINUE.SAV"
+    codes:
+      - "set pointer:eof"
+      - "set range:0x10, pointer+1"
+      - "set [md5]:md5"
+      - "write at 0x0:[md5]"

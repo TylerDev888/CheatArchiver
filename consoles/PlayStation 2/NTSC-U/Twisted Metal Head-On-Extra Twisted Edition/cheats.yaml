@@ -1,0 +1,78 @@
+# Twisted Metal Head-On-Extra Twisted Edition cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97621
+
+game: "Twisted Metal Head-On-Extra Twisted Edition"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97621"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Skiller"
+    notes: "[Masters]"
+    codes:
+      - "90295498 0C0A54CE"
+      - "200A0000 1220000A"
+      - "200A0004 46010036"
+      - "200A000C 3C02004F"
+      - "200A0010 9042D603"
+      - "200A0014 30430002"
+      - "200A0018 14600003"
+      - "200A0028 080660DF"
+      - "200A003C 1000FFFA"
+      - "D04ED602 0000FFFE"
+      - "20198378 08028000"
+
+  - name: "Infinite NOS"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "2011BE84 00000000"
+
+  - name: "Unlock All Characters"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "2078FF60 FFFDFFFF"
+      - "2078FF64 00000003"
+
+  - name: "Unlock All Battlegrounds"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "2078FF70 00FFFFFF"
+
+  - name: "Unlock All Ending Movies"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "2078FF74 0001FFFF"
+
+  - name: "Unlock Tower Tooth Challenge"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "2078FF78 0001FFFF"
+
+  - name: "Play Roman Ruins In Lost"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "2078FF70 00200000"
+
+  - name: "Infinite HP P1"
+    author: "Skiller"
+    notes: "[Press Select Once To Enable Codes]"
+    codes:
+      - "200A0030 3C03447A"
+      - "200A0034 44830000"
+
+  - name: "Hold R2 For 1-Hit Kills"
+    author: "Skiller"
+    notes: "[Press Select Once To Enable Codes]"
+    codes:
+      - "200A0020 449B0000"

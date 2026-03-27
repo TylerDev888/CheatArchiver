@@ -1,0 +1,55 @@
+# Major League Baseball 2K5 [World Series Edition]
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-21324  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Enabler Code(MUST BE ON)
+**Author:**   
+**Notes:** [Master Codes]
+
+```
+9078CEE0 0C1E3360
+```
+
+---
+
+### Always Hit Homerun : Hold R1
+**Author:** nolberto82
+
+```
+200A0000 3C030074
+200A0004 9063C1D1
+200A0008 10600006
+200A000C 3C034330
+200A0010 4483A800
+200A0014 3C033F40
+200A0018 4483B000
+200A001C 3C033F40
+200A0020 4483B800
+200A0024 E7B40100
+200A0028 08103A82
+2040EA00 08028000
+```
+
+---
+
+### Strikeout : Hold R2
+**Author:** nolberto82
+
+```
+20434F64 8C8200CC
+2043677C 24E40001
+2040EF08 8E830000
+D073C1D3 03310000
+20434F64 24020001
+2043677C 24040003
+2040EF08 24030000
+```
+
+---

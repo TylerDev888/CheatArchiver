@@ -1,0 +1,76 @@
+# Great Escape, The cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20670
+
+game: "Great Escape, The"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20670"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0355F34 00355F37"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00355F37"
+
+  - name: "Enable Greatest Escape"
+    author: "Codejunkies"
+    codes:
+      - "104EE0A0 00000001"
+
+  - name: "Have Level Select"
+    author: "Code Master"
+    codes:
+      - "204EE0A0 00000001"
+
+  - name: "Infinite Ammo"
+    author: "MadCatz"
+    codes:
+      - "201D688C 00000000"
+
+  - name: "Infinite First Aid"
+    author: "Codejunkies"
+    codes:
+      - "101D59F8 00000000"
+
+  - name: "Infinite Health"
+    author: "MadCatz"
+    codes:
+      - "20149BF0 E4800060"
+
+  - name: "Infinite Stick Grenades"
+    author: "Codejunkies"
+    codes:
+      - "101D6554 00000000"
+
+  - name: "Play All Movies Upon Starting Game"
+    author: "Code Master"
+    codes:
+      - "204EE09C 00000001"
+
+  - name: "Rapid Fire No Reload"
+    author: "MadCatz"
+    codes:
+      - "201D6928 34020000"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00355F37"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90355F34 0C0FA4AF"

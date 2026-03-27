@@ -1,0 +1,62 @@
+# Romance Of The Three Kingdoms XI cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21584
+
+game: "Romance Of The Three Kingdoms XI"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21584"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Assigning Ranks Ignores Deeds"
+    author: "Armagon"
+    codes:
+      - "2049D8D8 00001821"
+      - "00362540 00000000"
+      - "201C06D0 00001821"
+
+  - name: "Created Force Sovereign's Territory 40,000 Gold"
+    author: "Armagon"
+    codes:
+      - "1060C180 00009C40"
+
+  - name: "Created Force Sovereign's Territory 400,000 Food"
+    author: "Armagon"
+    codes:
+      - "2060C184 00061A80"
+
+  - name: "Created Force Sovereign's Territory Equipment 100,000"
+    author: "Armagon"
+    codes:
+      - "2060C194 000186A0"
+
+  - name: "Created Force Sovereign's Territory Troops 100,000"
+    author: "Armagon"
+    codes:
+      - "2060C188 000186A0"
+
+  - name: "Infinite AP"
+    author: "Armagon"
+    codes:
+      - "201CC450 10000005"
+
+  - name: "Negotiator is inherent"
+    author: "Armagon"
+    codes:
+      - "204A1664 00000000"
+      - "2049A7A0 00000000"
+      - "201BDD28 24100001"
+
+  - name: "Releasing a Prisoner grants 1154 TP"
+    author: "Armagon"
+    codes:
+      - "0049FCC8 00000040"
+
+  - name: "Research(tech) requires no TP"
+    author: "Armagon"
+    codes:
+      - "1049685A 00001000"
+      - "1052337E 00001000"

@@ -1,0 +1,998 @@
+# War Of The Monsters cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97197
+
+game: "War Of The Monsters"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97197"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0232BB4 00232BB7"
+
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90248988 0C09220A"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00232BB7"
+
+  - name: "1P Free For All Has All Levels (Including Unused Levels)"
+    author: "punk7890"
+    codes:
+      - "202A1B74 00000014"
+      - "202A1B78 00540000"
+      - "40540000 00100001"
+      - "00000001 00000001"
+      - "20540040 00000019"
+      - "20540044 0000001A"
+      - "20540048 0000001B"
+      - "2054004C 00000004"
+
+  - name: "Agamo 3"
+    author: "Codejunkies"
+    notes: "[Agamo Costume Unlock Codes]"
+    codes:
+      - "102A227C 00000001"
+
+  - name: "Agamo 4"
+    author: "Codejunkies"
+    notes: "[Agamo Costume Unlock Codes]"
+    codes:
+      - "102A22A8 00000001"
+
+  - name: "All Pickups In Game = Explosive Objects"
+    author: "punk7890"
+    codes:
+      - "2017F504 0C14FFFC"
+      - "2017F508 256B0003"
+      - "2053FFF0 AE2B00A0"
+      - "2053FFF4 262B0100"
+      - "2053FFF8 03E00008"
+
+  - name: "All Pickups In Game = Impale Objects"
+    author: "punk7890"
+    codes:
+      - "2017F504 0C14FFFC"
+      - "2017F508 256B0007"
+      - "2053FFF0 AE2B00A0"
+      - "2053FFF4 262B0100"
+      - "2053FFF8 03E00008"
+
+  - name: "All Pickups In Game = Shock Objects"
+    author: "punk7890"
+    codes:
+      - "2017F504 0C14FFFC"
+      - "2017F508 256B000E"
+      - "2053FFF0 AE2B00A0"
+      - "2053FFF4 262B0100"
+      - "2053FFF8 03E00008"
+
+  - name: "Always Have Special P1"
+    author: "Code Master"
+    codes:
+      - "002B4213 00000001"
+
+  - name: "Always Have Special P2"
+    author: "Code Master"
+    codes:
+      - "002C53A3 00000001"
+
+  - name: "Always Have Special P3"
+    author: "Code Master"
+    codes:
+      - "002D6533 00000001"
+
+  - name: "Always Have Special P4"
+    author: "Code Master"
+    codes:
+      - "002E76C3 00000001"
+
+  - name: "Congar 3"
+    author: "Codejunkies"
+    notes: "[Congar Costume Unlock Codes]"
+    codes:
+      - "102A211C 00000001"
+
+  - name: "Congar 4"
+    author: "Codejunkies"
+    notes: "[Congar Costume Unlock Codes]"
+    codes:
+      - "102A2148 00000001"
+
+  - name: "Enable Map Effects (Press L3+R3 While In Game)"
+    author: "punk7890"
+    codes:
+      - "D0779502 0000FFF9"
+      - "002B421D 00000001"
+
+  - name: "Fast Moving Robot Special Missiles (R2 + Up) Slow Moving Robot Special Missiles (R2 + Down And R2 + Left To Return To Normal Speed)"
+    author: "punk7890"
+    codes:
+      - "D0779502 0000FDEF"
+      - "202C3FC8 45200000"
+      - "D0779502 0000FDBF"
+      - "202C3FC8 437A0000"
+      - "D0779502 0000FD7F"
+      - "202C3FC8 447A0000"
+
+  - name: "Freeze All AI In Place (Press L3+Up To Freeze L3+Down To Unfreeze)"
+    author: "punk7890"
+    codes:
+      - "D0779502 0000FFED"
+      - "003D3974 00000001"
+      - "D0779502 0000FFBD"
+      - "003D3974 00000005"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "202B456C 43340000"
+
+  - name: "Never Have Above 10% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0020000 302B456C"
+      - "E0014190 302B456E"
+      - "202B456C 41900000"
+
+  - name: "Never Have Above 25% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0020000 302B456C"
+      - "E0014234 302B456E"
+      - "202B456C 42340000"
+
+  - name: "Never Have Above 50% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0020000 302B456C"
+      - "E00142B4 302B456E"
+      - "202B456C 42B40000"
+
+  - name: "Never Have Above 75% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0020000 302B456C"
+      - "E0014307 302B456E"
+      - "202B456C 43070000"
+
+  - name: "No Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "202B456C 00000000"
+
+  - name: "Idiot AI"
+    author: "Codejunkies"
+    codes:
+      - "202B4124 0000000C"
+
+  - name: "Infinite Battle Tokens"
+    author: "InterAct"
+    codes:
+      - "204178A4 7FFFFFFF"
+
+  - name: "Infinite Health P1"
+    author: "Code Master"
+    codes:
+      - "202B4568 432C0000"
+      - "202B456C 432C0000"
+
+  - name: "Infinite Health P2"
+    author: "Code Master"
+    codes:
+      - "202C56F8 432C0000"
+      - "202C56FC 432C0000"
+
+  - name: "Infinite Health P3"
+    author: "Code Master"
+    codes:
+      - "202D6888 432C0000"
+      - "202D688C 432C0000"
+
+  - name: "Infinite Health P4"
+    author: "Code Master"
+    codes:
+      - "202E7A18 432C0000"
+      - "202E7A1C 432C0000"
+
+  - name: "Infinity Fire Breath For Togera (Press Triangle + Circle One More Time After Pressing Once. R2 To Stop)"
+    author: "punk7890"
+    codes:
+      - "D0779502 0000CFFF"
+      - "202BAA78 6FFF0000"
+      - "D0779502 0000FDFF"
+      - "202BAA78 40180000"
+
+  - name: "Insane Mode"
+    author: "punk7890"
+    codes:
+      - "202C5464 3FF00000"
+      - "202D65F4 3FF00000"
+      - "202E7784 3FF00000"
+      - "20127000 0C150035"
+      - "20127004 00000000"
+      - "20127008 00000000"
+      - "205400D4 00661821"
+      - "205400D8 00691821"
+      - "205400DC 3C015F6F"
+      - "205400E0 3421FFFF"
+      - "205400E4 AC6104F4"
+      - "205400E8 03E00008"
+      - "20126FF4 0C15003C"
+      - "205400F0 3C016000"
+      - "205400F4 34210000"
+      - "205400F8 AC4104F8"
+      - "205400FC 03E00008"
+      - "20126E8C 0C150041"
+      - "20540104 3C0141A0"
+      - "20540108 34210000"
+      - "2054010C AC410520"
+      - "20540110 03E00008"
+      - "002C53AC 00000001"
+      - "002C539B 00000001"
+      - "002D653C 00000001"
+      - "002D652B 00000001"
+      - "002E76CC 00000001"
+      - "002E76BB 00000001"
+      - "D03D39EC 00000004"
+      - "202C56FC 43530000"
+      - "D03D39EC 00000004"
+      - "202D688C 43530000"
+      - "D03D39EC 00000004"
+      - "202E7A1C 43530000"
+      - "20105770 0C04431A"
+      - "20105774 26040AB0"
+      - "206F8044 00000002"
+      - "206F86C8 44B00000"
+      - "206F86E0 000000FF"
+      - "206F86E4 00000000"
+      - "206F86E8 00000000"
+
+  - name: "Kineticlops 3"
+    author: "Codejunkies"
+    notes: "[Kineticlops Costume Unlock Codes]"
+    codes:
+      - "102A248C 00000001"
+
+  - name: "Kineticlops 4"
+    author: "Codejunkies"
+    notes: "[Kineticlops Costume Unlock Codes]"
+    codes:
+      - "102A24B8 00000001"
+
+  - name: "Level Music Mod"
+    author: "punk7890"
+    codes:
+      - "003D3970 000000??"
+
+  - name: "Magmo 3"
+    author: "Codejunkies"
+    notes: "[Magmo Costume Unlock Codes]"
+    codes:
+      - "102A23DC 00000001"
+
+  - name: "Magmo 4"
+    author: "Codejunkies"
+    notes: "[Magmo Costume Unlock Codes]"
+    codes:
+      - "102A2408 00000001"
+
+  - name: "Max Battle Tokens"
+    author: "Code Master"
+    codes:
+      - "204178A4 05F5E0FF"
+
+  - name: "Max Special Meter P1"
+    author: "Code Master"
+    codes:
+      - "202B4580 42C80000"
+      - "202B4590 43000000"
+
+  - name: "Max Special Meter P2"
+    author: "Code Master"
+    codes:
+      - "202C5710 42C80000"
+      - "202C5720 43000000"
+
+  - name: "Max Special Meter P3"
+    author: "Code Master"
+    codes:
+      - "202D68A0 42C80000"
+      - "202D68B0 43000000"
+
+  - name: "Max Special Meter P4"
+    author: "Code Master"
+    codes:
+      - "202E7A30 42C80000"
+      - "202E7A40 43000000"
+
+  - name: "Max/Infinite Tokens"
+    author: "Codejunkies"
+    codes:
+      - "204178A4 05F5E0FF"
+      - "204178A8 05F5E0FF"
+
+  - name: "Never Have Special P1"
+    author: "Code Master"
+    codes:
+      - "002B4213 00000000"
+
+  - name: "Never Have Special P2"
+    author: "Code Master"
+    codes:
+      - "002C53A3 00000000"
+
+  - name: "Never Have Special P3"
+    author: "Code Master"
+    codes:
+      - "002D6533 00000000"
+
+  - name: "Never Have Special P4"
+    author: "Code Master"
+    codes:
+      - "002E76C3 00000000"
+
+  - name: "Never Stunned (All Players)"
+    author: "Code Master"
+    codes:
+      - "201D486C 00000000"
+
+  - name: "No Health P1"
+    author: "Code Master"
+    codes:
+      - "202B4568 432C0000"
+      - "202B456C 00000000"
+
+  - name: "No Health P2"
+    author: "Code Master"
+    codes:
+      - "202C56F8 432C0000"
+      - "202C56FC 00000000"
+
+  - name: "No Health P3"
+    author: "Code Master"
+    codes:
+      - "202D6888 432C0000"
+      - "202D688C 00000000"
+
+  - name: "No Health P4"
+    author: "Code Master"
+    codes:
+      - "202E7A18 432C0000"
+      - "202E7A1C 00000000"
+
+  - name: "No Special Meter P1"
+    author: "Code Master"
+    codes:
+      - "202B4580 42C80000"
+      - "202B4590 00000000"
+
+  - name: "No Special Meter P2"
+    author: "Code Master"
+    codes:
+      - "202C5710 42C80000"
+      - "202C5720 00000000"
+
+  - name: "No Special Meter P3"
+    author: "Code Master"
+    codes:
+      - "202D68A0 42C80000"
+      - "202D68B0 00000000"
+
+  - name: "No Special Meter P4"
+    author: "Code Master"
+    codes:
+      - "202E7A30 42C80000"
+      - "202E7A40 00000000"
+
+  - name: "P1 Always Stunned (Invincible)"
+    author: "Code Master"
+    codes:
+      - "002B4169 00000000"
+
+  - name: "P1 Never Stunned"
+    author: "Code Master"
+    codes:
+      - "002B4169 00000001"
+
+  - name: "P1: Infinite Health"
+    author: "InterAct"
+    codes:
+      - "202B4568 43000000"
+      - "202B456C 43000000"
+
+  - name: "P1: Infinite Special Meter"
+    author: "InterAct"
+    codes:
+      - "202B4580 42C80000"
+      - "202B4590 42C80000"
+
+  - name: "P2 Always Stunned (Invincible)"
+    author: "Code Master"
+    codes:
+      - "002C52F9 00000000"
+
+  - name: "P2 Never Stunned"
+    author: "Code Master"
+    codes:
+      - "002C52F9 00000001"
+
+  - name: "P2: Infinite Health"
+    author: "InterAct"
+    codes:
+      - "202C56F8 43000000"
+      - "202C56FC 43000000"
+
+  - name: "P2: Infinite Special Meter"
+    author: "InterAct"
+    codes:
+      - "202C5710 42C80000"
+      - "202C5720 42C80000"
+
+  - name: "P3 Always Stunned (Invincible)"
+    author: "Code Master"
+    codes:
+      - "002D6489 00000000"
+
+  - name: "P3 Never Stunned"
+    author: "Code Master"
+    codes:
+      - "002D6489 00000001"
+
+  - name: "P4 Always Stunned (Invincible)"
+    author: "Code Master"
+    codes:
+      - "002E7619 00000000"
+
+  - name: "P4 Never Stunned"
+    author: "Code Master"
+    codes:
+      - "002E7619 00000001"
+
+  - name: "Play As Cerebulon (Replaces Zorgulon. Select First Costume. This Does Not Work On A Real PS2.)"
+    author: "punk7890"
+    codes:
+      - "202A1A64 000001E0"
+      - "201613D0 A082000C"
+      - "20144598 AC4000EC"
+      - "D03D3A08 00000001"
+      - "002B4138 00000001"
+
+  - name: "Play As Goliath Prime (Replaces Robo-47. Select Second Costume.)"
+    author: "punk7890"
+    codes:
+      - "20137C94 A043000C"
+      - "202A1A50 000001A0"
+      - "D03D3A08 00000001"
+      - "207C0F00 C28C0000"
+      - "D03D3A08 00000001"
+      - "207C0F04 C3A80000"
+      - "D03D3A08 00000001"
+      - "207C0F08 43200000"
+      - "D02B414C 00000001"
+      - "202B4134 00000040"
+      - "002B4138 00000001"
+
+  - name: "Preytor 3"
+    author: "Codejunkies"
+    notes: "[Preytor Costume Unlock Codes]"
+    codes:
+      - "102A206C 00000001"
+
+  - name: "Preytor 4"
+    author: "Codejunkies"
+    notes: "[Preytor Costume Unlock Codes]"
+    codes:
+      - "102A2098 00000001"
+
+  - name: "Quick Battle Token Gain"
+    author: "Code Master"
+    codes:
+      - "104178A4 0000FFFF"
+
+  - name: "Rapid Fire Robot Special Missiles (Hold L1+R1+Tri+Circle Then Tap Triangle)"
+    author: "punk7890"
+    codes:
+      - "D0779502 0000C3FF"
+      - "202C4278 000000A6"
+      - "D0779502 0000C3FF"
+      - "202C427C 00000001"
+      - "2041A0E8 00000000"
+
+  - name: "Raptros 1"
+    author: "Codejunkies"
+    notes: "[Raptros Costume Unlock Codes]"
+    codes:
+      - "102A1EB4 00000001"
+
+  - name: "Raptros 2"
+    author: "Codejunkies"
+    notes: "[Raptros Costume Unlock Codes]"
+    codes:
+      - "102A1EE0 00000001"
+
+  - name: "Raptros 3"
+    author: "Codejunkies"
+    notes: "[Raptros Costume Unlock Codes]"
+    codes:
+      - "102A1F0C 00000001"
+
+  - name: "Raptros 4"
+    author: "Codejunkies"
+    notes: "[Raptros Costume Unlock Codes]"
+    codes:
+      - "102A1F38 00000001"
+
+  - name: "Robo-47 3"
+    author: "Codejunkies"
+    notes: "[Robo-47 Costume Unlock Codes]"
+    codes:
+      - "102A21CC 00000001"
+
+  - name: "Robo-47 4"
+    author: "Codejunkies"
+    notes: "[Robo-47 Costume Unlock Codes]"
+    codes:
+      - "102A21F8 00000001"
+
+  - name: "Infinite Special"
+    author: "Codejunkies"
+    notes: "[Special Codes]"
+    codes:
+      - "202B4210 01000000"
+
+  - name: "No Special"
+    author: "Codejunkies"
+    notes: "[Special Codes]"
+    codes:
+      - "202B4210 00000000"
+
+  - name: "Player 3 Has No Health"
+    author: "Codejunkies"
+    notes: "[Special Codes]"
+    codes:
+      - "202D688C 00000000"
+
+  - name: "Player 4 Has No Health"
+    author: "Codejunkies"
+    notes: "[Special Codes]"
+    codes:
+      - "202E7A1C 00000000"
+
+  - name: "Quick-Kill Boss 1"
+    author: "Codejunkies"
+    notes: "[Special Codes]"
+    codes:
+      - "202F8BAC 00000000"
+
+  - name: "Infinite Stamina"
+    author: "Codejunkies"
+    notes: "[Stamina Codes]"
+    codes:
+      - "202B4590 42C80000"
+
+  - name: "No Stamina"
+    author: "Codejunkies"
+    notes: "[Stamina Codes]"
+    codes:
+      - "202B4590 00000000"
+
+  - name: "Super Jump Hold X (1P Only)"
+    author: "punk7890"
+    codes:
+      - "D0779502 0000BFFF"
+      - "202B42D8 3A000000"
+      - "D0779502 0010BFFF"
+      - "202B42D8 3F800000"
+
+  - name: "Super Speed (1P Only)"
+    author: "punk7890"
+    codes:
+      - "202B42D4 3FF00000"
+
+  - name: "Super Swings (Triangle + Down And Square + Triangle Finisher Attacks 1P Only)"
+    author: "punk7890"
+    codes:
+      - "202BC774 5F6FFFFF"
+      - "202BC778 60000000"
+      - "202BCFB4 5F6FFFFF"
+      - "202BCFB8 60000000"
+      - "202BD274 5F6FFFFF"
+      - "202BD278 60000000"
+      - "202BD1C4 5F6FFFFF"
+      - "202BD1C8 60000000"
+      - "202BCB94 5F6FFFFF"
+      - "202BCB98 60000000"
+
+  - name: "Super Togera And Raptors Breath"
+    author: "punk7890"
+    codes:
+      - "20128A48 0C150046"
+      - "20540118 3C014640"
+      - "2054011C 34210000"
+      - "20540120 AC617994"
+      - "20540124 03E00008"
+      - "20128A04 0C15004B"
+      - "20128A08 00000000"
+      - "20128A0C 00000000"
+      - "2054012C 00651821"
+      - "20540130 8C8240C0"
+      - "20540138 3C014140"
+      - "2054013C 34210000"
+      - "20540140 AC6179B0"
+      - "20540144 03E00008"
+      - "20128A58 0C150053"
+      - "2054014C 3C0141A0"
+      - "20540150 34210000"
+      - "20540154 AC417998"
+      - "20540158 03E00008"
+
+  - name: "Togera 3"
+    author: "Codejunkies"
+    notes: "[Togera Costume Unlock Codes]"
+    codes:
+      - "102A1FBC 00000001"
+
+  - name: "Togera 4"
+    author: "Codejunkies"
+    notes: "[Togera Costume Unlock Codes]"
+    codes:
+      - "102A1FE8 00000001"
+
+  - name: "Ultra-V 3"
+    author: "Codejunkies"
+    notes: "[Ultra-V Costume Unlock Codes]"
+    codes:
+      - "102A232C 00000001"
+
+  - name: "Ultra-V 4"
+    author: "Codejunkies"
+    notes: "[Ultra-V Costume Unlock Codes]"
+    codes:
+      - "102A2358 00000001"
+
+  - name: "Agamo Costume 1"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A2224 00000001"
+
+  - name: "Agamo Costume 2"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A2250 00000001"
+
+  - name: "Agamo Costume 3"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A227C 00000001"
+
+  - name: "Agamo Costume 4"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A22A8 00000001"
+
+  - name: "All Costumes"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "402A1EB4 0028000B"
+      - "00000001 00000000"
+
+  - name: "Congar Costume 1"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A20C4 00000001"
+
+  - name: "Congar Costume 2"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A20F0 00000001"
+
+  - name: "Congar Costume 3"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A211C 00000001"
+
+  - name: "Congar Costume 4"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A2148 00000001"
+
+  - name: "Kineticlops Costume 1"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A2434 00000001"
+
+  - name: "Kineticlops Costume 2"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A2460 00000001"
+
+  - name: "Kineticlops Costume 3"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A248C 00000001"
+
+  - name: "Kineticlops Costume 4"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A24B8 00000001"
+
+  - name: "Magmo Costume 1"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A2384 00000001"
+
+  - name: "Magmo Costume 2"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A23B0 00000001"
+
+  - name: "Magmo Costume 3"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A23DC 00000001"
+
+  - name: "Magmo Costume 4"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A2408 00000001"
+
+  - name: "Preytor Costume 1"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A2014 00000001"
+
+  - name: "Preytor Costume 2"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A2040 00000001"
+
+  - name: "Preytor Costume 3"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A206C 00000001"
+
+  - name: "Preytor Costume 4"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A2098 00000001"
+
+  - name: "Raptros Costume 1"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A1EB4 00000001"
+
+  - name: "Raptros Costume 2"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A1EE0 00000001"
+
+  - name: "Raptros Costume 3"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A1F0C 00000001"
+
+  - name: "Raptros Costume 4"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A1F38 00000001"
+
+  - name: "Robo-47 Costume 1"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A2174 00000001"
+
+  - name: "Robo-47 Costume 2"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A21A0 00000001"
+
+  - name: "Robo-47 Costume 3"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A21CC 00000001"
+
+  - name: "Robo-47 Costume 4"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A21F8 00000001"
+
+  - name: "Togera Costume 1"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A1F64 00000001"
+
+  - name: "Togera Costume 2"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A1F90 00000001"
+
+  - name: "Togera Costume 3"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A1FBC 00000001"
+
+  - name: "Togera Costume 4"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A1FE8 00000001"
+
+  - name: "Ultra-V Costume 1"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A22D4 00000001"
+
+  - name: "Ultra-V Costume 2"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A2300 00000001"
+
+  - name: "Ultra-V Costume 3"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A232C 00000001"
+
+  - name: "Ultra-V Costume 4"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A2358 00000001"
+
+  - name: "Zorgulon Costume 1"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A24E4 00000001"
+
+  - name: "Zorgulon Costume 2"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A2510 00000001"
+
+  - name: "Zorgulon Costume 3"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A253C 00000001"
+
+  - name: "Zorgulon Costume 4"
+    author: "Code Master"
+    notes: "[Unlock Costume Codes]"
+    codes:
+      - "202A2568 00000001"
+
+  - name: "All Levels"
+    author: "Code Master"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "402A2594 0004000B"
+      - "00000001 00000000"
+
+  - name: "Capitol"
+    author: "Code Master"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "202A25EC 00000001"
+
+  - name: "Mini Baytown"
+    author: "Code Master"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "202A25C0 00000001"
+
+  - name: "UFO"
+    author: "Code Master"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "202A2618 00000001"
+
+  - name: "Volcano"
+    author: "Code Master"
+    notes: "[Unlock Level Codes]"
+    codes:
+      - "202A2594 00000001"
+
+  - name: "Big Shot"
+    author: "Codejunkies"
+    notes: "[Unlock Mini-Games]"
+    codes:
+      - "102A2670 00000001"
+
+  - name: "Crush-O-Rama"
+    author: "Codejunkies"
+    notes: "[Unlock Mini-Games]"
+    codes:
+      - "102A269C 00000001"
+
+  - name: "Dodgeball"
+    author: "Codejunkies"
+    notes: "[Unlock Mini-Games]"
+    codes:
+      - "102A2644 00000001"
+
+  - name: "All Minigames"
+    author: "Code Master"
+    notes: "[Unlock Minigame Codes]"
+    codes:
+      - "402A2644 0003000B"
+      - "00000001 00000000"
+
+  - name: "Zorgulon 1"
+    author: "Codejunkies"
+    notes: "[Zorgulon Costume Unlock Codes]"
+    codes:
+      - "102A24E4 00000001"
+
+  - name: "Zorgulon 2"
+    author: "Codejunkies"
+    notes: "[Zorgulon Costume Unlock Codes]"
+    codes:
+      - "102A2510 00000001"
+
+  - name: "Zorgulon 3"
+    author: "Codejunkies"
+    notes: "[Zorgulon Costume Unlock Codes]"
+    codes:
+      - "102A253C 00000001"
+
+  - name: "Zorgulon 4"
+    author: "Codejunkies"
+    notes: "[Zorgulon Costume Unlock Codes]"
+    codes:
+      - "102A2568 00000001"

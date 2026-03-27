@@ -1,0 +1,77 @@
+# Nascar 2001 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20101
+
+game: "Nascar 2001"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20101"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01F472C 0000000E"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0020F44B"
+
+  - name: "Auto Pilot / Low Lap Time"
+    author: "InterAct"
+    codes:
+      - "D03AA98A 00100040"
+      - "202BFD44 00A8C9F3"
+
+  - name: "Have Auto Pilot Active"
+    author: "Codejunkies"
+    codes:
+      - "E0020040 003AA98A"
+      - "D03AA98C 00000000"
+      - "202BFD44 00A8C9F3"
+
+  - name: "Have No Car Damage (Arcade Mode Code)"
+    author: "Codejunkies"
+    codes:
+      - "1025D91E 00000000"
+      - "1025D926 00000000"
+      - "1025D92A 00000000"
+      - "1025D92E 00000000"
+      - "1025D932 00000000"
+      - "1025D936 00000000"
+      - "1025D93A 00000000"
+      - "1025D93E 00000000"
+
+  - name: "Infinite Damage"
+    author: "Code Master"
+    codes:
+      - "2012CBE8 00000000"
+      - "2012CC1C 00000000"
+      - "2012CF7C 00000000"
+
+  - name: "Infinite Fuel"
+    author: "Code Master"
+    codes:
+      - "200C0220 AC80079C"
+      - "200C0224 03E00008"
+      - "200C0228 C480079C"
+      - "20165948 0C030088"
+
+  - name: "Stop/Start Timer"
+    author: "Code Master"
+    codes:
+      - "D03AAA02 0000FBFE"
+      - "201A0E64 00000000"
+      - "D03AAA02 0000FEFE"
+      - "201A0E64 E463000C"
+
+  - name: "Tires Never Worn"
+    author: "Code Master"
+    codes:
+      - "201659C4 E4550000"

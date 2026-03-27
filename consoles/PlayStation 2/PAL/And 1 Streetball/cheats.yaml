@@ -1,0 +1,35 @@
+# And 1 Streetball cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54016
+
+game: "And 1 Streetball"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54016"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100084 00100087"
+
+  - name: "Debug Menu Available"
+    author: "Codejunkies"
+    codes:
+      - "2065E75C 00000001"
+      - "20100434 00000000"
+      - "20100374 24030000"
+
+  - name: "Start A New Tour With Max Cash"
+    author: "Codejunkies"
+    codes:
+      - "201FCA58 3C0805F0"
+
+  - name: "Unlock Side Games"
+    author: "Codejunkies"
+    codes:
+      - "202481CC 2402FFFF"

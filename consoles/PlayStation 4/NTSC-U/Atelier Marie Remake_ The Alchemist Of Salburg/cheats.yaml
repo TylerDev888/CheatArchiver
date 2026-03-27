@@ -1,0 +1,134 @@
+# Atelier Marie Remake_ The Alchemist Of Salburg cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA37565
+
+game: "Atelier Marie Remake_ The Alchemist Of Salburg"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA37565"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Item Quantity Change"
+    notes: "File: Atelier Marie: Remake - Save (AutoSave|GameData[0-9]+\\data.dat)"
+    codes:
+      - "80010010 41313A3A"
+      - "4F726967 696E616C"
+      - "44617461 00000000"
+      - "92000000 [Items]"
+      - "08000000 000000[Amount:63:HEX:BIG]"
+
+  - name: "Equipment Quantity Change"
+    notes: "File: Atelier Marie: Remake - Save (AutoSave|GameData[0-9]+\\data.dat)"
+    codes:
+      - "80010017 41313A3A"
+      - "72656D61 6B655F77"
+      - "6561706F 6E5F7374"
+      - "6F636B00 00000000"
+      - "92000000 [EquipRemake]"
+      - "08000000 000000[Amount:63:HEX:BIG]"
+
+  - name: "Year Mod"
+    author: "SkillerCMP"
+    notes: "[Day,month,year Mod]  File: Atelier Marie: Remake - Save (AutoSave|GameData[0-9]+\\data.dat)"
+    codes:
+      - "80010010 41313A3A"
+      - "4F726967 696E616C"
+      - "44617461 00000000"
+      - "92000000 00000815"
+      - "1800000A 0000[Amount:0000:HEX:LITTLE]"
+
+  - name: "Month Mod"
+    author: "SkillerCMP"
+    notes: "[Day,month,year Mod]  File: Atelier Marie: Remake - Save (AutoSave|GameData[0-9]+\\data.dat)"
+    codes:
+      - "80010010 41313A3A"
+      - "4F726967 696E616C"
+      - "44617461 00000000"
+      - "92000000 00000815"
+      - "18000008 0000[Amount:0000:HEX:LITTLE]"
+
+  - name: "Day Mod"
+    author: "SkillerCMP"
+    notes: "[Day,month,year Mod]  File: Atelier Marie: Remake - Save (AutoSave|GameData[0-9]+\\data.dat)"
+    codes:
+      - "80010010 41313A3A"
+      - "4F726967 696E616C"
+      - "44617461 00000000"
+      - "92000000 00000815"
+      - "18000006 0000[Amount:0000:HEX:LITTLE<-1FromActualDay>]"
+      - "1800000E 0000[Amount:0000:HEX:LITTLE]"
+
+  - name: "Slot 1"
+    notes: "[Equipment Mod]  File: Atelier Marie: Plus - Save (MarieData([0-9]+)\\data.dat)"
+    codes:
+      - "80010010 41313A3A"
+      - "4F726967 696E616C"
+      - "44617461 00000000"
+      - "92000000 0000083D"
+      - "18000000 0000[EquipPlus]"
+
+  - name: "Slot 2"
+    notes: "[Equipment Mod]  File: Atelier Marie: Plus - Save (MarieData([0-9]+)\\data.dat)"
+    codes:
+      - "80010010 41313A3A"
+      - "4F726967 696E616C"
+      - "44617461 00000000"
+      - "92000000 0000083D"
+      - "18000002 0000[EquipPlus]"
+
+  - name: "Slot 3"
+    notes: "[Equipment Mod]  File: Atelier Marie: Plus - Save (MarieData([0-9]+)\\data.dat)"
+    codes:
+      - "80010010 41313A3A"
+      - "4F726967 696E616C"
+      - "44617461 00000000"
+      - "92000000 0000083D"
+      - "18000004 0000[EquipPlus]"
+
+  - name: "Slot 4"
+    notes: "[Equipment Mod]  File: Atelier Marie: Plus - Save (MarieData([0-9]+)\\data.dat)"
+    codes:
+      - "80010010 41313A3A"
+      - "4F726967 696E616C"
+      - "44617461 00000000"
+      - "92000000 0000083D"
+      - "18000006 0000[EquipPlus]"
+
+  - name: "Slot 5"
+    notes: "[Equipment Mod]  File: Atelier Marie: Plus - Save (MarieData([0-9]+)\\data.dat)"
+    codes:
+      - "80010010 41313A3A"
+      - "4F726967 696E616C"
+      - "44617461 00000000"
+      - "92000000 0000083D"
+      - "18000008 0000[EquipPlus]"
+
+  - name: "Slot 6"
+    notes: "[Equipment Mod]  File: Atelier Marie: Plus - Save (MarieData([0-9]+)\\data.dat)"
+    codes:
+      - "80010010 41313A3A"
+      - "4F726967 696E616C"
+      - "44617461 00000000"
+      - "92000000 0000083D"
+      - "1800000A 0000[EquipPlus]"
+
+  - name: "Slot 7"
+    notes: "[Equipment Mod]  File: Atelier Marie: Plus - Save (MarieData([0-9]+)\\data.dat)"
+    codes:
+      - "80010010 41313A3A"
+      - "4F726967 696E616C"
+      - "44617461 00000000"
+      - "92000000 0000083D"
+      - "1800000C 0000[EquipPlus]"
+
+  - name: "Slot 8"
+    notes: "[Equipment Mod]  File: Atelier Marie: Plus - Save (MarieData([0-9]+)\\data.dat)"
+    codes:
+      - "80010010 41313A3A"
+      - "4F726967 696E616C"
+      - "44617461 00000000"
+      - "92000000 0000083D"
+      - "1800000E 0000[EquipPlus]"

@@ -1,0 +1,69 @@
+# Dynasty Warriors Gundam 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21873
+
+game: "Dynasty Warriors Gundam 2"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21873"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90112F58 0C044B7E"
+      - "200A0000 3C010052"
+      - "200A0004 8C21E3AC"
+      - "200A0008 1020001C"
+      - "200A0080 3C010052"
+      - "200A0084 8C21E4BC"
+      - "200A0088 1020001C"
+      - "200A0100 03E00008"
+      - "2011342C 08028000"
+
+  - name: "Inf Boost (alt)"
+    codes:
+      - "20243614 86430180"
+
+  - name: "Inf Sp (alt)"
+    codes:
+      - "0024371C 00000001"
+
+  - name: "Max Kills"
+    codes:
+      - "001B4DF8 00000001"
+
+  - name: "Inf HP"
+    notes: "[Player 1]"
+    codes:
+      - "200A0010 8C220160"
+      - "200A0014 AC220164"
+
+  - name: "Inf Sp"
+    notes: "[Player 1]"
+    codes:
+      - "200A0018 8C220168"
+      - "200A001C AC22016C"
+
+  - name: "Max Range"
+    notes: "[Player 1]"
+    codes:
+      - "200A0020 24027FFF"
+      - "200A0024 A422018E"
+
+  - name: "Inf Boost"
+    notes: "[Player 1]"
+    codes:
+      - "200A0028 84220180"
+      - "200A002C A422017E"
+
+  - name: "Max Attack And Shield"
+    notes: "[Player 1]"
+    codes:
+      - "200A0030 240203E8"
+      - "200A0034 A4220176"
+      - "200A0038 A4220178"
+      - "200A003C A422017C"

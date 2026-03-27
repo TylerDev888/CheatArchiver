@@ -1,0 +1,66 @@
+# Moto GP 3 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-50982
+
+game: "Moto GP 3"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-50982"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02B6BCC 000001FD"
+
+  - name: "All Challenges Gold"
+    author: "Codejunkies"
+    codes:
+      - "2034DDBC 02020202"
+      - "2034DDC0 02020202"
+      - "2034DDC4 02020202"
+      - "2034DDC8 02020202"
+      - "2034DDCC 02020202"
+      - "2034DDD0 02020202"
+      - "2034DDD4 02020202"
+      - "2034DDD8 02020202"
+      - "2034DDDC 02020202"
+      - "2034DDE0 02020202"
+      - "2034DDE4 02020202"
+      - "2034DDE8 02020202"
+      - "2034DDEC 02020202"
+      - "2034DDF0 02020202"
+      - "2034DDF4 02020202"
+      - "2034DDF8 02020202"
+      - "2034DDFC 02020202"
+      - "2034DE00 02020202"
+      - "2034DE04 02020202"
+      - "2034DE08 02020202"
+      - "2034DE0C 02020202"
+      - "2034DE10 02020202"
+      - "2034DE14 02020202"
+      - "2034DE18 02020202"
+      - "2034DE1C 02020202"
+
+  - name: "Drive Anywhere (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "2024DF80 00000000"
+
+  - name: "No Loss Of Speed If You Go Off The Road Or Collide With Walls"
+    author: "luc-ita"
+    codes:
+      - "2023EBDC 00000000"
+      - "2023EAE4 00000000"
+      - "2023D84C 00000000"
+      - "2023D834 00000000"
+      - "2023EDCC 00000000"
+
+  - name: "Opponents Don't Move"
+    author: "luc-ita"
+    codes:
+      - "2024D3EC 1000020C"

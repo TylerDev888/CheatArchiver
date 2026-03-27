@@ -1,0 +1,118 @@
+# Last Rebellion cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00861
+
+game: "Last Rebellion"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00861"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Have All Magic"
+    notes: "File: USR-DATA"
+    codes:
+      - "41000534 00000001"
+      - "409C0004 00000000"
+
+  - name: "All Items/weapons"
+    notes: "File: USR-DATA"
+    codes:
+      - "41000D34 00000063"
+      - "41DA0004 00000000"
+
+  - name: "Reset Game Save Time"
+    notes: "File: USR-DATA"
+    codes:
+      - "2000F374 00000000"
+      - "2000F378 00000000"
+      - "2000F37C 00000000"
+
+  - name: "Green Potions"
+    notes: "[Items]  File: USR-DATA"
+    codes:
+      - "41000D34 00000063"
+      - "40190004 00000000"
+
+  - name: "Red Potions"
+    notes: "[Items]  File: USR-DATA"
+    codes:
+      - "41000E44 00000063"
+      - "401D0004 00000000"
+
+  - name: "Purple Potions"
+    notes: "[Items]  File: USR-DATA"
+    codes:
+      - "41000F10 00000063"
+      - "401E0004 00000000"
+
+  - name: "Gannon's Key 99"
+    notes: "[Items]  File: USR-DATA"
+    codes:
+      - "10000FDC 00000063"
+
+  - name: "Aria's Paper"
+    notes: "[Items]  File: USR-DATA"
+    codes:
+      - "1000149C 00004E20"
+
+  - name: "Yellow Book Icon"
+    notes: "[Key Items]  File: USR-DATA"
+    codes:
+      - "41000FE0 00000001"
+      - "40270004 00000000"
+
+  - name: "Red Book Icon"
+    notes: "[Key Items]  File: USR-DATA"
+    codes:
+      - "410010AC 00000001"
+      - "401B0004 00000000"
+
+  - name: "Keys"
+    notes: "[Key Items]  File: USR-DATA"
+    codes:
+      - "41001178 00000001"
+      - "401D0004 00000000"
+
+  - name: "Ear"
+    notes: "[Weapons]  File: USR-DATA"
+    codes:
+      - "41001244 00000001"
+      - "40320004 00000000"
+
+  - name: "Finger"
+    notes: "[Weapons]  File: USR-DATA"
+    codes:
+      - "4100130C 00000001"
+      - "40320004 00000000"
+
+  - name: "Arm"
+    notes: "[Weapons]  File: USR-DATA"
+    codes:
+      - "410013D4 00000001"
+      - "40320004 00000000"
+
+  - name: "Level 99"
+    notes: "[Character Stats]  File: USR-DATA"
+    codes:
+      - "20000004 00000063"
+
+  - name: "Max Hp"
+    notes: "[Character Stats]  File: USR-DATA"
+    codes:
+      - "20000008 000003E7"
+      - "2000005C 000003E7"
+
+  - name: "Max Mp"
+    notes: "[Character Stats]  File: USR-DATA"
+    codes:
+      - "2000000C 000003E7"
+      - "20000060 000003E7"
+
+  - name: "Cp"
+    notes: "[Character Stats]  File: USR-DATA"
+    codes:
+      - "20000010 00000063"
+      - "20000064 00000063"

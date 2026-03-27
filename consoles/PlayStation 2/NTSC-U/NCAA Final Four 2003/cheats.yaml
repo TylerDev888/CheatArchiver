@@ -1,0 +1,605 @@
+# NCAA Final Four 2003 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97204
+
+game: "NCAA Final Four 2003"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97204"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100178 002721A7"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 002721A7"
+
+  - name: "2-Pointer's Score Modifier"
+    author: "Code Master"
+    codes:
+      - "101797D0 000000??"
+
+  - name: "3-Pointer's Score Modifier"
+    author: "Code Master"
+    codes:
+      - "101797C4 000000??"
+
+  - name: "Away Team Infinite Timeouts"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "102FEDD8 00000005"
+
+  - name: "Away Team No Timeouts"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "102FEDD8 00000000"
+
+  - name: "Away Team Scores 0"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "102FEDFC 00000000"
+
+  - name: "Away Team Scores 200"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "102FEDFC 000000C8"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "102FEDFC 0000????"
+
+  - name: "Away Team Shot's Score Modifier"
+    author: "Code Master"
+    codes:
+      - "10308F7C 000000??"
+
+  - name: "Away Team Start With Score Modifier"
+    author: "Code Master"
+    codes:
+      - "D02FEDFC 00000000"
+      - "102FEDFC 0000????"
+
+  - name: "Away Team Starts W/20"
+    author: "Codejunkies"
+    codes:
+      - "D02FEDFC 00000000"
+      - "102FEDFC 00000014"
+
+  - name: "Away Team Starts W/50"
+    author: "Codejunkies"
+    codes:
+      - "D02FEDFC 00000000"
+      - "102FEDFC 00000032"
+
+  - name: "Always Worth 1"
+    author: "Codejunkies"
+    notes: "[Baskets Codes]"
+    codes:
+      - "10308FD0 00000001"
+
+  - name: "Always Worth 5"
+    author: "Codejunkies"
+    notes: "[Baskets Codes]"
+    codes:
+      - "10308FD0 00000005"
+
+  - name: "Always Worth 10"
+    author: "Codejunkies"
+    notes: "[Baskets Codes]"
+    codes:
+      - "10308FD0 0000000A"
+
+  - name: "Free Throw's Score Modifier"
+    author: "Code Master"
+    codes:
+      - "101797CC 000000??"
+
+  - name: "Home Team Infinite Timeouts"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "102FE184 00000005"
+
+  - name: "Home Team No Timeouts"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "102FE184 00000000"
+
+  - name: "Home Team Scores 0"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "102FE1A8 00000000"
+
+  - name: "Home Team Scores 200"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "102FE1A8 000000C8"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "102FE1A8 0000????"
+
+  - name: "Home Team Shot's Score Modifier"
+    author: "Code Master"
+    codes:
+      - "10308FD0 000000??"
+
+  - name: "Home Team Start With Score Modifier"
+    author: "Code Master"
+    codes:
+      - "D02FE1A8 00000000"
+      - "102FE1A8 0000????"
+
+  - name: "Home Team Starts W/20"
+    author: "Codejunkies"
+    codes:
+      - "D02FE1A8 00000000"
+      - "102FE1A8 00000014"
+
+  - name: "Home Team Starts W/50"
+    author: "Codejunkies"
+    codes:
+      - "D02FE1A8 00000000"
+      - "102FE1A8 00000032"
+
+  - name: "Infinite Creation Points"
+    author: "Codejunkies"
+    codes:
+      - "10376030 000001E9"
+
+  - name: "Infinite Time-Outs (Both Teams)"
+    author: "Code Master"
+    codes:
+      - "2013361C 00000000"
+
+  - name: "All Stats"
+    author: "InterAct"
+    notes: "[Max Stats]"
+    codes:
+      - "1037603E 00006363"
+      - "20376040 63636363"
+      - "20376044 63636363"
+      - "20376048 63636363"
+      - "1037604A 00006363"
+      - "0037604C 00000063"
+
+  - name: "Ball Handling"
+    author: "InterAct"
+    notes: "[Max Stats]"
+    codes:
+      - "00376047 00000063"
+
+  - name: "Clutch"
+    author: "InterAct"
+    notes: "[Max Stats]"
+    codes:
+      - "00376049 00000063"
+
+  - name: "Defence Rebounding"
+    author: "InterAct"
+    notes: "[Max Stats]"
+    codes:
+      - "0037604C 00000063"
+
+  - name: "Free Throw"
+    author: "InterAct"
+    notes: "[Max Stats]"
+    codes:
+      - "00376040 00000063"
+
+  - name: "Leaping"
+    author: "InterAct"
+    notes: "[Max Stats]"
+    codes:
+      - "00376041 00000063"
+
+  - name: "Offence Rebounding"
+    author: "InterAct"
+    notes: "[Max Stats]"
+    codes:
+      - "0037604B 00000063"
+
+  - name: "Passing"
+    author: "InterAct"
+    notes: "[Max Stats]"
+    codes:
+      - "00376045 00000063"
+
+  - name: "Quickness"
+    author: "InterAct"
+    notes: "[Max Stats]"
+    codes:
+      - "00376043 00000063"
+
+  - name: "Range"
+    author: "InterAct"
+    notes: "[Max Stats]"
+    codes:
+      - "00376048 00000063"
+
+  - name: "Shooting"
+    author: "InterAct"
+    notes: "[Max Stats]"
+    codes:
+      - "0037603F 00000063"
+
+  - name: "Shot Blocking"
+    author: "InterAct"
+    notes: "[Max Stats]"
+    codes:
+      - "00376044 00000063"
+
+  - name: "Speed"
+    author: "InterAct"
+    notes: "[Max Stats]"
+    codes:
+      - "00376046 00000063"
+
+  - name: "Stamina"
+    author: "InterAct"
+    notes: "[Max Stats]"
+    codes:
+      - "0037604A 00000063"
+
+  - name: "Stealing"
+    author: "InterAct"
+    notes: "[Max Stats]"
+    codes:
+      - "00376042 00000063"
+
+  - name: "Strength"
+    author: "InterAct"
+    notes: "[Max Stats]"
+    codes:
+      - "0037603E 00000063"
+
+  - name: "P1 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D03D1702 0000FAFF"
+      - "1030CB60 0000000A"
+
+  - name: "P1 Press L1+Select For Very Low Shot Clock"
+    author: "Code Master"
+    codes:
+      - "D03D1702 0000FBFE"
+      - "1030CB58 00000023"
+
+  - name: "P1 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D03D1702 0000F5FF"
+      - "1030CB60 00000100"
+
+  - name: "P1 Press R1+Select For More Shot Clock"
+    author: "Code Master"
+    codes:
+      - "D03D1702 0000F7FE"
+      - "1030CB58 00000001"
+
+  - name: "P2 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D03D1802 0000FAFF"
+      - "1030CB60 0000000A"
+
+  - name: "P2 Press L1+Select For Very Low Shot Clock"
+    author: "Code Master"
+    codes:
+      - "D03D1802 0000FBFE"
+      - "1030CB58 00000023"
+
+  - name: "P2 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D03D1802 0000F5FF"
+      - "1030CB60 00000100"
+
+  - name: "P2 Press R1+Select For More Shot Clock"
+    author: "Code Master"
+    codes:
+      - "D03D1802 0000F7FE"
+      - "1030CB58 00000001"
+
+  - name: "P3 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D03D1902 0000FAFF"
+      - "1030CB60 0000000A"
+
+  - name: "P3 Press L1+Select For Very Low Shot Clock"
+    author: "Code Master"
+    codes:
+      - "D03D1902 0000FBFE"
+      - "1030CB58 00000023"
+
+  - name: "P3 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D03D1902 0000F5FF"
+      - "1030CB60 00000100"
+
+  - name: "P3 Press R1+Select For More Shot Clock"
+    author: "Code Master"
+    codes:
+      - "D03D1902 0000F7FE"
+      - "1030CB58 00000001"
+
+  - name: "P4 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D03D1A02 0000FAFF"
+      - "1030CB60 0000000A"
+
+  - name: "P4 Press L1+Select For Very Low Shot Clock"
+    author: "Code Master"
+    codes:
+      - "D03D1A02 0000FBFE"
+      - "1030CB58 00000023"
+
+  - name: "P4 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D03D1A02 0000F5FF"
+      - "1030CB60 00000100"
+
+  - name: "P4 Press R1+Select For More Shot Clock"
+    author: "Code Master"
+    codes:
+      - "D03D1A02 0000F7FE"
+      - "1030CB58 00000001"
+
+  - name: "P5 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D03D1B02 0000FAFF"
+      - "1030CB60 0000000A"
+
+  - name: "P5 Press L1+Select For Very Low Shot Clock"
+    author: "Code Master"
+    codes:
+      - "D03D1B02 0000FBFE"
+      - "1030CB58 00000023"
+
+  - name: "P5 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D03D1B02 0000F5FF"
+      - "1030CB60 00000100"
+
+  - name: "P5 Press R1+Select For More Shot Clock"
+    author: "Code Master"
+    codes:
+      - "D03D1B02 0000F7FE"
+      - "1030CB58 00000001"
+
+  - name: "P6 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D03D1C02 0000FAFF"
+      - "1030CB60 0000000A"
+
+  - name: "P6 Press L1+Select For Very Low Shot Clock"
+    author: "Code Master"
+    codes:
+      - "D03D1C02 0000FBFE"
+      - "1030CB58 00000023"
+
+  - name: "P6 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D03D1C02 0000F5FF"
+      - "1030CB60 00000100"
+
+  - name: "P6 Press R1+Select For More Shot Clock"
+    author: "Code Master"
+    codes:
+      - "D03D1C02 0000F7FE"
+      - "1030CB58 00000001"
+
+  - name: "P7 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D03D1D02 0000FAFF"
+      - "1030CB60 0000000A"
+
+  - name: "P7 Press L1+Select For Very Low Shot Clock"
+    author: "Code Master"
+    codes:
+      - "D03D1D02 0000FBFE"
+      - "1030CB58 00000023"
+
+  - name: "P7 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D03D1D02 0000F5FF"
+      - "1030CB60 00000100"
+
+  - name: "P7 Press R1+Select For More Shot Clock"
+    author: "Code Master"
+    codes:
+      - "D03D1D02 0000F7FE"
+      - "1030CB58 00000001"
+
+  - name: "P8 Press L1+L2 For More Time"
+    author: "Code Master"
+    codes:
+      - "D03D1E02 0000FAFF"
+      - "1030CB60 0000000A"
+
+  - name: "P8 Press L1+Select For Very Low Shot Clock"
+    author: "Code Master"
+    codes:
+      - "D03D1E02 0000FBFE"
+      - "1030CB58 00000023"
+
+  - name: "P8 Press R1+R2 To End Half"
+    author: "Code Master"
+    codes:
+      - "D03D1E02 0000F5FF"
+      - "1030CB60 00000100"
+
+  - name: "P8 Press R1+Select For More Shot Clock"
+    author: "Code Master"
+    codes:
+      - "D03D1E02 0000F7FE"
+      - "1030CB58 00000001"
+
+  - name: "Max All Stats"
+    author: "Code Master"
+    notes: "[Player Creation Codes]"
+    codes:
+      - "1037603E 00006363"
+      - "40376040 00030001"
+      - "63636363 00000000"
+      - "0037604C 00000063"
+
+  - name: "Start On 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D030CB54 00000000"
+      - "1030CB54 00000001"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 002721A7"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "902721A4 0C0A99C0"
+
+  - name: "Home Team Infinite Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "102FE184 00000005"
+
+  - name: "Home Team No Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "102FE184 00000000"
+
+  - name: "Away Team Infinite Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "102FEDD8 00000005"
+
+  - name: "Away Team No Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "102FEDD8 00000000"
+
+  - name: "Max Strength"
+    author: "Code Master"
+    notes: "[Player Creation Codes]"
+    codes:
+      - "0037603E 00000063"
+
+  - name: "Max Shooting"
+    author: "Code Master"
+    notes: "[Player Creation Codes]"
+    codes:
+      - "0037603F 00000063"
+
+  - name: "Max Free Throw"
+    author: "Code Master"
+    notes: "[Player Creation Codes]"
+    codes:
+      - "00376040 00000063"
+
+  - name: "Max Leaping"
+    author: "Code Master"
+    notes: "[Player Creation Codes]"
+    codes:
+      - "00376041 00000063"
+
+  - name: "Max Stealing"
+    author: "Code Master"
+    notes: "[Player Creation Codes]"
+    codes:
+      - "00376042 00000063"
+
+  - name: "Max Quickness"
+    author: "Code Master"
+    notes: "[Player Creation Codes]"
+    codes:
+      - "00376043 00000063"
+
+  - name: "Max Shot Blocking"
+    author: "Code Master"
+    notes: "[Player Creation Codes]"
+    codes:
+      - "00376044 00000063"
+
+  - name: "Max Passing"
+    author: "Code Master"
+    notes: "[Player Creation Codes]"
+    codes:
+      - "00376045 00000063"
+
+  - name: "Max Speed"
+    author: "Code Master"
+    notes: "[Player Creation Codes]"
+    codes:
+      - "00376046 00000063"
+
+  - name: "Max Ball Handling"
+    author: "Code Master"
+    notes: "[Player Creation Codes]"
+    codes:
+      - "00376047 00000063"
+
+  - name: "Max Range"
+    author: "Code Master"
+    notes: "[Player Creation Codes]"
+    codes:
+      - "00376048 00000063"
+
+  - name: "Max Clutch"
+    author: "Code Master"
+    notes: "[Player Creation Codes]"
+    codes:
+      - "00376049 00000063"
+
+  - name: "Max Stamina"
+    author: "Code Master"
+    notes: "[Player Creation Codes]"
+    codes:
+      - "0037604A 00000063"
+
+  - name: "Max Off Rebounding"
+    author: "Code Master"
+    notes: "[Player Creation Codes]"
+    codes:
+      - "0037604B 00000063"
+
+  - name: "Max Def Rebounding"
+    author: "Code Master"
+    notes: "[Player Creation Codes]"
+    codes:
+      - "0037604C 00000063"

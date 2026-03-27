@@ -1,0 +1,33 @@
+# Victorious Boxers 2 - Fighting Spirit cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53338
+
+game: "Victorious Boxers 2 - Fighting Spirit"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53338"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01004DC 000001FD"
+
+  - name: "All Characters/Arenas"
+    author: "InterAct"
+    codes:
+      - "201C36FC 0000FFFF"
+
+  - name: "P1 Is Rock Hard"
+    author: "InterAct"
+    codes:
+      - "201C4608 00000131"
+
+  - name: "Weak Opponents"
+    author: "InterAct"
+    codes:
+      - "201C57E8 00000000"

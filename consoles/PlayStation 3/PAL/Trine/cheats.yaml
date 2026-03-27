@@ -1,0 +1,38 @@
+# Trine cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00100
+
+game: "Trine"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00100"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "49 Xp *only Use It If You Have 10 Or More Xp"
+    notes: "File: SAVEDAT2.BIN"
+    codes:
+      - "search \"experience_shard_amount; setValue\""
+      - "write next (33):0x203439"
+
+  - name: "999 Energy"
+    notes: "File: SAVEDAT2.BIN"
+    codes:
+      - "search \"player_energy\":2"
+      - "write next (16):0x3939392C3939392C393939"
+      - "search \"player_max_energy\":2"
+      - "write next (20):0x3939392C3939392C393939"
+      - "search \"player_max_energy_original\":2"
+      - "write next (29):0x3939392C3939392C393939"
+
+  - name: "999 Hp"
+    notes: "File: SAVEDAT2.BIN"
+    codes:
+      - "search \"player_max_hp\":2"
+      - "write next (16):0x3939392C3939392C393939"
+      - "search \"player_hp\":2"
+      - "write next (12):0x3939392C3939392C393939"
+      - "search \"player_max_hp_original\":2"
+      - "write next (25):0x3939392C3939392C393939"

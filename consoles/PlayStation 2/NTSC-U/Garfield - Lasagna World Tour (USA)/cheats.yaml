@@ -1,0 +1,36 @@
+# Garfield - Lasagna World Tour (USA) cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21749
+
+game: "Garfield - Lasagna World Tour (USA)"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21749"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "90113910 0C044DEC"
+
+  - name: "Inf HP"
+    author: "lee4"
+    codes:
+      - "6026BA60 42C80000"
+      - "00020001 00000294"
+
+  - name: "Inf Lives"
+    author: "lee4"
+    codes:
+      - "6026BA60 0000FFFF"
+      - "00010001 00000298"
+
+  - name: "Inf Teddy Bear"
+    author: "lee4"
+    codes:
+      - "6026BA60 0000FFFF"
+      - "00010001 0000029C"

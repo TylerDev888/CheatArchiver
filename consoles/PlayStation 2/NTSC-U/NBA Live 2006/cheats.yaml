@@ -1,0 +1,538 @@
+# NBA Live 2006 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21279
+
+game: "NBA Live 2006"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21279"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9024DA20 00832021"
+
+  - name: "Home Team Scores 999"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2050E9D0 240203E7"
+
+  - name: "Home Team Scores 255"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2050E9D0 240200FF"
+
+  - name: "Home Team Scores 150"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2050E9D0 24020096"
+
+  - name: "Home Team Never Scores"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2050E9D0 24020000"
+
+  - name: "Away Team Scores 999"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2050E9C4 240203E7"
+
+  - name: "Away Team Scores 255"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2050E9C4 240200FF"
+
+  - name: "Away Team Scores 150"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2050E9C4 24020096"
+
+  - name: "Away Team Never Scores"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2050E9C4 24020000"
+
+  - name: "Free Throw's Score 10"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10353184 0000000A"
+
+  - name: "Free Throw's Score 5"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10353184 00000005"
+
+  - name: "Free Throw's Score 2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10353184 00000002"
+
+  - name: "2-Pointer's Score 10"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10353194 0000000A"
+
+  - name: "2-Pointer's Score 5"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10353194 00000005"
+
+  - name: "2-Pointer's Score 1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10353194 00000001"
+
+  - name: "3-Pointer's Score 10"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10352F38 0000000A"
+
+  - name: "3-Pointer's Score 5"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10352F38 00000005"
+
+  - name: "3-Pointer's Score 1"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10352F38 00000001"
+
+  - name: "Home Team Infinite Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "008C112B 00000006"
+
+  - name: "Home Team No Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "008C112B 00000000"
+
+  - name: "Away Team Infinite Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "008C1327 00000006"
+
+  - name: "Away Team No Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "008C1327 00000000"
+
+  - name: "P1 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002FAFF 00878682"
+      - "20891888 00004650"
+      - "20891890 00004650"
+
+  - name: "P1 Press L1+L2 To End Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002F5FF 00878682"
+      - "20891888 00000001"
+      - "20891890 00000001"
+
+  - name: "P2 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002FAFF 00878782"
+      - "20891888 00004650"
+      - "20891890 00004650"
+
+  - name: "P2 Press L1+L2 To End Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002F5FF 00878782"
+      - "20891888 00000001"
+      - "20891890 00000001"
+
+  - name: "P3 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002FAFF 00878882"
+      - "20891888 00004650"
+      - "20891890 00004650"
+
+  - name: "P3 Press L1+L2 To End Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002F5FF 00878882"
+      - "20891888 00000001"
+      - "20891890 00000001"
+
+  - name: "P4 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002FAFF 00878982"
+      - "20891888 00004650"
+      - "20891890 00004650"
+
+  - name: "P4 Press L1+L2 To End Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002F5FF 00878982"
+      - "20891888 00000001"
+      - "20891890 00000001"
+
+  - name: "P5 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002FAFF 00878A82"
+      - "20891888 00004650"
+      - "20891890 00004650"
+
+  - name: "P5 Press L1+L2 To End Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002F5FF 00878A82"
+      - "20891888 00000001"
+      - "20891890 00000001"
+
+  - name: "P6 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002FAFF 00878B82"
+      - "20891888 00004650"
+      - "20891890 00004650"
+
+  - name: "P6 Press L1+L2 To End Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002F5FF 00878B82"
+      - "20891888 00000001"
+      - "20891890 00000001"
+
+  - name: "P7 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002FAFF 00878C82"
+      - "20891888 00004650"
+      - "20891890 00004650"
+
+  - name: "P7 Press L1+L2 To End Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002F5FF 00878C82"
+      - "20891888 00000001"
+      - "20891890 00000001"
+
+  - name: "P8 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002FAFF 00878D82"
+      - "20891888 00004650"
+      - "20891890 00004650"
+
+  - name: "P8 Press L1+L2 To End Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E002F5FF 00878D82"
+      - "20891888 00000001"
+      - "20891890 00000001"
+
+  - name: "Infinite Shot Clock"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20891904 000005A0"
+
+  - name: "P1 Press L1+R1 For More Shot Clock Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0878682 0000F3FF"
+      - "20891904 000005A0"
+
+  - name: "P1 Press L2+R2 For No Shot Clock Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0878682 0000FCFF"
+      - "20891904 00000000"
+
+  - name: "P2 Press L1+R1 For More Shot Clock Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0878782 0000F3FF"
+      - "20891904 000005A0"
+
+  - name: "P2 Press L2+R2 For No Shot Clock Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0878782 0000FCFF"
+      - "20891904 00000000"
+
+  - name: "P3 Press L1+R1 For More Shot Clock Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0878882 0000F3FF"
+      - "20891904 000005A0"
+
+  - name: "P3 Press L2+R2 For No Shot Clock Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0878882 0000FCFF"
+      - "20891904 00000000"
+
+  - name: "P4 Press L1+R1 For More Shot Clock Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0878982 0000F3FF"
+      - "20891904 000005A0"
+
+  - name: "P4 Press L2+R2 For No Shot Clock Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0878982 0000FCFF"
+      - "20891904 00000000"
+
+  - name: "P5 Press L1+R1 For More Shot Clock Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0878A82 0000F3FF"
+      - "20891904 000005A0"
+
+  - name: "P5 Press L2+R2 For No Shot Clock Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0878A82 0000FCFF"
+      - "20891904 00000000"
+
+  - name: "P6 Press L1+R1 For More Shot Clock Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0878B82 0000F3FF"
+      - "20891904 000005A0"
+
+  - name: "P6 Press L2+R2 For No Shot Clock Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0878B82 0000FCFF"
+      - "20891904 00000000"
+
+  - name: "P7 Press L1+R1 For More Shot Clock Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0878C82 0000F3FF"
+      - "20891904 000005A0"
+
+  - name: "P7 Press L2+R2 For No Shot Clock Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0878C82 0000FCFF"
+      - "20891904 00000000"
+
+  - name: "P8 Press L1+R1 For More Shot Clock Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0878D82 0000F3FF"
+      - "20891904 000005A0"
+
+  - name: "P8 Press L2+R2 For No Shot Clock Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0878D82 0000FCFF"
+      - "20891904 00000000"
+
+  - name: "Start On 2Nd Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0891898 00000000"
+      - "10891898 00000001"
+
+  - name: "Start On 3Rd Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0891898 00000000"
+      - "10891898 00000002"
+
+  - name: "Start On 4Th Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0891898 00000000"
+      - "10891898 00000003"
+
+  - name: "Quick NBA Store Points Gain"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "11114548 0000FFFF"
+
+  - name: "Max NBA Store Points"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "21114548 05F5E0FF"
+
+  - name: "Try To Purchase NBA Store Item For Max NBA Store Points"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0240 3C0205F5"
+      - "200C0244 3442E0FF"
+      - "200C0248 03E00008"
+      - "200C024C AC820008"
+      - "20196C78 08030090"
+
+  - name: "NBA Store Points Dont Decrease When Buying Items"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20196C9C 00000000"
+
+  - name: "Buying NBA Store Items Increases NBA Store Points"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20196C94 00451021"
+
+  - name: "Buy 1 NBA Store Item For Max NBA Store Points"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20196C90 3C0205F5"
+      - "20196C94 3442E0FF"
+
+  - name: "Unlock All NBA Store Items"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "41114548 012D0001"
+      - "00000000 00000000"
+
+  - name: "View NBA Store Item To Unlock It"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20196930 AC40000C"
+      - "20196934 24020000"
+
+  - name: "P1"
+    author: "Code Master"
+    notes: "[Home Team Infinite Stamina Codes]"
+    codes:
+      - "108C141E 00007FFF"
+
+  - name: "P2"
+    author: "Code Master"
+    notes: "[Home Team Infinite Stamina Codes]"
+    codes:
+      - "108C144C 00007FFF"
+
+  - name: "P3"
+    author: "Code Master"
+    notes: "[Home Team Infinite Stamina Codes]"
+    codes:
+      - "108C147A 00007FFF"
+
+  - name: "P4"
+    author: "Code Master"
+    notes: "[Home Team Infinite Stamina Codes]"
+    codes:
+      - "108C14A8 00007FFF"
+
+  - name: "P5"
+    author: "Code Master"
+    notes: "[Home Team Infinite Stamina Codes]"
+    codes:
+      - "108C14D6 00007FFF"
+
+  - name: "P6"
+    author: "Code Master"
+    notes: "[Home Team Infinite Stamina Codes]"
+    codes:
+      - "108C1504 00007FFF"
+
+  - name: "P7"
+    author: "Code Master"
+    notes: "[Home Team Infinite Stamina Codes]"
+    codes:
+      - "108C1532 00007FFF"
+
+  - name: "P8"
+    author: "Code Master"
+    notes: "[Home Team Infinite Stamina Codes]"
+    codes:
+      - "108C1560 00007FFF"
+
+  - name: "P9"
+    author: "Code Master"
+    notes: "[Home Team Infinite Stamina Codes]"
+    codes:
+      - "108C158E 00007FFF"
+
+  - name: "P10"
+    author: "Code Master"
+    notes: "[Home Team Infinite Stamina Codes]"
+    codes:
+      - "108C15BC 00007FFF"
+
+  - name: "P11"
+    author: "Code Master"
+    notes: "[Home Team Infinite Stamina Codes]"
+    codes:
+      - "108C15EA 00007FFF"
+
+  - name: "P12"
+    author: "Code Master"
+    notes: "[Home Team Infinite Stamina Codes]"
+    codes:
+      - "108C1618 00007FFF"

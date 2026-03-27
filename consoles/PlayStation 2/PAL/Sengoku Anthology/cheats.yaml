@@ -1,0 +1,28 @@
+# Sengoku Anthology cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-55512
+
+game: "Sengoku Anthology"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-55512"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    codes:
+      - "90153E20 0C054F30"
+
+  - name: "Pal2ntsc"
+    author: "lee4"
+    codes:
+      - "201399F8 24120002"
+
+  - name: "Sengoku Anthology RAM Pointer"
+    author: "lee4"
+    notes: "00000001 0000YYYY"
+    codes:
+      - "619E2D2C 000000XX"

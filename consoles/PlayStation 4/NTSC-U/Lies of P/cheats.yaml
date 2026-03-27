@@ -1,0 +1,85 @@
+# Lies of P cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA36847
+
+game: "Lies of P"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA36847"
+cheat_type: "AP"
+source: "from Save Wizard discord / pj1980"
+
+cheats:
+  - name: "Max Vitality"
+    notes: "File: *"
+    codes:
+      - "8001000A 455F5649"
+      - "54414C49 54590000"
+      - "8801000B 496E7450"
+      - "726F7065 72747900"
+      - "28000015 00000064"
+
+  - name: "Max Vigor"
+    notes: "File: *"
+    codes:
+      - "80010007 455F5649"
+      - "474F5200 00000000"
+      - "8801000B 496E7450"
+      - "726F7065 72747900"
+      - "28000015 00000064"
+
+  - name: "Max Tenacity"
+    notes: "File: *"
+    codes:
+      - "8001000A 455F5445"
+      - "4E414349 54590000"
+      - "8801000B 496E7450"
+      - "726F7065 72747900"
+      - "28000015 00000064"
+
+  - name: "Max Capacity"
+    notes: "File: *"
+    codes:
+      - "8001000A 455F4341"
+      - "50414349 54590000"
+      - "8801000B 496E7450"
+      - "726F7065 72747900"
+      - "28000015 00000064"
+
+  - name: "Max Motivity"
+    notes: "File: *"
+    codes:
+      - "8001000A 455F4D4F"
+      - "54495649 54590000"
+      - "8801000B 496E7450"
+      - "726F7065 72747900"
+      - "28000015 00000064"
+
+  - name: "Max Technique"
+    notes: "File: *"
+    codes:
+      - "8001000B 455F5445"
+      - "43484E49 51554500"
+      - "8801000B 496E7450"
+      - "726F7065 72747900"
+      - "28000015 00000064"
+
+  - name: "Max Advance"
+    notes: "File: *"
+    codes:
+      - "80010009 455F4144"
+      - "56414E43 45000000"
+      - "8801000B 496E7450"
+      - "726F7065 72747900"
+      - "28000015 00000064"
+
+  - name: "Max Souls(currency)"
+    notes: "File: *"
+    codes:
+      - "8001000F 41637175"
+      - "69736974 696F6E53"
+      - "6F756C00 00000000"
+      - "8801000B 496E7450"
+      - "726F7065 72747900"
+      - "28000015 0000FFFF"

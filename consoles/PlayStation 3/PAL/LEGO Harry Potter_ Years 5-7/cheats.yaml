@@ -1,0 +1,30 @@
+# LEGO Harry Potter_ Years 5-7 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01348
+
+game: "LEGO Harry Potter_ Years 5-7"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01348"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Studs"
+    notes: "File: GAME1"
+    codes:
+      - "80010010 45610000"
+      - "00000000 00000000"
+      - "000186A0 00000000"
+      - "28000108 000000E8"
+      - "2800010C D4A50FFF"
+
+  - name: "Update Checksum For Game1 (required)"
+    notes: "File: GAME1"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x10,pointer"
+      - "set [hash]:fnv1:0xFFFFFFFF"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x000C:[hash]"

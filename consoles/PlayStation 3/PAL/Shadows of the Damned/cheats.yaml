@@ -1,0 +1,28 @@
+# Shadows of the Damned cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01276
+
+game: "Shadows of the Damned"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01276"
+cheat_type: "AP"
+source: "From SHAkA"
+
+cheats:
+  - name: "9999 White Gems"
+    notes: "File: CHECK0"
+    codes:
+      - "write at 0x000009B5:0x270F"
+
+  - name: "999 Red Gems"
+    notes: "File: CHECK0"
+    codes:
+      - "write at 0x000009B9:0x03E7"
+
+  - name: "999 Potion Drink"
+    notes: "File: CHECK0"
+    codes:
+      - "write at 0x000009C5:0x03E7"
+      - "write at 0x000009C9:0x03E7"

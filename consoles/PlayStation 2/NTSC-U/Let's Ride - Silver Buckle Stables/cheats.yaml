@@ -1,0 +1,30 @@
+# Let's Ride - Silver Buckle Stables cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21309
+
+game: "Let's Ride - Silver Buckle Stables"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21309"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "902CE534 0C0B7A33"
+
+  - name: "Always Low Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20113D44 FE000010"
+
+  - name: "Infinite Grooming Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201D67E4 00000000"

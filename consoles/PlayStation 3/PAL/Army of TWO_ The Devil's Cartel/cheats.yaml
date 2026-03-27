@@ -1,0 +1,42 @@
+# Army of TWO_ The Devil's Cartel cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01767
+
+game: "Army of TWO_ The Devil's Cartel"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01767"
+cheat_type: "Save Editor"
+source: "From KE-HA"
+
+cheats:
+  - name: "Cash $999000"
+    notes: "File: USR-DATA"
+    codes:
+      - "8001000A 57616C6C"
+      - "65744361 73680000"
+      - "2800000F 39393930"
+      - "18000013 00003030"
+
+  - name: "Level 25(from X-ghost-x (using Bsd's Patch Creator))"
+    notes: "File: USR-DATA"
+    codes:
+      - "search 0x000B436172656572436173680000000005"
+      - "write at 0x000021E1:0x393939303030"
+
+  - name: "Max Career Cash & Bank Credit (alt)(works After Tutorial)"
+    notes: "File: USR-DATA"
+    codes:
+      - "search \"CareerCash\""
+      - "write next (15):\"999000\""
+      - "search \"BankCr\""
+      - "write next (15):\"999000\""
+
+  - name: "Default:update Crc32 (required)"
+    notes: "File: USR-DATA"
+    codes:
+      - "set range:0x4,0x63FFF"
+      - "set [hash]:crc32"
+      - "write at 0x0:[hash]"
+      - "write at 0x0:xor:CF012886"

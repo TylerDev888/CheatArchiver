@@ -1,0 +1,35 @@
+# Sekai No Zente - Two Of Us cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66544
+
+game: "Sekai No Zente - Two Of Us"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66544"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "901A0308 0C06806A"
+
+  - name: "Hold Circle Over Begin For Debug Menu"
+    author: "punk7890"
+    codes:
+      - "D0206482 0000DFFF"
+      - "2042E480 000001BD"
+
+  - name: "Unlock All Album"
+    author: "punk7890"
+    codes:
+      - "41D3B838 00050001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Unlock Omake"
+    author: "punk7890"
+    codes:
+      - "21D3D5CC 00000001"

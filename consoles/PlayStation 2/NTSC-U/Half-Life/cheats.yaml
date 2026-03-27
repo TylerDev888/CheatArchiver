@@ -1,0 +1,316 @@
+# Half-Life cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20066
+
+game: "Half-Life"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20066"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100080 002D1697"
+
+  - name: "Enable Code"
+    author: "47iscool"
+    notes: "[Master Codes]"
+    codes:
+      - "902F1C18 0C0BC6AE"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 002D1697"
+
+  - name: "All Pistols"
+    author: "Lajos Szalay"
+    notes: "[Infinite Ammo/Never Reload Codes]"
+    codes:
+      - "2017A0D0 00000000"
+      - "201D3D20 00000000"
+
+  - name: "Crossbow"
+    author: "Lajos Szalay"
+    notes: "[Infinite Ammo/Never Reload Codes]"
+    codes:
+      - "20155E9C 00000000"
+
+  - name: "Grenades"
+    author: "Lajos Szalay"
+    notes: "[Infinite Ammo/Never Reload Codes]"
+    codes:
+      - "20180F18 00000000"
+
+  - name: "Hand Grenades"
+    author: "Lajos Szalay"
+    notes: "[Infinite Ammo/Never Reload Codes]"
+    codes:
+      - "201AA8B8 00000000"
+
+  - name: "Hand Gun 9MM"
+    author: "Lajos Szalay"
+    notes: "[Infinite Ammo/Never Reload Codes]"
+    codes:
+      - "201AA16C 00000000"
+
+  - name: "Hornet Gun"
+    author: "Lajos Szalay"
+    notes: "[Infinite Ammo/Never Reload Codes]"
+    codes:
+      - "2018F2F4 00000000"
+      - "2018FB24 00000000"
+
+  - name: "RPG"
+    author: "Lajos Szalay"
+    notes: "[Infinite Ammo/Never Reload Codes]"
+    codes:
+      - "201D9278 00000000"
+
+  - name: "Satchel Charge"
+    author: "Lajos Szalay"
+    notes: "[Infinite Ammo/Never Reload Codes]"
+    codes:
+      - "201DAB64 00000000"
+
+  - name: "Shotgun"
+    author: "Lajos Szalay"
+    notes: "[Infinite Ammo/Never Reload Codes]"
+    codes:
+      - "201E3174 00000000"
+      - "201E3860 00000000"
+      - "201E42D8 00000000"
+
+  - name: "Snark"
+    author: "Lajos Szalay"
+    notes: "[Infinite Ammo/Never Reload Codes]"
+    codes:
+      - "201EDF3C 00000000"
+
+  - name: "Trip Mines"
+    author: "Lajos Szalay"
+    notes: "[Infinite Ammo/Never Reload Codes]"
+    codes:
+      - "2020260C 00000000"
+
+  - name: "Have Long Jump Module"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "60F1ACD8 00000001"
+      - "00000000 0000047C"
+
+  - name: "Hold L1 + Square To Super Moon Jump"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D03A5582 00007BFF"
+      - "20F1AD04 44800000"
+
+  - name: "Hold L1 To Moon Jump"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D03A5582 0000FBFF"
+      - "20F1AD04 43800000"
+
+  - name: "Hold L1 To Moon Jump (Alternate)"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D03A5582 0000FBFF"
+      - "20F1AD04 43800000"
+      - "D03A5582 0000F9FF"
+      - "20F1AD04 43800000"
+      - "D03A5582 0000F3FF"
+      - "20F1AD04 43800000"
+
+  - name: "Hold L2 + Square To Hover"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D03A5582 00007EFF"
+      - "20F1AD04 40CD0000"
+
+  - name: "Rapid Fire"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D04A96C8 00000001"
+      - "60F1ACD8 00000000"
+      - "00020002 000004B8"
+      - "00000064 00000000"
+
+  - name: "Rapid Fire (Alternate Fire)"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D04A96C8 00000001"
+      - "60F1ACD8 00000000"
+      - "00020002 000004B8"
+      - "00000068 00000000"
+
+  - name: "Max Infinite Ammo Laser/Gauss"
+    author: "Lajos Szalay"
+    codes:
+      - "201629EC 240200FF"
+      - "20174724 240300FF"
+      - "20174B8C 240300FF"
+
+  - name: "Raising Jump (L1)"
+    author: "47iscool"
+    codes:
+      - "E002FBFF 003A5582"
+      - "604C50AC 43000000"
+      - "00020001 00000384"
+
+  - name: "Alien Mode Cheat"
+    author: "Codejunkies"
+    notes: "[The Following Are Built-In Game Cheats]"
+    codes:
+      - "1032F096 00003F80"
+
+  - name: "Infinite Ammo Cheat"
+    author: "Codejunkies"
+    notes: "[The Following Are Built-In Game Cheats]"
+    codes:
+      - "1032F04E 00003F80"
+
+  - name: "Invincibility Cheat"
+    author: "Codejunkies"
+    notes: "[The Following Are Built-In Game Cheats]"
+    codes:
+      - "1032F036 00003F80"
+
+  - name: "Invisibility Cheat"
+    author: "Codejunkies"
+    notes: "[The Following Are Built-In Game Cheats]"
+    codes:
+      - "1032F066 00003F80"
+
+  - name: "Slow Motion Cheat"
+    author: "Codejunkies"
+    notes: "[The Following Are Built-In Game Cheats]"
+    codes:
+      - "1032F07E 00003F80"
+
+  - name: "Xen Gravity Cheat"
+    author: "Codejunkies"
+    notes: "[The Following Are Built-In Game Cheats]"
+    codes:
+      - "1032F01E 00003F80"
+
+  - name: "Alien Mode"
+    author: "Code Master"
+    notes: "[Unlock Cheat Codes]"
+    codes:
+      - "2032F094 3F800000"
+
+  - name: "Infinite Ammo"
+    author: "Code Master"
+    notes: "[Unlock Cheat Codes]"
+    codes:
+      - "2032F04C 3F800000"
+
+  - name: "Invincibility"
+    author: "Code Master"
+    notes: "[Unlock Cheat Codes]"
+    codes:
+      - "2032F034 3F800000"
+
+  - name: "Invisibility"
+    author: "Code Master"
+    notes: "[Unlock Cheat Codes]"
+    codes:
+      - "2032F064 3F800000"
+
+  - name: "Slow Motion"
+    author: "Code Master"
+    notes: "[Unlock Cheat Codes]"
+    codes:
+      - "2032F07C 3F800000"
+
+  - name: "Xen Gravity"
+    author: "Code Master"
+    notes: "[Unlock Cheat Codes]"
+    codes:
+      - "2032F01C 3F800000"
+
+  - name: "Y-Fix"
+    author: "Lajos Szalay"
+    codes:
+      - "002D0CB8 00000000"
+      - "002D0D18 00000000"
+      - "002D0D60 00000000"
+      - "002D0DE0 00000000"
+
+  - name: "Barnacles Cannot Grab You [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D0136612 00002402"
+      - "20136610 24020000"
+
+  - name: "Barnacles Cannot Suck You In [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D01365D2 0000AE26"
+      - "201365D0 00000000"
+
+  - name: "Damage Indicator Type Display Disabled [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D0119CDE 0000AD82"
+      - "20119CDC 00000000"
+
+  - name: "Infinite Flashlight [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D01CE456 0000AE44"
+      - "201CE454 00000000"
+
+  - name: "L2 + Up For No-Clipping, L2 + Down To Disable [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D03A5582 0000FEEF"
+      - "2028A0C8 00000000"
+      - "D03A5582 0000FEBF"
+      - "2028A0C8 8FC273D8"
+
+  - name: "No View Recoil When Landing [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D01CA472 0000E440"
+      - "201CA470 00000000"
+      - "D01CA4C2 0000E440"
+      - "201CA4C0 00000000"
+
+  - name: "No View Recoil When Shooting [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D0296502 0000E600"
+      - "20296500 00000000"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 002D1697"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Masters]"
+    codes:
+      - "902D1694 0C0B917D"

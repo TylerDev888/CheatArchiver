@@ -1,0 +1,103 @@
+# Shield-The Game, The cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21040
+
+game: "Shield-The Game, The"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21040"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master>Lajos Szalay>Skiller"
+    notes: "[Masters]"
+    codes:
+      - "9024D158 00832021"
+
+  - name: "Infinite Health"
+    author: "Code Master>Lajos Szalay>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "2018EAF0 E48001EC"
+
+  - name: "Infinite Ammo Clips"
+    author: "Code Master>Lajos Szalay>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "20158AB8 00000000"
+
+  - name: "Extra Ammo Clips"
+    author: "Code Master>Lajos Szalay>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "10158AB4 00000001"
+
+  - name: "Max Infinite Ammo Clips"
+    author: "Code Master>Lajos Szalay>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "20158AB4 24020063"
+
+  - name: "Never Reload"
+    author: "Code Master>Lajos Szalay>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "20196C6C 00000000"
+
+  - name: "Invincibility"
+    author: "Code Master>Lajos Szalay>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "2033A9F4 00000001"
+
+  - name: "Unlock Everything"
+    author: "Code Master>Lajos Szalay>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "2033DEBC FFFFFFFF"
+
+  - name: "Disable Timer"
+    author: "Code Master>Lajos Szalay>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "20340990 00000000"
+
+  - name: "Infinite Time"
+    author: "Code Master>Lajos Szalay>Skiller"
+    notes: "[Codes]"
+    codes:
+      - "20340994 447A0000"
+
+  - name: "Unlockable #1"
+    author: "Code Master>Lajos Szalay>Skiller"
+    notes: "[Unlock Extras Codes]"
+    codes:
+      - "202EA854 00000001"
+
+  - name: "Unlockable #2"
+    author: "Code Master>Lajos Szalay>Skiller"
+    notes: "[Unlock Extras Codes]"
+    codes:
+      - "202EA8E0 00000001"
+
+  - name: "Unlockable #3"
+    author: "Code Master>Lajos Szalay>Skiller"
+    notes: "[Unlock Extras Codes]"
+    codes:
+      - "202EA96C 00000001"
+
+  - name: "Unlockable #4"
+    author: "Code Master>Lajos Szalay>Skiller"
+    notes: "[Unlock Extras Codes]"
+    codes:
+      - "202EA9F8 00000001"
+
+  - name: "All Extras"
+    author: "Code Master>Lajos Szalay>Skiller"
+    notes: "[Unlock Extras Codes]"
+    codes:
+      - "402EA854 00040023"
+      - "00000001 00000000"

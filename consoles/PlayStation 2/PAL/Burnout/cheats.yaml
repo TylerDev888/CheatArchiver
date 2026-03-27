@@ -1,0 +1,148 @@
+# Burnout cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50445
+
+game: "Burnout"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50445"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0129468 000001FD"
+
+  - name: "Have More Time (Press R2 To Activate)"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "D04EA8C2 0000FDFF"
+      - "204A97D0 000000A5"
+
+  - name: "Infinite Credits"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "1037F0D0 00000063"
+
+  - name: "Never Have Any Credits"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "1037F0D0 00000000"
+
+  - name: "Never Have More Than 1 Credit"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "E0010001 3037F0D0"
+      - "1037F0D0 00000001"
+
+  - name: "Never Have More Than 2 Credits"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "E0010002 3037F0D0"
+      - "1037F0D0 00000002"
+
+  - name: "Permanantly Available Boost"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "203A7A5C 42C80000"
+
+  - name: "Unlock All Championships"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "203795E0 00000000"
+      - "203795E4 00000000"
+      - "203795E8 00000000"
+      - "203795EC 00000000"
+      - "203795F0 00000000"
+
+  - name: "Unlock All Tracks"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "203795A0 00000000"
+      - "203795A4 00000000"
+      - "203795A8 00000000"
+      - "203795AC 00000000"
+      - "203795B0 00000000"
+      - "203795B4 00000000"
+      - "203795B8 00000000"
+      - "203795BC 00000000"
+      - "203795C4 00000000"
+      - "203795CC 00000000"
+      - "203795D0 00000000"
+      - "203795D4 00000000"
+      - "203795D8 00000000"
+
+  - name: "Unlock Bonus Cars"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "2037957C 00000000"
+      - "20379584 00000000"
+      - "20379590 00000000"
+      - "20379598 00000000"
+
+  - name: "Unlock Face Offs"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "2037960C 00000000"
+      - "20379610 00000000"
+      - "20379614 00000000"
+      - "20379618 00000000"
+
+  - name: "Unlock Survival"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "2037961C 00000000"
+
+  - name: "Drive Through Walls (Use At Your Own Risk!)"
+    author: "luc-ita"
+    codes:
+      - "201B6798 10000060"
+      - "201B6928 10000181"
+      - "201B6F34 100001B4"
+      - "201B760C 1000011B"
+
+  - name: "Going Against Walls Doesn't Cause Loss Of Speed"
+    author: "luc-ita"
+    codes:
+      - "04244785 98844E1E"
+
+  - name: "Opponents Don't Move"
+    author: "luc-ita"
+    codes:
+      - "F0A8F976 6D190417"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00126FAF"
+
+  - name: "Unlimited Credits"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "1037F0D0 07230863"
+
+  - name: "Unlock All Bonus Cars"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2037957C 00000000"
+      - "20379584 00000000"
+      - "20379590 00000000"
+      - "20379598 00000000"

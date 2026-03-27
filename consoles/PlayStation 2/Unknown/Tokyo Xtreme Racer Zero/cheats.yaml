@@ -1,0 +1,72 @@
+# Tokyo Xtreme Racer Zero cheat data
+# Console: PlayStation 2
+# Region:  Unknown
+# Serial:  No
+
+game: "Tokyo Xtreme Racer Zero"
+console: "PlayStation 2"
+region: "Unknown"
+serial: "No"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0127C4C 000001FD"
+
+  - name: "0 Lose/0 Draw"
+    author: "InterAct"
+    codes:
+      - "2037E794 00000000"
+      - "2037E798 00000000"
+
+  - name: "All 165 Cars In Shop"
+    author: "InterAct"
+    codes:
+      - "2037E764 FFFFFFFF"
+      - "2037E768 FFFFFFFF"
+      - "2037E76C FFFFFFFF"
+      - "2037E770 FFFFFFFF"
+      - "2037E774 FFFFFFFF"
+      - "2037E778 FFFFFFFF"
+
+  - name: "All 400 Rivals Beaten"
+    author: "InterAct"
+    codes:
+      - "2037E6E4 FFFFFFFF"
+      - "2037E6E8 FFFFFFFF"
+      - "2037E6EC FFFFFFFF"
+      - "2037E6F0 FFFFFFFF"
+      - "2037E6F4 FFFFFFFF"
+      - "2037E6F8 FFFFFFFF"
+      - "2037E6FC FFFFFFFF"
+      - "2037E700 FFFFFFFF"
+      - "2037E704 FFFFFFFF"
+      - "2037E708 FFFFFFFF"
+      - "2037E70C FFFFFFFF"
+      - "2037E710 FFFFFFFF"
+      - "2037E714 FFFFFFFF"
+
+  - name: "Have Lots Of Wins"
+    author: "InterAct"
+    codes:
+      - "2037E78C 05F5E0FF"
+      - "2037E790 05F5E0FF"
+
+  - name: "Infinite SP P1"
+    author: "InterAct"
+    codes:
+      - "207512F8 004C4B40"
+
+  - name: "Just Pass Oppenent To Win"
+    author: "InterAct"
+    codes:
+      - "207512FC 00000001"
+
+  - name: "Lots'o'cash"
+    author: "InterAct"
+    codes:
+      - "2037E788 05F5E0FF"

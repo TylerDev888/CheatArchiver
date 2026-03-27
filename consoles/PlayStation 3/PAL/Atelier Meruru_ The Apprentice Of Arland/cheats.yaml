@@ -1,0 +1,89 @@
+# Atelier Meruru_ The Apprentice Of Arland cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01593
+
+game: "Atelier Meruru_ The Apprentice Of Arland"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01593"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3 & savedata.jp & gvargas"
+
+cheats:
+  - name: "Max Money"
+    notes: "File: BLES01593-LIST-*\\USR-DATA"
+    codes:
+      - "2000CB58 0098967F"
+
+  - name: "Lv Max"
+    notes: "[Character Meruru]  File: BLES01593-LIST-*\\USR-DATA"
+    codes:
+      - "2000CB6C 000F423F"
+
+  - name: "Max Hp"
+    notes: "[Character Meruru]  File: BLES01593-LIST-*\\USR-DATA"
+    codes:
+      - "2000CB7C 000003E7"
+
+  - name: "Max Mp"
+    notes: "[Character Meruru]  File: BLES01593-LIST-*\\USR-DATA"
+    codes:
+      - "2000CB80 000003E7"
+
+  - name: "Max Lp"
+    notes: "[Character Meruru]  File: BLES01593-LIST-*\\USR-DATA"
+    codes:
+      - "2000CB84 000003E7"
+
+  - name: "Max Atk"
+    notes: "[Character Meruru]  File: BLES01593-LIST-*\\USR-DATA"
+    codes:
+      - "2000CB88 000003E7"
+
+  - name: "Max Def"
+    notes: "[Character Meruru]  File: BLES01593-LIST-*\\USR-DATA"
+    codes:
+      - "2000CB8C 000003E7"
+
+  - name: "Max Agi"
+    notes: "[Character Meruru]  File: BLES01593-LIST-*\\USR-DATA"
+    codes:
+      - "2000CB90 000003E7"
+
+  - name: "Max Friendship"
+    notes: "[Character Keina]  File: BLES01593-LIST-*\\USR-DATA"
+    codes:
+      - "1000CEB8 000042A0"
+
+  - name: "Max Lv"
+    notes: "[Character Pamela(dlc)]  File: BLES01593-LIST-*\\USR-DATA"
+    codes:
+      - "2000DFAC 000F423F"
+
+  - name: "Development Pt 99999(from Savedata.jp & Goldenfinger Forum)"
+    notes: "[Character Pamela(dlc)]  File: BLES01593-LIST-*\\USR-DATA"
+    codes:
+      - "2006DA93 0001869F"
+
+  - name: "Alchemist Lv 50"
+    notes: "[Character Pamela(dlc)]  File: BLES01593-LIST-*\\USR-DATA"
+    codes:
+      - "20054DEA 00000032"
+
+  - name: "Year 1 Month 4 Day 1"
+    notes: "[Character Pamela(dlc)]  File: BLES01593-LIST-*\\USR-DATA"
+    codes:
+      - "000544FD 0000005A"
+
+  - name: "Item 1-100 In Basket Quality 120"
+    notes: "[Character Pamela(dlc)]  File: BLES01593-LIST-*\\USR-DATA"
+    codes:
+      - "4003A006 000000F0"
+      - "40640030 00000000"
+
+  - name: "Items 1-1999 In Container Quality 120"
+    notes: "[Character Pamela(dlc)]  File: BLES01593-LIST-*\\USR-DATA"
+    codes:
+      - "4003B2C6 000000F0"
+      - "47CF0030 00000000"

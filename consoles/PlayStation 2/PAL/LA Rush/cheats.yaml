@@ -1,0 +1,34 @@
+# LA Rush cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53419
+
+game: "LA Rush"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53419"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0285F84 00285F87"
+
+  - name: "Infinite Cash"
+    author: "Codejunkies"
+    codes:
+      - "203FC180 05F5E0FF"
+
+  - name: "Infinite Turbo"
+    author: "Codejunkies"
+    codes:
+      - "21F181BC 00000003"
+
+  - name: "Unlock All Cars"
+    author: "Codejunkies"
+    codes:
+      - "403FC460 003C0001"
+      - "00000002 00000000"

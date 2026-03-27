@@ -1,0 +1,52 @@
+# Happy Feet cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21455
+
+game: "Happy Feet"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21455"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "9011DE64 0C04AC48"
+
+  - name: "Infinite Grace Meter"
+    author: "Code Master"
+    notes: "[Dancing Mode Codes]"
+    codes:
+      - "D146E130 0000F02D"
+      - "2146E174 00000000"
+
+  - name: "Always Low Time"
+    author: "Code Master"
+    notes: "[Race Mode Codes]"
+    codes:
+      - "D1211C90 0000202D"
+      - "21211D7C 24030001"
+      - "21211D80 AC430060"
+
+  - name: "Infinite Air"
+    author: "Code Master"
+    notes: "[Swimming Mode Codes]"
+    codes:
+      - "D17CEB74 00002023"
+      - "217CEB78 00000000"
+
+  - name: "Unlock All Levels"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2079AE24 448D58C6"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9011DE64 0C04AC48"

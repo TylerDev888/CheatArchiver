@@ -1,0 +1,77 @@
+# Donald Duck Phantomias Platyrhynchos Kineticus cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50773
+
+game: "Donald Duck Phantomias Platyrhynchos Kineticus"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50773"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0129E94 000001FD"
+
+  - name: "99 Lives"
+    author: "luc-ita"
+    codes:
+      - "20CFCB44 00000063"
+
+  - name: "All 60 Total Pink Globes Taken"
+    author: "luc-ita"
+    codes:
+      - "20CFCBC4 FFFFFFFF"
+      - "20CFCBC8 FFFFFFFF"
+
+  - name: "Full Of Pink Orbs"
+    author: "luc-ita"
+    codes:
+      - "20CFCBFC 00000006"
+
+  - name: "Godmode+1Hitkill (Revisited)"
+    author: "luc-ita"
+    codes:
+      - "201A4448 3C0500CC"
+      - "201A444C 34A5DA20"
+      - "201A4450 10A40006"
+      - "201A4454 00000000"
+      - "201A4458 0000282D"
+
+  - name: "Have All Powers"
+    author: "luc-ita"
+    codes:
+      - "20CFCC58 00000006"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "20CCDA3C 64323200"
+
+  - name: "Low Gravity"
+    author: "luc-ita"
+    codes:
+      - "20CCDAA0 40A00000"
+
+  - name: "Mini Donald"
+    author: "Codejunkies"
+    codes:
+      - "20CCDAD8 3EFF01CE"
+      - "20CCDADC 3EFF01CE"
+      - "20CCDAE0 3EFF01CE"
+
+  - name: "No Logos And Video Demo"
+    author: "luc-ita"
+    codes:
+      - "2034B378 00000000"
+      - "2034B398 00000000"
+      - "2034B3B8 00000000"
+
+  - name: "No Reload"
+    author: "luc-ita"
+    codes:
+      - "20CFCB40 00000000"

@@ -1,0 +1,46 @@
+# Nascar Heat 2002 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20176
+
+game: "Nascar Heat 2002"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20176"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F024D68C 000001FD"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0025DC37"
+
+  - name: "2000 Points Driver 1"
+    author: "InterAct"
+    codes:
+      - "102F1C34 000007D0"
+      - "102C8414 000007D0"
+
+  - name: "Low Timer (Driver 1 Only)"
+    author: "InterAct"
+    codes:
+      - "2037034C 00C1336B"
+
+  - name: "Max Points (Driver 1 Only)"
+    author: "InterAct"
+    codes:
+      - "102F1C34 000007D0"
+
+  - name: "Max Points (Driver 1)"
+    author: "Code Master"
+    codes:
+      - "102C8414 0000270F"
+      - "102F1C34 0000270F"

@@ -1,0 +1,29 @@
+# LEGO Lord Of The Rings cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01516
+
+game: "LEGO Lord Of The Rings"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01516"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Studs"
+    notes: "File: GAME1"
+    codes:
+      - "8001000C 45610000"
+      - "00000000 00000000"
+      - "28000118 000000E8"
+      - "2800011C D4A50FFF"
+
+  - name: "Update Checksum For Game1 (required)"
+    notes: "File: GAME1"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x10,pointer"
+      - "set [hash]:fnv1:0xFFFFFFFF"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x000C:[hash]"

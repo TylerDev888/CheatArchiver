@@ -1,0 +1,32 @@
+# Ys VII cheat data
+# Console: PSP
+# Region:  NTSC-U
+# Serial:  ULUS10551
+
+game: "Ys VII"
+console: "PSP"
+region: "NTSC-U"
+serial: "ULUS10551"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Possession Money 99999999"
+    notes: "File: *"
+    codes:
+      - "2000113C 05F5E0FF"
+
+  - name: "Tools 99 (iko's Medicine, Salimera's Medicine, Myrrh Incense, Kamika's Elixir, Alp's Medicine, Chiguru's Elixir, Ryuki No Shizuku)"
+    notes: "File: *"
+    codes:
+      - "00006570 00000063"
+      - "00006572 00000063"
+      - "0000657A 00000063"
+      - "00006580 00000063"
+      - "00006578 00000063"
+      - "00006582 00000063"
+      - "00006588 00000063"
+      - "00006BEB 00000050"
+      - "00006BEC 00000050"
+      - "00006BED 00000050"
+      - "00006BEE 00000050"

@@ -1,0 +1,28 @@
+# Simple 2000 Series Vol.44 - The First Step RPG cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62336
+
+game: "Simple 2000 Series Vol.44 - The First Step RPG"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62336"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9019B668 0C066D42"
+
+  - name: "Enable Debug Display"
+    author: "punk7890"
+    codes:
+      - "20100280 24040001"
+
+  - name: "New Game = Script Select Menu"
+    author: "punk7890"
+    codes:
+      - "0010AC8E 00000063"

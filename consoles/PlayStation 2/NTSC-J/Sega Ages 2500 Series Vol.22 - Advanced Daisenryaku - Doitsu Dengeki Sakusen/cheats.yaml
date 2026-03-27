@@ -1,0 +1,26 @@
+# Sega Ages 2500 Series Vol.22 - Advanced Daisenryaku - Doitsu Dengeki Sakusen cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62708
+
+game: "Sega Ages 2500 Series Vol.22 - Advanced Daisenryaku - Doitsu Dengeki Sakusen"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62708"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90111030 0C0443B4"
+
+  - name: "Replace First Map In Standard Mode With Test Map"
+    author: "punk7890"
+    codes:
+      - "E0030901 008D2080"
+      - "208D2084 54534554"
+      - "208D2088 2E31305F"
+      - "208D208C 004D4353"

@@ -1,0 +1,134 @@
+# Space Channel 5 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-50611
+
+game: "Space Channel 5"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-50611"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0145C80 000001FD"
+
+  - name: "Level 1 First Boot"
+    author: "Codejunkies"
+    notes: "[Max View Ratings - Press L1+R1+L2+R2]"
+    codes:
+      - "D024ACE8 0000000F"
+      - "20DB1790 43C80000"
+
+  - name: "Level 2 First Boot"
+    author: "Codejunkies"
+    notes: "[Max View Ratings - Press L1+R1+L2+R2]"
+    codes:
+      - "D024ACE8 0000000F"
+      - "20DB1830 43C80000"
+
+  - name: "Level 3 First Boot"
+    author: "Codejunkies"
+    notes: "[Max View Ratings - Press L1+R1+L2+R2]"
+    codes:
+      - "D024ACE8 0000000F"
+      - "20DB1590 43C80000"
+
+  - name: "Level 4 First Boot"
+    author: "Codejunkies"
+    notes: "[Max View Ratings - Press L1+R1+L2+R2]"
+    codes:
+      - "D024ACE8 0000000F"
+      - "20DB17D0 43C80000"
+
+  - name: "Debug All Question Mode"
+    author: "InterAct"
+    codes:
+      - "2011E62C 00000000"
+      - "2011E614 00000000"
+      - "2011E620 24020001"
+
+  - name: "Invincible"
+    author: "Codejunkies"
+    codes:
+      - "2011E7DC 2402FFFF"
+
+  - name: "Max View Rating Level 1 (1St Boot Only)"
+    author: "InterAct"
+    codes:
+      - "20DB1790 43C80000"
+      - "20DB1794 43C80000"
+      - "20DB1798 43C80000"
+      - "20DB179C 43C80000"
+      - "20DB17A0 43C80000"
+
+  - name: "Max View Rating Level 2 (1St Boot Only"
+    author: "InterAct"
+    codes:
+      - "20DB1830 43C80000"
+      - "20DB1834 43C80000"
+      - "20DB1838 43C80000"
+      - "20DB183C 43C80000"
+      - "20DB1840 43C80000"
+
+  - name: "Max View Rating Level 3 (1St Boot Only)"
+    author: "InterAct"
+    codes:
+      - "20DB1590 43C80000"
+      - "20DB1594 43C80000"
+      - "20DB1598 43C80000"
+      - "20DB159C 43C80000"
+      - "20DB15A0 43C80000"
+
+  - name: "Max View Rating Level 4 (1St Boot Only)"
+    author: "InterAct"
+    codes:
+      - "20DB17D0 43C80000"
+      - "20DB17D4 43C80000"
+      - "20DB17D8 43C80000"
+      - "20DB17DC 43C80000"
+      - "20DB17E0 43C80000"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001C80F7"
+
+  - name: "Unlimited Lives"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2011E7DC 2402FFFF"
+
+  - name: "Level 1"
+    author: "Xploder"
+    notes: "[Maximum View Ratings]"
+    codes:
+      - "D024ACE8 28090104"
+      - "20DB1790 68280900"
+
+  - name: "Level 2"
+    author: "Xploder"
+    notes: "[Maximum View Ratings]"
+    codes:
+      - "D024ACE8 28090101"
+      - "20DB1830 68280900"
+
+  - name: "Level 3"
+    author: "Xploder"
+    notes: "[Maximum View Ratings]"
+    codes:
+      - "D024ACE8 28090108"
+      - "20DB1590 68280900"
+
+  - name: "Level 4"
+    author: "Xploder"
+    notes: "[Maximum View Ratings]"
+    codes:
+      - "D024ACE8 28090102"
+      - "20DB17D0 68280900"

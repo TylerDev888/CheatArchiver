@@ -1,0 +1,82 @@
+# Silent Hill_ Downpour cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS30565
+
+game: "Silent Hill_ Downpour"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS30565"
+cheat_type: "Save Editor"
+source: "By chaoszage"
+
+cheats:
+  - name: "Super More Health(999)(normal Max Health Is 100)"
+    notes: "File: PAYLOAD"
+    codes:
+      - "search \"gamestats_values\""
+      - "search next 0x22"
+      - "write next 1:\"999\""
+
+  - name: "9 F.a.kits(use This If More Than 1 And Less Than 10)"
+    notes: "[First Aid Kit(choose One)]  File: PAYLOAD"
+    codes:
+      - "search \"SHInventory_Medikit\""
+      - "write next (-23):0x3939"
+
+  - name: "99 F.a.kits(use This If More Than 10)"
+    notes: "[First Aid Kit(choose One)]  File: PAYLOAD"
+    codes:
+      - "search \"SHInventory_Medikit\""
+      - "write next (-24):0x3939"
+
+  - name: "9 Handgun Ammo(use This If More Than 1 And Less Than 10)"
+    notes: "[Handgun Ammo(choose One)]  File: PAYLOAD"
+    codes:
+      - "search \"colt01_ammo\""
+      - "write next (-77):0x3939"
+
+  - name: "99 Handgun Ammo(use This If More Than 10)"
+    notes: "[Handgun Ammo(choose One)]  File: PAYLOAD"
+    codes:
+      - "search \"colt01_ammo\""
+      - "write next (-78):0x3939"
+
+  - name: "9 Shotgun Ammo(use This If More Than 1 And Less Than 10)"
+    notes: "[Shotgun Ammo(choose One)]  File: PAYLOAD"
+    codes:
+      - "search \"shotgun01_ammo\""
+      - "write next (-100):0x3939"
+
+  - name: "99 Shotgun Ammo(use This If More Than 10)"
+    notes: "[Shotgun Ammo(choose One)]  File: PAYLOAD"
+    codes:
+      - "search \"shotgun01_ammo\""
+      - "write next (-101):0x3939"
+
+  - name: "Easy"
+    notes: "[Game Difficulty(choose One)]  File: PAYLOAD"
+    codes:
+      - "search \"difficulty_game\""
+      - "write next 15:\"0\""
+
+  - name: "Normal"
+    notes: "[Game Difficulty(choose One)]  File: PAYLOAD"
+    codes:
+      - "search \"difficulty_game\""
+      - "write next 15:\"1\""
+
+  - name: "Hard"
+    notes: "[Game Difficulty(choose One)]  File: PAYLOAD"
+    codes:
+      - "search \"difficulty_game\""
+      - "write next 15:\"2\""
+
+  - name: "Update Sha1 Checksum(required)"
+    notes: "File: PAYLOAD"
+    codes:
+      - "write at 0x4:0000000000000000000000000000000000000000"
+      - "set pointer:eof+1"
+      - "set range:0x000000,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x000004:[hash]"

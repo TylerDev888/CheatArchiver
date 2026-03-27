@@ -1,0 +1,17 @@
+# DeathSpank_ The Baconing (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00631
+
+game: "DeathSpank_ The Baconing (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00631"
+cheat_type: "Save Editor"
+source: "From SHAkA"
+
+cheats:
+  - name: "Max Money"
+    notes: "File: SLOT1.SAV"
+    codes:
+      - "write at 0x0000395C:0x3B9AC9FF"

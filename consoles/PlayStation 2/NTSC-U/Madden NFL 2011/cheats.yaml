@@ -1,0 +1,114 @@
+# Madden NFL 2011 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21937
+
+game: "Madden NFL 2011"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21937"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "906B71A0 0C1ADC10"
+
+  - name: "Player 1 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "D0807002 0000[Joker:PS2]"
+
+  - name: "Home Team Score Mod"
+    codes:
+      - "2048EE14 2402[Amount:2710:HEX:BIG]"
+
+  - name: "Away Team Score Mod"
+    codes:
+      - "2048EE1C 2402[Amount:2710:HEX:BIG]"
+
+  - name: "Infinite Play Clock"
+    codes:
+      - "2084C2AC 00000019"
+
+  - name: "More Time"
+    codes:
+      - "2084C2C4 0000012C"
+
+  - name: "Infinite Play Time"
+    codes:
+      - "2084C2C4 00000028"
+
+  - name: "Quarter Mod"
+    codes:
+      - "2084C2A0 000000[Amount:04:HEX:BIG]"
+
+  - name: "Down Mod"
+    codes:
+      - "2084DE60 000000[Amount:04:HEX:BIG]"
+
+  - name: "Press L3 For First Down"
+    codes:
+      - "D0807002 0000FFFD"
+      - "2084DE60 00000001"
+
+  - name: "Infinite Challenges (home)"
+    codes:
+      - "2040208C 00000000"
+
+  - name: "Infinite Challenges (away)"
+    codes:
+      - "20402104 00000000"
+
+  - name: "Infinite Time-Outs (home)"
+    codes:
+      - "2084DF7C 00000003"
+
+  - name: "Infinite Time-Outs (away)"
+    codes:
+      - "2084DF80 00000003"
+
+  - name: "Point Gain Mod"
+    notes: "[Drill Codes]"
+    codes:
+      - "20303FEC 2004[Amount:2710:HEX:BIG]"
+
+  - name: "Infinite Time"
+    notes: "[Drill Codes]"
+    codes:
+      - "20304998 46010001"
+
+  - name: "Infinite Attribute Points Available"
+    notes: "[Drill Codes]"
+    codes:
+      - "207BA28C 0000270F"
+
+  - name: "Max Power"
+    notes: "[40 Yard Dash]"
+    codes:
+      - "202E4E2C AC610004"
+
+  - name: "Alt.max Power"
+    notes: "[40 Yard Dash]"
+    codes:
+      - "202E51DC AE010004"
+      - "202E51E0 3C013FC0"
+
+  - name: "Infinite Tokens Remaining"
+    notes: "[40 Yard Dash]"
+    codes:
+      - "11DD3F58 0000FFFF"
+
+  - name: "Max Tokens Remaining"
+    notes: "[40 Yard Dash]"
+    codes:
+      - "21DD3F58 05F5E0FF"
+
+  - name: "Have All Cards"
+    notes: "[40 Yard Dash]"
+    codes:
+      - "21DD4044 000000DC"
+      - "41DD40B0 00DC0001"
+      - "00FFE01F 00000010"

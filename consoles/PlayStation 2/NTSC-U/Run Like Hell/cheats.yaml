@@ -1,0 +1,75 @@
+# Run Like Hell cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20037
+
+game: "Run Like Hell"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20037"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00280A6F"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90280A6C 0C0A30AD"
+
+  - name: "Infinite Ammo"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2014848C 00000000"
+
+  - name: "Extra Ammo"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20148488 00431021"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 00A0802D"
+      - "200C0224 2402012C"
+      - "200C0228 03E00008"
+      - "200C022C AE42026C"
+      - "2013F8AC 0C030088"
+
+  - name: "Infinite Armor"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20173B54 2402000A"
+      - "20173B5C AC620224"
+
+  - name: "View Weapon In Inventory For Max Damage"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20178A14 24820020"
+      - "20178A18 AEA2002C"
+
+  - name: "View Weapon In Inventory For Max Burst"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20178CC0 AEA20048"
+
+  - name: "View Weapon In Inventory For Max Clips"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0230 8E820090"
+      - "200C0234 03E00008"
+      - "200C0238 AEA20044"
+      - "20178B78 0C03008C"

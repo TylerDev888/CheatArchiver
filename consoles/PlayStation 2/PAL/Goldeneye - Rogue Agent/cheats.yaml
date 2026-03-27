@@ -1,0 +1,132 @@
+# Goldeneye - Rogue Agent cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52977
+
+game: "Goldeneye - Rogue Agent"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52977"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "91C00CD8 0C7001EA"
+      - "905766FC 0C14DC51"
+
+  - name: "1 Hit Kill Baddies"
+    author: "Codejunkies"
+    codes:
+      - "2059BCB4 70000000"
+      - "2059BCB8 70000000"
+      - "2059BCBC 70000000"
+
+  - name: "Hand Weapons"
+    author: "Codejunkies"
+    codes:
+      - "2059BB44 00000000"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "2069818C 3F800000"
+
+  - name: "Infinite Armor"
+    author: "Codejunkies"
+    codes:
+      - "201B6B48 03E00008"
+      - "201B6B4C 00000000"
+
+  - name: "Infinite Eye Juice"
+    author: "Codejunkies"
+    codes:
+      - "201B6DB8 03E00008"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "201B5760 03E00008"
+      - "201B5764 00000000"
+
+  - name: "Run Backward Speed X2"
+    author: "Codejunkies"
+    notes: "[Run Backward Codes]"
+    codes:
+      - "206FB228 41000000"
+
+  - name: "Run Backward Speed X3"
+    author: "Codejunkies"
+    notes: "[Run Backward Codes]"
+    codes:
+      - "206FB228 41600000"
+
+  - name: "Run Backward Speed X4"
+    author: "Codejunkies"
+    notes: "[Run Backward Codes]"
+    codes:
+      - "206FB228 41A00000"
+
+  - name: "Hyper Mode (Press R1+Left)"
+    author: "Codejunkies"
+    notes: "[Shoot To Activate]"
+    codes:
+      - "E002F77F 0076DB02"
+      - "202EA860 3C014100"
+      - "202EA86C 44810000"
+
+  - name: "Normal Speed (Press R1+Right)"
+    author: "Codejunkies"
+    notes: "[Shoot To Activate]"
+    codes:
+      - "E002F7DF 0076DB02"
+      - "202EA860 45010004"
+      - "202EA86C 46010002"
+
+  - name: "Quicker Game (Press R1+Down)"
+    author: "Codejunkies"
+    notes: "[Shoot To Activate]"
+    codes:
+      - "E002F7BF 0076DB02"
+      - "202EA860 3C014080"
+      - "202EA86C 44810000"
+
+  - name: "Slow Motion (Press R1+Up)"
+    author: "Codejunkies"
+    notes: "[Shoot To Activate]"
+    codes:
+      - "E002F7EF 0076DB02"
+      - "202EA860 3C013E80"
+      - "202EA86C 44810000"
+
+  - name: "Slow Motion Enemies"
+    author: "Codejunkies"
+    codes:
+      - "2059B91C 3E000000"
+
+  - name: "Stupid AI"
+    author: "Codejunkies"
+    codes:
+      - "2023E908 03E00008"
+      - "2023E90C 00000000"
+
+  - name: "Walk Thru Walls (Press Select+Up To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "E10200EE 0076DB02"
+      - "201B9868 24020001"
+      - "201B9C5C 24020001"
+      - "E10100EE 0076DB02"
+      - "201BA6C0 24020001"
+
+  - name: "Walk Thru Walls Off (Press Select+Down To Disable WTW)"
+    author: "Codejunkies"
+    codes:
+      - "E10200BE 0076DB02"
+      - "201B9868 0C069D3E"
+      - "201B9C5C 0C069D3E"
+      - "E10100BE 0076DB02"
+      - "201BA6C0 0C069D3E"

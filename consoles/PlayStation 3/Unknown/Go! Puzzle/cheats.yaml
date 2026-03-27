@@ -1,0 +1,22 @@
+# Go! Puzzle cheat data
+# Console: PlayStation 3
+# Region:  Unknown
+# Serial:  NPEA00006
+
+game: "Go! Puzzle"
+console: "PlayStation 3"
+region: "Unknown"
+serial: "NPEA00006"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32:0 For Usr-data (required)"
+    notes: "File: USR-DATA"
+    codes:
+      - "write at 0x4:00000000"
+      - "set pointer:eof+1"
+      - "set range:0x0,pointer"
+      - "set [hash]:CRC32:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x4:[hash]"

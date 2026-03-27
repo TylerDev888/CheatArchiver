@@ -1,0 +1,97 @@
+# Army Men - Green Rogue cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20087
+
+game: "Army Men - Green Rogue"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20087"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F010403C 0010403F"
+
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F010403C 000001FD"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100040 001209A7"
+
+  - name: "Infinite Bio Strike"
+    author: "Codejunkies"
+    notes: "[Bio Strike Codes]"
+    codes:
+      - "00227FC4 00000008"
+
+  - name: "Never Have Any Bio Strikes"
+    author: "Codejunkies"
+    notes: "[Bio Strike Codes]"
+    codes:
+      - "00227FC4 00000000"
+
+  - name: "Character Is Invincible"
+    author: "Codejunkies"
+    codes:
+      - "001681D8 00000001"
+
+  - name: "Infinite Continues P1"
+    author: "Code Master"
+    codes:
+      - "2022609C 00000005"
+
+  - name: "Infinite Continues P2"
+    author: "Code Master"
+    codes:
+      - "202260A0 00000005"
+
+  - name: "Infinite Lives P1"
+    author: "Code Master"
+    codes:
+      - "20226094 00000003"
+
+  - name: "Infinite Lives P2"
+    author: "Code Master"
+    codes:
+      - "20226098 00000003"
+
+  - name: "Max Bio Level P1"
+    author: "Code Master"
+    codes:
+      - "20227FC4 00000009"
+
+  - name: "Max Bio Level P2"
+    author: "Code Master"
+    codes:
+      - "20227FC8 00000009"
+
+  - name: "Max Score P1"
+    author: "Code Master"
+    codes:
+      - "2022608C 05F5E0FF"
+
+  - name: "Max Score P2"
+    author: "Code Master"
+    codes:
+      - "20226090 05F5E0FF"
+
+  - name: "Quick Score Gain P1"
+    author: "Code Master"
+    codes:
+      - "1022608C 000000FF"
+
+  - name: "Quick Score Gain P2"
+    author: "Code Master"
+    codes:
+      - "10226090 000000FF"

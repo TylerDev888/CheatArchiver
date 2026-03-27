@@ -1,0 +1,50 @@
+# Samurai Jack_ Battle Through Time
+
+**Console:** PlayStation 4  
+**Region:** NTSC-U  
+**Serial:** CUSA16289  
+**Cheat Type:** SaveWizard  
+
+---
+
+## Cheats
+
+### Swap Katana For Great Sword With Super Durability
+**Author:** Zeraf3000  
+**Notes:** File: SaveData\\ue4savegame.ps4.sav
+
+```
+80[Amount:05:BIG:HEX<SaveSlot 01-05>]0012 534A5F47
+616D6544 6174615F
+57656170 6F6E0000
+88010021 6974656D
+4964000C 00000049
+6E745072 6F706572
+74790004 00000000
+00000000 E9000000
+08000020 000000EA
+92000000 00000001
+8801000A 64757261
+62696C69 74790000
+8801000B 496E7450
+726F7065 72747900
+28000015 7FFFFFFF
+```
+
+---
+
+### Super Max Weapons Level
+**Author:** Zeraf3000  
+**Notes:** File: SaveData\\ue4savegame.ps4.sav
+
+```
+80[Amount:05:BIG:HEX<SaveSlot 01-05>]000D 4D61696E
+57656170 6F6E4C76
+73000000 00000000
+8801000B 496E7450
+726F7065 72747900
+48000011 00000063
+40050004 00000000
+```
+
+---

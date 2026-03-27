@@ -1,0 +1,21 @@
+# Puss In Boots cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01240
+
+game: "Puss In Boots"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01240"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32big:0 For Gamesave (required)"
+    notes: "File: GAMESAVE  (set range:0x000010,0x0001AF)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000010,pointer"
+      - "set [hash]:CRC32Big:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x000008:[hash]"

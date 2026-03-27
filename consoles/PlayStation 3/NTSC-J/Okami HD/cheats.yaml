@@ -1,0 +1,17 @@
+# Okami HD cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM60467
+
+game: "Okami HD"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM60467"
+cheat_type: "Save Editor"
+source: "From savedata.jp"
+
+cheats:
+  - name: "Save Slot 1 - Stray Bead (not Working)"
+    codes:
+      - "000002CA 00000001"
+      - "000002DA 00000001"

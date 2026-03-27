@@ -1,0 +1,115 @@
+# Sengoku BASARA4 sumeragi
+
+**Console:** PlayStation 3  
+**Region:** NTSC-J  
+**Serial:** BLJM61248  
+**Cheat Type:** Save Editor  
+**Source:** [from savedata.jp](from savedata.jp)  
+
+---
+
+## Cheats
+
+### Wheatstone 9999999
+**Author:** 
+
+```
+2032AA5C 0098967F
+```
+
+---
+
+### Jade Steel 9999999
+**Author:** 
+
+```
+2032AA60 0098967F
+```
+
+---
+
+### Fortune Hammer 9999999
+**Author:** 
+
+```
+2032AA64 0098967F
+```
+
+---
+
+### Gold 9999999
+**Author:** 
+
+```
+2032AA54 0098967F
+```
+
+---
+
+### Upgrade Rock 9999999
+**Author:** 
+
+```
+2032AA58 0098967F
+```
+
+---
+
+### Metals 9999999
+**Author:** 
+
+```
+2032AA6C 0098967F
+```
+
+---
+
+### All Take Possession Weapon 1, Possession 2 + Ad8 Rarity Max
+**Author:** 
+
+```
+401FE06F 00000004
+40260004 00000000
+401FE107 00000064
+40260004 00000000
+```
+
+---
+
+### Inscriptions 6
+**Author:** 
+
+```
+421FE234 000000[INSCRIPTIONS]
+40260004 00000000
+421FE2CC 000000[INSCRIPTIONS]
+40260004 00000000
+421FE364 000000[INSCRIPTIONS]
+40260004 00000000
+421FE3FC 000000[INSCRIPTIONS]
+40260004 00000000
+421FE494 000000[INSCRIPTIONS]
+40260004 00000000
+421FE52C 000000[INSCRIPTIONS]
+40260004 00000000
+```
+
+---
+
+### Strength / Attack / Defense / Yell / Basara 1500
+**Author:** 
+
+```
+411FE5C6 000005DC
+40260004 00000000
+411FE65E 000005DC
+40260004 00000000
+411FE6F6 000005DC
+40260004 00000000
+411FE78E 000005DC
+40260004 00000000
+411FE826 000005DC
+40260004 00000000
+```
+
+---

@@ -1,0 +1,24 @@
+# Simple 2000 Series Vol.48 - The Taxi cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62483
+
+game: "Simple 2000 Series Vol.48 - The Taxi"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62483"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90195E58 0C06573E"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9016760C 0C06357A"

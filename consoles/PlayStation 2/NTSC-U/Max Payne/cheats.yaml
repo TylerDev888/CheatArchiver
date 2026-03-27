@@ -1,0 +1,895 @@
+# Max Payne cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20230
+
+game: "Max Payne"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20230"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0133CE0 0012398F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F012ED08 0012398F"
+
+  - name: "1 Hit Kill/Disable AI"
+    author: "Azagthoth"
+    codes:
+      - "203BAC50 AC80008C"
+
+  - name: "Infinite Ammo"
+    author: "InterAct"
+    notes: "[A Citywide APB]"
+    codes:
+      - "FD19B982 58B5D4BE"
+
+  - name: "Infinite Bullet Time"
+    author: "InterAct"
+    notes: "[A Citywide APB]"
+    codes:
+      - "209CABE0 3F800000"
+
+  - name: "Infinite Health"
+    author: "InterAct"
+    notes: "[A Citywide APB]"
+    codes:
+      - "212EB03C 44290000"
+
+  - name: "Access All Levels"
+    author: "Code Master"
+    codes:
+      - "1014DA12 00001000"
+      - "102D93EA 00001000"
+      - "102D9332 00001000"
+      - "102D9BBA 00001000"
+
+  - name: "Alt.1 Hit Kill/Disable AI"
+    author: "Azagthoth"
+    codes:
+      - "203BB4F8 AC80008C"
+
+  - name: "Dead On Arrival"
+    author: "Josh_7774"
+    notes: "[Difficulty Modifier]"
+    codes:
+      - "005AFFFC 00000003"
+
+  - name: "Fugitive"
+    author: "Josh_7774"
+    notes: "[Difficulty Modifier]"
+    codes:
+      - "005AFFFC 00000001"
+
+  - name: "Hard-Boiled"
+    author: "Josh_7774"
+    notes: "[Difficulty Modifier]"
+    codes:
+      - "005AFFFC 00000002"
+
+  - name: "New York Minute"
+    author: "Josh_7774"
+    notes: "[Difficulty Modifier]"
+    codes:
+      - "005AFFFC 00000004"
+
+  - name: "Enable In Game Invincibility"
+    author: "nolberto82"
+    codes:
+      - "20163454 34050001"
+      - "2016341C 00000000"
+      - "20163428 00000000"
+
+  - name: "Extra Ammo"
+    author: "Code Master"
+    codes:
+      - "1036F2C8 00000001"
+
+  - name: "Baseball Bat"
+    author: "Josh_7774"
+    notes: "[Have Weapon]"
+    codes:
+      - "D0669024 05300016"
+      - "6066A1E8 00000001"
+      - "00000002 00000A08"
+      - "00000010 00000000"
+      - "6066A1E8 00000001"
+      - "00020000 00000834"
+
+  - name: "Beretta"
+    author: "Josh_7774"
+    notes: "[Have Weapon]"
+    codes:
+      - "D0669024 05300016"
+      - "6066A1E8 00000001"
+      - "00000002 00000A24"
+      - "00000010 00000000"
+
+  - name: "Beretta (Dual)"
+    author: "Josh_7774"
+    notes: "[Have Weapon]"
+    codes:
+      - "D0669024 05300016"
+      - "6066A1E8 00000001"
+      - "00000002 00000A28"
+      - "00000010 00000000"
+
+  - name: "Colt Commando"
+    author: "Josh_7774"
+    notes: "[Have Weapon]"
+    codes:
+      - "D0669024 05300016"
+      - "6066A1E8 00000001"
+      - "00000002 00000A98"
+      - "00000010 00000000"
+
+  - name: "Desert Eagle"
+    author: "Josh_7774"
+    notes: "[Have Weapon]"
+    codes:
+      - "D0669024 05300016"
+      - "6066A1E8 00000001"
+      - "00000002 00000A38"
+      - "00000010 00000000"
+
+  - name: "Grenade"
+    author: "Josh_7774"
+    notes: "[Have Weapon]"
+    codes:
+      - "D0669024 05300016"
+      - "6066A1E8 00000001"
+      - "00000002 00000AC8"
+      - "00000010 00000000"
+
+  - name: "Ingram"
+    author: "Josh_7774"
+    notes: "[Have Weapon]"
+    codes:
+      - "D0669024 05300016"
+      - "6066A1E8 00000001"
+      - "00000002 00000A68"
+      - "00000010 00000000"
+
+  - name: "Ingram (Dual)"
+    author: "Josh_7774"
+    notes: "[Have Weapon]"
+    codes:
+      - "D0669024 05300016"
+      - "6066A1E8 00000001"
+      - "00000002 00000A70"
+      - "00000010 00000000"
+
+  - name: "Jackhammer"
+    author: "Josh_7774"
+    notes: "[Have Weapon]"
+    codes:
+      - "D0669024 05300016"
+      - "6066A1E8 00000001"
+      - "00000002 00000AB8"
+      - "00000010 00000000"
+
+  - name: "Lead Pipe"
+    author: "Josh_7774"
+    notes: "[Have Weapon]"
+    codes:
+      - "D0669024 05300016"
+      - "6066A1E8 00000001"
+      - "00000002 00000A68"
+      - "00000010 00000000"
+      - "6066A1E8 00000001"
+      - "00020000 00000810"
+
+  - name: "M79"
+    author: "Josh_7774"
+    notes: "[Have Weapon]"
+    codes:
+      - "D0669024 05300016"
+      - "6066A1E8 00000001"
+      - "00000002 00000AF8"
+      - "00000010 00000000"
+
+  - name: "Molotov Cocktail"
+    author: "Josh_7774"
+    notes: "[Have Weapon]"
+    codes:
+      - "D0669024 05300016"
+      - "6066A1E8 00000001"
+      - "00000002 00000AE8"
+      - "00000010 00000000"
+
+  - name: "Pump-Action Shotgun"
+    author: "Josh_7774"
+    notes: "[Have Weapon]"
+    codes:
+      - "D0669024 05300016"
+      - "6066A1E8 00000001"
+      - "00000002 00000A58"
+      - "00000010 00000000"
+
+  - name: "Sawed-Off Shotgun"
+    author: "Josh_7774"
+    notes: "[Have Weapon]"
+    codes:
+      - "D0669024 05300016"
+      - "6066A1E8 00000001"
+      - "00000002 00000A54"
+      - "00000010 00000000"
+
+  - name: "Sniper Rifle"
+    author: "Josh_7774"
+    notes: "[Have Weapon]"
+    codes:
+      - "D0669024 05300016"
+      - "6066A1E8 00000001"
+      - "00000002 00000A88"
+      - "00000010 00000000"
+
+  - name: "Beretta Ammo"
+    author: "Josh_7774"
+    notes: "[Infinite Ammo]"
+    codes:
+      - "D0669024 02300016"
+      - "6066A1E8 000000A2"
+      - "00020000 0000084C"
+
+  - name: "Colt Commando Ammo"
+    author: "Josh_7774"
+    notes: "[Infinite Ammo]"
+    codes:
+      - "D0669024 02300016"
+      - "6066A1E8 00000096"
+      - "00020000 00000900"
+
+  - name: "Desert Eagle Ammo"
+    author: "Josh_7774"
+    notes: "[Infinite Ammo]"
+    codes:
+      - "D0669024 02300016"
+      - "6066A1E8 00000030"
+      - "00020000 00000870"
+
+  - name: "Grenades"
+    author: "Josh_7774"
+    notes: "[Infinite Ammo]"
+    codes:
+      - "D0669024 02300016"
+      - "6066A1E8 0000000C"
+      - "00020000 00000948"
+
+  - name: "Ingram Ammo"
+    author: "Josh_7774"
+    notes: "[Infinite Ammo]"
+    codes:
+      - "D0669024 02300016"
+      - "6066A1E8 0000012C"
+      - "00020000 000008B8"
+
+  - name: "Jackhammer Ammo"
+    author: "Josh_7774"
+    notes: "[Infinite Ammo]"
+    codes:
+      - "D0669024 02300016"
+      - "6066A1E8 000000A8"
+      - "00020000 00000924"
+
+  - name: "M79 Ammo"
+    author: "Josh_7774"
+    notes: "[Infinite Ammo]"
+    codes:
+      - "D0669024 02300016"
+      - "6066A1E8 0000000A"
+      - "00020000 00000990"
+
+  - name: "Molotov Cocktails"
+    author: "Josh_7774"
+    notes: "[Infinite Ammo]"
+    codes:
+      - "D0669024 02300016"
+      - "6066A1E8 00000005"
+      - "00020000 0000096C"
+
+  - name: "Shotgun Ammo"
+    author: "Josh_7774"
+    notes: "[Infinite Ammo]"
+    codes:
+      - "D0669024 02300016"
+      - "6066A1E8 00000050"
+      - "00020000 00000894"
+
+  - name: "Sniper Rifle Ammo"
+    author: "Josh_7774"
+    notes: "[Infinite Ammo]"
+    codes:
+      - "D0669024 02300016"
+      - "6066A1E8 00000014"
+      - "00020000 000008DC"
+
+  - name: "Infinite Time(New York Minute)"
+    author: "Azagthoth"
+    codes:
+      - "203BC224 00000000"
+
+  - name: "A Citywide Apb"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105B8050 000004D6"
+
+  - name: "A Dangerous Game"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105C1098 000004D6"
+
+  - name: "A Den Of Drugs"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105BA864 000004D6"
+
+  - name: "A Few Hundred Bullets Back"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105B382C 000004D6"
+
+  - name: "A One Man War"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105B784C 000004D6"
+
+  - name: "A One-Way Demon Ride"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105D0110 000004D6"
+
+  - name: "A Sci-Fi Fortress"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105CC0F0 000004D6"
+
+  - name: "A Tight Operation"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105C70C8 000004D6"
+
+  - name: "A Warrior's Heaven"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105CF90C 000004D6"
+
+  - name: "Alive And At Large"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105CA0E0 000004D6"
+
+  - name: "All A Blur"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105BA060 000004D6"
+
+  - name: "An Empire Of Evil"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105BB86C 000004D6"
+
+  - name: "An Eye For An Eye"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105CE100 000004D6"
+
+  - name: "An Offer You Can't Refuse"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105BE884 000004D6"
+
+  - name: "Angel Of Death"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105C30A8 000004D6"
+
+  - name: "Backstabbing Bastard"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105C98DC 000004D6"
+
+  - name: "Better Than The Last One"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105B9058 000004D6"
+
+  - name: "Byzantine Power Game"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105CC8F4 000004D6"
+
+  - name: "Caught In The Crossfire"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105B4030 000004D6"
+
+  - name: "Chapter 3: Prologue: Vortex Gb"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105C40B0 000004D6"
+
+  - name: "Clean Up Duty"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105CD8FC 000004D6"
+
+  - name: "Cold And To The Point"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105BF088 000004D6"
+
+  - name: "End Combat"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105D191C 000004D6"
+
+  - name: "End Credits"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105D1118 000004D6"
+
+  - name: "Family Troubles"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105BF88C 000004D6"
+
+  - name: "Fear That Gives Men Wings"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105B8854 000004D6"
+
+  - name: "Final Revelation"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105C80D0 000004D6"
+
+  - name: "From Bad To Worse"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105BD87C 000004D6"
+
+  - name: "Funny As Hell"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105C48B4 000004D6"
+
+  - name: "Hidden Truths"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105C68C4 000004D6"
+
+  - name: "Ice Hard And Slick"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105B985C 000004D6"
+
+  - name: "In The Land Of The Blind"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105CB0E8 000004D6"
+
+  - name: "Let The Gun Do The Talking"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105B6844 000004D6"
+
+  - name: "Live From The Crime Scene"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105B181C 000004D6"
+
+  - name: "Mobster Muscle"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105BE080 000004D6"
+
+  - name: "Muderous Hearts"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105C28A4 000004D6"
+
+  - name: "No Payne No Gain"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105C189C 000004D6"
+
+  - name: "Nothing To Lose"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105CD0F8 000004D6"
+
+  - name: "One Way Or The Other"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105B1018 000004D6"
+
+  - name: "Operation Dead Eyes"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105C60C0 000004D6"
+
+  - name: "Pain And Suffering"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105D0914 000004D6"
+
+  - name: "Part Ii: Prologue"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105BC874 000004D6"
+
+  - name: "Pissing Punchinello Off"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105C0894 000004D6"
+
+  - name: "Playing It Bogart"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105B2824 000004D6"
+
+  - name: "Project Valhalla"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105C90D8 000004D6"
+
+  - name: "Providing A Service"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105CB8EC 000004D6"
+
+  - name: "Put Out My Flames With Gasoline"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105C20A0 000004D6"
+
+  - name: "Ragna Rock"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105BB068 000004D6"
+
+  - name: "Rico Muerte Big Time Hustler"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105B4834 000004D6"
+
+  - name: "Roscoe St Station"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105B0010 000004DD"
+
+  - name: "So Much For Being Subtle"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105B0814 000004E2"
+
+  - name: "Something More Sinister"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105B6040 000004D6"
+
+  - name: "Stepping On Toes"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105B2020 000004D6"
+
+  - name: "Stone-Cold Dead"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105CE904 000004D6"
+
+  - name: "Straight From A Bad Dream"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105BC070 000004D6"
+
+  - name: "Take Me To Cold Steel"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105C58BC 000004D6"
+
+  - name: "Take Your Pick"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105CF108 000004D6"
+
+  - name: "The Alternate Route"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105B7048 000004D6"
+
+  - name: "The Baseball Bat"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105BD078 000004D6"
+
+  - name: "The Blood Veins Of New York"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105B5038 000004D6"
+
+  - name: "The Deep Six"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105C88D4 000004D6"
+
+  - name: "The Killer Was Smiling"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105C50B8 000004D6"
+
+  - name: "The Man Riding Shotgun"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105B583C 000004D6"
+
+  - name: "The Name Of Your Enemy"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105CA8E4 000004D6"
+
+  - name: "The Next Doorway"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105C78CC 000004D6"
+
+  - name: "Trouble On Dagger Heels"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105C38AC 000004D6"
+
+  - name: "With Rats And Oily Water"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105C0090 000004D6"
+
+  - name: "Without Warning"
+    author: "Codejunkies"
+    notes: "[Level Unlock Codes]"
+    codes:
+      - "105B3028 000004D6"
+
+  - name: "Cannot Be Hit With Bullets"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D0669024 02300016"
+      - "6066A1E8 00000000"
+      - "00000000 00000205"
+
+  - name: "Difficulty Level Modifier"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "005AFFFC 000000??"
+
+  - name: "Disable Baby Scream Sound In Second Nightmare"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D0669024 02300016"
+      - "60668F90 00000000"
+      - "00020000 0000CEB4"
+
+  - name: "Disable Enemy Burning Death Sounds"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D0669024 02300016"
+      - "60668F90 00000000"
+      - "00020000 0001E51C"
+      - "60668F90 00000000"
+      - "00020000 0001E57E"
+      - "60668F90 00000000"
+      - "00020000 0001E5DA"
+
+  - name: "Disable Fog"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D0669024 08300016"
+      - "60669E44 00000000"
+      - "00020000 0000131C"
+      - "60669E44 00000000"
+      - "00020000 00001320"
+      - "60669E44 00000000"
+      - "00020000 00001324"
+      - "60669E44 00000000"
+      - "00020000 00001328"
+
+  - name: "Disable Max Payne Falling Death Scream"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D0669024 02300016"
+      - "60668F90 00000000"
+      - "00020000 00040C44"
+
+  - name: "Hold R2 To Moon Jump"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D068DE82 0000FDFF"
+      - "6066A1E8 40F00000"
+      - "00020000 00000400"
+
+  - name: "Infinite Ammo In Clip (Equipped Weapon)"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D0669024 02300016"
+      - "6066A1E8 000003E7"
+      - "00020000 00000E80"
+
+  - name: "Invulnerability Cheat Always Enabled"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D0669024 02300016"
+      - "6066A1E8 00000001"
+      - "00000000 00000442"
+
+  - name: "Never Go Into Wounded State When Low On Health"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D0669024 02300016"
+      - "6066A1E8 00000000"
+      - "00000000 00000211"
+
+  - name: "Rapid Fire (Alternate)"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D0669024 02300016"
+      - "6066A1E8 00000001"
+      - "00000000 0000034C"
+
+  - name: "Rapid Fire"
+    author: "Josh_7774"
+    notes: "[Main]"
+    codes:
+      - "D068DE82 0000F7FF"
+      - "6066A1E8 00800000"
+      - "00020000 00000348"
+
+  - name: "Disable Temporary Invulnerability When Dodging [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D03A8FE8 A2020205"
+      - "203A8FE8 00000000"
+
+  - name: "Enemies Always Aware Of You Once Alerted [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D03A34B4 90820005"
+      - "203A34B4 00000000"
+
+  - name: "Enemies Always Idling [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D0219ED4 E6200358"
+      - "20219ED4 00000000"
+
+  - name: "Enemies Can't See You [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D021A1E0 C6600360"
+      - "2021A1E0 00000000"
+
+  - name: "Infinite Painkillers [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D036E904 AC830000"
+      - "2036E904 00000000"
+
+  - name: "No View Swaying When Zoomed In With Sniper Rifle [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D03B4DE8 E641070C"
+      - "203B4DE8 00000000"
+
+  - name: "X + L2 To Float, Square + L2 To Restore Gravity (Also Allows You To Moon Jump By Jumping Repeatedly) [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "D068DE82 0000BEFF"
+      - "203A3524 00000000"
+      - "D068DE82 00007EFF"
+      - "203A3524 A0850040"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F012ED08 0012398F"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9012398C 0C040BF6"

@@ -1,0 +1,57 @@
+# Karaoke Revolution Presents-American Idol cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21540
+
+game: "Karaoke Revolution Presents-American Idol"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21540"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "902CC8C0 00832021"
+
+  - name: "Always Max Crowd Meter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201276B8 3C014000"
+      - "201276BC 44810000"
+      - "20126B58 00000000"
+
+  - name: "Access All Locked Clothing"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2019EC44 00000000"
+
+  - name: "Unlock All Clothing"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2019EC24 24020001"
+      - "2019EC28 AC82000C"
+
+  - name: "Infinite Total Points"
+    author: "Code Master"
+    notes: "[High Scores Codes]"
+    codes:
+      - "10413CA8 0000FFFF"
+
+  - name: "Max Total Points"
+    author: "Code Master"
+    notes: "[High Scores Codes]"
+    codes:
+      - "20413CA8 05F5E0FF"
+
+  - name: "Have All Songs Completed"
+    author: "Code Master"
+    notes: "[High Scores Codes]"
+    codes:
+      - "20413D08 00000028"

@@ -1,0 +1,42 @@
+# Scooby Doo First Frights cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21900
+
+game: "Scooby Doo First Frights"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21900"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9013AC98 0C04EACE"
+
+  - name: "Inf Scooby Snacks"
+    author: "SkillerCMP"
+    notes: "[Rewards Screen]"
+    codes:
+      - "204EA164 00002710"
+
+  - name: "Unlock All Costumes"
+    author: "SkillerCMP"
+    notes: "[Rewards Screen]"
+    codes:
+      - "204EA16C 5FFFFFFF"
+
+  - name: "Have All Costumes Purchased"
+    author: "SkillerCMP"
+    notes: "[Rewards Screen]"
+    codes:
+      - "204EA170 5FFFFFFF"
+
+  - name: "Always Able To Buy"
+    author: "SkillerCMP"
+    notes: "[Rewards Screen]"
+    codes:
+      - "202563BC 24072710"
+      - "20256C08 24022710"

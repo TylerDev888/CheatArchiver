@@ -1,0 +1,133 @@
+# Resistance 3 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BCES01118
+
+game: "Resistance 3"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BCES01118"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Unlock All Levels"
+    notes: "File: BCES01118_SAVE_*\\GAME.SAV"
+    codes:
+      - "10002C6C 0000FFFF"
+      - "42002C6E 03030303"
+      - "40B00004 00000000"
+
+  - name: "Have All Cinematics"
+    notes: "[Extras]  File: BCES01118_SAVE_*\\GAME.SAV"
+    codes:
+      - "42002F50 FFFFFFFF"
+      - "40030004 00000000"
+
+  - name: "Have All Journals"
+    notes: "[Extras]  File: BCES01118_SAVE_*\\GAME.SAV"
+    codes:
+      - "42004670 FFFFFFFF"
+      - "40070004 00000000"
+
+  - name: "Have All Cheats Purchased()"
+    notes: "[Shop]  File: BCES01118_SAVE_*\\GAME.SAV"
+    codes:
+      - "00004742 000000FF"
+
+  - name: "Have All Skins Purchased()"
+    notes: "[Shop]  File: BCES01118_SAVE_*\\GAME.SAV"
+    codes:
+      - "00004746 0000000F"
+
+  - name: "Have All Art Purchased()"
+    notes: "[Shop]  File: BCES01118_SAVE_*\\GAME.SAV"
+    codes:
+      - "20004748 FFFFFFFF"
+
+  - name: "Have All Titles Purchased"
+    notes: "[Shop]  File: BCES01118_SAVE_*\\GAME.SAV"
+    codes:
+      - "42004753 FFFFFFFF"
+      - "40030004 00000000"
+
+  - name: "Have All Videos"
+    notes: "[Shop]  File: BCES01118_SAVE_*\\GAME.SAV"
+    codes:
+      - "00004752 000000FF"
+
+  - name: "Unlock All Cheats And Videos"
+    notes: "[Shop]  File: BCES01118_SAVE_*\\GAME.SAV"
+    codes:
+      - "000046A8 000000FF"
+
+  - name: "Max Kills"
+    notes: "[Statistics]  File: BCES01118_SAVE_*\\GAME.SAV"
+    codes:
+      - "00003DDC 00000001"
+
+  - name: "Max Headshot Kills"
+    notes: "[Statistics]  File: BCES01118_SAVE_*\\GAME.SAV"
+    codes:
+      - "200043CC FFFFFFFF"
+
+  - name: "Max Total Gibs"
+    notes: "[Statistics]  File: BCES01118_SAVE_*\\GAME.SAV"
+    codes:
+      - "0000468D 000000FF"
+      - "0000468E 000000FF"
+
+  - name: "Max Military Chimera Kills"
+    notes: "[Statistics]  File: BCES01118_SAVE_*\\GAME.SAV"
+    codes:
+      - "00003FC0 000000FF"
+
+  - name: "Max Feral Chimera Kills"
+    notes: "[Statistics]  File: BCES01118_SAVE_*\\GAME.SAV"
+    codes:
+      - "00003FD0 000000FF"
+
+  - name: "Max Mech Kills"
+    notes: "[Statistics]  File: BCES01118_SAVE_*\\GAME.SAV"
+    codes:
+      - "00003FE0 000000FF"
+
+  - name: "Max Human Kills"
+    notes: "[Statistics]  File: BCES01118_SAVE_*\\GAME.SAV"
+    codes:
+      - "20003FEC FFFFFFFF"
+
+  - name: "No Deaths"
+    notes: "[Statistics]  File: BCES01118_SAVE_*\\GAME.SAV"
+    codes:
+      - "20004330 00000000"
+
+  - name: "Reset Time Played"
+    notes: "[Statistics]  File: BCES01118_SAVE_*\\GAME.SAV"
+    codes:
+      - "200043D0 00000000"
+      - "200043D4 00000000"
+
+  - name: "Max Number Of Intel Collected"
+    notes: "[Statistics]  File: BCES01118_SAVE_*\\GAME.SAV"
+    codes:
+      - "0000468B 000000FF"
+      - "0000468C 000000FF"
+
+  - name: "Max Weapons Stats"
+    notes: "[Statistics]  File: BCES01118_SAVE_*\\GAME.SAV"
+    codes:
+      - "40003DA9 000000FF"
+      - "40090010 00000000"
+      - "00003DC1 000000FF"
+      - "00003E21 000000FF"
+      - "00003E49 000000FF"
+
+  - name: "Update Crc32 For Game.sav (required)"
+    notes: "[Statistics]  File: BCES01118_SAVE_*\\GAME.SAV  (set range:0x000020,0x007E67)"
+    codes:
+      - "set pointer:EOF-7"
+      - "set range:0x20,pointer"
+      - "set [hash]:CRC32"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x00000C:[hash]"

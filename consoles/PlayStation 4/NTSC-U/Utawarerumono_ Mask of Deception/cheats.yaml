@@ -1,0 +1,30 @@
+# Utawarerumono_ Mask of Deception cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA02315
+
+game: "Utawarerumono_ Mask of Deception"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA02315"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Codex And Scrolls (Including No Name Ones)"
+    notes: "File: GAME-[0-9a-f]{3}\\.Dat"
+    codes:
+      - "4000ECFB 00000014"
+      - "41920004 00000000"
+
+  - name: "20% Boost Hp,Atk,Def,Spd And +1 Mov And Jump Codex Stat Boost For All"
+    notes: "File: GAME-[0-9a-f]{3}\\.Dat"
+    codes:
+      - "4000A33F 000000FF"
+      - "400E0278 00000000"
+
+  - name: "Max Points In Bp Hp,Atk,Def,Spd For All"
+    notes: "File: GAME-[0-9a-f]{3}\\.Dat"
+    codes:
+      - "4000A394 FFFFFFFF"
+      - "400E0278 00000000"

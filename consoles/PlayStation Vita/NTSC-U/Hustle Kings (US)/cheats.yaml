@@ -1,0 +1,17 @@
+# Hustle Kings (US) cheat data
+# Console: PlayStation Vita
+# Region:  NTSC-U
+# Serial:  PCSA00007
+
+game: "Hustle Kings (US)"
+console: "PlayStation Vita"
+region: "NTSC-U"
+serial: "PCSA00007"
+cheat_type: "Save Editor"
+source: "Credits: Slade"
+
+cheats:
+  - name: "999,999,999 Hkc"
+    notes: "File: savedata-000.dat"
+    codes:
+      - "20000A84 3B9AC9FF"

@@ -1,0 +1,378 @@
+# World Tour Soccer 2003 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97233
+
+game: "World Tour Soccer 2003"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97233"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F043D7A4 0043D7A7"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0043D7A7"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "005035B0 000000??"
+
+  - name: "Away Team Start With Score Modifier"
+    author: "Code Master"
+    codes:
+      - "D05035B0 00000000"
+      - "005035B0 000000??"
+
+  - name: "Corners Won"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "105031B0 0000????"
+
+  - name: "Offside Ruling"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "105031C0 0000????"
+
+  - name: "Shots On Target"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "105031BA 0000????"
+
+  - name: "Shots Wide"
+    author: "Code Master"
+    notes: "[Away Team Stats Modifier Codes]"
+    codes:
+      - "105031BC 0000????"
+
+  - name: "Max Funds"
+    author: "Codejunkies"
+    notes: "[Funds Codes]"
+    codes:
+      - "205D3AE0 05F5E0FF"
+
+  - name: "Never Go Above 99"
+    author: "Codejunkies"
+    notes: "[Funds Codes]"
+    codes:
+      - "E0020063 305D3AE0"
+      - "E0010000 305D3AE2"
+      - "205D3AE0 00000063"
+
+  - name: "Never Go Above 999"
+    author: "Codejunkies"
+    notes: "[Funds Codes]"
+    codes:
+      - "E00203E7 305D3AE0"
+      - "E0010000 305D3AE2"
+      - "205D3AE0 000003E7"
+
+  - name: "Never Go Above 9999"
+    author: "Codejunkies"
+    notes: "[Funds Codes]"
+    codes:
+      - "E002270F 305D3AE0"
+      - "E0010000 305D3AE2"
+      - "205D3AE0 0000270F"
+
+  - name: "Never Go Above 99999"
+    author: "Codejunkies"
+    notes: "[Funds Codes]"
+    codes:
+      - "E002869F 305D3AE0"
+      - "E0010001 305D3AE2"
+      - "205D3AE0 0001869F"
+
+  - name: "Never Go Above 999999"
+    author: "Codejunkies"
+    notes: "[Funds Codes]"
+    codes:
+      - "E002423F 305D3AE0"
+      - "E001000F 305D3AE2"
+      - "205D3AE0 000F423F"
+
+  - name: "Never Go Above 9999999"
+    author: "Codejunkies"
+    notes: "[Funds Codes]"
+    codes:
+      - "E002967F 305D3AE0"
+      - "E0010098 305D3AE2"
+      - "205D3AE0 0098967F"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "0050399A 000000??"
+
+  - name: "Home Team Start With Score Modifier"
+    author: "Code Master"
+    codes:
+      - "D050399A 00000000"
+      - "0050399A 000000??"
+
+  - name: "P1 Press L1+Select For Time Low 1St Half"
+    author: "Code Master"
+    codes:
+      - "D062E6C2 0000FBFE"
+      - "105584B0 00000000"
+
+  - name: "P1 Press L2+Select To End 1St Half"
+    author: "Code Master"
+    codes:
+      - "D062E6C2 0000FEFE"
+      - "105584B0 00003820"
+
+  - name: "P1 Press R1+Select For Time Low 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D062E6C2 0000F7FE"
+      - "105584B0 00003840"
+
+  - name: "P1 Press R2+Select To End 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D062E6C2 0000FDFE"
+      - "105584B0 00007040"
+
+  - name: "P2 Press L1+Select For Time Low 1St Half"
+    author: "Code Master"
+    codes:
+      - "D062E842 0000FBFE"
+      - "105584B0 00000000"
+
+  - name: "P2 Press L2+Select To End 1St Half"
+    author: "Code Master"
+    codes:
+      - "D062E842 0000FEFE"
+      - "105584B0 00003820"
+
+  - name: "P2 Press R1+Select For Time Low 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D062E842 0000F7FE"
+      - "105584B0 00003840"
+
+  - name: "P2 Press R2+Select To End 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D062E842 0000FDFE"
+      - "105584B0 00007040"
+
+  - name: "P3 Press L1+Select For Time Low 1St Half"
+    author: "Code Master"
+    codes:
+      - "D062E9C2 0000FBFE"
+      - "105584B0 00000000"
+
+  - name: "P3 Press L2+Select To End 1St Half"
+    author: "Code Master"
+    codes:
+      - "D062E9C2 0000FEFE"
+      - "105584B0 00003820"
+
+  - name: "P3 Press R1+Select For Time Low 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D062E9C2 0000F7FE"
+      - "105584B0 00003840"
+
+  - name: "P3 Press R2+Select To End 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D062E9C2 0000FDFE"
+      - "105584B0 00007040"
+
+  - name: "P4 Press L1+Select For Time Low 1St Half"
+    author: "Code Master"
+    codes:
+      - "D062EB42 0000FBFE"
+      - "105584B0 00000000"
+
+  - name: "P4 Press L2+Select To End 1St Half"
+    author: "Code Master"
+    codes:
+      - "D062EB42 0000FEFE"
+      - "105584B0 00003820"
+
+  - name: "P4 Press R1+Select For Time Low 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D062EB42 0000F7FE"
+      - "105584B0 00003840"
+
+  - name: "P4 Press R2+Select To End 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D062EB42 0000FDFE"
+      - "105584B0 00007040"
+
+  - name: "P5 Press L1+Select For Time Low 1St Half"
+    author: "Code Master"
+    codes:
+      - "D062ECC2 0000FBFE"
+      - "105584B0 00000000"
+
+  - name: "P5 Press L2+Select To End 1St Half"
+    author: "Code Master"
+    codes:
+      - "D062ECC2 0000FEFE"
+      - "105584B0 00003820"
+
+  - name: "P5 Press R1+Select For Time Low 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D062ECC2 0000F7FE"
+      - "105584B0 00003840"
+
+  - name: "P5 Press R2+Select To End 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D062ECC2 0000FDFE"
+      - "105584B0 00007040"
+
+  - name: "P6 Press L1+Select For Time Low 1St Half"
+    author: "Code Master"
+    codes:
+      - "D062EE42 0000FBFE"
+      - "105584B0 00000000"
+
+  - name: "P6 Press L2+Select To End 1St Half"
+    author: "Code Master"
+    codes:
+      - "D062EE42 0000FEFE"
+      - "105584B0 00003820"
+
+  - name: "P6 Press R1+Select For Time Low 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D062EE42 0000F7FE"
+      - "105584B0 00003840"
+
+  - name: "P6 Press R2+Select To End 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D062EE42 0000FDFE"
+      - "105584B0 00007040"
+
+  - name: "P7 Press L1+Select For Time Low 1St Half"
+    author: "Code Master"
+    codes:
+      - "D062EFC2 0000FBFE"
+      - "105584B0 00000000"
+
+  - name: "P7 Press L2+Select To End 1St Half"
+    author: "Code Master"
+    codes:
+      - "D062EFC2 0000FEFE"
+      - "105584B0 00003820"
+
+  - name: "P7 Press R1+Select For Time Low 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D062EFC2 0000F7FE"
+      - "105584B0 00003840"
+
+  - name: "P7 Press R2+Select To End 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D062EFC2 0000FDFE"
+      - "105584B0 00007040"
+
+  - name: "P8 Press L1+Select For Time Low 1St Half"
+    author: "Code Master"
+    codes:
+      - "D062F142 0000FBFE"
+      - "105584B0 00000000"
+
+  - name: "P8 Press L2+Select To End 1St Half"
+    author: "Code Master"
+    codes:
+      - "D062F142 0000FEFE"
+      - "105584B0 00003820"
+
+  - name: "P8 Press R1+Select For Time Low 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D062F142 0000F7FE"
+      - "105584B0 00003840"
+
+  - name: "P8 Press R2+Select To End 2Nd Half"
+    author: "Code Master"
+    codes:
+      - "D062F142 0000FDFE"
+      - "105584B0 00007040"
+
+  - name: "Never Score More Than 1 Goal"
+    author: "Codejunkies"
+    notes: "[Team A Score Codes]"
+    codes:
+      - "E0010001 30673B06"
+      - "10673B06 00000001"
+
+  - name: "Never Score More Than 2 Goals"
+    author: "Codejunkies"
+    notes: "[Team A Score Codes]"
+    codes:
+      - "E0010002 30673B06"
+      - "10673B06 00000002"
+
+  - name: "Never Score More Than 3 Goals"
+    author: "Codejunkies"
+    notes: "[Team A Score Codes]"
+    codes:
+      - "E0010003 30673B06"
+      - "10673B06 00000003"
+
+  - name: "Never Score More Than 5 Goals"
+    author: "Codejunkies"
+    notes: "[Team A Score Codes]"
+    codes:
+      - "E0010005 30673B06"
+      - "10673B06 00000005"
+
+  - name: "Scores 0"
+    author: "Codejunkies"
+    notes: "[Team A Score Codes]"
+    codes:
+      - "10673B06 00000000"
+
+  - name: "Scores 20"
+    author: "Codejunkies"
+    notes: "[Team A Score Codes]"
+    codes:
+      - "10673B06 00000014"
+
+  - name: "Team A Win: Press L1 L2"
+    author: "Codejunkies"
+    codes:
+      - "D062E6C2 0000FAFF"
+      - "10673B06 00000014"
+      - "D062E6C2 0000FAFF"
+      - "105035B0 00000000"
+
+  - name: "Team B Win (Press R1+R2 To Activate)"
+    author: "Codejunkies"
+    notes: "[Team B Score Codes]"
+    codes:
+      - "D062E6C2 0000F5FF"
+      - "10673B06 00000000"
+      - "D062E6C2 0000F5FF"
+      - "105035B0 00000014"
+
+  - name: "Unlock Credits"
+    author: "Codejunkies"
+    codes:
+      - "00626AD1 00000001"

@@ -1,0 +1,95 @@
+# Barbarian cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20136
+
+game: "Barbarian"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20136"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0258764 00258767"
+
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100084 00258767"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00258767"
+
+  - name: "All Stats Are Maxed"
+    author: "Codejunkies"
+    codes:
+      - "4048322C 0005000C"
+      - "FFFFFFFF 00000000"
+      - "40483234 0005000C"
+      - "3E355B0D 00000000"
+
+  - name: "Infinite AP"
+    author: "InterAct"
+    codes:
+      - "10499D8C 00000006"
+
+  - name: "Infinite Attribute Points"
+    author: "InterAct"
+    codes:
+      - "20499D8C 00001A0A"
+
+  - name: "Max Damage"
+    author: "InterAct"
+    notes: "[Stat Codes]"
+    codes:
+      - "2048322C FFFFFFFF"
+      - "20483234 0000000A"
+
+  - name: "Max Defense"
+    author: "InterAct"
+    notes: "[Stat Codes]"
+    codes:
+      - "2048328C FFFFFFFF"
+      - "20483294 0000000A"
+
+  - name: "Max Life"
+    author: "InterAct"
+    notes: "[Stat Codes]"
+    codes:
+      - "2048325C FFFFFFFF"
+      - "20483264 0000000A"
+
+  - name: "Max Lift"
+    author: "InterAct"
+    notes: "[Stat Codes]"
+    codes:
+      - "204832EC FFFFFFFF"
+      - "204832F4 0000000A"
+
+  - name: "Max Magic"
+    author: "InterAct"
+    notes: "[Stat Codes]"
+    codes:
+      - "204832BC FFFFFFFF"
+      - "204832C4 0000000A"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00258767"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90258764 0C09F49D"

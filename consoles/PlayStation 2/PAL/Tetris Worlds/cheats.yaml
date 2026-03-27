@@ -1,0 +1,73 @@
+# Tetris Worlds cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50551
+
+game: "Tetris Worlds"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50551"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02D31A8 002D31BF"
+
+  - name: "Next Level Is Level 1"
+    author: "Codejunkies"
+    notes: "[Next Arcade Level]"
+    codes:
+      - "2023911C 24020001"
+
+  - name: "Next Level Is Level 15"
+    author: "Codejunkies"
+    notes: "[Next Arcade Level]"
+    codes:
+      - "2023911C 2402000F"
+
+  - name: "Show Action Information"
+    author: "Codejunkies"
+    codes:
+      - "2018E3C4 00000000"
+
+  - name: "Show FPS"
+    author: "Codejunkies"
+    codes:
+      - "2018E370 00000000"
+
+  - name: "Start At Level 10 - Arcade"
+    author: "Codejunkies"
+    codes:
+      - "202390DC 2402000A"
+
+  - name: "Start At Level 15 - Arcade"
+    author: "Codejunkies"
+    codes:
+      - "202390DC 2402000F"
+
+  - name: "Start At Level 5 - Arcade"
+    author: "Codejunkies"
+    codes:
+      - "202390DC 24020005"
+
+  - name: "Story Mode Quick Level Up"
+    author: "Codejunkies"
+    codes:
+      - "201CFEF0 00000000"
+      - "201CFEF4 44810000"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 002D31BF"
+
+  - name: "Level Up Each Block"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "201CFED8 44800000"

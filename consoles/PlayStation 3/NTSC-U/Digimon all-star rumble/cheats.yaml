@@ -1,0 +1,25 @@
+# Digimon all-star rumble cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS31441
+
+game: "Digimon all-star rumble"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS31441"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Max Bits Money"
+    notes: "File: SAVEDATA"
+    codes:
+      - "write next 0x10A:0x7FFFFFFF"
+
+  - name: "Checksum32 (signed) Hashes (required)"
+    notes: "File: SAVEDATA  (Checksum offset is located within the checksum range.) (Initializing checksum with null bytes)"
+    codes:
+      - "write at 0x14:0x00000000"
+      - "set range:0x0,0x185D"
+      - "set [num]:Checksum32"
+      - "write at 0x14:[num]"

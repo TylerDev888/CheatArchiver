@@ -1,0 +1,21 @@
+# Planet Minigolf (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00163
+
+game: "Planet Minigolf (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00163"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Data (required)"
+    notes: "File: DATA  (set range:0x000000,0x0015B5) (write at 0x0015B6:[hash])"
+    codes:
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:CRC32"
+      - "set pointer:eof-3"
+      - "write next (0):[hash]"

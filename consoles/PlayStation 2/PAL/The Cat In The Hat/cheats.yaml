@@ -1,0 +1,80 @@
+# The Cat In The Hat cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "The Cat In The Hat"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "901C23B0 0C070724"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2014A7E8 24020004"
+      - "2014A7EC A062222E"
+      - "2014A7F0 A062222F"
+
+  - name: "Lives"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "201F8C14 24003634"
+      - "201F8C1C 2400C9CC"
+
+  - name: "Quick Magic Gain"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "20185288 24060064"
+
+  - name: "Long Gliding"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "2019D57C 2400C9CC"
+
+  - name: "Flying Gliding"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "20141CE4 00000000"
+
+  - name: "All Levels"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "209149A4 00000001"
+
+  - name: "All Magic"
+    author: "Xploder"
+    notes: "[Grandfather Clock]"
+    codes:
+      - "10822394 000005DC"
+
+  - name: "All Clapperboards"
+    author: "Xploder"
+    notes: "[Grandfather Clock]"
+    codes:
+      - "10822398 00000003"
+
+  - name: "All Keys"
+    author: "Xploder"
+    notes: "[Grandfather Clock]"
+    codes:
+      - "108223A0 0000000F"
+
+  - name: "Have Gem"
+    author: "Xploder"
+    notes: "[Grandfather Clock]"
+    codes:
+      - "1082239C 00000001"

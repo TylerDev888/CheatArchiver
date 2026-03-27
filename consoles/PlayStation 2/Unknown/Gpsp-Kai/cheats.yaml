@@ -1,0 +1,38 @@
+# Gpsp-Kai cheat data
+# Console: PlayStation 2
+# Region:  Unknown
+# Serial:  No
+
+game: "Gpsp-Kai"
+console: "PlayStation 2"
+region: "Unknown"
+serial: "No"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "901FF900 0C07FDEA"
+
+  - name: "GBA WRAM Pointer"
+    author: "lee4"
+    codes:
+      - "60206F04 000000??"
+
+  - name: "Goomba Color (3-31-2008) GB RAM Pointer"
+    author: "lee4"
+    codes:
+      - "60207940 000000??"
+
+  - name: "Ngpadvance 0.3 NGPC RAM Pointer"
+    author: "lee4"
+    codes:
+      - "60203DDC 000000??"
+
+  - name: "Pocketnes V9.98 NES RAM Pointer"
+    author: "lee4"
+    codes:
+      - "6020795C 000000??"

@@ -1,0 +1,43 @@
+# ESPN National Hockey Night cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50171
+
+game: "ESPN National Hockey Night"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50171"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0127020 000001FD"
+
+  - name: "End The Quarter (Press L2+R2)"
+    author: "Codejunkies"
+    codes:
+      - "D0683B00 0000FCFF"
+      - "1068B42A 0000453B"
+
+  - name: "Play Only 5 Mins A Quarter (Press L1+R1 To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "D0683B00 0000F3FF"
+      - "1068B42A 0000453B"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0012089F"
+
+  - name: "End The Third"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "D0683B00 2809F5FF"
+      - "1068B42A 28090000"

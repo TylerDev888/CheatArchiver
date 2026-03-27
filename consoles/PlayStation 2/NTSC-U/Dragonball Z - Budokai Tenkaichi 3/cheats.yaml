@@ -1,0 +1,254 @@
+# Dragonball Z - Budokai Tenkaichi 3 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21678
+
+game: "Dragonball Z - Budokai Tenkaichi 3"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21678"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code(Must Be On)"
+    author: "Skiller"
+    notes: "[Master Codes]"
+    codes:
+      - "902B3D18 0C0ACEEE"
+
+  - name: "All 7 Dragon Balls"
+    author: "lee4"
+    notes: "[Have codes]"
+    codes:
+      - "006B9648 0000007F"
+
+  - name: "All Characters (Condensed Version)"
+    author: "lee4"
+    notes: "[Have codes]"
+    codes:
+      - "006BA264 000000FF"
+      - "406BA250 00050001"
+      - "FFFFFFFF 00000000"
+
+  - name: "All Musics"
+    author: "lee4"
+    notes: "[Have codes]"
+    codes:
+      - "206BA270 FFFFFFFF"
+
+  - name: "All Stages"
+    author: "lee4"
+    notes: "[Have codes]"
+    codes:
+      - "206BA268 FFFFFFFF"
+      - "206BA26C FFFFFFFF"
+
+  - name: "All Stories Opened"
+    author: "lee4"
+    notes: "[Have codes]"
+    codes:
+      - "2033DE4C 24020001"
+      - "20338A1C 2403FFFF"
+
+  - name: "All Tournament Mode Opened"
+    author: "lee4"
+    notes: "[Have codes]"
+    codes:
+      - "206BA048 FFFFFFFF"
+      - "206BA04C FFFFFFFF"
+
+  - name: "All Z Items"
+    author: "lee4"
+    notes: "[Have codes]"
+    codes:
+      - "406BC508 00260001"
+      - "01010101 00000000"
+
+  - name: "Max Z Points"
+    author: "lee4"
+    notes: "[Have codes]"
+    codes:
+      - "206BC668 05F5E0FF"
+
+  - name: "Activator 4 Below Codes"
+    author: "Skiller"
+    notes: "[Health and KI codes]"
+    codes:
+      - "20296084 08028000"
+      - "200A0000 3C020030"
+      - "200A0004 8C42EB14"
+      - "200A0008 1040002E"
+      - "200A0010 24030CA4"
+      - "200A0014 00621021"
+      - "200A00C4 03E00008"
+
+  - name: "Inf HP (Character 1)"
+    author: "Skiller"
+    notes: "[Health and KI codes]"
+    codes:
+      - "200A001C 8C430004"
+      - "200A0020 AC430000"
+
+  - name: "Inf HP (Character 2)"
+    author: "Skiller"
+    notes: "[Health and KI codes]"
+    codes:
+      - "200A0038 8C4300A8"
+      - "200A003C AC4300A4"
+
+  - name: "Inf Sparking/Skill (Character 1)"
+    author: "Skiller"
+    notes: "[Health and KI codes]"
+    codes:
+      - "200A0024 8C430010"
+      - "200A0028 AC43000C"
+      - "200A002C 8C430018"
+      - "200A0030 AC430014"
+      - "200A0034 AC43001C"
+
+  - name: "Inf Sparking/Skill (Character 2)"
+    author: "Skiller"
+    notes: "[Health and KI codes]"
+    codes:
+      - "200A0040 8C4300B4"
+      - "200A0044 AC4300B0"
+      - "200A0048 8C4300BC"
+      - "200A004C AC4300B8"
+      - "200A0050 AC4300C0"
+
+  - name: "R2 Instant Dealth (Enemy 1 Character 1)"
+    author: "Skiller"
+    notes: "[Health and KI codes]"
+    codes:
+      - "200A0054 3C030033"
+      - "200A0058 9063381D"
+      - "200A005C 240400FD"
+      - "200A0060 14640018"
+      - "200A0068 24031600"
+      - "200A006C 00621021"
+      - "200A0074 AC400000"
+
+  - name: "Hit Anywhere Both Players"
+    author: "nolberto82"
+    codes:
+      - "201C9838 00000000"
+      - "201B0104 00000000"
+
+  - name: "Activator For P1 And P2 Codes"
+    author: "Hiei-YYH"
+    notes: "[ported codes]"
+    codes:
+      - "201CE1D0 0803FC00"
+      - "200FF000 8F81A8A4"
+      - "200FF004 24212000"
+      - "200FF008 0041082B"
+      - "200FF00C 10200012"
+      - "200FF050 03E00008"
+      - "200FF0A0 03E00008"
+
+  - name: "Disable AI"
+    author: "lee4"
+    notes: "[ported codes]"
+    codes:
+      - "201D4448 24020000"
+
+  - name: "Infinite Health P1"
+    author: "Hiei-YYH"
+    notes: "[ported codes]"
+    codes:
+      - "200FF010 8C410004"
+      - "200FF014 AC410000"
+
+  - name: "Infinite Ki P1"
+    author: "Hiei-YYH"
+    notes: "[ported codes]"
+    codes:
+      - "200FF018 8C410010"
+      - "200FF01C AC41000C"
+
+  - name: "Max Blast Stocks P1"
+    author: "Hiei-YYH"
+    notes: "[ported codes]"
+    codes:
+      - "200FF020 8C410018"
+      - "200FF024 AC410014"
+
+  - name: "No Blast Stocks P2"
+    author: "Hiei-YYH"
+    notes: "[ported codes]"
+    codes:
+      - "200FF068 24010000"
+      - "200FF06C AC410014"
+
+  - name: "No Disk Fusion"
+    author: "lee4"
+    notes: "[ported codes]"
+    codes:
+      - "D03795BC 0000025C"
+      - "203795C0 00000000"
+
+  - name: "No Health P2"
+    author: "Hiei-YYH"
+    notes: "[ported codes]"
+    codes:
+      - "200FF058 24010000"
+      - "200FF05C AC410000"
+
+  - name: "No Ki P2"
+    author: "Hiei-YYH"
+    notes: "[ported codes]"
+    codes:
+      - "200FF060 24010000"
+      - "200FF064 AC41000C"
+
+  - name: "No Sparking P2"
+    author: "Hiei-YYH"
+    notes: "[ported codes]"
+    codes:
+      - "200FF070 24010000"
+      - "200FF074 AC41001C"
+
+  - name: "Remove Potaras Ability Limit"
+    author: "lee4"
+    notes: "[ported codes]"
+    codes:
+      - "406BAE7C 0061000E"
+      - "00000023 00000000"
+
+  - name: "Sparking!! P1"
+    author: "Hiei-YYH"
+    notes: "[ported codes]"
+    codes:
+      - "200FF028 8C410018"
+      - "200FF02C AC41001C"
+
+  - name: "Max Attack"
+    author: "lee4"
+    notes: "[Sim Dragon - Status Codes]"
+    codes:
+      - "006AF7D0 00000032"
+
+  - name: "Max Defense"
+    author: "lee4"
+    notes: "[Sim Dragon - Status Codes]"
+    codes:
+      - "006AF7D4 00000032"
+
+  - name: "Max HP"
+    author: "lee4"
+    notes: "[Sim Dragon - Status Codes]"
+    codes:
+      - "006AF7D8 00000064"
+
+  - name: "Max Level"
+    author: "lee4"
+    notes: "[Sim Dragon - Status Codes]"
+    codes:
+      - "006AF7CC 00000006"
+
+  - name: "Max Points"
+    author: "lee4"
+    notes: "[Sim Dragon - Status Codes]"
+    codes:
+      - "206AF7DC 0098967F"

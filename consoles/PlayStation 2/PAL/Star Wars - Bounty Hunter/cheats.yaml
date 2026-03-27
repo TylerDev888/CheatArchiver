@@ -1,0 +1,83 @@
+# Star Wars - Bounty Hunter cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50834
+
+game: "Star Wars - Bounty Hunter"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50834"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02A5A0C 000001FD"
+
+  - name: "Infinite Credits"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "103C6784 00000063"
+
+  - name: "Never Have More Than 1 Credits"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "E0010001 303C6784"
+      - "103C6784 00000001"
+
+  - name: "Never Have More Than 3 Credits"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "E0010003 303C6784"
+      - "103C6784 00000003"
+
+  - name: "Never Have More Than 4 Credits"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "E0010004 303C6784"
+      - "103C6784 00000004"
+
+  - name: "Never Have More Than 5 Credits"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "E0010005 303C6784"
+      - "103C6784 00000005"
+
+  - name: "Unlock All Levels"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "203F0A34 FFFFFFFF"
+      - "203F0A38 FFFFFFFF"
+
+  - name: "Unlock Concept Art"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "203F0B14 0005DFE8"
+
+  - name: "Unlock Trading Cards"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "203F0A3C FFFFFFFF"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "200FFF00 3C03003C"
+      - "200FFF04 8C6328CC"
+      - "200FFF0C 10600004"
+      - "200FFF14 3C014348"
+      - "200FFF18 AC6101E8"
+      - "200FFF20 080664A5"
+      - "200FFF24 0080382D"
+      - "20199290 0803FFC0"

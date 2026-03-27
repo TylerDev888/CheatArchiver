@@ -1,0 +1,56 @@
+# Spiderman 3 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Spiderman 3"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90415064 0C101AB6"
+
+  - name: "Infinite Hero Points"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "200FFF00 44890000"
+      - "200FFF04 AC490010"
+      - "200FFF08 3C024F00"
+      - "200FFF0C 080B4DC7"
+      - "200FFF10 44820800"
+      - "202D3714 0803FFC0"
+      - "202D3718 3C0942C8"
+
+  - name: "Infinite Health"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "200FFF20 AC890018"
+      - "200FFF24 C4810018"
+      - "200FFF28 0807539B"
+      - "200FFF2C 46011042"
+      - "201D4E64 0803FFC8"
+      - "201D4E68 3C093F80"
+
+  - name: "Press Select+L1: Adrenaline/Rage Is Always 0"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "D0C814A4 0000FBFE"
+      - "2017551C 4480A000"
+
+  - name: "Press Select+L2: Full Adrenaline/Rage On First Hit"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "E003FEFE 00C814A4"
+      - "20175510 C6000010"
+      - "2017551C 46000506"
+      - "202E10C4 00000000"

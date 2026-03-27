@@ -1,0 +1,35 @@
+# D.Gray-Man_ Sousha No Shikaku cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-55060
+
+game: "D.Gray-Man_ Sousha No Shikaku"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-55060"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90114DD8 0C04531E"
+
+  - name: "All Event CG Unlocked"
+    author: "punk7890"
+    codes:
+      - "102886EA 0000A083"
+      - "002886EE 00000043"
+
+  - name: "All Gallery Options Unlocked"
+    author: "punk7890"
+    codes:
+      - "204CFC9C FFFFFFFF"
+
+  - name: "All Voices Unlocked"
+    author: "punk7890"
+    codes:
+      - "2028949C A0430035"
+      - "202894A0 90420035"

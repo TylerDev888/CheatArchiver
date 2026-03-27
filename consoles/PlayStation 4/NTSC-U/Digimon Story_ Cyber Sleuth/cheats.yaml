@@ -1,0 +1,75 @@
+# Digimon Story_ Cyber Sleuth cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA09923
+
+game: "Digimon Story_ Cyber Sleuth"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA09923"
+cheat_type: "AP"
+source: "source:Pikafiend+Kitsune@hackinformer"
+
+cheats:
+  - name: "Max Stat"
+    notes: "File: *  (HP Current) (HP Spacing (Do not alter)) (HP Max) (SP Current) (SP Spacing (Do not alter)) (SP Max) (ATK) (DEF) (INT) (SPD) (ABI) (CAM %)"
+    codes:
+      - "41041F34 00002706"
+      - "400B0240 00000000"
+      - "41041F36 00000000"
+      - "400B0240 00000000"
+      - "41041F38 00002706"
+      - "400B0240 00000000"
+      - "41041F40 000003E7"
+      - "400B0240 00000000"
+      - "41041F42 00000000"
+      - "400B0240 00000000"
+      - "41041F44 000003E7"
+      - "400B0240 00000000"
+      - "42041F4A 03E703E7"
+      - "400B0240 00000000"
+      - "41041F4E 000003E7"
+      - "400B0240 00000000"
+      - "41041F52 000003E7"
+      - "400B0240 00000000"
+      - "41041F56 000003E7"
+      - "400B0240 00000000"
+      - "41041F5A 00000064"
+      - "400B0240 00000000"
+      - "41041F5C 00000064"
+      - "400B0240 00000000"
+
+  - name: "Max Exp"
+    notes: "File: *"
+    codes:
+      - "42041F28 00CF1213"
+      - "400B0240 00000000"
+
+  - name: "200% Scan"
+    notes: "File: *"
+    codes:
+      - "410104EA 000000C8"
+      - "40F00004 00000000"
+
+  - name: "Field Guide (use At Your Own Risk Xp)"
+    notes: "File: *"
+    codes:
+      - "41043BF0 00000002"
+      - "40FE0008 00000000"
+
+  - name: "Swap Item"
+    notes: "File: sd000[0-9]\\gamedata.bin"
+    codes:
+      - "92000000 00044A34"
+      - "88010007 000000[Item]"
+      - "00 00000000"
+      - "A8000003 00000004"
+      - "[Item] 00000000"
+
+  - name: "Edit Quantity Of Item"
+    notes: "File: sd000[0-9]\\gamedata.bin"
+    codes:
+      - "92000000 00044A34"
+      - "88010007 000000"
+      - "[Item]00 00000000"
+      - "1800000B 0000[Amount:0063:HEX:BIG]"

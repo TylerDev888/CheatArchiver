@@ -1,0 +1,37 @@
+# Sega Arcade Gallery cheat data
+# Console: Game Boy Advance
+# Region:  NTSC-U
+# Serial:  AGB-AYPE-USA
+
+game: "Sega Arcade Gallery"
+console: "Game Boy Advance"
+region: "NTSC-U"
+serial: "AGB-AYPE-USA"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Max Score"
+    notes: "[After Burner]  File: NTSC"
+    codes:
+      - "0200CB00:1869F"
+
+  - name: "Inf Missels"
+    notes: "[After Burner]  File: NTSC"
+    codes:
+      - "030027B4:32"
+
+  - name: "Inf Continues"
+    notes: "[After Burner]  File: NTSC"
+    codes:
+      - "030027B3:0A"
+
+  - name: "Inf Lives"
+    notes: "[After Burner]  File: NTSC"
+    codes:
+      - "030027B1:32"
+
+  - name: "Stage"
+    notes: "[Super Hang-On]  File: NTSC"
+    codes:
+      - "030027B3:0A"

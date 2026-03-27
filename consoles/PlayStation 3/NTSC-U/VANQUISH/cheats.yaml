@@ -1,0 +1,19 @@
+# VANQUISH cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS30543
+
+game: "VANQUISH"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS30543"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Xor For Save2 (required)"
+    notes: "File: SAVE2"
+    codes:
+      - "set [hash]:0"
+      - "set [hash]:xor(0x000000,0x0000CB,4)"
+      - "write at 0x0023AC:[hash]"

@@ -1,0 +1,153 @@
+# Unison cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20173
+
+game: "Unison"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20173"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F010061C 000001FD"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001E5267"
+
+  - name: "100% Broadcast"
+    author: "InterAct"
+    codes:
+      - "10985018 00000064"
+
+  - name: "Always Have Broadcast"
+    author: "Code Master"
+    codes:
+      - "0028ECA4 00000001"
+
+  - name: "Always Rank A - Cella"
+    author: "InterAct"
+    codes:
+      - "20281308 FFFFFFFF"
+      - "20281310 00000000"
+      - "2028132C 00000000"
+      - "20281334 00000000"
+      - "20281738 00000000"
+
+  - name: "Always Rank A - Chily"
+    author: "InterAct"
+    codes:
+      - "20281B78 FFFFFFFF"
+      - "20281B80 00000000"
+      - "20281B9C 00000000"
+      - "20281BA4 00000000"
+      - "20281FA8 00000000"
+
+  - name: "Always Rank A - Trill"
+    author: "InterAct"
+    codes:
+      - "20281740 FFFFFFFF"
+      - "20281748 00000000"
+      - "20281764 00000000"
+      - "2028176C 00000000"
+      - "20281B70 00000000"
+
+  - name: "Always Rank A"
+    author: "Code Master"
+    notes: "[Cela Codes]"
+    codes:
+      - "20281738 00000000"
+
+  - name: "Max Bads"
+    author: "Code Master"
+    notes: "[Cela Codes]"
+    codes:
+      - "109840F4 000003E7"
+
+  - name: "Max Cools"
+    author: "Code Master"
+    notes: "[Cela Codes]"
+    codes:
+      - "109840EC 000003E7"
+
+  - name: "Max Goods"
+    author: "Code Master"
+    notes: "[Cela Codes]"
+    codes:
+      - "109840F0 000003E7"
+
+  - name: "Max Misses"
+    author: "Code Master"
+    notes: "[Cela Codes]"
+    codes:
+      - "109840F8 000003E7"
+
+  - name: "Max Perfects"
+    author: "Code Master"
+    notes: "[Cela Codes]"
+    codes:
+      - "109840E8 000003E7"
+
+  - name: "No Bads"
+    author: "Code Master"
+    notes: "[Cela Codes]"
+    codes:
+      - "109840F4 00000000"
+
+  - name: "No Cools"
+    author: "Code Master"
+    notes: "[Cela Codes]"
+    codes:
+      - "109840EC 00000000"
+
+  - name: "No Goods"
+    author: "Code Master"
+    notes: "[Cela Codes]"
+    codes:
+      - "109840F0 00000000"
+
+  - name: "No Misses"
+    author: "Code Master"
+    notes: "[Cela Codes]"
+    codes:
+      - "109840F8 00000000"
+
+  - name: "No Perfects"
+    author: "Code Master"
+    notes: "[Cela Codes]"
+    codes:
+      - "109840E8 00000000"
+
+  - name: "Have 0 Miss"
+    author: "Codejunkies"
+    codes:
+      - "10984140 00000000"
+      - "201094AC 24020000"
+
+  - name: "Have Max Combo"
+    author: "Codejunkies"
+    codes:
+      - "10984148 000003E7"
+      - "201093D8 240303E7"
+
+  - name: "Have Max Perfects"
+    author: "Codejunkies"
+    codes:
+      - "10984130 000003E7"
+      - "20109330 240203E7"
+
+  - name: "Max Combo"
+    author: "InterAct"
+    codes:
+      - "10984148 000003E7"
+
+  - name: "Miss"
+    author: "Codejunkies"

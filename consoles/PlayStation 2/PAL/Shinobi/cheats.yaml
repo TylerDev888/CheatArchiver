@@ -1,0 +1,159 @@
+# Shinobi cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-51428
+
+game: "Shinobi"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-51428"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02F7A64 000001FD"
+
+  - name: "Health Depletes Quicker"
+    author: "Codejunkies"
+    notes: "[Difficulty Codes]"
+    codes:
+      - "2019DD84 2442FD00"
+
+  - name: "Shuriken Deplete Quicker"
+    author: "Codejunkies"
+    notes: "[Difficulty Codes]"
+    codes:
+      - "201B3308 2405FFFE"
+
+  - name: "Slash Gauge Depletes Quicker"
+    author: "Codejunkies"
+    notes: "[Difficulty Codes]"
+    codes:
+      - "2019A8B8 24020005"
+
+  - name: "All Movies/Levels Unlocked"
+    author: "Codejunkies"
+    codes:
+      - "2083228C 01000012"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "2019DD88 00000000"
+
+  - name: "Infinite Shuriken"
+    author: "Codejunkies"
+    codes:
+      - "201B338C 00000000"
+
+  - name: "Moon Jump"
+    author: "Codejunkies"
+    codes:
+      - "D0533AC2 0000DFFF"
+      - "201B4660 3C014080"
+      - "D0533AC2 0000DFFF"
+      - "201B4664 AE2103E4"
+      - "D0533AC2 0000FFFF"
+      - "201B4660 1040000D"
+      - "D0533AC2 0000FFFF"
+      - "201B4664 00000000"
+
+  - name: "One Hit Kills"
+    author: "Codejunkies"
+    codes:
+      - "201A9984 00000000"
+
+  - name: "Quick Animation"
+    author: "Codejunkies"
+    codes:
+      - "2019C3E0 0803FFC0"
+      - "200FFF00 3C013FC0"
+      - "200FFF04 44810000"
+      - "200FFF08 03E00008"
+
+  - name: "Slash Gauge Stays Full"
+    author: "Codejunkies"
+    codes:
+      - "2019A8C4 00000000"
+
+  - name: "Weapon Maxed"
+    author: "Codejunkies"
+    codes:
+      - "201AD810 00000000"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0180008 002F7FA7"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2019DD78 00000000"
+      - "2019DDA0 00000000"
+      - "2019A8D0 0080102D"
+
+  - name: "Shurikens"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "201B3308 24050010"
+
+  - name: "Slash"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2019A89C 24013000"
+      - "2019A8A4 AE210330"
+
+  - name: "Have All Oboro Coins"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "0083228F 00000001"
+      - "20832290 01010101"
+      - "20832294 01010101"
+      - "20832298 01010101"
+      - "2083229C 01010101"
+      - "208322A0 01010101"
+      - "208322A4 01010101"
+      - "208322A8 01010101"
+      - "208322AC 01010101"
+      - "208322B0 01010101"
+      - "208322B4 01010101"
+      - "208322B8 01010101"
+      - "208322BC 01010101"
+      - "208322C0 01010101"
+      - "208322C4 01010101"
+      - "208322C8 01010101"
+      - "208322CC 01010101"
+      - "208322D0 01010101"
+      - "208322D4 01010101"
+      - "208322D8 01010101"
+      - "208322DC 01010101"
+      - "208322E0 01010101"
+      - "208322E4 01010101"
+      - "208322E8 01010101"
+      - "208322EC 01010101"
+      - "208322F0 01010101"
+      - "208322F4 01010101"
+      - "208322F8 01010101"
+      - "208322FC 01010101"
+      - "20832300 01010101"
+      - "20832304 01010101"
+      - "20832308 01010101"
+      - "0083230C 00000001"
+      - "0083230D 00000001"
+      - "0083230E 00000001"
+
+  - name: "Unlock Extras Menu"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20832280 FFFFFFFF"

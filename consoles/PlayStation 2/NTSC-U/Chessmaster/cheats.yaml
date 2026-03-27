@@ -1,0 +1,46 @@
+# Chessmaster cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20637
+
+game: "Chessmaster"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20637"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "902DE15C 0C0411CA"
+
+  - name: "P1 Press L1+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0625D82 0000FBFE"
+      - "20195E7C 00000000"
+
+  - name: "P1 Press L2+Select To Restart Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0625D82 0000FEFE"
+      - "20195E7C AF828A98"
+
+  - name: "P2 Press L1+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0625F02 0000FBFE"
+      - "20195E7C 00000000"
+
+  - name: "P2 Press L2+Select To Restart Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0625F02 0000FEFE"
+      - "20195E7C AF828A98"

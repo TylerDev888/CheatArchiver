@@ -1,0 +1,136 @@
+# MTX Mototrax cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52289
+
+game: "MTX Mototrax"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52289"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02C3610 002C3613"
+      - "40348DA4 000D0001"
+      - "00000000 00000000"
+      - "20396570 080D2369"
+      - "20348DD0 080E595D"
+      - "20348DD4 8E020060"
+
+  - name: "Alt. Mastercode"
+    author: "RyTheHexer"
+    notes: "[Master Codes]"
+    codes:
+      - "F0110120 0000000E"
+
+  - name: "1-Lap Races"
+    author: "RyTheHexer"
+    codes:
+      - "003021C7 000000AC"
+
+  - name: "Add MTXP (L1+Tri)"
+    author: "RyTheHexer"
+    codes:
+      - "E002EBFF 00AC6302"
+      - "30500000 007AD218"
+      - "FFFFFF00 00000000"
+
+  - name: "Always 1St (Races)"
+    author: "RyTheHexer"
+    codes:
+      - "00305EC7 00000014"
+
+  - name: "AR Max Below 3.14 Fix"
+    author: "Codejunkies"
+    codes:
+      - "2039C340 3C03200F"
+      - "2039C348 8C65FFF8"
+      - "2039C34C 24040079"
+      - "2039C350 24030074"
+      - "2039C354 0000000C"
+
+  - name: "Freeze Lap Timer"
+    author: "RyTheHexer"
+    codes:
+      - "103021F6 00000000"
+
+  - name: "Freeze Timer (Race)"
+    author: "Codejunkies"
+    codes:
+      - "203021F0 00000000"
+
+  - name: "Freeze Trick Timer (Off) [L1+Squ]"
+    author: "RyTheHexer"
+    codes:
+      - "D0AC6302 00007BFF"
+      - "00247123 000000AE"
+
+  - name: "Freeze Trick Timer (ON) [L1+X]"
+    author: "RyTheHexer"
+    codes:
+      - "D0AC6302 0000BBFF"
+      - "00247123 0000008E"
+
+  - name: "Improved Widescreen"
+    author: "RyTheHexer"
+    codes:
+      - "203CB2FC 3FE38E39"
+
+  - name: "Lap Race"
+    author: "Codejunkies"
+    codes:
+      - "203021C4 AC820034"
+
+  - name: "Massive Money (Buy Puma Hoodie #1)"
+    author: "RyTheHexer"
+    codes:
+      - "206220F8 FFF0E4D1"
+
+  - name: "Massive Trick Points"
+    author: "RyTheHexer"
+    codes:
+      - "0033F376 0000009F"
+
+  - name: "Max Freestyle"
+    author: "Codejunkies"
+    codes:
+      - "20348E78 3C01000E"
+      - "20348E7C 3C02009C"
+      - "20348E80 AC419AB4"
+
+  - name: "Max Mtx"
+    author: "Codejunkies"
+    codes:
+      - "20348DA4 3C01000E"
+      - "20348DA8 3C02007B"
+      - "20348DAC AC41D218"
+
+  - name: "Max Score (Freestyle)"
+    author: "Codejunkies"
+    codes:
+      - "20348DB0 3C01000E"
+      - "20348DB4 3C02009C"
+      - "20348DB8 AC4198B4"
+
+  - name: "No Opponent Races"
+    author: "Codejunkies"
+    codes:
+      - "10305ED0 00000002"
+
+  - name: "Shocks Always Loaded"
+    author: "RyTheHexer"
+    codes:
+      - "202F6BE8 00000000"
+      - "202F6B3C 20030002"
+      - "202F6B40 AE030018"
+      - "002F6C9E 00000004"
+
+  - name: "Ultra Slow Timer (Freestyle)"
+    author: "Codejunkies"
+    codes:
+      - "20247118 2463FFFF"

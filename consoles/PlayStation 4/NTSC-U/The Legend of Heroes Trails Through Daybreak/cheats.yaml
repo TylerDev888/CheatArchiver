@@ -1,0 +1,65 @@
+# The Legend of Heroes Trails Through Daybreak cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA27774
+
+game: "The Legend of Heroes Trails Through Daybreak"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA27774"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Mod characters Bonus Stats"
+    notes: "File: user\\.dat"
+    codes:
+      - "92000000 00[Char]"
+      - "2800[Stat] [AMOUNT:0000270F:HEX:BIG<AMOUNT>]"
+
+  - name: "All weapons"
+    notes: "File: user\\.dat"
+    codes:
+      - "410B76A8 00000263"
+      - "42580004 00000000"
+
+  - name: "All armour, shoes and accesssories"
+    notes: "File: user\\.dat"
+    codes:
+      - "410B8008 00000263"
+      - "43000004 00000000"
+
+  - name: "All Usable items"
+    notes: "File: user\\.dat"
+    codes:
+      - "410B706C 00000263"
+      - "402E0004 00000000"
+
+  - name: "Jet Black Steel"
+    notes: "File: user\\.dat"
+    codes:
+      - "100B74C4 00000263"
+
+  - name: "All Quartz"
+    notes: "File: user\\.dat"
+    codes:
+      - "410BAA38 00000263"
+      - "42EE0004 00000000"
+
+  - name: "All Arts"
+    notes: "File: user\\.dat"
+    codes:
+      - "410BA588 00000263"
+      - "412C0004 00000000"
+
+  - name: "All Holo Cores"
+    notes: "File: user\\.dat"
+    codes:
+      - "410BA3F8 00000263"
+      - "40630004 00000000"
+
+  - name: "All Costumes"
+    notes: "File: user\\.dat"
+    codes:
+      - "410B977C 00000214"
+      - "406C0004 00000000"

@@ -1,0 +1,643 @@
+# Dynasty Warriors 5 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53339
+
+game: "Dynasty Warriors 5"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53339"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F011109C 0011109F"
+
+  - name: "Player 1 Controller"
+    author: "luc-ita"
+    notes: "[Jokers]"
+    codes:
+      - "D031BE1C 0000????"
+
+  - name: "Player 2 Controller"
+    author: "luc-ita"
+    notes: "[Jokers]"
+    codes:
+      - "D031BE9C 0000????"
+
+  - name: "1Hitkill"
+    author: "luc-ita"
+    codes:
+      - "2018FB44 A6020226"
+      - "D031BE1C 0000FDFF"
+      - "2018FB44 A6000226"
+      - "D031BE1C 00007DFF"
+      - "2018FB44 A6000226"
+      - "D031BE1C 0000DDFF"
+      - "2018FB44 A6000226"
+      - "D031BE1C 0000EDFF"
+      - "2018FB44 A6000226"
+
+  - name: "Max Experience"
+    author: "Codejunkies"
+    notes: "[1st Bodyguard Codes]"
+    codes:
+      - "10469B60 0000FFFF"
+
+  - name: "Max Life"
+    author: "Codejunkies"
+    notes: "[1st Bodyguard Codes]"
+    codes:
+      - "10469B62 00007FFF"
+
+  - name: "Max Ratings"
+    author: "Codejunkies"
+    notes: "[1st Bodyguard Codes]"
+    codes:
+      - "10469B5C 00000A0A"
+
+  - name: "Max Stats"
+    author: "Codejunkies"
+    notes: "[1st Bodyguard Codes]"
+    codes:
+      - "20469B64 FFFFFFFF"
+
+  - name: "Special Abilities"
+    author: "Codejunkies"
+    notes: "[1st Bodyguard Codes]"
+    codes:
+      - "00469B5E 000000FF"
+
+  - name: "Atk"
+    author: "Codejunkies"
+    notes: "[1st Slot Effect Modifier]"
+    codes:
+      - "00468948 00000002"
+
+  - name: "Bow"
+    author: "Codejunkies"
+    notes: "[1st Slot Effect Modifier]"
+    codes:
+      - "00468B44 00000005"
+
+  - name: "Charge"
+    author: "Codejunkies"
+    notes: "[1st Slot Effect Modifier]"
+    codes:
+      - "00468B44 00000009"
+
+  - name: "Def"
+    author: "Codejunkies"
+    notes: "[1st Slot Effect Modifier]"
+    codes:
+      - "00468A54 00000003"
+
+  - name: "Fill"
+    author: "Codejunkies"
+    notes: "[1st Slot Effect Modifier]"
+    codes:
+      - "00468AF4 00000008"
+
+  - name: "Horse"
+    author: "Codejunkies"
+    notes: "[1st Slot Effect Modifier]"
+    codes:
+      - "00468BE4 00000006"
+
+  - name: "Life"
+    author: "Codejunkies"
+    notes: "[1st Slot Effect Modifier]"
+    codes:
+      - "00468A54 00000000"
+
+  - name: "Luck"
+    author: "Codejunkies"
+    notes: "[1st Slot Effect Modifier]"
+    codes:
+      - "00468C34 00000007"
+
+  - name: "Musou"
+    author: "Codejunkies"
+    notes: "[1st Slot Effect Modifier]"
+    codes:
+      - "00468A04 00000001"
+
+  - name: "Spd"
+    author: "Codejunkies"
+    notes: "[1st Slot Effect Modifier]"
+    codes:
+      - "004689A6 00000004"
+
+  - name: "All Characters"
+    author: "Codejunkies"
+    codes:
+      - "201965DC 24010001"
+      - "201965E0 A0410000"
+
+  - name: "All Movies"
+    author: "Codejunkies"
+    codes:
+      - "204688F8 FFFFFFFF"
+      - "204688FC FFFFFFFF"
+      - "20468900 FFFFFFFF"
+
+  - name: "All Weapons"
+    author: "Codejunkies"
+    codes:
+      - "200FFF00 80410000"
+      - "200FFF04 241000DC"
+      - "200FFF08 10300008"
+      - "200FFF10 8043000E"
+      - "200FFF14 10700004"
+      - "200FFF1C 24210001"
+      - "200FFF20 A041000E"
+      - "200FFF30 08065870"
+      - "201961A4 0803FFC0"
+
+  - name: "Always Have Full X2 Powers"
+    author: "luc-ita"
+    codes:
+      - "20445144 00070800"
+
+  - name: "Color 1"
+    author: "Codejunkies"
+    notes: "[Color Modifier]"
+    codes:
+      - "00469B56 00000000"
+
+  - name: "Color 2"
+    author: "Codejunkies"
+    notes: "[Color Modifier]"
+    codes:
+      - "00469B56 00000001"
+
+  - name: "Color 3"
+    author: "Codejunkies"
+    notes: "[Color Modifier]"
+    codes:
+      - "00469BDA 00000002"
+
+  - name: "Color 4"
+    author: "Codejunkies"
+    notes: "[Color Modifier]"
+    codes:
+      - "00469B56 00000003"
+
+  - name: "Color 5"
+    author: "Codejunkies"
+    notes: "[Color Modifier]"
+    codes:
+      - "00469B56 00000004"
+
+  - name: "Infinite Mosou"
+    author: "Codejunkies"
+    notes: "[FR Codes]"
+    codes:
+      - "200FFE14 24010130"
+      - "200FFE18 A621022A"
+
+  - name: "Infinite/Max Health"
+    author: "Codejunkies"
+    notes: "[FR Codes]"
+    codes:
+      - "200FFE00 3C012700"
+      - "200FFE04 34210270"
+      - "200FFE08 AE210224"
+
+  - name: "Max Mosou"
+    author: "Codejunkies"
+    notes: "[FR Codes]"
+    codes:
+      - "200FFE0C 24011300"
+      - "200FFE10 A621022C"
+
+  - name: "Must Have On"
+    author: "Codejunkies"
+    notes: "[FR Codes]"
+    codes:
+      - "2017A83C 0803FF80"
+      - "200FFE20 8623022C"
+      - "200FFE1C 0805EA10"
+
+  - name: "Hat 1"
+    author: "Codejunkies"
+    notes: "[Hat Modifier]"
+    codes:
+      - "00469B57 00000000"
+
+  - name: "Hat 2"
+    author: "Codejunkies"
+    notes: "[Hat Modifier]"
+    codes:
+      - "00469B57 00000001"
+
+  - name: "Hat 3"
+    author: "Codejunkies"
+    notes: "[Hat Modifier]"
+    codes:
+      - "00469B57 00000002"
+
+  - name: "Hat 4"
+    author: "Codejunkies"
+    notes: "[Hat Modifier]"
+    codes:
+      - "00469B57 00000003"
+
+  - name: "Arm Guards"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "0046984A 00000000"
+
+  - name: "Art Of War"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00469843 00000000"
+
+  - name: "Bodyguard Manual"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00469845 00000000"
+
+  - name: "Demon Band"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00469846 00000000"
+
+  - name: "Dragon Amulet +20"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00469831 00000014"
+
+  - name: "Elephant Harness"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00469842 00000000"
+
+  - name: "Fire Arrows"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00469849 00000000"
+
+  - name: "Fire Orb"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "0046983A 00000000"
+
+  - name: "Ginseng +20"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00469838 00000014"
+
+  - name: "Green Scroll"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "0046984C 00000000"
+
+  - name: "Herbal Remedy +20"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00469839 00000014"
+
+  - name: "Hex Mark Harness"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "0046983F 00000000"
+
+  - name: "Horned Helm +20"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00469836 00000014"
+
+  - name: "Huang's Bow +20"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00469835 00000014"
+
+  - name: "Ice Orb"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "0046983B 00000000"
+
+  - name: "Light Orb"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "0046983D 00000000"
+
+  - name: "Musou Armor"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "0046984D 00000000"
+
+  - name: "Peacock Amulet +20"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00469830 00000014"
+
+  - name: "Red Hare Harness"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "0046983E 00000000"
+
+  - name: "Serpent Earrings"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "0046984F 00000000"
+
+  - name: "Seven Star Sash +20"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00469837 00000014"
+
+  - name: "Shadow Harness"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00469841 00000000"
+
+  - name: "Shadow Orb"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "0046983C 00000000"
+
+  - name: "Speed Scroll +20"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00469834 00000014"
+
+  - name: "Storm Harness"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00469840 00000000"
+
+  - name: "Survival Guide"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00469844 00000000"
+
+  - name: "Tiger Amulet +20"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00469832 00000014"
+
+  - name: "Tiger Collar"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "0046984B 00000000"
+
+  - name: "Tortoise Amulet +20"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00469833 00000014"
+
+  - name: "Tribal Remedy"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "0046984E 00000000"
+
+  - name: "Way Of Musou"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00469847 00000000"
+
+  - name: "Wind Scroll"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00469848 00000000"
+
+  - name: "Max Experience All"
+    author: "Codejunkies"
+    codes:
+      - "20196624 2405EA60"
+      - "20196628 A4450008"
+
+  - name: "Max Health All"
+    author: "Codejunkies"
+    codes:
+      - "20196534 24010340"
+      - "20196538 0803FFF8"
+      - "200FFFE0 A4410002"
+      - "200FFFE4 03E00008"
+      - "200FFFE8 94420002"
+
+  - name: "Max Iterim Save"
+    author: "Codejunkies"
+    codes:
+      - "004BEE57 00000003"
+
+  - name: "Always In Musou Rage"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "10445170 0000030D"
+
+  - name: "Big Jumps"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "204451A4 421B3333"
+
+  - name: "Infinite Arrows"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "10479946 00000014"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "20445184 26000260"
+
+  - name: "Quick Character"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "2044519C 42066667"
+
+  - name: "Ultra Quick Character"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "2044519C 42666667"
+
+  - name: "Player 1 Invulnerable"
+    author: "luc-ita"
+    codes:
+      - "2018FB00 08028000"
+      - "2018FB04 00000000"
+      - "200A0000 A4820228"
+      - "200A0004 3C010044"
+      - "200A0008 34214F60"
+      - "200A000C 10810003"
+      - "200A0010 00000000"
+      - "200A0014 08063EC2"
+      - "200A0018 84830226"
+      - "200A001C 08063EC4"
+
+  - name: "Always In Mosou Rage"
+    author: "Codejunkies"
+    notes: "[Player 2 Codes (Free Mode)]"
+    codes:
+      - "20445420 26000260"
+
+  - name: "Skip Demo Movie"
+    author: "luc-ita"
+    codes:
+      - "20141BF0 00000000"
+
+  - name: "Skip Demonstration Game Movie"
+    author: "luc-ita"
+    codes:
+      - "20141BD0 00000000"
+
+  - name: "Skip Koei And Omega Logos And The Initial Movie"
+    author: "luc-ita"
+    codes:
+      - "20141B84 00000000"
+
+  - name: "Weapon 2 Unlocked"
+    author: "Codejunkies"
+    notes: "[Weapon 2 Codes]"
+    codes:
+      - "00468952 00000001"
+
+  - name: "Weapon 3 Unlocked"
+    author: "Codejunkies"
+    notes: "[Weapon 3 Codes]"
+    codes:
+      - "00468960 00000002"
+
+  - name: "Weapon 4 Unlocked"
+    author: "Codejunkies"
+    notes: "[Weapon 4 Codes]"
+    codes:
+      - "0046896E 00000003"
+
+  - name: "Crossbow"
+    author: "Codejunkies"
+    notes: "[Weapon Modifier]"
+    codes:
+      - "00469B55 00000002"
+
+  - name: "Fan"
+    author: "Codejunkies"
+    notes: "[Weapon Modifier]"
+    codes:
+      - "00469BAD 00000004"
+
+  - name: "Spear"
+    author: "Codejunkies"
+    notes: "[Weapon Modifier]"
+    codes:
+      - "00469B55 00000000"
+
+  - name: "Staff"
+    author: "Codejunkies"
+    notes: "[Weapon Modifier]"
+    codes:
+      - "00469B55 00000001"
+
+  - name: "Sword"
+    author: "Codejunkies"
+    notes: "[Weapon Modifier]"
+    codes:
+      - "00469B55 00000003"
+
+  - name: "Heavy"
+    author: "Codejunkies"
+    notes: "[Weight Modifier Code]"
+    codes:
+      - "00468946 00000002"
+
+  - name: "Light"
+    author: "Codejunkies"
+    notes: "[Weight Modifier Code]"
+    codes:
+      - "00468B92 00000000"
+
+  - name: "Medium"
+    author: "Codejunkies"
+    notes: "[Weight Modifier Code]"
+    codes:
+      - "00468970 00000001"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90130548 0C04223C"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Max Infinite]"
+    codes:
+      - "20445184 3B0003B0"
+
+  - name: "Mussou"
+    author: "Xploder"
+    notes: "[Max Infinite]"
+    codes:
+      - "1044518A 000001E0"
+      - "1044518C 00001E00"
+
+  - name: "Arrows"
+    author: "Xploder"
+    notes: "[Max Infinite]"
+    codes:
+      - "10479946 00000063"
+
+  - name: "Interim Saves"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20242EEC 26530000"
+
+  - name: "Movies"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "204688F8 FFFFFFFF"
+      - "204688FC FFFFFFFF"
+      - "00468900 000000FF"
+
+  - name: "Unique Items"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "40469830 00080001"
+      - "62626262 00000000"

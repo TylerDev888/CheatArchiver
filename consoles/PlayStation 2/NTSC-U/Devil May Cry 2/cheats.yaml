@@ -1,0 +1,686 @@
+# Devil May Cry 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20484-SLUS-20627
+
+game: "Devil May Cry 2"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20484-SLUS-20627"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00129823"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90129820 0C047DA8"
+
+  - name: "Max Health"
+    author: "Code Master"
+    notes: "[Both Disc Codes]"
+    codes:
+      - "1056F864 0000270F"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Both Disc Codes]"
+    codes:
+      - "2056F860 270F270F"
+
+  - name: "Max Infinite Health"
+    author: "Code Master"
+    notes: "[Both Disc Codes]"
+    codes:
+      - "2056F860 270F270F"
+      - "1056F864 0000270F"
+
+  - name: "Infinite Devil Trigger"
+    author: "Code Master"
+    notes: "[Both Disc Codes]"
+    codes:
+      - "1056FB8E 0000270F"
+      - "1056FB90 0000270F"
+
+  - name: "Max Devil Trigger"
+    author: "Code Master"
+    notes: "[Both Disc Codes]"
+    codes:
+      - "1056FB92 0000270F"
+
+  - name: "Max Infinite Devil Trigger"
+    author: "Code Master"
+    notes: "[Both Disc Codes]"
+    codes:
+      - "1056FB8E 0000270F"
+      - "2056FB90 270F270F"
+
+  - name: "Infinite Double Jumps"
+    author: "Code Master"
+    notes: "[Both Disc Codes]"
+    codes:
+      - "1056FBB2 00000101"
+
+  - name: "Red Orbs Worth 255"
+    author: "Code Master"
+    notes: "[Both Disc Codes]"
+    codes:
+      - "00570BA8 000000FF"
+
+  - name: "Max Red Orbs"
+    author: "Code Master"
+    notes: "[Both Disc Codes]"
+    codes:
+      - "20570BA8 000F423F"
+
+  - name: "Max Blue Orbs"
+    author: "Code Master"
+    notes: "[Both Disc Codes]"
+    codes:
+      - "20570BB4 00000004"
+
+  - name: "Max Yellow Orbs"
+    author: "Code Master"
+    notes: "[Both Disc Codes]"
+    codes:
+      - "00570BB1 00000063"
+
+  - name: "Have All Enemy File"
+    author: "Code Master"
+    notes: "[Both Disc Codes]"
+    codes:
+      - "20570C08 FFFFFFFF"
+      - "10570C0C 0000FFFF"
+
+  - name: "Always 1St Devil Form"
+    author: "Code Master"
+    notes: "[Both Disc Codes]"
+    codes:
+      - "0056FB88 00000001"
+
+  - name: "Always Show Time!!"
+    author: "Code Master"
+    notes: "[Both Disc Codes]"
+    codes:
+      - "0056FC99 00000063"
+
+  - name: "Invincible"
+    author: "Code Master"
+    notes: "[Both Disc Codes]"
+    codes:
+      - "0056FCAF 00000009"
+
+  - name: "Have All Guns"
+    author: "Code Master"
+    notes: "[Both Disc Codes]"
+    codes:
+      - "0056FD70 0000000F"
+
+  - name: "Have All Weapons"
+    author: "Code Master"
+    notes: "[Both Disc Codes]"
+    codes:
+      - "0056FD71 00000007"
+
+  - name: "Infinite Time"
+    author: "Code Master"
+    notes: "[Both Disc Codes]"
+    codes:
+      - "10570288 0000FFFF"
+
+  - name: "Have All Item Files"
+    author: "Code Master"
+    notes: "[Both Disc Codes]"
+    codes:
+      - "20570B4C FFFFFFFF"
+      - "20570B50 FFFFFFFF"
+
+  - name: "Load A Game For Character & Mode/Mission Select"
+    author: "Code Master"
+    notes: "[Both Disc Codes]"
+    codes:
+      - "10570D4E 00000303"
+
+  - name: "Unlock All Characters"
+    author: "Code Master"
+    notes: "[Both Disc Codes]"
+    codes:
+      - "10573C92 000001FF"
+
+  - name: "1-Hit Kills (All Enemies & Bosses)"
+    author: "Code Master"
+    notes: "[Both Disc Codes]"
+    codes:
+      - "200C0220 3C010056"
+      - "200C0224 3421F760"
+      - "200C0228 54310002"
+      - "200C022C 24020000"
+      - "200C0230 00501021"
+      - "200C0234 03E00008"
+      - "200C0238 A6220100"
+      - "20194E58 0C030088"
+      - "20194E5C 86220100"
+
+  - name: "Infinite Health & 1-Hit Kills (All Enemies & Bosses)"
+    author: "Code Master"
+    notes: "[Both Disc Codes]"
+    codes:
+      - "200C0220 3C010056"
+      - "200C0224 3421F760"
+      - "200C0228 54310002"
+      - "200C022C 24020000"
+      - "200C0230 00000000"
+      - "200C0234 03E00008"
+      - "200C0238 A6220100"
+      - "20194E58 0C030088"
+      - "20194E5C 86220100"
+
+  - name: "Max Orbs"
+    author: "Code Master"
+    notes: "[Mission Clear Screen Codes]"
+    codes:
+      - "20570BAC 000F423F"
+
+  - name: "Low Clear Time"
+    author: "Code Master"
+    notes: "[Mission Clear Screen Codes]"
+    codes:
+      - "20570BA0 00000000"
+      - "20570BA4 00000000"
+
+  - name: "Clear Time-Rank S"
+    author: "Code Master"
+    notes: "[Mission Clear Screen Codes]"
+    codes:
+      - "00571A94 00000000"
+
+  - name: "Orbs-Rank S"
+    author: "Code Master"
+    notes: "[Mission Clear Screen Codes]"
+    codes:
+      - "00571A95 00000000"
+
+  - name: "Stylish Average-Rank S"
+    author: "Code Master"
+    notes: "[Mission Clear Screen Codes]"
+    codes:
+      - "00571A96 00000000"
+
+  - name: "Damage-Rank S"
+    author: "Code Master"
+    notes: "[Mission Clear Screen Codes]"
+    codes:
+      - "00571A97 00000000"
+
+  - name: "Item Used-Rank S"
+    author: "Code Master"
+    notes: "[Mission Clear Screen Codes]"
+    codes:
+      - "00571A98 00000000"
+
+  - name: "Devil Hunter Rank-Rank S"
+    author: "Code Master"
+    notes: "[Mission Clear Screen Codes]"
+    codes:
+      - "00571A9B 00000000"
+
+  - name: "Start On Level Modifier"
+    author: "Code Master"
+    notes: "[Bloody Palace Codes]"
+    codes:
+      - "D0570C20 00000000"
+      - "10570C20 0000????"
+
+  - name: "Always Low Time"
+    author: "Code Master"
+    notes: "[Bloody Palace Codes]"
+    codes:
+      - "205741CC 00000000"
+
+  - name: "Max Enemy"
+    author: "Code Master"
+    notes: "[Bloody Palace Codes]"
+    codes:
+      - "205741D0 0098967F"
+
+  - name: "Max Bonus"
+    author: "Code Master"
+    notes: "[Bloody Palace Codes]"
+    codes:
+      - "205741D8 0098967F"
+
+  - name: "Aqua Heart"
+    author: "Code Master"
+    notes: "[Have Amulet Codes]"
+    codes:
+      - "00570BBE 00000001"
+
+  - name: "Aerial Heart"
+    author: "Code Master"
+    notes: "[Have Amulet Codes]"
+    codes:
+      - "00570BBF 00000001"
+
+  - name: "Quick Heart"
+    author: "Code Master"
+    notes: "[Have Amulet Codes]"
+    codes:
+      - "00570BC0 00000001"
+
+  - name: "Flame Heart"
+    author: "Code Master"
+    notes: "[Have Amulet Codes]"
+    codes:
+      - "00570BC1 00000001"
+
+  - name: "Frost Heart"
+    author: "Code Master"
+    notes: "[Have Amulet Codes]"
+    codes:
+      - "00570BC2 00000001"
+
+  - name: "Electro Heart"
+    author: "Code Master"
+    notes: "[Have Amulet Codes]"
+    codes:
+      - "00570BC3 00000001"
+
+  - name: "Chrono Heart"
+    author: "Code Master"
+    notes: "[Have Amulet Codes]"
+    codes:
+      - "00570BC4 00000001"
+
+  - name: "Healing Heart"
+    author: "Code Master"
+    notes: "[Have Amulet Codes]"
+    codes:
+      - "00570BC5 00000001"
+
+  - name: "Offence Heart"
+    author: "Code Master"
+    notes: "[Have Amulet Codes]"
+    codes:
+      - "00570BC6 00000001"
+
+  - name: "All Amulets"
+    author: "Code Master"
+    notes: "[Have Amulet Codes]"
+    codes:
+      - "10570BBE 00000101"
+      - "20570BC0 01010101"
+      - "10570BC4 01010101"
+      - "00570BC6 00000001"
+
+  - name: "Vital Star L."
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00570BB7 00000063"
+
+  - name: "Vital Star S."
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00570BB8 00000063"
+
+  - name: "Devil Star L."
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00570BB9 00000063"
+
+  - name: "Devil Star S."
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00570BBA 00000063"
+
+  - name: "Holy Star"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00570BBB 00000063"
+
+  - name: "Smell Of Fear"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00570BBD 00000063"
+
+  - name: "Key (1)"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00570BD5 00000063"
+
+  - name: "Key (2)"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00570BD6 00000063"
+
+  - name: "Evilheart"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00570BD7 00000063"
+
+  - name: "Sacrilege"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00570BD8 00000063"
+
+  - name: "Arcana Spada"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00570BD9 00000063"
+
+  - name: "Arcana Calice"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00570BDA 00000063"
+
+  - name: "Arcana Medaglia"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00570BDB 00000063"
+
+  - name: "Arcana Bastone"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00570BDC 00000063"
+
+  - name: "Stage 1"
+    author: "Code Master"
+    notes: "[Normal Difficulty Finished Rank Modifier Codes [Note 1]]"
+    codes:
+      - "00570C62 000000??"
+
+  - name: "Stage 2"
+    author: "Code Master"
+    notes: "[Normal Difficulty Finished Rank Modifier Codes [Note 1]]"
+    codes:
+      - "00570C63 000000??"
+
+  - name: "Stage 3"
+    author: "Code Master"
+    notes: "[Normal Difficulty Finished Rank Modifier Codes [Note 1]]"
+    codes:
+      - "00570C64 000000??"
+
+  - name: "Stage 4"
+    author: "Code Master"
+    notes: "[Normal Difficulty Finished Rank Modifier Codes [Note 1]]"
+    codes:
+      - "00570C65 000000??"
+
+  - name: "Stage 5"
+    author: "Code Master"
+    notes: "[Normal Difficulty Finished Rank Modifier Codes [Note 1]]"
+    codes:
+      - "00570C66 000000??"
+
+  - name: "Stage 6"
+    author: "Code Master"
+    notes: "[Normal Difficulty Finished Rank Modifier Codes [Note 1]]"
+    codes:
+      - "00570C67 000000??"
+
+  - name: "Stage 7"
+    author: "Code Master"
+    notes: "[Normal Difficulty Finished Rank Modifier Codes [Note 1]]"
+    codes:
+      - "00570C68 000000??"
+
+  - name: "Stage 8"
+    author: "Code Master"
+    notes: "[Normal Difficulty Finished Rank Modifier Codes [Note 1]]"
+    codes:
+      - "00570C69 000000??"
+
+  - name: "Stage 9"
+    author: "Code Master"
+    notes: "[Normal Difficulty Finished Rank Modifier Codes [Note 1]]"
+    codes:
+      - "00570C6A 000000??"
+
+  - name: "Stage 10"
+    author: "Code Master"
+    notes: "[Normal Difficulty Finished Rank Modifier Codes [Note 1]]"
+    codes:
+      - "00570C6B 000000??"
+
+  - name: "Stage 11"
+    author: "Code Master"
+    notes: "[Normal Difficulty Finished Rank Modifier Codes [Note 1]]"
+    codes:
+      - "00570C6C 000000??"
+
+  - name: "Stage 12"
+    author: "Code Master"
+    notes: "[Normal Difficulty Finished Rank Modifier Codes [Note 1]]"
+    codes:
+      - "00570C6D 000000??"
+
+  - name: "Stage 13"
+    author: "Code Master"
+    notes: "[Normal Difficulty Finished Rank Modifier Codes [Note 1]]"
+    codes:
+      - "00570C6E 000000??"
+
+  - name: "Stage 14"
+    author: "Code Master"
+    notes: "[Normal Difficulty Finished Rank Modifier Codes [Note 1]]"
+    codes:
+      - "00570C6F 000000??"
+
+  - name: "Stage 15"
+    author: "Code Master"
+    notes: "[Normal Difficulty Finished Rank Modifier Codes [Note 1]]"
+    codes:
+      - "00570C70 000000??"
+
+  - name: "Stage 16"
+    author: "Code Master"
+    notes: "[Normal Difficulty Finished Rank Modifier Codes [Note 1]]"
+    codes:
+      - "00570C71 000000??"
+
+  - name: "Stage 17"
+    author: "Code Master"
+    notes: "[Normal Difficulty Finished Rank Modifier Codes [Note 1]]"
+    codes:
+      - "00570C72 000000??"
+
+  - name: "Stage 18"
+    author: "Code Master"
+    notes: "[Normal Difficulty Finished Rank Modifier Codes [Note 1]]"
+    codes:
+      - "00570C73 000000??"
+
+  - name: "Always 2Nd Devil Form"
+    author: "Code Master"
+    notes: "[Disc 1 Only Codes]"
+    codes:
+      - "0056FB88 00000002"
+
+  - name: "Unlock All Normal Missions (Mode/Mission Select)"
+    author: "Code Master"
+    notes: "[Disc 1 Only Codes]"
+    codes:
+      - "00574193 00000012"
+
+  - name: "Unlock All Hard Missions (Mode/Mission Select)"
+    author: "Code Master"
+    notes: "[Disc 1 Only Codes]"
+    codes:
+      - "00574194 00000012"
+
+  - name: "Unlock All Dante Must Die Missions (Mode/Mission Select)"
+    author: "Code Master"
+    notes: "[Disc 1 Only Codes]"
+    codes:
+      - "00574195 00000012"
+
+  - name: "Max Handguns Level"
+    author: "Code Master"
+    notes: "[Disc 1 Only Codes]"
+    codes:
+      - "0056FD76 00000002"
+
+  - name: "Max Submachine Guns Level"
+    author: "Code Master"
+    notes: "[Disc 1 Only Codes]"
+    codes:
+      - "0056FD77 00000002"
+
+  - name: "Max Shotgun Level"
+    author: "Code Master"
+    notes: "[Disc 1 Only Codes]"
+    codes:
+      - "0056FD78 00000002"
+
+  - name: "Max Missile Launcher Level"
+    author: "Code Master"
+    notes: "[Disc 1 Only Codes]"
+    codes:
+      - "0056FD79 00000002"
+
+  - name: "Max Rebellion/Cutlaseer Level"
+    author: "Code Master"
+    notes: "[Disc 1 Only Codes]"
+    codes:
+      - "0056FD7A 00000004"
+
+  - name: "Max Merciles Level"
+    author: "Code Master"
+    notes: "[Disc 1 Only Codes]"
+    codes:
+      - "0056FD7B 00000004"
+
+  - name: "Max Vendetta Level"
+    author: "Code Master"
+    notes: "[Disc 1 Only Codes]"
+    codes:
+      - "0056FD7C 00000004"
+
+  - name: "Have Merciless"
+    author: "Code Master"
+    notes: "[Have Weapon In Powerup Menu Codes [Note 4]]"
+    codes:
+      - "00570BC8 00000001"
+
+  - name: "Have Vendetta"
+    author: "Code Master"
+    notes: "[Have Weapon In Powerup Menu Codes [Note 4]]"
+    codes:
+      - "00570BC9 00000001"
+
+  - name: "Have Submachine Guns"
+    author: "Code Master"
+    notes: "[Have Weapon In Powerup Menu Codes [Note 4]]"
+    codes:
+      - "00570BCE 00000001"
+
+  - name: "Have Shotgun"
+    author: "Code Master"
+    notes: "[Have Weapon In Powerup Menu Codes [Note 4]]"
+    codes:
+      - "00570BCF 00000001"
+
+  - name: "Have Missile Launcher"
+    author: "Code Master"
+    notes: "[Have Weapon In Powerup Menu Codes [Note 4]]"
+    codes:
+      - "00570BD0 00000001"
+
+  - name: "Unlock All Lucia Must Die Missions (Mode/Mission Select)"
+    author: "Code Master"
+    notes: "[Disc 2 Only Codes]"
+    codes:
+      - "00574195 0000000D"
+
+  - name: "Max Throwing Daggers Level"
+    author: "Code Master"
+    notes: "[Disc 2 Only Codes]"
+    codes:
+      - "0056FD76 00000002"
+
+  - name: "Max Darts Guns Level"
+    author: "Code Master"
+    notes: "[Disc 2 Only Codes]"
+    codes:
+      - "0056FD77 00000002"
+
+  - name: "Max Cranky Bomb Level"
+    author: "Code Master"
+    notes: "[Disc 2 Only Codes]"
+    codes:
+      - "0056FD78 00000002"
+
+  - name: "Max Bow Gun Level"
+    author: "Code Master"
+    notes: "[Disc 2 Only Codes]"
+    codes:
+      - "0056FD79 00000002"
+
+  - name: "Max Cutlaseer Level"
+    author: "Code Master"
+    notes: "[Disc 2 Only Codes]"
+    codes:
+      - "0056FD7A 00000004"
+
+  - name: "Max Klyamoor Level"
+    author: "Code Master"
+    notes: "[Disc 2 Only Codes]"
+    codes:
+      - "0056FD7B 00000004"
+
+  - name: "Max Zambak Level"
+    author: "Code Master"
+    notes: "[Disc 2 Only Codes]"
+    codes:
+      - "0056FD7C 00000004"
+
+  - name: "Klyamoor"
+    author: "Code Master"
+    notes: "[Have Weapon In Powerup Menu Codes [Note 5]]"
+    codes:
+      - "00570BCB 00000001"
+
+  - name: "Zambak"
+    author: "Code Master"
+    notes: "[Have Weapon In Powerup Menu Codes [Note 5]]"
+    codes:
+      - "00570BCC 00000001"
+
+  - name: "Darts"
+    author: "Code Master"
+    notes: "[Have Weapon In Powerup Menu Codes [Note 5]]"
+    codes:
+      - "00570BD2 00000001"
+
+  - name: "Cranky Bomb"
+    author: "Code Master"
+    notes: "[Have Weapon In Powerup Menu Codes [Note 5]]"
+    codes:
+      - "00570BD3 00000001"
+
+  - name: "Bow Gun"
+    author: "Code Master"
+    notes: "[Have Weapon In Powerup Menu Codes [Note 5]]"
+    codes:
+      - "00570BD4 00000001"

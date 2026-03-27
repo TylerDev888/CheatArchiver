@@ -1,0 +1,64 @@
+# FateSamurai Remnant cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA33393
+
+game: "FateSamurai Remnant"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA33393"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Mod Scabbard"
+    notes: "File: SAVEDATA\\DATA.BIN"
+    codes:
+      - "[SaveSlot]"
+      - "92000000 [Gameversionscabbard]"
+      - "88[Amount:01:HEX:BIG<Search Instance>]0002 [Scabbard]020000"
+      - "28000002 [Amount:0000270F:HEX:BIG<Main Stat>]"
+      - "A8000006 00000003"
+      - "[Skill<Skill 1>][Skill<Skill 2>][Skill<Skill 3>]00 00000000"
+      - "28000009 [Amount:0000270F:HEX:BIG<Skill 1 Value>]"
+      - "2800000D [Amount:0000270F:HEX:BIG<Skill 2 Value>]"
+      - "28000011 [Amount:0000270F:HEX:BIG<Skill 2 Value>]"
+
+  - name: "Mod Guard"
+    notes: "File: SAVEDATA\\DATA.BIN"
+    codes:
+      - "[SaveSlot]"
+      - "92000000 [GameversionGuard]"
+      - "88[Amount:01:HEX:BIG<Search Instance>]0002 [Guard]030000"
+      - "28000002 [Amount:0000270F:HEX:BIG<Main Stat>]"
+      - "A8000006 00000003"
+      - "[Skill<Skill 1>][Skill<Skill 2>][Skill<Skill 3>]00 00000000"
+      - "28000009 [Amount:0000270F:HEX:BIG<Skill 1 Value>]"
+      - "2800000D [Amount:0000270F:HEX:BIG<Skill 2 Value>]"
+      - "28000011 [Amount:0000270F:HEX:BIG<Skill 2 Value>]"
+
+  - name: "Mod Handle Wrap"
+    notes: "File: SAVEDATA\\DATA.BIN"
+    codes:
+      - "[SaveSlot]"
+      - "92000000 [GameversionWrap]"
+      - "88[Amount:01:HEX:BIG<Search Instance>]0002 [Wrap]050000"
+      - "28000002 [Amount:0000270F:HEX:BIG<Main Stat>]"
+      - "A8000006 00000003"
+      - "[Skill<Skill 1>][Skill<Skill 2>][Skill<Skill 3>]00 00000000"
+      - "28000009 [Amount:0000270F:HEX:BIG<Skill 1 Value>]"
+      - "2800000D [Amount:0000270F:HEX:BIG<Skill 2 Value>]"
+      - "28000011 [Amount:0000270F:HEX:BIG<Skill 2 Value>]"
+
+  - name: "Mod Handle Decoration"
+    notes: "File: SAVEDATA\\DATA.BIN"
+    codes:
+      - "[SaveSlot]"
+      - "92000000 [GameversionDecorations]"
+      - "88[Amount:01:HEX:BIG<Search Instance>]0002 [Decoration]040000"
+      - "28000002 [Amount:0000270F:HEX:BIG<Main Stat>]"
+      - "A8000006 00000003"
+      - "[Skill<Skill 1>][Skill<Skill 2>][Skill<Skill 3>]00 00000000"
+      - "28000009 [Amount:0000270F:HEX:BIG<Skill 1 Value>]"
+      - "2800000D [Amount:0000270F:HEX:BIG<Skill 2 Value>]"
+      - "28000011 [Amount:0000270F:HEX:BIG<Skill 2 Value>]"

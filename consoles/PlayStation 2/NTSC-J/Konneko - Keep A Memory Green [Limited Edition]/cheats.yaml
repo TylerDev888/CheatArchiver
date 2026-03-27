@@ -1,0 +1,31 @@
+# Konneko - Keep A Memory Green [Limited Edition] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66152
+
+game: "Konneko - Keep A Memory Green [Limited Edition]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66152"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90196980 0C065A08"
+
+  - name: "Hold Circle Over New Game For Debug Menu"
+    author: "punk7890"
+    codes:
+      - "D01FCE02 0000DFFF"
+      - "20420C50 00000369"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "201FC720 FFFFFFFF"
+      - "41CFE640 00050001"
+      - "FFFFFFFF 00000000"

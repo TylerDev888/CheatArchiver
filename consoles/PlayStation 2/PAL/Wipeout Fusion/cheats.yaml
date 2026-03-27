@@ -1,0 +1,148 @@
+# Wipeout Fusion cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-50005
+
+game: "Wipeout Fusion"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-50005"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F018CC38 0021317F"
+
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "9021317C 0C0894FE"
+
+  - name: "All Arcade Gold"
+    author: "InterAct"
+    codes:
+      - "20395CE0 FFFFFFFF"
+      - "20395CE4 FFFFFFFF"
+
+  - name: "All Arcade/Time"
+    author: "InterAct"
+    codes:
+      - "20394DE8 FFFFFFFF"
+      - "20394DEC FFFFFFFF"
+
+  - name: "All Challenges Gold"
+    author: "InterAct"
+    codes:
+      - "20395D10 FFFFFFFF"
+      - "20395D14 FFFFFFFF"
+
+  - name: "All Challenges Open"
+    author: "InterAct"
+    codes:
+      - "20395D48 FFFFFFFF"
+      - "20395D4C FFFFFFFF"
+
+  - name: "All Teams"
+    author: "InterAct"
+    codes:
+      - "20395D40 0000FFFF"
+
+  - name: "All Time Trial Gold"
+    author: "InterAct"
+    codes:
+      - "20395CF8 FFFFFFFF"
+
+  - name: "All Zone Gold"
+    author: "InterAct"
+    codes:
+      - "20395D30 000FFFFF"
+
+  - name: "Always On Last Lap"
+    author: "InterAct"
+    codes:
+      - "202CD2A8 00000019"
+
+  - name: "Auto Drive"
+    author: "luc-ita"
+    codes:
+      - "2019E060 00000000"
+
+  - name: "Infinite Credits"
+    author: "InterAct"
+    codes:
+      - "20394E74 05F5E0FF"
+
+  - name: "Infinite Proton Cannons"
+    author: "InterAct"
+    codes:
+      - "102CD2F8 00000063"
+
+  - name: "Infinite Shields"
+    author: "InterAct"
+    codes:
+      - "202CC8EC 421C0000"
+
+  - name: "Monster Score - Zone"
+    author: "InterAct"
+    codes:
+      - "203787AC 0FFFFFFF"
+
+  - name: "Open Extra Leagues"
+    author: "InterAct"
+    codes:
+      - "20394DFC 000007FF"
+
+  - name: "Opponents Don't Move"
+    author: "luc-ita"
+    codes:
+      - "2019EB7C 00000000"
+      - "2019C85C 1000001E"
+
+  - name: "Race Alone"
+    author: "luc-ita"
+    codes:
+      - "00352E4D 00000001"
+
+  - name: "Unlock All Weapons"
+    author: "CMX"
+    codes:
+      - "20394DF8 07FFFFFF"
+
+  - name: "Zone Level 30"
+    author: "InterAct"
+    codes:
+      - "203953D4 0000001E"
+
+  - name: "Zone/Time Trial Open"
+    author: "InterAct"
+    codes:
+      - "20395D50 00000003"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0021317F"
+
+  - name: "Shields"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "202CC8EC 421C0000"
+
+  - name: "Credits"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20394E74 000F4240"
+
+  - name: "Extra Leagues"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "20394DFC 000007FF"

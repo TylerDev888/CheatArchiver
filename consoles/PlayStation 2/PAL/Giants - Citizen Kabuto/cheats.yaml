@@ -1,0 +1,28 @@
+# Giants - Citizen Kabuto cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50314
+
+game: "Giants - Citizen Kabuto"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50314"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F019C600 00226FDF"
+
+  - name: "Invincible"
+    author: "InterAct"
+    codes:
+      - "203073B8 00000003"
+
+  - name: "Invincible Main Character"
+    author: "Codejunkies"
+    codes:
+      - "201E921C 10000163"

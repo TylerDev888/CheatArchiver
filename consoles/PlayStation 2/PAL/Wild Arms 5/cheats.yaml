@@ -1,0 +1,62 @@
+# Wild Arms 5 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54972
+
+game: "Wild Arms 5"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54972"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Force Level MAX"
+    author: "luc-ita"
+    codes:
+      - "210448D8 42C80000"
+
+  - name: "Jump Higher (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "202BAC08 10000008"
+
+  - name: "Nodamage+1Hitkill"
+    author: "luc-ita"
+    codes:
+      - "2019A6F0 08028000"
+      - "200A0000 3421ACB4"
+      - "200A0004 0081D821"
+      - "200A0008 276103C0"
+      - "200A000C 8C210004"
+      - "200A0010 28210007"
+      - "200A0014 10200003"
+      - "200A001C 03E00008"
+      - "200A0024 27BDF7A0"
+      - "200A0028 080669BE"
+      - "200A002C 3C01000F"
+      - "2019C8B0 00000000"
+      - "2019C918 24020000"
+      - "2019D99C 00000000"
+
+  - name: "Take One Gella Or Win A Battle To Have Max Quantity"
+    author: "luc-ita"
+    codes:
+      - "2025EC64 00000000"
+
+  - name: "Walk At Double The Speed"
+    author: "luc-ita"
+    codes:
+      - "202B8F98 3C034140"
+      - "202B8FA0 44831800"
+
+  - name: "Walk At Quad The Speed"
+    author: "luc-ita"
+    codes:
+      - "202B8F98 3C0341C0"
+      - "202B8FA0 44831800"
+
+  - name: "Win A Battle To Reach The Max Level"
+    author: "luc-ita"
+    codes:
+      - "2025CFA8 00000000"

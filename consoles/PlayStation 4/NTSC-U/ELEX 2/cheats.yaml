@@ -1,0 +1,149 @@
+# ELEX 2 cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA28133
+
+game: "ELEX 2"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA28133"
+cheat_type: "AP"
+source: "source: save wizard discord"
+
+cheats:
+  - name: "Strength"
+    notes: "File: *"
+    codes:
+      - "80010004 C3366DD0"
+      - "08000004 00000064"
+      - "08000008 00000096"
+
+  - name: "Constitution"
+    notes: "File: *"
+    codes:
+      - "80010004 F46477A0"
+      - "08000004 00000064"
+      - "08000008 00000096"
+
+  - name: "Dexterity"
+    notes: "File: *"
+    codes:
+      - "80010004 B6C32B23"
+      - "08000004 00000064"
+      - "08000008 00000096"
+
+  - name: "Intelligence"
+    notes: "File: *"
+    codes:
+      - "80010004 270F26AB"
+      - "08000004 00000064"
+      - "08000008 00000096"
+
+  - name: "Cunning"
+    notes: "File: *"
+    codes:
+      - "80010004 862C907E"
+      - "08000004 00000064"
+      - "08000008 00000096"
+
+  - name: "Reset Exp"
+    notes: "File: *"
+    codes:
+      - "80010004 97FB34FE"
+      - "08000004 00000000"
+
+  - name: "Moral Balanced"
+    notes: "File: *"
+    codes:
+      - "80010004 D212605F"
+      - "08000000 00000032"
+
+  - name: "Moral Good"
+    notes: "File: *"
+    codes:
+      - "80010004 D212605F"
+      - "08000000 00000000"
+
+  - name: "Moral Bad"
+    notes: "File: *"
+    codes:
+      - "80010004 D212605F"
+      - "08000000 00000064"
+
+  - name: "Learning Points"
+    notes: "File: *"
+    codes:
+      - "80010004 FEDF6E3A"
+      - "18000004 000001F4"
+
+  - name: "Attribute Points"
+    notes: "File: *"
+    codes:
+      - "80010004 20BE5476"
+      - "18000004 000003E8"
+
+  - name: "Max Hp"
+    notes: "File: *"
+    codes:
+      - "80010004 2D35EE4A"
+      - "28000000 0001869F"
+
+  - name: "Current Hp"
+    notes: "File: *"
+    codes:
+      - "80010004 914AA11B"
+      - "28000000 0001869F"
+
+  - name: "Stamina"
+    notes: "File: *"
+    codes:
+      - "80010004 A2A7E203"
+      - "18000004 000003E8"
+
+  - name: "Level 1"
+    notes: "File: *"
+    codes:
+      - "80010004 8749DE4A"
+      - "08000004 00000001"
+
+  - name: "Level 20"
+    notes: "File: *  (jet pack upgrades)"
+    codes:
+      - "80010004 8749DE4A"
+      - "08000004 00000014"
+
+  - name: "Addional Tank"
+    notes: "File: *"
+    codes:
+      - "80010004 379A83B8"
+      - "08000004 00000001"
+
+  - name: "Floating"
+    notes: "File: *"
+    codes:
+      - "80010004 4618766E"
+      - "08000004 00000001"
+
+  - name: "Fuel Capacity"
+    notes: "File: *"
+    codes:
+      - "80010004 87107405"
+      - "08000004 00000032"
+
+  - name: "Maneuving Boosters"
+    notes: "File: *"
+    codes:
+      - "80010004 E74B436E"
+      - "08000004 00000001"
+
+  - name: "Retro Rockets"
+    notes: "File: *"
+    codes:
+      - "80010004 9F1AD473"
+      - "08000004 00000004"
+
+  - name: "Sprint Boosters"
+    notes: "File: *"
+    codes:
+      - "80010004 E2D7F156"
+      - "08000004 00000001"

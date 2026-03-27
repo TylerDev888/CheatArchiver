@@ -1,0 +1,24 @@
+# Eyetoy - Groove cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97400
+
+game: "Eyetoy - Groove"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97400"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9014D3B8 0C053496"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9015B574 0C0599BE"

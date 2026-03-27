@@ -1,0 +1,170 @@
+# Rainbow Moon (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00486
+
+game: "Rainbow Moon (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00486"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Rainbow Coins"
+    notes: "File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "20000104 3B9AC9FF"
+
+  - name: "Unlock All Characters"
+    notes: "File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "410163B0 00000101"
+
+  - name: "Reset Save Game Time"
+    notes: "File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "200000E5 00000000"
+
+  - name: "Baldren"
+    notes: "[Max Rainbow Pearl Points]  File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "20016714 3B9AC9FF"
+
+  - name: "Dozeru"
+    notes: "[Max Rainbow Pearl Points]  File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "200170AC 3B9AC9FF"
+
+  - name: "Gorodo"
+    notes: "[Max Rainbow Pearl Points]  File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "20017578 3B9AC9FF"
+
+  - name: "Serena"
+    notes: "[Max Rainbow Pearl Points]  File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "20017F10 3B9AC9FF"
+
+  - name: "Trisha"
+    notes: "[Max Rainbow Pearl Points]  File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "20016BE0 3B9AC9FF"
+
+  - name: "Zelorus"
+    notes: "[Max Rainbow Pearl Points]  File: NPEB00486-*\\DATA.DAT  (From Skiller, JoeMoney, and gvargas)"
+    codes:
+      - "20017A44 3B9AC9FF"
+
+  - name: "Unlock All Characters (alt)"
+    notes: "[Max Rainbow Pearl Points]  File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "410163B0 00000101"
+      - "400604CC 00000000"
+
+  - name: "Quick Level Up"
+    notes: "[Baldren]  File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "2001968C FFFFFFFF"
+
+  - name: "Lvl Cap 999"
+    notes: "[Baldren]  File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "10016812 000003E7"
+
+  - name: "Max Hp"
+    notes: "[Baldren]  File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "200163B4 0098967F"
+      - "200163BC 0098967F"
+      - "200163C4 0098967F"
+
+  - name: "Max Mp"
+    notes: "[Baldren]  File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "200163B8 0000270F"
+      - "200163C0 0000270F"
+      - "200163C8 0000270F"
+
+  - name: "Max Stats"
+    notes: "[Baldren]  File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "100163CC 0000270F"
+      - "100163CE 0000270F"
+      - "100163D0 0000270F"
+      - "100163D2 0000270F"
+      - "1001640C 0000270F"
+      - "1001640E 0000270F"
+      - "10016410 0000270F"
+      - "10016412 0000270F"
+
+  - name: "Recovery Items Capacity 255"
+    notes: "[Serena]  File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "00015957 000000FF"
+
+  - name: "Misc. Items Capacity 255"
+    notes: "[Serena]  File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "0001595B 000000FF"
+
+  - name: "Weapons Capacity 255"
+    notes: "[Serena]  File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "0001595F 000000FF"
+
+  - name: "Armor Capacity 255"
+    notes: "[Serena]  File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "00015963 000000FF"
+
+  - name: "Materials Capacity 255"
+    notes: "[Serena]  File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "00015967 000000FF"
+
+  - name: "Key Items Capacity 255"
+    notes: "[Serena]  File: NPEB00486-*\\DATA.DAT  (From krustytoe)"
+    codes:
+      - "0001596B 000000FF"
+
+  - name: "Shop Level Max(14)"
+    notes: "[Serena]  File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "0000010B 0000000E"
+
+  - name: "Baldren Max Skill Points"
+    notes: "[Serena]  File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "10016724 0000270F"
+      - "10016726 00000000"
+
+  - name: "Trisha Max Skill Points"
+    notes: "[Serena]  File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "10016BF0 0000270F"
+      - "10016BF2 00000000"
+
+  - name: "Dozeru Max Skill Points"
+    notes: "[Serena]  File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "100170BC 0000270F"
+      - "100170BE 00000000"
+
+  - name: "Gorodo Max Skill Points"
+    notes: "[Serena]  File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "10017588 0000270F"
+      - "1001758A 00000000"
+
+  - name: "Zelorus Max Skill Points"
+    notes: "[Serena]  File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "10017A54 0000270F"
+      - "10017A56 00000000"
+
+  - name: "Serena Max Skill Points"
+    notes: "[Serena]  File: NPEB00486-*\\DATA.DAT"
+    codes:
+      - "10017F20 0000270F"
+      - "10017F22 00000000"

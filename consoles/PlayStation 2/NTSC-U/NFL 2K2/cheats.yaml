@@ -1,0 +1,302 @@
+# NFL 2K2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20322
+
+game: "NFL 2K2"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20322"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0013B7FF"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9013B7FC 0C046385"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "00958FA8 0000????"
+      - "00964748 0000????"
+      - "00982C4C 0000????"
+      - "009836C8 0000????"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "00958FBC 0000????"
+      - "00964750 0000????"
+      - "00982C5C 0000????"
+      - "009836B4 0000????"
+
+  - name: "Home Team Infinite Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10958FAC 00000003"
+
+  - name: "Home Team No Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10958FAC 00000000"
+
+  - name: "Away Team Infinite Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10958FC0 00000003"
+
+  - name: "Away Team No Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10958FC0 00000000"
+
+  - name: "P1 Press L1+R1 For 1St Down"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E004F3FF 009374DA"
+      - "10959094 00000001"
+      - "10959098 00000001"
+      - "1095911C 00000001"
+      - "1095932C 00000001"
+
+  - name: "P1 Press L2+R2 For 4Th Down"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "E004FCFF 009374DA"
+      - "10959094 00000004"
+      - "10959098 00000004"
+      - "1095911C 00000004"
+      - "1095932C 00000004"
+
+  - name: "Always 1St Down"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10959094 00000001"
+      - "10959098 00000001"
+      - "1095911C 00000001"
+      - "1095932C 00000001"
+
+  - name: "Always 4Th Down"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10959094 00000004"
+      - "10959098 00000004"
+      - "1095911C 00000004"
+      - "1095932C 00000004"
+
+  - name: "P1 Press L1+L2 For More Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D09374DA 0000FAFF"
+      - "20958FE0 43960000"
+
+  - name: "P1 Press R1+R2 To End Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D09374DA 0000F5FF"
+      - "20958FE0 3F800000"
+
+  - name: "Start On 2Nd Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D09AF430 00000001"
+      - "109AF430 00000002"
+
+  - name: "Start On 3Rd Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D09AF430 00000001"
+      - "109AF430 00000003"
+
+  - name: "Start On 4Th Quarter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D09AF430 00000001"
+      - "109AF430 00000004"
+
+  - name: "Disable We Dont Feel This Is A Serious Offer Message"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "20309240 10000022"
+      - "20309244 24020001"
+
+  - name: "Disable Your Offer Has Been Declined But The Player Has A Counter Offer Message"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "20309274 10000015"
+      - "20309278 24020001"
+
+  - name: "Disable Your Offer Has Been Declined Message"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "20309294 1000000D"
+      - "20309298 24020001"
+
+  - name: "Disable Your Roster Is At Maximum Size Message"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "20309338 10000056"
+      - "2030933C 24020001"
+
+  - name: "Disable Cannot Re-Sign, The Cap Limit Has Been Reached Message"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "2030938C 10000041"
+      - "20309390 24020001"
+
+  - name: "Disable Only 1 Offer A Week Can Be Made To Each Player Message"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "203093CC 10000031"
+      - "203093D0 24020001"
+
+  - name: "Disable You Can Only Talk To Another Team About One Set Of Players A Week Message"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "2030BE2C 00000000"
+
+  - name: "Disable You Cant Trade Players Who Are About To Become Free Agents Message"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "1030BE86 00001000"
+
+  - name: "Disable You Cant Trade Players Who Are Injured Message"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "2030BEA4 10000026"
+      - "2030BEA8 24020001"
+
+  - name: "Disable This Trade Involved A Pick Promised In Another Trade Message"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "2030BFF0 00000000"
+      - "2030BFF4 00000000"
+      - "1030C01A 00001000"
+
+  - name: "Disable Cannot Trade, Other Team Would Be Over Cap Limit Message"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "1030C152 00001000"
+
+  - name: "Disable Cannot Trade, Your Team Would Be Over Cap Limit Message"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "1030C172 00001000"
+
+  - name: "Disable One Or More Players In Trade Have Become Injured Message"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "1030C28A 00001000"
+
+  - name: "Disable Your Team Would Have Too Many Players Message"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "1030C4E2 00001000"
+
+  - name: "Disable The Team You Are Trading To Would Have Too Many Players Message"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "1030C51A 00001000"
+
+  - name: "Disable You Must Keep 11 Players On Your Team Message"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "1030C53E 00001000"
+
+  - name: "Disable The Team You Are Trading To Is Getting Low On Players Message"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "1030C55E 00001000"
+
+  - name: "Disable You Can Only Make X Trade Offers To A Team Per Week Message"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "2030C7E4 100000A1"
+      - "2030C7E8 24020001"
+
+  - name: "Disable They Do Not Want To Lose X Right Now Message"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "1030C98E 00001000"
+
+  - name: "Disable Them Making A Counter Offer Message"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "2030CA20 10000012"
+      - "2030CA24 24020001"
+
+  - name: "Disable They Have Declined Your Trade Message"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "2030CA3C 1000000B"
+      - "2030CA40 24020001"
+
+  - name: "Trades Always Accepted"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "2030CABC 24020001"
+      - "1030CB76 00001000"
+
+  - name: "Disable Need 11 Healthy Players On Your Team Message"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "10310622 00001000"
+
+  - name: "Disable Cant Start Negotiations With Someone You Already Contacted This Week Message"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "1031124E 00001000"
+
+  - name: "Disable Your Signings Are Full, Not All Players Could Be Added Message"
+    author: "Code Master"
+    notes: "[Franchise Message Disable Codes [Note 1]]"
+    codes:
+      - "10311282 00001000"

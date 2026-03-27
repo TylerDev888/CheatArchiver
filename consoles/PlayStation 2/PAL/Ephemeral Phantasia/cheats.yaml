@@ -1,0 +1,32 @@
+# Ephemeral Phantasia cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Ephemeral Phantasia"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0200008 0020C617"
+
+  - name: "Mouse HP"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20660EDC 270F270F"
+      - "2044BB9C 270F270F"
+
+  - name: "Mouse MP"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "10660EDE 0000270F"
+      - "10660EE0 0000270F"
+      - "2044BBA0 270F270F"

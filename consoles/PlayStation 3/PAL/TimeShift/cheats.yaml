@@ -1,0 +1,20 @@
+# TimeShift cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00159
+
+game: "TimeShift"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00159"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Save.tss (required)"
+    notes: "File: SAVE.TSS  (set range:0x000004,0x0C97FF)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"

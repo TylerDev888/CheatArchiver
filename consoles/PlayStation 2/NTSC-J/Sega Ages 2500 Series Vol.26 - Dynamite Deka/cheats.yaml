@@ -1,0 +1,54 @@
+# Sega Ages 2500 Series Vol.26 - Dynamite Deka cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62717
+
+game: "Sega Ages 2500 Series Vol.26 - Dynamite Deka"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62717"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90145490 0C0514CC"
+
+  - name: "1Hitkill"
+    author: "luc-ita"
+    codes:
+      - "20231F64 00000000"
+
+  - name: "Infinite Ammo"
+    author: "luc-ita"
+    codes:
+      - "202509A0 00000000"
+      - "202509F0 00000000"
+
+  - name: "Re-Enable Debug Menus [View Note]"
+    author: "punk7890"
+    codes:
+      - "D0D42102 0000FBF7"
+      - "00217C7C 00000001"
+      - "D0D42102 0000FFFF"
+      - "00217C7C 00000002"
+      - "D0D42102 0000F3FF"
+      - "00208780 0000000E"
+      - "D0D42102 0000FFFF"
+      - "00208780 00000001"
+      - "D0D42102 0000FFFF"
+      - "0020821C 00000004"
+      - "D0D42102 0000FEF7"
+      - "0020821C 00000007"
+      - "D0D42102 0000F7F7"
+      - "0020821C 0000000A"
+
+  - name: "Untouchable"
+    author: "luc-ita"
+    codes:
+      - "2022EC54 10000045"
+      - "2022ED88 2402FFFF"
+      - "2022ED90 AE0200BC"

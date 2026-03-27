@@ -1,0 +1,30 @@
+# Magrunner_ Dark Pulse (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB01280
+
+game: "Magrunner_ Dark Pulse (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB01280"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Decompress Save (required)"
+    notes: "File: PAYLOAD"
+    codes:
+      - "Decompress(*, 15)"
+
+  - name: "Compress Save (required)"
+    notes: "File: PAYLOAD"
+    codes:
+      - "Compress(*)"
+
+  - name: "Update Sha1 For Payload (required)"
+    notes: "File: PAYLOAD  (set range:0x000018,0x002ED7)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000018,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x000000:[hash]"

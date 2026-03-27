@@ -1,0 +1,30 @@
+# Space Invaders Anniversary cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Space Invaders Anniversary"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9013A484 0C04AF4E"
+
+  - name: "Unlimited Lives"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20154DAC 000000FF"
+
+  - name: "Maximum Power Up"
+    author: "Xploder"
+    notes: "[3D]"
+    codes:
+      - "2016A574 24030003"
+      - "2016A57C AE030010"

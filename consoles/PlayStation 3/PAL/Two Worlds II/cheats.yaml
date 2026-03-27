@@ -1,0 +1,58 @@
+# Two Worlds II cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00845
+
+game: "Two Worlds II"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00845"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Decompress Save (required)"
+    notes: "File: BLES00845_SAVE_*\\SAVE"
+    codes:
+      - "Decompress(0x00000000, 15)"
+
+  - name: "Max Money(aura)"
+    notes: "[Codes By Shaka]  File: ~extracted\\00000000.dat"
+    codes:
+      - "search \"CHero_Store_2\""
+      - "write next 0x35:0xFFE0F505"
+
+  - name: "Attribute Points& Skills"
+    notes: "[Codes By Shaka]  File: ~extracted\\00000000.dat"
+    codes:
+      - "search \"CHero_Store_2\""
+      - "write next 0x23:0xFF7FFF7F"
+
+  - name: "Level 19 For Trophy"
+    notes: "[Level(choose One)]  File: ~extracted\\00000000.dat"
+    codes:
+      - "search \"CHero_Store_2\""
+      - "write next 0x13:0x31"
+
+  - name: "Level 39 For Trophy"
+    notes: "[Level(choose One)]  File: ~extracted\\00000000.dat"
+    codes:
+      - "search \"CHero_Store_2\""
+      - "write next 0x13:0x72"
+
+  - name: "Level 32767"
+    notes: "[Level(choose One)]  File: ~extracted\\00000000.dat"
+    codes:
+      - "search \"CHero_Store_2\""
+      - "write next 0x13:0xFF7F"
+
+  - name: "Max Aura(by Gg)"
+    notes: "[Level(choose One)]  File: ~extracted\\00000000.dat"
+    codes:
+      - "search \"CHero_Store_2\""
+      - "write next 0x35:0xFFE0F505"
+
+  - name: "Compress Save (required)"
+    notes: "[Level(choose One)]  File: SAVE"
+    codes:
+      - "Compress(0x00000000)"

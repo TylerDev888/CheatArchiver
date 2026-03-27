@@ -1,0 +1,56 @@
+# Silpheed Lost Planet cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20085
+
+game: "Silpheed Lost Planet"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20085"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0137B00 00266B0B"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0120008 00266B0B"
+
+  - name: "All Weapons"
+    author: "InterAct"
+    codes:
+      - "102BF52C 0000FFFF"
+
+  - name: "Have All Weapons"
+    author: "Code Master"
+    codes:
+      - "202BF52C FFFFFFFF"
+
+  - name: "Infinite Shield"
+    author: "InterAct"
+    codes:
+      - "002BF4D4 0000000A"
+
+  - name: "Infinite Shields"
+    author: "Code Master"
+    codes:
+      - "102BF4D4 0000000A"
+
+  - name: "Max Score"
+    author: "Code Master"
+    codes:
+      - "21F41C00 05F5E0FF"
+      - "21F41C08 05F5E0FF"
+
+  - name: "Quick Score Gain"
+    author: "Code Master"
+    codes:
+      - "11F41C00 0000FFFF"
+      - "11F41C08 0000FFFF"

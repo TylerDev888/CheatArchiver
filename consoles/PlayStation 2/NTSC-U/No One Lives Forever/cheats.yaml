@@ -1,0 +1,56 @@
+# No One Lives Forever cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20028
+
+game: "No One Lives Forever"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20028"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 002ADB1F"
+
+  - name: "Idiot AI"
+    author: "Code Master"
+    codes:
+      - "2012AFD0 03E00008"
+      - "2012AFD4 00000000"
+
+  - name: "Infinite Ammo"
+    author: "Code Master"
+    codes:
+      - "2013C4F8 00000000"
+      - "2017C194 00000000"
+
+  - name: "Infinite Ammo & Never Reload"
+    author: "Code Master"
+    codes:
+      - "2013C4F8 00000000"
+      - "2017C194 00000000"
+      - "20176C58 00000000"
+
+  - name: "Infinite Armor"
+    author: "Code Master"
+    codes:
+      - "2013C5D8 3C0142C8"
+      - "2013C5E0 AEA1033C"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    codes:
+      - "2013C520 3C0142C8"
+      - "2013C528 AEA10334"
+
+  - name: "Walk Thru Openable Doors"
+    author: "Code Master"
+    codes:
+      - "2012E650 00000000"
+      - "2012E654 00000000"
+      - "2012E658 1000000C"

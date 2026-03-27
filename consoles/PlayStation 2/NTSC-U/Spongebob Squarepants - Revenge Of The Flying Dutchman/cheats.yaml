@@ -1,0 +1,42 @@
+# Spongebob Squarepants - Revenge Of The Flying Dutchman cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20425
+
+game: "Spongebob Squarepants - Revenge Of The Flying Dutchman"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20425"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F033919C 0033919F"
+
+  - name: "All Coins Reappear"
+    author: "Codejunkies"
+    codes:
+      - "40ADC950 00200001"
+      - "01010101 00000000"
+
+  - name: "Have Tons Of Coins"
+    author: "Codejunkies"
+    codes:
+      - "10ADF738 000003E7"
+
+  - name: "Have Tons Of Health"
+    author: "Codejunkies"
+    codes:
+      - "10ADE594 00000063"
+
+  - name: "Super Jump"
+    author: "InterAct"
+    codes:
+      - "D04FA3C2 0000BFFF"
+      - "204BA434 3D400000"
+      - "D04FA3C2 0010BFFF"
+      - "204BA434 00000000"

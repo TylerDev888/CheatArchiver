@@ -1,0 +1,29 @@
+# WDL_ Thunder Tanks cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "WDL_ Thunder Tanks"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100040 001B70FB"
+
+  - name: "Unlimited Health"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "00271260 68092801"
+
+  - name: "Unlock All Weapons"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "00271264 68092801"

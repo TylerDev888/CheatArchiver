@@ -1,0 +1,24 @@
+# Formula One 06 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Formula One 06"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9027537C 0C0BA478"
+
+  - name: "Infinite Fuel"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "202465B8 3C0742C8"
+      - "202465BC AC6708E8"

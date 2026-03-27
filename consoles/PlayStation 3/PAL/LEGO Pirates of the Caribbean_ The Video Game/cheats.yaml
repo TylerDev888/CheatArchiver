@@ -1,0 +1,21 @@
+# LEGO Pirates of the Caribbean_ The Video Game cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01239
+
+game: "LEGO Pirates of the Caribbean_ The Video Game"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01239"
+cheat_type: "Save Editor"
+source: "by bucanero"
+
+cheats:
+  - name: "Update Checksum For Game1 (required)"
+    notes: "File: GAME1"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x10,pointer"
+      - "set [hash]:fnv1:0xFFFFFFFF"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x000C:[hash]"

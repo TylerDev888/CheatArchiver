@@ -1,0 +1,26 @@
+# Lilie No Atelier Plus - Salburg No Renkinjutsushi 3 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65116
+
+game: "Lilie No Atelier Plus - Salburg No Renkinjutsushi 3"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65116"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9026BFD8 0C09AF9E"
+
+  - name: "Hold Start Button When Opening Movie Is Playing For Debug Menu"
+    author: "punk7890"
+    codes:
+      - "D08BEF90 0000FFF7"
+      - "201E20EC 08097A2C"
+      - "D08BEF90 0000FFFF"
+      - "201E20EC 080789FA"

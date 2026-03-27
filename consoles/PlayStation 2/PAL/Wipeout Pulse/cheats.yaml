@@ -1,0 +1,46 @@
+# Wipeout Pulse cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-54748
+
+game: "Wipeout Pulse"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-54748"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must On Be)"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "90241C68 00431021"
+
+  - name: "Enable Code (Must On Be) Alt."
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "9023ADC0 0C08EB18"
+
+  - name: "Auto Drive"
+    author: "luc-ita"
+    codes:
+      - "20150064 10000007"
+
+  - name: "Opponents Don't Move"
+    author: "luc-ita"
+    codes:
+      - "2015E344 00000000"
+
+  - name: "P1 Inf Energy"
+    author: "lee4"
+    codes:
+      - "602E0CD8 43480000"
+      - "00020001 00000118"
+
+  - name: "P1 Inf Energy Alt."
+    author: "lee4"
+    codes:
+      - "602E24F0 43480000"
+      - "00020001 00000118"

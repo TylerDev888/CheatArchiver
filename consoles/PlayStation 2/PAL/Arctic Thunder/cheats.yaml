@@ -1,0 +1,88 @@
+# Arctic Thunder cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50274
+
+game: "Arctic Thunder"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50274"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01DA524 001D8FEF"
+
+  - name: "All Gold Medals"
+    author: "InterAct"
+    codes:
+      - "2022EEC0 FFFFFFFF"
+      - "2022EEBC FFFFFFFF"
+      - "2022EEB8 FFFFFFFF"
+      - "2022EEB4 FFFFFFFF"
+      - "2022EEB0 FFFFFFFF"
+      - "2022EEAC FFFFFFFF"
+      - "2022EEA8 FFFFFFFF"
+      - "2022EEA4 FFFFFFFF"
+      - "2022EEA0 FFFFFFFF"
+      - "2022EEC4 FFFFFFFF"
+      - "2022EEC8 FFFFFFFF"
+      - "2022EECC FFFFFFFF"
+
+  - name: "Monster Points"
+    author: "InterAct"
+    codes:
+      - "1029AB50 0000FFFF"
+      - "1029AB52 00000FFF"
+
+  - name: "Dead On The Line"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "2029AD78 00003F80"
+
+  - name: "Outrageous Speed"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "2029AD78 41400000"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F01D7160 001D8FEF"
+
+  - name: "Lost Himalayan City"
+    author: "Xploder"
+    notes: "[Gold Medal]"
+    codes:
+      - "2022EEB0 00000001"
+
+  - name: "Chernobyl Meltdown"
+    author: "Xploder"
+    notes: "[Gold Medal]"
+    codes:
+      - "2022EEAC 00000001"
+
+  - name: "Blizzard In DC"
+    author: "Xploder"
+    notes: "[Gold Medal]"
+    codes:
+      - "2022EEA0 00000001"
+
+  - name: "Swiss Alps"
+    author: "Xploder"
+    notes: "[Gold Medal]"
+    codes:
+      - "2022EEA4 00000001"
+
+  - name: "Haunted Forest"
+    author: "Xploder"
+    notes: "[Gold Medal]"
+    codes:
+      - "2022EEBC 00000001"

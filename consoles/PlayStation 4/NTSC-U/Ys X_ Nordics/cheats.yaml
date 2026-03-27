@@ -1,0 +1,68 @@
+# Ys X_ Nordics cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA47529
+
+game: "Ys X_ Nordics"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA47529"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Replace Item"
+    notes: "[Item Codes]  File: save[0-9]+\\user.dat"
+    codes:
+      - "80010003 6D617000"
+      - "88010004 [ITD<*REVERSE>]0000"
+      - "18000000 0000[ITD<ChangeTO>]"
+
+  - name: "Alternate Item Replace Code"
+    notes: "[Item Codes]  File: save[0-9]+\\user.dat"
+    codes:
+      - "80010008 [ITD<*REVERSE>]0000"
+      - "[Amount:0000:HEX:LITTLE]0000 00000000"
+      - "18000000 0000[ITD<ChangeTO>]"
+
+  - name: "Item Quantity"
+    notes: "[Item Codes]  File: save[0-9]+\\user.dat"
+    codes:
+      - "80010008 [ITD<REVERSE>]0000"
+      - "[Amount:0000:HEX:LITTLE<CURRENT>]0000 00000000"
+      - "18000004 0000[Amount:00:HEX:BIG<WANT>]"
+
+  - name: "Strength"
+    notes: "[Adol]  File: save[0-9]+\\user.dat"
+    codes:
+      - "8001000A 0000C842"
+      - "[Amount:00:HEX:BIG<Current Karja level>]000000 00000000"
+      - "28000124 [Amount:447A0000:FLOAT:BIG]"
+
+  - name: "Break"
+    notes: "[Adol]  File: save[0-9]+\\user.dat"
+    codes:
+      - "8001000A 0000C842"
+      - "[Amount:00:HEX:BIG<Current Karja level>]000000 00000000"
+      - "28000128 [Amount:447A0000:FLOAT:BIG]"
+
+  - name: "Defence"
+    notes: "[Adol]  File: save[0-9]+\\user.dat"
+    codes:
+      - "8001000A 0000C842"
+      - "[Amount:00:HEX:BIG<Current Karja level>]000000 00000000"
+      - "2800012C [Amount:447A0000:FLOAT:BIG]"
+
+  - name: "Vitality"
+    notes: "[Adol]  File: save[0-9]+\\user.dat"
+    codes:
+      - "8001000A 0000C842"
+      - "[Amount:00:HEX:BIG<Current Karja level>]000000 00000000"
+      - "28000130 [Amount:447A0000:FLOAT:BIG]"
+
+  - name: "Luck"
+    notes: "[Adol]  File: save[0-9]+\\user.dat"
+    codes:
+      - "8001000A 0000C842"
+      - "[Amount:00:HEX:BIG<Current Karja level>]000000 00000000"
+      - "28000134 [Amount:447A0000:FLOAT:BIG]"

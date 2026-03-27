@@ -1,0 +1,87 @@
+# Need For Speed Undercover cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21801
+
+game: "Need For Speed Undercover"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21801"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "905766E8 0C15D962"
+      - "200A0000 3C010064"
+      - "200A0004 8C217080"
+      - "200A0008 1020001B"
+      - "200A0010 8C210000"
+      - "200A007C 03E00008"
+      - "20576BBC 08028000"
+
+  - name: "Player 2 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "00AB7182 0000[Joker:PS2]"
+
+  - name: "Player 2 Controller (normal)"
+    notes: "[Jokers]"
+    codes:
+      - "00AB7158 0000[Joker:PS2]"
+
+  - name: "Max/Inf Money"
+    codes:
+      - "200A0018 3C0205F5"
+      - "200A001C 3442E0FF"
+      - "200A0020 AC22004C"
+
+  - name: "High Rank"
+    codes:
+      - "200A0018 3C0205F5"
+      - "200A001C 3442E0FF"
+      - "200A0024 AC220050"
+
+  - name: "Max Money (memory Testing)"
+    codes:
+      - "20AB3778 05F5E0FF"
+
+  - name: "Buying Parts Doesnt Decrease Cash"
+    codes:
+      - "2060C298 24060000"
+      - "2060C2B8 24060000"
+
+  - name: "Buying Parts Increases Cash"
+    codes:
+      - "2060C298 0220302D"
+      - "2060C2B8 0220302D"
+
+  - name: "Infinite Nos Usage"
+    codes:
+      - "20416178 00000000"
+
+  - name: "Freeze Timers"
+    codes:
+      - "20459B2C 00000000"
+
+  - name: "Infinite Speedbreaker"
+    codes:
+      - "2045B6F8 00000000"
+
+  - name: "Open All Parts/Cars/Races/Challenges**not Saveable"
+    codes:
+      - "00690594 00000001"
+
+  - name: "Idiot Racer Ai"
+    codes:
+      - "20148E7C 1000000D"
+
+  - name: "Disable Traffic & Cop Ai"
+    codes:
+      - "201376BC 10000011"
+
+  - name: "No Racers"
+    codes:
+      - "20368A74 24020000"

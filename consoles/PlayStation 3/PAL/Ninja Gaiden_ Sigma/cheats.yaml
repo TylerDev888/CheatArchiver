@@ -1,0 +1,44 @@
+# Ninja Gaiden_ Sigma cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00072
+
+game: "Ninja Gaiden_ Sigma"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00072"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Health"
+    notes: "File: BLES00072SAVEPOINT-*\\SAVEDATA.DAT"
+    codes:
+      - "20037A70 0C800C80"
+      - "10037A74 00000C80"
+      - "10037A84 00000C80"
+
+  - name: "Max Magic"
+    notes: "File: BLES00072SAVEPOINT-*\\SAVEDATA.DAT"
+    codes:
+      - "20037A94 0C800C80"
+
+  - name: "Max Essence"
+    notes: "File: BLES00072SAVEPOINT-*\\SAVEDATA.DAT"
+    codes:
+      - "20037E60 05F5E0FF"
+
+  - name: "Max Karma"
+    notes: "File: BLES00072SAVEPOINT-*\\SAVEDATA.DAT"
+    codes:
+      - "20037DFC 3B9AC9FF"
+
+  - name: "Reset Game Save Time"
+    notes: "File: BLES00072SAVEPOINT-*\\SAVEDATA.DAT"
+    codes:
+      - "20037A9C 00000000"
+
+  - name: "Max Game Time"
+    notes: "File: BLES00072SAVEPOINT-*\\SAVEDATA.DAT"
+    codes:
+      - "20037A9C 84000000"

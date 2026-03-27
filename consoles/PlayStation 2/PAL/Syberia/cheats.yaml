@@ -1,0 +1,31 @@
+# Syberia cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51393
+
+game: "Syberia"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51393"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "901428F8 0C0509E6"
+
+  - name: "Pal2ntsc"
+    author: "lee4"
+    codes:
+      - "2013FEE0 34050002"
+      - "2013FEE4 24030002"
+      - "2013FEE8 0000000C"
+      - "2013FEEC 03E00008"
+
+  - name: "Y-Fix (FMV)"
+    author: "lee4"
+    codes:
+      - "00136448 00000000"

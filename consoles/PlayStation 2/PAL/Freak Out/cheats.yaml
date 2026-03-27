@@ -1,0 +1,29 @@
+# Freak Out cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50310
+
+game: "Freak Out"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50310"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F011F614 000001FD"
+
+  - name: "Always Have 10 Points"
+    author: "InterAct"
+    codes:
+      - "106AF498 0000000A"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0010D3DF"

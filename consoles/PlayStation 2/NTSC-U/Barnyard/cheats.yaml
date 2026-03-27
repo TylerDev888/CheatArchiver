@@ -1,0 +1,79 @@
+# Barnyard cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21277
+
+game: "Barnyard"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21277"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F04B2344 004B2347"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "904B2470 00832021"
+
+  - name: "All Extras Unlocked"
+    author: "Codejunkies"
+    codes:
+      - "20C615BC FFFFFFFF"
+      - "20C615E4 FFFFFFFF"
+
+  - name: "Infinite Milk Ammo"
+    author: "Codejunkies"
+    codes:
+      - "20421084 00000000"
+      - "20421088 00000000"
+
+  - name: "Infinite Stamina-Running"
+    author: "Codejunkies"
+    codes:
+      - "20EA25EC 40A00000"
+
+  - name: "Infinite Milk Supply"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "20421088 00000000"
+
+  - name: "Infinite Stamina"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "20EA25EC 00000000"
+
+  - name: "Max Gopher Bucks"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "20EA25E0 0000270F"
+      - "20EA25E4 0000270F"
+
+  - name: "Unlock All Bonus/Antics"
+    author: "Code Master"
+    notes: "[MISC]"
+    codes:
+      - "20C615BC FFFFFFFF"
+
+  - name: "In Antics Play As[MOD1]"
+    author: "Lucas Souza LX"
+    notes: "[Skin Modifier Codes]"
+    codes:
+      - "213C7424 000000??"
+      - "213C7254 000000??"
+
+  - name: "Start A New Game To Play As[MOD1]"
+    author: "Lucas Souza LX"
+    notes: "[Skin Modifier Codes]"
+    codes:
+      - "21A57520 000000??"

@@ -1,0 +1,70 @@
+# Grimgrimoire cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54897
+
+game: "Grimgrimoire"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54897"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Create Talismans Even Without Mana"
+    author: "luc-ita"
+    codes:
+      - "20199008 10000008"
+
+  - name: "Godmode+1Hitkill"
+    author: "luc-ita"
+    codes:
+      - "2019CFB4 92010004"
+      - "2019CFBC 86030006"
+      - "2019CFC8 10200003"
+
+  - name: "Instant Dragon Incubation"
+    author: "luc-ita"
+    codes:
+      - "201EA5DC 00000000"
+
+  - name: "Instant Level Up"
+    author: "luc-ita"
+    codes:
+      - "201C5ADC 24030000"
+
+  - name: "Instant Summon Of Grimoires And Sanctuaries"
+    author: "luc-ita"
+    codes:
+      - "201941C0 24030000"
+      - "201C6678 00000000"
+      - "2019432C 00000000"
+      - "201E07EC 00000000"
+
+  - name: "Instant Summon Of Units And Talismans"
+    author: "luc-ita"
+    codes:
+      - "201C229C 24020000"
+      - "201940AC 24030000"
+      - "201DE610 00000000"
+
+  - name: "Level Up Even Without Mana"
+    author: "luc-ita"
+    codes:
+      - "201B00D0 00000000"
+
+  - name: "Mps Recharge Very Quickly"
+    author: "luc-ita"
+    codes:
+      - "2019AF98 00000000"
+
+  - name: "Summon Units And Grimoire Even Without Mana"
+    author: "luc-ita"
+    codes:
+      - "201B007C 00000000"
+
+  - name: "Unlimited Unit Creation"
+    author: "luc-ita"
+    codes:
+      - "201A4C10 10000003"
+      - "201A4D28 10000003"

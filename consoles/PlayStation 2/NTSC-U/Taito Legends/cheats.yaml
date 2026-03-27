@@ -1,0 +1,1053 @@
+# Taito Legends cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21122
+
+game: "Taito Legends"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21122"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "902EEE90 0C0BBB4C"
+
+  - name: "Player 1 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "D0713F02 0000[Joker:PS2]"
+
+  - name: "Bubble Bobble Activator (MUST BE ON)"
+    notes: "File: Bubble Bobble"
+    codes:
+      - "200A0000 340AE366"
+      - "200A0008 15440003"
+      - "200A0010 3C0A200A"
+      - "200A0014 AD420024"
+      - "200A001C 03E00008"
+      - "200A0030 3C01200A"
+      - "200A0034 8C210024"
+      - "200A0038 102000AF"
+      - "200A0040 8C210000"
+      - "200A0044 3402E000"
+      - "200A0048 00410820"
+      - "200A0050 24020009"
+      - "200A0058 24020006"
+      - "200A0064 24020077"
+      - "200A00C0 2402003F"
+      - "200A00D4 24020001"
+      - "200A0128 24020005"
+      - "200A02FC 03E00008"
+      - "201E9854 08028000"
+      - "D0713F02 0000FFEE"
+      - "202EF364 0802800C"
+      - "D0713F02 0000FFBE"
+      - "202EF364 03E00008"
+
+  - name: "Infinite Credits"
+    notes: "[Bubble Bobble Codes:{Activator MUST BE ON}]  File: Bubble Bobble"
+    codes:
+      - "200A0054 A0220366"
+
+  - name: "Infinite Lives"
+    notes: "[Player 1]  File: Bubble Bobble"
+    codes:
+      - "200A005C A0220645"
+
+  - name: "Invincibility"
+    notes: "[Player 1]  File: Bubble Bobble"
+    codes:
+      - "200A0068 A02206B6"
+
+  - name: "Speed Mod"
+    notes: "[Player 1]  File: Bubble Bobble"
+    codes:
+      - "200A0070 2402[SPE]"
+      - "200A0074 A02206C1"
+
+  - name: "Fire Speed Mod"
+    notes: "[Player 1]  File: Bubble Bobble"
+    codes:
+      - "200A0080 2402[FSE]"
+      - "200A0084 A02206BF"
+
+  - name: "Bubble Range Mod"
+    notes: "[Player 1]  File: Bubble Bobble"
+    codes:
+      - "200A0090 2402[BRM]"
+      - "200A0094 A02206C2"
+
+  - name: "Head Power Mod"
+    notes: "[Player 1]  File: Bubble Bobble"
+    codes:
+      - "200A00A0 2402[HPM]"
+      - "200A00A4 A02206C0"
+
+  - name: "Bubbles Or Lightning"
+    notes: "[Player 1]  File: Bubble Bobble"
+    codes:
+      - "200A00B0 2402[Amount:0000:HEX:BIG<0-Bubbles,1-Lightning>]"
+      - "200A00B4 A022160F"
+
+  - name: "Get Extend"
+    notes: "[Player 1]  File: Bubble Bobble"
+    codes:
+      - "200A00C4 A0220742"
+
+  - name: "Never Get Extend"
+    notes: "[Player 1]  File: Bubble Bobble"
+    codes:
+      - "200A00CC A0200742"
+
+  - name: "Super Mode"
+    notes: "File: Bubble Bobble"
+    codes:
+      - "200A00D8 A02205DB"
+
+  - name: "Original Mode"
+    notes: "File: Bubble Bobble"
+    codes:
+      - "200A00DC A02205D1"
+
+  - name: "Power-Up Mode"
+    notes: "File: Bubble Bobble"
+    codes:
+      - "200A00E0 A02205D2"
+
+  - name: "Always Get Bonus Doors"
+    notes: "File: Bubble Bobble"
+    codes:
+      - "200A00E4 A0220613"
+
+  - name: "Constant Extend Letters"
+    notes: "File: Bubble Bobble"
+    codes:
+      - "200A00E8 A0220676"
+
+  - name: "Always Warn (bell Item)"
+    notes: "File: Bubble Bobble"
+    codes:
+      - "200A00EC A0220603"
+
+  - name: "Coke Can Item"
+    notes: "File: Bubble Bobble"
+    codes:
+      - "200A00F0 A0220608"
+
+  - name: "Fireball Bubble Occurence Always"
+    notes: "File: Bubble Bobble"
+    codes:
+      - "200A00F4 A0220E30"
+
+  - name: "Super Mode Off"
+    notes: "File: Bubble Bobble"
+    codes:
+      - "200A00F8 A02005DB"
+
+  - name: "Original Mode Off"
+    notes: "File: Bubble Bobble"
+    codes:
+      - "200A00FC A02005D1"
+
+  - name: "Power-Up Mode Off"
+    notes: "File: Bubble Bobble"
+    codes:
+      - "200A0100 A02005D2"
+
+  - name: "Never Get Bonus Doors"
+    notes: "File: Bubble Bobble"
+    codes:
+      - "200A0104 A0200613"
+
+  - name: "Never Extend Letters"
+    notes: "File: Bubble Bobble"
+    codes:
+      - "200A0108 A0200676"
+
+  - name: "Never Warn (bell Item)"
+    notes: "File: Bubble Bobble"
+    codes:
+      - "200A010C A0200603"
+
+  - name: "Never Coke Can Item"
+    notes: "File: Bubble Bobble"
+    codes:
+      - "200A0110 A0200608"
+
+  - name: "Fireball Bubble Occurence Never"
+    notes: "File: Bubble Bobble"
+    codes:
+      - "200A0114 A0200E30"
+
+  - name: "Drown 'em All! Now!"
+    notes: "File: Bubble Bobble"
+    codes:
+      - "200A0118 A0221590"
+
+  - name: "Throw The Book At Them Now!"
+    notes: "File: Bubble Bobble"
+    codes:
+      - "200A011C A0220720"
+
+  - name: "Quick Fruit At Start"
+    notes: "File: Bubble Bobble"
+    codes:
+      - "200A0120 A022144D"
+
+  - name: "Lipstick"
+    notes: "File: Bubble Bobble"
+    codes:
+      - "200A0124 A022060A"
+
+  - name: "Stop The Barron"
+    notes: "File: Bubble Bobble"
+    codes:
+      - "200A012C A0220345"
+
+  - name: "1st Item Mod"
+    notes: "File: Bubble Bobble"
+    codes:
+      - "200A0130 2402[1TE]"
+      - "200A0134 A022144C"
+
+  - name: "2nd Item Mod"
+    notes: "File: Bubble Bobble"
+    codes:
+      - "200A0138 2402[2TE]"
+      - "200A013C A022145E"
+
+  - name: "Battle Shark Activator (MUST BE ON)"
+    notes: "File: Battle Shark"
+    codes:
+      - "200A0000 3C0A0010"
+      - "200A0004 354A793E"
+      - "200A0008 15430003"
+      - "200A0010 3C0A200A"
+      - "200A0014 AD440024"
+      - "200A001C 03E00008"
+      - "200A0030 3C01200A"
+      - "200A0034 8C210024"
+      - "200A0038 102000AF"
+      - "200A0040 8C210000"
+      - "200A0044 3C020010"
+      - "200A0048 34427000"
+      - "200A004C 00410820"
+      - "200A0050 24020009"
+      - "200A0058 24020010"
+      - "200A02FC 03E00008"
+      - "201E9980 00624021"
+      - "201E9984 08028000"
+      - "201E9988 A5050000"
+      - "D0713F02 0000FFEE"
+      - "202EF364 0802800C"
+      - "D0713F02 0000FFBE"
+      - "202EF364 03E00008"
+
+  - name: "Inf Credits"
+    notes: "[Battle Shark Codes:{Activator MUST BE ON}]  File: Battle Shark"
+    codes:
+      - "200A0054 A422093E"
+
+  - name: "Infinite Torpedos"
+    notes: "[Battle Shark Codes:{Activator MUST BE ON}]  File: Battle Shark"
+    codes:
+      - "200A005C A0226E35"
+
+  - name: "Inf HP"
+    notes: "[Battle Shark Codes:{Activator MUST BE ON}]  File: Battle Shark"
+    codes:
+      - "200A0060 A0206D88"
+
+  - name: "Continental Circus Activator (MUST BE ON)"
+    notes: "File: Continental Circus"
+    codes:
+      - "200A0000 3C0A0008"
+      - "200A0004 354A273E"
+      - "200A0008 15430003"
+      - "200A0010 3C0A200A"
+      - "200A0014 AD440024"
+      - "200A001C 03E00008"
+      - "200A0030 3C01200A"
+      - "200A0034 8C210024"
+      - "200A0038 102000AF"
+      - "200A0040 8C210000"
+      - "200A0044 3C020008"
+      - "200A0048 34422700"
+      - "200A004C 00410820"
+      - "200A0050 24020009"
+      - "200A02FC 03E00008"
+      - "201E9980 00624021"
+      - "201E9984 08028000"
+      - "201E9988 A5050000"
+      - "D0713F02 0000FFEE"
+      - "202EF364 0802800C"
+      - "D0713F02 0000FFBE"
+      - "202EF364 03E00008"
+
+  - name: "Colony 7 Activator (MUST BE ON)"
+    notes: "File: Colony 7"
+    codes:
+      - "200A0000 340AA012"
+      - "200A0008 15440003"
+      - "200A0010 3C0A200A"
+      - "200A0014 AD420024"
+      - "200A001C 03E00008"
+      - "200A0030 3C01200A"
+      - "200A0034 8C210024"
+      - "200A0038 102000AF"
+      - "200A0040 8C210000"
+      - "200A0044 3402A000"
+      - "200A0048 00410820"
+      - "200A0050 24020099"
+      - "200A0058 24020002"
+      - "200A0060 24020001"
+      - "200A02FC 03E00008"
+      - "201E9854 08028000"
+      - "D0713F02 0000FFEE"
+      - "202EF364 0802800C"
+      - "D0713F02 0000FFBE"
+      - "202EF364 03E00008"
+
+  - name: "Keep Shooting After Gun Loss"
+    notes: "[Colony 7 Codes:{Activator MUST BE ON}]  File: Colony 7"
+    codes:
+      - "200A005C A0220073"
+
+  - name: "Only A Few Fighters To Kill"
+    notes: "[Colony 7 Codes:{Activator MUST BE ON}]  File: Colony 7"
+    codes:
+      - "200A0064 A0220020"
+
+  - name: "Infinite Scatter Shots"
+    notes: "[Colony 7 Codes:{Activator MUST BE ON}]  File: Colony 7"
+    codes:
+      - "200A006C A020007F"
+
+  - name: "Infinite Smart Bombs/Eradicator"
+    notes: "[Colony 7 Codes:{Activator MUST BE ON}]  File: Colony 7"
+    codes:
+      - "200A0070 A0200082"
+
+  - name: "Infinite City"
+    notes: "[Colony 7 Codes:{Activator MUST BE ON}]  File: Colony 7"
+    codes:
+      - "200A0074 A020007C"
+
+  - name: "Elevator Action Activator (MUST BE ON)"
+    notes: "File: Elevator Action"
+    codes:
+      - "200A0000 340A8234"
+      - "200A0008 15440003"
+      - "200A0010 3C0A200A"
+      - "200A0014 AD420024"
+      - "200A001C 03E00008"
+      - "200A0030 3C01200A"
+      - "200A0034 8C210024"
+      - "200A0038 102000AF"
+      - "200A0040 8C210000"
+      - "200A0044 34028200"
+      - "200A0048 00410820"
+      - "200A0050 24020014"
+      - "200A005C 240200FF"
+      - "200A0064 24020008"
+      - "200A00E0 24020004"
+      - "200A02FC 03E00008"
+      - "201E9854 08028000"
+      - "D0713F02 0000FFEE"
+      - "202EF364 0802800C"
+      - "D0713F02 0000FFBE"
+      - "202EF364 03E00008"
+
+  - name: "Inf Lives"
+    notes: "[Elevator Action Codes:{Activator MUST BE ON}]  File: Elevator Action"
+    codes:
+      - "200A0054 A0220034"
+
+  - name: "Invincable (needs Jokering)"
+    notes: "[Elevator Action Codes:{Activator MUST BE ON}]  File: Elevator Action"
+    codes:
+      - "200A0058 A0200323"
+
+  - name: "Lamps Never Fall"
+    notes: "[Elevator Action Codes:{Activator MUST BE ON}]  File: Elevator Action"
+    codes:
+      - "200A0060 A0220040"
+
+  - name: "Level 5"
+    notes: "[Elevator Action Codes:{Activator MUST BE ON}]  File: Elevator Action"
+    codes:
+      - "200A00E4 A0220037"
+
+  - name: "Always No Red Door On All Floors"
+    notes: "[Always No Red Door On]  File: Elevator Action"
+    codes:
+      - "400A0068 001E0001"
+      - "A0220011 00000001"
+
+  - name: "Floor 1"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A0068 A0220011"
+
+  - name: "Floor 2"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A006C A0220012"
+
+  - name: "Floor 3"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A0070 A0220013"
+
+  - name: "Floor 4"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A0074 A0220014"
+
+  - name: "Floor 5"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A0078 A0220015"
+
+  - name: "Floor 6"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A007C A0220016"
+
+  - name: "Floor 7"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A0080 A0220017"
+
+  - name: "Floor 8"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A0084 A0220018"
+
+  - name: "Floor 9"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A0088 A0220019"
+
+  - name: "Floor 10"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A008C A022001A"
+
+  - name: "Floor 11"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A0090 A022001B"
+
+  - name: "Floor 12"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A0094 A022001C"
+
+  - name: "Floor 13"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A0098 A022001D"
+
+  - name: "Floor 14"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A009C A022001E"
+
+  - name: "Floor 15"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A00A0 A022001F"
+
+  - name: "Floor 16"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A00A4 A0220020"
+
+  - name: "Floor 17"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A00A8 A0220021"
+
+  - name: "Floor 18"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A00AC A0220022"
+
+  - name: "Floor 19"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A00B0 A0220023"
+
+  - name: "Floor 20"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A00B4 A0220024"
+
+  - name: "Floor 21"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A00B8 A0220025"
+
+  - name: "Floor 22"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A00BC A0220026"
+
+  - name: "Floor 23"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A00C0 A0220027"
+
+  - name: "Floor 24"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A00C4 A0220028"
+
+  - name: "Floor 25"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A00C8 A0220029"
+
+  - name: "Floor 26"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A00CC A022002A"
+
+  - name: "Floor 27"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A00D0 A022002B"
+
+  - name: "Floor 28"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A00D4 A022002C"
+
+  - name: "Floor 29"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A00D8 A022002D"
+
+  - name: "Floor 30"
+    notes: "[Individual]  File: Elevator Action"
+    codes:
+      - "200A00DC A022002E"
+
+  - name: "Exzisus Activator (MUST BE ON)"
+    notes: "File: Exzisus"
+    codes:
+      - "200A0000 340AF80B"
+      - "200A0008 15440003"
+      - "200A0010 3C0A200A"
+      - "200A0014 AD420024"
+      - "200A001C 03E00008"
+      - "200A0030 3C01200A"
+      - "200A0034 8C210024"
+      - "200A0038 102000AF"
+      - "200A0040 8C210000"
+      - "200A0044 3402E500"
+      - "200A0048 00410820"
+      - "200A0050 24020009"
+      - "200A005C 240200C0"
+      - "200A0064 2402008C"
+      - "200A006C 2402008D"
+      - "200A0084 24020064"
+      - "200A02FC 03E00008"
+      - "201E9854 08028000"
+      - "D0713F02 0000FFEE"
+      - "202EF364 0802800C"
+      - "D0713F02 0000FFBE"
+      - "202EF364 03E00008"
+
+  - name: "Always Have Bird & Dog Option"
+    notes: "[Exzisus Codes:{Activator MUST BE ON}]  File: Exzisus"
+    codes:
+      - "200A0060 A022000F"
+      - "200A0068 A0220030"
+      - "200A0070 A0220040"
+
+  - name: "Always Have Disruption & Full Auto (mod 1)"
+    notes: "[Exzisus Codes:{Activator MUST BE ON}]  File: Exzisus  Always have Laser & Full auto (Mod 1)"
+    codes:
+      - "200A0074 24020087"
+      - "200A0078 A022000D"
+      - "200A0074 2402008B"
+      - "200A0078 A022000D"
+
+  - name: "Land Missiles (mod 2)"
+    notes: "[Exzisus Codes:{Activator MUST BE ON}]  File: Exzisus"
+    codes:
+      - "200A007C 24020001"
+      - "200A0080 A022000E"
+
+  - name: "Air Missiles (mod 2)"
+    notes: "[Exzisus Codes:{Activator MUST BE ON}]  File: Exzisus"
+    codes:
+      - "200A007C 24020002"
+      - "200A0080 A022000E"
+
+  - name: "Back Missiles (mod 2)"
+    notes: "[Exzisus Codes:{Activator MUST BE ON}]  File: Exzisus"
+    codes:
+      - "200A007C 240200FE"
+      - "200A0080 A022000E"
+
+  - name: "Sub Disruption (mod 2)"
+    notes: "[Exzisus Codes:{Activator MUST BE ON}]  File: Exzisus"
+    codes:
+      - "200A007C 240200FC"
+      - "200A0080 A022000E"
+
+  - name: "Back Laser (mod 2)"
+    notes: "[Exzisus Codes:{Activator MUST BE ON}]  File: Exzisus"
+    codes:
+      - "200A007C 240200FC"
+      - "200A0080 A022000E"
+
+  - name: "Infinite Lives Pl1"
+    notes: "[Exzisus Codes:{Activator MUST BE ON}]  File: Exzisus"
+    codes:
+      - "200A0088 A0221386"
+
+  - name: "Infinite Lives Pl2"
+    notes: "[Exzisus Codes:{Activator MUST BE ON}]  File: Exzisus"
+    codes:
+      - "200A008C A0221406"
+
+  - name: "Jungle Hunt Activator (MUST BE ON)"
+    notes: "File: Jungle Hunt"
+    codes:
+      - "200A0000 340A8169"
+      - "200A0008 15440003"
+      - "200A0010 3C0A200A"
+      - "200A0014 AD420024"
+      - "200A001C 03E00008"
+      - "200A0030 3C01200A"
+      - "200A0034 8C210024"
+      - "200A0038 102000AF"
+      - "200A0040 8C210000"
+      - "200A0044 34028000"
+      - "200A0048 00410820"
+      - "200A0050 24020009"
+      - "200A0058 24020060"
+      - "200A0064 2402001F"
+      - "200A0070 24020030"
+      - "200A02FC 03E00008"
+      - "201E9854 08028000"
+      - "D0713F02 0000FFEE"
+      - "202EF364 0802800C"
+      - "D0713F02 0000FFBE"
+      - "202EF364 03E00008"
+
+  - name: "Inf Timer"
+    notes: "[Jungle Hunt Codes:{Activator MUST BE ON}]  File: Jungle Hunt"
+    codes:
+      - "200A005C A022042E"
+      - "200A0060 A022042F"
+
+  - name: "Inf Lives Player 1"
+    notes: "[Jungle Hunt Codes:{Activator MUST BE ON}]  File: Jungle Hunt"
+    codes:
+      - "200A0068 A0220425"
+
+  - name: "Inf Lives Player 2"
+    notes: "[Jungle Hunt Codes:{Activator MUST BE ON}]  File: Jungle Hunt"
+    codes:
+      - "200A006C A0220426"
+
+  - name: "Inf Oxygen"
+    notes: "[Jungle Hunt Codes:{Activator MUST BE ON}]  File: Jungle Hunt"
+    codes:
+      - "200A0074 A0220457"
+
+  - name: "Operation Thunderbolt Activator (MUST BE ON)"
+    notes: "File: Operation Thunderbolt"
+    codes:
+      - "200A0000 3C0A0008"
+      - "200A0004 354A26F0"
+      - "200A0008 15430003"
+      - "200A0010 3C0A200A"
+      - "200A0014 AD440024"
+      - "200A001C 03E00008"
+      - "200A0030 3C01200A"
+      - "200A0034 8C210024"
+      - "200A0038 102000AF"
+      - "200A0040 8C210000"
+      - "200A0044 3C020008"
+      - "200A0048 34420000"
+      - "200A004C 00410820"
+      - "200A0050 24020009"
+      - "200A005C 24020140"
+      - "200A0070 24020063"
+      - "200A0094 24020002"
+      - "200A02FC 03E00008"
+      - "201E9980 00624021"
+      - "201E9984 08028000"
+      - "201E9988 A5050000"
+      - "D0713F02 0000FFEE"
+      - "202EF364 0802800C"
+      - "D0713F02 0000FFBE"
+      - "202EF364 03E00008"
+
+  - name: "Have All Hostages (level 4 And 6)"
+    notes: "[Operation Thunderbolt Codes:{Activator MUST BE ON}]  File: Operation Thunderbolt"
+    codes:
+      - "200A0058 A4223716"
+
+  - name: "Inf Bullets"
+    notes: "[Player 1]  File: Operation Thunderbolt"
+    codes:
+      - "200A0074 A42227C8"
+
+  - name: "Inf Magazine"
+    notes: "[Player 1]  File: Operation Thunderbolt"
+    codes:
+      - "200A007C A42227CC"
+
+  - name: "Inf Grenades"
+    notes: "[Player 1]  File: Operation Thunderbolt"
+    codes:
+      - "200A0084 A42227D0"
+
+  - name: "No Clip Delay"
+    notes: "[Player 1]  File: Operation Thunderbolt"
+    codes:
+      - "200A008C A0200CCC"
+
+  - name: "Invincivility"
+    notes: "[Player 2]  File: Operation Thunderbolt"
+    codes:
+      - "200A009C A4220ED2"
+
+  - name: "Operation Wolf Activator (MUST BE ON)"
+    notes: "File: Operation Wolf"
+    codes:
+      - "200A0000 3C0A0010"
+      - "200A0004 354A0C58"
+      - "200A0008 15430003"
+      - "200A0010 3C0A200A"
+      - "200A0014 AD440024"
+      - "200A001C 03E00008"
+      - "200A0030 3C01200A"
+      - "200A0034 8C210024"
+      - "200A0038 102000AF"
+      - "200A0040 8C210000"
+      - "200A0044 3C020010"
+      - "200A0048 00410820"
+      - "200A0050 24020009"
+      - "200A0058 24020022"
+      - "200A0060 24020005"
+      - "200A0068 3402A000"
+      - "200A006C 00410820"
+      - "200A0070 24020008"
+      - "200A02FC 03E00008"
+      - "201E9980 00624021"
+      - "201E9984 08028000"
+      - "201E9988 A5050000"
+      - "D0713F02 0000FFEE"
+      - "202EF364 0802800C"
+      - "D0713F02 0000FFBE"
+      - "202EF364 03E00008"
+
+  - name: "Inf Energy"
+    notes: "[Operation Wolf Codes:{Activator MUST BE ON}]  File: Operation Wolf"
+    codes:
+      - "200A004C A4220C58"
+
+  - name: "Hold (r1 + R2) To Finish Level"
+    notes: "[Operation Wolf Codes:{Activator MUST BE ON}]  File: Operation Wolf"
+    codes:
+      - "400A0084 00040001"
+      - "00000000 00000000"
+      - "E004F5FF 00713F02"
+      - "200A0084 A020004C"
+      - "200A0088 A020004E"
+      - "200A008C A020004F"
+      - "200A0090 A0200050"
+
+  - name: "Have Hostage Code (stage 5)"
+    notes: "[Operation Wolf Codes:{Activator MUST BE ON}]  File: Operation Wolf"
+    codes:
+      - "200A0078 00000000"
+      - "200A007C 00000000"
+      - "200A0080 00000000"
+      - "E003F7FE 00713F02"
+      - "200A0078 80220051"
+      - "200A007C A0220052"
+      - "200A0080 A0200051"
+
+  - name: "Rastan Activator (MUST BE ON)"
+    notes: "File: Rastan"
+    codes:
+      - "200A0000 3C0A0010"
+      - "200A0004 354AC012"
+      - "200A0008 15430003"
+      - "200A0010 3C0A200A"
+      - "200A0014 AD440024"
+      - "200A001C 03E00008"
+      - "200A0030 3C01200A"
+      - "200A0034 8C210024"
+      - "200A0038 102000AF"
+      - "200A0040 8C210000"
+      - "200A0044 3C020010"
+      - "200A0048 3442C000"
+      - "200A004C 00410820"
+      - "200A0050 24020009"
+      - "200A02FC 03E00008"
+      - "201E9980 00624021"
+      - "201E9984 08028000"
+      - "201E9988 A5050000"
+      - "D0713F02 0000FFEE"
+      - "202EF364 0802800C"
+      - "D0713F02 0000FFBE"
+      - "202EF364 03E00008"
+
+  - name: "Rainbow Island Activator (MUST BE ON)"
+    notes: "File: Rainbow Island"
+    codes:
+      - "200A0000 3C0A0010"
+      - "200A0004 354AD0AA"
+      - "200A0008 15430003"
+      - "200A0010 3C0A200A"
+      - "200A0014 AD440024"
+      - "200A001C 03E00008"
+      - "200A0030 3C01200A"
+      - "200A0034 8C210024"
+      - "200A0038 102000AF"
+      - "200A0040 8C210000"
+      - "200A0044 3C020010"
+      - "200A0048 3442D000"
+      - "200A004C 00410820"
+      - "200A0050 24020009"
+      - "200A02FC 03E00008"
+      - "201E9980 00624021"
+      - "201E9984 08028000"
+      - "201E9988 A5050000"
+      - "D0713F02 0000FFEE"
+      - "202EF364 0802800C"
+      - "D0713F02 0000FFBE"
+      - "202EF364 03E00008"
+
+  - name: "Space Gun Activator (MUST BE ON)"
+    notes: "File: Space Gun"
+    codes:
+      - "200A0000 3C0A0031"
+      - "200A0004 354A733C"
+      - "200A0008 15430003"
+      - "200A0010 3C0A200A"
+      - "200A0014 AD440024"
+      - "200A001C 03E00008"
+      - "200A0030 3C01200A"
+      - "200A0034 8C210024"
+      - "200A0038 102000AF"
+      - "200A0040 8C210000"
+      - "200A0044 3C020031"
+      - "200A0048 34427300"
+      - "200A004C 00410820"
+      - "200A0050 24020009"
+      - "200A02FC 03E00008"
+      - "201E9980 00624021"
+      - "201E9984 08028000"
+      - "201E9988 A5050000"
+      - "D0713F02 0000FFEE"
+      - "202EF364 0802800C"
+      - "D0713F02 0000FFBE"
+      - "202EF364 03E00008"
+
+  - name: "Thunder Fox Activator (MUST BE ON)"
+    notes: "File: Thunder Fox"
+    codes:
+      - "200A0000 3C0A0030"
+      - "200A0004 354A3B6C"
+      - "200A0008 15430003"
+      - "200A0010 3C0A200A"
+      - "200A0014 AD440024"
+      - "200A001C 03E00008"
+      - "200A0030 3C01200A"
+      - "200A0034 8C210024"
+      - "200A0038 102000AF"
+      - "200A0040 8C210000"
+      - "200A0044 3C020030"
+      - "200A0048 34423B00"
+      - "200A004C 00410820"
+      - "200A0050 24020009"
+      - "200A02FC 03E00008"
+      - "201E9980 00624021"
+      - "201E9984 08028000"
+      - "201E9988 A5050000"
+      - "D0713F02 0000FFEE"
+      - "202EF364 0802800C"
+      - "D0713F02 0000FFBE"
+      - "202EF364 03E00008"
+
+  - name: "The Ninja Kids Activator (MUST BE ON)"
+    notes: "File: The Ninja Kids"
+    codes:
+      - "200A0000 3C0A0010"
+      - "200A0004 354A29D8"
+      - "200A0008 15430003"
+      - "200A0010 3C0A200A"
+      - "200A0014 AD440024"
+      - "200A001C 03E00008"
+      - "200A0030 3C01200A"
+      - "200A0034 8C210024"
+      - "200A0038 102000AF"
+      - "200A0040 8C210000"
+      - "200A0044 3C020010"
+      - "200A0048 34420000"
+      - "200A004C 00410820"
+      - "200A0050 24020009"
+      - "200A0058 24020003"
+      - "200A0064 24020005"
+      - "200A0070 24020002"
+      - "200A007C 24020004"
+      - "200A02FC 03E00008"
+      - "201E9980 00624021"
+      - "201E9984 08028000"
+      - "201E9988 A5050000"
+      - "D0713F02 0000FFEE"
+      - "202EF364 0802800C"
+      - "D0713F02 0000FFBE"
+      - "202EF364 03E00008"
+
+  - name: "The New Zealand Story Activator (MUST BE ON)"
+    notes: "File: The New Zealand Story"
+    codes:
+      - "200A0000 340AE6B3"
+      - "200A0008 15440003"
+      - "200A0010 3C0A200A"
+      - "200A0014 AD420024"
+      - "200A001C 03E00008"
+      - "200A0030 3C01200A"
+      - "200A0034 8C210024"
+      - "200A0038 102000AF"
+      - "200A0040 8C210000"
+      - "200A0044 3402E000"
+      - "200A0048 00410820"
+      - "200A0050 24020004"
+      - "200A0058 2402003F"
+      - "200A0060 2402005A"
+      - "200A0068 240200FF"
+      - "200A02FC 03E00008"
+      - "201E9854 08028000"
+      - "D0713F02 0000FFEE"
+      - "202EF364 0802800C"
+      - "D0713F02 0000FFBE"
+      - "202EF364 03E00008"
+
+  - name: "Infinite Time"
+    notes: "[The New Zealand Story Activator Codes:{Activator MUST BE ON}]  File: The New Zealand Story"
+    codes:
+      - "200A005C A02206B7"
+
+  - name: "Infinite Scuba Air"
+    notes: "[The New Zealand Story Activator Codes:{Activator MUST BE ON}]  File: The New Zealand Story"
+    codes:
+      - "200A0070 A02007D6"
+
+  - name: "Weapon Mod"
+    notes: "[The New Zealand Story Activator Codes:{Activator MUST BE ON}]  File: The New Zealand Story"
+    codes:
+      - "200A0074 240200[WS]"
+      - "200A0078 A0220F28"
+
+  - name: "Level Mod Hold R1+r2 Befor U Enter Level To Goto Level"
+    notes: "[The New Zealand Story Activator Codes:{Activator MUST BE ON}]  File: The New Zealand Story"
+    codes:
+      - "200A007C 00000000"
+      - "200A0080 00000000"
+      - "E002F5FF 00713F02"
+      - "200A007C 2402[LM]"
+      - "200A0080 A02206B6"
+
+  - name: "Volfied Activator (MUST BE ON)"
+    notes: "File: Volfied"
+    codes:
+      - "200A0000 3C0A0010"
+      - "200A0004 354A0026"
+      - "200A0008 15430003"
+      - "200A0010 3C0A200A"
+      - "200A0014 AD440024"
+      - "200A001C 03E00008"
+      - "200A0030 3C01200A"
+      - "200A0034 8C210024"
+      - "200A0038 102000AF"
+      - "200A0040 8C210000"
+      - "200A0044 3C020010"
+      - "200A0048 34420000"
+      - "200A004C 00410820"
+      - "200A0050 24020008"
+      - "200A0058 24020006"
+      - "200A0060 24020009"
+      - "200A006C 24020099"
+      - "200A0078 24020001"
+      - "200A02FC 03E00008"
+      - "201E9980 00624021"
+      - "201E9984 08028000"
+      - "201E9988 A5050000"
+      - "D0713F02 0000FFEE"
+      - "202EF364 0802800C"
+      - "D0713F02 0000FFBE"
+      - "202EF364 03E00008"
+
+  - name: "Max Shield"
+    notes: "[Volfied Codes:{Activator MUST BE ON}]  File: Volfied"
+    codes:
+      - "200A0064 A022018A"
+      - "200A0070 A022018B"
+
+  - name: "Compleat Level (r1 + R2)"
+    notes: "[Volfied Codes:{Activator MUST BE ON}]  File: Volfied"
+    codes:
+      - "200A0068 00000000"
+      - "200A0074 00000000"
+      - "E002F5FF 00713F02"
+      - "200A0068 A0220191"
+      - "200A0074 A0220192"
+
+  - name: "Speed Power Up"
+    notes: "[Volfied Codes:{Activator MUST BE ON}]  File: Volfied  Power Power Up Freeze Enemies Laser Power up"
+    codes:
+      - "D0713F02 0000F7FE"
+      - "200A007C A022031A"
+      - "D0713F02 0000FDFE"
+      - "200A007C A020031A"
+      - "D0713F02 0000F7FE"
+      - "200A0080 A0220883"
+      - "D0713F02 0000FDFE"
+      - "200A0080 A0200883"
+      - "D0713F02 0000F7FE"
+      - "200A0084 A0220882"
+      - "D0713F02 0000FDFE"
+      - "200A0084 A0200882"
+      - "D0713F02 0000F7FE"
+      - "200A0088 A0220885"
+      - "D0713F02 0000FDFE"
+      - "200A0088 A0200885"
+
+  - name: "The Electric Yo-Yo Activator (MUST BE ON)"
+    notes: "File: The Electric Yo-Yo"
+    codes:
+      - "200A0000 340A8740"
+      - "200A0008 15440003"
+      - "200A0010 3C0A200A"
+      - "200A0014 AD420024"
+      - "200A001C 03E00008"
+      - "200A0030 3C01200A"
+      - "200A0034 8C210024"
+      - "200A0038 102000AF"
+      - "200A0040 8C210000"
+      - "200A0044 34028700"
+      - "200A0048 00410820"
+      - "200A0050 24020003"
+      - "200A02FC 03E00008"
+      - "201E9854 08028000"
+      - "D0713F02 0000FFEE"
+      - "202EF364 0802800C"
+      - "D0713F02 0000FFBE"
+      - "202EF364 03E00008"

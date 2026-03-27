@@ -1,0 +1,85 @@
+# Secret Service Ultimate Sacrifice cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21836
+
+game: "Secret Service Ultimate Sacrifice"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21836"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0033D03B"
+
+  - name: "Enable Code V2 (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9033D038 00832021"
+
+  - name: "Player 1 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "D05E6C32 0000[Joker:PS2]"
+
+  - name: "P1 Press Select To Skip Fmv"
+    author: "Szalay"
+    codes:
+      - "20348298 8C620000"
+      - "D05E6C32 0000FFFE"
+      - "20348298 24020001"
+
+  - name: "Infinite Health"
+    author: "Szalay"
+    codes:
+      - "201D5DDC C4410004"
+      - "201D5DE8 E4410008"
+
+  - name: "No Reload"
+    author: "Szalay"
+    codes:
+      - "2027D644 00000000"
+
+  - name: "No Reload With Max Infinite Clip"
+    author: "Szalay"
+    codes:
+      - "2027D640 24020063"
+
+  - name: "Infinite Ammo/Grenades"
+    author: "Szalay"
+    codes:
+      - "2026E1E0 00000000"
+
+  - name: "Max Infinite Ammo/Grenades"
+    author: "Szalay"
+    codes:
+      - "2026E1DC 240203E7"
+
+  - name: "Have All Levels"
+    author: "Szalay"
+    codes:
+      - "20102888 2405000B"
+      - "20102890 A2250114"
+
+  - name: "Have All Cell Phones Collected"
+    author: "Szalay"
+    codes:
+      - "201023F4 2403FFFF"
+      - "201023F8 AC83011C"
+      - "20102420 2404FFFF"
+
+  - name: "P1 Press L3+left Debug Enable Armor Bar"
+    author: "Szalay"
+    codes:
+      - "D05E6C32 0000FF7D"
+      - "1033AE14 00000000"
+
+  - name: "P1 Press L3+right Debug Disable Armor Bar"
+    author: "Szalay"
+    codes:
+      - "D05E6C32 0000FFDD"
+      - "1033AE14 00000008"

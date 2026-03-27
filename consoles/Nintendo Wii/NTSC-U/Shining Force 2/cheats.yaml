@@ -1,0 +1,192 @@
+# Shining Force 2 cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  MB6E
+
+game: "Shining Force 2"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "MB6E"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    author: "Skiller"
+    notes: "[Masters]"
+    codes:
+      - "04002F00 61EFF600"
+      - "04002F04 7C0F0000"
+      - "04002F08 4082000C"
+      - "04002F0C 3DE08000"
+      - "04002F10 90AF2F1C"
+      - "04002F14 7F85022E"
+      - "04002F18 4801B534"
+      - "0401E448 4BFE4AB8"
+
+  - name: "Max/Inf Gold"
+    author: "Skiller"
+    codes:
+      - "48000000 80002F1C"
+      - "DE000000 80008180"
+      - "1400F600 000F423F"
+      - "E0000000 80008000"
+
+  - name: "Level"
+    author: "Skiller"
+    notes: "[Main]"
+    codes:
+      - "48000000 80002F1C"
+      - "DE000000 80008180"
+      - "1000E80B 00000063"
+      - "E0000000 80008000"
+
+  - name: "Max/Inf HP"
+    author: "Skiller"
+    notes: "[Main]"
+    codes:
+      - "48000000 80002F1C"
+      - "DE000000 80008180"
+      - "1400E80C 00630063"
+      - "E0000000 80008000"
+
+  - name: "Max/Inf MP"
+    author: "Skiller"
+    notes: "[Main]"
+    codes:
+      - "48000000 80002F1C"
+      - "DE000000 80008180"
+      - "1200E810 00006363"
+      - "E0000000 80008000"
+
+  - name: "Max Att"
+    author: "Skiller"
+    notes: "[Main]"
+    codes:
+      - "48000000 80002F1C"
+      - "DE000000 80008180"
+      - "1200E812 00006363"
+      - "E0000000 80008000"
+
+  - name: "Max Def"
+    author: "Skiller"
+    notes: "[Main]"
+    codes:
+      - "48000000 80002F1C"
+      - "DE000000 80008180"
+      - "1200E814 00006363"
+      - "E0000000 80008000"
+
+  - name: "Max Agi"
+    author: "Skiller"
+    notes: "[Main]"
+    codes:
+      - "48000000 80002F1C"
+      - "DE000000 80008180"
+      - "1200E816 00006363"
+      - "E0000000 80008000"
+
+  - name: "Max Mov"
+    author: "Skiller"
+    notes: "[Main]"
+    codes:
+      - "48000000 80002F1C"
+      - "DE000000 80008180"
+      - "1200E81E 00006363"
+      - "E0000000 80008000"
+
+  - name: "Item Mod 1"
+    author: "Skiller"
+    notes: "[Items]"
+    codes:
+      - "48000000 80002F1C"
+      - "DE000000 80008180"
+      - "1200E820 000000??"
+      - "E0000000 80008000"
+
+  - name: "Item Mod 2"
+    author: "Skiller"
+    notes: "[Items]"
+    codes:
+      - "48000000 80002F1C"
+      - "DE000000 80008180"
+      - "1200E822 000000??"
+      - "E0000000 80008000"
+
+  - name: "Item Mod 3"
+    author: "Skiller"
+    notes: "[Items]"
+    codes:
+      - "48000000 80002F1C"
+      - "DE000000 80008180"
+      - "1200E824 000000??"
+      - "E0000000 80008000"
+
+  - name: "Item Mod 4"
+    author: "Skiller"
+    notes: "[Items]"
+    codes:
+      - "48000000 80002F1C"
+      - "DE000000 80008180"
+      - "1200E826 000000??"
+      - "E0000000 80008000"
+
+  - name: "Magic Mod 1"
+    author: "Skiller"
+    notes: "[Items]"
+    codes:
+      - "48000000 80002F1C"
+      - "DE000000 80008180"
+      - "1000E828 000000??"
+      - "E0000000 80008000"
+
+  - name: "Magic Mod 2"
+    author: "Skiller"
+    notes: "[Items]"
+    codes:
+      - "48000000 80002F1C"
+      - "DE000000 80008180"
+      - "1000E829 000000??"
+      - "E0000000 80008000"
+
+  - name: "Magic Mod 3"
+    author: "Skiller"
+    notes: "[Items]"
+    codes:
+      - "48000000 80002F1C"
+      - "DE000000 80008180"
+      - "1000E82A 000000??"
+      - "E0000000 80008000"
+
+  - name: "Magic Mod 4"
+    author: "Skiller"
+    notes: "[Items]"
+    codes:
+      - "48000000 80002F1C"
+      - "DE000000 80008180"
+      - "1000E82B 000000??"
+      - "E0000000 80008000"
+
+  - name: "EXP"
+    author: "Skiller"
+    codes:
+      - "48000000 80002F1C"
+      - "DE000000 80008180"
+      - "1000E830 000000FF"
+      - "E0000000 80008000"
+
+  - name: "9999 Kills"
+    author: "Skiller"
+    codes:
+      - "48000000 80002F1C"
+      - "DE000000 80008180"
+      - "1200E832 0000270F"
+      - "E0000000 80008000"
+
+  - name: "0 Defeat"
+    author: "Skiller"
+    codes:
+      - "48000000 80002F1C"
+      - "DE000000 80008180"
+      - "1200E836 00000000"
+      - "E0000000 80008000"

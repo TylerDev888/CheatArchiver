@@ -1,0 +1,87 @@
+# Grim Grimoire cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21604
+
+game: "Grim Grimoire"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21604"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Skiller"
+    notes: "[Masters]"
+    codes:
+      - "9011B3A8 0C047B9C"
+
+  - name: "Gain Mana X10000"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "20197DC8 20042710"
+
+  - name: "Gain Mana X1000"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "20197DC8 200403E8"
+
+  - name: "Gain Mana X100"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "20197DC8 20040064"
+
+  - name: "Infinite Mana"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "201AEC74 00000000"
+
+  - name: "Infinite Building"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "2019B590 00000000"
+
+  - name: "Can Build 255 Units"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "201AF2F4 08028000"
+      - "201AF2F8 201100FF"
+      - "200A0000 0280202D"
+      - "200A0004 0806BCBE"
+
+  - name: "Flash Build Army"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "200A0070 8C9701E0"
+      - "200A0074 12E00006"
+      - "200A007C 848201DC"
+      - "200A0080 A48201DE"
+      - "200A0084 3C16447A"
+      - "200A0088 AC9601E0"
+      - "200A0090 03E00008"
+      - "20192D0C 0802801C"
+
+  - name: "Flash Advents-Upgrades, Talismans & More"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "200A0040 24630001"
+      - "200A0044 8E1701E0"
+      - "200A0048 12E00007"
+      - "200A0050 860301DC"
+      - "200A0054 A60301DE"
+      - "200A0058 3C16447A"
+      - "200A005C AE1601E0"
+      - "200A0060 080711B7"
+      - "200A0068 080711B7"
+      - "200A006C A60301DE"
+      - "201C46D8 08028010"
+      - "201C46DC 00000000"

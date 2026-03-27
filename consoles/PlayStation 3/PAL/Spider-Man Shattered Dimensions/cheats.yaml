@@ -1,0 +1,19 @@
+# Spider-Man Shattered Dimensions cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00946
+
+game: "Spider-Man Shattered Dimensions"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00946"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 (required)"
+    notes: "File: GAMEDATA"
+    codes:
+      - "set range:0x000004,0x0047B7"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash"

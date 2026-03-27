@@ -1,0 +1,193 @@
+# Batman Begins cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21198
+
+game: "Batman Begins"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21198"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F037588C 0037588F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master>Sage"
+    notes: "[Master Codes]"
+    codes:
+      - "90375930 0C0E161B"
+
+  - name: "P1 Press L1+Down For Hyper Game Speed"
+    author: "Code Master>Sage"
+    notes: "[Game Speed Modifier Codes]"
+    codes:
+      - "D0448642 0000FBBF"
+      - "2040E114 3F800000"
+
+  - name: "P1 Press L1+L2 For Normal Game Speed"
+    author: "Code Master>Sage"
+    notes: "[Game Speed Modifier Codes]"
+    codes:
+      - "D0448642 0000FAFF"
+      - "2040E114 3F800000"
+
+  - name: "P1 Press L1+Left For Slow Game Speed"
+    author: "Code Master>Sage"
+    notes: "[Game Speed Modifier Codes]"
+    codes:
+      - "D0448642 0000FB7F"
+      - "2040E114 3F000000"
+
+  - name: "P1 Press L1+Right For Super Slow Game Speed"
+    author: "Code Master>Sage"
+    notes: "[Game Speed Modifier Codes]"
+    codes:
+      - "D0448642 0000FBDF"
+      - "2040E114 3E800000"
+
+  - name: "P1 Press L1+Up For Super Game Speed"
+    author: "Code Master>Sage"
+    notes: "[Game Speed Modifier Codes]"
+    codes:
+      - "D0448642 0000FBEF"
+      - "2040E114 3F800000"
+
+  - name: "Have 1-Hit Kills"
+    author: "MadCatz"
+    codes:
+      - "201F55B0 00421023"
+
+  - name: "Infinite Armor"
+    author: "Codejunkies"
+    codes:
+      - "202690E0 00000000"
+
+  - name: "Infinite Grenades"
+    author: "MadCatz"
+    codes:
+      - "2013844C 24020063"
+
+  - name: "Infinite Health"
+    author: "MadCatz"
+    codes:
+      - "201483FC 00000000"
+
+  - name: "Infinite Reputation"
+    author: "MadCatz"
+    codes:
+      - "200C2000 3C0142C8"
+      - "200C2004 44816000"
+      - "200C2008 03E00008"
+      - "200C200C E68C0528"
+      - "2014EEB4 0C030800"
+
+  - name: "Low Game Time"
+    author: "Codejunkies"
+    codes:
+      - "2040B1F4 42C80000"
+
+  - name: "Low Game Time-Batmobile Levels"
+    author: "Codejunkies"
+    codes:
+      - "2040BF00 41584FF0"
+
+  - name: "Max Area Fear"
+    author: "MadCatz"
+    codes:
+      - "20202774 3C0142C8"
+      - "20202784 44816000"
+
+  - name: "1-Hit Deaths (Enemies)"
+    author: "Code Master>Sage"
+    notes: "[MISC]"
+    codes:
+      - "201F55B4 A0800008"
+
+  - name: "Always Low Game Time"
+    author: "Code Master>Sage"
+    notes: "[MISC]"
+    codes:
+      - "2040B1F4 00000000"
+      - "2040BF00 00000000"
+
+  - name: "Extra Gadgets"
+    author: "Code Master>Sage"
+    notes: "[MISC]"
+    codes:
+      - "2013844C 00D11021"
+
+  - name: "Infinite Double Jumps"
+    author: "Code Master>Sage"
+    notes: "[MISC]"
+    codes:
+      - "203BB554 001570E4"
+
+  - name: "Infinite Gadgets"
+    author: "Code Master>Sage"
+    notes: "[MISC]"
+    codes:
+      - "20138450 00000000"
+
+  - name: "Max Infinite Gadgets"
+    author: "Code Master>Sage"
+    notes: "[MISC]"
+    codes:
+      - "2013844C 240203E7"
+
+  - name: "Max Reputation"
+    author: "Code Master>Sage"
+    notes: "[MISC]"
+    codes:
+      - "20120A58 3C0142C8"
+      - "20120A5C AC610528"
+
+  - name: "Fast Speed"
+    author: "Codejunkies"
+    notes: "[Silly Stuff]"
+    codes:
+      - "2040E114 40000000"
+
+  - name: "Normal Speed"
+    author: "Codejunkies"
+    notes: "[Silly Stuff]"
+    codes:
+      - "2040E114 3F800000"
+
+  - name: "Slo-Mo"
+    author: "Codejunkies"
+    notes: "[Silly Stuff]"
+    codes:
+      - "2040E114 3F000000"
+
+  - name: "Trippy Mode"
+    author: "Codejunkies"
+    notes: "[Silly Stuff]"
+    codes:
+      - "2040E138 00000001"
+      - "2040E13C 3F400000"
+
+  - name: "Vision Never Blurry"
+    author: "Codejunkies"
+    notes: "[Silly Stuff]"
+    codes:
+      - "2040E138 00000000"
+      - "2040E13C 00000000"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master>Sage"
+    notes: "[Masters]"
+    codes:
+      - "90375930 0C0E161B"
+
+  - name: "Never Blurred Vision"
+    author: "Code Master>Sage"
+    notes: "[Codes]"
+    codes:
+      - "2040E138 00000000"
+      - "2040E13C 00000000"

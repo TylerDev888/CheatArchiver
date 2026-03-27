@@ -1,0 +1,56 @@
+# The Lord Of The Rings - Aragorn's Quest cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-55574
+
+game: "The Lord Of The Rings - Aragorn's Quest"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-55574"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "All Special Abilities Unlocked"
+    author: "luc-ita"
+    codes:
+      - "201A7B44 00000000"
+
+  - name: "Godmode+1Hitkill (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "2013F74C 0C028000"
+      - "200A0000 8F8188BC"
+      - "200A0004 14340003"
+      - "200A000C 0804D62C"
+      - "200A0014 03E00008"
+      - "20135A1C 00000000"
+
+  - name: "Instantly Loaded Arrow Shots"
+    author: "luc-ita"
+    codes:
+      - "201245C4 3C014290"
+      - "201245C8 AC4100C4"
+
+  - name: "Kill An Enemy To Get Maximum EXP"
+    author: "luc-ita"
+    codes:
+      - "2016B004 00000000"
+
+  - name: "Skip Warner Bros And New Line Logos"
+    author: "luc-ita"
+    codes:
+      - "2027FFA0 1000007B"
+      - "202802C4 10000079"
+
+  - name: "Use Arrows Even When You Don't Have Any"
+    author: "luc-ita"
+    codes:
+      - "20157CF4 10000078"
+      - "20121F38 00000000"
+      - "20121DB0 10000016"
+
+  - name: "Use Skills Even With Empty Sword Meter"
+    author: "luc-ita"
+    codes:
+      - "20121E28 10000005"

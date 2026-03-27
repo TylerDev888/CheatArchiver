@@ -1,0 +1,91 @@
+# Hidden Invasion cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50260
+
+game: "Hidden Invasion"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50260"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0123F0C 000001FD"
+
+  - name: "Big Heads"
+    author: "Codejunkies"
+    notes: "[Ammo Codes]"
+    codes:
+      - "001A681C 00000001"
+
+  - name: "Boogie Mode"
+    author: "Codejunkies"
+    notes: "[Ammo Codes]"
+    codes:
+      - "001A6820 00000001"
+
+  - name: "In-Game Cheat Menu"
+    author: "Codejunkies"
+    notes: "[Ammo Codes]"
+    codes:
+      - "201A6D28 FFFFFFFF"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    notes: "[Ammo Codes]"
+    codes:
+      - "103C242A 00000063"
+
+  - name: "Massive Score"
+    author: "Codejunkies"
+    notes: "[Ammo Codes]"
+    codes:
+      - "203C253C 3B9AC9FF"
+
+  - name: "Moon Jump (Press R1 To Activate)"
+    author: "Codejunkies"
+    notes: "[Ammo Codes]"
+    codes:
+      - "D0217D02 0000F7FF"
+      - "203C22C4 C9FFF1CE"
+
+  - name: "Never Have More Than 25% Ammo"
+    author: "Codejunkies"
+    notes: "[Ammo Codes]"
+    codes:
+      - "E0010018 303C242A"
+      - "103C242A 00000018"
+
+  - name: "Never Have More Than 50% Ammo"
+    author: "Codejunkies"
+    notes: "[Ammo Codes]"
+    codes:
+      - "E0010048 303C242A"
+      - "103C242A 00000048"
+
+  - name: "Never Have More Than 75% Ammo"
+    author: "Codejunkies"
+    notes: "[Ammo Codes]"
+    codes:
+      - "E0010031 303C242A"
+      - "103C242A 00000031"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "203C233C 000001CE"
+
+  - name: "Infinite Time"
+    author: "Codejunkies"
+    codes:
+      - "201A6EA8 424CF1CE"
+
+  - name: "P1 Invisible"
+    author: "Codejunkies"
+    codes:
+      - "001A670B 00000001"

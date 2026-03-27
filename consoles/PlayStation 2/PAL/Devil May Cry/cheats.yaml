@@ -1,0 +1,280 @@
+# Devil May Cry cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50358
+
+game: "Devil May Cry"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50358"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F02066E4 000001FD"
+
+  - name: "Master Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "90100098 0C056CE8"
+
+  - name: "Always Allow Usage Of Devil Trigger Of Sparda (With Working Fireballs) [Use This With Infinite Devil Trigger Code]"
+    author: "luc-ita"
+    codes:
+      - "201375B8 24020003"
+      - "20138B70 00000000"
+      - "205C79F0 00000003"
+
+  - name: "Always 0 Saves"
+    author: "Codejunkies"
+    notes: "[Devil Trigger Codes]"
+    codes:
+      - "205BF510 FFFFFFFF"
+
+  - name: "Always 3 Blue Orbs"
+    author: "Codejunkies"
+    notes: "[Devil Trigger Codes]"
+    codes:
+      - "20742928 00000003"
+
+  - name: "Attack Rank Never Resets"
+    author: "Codejunkies"
+    notes: "[Devil Trigger Codes]"
+    codes:
+      - "2013FC08 00000000"
+      - "2013FC0C 00000000"
+
+  - name: "Infinite Devil Trigger"
+    author: "Codejunkies"
+    notes: "[Devil Trigger Codes]"
+    codes:
+      - "105C79F2 00004B00"
+
+  - name: "Infinite Red Orbs"
+    author: "Codejunkies"
+    notes: "[Devil Trigger Codes]"
+    codes:
+      - "20742924 05F5E0FF"
+
+  - name: "Infinite Yellow Orbs"
+    author: "Codejunkies"
+    notes: "[Devil Trigger Codes]"
+    codes:
+      - "20742910 000003E7"
+
+  - name: "Invisible Dante"
+    author: "Codejunkies"
+    notes: "[Devil Trigger Codes]"
+    codes:
+      - "205C6F90 00000001"
+
+  - name: "Master All Moves"
+    author: "Codejunkies"
+    notes: "[Devil Trigger Codes]"
+    codes:
+      - "20742918 7FFE0000"
+
+  - name: "Max Red Orbs At End Stage"
+    author: "Codejunkies"
+    notes: "[Devil Trigger Codes]"
+    codes:
+      - "20742AFC 05F5E0FF"
+
+  - name: "Never Have More Than 25% Devil Trigger"
+    author: "Codejunkies"
+    notes: "[Devil Trigger Codes]"
+    codes:
+      - "E00112C0 305C79F2"
+      - "105C79F2 000012C0"
+
+  - name: "Never Have More Than 50% Devil Trigger"
+    author: "Codejunkies"
+    notes: "[Devil Trigger Codes]"
+    codes:
+      - "E0012580 305C79F2"
+      - "105C79F2 00002580"
+
+  - name: "Never Have More Than 75% Devil Trigger"
+    author: "Codejunkies"
+    notes: "[Devil Trigger Codes]"
+    codes:
+      - "E0013840 305C79F2"
+      - "105C79F2 00003840"
+
+  - name: "Stop Countdown Timer"
+    author: "Codejunkies"
+    notes: "[Devil Trigger Codes]"
+    codes:
+      - "205BEB80 00003E00"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "205C7654 07D00000"
+
+  - name: "Never Have More Than 25% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0020000 305C7654"
+      - "E00101F4 305C7656"
+      - "205C7654 01F40000"
+
+  - name: "Never Have More Than 50% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0020000 305C7654"
+      - "E00103E8 305C7656"
+      - "205C7654 03E80000"
+
+  - name: "Never Have More Than 75% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0020000 305C7654"
+      - "E00105DC 305C7656"
+      - "205C7654 05DC0000"
+
+  - name: "Open All Game Modes"
+    author: "Codejunkies"
+    codes:
+      - "20742204 FFFFFFFF"
+
+  - name: "Pal2ntsc[Read Note]"
+    author: "lee4"
+    codes:
+      - "20202260 34050002"
+      - "20202264 24030002"
+      - "20202268 0000000C"
+      - "2020226C 03E00008"
+
+  - name: "Skip FMV"
+    author: "Nachbrenner"
+    codes:
+      - "201CE340 03E00008"
+      - "201CE344 00000000"
+      - "201CE8EC 70001428"
+
+  - name: "Beer Goggles"
+    author: "Codejunkies"
+    notes: "[Vision Codes]"
+    codes:
+      - "205CD800 00012038"
+
+  - name: "Clear Vision Underwater"
+    author: "Codejunkies"
+    notes: "[Vision Codes]"
+    codes:
+      - "205CD800 00002038"
+
+  - name: "Y-Fix"
+    author: "lee4"
+    codes:
+      - "200FFEC0 64420000"
+      - "200FFEC4 64420000"
+      - "200FFEC8 64428000"
+      - "200FFECC 64428000"
+      - "200FFED0 64428000"
+      - "200FFED4 64428000"
+      - "200FFED8 64428000"
+      - "200FFEDC 64428000"
+      - "200FFEE0 FC2200A0"
+      - "200FFEE4 03E00008"
+      - "200FFEE8 DE420020"
+      - "2015C610 0C03FFB0"
+      - "2015C614 00000000"
+      - "200FFF00 64420000"
+      - "200FFF04 64420000"
+      - "200FFF08 64428000"
+      - "200FFF0C 64428000"
+      - "200FFF10 64428000"
+      - "200FFF14 64428000"
+      - "200FFF18 64428000"
+      - "200FFF1C 64428000"
+      - "200FFF20 FC220080"
+      - "200FFF24 03E00008"
+      - "200FFF28 00000000"
+      - "2015C4EC 0C03FFC0"
+      - "2015C4F0 3C011200"
+      - "200FFF40 64420000"
+      - "200FFF44 64420000"
+      - "200FFF48 64428000"
+      - "200FFF4C 64428000"
+      - "200FFF50 64428000"
+      - "200FFF54 64428000"
+      - "200FFF58 64428000"
+      - "200FFF5C 64428000"
+      - "200FFF60 FC2200A0"
+      - "200FFF64 03E00008"
+      - "200FFF68 DE420020"
+      - "2015C4BC 0C03FFD0"
+      - "2015C4C0 00000000"
+      - "200FFF80 64420000"
+      - "200FFF84 64420000"
+      - "200FFF88 64428000"
+      - "200FFF8C 64428000"
+      - "200FFF90 64428000"
+      - "200FFF94 64428000"
+      - "200FFF98 64428000"
+      - "200FFF9C 64428000"
+      - "200FFFA0 FC220080"
+      - "200FFFA4 03E00008"
+      - "200FFFA8 00000000"
+      - "2015C464 0C03FFE0"
+      - "2015C468 3C011200"
+      - "200FFFC0 64420000"
+      - "200FFFC4 64420000"
+      - "200FFFC8 64428000"
+      - "200FFFCC 64428000"
+      - "200FFFD0 64428000"
+      - "200FFFD4 64428000"
+      - "200FFFD8 64428000"
+      - "200FFFDC 64428000"
+      - "200FFFE0 FC2200A0"
+      - "200FFFE4 03E00008"
+      - "200FFFE8 DE420058"
+      - "2015C434 0C03FFF0"
+      - "2015C438 00000000"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0010C1DF"
+
+  - name: "Unlimited Health"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "205C7654 03F82809"
+
+  - name: "Unlock All Game Modes"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20742204 FFFFFFFF"
+
+  - name: "Red Orbs"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20742924 280968FF"
+
+  - name: "Yellow Orbs"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20742910 280903E7"
+
+  - name: "Devil Trigger"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "205C79F0 1E000000"

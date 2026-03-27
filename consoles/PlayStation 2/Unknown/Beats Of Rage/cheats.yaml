@@ -1,0 +1,40 @@
+# Beats Of Rage cheat data
+# Console: PlayStation 2
+# Region:  Unknown
+# Serial:  No
+
+game: "Beats Of Rage"
+console: "PlayStation 2"
+region: "Unknown"
+serial: "No"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "nolberto82"
+    codes:
+      - "9011BD64 0C040D7C"
+
+  - name: "Hit Anywhere"
+    author: "nolberto82"
+    codes:
+      - "2011090C 0803BFFD"
+      - "200EFFF4 8CA70004"
+      - "200EFFF8 0007382A"
+      - "200EFFFC 10E00005"
+      - "200F0000 20070095"
+      - "200F0004 10F50003"
+      - "200F000C 08044339"
+      - "200F0014 08044245"
+      - "200F0018 C4C2004C"
+
+  - name: "Infinite Time"
+    author: "nolberto82"
+    codes:
+      - "2011BE74 00000000"
+
+  - name: "One Hit Kills"
+    author: "nolberto82"
+    codes:
+      - "20119454 ACC00004"

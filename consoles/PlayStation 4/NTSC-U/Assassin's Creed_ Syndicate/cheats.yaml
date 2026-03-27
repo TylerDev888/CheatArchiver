@@ -1,0 +1,20 @@
+# Assassin's Creed_ Syndicate cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA02389
+
+game: "Assassin's Creed_ Syndicate"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA02389"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "1 Billion Skill Points"
+    notes: "File: Syndicate (sce_sdmemory\\memory.dat)"
+    codes:
+      - "8001000D C80A5A6E"
+      - "00000000 00000700"
+      - "0B000000 00000000"
+      - "2800000D 3B9AC9FF"

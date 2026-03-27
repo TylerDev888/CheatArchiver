@@ -1,0 +1,77 @@
+# FEZ cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUB31448
+
+game: "FEZ"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUB31448"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Default:update Settings For Save.dat"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "search \"Settings\""
+      - "set [begin]:pointer+0x20"
+      - "set [size]:read([begin],4)"
+      - "set [end_of_range]:[begin]+[size]-1"
+      - "set [begin]:[begin]+4"
+      - "set range:[begin],[end_of_range]"
+      - "set [hash]:CRC32"
+      - "set pointer:[end_of_range]+1"
+      - "write next (0):[hash]"
+
+  - name: "Default:update Saveslot0 For Save.dat"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "search \"SaveSlot0\""
+      - "set [begin]:pointer+0x20"
+      - "set [size]:read([begin],4)"
+      - "set [end_of_range]:[begin]+[size]-1"
+      - "set [begin]:[begin]+4"
+      - "set range:[begin],[end_of_range]"
+      - "set [hash]:CRC32"
+      - "set pointer:[end_of_range]+1"
+      - "write next (0):[hash]"
+
+  - name: "Default:update Saveslot1 For Save.dat"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "search \"SaveSlot1\""
+      - "set [begin]:pointer+0x20"
+      - "set [size]:read([begin],4)"
+      - "set [end_of_range]:[begin]+[size]-1"
+      - "set [begin]:[begin]+4"
+      - "set range:[begin],[end_of_range]"
+      - "set [hash]:CRC32"
+      - "set pointer:[end_of_range]+1"
+      - "write next (0):[hash]"
+
+  - name: "Default:update Saveslot2 For Save.dat"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "search \"SaveSlot2\""
+      - "set [begin]:pointer+0x20"
+      - "set [size]:read([begin],4)"
+      - "set [end_of_range]:[begin]+[size]-1"
+      - "set [begin]:[begin]+4"
+      - "set range:[begin],[end_of_range]"
+      - "set [hash]:CRC32"
+      - "set pointer:[end_of_range]+1"
+      - "write next (0):[hash]"
+
+  - name: "Default:update Saveslot3 For Save.dat"
+    notes: "File: SAVE.DAT"
+    codes:
+      - "search \"SaveSlot3\""
+      - "set [begin]:pointer+0x20"
+      - "set [size]:read([begin],4)"
+      - "set [end_of_range]:[begin]+[size]-1"
+      - "set [begin]:[begin]+4"
+      - "set range:[begin],[end_of_range]"
+      - "set [hash]:CRC32"
+      - "set pointer:[end_of_range]+1"
+      - "write next (0):[hash]"

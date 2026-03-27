@@ -1,0 +1,128 @@
+# Tiger Woods PGA Tour 2001 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20104
+
+game: "Tiger Woods PGA Tour 2001"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20104"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0178818 000001FD"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001C638B"
+
+  - name: "Always 9 Strokes Recorded P1"
+    author: "Code Master"
+    codes:
+      - "21CE02EC 00000009"
+
+  - name: "Always 9 Strokes Recorded P2"
+    author: "Code Master"
+    codes:
+      - "21CE03AC 00000009"
+
+  - name: "Always 9 Strokes Recorded P3"
+    author: "Code Master"
+    codes:
+      - "21CE046C 00000009"
+
+  - name: "Always 9 Strokes Recorded P4"
+    author: "Code Master"
+    codes:
+      - "21CE052C 00000009"
+
+  - name: "Always Hole In One P1"
+    author: "Code Master"
+    codes:
+      - "21CE02EC 00000000"
+
+  - name: "Always Hole In One P2"
+    author: "Code Master"
+    codes:
+      - "21CE03AC 00000000"
+
+  - name: "Always Hole In One P3"
+    author: "Code Master"
+    codes:
+      - "21CE046C 00000000"
+
+  - name: "Always Hole In One P4"
+    author: "Code Master"
+    codes:
+      - "21CE052C 00000000"
+
+  - name: "Easy Tour Challenges"
+    author: "InterAct"
+    codes:
+      - "01CDF693 00000001"
+      - "21CDF694 01010101"
+      - "21CDF698 01010101"
+      - "21CDF69C 01010101"
+      - "21CDF6A0 01010101"
+      - "01CDF6A4 00000001"
+
+  - name: "Low Strokes Round 1"
+    author: "InterAct"
+    codes:
+      - "E00C0040 0028950C"
+      - "01CDF693 00000001"
+      - "21CDF694 01010101"
+      - "21CDF698 01010101"
+      - "21CDF69C 01010101"
+      - "21CDF6A0 01010101"
+      - "01CDF6A4 00000001"
+
+  - name: "Low Strokes Round 2"
+    author: "InterAct"
+    codes:
+      - "E00A0040 0028950C"
+      - "21CDF6A4 01010101"
+      - "21CDF6A8 01010101"
+      - "21CDF6AC 01010101"
+      - "21CDF6B0 01010101"
+      - "21CDF6B4 01010101"
+
+  - name: "Low Strokes Round 3"
+    author: "InterAct"
+    codes:
+      - "E00C0040 0028950C"
+      - "01CDF6B7 00000001"
+      - "21CDF6B8 01010101"
+      - "21CDF6BC 01010101"
+      - "21CDF6C0 01010101"
+      - "21CDF6C4 01010101"
+      - "01CDF6C8 00000001"
+
+  - name: "Only One Shot Recorded (All Players)"
+    author: "Code Master"
+    codes:
+      - "20164D14 00000000"
+
+  - name: "Shots Worth Modifier (All Players)"
+    author: "Code Master"
+    codes:
+      - "10164D10 000000??"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001C638B"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901C6388 0C07636F"

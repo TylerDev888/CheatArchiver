@@ -1,0 +1,40 @@
+# Wall-E cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21736
+
+game: "Wall-E"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21736"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "903DFA70 0C0F7E44"
+
+  - name: "Have 65536 Points"
+    author: "SkillerCMP"
+    notes: "[MISC Codes]"
+    codes:
+      - "20577FC0 3C020001"
+      - "20577FC4 AC820068"
+      - "20577FC8 03E00008"
+      - "20577FCC 8C820068"
+
+  - name: "Inf Beam"
+    author: "SkillerCMP"
+    notes: "[MISC Codes]"
+    codes:
+      - "205781C4 C4800018"
+      - "005781D2 00000080"
+
+  - name: "Inf Health"
+    author: "SkillerCMP"
+    notes: "[MISC Codes]"
+    codes:
+      - "20578104 C4800008"
+      - "00578112 00000080"

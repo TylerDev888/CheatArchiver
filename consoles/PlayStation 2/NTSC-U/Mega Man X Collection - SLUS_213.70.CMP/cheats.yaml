@@ -1,0 +1,986 @@
+# Mega Man X Collection - SLUS_213.70.CMP cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21370
+
+game: "Mega Man X Collection - SLUS_213.70.CMP"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21370"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9010F6A8 0C04BE40"
+
+  - name: "Player 1 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "D01A4582 0000[Joker:PS2]"
+
+  - name: "Unlock Mega Man Battle & Chase"
+    author: "Lee4"
+    notes: "File: MegaMan Battle & Chase"
+    codes:
+      - "D0662EA2 00006E75"
+      - "00669980 00000001"
+
+  - name: "Inf Time"
+    author: "Lee4"
+    notes: "File: MegaMan Battle & Chase"
+    codes:
+      - "D0662EA2 00006278"
+      - "2070C540 00000000"
+
+  - name: "Inf Buster Fire"
+    author: "Lee4"
+    notes: "[Player 1]  File: MegaMan Battle & Chase"
+    codes:
+      - "D0662EA2 00006278"
+      - "00714567 00000078"
+
+  - name: "Turbo Speed (p1 Press X)"
+    author: "Lee4"
+    notes: "[Player 1]  File: MegaMan Battle & Chase"
+    codes:
+      - "E0026278 00662EA2"
+      - "D01A4582 0000BFFF"
+      - "007144FE 000000FF"
+
+  - name: "Turbo Speed (p2 Press X)"
+    author: "Lee4"
+    notes: "[Player 2]  File: MegaMan Battle & Chase"
+    codes:
+      - "E0026278 00662EA2"
+      - "D01A4682 0000BFFF"
+      - "0071464A 000000FF"
+
+  - name: "Infinite Homing T"
+    notes: "File: MegaMan X"
+    codes:
+      - "D0662EA2 00003178"
+      - "00FE31C8 0000005C"
+
+  - name: "Infinite C Sting"
+    notes: "File: MegaMan X"
+    codes:
+      - "D0662EA2 00003178"
+      - "00FE31CA 0000005C"
+
+  - name: "Infinite R Shield"
+    notes: "File: MegaMan X"
+    codes:
+      - "D0662EA2 00003178"
+      - "00FE31CC 0000005C"
+
+  - name: "Infinite Fire W"
+    notes: "File: MegaMan X"
+    codes:
+      - "D0662EA2 00003178"
+      - "00FE31CE 0000005C"
+
+  - name: "Infinite Storm T"
+    notes: "File: MegaMan X"
+    codes:
+      - "D0662EA2 00003178"
+      - "00FE31D0 0000005C"
+
+  - name: "Infinite E Spark"
+    notes: "File: MegaMan X"
+    codes:
+      - "D0662EA2 00003178"
+      - "00FE31D2 0000005C"
+
+  - name: "Infinite B Cutter"
+    notes: "File: MegaMan X"
+    codes:
+      - "D0662EA2 00003178"
+      - "00FE31D4 0000005C"
+
+  - name: "Infinite S Ice"
+    notes: "File: MegaMan X"
+    codes:
+      - "D0662EA2 00003178"
+      - "00FE31D6 0000005C"
+
+  - name: "Inf Wp"
+    notes: "File: MegaMan X"
+    codes:
+      - "E0023178 00662EA2"
+      - "40FE31C8 00040001"
+      - "005C005C 00000000"
+
+  - name: "Infinite Lives"
+    notes: "File: MegaMan X"
+    codes:
+      - "D0662EA2 00003178"
+      - "00FE31C0 00000009"
+
+  - name: "Infinite Health (l1+right =off)"
+    notes: "File: MegaMan X"
+    codes:
+      - "E0023178 00662EA2"
+      - "D01A4582 0010FBDF"
+      - "00FE1E0F 00000010"
+
+  - name: "Invincibility (l1+right=on L1+left=off)"
+    notes: "File: MegaMan X"
+    codes:
+      - "E0043178 00662EA2"
+      - "D01A4582 0008FBDF"
+      - "00FE1E18 00000008"
+      - "D01A4582 0000FB7F"
+      - "00FE1E18 00000000"
+
+  - name: "Have Hadoken"
+    notes: "File: MegaMan X"
+    codes:
+      - "D0662EA2 00003178"
+      - "00FE31BE 00000085"
+
+  - name: "All X Armor"
+    notes: "File: MegaMan X"
+    codes:
+      - "D0662EA2 00003178"
+      - "00FE31D9 0000000F"
+
+  - name: "All E Tank"
+    notes: "File: MegaMan X"
+    codes:
+      - "E0033178 00662EA2"
+      - "00FE31C3 000000FF"
+      - "10FE31C4 0000FFFF"
+      - "00FE31C6 000000FF"
+
+  - name: "All Heart"
+    notes: "File: MegaMan X"
+    codes:
+      - "D0662EA2 00003178"
+      - "00FE31DC 000000FF"
+
+  - name: "Rapid Fire"
+    notes: "File: MegaMan X"
+    codes:
+      - "D0662EA2 00003178"
+      - "00FE1E1D 00000000"
+
+  - name: "Max Charge"
+    notes: "File: MegaMan X"
+    codes:
+      - "D0662EA2 00003178"
+      - "00FE1E43 00000001"
+
+  - name: "Infinite Health"
+    notes: "File: MegaMan X2"
+    codes:
+      - "D0662EA2 00003278"
+      - "00FE1C3F 00000020"
+
+  - name: "Max HP"
+    notes: "File: MegaMan X2"
+    codes:
+      - "D0662EA2 00003278"
+      - "00FE3211 00000020"
+
+  - name: "Infinite Crystal H"
+    notes: "File: MegaMan X2"
+    codes:
+      - "D0662EA2 00003278"
+      - "00FE31FB 0000005C"
+
+  - name: "Infinite Bubble S"
+    notes: "File: MegaMan X2"
+    codes:
+      - "D0662EA2 00003278"
+      - "00FE31FD 0000005C"
+
+  - name: "Infinite Silk S"
+    notes: "File: MegaMan X2"
+    codes:
+      - "D0662EA2 00003278"
+      - "00FE31FF 0000005C"
+
+  - name: "Infinite S Wheel"
+    notes: "File: MegaMan X2"
+    codes:
+      - "D0662EA2 00003278"
+      - "00FE3201 0000005C"
+
+  - name: "Infinite S Slicer"
+    notes: "File: MegaMan X2"
+    codes:
+      - "D0662EA2 00003278"
+      - "00FE3203 0000005C"
+
+  - name: "Infinite S Chain"
+    notes: "File: MegaMan X2"
+    codes:
+      - "D0662EA2 00003278"
+      - "00FE3205 0000005C"
+
+  - name: "Infinite Magnet M"
+    notes: "File: MegaMan X2"
+    codes:
+      - "D0662EA2 00003278"
+      - "00FE3207 0000005C"
+
+  - name: "Infinite S Burner"
+    notes: "File: MegaMan X2"
+    codes:
+      - "D0662EA2 00003278"
+      - "00FE3209 0000005C"
+
+  - name: "Infinite C Crush"
+    notes: "File: MegaMan X2"
+    codes:
+      - "D0662EA2 00003278"
+      - "00FE320B 0000005C"
+
+  - name: "Infinite I Tracer"
+    notes: "File: MegaMan X2"
+    codes:
+      - "D0662EA2 00003278"
+      - "00FE320D 0000005C"
+
+  - name: "Infinite Air Dash"
+    notes: "File: MegaMan X2"
+    codes:
+      - "D0662EA2 00003278"
+      - "00FE1C74 00000078"
+
+  - name: "All Zero Part"
+    notes: "File: MegaMan X2"
+    codes:
+      - "E0023278 00662EA2"
+      - "10FE3216 00008080"
+      - "00FE3218 00000080"
+
+  - name: "Have Shoryuken"
+    notes: "File: MegaMan X2"
+    codes:
+      - "D0662EA2 00003278"
+      - "00FE31F1 00000080"
+
+  - name: "Infinite Acid B"
+    notes: "File: MegaMan X3"
+    codes:
+      - "D0662EA2 00003378"
+      - "0087FB5B 0000005C"
+
+  - name: "Infinite P Bomb"
+    notes: "File: MegaMan X3"
+    codes:
+      - "D0662EA2 00003378"
+      - "0087FB5D 0000005C"
+
+  - name: "Infinite Triad T"
+    notes: "File: MegaMan X3"
+    codes:
+      - "D0662EA2 00003378"
+      - "0087FB5F 0000005C"
+
+  - name: "Infinite S Blade"
+    notes: "File: MegaMan X3"
+    codes:
+      - "D0662EA2 00003378"
+      - "0087FB61 0000005C"
+
+  - name: "Infinite Ray S"
+    notes: "File: MegaMan X3"
+    codes:
+      - "D0662EA2 00003378"
+      - "0087FB63 0000005C"
+
+  - name: "Infinite G Well"
+    notes: "File: MegaMan X3"
+    codes:
+      - "D0662EA2 00003378"
+      - "0087FB65 0000005C"
+
+  - name: "Infinite Frost S"
+    notes: "File: MegaMan X3"
+    codes:
+      - "D0662EA2 00003378"
+      - "0087FB67 0000005C"
+
+  - name: "Infinite T Fang"
+    notes: "File: MegaMan X3"
+    codes:
+      - "D0662EA2 00003378"
+      - "0087FB69 0000005C"
+
+  - name: "Infinite Hyper C"
+    notes: "File: MegaMan X3"
+    codes:
+      - "D0662EA2 00003378"
+      - "0087FB6B 0000005C"
+
+  - name: "All Armor"
+    notes: "[Get All Robot Rider Parts And Gold Megaman]  File: MegaMan X3  All Robot Rider & Gold"
+    codes:
+      - "D0662EA2 00003378"
+      - "0087FB70 000000FF"
+      - "D0662EA2 00003378"
+      - "0087FB76 000000FF"
+
+  - name: "Zero Beam Saber (zero Dead)"
+    notes: "[Get All Robot Rider Parts And Gold Megaman]  File: MegaMan X3"
+    codes:
+      - "D0662EA2 00003378"
+      - "0087FB51 000000F0"
+
+  - name: "Play As L2 + Select Mega Man/R2 + Select Zero"
+    notes: "File: MegaMan X3"
+    codes:
+      - "E0043378 00662EA2"
+      - "D01A4582 0000FEFE"
+      - "00880525 00000000"
+      - "D01A4582 0000FDFE"
+      - "00880525 00000002"
+
+  - name: "Float Jump"
+    notes: "File: MegaMan X3"
+    codes:
+      - "E0023378 00662EA2"
+      - "D01A4582 0000BFFF"
+      - "10880494 00000453"
+
+  - name: "Max Shot Fire (armor X) 3 Level*"
+    notes: "File: MegaMan X3"
+    codes:
+      - "E0023378 00662EA2"
+      - "008804AB 00000009"
+      - "0087FB6B 0000005C"
+
+  - name: "Max Shot Fire (normal X) 2 Level*"
+    notes: "File: MegaMan X3"
+    codes:
+      - "D0662EA2 00003378"
+      - "008804FC 00000002"
+
+  - name: "Inf HP Ride Armor"
+    notes: "File: MegaMan X3"
+    codes:
+      - "D0662EA2 00003378"
+      - "008810E1 00000020"
+
+  - name: "Max Charge (alt.)"
+    notes: "File: MegaMan X3"
+    codes:
+      - "D0662EA2 00003378"
+      - "008804C3 000000FE"
+
+  - name: "Inf Air Dash (alt.)"
+    notes: "File: MegaMan X3"
+    codes:
+      - "D0662EA2 00003378"
+      - "00880533 00000001"
+
+  - name: "Infinite/Max Energy"
+    notes: "File: MegaMan X4"
+    codes:
+      - "E0023478 00662EA2"
+      - "00996D2C 00000030"
+      - "00996E06 00000030"
+
+  - name: "Infinite Nova Strike & Rakuhouha"
+    notes: "File: MegaMan X4"
+    codes:
+      - "D0662EA2 00003478"
+      - "00996D78 00000030"
+
+  - name: "Infinite Lightning Web/Raijingeki"
+    notes: "File: MegaMan X4"
+    codes:
+      - "D0662EA2 00003478"
+      - "00996D79 00000030"
+
+  - name: "Infinite Frost Tower/Hyouretsuzan"
+    notes: "File: MegaMan X4"
+    codes:
+      - "D0662EA2 00003478"
+      - "00996D7A 00000030"
+
+  - name: "Infinite Soul Body/Kuuenbu"
+    notes: "File: MegaMan X4"
+    codes:
+      - "D0662EA2 00003478"
+      - "00996D7B 00000030"
+
+  - name: "Infinite Rising Fire/Ryuenjin"
+    notes: "File: MegaMan X4"
+    codes:
+      - "D0662EA2 00003478"
+      - "00996D7C 00000030"
+
+  - name: "Infinite Ground Hunter/Hienkyaku"
+    notes: "File: MegaMan X4"
+    codes:
+      - "D0662EA2 00003478"
+      - "00996D7D 00000030"
+
+  - name: "Infinite Aiming Laser/Rakuhouha"
+    notes: "File: MegaMan X4"
+    codes:
+      - "D0662EA2 00003478"
+      - "00996D7E 00000030"
+
+  - name: "Infinite Double Cyclone/Tenkuuha"
+    notes: "File: MegaMan X4"
+    codes:
+      - "D0662EA2 00003478"
+      - "00996D7F 00000030"
+
+  - name: "Twin Slasher/Shippuuga"
+    notes: "File: MegaMan X4"
+    codes:
+      - "D0662EA2 00003478"
+      - "00996D80 00000030"
+
+  - name: "All Weapons"
+    notes: "File: MegaMan X4"
+    codes:
+      - "D0662EA2 00003478"
+      - "10996D88 0000FFFF"
+
+  - name: "Have All Enhancement Parts (not Saveable)"
+    notes: "File: MegaMan X4"
+    codes:
+      - "E0023478 00662EA2"
+      - "00996D77 000000FF"
+      - "00996D78 000000FF"
+
+  - name: "X-Buster With Weapon Always Charged"
+    notes: "File: MegaMan X4"
+    codes:
+      - "D0662EA2 00003478"
+      - "00996D6B 00000002"
+
+  - name: "X-Buster Always Charged (other Fire Button)"
+    notes: "File: MegaMan X4"
+    codes:
+      - "D0662EA2 00003478"
+      - "00996D6C 00000002"
+
+  - name: "Arm Enhancement Type 1, Plasma Blast (other Fire Button)"
+    notes: "File: MegaMan X4"
+    codes:
+      - "E0023478 00662EA2"
+      - "00996D87 00000002"
+      - "00996D6C 00000002"
+
+  - name: "Arm Enhancement Type 2, Quadra Blast"
+    notes: "File: MegaMan X4"
+    codes:
+      - "E0023478 00662EA2"
+      - "00996D87 00000001"
+      - "00996D76 00000004"
+
+  - name: "Zero And Ultimate Codes *hold The Select Button During Now Loading Screen."
+    notes: "File: MegaMan X4"
+    codes:
+      - "E0023478 00662EA2"
+      - "D01A4582 0000FFFE"
+      - "00996DF7 00000001"
+
+  - name: "Infinite Leg Jets"
+    notes: "File: MegaMan X4"
+    codes:
+      - "D0662EA2 00003478"
+      - "10996DA4 00009D00"
+
+  - name: "Sky Masters"
+    notes: "File: MegaMan X4"
+    codes:
+      - "D0662EA2 00003478"
+      - "00996D56 00000000"
+
+  - name: "Floater Code"
+    notes: "File: MegaMan X4"
+    codes:
+      - "D01A4582 0000BFFF"
+      - "10996CF4 0000F000"
+
+  - name: "Invincible (alt)"
+    notes: "File: MegaMan X4"
+    codes:
+      - "D0662EA2 00003478"
+      - "10996D30 00000100"
+
+  - name: "All Armor (alt.)"
+    notes: "File: MegaMan X4"
+    codes:
+      - "E0023478 00662EA2"
+      - "00996D77 000000FF"
+      - "00996E07 0000001F"
+
+  - name: "All Heart, E Tank, Ex Life"
+    notes: "File: MegaMan X4"
+    codes:
+      - "E0033478 00662EA2"
+      - "10996E1A 0000FFFF"
+      - "10996E1C 0000A0A0"
+      - "00996E20 00000020"
+
+  - name: "Long Move"
+    notes: "File: MegaMan X4"
+    codes:
+      - "E0033478 00662EA2"
+      - "00996D55 00000000"
+      - "00996D56 00000000"
+      - "00996DA5 00000000"
+
+  - name: "Ultra Buster Shot"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003578"
+      - "10C0A19C 00000120"
+
+  - name: "Inf Giga Attack"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003578"
+      - "10C0A1A8 00000120"
+
+  - name: "Infinite C-Shot/Dark Hold"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003578"
+      - "10C0A1AA 00000120"
+
+  - name: "Infinite Dark Hold/Cflasher"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003578"
+      - "10C0A1AC 00000120"
+
+  - name: "Infinite Goo Shaver/Twin Dream"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003578"
+      - "10C0A1AE 00000120"
+
+  - name: "Infinite Ground Fire"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003578"
+      - "10C0A1B0 00000120"
+
+  - name: "Infinite Tri-Thunder"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003578"
+      - "10C0A1B2 00000120"
+
+  - name: "Infinite F-Laser"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003578"
+      - "10C0A1B4 00000120"
+
+  - name: "Infinite Spike Ball"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003578"
+      - "10C0A1B6 00000120"
+
+  - name: "Infinite Wing Spiral"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003578"
+      - "10C0A1B8 00000120"
+
+  - name: "Black Zero (select Button) (zero Game)"
+    notes: "[Hold The Button During Now Loading Screen.]  File: MegaMan X5"
+    codes:
+      - "E0023578 00662EA2"
+      - "D01A4582 0000FFFE"
+      - "00C0A2AA 00000010"
+
+  - name: "Ultimate X (select Button) (x Game)"
+    notes: "[Hold The Button During Now Loading Screen.]  File: MegaMan X5"
+    codes:
+      - "E0023578 00662EA2"
+      - "D01A4582 0000FFFE"
+      - "00C0A2A9 00000004"
+
+  - name: "Infinite (20) Hours To Collision"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003578"
+      - "00C0A30E 00000040"
+
+  - name: "Infinite (less 5) Hours To Collision"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003578"
+      - "00C0A30E 0000000F"
+
+  - name: "Have All Enhancement Parts"
+    notes: "File: MegaMan X5"
+    codes:
+      - "E0023578 00662EA2"
+      - "10C0A2E4 0000FFFF"
+      - "00C0A2E6 0000000F"
+
+  - name: "Unlimited Air Jet For X"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003578"
+      - "00C0A1E8 00000000"
+
+  - name: "Unlimited Jump (zero) And Air Dash (both)"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003578"
+      - "00C0A186 00000000"
+
+  - name: "Float Jump (press And Hold X Button)"
+    notes: "File: MegaMan X5"
+    codes:
+      - "E0023578 00662EA2"
+      - "D01A4582 0000BFFF"
+      - "10C0A124 0000F000"
+
+  - name: "Have Sub Tank, W. Tank And Spare Life"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003578"
+      - "00C0A2DF 000000FF"
+
+  - name: "Never Have Virus Status"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003578"
+      - "00C0A1FB 00000000"
+
+  - name: "Max Charge For All Weapons"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003578"
+      - "00C0A19B 00000002"
+
+  - name: "Max Charge For X Buster"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003578"
+      - "00C0A19C 00000002"
+
+  - name: "Support Ability For Normal X"
+    notes: "File: MegaMan X5"
+    codes:
+      - "E0023578 00662EA2"
+      - "10C0A2E8 0000FFFF"
+      - "00C0A2EA 0000000F"
+
+  - name: "Support Ability For 4th Armor"
+    notes: "File: MegaMan X5"
+    codes:
+      - "E0023578 00662EA2"
+      - "10C0A2EC 0000FFFF"
+      - "00C0A2EE 0000000F"
+
+  - name: "Support Ability For Falcon Armor"
+    notes: "File: MegaMan X5"
+    codes:
+      - "E0023578 00662EA2"
+      - "10C0A2F0 0000FFFF"
+      - "00C0A2F2 0000000F"
+
+  - name: "Support Ability For Gaia Armor"
+    notes: "File: MegaMan X5"
+    codes:
+      - "E0023578 00662EA2"
+      - "10C0A2F4 0000FFFF"
+      - "00C0A2F6 0000000F"
+
+  - name: "Support Ability For Ultimate Armor"
+    notes: "File: MegaMan X5"
+    codes:
+      - "E0023578 00662EA2"
+      - "10C0A2F8 0000FFFF"
+      - "00C0A2FA 0000000F"
+
+  - name: "Support Ability For Zero"
+    notes: "File: MegaMan X5"
+    codes:
+      - "E0023578 00662EA2"
+      - "10C0A2FC 0000FFFF"
+      - "00C0A2FE 0000000F"
+
+  - name: "X Hu Ranking"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003578"
+      - "00C0A30A 00000000"
+
+  - name: "Zero Hu Ranking"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003578"
+      - "00C0A30B 00000000"
+
+  - name: "8 Bosses Defeated"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003578"
+      - "10C0A2AC 0000FFFF"
+
+  - name: "Max HP & Wp"
+    notes: "File: MegaMan X5"
+    codes:
+      - "E0043578 00662EA2"
+      - "00C0A2A7 0000003C"
+      - "00C0A2A8 0000003C"
+      - "00C0A2B3 0000003C"
+      - "00C0A2B4 0000003C"
+
+  - name: "All Heart, Wp+, E Tank, Ex Life, Chip"
+    notes: "File: MegaMan X5"
+    codes:
+      - "E0063578 00662EA2"
+      - "10C0A2AA 0000FFFF"
+      - "10C0A2DE 0000FFFF"
+      - "20C0A2E0 FFFFFFFF"
+      - "10C0A2D6 0000A0A0"
+      - "00C0A2D8 00000020"
+      - "20C0A2E4 0003FFFC"
+
+  - name: "Equip All Chip"
+    notes: "File: MegaMan X5"
+    codes:
+      - "E0023578 00662EA2"
+      - "40C0A2E8 00060001"
+      - "0003EFFC 00000000"
+
+  - name: "Best Result"
+    notes: "File: MegaMan X5"
+    codes:
+      - "E0033578 00662EA2"
+      - "10C0A310 00000000"
+      - "10C0A314 00000000"
+      - "10C0A318 00000000"
+
+  - name: "Max Laser, Ship Status"
+    notes: "File: MegaMan X5"
+    codes:
+      - "E0023578 00662EA2"
+      - "10C0A3C2 00000606"
+      - "10C0A3C4 00000606"
+
+  - name: "HP Gauge Full"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003678"
+      - "00B63CAB 00000040"
+
+  - name: "Have All Weapons"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003678"
+      - "00B63BB9 000000FF"
+
+  - name: "Infinite Yamming Option"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003678"
+      - "10B63B9A 00000168"
+
+  - name: "Infinite Ice Burst"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003678"
+      - "10B63B9C 00000168"
+
+  - name: "Infinite Magna Blade"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003678"
+      - "10B63B9E 00000168"
+
+  - name: "Infinite Metal Anchor"
+    notes: "File: MegaMan X5  Infinite Ground Dash"
+    codes:
+      - "D0662EA2 00003678"
+      - "10B63BA0 00000168"
+      - "D0662EA2 00003678"
+      - "10B63BA2 00000168"
+
+  - name: "Infinite Meteor Rain"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003678"
+      - "10B63BA4 00000168"
+
+  - name: "Infinite Guard Shell"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003678"
+      - "10B63BA6 00000168"
+
+  - name: "Infinite Ray Arrow"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003678"
+      - "10B63BA8 00000168"
+
+  - name: "Have All Armors & Enable Zero In Black Armor"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003678"
+      - "00B63CAF 0000003F"
+
+  - name: "Have All X Armor Parts"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003678"
+      - "10B63CB8 0000FF01"
+
+  - name: "Have 9999 Souls (hu Ranking) X"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003678"
+      - "10B63D22 0000270F"
+
+  - name: "Have 9999 Souls (hu Ranking) Zero"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003678"
+      - "10B63D24 0000270F"
+
+  - name: "Enable Final Level"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003678"
+      - "00B63CB6 00000005"
+
+  - name: "Ultimate X (select Button)"
+    notes: "[Hold The Button During Now Loading Screen.]  File: MegaMan X5"
+    codes:
+      - "E0023678 00662EA2"
+      - "D01A4582 0000FFFE"
+      - "00B63CAE 00000004"
+
+  - name: "Play As Zero (select Button)"
+    notes: "[Hold The Button During Now Loading Screen.]  File: MegaMan X5"
+    codes:
+      - "E0023678 00662EA2"
+      - "D01A4582 0000FFFE"
+      - "00B63CAE 00000005"
+
+  - name: "Amazon Area"
+    notes: "[Reploids Rescued Codes]  File: MegaMan X5"
+    codes:
+      - "E0023678 00662EA2"
+      - "20B63D28 22222222"
+      - "20B63D2C 22222222"
+
+  - name: "Northpole Area"
+    notes: "[Reploids Rescued Codes]  File: MegaMan X5"
+    codes:
+      - "E0023678 00662EA2"
+      - "20B63D30 22222222"
+      - "20B63D34 22222222"
+
+  - name: "Magma Area"
+    notes: "[Reploids Rescued Codes]  File: MegaMan X5"
+    codes:
+      - "E0023678 00662EA2"
+      - "20B63D38 22222222"
+      - "20B63D3C 22222222"
+
+  - name: "Recycle Lab"
+    notes: "[Reploids Rescued Codes]  File: MegaMan X5"
+    codes:
+      - "E0023678 00662EA2"
+      - "20B63D40 22222222"
+      - "20B63D44 22222222"
+
+  - name: "Central Museum"
+    notes: "[Reploids Rescued Codes]  File: MegaMan X5"
+    codes:
+      - "E0023678 00662EA2"
+      - "20B63D48 22222222"
+      - "20B63D4C 22222222"
+
+  - name: "Inami Temple"
+    notes: "[Reploids Rescued Codes]  File: MegaMan X5"
+    codes:
+      - "E0023678 00662EA2"
+      - "20B63D50 22222222"
+      - "20B63D54 22222222"
+
+  - name: "Laser Institute"
+    notes: "[Reploids Rescued Codes]  File: MegaMan X5"
+    codes:
+      - "E0023678 00662EA2"
+      - "20B63D58 22222222"
+      - "20B63D5C 22222222"
+
+  - name: "Weapon Center"
+    notes: "[Reploids Rescued Codes]  File: MegaMan X5"
+    codes:
+      - "E0023678 00662EA2"
+      - "20B63D60 22222222"
+      - "20B63D64 22222222"
+
+  - name: "All Reploids Rescued"
+    notes: "[Reploids Rescued Codes]  File: MegaMan X5"
+    codes:
+      - "E0023678 00662EA2"
+      - "40B63D28 00100001"
+      - "22222222 00000000"
+
+  - name: "Infinite Jet Leg"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003678"
+      - "00B63BC9 00000054"
+
+  - name: "Charged Shot"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003678"
+      - "00B63B8C 00000002"
+
+  - name: "Charged Weapon"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003678"
+      - "00B63B8B 00000002"
+
+  - name: "All Armor (x & Zero)"
+    notes: "File: MegaMan X5"
+    codes:
+      - "E0023678 00662EA2"
+      - "00B63CB9 000000FF"
+      - "00B63CAF 000000FF"
+
+  - name: "All Armor (x Only)"
+    notes: "File: MegaMan X5"
+    codes:
+      - "E0023678 00662EA2"
+      - "00B63CB9 000000FF"
+      - "00B63CAF 0000000F"
+
+  - name: "Rank Uh"
+    notes: "File: MegaMan X5"
+    codes:
+      - "E0023678 00662EA2"
+      - "00B63CDD 00000000"
+      - "00B63CDE 00000000"
+
+  - name: "Rapid Fire (x-Buster)"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003678"
+      - "00B63B82 00000000"
+
+  - name: "Inf Chip Power"
+    notes: "File: MegaMan X5"
+    codes:
+      - "D0662EA2 00003678"
+      - "00B63C38 000000FF"

@@ -1,0 +1,24 @@
+# 10.000 Bullets cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53481
+
+game: "10.000 Bullets"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53481"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Infinite Ammo/Never Reload"
+    author: "nolberto82"
+    codes:
+      - "20384188 00000000"
+
+  - name: "Invincibility"
+    author: "nolberto82"
+    codes:
+      - "203708BC 34100010"
+      - "203708C0 AE700634"
+      - "203708C4 100000F3"

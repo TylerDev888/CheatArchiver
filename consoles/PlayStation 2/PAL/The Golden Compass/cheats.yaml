@@ -1,0 +1,104 @@
+# The Golden Compass cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54996
+
+game: "The Golden Compass"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54996"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code(MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9033D478 0C0CF4C6"
+
+  - name: "Inf HP"
+    notes: "[Iorek Byrnison]"
+    codes:
+      - "202774CC C6D703CC"
+      - "202774D0 E6D703C8"
+
+  - name: "Max Rage Claws After 1 Lvl"
+    notes: "[Iorek Byrnison]"
+    codes:
+      - "202A61F8 24020009"
+
+  - name: "Inf/Max Rage Claws"
+    notes: "[Iorek Byrnison]"
+    codes:
+      - "20277418 08028000"
+      - "2027741C 00000000"
+      - "200A0000 34020009"
+      - "200A0004 AE021304"
+      - "200A000C 8E021544"
+      - "200A0010 0809DD07"
+      - "200A0014 00021283"
+
+  - name: "One Pick Up Max Sky Armour"
+    notes: "[Iorek Byrnison]"
+    codes:
+      - "202A5D04 244203E8"
+
+  - name: "Inf Sky Armour"
+    notes: "[Iorek Byrnison]"
+    codes:
+      - "202A6404 00000000"
+
+  - name: "Max/Inf Sky Armour"
+    notes: "[Iorek Byrnison]"
+    codes:
+      - "202A6400 240203E8"
+
+  - name: "Trickster Cards"
+    notes: "[Gain ?? Amount Codes]"
+    codes:
+      - "102A5888 0000[Amount:270F:HEX:BIG]"
+      - "102A5894 0000[Amount:270F:HEX:BIG]"
+
+  - name: "Trickster Decks"
+    notes: "[Gain ?? Amount Codes]"
+    codes:
+      - "102A58EC 0000[Amount:270F:HEX:BIG]"
+
+  - name: "Marbles"
+    notes: "[Gain ?? Amount Codes]"
+    codes:
+      - "102A5A4C 0000[Amount:270F:HEX:BIG]"
+      - "102A5A58 0000[Amount:270F:HEX:BIG]"
+
+  - name: "Daemon Coin Of Chance"
+    notes: "[Gain ?? Amount Codes]"
+    codes:
+      - "102A5EAC 0000[Amount:270F:HEX:BIG]"
+
+  - name: "Shaman Wishnone"
+    notes: "[Gain ?? Amount Codes]"
+    codes:
+      - "102A5C58 0000[Amount:270F:HEX:BIG]"
+
+  - name: "Silvertongue Candy"
+    notes: "[Gain ?? Amount Codes]"
+    codes:
+      - "102A5B50 0000[Amount:270F:HEX:BIG]"
+      - "102A5B5C 0000[Amount:270F:HEX:BIG]"
+
+  - name: "Spice Cake"
+    notes: "[Gain ?? Amount Codes]"
+    codes:
+      - "102A5BA8 0000[Amount:270F:HEX:BIG]"
+      - "102A5BB4 0000[Amount:270F:HEX:BIG]"
+
+  - name: "Oil"
+    notes: "[Gain ?? Amount Codes]"
+    codes:
+      - "102A5CA4 0000[Amount:270F:HEX:BIG]"
+      - "102A5CB0 0000[Amount:270F:HEX:BIG]"
+
+  - name: "Yellow Oil"
+    notes: "[Gain ?? Amount Codes]"
+    codes:
+      - "102A5AD0 0000[Amount:270F:HEX:BIG]"

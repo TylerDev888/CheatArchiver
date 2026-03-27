@@ -1,0 +1,112 @@
+# Puyo Puyo Fever 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66104
+
+game: "Puyo Puyo Fever 2"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66104"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90107B50 0C041E7C"
+
+  - name: "Enable Code (Codebreaker)"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0000000E"
+
+  - name: "All Books (Save Your Game With This Code On)"
+    author: "punk7890"
+    codes:
+      - "40395400 000C0001"
+      - "01010101 00000000"
+
+  - name: "All Gallery (Save Your Game With This Code On)"
+    author: "punk7890"
+    codes:
+      - "403954A8 00030001"
+      - "01010101 00000000"
+
+  - name: "All Items In Museum (Save Your Game With This Code On)"
+    author: "punk7890"
+    codes:
+      - "40395204 00120001"
+      - "01010101 00000000"
+
+  - name: "All Items In Shop (Save Your Game With This Code On)"
+    author: "punk7890"
+    codes:
+      - "4039524C 00130001"
+      - "01010101 00000000"
+
+  - name: "All Mini Games (Save Your Game With This Code On)"
+    author: "punk7890"
+    codes:
+      - "4039549C 00020001"
+      - "01010101 00000000"
+      - "103954A4 00000101"
+
+  - name: "All Movies (Save Your Game With This Code On)"
+    author: "punk7890"
+    codes:
+      - "40395430 00120001"
+      - "01010101 00000000"
+
+  - name: "All Music (Save Your Game With This Code On)"
+    author: "punk7890"
+    codes:
+      - "40395478 00090001"
+      - "01010101 00000000"
+
+  - name: "Cleared Tower (Save Your Game With This Code On)"
+    author: "punk7890"
+    codes:
+      - "003955AC 000000FF"
+
+  - name: "Enable PUYO GAME Viewer"
+    author: "punk7890"
+    notes: "[Debug Codes]"
+    codes:
+      - "20145B44 00000000"
+
+  - name: "Press L1+Circle In Town Map For Debug Menu"
+    author: "punk7890"
+    notes: "[Debug Codes]"
+    codes:
+      - "D02687C2 0000DBFF"
+      - "002F32B4 00000009"
+
+  - name: "Invisible Puyo Blocks"
+    author: "punk7890"
+    codes:
+      - "002ACAC4 000000FF"
+
+  - name: "Max Points (Money)"
+    author: "punk7890"
+    codes:
+      - "2089555C 0000270F"
+
+  - name: "Max Score (In Game)"
+    author: "punk7890"
+    codes:
+      - "202ACAE0 05F5E0FF"
+
+  - name: "Never Any Garbage For 1P"
+    author: "punk7890"
+    codes:
+      - "202ACB0C 00000000"
+      - "202ACB1C 00000000"
+
+  - name: "Next Combo Sends Massive Garbage (Press R2)"
+    author: "punk7890"
+    codes:
+      - "D02687C2 0000FEFF"
+      - "202ACAF4 000FFFFF"

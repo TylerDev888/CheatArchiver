@@ -1,0 +1,36 @@
+# Disney's Pirates Of The Caribbean - At World's End cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54179
+
+game: "Disney's Pirates Of The Caribbean - At World's End"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54179"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "luc-ita"
+    notes: "[Master Codes]"
+    codes:
+      - "902F4D30 0C0BD2F4"
+
+  - name: "1Hitkill"
+    author: "luc-ita"
+    codes:
+      - "201D5220 08028000"
+      - "200A0000 4401A000"
+      - "200A0004 10200003"
+      - "200A0008 00000000"
+      - "200A000C 0807548C"
+      - "200A0010 00000000"
+      - "200A0014 0807548A"
+
+  - name: "Godmode"
+    author: "luc-ita"
+    codes:
+      - "2010A6A0 C48003D4"
+      - "2010A6B4 10000002"
+      - "2010A6B8 E48303D0"

@@ -1,0 +1,169 @@
+# Incredibles, The cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52814
+
+game: "Incredibles, The"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52814"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "All Levels Unlocked"
+    author: "luc-ita"
+    codes:
+      - "00631C40 00000013"
+
+  - name: "Battle Mode Unlocked"
+    author: "luc-ita"
+    codes:
+      - "006CFC10 00000001"
+
+  - name: "Dash Never Overheats While Running"
+    author: "luc-ita"
+    codes:
+      - "20243F10 AC6004F0"
+
+  - name: "Disable Bloom"
+    author: "luc-ita"
+    codes:
+      - "006309B8 00000000"
+
+  - name: "Disable Lights And Other Few Objects"
+    author: "luc-ita"
+    codes:
+      - "006309D0 00000000"
+
+  - name: "Fly Mode (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "D0649D42 0000FFFA"
+      - "00648364 00000001"
+      - "D0649D42 0000FFFC"
+      - "00648364 00000000"
+
+  - name: "Fly Mode - Alternate Mode (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "D0649D42 0000FFFA"
+      - "00F2FF06 00000000"
+      - "D0649D42 0000FFFC"
+      - "00F2FF06 00000001"
+
+  - name: "Hit An Enemy To Get Full Incredipower"
+    author: "luc-ita"
+    codes:
+      - "2023EED4 24030064"
+
+  - name: "Incredi-Ball Energy Constantly Recharged"
+    author: "luc-ita"
+    codes:
+      - "2028D584 3C0242C8"
+
+  - name: "Allowmastercheats (Read Notes)"
+    author: "luc-ita"
+    notes: "[Internal Debug Features]"
+    codes:
+      - "00648399 00000001"
+
+  - name: "Disable HUD"
+    author: "luc-ita"
+    notes: "[Internal Debug Features]"
+    codes:
+      - "0062FC98 00000000"
+
+  - name: "Displaypaddebuginfo"
+    author: "luc-ita"
+    notes: "[Internal Debug Features]"
+    codes:
+      - "20631000 00000001"
+
+  - name: "Nocutscenes"
+    author: "luc-ita"
+    notes: "[Internal Debug Features]"
+    codes:
+      - "00648201 00000001"
+
+  - name: "Nomovies"
+    author: "luc-ita"
+    notes: "[Internal Debug Features]"
+    codes:
+      - "20648390 00000001"
+
+  - name: "Nomusic"
+    author: "luc-ita"
+    notes: "[Internal Debug Features]"
+    codes:
+      - "00648200 00000001"
+
+  - name: "Play The Demo Instead Of The Full Game"
+    author: "luc-ita"
+    notes: "[Internal Debug Features]"
+    codes:
+      - "2064839C 00000001"
+
+  - name: "Unlockall"
+    author: "luc-ita"
+    notes: "[Internal Debug Features]"
+    codes:
+      - "00631C58 00000001"
+
+  - name: "Invulnerable (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "2023F254 10000183"
+      - "20275998 00000000"
+      - "D0649D02 00001001"
+      - "20275998 A440001C"
+
+  - name: "Invulnerable - Alternate Code (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "006482E0 00000000"
+      - "20275998 00000000"
+      - "D0649D02 00001001"
+      - "20275998 A440001C"
+
+  - name: "Jump In Midair (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "20273100 AE0204C0"
+      - "D0649D02 00004200"
+      - "20273100 00000000"
+      - "D0649D02 00000200"
+      - "20273100 00000000"
+
+  - name: "Jump To Levitate (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "20276B74 10000003"
+
+  - name: "Play At Double Speed"
+    author: "luc-ita"
+    codes:
+      - "206482D8 40000000"
+
+  - name: "Slow Descent From Jumping"
+    author: "luc-ita"
+    codes:
+      - "20276854 3C03C000"
+
+  - name: "Super Punch Effect Always On (1Hitkill)"
+    author: "luc-ita"
+    codes:
+      - "206315FC 43340000"
+      - "206315F0 00000004"
+
+  - name: "Use Incredipower Even When It's Zero"
+    author: "luc-ita"
+    codes:
+      - "2023CF5C 00000000"
+      - "2024167C 24020064"
+      - "2023E940 00000000"
+
+  - name: "Violet Remains Invisible"
+    author: "luc-ita"
+    codes:
+      - "202D54B4 00000000"

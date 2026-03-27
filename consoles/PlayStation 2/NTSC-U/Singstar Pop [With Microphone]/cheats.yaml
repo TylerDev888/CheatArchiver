@@ -1,0 +1,58 @@
+# Singstar Pop [With Microphone] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97580
+
+game: "Singstar Pop [With Microphone]"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97580"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Skiller"
+    notes: "[Master Codes]"
+    codes:
+      - "902B8030 0C0ADFB4"
+
+  - name: "Golden Notes Multiplier"
+    author: "Skiller"
+    codes:
+      - "201461FC 0802800C"
+      - "20146200 00000000"
+      - "200A0030 00021???"
+      - "200A0034 AE22003C"
+      - "200A0038 08051880"
+      - "200A003C 00701821"
+
+  - name: "Line Bonus Multiplier"
+    author: "Skiller"
+    codes:
+      - "201461F4 08028008"
+      - "201461F8 00000000"
+      - "200A0020 00108???"
+      - "200A0024 AE300038"
+      - "200A0028 0805187E"
+      - "200A002C 00641821"
+
+  - name: "Notes Multiplier"
+    author: "Skiller"
+    codes:
+      - "20146158 08028000"
+      - "2014615C 00000000"
+      - "200A0000 00021???"
+      - "200A0004 AE220030"
+      - "200A0008 08051857"
+      - "200A000C 8C8300E8"
+
+  - name: "Rap Multiplier"
+    author: "Skiller"
+    codes:
+      - "201461B8 08028004"
+      - "201461BC 00000000"
+      - "200A0010 00021???"
+      - "200A0014 AE220034"
+      - "200A0018 0805186F"
+      - "200A001C 8CA300E8"

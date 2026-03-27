@@ -1,0 +1,42 @@
+# 3LDK - Shiawase Ni Narouyo [Limited Edition] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65607
+
+game: "3LDK - Shiawase Ni Narouyo [Limited Edition]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65607"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enabler Code (Must Be On)"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9015E8F8 0C0579E6"
+
+  - name: "Press L3 For Texture Viewer, R3 To Disable"
+    author: "punk7890"
+    codes:
+      - "10127994 00008374"
+      - "10120E10 0000BD94"
+      - "D054C172 0000FFFD"
+      - "0021DD48 00000001"
+      - "D054C172 0000FFFB"
+      - "0021DD48 00000000"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "401703C8 00060001"
+      - "FFFFFFFF 00000000"
+      - "101703E0 0000FFFF"
+
+  - name: "Unlock Omake Menu & Ending List"
+    author: "punk7890"
+    codes:
+      - "401705C0 00050001"
+      - "FFFFFFFF 00000000"
+      - "001705D4 000000FF"

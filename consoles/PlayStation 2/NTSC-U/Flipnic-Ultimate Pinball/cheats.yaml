@@ -1,0 +1,87 @@
+# Flipnic-Ultimate Pinball cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21157
+
+game: "Flipnic-Ultimate Pinball"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21157"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901F6034 0C07FE0E"
+
+  - name: "Quick Score Gain"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10449268 0000FFFF"
+
+  - name: "Max Score"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20449268 4876E7FF"
+      - "2044926C 00000017"
+
+  - name: "Max EXP"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20449288 000003E7"
+
+  - name: "Max Bumpers"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2044928C 000003E7"
+
+  - name: "Max Lanes"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20449290 000003E7"
+
+  - name: "Max Coins (Overall)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20449298 000003E7"
+
+  - name: "Max Coins (Current Ball In Play)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2044929C 000003E7"
+
+  - name: "Max EXP Bonus"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2044932C 000003E7"
+
+  - name: "Infinite Balls"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20449334 00000009"
+
+  - name: "Max Stage Select Points"
+    author: "Code Master"
+    notes: "[Original Game Codes]"
+    codes:
+      - "20446A78 4876E7FF"
+      - "20446A7C 00000017"
+
+  - name: "Unlock All Stages"
+    author: "Code Master"
+    notes: "[Original Game Codes]"
+    codes:
+      - "4044919C 00040001"
+      - "FFFFFFFF 00000000"

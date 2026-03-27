@@ -1,0 +1,304 @@
+# MLB Slugfest 2003 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20049
+
+game: "MLB Slugfest 2003"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20049"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0116838 0030FD27"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0030FD27"
+
+  - name: "Away Team Infinite Turbo"
+    author: "Code Master"
+    codes:
+      - "203D0FE4 42C80000"
+
+  - name: "Away Team No Turbo"
+    author: "Code Master"
+    codes:
+      - "203D0FE4 00000000"
+
+  - name: "1 Ball And You Walk"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020000 003D2604"
+      - "D03D316C 00000000"
+      - "103D316C 00000003"
+
+  - name: "1 Ball Equals Walk"
+    author: "InterAct"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D03D2604 00000000"
+      - "D03D316C 00000000"
+      - "103D316C 00000003"
+
+  - name: "1 Out And You Are Out"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020000 003D2604"
+      - "D03D3170 00000000"
+      - "103D3170 00000002"
+
+  - name: "1 Out Per Inning"
+    author: "InterAct"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D03D2604 00000000"
+      - "D03D3170 00000000"
+      - "103D3170 00000002"
+
+  - name: "1 Strike And You Are Out"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020000 003D2604"
+      - "D03D3168 00000000"
+      - "103D3168 00000002"
+
+  - name: "1 Strike Equals 1 Out"
+    author: "InterAct"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D03D2604 00000000"
+      - "D03D3168 00000000"
+      - "103D3168 00000002"
+
+  - name: "2 Balls And You Walk"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020000 003D2604"
+      - "D03D316C 00000000"
+      - "103D316C 00000002"
+
+  - name: "2 Balls Equals Walk"
+    author: "InterAct"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D03D2604 00000000"
+      - "D03D316C 00000000"
+      - "103D316C 00000002"
+
+  - name: "2 Outs And You Are Out"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020000 003D2604"
+      - "D03D3170 00000000"
+      - "103D3170 00000001"
+
+  - name: "2 Outs Per Inning"
+    author: "InterAct"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D03D2604 00000000"
+      - "D03D3170 00000000"
+      - "103D3170 00000001"
+
+  - name: "2 Strikes And You Are Out"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020000 003D2604"
+      - "D03D3168 00000000"
+      - "103D3168 00000001"
+
+  - name: "2 Strikes Equals 1 Out"
+    author: "InterAct"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D03D2604 00000000"
+      - "D03D3168 00000000"
+      - "103D3168 00000001"
+
+  - name: "3 Balls And You Walk"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020000 003D2604"
+      - "D03D316C 00000000"
+      - "103D316C 00000001"
+
+  - name: "3 Balls Equals Walk"
+    author: "InterAct"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D03D2604 00000000"
+      - "D03D316C 00000000"
+      - "103D316C 00000001"
+
+  - name: "Always Full Count"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0020000 003D2604"
+      - "103D3168 00000002"
+      - "103D316C 00000003"
+
+  - name: "Always Full Count & 2 Outs"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "E0030000 003D2604"
+      - "103D3168 00000002"
+      - "103D316C 00000003"
+      - "103D3170 00000002"
+
+  - name: "Infinite Balls"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D03D2604 00000000"
+      - "103D316C 00000000"
+
+  - name: "Infinite Outs"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D03D2604 00000000"
+      - "103D3170 00000000"
+
+  - name: "Infinite Strikes"
+    author: "Code Master"
+    notes: "[Away Team Only Codes]"
+    codes:
+      - "D03D2604 00000000"
+      - "103D3168 00000000"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "103D3144 0000????"
+
+  - name: "Away Team Start With Runs Modifier"
+    author: "Code Master"
+    codes:
+      - "D03D3144 00000000"
+      - "103D3144 0000????"
+
+  - name: "Infinite Turbo"
+    author: "InterAct"
+    notes: "[Away Turbo Codes]"
+    codes:
+      - "103D0FE6 000042C8"
+
+  - name: "L1+L2 For Home Advantage"
+    author: "InterAct"
+    notes: "[Away Turbo Codes]"
+    codes:
+      - "D03DCC02 0000FAFF"
+      - "103D3140 00000014"
+      - "D03DCC02 0000FAFF"
+      - "103D3144 00000000"
+
+  - name: "No Turbo"
+    author: "InterAct"
+    notes: "[Away Turbo Codes]"
+    codes:
+      - "103D0FE6 00004000"
+
+  - name: "R1+R2 For Away Advantage"
+    author: "InterAct"
+    notes: "[Away Turbo Codes]"
+    codes:
+      - "D03DCC02 0000F5FF"
+      - "103D3140 00000000"
+      - "D03DCC02 0000F5FF"
+      - "103D3144 00000014"
+
+  - name: "1 Ball For A Walk"
+    author: "Codejunkies"
+    notes: "[Ball Codes]"
+    codes:
+      - "E0020001 003D2604"
+      - "D03D316C 00000000"
+      - "103D316C 00000003"
+
+  - name: "2 Balls For A Walk"
+    author: "Codejunkies"
+    notes: "[Ball Codes]"
+    codes:
+      - "E0020001 003D2604"
+      - "D03D316C 00000000"
+      - "103D316C 00000002"
+
+  - name: "3 Balls For A Walk"
+    author: "Codejunkies"
+    notes: "[Ball Codes]"
+    codes:
+      - "E0020001 003D2604"
+      - "D03D316C 00000000"
+      - "103D316C 00000001"
+
+  - name: "Ball For A Walk"
+    author: "Codejunkies"
+    notes: "[Ball Codes]"
+    codes:
+      - "D03D316C 00000000"
+      - "103D316C 00000003"
+
+  - name: "Balls For A Walk"
+    author: "Codejunkies"
+    notes: "[Ball Codes]"
+    codes:
+      - "D03D316C 00000000"
+      - "103D316C 00000002"
+
+  - name: "Home Team Infinite Turbo"
+    author: "Code Master"
+    codes:
+      - "203D0FE0 42C80000"
+
+  - name: "Home Team No Turbo"
+    author: "Code Master"
+    codes:
+      - "203D0FE0 00000000"
+
+  - name: "3 Ball Equals Walk"
+    author: "InterAct"
+    notes: "[Home Team Only Codes]"
+    codes:
+      - "D03D2604 00000001"
+      - "D03D316C 00000000"
+      - "103D316C 00000001"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "103D3140 0000????"
+
+  - name: "Home Team Start With Runs Modifier"
+    author: "Code Master"
+    codes:
+      - "D03D3140 00000000"
+      - "103D3140 0000????"
+
+  - name: "Score 0"
+    author: "Codejunkies"
+    notes: "[Score Codes]"
+    codes:
+      - "103D3140 00000000"
+
+  - name: "Score 20"
+    author: "Codejunkies"
+    notes: "[Score Codes]"
+    codes:
+      - "103D3140 00000014"

@@ -1,0 +1,64 @@
+# SNK Vs. Capcom - Chaos cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25316
+
+game: "SNK Vs. Capcom - Chaos"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25316"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "9010D12C 0C04592C"
+
+  - name: "Master Code"
+    author: "GodShin"
+    notes: "[Master Codes]"
+    codes:
+      - "F010D12C 0010D12F"
+
+  - name: "Burning Character Player 1"
+    author: "GodShin"
+    codes:
+      - "0088997C 00000096"
+
+  - name: "Burning Character Player 2"
+    author: "GodShin"
+    codes:
+      - "00889BFC 00000096"
+
+  - name: "Infinitely Full Super Energy Player 1"
+    author: "GodShin"
+    codes:
+      - "0088997C 00000020"
+
+  - name: "Infinitely Full Super Energy Player 2"
+    author: "GodShin"
+    codes:
+      - "00889BFC 00000020"
+
+  - name: "Infinitely Super Energy Player 1"
+    author: "GodShin"
+    codes:
+      - "00889948 00000003"
+
+  - name: "Infinitely Super Energy Player 2"
+    author: "GodShin"
+    codes:
+      - "00889BC8 00000003"
+
+  - name: "Life Player 1"
+    author: "GodShin"
+    codes:
+      - "00889998 000000E0"
+
+  - name: "Life Player 2"
+    author: "GodShin"
+    codes:
+      - "00889C18 000000E0"

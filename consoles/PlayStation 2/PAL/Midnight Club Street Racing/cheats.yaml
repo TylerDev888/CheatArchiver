@@ -1,0 +1,37 @@
+# Midnight Club Street Racing cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Midnight Club Street Racing"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 002B959B"
+
+  - name: "Unlimited Health"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "102C3E04 7FFFFFFF"
+
+  - name: "Arcade"
+    author: "Xploder"
+    notes: "[Unlock Cars]"
+    codes:
+      - "102C4130 0723FFFF"
+      - "102C4131 0723FFFF"
+
+  - name: "Career"
+    author: "Xploder"
+    notes: "[Unlock Cars]"
+    codes:
+      - "102C5B80 0723FFFF"
+      - "102C5B81 0723FFFF"

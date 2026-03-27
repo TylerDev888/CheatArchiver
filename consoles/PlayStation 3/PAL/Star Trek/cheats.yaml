@@ -1,0 +1,20 @@
+# Star Trek cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01792
+
+game: "Star Trek"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01792"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Md5 (required)"
+    notes: "File: SETTINGS  (set range:0x000010,0x04218B)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000010,pointer"
+      - "set [hash]:MD5"
+      - "write at 0x000000:[hash]"

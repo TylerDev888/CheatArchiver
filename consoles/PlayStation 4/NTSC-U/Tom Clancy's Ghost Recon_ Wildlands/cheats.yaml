@@ -1,0 +1,155 @@
+# Tom Clancy's Ghost Recon_ Wildlands cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA02819
+
+game: "Tom Clancy's Ghost Recon_ Wildlands"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA02819"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Current Rank Gain 10 XP to Rank Up."
+    notes: "File: Campaign: Slot 1	sce_sdmemory\\memory\\.dat|(GRWGRW[1-2])\\GRW[0-9]{1,2}.SAV"
+    codes:
+      - "80010004 DA732F43"
+      - "88010004 0006000B"
+      - "28000004 05F5E0FF"
+
+  - name: "MAX level: lvl 30"
+    notes: "File: Campaign: Slot 1	sce_sdmemory\\memory\\.dat|(GRWGRW[1-2])\\GRW[0-9]{1,2}.SAV"
+    codes:
+      - "8001000D 474EC92E"
+      - "00000000 00000600"
+      - "0B000000 00000000"
+      - "2800000D 0000001E"
+
+  - name: "TIER: 40 (unlocks desert tech HTIBOC sniper)"
+    notes: "File: Campaign: Slot 1	sce_sdmemory\\memory\\.dat|(GRWGRW[1-2])\\GRW[0-9]{1,2}.SAV"
+    codes:
+      - "80010004 35CC42F8"
+      - "88010004 0006000B"
+      - "28000004 05F5E0FF"
+      - "8001000D F37629DC"
+      - "00000000 00000600"
+      - "0B000000 00000000"
+      - "2800000D 0000000A"
+
+  - name: "TIER: 5  (unlocks LVOA-C bad news assault rifle)"
+    notes: "File: Campaign: Slot 1	sce_sdmemory\\memory\\.dat|(GRWGRW[1-2])\\GRW[0-9]{1,2}.SAV"
+    codes:
+      - "80010004 35CC42F8"
+      - "88010004 0006000B"
+      - "28000004 05F5E0FF"
+      - "8001000D F37629DC"
+      - "00000000 00000600"
+      - "0B000000 00000000"
+      - "2800000D 0000002D"
+
+  - name: "TIER: 1 (unlocks carbon camo)"
+    notes: "File: Campaign: Slot 1	sce_sdmemory\\memory\\.dat|(GRWGRW[1-2])\\GRW[0-9]{1,2}.SAV"
+    codes:
+      - "80010004 35CC42F8"
+      - "88010004 0006000B"
+      - "28000004 05F5E0FF"
+      - "8001000D F37629DC"
+      - "00000000 00000600"
+      - "0B000000 00000000"
+      - "2800000D 00000031"
+
+  - name: "Max Current Tier Level"
+    notes: "File: Campaign: Slot 1	sce_sdmemory\\memory\\.dat|(GRWGRW[1-2])\\GRW[0-9]{1,2}.SAV  Activate Tier Level up after each use."
+    codes:
+      - "80010004 35CC42F8"
+      - "88010004 0006000B"
+      - "28000004 05F5E0FF"
+
+  - name: "Max Tier Level 50"
+    notes: "File: Campaign: Slot 1	sce_sdmemory\\memory\\.dat|(GRWGRW[1-2])\\GRW[0-9]{1,2}.SAV"
+    codes:
+      - "80010004 35CC42F8"
+      - "88010004 0006000B"
+      - "28000004 05F5E0FF"
+      - "8001000D F37629DC"
+      - "00000000 00000600"
+      - "0B000000 00000000"
+      - "2800000D 00000001"
+
+  - name: "Tier 45 For getting Wingnut Helmet"
+    notes: "File: Campaign: Slot 1	sce_sdmemory\\memory\\.dat|(GRWGRW[1-2])\\GRW[0-9]{1,2}.SAV"
+    codes:
+      - "80010004 35CC42F8"
+      - "88010004 0006000B"
+      - "28000004 05F5E0FF"
+      - "8001000D F37629DC"
+      - "00000000 00000600"
+      - "0B000000 00000000"
+      - "2800000D 00000005"
+
+  - name: "Tier 35 For getting Red Shemagh Facewear"
+    notes: "File: Campaign: Slot 1	sce_sdmemory\\memory\\.dat|(GRWGRW[1-2])\\GRW[0-9]{1,2}.SAV"
+    codes:
+      - "80010004 35CC42F8"
+      - "88010004 0006000B"
+      - "28000004 05F5E0FF"
+      - "8001000D F37629DC"
+      - "00000000 00000600"
+      - "0B000000 00000000"
+      - "2800000D 0000000F"
+
+  - name: "Tier 30 For getting Old Glory Right Arm Paint"
+    notes: "File: Campaign: Slot 1	sce_sdmemory\\memory\\.dat|(GRWGRW[1-2])\\GRW[0-9]{1,2}.SAV"
+    codes:
+      - "80010004 35CC42F8"
+      - "88010004 0006000B"
+      - "28000004 05F5E0FF"
+      - "8001000D F37629DC"
+      - "00000000 00000600"
+      - "0B000000 00000000"
+      - "2800000D 00000014"
+
+  - name: "Tier 25 For getting Galea Face Paint"
+    notes: "File: Campaign: Slot 1	sce_sdmemory\\memory\\.dat|(GRWGRW[1-2])\\GRW[0-9]{1,2}.SAV"
+    codes:
+      - "80010004 35CC42F8"
+      - "88010004 0006000B"
+      - "28000004 05F5E0FF"
+      - "8001000D F37629DC"
+      - "00000000 00000600"
+      - "0B000000 00000000"
+      - "2800000D 00000019"
+
+  - name: "Tier 20 For getting Wolf Skin Weapon Camo"
+    notes: "File: Campaign: Slot 1	sce_sdmemory\\memory\\.dat|(GRWGRW[1-2])\\GRW[0-9]{1,2}.SAV"
+    codes:
+      - "80010004 35CC42F8"
+      - "88010004 0006000B"
+      - "28000004 05F5E0FF"
+      - "8001000D F37629DC"
+      - "00000000 00000600"
+      - "0B000000 00000000"
+      - "2800000D 0000001E"
+
+  - name: "Tier 15 For getting Operator Facewear"
+    notes: "File: Campaign: Slot 1	sce_sdmemory\\memory\\.dat|(GRWGRW[1-2])\\GRW[0-9]{1,2}.SAV"
+    codes:
+      - "80010004 35CC42F8"
+      - "88010004 0006000B"
+      - "28000004 05F5E0FF"
+      - "8001000D F37629DC"
+      - "00000000 00000600"
+      - "0B000000 00000000"
+      - "2800000D 00000023"
+
+  - name: "Tier 10 For getting Left Arm Tattoo"
+    notes: "File: Campaign: Slot 1	sce_sdmemory\\memory\\.dat|(GRWGRW[1-2])\\GRW[0-9]{1,2}.SAV"
+    codes:
+      - "80010004 35CC42F8"
+      - "88010004 0006000B"
+      - "28000004 05F5E0FF"
+      - "8001000D F37629DC"
+      - "00000000 00000600"
+      - "0B000000 00000000"
+      - "2800000D 00000028"

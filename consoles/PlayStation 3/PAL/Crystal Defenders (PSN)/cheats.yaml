@@ -1,0 +1,32 @@
+# Crystal Defenders (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00110
+
+game: "Crystal Defenders (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00110"
+cheat_type: "Save Editor"
+source: "From SHAkA"
+
+cheats:
+  - name: "Wave 1-999 Money"
+    notes: "File: DATA-SYS"
+    codes:
+      - "write at 0x000003DE:0x03E7"
+
+  - name: "999 Crystal"
+    notes: "File: DATA-SYS"
+    codes:
+      - "write at 0x000003E2:0x03E7"
+
+  - name: "Wave 2-999 Money"
+    notes: "File: DATA-SYS"
+    codes:
+      - "write at 0x00000FFA:0x03E7"
+
+  - name: "Wave 3-999 Money"
+    notes: "File: DATA-SYS"
+    codes:
+      - "write at 0x00001C16:0x03E7"

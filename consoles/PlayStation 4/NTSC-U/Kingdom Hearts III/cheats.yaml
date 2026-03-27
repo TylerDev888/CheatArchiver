@@ -1,0 +1,60 @@
+# Kingdom Hearts III cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA12025
+
+game: "Kingdom Hearts III"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA12025"
+cheat_type: "AP"
+source: "by bucanero"
+
+cheats:
+  - name: "Munny $9999999"
+    notes: "File: *"
+    codes:
+      - "20000028 0098967F"
+
+  - name: "Total Exp 9999999"
+    notes: "File: *"
+    codes:
+      - "20000024 0098967F"
+
+  - name: "Display Level 99"
+    notes: "File: *"
+    codes:
+      - "0000002C 00000063"
+
+  - name: "99 Bonus Hp"
+    notes: "File: *"
+    codes:
+      - "0000B414 00000063"
+
+  - name: "99 Bonus Mp"
+    notes: "File: *"
+    codes:
+      - "0000B418 00000063"
+
+  - name: "99 Bonus Strength"
+    notes: "File: *"
+    codes:
+      - "0000B41C 00000063"
+
+  - name: "99 Bonus Magic"
+    notes: "File: *"
+    codes:
+      - "0000B420 00000063"
+
+  - name: "99 Bonus Defense"
+    notes: "File: *"
+    codes:
+      - "0000B424 00000063"
+
+  - name: "Update Crc32 (required)"
+    notes: "File: *"
+    codes:
+      - "set range:0x0010,EOF+1"
+      - "set [hash]:CRC32"
+      - "set [hash]:endian_swap"
+      - "write at 0x0C:[hash]"

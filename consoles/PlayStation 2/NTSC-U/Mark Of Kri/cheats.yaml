@@ -1,0 +1,423 @@
+# Mark Of Kri cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97140
+
+game: "Mark Of Kri"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97140"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0036A8EF"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Masters]"
+    codes:
+      - "9036A8EC 0C0E0903"
+
+  - name: "Infinite Health"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "203DBBC8 00000001"
+
+  - name: "Idiot AI"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "201C5130 03E00008"
+      - "201C5134 00000000"
+
+  - name: "Infinite Arrows"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "20183C80 00000000"
+
+  - name: "Extra Arrows"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "10183C7C 00000001"
+
+  - name: "P1 Press L1+Select To Enable Walk Thru Walls"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "E002FBFE 01F0E946"
+      - "20192F88 03E00008"
+      - "20192F8C 00000000"
+
+  - name: "P1 Press L2+Select To Disable Walk Thru Walls"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "E002FEFE 01F0E946"
+      - "20192F88 27BDFFC0"
+      - "20192F8C FFB20020"
+
+  - name: "Running Speed Modifier (Default 41B80165)"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "203DC0B8 ????????"
+
+  - name: "Infinite Save Scrolls"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "20288E20 24020004"
+      - "20288E28 A0431D40"
+
+  - name: "Disable Weapon Wall Collisions"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "2018AE70 03E00008"
+      - "2018AE74 00000000"
+
+  - name: "Disable Wall Collisions"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "2018B6C0 03E00008"
+      - "2018B6C4 00000000"
+
+  - name: "AI Can�T See You"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "20218F28 03E00008"
+      - "20218F2C 00000000"
+
+  - name: "AI Can�T Sense You"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "20218FC0 03E00008"
+      - "20218FC4 00000000"
+
+  - name: "AI Can�T Hear You"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "20219058 03E00008"
+      - "2021905C 00000000"
+
+  - name: "Enemies Can�T Block Your Attacks"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "201BBD80 03E00008"
+      - "201BBD84 00000000"
+
+  - name: "AI Can�T Blow Horns"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "201BF7A8 03E00008"
+      - "201BF7AC 00000000"
+
+  - name: "AI Can�T Blow Big Horns"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "201BF580 03E00008"
+      - "201BF584 00000000"
+
+  - name: "AI Can�T Shoot Arrows"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "201BB5C8 03E00008"
+      - "201BB5CC 00000000"
+
+  - name: "AI Can�T Steal Weapons"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "201D06B0 03E00008"
+      - "201D06B4 00000000"
+
+  - name: "AI Can�T Defend Against Counter/Throw"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "201BAD48 03E00008"
+      - "201BAD4C 00000000"
+
+  - name: "AI No Alert Troops"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "201CB348 03E00008"
+      - "201CB34C 00000000"
+
+  - name: "AI No Alert Groups"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "201D1C48 03E00008"
+      - "201D1C4C 00000000"
+
+  - name: "AI No Alert Patrols"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "201C0EE0 03E00008"
+      - "201C0EE4 00000000"
+
+  - name: "AI No Agitated Alert"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "201C2148 03E00008"
+      - "201C214C 00000000"
+
+  - name: "AI No Cautious Alert"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "201C17A0 03E00008"
+      - "201C17A4 00000000"
+
+  - name: "Armor Of Enemies Disabled"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "201B4F40 03E00008"
+      - "201B4F44 00000000"
+
+  - name: "Birds Don�T Runaway"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "201F3680 03E00008"
+      - "201F3684 00000000"
+
+  - name: "Birds Don�T Take Off"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "201F29C8 03E00008"
+      - "201F29CC 00000000"
+
+  - name: "AI Can�T Update Visibility Of Player"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "201B9C28 03E00008"
+      - "201B9C2C 00000000"
+
+  - name: "AI Doesn�T Attack You"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "20197B58 03E00008"
+      - "20197B5C 00000000"
+
+  - name: "Show Excite Info"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "203DBC40 00000001"
+
+  - name: "Show Debug Env Collision Wire Frame Info"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "203DBAE0 00000001"
+
+  - name: "Skip Pre-Level Movie"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "20434FD4 00000001"
+
+  - name: "Pickup 1 Save Scroll For Max Save Scrolls"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "10219E04 00000008"
+
+  - name: "Disable SCEA Screen"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "202D73EC 00000000"
+
+  - name: "Disable Studio Screen"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "202D73F4 00000000"
+
+  - name: "Disable Legal Screen"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "202D73FC 00000000"
+
+  - name: "Disable Intro Movie"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "202D7438 00000000"
+
+  - name: "Disable FMV"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "2036E8D0 24020001"
+
+  - name: "Infinite Time Attack Time (Arenas)"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "20436D08 41F00000"
+
+  - name: "P1 Hold L1+R2 For More Body Count Time (Body Count Arena)"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "D1F0E946 0000F3FF"
+      - "20436D0C 42C80000"
+
+  - name: "Start With All Weapons"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "20436D18 00000006"
+
+  - name: "Press Start For Pregame Debug Menu"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "203C38D4 00161810"
+
+  - name: "Press Select For Debug Menu"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "203DBAA8 00000001"
+
+  - name: "Unlock All Outfits/Arenas/Cheats"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "20436C68 FFFFFFFF"
+
+  - name: "Unlock All Movies & Art"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "20436C6C FFFFFFFF"
+
+  - name: "Invisible Characters & Enemies"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "202FA170 03E00008"
+      - "202FA174 00000000"
+
+  - name: "Always Wear Outfit Modifier"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "00436C70 000000??"
+
+  - name: "Activate Cheat Modifier"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Codes]"
+    codes:
+      - "00436C71 000000??"
+
+  - name: "Can Open Most Doors"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Activate In-Game Cheat Codes]"
+    codes:
+      - "101E760E 00001000"
+
+  - name: "Can Always Return To Inn"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Activate In-Game Cheat Codes]"
+    codes:
+      - "202A3510 00000000"
+
+  - name: "Invincible (0400)"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Activate In-Game Cheat Codes]"
+    codes:
+      - "10127CD2 00001000"
+
+  - name: "Infinite Arrows (2000)"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Activate In-Game Cheat Codes]"
+    codes:
+      - "10183C7A 00001000"
+      - "202CA788 00000000"
+
+  - name: "Tougher Enemies (0100)"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Activate In-Game Cheat Codes]"
+    codes:
+      - "2018EF10 00000000"
+      - "201B6A2C 00000000"
+
+  - name: "Wimpy Enemies (1000)"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Activate In-Game Cheat Codes]"
+    codes:
+      - "201B66AC 00000000"
+
+  - name: "Arena Enemies Idiot AI (0200)"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Activate In-Game Cheat Codes]"
+    codes:
+      - "101BA912 00001000"
+
+  - name: "Full Max Health/Power (4000)"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Activate In-Game Cheat Codes]"
+    codes:
+      - "20200D2C 00000000"
+      - "20219130 00000000"
+      - "202CA748 00000000"
+
+  - name: "Challenge 1"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Have Baumusu's Challenge Complete Codes]"
+    codes:
+      - "203D90B4 00000001"
+
+  - name: "Challenge 2"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Have Baumusu's Challenge Complete Codes]"
+    codes:
+      - "203D90C0 00000001"
+
+  - name: "Challenge 3"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Have Baumusu's Challenge Complete Codes]"
+    codes:
+      - "203D90CC 00000001"
+
+  - name: "Challenge 4"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Have Baumusu's Challenge Complete Codes]"
+    codes:
+      - "203D90D8 00000001"
+
+  - name: "Challenge 5"
+    author: "Code Master>Floydfan>The GFCC"
+    notes: "[Have Baumusu's Challenge Complete Codes]"
+    codes:
+      - "203D90E4 00000001"

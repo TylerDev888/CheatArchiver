@@ -1,0 +1,104 @@
+# NHL Hitz 2003 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20438
+
+game: "NHL Hitz 2003"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20438"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master>Nick Hammond"
+    notes: "[Master Codes]"
+    codes:
+      - "F0420758 00469D17"
+
+  - name: "All Goal's Score For Away Team"
+    author: "Code Master>Nick Hammond"
+    codes:
+      - "202AF734 24040004"
+
+  - name: "All Goal's Score For Home Team"
+    author: "Code Master>Nick Hammond"
+    codes:
+      - "202AF734 24040000"
+
+  - name: "Away Team Always Full Fire Meter"
+    author: "Code Master>Nick Hammond"
+    codes:
+      - "200C0240 24010064"
+      - "200C0244 AC4100D0"
+      - "200C0248 24010001"
+      - "200C024C 080DFC11"
+      - "200C0250 AC4100D4"
+      - "2037EFE8 00A01021"
+      - "2037EFEC 08030090"
+
+  - name: "Disable Checking"
+    author: "Code Master>Nick Hammond"
+    codes:
+      - "2026C7F0 03E00008"
+      - "2026C7F4 00000000"
+
+  - name: "Goal's Score Modifier"
+    author: "Code Master>Nick Hammond"
+    codes:
+      - "102AF744 000000??"
+
+  - name: "High Max Turbo"
+    author: "Code Master>Nick Hammond"
+    codes:
+      - "20721F84 447A0000"
+
+  - name: "Home Team Always Full Fire Meter"
+    author: "Code Master>Nick Hammond"
+    codes:
+      - "200C0220 24010064"
+      - "200C0224 AC4100D0"
+      - "200C0228 24010001"
+      - "200C022C 080DFBCD"
+      - "200C0230 AC4100D4"
+      - "2037EEF4 00A01021"
+      - "2037EEF8 08030088"
+
+  - name: "Infinite Turbo (All Players)"
+    author: "Code Master>Nick Hammond"
+    codes:
+      - "20272C94 00000000"
+      - "20272D9C 00000000"
+      - "20272DD0 00000000"
+      - "2027301C 00000000"
+
+  - name: "Offsides Always Off"
+    author: "Code Master>Nick Hammond"
+    codes:
+      - "20721474 00000000"
+
+  - name: "Offsides Always On"
+    author: "Code Master>Nick Hammond"
+    codes:
+      - "20721474 00000001"
+
+  - name: "Puck Gravity Modifier (Default 411Ccccd)"
+    author: "Code Master>Nick Hammond"
+    codes:
+      - "207218F8 ????????"
+
+  - name: "Replay Always Off"
+    author: "Code Master>Nick Hammond"
+    codes:
+      - "207211A8 00000000"
+
+  - name: "Replay Always On"
+    author: "Code Master>Nick Hammond"
+    codes:
+      - "207211A8 00000001"
+
+  - name: "Super Max Puck Speed"
+    author: "Code Master>Nick Hammond"
+    codes:
+      - "20728358 447A0000"

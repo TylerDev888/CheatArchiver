@@ -1,0 +1,118 @@
+# TOCA Race Driver 3 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53087
+
+game: "TOCA Race Driver 3"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53087"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F04664CC 004664CF"
+      - "20503910 52504F49"
+      - "20503914 30303350"
+      - "20503918 474D492E"
+
+  - name: "Boost For All Cars"
+    author: "Codejunkies"
+    notes: "[Enable Codes]"
+    codes:
+      - "005400C2 00000001"
+
+  - name: "Invincible Cars"
+    author: "Codejunkies"
+    notes: "[Enable Codes]"
+    codes:
+      - "00540107 00000001"
+
+  - name: "No Streamed Car Sound"
+    author: "Codejunkies"
+    notes: "[Enable Codes]"
+    codes:
+      - "0054015B 00000001"
+
+  - name: "Turbo Boost"
+    author: "Codejunkies"
+    notes: "[Enable Codes]"
+    codes:
+      - "005400D3 00000001"
+
+  - name: "Unlock Bonus Championships"
+    author: "Codejunkies"
+    notes: "[Enable Codes]"
+    codes:
+      - "005400B1 00000001"
+
+  - name: "Unlock Championships"
+    author: "Codejunkies"
+    notes: "[Enable Codes]"
+    codes:
+      - "005400A0 00000001"
+
+  - name: "Unlock Cutscenes"
+    author: "Codejunkies"
+    notes: "[Enable Codes]"
+    codes:
+      - "00540117 00000001"
+
+  - name: "Unlock Honda"
+    author: "Codejunkies"
+    notes: "[Enable Codes]"
+    codes:
+      - "0054014A 00000001"
+
+  - name: "Unlock Honda 2006"
+    author: "Codejunkies"
+    notes: "[Enable Codes]"
+    codes:
+      - "00540139 00000001"
+
+  - name: "Unlock Slot Racer"
+    author: "Codejunkies"
+    notes: "[Enable Codes]"
+    codes:
+      - "005400F5 00000001"
+
+  - name: "Unlock Toy Cars"
+    author: "Codejunkies"
+    notes: "[Enable Codes]"
+    codes:
+      - "005400E4 00000001"
+
+  - name: "999 Points"
+    author: "Codejunkies"
+    codes:
+      - "207C1614 000003E7"
+
+  - name: "Start On 2Nd Lap"
+    author: "Codejunkies"
+    codes:
+      - "E0020001 0055D384"
+      - "D055D386 00000000"
+      - "2055D384 00000002"
+
+  - name: "Start On 3Rd Lap"
+    author: "Codejunkies"
+    codes:
+      - "E0020001 0055D384"
+      - "D055D386 00000000"
+      - "2055D384 00000003"
+
+  - name: "Start With 99 Points"
+    author: "Codejunkies"
+    codes:
+      - "E0020000 007C1614"
+      - "D07C1616 00000000"
+      - "207C1614 00000063"
+
+  - name: "Unlock All Bonus Content"
+    author: "Codejunkies"
+    codes:
+      - "2055BCBC FFFFFFFF"

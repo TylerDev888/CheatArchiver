@@ -1,0 +1,69 @@
+# Disney's Bolt cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-55429
+
+game: "Disney's Bolt"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-55429"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "1Hitkill"
+    author: "luc-ita"
+    codes:
+      - "20204CC8 00000000"
+
+  - name: "Always Full Energy"
+    author: "luc-ita"
+    codes:
+      - "20150188 00000000"
+      - "20150238 00000000"
+
+  - name: "Each Block Of Energy Increases The Total Energy"
+    author: "luc-ita"
+    codes:
+      - "2014D818 00000000"
+
+  - name: "Each Life Block Increases The Total Life"
+    author: "luc-ita"
+    codes:
+      - "20204590 00000000"
+
+  - name: "Fragments Always Restore All Life"
+    author: "luc-ita"
+    codes:
+      - "20204698 00000000"
+
+  - name: "Hit An Enemy To Refill The Supercharge"
+    author: "luc-ita"
+    codes:
+      - "2014CDD8 00000000"
+
+  - name: "Inside The Firewall You Can Always Drop Bombs"
+    author: "luc-ita"
+    codes:
+      - "2019D964 00000000"
+
+  - name: "Moonjump"
+    author: "luc-ita"
+    codes:
+      - "2022A070 54400012"
+      - "20171F14 54400012"
+      - "E00200FF 007AD70E"
+      - "2022A070 10000012"
+      - "20171F14 10000012"
+
+  - name: "Only 1 Block Of Energy To Maximize Total Energy"
+    author: "luc-ita"
+    codes:
+      - "2014D818 00000000"
+      - "2014D844 10000021"
+
+  - name: "Only 1 Life Block To Maximize Total Life"
+    author: "luc-ita"
+    codes:
+      - "20204590 00000000"
+      - "202045B4 10000021"

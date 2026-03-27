@@ -1,0 +1,602 @@
+# Def Jam - Fight For NY cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21004
+
+game: "Def Jam - Fight For NY"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21004"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F033D95C 0033D95F"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0033D95F"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "9032F36C 0C0CBBD0"
+      - "200C2000 3406270F"
+      - "200C2004 08052C23"
+      - "200C2008 AEC6004C"
+
+  - name: "Can Perform Blazin' Move At Any Time - P1"
+    author: "Josh_7774"
+    codes:
+      - "004BCAAE 00000002"
+
+  - name: "Can Perform Blazin' Move At Any Time - P2"
+    author: "Josh_7774"
+    codes:
+      - "004BDDA6 00000002"
+
+  - name: "Can Perform Blazin' Move At Any Time - P3"
+    author: "Josh_7774"
+    codes:
+      - "004BF09E 00000002"
+
+  - name: "Can Perform Blazin' Move At Any Time - P4"
+    author: "Josh_7774"
+    codes:
+      - "004C0396 00000002"
+
+  - name: "Force Facing Angle South - P1"
+    author: "Josh_7774"
+    codes:
+      - "204BC1C4 00000000"
+
+  - name: "Force Facing Angle South - P2"
+    author: "Josh_7774"
+    codes:
+      - "204BD4BC 00000000"
+
+  - name: "Force Facing Angle South - P3"
+    author: "Josh_7774"
+    codes:
+      - "204BE7B4 00000000"
+
+  - name: "Force Facing Angle South - P4"
+    author: "Josh_7774"
+    codes:
+      - "204BFAAC 00000000"
+
+  - name: "Infinite Dev Points"
+    author: "Codejunkies"
+    codes:
+      - "208EC208 05F5E0FF"
+
+  - name: "Mute Bored Announcer Speech"
+    author: "Josh_7774"
+    codes:
+      - "203FD6B0 41480000"
+
+  - name: "Mute Crowd Ambience"
+    author: "Josh_7774"
+    codes:
+      - "203FD6F8 00000000"
+
+  - name: "Mute Crowd Speech"
+    author: "Josh_7774"
+    codes:
+      - "203FD6D8 00000000"
+
+  - name: "Player 1 Can't Escape Submissions"
+    author: "BigBossman"
+    codes:
+      - "204BC4E8 00000001"
+
+  - name: "Infinite Health"
+    author: "MadCatz"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "204BC4C0 42C80000"
+      - "204BC4C8 42C80000"
+
+  - name: "Infinite Health-Head"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "204BC4C8 44000000"
+
+  - name: "Infinite Health-Legs"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "204BC4C0 44000000"
+
+  - name: "Infinite Momentum/Stamina"
+    author: "MadCatz"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "204BC4D4 42C80000"
+
+  - name: "Infinite Stamina"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "204BC9B4 42C80000"
+
+  - name: "Max Health"
+    author: "MadCatz"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "204BC4C4 42C80000"
+
+  - name: "Max Reward Points"
+    author: "MadCatz"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "2014B088 08030800"
+
+  - name: "Max Score"
+    author: "MadCatz"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "204BC5F0 05F5E0FF"
+
+  - name: "Minimum Stamina"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "204BC4D4 3F800000"
+
+  - name: "Never Score"
+    author: "MadCatz"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "204BC5F0 00000000"
+
+  - name: "No Health"
+    author: "MadCatz"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "204BC4C0 00000000"
+      - "204BC4C4 00000000"
+      - "204BC4C8 00000000"
+
+  - name: "No Health-Head"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "204BC4C8 3F800000"
+
+  - name: "No Health-Legs"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "204BC4C0 3F800000"
+
+  - name: "No Momentum/Stamina"
+    author: "MadCatz"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "204BC4D4 00000000"
+
+  - name: "No Stamina"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "204BC9B4 40000000"
+
+  - name: "Player 2 Can't Escape Submissions"
+    author: "BigBossman"
+    codes:
+      - "204BD7E0 00000001"
+
+  - name: "Player 3 Can't Escape Submissions"
+    author: "BigBossman"
+    codes:
+      - "204BEAD8 00000001"
+
+  - name: "Max Stamina"
+    author: "Codejunkies"
+    notes: "[Player 3 Codes]"
+    codes:
+      - "204BEAC4 42C80000"
+
+  - name: "Player 4 Can't Escape Submissions"
+    author: "BigBossman"
+    codes:
+      - "204BFDD0 00000001"
+
+  - name: "Infinite Cash"
+    author: "Codejunkies"
+    notes: "[Profile 1 Codes]"
+    codes:
+      - "208EC200 05F5E0FF"
+
+  - name: "Infinite Money"
+    author: "Code Master"
+    notes: "[Profile 1 Codes]"
+    codes:
+      - "108EC200 0000FFFF"
+
+  - name: "Infinite Reward Points"
+    author: "Codejunkies"
+    notes: "[Profile 1 Codes]"
+    codes:
+      - "208EAB50 0001869F"
+
+  - name: "Max Cash"
+    author: "MadCatz"
+    notes: "[Profile 1 Codes]"
+    codes:
+      - "208EC200 3B9AC9FF"
+
+  - name: "Max DEV Points"
+    author: "MadCatz"
+    notes: "[Profile 1 Codes]"
+    codes:
+      - "208EC208 3B9AC9FF"
+
+  - name: "Max Money"
+    author: "Code Master"
+    notes: "[Profile 2 Codes]"
+    codes:
+      - "208F1B60 05F5E0FF"
+
+  - name: "Access All Gear"
+    author: "Code Master"
+    notes: "[Story Mode Codes]"
+    codes:
+      - "200C0220 240300FF"
+      - "200C0224 080D85B3"
+      - "200C0228 A0430000"
+      - "203616C8 08030088"
+
+  - name: "Access All Moves"
+    author: "Code Master"
+    notes: "[Story Mode Codes]"
+    codes:
+      - "200C0230 240200FF"
+      - "200C0234 080D852F"
+      - "200C0238 A0620000"
+      - "203614B8 0803008C"
+
+  - name: "Buying Gear Doesn't Decrease Overall Money"
+    author: "Code Master"
+    notes: "[Story Mode Codes]"
+    codes:
+      - "201042D0 00000000"
+
+  - name: "Buying Gear Increases Overall Money"
+    author: "Code Master"
+    notes: "[Story Mode Codes]"
+    codes:
+      - "201042CC 00651021"
+
+  - name: "Training/Learning Doesn't Decrease Dev Points"
+    author: "Code Master"
+    notes: "[Story Mode Codes]"
+    codes:
+      - "20147474 00000000"
+
+  - name: "Training/Learning Increases Dev Points"
+    author: "Code Master"
+    notes: "[Story Mode Codes]"
+    codes:
+      - "2014746C 00561021"
+
+  - name: "Infinite Arm Health P1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BC998 42480000"
+
+  - name: "Infinite Arm Health P2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BDC90 42480000"
+
+  - name: "Infinite Arm Health P3"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BEF88 42480000"
+
+  - name: "Infinite Arm Health P4"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204C0280 42480000"
+
+  - name: "Infinite Head Health P1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BC990 42480000"
+
+  - name: "Infinite Head Health P2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BDC88 42480000"
+
+  - name: "Infinite Head Health P3"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BEF80 42480000"
+
+  - name: "Infinite Head Health P4"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204C0278 42480000"
+
+  - name: "Infinite Health P1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BC4C0 43FA0000"
+      - "204BC4C4 43FA0000"
+      - "204BC4C8 43FA0000"
+
+  - name: "Infinite Health P2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BD7B8 43FA0000"
+      - "204BD7BC 43FA0000"
+      - "204BD7C0 43FA0000"
+
+  - name: "Infinite Health P3"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BEAB0 43FA0000"
+      - "204BEAB4 43FA0000"
+      - "204BEAB8 43FA0000"
+
+  - name: "Infinite Health P4"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BFDA8 43FA0000"
+      - "204BFDAC 43FA0000"
+      - "204BFDB0 43FA0000"
+
+  - name: "Infinite Leg Health P1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BC99C 42480000"
+
+  - name: "Infinite Leg Health P2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BDC94 42480000"
+
+  - name: "Infinite Leg Health P3"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BEF8C 42480000"
+
+  - name: "Infinite Leg Health P4"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204C0284 42480000"
+
+  - name: "No Arm Health P1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BC998 00000000"
+
+  - name: "No Arm Health P2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BDC90 00000000"
+
+  - name: "No Arm Health P3"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BEF88 00000000"
+
+  - name: "No Arm Health P4"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204C0280 00000000"
+
+  - name: "No Head Health P1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BC990 00000000"
+
+  - name: "No Head Health P2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BDC88 00000000"
+
+  - name: "No Head Health P3"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BEF80 00000000"
+
+  - name: "No Head Health P4"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204C0278 00000000"
+
+  - name: "No Health P1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BC4C0 00000000"
+
+  - name: "No Health P2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BD7B8 00000000"
+
+  - name: "No Health P3"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BEAB0 00000000"
+
+  - name: "No Health P4"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BFDA8 00000000"
+
+  - name: "No Health Regeneration P1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BC4C8 00000000"
+
+  - name: "No Health Regeneration P2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BD7C0 00000000"
+
+  - name: "No Health Regeneration P3"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BEAB8 00000000"
+
+  - name: "No Health Regeneration P4"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BFDB0 00000000"
+
+  - name: "No Leg Health P1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BC99C 00000000"
+
+  - name: "No Leg Health P2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BDC94 00000000"
+
+  - name: "No Leg Health P3"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BEF8C 00000000"
+
+  - name: "No Leg Health P4"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204C0284 00000000"
+
+  - name: "No Momentum P3"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BEAC4 00000000"
+
+  - name: "No Momentum P4"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "204BFDBC 00000000"
+
+  - name: "Quick Score Gain P1"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "104BC5F0 0000FFFF"
+
+  - name: "Quick Score Gain P2"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "104BD8E8 0000FFFF"
+
+  - name: "Quick Score Gain P3"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "104BEBE0 0000FFFF"
+
+  - name: "Quick Score Gain P4"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "104BFED8 0000FFFF"
+
+  - name: "Buying Fighters Doesn't Decrease Points"
+    author: "Code Master"
+    notes: "[Unlock Rewards Codes]"
+    codes:
+      - "2014C00C 00000000"
+
+  - name: "Buying Fighters Increases Points"
+    author: "Code Master"
+    notes: "[Unlock Rewards Codes]"
+    codes:
+      - "2014C008 00621821"
+
+  - name: "Buying Venues Doesn't Decrease Points"
+    author: "Code Master"
+    notes: "[Unlock Rewards Codes]"
+    codes:
+      - "2014C9CC 00000000"
+
+  - name: "Buying Venues Increases Points"
+    author: "Code Master"
+    notes: "[Unlock Rewards Codes]"
+    codes:
+      - "2014C9C8 00621821"
+
+  - name: "Unlock All Fighters"
+    author: "Code Master"
+    notes: "[Unlock Rewards Codes]"
+    codes:
+      - "208EAB24 0000004B"
+      - "408EBDE4 004B0001"
+      - "07000000 00000001"
+
+  - name: "Unlock All Venues"
+    author: "Code Master"
+    notes: "[Unlock Rewards Codes]"
+    codes:
+      - "208EAB10 00000018"
+      - "408EBD6C 00180001"
+      - "17000000 00000001"
+
+  - name: "Momentum Regenerates Extremely Quickly (All Players) [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "20306950 00000000"
+
+  - name: "Running Doesn't Deplete Momentum [ASM]"
+    author: "Josh_7774"
+    notes: "[[ASM]]"
+    codes:
+      - "20306ACC 00000000"

@@ -1,0 +1,26 @@
+# Lucian Bee's_ Resurrection Supernova cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-55194
+
+game: "Lucian Bee's_ Resurrection Supernova"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-55194"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90110C30 0C0442B4"
+
+  - name: "Enable Debug Menu (Triangle + Circle While Returning To The Title Screen)"
+    author: "punk7890"
+    codes:
+      - "D05819BE 0000CFFF"
+      - "001A5868 00000017"
+      - "D05819BE 0000FFFF"
+      - "001A5868 00000008"

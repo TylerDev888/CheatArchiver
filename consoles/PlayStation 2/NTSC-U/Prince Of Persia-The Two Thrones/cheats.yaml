@@ -1,0 +1,115 @@
+# Prince Of Persia-The Two Thrones cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21287
+
+game: "Prince Of Persia-The Two Thrones"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21287"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90103F10 0C046740"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20425534 2403012C"
+      - "2042553C AE0302B0"
+
+  - name: "Max Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 2401012C"
+      - "200C0224 08056090"
+      - "200C0228 AE011BFC"
+      - "204255A8 0C030088"
+
+  - name: "Dont Die From Falling High Distances"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2018E768 00000000"
+
+  - name: "Infinite Sand Meter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0230 2401000C"
+      - "200C0234 08051AC0"
+      - "200C0238 AE010D08"
+      - "204255B4 0C03008C"
+
+  - name: "Infinite Check Point Meter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204C8898 00000000"
+      - "204C98E0 00000000"
+      - "204C99A8 00000000"
+
+  - name: "Infinite Sand Usage"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203268A4 00000000"
+
+  - name: "1-Hit Death (Bosses)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201FCD24 24020000"
+
+  - name: "Infinite Weapon Usage"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202416B4 00000000"
+
+  - name: "Max Sand Credits"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20A952B4 0001869F"
+
+  - name: "Unlock Video Gallery"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "70AB76F4 00000001"
+
+  - name: "P1 Press L1+Select For Normal Speed"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0AD34C2 0000FBFE"
+      - "20A90808 3F800000"
+
+  - name: "P1 Press L2+Select For Super Speed"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0AD34C2 0000FEFE"
+      - "20A90808 3FC00000"
+
+  - name: "P1 Press R1+Select For Turbo Speed"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0AD34C2 0000F7FE"
+      - "20A90808 40000000"
+
+  - name: "P1 Press R2+Select For Ultra Speed"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0AD34C2 0000FDFE"
+      - "20A90808 40800000"

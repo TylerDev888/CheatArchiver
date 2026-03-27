@@ -1,0 +1,67 @@
+# Quest For Sleeping Beauty cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53748
+
+game: "Quest For Sleeping Beauty"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53748"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90208058 0C081FBE"
+
+  - name: "Inf\\Max Red Potions on Pickup"
+    notes: "[MISC]"
+    codes:
+      - "20183AD8 24420000"
+      - "2018C8CC 14600001"
+      - "2017E9B8 14400001"
+
+  - name: "Inf\\Max Blue Potions on Pickup"
+    notes: "[MISC]"
+    codes:
+      - "20183AB4 24420000"
+      - "2018C870 14600001"
+      - "2017E96C 14400001"
+
+  - name: "Inf\\Max Green Potions on Pickup"
+    notes: "[MISC]"
+    codes:
+      - "20183AF8 24420000"
+      - "2018C928 14600001"
+      - "2017EA14 14400001"
+
+  - name: "Max\\Inf Lives On Gain"
+    notes: "[MISC]"
+    codes:
+      - "2018A8BC 14600001"
+      - "20189584 24630000"
+
+  - name: "1000 Points Per"
+    notes: "[MISC]"
+    codes:
+      - "2018398C 24632710"
+      - "20183990 24422710"
+
+  - name: "Always Invisible"
+    notes: "[MISC]"
+    codes:
+      - "20186BD8 00000000"
+      - "20186BAC 46132034"
+
+  - name: "Max/Inf Lives"
+    notes: "[Memory Versions]"
+    codes:
+      - "20236398 000000FF"
+
+  - name: "Max/Inf Keys"
+    notes: "[Memory Versions]"
+    codes:
+      - "202363A0 000000FF"
+      - "2023639C 000000FF"

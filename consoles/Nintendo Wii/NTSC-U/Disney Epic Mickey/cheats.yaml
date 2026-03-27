@@ -1,0 +1,48 @@
+# Disney Epic Mickey cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  SEME4Q
+
+game: "Disney Epic Mickey"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "SEME4Q"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Inf HP"
+    author: "Skiller"
+    codes:
+      - "C2B22B0C 00000004"
+      - "2D840002 408C0010"
+      - "38800005 90830004"
+      - "909F0000 809F0000"
+      - "60000000 00000000"
+
+  - name: "Max E-Tickets (loadup/Pickup/Save)"
+    author: "Skiller"
+    codes:
+      - "C2B43D50 00000002"
+      - "3C60447A 90640004"
+      - "7C832378 00000000"
+
+  - name: "Inf Thinner"
+    author: "Skiller"
+    codes:
+      - "C2B43980 00000002"
+      - "3C0041F0 90030004"
+      - "80010074 00000000"
+
+  - name: "Inf Paint"
+    author: "Skiller"
+    codes:
+      - "C2B435C8 00000002"
+      - "3C0041F0 90030004"
+      - "80010064 00000000"
+
+  - name: "Inf Jumps"
+    author: "Skiller"
+    codes:
+      - "04A20F18 38000001"
+      - "04A20F8C 38000001"

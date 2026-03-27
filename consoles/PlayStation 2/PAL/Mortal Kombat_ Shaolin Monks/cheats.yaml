@@ -1,0 +1,109 @@
+# Mortal Kombat_ Shaolin Monks cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Mortal Kombat_ Shaolin Monks"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90213008 0C084A02"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20326030 8C4103A0"
+      - "20326034 AC410398"
+
+  - name: "Energy"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "2016945C 00000000"
+
+  - name: "Fatality Meter"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20177590 C6010004"
+      - "201775A4 E4414BB8"
+
+  - name: "Max EXP"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2000 3C0105F5"
+      - "200C2004 3421E0FF"
+      - "200C2008 AC414BA4"
+      - "200C200C 0805D2DD"
+      - "200C2010 00011020"
+      - "20174B6C 08030800"
+
+  - name: "Fast EXP Gain"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "201B7684 24052710"
+
+  - name: "Targetted Enemies Have No Health"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "2018A4F0 E4420398"
+
+  - name: "Bosses Have No Health"
+    author: "Xploder"
+    notes: "[Have]"
+    codes:
+      - "20189E04 E6220398"
+
+  - name: "2 Hits"
+    author: "Xploder"
+    notes: "[Each Hit Worth]"
+    codes:
+      - "20175890 24420002"
+
+  - name: "5 Hits"
+    author: "Xploder"
+    notes: "[Each Hit Worth]"
+    codes:
+      - "20175890 24420005"
+
+  - name: "10 Hits"
+    author: "Xploder"
+    notes: "[Each Hit Worth]"
+    codes:
+      - "20175890 2442000A"
+
+  - name: "50 Hits"
+    author: "Xploder"
+    notes: "[Each Hit Worth]"
+    codes:
+      - "20175890 24420032"
+
+  - name: "Sub Zero (Single Mode)"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "205D85B4 00000001"
+
+  - name: "Scorpion (Single Mode)"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "205D85B8 00000001"
+
+  - name: "Arenas/Art/Movies/Photos/Characters(VS Mode)"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "405D8580 000C0001"
+      - "FFFFFFFF 00000000"

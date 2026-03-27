@@ -1,0 +1,1763 @@
+# Fatal Frame cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20388
+
+game: "Fatal Frame"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20388"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F010B300 0022DC5F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0022DC67"
+
+  - name: "1-Hit Death (Enemies)"
+    author: "Code Master"
+    codes:
+      - "D0252E98 0003000A"
+      - "10252E98 00000001"
+      - "D02536F8 0003000A"
+      - "102536F8 00000001"
+
+  - name: "Always Low Game Time"
+    author: "Code Master"
+    codes:
+      - "202522F8 00000000"
+
+  - name: "Black And White Visuals"
+    author: "bungholio"
+    codes:
+      - "0026C813 0000000?"
+
+  - name: "Blur Modifier (L2 + Down = Increase, L2 + Left = Decrease)"
+    author: "bungholio"
+    codes:
+      - "D0252402 00400140"
+      - "30200010 0026C7E0"
+      - "D0252402 00400180"
+      - "30300010 0026C7E0"
+
+  - name: "Blurry Visuals {<I>This Is Definitely Not The Same As The Above Code. I&#39;M Not Sure What This Is, But You Can Freeze It With"
+    codes:
+      - "003563BC 00000000"
+
+  - name: "Have Type-7 Film"
+    author: "Codejunkies"
+    notes: "[Camera Codes]"
+    codes:
+      - "00254360 00000063"
+
+  - name: "Have Type-14 Film"
+    author: "Codejunkies"
+    notes: "[Camera Codes]"
+    codes:
+      - "00254361 00000063"
+
+  - name: "Have Type-37 Film"
+    author: "Codejunkies"
+    notes: "[Camera Codes]"
+    codes:
+      - "00254362 00000063"
+
+  - name: "Have Type-74 Film"
+    author: "Codejunkies"
+    notes: "[Camera Codes]"
+    codes:
+      - "00254363 00000063"
+
+  - name: "Have Type-90 Film"
+    author: "Codejunkies"
+    notes: "[Camera Codes]"
+    codes:
+      - "00254364 00000063"
+
+  - name: "Max Max Value"
+    author: "Code Master"
+    notes: "[Camera Codes]"
+    codes:
+      - "00265CE9 00000003"
+
+  - name: "Max Range"
+    author: "Code Master"
+    notes: "[Camera Codes]"
+    codes:
+      - "00265CE8 00000003"
+
+  - name: "Max Speed"
+    author: "Code Master"
+    notes: "[Camera Codes]"
+    codes:
+      - "00265CEA 00000003"
+
+  - name: "Unlock All Bonus Functions"
+    author: "Codejunkies"
+    notes: "[Camera Codes]"
+    codes:
+      - "20265CEC 02020202"
+
+  - name: "Unlock All Special Functions"
+    author: "Codejunkies"
+    notes: "[Camera Codes]"
+    codes:
+      - "20265CF0 02020202"
+      - "00265CF4 00000002"
+
+  - name: "Unlock Chase Function"
+    author: "Codejunkies"
+    notes: "[Camera Codes]"
+    codes:
+      - "00265CF1 00000002"
+
+  - name: "Unlock None Function"
+    author: "Codejunkies"
+    notes: "[Camera Codes]"
+    codes:
+      - "00265CF3 00000002"
+
+  - name: "Unlock Paralyze Function"
+    author: "Codejunkies"
+    notes: "[Camera Codes]"
+    codes:
+      - "00265CEE 00000002"
+
+  - name: "Unlock Search Function"
+    author: "Codejunkies"
+    notes: "[Camera Codes]"
+    codes:
+      - "00265CEF 00000002"
+
+  - name: "Unlock See Function"
+    author: "Codejunkies"
+    notes: "[Camera Codes]"
+    codes:
+      - "00265CED 00000002"
+
+  - name: "Unlock Sense Function"
+    author: "Codejunkies"
+    notes: "[Camera Codes]"
+    codes:
+      - "00265CF0 00000002"
+
+  - name: "Unlock Slow Function"
+    author: "Codejunkies"
+    notes: "[Camera Codes]"
+    codes:
+      - "00265CEC 00000002"
+
+  - name: "Unlock Zero Function"
+    author: "Codejunkies"
+    notes: "[Camera Codes]"
+    codes:
+      - "00265CF4 00000002"
+
+  - name: "Unlock Zoom Function"
+    author: "Codejunkies"
+    notes: "[Camera Codes]"
+    codes:
+      - "00265CF2 00000002"
+
+  - name: "Level 1 Max Value"
+    author: "InterAct"
+    notes: "[Camera Upgrade Codes]"
+    codes:
+      - "00265CE9 00000000"
+
+  - name: "Level 1 Range"
+    author: "InterAct"
+    notes: "[Camera Upgrade Codes]"
+    codes:
+      - "00265CE8 00000000"
+
+  - name: "Level 1 Speed"
+    author: "InterAct"
+    notes: "[Camera Upgrade Codes]"
+    codes:
+      - "00265CEA 00000000"
+
+  - name: "Level 2 Max Value"
+    author: "InterAct"
+    notes: "[Camera Upgrade Codes]"
+    codes:
+      - "00265CE9 00000001"
+
+  - name: "Level 2 Range"
+    author: "InterAct"
+    notes: "[Camera Upgrade Codes]"
+    codes:
+      - "00265CE8 00000001"
+
+  - name: "Level 2 Speed"
+    author: "InterAct"
+    notes: "[Camera Upgrade Codes]"
+    codes:
+      - "00265CEA 00000001"
+
+  - name: "Level 3 Max Value"
+    author: "InterAct"
+    notes: "[Camera Upgrade Codes]"
+    codes:
+      - "00265CE9 00000002"
+
+  - name: "Level 3 Range"
+    author: "InterAct"
+    notes: "[Camera Upgrade Codes]"
+    codes:
+      - "00265CE8 00000002"
+
+  - name: "Level 3 Speed"
+    author: "InterAct"
+    notes: "[Camera Upgrade Codes]"
+    codes:
+      - "00265CEA 00000002"
+
+  - name: "Max Basic Performance"
+    author: "InterAct"
+    notes: "[Camera Upgrade Codes]"
+    codes:
+      - "20265CE8 00030303"
+
+  - name: "Enable All Special Functions"
+    author: "InterAct"
+    notes: "[Enable Camera Functions]"
+    codes:
+      - "20265CF0 02020202"
+
+  - name: "All Options"
+    author: "Code Master"
+    notes: "[Have Bonus Camera Options Codes]"
+    codes:
+      - "00265CEB 00000002"
+      - "20265CEC 02020202"
+
+  - name: "Pressure"
+    author: "Code Master"
+    notes: "[Have Bonus Camera Options Codes]"
+    codes:
+      - "00265CEB 00000002"
+
+  - name: "Black Notebook Scrap 1"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254246 00000003"
+
+  - name: "Black Notebook Scrap 2"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254247 00000003"
+
+  - name: "Black Notebook Scrap 3"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254248 00000003"
+
+  - name: "Black Notebook Scrap 4"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254249 00000003"
+
+  - name: "Black Notebook Scrap 5"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "0025424A 00000003"
+
+  - name: "Black Notebook Scrap 6"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "0025424B 00000003"
+
+  - name: "Child's Writing"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254245 00000003"
+
+  - name: "Kirie's Diary 1"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254228 00000003"
+
+  - name: "Kirie's Diary 2"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254229 00000003"
+
+  - name: "Kirie's Diary 3"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "0025422A 00000003"
+
+  - name: "Kirie's Diary 4"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "0025422B 00000003"
+
+  - name: "Kirie's Diary 5"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "0025422C 00000003"
+
+  - name: "Kirie's Diary 6"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "0025422D 00000003"
+
+  - name: "Lady's Diary Scrap 1"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254240 00000003"
+
+  - name: "Lady's Diary Scrap 2"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254241 00000003"
+
+  - name: "Lady's Diary Scrap 3"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254242 00000003"
+
+  - name: "Mafuyu's Notes 1"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "0025422F 00000003"
+
+  - name: "Mafuyu's Notes 2"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254230 00000003"
+
+  - name: "Mafuyu's Notes 3"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254231 00000003"
+
+  - name: "Mafuyu's Notes 4"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254232 00000003"
+
+  - name: "Mafuyu's Notes 5"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254233 00000003"
+
+  - name: "Mafuyu's Notes 6"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254234 00000003"
+
+  - name: "Mafuyu's Notes 7"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254235 00000003"
+
+  - name: "Old Diary Scrap 1"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "0025423B 00000003"
+
+  - name: "Old Diary Scrap 2"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "0025423C 00000003"
+
+  - name: "Old Diary Scrap 3"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "0025423D 00000003"
+
+  - name: "Old Diary Scrap 4"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "0025423E 00000003"
+
+  - name: "Priest's Writings 1"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254236 00000003"
+
+  - name: "Priest's Writings 2"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254237 00000003"
+
+  - name: "Priest's Writings 3"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254238 00000003"
+
+  - name: "Priest's Writings 4"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254239 00000003"
+
+  - name: "Red Notebook Scrap 1"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "0025424D 00000003"
+
+  - name: "Red Notebook Scrap 2"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "0025424E 00000003"
+
+  - name: "Red Notebook Scrap 3"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "0025424F 00000003"
+
+  - name: "Red Notebook Scrap 4"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254250 00000003"
+
+  - name: "Red Notebook Scrap 5"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254251 00000003"
+
+  - name: "Red Notebook Scrap 6"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254252 00000003"
+
+  - name: "Red Notebook Scrap 7"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254253 00000003"
+
+  - name: "Research Notes 1"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254255 00000003"
+
+  - name: "Research Notes 2"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254256 00000003"
+
+  - name: "Research Notes 3"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254257 00000003"
+
+  - name: "Research Notes 4"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254258 00000003"
+
+  - name: "Research Notes 5"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254259 00000003"
+
+  - name: "Special Notebo"
+    author: "NA"
+    notes: "[Have Notebook Codes]  N/A"
+
+  - name: "Unknown"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "0025422E 00000003"
+
+  - name: "Unknown 2"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "0025423A 00000003"
+
+  - name: "Unknown 3"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "0025423F 00000003"
+
+  - name: "Unknown 4"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254244 00000003"
+
+  - name: "Unknown 5"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "0025424C 00000003"
+
+  - name: "Unknown 6"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254254 00000003"
+
+  - name: "Yae's Death Note"
+    author: "Code Master"
+    notes: "[Have Notebook Codes]"
+    codes:
+      - "00254243 00000003"
+
+  - name: "Boy Pulled Into Clock Photo"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "0025446F 00000003"
+
+  - name: "Demon Tag Scroll"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "00254489 00000003"
+
+  - name: "Foot Of Staircase? Photo"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "00254468 00000003"
+
+  - name: "Furious-Looking Mask"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "00254488 00000003"
+
+  - name: "Girl Pulled Into Well Photo"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "0025446A 00000003"
+
+  - name: "Girl Pulled Thru Door Photo"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "0025446E 00000003"
+
+  - name: "Gravestone In Photo"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "00254483 00000003"
+
+  - name: "Huge Altar? Photo"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "0025445B 00000003"
+
+  - name: "Huge Stone Monument"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "00254482 00000003"
+
+  - name: "Japanese Doll Shelf Photo"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "00254467 00000003"
+
+  - name: "Key In The Photo"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "00254471 00000003"
+
+  - name: "Light Thru Crevice Photo"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "00254472 00000003"
+
+  - name: "Lit Garden Lantern Photo"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "00254479 00000003"
+
+  - name: "Mask On The Pillar Photo"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "0025445C 00000003"
+
+  - name: "On The Beam? Photo"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "00254473 00000003"
+
+  - name: "Ornamental Lion Mask"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "0025447A 00000003"
+
+  - name: "Photo Of Character?1"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "00254484 00000003"
+
+  - name: "Photo Of Character?2"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "00254485 00000003"
+
+  - name: "Photo Of Character?3"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "00254486 00000003"
+
+  - name: "Photo Of Character?4"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "00254487 00000003"
+
+  - name: "Row Of Candlesticks Photo"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "0025446D 00000003"
+
+  - name: "Row Of Garden Lanterns"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "0025447F 00000003"
+
+  - name: "Row Of Japanese Dolls Photo"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "00254477 00000003"
+
+  - name: "Rubbish Heap In Photo"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "00254474 00000003"
+
+  - name: "Sand With No Mirror"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "0025447B 00000003"
+
+  - name: "Scroll In The Photo"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "0025447D 00000003"
+
+  - name: "Shinto Gate In Photo"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "0025445F 00000003"
+
+  - name: "Shinto House Altar? Photo"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "00254470 00000003"
+
+  - name: "Some Stone Monument? Photo"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "00254475 00000003"
+
+  - name: "Stoen Burial Mound? Photo"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "0025446C 00000003"
+
+  - name: "Stone Burial Mound"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "00254481 00000003"
+
+  - name: "Stone Monument In Photo"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "00254480 00000003"
+
+  - name: "Stone On The Well Photo"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "0025446B 00000003"
+
+  - name: "Storehouse? Photo"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "00254465 00000003"
+
+  - name: "Waterfall In Photo"
+    author: "InterAct"
+    notes: "[Have Photo Codes]"
+    codes:
+      - "00254469 00000003"
+
+  - name: "Boy Pulled Into Clock"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "0025426F 00000003"
+
+  - name: "Foot Of Staircase?"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "00254268 00000003"
+
+  - name: "Girl Pulled Into Well"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "0025426A 00000003"
+
+  - name: "Girl Pulled Thru Door"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "0025426E 00000003"
+
+  - name: "Graveston In Photo"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "00254283 00000003"
+
+  - name: "Huge Altar?"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "0025425B 00000003"
+
+  - name: "Japanese Doll Shelf"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "00254267 00000003"
+
+  - name: "Light Thru Crevice"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "00254272 00000003"
+
+  - name: "Lit Garden Lantern"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "00254279 00000003"
+
+  - name: "Mask On The Pillar"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "0025425C 00000003"
+
+  - name: "On The Beam?"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "00254273 00000003"
+
+  - name: "Photo Of Character? 1"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "00254284 00000003"
+
+  - name: "Photo Of Character? 2"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "00254285 00000003"
+
+  - name: "Photo Of Character? 3"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "00254286 00000003"
+
+  - name: "Photo Of Character? 4"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "00254287 00000003"
+
+  - name: "Row Of Candlesticks"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "0025426D 00000003"
+
+  - name: "Row Of Gardenlanterns"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "0025427F 00000003"
+
+  - name: "Row Of Japanese Dolls"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "00254277 00000003"
+
+  - name: "Shinto House Altar?"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "00254270 00000003"
+
+  - name: "Some Stone Monument?"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "00254275 00000003"
+
+  - name: "Stand With No Mirror"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "0025427B 00000003"
+
+  - name: "Stone Burial Mound?"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "0025426C 00000003"
+
+  - name: "Stone On The Well"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "0025426B 00000003"
+
+  - name: "Stonemonument Inphoto"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "00254280 00000003"
+
+  - name: "Storehouse?"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "00254265 00000003"
+
+  - name: "Unknown 7"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "00254263 00000003"
+
+  - name: "Unknown 8"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "00254264 00000003"
+
+  - name: "Unknown 9"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "00254266 00000003"
+
+  - name: "Unknown 10"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "00254276 00000003"
+
+  - name: "Unknown 11"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "00254278 00000003"
+
+  - name: "Unknown 12"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "0025427C 00000003"
+
+  - name: "Unknown 13"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "0025427E 00000003"
+
+  - name: "Waterwheel In Photo"
+    author: "Code Master"
+    notes: "[Have Photos Codes]"
+    codes:
+      - "00254269 00000003"
+
+  - name: "Camera Controls 1"
+    author: "Code Master"
+    notes: "[Have Scraps Codes]"
+    codes:
+      - "002544AD 00000003"
+
+  - name: "Camera Controls 2"
+    author: "Code Master"
+    notes: "[Have Scraps Codes]"
+    codes:
+      - "002544AE 00000003"
+
+  - name: "Power-Ups"
+    author: "Code Master"
+    notes: "[Have Scraps Codes]"
+    codes:
+      - "002544B0 00000003"
+
+  - name: "Shooting Ghosts"
+    author: "Code Master"
+    notes: "[Have Scraps Codes]"
+    codes:
+      - "002544AF 00000003"
+
+  - name: "Have A Huge Score"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "20265CF8 0098967F"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "10252AA4 000001F4"
+
+  - name: "Never Have More Than 50 HP"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0010032 30252AA4"
+      - "10252AA4 00000032"
+
+  - name: "Never Have More Than 100 HP"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0010064 30252AA4"
+      - "10252AA4 00000064"
+
+  - name: "Never Have More Than 200 HP"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E00100C8 30252AA4"
+      - "10252AA4 000000C8"
+
+  - name: "Never Have More Than 300 HP"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E001012C 30252AA4"
+      - "10252AA4 0000012C"
+
+  - name: "Angry Mask"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "0025438A 00000063"
+
+  - name: "Angry Mask 2"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "002543A3 00000063"
+
+  - name: "Black Carving"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "0025436B 00000063"
+
+  - name: "Blinding Mask"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "0025438F 00000063"
+
+  - name: "Blue Carving"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "0025436C 00000063"
+
+  - name: "Blue Tape 1"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "00254374 00000063"
+
+  - name: "Blue Tape 2"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "002543A1 00000063"
+
+  - name: "Brass Key"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "00254370 00000063"
+
+  - name: "Bronze Key"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "00254390 00000063"
+
+  - name: "Camera"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "00254369 00000063"
+
+  - name: "Ceremonialrope"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "0025436F 00000063"
+
+  - name: "Editor's Photo"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "0025437D 00000063"
+
+  - name: "Family Photo"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "0025437C 00000063"
+
+  - name: "Gold Carving"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "00254378 00000063"
+
+  - name: "Happy Mask"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "0025438C 00000063"
+
+  - name: "Headless Buddha"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "00254379 00000063"
+
+  - name: "Herbal Medicine"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "00254366 00000063"
+
+  - name: "Holy Mirror"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "0025439B 00000063"
+
+  - name: "Joyful Mask"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "00254389 00000063"
+
+  - name: "Kagome Doll"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "0025436D 00000063"
+
+  - name: "Kirie Photo"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "00254386 00000063"
+
+  - name: "Kirie's Hairpin"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "00254388 00000063"
+
+  - name: "Kotosheetmusic"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "00254371 00000063"
+
+  - name: "Lighter"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "00254385 00000063"
+
+  - name: "Mask/Reflection"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "0025438E 00000063"
+
+  - name: "Master's Seal"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "0025436E 00000063"
+
+  - name: "Matches"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "00254382 00000063"
+
+  - name: "Mirror/Piece"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "0025437B 00000063"
+
+  - name: "Mirror/Piece 2"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "00254391 00000063"
+
+  - name: "Mirror/Piece 3"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "00254398 00000063"
+
+  - name: "Mirror/Piece 4"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "00254399 00000063"
+
+  - name: "Mirror/Piece 5"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "0025439A 00000063"
+
+  - name: "Moon Incense"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "002543A2 00000063"
+
+  - name: "Purple Carving"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "0025437A 00000063"
+
+  - name: "Red Handmirror"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "0025436A 00000063"
+
+  - name: "Red Tape 1"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "00254373 00000063"
+
+  - name: "Red Tape 2"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "0025439E 00000063"
+
+  - name: "Red Tape 3"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "0025439F 00000063"
+
+  - name: "Red Tape 4"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "002543A0 00000063"
+
+  - name: "Sacred Water"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "00254367 00000063"
+
+  - name: "Sad Mask"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "0025438B 00000063"
+
+  - name: "Scroll"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "00254387 00000063"
+
+  - name: "Spirit Stone"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "00254365 00000063"
+
+  - name: "Stone Mirror"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "00254368 00000063"
+
+  - name: "Tape Recorder"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "00254372 00000063"
+
+  - name: "Teal Carving"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "00254377 00000063"
+
+  - name: "White Tape 1"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "0025439C 00000063"
+
+  - name: "White Tape 2"
+    author: "InterAct"
+    notes: "[Infinite Items Codes]"
+    codes:
+      - "0025439D 00000063"
+
+  - name: "Have Blind Demon Ritual"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00254491 00000003"
+
+  - name: "Have Document On Binding"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "0025448F 00000003"
+
+  - name: "Have Five Buddhas Document"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "0025448D 00000003"
+
+  - name: "Have Five Stones Document"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "0025448E 00000003"
+
+  - name: "Have News Clipping"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "002544AB 00000003"
+
+  - name: "Have Old News Article"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "002544A8 00000003"
+      - "002544A9 00000003"
+      - "002544AA 00000003"
+
+  - name: "Have Priest's Manual 1"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00254496 00000003"
+
+  - name: "Have Priest's Manual 2"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00254497 00000003"
+
+  - name: "Have Priest's Manual 3"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00254498 00000003"
+
+  - name: "Have Reasearch Notes 1"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00254455 00000003"
+
+  - name: "Have Reasearch Notes 2"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00254456 00000003"
+
+  - name: "Have Reasearch Notes 3"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00254457 00000003"
+
+  - name: "Have Reasearch Notes 4"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00254458 00000003"
+
+  - name: "Have Reasearch Notes 5"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00254459 00000003"
+
+  - name: "Have Research Scrap 1"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "0025449A 00000003"
+
+  - name: "Have Research Scrap 2"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "0025449B 00000003"
+
+  - name: "Have Research Scrap 3"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "0025449C 00000003"
+
+  - name: "Have Research Scrap 4"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "0025449D 00000003"
+
+  - name: "Have Research Scrap 5"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "0025449E 00000003"
+
+  - name: "Have Research Scrap 6"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "0025449F 00000003"
+
+  - name: "Have Research Scrap 7"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "002544A0 00000003"
+
+  - name: "Have Research Scrap 8"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "002544A1 00000003"
+
+  - name: "Have Research Scrap 9"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "002544A2 00000003"
+
+  - name: "Have Research Scrap 10"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "002544A3 00000003"
+
+  - name: "Have Strangling Ritual"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00254490 00000003"
+
+  - name: "Have The Calamity"
+    author: "Codejunkies"
+    notes: "[Item Codes]"
+    codes:
+      - "00254492 00000003"
+
+  - name: "Blood-Stained Notebook"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00254380 00000063"
+
+  - name: "Blood-Stained Scrapbook"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "0025437F 00000063"
+
+  - name: "Book Of Folklore About The Himuro Family"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00254383 00000063"
+
+  - name: "Demon Tag Girls Photo"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "0025438D 00000063"
+
+  - name: "Old Rie Paper With Puzzling Words"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00254384 00000063"
+
+  - name: "Photo Of The Editor, Ogata"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00254375 00000063"
+
+  - name: "Picture Of Door With Humuro Family Crest"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00254376 00000063"
+
+  - name: "Small Notebook"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00254381 00000063"
+
+  - name: "Sturdy Notebook"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "0025437E 00000063"
+
+  - name: "Unknown 1"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00254392 00000063"
+
+  - name: "News Clipping"
+    author: "InterAct"
+    notes: "[Scraps Codes]"
+    codes:
+      - "002544A6 00000003"
+
+  - name: "Old News Article"
+    author: "InterAct"
+    notes: "[Scraps Codes]"
+    codes:
+      - "002544A8 00000003"
+
+  - name: "Camera Charge Always Max"
+    author: "bungholio"
+    codes:
+      - "00252AC8 000000FF"
+
+  - name: "Chapter Skip"
+    author: "bungholio"
+    codes:
+      - "D0252402 0000FEEF"
+      - "00252A74 00000000"
+      - "D0252402 0000FEDF"
+      - "00252A74 00000001"
+      - "D0252402 0000FEBF"
+      - "00252A74 00000002"
+      - "D0252402 0000FE7F"
+      - "00252A74 00000003"
+      - "D0252402 0000FDEF"
+      - "00252A74 00000004"
+      - "D0252402 0000FDDF"
+      - "00252A70 00000000"
+
+  - name: "Character Select"
+    author: "bungholio"
+    codes:
+      - "00345C00 0000000?"
+
+  - name: "Complete Ghost List"
+    author: "bungholio"
+    codes:
+      - "4033F6F8 00360001"
+      - "00010001 00000000"
+
+  - name: "Completed Game Menu"
+    author: "bungholio"
+    codes:
+      - "00252A76 00000001"
+
+  - name: "Costume Modifier"
+    author: "bungholio"
+    codes:
+      - "00356318 000000??"
+
+  - name: "Debug Stuff"
+    author: "bungholio"
+    codes:
+      - "40265D00 006B0001"
+      - "00000001 00000000"
+
+  - name: "Difficulty Modifier"
+    author: "bungholio"
+    codes:
+      - "00252A75 0000000?"
+
+  - name: "Freeze Ghost (L2 + Up = On, L2 + Right = Off)"
+    author: "bungholio"
+    codes:
+      - "D0252402 00400110"
+      - "00252E93 00000010"
+      - "D0252402 00400120"
+      - "00252E93 00000000"
+
+  - name: "Invert Colors"
+    author: "bungholio"
+    codes:
+      - "00252AA3 000000FF"
+
+  - name: "Joker"
+    author: "bungholio"
+    codes:
+      - "D0252402 0000????"
+
+  - name: "Max High Score (Battle Mode)"
+    author: "Code Master"
+    codes:
+      - "203577F0 0098967F"
+
+  - name: "Max Score (Battle Mode)"
+    author: "Code Master"
+    codes:
+      - "203577F8 0098967F"
+
+  - name: "Maximum Light Source Radius"
+    author: "bungholio"
+    codes:
+      - "1026C7F8 00000000"
+
+  - name: "Minimum Light Source Radius"
+    author: "bungholio"
+    codes:
+      - "1026C7F8 0000FFFF"
+
+  - name: "Never Limp"
+    author: "bungholio"
+    codes:
+      - "20252AA8 00000000"
+
+  - name: "Quick Score Gain"
+    author: "Code Master"
+    codes:
+      - "10265CF8 0000FFFF"
+
+  - name: "Quick Score Gain (Battle Mode)"
+    author: "Code Master"
+    codes:
+      - "103577F8 0000FFFF"
+
+  - name: "Redundant And Unnecessary Infinite Health"
+    author: "bungholio"
+    codes:
+      - "202065E8 03E00008"
+      - "202065EC 00000000"
+
+  - name: "Unlock All Story Mode Options"
+    author: "bungholio"
+    codes:
+      - "00356319 000000FF"
+
+  - name: "Weak Ghosts"
+    author: "InterAct"
+    codes:
+      - "D02536F8 0003000F"
+      - "102536F8 00000001"
+      - "D0252E98 0003000F"
+      - "10252E98 00000001"
+
+  - name: "Max Score"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20265CF8 0098967F"
+
+  - name: "Type-7 Film"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00254360 00000063"
+
+  - name: "Type-14 Film"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00254361 00000063"
+
+  - name: "Type-37 Film"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00254362 00000063"
+
+  - name: "Type-74 Film"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00254363 00000063"
+
+  - name: "Type-90 Film"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00254364 00000063"
+
+  - name: "Headlessbuddha"
+    author: "Code Master"
+    notes: "[Max Item Codes]"
+    codes:
+      - "00254379 00000063"
+
+  - name: "Slow"
+    author: "Code Master"
+    notes: "[Have Bonus Camera Options Codes]"
+    codes:
+      - "00265CEC 00000002"
+
+  - name: "See"
+    author: "Code Master"
+    notes: "[Have Bonus Camera Options Codes]"
+    codes:
+      - "00265CED 00000002"
+
+  - name: "Paralyze"
+    author: "Code Master"
+    notes: "[Have Bonus Camera Options Codes]"
+    codes:
+      - "00265CEE 00000002"
+
+  - name: "Search"
+    author: "Code Master"
+    notes: "[Have Bonus Camera Options Codes]"
+    codes:
+      - "00265CEF 00000002"
+
+  - name: "Sense"
+    author: "Code Master"
+    notes: "[Have Special Camera Options Codes]"
+    codes:
+      - "00265CF0 00000002"
+
+  - name: "Chase"
+    author: "Code Master"
+    notes: "[Have Special Camera Options Codes]"
+    codes:
+      - "00265CF1 00000002"
+
+  - name: "Zoom"
+    author: "Code Master"
+    notes: "[Have Special Camera Options Codes]"
+    codes:
+      - "00265CF2 00000002"
+
+  - name: "None"
+    author: "Code Master"
+    notes: "[Have Special Camera Options Codes]"
+    codes:
+      - "00265CF3 00000002"
+
+  - name: "Zero"
+    author: "Code Master"
+    notes: "[Have Special Camera Options Codes]"
+    codes:
+      - "00265CF4 00000002"

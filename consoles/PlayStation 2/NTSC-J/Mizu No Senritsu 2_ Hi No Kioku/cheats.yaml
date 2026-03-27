@@ -1,0 +1,24 @@
+# Mizu No Senritsu 2_ Hi No Kioku cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66532
+
+game: "Mizu No Senritsu 2_ Hi No Kioku"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66532"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9010FC58 0C043EBE"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "902D44E0 0C08B51E"

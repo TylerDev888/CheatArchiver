@@ -1,0 +1,29 @@
+# Saint Seiya Soldiers' Soul v1.0 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES02181
+
+game: "Saint Seiya Soldiers' Soul v1.0"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES02181"
+cheat_type: "Save Editor"
+source: "From izuna"
+
+cheats:
+  - name: "Max And Infinite Money On Buy"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "002BE1F8 60000000"
+      - "002BE200 60000000"
+
+  - name: "Infinite And Instant Charge Max Cosmos"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "000463B8 D023004C"
+      - "00046500 D043004C"
+
+  - name: "Instant Charge Max Ss"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "000463E8 D0430054"

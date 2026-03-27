@@ -1,0 +1,135 @@
+# Dr. Seuss' The Cat In The Hat cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20797
+
+game: "Dr. Seuss' The Cat In The Hat"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20797"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0021590F"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "901C1A70 0C0855FA"
+
+  - name: "99 Magic On Pick-Up!"
+    author: "MadCatz"
+    codes:
+      - "200D0000 34060063"
+      - "200D0004 0806128D"
+      - "200D0008 00461021"
+      - "20184A30 08034000"
+
+  - name: "Don't Allow Player Hit"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "20238888 00000001"
+
+  - name: "Don't Allow Player Hurt"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "20238884 00000001"
+
+  - name: "Don't Allow Player To Die"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "2023887C 00000001"
+
+  - name: "Infinite Lives"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "20238880 00000001"
+
+  - name: "Have Gem"
+    author: "Code Master"
+    notes: "[Attic Adventure Codes]"
+    codes:
+      - "1082252C 00000001"
+      - "1082253C 00000000"
+
+  - name: "Max Clappers"
+    author: "Code Master"
+    notes: "[Attic Adventure Codes]"
+    codes:
+      - "10822528 00000004"
+      - "10822538 00000000"
+
+  - name: "Max Hats"
+    author: "Code Master"
+    notes: "[Attic Adventure Codes]"
+    codes:
+      - "10822524 000005DC"
+      - "10822534 00000000"
+
+  - name: "Max Keys"
+    author: "Code Master"
+    notes: "[Attic Adventure Codes]"
+    codes:
+      - "00822520 000000FF"
+      - "00822530 00000000"
+
+  - name: "Change Grandfather Clock Level To Test1 Level"
+    author: "punk7890"
+    codes:
+      - "DA83966F 68B21B4C"
+      - "2A557FF2 0000002C"
+
+  - name: "Extra Lives"
+    author: "Code Master"
+    codes:
+      - "101F7F04 00000001"
+      - "101F7F0C 00000001"
+
+  - name: "Hats Worth Modifier"
+    author: "Code Master"
+    codes:
+      - "20184A30 244200??"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    codes:
+      - "1082222E 00000404"
+
+  - name: "Infinite: Health"
+    author: "MadCatz"
+    codes:
+      - "200C002C 34050004"
+      - "200C0030 0807E02F"
+      - "200C0034 A2050002"
+      - "201F80B8 0803000B"
+
+  - name: "Infinite: Lives"
+    author: "MadCatz"
+    codes:
+      - "201F7F04 34030009"
+
+  - name: "Invincible"
+    author: "Code Master"
+    codes:
+      - "1010C682 00001000"
+
+  - name: "Invincible!"
+    author: "MadCatz"
+    codes:
+      - "00822238 00000001"
+
+  - name: "Unlock All Levels"
+    author: "Code Master"
+    codes:
+      - "D0D8DA70 000007C8"
+      - "20D8DA7C 24030001"

@@ -1,0 +1,23 @@
+# Vitamin Z cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25923
+
+game: "Vitamin Z"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25923"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "901183B0 0C046094"
+
+  - name: "New Game = Debug Menu"
+    author: "punk7890"
+    codes:
+      - "001ECF68 00000017"

@@ -1,0 +1,343 @@
+# Donald Duck - Quack Attack
+
+**Console:** PlayStation 2  
+**Region:** PAL  
+**Serial:** SLES-50048  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### (M) Must Be On
+**Author:** InterAct  
+**Notes:** [Master Codes]
+
+```
+F0235274 000001FD
+```
+
+---
+
+### Donald Always Happy
+**Author:** luc-ita
+
+```
+2085509C 00000001
+```
+
+---
+
+### Donald Moves Twice As Fast
+**Author:** luc-ita
+
+```
+20652398 40000000
+```
+
+---
+
+### Infinite Lives
+**Author:** InterAct
+
+```
+10886074 00000005
+```
+
+---
+
+### Jump In Mid-Air (ASM)
+**Author:** luc-ita
+
+```
+200A0000 C6010618
+200A0004 3C1541B0
+200A0008 4495F000
+200A000C E61E0618
+200A0010 3C15000A
+200A0014 36B50060
+200A0018 AEB00000
+200A001C 0000A821
+200A0020 0808FDF3
+200A0024 00000000
+200A0028 00000000
+200A002C 00000000
+200A0030 7A0305B0
+200A0034 3C0A000A
+200A0038 354A0060
+200A003C 8D4A0000
+200A0040 11500003
+200A0044 00000000
+200A0048 7E030610
+200A004C 00000000
+200A0050 0808FFF4
+2023F7C8 C6010618
+2023FFC8 7A0305B0
+2023FFCC 7E030610
+E0037FBF 0039EB43
+2023F7C8 08028000
+2023FFC8 0802800C
+2023FFCC 00000000
+E00300BF 0039EB43
+2023F7C8 08028000
+2023FFC8 0802800C
+2023FFCC 00000000
+```
+
+---
+
+### Jump In Midair (RAM)
+**Author:** luc-ita
+
+```
+E00200BE 0039EB43
+60C61C70 41B00000
+00020001 00000618
+E0027FBE 0039EB43
+60C61C70 41B00000
+00020001 00000618
+```
+
+---
+
+### 99 Cogs
+**Author:** Codejunkies  
+**Notes:** [Lives Codes]
+
+```
+10886070 00000063
+```
+
+---
+
+### All Special Move Challenges Are Complete
+**Author:** Codejunkies  
+**Notes:** [Lives Codes]
+
+```
+10885670 00000001
+10885680 00000001
+10885690 00000001
+108856A0 00000001
+108856B0 00000001
+108856C0 00000001
+108856D0 00000001
+108856E0 00000001
+108856F0 00000001
+10885700 00000001
+10885710 00000001
+10885720 00000001
+10885730 00000001
+10885740 00000001
+10885750 00000001
+10885760 00000001
+```
+
+---
+
+### Infinite Time
+**Author:** Codejunkies  
+**Notes:** [Lives Codes]
+
+```
+105C3E8C 0000A62A
+```
+
+---
+
+### Never Have More Than 1 Life
+**Author:** Codejunkies  
+**Notes:** [Lives Codes]
+
+```
+E0010001 30886074
+10886074 00000001
+```
+
+---
+
+### Never Have More Than 2 Lives
+**Author:** Codejunkies  
+**Notes:** [Lives Codes]
+
+```
+E0010002 30886074
+10886074 00000002
+```
+
+---
+
+### Never Have More Than 3 Lives
+**Author:** Codejunkies  
+**Notes:** [Lives Codes]
+
+```
+E0010003 30886074
+10886074 00000003
+```
+
+---
+
+### Never Have More Than 4 Lives
+**Author:** Codejunkies  
+**Notes:** [Lives Codes]
+
+```
+E0010004 30886074
+10886074 00000004
+```
+
+---
+
+### Time Attacks Are Completed
+**Author:** Codejunkies  
+**Notes:** [Lives Codes]
+
+```
+10885510 00000001
+10885510 00000001
+10885530 00000001
+10885540 00000001
+10885550 00000001
+10885560 00000001
+10885570 00000001
+10885580 00000001
+10885590 00000001
+108855A0 00000001
+108855B0 00000001
+108855C0 00000001
+108855D0 00000001
+108855E0 00000001
+108855F0 00000001
+10885600 00000001
+10885610 00000001
+10885620 00000001
+10885630 00000001
+10885640 00000001
+```
+
+---
+
+### Unlock Duckburg
+**Author:** Codejunkies  
+**Notes:** [Lives Codes]
+
+```
+008874C0 00000001
+008873B0 00000001
+008873C0 00000001
+008873D0 00000001
+008873E0 00000001
+008873F0 00000001
+```
+
+---
+
+### Unlock Duckie Mountain
+**Author:** Codejunkies  
+**Notes:** [Lives Codes]
+
+```
+00887380 00000001
+00887390 00000001
+008873A0 00000001
+008873B0 00000001
+```
+
+---
+
+### Unlock Magica Despell Manor
+**Author:** Codejunkies  
+**Notes:** [Lives Codes]
+
+```
+008874D0 00000001
+008873F0 00000001
+00887400 00000001
+00887410 00000001
+00887420 00000001
+00887430 00000001
+```
+
+---
+
+### Unlock Merlock's Temple
+**Author:** Codejunkies  
+**Notes:** [Lives Codes]
+
+```
+008874E0 00000001
+00887430 00000001
+00887440 00000001
+00887450 00000001
+00887460 00000001
+00887470 00000001
+```
+
+---
+
+### Open Magica Despell Manor
+**Author:** Codejunkies
+
+```
+028874D0 00000001
+028873F0 00000001
+02887400 00000001
+02887410 00000001
+02887420 00000001
+02887430 00000001
+```
+
+---
+
+### Open Merlock's Temple
+**Author:** InterAct
+
+```
+028874E0 00000001
+02887430 00000001
+02887440 00000001
+02887450 00000001
+02887460 00000001
+02887470 00000001
+```
+
+---
+
+### Skip All Videos
+**Author:** luc-ita
+
+```
+202BE0C0 03E00008
+202BE0C4 00000000
+```
+
+---
+
+### Special Effect (Invincible)
+**Author:** luc-ita
+
+```
+20854E30 00000001
+```
+
+---
+
+### Time Always Stopped
+**Author:** luc-ita
+
+```
+202D9670 03E00008
+202D9674 00000000
+```
+
+---
+
+### When Time Ends, Donald Doesn't Die
+**Author:** luc-ita
+
+```
+202D9740 00000000
+```
+
+---

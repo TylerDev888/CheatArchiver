@@ -1,0 +1,371 @@
+# Street Fighter EX3 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20130
+
+game: "Street Fighter EX3"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20130"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F014EDFC 000001FD"
+
+  - name: "Enable Code"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "902E8670 0C0BE860"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 002E8673"
+
+  - name: "P1-1 Super Modifier (Press L3)"
+    author: "Hacc"
+    notes: "[Easy Super Codes (values apply to both players)]"
+    codes:
+      - "E002FFFD 003071C2"
+      - "00C1D40B 00000013"
+      - "00C1D410 000000??"
+
+  - name: "P1-2 Super Modifier (Press L3)"
+    author: "Hacc"
+    notes: "[Easy Super Codes (values apply to both players)]"
+    codes:
+      - "E002FFFD 003071C2"
+      - "00C209BB 00000013"
+      - "00C209C0 000000??"
+
+  - name: "P2-1 Super Modifier (Press L3)"
+    author: "Hacc"
+    notes: "[Easy Super Codes (values apply to both players)]"
+    codes:
+      - "E002FFFD 003072C2"
+      - "00C23F6B 00000013"
+      - "00C23F70 000000??"
+
+  - name: "P2-2 Super Modifier (Press L3)"
+    author: "Hacc"
+    notes: "[Easy Super Codes (values apply to both players)]"
+    codes:
+      - "E002FFFD 003072C2"
+      - "00C2751B 00000013"
+      - "00C27520 000000??"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[First Character Codes]"
+    codes:
+      - "10C1D40C 0000BF00"
+
+  - name: "Infinite Super P1"
+    author: "Code Master"
+    notes: "[P1 1st Character Codes]"
+    codes:
+      - "10C1D400 00000960"
+
+  - name: "No Super P1"
+    author: "Code Master"
+    notes: "[P1 1st Character Codes]"
+    codes:
+      - "10C1D400 00000000"
+
+  - name: "Infinite Health P1"
+    author: "Code Master"
+    notes: "[P1 2nd Character Codes]"
+    codes:
+      - "10C209BC 0000BF00"
+
+  - name: "Infinite Super P2"
+    author: "Code Master"
+    notes: "[P2 1st Character Codes]"
+    codes:
+      - "10C27510 00000960"
+
+  - name: "No Super P2"
+    author: "Code Master"
+    notes: "[P2 1st Character Codes]"
+    codes:
+      - "10C27510 00000000"
+
+  - name: "Infinite Health P2"
+    author: "Code Master"
+    notes: "[P2 2nd Character Codes]"
+    codes:
+      - "10C2751C 0000BF00"
+
+  - name: "Infinite Stand-By"
+    author: "Codejunkies"
+    notes: "[Stand-by Team 1 Codes]"
+    codes:
+      - "10E59378 00006400"
+
+  - name: "No Stand-By"
+    author: "Codejunkies"
+    notes: "[Stand-by Team 1 Codes]"
+    codes:
+      - "10E59378 00000000"
+
+  - name: "1St Fighter Character Modifier"
+    author: "Hacc>lee4>HF*"
+    codes:
+      - "00C19E92 000000??"
+
+  - name: "2Nd Fighter Character Modifier"
+    author: "Hacc>lee4>HF*"
+    codes:
+      - "00C1D442 000000??"
+
+  - name: "3Rd Fighter Character Modifier"
+    author: "Hacc>lee4>HF*"
+    codes:
+      - "00C209F2 000000??"
+
+  - name: "4Th Fighter Character Modifier"
+    author: "Hacc>lee4>HF*"
+    codes:
+      - "00C23FA2 000000??"
+
+  - name: "All Characters"
+    author: "InterAct"
+    codes:
+      - "208C7738 FFFFFFFF"
+
+  - name: "All Moves Purchased"
+    author: "InterAct"
+    codes:
+      - "404E59BC 00130001"
+      - "00010001 00000000"
+
+  - name: "All The Trials Are Complete"
+    author: "Codejunkies"
+    codes:
+      - "204E5A08 FFFFFFFF"
+      - "204E5A0C FFFFFFFF"
+      - "204E5A18 FFFFFFFF"
+      - "204E5A1C FFFFFFFF"
+      - "204E5A28 FFFFFFFF"
+
+  - name: "Background Display Modifier"
+    author: "Hacc"
+    codes:
+      - "104E52BC 0000????"
+
+  - name: "Background Modifier"
+    author: "Hacc"
+    codes:
+      - "00E5949C 000000??"
+
+  - name: "Easier Special Moves"
+    author: "nolberto82"
+    codes:
+      - "202C4888 24020002"
+
+  - name: "Enable Dip Switch Menus [View Note]"
+    author: "punk7890"
+    codes:
+      - "D0307242 0000BBFF"
+      - "2033EF0C 00161B10"
+      - "D0307242 0000BEFF"
+      - "2033EF0C 00161DC0"
+      - "D0307242 0000EFFF"
+      - "2033EF0C 0015B778"
+      - "20161B2C 3C150030"
+      - "10161B5C 000072DA"
+      - "10161B60 000072DA"
+      - "20161DF8 3C120030"
+      - "10161E14 000072DA"
+      - "10161E18 000072DA"
+
+  - name: "Evil Ryu Unlocked"
+    author: "Hacc"
+    codes:
+      - "008C773C 00000001"
+
+  - name: "Freeze Frame Mode (L3: Resume; R3: Freeze)"
+    author: "Hacc"
+    codes:
+      - "D03071C2 0000FFFD"
+      - "004E5381 00000000"
+      - "D03071C2 0000FFFB"
+      - "004E5381 00000001"
+
+  - name: "Infinite Round Time"
+    author: "Hacc"
+    codes:
+      - "10E59496 00000063"
+
+  - name: "Maskless Vega Cheat (Square+Circle+R1)"
+    author: "Hacc"
+    codes:
+      - "20216754 00000000"
+
+  - name: "Max EXP"
+    author: "InterAct"
+    codes:
+      - "204E59B8 0001869F"
+
+  - name: "Max K.O. Count"
+    author: "Hacc"
+    codes:
+      - "103C52DC 000003E7"
+
+  - name: "Max Score"
+    author: "Hacc"
+    codes:
+      - "20E5936C 05F5E0FF"
+
+  - name: "P1 Can Select Same Character (JP Port)"
+    author: "Hacc"
+    codes:
+      - "103739E8 00000000"
+      - "10373A04 00000000"
+      - "10373A20 00000000"
+      - "10373A3C 00000000"
+
+  - name: "P1 Max Reverse Joker Command"
+    author: "Hacc"
+    codes:
+      - "D03071C2 0000????"
+
+  - name: "P1-1 Attack State Modifier"
+    author: "Hacc"
+    codes:
+      - "10C1D3C8 0000????"
+
+  - name: "P1-1 Control Modifier"
+    author: "Hacc"
+    notes: "00C19EAC 000000YY"
+    codes:
+      - "00C19EA8 000000XX"
+
+  - name: "P1-1 Costume Modifier"
+    author: "Hacc"
+    codes:
+      - "00C19E93 000000??"
+
+  - name: "P1-1 Infinite Health (Fixed)"
+    author: "Hacc"
+    codes:
+      - "10C1D40C 000000C8"
+
+  - name: "P1-2 Attack State Modifier"
+    author: "Hacc"
+    codes:
+      - "10C20978 0000????"
+
+  - name: "P1-2 Control Modifier"
+    author: "Hacc"
+    notes: "00C1D45C 000000YY"
+    codes:
+      - "00C1D458 000000XX"
+
+  - name: "P1-2 Costume Modifier"
+    author: "Hacc"
+    codes:
+      - "00C1D443 000000??"
+
+  - name: "P1-2 Infinite Health (Fixed)"
+    author: "Hacc"
+    codes:
+      - "10C209BC 000000C8"
+
+  - name: "P2 Can Select Same Character (JP Port)"
+    author: "Hacc"
+    codes:
+      - "10373A98 00000000"
+      - "10373AB4 00000000"
+      - "10373AD0 00000000"
+      - "10373AEC 00000000"
+
+  - name: "P2-1 Attack State Modifier"
+    author: "Hacc"
+    codes:
+      - "10C23F28 0000????"
+
+  - name: "P2-1 Control Modifier"
+    author: "Hacc"
+    notes: "00C20A0C 000000YY"
+    codes:
+      - "00C20A08 000000XX"
+
+  - name: "P2-1 Costume Modifier"
+    author: "Hacc"
+    codes:
+      - "00C209F3 000000??"
+
+  - name: "P2-1 Infinite Health (Fixed)"
+    author: "Hacc"
+    codes:
+      - "10C23F6C 000000C8"
+
+  - name: "P2-2 Attack State Modifier"
+    author: "Hacc"
+    codes:
+      - "10C274D8 0000????"
+
+  - name: "P2-2 Control Modifier"
+    author: "Hacc"
+    notes: "00C23FBC 000000YY"
+    codes:
+      - "00C23FB8 000000XX"
+
+  - name: "P2-2 Costume Modifier"
+    author: "Hacc"
+    codes:
+      - "00C23FA3 000000??"
+
+  - name: "P2-2 Infinite Health (Fixed)"
+    author: "Hacc"
+    codes:
+      - "10C2751C 000000C8"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 002E8673"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "902E8670 0C0BE860"
+
+  - name: "Have All Trials Complete"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204E5A08 FFFFFFFF"
+      - "204E5A0C FFFFFFFF"
+      - "204E5A18 FFFFFFFF"
+      - "204E5A1C FFFFFFFF"
+      - "204E5A28 FFFFFFFF"
+
+  - name: "Have All Moves Bought"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "404E59BC 00130001"
+      - "00010001 00000000"
+
+  - name: "Infinite Stand"
+    author: "Code Master"
+    notes: "[Team 1 Codes]"
+    codes:
+      - "10E59378 00006400"
+
+  - name: "No Stand"
+    author: "Code Master"
+    notes: "[Team 1 Codes]"
+    codes:
+      - "10E59378 00000000"

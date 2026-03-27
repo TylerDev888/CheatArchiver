@@ -1,0 +1,145 @@
+# Cold Winter cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53093
+
+game: "Cold Winter"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53093"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "901001E8 0C14E0B8"
+      - "90507D30 0C14E01C"
+
+  - name: "AR < 3.14 Fix"
+    author: "Codejunkies"
+    notes: "[Armax Fix]"
+    codes:
+      - "2053832C 0803FFC0"
+      - "200FFF00 3C03200F"
+      - "200FFF08 8C65FFF8"
+      - "200FFF0C 24040079"
+      - "200FFF10 24030074"
+      - "200FFF14 0000000C"
+      - "200FFF1C 0814E64E"
+
+  - name: "Infinite Armor"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "200FFE08 8E010380"
+      - "200FFE0C AE01037C"
+      - "20322B3C 0C03FF80"
+      - "200FFE10 03E00008"
+      - "200FFE14 C60000F8"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "200FFE00 8E0100F8"
+      - "200FFE04 AE0100F4"
+      - "20322B3C 0C03FF80"
+      - "200FFE10 03E00008"
+      - "200FFE14 C60000F8"
+
+  - name: "Infinite Health & Armor"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "200FFE00 8E0100F8"
+      - "200FFE04 AE0100F4"
+      - "200FFE08 8E010380"
+      - "200FFE0C AE01037C"
+      - "20322B3C 0C03FF80"
+      - "200FFE10 03E00008"
+      - "200FFE14 C60000F8"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "2033A82C 00000000"
+
+  - name: "Infinite Grenades"
+    author: "Codejunkies"
+    codes:
+      - "20343D3C 00000000"
+
+  - name: "Infinite Stamina"
+    author: "Codejunkies"
+    codes:
+      - "201EE558 00000000"
+
+  - name: "Big Jumps"
+    author: "Codejunkies"
+    notes: "[Jump Codes]"
+    codes:
+      - "203608CC 3C014200"
+      - "203608D4 44810800"
+
+  - name: "Massive Jumps"
+    author: "Codejunkies"
+    notes: "[Jump Codes]"
+    codes:
+      - "203608CC 3C014280"
+      - "203608D4 44810800"
+
+  - name: "No Reload"
+    author: "Codejunkies"
+    codes:
+      - "203319B8 00000000"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "903060C4 0C1420E2"
+      - "200C201C 03E00008"
+      - "200C2020 8CA2000C"
+      - "20322B40 0C030800"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2008 E60000F4"
+
+  - name: "Ammo"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "2033A82C 00000000"
+
+  - name: "Armour"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C200C 8E020380"
+      - "200C2010 AE02037C"
+
+  - name: "Stamina"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2014 8CA208C4"
+      - "200C2018 ACA208C0"
+
+  - name: "Grenades"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20343D3C 00000000"
+
+  - name: "All Levels"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "202EE67C 24020001"
+      - "202EE680 A0620000"

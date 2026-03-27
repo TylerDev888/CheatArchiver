@@ -1,0 +1,108 @@
+# Disney's Treasure Planet cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-51177
+
+game: "Disney's Treasure Planet"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-51177"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02AF6FC 002AF6FF"
+
+  - name: "All Levels Opened"
+    author: "Codejunkies"
+    codes:
+      - "20145B0C 24020001"
+
+  - name: "All Levels Unlocked"
+    author: "luc-ita"
+    codes:
+      - "201459C4 24020007"
+      - "20145B04 24020007"
+
+  - name: "Freeze Time Trial Timer"
+    author: "Codejunkies"
+    codes:
+      - "201F5F18 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "2014557C 24020063"
+
+  - name: "Infinite Morph Skill Time"
+    author: "luc-ita"
+    codes:
+      - "201C1058 00000000"
+
+  - name: "Infinite Race Timer"
+    author: "luc-ita"
+    codes:
+      - "20183798 00000000"
+
+  - name: "Invulnerable"
+    author: "luc-ita"
+    codes:
+      - "201C2EF0 1000000D"
+      - "201C4040 10000019"
+      - "201C2EA4 1000000E"
+      - "201C2F34 00000000"
+
+  - name: "Jump Higher (While On Foot)"
+    author: "luc-ita"
+    codes:
+      - "202FB318 3E3DF3B6"
+      - "202FB354 3E3DF3B6"
+      - "202FB390 3E3DF3B6"
+      - "202FB2A0 3E3DF3B6"
+
+  - name: "Low Gravity"
+    author: "Codejunkies"
+    codes:
+      - "20294F80 3C01BB00"
+
+  - name: "Only A Green Energy Or A Crate To Unlock The Energized Beacon"
+    author: "luc-ita"
+    codes:
+      - "201F2D7C 00000000"
+
+  - name: "Quick Anims"
+    author: "Codejunkies"
+    codes:
+      - "20385420 40000000"
+
+  - name: "Take A Ball Of Energy To Get Maximum Amount"
+    author: "luc-ita"
+    codes:
+      - "201455AC 00000000"
+
+  - name: "Take Coins Anywhere (Read Notes)"
+    author: "luc-ita"
+    codes:
+      - "201AED30 00000000"
+      - "201ACC18 00000000"
+
+  - name: "Xtra Low Gravity"
+    author: "Codejunkies"
+    codes:
+      - "20294F80 3C01BA80"
+
+  - name: "Extra Low Gravity"
+    author: "Codejunkies"
+    notes: "[Gravity Codes]"
+    codes:
+      - "20294F80 3C01BA80"
+
+  - name: "Quick Animations"
+    author: "Codejunkies"
+    notes: "[Gravity Codes]"
+    codes:
+      - "20385420 40000000"

@@ -1,0 +1,28 @@
+# True Tears cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66935
+
+game: "True Tears"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66935"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9014F060 0C053BC0"
+
+  - name: "Enable Event Select Menu [View Note]"
+    author: "punk7890"
+    codes:
+      - "D0160202 0000FFF9"
+      - "2047F854 706D756A"
+      - "D0160202 0000FFF9"
+      - "2047F858 6265645F"
+      - "D0160202 0000FFF9"
+      - "2047F85C 00006775"

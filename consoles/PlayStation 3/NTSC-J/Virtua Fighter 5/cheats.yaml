@@ -1,0 +1,64 @@
+# Virtua Fighter 5 cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM60016
+
+game: "Virtua Fighter 5"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM60016"
+cheat_type: "AP"
+source: "From savedata.jp"
+
+cheats:
+  - name: "Quest Data 1 Money 999999"
+    codes:
+      - "2003FBB0 000F423F"
+
+  - name: "Quest Data 1 Item All Unloclk"
+    codes:
+      - "4103F9B8 0000FFFF"
+      - "401B0002 00000000"
+
+  - name: "Quest Data 1 Player List All Unloclk"
+    codes:
+      - "420001B0 FFFFFFFF"
+      - "40510004 00000000"
+
+  - name: "Quest Data 1 Emblem List All Unloclk"
+    codes:
+      - "420000FC FFFFFFFF"
+      - "40090004 00000000"
+
+  - name: "Quest Data 1 Sarah Costume-c No Selection"
+    codes:
+      - "2003FA99 00000000"
+      - "2003FA9D 00000000"
+      - "2003FAA1 00000000"
+      - "2003FAA5 00000000"
+      - "2003FAA9 00000000"
+      - "2003FAAD 00000000"
+      - "2003FAB1 00000000"
+      - "2003FAB5 00000000"
+      - "2003FAB9 00000000"
+      - "2003FABD 00000000"
+      - "2003FAC1 00000000"
+
+  - name: "Quest Data 2 Money 999999"
+    codes:
+      - "20041BB0 000F423F"
+
+  - name: "Quest Data 2 Item All Unloclk"
+    codes:
+      - "410419B8 0000FFFF"
+      - "401B0002 00000000"
+
+  - name: "Quest Data 2 Player List All Unloclk"
+    codes:
+      - "42001270 FFFFFFFF"
+      - "40510004 00000000"
+
+  - name: "Quest Data 2 Emblem List All Unloclk"
+    codes:
+      - "420011BC FFFFFFFF"
+      - "40090004 00000000"

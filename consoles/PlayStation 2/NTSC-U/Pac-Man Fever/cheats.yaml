@@ -1,0 +1,58 @@
+# Pac-Man Fever cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20197
+
+game: "Pac-Man Fever"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20197"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0020039F"
+
+  - name: "Max Tokens P1"
+    author: "Code Master"
+    codes:
+      - "1024C414 0000270F"
+
+  - name: "Max Tokens P2"
+    author: "Code Master"
+    codes:
+      - "1024C444 0000270F"
+
+  - name: "Max Tokens P3"
+    author: "Code Master"
+    codes:
+      - "1024C474 0000270F"
+
+  - name: "Max Tokens P4"
+    author: "Code Master"
+    codes:
+      - "1024C4A4 0000270F"
+
+  - name: "No Tokens P1"
+    author: "Code Master"
+    codes:
+      - "1024C414 00000000"
+
+  - name: "No Tokens P2"
+    author: "Code Master"
+    codes:
+      - "1024C444 00000000"
+
+  - name: "No Tokens P3"
+    author: "Code Master"
+    codes:
+      - "1024C474 00000000"
+
+  - name: "No Tokens P4"
+    author: "Code Master"
+    codes:
+      - "1024C4A4 00000000"

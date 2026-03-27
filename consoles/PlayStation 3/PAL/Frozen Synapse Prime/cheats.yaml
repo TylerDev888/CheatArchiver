@@ -1,0 +1,44 @@
+# Frozen Synapse Prime cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB01361
+
+game: "Frozen Synapse Prime"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB01361"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Mccebvh (required)"
+    notes: "File: MCCEBVH  (set range:0x000018,0x000022)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000018,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000004:[hash]"
+
+  - name: "Update Crc32 For Xgqavnk (required)"
+    notes: "File: XGQAVNK  (set range:0x18,0x000FB8)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x18,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000004:[hash]"
+
+  - name: "Update Crc32 For Fwdcbxh (required)"
+    notes: "File: FWDCBXH  (set range:0x18,0x0055BF)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x18,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000004:[hash]"
+
+  - name: "Update Crc32 For Cpjkshi (required)"
+    notes: "File: CPJKSHI  (set range:0x000018,0x000D6B)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000018,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000004:[hash]"

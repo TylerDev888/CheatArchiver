@@ -1,0 +1,214 @@
+# Mister Mosquito cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20375
+
+game: "Mister Mosquito"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20375"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0168DBC 0010B68F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0010B68F"
+
+  - name: "100% Extra Blood"
+    author: "InterAct"
+    codes:
+      - "1038B654 00000050"
+
+  - name: "All Colors"
+    author: "InterAct"
+    codes:
+      - "1038B4D8 0000FFFF"
+
+  - name: "All Extra Tanks"
+    author: "InterAct"
+    codes:
+      - "1038B610 00000010"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    codes:
+      - "103992FC 00000028"
+
+  - name: "Max Extra Tanks"
+    author: "Code Master"
+    codes:
+      - "1038B610 0000000F"
+
+  - name: "Max Health"
+    author: "Code Master"
+    codes:
+      - "10399300 00000014"
+
+  - name: "P1 0 Wins"
+    author: "InterAct"
+    notes: "[Mini-Game Codes]"
+    codes:
+      - "007085C0 00000000"
+
+  - name: "P1 99 Wins"
+    author: "InterAct"
+    notes: "[Mini-Game Codes]"
+    codes:
+      - "007085C0 00000063"
+
+  - name: "P1 Max Rocket Gauge"
+    author: "InterAct"
+    notes: "[Mini-Game Codes]"
+    codes:
+      - "1066AA16 00004300"
+
+  - name: "P1 No Rocket Gauge"
+    author: "InterAct"
+    notes: "[Mini-Game Codes]"
+    codes:
+      - "1066AA16 00000000"
+
+  - name: "P1 Super Jump"
+    author: "InterAct"
+    notes: "[Mini-Game Codes]"
+    codes:
+      - "D038DEC2 0000BFFF"
+      - "10707456 0000C400"
+
+  - name: "P2 0 Wins"
+    author: "InterAct"
+    notes: "[Mini-Game Codes]"
+    codes:
+      - "007085C4 00000000"
+
+  - name: "P2 99 Wins"
+    author: "InterAct"
+    notes: "[Mini-Game Codes]"
+    codes:
+      - "007085C4 00000063"
+
+  - name: "P2 Max Rocket Gauge"
+    author: "InterAct"
+    notes: "[Mini-Game Codes]"
+    codes:
+      - "1066AA1A 00004300"
+
+  - name: "P2 No Rocket Gauge"
+    author: "InterAct"
+    notes: "[Mini-Game Codes]"
+    codes:
+      - "1066AA1A 00000000"
+
+  - name: "P2 Super Jump"
+    author: "InterAct"
+    notes: "[Mini-Game Codes]"
+    codes:
+      - "D0391EC2 0000BFFF"
+      - "107079D6 0000C400"
+
+  - name: "Quick Suck'n"
+    author: "InterAct"
+    codes:
+      - "1039931E 00004200"
+
+  - name: "Reckless Cyclist: Player 1 Super Jump"
+    author: "InterAct"
+    notes: "[Reckless Cyclist - P1 Codes]"
+    codes:
+      - "10707456 0000C400"
+
+  - name: "Max Rocket Gauge P1"
+    author: "Code Master"
+    notes: "[Reckless Cyclist Codes [Special Note 1]]"
+    codes:
+      - "2066AA14 42C80000"
+
+  - name: "Max Rocket Gauge P2"
+    author: "Code Master"
+    notes: "[Reckless Cyclist Codes [Special Note 1]]"
+    codes:
+      - "2066AA18 42C80000"
+
+  - name: "Never Gain Wins P1"
+    author: "Code Master"
+    notes: "[Reckless Cyclist Codes [Special Note 1]]"
+    codes:
+      - "D07085C0 00200002"
+      - "107085C0 00000000"
+
+  - name: "Never Gain Wins P2"
+    author: "Code Master"
+    notes: "[Reckless Cyclist Codes [Special Note 1]]"
+    codes:
+      - "D07085C4 00200002"
+      - "107085C4 00000000"
+
+  - name: "No Rocket Gauge P1"
+    author: "Code Master"
+    notes: "[Reckless Cyclist Codes [Special Note 1]]"
+    codes:
+      - "2066AA10 00000000"
+
+  - name: "No Rocket Gauge P2"
+    author: "Code Master"
+    notes: "[Reckless Cyclist Codes [Special Note 1]]"
+    codes:
+      - "2066AA18 00000000"
+
+  - name: "P1 Press X For Hover Mode"
+    author: "Code Master"
+    notes: "[Reckless Cyclist Codes [Special Note 1]]"
+    codes:
+      - "D038DEC2 0000BFFF"
+      - "20707456 C3FA0000"
+
+  - name: "P2 Press X For Hover Mode"
+    author: "Code Master"
+    notes: "[Reckless Cyclist Codes [Special Note 1]]"
+    codes:
+      - "D0391EC2 0000BFFF"
+      - "207079D4 C3FA0000"
+
+  - name: "Special Note 1"
+    author: "NA"
+    notes: "[Reckless Cyclist Codes [Special Note 1]]"
+
+  - name: "Start With Wins Modifier P1"
+    author: "Code Master"
+    notes: "[Reckless Cyclist Codes [Special Note 1]]"
+    codes:
+      - "D07085C0 00000000"
+      - "107085C0 000000??"
+
+  - name: "Start With Wins Modifier P2"
+    author: "Code Master"
+    notes: "[Reckless Cyclist Codes [Special Note 1]]"
+    codes:
+      - "D07085C4 00000000"
+      - "107085C4 000000??"
+
+  - name: "Suck Blood Quicker"
+    author: "Code Master"
+    codes:
+      - "2039931C 42C80000"
+
+  - name: "Have All Colors"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1038B4D8 0000FFFF"
+
+  - name: "Max Ex. B"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1038B654 00000050"

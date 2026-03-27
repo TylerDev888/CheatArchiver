@@ -1,0 +1,85 @@
+# This Is Football 2002 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-50244
+
+game: "This Is Football 2002"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-50244"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F010521C 000001FD"
+
+  - name: "All Cups Amateur Class"
+    author: "Codejunkies"
+    codes:
+      - "103A9EB0 0000FFFF"
+      - "103A9EB2 0000FFFF"
+      - "103A9EB4 0000FFFF"
+
+  - name: "All Cups Master Class"
+    author: "Codejunkies"
+    codes:
+      - "103A9EC6 0000FFFF"
+      - "103A9EC8 0000FFFF"
+      - "103A9ECA 0000FFFF"
+      - "103A9ECC 0000FFFF"
+
+  - name: "All Cups Pro Class"
+    author: "Codejunkies"
+    codes:
+      - "103A9EB8 0000FFFF"
+      - "103A9EBA 0000FFFF"
+      - "103A9EBC 0000FFFF"
+
+  - name: "All Cups World Class"
+    author: "Codejunkies"
+    codes:
+      - "103A9EC0 0000FFFF"
+      - "103A9EC2 0000FFFF"
+      - "103A9EC4 0000FFFF"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 003356D7"
+
+  - name: "Amateur Class"
+    author: "Xploder"
+    notes: "[Unlock All Cups]"
+    codes:
+      - "103A9EB0 0723FFFF"
+      - "103A9EB2 0723FFFF"
+      - "103A9EB4 0723FFFF"
+
+  - name: "Pro Class"
+    author: "Xploder"
+    notes: "[Unlock All Cups]"
+    codes:
+      - "103A9EB8 0723FFFF"
+      - "103A9EBA 0723FFFF"
+      - "103A9EBC 0723FFFF"
+
+  - name: "World Class"
+    author: "Xploder"
+    notes: "[Unlock All Cups]"
+    codes:
+      - "103A9EC0 0723FFFF"
+      - "103A9EC2 0723FFFF"
+      - "103A9EC4 072308FF"
+
+  - name: "Master Class"
+    author: "Xploder"
+    notes: "[Unlock All Cups]"
+    codes:
+      - "103A9EC8 0723FFFF"
+      - "103A9ECA 0723FFFF"
+      - "103A9ECC 0723FFFF"

@@ -1,0 +1,73 @@
+# Robocop cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51374
+
+game: "Robocop"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51374"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Lajos Szalay"
+    notes: "[Master Codes]"
+    codes:
+      - "F02D176C 002D176F"
+
+  - name: "Display X Y Z Position (Press Fire To Activate)"
+    author: "Lajos Szalay"
+    notes: "[In-Game Cheats On]"
+    codes:
+      - "2020ADB0 00000000"
+
+  - name: "Infinite Ammo & No Reload"
+    author: "Lajos Szalay"
+    notes: "[In-Game Cheats On]"
+    codes:
+      - "20472A84 00000001"
+
+  - name: "Play Bonus Video (Select Credits To Activate)"
+    author: "Lajos Szalay"
+    notes: "[In-Game Cheats On]"
+    codes:
+      - "20472AA4 00000001"
+
+  - name: "Infinite Ammo"
+    author: "Lajos Szalay"
+    codes:
+      - "20200C60 00000000"
+
+  - name: "Infinite Grenades"
+    author: "Lajos Szalay"
+    codes:
+      - "202013F8 00000000"
+
+  - name: "Infinite Power"
+    author: "Lajos Szalay"
+    codes:
+      - "20223800 03E00008"
+      - "20223804 00000000"
+
+  - name: "Max Infinite Ammo"
+    author: "Lajos Szalay"
+    codes:
+      - "20200764 240203E8"
+
+  - name: "Max Infinite Grenades"
+    author: "Lajos Szalay"
+    codes:
+      - "202013F4 24030009"
+
+  - name: "Mega Rapid Fire"
+    author: "Lajos Szalay"
+    codes:
+      - "20200700 00000000"
+      - "20200748 00000000"
+
+  - name: "No Reload"
+    author: "Lajos Szalay"
+    codes:
+      - "20200768 00000000"

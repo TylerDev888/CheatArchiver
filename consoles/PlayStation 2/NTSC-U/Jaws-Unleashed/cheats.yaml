@@ -1,0 +1,113 @@
+# Jaws-Unleashed cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21062
+
+game: "Jaws-Unleashed"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21062"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90401ED0 0C1097E0"
+
+  - name: "Disable FMV"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20406360 24020001"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203C8570 8E010324"
+      - "203C8574 AE01032C"
+
+  - name: "Max Health Meter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203C85D8 3C0143BC"
+      - "203C85DC AE010324"
+
+  - name: "Infinite Health (Alternate)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203C5EE8 00000000"
+
+  - name: "Infinite Hunger"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203C866C 8E010328"
+      - "203C8670 AE010330"
+
+  - name: "Max Hunger Meter"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203C86D4 3C0143BC"
+      - "203C86D8 AE010328"
+
+  - name: "Infinite Hunger (Alternate)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203C5C24 00000000"
+      - "203C8090 00000000"
+
+  - name: "Quick Points Gain"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "105CCD44 0000FFFF"
+
+  - name: "Max Points"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "205CCD44 05F5E0FF"
+
+  - name: "Movie 1"
+    author: "Code Master"
+    notes: "[Unlock Movie Codes]"
+    codes:
+      - "005CCD6F 00000001"
+
+  - name: "Movie 2"
+    author: "Code Master"
+    notes: "[Unlock Movie Codes]"
+    codes:
+      - "005CCD70 00000001"
+
+  - name: "Movie 3"
+    author: "Code Master"
+    notes: "[Unlock Movie Codes]"
+    codes:
+      - "005CCD71 00000001"
+
+  - name: "Movie 4"
+    author: "Code Master"
+    notes: "[Unlock Movie Codes]"
+    codes:
+      - "005CCD73 00000001"
+
+  - name: "Movie 5"
+    author: "Code Master"
+    notes: "[Unlock Movie Codes]"
+    codes:
+      - "005CCD74 00000001"
+
+  - name: "Movie 6"
+    author: "Code Master"
+    notes: "[Unlock Movie Codes]"
+    codes:
+      - "005CCD76 00000001"

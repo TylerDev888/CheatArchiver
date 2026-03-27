@@ -1,0 +1,57 @@
+# Akiba's Trip Undressed & Undead (EUR) cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00640
+
+game: "Akiba's Trip Undressed & Undead (EUR)"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00640"
+cheat_type: "Save Editor"
+source: "Credits: Slade & Rasa39"
+
+cheats:
+  - name: "999,999 Xp"
+    notes: "File: USR-DATA0000.BIN"
+    codes:
+      - "2000060C 000F423F"
+
+  - name: "999,990 Money"
+    notes: "File: USR-DATA0000.BIN"
+    codes:
+      - "2000B51C 000F4236"
+
+  - name: "999 Upper Body Points"
+    notes: "File: USR-DATA0000.BIN"
+    codes:
+      - "10000124 000003E7"
+
+  - name: "999 Equipment Points"
+    notes: "File: USR-DATA0000.BIN"
+    codes:
+      - "100005A4 000003E7"
+
+  - name: "999 Lower Body Points"
+    notes: "File: USR-DATA0000.BIN"
+    codes:
+      - "10000184 000003E7"
+
+  - name: "300 Base Attack"
+    notes: "File: USR-DATA0000.BIN"
+    codes:
+      - "10000608 0000012C"
+
+  - name: "300 Base Defence"
+    notes: "File: USR-DATA0000.BIN"
+    codes:
+      - "10000604 0000012C"
+
+  - name: "1000 Upper Durability"
+    notes: "File: USR-DATA0000.BIN"
+    codes:
+      - "10000988 000003E8"
+
+  - name: "1000 Lower Durability"
+    notes: "File: USR-DATA0000.BIN"
+    codes:
+      - "100009E8 000003E8"

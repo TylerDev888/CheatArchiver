@@ -1,0 +1,82 @@
+# Pro Stroke Golf-World Tour 2007 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21496
+
+game: "Pro Stroke Golf-World Tour 2007"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21496"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9030D8C0 00832021"
+
+  - name: "Always Hole In One (Human Players)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 24060000"
+      - "200C0224 ACA600A0"
+      - "200C0228 03E00008"
+      - "200C022C 8C430000"
+      - "202E71D8 0C030088"
+
+  - name: "Strokes Always Worth 1"
+    author: "Code Master"
+    notes: "[All Player Codes]"
+    codes:
+      - "10221BE0 0000000A"
+
+  - name: "Strokes Always Worth 5"
+    author: "Code Master"
+    notes: "[All Player Codes]"
+    codes:
+      - "10221BE0 00000005"
+
+  - name: "Strokes Always Worth 4"
+    author: "Code Master"
+    notes: "[All Player Codes]"
+    codes:
+      - "10221BE0 00000004"
+
+  - name: "Strokes Always Worth 3"
+    author: "Code Master"
+    notes: "[All Player Codes]"
+    codes:
+      - "10221BE0 00000003"
+
+  - name: "Strokes Always Worth 2"
+    author: "Code Master"
+    notes: "[All Player Codes]"
+    codes:
+      - "10221BE0 00000002"
+
+  - name: "Always Hole In One"
+    author: "Code Master"
+    notes: "[All Player Codes]"
+    codes:
+      - "20221BE0 24020001"
+
+  - name: "Max Renown"
+    author: "Code Master"
+    notes: "[PSG Career Codes]"
+    codes:
+      - "209E77E8 0001869F"
+
+  - name: "Infinite Money"
+    author: "Code Master"
+    notes: "[PSG Career Codes]"
+    codes:
+      - "109E77EC 0000FFFF"
+
+  - name: "Max Money"
+    author: "Code Master"
+    notes: "[PSG Career Codes]"
+    codes:
+      - "209E77EC 05F5E0FF"

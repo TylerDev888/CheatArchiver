@@ -1,0 +1,47 @@
+# Genkai Tokki_ Moero Chronicle (ASN) cheat data
+# Console: PlayStation Vita
+# Region:  Unknown
+# Serial:  PCSH00148
+
+game: "Genkai Tokki_ Moero Chronicle (ASN)"
+console: "PlayStation Vita"
+region: "Unknown"
+serial: "PCSH00148"
+cheat_type: "Save Editor"
+source: "Credits: ness151"
+
+cheats:
+  - name: "Lilla Max Hp"
+    notes: "File: SaveData_0001.sav"
+    codes:
+      - "20000018 00000F27"
+
+  - name: "Lilla Max Mp"
+    notes: "File: SaveData_0001.sav"
+    codes:
+      - "2000001E 00000F27"
+
+  - name: "Lilla Max Atk"
+    notes: "File: SaveData_0001.sav"
+    codes:
+      - "200000FA 00000F27"
+
+  - name: "Lilla Max Mat"
+    notes: "File: SaveData_0001.sav"
+    codes:
+      - "200000FC 00000F27"
+
+  - name: "Lilla Max Def"
+    notes: "File: SaveData_0001.sav"
+    codes:
+      - "200000FE 00000F27"
+
+  - name: "Lilla Max Mdef"
+    notes: "File: SaveData_0001.sav"
+    codes:
+      - "20000100 00000F27"
+
+  - name: "Lilla Max Agi"
+    notes: "File: SaveData_0001.sav"
+    codes:
+      - "20000102 000000FF"

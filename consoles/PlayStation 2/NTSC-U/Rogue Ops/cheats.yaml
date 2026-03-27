@@ -1,0 +1,126 @@
+# Rogue Ops cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20746
+
+game: "Rogue Ops"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20746"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F035A94C 0035A94F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master>GameMasterZer0>Lajos Szalay>tab"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0035A94F"
+
+  - name: "Activate All Cheats"
+    author: "Code Master>GameMasterZer0>Lajos Szalay>tab"
+    codes:
+      - "2043ECD8 0000FFFF"
+
+  - name: "All Cheats On"
+    author: "Codejunkies"
+    codes:
+      - "2043ECD8 FFFFFFFF"
+
+  - name: "Big Weapons"
+    author: "Code Master>GameMasterZer0>Lajos Szalay>tab"
+    codes:
+      - "201B89E0 00000000"
+
+  - name: "Blue Enemies"
+    author: "Code Master>GameMasterZer0>Lajos Szalay>tab"
+    codes:
+      - "1016E962 00001000"
+
+  - name: "Disable FMV"
+    author: "Code Master>GameMasterZer0>Lajos Szalay>tab"
+    codes:
+      - "20350C18 24020001"
+
+  - name: "Display FPS"
+    author: "Code Master>GameMasterZer0>Lajos Szalay>tab"
+    codes:
+      - "2043C9DC 00000001"
+
+  - name: "Extra Ammo"
+    author: "Code Master>GameMasterZer0>Lajos Szalay>tab"
+    codes:
+      - "201AACB0 00451021"
+
+  - name: "Half Damage Taken"
+    author: "Code Master>GameMasterZer0>Lajos Szalay>tab"
+    codes:
+      - "201C3CD0 00000000"
+      - "201C3CD4 00000000"
+
+  - name: "Infinite Ammo"
+    author: "Code Master>GameMasterZer0>Lajos Szalay>tab"
+    codes:
+      - "201AACB4 00000000"
+
+  - name: "Infinite Battery"
+    author: "Code Master>GameMasterZer0>Lajos Szalay>tab"
+    codes:
+      - "203BD20C 00000000"
+
+  - name: "Infinite Health"
+    author: "Code Master>GameMasterZer0>Lajos Szalay>tab"
+    codes:
+      - "201C57BC C4800014"
+      - "201C57C0 E4800018"
+
+  - name: "Invincible (Can't Be Shot)"
+    author: "Code Master>GameMasterZer0>Lajos Szalay>tab"
+    codes:
+      - "201C3B80 03E00008"
+      - "201C3B84 00000000"
+
+  - name: "Language Modifier"
+    author: "Code Master>GameMasterZer0>Lajos Szalay>tab"
+    codes:
+      - "202B68A0 240200??"
+
+  - name: "Max Ammo Upon Reload"
+    author: "Code Master>GameMasterZer0>Lajos Szalay>tab"
+    codes:
+      - "201AAB14 00000000"
+
+  - name: "Max Infinite Ammo"
+    author: "Code Master>GameMasterZer0>Lajos Szalay>tab"
+    codes:
+      - "201AACB0 24020063"
+
+  - name: "Never Reload"
+    author: "Code Master>GameMasterZer0>Lajos Szalay>tab"
+    codes:
+      - "201AACC8 00000000"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master>Lajos Szalay>tab>GMO"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0035A94F"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master>Lajos Szalay>tab>GMO"
+    notes: "[Masters]"
+    codes:
+      - "9035A94C 0C0D977F"
+
+  - name: "Invincible (Cant Be Shot)"
+    author: "Code Master>Lajos Szalay>tab>GMO"
+    notes: "[Codes]"
+    codes:
+      - "201C3B80 03E00008"
+      - "201C3B84 00000000"

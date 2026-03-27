@@ -1,0 +1,26 @@
+# Saints Row 2 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00373
+
+game: "Saints Row 2"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00373"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Money"
+    notes: "File: BLES00373*\\SYS-DATA"
+    codes:
+      - "200000B8 3B9AC9FF"
+
+  - name: "Update Crc32:0 For Sys-data (required)"
+    notes: "File: BLES00373*\\SYS-DATA  (set range:0x000004,0x03ABFF)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x000000:[hash]"

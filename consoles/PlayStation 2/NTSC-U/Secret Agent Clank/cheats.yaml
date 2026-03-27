@@ -1,0 +1,214 @@
+# Secret Agent Clank cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97623
+
+game: "Secret Agent Clank"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97623"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90194020 0C064FB0"
+
+  - name: "Max/Infinite Bolts"
+    codes:
+      - "202075C8 05F5E0FF"
+
+  - name: "Start On Hq Treehouse"
+    notes: "[Secret Codes]"
+    codes:
+      - "202075CC 0000001F"
+
+  - name: "Infinite Health(clank)"
+    notes: "[Boltaire Museum]"
+    codes:
+      - "D02075CC 00000001"
+      - "203EFA64 00000000"
+
+  - name: "Infinite Ammo-All Weapons(clank)"
+    notes: "[Boltaire Museum]"
+    codes:
+      - "E0080001 002075CC"
+      - "203F68B0 00000000"
+      - "203FCA9C 00000000"
+      - "20403404 00000000"
+      - "204074B4 00000000"
+      - "204107F0 00000000"
+      - "2041C090 00000000"
+      - "204311B8 00000000"
+      - "20435CAC 00000000"
+
+  - name: "All Weapons/Gadgets(clank)"
+    notes: "[Boltaire Museum]"
+    codes:
+      - "D02075CC 00000001"
+      - "2035C9F0 24020001"
+
+  - name: "Max Score"
+    notes: "[Boltaire Museum-Max Security Cells]"
+    codes:
+      - "D02075CC 00000002"
+      - "20671F14 05f5eoff"
+
+  - name: "Alt.max Score"
+    notes: "[Boltaire Museum-Max Security Cells]"
+    codes:
+      - "D02075CC 00000002"
+      - "20406F4C 3C0305F5"
+
+  - name: "Infinite Health(ratchet)"
+    notes: "[Galattica]"
+    codes:
+      - "D02075CC 00000003"
+      - "2043CE0C 00000000"
+
+  - name: "Infinite Ammo-All Weapons(ratchet)"
+    notes: "[Galattica]"
+    codes:
+      - "E0090003 002075CC"
+      - "20408AA4 00000000"
+      - "2040A484 00000000"
+      - "20428AE4 00000000"
+      - "2042D554 00000000"
+      - "20430DD0 00000000"
+      - "20443700 00000000"
+      - "204459BC 00000000"
+      - "204498EC 00000000"
+      - "20450F3C 00000000"
+
+  - name: "All Weapons(ratchet)"
+    notes: "[Galattica]"
+    codes:
+      - "D02075CC 00000003"
+      - "2035C9A8 24020001"
+
+  - name: "Infinite Health(gadgebots)"
+    notes: "[Asyanica]"
+    codes:
+      - "D02075CC 00000004"
+      - "204138F0 00000000"
+
+  - name: "Infinite Health(quark)"
+    notes: "[Asyanica]"
+    codes:
+      - "D02075CC 00000005"
+      - "203F1BC4 00000000"
+
+  - name: "Infinite Cannon(quark)"
+    notes: "[Asyanica]"
+    codes:
+      - "D02075CC 00000005"
+      - "204FAD54 00000000"
+
+  - name: "Infinite Health(clank-Villa Escape)"
+    notes: "[Glaciara]"
+    codes:
+      - "D02075CC 00000008"
+      - "203E247C 00000000"
+
+  - name: "Infinite Health(clank-Casino)"
+    notes: "[Le Paradis Des Tricheurs Casino]"
+    codes:
+      - "D02075CC 0000000D"
+      - "203F53FC 00000000"
+
+  - name: "Infinite Health(clank-Poker Game)"
+    notes: "[Le Paradis Des Tricheurs Casino]"
+    codes:
+      - "D02075CC 0000000F"
+      - "203F2E0C 00000000"
+
+  - name: "Infinite Health(gadgebots-Poker Game)"
+    notes: "[Le Paradis Des Tricheurs Casino]"
+    codes:
+      - "D02075CC 0000000F"
+      - "2040C778 00000000"
+
+  - name: "Max Score-Poker Game"
+    notes: "[Le Paradis Des Tricheurs Casino]"
+    codes:
+      - "D02075CC 0000000F"
+      - "206C58A4 05F5E0FF"
+
+  - name: "Alt.max Score-Poker Game"
+    notes: "[Le Paradis Des Tricheurs Casino]"
+    codes:
+      - "D02075CC 0000000F"
+      - "20435BA4 3C0305F5"
+
+  - name: "All Weapons/Gadgets(clank-Casino)"
+    notes: "[Le Paradis Des Tricheurs Casino]"
+    codes:
+      - "D02075CC 0000000D"
+      - "2035C9E8 24020001"
+
+  - name: "Infinite Health(ship)"
+    notes: "[Venantonio]"
+    codes:
+      - "D02075CC 00000011"
+      - "2040DDB0 00000000"
+
+  - name: "Max Sales(quark)"
+    notes: "[Venantonio]"
+    codes:
+      - "D02075CC 00000012"
+      - "2053CFF8 05F5E0FF"
+
+  - name: "Infinite Torpedoes(ship)"
+    notes: "[Venantonio]"
+    codes:
+      - "D02075CC 00000011"
+      - "2040E598 00000000"
+
+  - name: "Infinite Bombs(ship)"
+    notes: "[Venantonio]"
+    codes:
+      - "D02075CC 00000011"
+      - "2040E720 00000000"
+
+  - name: "Infinite Health(giant Clank)"
+    notes: "[Spaceship Graveyard]  Infinite Missiles(Giant clank) Max Enemies Killed(Giant Clank)"
+    codes:
+      - "D02075CC 00000018"
+      - "204261E0 AC410274"
+      - "D02075CC 00000018"
+      - "20423BA8 00000000"
+      - "D02075CC 00000018"
+      - "206CBB10 00002710"
+
+  - name: "All Weapons(clank)"
+    notes: "[Spaceship Graveyard]"
+    codes:
+      - "D02075CC 00000016"
+      - "2035C9E8 24020001"
+
+  - name: "Infinite Health(clank-Klunck)"
+    notes: "[Hydrano]"
+    codes:
+      - "D02075CC 0000001E"
+      - "203EFD8C 00000000"
+
+  - name: "Infinite Ammo-All Weapons(clank-Klunck)"
+    notes: "[Hydrano]"
+    codes:
+      - "E008001E 002075CC"
+      - "203F74B0 00000000"
+      - "203FD164 00000000"
+      - "20402134 00000000"
+      - "204033AC 00000000"
+      - "20411B90 00000000"
+      - "20416760 00000000"
+      - "204267F8 00000000"
+      - "2042AC0C 00000000"
+
+  - name: "All Weapons(clank-Klunck)"
+    notes: "[Hydrano]"
+    codes:
+      - "D02075CC 0000001E"
+      - "2035C8F8 24020001"

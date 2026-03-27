@@ -1,0 +1,778 @@
+# NFL Street 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21118
+
+game: "NFL Street 2"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21118"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "E00ED1B2 0041EDE4"
+      - "E00D0C0D 0041EDE6"
+      - "203AF4C0 080D9AAE"
+      - "20366AB8 3C0401F0"
+      - "20366ABC 3C050008"
+      - "20366AC0 0C0DD1B2"
+      - "20366AC4 3C060008"
+      - "20366AC8 0C104582"
+      - "20366ACC 0000202D"
+      - "20366AD0 3C0501F0"
+      - "20366AD4 3C040008"
+      - "20366AD8 0C0DD1B2"
+      - "20366ADC 3C060008"
+      - "20366AE0 080EBD32"
+      - "20366AE4 00000000"
+      - "F041EDE4 0041EDE7"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "9041EDE4 0C0DD1B2"
+
+  - name: "AR Max Below 3.14 Fix"
+    author: "Codejunkies"
+    codes:
+      - "20414428 3C03200F"
+      - "20414430 8C65FFF8"
+      - "20414434 24040079"
+      - "20414438 24030074"
+      - "2041443C 0000000C"
+
+  - name: "P1 Press L1+Down For 1/2X Game Speed"
+    author: "Code Master"
+    notes: "[Game Speed Modifier Codes]"
+    codes:
+      - "D059F042 0000FBBF"
+      - "2050BDD4 3F000000"
+
+  - name: "P1 Press L1+Left For 1/8X Game Speed"
+    author: "Code Master"
+    notes: "[Game Speed Modifier Codes]"
+    codes:
+      - "D059F042 0000FB7F"
+      - "2050BDD4 3E000000"
+
+  - name: "P1 Press L1+Right For 4X Game Speed"
+    author: "Code Master"
+    notes: "[Game Speed Modifier Codes]"
+    codes:
+      - "D059F042 0000FBDF"
+      - "2050BDD4 40800000"
+
+  - name: "P1 Press L1+Up For 2X Game Speed"
+    author: "Code Master"
+    notes: "[Game Speed Modifier Codes]"
+    codes:
+      - "D059F042 0000FBEF"
+      - "2050BDD4 40000000"
+
+  - name: "P1 Press L2+Up For Normal Game Speed"
+    author: "Code Master"
+    notes: "[Game Speed Modifier Codes]"
+    codes:
+      - "D059F042 0000FEEF"
+      - "2050BDD4 3F800000"
+
+  - name: "SD Players"
+    author: "Codejunkies"
+    notes: "[Just For Fun]"
+    codes:
+      - "205109E4 3FC00000"
+
+  - name: "Stickmen Mode"
+    author: "Codejunkies"
+    notes: "[Just For Fun]"
+    codes:
+      - "205109E4 3E800000"
+
+  - name: "Max Money"
+    author: "Codejunkies"
+    codes:
+      - "203D7530 0C0F3FA9"
+      - "D059F042 0000F0BF"
+      - "203D7530 0C03FFD0"
+      - "200FFF40 00051942"
+      - "200FFF44 00031080"
+      - "200FFF48 00822021"
+      - "200FFF4C 3C01005F"
+      - "200FFF50 AC810000"
+      - "200FFF54 080F3FAC"
+
+  - name: "Must Be On"
+    author: "MadCatz"
+    codes:
+      - "9041EDF8 0C10514E"
+
+  - name: "P1 Infinite Turbo"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "20613178 3B9ACA00"
+      - "206131F0 3B9ACA00"
+
+  - name: "P1 Max Gamebreaker"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "1060397E 0000000F"
+      - "10603984 0000FFFF"
+
+  - name: "P1 Scores 99 Per Action"
+    author: "Codejunkies"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "200FFF00 3C01005E"
+      - "200FFF04 8C21B4B4"
+      - "200FFF08 14010003"
+      - "200FFF10 24100063"
+      - "200FFF14 A250001D"
+      - "200FFF1C 0002103E"
+      - "200FFF20 0808D893"
+      - "20236248 0803FFC0"
+
+  - name: "P2 Max Gamebreaker"
+    author: "Codejunkies"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "10603980 0000FFFF"
+      - "1060397A 0000000F"
+
+  - name: "P2 No Gamebreaker"
+    author: "Codejunkies"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "20603980 00000000"
+      - "2060397C 00000000"
+
+  - name: "Always 1St Down"
+    author: "MadCatz"
+    notes: "[Profile 1 Codes]"
+    codes:
+      - "105DB4C0 00000001"
+
+  - name: "Always 2Nd Down"
+    author: "MadCatz"
+    notes: "[Profile 1 Codes]"
+    codes:
+      - "105DB4C0 00000002"
+
+  - name: "Always 3Rd Down"
+    author: "MadCatz"
+    notes: "[Profile 1 Codes]"
+    codes:
+      - "105DB4C0 00000003"
+
+  - name: "Always 4Th Down"
+    author: "MadCatz"
+    notes: "[Profile 1 Codes]"
+    codes:
+      - "105DB4C0 00000004"
+
+  - name: "Max Credits"
+    author: "MadCatz"
+    notes: "[Profile 1 Codes]"
+    codes:
+      - "21F55CD0 0098967F"
+
+  - name: "Max Credits Earned"
+    author: "MadCatz"
+    notes: "[Profile 1 Codes]"
+    codes:
+      - "21F55CD4 098967F0"
+
+  - name: "Max Dev. Points"
+    author: "MadCatz"
+    notes: "[Profile 1 Codes]"
+    codes:
+      - "2050F8CC 000F423F"
+
+  - name: "Start On 2Nd Down"
+    author: "MadCatz"
+    notes: "[Profile 1 Codes]"
+    codes:
+      - "D05DB4C0 00000001"
+      - "105DB4C0 00000002"
+
+  - name: "Start On 3Rd Down"
+    author: "MadCatz"
+    notes: "[Profile 1 Codes]"
+    codes:
+      - "D05DB4C0 00000001"
+      - "105DB4C0 00000003"
+
+  - name: "Start On 4Th"
+    author: "MadCatz"
+    notes: "[Profile 1 Codes]"
+    codes:
+      - "D05DB4C0 00000001"
+      - "105DB4C0 00000004"
+
+  - name: "Hyper Mode (Press Select+Left)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "D059F042 0000FF7E"
+      - "2050BDD4 40400000"
+
+  - name: "Normal Speed (Press Select+Down)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "D059F042 0000FFBE"
+      - "2050BDD4 3F800000"
+
+  - name: "Quicker Game (Press Select+Right)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "D059F042 0000FFDE"
+      - "2050BDD4 3FC00000"
+
+  - name: "Slow-Motion (Press Select+Up)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "D059F042 0000FFEE"
+      - "2050BDD4 3E000000"
+
+  - name: "Always Start On 2Nd Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D05DB4C0 00000001"
+      - "205DB4C0 00000002"
+
+  - name: "Always Start On 3Rd Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D05DB4C0 00000001"
+      - "205DB4C0 00000003"
+
+  - name: "Away Team Always Have Gamebreaker"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20603984 00002710"
+
+  - name: "Away Team Infinite Style Points"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "1060397C 0000FFFF"
+
+  - name: "Away Team Infinite Turbo"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "206131F0 3B9ACA00"
+
+  - name: "Away Team Max Style Points"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "801D7F70 2F79E5FA"
+
+  - name: "Away Team Never Has Gamebreaker"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20603984 00000000"
+
+  - name: "Away Team Never Scores"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2032261C 00000000"
+
+  - name: "Away Team No Style Points"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2060397C 00000000"
+
+  - name: "Away Team No Turbo"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "206131F0 00000000"
+
+  - name: "Away Team Scores 0"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "105DB4CE 00000000"
+
+  - name: "Away Team Scores 150"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "105DB4CE 00000096"
+
+  - name: "Away Team Start With 7"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D05DB4CE 00000000"
+      - "105DB4CE 00000007"
+
+  - name: "Away Team Start With 14"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D05DB4CE 00000000"
+      - "105DB4CE 0000000E"
+
+  - name: "Away Team Start With 21"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D05DB4CE 00000000"
+      - "105DB4CE 00000015"
+
+  - name: "Away Team Start With 28"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D05DB4CE 00000000"
+      - "105DB4CE 0000001C"
+
+  - name: "Away Team Start With 35"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D05DB4CE 00000000"
+      - "105DB4CE 00000023"
+
+  - name: "Buying Items Increases Credits"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202176E0 00503021"
+
+  - name: "Home Team Always Have Gamebreaker"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20603980 00002710"
+
+  - name: "Home Team Infinite Style Points"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "10603978 0000FFFF"
+
+  - name: "Home Team Infinite Turbo"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20613178 3B9ACA00"
+
+  - name: "Home Team Max Style Points"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20603978 05F5E0FF"
+
+  - name: "Home Team Never Has Gamebreaker"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "C19A0214 710EF063"
+
+  - name: "Home Team Never Scores"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20322628 00000000"
+
+  - name: "Home Team No Style Points"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20603978 00000000"
+
+  - name: "Home Team No Turbo"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20613178 00000000"
+
+  - name: "Home Team Scores 0"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "105DB4CC 00000000"
+
+  - name: "Home Team Scores 150"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "105DB4CC 00000096"
+
+  - name: "Home Team Start With 7"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D05DB4CC 00000000"
+      - "105DB4CC 00000007"
+
+  - name: "Home Team Start With 14"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D05DB4CC 00000000"
+      - "105DB4CC 0000000E"
+
+  - name: "Home Team Start With 21"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D05DB4CC 00000000"
+      - "105DB4CC 00000015"
+
+  - name: "Home Team Start With 28"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D05DB4CC 00000000"
+      - "105DB4CC 0000001C"
+
+  - name: "Home Team Start With 35"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D05DB4CC 00000000"
+      - "105DB4CC 00000023"
+
+  - name: "Infinite Credits Usage"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202176E0 24460000"
+
+  - name: "Infinite DEV Points"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "1050F8CC 0000FFFF"
+
+  - name: "Infinite DEV Points Usage"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2011ABF4 00000000"
+
+  - name: "Infinite Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20603FE4 00000019"
+
+  - name: "Infinite Turbo (Both Teams)"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20263A60 00000000"
+
+  - name: "Larger Players"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "205109E4 3FE00000"
+
+  - name: "Max DEV Points"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2050F8CC 05F5E0FF"
+
+  - name: "P1 Press L1+L2 For Home Team Scores 150"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F042 0000FAFF"
+      - "105DB4CC 00000096"
+
+  - name: "P1 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F042 0000FBFE"
+      - "20603FE4 00000019"
+
+  - name: "P1 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F042 0000FEFE"
+      - "205DB4C0 00000001"
+
+  - name: "P1 Press R1+R2 For Home Team Scores 150"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "105DB4CE 00000096"
+      - "105DB4CC 00000096"
+
+  - name: "P1 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F042 0000F7FE"
+      - "20603FE4 00000001"
+
+  - name: "P1 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F042 0000FDFE"
+      - "205DB4C0 00000004"
+
+  - name: "P2 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F142 0000FBFE"
+      - "20603FE4 00000019"
+
+  - name: "P2 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F142 0000FEFE"
+      - "205DB4C0 00000001"
+
+  - name: "P2 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F142 0000F7FE"
+      - "20603FE4 00000001"
+
+  - name: "P2 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F142 0000FDFE"
+      - "205DB4C0 00000004"
+
+  - name: "P3 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F242 0000FBFE"
+      - "20603FE4 00000019"
+
+  - name: "P3 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F242 0000FEFE"
+      - "205DB4C0 00000001"
+
+  - name: "P3 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F242 0000F7FE"
+      - "20603FE4 00000001"
+
+  - name: "P3 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F242 0000FDFE"
+      - "205DB4C0 00000004"
+
+  - name: "P4 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F342 0000FBFE"
+      - "20603FE4 00000019"
+
+  - name: "P4 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F342 0000FEFE"
+      - "205DB4C0 00000001"
+
+  - name: "P4 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F342 0000F7FE"
+      - "20603FE4 00000001"
+
+  - name: "P4 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F342 0000FDFE"
+      - "205DB4C0 00000004"
+
+  - name: "P5 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F442 0000FBFE"
+      - "20603FE4 00000019"
+
+  - name: "P5 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F442 0000FEFE"
+      - "205DB4C0 00000001"
+
+  - name: "P5 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F442 0000F7FE"
+      - "20603FE4 00000001"
+
+  - name: "P5 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F442 0000FDFE"
+      - "205DB4C0 00000004"
+
+  - name: "P6 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F542 0000FBFE"
+      - "20603FE4 00000019"
+
+  - name: "P6 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F542 0000FEFE"
+      - "205DB4C0 00000001"
+
+  - name: "P6 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F542 0000F7FE"
+      - "20603FE4 00000001"
+
+  - name: "P6 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F542 0000FDFE"
+      - "205DB4C0 00000004"
+
+  - name: "P7 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F642 0000FBFE"
+      - "20603FE4 00000019"
+
+  - name: "P7 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F642 0000FEFE"
+      - "205DB4C0 00000001"
+
+  - name: "P7 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F642 0000F7FE"
+      - "20603FE4 00000001"
+
+  - name: "P7 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F642 0000FDFE"
+      - "205DB4C0 00000004"
+
+  - name: "P8 Press L1+Select For Very Low Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F742 0000FBFE"
+      - "20603FE4 00000019"
+
+  - name: "P8 Press L2+Select For 1St Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F742 0000FEFE"
+      - "205DB4C0 00000001"
+
+  - name: "P8 Press R1+Select For More Time To Choose Your Play"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F742 0000F7FE"
+      - "20603FE4 00000001"
+
+  - name: "P8 Press R2+Select For 4Th Down"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059F742 0000FDFE"
+      - "205DB4C0 00000004"
+
+  - name: "Stick Players"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "205109E4 3E600000"
+
+  - name: "Unlock All Cheats And Codes"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "200C0220 8CC80000"
+      - "200C0224 25080090"
+      - "200C0228 250900D8"
+      - "200C022C 91010001"
+      - "200C0230 24020001"
+      - "200C0234 50200001"
+      - "200C0238 A1020001"
+      - "200C023C 0109082B"
+      - "200C0240 1420FFFA"
+      - "200C0244 25080004"
+      - "200C0248 080F4A16"
+      - "200C024C 00000000"
+      - "203D5C90 0C030088"
+
+  - name: "Use DEV Points To Gain More"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2011ABEC 00641021"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9041EDE4 0C0DD1B2"
+
+  - name: "P1 Press R1+R2 For Away Team Scores 150"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D059F042 0000F5FF"
+      - "105DB4CE 00000096"

@@ -1,0 +1,40 @@
+# Assassin's Creed IV Black Flag cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01882
+
+game: "Assassin's Creed IV Black Flag"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01882"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Custom Crc32 Ac4_0.sav (required)"
+    notes: "File: AC4_0.SAV"
+    codes:
+      - "set crc_bandwidth:32"
+      - "set crc_polynomial:0x4C11DB7"
+      - "set crc_initial_value:0xBAE23CD0"
+      - "set crc_output_xor:0xFFFFFFFF"
+      - "set crc_reflection_input:1"
+      - "set crc_reflection_output:1"
+      - "set [size]:read(0x00,4)"
+      - "set range:0x0008,[size]+7"
+      - "set [hash]:crc"
+      - "write at 0x0004:[hash]"
+
+  - name: "Update Custom Crc32 Options (required)"
+    notes: "File: OPTIONS"
+    codes:
+      - "set crc_bandwidth:32"
+      - "set crc_polynomial:0x4C11DB7"
+      - "set crc_initial_value:0xBAE23CD0"
+      - "set crc_output_xor:0xFFFFFFFF"
+      - "set crc_reflection_input:1"
+      - "set crc_reflection_output:1"
+      - "set [size]:read(0x00,4)"
+      - "set range:0x0008,[size]+7"
+      - "set [hash]:crc"
+      - "write at 0x0004:[hash]"

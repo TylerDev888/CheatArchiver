@@ -1,0 +1,131 @@
+# RPG Maker 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20340
+
+game: "RPG Maker 2"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20340"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 002CED97"
+
+  - name: "Infinite HP"
+    author: "Code Master"
+    notes: "[All Character Codes]"
+    codes:
+      - "201A73E4 240303E7"
+      - "201A73E8 AC830108"
+      - "101A73EE 00001000"
+
+  - name: "Infinite MP"
+    author: "Code Master"
+    notes: "[All Character Codes]"
+    codes:
+      - "201A7444 240303E7"
+      - "201A7448 AC830104"
+      - "101A744E 00001000"
+
+  - name: "Max DEF"
+    author: "Code Master"
+    notes: "[All Character Codes]"
+    codes:
+      - "915C1A91 EF665216"
+      - "51F65D89 130F24A0"
+      - "0AB68583 D47EF862"
+      - "EDE87F69 DA74100B"
+
+  - name: "Max HP"
+    author: "Code Master"
+    notes: "[All Character Codes]"
+    codes:
+      - "200C0220 241003E7"
+      - "200C0224 03E00008"
+      - "200C0228 A4700120"
+      - "201A6F38 0C030088"
+
+  - name: "Max INT"
+    author: "Code Master"
+    notes: "[All Character Codes]"
+    codes:
+      - "200C0250 241003E7"
+      - "200C0254 03E00008"
+      - "200C0258 A4700126"
+      - "201A6D10 0C030094"
+
+  - name: "Max Luck"
+    author: "Code Master"
+    notes: "[All Character Codes]"
+    codes:
+      - "200C0260 241003E7"
+      - "200C0264 03E00008"
+      - "200C0268 A4700128"
+      - "201A6E20 0C030098"
+
+  - name: "Max MP"
+    author: "Code Master"
+    notes: "[All Character Codes]"
+    codes:
+      - "200C0230 241003E7"
+      - "200C0234 03E00008"
+      - "200C0238 A4700122"
+      - "201A7050 0C03008C"
+
+  - name: "Max STR"
+    author: "Code Master"
+    notes: "[All Character Codes]"
+    codes:
+      - "200C0240 241003E7"
+      - "200C0244 03E00008"
+      - "200C0248 A4700124"
+      - "201A69E0 0C030090"
+
+  - name: "Buy An Item For Max Gold"
+    author: "Code Master"
+    codes:
+      - "2018D7D0 00000000"
+
+  - name: "Buying Items Doesn't Decrease Gold"
+    author: "Code Master"
+    codes:
+      - "2018D7B8 00000000"
+
+  - name: "Buying Items Increases Gold"
+    author: "Code Master"
+    codes:
+      - "2018D7B0 00441021"
+
+  - name: "Infinite HP (In-Battle)"
+    author: "Code Master"
+    codes:
+      - "201A2B7C AC670108"
+
+  - name: "Infinite MP Usage"
+    author: "Code Master"
+    codes:
+      - "201A2CCC AC670104"
+
+  - name: "Monsters Have No MP"
+    author: "Code Master"
+    codes:
+      - "201A2D20 A4600090"
+
+  - name: "Stop Play Timer"
+    author: "Code Master"
+    codes:
+      - "2018B070 00000000"
+      - "2018B084 00000000"
+      - "2018B09C 00000000"
+
+  - name: "Buying Items Doesnt Decrease Gold"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2018D7B8 00000000"

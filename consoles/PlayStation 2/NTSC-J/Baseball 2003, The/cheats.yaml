@@ -1,0 +1,60 @@
+# Baseball 2003, The cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65180
+
+game: "Baseball 2003, The"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65180"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Master Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9011B5F8 0C046D26"
+
+  - name: "Master Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90123A4C 0C04477E"
+
+  - name: "L1 & L3 For No Strikes"
+    author: "BigBossman"
+    codes:
+      - "D1B410C2 0000FBFD"
+      - "01E77164 00000000"
+
+  - name: "L2 & L3 For No Balls"
+    author: "BigBossman"
+    codes:
+      - "D1B410C2 0000FEFD"
+      - "01E77168 00000000"
+
+  - name: "R1 & L3 For 2 Strikes"
+    author: "BigBossman"
+    codes:
+      - "D1B410C2 0000F7FD"
+      - "01E77164 00000002"
+
+  - name: "R2 & L3 For 3 Balls"
+    author: "BigBossman"
+    codes:
+      - "D1B410C2 0000FDFD"
+      - "01E77168 00000003"
+
+  - name: "R3 & L3 For 2 Outs"
+    author: "BigBossman"
+    codes:
+      - "D1B410C2 0000FFF9"
+      - "01E7716C 00000002"
+
+  - name: "Select & L3 For No Outs"
+    author: "BigBossman"
+    codes:
+      - "D1B410C2 0000FFFC"
+      - "01E7716C 00000000"

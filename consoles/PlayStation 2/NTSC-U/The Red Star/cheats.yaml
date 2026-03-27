@@ -1,0 +1,72 @@
+# The Red Star cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20885
+
+game: "The Red Star"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20885"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9010E5C0 0C043918"
+
+  - name: "Inf HP (both Players)"
+    author: "SkillerCMP"
+    codes:
+      - "200A0000 E4610014"
+      - "200A0004 08084551"
+      - "200A0008 C4600014"
+      - "20211540 08028000"
+
+  - name: "Free Upgrades (buy Them Even With No Money)"
+    author: "SkillerCMP"
+    codes:
+      - "201856D8 24030000"
+      - "201826F4 24030000"
+
+  - name: "Gun Never Overheating"
+    author: "SkillerCMP"
+    codes:
+      - "2020F2D0 E61F0408"
+
+  - name: "Shield Never Overheats"
+    author: "SkillerCMP"
+    codes:
+      - "20211038 E61F08E0"
+
+  - name: "Quick Power Up"
+    author: "SkillerCMP"
+    codes:
+      - "20212410 3C02447A"
+      - "2021241C 3C820884"
+
+  - name: "Unlock Serects"
+    author: "Lee4"
+    codes:
+      - "4082AE64 000F0002"
+      - "00000001 00000000"
+      - "4082B004 000F0002"
+      - "00000001 00000000"
+
+  - name: "Max Points To Buy Upgrades"
+    author: "Robby23"
+    codes:
+      - "10822B84 0000270F"
+
+  - name: "Enemies Off Screen Instanlty Die (doesnt Apply To Bosses)"
+    author: "Robby23"
+    codes:
+      - "201E0700 3C0342C8"
+      - "201E0704 AC830434"
+      - "201E0710 AC83043C"
+
+  - name: "Max Protocol Attacks"
+    author: "Robby23"
+    codes:
+      - "00822CEC 00000005"

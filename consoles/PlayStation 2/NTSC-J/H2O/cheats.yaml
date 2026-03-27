@@ -1,0 +1,23 @@
+# H2O cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66921
+
+game: "H2O"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66921"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "902091A0 0C082410"
+
+  - name: "Replace New Game With Debug Menu"
+    author: "punk7890"
+    codes:
+      - "0014C314 00000000"

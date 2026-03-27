@@ -1,0 +1,62 @@
+# Ghost Rider cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Ghost Rider"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "901C4068 0C0C5C34"
+
+  - name: "Get Infinite Demon Souls When Buying Extras"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2013D924 3C020010"
+
+  - name: "Infinite Health"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "201389C8 46000806"
+      - "201389CC E6200B20"
+      - "2017C67C C62C0B1C"
+      - "2017B0EC E62C0B20"
+
+  - name: "Infinite Link Charge"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "2017C6C8 24120064"
+      - "2017C6D0 AE320B14"
+
+  - name: "Infinite Spirit Gauge"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20139630 C6210EA8"
+      - "20139644 E6210EA0"
+
+  - name: "Press [Select] + [L1] To Enable Infinite Spirit Gauge"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "E002FBFE 005B3042"
+      - "20139630 C6210EA8"
+      - "20139644 E6210EA0"
+
+  - name: "Press [Select] + [R1] To Disable Infinite Spirit Gauge"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "E002F7FE 005B3042"
+      - "20139630 C6210EA0"
+      - "20139644 00000000"

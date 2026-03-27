@@ -1,0 +1,83 @@
+# Gungrave - Overdose cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52941
+
+game: "Gungrave - Overdose"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52941"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0101F64 00101F67"
+
+  - name: "Clear Time 00:00:00"
+    author: "Codejunkies"
+    codes:
+      - "203BAE84 00000000"
+
+  - name: "Enable Demo Shot Codes - Bullet Dance Lvl 3"
+    author: "Codejunkies"
+    codes:
+      - "103BAE96 00000003"
+
+  - name: "Enable Demo Shot Codes - Day Of The Grave Lvl 3"
+    author: "Codejunkies"
+    codes:
+      - "103BAE98 00000003"
+
+  - name: "Enable Demo Shot Codes - Death Blow Lvl 3"
+    author: "Codejunkies"
+    codes:
+      - "103BAE94 00000003"
+
+  - name: "Infinite Demo Shots"
+    author: "Codejunkies"
+    codes:
+      - "203BAE74 00000004"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "203BA6BC 43960000"
+
+  - name: "Infinite Shield"
+    author: "Codejunkies"
+    codes:
+      - "203BA6C8 43960000"
+
+  - name: "Max Art"
+    author: "Codejunkies"
+    codes:
+      - "203BA6F0 000003E7"
+
+  - name: "Max Artistic Points"
+    author: "Codejunkies"
+    codes:
+      - "203BAE88 0000270F"
+
+  - name: "Max Beat Count"
+    author: "Codejunkies"
+    codes:
+      - "203BA6D4 000003E7"
+
+  - name: "Max Jackpots"
+    author: "Codejunkies"
+    codes:
+      - "203BAE8C 0000270F"
+
+  - name: "Max Kills"
+    author: "Codejunkies"
+    codes:
+      - "203BAE7C 0000270F"
+
+  - name: "Max Score"
+    author: "Codejunkies"
+    codes:
+      - "203BAE68 05F5E0FF"

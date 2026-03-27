@@ -1,0 +1,58 @@
+# Garou - Mark Of The Wolves [Neogeo Online Collection Vol.1] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25509
+
+game: "Garou - Mark Of The Wolves [Neogeo Online Collection Vol.1]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25509"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "90351218 00832021"
+
+  - name: "Freeze Timer"
+    author: "lee4"
+    codes:
+      - "0114A0A0 000000FF"
+
+  - name: "Max Time"
+    author: "lee4"
+    codes:
+      - "0114A0A8 00000099"
+
+  - name: "P1 Character Mod"
+    author: "lee4"
+    codes:
+      - "0114A1C0 000000??"
+
+  - name: "P1 HP"
+    author: "lee4"
+    codes:
+      - "0114DAEE 00000078"
+
+  - name: "P1 Power"
+    author: "lee4"
+    codes:
+      - "0114DB1E 00000080"
+
+  - name: "P2 Character Mod"
+    author: "lee4"
+    codes:
+      - "0114A1C2 000000??"
+
+  - name: "P2 HP"
+    author: "lee4"
+    codes:
+      - "0114DBF2 00000078"
+
+  - name: "P2 Power"
+    author: "lee4"
+    codes:
+      - "0114DC22 00000080"

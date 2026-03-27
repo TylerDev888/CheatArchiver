@@ -1,0 +1,79 @@
+# Fallout_ New Vegas cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00901
+
+game: "Fallout_ New Vegas"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00901"
+cheat_type: "Save Editor"
+source: "From MysterE"
+
+cheats:
+  - name: "Max Carry Weight"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80010004 7CAF100D"
+      - "93000000 00000014"
+      - "88000004 0000803F"
+      - "93000000 000002C8"
+      - "28000000 80E57349"
+
+  - name: "Max Ap"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80010004 7CAF100D"
+      - "93000000 00000014"
+      - "88000004 0000803F"
+      - "93000000 000002CD"
+      - "28000000 804FC347"
+
+  - name: "Max Limb Health"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80010004 7CAF100D"
+      - "93000000 00000014"
+      - "88000004 0000803F"
+      - "93000000 0000028C"
+      - "28000000 0000FA43"
+      - "28000005 0000FA43"
+      - "2800000A 0000FA43"
+      - "2800000F 0000FA43"
+      - "28000014 0000FA43"
+      - "28000019 0000FA43"
+
+  - name: "Extra Rad Resist"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80010004 7CAF100D"
+      - "93000000 00000014"
+      - "88000004 0000803F"
+      - "93000000 000002A5"
+      - "28000004 00004743"
+
+  - name: "Rapid Reload"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80010004 7CAF100D"
+      - "93000000 00000014"
+      - "88000004 0000803F"
+      - "93000000 000002D7"
+      - "28000000 0000FA43"
+
+  - name: "Max Special Based On Your Character's 1st Four Letter Name"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80020004 [NAME][NAME][NAME][NAME]"
+      - "93000000 0000000B"
+      - "28000000 0A0A0A0A"
+      - "28000004 0A0A0A7C"
+
+  - name: "Super Max Hp"
+    notes: "File: SYS-DATA"
+    codes:
+      - "80010004 7CAF100D"
+      - "93000000 00000014"
+      - "88000004 0000803F"
+      - "93000000 000002B9"
+      - "28000004 F0237449"

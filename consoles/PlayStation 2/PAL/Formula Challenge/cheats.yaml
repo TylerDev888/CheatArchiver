@@ -1,0 +1,26 @@
+# Formula Challenge cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Formula Challenge"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90202468 0C0BF9B3"
+
+  - name: "Disable Timer"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "D0446C02 0000FFFD"
+      - "2019B838 00000000"
+      - "D0446C02 0000FFFB"
+      - "2019B838 46010000"

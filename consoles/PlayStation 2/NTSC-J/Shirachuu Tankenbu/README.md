@@ -1,0 +1,63 @@
+# Shirachuu Tankenbu
+
+**Console:** PlayStation 2  
+**Region:** NTSC-J  
+**Serial:** SLPM-65328  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Enable Code
+**Author:** punk7890  
+**Notes:** [Master Codes]
+
+```
+9010CA38 0C043236
+```
+
+---
+
+### All Endings
+**Author:** punk7890
+
+```
+2034EE88 FFFFFFFF
+2034EE8C FFFFFFFF
+```
+
+---
+
+### Unlock All Album
+**Author:** punk7890
+
+```
+2034F45C FFFFFFFF
+2034F1EC FFFFFFFF
+2034F1F0 FFFFFFFF
+2034F1F4 FFFFFFFF
+2034F1F8 FFFFFFFF
+2034F1FC FFFFFFFF
+2034F200 FFFFFFFF
+2034F46C FFFFFFFF
+2034F204 FFFFFFFF
+2034F208 FFFFFFFF
+2034F268 FFFFFFFF
+2034F26C FFFFFFFF
+```
+
+---
+
+### Unlock Special Menu
+**Author:** punk7890
+
+```
+2017758C 0C0480C4
+20177590 8C22F6F8
+20120310 34420010
+20120314 03E00008
+20120318 AC22F6F8
+```
+
+---

@@ -1,0 +1,303 @@
+# Headhunter - Redemption cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20817
+
+game: "Headhunter - Redemption"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20817"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0340238 0034023B"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Master Codes]"
+    codes:
+      - "FE129B51 800813BF"
+      - "000FFFFE 0000005D"
+      - "000FFFFF 0000005D"
+      - "F0100008 0034023B"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "9012DAAC 0C0D006E"
+
+  - name: "Can't Detect Mines"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201C75FC 00000000"
+
+  - name: "Can't Detect/Never Exploded Mines"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201C88A8 00000000"
+
+  - name: "Debug HUD Always Off"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201381A0 90620004"
+
+  - name: "Debug HUD Always On"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201381A0 24020001"
+
+  - name: "Debug Mode"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "0043B8C8 00000001"
+
+  - name: "Extra Ammo"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202364F0 00822021"
+
+  - name: "HUD Border Always Off"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2012BC20 92A20008"
+
+  - name: "HUD Border Always On"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2012BC20 24020001"
+
+  - name: "Idiot AI Always Off"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "004A1840 00000000"
+
+  - name: "Idiot AI Always On"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "004A1840 00000001"
+
+  - name: "Infinite Ammo"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202364F8 00000000"
+
+  - name: "Infinite Health"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "200C0220 3C014400"
+      - "200C0224 AE010038"
+      - "200C0228 03E00008"
+      - "200C022C C6020038"
+      - "201CDE80 0C030088"
+
+  - name: "Invulnerable Always Off"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "00494D1D 00000000"
+
+  - name: "Invulnerable Always On"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "00494D1D 00000001"
+
+  - name: "Max Infinite Ammo"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202364F0 240403E7"
+
+  - name: "Never Reload"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201C4C74 00000000"
+
+  - name: "P1 Press L1+Down For Walk Thru Walls Off"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059BADC 0000FBBF"
+      - "201CEAF4 8E4201B8"
+
+  - name: "P1 Press L1+Left For Debug HUD Off"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059BADC 0000FB7F"
+      - "201381A0 90620004"
+
+  - name: "P1 Press L1+Right For Debug HUD On"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059BADC 0000FBDF"
+      - "201381A0 24020001"
+
+  - name: "P1 Press L1+Up For Walk Thru Walls On"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059BADC 0000FBEF"
+      - "201CEAF4 24020000"
+
+  - name: "P1 Press L2+Down For HUD Border Off"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059BADC 0000FEBF"
+      - "2012BC20 92A20008"
+
+  - name: "P1 Press L2+Left For Physicsvol Off"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059BADC 0000FE7F"
+      - "0043BA89 00000000"
+
+  - name: "P1 Press L2+Right For Physicsvol On"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059BADC 0000FEDF"
+      - "0043BA89 00000001"
+
+  - name: "P1 Press L2+Up For HUD Border On"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059BADC 0000FEEF"
+      - "2012BC20 24020001"
+
+  - name: "P1 Press R1+Down For Invulnerable Off"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059BADC 0000F7BF"
+      - "00494D1D 00000000"
+
+  - name: "P1 Press R1+Left For Show MEM Off"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059BADC 0000F77F"
+      - "20138678 90420005"
+
+  - name: "P1 Press R1+Right For Show MEM On"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059BADC 0000F7DF"
+      - "20138678 24020001"
+
+  - name: "P1 Press R1+Up For Invulnerable On"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059BADC 0000F7EF"
+      - "00494D1D 00000001"
+
+  - name: "P1 Press R2+Down For Idiot AI Off"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059BADC 0000FDBF"
+      - "004A1840 00000000"
+
+  - name: "P1 Press R2+Left For Shadow Off"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059BADC 0000FD7F"
+      - "0043BA8A 00000000"
+
+  - name: "P1 Press R2+Right For Shadow On"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059BADC 0000FDDF"
+      - "0043BA8A 00000001"
+
+  - name: "P1 Press R2+Up For Idiot AI On"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D059BADC 0000FDEF"
+      - "004A1840 00000001"
+
+  - name: "Physicsvol Always Off"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "0043BA89 00000000"
+
+  - name: "Physicsvol Always On"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "0043BA89 00000001"
+
+  - name: "Shadow Always Off"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "0043BA8A 00000000"
+
+  - name: "Shadow Always On"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "0043BA8A 00000001"
+
+  - name: "Show MEM Always Off"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20138678 90420005"
+
+  - name: "Show MEM Always On"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20138678 24020001"
+
+  - name: "Unlock All Artwork & Video/Sound Clips"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "200C0230 2401000E"
+      - "200C0230 A0410018"
+      - "200C0230 03E00008"
+      - "200C0230 AE000134"
+      - "20153970 0C03008C"
+
+  - name: "Walk Thru Walls Always Off"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201CEAF4 8E4201B8"
+
+  - name: "Walk Thru Walls Always On"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201CEAF4 24020000"

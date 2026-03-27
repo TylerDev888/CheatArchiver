@@ -1,0 +1,17 @@
+# Saint Seiya_ Brave Soldiers cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01936
+
+game: "Saint Seiya_ Brave Soldiers"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01936"
+cheat_type: "Save Editor"
+source: "From let_die"
+
+cheats:
+  - name: "Max Points"
+    notes: "File: SAVEDATA.DAT"
+    codes:
+      - "write at 0x000000E8:0x0098967F"

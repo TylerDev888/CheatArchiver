@@ -1,0 +1,30 @@
+# Club Football 200304 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Club Football 200304"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9036F1FC 0C0D6DBB"
+
+  - name: "Start With 10 Goals"
+    author: "Xploder"
+    notes: "[Home Team]"
+    codes:
+      - "D04EB0AC 0020000A"
+      - "204EB0AC 0000000A"
+
+  - name: "Never Scores"
+    author: "Xploder"
+    notes: "[Home Team]"
+    codes:
+      - "204EB0AC 00000000"

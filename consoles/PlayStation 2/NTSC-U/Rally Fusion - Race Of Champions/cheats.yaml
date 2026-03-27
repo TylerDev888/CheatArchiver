@@ -1,0 +1,89 @@
+# Rally Fusion - Race Of Champions cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20361
+
+game: "Rally Fusion - Race Of Champions"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20361"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F030B424 0030B427"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0030B427"
+
+  - name: "Access All Multiplayer Modes"
+    author: "Code Master"
+    codes:
+      - "20919000 FFFFFFFF"
+
+  - name: "Access All Multiplayer Tracks"
+    author: "Code Master"
+    codes:
+      - "20918FFC FFFFFFFF"
+
+  - name: "Access All Tracks"
+    author: "Code Master"
+    codes:
+      - "20919008 FFFFFFFF"
+
+  - name: "Always Low Time"
+    author: "Code Master"
+    codes:
+      - "201BBB0C 00000000"
+
+  - name: "Press L1+Select To End Race"
+    author: "Code Master"
+    codes:
+      - "200C0220 9421E082"
+      - "200C0224 3402FBFE"
+      - "200C0228 14220002"
+      - "200C022C 24020001"
+      - "200C0230 AC820060"
+      - "200C0234 03E00008"
+      - "200C0238 8C820060"
+      - "201C8958 08030088"
+      - "201C895C 3C010072"
+
+  - name: "Control The Car In The Replay"
+    author: "Codejunkies"
+    notes: "[Quick Race Mode Codes]"
+    codes:
+      - "D085BBA4 00000001"
+      - "2086326C 00000001"
+
+  - name: "End The Race (Press Select + Cross)"
+    author: "Codejunkies"
+    notes: "[Quick Race Mode Codes]"
+    codes:
+      - "D071E082 0000BFFE"
+      - "2085BBA4 00000001"
+
+  - name: "Unlock All Cars"
+    author: "Codejunkies"
+    notes: "[Quick Race Mode Codes]"
+    codes:
+      - "20918FF8 FFFFFFFF"
+
+  - name: "Have A Completion Low Time"
+    author: "Codejunkies"
+    notes: "[ROC Mode Codes]"
+    codes:
+      - "2085EEB8 405FFFFF"
+
+  - name: "Unlock All Tracks"
+    author: "Codejunkies"
+    codes:
+      - "20918FFC FFFFFFFF"
+      - "20919008 FFFFFFFF"

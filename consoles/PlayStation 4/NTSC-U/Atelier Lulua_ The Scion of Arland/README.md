@@ -1,0 +1,56 @@
+# Atelier Lulua_ The Scion of Arland
+
+**Console:** PlayStation 4  
+**Region:** NTSC-U  
+**Serial:** CUSA14544  
+**Cheat Type:** SaveWizard  
+
+---
+
+## Cheats
+
+### Set Quality To 999 All Items [1-5000]
+**Author:** XxUnkn0wnxX>Lotus  
+**Notes:** File: GAMEDATA[0-9]{2}\\data.dat
+
+```
+80010010 6D5F756E
+6974436F 6E746169
+6E657200 00000000
+4D000018 000003E7
+13880020 00000000
+```
+
+---
+
+### Item Add Template Builder (150 Slots)
+**Author:** XxUnkn0wnxX>Lotus  
+**Notes:** File: GAMEDATA[0-9]{2}\\data.dat
+
+```
+80010015 D5120000
+6D5F756E 69744261
+736B6574 00000012
+C0000000 00000000
+92000000 00000015
+92000000 [SLOT]
+18000002 0000[IIII<*Item ID>]
+18000004 0000[AMOUNT:270F:HEX:BIG<Quality>]
+18000006 0000[XXXX<*Trait 1>]
+18000008 0000[XXXX<*Trait 2>]
+1800000A 0000[XXXX<*Trait 3>]
+1800000C 0000[ZZZZ<*Effect 1>]
+1800000E 0000[ZZZZ<*Effect 2>]
+18000010 0000[ZZZZ<*Effect 3>]
+18000012 0000[ZZZZ<*Effect 4>]
+08000014 000000[AMOUNT:63:HEX:BIG<Item Uses-for healing, debuff, attack items>]
+18000015 00000101
+08000017 000000[AMOUNT:63:HEX:BIG<Item Amount>]
+08000018 000000[AMOUNT:63:HEX:BIG<Item Health Points>]
+08000019 000000[AMOUNT:63:HEX:BIG<Item Magic Points>]
+0800001A 000000[AMOUNT:63:HEX:BIG<Item Attack>]
+0800001B 000000[AMOUNT:63:HEX:BIG<Item Defense>]
+0800001C 000000[AMOUNT:63:HEX:BIG<Item Speed>]
+```
+
+---

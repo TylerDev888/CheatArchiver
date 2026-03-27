@@ -1,0 +1,38 @@
+# Star Wars - Jedi Starfighter cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50374
+
+game: "Star Wars - Jedi Starfighter"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50374"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F03A8F38 000001FD"
+
+  - name: "2P Complete"
+    author: "Codejunkies"
+    notes: "[Mission 1]"
+    codes:
+      - "009DA086 00000001"
+
+  - name: "Hard Complete"
+    author: "Codejunkies"
+    notes: "[Mission 1]"
+    codes:
+      - "009DA08A 00000003"
+
+  - name: "Medals Complete"
+    author: "Codejunkies"
+    notes: "[Mission 1]"
+    codes:
+      - "009DA087 00000001"
+      - "009DA088 00000001"
+      - "009DA089 00000001"

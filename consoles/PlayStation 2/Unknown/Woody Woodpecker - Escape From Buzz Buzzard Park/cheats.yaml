@@ -1,0 +1,45 @@
+# Woody Woodpecker - Escape From Buzz Buzzard Park cheat data
+# Console: PlayStation 2
+# Region:  Unknown
+# Serial:  No
+
+game: "Woody Woodpecker - Escape From Buzz Buzzard Park"
+console: "PlayStation 2"
+region: "Unknown"
+serial: "No"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100128 000001FD"
+
+  - name: "Brightness (True Cartoon)"
+    author: "InterAct"
+    codes:
+      - "2020F470 40800000"
+      - "2020F474 40800000"
+      - "2020F478 40800000"
+
+  - name: "Feather Hop"
+    author: "InterAct"
+    codes:
+      - "20173FD8 3C024000"
+
+  - name: "Knothead Start With 999 Lives"
+    author: "InterAct"
+    codes:
+      - "2091E598 000003E8"
+
+  - name: "Splinter Start With 999 Lives"
+    author: "InterAct"
+    codes:
+      - "2091EC74 000003E8"
+
+  - name: "Start With 999 Lives"
+    author: "InterAct"
+    codes:
+      - "2091DEBC 000003E8"

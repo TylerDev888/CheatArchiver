@@ -1,0 +1,42 @@
+# Lost Planet 3 cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM60490
+
+game: "Lost Planet 3"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM60490"
+cheat_type: "AP"
+source: "From bokosukagames"
+
+cheats:
+  - name: "Termal Energy 9999999"
+    notes: "File: DD2CA199.SAV"
+    codes:
+      - "search 0x4C50514F5F4F626A656374697665426F6F6C:1"
+      - "write next 16: 4B18967F"
+
+  - name: "Scrap 9999999"
+    notes: "File: DD2CA199.SAV"
+    codes:
+      - "search 0x4C50514F5F4F626A656374697665426F6F6C:1"
+      - "write next 1A: 4B18967F"
+
+  - name: "Pistol Ammo Charge 2147483647"
+    notes: "File: DD2CA199.SAV"
+    codes:
+      - "search 0x4C5054756E6544617461416D6D6F506973746F6C5F44656661756C740000000000FFFFFFFF0000:1"
+      - "write next 21: FFFFFFFF7FFFFFFF"
+
+  - name: "Equipment Shotgun Infinity Ammo"
+    notes: "File: DD2CA199.SAV"
+    codes:
+      - "search 0x4C5054756E6544617461416D6D6F53686F7467756E5F:3"
+      - "write next 22: FFFFFFFF7FFFFFFF"
+
+  - name: "Equipment Hunting Rifle Infinity Ammo"
+    notes: "File: DD2CA199.SAV"
+    codes:
+      - "search 0x4C5054756E6544617461416D6D6F48756E74696E675269666C655F:3"
+      - "write next 2F: FFFFFFFF7FFFFFFF"

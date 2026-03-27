@@ -1,0 +1,158 @@
+# Magna Carta cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53767
+
+game: "Magna Carta"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53767"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F012085C 0012085F"
+
+  - name: "All Monsters Are Level 1"
+    author: "Codejunkies"
+    codes:
+      - "202F6E40 24020001"
+
+  - name: "All Monsters Are Level 99"
+    author: "Codejunkies"
+    codes:
+      - "202F6E40 24020063"
+
+  - name: "1000 XP"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "200FFF14 8C2200BC"
+      - "200FFF18 244203E8"
+      - "200FFF1C AC2200BC"
+
+  - name: "Full HP"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "200FFF08 8C220034"
+      - "200FFF0C AC2200AC"
+
+  - name: "Max Attk"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "200FFF30 AC220040"
+
+  - name: "Max Cha"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "200FFF34 AC220038"
+
+  - name: "Max Def"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "200FFF2C AC220044"
+
+  - name: "Max Ma"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "200FFF28 AC220048"
+
+  - name: "Max Res"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "200FFF24 AC22004C"
+
+  - name: "Max/Full HP"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "200FFF08 2402270F"
+      - "200FFF0C AC220034"
+      - "200FFF10 AC2200AC"
+
+  - name: "Must Be On"
+    author: "Codejunkies"
+    notes: "[In Battle Codes]"
+    codes:
+      - "200FFF00 8C84020C"
+      - "200FFF04 8C810060"
+      - "200FFF40 03E00008"
+      - "20411E34 0C03FFC0"
+      - "200FFF20 240203E8"
+
+  - name: "Infinite Item Use"
+    author: "Codejunkies"
+    codes:
+      - "2039E7C4 24020001"
+
+  - name: "Infinite Sid"
+    author: "Codejunkies"
+    codes:
+      - "20E3EA7C 05F00000"
+
+  - name: "Items Increase When Used"
+    author: "Codejunkies"
+    codes:
+      - "2039FA50 080E857C"
+      - "2039FA54 00000000"
+
+  - name: "Max Cash After A Fight"
+    author: "Codejunkies"
+    codes:
+      - "202F6F4C 3C1405F0"
+
+  - name: "Hyper Mode"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "2053B544 40200000"
+
+  - name: "Hyper Mode (Press Start)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "E10100F7 00551582"
+      - "2053C644 40800000"
+
+  - name: "Normal Speed (Press R3)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "E10100FB 00551582"
+      - "2053C644 3F800000"
+
+  - name: "Quicker Game"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "2053B544 3FE00000"
+
+  - name: "Quicker Game (Press Select)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "E10100FE 00551582"
+      - "2053C644 3FE00000"
+
+  - name: "Slow Motion"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "2053B544 3F000000"
+
+  - name: "Slow Motion (Press L3)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "E10100FD 00551582"
+      - "2053C644 3E800000"

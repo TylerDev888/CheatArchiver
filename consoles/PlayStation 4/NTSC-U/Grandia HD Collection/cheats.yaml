@@ -1,0 +1,696 @@
+# Grandia HD Collection cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA43589
+
+game: "Grandia HD Collection"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA43589"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Name"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "08000000 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Level"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "08000003 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Current Experience"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000008 0000[Amount:2710:HEX:BIG]"
+
+  - name: "HP Current"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "1800000A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "HP Total"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "1800000C 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Str"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "1800000E 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Vit"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000010 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Wit"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000012 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Agi"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000014 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Sp Current"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000016 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Sp Total"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000018 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Fire Experience"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "1800001C 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Water Experience"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "1800001E 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Wind Experience"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000020 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Earth Experience"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000022 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Weapon 1 Experience"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000024 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Weapon 2 Experience"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000026 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Weapon 3 Experience"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000028 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Fire Level"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "0800002C 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Water Level"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "0800002D 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Wind Level"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "0800002E 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Earth Level"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "0800002F 000000[Amount:FF:HEX:BIG]"
+
+  - name: "MP 1 Current"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "0800003C 000000[Amount:FF:HEX:BIG]"
+
+  - name: "MP 1 Total"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "0800003D 000000[Amount:FF:HEX:BIG]"
+
+  - name: "MP 2 Current"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "0800003E 000000[Amount:FF:HEX:BIG]"
+
+  - name: "MP 2 Total"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "0800003F 000000[Amount:FF:HEX:BIG]"
+
+  - name: "MP 3 Current"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "08000040 000000[Amount:FF:HEX:BIG]"
+
+  - name: "MP 3 Total"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "08000041 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Weapon1 Level"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000030 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Weapon2 Level"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000032 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Weapon3 Level"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000033 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Total Experience"
+    notes: "[Characters]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000034 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Weapon"
+    notes: "[Equipment]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "1800004C 0000[ITID]"
+
+  - name: "Shield"
+    notes: "[Equipment]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "1800004E 0000[ITID]"
+
+  - name: "Armor"
+    notes: "[Equipment]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000050 0000[ITID]"
+
+  - name: "Helmet"
+    notes: "[Equipment]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000052 0000[ITID]"
+
+  - name: "Shoes"
+    notes: "[Equipment]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000054 0000[ITID]"
+
+  - name: "Jewelry"
+    notes: "[Equipment]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000056 0000[ITID]"
+
+  - name: "Inventory 1"
+    notes: "[Items]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000058 0000[ITID]"
+
+  - name: "Inventory 2"
+    notes: "[Items]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "1800005A 0000[ITID]"
+
+  - name: "Inventory 3"
+    notes: "[Items]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "1800005C 0000[ITID]"
+
+  - name: "Inventory 4"
+    notes: "[Items]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "1800005E 0000[ITID]"
+
+  - name: "Inventory 5"
+    notes: "[Items]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000060 0000[ITID]"
+
+  - name: "Inventory 6"
+    notes: "[Items]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000062 0000[ITID]"
+
+  - name: "Inventory 7"
+    notes: "[Items]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000064 0000[ITID]"
+
+  - name: "Inventory 8"
+    notes: "[Items]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000066 0000[ITID]"
+
+  - name: "Inventory 9"
+    notes: "[Items]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "18000068 0000[ITID]"
+
+  - name: "Inventory 10"
+    notes: "[Items]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "1800006A 0000[ITID]"
+
+  - name: "Inventory 11"
+    notes: "[Items]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "1800006C 0000[ITID]"
+
+  - name: "Inventory 12"
+    notes: "[Items]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[CHARACTERS1]"
+      - "1800006E 0000[ITID]"
+
+  - name: "Add/Edit Quantity Of A Item In Stash"
+    notes: "[Inventory Items]  File: GRANDIA1\\([0-9]|[0-1][0-6])\\BISLPSP02124GRA-S[0-9]+"
+    codes:
+      - "[STASH] 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Current Level"
+    notes: "[Characters]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "08000012 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Current EXP"
+    notes: "[Characters]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "28000014 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Remaining EXP"
+    notes: "[Characters]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "28000018 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Max HP"
+    notes: "[Characters]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "1800001C 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Current HP"
+    notes: "[Characters]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "1800001E 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Max MP"
+    notes: "[Characters]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "18000020 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Current MP"
+    notes: "[Characters]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "18000022 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Max Sp"
+    notes: "[Characters]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "18000024 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Current Sp"
+    notes: "[Characters]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "18000026 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Base Strength"
+    notes: "[Characters]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "18000028 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Base Vitality"
+    notes: "[Characters]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "1800002A 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Base Agility"
+    notes: "[Characters]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "1800002C 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Base Speed"
+    notes: "[Characters]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "1800002E 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Base Magic"
+    notes: "[Characters]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "18000030 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Base Mentality"
+    notes: "[Characters]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "18000032 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Equipped Weapon"
+    notes: "[Equipment]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "18000040 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Equipped Armor"
+    notes: "[Equipment]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "18000042 0000[ITID2]"
+
+  - name: "Equipped Headgear"
+    notes: "[Equipment]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "18000044 0000[ITID2]"
+
+  - name: "Equipped Footwear"
+    notes: "[Equipment]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "18000046 0000[ITID2]"
+
+  - name: "Equipped Accessory"
+    notes: "[Equipment]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "18000048 0000[ITID2]"
+
+  - name: "Equipped Mana Egg"
+    notes: "[Equipment]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "1800004A 0000[ITID2]"
+
+  - name: "Skill Slots"
+    notes: "[Skills]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "0800004C 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Skill Book 1"
+    notes: "[Skills]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "0800004D 000000[G2SKILL]"
+
+  - name: "Skill Book 2"
+    notes: "[Skills]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "0800004E 000000[G2SKILL]"
+
+  - name: "Skill Book 3"
+    notes: "[Skills]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "0800004F 000000[G2SKILL]"
+
+  - name: "Skill Book 4"
+    notes: "[Skills]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "08000040 000000[G2SKILL]"
+
+  - name: "Skill Book 5"
+    notes: "[Skills]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "08000041 000000[G2SKILL]"
+
+  - name: "Skill Book 6"
+    notes: "[Skills]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "08000042 000000[G2SKILL]"
+
+  - name: "Skill 1 From A Book"
+    notes: "[Skills]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "08000043 000000[G2SKILL]"
+
+  - name: "Skill 2 From A Book"
+    notes: "[Skills]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "08000044 000000[G2SKILL]"
+
+  - name: "Skill 3 From A Book"
+    notes: "[Skills]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "08000045 000000[G2SKILL]"
+
+  - name: "Skill 4 From A Book"
+    notes: "[Skills]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "08000046 000000[G2SKILL]"
+
+  - name: "Skill 5 From A Book"
+    notes: "[Skills]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "08000047 000000[G2SKILL]"
+
+  - name: "Skill 6 From A Book"
+    notes: "[Skills]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "[CHARACTERS2]"
+      - "08000048 000000[G2SKILL]"
+
+  - name: "Move 1"
+    notes: "[Ryudo]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "000005FC 000000[G2MOVE]"
+
+  - name: "Move 1 Level"
+    notes: "[Ryudo]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "000005FD 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Move 2"
+    notes: "[Ryudo]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "00000600 000000[G2MOVE]"
+
+  - name: "Move 2 Level"
+    notes: "[Ryudo]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "00000601 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Move 3"
+    notes: "[Ryudo]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "00000604 000000[G2MOVE]"
+
+  - name: "Move 3 Level"
+    notes: "[Ryudo]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "00000605 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Move 4"
+    notes: "[Ryudo]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "00000608 000000[G2MOVE]"
+
+  - name: "Move 4 Level"
+    notes: "[Ryudo]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "00000609 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Move 5"
+    notes: "[Ryudo]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "0000060C 000000[G2MOVE]"
+
+  - name: "Move 5 Level"
+    notes: "[Ryudo]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "0000060D 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Move 6"
+    notes: "[Ryudo]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "00000610 000000[G2MOVE]"
+
+  - name: "Move 6 Level"
+    notes: "[Ryudo]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "00000611 000000[Amount:FF:HEX:BIG]"
+
+  - name: "All Items"
+    notes: "[Inventory]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "A0000AB5 0000031E"
+      - "63630000 00000000"
+      - "00006363 63000000"
+      - "00000000 00000000"
+      - "00000000 00000000"
+      - "00000000 00000000"
+      - "00000000 00000000"
+      - "00006363 63636363"
+      - "63636300 63636363"
+      - "63636363 63636363"
+      - "63000000 00000000"
+      - "63636363 00000000"
+      - "00000000 00000000"
+      - "00000000 63636363"
+      - "63630000 00006363"
+      - "63630000 00000000"
+      - "63636363 63636363"
+      - "63636363 63630000"
+      - "00000000 63636363"
+      - "00000000 00636363"
+      - "63630000 00000000"
+      - "63636300 00000000"
+      - "00006363 63000000"
+      - "00000000 00000000"
+      - "00000000 00000000"
+      - "00000000 00636300"
+      - "63636363 63636363"
+      - "63636363 63636363"
+      - "63636363 63636363"
+      - "63636363 63006363"
+      - "63636363 63636363"
+      - "63636363 63636363"
+      - "63006363 63636300"
+      - "00000000 00000000"
+      - "00000000 00000000"
+      - "00000000 00000000"
+      - "00000000 00000000"
+      - "00000000 00000000"
+      - "00000000 63636363"
+      - "63636363 63636363"
+      - "63636363 63636363"
+      - "63630000 00000000"
+      - "00006363 63636363"
+      - "63636363 63636363"
+      - "63636363 63636300"
+      - "00000000 00000000"
+      - "63636363 63636363"
+      - "00000000 00000000"
+      - "00000000 00000000"
+      - "00000000 00006363"
+      - "63636363 63636363"
+      - "63636300 00000000"
+      - "00000000 00000000"
+      - "00000000 63636363"
+      - "63636363 63636300"
+      - "00000000 00000000"
+      - "00000000 00000000"
+      - "00006363 63636363"
+      - "63636363 63630000"
+      - "00000000 00000000"
+      - "00000000 00000000"
+      - "00000000 00000000"
+      - "00000000 00000000"
+      - "00000000 63636363"
+      - "63636363 63630000"
+      - "00000000 00000000"
+      - "63636363 63636363"
+      - "63636363 63636363"
+      - "63636300 63636363"
+      - "63636363 00006363"
+      - "63636363 63636363"
+      - "63000000 00000000"
+      - "00006363 63636363"
+      - "63636363 63630000"
+      - "00000000 00006363"
+      - "63636363 63636363"
+      - "63000000 00000000"
+      - "00006363 63636363"
+      - "63636363 63000000"
+      - "00000000 00006363"
+      - "63636363 63636300"
+      - "00000000 00000000"
+      - "00006363 63636363"
+      - "63636363 63000000"
+      - "00000000 00006363"
+      - "63636363 63630000"
+      - "63636363 63636363"
+      - "63636363 00000000"
+      - "00000000 63636363"
+      - "63636363 63636363"
+      - "63636363 63636363"
+      - "63636363 63636363"
+      - "63636363 63630000"
+      - "00000063 63636363"
+      - "63636363 63636363"
+      - "00000000 00000000"
+      - "63636363 63636363"
+      - "63636363 63636300"
+      - "00000000 63636363"
+      - "63636363 63636363"
+      - "63636363 63630000"
+
+  - name: "Magic Id"
+    notes: "[Magic 1]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "000006EC 000000[G2MAG]"
+
+  - name: "Unlock"
+    notes: "[Magic 1]  File: GRANDIA2\\grandia2grandia2_[0-9]+.vms"
+    codes:
+      - "000006EE 000000[Amount:00:HEX:BIG]"

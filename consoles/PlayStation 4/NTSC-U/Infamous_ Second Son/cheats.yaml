@@ -1,0 +1,31 @@
+# Infamous_ Second Son cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA00223
+
+game: "Infamous_ Second Son"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA00223"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Karma True Hero"
+    author: "danilo_scala BR"
+    notes: "File: infamousss(User|Auto)[0-3]"
+    codes:
+      - "20000004 459C4000"
+
+  - name: "Karma Infamous"
+    author: "danilo_scala BR"
+    notes: "File: infamousss(User|Auto)[0-3]"
+    codes:
+      - "20000004 C59C4000"
+
+  - name: "Karma Reset"
+    author: "danilo_scala BR"
+    notes: "File: infamousss(User|Auto)[0-3]"
+    codes:
+      - "5000000C 00000004"
+      - "50000004 00000000"

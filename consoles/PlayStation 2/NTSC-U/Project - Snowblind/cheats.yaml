@@ -1,0 +1,129 @@
+# Project - Snowblind cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21037
+
+game: "Project - Snowblind"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21037"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0300668 0030066B"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "90404FD0 0C1048DB"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "90404FF4 0C101546"
+
+  - name: "Gain Ammo As You Fire"
+    author: "MadCatz"
+    codes:
+      - "20274228 24430001"
+
+  - name: "Gain Grenades As You Fire"
+    author: "MadCatz"
+    codes:
+      - "20266F70 24630001"
+
+  - name: "Infinite Ammo"
+    author: "MadCatz"
+    codes:
+      - "20274228 24430000"
+
+  - name: "Infinite Bio Energy"
+    author: "MadCatz"
+    codes:
+      - "20129F54 E600000C"
+
+  - name: "Infinite Biomod Energy"
+    author: "Codejunkies"
+    codes:
+      - "E003FFC0 00129EC8"
+      - "E00227BD 00129ECA"
+      - "20129F70 C6000018"
+      - "20129F78 E600000C"
+
+  - name: "Infinite Grenades"
+    author: "MadCatz"
+    codes:
+      - "20266F70 24630000"
+
+  - name: "Infinite Health"
+    author: "MadCatz"
+    codes:
+      - "200C2000 3C1B43FA"
+      - "200C2004 449B0800"
+      - "200C2008 0804A7C9"
+      - "200C200C E6410490"
+      - "20129F20 08030800"
+
+  - name: "One Hit Kills Enemies"
+    author: "Codejunkies"
+    codes:
+      - "E002FFC0 00129EC8"
+      - "D0129ECA 000027BD"
+      - "201A1380 C7800000"
+
+  - name: "Extra Ammo"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2024CCD8 00A42821"
+
+  - name: "Extra Grenades"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "10266F70 00000001"
+
+  - name: "Halo-Legacy Controls Mode"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "003FADD0 00000010"
+      - "003FAEB4 00000012"
+
+  - name: "Infinite Bio-Energy"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20129F60 8E010018"
+      - "20129F64 AE01000C"
+
+  - name: "Max Infinite Ammo"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "2024CCD8 240503E7"
+
+  - name: "Max Infinite Grenades"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20266F70 24030063"
+
+  - name: "Never Reload-Primary Ammo"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20274234 00000000"
+
+  - name: "Never Reload-Secondary Ammo"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20275C24 00000000"

@@ -1,0 +1,209 @@
+# NHL 2K3 - Sega Sports cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20477
+
+game: "NHL 2K3 - Sega Sports"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20477"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F053618C 0053618F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0053618F"
+
+  - name: "All Goal's Score For Away Team"
+    author: "Code Master"
+    codes:
+      - "20330220 24030004"
+
+  - name: "All Goal's Score For Home Team"
+    author: "Code Master"
+    codes:
+      - "20330220 24030000"
+
+  - name: "Always Argue Penalties"
+    author: "floydfan"
+    codes:
+      - "2059FCA0 00000001"
+
+  - name: "Always Fight"
+    author: "floydfan"
+    codes:
+      - "205914C0 00000001"
+
+  - name: "Always Grumble About Penalties"
+    author: "floydfan"
+    codes:
+      - "2059FCD4 00000001"
+
+  - name: "Always Score 0"
+    author: "Codejunkies"
+    notes: "[Away Score Codes]"
+    codes:
+      - "10592CD4 00000000"
+
+  - name: "Always Score 20"
+    author: "Codejunkies"
+    notes: "[Away Score Codes]"
+    codes:
+      - "10592CD4 00000014"
+
+  - name: "The Away Team Wins (Press R1+R2 To Activate)"
+    author: "Codejunkies"
+    notes: "[Away Score Codes]"
+    codes:
+      - "D065CB02 0000F5FF"
+      - "10592CD0 00000000"
+      - "D065CB02 0000F5FF"
+      - "10592CD4 00000014"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "10592CD4 0000????"
+
+  - name: "Breakaways Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "10CBD930 0000????"
+
+  - name: "Goals Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "10CBD91C 0000????"
+
+  - name: "Hits Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "10CBD938 0000????"
+
+  - name: "Max Breakaways Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "10CBD932 0000????"
+
+  - name: "Max Passing Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "10CBD934 0000????"
+
+  - name: "Max Penalties Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "10CBD93A 0000????"
+
+  - name: "Max Power Plays Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "10CBD924 0000????"
+
+  - name: "Max Short-Handed Goals Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "10CBD92A 0000????"
+
+  - name: "Passing Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "10CBD936 0000????"
+
+  - name: "Penalties Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "10CBD944 0000????"
+
+  - name: "Power Plays Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "10CBD920 0000????"
+
+  - name: "Short-Handed Goals Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "10CBD926 0000????"
+
+  - name: "Shots Modifier"
+    author: "Code Master"
+    notes: "[Away Team Stats Codes]"
+    codes:
+      - "10CBD91A 0000????"
+
+  - name: "Enable Big Heads"
+    author: "floydfan"
+    codes:
+      - "2056E268 00000001"
+
+  - name: "Goal's Score Modifier"
+    author: "Code Master"
+    codes:
+      - "1033022C 000000??"
+
+  - name: "The Home Team Wins (Press L1+L2 To Activate)"
+    author: "Codejunkies"
+    notes: "[Home Score Codes]"
+    codes:
+      - "D065CB02 0000FAFF"
+      - "10592CD0 00000014"
+      - "D065CB02 0000FAFF"
+      - "10592CD4 00000000"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "10592CD0 0000????"
+
+  - name: "Infinite Time-Outs (Both Teams)"
+    author: "Code Master"
+    codes:
+      - "20356BAC 00000000"
+
+  - name: "Make Players Invisible"
+    author: "floydfan"
+    codes:
+      - "205A6B1C 00000001"
+
+  - name: "Maximum Injury Chance (Affects Both Teams)"
+    author: "floydfan"
+    codes:
+      - "205D5934 FFFFFFFF"
+
+  - name: "Minimum Injury Chance (Affects Both Teams)"
+    author: "floydfan"
+    codes:
+      - "205D5934 00000000"
+
+  - name: "Start On 2Nd Period"
+    author: "Code Master"
+    codes:
+      - "D0592CC4 00000001"
+      - "10592CC4 00000002"
+
+  - name: "Start On 3Rd Period"
+    author: "Code Master"
+    codes:
+      - "D0592CC4 00000001"
+      - "10592CC4 00000003"

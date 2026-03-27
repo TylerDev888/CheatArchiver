@@ -1,0 +1,147 @@
+# Armored Core Nexus [Revolution Disc] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21079
+
+game: "Armored Core Nexus [Revolution Disc]"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21079"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "9022AE14 0C08AC18"
+
+  - name: "Replace Shape Memory Alloys 2 BGM With Shape Memory Alloys [Unused Remix] BGM"
+    author: "AceKombat"
+    notes: "[BGM Modifier]"
+    codes:
+      - "202D5114 0236A800"
+      - "202D5118 000C9600"
+
+  - name: "Infinite AP"
+    author: "MadCatz"
+    codes:
+      - "20299654 00009C39"
+
+  - name: "Infinite Credits"
+    author: "MadCatz"
+    codes:
+      - "204885B0 3B9AC9FF"
+
+  - name: "Infinite Energy Gauge"
+    author: "MadCatz"
+    codes:
+      - "20299660 000076AE"
+
+  - name: "Infinite Inside Ammo"
+    author: "MadCatz"
+    codes:
+      - "1029A084 0000270F"
+
+  - name: "Infinite L Arm Ammo"
+    author: "MadCatz"
+    codes:
+      - "102A4718 0000270F"
+
+  - name: "Max Inside Ammo"
+    author: "MadCatz"
+    codes:
+      - "1029A086 0000270F"
+
+  - name: "Max L Arm Ammo"
+    author: "MadCatz"
+    codes:
+      - "102A471A 0000270F"
+
+  - name: "Max L Back Ammo"
+    author: "MadCatz"
+    codes:
+      - "10299F66 0000270F"
+
+  - name: "Max R Arm Ammo"
+    author: "MadCatz"
+    codes:
+      - "10299ED6 0000270F"
+
+  - name: "Max R Back Ammo"
+    author: "MadCatz"
+    codes:
+      - "10299FF6 0000270F"
+
+  - name: "No Limit - L Back Ammo"
+    author: "MadCatz"
+    codes:
+      - "10299F64 0000270F"
+
+  - name: "No Limit - R Arm Ammo"
+    author: "MadCatz"
+    codes:
+      - "10299ED4 0000270F"
+
+  - name: "No Limit - R Back Ammo"
+    author: "MadCatz"
+    codes:
+      - "10299FF4 0000270F"
+
+  - name: "Attain 100% Achievement Ratio"
+    author: "AceKombat"
+    notes: "[System Codes]"
+    codes:
+      - "20488920 FFFFFFFF"
+      - "20488924 FFFFFFFF"
+      - "20488928 FFFFFFFF"
+      - "0048892C 000000FF"
+
+  - name: "Unlock & S-Rank All Missions"
+    author: "AceKombat"
+    notes: "[System Codes]"
+    codes:
+      - "204888E0 16161616"
+      - "204888E4 16161616"
+      - "204888E8 16161616"
+      - "204888EC 16161616"
+      - "204888F0 16161616"
+      - "204888F4 16161616"
+      - "204888F8 16161616"
+      - "204888FC 16161616"
+      - "20488900 16161616"
+      - "20488904 16161616"
+      - "20488908 16161616"
+      - "1048890C 00001616"
+
+  - name: "Unlock All Episode Movie Content"
+    author: "AceKombat"
+    notes: "[System Codes]"
+    codes:
+      - "10488968 00007FFF"
+
+  - name: "Unlock All Illustration Content"
+    author: "AceKombat"
+    notes: "[System Codes]"
+    codes:
+      - "20488970 FFFFFFFF"
+      - "20488974 FFFFFFFF"
+
+  - name: "Unlock All Poster Content"
+    author: "AceKombat"
+    notes: "[System Codes]"
+    codes:
+      - "10488978 000007FF"
+
+  - name: "Unlock All Series Movie Content"
+    author: "AceKombat"
+    notes: "[System Codes]"
+    codes:
+      - "00488960 000000FF"
+
+  - name: "Unlock All Sound Track Content"
+    author: "AceKombat"
+    notes: "[System Codes]"
+    codes:
+      - "20488980 7FFFFFFF"

@@ -1,0 +1,39 @@
+# Disney Universe cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01354
+
+game: "Disney Universe"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01354"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Money (not Working)"
+    notes: "File: BLES01354AUTOSAVE*\\56600001.DAT"
+    codes:
+      - "80010008 60400000"
+      - "00000002 00000000"
+      - "28000008 05F5E0FF"
+
+  - name: "Get Crc32 For 56600001.dat (required)"
+    notes: "File: 56600001.DAT"
+    codes:
+      - "set [hash_56600001.DAT]:CRC32"
+      - "set [size_56600001.DAT]:eof+1"
+
+  - name: "Get Crc32 For 96600000.dat (required)"
+    notes: "File: 96600000.DAT  (dependency: SAVE.BIN)"
+    codes:
+      - "set [hash_96600000.DAT]:CRC32"
+      - "set [size_96600000.DAT]:eof+1"
+
+  - name: "Update Crc32 For 56600001.dat And 96600000.dat (required)"
+    notes: "File: SAVE.BIN"
+    codes:
+      - "write at 0x000014:[size_56600001.DAT]"
+      - "write at 0x000018:[hash_56600001.DAT]"
+      - "write at 0x000024:[size_96600000.DAT]"
+      - "write at 0x000028:[hash_96600000.DAT]"

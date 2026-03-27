@@ -1,0 +1,31 @@
+# Pokemon Rumble cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  WPSE
+
+game: "Pokemon Rumble"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "WPSE"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Inf HP"
+    author: "Skiller"
+    codes:
+      - "C2159D50 00000004"
+      - "88C30009 2C060000"
+      - "4182000C 80C30054"
+      - "90C3006C 80C3006C"
+      - "60000000 00000000"
+
+  - name: "1 Hit Kill Enemys"
+    author: "Skiller"
+    codes:
+      - "C20EC868 00000005"
+      - "88C30009 2C060000"
+      - "40820014 80C30054"
+      - "7C060000 41820008"
+      - "3C000000 9003006C"
+      - "60000000 00000000"

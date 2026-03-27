@@ -1,0 +1,134 @@
+# Mummy Returns, The cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20253
+
+game: "Mummy Returns, The"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20253"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0161D18 00220DBF"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00220DBF"
+
+  - name: "1-Hit Death (Enemies)"
+    author: "Code Master"
+    codes:
+      - "002CBBB4 00000001"
+
+  - name: "Debug Info Manipulator"
+    author: "Code Master"
+    codes:
+      - "D02DE842 0000F3FF"
+      - "002CAA2D 00000001"
+      - "D02DE842 0000FCFF"
+      - "002CAA2D 00000000"
+
+  - name: "Debug Info Off: Press Select+L2"
+    author: "Codejunkies"
+    codes:
+      - "F0B595E9 64DA3FEF"
+      - "20B457D4 64DA29E9"
+
+  - name: "Debug Info: Press Select+L1"
+    author: "Codejunkies"
+    codes:
+      - "F0B595E9 64DA3CEF"
+      - "20B457D4 64DA29D4"
+
+  - name: "Display Debug Informations (Press Select+L1 To Activate; Select+L2 To Stop)"
+    author: "Codejunkies"
+    codes:
+      - "D02DE842 0000FBFE"
+      - "002CAA2D 00000001"
+      - "D02DE842 0000FEFE"
+      - "002CAA2D 00000000"
+
+  - name: "Infinite Ammo"
+    author: "InterAct"
+    codes:
+      - "002CBBB5 00000001"
+
+  - name: "Infinite Health"
+    author: "InterAct"
+    codes:
+      - "002CBBB0 00000001"
+
+  - name: "Infinite Health (Enemies)"
+    author: "Code Master"
+    codes:
+      - "002CBBB1 00000001"
+
+  - name: "Invincible Enemies"
+    author: "InterAct"
+    codes:
+      - "20B46658 64DA29D4"
+
+  - name: "No Clipping Manipulator"
+    author: "Code Master"
+    codes:
+      - "D02DE842 0000F5FF"
+      - "002CBBB3 00000001"
+      - "D02DE842 0000FAFF"
+      - "002CBBB3 00000000"
+
+  - name: "Press Select+L1 For Debug Info On"
+    author: "InterAct"
+    codes:
+      - "D02DE842 0000FBFE"
+      - "002CAA2D 00000001"
+
+  - name: "Press Select+L2 For Debug Info Off"
+    author: "InterAct"
+    codes:
+      - "D02DE842 0000FEFE"
+      - "002CAA2D 00000000"
+
+  - name: "Press Select+R1 To Walk Through Walls"
+    author: "InterAct"
+    codes:
+      - "D02DE842 0000F7FE"
+      - "002CBBB3 00000001"
+
+  - name: "Press Select+R2 To Turn Walk Through Walls Off"
+    author: "InterAct"
+    codes:
+      - "D02DE842 0000FDFE"
+      - "002CBBB3 00000000"
+
+  - name: "Transparency"
+    author: "Code Master"
+    codes:
+      - "002CBBB2 00000001"
+
+  - name: "Walk Through Walls (Press Select+R1 To Activate; Select+R2 To Stop)"
+    author: "Codejunkies"
+    codes:
+      - "D02DE842 0000F7FE"
+      - "002CBBB3 00000001"
+      - "D02DE842 0000FDFE"
+      - "002CBBB3 00000000"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00220DBF"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90220DBC 0C0855A6"

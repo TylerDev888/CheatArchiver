@@ -1,0 +1,72 @@
+# Call of Juarez Bound in Blood cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS30347
+
+game: "Call of Juarez Bound in Blood"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS30347"
+cheat_type: "Save Editor"
+source: "Created by startuga"
+
+cheats:
+  - name: "Decompress Coj2-dat (required)"
+    notes: "File: COJ2-DAT"
+    codes:
+      - "Decompress(0x0000000A, -15)"
+
+  - name: "Green:goldrush! And On The Rigat Track 1$ More(working)"
+    notes: "File: ~extracted\\0000000a.dat"
+    codes:
+      - "search \"AchGRush_G\""
+      - "write next (25):0x00000F423F"
+      - "search \"AchOTRT_G\""
+      - "write next (23):0x0000030D3F"
+
+  - name: "Green:unforgiven One More (working)"
+    notes: "File: ~extracted\\0000000a.dat"
+    codes:
+      - "search \"AchUnfor_G\""
+      - "write next (25):0x0000000009"
+
+  - name: "Green:well Invested One More (working)"
+    notes: "File: ~extracted\\0000000a.dat"
+    codes:
+      - "search \"AchWellInv_G\""
+      - "write next (29):0x0000090013"
+
+  - name: "Green:max Cash Thomas (working)"
+    notes: "File: ~extracted\\0000000a.dat"
+    codes:
+      - "search \"Cash1\""
+      - "write next (5):0x0000FFFFFF"
+
+  - name: "Green:max Cash Ray (working)"
+    notes: "File: ~extracted\\0000000a.dat"
+    codes:
+      - "search \"Cash0\""
+      - "write next (5):0x0000FFFFFF"
+
+  - name: "Green:max Cash Multiplayer (working)"
+    notes: "File: ~extracted\\0000000a.dat"
+    codes:
+      - "search \"Cash\""
+      - "write next (4):0x0000FFFFFF"
+
+  - name: "Green:god Mode (working)"
+    notes: "File: ~extracted\\0000000a.dat"
+    codes:
+      - "search \"CheatGodMode\""
+      - "write next (12):0x0000000001"
+
+  - name: "Green:magic Ammo (working)"
+    notes: "File: ~extracted\\0000000a.dat"
+    codes:
+      - "search \"CheatMagicAmmo\""
+      - "write next (14):0x0000000001"
+
+  - name: "Compress Coj2-dat (required)"
+    notes: "File: COJ2-DAT"
+    codes:
+      - "Compress(0x0000000A)"

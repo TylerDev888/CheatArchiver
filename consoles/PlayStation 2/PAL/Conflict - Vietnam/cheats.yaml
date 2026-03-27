@@ -1,0 +1,44 @@
+# Conflict - Vietnam cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52630
+
+game: "Conflict - Vietnam"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52630"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F031D0B8 0031D0BB"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "20223338 00000000"
+
+  - name: "Infinite Grenades"
+    author: "Codejunkies"
+    codes:
+      - "20222B90 00000000"
+
+  - name: "Infinite Medical Field Dressings"
+    author: "Codejunkies"
+    codes:
+      - "2022AED8 00000000"
+
+  - name: "Infinite Skill Points (Do Not Use Auto Assign)"
+    author: "Codejunkies"
+    codes:
+      - "20217CAC 24027FFF"
+
+  - name: "Selected Character Has Full Health Bar"
+    author: "Codejunkies"
+    codes:
+      - "2021E29C 3C024348"
+      - "2021E2A0 AC820074"

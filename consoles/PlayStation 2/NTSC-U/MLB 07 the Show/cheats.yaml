@@ -1,0 +1,43 @@
+# MLB 07 the Show cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97556
+
+game: "MLB 07 the Show"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97556"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9015EC00 0C057AA8"
+
+  - name: "Infinite Carrer Points"
+    author: "SkillerCMP:Codes"
+    codes:
+      - "D064AA90 00000014"
+      - "2064AA90 00000000"
+
+  - name: "Free Upgrade"
+    author: "SkillerCMP:Codes"
+    codes:
+      - "E0040014 00648A8C"
+      - "2064AA90 AE400014"
+      - "20648A8C 00000000"
+      - "206487EC 00000000"
+      - "2064A6E4 00000000"
+
+  - name: "Batting - 1 Point To Max Stat"
+    author: "SkillerCMP:Codes"
+    codes:
+      - "206DD784 200600FF"
+
+  - name: "Pitching - 1 Point To Max Stat"
+    author: "SkillerCMP:Codes"
+    codes:
+      - "206DD7AC 200600FF"
+      - "206E82B8 200600FF"

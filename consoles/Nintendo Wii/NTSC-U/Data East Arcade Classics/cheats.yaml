@@ -1,0 +1,108 @@
+# Data East Arcade Classics cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  R26E5G
+
+game: "Data East Arcade Classics"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "R26E5G"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Inf Credits"
+    author: "Skiller"
+    notes: "File: Crude Buster"
+    codes:
+      - "2868B578 00000004"
+      - "2068B57C 00080000"
+      - "48000000 80891308"
+      - "DE000000 80008180"
+      - "10080CAE 00000009"
+      - "E0000000 80008000"
+
+  - name: "Inf Timer"
+    author: "Skiller"
+    notes: "File: Crude Buster"
+    codes:
+      - "2868B578 00000004"
+      - "2068B57C 00080000"
+      - "48000000 80891308"
+      - "DE000000 80008180"
+      - "12080CBE 00000300"
+      - "E0000000 80008000"
+
+  - name: "Inf Lives"
+    author: "Skiller"
+    notes: "[Player 1]  File: Crude Buster"
+    codes:
+      - "2868B578 00000004"
+      - "2068B57C 00080000"
+      - "48000000 80891308"
+      - "DE000000 80008180"
+      - "10080D90 00000003"
+      - "E0000000 80008000"
+
+  - name: "Inf HP"
+    author: "Skiller"
+    notes: "[Player 1]  File: Crude Buster"
+    codes:
+      - "2868B578 00000004"
+      - "2068B57C 00080000"
+      - "48000000 80891308"
+      - "DE000000 80008180"
+      - "12080D8E 00000038"
+      - "E0000000 80008000"
+
+  - name: "Max/Inf HP"
+    author: "Skiller"
+    notes: "[Player 1]  File: Wizard Fire"
+    codes:
+      - "2868B578 0000000E"
+      - "2068B57C 00080000"
+      - "48000000 80891308"
+      - "DE000000 80008180"
+      - "101ADC7C 0000000C"
+      - "E0000000 80008000"
+
+  - name: "Max MP"
+    author: "Skiller"
+    notes: "[Player 1]  File: Wizard Fire"
+    codes:
+      - "2868B578 0000000E"
+      - "2068B57C 00080000"
+      - "48000000 80891308"
+      - "DE000000 80008180"
+      - "121ADCA8 00005000"
+      - "E0000000 80008000"
+
+  - name: "MP Mod"
+    author: "Skiller"
+    notes: "[Player 1]  File: Wizard Fire"
+    codes:
+      - "2868B578 0000000E"
+      - "2068B57C 00080000"
+      - "48000000 80891308"
+      - "DE000000 80008180"
+      - "101ADCA9 000000[MP]"
+      - "E0000000 80008000"
+
+  - name: "Inf Bombs/Unlimited Throw"
+    author: "Skiller"
+    notes: "File: Heavy Barrel"
+    codes:
+      - "C2072C38 00000004"
+      - "2C00004D 40820008"
+      - "38A00040 2C00004C"
+      - "40820008 38A00000"
+      - "98A30C7C 00000000"
+
+  - name: "Invincible/Auto Kill Enemys"
+    author: "Skiller"
+    notes: "File: Heavy Barrel"
+    codes:
+      - "C2072C4C 00000003"
+      - "2C040070 40820008"
+      - "38A00002 98A30C7D"
+      - "60000000 00000000"

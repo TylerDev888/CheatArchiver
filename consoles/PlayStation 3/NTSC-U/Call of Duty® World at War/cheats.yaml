@@ -1,0 +1,26 @@
+# Call of Duty® World at War cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS30192
+
+game: "Call of Duty® World at War"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS30192"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "All Collectible"
+    notes: "File: GPAD0_SP.PRF"
+    codes:
+      - "20000063 22313322"
+
+  - name: "Difficulty Hard"
+    notes: "File: GPAD0_SP.PRF"
+    codes:
+      - "20000254 79202234"
+      - "20000258 34343434"
+      - "2000025C 34343434"
+      - "20000260 34343434"
+      - "20000264 34343030"

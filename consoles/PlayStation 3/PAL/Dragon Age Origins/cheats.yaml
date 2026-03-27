@@ -1,0 +1,32 @@
+# Dragon Age Origins cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00699
+
+game: "Dragon Age Origins"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00699"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Get Crc32 Savegame.das (required)"
+    notes: "File: SAVEGAME.DAS  (dependency: SAVEGAME.DAX)"
+    codes:
+      - "set [crc32_SAVEGAME.DAS]:crc32"
+
+  - name: "Update Crc32 On Savegame.dax (required)"
+    notes: "File: SAVEGAME.DAX"
+    codes:
+      - "write at 0x0:[crc32_SAVEGAME.DAS]"
+
+  - name: "Get Crc32 Savegame.met (required)"
+    notes: "File: SAVEGAME.MET  (dependency: SAVEGAME.MEX)"
+    codes:
+      - "set [crc32_SAVEGAME.MET]:crc32"
+
+  - name: "Update Crc32 On Savegame.mex (required)"
+    notes: "File: SAVEGAME.MEX"
+    codes:
+      - "write at 0x0:[crc32_SAVEGAME.MEX]"

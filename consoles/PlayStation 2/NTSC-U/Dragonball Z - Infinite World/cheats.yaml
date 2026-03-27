@@ -1,0 +1,121 @@
+# Dragonball Z - Infinite World cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21842
+
+game: "Dragonball Z - Infinite World"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21842"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "90105298 0C04144E"
+
+  - name: "Player 1 Controller"
+    author: "lee4"
+    notes: "[Jokers]"
+    codes:
+      - "D04AD8C2 0000????"
+
+  - name: "Player 2 Controller"
+    author: "lee4"
+    notes: "[Jokers]"
+    codes:
+      - "D04ADCC2 0000????"
+
+  - name: "Hit Anywhere Both Players"
+    author: "nolberto82"
+    codes:
+      - "20231A24 00000000"
+      - "20225664 00000000"
+
+  - name: "Max Zenny"
+    author: "lee4"
+    codes:
+      - "205C0D4C 0098967F"
+
+  - name: "P1 Infinite Fusion Time"
+    author: "Resto Gaming"
+
+  - name: "P1 Infinite HP"
+    author: "lee4"
+    codes:
+      - "205306E0 45DAC000"
+      - "205306E4 45DAC000"
+      - "205306E8 45DAC000"
+
+  - name: "P1 Infinite Ki"
+    author: "lee4"
+    codes:
+      - "205306EC 45DAC000"
+
+  - name: "P1 No Fatigue"
+    author: "Resto Gaming"
+    codes:
+      - "205306F8 00000000"
+
+  - name: "P1 No HP (P2 Press L2+R2)"
+    author: "lee4"
+    codes:
+      - "D04ADCC2 0000FCFF"
+      - "205306E0 00000000"
+
+  - name: "P1 No Ki"
+    author: "lee4"
+    codes:
+      - "205306EC 00000000"
+
+  - name: "P2 Infinite Fusion Time"
+    author: "Resto Gaming"
+    codes:
+      - "20532A18  44E10000"
+
+  - name: "P2 Infinite HP"
+    author: "lee4"
+    codes:
+      - "205327B0 45DAC000"
+      - "205327B4 45DAC000"
+      - "205327B8 45DAC000"
+
+  - name: "P2 Infinite Ki"
+    author: "lee4"
+    codes:
+      - "205327BC 45DAC000"
+
+  - name: "P2 No Fatigue"
+    author: "Resto Gaming"
+    codes:
+      - "205327C8 00000000"
+
+  - name: "P2 No HP (P1 Press L2+R2)"
+    author: "lee4"
+    codes:
+      - "D04AD8C2 0000FCFF"
+      - "205327B0 00000000"
+
+  - name: "P2 No Ki"
+    author: "lee4"
+    codes:
+      - "205327BC 00000000"
+
+  - name: "Unlock Everything"
+    author: "lee4"
+    codes:
+      - "405C0D54 00FF0001"
+      - "E1E1E1E1 00000000"
+      - "405C1150 00580001"
+      - "E1E1E1E1 00000000"
+
+  - name: "Unlock Items Only"
+    author: "lee4"
+    codes:
+      - "405C0D54 00FF0001"
+      - "E1E1E1E1 00000000"
+      - "405C1150 00140001"
+      - "E1E1E1E1 00000000"

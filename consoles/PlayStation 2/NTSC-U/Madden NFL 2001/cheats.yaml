@@ -1,0 +1,181 @@
+# Madden NFL 2001 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20093
+
+game: "Madden NFL 2001"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20093"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01CD0A0 0036D723"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0036D723"
+
+  - name: "Away Score: Infinite Time Outs (Must Use Alone To Avoid Conflict With Other Codes)"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "01D3C3EB 00000003"
+
+  - name: "Away Score: No Time Outs (Must Use Alone To Avoid Conflict With Other Codes)"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "01D3C3EB 00000000"
+
+  - name: "Away Score: Scores 0 Touchdowns (Must Use Alone To Avoid Conflict With Other Codes)"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "D1D3C3E8 00300001"
+      - "D1D3C3E8 00200007"
+      - "01D3C3E8 00000000"
+
+  - name: "Away Score: Scores Max Touchdowns (Must Use Alone To Avoid Conflict With Other Codes)"
+    author: "InterAct"
+    notes: "[Away Team Codes]"
+    codes:
+      - "D1D3C3E8 00000000"
+      - "01D3C3E8 00000063"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "01D3C3DE 000000??"
+
+  - name: "Cannot Be Tackled : Hold R1"
+    author: "nolberto82"
+    codes:
+      - "201ED41C 0040802D"
+      - "201FA1A0 27BDFFA0"
+      - "D040CF11 02310000"
+      - "201ED41C 34100000"
+      - "201FA1A0 03E00008"
+
+  - name: "Change Possession After Play : Hold L2"
+    author: "nolberto82"
+    codes:
+      - "201E82B4 46010034"
+      - "201E8360 1000007A"
+      - "201E8494 5622000B"
+      - "D040CF12 03310000"
+      - "201E82B4 46000034"
+      - "201E8360 10000000"
+      - "201E8494 56220000"
+
+  - name: "Home Team: Infinite Time Outs (Must Use Alone To Avoid Conflict With Other Codes)"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "01D3C3E1 00000003"
+
+  - name: "Home Team: No Time Outs (Must Use Alone To Avoid Conflict With Other Codes)"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "01D3C3E1 00000000"
+
+  - name: "Home Team: Scores 0 Touchdowns (Must Use Alone To Avoid Conflict With Other Codes)"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "D1D3C3DE 00300001"
+      - "D1D3C3DE 00200007"
+      - "01D3C3DE 00000000"
+
+  - name: "Home Team: Scores Max Touchdowns (Must Use Alone To Avoid Conflict With Other Codes)"
+    author: "InterAct"
+    notes: "[Home Team Codes]"
+    codes:
+      - "D1D3C3DE 00000000"
+      - "01D3C3DE 00000063"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    codes:
+      - "01D3C3E8 000000??"
+
+  - name: "P1 Score Is 0"
+    author: "InterAct"
+    codes:
+      - "01D3C3DE 00000000"
+
+  - name: "P1 Score Is 99"
+    author: "InterAct"
+    codes:
+      - "01D3C3DE 00000063"
+
+  - name: "P2 Score Is 0"
+    author: "InterAct"
+    codes:
+      - "01D3C3E8 00000000"
+
+  - name: "P2 Score Is 99"
+    author: "InterAct"
+    codes:
+      - "01D3C3E8 00000063"
+
+  - name: "Score Touchdown/2 Pt Conversion After Any Play : Hold L1"
+    author: "nolberto82"
+    codes:
+      - "201E82BC 45000009"
+      - "201E85BC 45000003"
+      - "201E8614 45020009"
+      - "D040CF10 03310000"
+      - "201E82BC 00000000"
+      - "201E85BC 00000000"
+      - "201E8614 00000000"
+
+  - name: "Trades Are Always Accepted"
+    author: "nolberto82"
+    codes:
+      - "202BA37C 24020001"
+      - "202B7788 24020000"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0036D723"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9036D720 0C0D351E"
+
+  - name: "Away Team Infinite Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "01D3C3E1 00000003"
+
+  - name: "Away Team No Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "01D3C3E1 00000000"
+
+  - name: "Home Team Infinite Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "01D3C3EB 00000003"
+
+  - name: "Home Team No Time-Outs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "01D3C3EB 00000000"

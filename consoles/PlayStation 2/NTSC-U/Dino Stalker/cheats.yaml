@@ -1,0 +1,268 @@
+# Dino Stalker cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20485
+
+game: "Dino Stalker"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20485"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100100 0027087F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0027087F"
+
+  - name: "Have Ample"
+    author: "Code Master"
+    codes:
+      - "202F2088 00000001"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    codes:
+      - "202F1F14 40A00000"
+
+  - name: "Infinite Tachyons"
+    author: "MadCatz"
+    codes:
+      - "102F208C 280903E7"
+
+  - name: "Infinite Time"
+    author: "MadCatz"
+    codes:
+      - "20219B8C 24420000"
+      - "20219B90 24A30000"
+
+  - name: "Max Antidote"
+    author: "Code Master"
+    codes:
+      - "202F2080 00000063"
+
+  - name: "Max Points"
+    author: "InterAct"
+    codes:
+      - "202F1FC4 0098967F"
+
+  - name: "Max Recovery Aid"
+    author: "Code Master"
+    codes:
+      - "202F2078 00000063"
+
+  - name: "Max Resuscitation"
+    author: "Code Master"
+    codes:
+      - "202F207C 00000063"
+
+  - name: "Max Tachyon"
+    author: "Code Master"
+    codes:
+      - "202F208C 0000270F"
+
+  - name: "Never Reload"
+    author: "Code Master"
+    codes:
+      - "20133954 00000000"
+
+  - name: "No Reload"
+    author: "MadCatz"
+    codes:
+      - "2013394C 24420000"
+
+  - name: "Quick Score Gain"
+    author: "Code Master"
+    codes:
+      - "102F1FC4 0000FFFF"
+
+  - name: "Have Max Ampoules"
+    author: "Codejunkies"
+    notes: "[Vitality Codes]"
+    codes:
+      - "102F2088 00000101"
+
+  - name: "Have Max Antidotes"
+    author: "Codejunkies"
+    notes: "[Vitality Codes]"
+    codes:
+      - "102F2080 00000163"
+
+  - name: "Have Max Recovery Aids"
+    author: "Codejunkies"
+    notes: "[Vitality Codes]"
+    codes:
+      - "102F2078 00000163"
+
+  - name: "Have Max Resuscitations"
+    author: "Codejunkies"
+    notes: "[Vitality Codes]"
+    codes:
+      - "102F207C 00000163"
+
+  - name: "Have Max Tachyons"
+    author: "Codejunkies"
+    notes: "[Vitality Codes]"
+    codes:
+      - "102F208C 0000270F"
+
+  - name: "Infinite Vitality"
+    author: "Codejunkies"
+    notes: "[Vitality Codes]"
+    codes:
+      - "102F1F16 000040A0"
+
+  - name: "Never Have More Than 1 Vitality Pips"
+    author: "Codejunkies"
+    notes: "[Vitality Codes]"
+    codes:
+      - "E0013F80 302F1F16"
+      - "102F1F16 00003F80"
+
+  - name: "Never Have More Than 2 Vitality Pips"
+    author: "Codejunkies"
+    notes: "[Vitality Codes]"
+    codes:
+      - "E0014000 302F1F16"
+      - "102F1F16 00004000"
+
+  - name: "Never Have More Than 3 Vitality Pips"
+    author: "Codejunkies"
+    notes: "[Vitality Codes]"
+    codes:
+      - "E0014040 302F1F16"
+      - "102F1F16 00004040"
+
+  - name: "Never Have More Than 4 Vitality Pips"
+    author: "Codejunkies"
+    notes: "[Vitality Codes]"
+    codes:
+      - "E0014080 302F1F16"
+      - "102F1F16 00004080"
+
+  - name: "Skip Fmv (p1 Press Select On Controller Pad 1)"
+    notes: "[Misc]"
+    codes:
+      - "20277308 8C620000"
+      - "D068DA02 0000FFFE"
+      - "20277308 24020001"
+
+  - name: "Max Score"
+    notes: "[Misc]"
+    codes:
+      - "202F1FC4 0098967F"
+
+  - name: "Never Reload (pad)"
+    notes: "[Misc]"
+    codes:
+      - "20133954 00000000"
+
+  - name: "Never Reload (gun)"
+    notes: "[Misc]"
+    codes:
+      - "20133BC0 00000000"
+
+  - name: "Unlimited Ammunition (pad)"
+    notes: "[Misc]"
+    codes:
+      - "2013394C 24420000"
+
+  - name: "Unlimited Ammunition (gun)"
+    notes: "[Misc]"
+    codes:
+      - "20133BB8 24420000"
+
+  - name: "Freeze Time"
+    notes: "[Misc]"
+    codes:
+      - "20219B8C 24420000"
+      - "20219B90 24A30000"
+
+  - name: "Inf Power Bullets"
+    notes: "[Misc]"
+    codes:
+      - "103C245C 00000063"
+
+  - name: "No Reload - Normal Gun"
+    notes: "[Misc]"
+    codes:
+      - "103C2458 0000000C"
+
+  - name: "Inf Ammo (all Special Weapons)"
+    notes: "[Misc]"
+    codes:
+      - "103C24B8 00000008"
+      - "103C24BC 00000008"
+      - "103C24E8 00000008"
+      - "103C24EC 00000008"
+
+  - name: "1 Hit Kill Bosses"
+    notes: "[Misc]"
+    codes:
+      - "20401B78 00000000"
+
+  - name: "Combo Counter Never Resets"
+    notes: "[Misc]"
+    codes:
+      - "105B8364 00000150"
+
+  - name: "Max Combo"
+    notes: "[Misc]"
+    codes:
+      - "005B8368 000000FF"
+
+  - name: "Time Bonus"
+    notes: "[Result Codes]"
+    codes:
+      - "2081ECF0 0098967F"
+
+  - name: "Dino Bonus"
+    notes: "[Result Codes]"
+    codes:
+      - "2081ECF4 0098967F"
+
+  - name: "No Damage Bonus"
+    notes: "[Result Codes]"
+    codes:
+      - "2081ECF8 0098967F"
+      - "2081ECDC 0098967F"
+
+  - name: "99 Dinos Kill"
+    notes: "[Result Codes]"
+    codes:
+      - "1081ECC8 00000063"
+
+  - name: "Rank S"
+    notes: "[Result Codes]"
+    codes:
+      - "0081ECEC 00000000"
+
+  - name: "Max End Of Level Score"
+    notes: "[Result Codes]"
+    codes:
+      - "2081ECE0 0098967F"
+
+  - name: "Total Score"
+    notes: "[Result Codes]"
+    codes:
+      - "2081ECE8 0098967F"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0027087F"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9027087C 0C0A16DD"

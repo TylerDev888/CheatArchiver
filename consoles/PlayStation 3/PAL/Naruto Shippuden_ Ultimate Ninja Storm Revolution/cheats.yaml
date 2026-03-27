@@ -1,0 +1,32 @@
+# Naruto Shippuden_ Ultimate Ninja Storm Revolution cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB01986
+
+game: "Naruto Shippuden_ Ultimate Ninja Storm Revolution"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB01986"
+cheat_type: "Save Editor"
+source: "from danilo_scala"
+
+cheats:
+  - name: "Max Ryo"
+    notes: "File: STORMR.S"
+    codes:
+      - "write at 0x000001F9:0x98967F"
+
+  - name: "Max Medals"
+    notes: "File: STORMR.S"
+    codes:
+      - "write at 0x000001FD:0x98967F"
+
+  - name: "Infinite Lucky Ticket"
+    notes: "File: STORMR.S"
+    codes:
+      - "write at 0x0001872D:0x98967F"
+
+  - name: "Infinite Ticket"
+    notes: "File: STORMR.S"
+    codes:
+      - "write at 0x00018745:0x98967F"

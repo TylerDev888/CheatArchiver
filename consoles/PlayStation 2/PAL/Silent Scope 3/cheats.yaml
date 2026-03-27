@@ -1,0 +1,97 @@
+# Silent Scope 3 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51157
+
+game: "Silent Scope 3"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51157"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F010C18C 0010C18F"
+
+  - name: "Good Condition"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "20533650 3F800000"
+
+  - name: "Infinite Credits"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "1056EA40 00000009"
+
+  - name: "Never More Than 1 Credit"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "E0010001 3056EA40"
+      - "1056EA40 00000001"
+
+  - name: "Never More Than 2 Credits"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "E0010002 3056EA40"
+      - "1056EA40 00000002"
+
+  - name: "Never More Than 3 Credits"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "E0010003 3056EA40"
+      - "1056EA40 00000003"
+
+  - name: "Never More Than 5 Credits"
+    author: "Codejunkies"
+    notes: "[Credit Codes]"
+    codes:
+      - "E0010005 3056EA40"
+      - "1056EA40 00000005"
+
+  - name: "Low Timer"
+    author: "Codejunkies"
+    codes:
+      - "205335A8 00000000"
+
+  - name: "Open All Options"
+    author: "Codejunkies"
+    codes:
+      - "20222470 24020001"
+
+  - name: "Start With 99 Credits"
+    author: "Codejunkies"
+    codes:
+      - "10599B70 00000063"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0010C18F"
+
+  - name: "Always Good Condition"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20533650 3F800000"
+
+  - name: "Unlimited Credits"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "1056EA40 00000063"
+
+  - name: "Unlock Extra Options"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "20599BD0 FFFFFFFF"

@@ -1,0 +1,63 @@
+# They Are Billions cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA13330
+
+game: "They Are Billions"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA13330"
+cheat_type: "AP"
+source: "source: XxUnkn0wnxX"
+
+cheats:
+  - name: "Set Resources To Max Cap"
+    notes: "File: *  (Template:) (B0010004 ZZZZZZZZ) (93000000 00000010) (4A000000 XXXXXXXX) (40050004 00000000) (Where Z, Money value) (Where X, Value to set money & all resources) (Possible Values:) (Hex-Dec) (3B9AC9FF = 999999999) (0098967F = 9999999) (000F423F = 999999) (00001388 = 5000) (000003E7 = 999)..."
+    codes:
+      - "B0010004 F00A0000"
+      - "93000000 00000010"
+      - "4A000000 0098967F"
+      - "40050004 00000000"
+
+  - name: "Set Command Center Health To 9999999"
+    notes: "File: *"
+    codes:
+      - "80010004 88130000"
+      - "28000000 0098967F"
+
+  - name: "Sets Resources To Max Cap"
+    author: "XxUnkn0wnxX"
+    notes: "File: save\\[0-9A-Za-z]{1,16}.zxsav"
+    codes:
+      - "80010017 54726169"
+      - "6E20746F 20436F6D"
+      - "6D616E64 2043656E"
+      - "74657200 00000000"
+      - "4A0001C0 0098967F"
+      - "40050004 00000000"
+
+  - name: "Template"
+    author: "XxUnkn0wnxX"
+    notes: "File: save\\[0-9A-Za-z]{1,16}.zxsav"
+    codes:
+      - "B0010004 [AMOUINT:00000000:HEX:LITTLE<CurrentMoneyAmount>]"
+      - "93000000 00000010"
+      - "4A000000 [AMOUINT:00000000:HEX:BIG<ResourcesAmountWanted>]"
+      - "40050004 00000000"
+
+  - name: "Sets Resources To Max Cap - Using Money Value Offset"
+    author: "XxUnkn0wnxX"
+    notes: "File: save\\[0-9A-Za-z]{1,16}.zxsav"
+    codes:
+      - "B0010004 F00A0000"
+      - "93000000 00000010"
+      - "4A000000 0098967F"
+      - "40050004 00000000"
+
+  - name: "Sets Resources To Max Cap - Survival Only"
+    author: "XxUnkn0wnxX"
+    notes: "File: save\\[0-9A-Za-z]{1,16}.zxsav"
+    codes:
+      - "C0020008 0000034A"
+      - "4A000051 0098967F"
+      - "40050004 00000000"

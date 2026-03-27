@@ -1,0 +1,34 @@
+# Pimp My Ride Street Racing cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21872
+
+game: "Pimp My Ride Street Racing"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21872"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9035D710 0C0D756C"
+
+  - name: "Unlock All Cars"
+    author: "SkillerCMP"
+    codes:
+      - "20156724 00000000"
+      - "2015668C 00000000"
+
+  - name: "Unlock All Visuals"
+    author: "SkillerCMP"
+    codes:
+      - "201566CC 00000000"
+
+  - name: "Unlock All Materials"
+    author: "SkillerCMP"
+    codes:
+      - "201566FC 00000000"
+      - "20156794 00000000"

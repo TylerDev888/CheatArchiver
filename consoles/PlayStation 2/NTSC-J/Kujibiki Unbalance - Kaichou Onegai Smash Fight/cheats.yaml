@@ -1,0 +1,27 @@
+# Kujibiki Unbalance - Kaichou Onegai Smash Fight cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25729
+
+game: "Kujibiki Unbalance - Kaichou Onegai Smash Fight"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25729"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "901BD6C0 0C06F558"
+
+  - name: "Press L3 For Debug Menu"
+    author: "punk7890"
+    codes:
+      - "2019F024 08064A84"
+      - "D02A4F82 0000FFFD"
+      - "201A3BB4 08045784"
+      - "D02A4F82 0000FFFF"
+      - "201A3BB4 03E00008"

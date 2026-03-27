@@ -1,0 +1,52 @@
+# Pro Evolution Soccer 2014 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01930
+
+game: "Pro Evolution Soccer 2014"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01930"
+cheat_type: "Save Editor"
+source: "From savesata.jp & Keha World"
+
+cheats:
+  - name: "Ml - Money 999,999,990,000 Yen"
+    notes: "File: DATA.BIN"
+    codes:
+      - "write at 0x106D008:0x05F5E0FF"
+
+  - name: "Ml - Training"
+    notes: "File: DATA.BIN"
+    codes:
+      - "write at 0x10A2560:0x63636363"
+      - "write at 0x10A2564:0x63636300"
+
+  - name: "Ml - Training Point"
+    notes: "File: DATA.BIN"
+    codes:
+      - "write at 0x10A2569 0x63"
+
+  - name: "Bal - Original Player Salary 999,999,990,000 Yen"
+    notes: "File: DATA.BIN"
+    codes:
+      - "200001A4 05F5E0FF"
+
+  - name: "Bal - Original Player Status All Max"
+    notes: "File: DATA.BIN"
+    codes:
+      - "2000002B C6C78F1A"
+      - "2000002F 8CC78F1E"
+      - "20000033 30C78F1E"
+      - "20000037 3EC78F1E"
+      - "2000003B 3EC78F1E"
+      - "1000003F 00003E00"
+      - "00000041 00000003"
+      - "20000043 2069C7C0"
+      - "20000047 0A555555"
+      - "0000004B 00000050"
+
+  - name: "Bal - Original Player Age 17"
+    notes: "File: DATA.BIN"
+    codes:
+      - "00000042 00000022"

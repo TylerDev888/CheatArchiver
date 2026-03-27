@@ -1,0 +1,27 @@
+# Injustice_ Gods Among Us cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01673
+
+game: "Injustice_ Gods Among Us"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01673"
+cheat_type: "Save Editor"
+source: "From KE-HA"
+
+cheats:
+  - name: "Xp 99,999,999"
+    notes: "File: DCFPSET"
+    codes:
+      - "200001CC 05F5E0FF"
+
+  - name: "Access Cards 999,999"
+    notes: "File: DCFPSET"
+    codes:
+      - "2000F248 000F423F"
+
+  - name: "Armor Keys 999,999"
+    notes: "File: DCFPSET"
+    codes:
+      - "2000F24C 000F423F"

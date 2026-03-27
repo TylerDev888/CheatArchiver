@@ -1,0 +1,195 @@
+# Odin Sphere cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21577
+
+game: "Odin Sphere"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21577"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Invincibility"
+    author: "nolberto82"
+    codes:
+      - "201C4358 00000000"
+
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9010B998 0C042E0E"
+
+  - name: "Inf HP"
+    notes: "[Misc Codes]"
+    codes:
+      - "201AD5CC 08028000"
+      - "201AD5D0 00000000"
+      - "200A0000 AC8300EC"
+      - "200A0004 8CE3046C"
+      - "200A0008 ACE30468"
+      - "200A000C 0806B575"
+      - "200A0010 8CE3046C"
+
+  - name: "Inf Pow"
+    notes: "[Misc Codes]"
+    codes:
+      - "200A0018 20020064"
+      - "200A001C C4E007D0"
+      - "200A0020 E4E007CC"
+      - "200A0024 AC8200F4"
+      - "200A0028 24037FFF"
+      - "200A002C A4E30470"
+      - "200A0030 A4E30472"
+      - "200A0038 0806B582"
+      - "200A003C 84E60470"
+      - "201AD604 08028006"
+
+  - name: "Inf Bullits"
+    notes: "[Misc Codes]"
+    codes:
+      - "20302B1C 00000000"
+
+  - name: "Shop Sells Everything"
+    notes: "[Misc Codes]"
+    codes:
+      - "200A0050 3C05003C"
+      - "200A0054 34A5FE80"
+      - "200A0058 3C16003C"
+      - "200A005C 36D6FE7C"
+      - "200A0060 3C170001"
+      - "200A0064 3C060001"
+      - "200A0068 22D60004"
+      - "200A006C 22F70001"
+      - "200A0070 34C600E4"
+      - "200A0074 16E6FFFC"
+      - "200A0078 AED70000"
+      - "200A007C 240600E4"
+      - "200A0080 00000000"
+      - "200A0084 7FB00000"
+      - "200A0088 080B8C32"
+      - "200A008C AC850340"
+      - "202E30C4 08028014"
+      - "202E30C8 00000000"
+
+  - name: "Buy/Sell/Gain Money For Max"
+    notes: "[Misc Codes]"
+    codes:
+      - "201FB8E0 08028010"
+      - "200A0040 200503E7"
+      - "200A0044 0807EE39"
+      - "200A0048 A4850800"
+
+  - name: "Alternitive (buy/Sell/Gain Money For Max)"
+    notes: "[Misc Codes]"
+    codes:
+      - "201FB8B0 94820802"
+      - "201FB8B4 A4820800"
+      - "201FB8B8 03E00008"
+      - "201FB8BC 94820800"
+
+  - name: "Max Psypher (lvl 99)"
+    notes: "[Misc Codes]"
+    codes:
+      - "2018A074 AE24047C"
+
+  - name: "Stop Mission Timer/Always 00:00:00"
+    notes: "[Misc Codes]"
+    codes:
+      - "20200CD4 AE000078"
+
+  - name: "Mission Speed Mod (same As Ported Code)"
+    notes: "[Misc Codes]"
+    codes:
+      - "20200CD0 2463[MOD]"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Skiller"
+    notes: "[Masters]"
+    codes:
+      - "9010B998 0C042E0E"
+
+  - name: "Infinite HP"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "200A0000 AC8300EC"
+      - "200A0004 8CE3046C"
+      - "200A0008 ACE30468"
+      - "200A000C 0806B575"
+      - "200A0010 8CE3046C"
+      - "201AD5CC 08028000"
+      - "201AD5D0 00000000"
+
+  - name: "Infinite POW"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "200A0018 20020064"
+      - "200A001C C4E007D0"
+      - "200A0020 E4E007CC"
+      - "200A0024 AC8200F4"
+      - "200A0028 0806B583"
+      - "200A002C 84E60470"
+      - "201AD604 08028006"
+      - "201AD608 00000000"
+
+  - name: "Infinite Ammo"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "20302B1C 00000000"
+
+  - name: "Always Low Mission Timer"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "20200CD4 AE000078"
+
+  - name: "Max Psypher (Level 99)"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "2018A074 AE24047C"
+
+  - name: "Shops Sell Everything"
+    author: "Skiller"
+    notes: "[Codes]"
+    codes:
+      - "200A0050 3C05003C"
+      - "200A0054 34A5FE80"
+      - "200A0058 8CB600E4"
+      - "200A005C 201700E4"
+      - "200A0060 12D70008"
+      - "200A0064 20170000"
+      - "200A0068 3C16003C"
+      - "200A006C 36D6FE7C"
+      - "200A0070 22D60004"
+      - "200A0074 22F70001"
+      - "200A0078 200B00E4"
+      - "200A007C 16EBFFFC"
+      - "200A0080 AED70000"
+      - "200A0084 AC850340"
+      - "200A0088 080B8C33"
+      - "200A008C 201000E4"
+      - "202E30C8 08028014"
+      - "202E30CC 00000000"
+
+  - name: "Version 1 (Need At Least 1 Coin)"
+    author: "Skiller"
+    notes: "[Quick Max Coin Codes]"
+    codes:
+      - "200A0034 200503E7"
+      - "200A0038 0807EE39"
+      - "200A003C A4850800"
+      - "201FB8E0 0802800D"
+
+  - name: "Version 2 (Need At Least 1 Coin)"
+    author: "Skiller"
+    notes: "[Quick Max Coin Codes]"
+    codes:
+      - "201FB8B0 94820802"
+      - "201FB8B4 A4820800"
+      - "201FB8B8 03E00008"
+      - "201FB8BC 94820800"

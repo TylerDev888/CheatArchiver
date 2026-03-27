@@ -1,0 +1,234 @@
+# Naruto-Ultimate Ninja 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21575
+
+game: "Naruto-Ultimate Ninja 2"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21575"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "901245D8 0C04911E"
+
+  - name: "Max Money When Winning(handstand Race With Guy)"
+    codes:
+      - "206E7C0C 3C030098"
+      - "206E7C10 3463967F"
+
+  - name: "Buying Items Money Dont Decrease"
+    codes:
+      - "202C1E20 00000000"
+
+  - name: "Buying Items Gain = Money"
+    codes:
+      - "202C1E20 02028021"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Lajos Szalay"
+    notes: "[Masters]"
+    codes:
+      - "90137830 00832021"
+
+  - name: "Infinite Time"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "20239D94 00000000"
+
+  - name: "Infinite Health P1"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 3C013F80"
+      - "200C0224 08062384"
+      - "200C0228 AC810058"
+      - "2023F734 0C030088"
+      - "2023F764 0C030088"
+
+  - name: "No Health P1"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 24010000"
+      - "200C0224 08062384"
+      - "200C0228 AC810058"
+      - "2023F734 0C030088"
+      - "2023F764 0C030088"
+
+  - name: "Infinite Special P1"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "200C0240 3C014180"
+      - "200C0244 AE41005C"
+      - "200C0248 03E00008"
+      - "200C024C 8E03026C"
+      - "2023F8B8 0C030090"
+
+  - name: "No Special P1"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "200C0240 24010000"
+      - "200C0244 AE41005C"
+      - "200C0248 03E00008"
+      - "200C024C 8E03026C"
+      - "2023F8B8 0C030090"
+
+  - name: "Infinite Health P2"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "200C0230 3C013F80"
+      - "200C0234 08062384"
+      - "200C0238 AC810058"
+      - "2023F748 0C03008C"
+      - "2023F778 0C03008C"
+
+  - name: "No Health P2"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "200C0230 24010000"
+      - "200C0234 08062384"
+      - "200C0238 AC810058"
+      - "2023F748 0C03008C"
+      - "2023F778 0C03008C"
+
+  - name: "Infinite Special P2"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "200C0250 3C014180"
+      - "200C0254 AE21005C"
+      - "200C0258 03E00008"
+      - "200C025C 24020002"
+      - "2023F900 0C030094"
+
+  - name: "No Special P2"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "200C0250 24010000"
+      - "200C0254 AE21005C"
+      - "200C0258 03E00008"
+      - "200C025C 24020002"
+      - "2023F900 0C030094"
+
+  - name: "Infinite Item Usage"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "20256144 00000000"
+
+  - name: "Max Infinite Item Usage"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "20256140 24030063"
+
+  - name: "Extra Items"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "20256140 00000001"
+
+  - name: "Buying Shop Items Doesnt Decrease Ryo"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "202C1E2C 00000000"
+
+  - name: "Buying Shop Items Increases Ryo"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "202C1E20 02028021"
+
+  - name: "Max Ryo"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "200C0260 3C0505F5"
+      - "200C0264 34A5E0FF"
+      - "200C0268 03E00008"
+      - "200C026C AC4501B8"
+      - "202C3D88 0C030098"
+
+  - name: "Unlock All Characters VS. Duel Mode"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "20239E3C 24020003"
+
+  - name: "Unlock All Characters Mission Mode"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "20239F0C 24020003"
+
+  - name: "Have All Max Purchased Attack Items"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "2023C580 24020063"
+
+  - name: "Have Figures"
+    author: "Lajos Szalay"
+    notes: "[Naruto's House Codes]"
+    codes:
+      - "202389C8 2402FFFF"
+
+  - name: "Have Musics"
+    author: "Lajos Szalay"
+    notes: "[Naruto's House Codes]"
+    codes:
+      - "20238A18 2402FFFF"
+
+  - name: "Have Voices"
+    author: "Lajos Szalay"
+    notes: "[Naruto's House Codes]"
+    codes:
+      - "20238A68 2402FFFF"
+
+  - name: "Have Sinobi Ninja Info Card"
+    author: "Lajos Szalay"
+    notes: "[Naruto's House Codes]"
+    codes:
+      - "20238B58 2402FFFF"
+
+  - name: "Have Jutsu Ninja Info Card"
+    author: "Lajos Szalay"
+    notes: "[Naruto's House Codes]"
+    codes:
+      - "20238B08 2402FFFF"
+
+  - name: "Have Tactics Ninja Info Card"
+    author: "Lajos Szalay"
+    notes: "[Naruto's House Codes]"
+    codes:
+      - "20238BA8 2402FFFF"
+
+  - name: "Have Client Ninja Info Card"
+    author: "Lajos Szalay"
+    notes: "[Naruto's House Codes]"
+    codes:
+      - "20238AB8 2402FFFF"
+
+  - name: "Have Secret Techniques"
+    author: "Lajos Szalay"
+    notes: "[Naruto's House Codes]"
+    codes:
+      - "20238BF8 2402FFFF"
+
+  - name: "Have Certificates"
+    author: "Lajos Szalay"
+    notes: "[Naruto's House Codes]"
+    codes:
+      - "2027C0DC 2402FFFF"

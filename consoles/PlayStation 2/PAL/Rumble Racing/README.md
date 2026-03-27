@@ -1,0 +1,218 @@
+# Rumble Racing
+
+**Console:** PlayStation 2  
+**Region:** PAL  
+**Serial:** SLES-50120  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### (M) Must Be On
+**Author:** InterAct  
+**Notes:** [Master Codes]
+
+```
+F01215E8 000001FD
+```
+
+---
+
+### All Tracks Open
+**Author:** InterAct
+
+```
+2022CFB4 01010101
+2022CFB8 01010101
+2022CFBC 01010101
+```
+
+---
+
+### Big Score In Stunt Challenge
+**Author:** Codejunkies
+
+```
+1024E940 0000FFFF
+1024E942 0000FFFF
+101F6BBC 0000FFFF
+101F6BBE 00000FFF
+```
+
+---
+
+### Open All Cars 1
+**Author:** InterAct
+
+```
+2022CF40 01010101
+2022CF44 01010101
+2022CF48 01010101
+2022CF4C 01010101
+2022CF50 01010101
+2022CF54 01010101
+2022CF58 01010101
+2022CF5C 01010101
+2022CF60 01010101
+2022CF64 01010101
+2022CF68 01010101
+```
+
+---
+
+### Open All Cars 2
+**Author:** InterAct
+
+```
+2022CF6C 01010101
+2022CF70 01010101
+2022CF74 01010101
+2022CF78 01010101
+2022CF7C 01010101
+2022CF80 01010101
+2022CF84 01010101
+2022CF88 01010101
+2022CF8C 01010101
+2022CF90 01010101
+2022CF94 01010101
+2022CF98 01010101
+2022CF9C 01010101
+2022CFA0 01010101
+2022CFA4 01010101
+2022CFA8 01010101
+2022CFAC 01010101
+```
+
+---
+
+### Opponents Don't Move
+**Author:** luc-ita
+
+```
+20137CE8 20137CE8
+200A0000 808109F4
+200A000C 0804DF3C
+200A0014 0804D9FC
+```
+
+---
+
+### Super Traction
+**Author:** Codejunkies
+
+```
+20F43EB4 10000005
+```
+
+---
+
+### Constant Boost
+**Author:** Codejunkies  
+**Notes:** [Use Only One At A Time]
+
+```
+20F3F8F4 10000021
+```
+
+---
+
+### Dodgy Steering
+**Author:** Codejunkies  
+**Notes:** [Use Only One At A Time]
+
+```
+20F3F8F4 10000091
+```
+
+---
+
+### Sunday Driver Mode
+**Author:** Codejunkies  
+**Notes:** [Use Only One At A Time]
+
+```
+20F3F8F4 10000041
+```
+
+---
+
+### Super Smokey Tyres
+**Author:** Codejunkies  
+**Notes:** [Use Only One At A Time]
+
+```
+20F3F8F4 10000011
+```
+
+---
+
+### Mastercode
+**Author:** Xploder  
+**Notes:** [Masters]
+
+```
+F0100008 0010EC4F
+```
+
+---
+
+### All Vehicles
+**Author:** Xploder  
+**Notes:** [Unlock]
+
+```
+1022CF42 00000101
+2022CF44 01010101
+2022CF48 01010101
+2022CF4C 01010101
+2022CF50 01010101
+2022CF54 01010101
+2022CF58 01010101
+2022CF5C 01010101
+2022CF60 01010101
+2022CF64 01010101
+2022CF68 01010101
+2022CF6C 01010101
+2022CF70 01010101
+2022CF74 01010101
+2022CF78 01010101
+2022CF7C 01010101
+2022CF80 01010101
+```
+
+---
+
+### All Bonus Vehicles
+**Author:** Xploder  
+**Notes:** [Unlock]
+
+```
+2022CF84 01010101
+2022CF88 01010101
+2022CF8C 01010101
+2022CF90 01010101
+2022CF94 01010101
+2022CF98 01010101
+2022CF9C 01010101
+2022CFA0 01010101
+2022CFA4 01010101
+2022CFA8 01010101
+1022CFAC 00000101
+```
+
+---
+
+### All Tracks
+**Author:** Xploder  
+**Notes:** [Unlock]
+
+```
+1022CFBE 00000101
+2022CFC0 01010101
+2022CFC4 01010101
+2022CFC8 01010101
+0022CFCC 00000001
+```
+
+---

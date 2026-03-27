@@ -1,0 +1,34 @@
+# Hatsukoi - First Kiss [Limited Edition] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66026
+
+game: "Hatsukoi - First Kiss [Limited Edition]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66026"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9025EB98 0C097A8E"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "00284710 000000FF"
+      - "20284714 FFFFFFFF"
+      - "20284718 FFFFFFFF"
+      - "2028471C FFFFFFFF"
+      - "00284720 000000FF"
+
+  - name: "Unlock All Memories"
+    author: "punk7890"
+    codes:
+      - "002847CB 000000FF"
+      - "202847CC FFFFFFFF"
+      - "002847D0 000000FF"

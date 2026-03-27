@@ -1,0 +1,63 @@
+# Frogger-The Great Quest cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20257
+
+game: "Frogger-The Great Quest"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20257"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001A369F"
+
+  - name: "Have All Stones"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "0044285D 000000FF"
+
+  - name: "Have All Coins"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "00442844 000000FF"
+      - "0044285F 000000FF"
+      - "10442860 0000FFFF"
+
+  - name: "Have All Gems"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "00442845 000000FF"
+      - "10442862 0000FFFF"
+      - "10442864 0000FFFF"
+
+  - name: "Infinite Stones"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "0044283D 00000002"
+      - "1044283E 00000202"
+      - "00442840 00000002"
+
+  - name: "Have Key"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "00442849 00000001"
+      - "00442866 00000001"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201325F0 24020064"
+      - "201325F4 03E00008"
+      - "201325F8 AC8202CC"

@@ -1,0 +1,47 @@
+# Midnight Club cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50054
+
+game: "Midnight Club"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50054"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0299EE4 00299EE7"
+
+  - name: "Have All Arcade Mode Cars"
+    author: "Codejunkies"
+    codes:
+      - "202C4130 FFFFFFFF"
+      - "202C4134 FFFFFFFF"
+
+  - name: "Have All Career Mode Cars"
+    author: "Codejunkies"
+    codes:
+      - "202C5B80 FFFFFFFF"
+      - "202C5B84 FFFFFFFF"
+      - "202C5B88 FFFFFFFF"
+      - "202C5B8C FFFFFFFF"
+
+  - name: "No Car Damage"
+    author: "Codejunkies"
+    codes:
+      - "102C3E04 0000FFFF"
+
+  - name: "Unlock London"
+    author: "Codejunkies"
+    codes:
+      - "202C4140 FFFFFFFF"
+
+  - name: "Unlock New York"
+    author: "Codejunkies"
+    codes:
+      - "202C413C FFFFFFFF"

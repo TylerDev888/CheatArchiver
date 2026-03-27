@@ -1,0 +1,111 @@
+# SD Gundam Force-Showdown! cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20698
+
+game: "SD Gundam Force-Showdown!"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20698"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901228DC 0C04A39C"
+
+  - name: "Infinite Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2065D69C 4479C000"
+
+  - name: "P1 Press L1+Select To Stop Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0670242 0000FBFE"
+      - "20432FF8 00000000"
+
+  - name: "P1 Press L2+Select To Restart Timer"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0670242 0000FEFE"
+      - "20432FF8 E781AAAC"
+
+  - name: "Full Energy Charge"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10697680 000000C8"
+
+  - name: "Max Energy Charge"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10697682 000000C8"
+
+  - name: "Max Full Energy Charge"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20697680 00C800C8"
+
+  - name: "Full Healing Charge"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1065D6B8 000000C8"
+
+  - name: "Max Healing Charge"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1065D6BA 000000C8"
+
+  - name: "Max Full Healing Charge"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2065D6B8 00C800C8"
+
+  - name: "Max Attack Skill"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2065D6C0 42C80000"
+
+  - name: "Have All Enemy S.D.G. Reports"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20697520 FFFFFFFF"
+      - "20697524 FFFFFFFF"
+
+  - name: "Have All Form S.D.G. Reports"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20697528 FFFFFFFF"
+
+  - name: "Have All Items S.D.G. Reports"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2069752C FFFFFFFF"
+
+  - name: "Infinite HP Sphere"
+    author: "Code Master"
+    notes: "[Captain Gundam Codes]"
+    codes:
+      - "106974DE 0000002D"
+
+  - name: "Level S"
+    author: "Code Master"
+    notes: "[Captain Gundam Codes]"
+    codes:
+      - "00697438 00000003"

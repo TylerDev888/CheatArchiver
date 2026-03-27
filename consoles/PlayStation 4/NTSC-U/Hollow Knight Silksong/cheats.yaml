@@ -1,0 +1,182 @@
+# Hollow Knight Silksong cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA39420
+
+game: "Hollow Knight Silksong"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA39420"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Infinite Silk Regen (switch Off Before Last Boss Act 2)"
+    author: "Zeraf3000"
+    notes: "File: save[0-9]+\\User.dat"
+    codes:
+      - "search \"\"silkRegenMax\"\""
+      - "search next 3A"
+      - "delete next 1:until \",\""
+      - "Insert next 1: \"99\""
+
+  - name: "Reset Silk Regen To 3"
+    author: "Zeraf3000"
+    notes: "File: save[0-9]+\\User.dat"
+    codes:
+      - "search \"\"silkRegenMax\"\""
+      - "delete next 1:until \",\""
+      - "Insert next 1: \"3\""
+
+  - name: "Max Nail Level"
+    author: "Zeraf3000"
+    notes: "File: save[0-9]+\\User.dat"
+    codes:
+      - "search \"\"nailUpgrades\"\""
+      - "search next 3A"
+      - "delete next 1:until \",\""
+      - "Insert next 1: \"4\""
+
+  - name: "Silk Special"
+    author: "Zeraf3000"
+    notes: "[Unlock Skills]  File: save[0-9]+\\User.dat"
+    codes:
+      - "search \"\"hasSilkSpecial\"\""
+      - "search next 3A"
+      - "delete next 1:until \",\""
+      - "Insert next 1: \"true\""
+
+  - name: "Needle Throw"
+    author: "Zeraf3000"
+    notes: "[Unlock Skills]  File: save[0-9]+\\User.dat"
+    codes:
+      - "search \"\"hasNeedleThrow\"\""
+      - "search next 3A"
+      - "delete next 1:until \",\""
+      - "Insert next 1: \"true\""
+
+  - name: "Thread Sphere"
+    author: "Zeraf3000"
+    notes: "[Unlock Skills]  File: save[0-9]+\\User.dat"
+    codes:
+      - "search \"\"hasThreadSphere\"\""
+      - "search next 3A"
+      - "delete next 1:until \",\""
+      - "Insert next 1: \"true\""
+
+  - name: "Parry"
+    author: "Zeraf3000"
+    notes: "[Unlock Skills]  File: save[0-9]+\\User.dat"
+    codes:
+      - "search \"\"hasParry3A"
+      - "search next 3A"
+      - "delete next 1:until \",\""
+      - "Insert next 1: \"true\""
+
+  - name: "Harpoon Dash"
+    author: "Zeraf3000"
+    notes: "[Unlock Skills]  File: save[0-9]+\\User.dat"
+    codes:
+      - "search \"\"hasHarpoonDash\"\""
+      - "search next 3A"
+      - "delete next 1:until \",\""
+      - "Insert next 1: \"true\""
+
+  - name: "Silk Charge"
+    author: "Zeraf3000"
+    notes: "[Unlock Skills]  File: save[0-9]+\\User.dat"
+    codes:
+      - "search \"\"hasSilkCharge\"\""
+      - "search next 3A"
+      - "delete next 1:until \",\""
+      - "Insert next 1: \"true\""
+
+  - name: "Silk Bomb"
+    author: "Zeraf3000"
+    notes: "[Unlock Skills]  File: save[0-9]+\\User.dat"
+    codes:
+      - "search \"\"hasSilkBomb\"\""
+      - "search next 3A"
+      - "delete next 1:until \",\""
+      - "Insert next 1: \"true\"\""
+
+  - name: "Silk Boss Needle"
+    author: "Zeraf3000"
+    notes: "[Unlock Skills]  File: save[0-9]+\\User.dat"
+    codes:
+      - "search \"\"hasSilkBossNeedle\"\""
+      - "search next 3A"
+      - "delete next 1:until \",\""
+      - "Insert next 1: \"true\""
+
+  - name: "Dash"
+    author: "Zeraf3000"
+    notes: "[Unlock Skills]  File: save[0-9]+\\User.dat"
+    codes:
+      - "search \"\"hasDash\"\""
+      - "search next 3A"
+      - "delete next 1:until \",\""
+      - "Insert next 1: \"true\""
+
+  - name: "Brolly"
+    author: "Zeraf3000"
+    notes: "[Unlock Skills]  File: save[0-9]+\\User.dat"
+    codes:
+      - "search \"\"hasBrolly\"\""
+      - "search next 3A"
+      - "delete next 1:until \",\""
+      - "Insert next 1: \"true\""
+
+  - name: "Wall Jump"
+    author: "Zeraf3000"
+    notes: "[Unlock Traverse Abillities]  File: save[0-9]+\\User.dat"
+    codes:
+      - "search \"\"hasWalljump\"\""
+      - "search next 3A"
+      - "delete next 1:until \",\""
+      - "Insert next 1: \"true\"\""
+
+  - name: "Double Jump"
+    author: "Zeraf3000"
+    notes: "[Unlock Traverse Abillities]  File: save[0-9]+\\User.dat"
+    codes:
+      - "search \"\"hasDoubleJump\"\""
+      - "search next 3A"
+      - "delete next 1:until \",\""
+      - "Insert next 1: \"true\""
+
+  - name: "Quill"
+    author: "Zeraf3000"
+    notes: "[Unlock Traverse Abillities]  File: save[0-9]+\\User.dat"
+    codes:
+      - "search \"\"hasQuill\"\""
+      - "search next 3A"
+      - "delete next 1:until \",\""
+      - "Insert next 1: \"true\"\""
+
+  - name: "Charge Slash"
+    author: "Zeraf3000"
+    notes: "[Unlock Traverse Abillities]  File: save[0-9]+\\User.dat"
+    codes:
+      - "search \"\"hasChargeSlash\"\""
+      - "search next 3A"
+      - "delete next 1:until \",\""
+      - "Insert next 1: \"true\""
+
+  - name: "Super Jump"
+    author: "Zeraf3000"
+    notes: "[Unlock Traverse Abillities]  File: save[0-9]+\\User.dat"
+    codes:
+      - "search \"\"SuperJump\"\""
+      - "search next 3A"
+      - "delete next 1:until \",\""
+      - "Insert next 1: \"true\""
+
+  - name: "Equip Any Crest Read Note"
+    author: "Zeraf3000"
+    notes: "File: save[0-9]+\\User.dat"
+    codes:
+      - "search \"\"CurrentCrestID\"\""
+      - "search next 3A"
+      - "delete next 1:until \",\""
+      - "Insert next 1: \"\"[Crest]\"\""

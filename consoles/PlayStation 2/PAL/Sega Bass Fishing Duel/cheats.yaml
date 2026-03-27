@@ -1,0 +1,24 @@
+# Sega Bass Fishing Duel cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51388
+
+game: "Sega Bass Fishing Duel"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51388"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0135C40 00135C43"
+
+  - name: "Crystal Clear Water"
+    author: "Codejunkies"
+    codes:
+      - "20229090 03E00008"
+      - "20229094 00000000"

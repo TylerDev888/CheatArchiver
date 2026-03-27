@@ -1,0 +1,123 @@
+# Dead Space 3 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01733
+
+game: "Dead Space 3"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01733"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Health"
+    notes: "File: USR-DATA"
+    codes:
+      - "80010004 25EA8DB7"
+      - "28000018 43480000"
+
+  - name: "Max Statis"
+    notes: "File: USR-DATA"
+    codes:
+      - "80010004 25EA8DB7"
+      - "2800001C 42A00000"
+
+  - name: "Max Air"
+    notes: "File: USR-DATA"
+    codes:
+      - "80010004 25EA8DB7"
+      - "28000020 43700000"
+
+  - name: "Max Armor"
+    notes: "File: USR-DATA"
+    codes:
+      - "80010004 25EA8DB7"
+      - "28000030 43340000"
+
+  - name: "Have All Backpack Slots"
+    notes: "File: USR-DATA"
+    codes:
+      - "80010004 25EA8DB7"
+      - "2800002C 00000019"
+
+  - name: "Tungsten"
+    notes: "[Max Resources]  File: USR-DATA"
+    codes:
+      - "80010004 BC2179DD"
+      - "2800001C 000F423F"
+
+  - name: "Semiconductor"
+    notes: "[Max Resources]  File: USR-DATA"
+    codes:
+      - "80010004 BC2179DD"
+      - "28000020 000F423F"
+
+  - name: "Scrap Metal"
+    notes: "[Max Resources]  File: USR-DATA"
+    codes:
+      - "80010004 BC2179DD"
+      - "28000024 000F423F"
+
+  - name: "Somatic Gel"
+    notes: "[Max Resources]  File: USR-DATA"
+    codes:
+      - "80010004 BC2179DD"
+      - "28000028 000F423F"
+
+  - name: "Transoucer"
+    notes: "[Max Resources]  File: USR-DATA"
+    codes:
+      - "80010004 BC2179DD"
+      - "2800002C 000F423F"
+
+  - name: "Ration Seals"
+    notes: "[Max Resources]  File: USR-DATA"
+    codes:
+      - "80010004 BC2179DD"
+      - "28000030 000F423F"
+
+  - name: "Devil Horns Replaces Your Primary Weapon In Any Mode."
+    notes: "[Max Resources]  File: USR-DATA"
+    codes:
+      - "80010010 BADBADBA"
+      - "BEEFBEEF EAC15A55"
+      - "91100911 00000000"
+      - "28000010 52CDC428"
+      - "28000014 9DC149AF"
+      - "28000018 56315357"
+      - "2800001C 45435349"
+      - "28000020 52CDC3DF"
+      - "28000024 A22E64B1"
+      - "28000028 56315357"
+      - "2800002C 45435349"
+      - "28000030 52CDC3DF"
+      - "28000034 AC6EDCBF"
+      - "28000038 56315357"
+      - "2800003C 45435349"
+
+  - name: "Easy Records Trophies:do 1 More Time Of Each Action Gain Particular Trophy(by Chaoszage)"
+    notes: "[Max Resources]  File: USR-DATA"
+    codes:
+      - "search 0x31CC877D413D0C17484C4143304E554F31CC877D5205218F"
+      - "write next (-320):000003E8000003E8000003E8000003E8000003E8000003E8000003E8000003E8000003E8000003E8000003E8000003E8000003E8000003E8"
+
+  - name: "Init Sdbm For Hed-data (required)"
+    notes: "[Checksum]  File: HED-DATA"
+    codes:
+      - "set [usr_size]:read(0x4C, 4)"
+      - "write at 0x08:0x00000000"
+      - "set range:0x0000,eof+1"
+      - "set [hash_init]:sdbm"
+
+  - name: "Calculate Sdbm For Usr-data (required)"
+    notes: "[Checksum]  File: USR-DATA"
+    codes:
+      - "set [usr_size]:[usr_size]-1"
+      - "set range:0x0000,[usr_size]"
+      - "set [hash]:sdbm:[hash_init]"
+
+  - name: "Update Sdbm For Hed-data (required)"
+    notes: "[Checksum]  File: HED-DATA"
+    codes:
+      - "write at 0x08:[hash]"

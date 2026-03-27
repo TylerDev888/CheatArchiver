@@ -1,0 +1,29 @@
+# Tenohira Taiyouni [Limited Edition] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65559
+
+game: "Tenohira Taiyouni [Limited Edition]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65559"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90258578 0C096106"
+
+  - name: "Unlock Everything"
+    author: "punk7890"
+    codes:
+      - "2027EA20 FFFFFFFF"
+      - "1027EA26 0000FFFF"
+      - "2027EA28 FFFFFFFF"
+      - "2027EA2C FFFFFFFF"
+      - "2027EA30 FFFFFFFF"
+      - "1027EA34 0000FFFF"
+      - "0027EA36 000000FF"

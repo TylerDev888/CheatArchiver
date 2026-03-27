@@ -1,0 +1,38 @@
+# Motogp2 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Motogp2"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00294E6F"
+
+  - name: "Bronze Complete"
+    author: "Xploder"
+    notes: "[Challenges]"
+    codes:
+      - "4030ED14 00120001"
+      - "5B9257D8 C562FE71"
+
+  - name: "Silver Complete"
+    author: "Xploder"
+    notes: "[Challenges]"
+    codes:
+      - "4030ED14 00120001"
+      - "5BB35ED8 C562FE71"
+
+  - name: "Gold Complete"
+    author: "Xploder"
+    notes: "[Challenges]"
+    codes:
+      - "4030ED14 00120001"
+      - "44517F98 AE90AFE1"

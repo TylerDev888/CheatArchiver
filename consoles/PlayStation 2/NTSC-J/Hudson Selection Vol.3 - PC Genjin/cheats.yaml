@@ -1,0 +1,94 @@
+# Hudson Selection Vol.3 - PC Genjin cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62418
+
+game: "Hudson Selection Vol.3 - PC Genjin"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62418"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Master Code"
+    author: "VisitntX"
+    notes: "[Master Codes]"
+    codes:
+      - "F01604A0 000001FD"
+      - "F01604A0 0000000E"
+
+  - name: "Master Code (Must Be On)"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "90226D78 0C089B06"
+
+  - name: "1Hitkill - Except For Bosses"
+    author: "luc-ita"
+    codes:
+      - "2012ED24 00000000"
+
+  - name: "Have All Fruits"
+    author: "lee4"
+    codes:
+      - "D02B9128 00100000"
+      - "002B9144 0000003F"
+
+  - name: "Hit Anywhere"
+    author: "luc-ita"
+    codes:
+      - "2014E740 00000000"
+      - "2014E708 00000000"
+
+  - name: "Infinite Coins"
+    author: "lee4"
+    codes:
+      - "D02B9128 00100000"
+      - "002B9130 00000063"
+
+  - name: "Infinite Energy"
+    author: "VisitntX>lee4"
+    codes:
+      - "D02B9128 00100000"
+      - "002B9138 00000009"
+
+  - name: "Infinite Lives"
+    author: "VisitntX>lee4"
+    codes:
+      - "D02B9128 00100000"
+      - "002B9134 00000063"
+
+  - name: "Jump Farther"
+    author: "luc-ita"
+    codes:
+      - "20387870 3DCCCCCD"
+      - "20387874 3DCCCCCD"
+
+  - name: "Jump Higher"
+    author: "luc-ita"
+    codes:
+      - "20387878 3DCCCCCD"
+
+  - name: "Quick Score"
+    author: "lee4"
+    codes:
+      - "D02B9128 00100000"
+      - "102B9150 0000FFFF"
+
+  - name: "Start Level With Power-Up (Lose When Hit)"
+    author: "lee4"
+    codes:
+      - "D02B9128 00100000"
+      - "002B9140 00000002"
+
+  - name: "Take Objects Anywhere"
+    author: "luc-ita"
+    codes:
+      - "201516B8 00000000"
+
+  - name: "Untouchable"
+    author: "luc-ita"
+    codes:
+      - "2014EA40 1000000E"
+      - "201435F4 00000000"

@@ -1,0 +1,2032 @@
+# Nascar '06 - Total Team Control
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-21266  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### (M) Must Be On
+**Author:** Codejunkies  
+**Notes:** [Master Codes]
+
+```
+F036FFC4 0036FFC7
+20510A60 52504F49
+20510A64 30383250
+20510A68 474D492E
+```
+
+---
+
+### Enable Code (Must Be On)
+**Author:** Code Master  
+**Notes:** [Master Codes]
+
+```
+9036FFC4 0C0B78C4
+```
+
+---
+
+### Master Code
+**Author:** MadCatz  
+**Notes:** [Master Codes]
+
+```
+90194A78 0C0BF398
+```
+
+---
+
+### All Chase Plates
+**Author:** MadCatz  
+**Notes:** [Edit Driver To Have...]
+
+```
+20257F38 24020000
+```
+
+---
+
+### Lots Of Cash
+**Author:** MadCatz  
+**Notes:** [Edit Driver To Have...]
+
+```
+20257E6C 24020000
+20257E94 00000000
+```
+
+---
+
+### Max Fan Level
+**Author:** MadCatz  
+**Notes:** [Edit Driver To Have...]
+
+```
+20257F04 24020000
+20257F2C 00000000
+```
+
+---
+
+### Max Prestige
+**Author:** MadCatz  
+**Notes:** [Edit Driver To Have...]
+
+```
+20257EA0 24020000
+20257EC8 00000000
+```
+
+---
+
+### Max Team Prestige
+**Author:** MadCatz  
+**Notes:** [Edit Driver To Have...]
+
+```
+20257ED4 24020000
+20257EF8 00000000
+```
+
+---
+
+### Unknown Cheat
+**Author:** MadCatz  
+**Notes:** [Edit Driver To Have...]
+
+```
+20257E48 24020000
+20257E60 00000000
+```
+
+---
+
+### Slot 1
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAA20 000100C8
+```
+
+---
+
+### Slot 2
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAA28 000100C9
+```
+
+---
+
+### Slot 3
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+201DD688 C8E4D28F
+```
+
+---
+
+### Slot 4
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAA38 000100CB
+```
+
+---
+
+### Slot 5
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAA40 000100CC
+```
+
+---
+
+### Slot 6
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAA48 000100CD
+```
+
+---
+
+### Slot 7
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAA50 000100CE
+```
+
+---
+
+### Slot 8
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAA58 000100CF
+```
+
+---
+
+### Slot 9
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAA60 000100D0
+```
+
+---
+
+### Slot 10
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAA68 000100D1
+```
+
+---
+
+### Slot 11
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAA70 000100D2
+```
+
+---
+
+### Slot 12
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAA78 000100D3
+```
+
+---
+
+### Slot 13
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAA80 000100D4
+```
+
+---
+
+### Slot 14
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAA88 000100D5
+```
+
+---
+
+### Slot 15
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAA90 000100D6
+```
+
+---
+
+### Slot 16
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAA98 000100D7
+```
+
+---
+
+### Slot 17
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAAA0 000100D8
+```
+
+---
+
+### Slot 18
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAAA8 000100D9
+```
+
+---
+
+### Slot 19
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAAB0 000100DA
+```
+
+---
+
+### Slot 20
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAAB8 000100DB
+```
+
+---
+
+### Slot 21
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+904EB26A 2C0DBF11
+```
+
+---
+
+### Slot 22
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAAC8 000100DD
+```
+
+---
+
+### Slot 23
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAAD0 0001002B
+```
+
+---
+
+### Slot 24
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAAD8 0001002C
+```
+
+---
+
+### Slot 25
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAAE0 0001002D
+```
+
+---
+
+### Slot 26
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAAE8 0001002E
+```
+
+---
+
+### Slot 27
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAAF0 0001002F
+```
+
+---
+
+### Slot 28
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAAF8 00010031
+```
+
+---
+
+### Slot 29
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAB00 00010032
+```
+
+---
+
+### Slot 30
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAB08 00010034
+```
+
+---
+
+### Slot 31
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAB10 00010037
+```
+
+---
+
+### Slot 32
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAB18 00010042
+```
+
+---
+
+### Slot 33
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAB20 00010043
+```
+
+---
+
+### Slot 34
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAB28 00010044
+```
+
+---
+
+### Slot 35
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAB30 00010045
+```
+
+---
+
+### Slot 36
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAB38 00010046
+```
+
+---
+
+### Slot 37
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAB40 00010049
+```
+
+---
+
+### Slot 38
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAB48 0001004A
+```
+
+---
+
+### Slot 39
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAB50 0001004B
+```
+
+---
+
+### Slot 40
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAB58 0001004C
+```
+
+---
+
+### Slot 41
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAB60 0001004D
+```
+
+---
+
+### Slot 42
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAB68 0001004F
+```
+
+---
+
+### Slot 43
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAB70 00010052
+```
+
+---
+
+### Slot 44
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAB78 00010053
+```
+
+---
+
+### Slot 45
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAB80 00010054
+```
+
+---
+
+### Slot 46
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAB88 00010055
+```
+
+---
+
+### Slot 47
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAB90 00010056
+```
+
+---
+
+### Slot 48
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAB98 00010057
+```
+
+---
+
+### Slot 49
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDABA0 00010058
+```
+
+---
+
+### Slot 50
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDABA8 00010059
+```
+
+---
+
+### Slot 51
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDABB0 0001005A
+```
+
+---
+
+### Slot 52
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDABB8 0001005B
+```
+
+---
+
+### Slot 53
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDABC0 0001000C
+```
+
+---
+
+### Slot 54
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDABC8 0001000E
+```
+
+---
+
+### Slot 55
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDABD0 0001000F
+```
+
+---
+
+### Slot 56
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDABD8 00010010
+```
+
+---
+
+### Slot 57
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDABE0 00010011
+```
+
+---
+
+### Slot 58
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDABE8 00010012
+```
+
+---
+
+### Slot 59
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDABF0 00010014
+```
+
+---
+
+### Slot 60
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDABF8 00010015
+```
+
+---
+
+### Slot 61
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAC00 00010016
+```
+
+---
+
+### Slot 62
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAC08 0001001A
+```
+
+---
+
+### Slot 63
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAC10 0001001B
+```
+
+---
+
+### Slot 64
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAC18 0001001E
+```
+
+---
+
+### Slot 65
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAC20 0001001F
+```
+
+---
+
+### Slot 66
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAC28 00010020
+```
+
+---
+
+### Slot 67
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAC30 00010021
+```
+
+---
+
+### Slot 68
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAC38 00010022
+```
+
+---
+
+### Slot 69
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAC40 00010023
+```
+
+---
+
+### Slot 70
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAC48 00010024
+```
+
+---
+
+### Slot 71
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAC50 00010118
+```
+
+---
+
+### Slot 72
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAC58 00010122
+```
+
+---
+
+### Slot 73
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAC60 00010123
+```
+
+---
+
+### Slot 74
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAC68 00010124
+```
+
+---
+
+### Slot 75
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAC70 00010125
+```
+
+---
+
+### Slot 76
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAC78 00010126
+```
+
+---
+
+### Slot 77
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAC80 00010128
+```
+
+---
+
+### Slot 78
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAC88 0001012A
+```
+
+---
+
+### Slot 79
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAC90 0001012C
+```
+
+---
+
+### Slot 80
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAC98 0001012E
+```
+
+---
+
+### Slot 81
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDACA0 00010130
+```
+
+---
+
+### Slot 82
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDACA8 00010131
+```
+
+---
+
+### Slot 83
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDACB0 00010132
+```
+
+---
+
+### Slot 84
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDACB8 00010133
+```
+
+---
+
+### Slot 85
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDACC0 00010136
+```
+
+---
+
+### Slot 86
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDACC8 00010138
+```
+
+---
+
+### Slot 87
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDACD0 00010139
+```
+
+---
+
+### Slot 88
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDACD8 0001013A
+```
+
+---
+
+### Slot 89
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDACE0 0001013C
+```
+
+---
+
+### Slot 90
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDACE8 0001013D
+```
+
+---
+
+### Slot 91
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDACF0 0001013E
+```
+
+---
+
+### Slot 92
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDACF8 0001013F
+```
+
+---
+
+### Slot 93
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAD00 00010140
+```
+
+---
+
+### Slot 94
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAD08 00010141
+```
+
+---
+
+### Slot 95
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAD10 00010142
+```
+
+---
+
+### Slot 96
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAD18 00010143
+```
+
+---
+
+### Slot 97
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAD20 00010144
+```
+
+---
+
+### Slot 98
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAD28 00010145
+```
+
+---
+
+### Slot 99
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAD30 00010146
+```
+
+---
+
+### Slot 100
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAD38 00010147
+```
+
+---
+
+### Slot 101
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAD40 0001014A
+```
+
+---
+
+### Slot 102
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAD48 0001014C
+```
+
+---
+
+### Slot 103
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAD50 0001014F
+```
+
+---
+
+### Slot 104
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAD58 00010150
+```
+
+---
+
+### Slot 105
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAD60 00010154
+```
+
+---
+
+### Slot 106
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAD68 00010156
+```
+
+---
+
+### Slot 107
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAD70 00010158
+```
+
+---
+
+### Slot 108
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAD78 0001015B
+```
+
+---
+
+### Slot 109
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAD80 0001015C
+```
+
+---
+
+### Slot 110
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAD88 0001015D
+```
+
+---
+
+### Slot 111
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAD90 00010160
+```
+
+---
+
+### Slot 112
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAD98 00010162
+```
+
+---
+
+### Slot 113
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDADA0 00010164
+```
+
+---
+
+### Slot 114
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDADA8 00010165
+```
+
+---
+
+### Slot 115
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDADB0 00010166
+```
+
+---
+
+### Slot 116
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDADB8 00010169
+```
+
+---
+
+### Slot 117
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDADC0 0001016A
+```
+
+---
+
+### Slot 118
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDADC8 0001016C
+```
+
+---
+
+### Slot 119
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDADD0 0001016D
+```
+
+---
+
+### Slot 120
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDADD8 0001016E
+```
+
+---
+
+### Slot 121
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDADE0 00010170
+```
+
+---
+
+### Slot 122
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDADE8 00010171
+```
+
+---
+
+### Slot 123
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDADF0 00010173
+```
+
+---
+
+### Slot 124
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDADF8 00010174
+```
+
+---
+
+### Slot 125
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAE00 00010175
+```
+
+---
+
+### Slot 126
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAE08 00010176
+```
+
+---
+
+### Slot 127
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAE10 00010178
+```
+
+---
+
+### Slot 128
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAE18 0001017A
+```
+
+---
+
+### Slot 129
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAE20 00010064
+```
+
+---
+
+### Slot 130
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAE28 00010066
+```
+
+---
+
+### Slot 131
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAE30 00010067
+```
+
+---
+
+### Slot 132
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAE38 00010068
+```
+
+---
+
+### Slot 133
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAE40 00010069
+```
+
+---
+
+### Slot 134
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+2069BB5C 5A23B3BE
+```
+
+---
+
+### Slot 135
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAE50 0001006B
+```
+
+---
+
+### Slot 136
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAE58 0001006C
+```
+
+---
+
+### Slot 137
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAE60 0001006D
+```
+
+---
+
+### Slot 138
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAE68 0001006E
+```
+
+---
+
+### Slot 139
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAE70 0001006F
+```
+
+---
+
+### Slot 140
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAE78 0001007A
+```
+
+---
+
+### Slot 141
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAE80 0001007B
+```
+
+---
+
+### Slot 142
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAE88 0001007C
+```
+
+---
+
+### Slot 143
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAE90 0001007D
+```
+
+---
+
+### Slot 144
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAE98 0001007E
+```
+
+---
+
+### Slot 145
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAEA0 00010080
+```
+
+---
+
+### Slot 146
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAEA8 00010081
+```
+
+---
+
+### Slot 147
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAEB0 00010082
+```
+
+---
+
+### Slot 148
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAEB8 00010083
+```
+
+---
+
+### Slot 149
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAEC0 00010084
+```
+
+---
+
+### Slot 150
+**Author:** Code Master  
+**Notes:** [Have Thunder Plate Codes]
+
+```
+21FDAEC8 000100E1
+```
+
+---
+
+### Infinite Cash Usage (Press Select+Xx While Buying Plates)
+**Author:** Codejunkies
+
+```
+D05EC2C2 0000BFFE
+20327CF8 00000000
+E001BFFE 105EC2C2
+20327CF8 0C0C7CFA
+```
+
+---
+
+### Max Cash After Buying A Plate (Press Select+X While Buying Plates To Activate)
+**Author:** Codejunkies
+
+```
+D05EC2C2 0000BFFE
+20327CF8 0C03FFC0
+E001BFFE 105EC2C2
+20327CF8 0C0C7CFA
+200FFF00 3C0105F0
+200FFF04 AE410000
+200FFF08 080C7CFA
+```
+
+---
+
+### Almost All Challenges
+**Author:** Code Master  
+**Notes:** [Never Fail Challenge Codes]
+
+```
+201CD600 00000000
+```
+
+---
+
+### For Below Minimum Speed
+**Author:** Code Master  
+**Notes:** [Never Fail Challenge Codes]
+
+```
+1021722E 00001000
+```
+
+---
+
+### For Damage
+**Author:** Code Master  
+**Notes:** [Never Fail Challenge Codes]
+
+```
+101CC33E 00001000
+102182F6 00001000
+```
+
+---
+
+### For Leaving Racing Surface
+**Author:** Code Master  
+**Notes:** [Never Fail Challenge Codes]
+
+```
+101CC156 00001000
+1021779E 00001000
+```
+
+---
+
+### For Lost Lap
+**Author:** Code Master  
+**Notes:** [Never Fail Challenge Codes]
+
+```
+101CBEE6 00001000
+```
+
+---
+
+### For Maintaining Share Draft
+**Author:** Code Master  
+**Notes:** [Never Fail Challenge Codes]
+
+```
+101CC1B6 00001000
+```
+
+---
+
+### For Out Of Contention
+**Author:** Code Master  
+**Notes:** [Never Fail Challenge Codes]
+
+```
+101CBFCE 00001000
+10216E6A 00001000
+```
+
+---
+
+### For Points Dropped Below Minimum
+**Author:** Code Master  
+**Notes:** [Never Fail Challenge Codes]
+
+```
+1021704E 00001000
+```
+
+---
+
+### For Time Trial Time Exceeded Limit
+**Author:** Code Master  
+**Notes:** [Never Fail Challenge Codes]
+
+```
+1021743A 00001000
+```
+
+---
+
+### For Wreckless Driving
+**Author:** Code Master  
+**Notes:** [Never Fail Challenge Codes]
+
+```
+101CC066 00001000
+10217596 00001000
+```
+
+---
+
+### Start On Lap 5
+**Author:** Codejunkies  
+**Notes:** [These Codes Are For The First Driveable Car]
+
+```
+D0567034 00000000
+10567034 00000004
+```
+
+---
+
+### Start On Lap 9
+**Author:** Codejunkies  
+**Notes:** [These Codes Are For The First Driveable Car]
+
+```
+D0567034 00000000
+10567034 00000008
+```
+
+---
+
+### Start On Lap 99
+**Author:** Codejunkies  
+**Notes:** [These Codes Are For The First Driveable Car]
+
+```
+D0567034 00000000
+10567034 00000062
+```
+
+---
+
+### Cars Take No Damage
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+201C21E8 03E00008
+201C21EC 00000000
+```
+
+---
+
+### Challenges Never Have Fail Stipulations
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+201CE090 03E00008
+201CE094 00000000
+```
+
+---
+
+### Infinite Available Skill Points
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+11FD1220 0000FFFF
+```
+
+---
+
+### Infinite Fuel
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+20160BC8 00000000
+```
+
+---
+
+### Infinite Tire Wear
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+2015303C 00000000
+```
+
+---
+
+### Max Available Skill Points
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+21FD1220 05F5E0FF
+```
+
+---
+
+### Max Skill Points Earned
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+21FD1224 05F5E0FF
+```
+
+---
+
+### Skill Points Dont Decrease When Buying Plates
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+2023C8F0 24620000
+```
+
+---
+
+### Skill Points Increase When Buying Plates
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+2023C8F0 00701021
+```
+
+---
+
+### Start On Lap 2
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+D0567034 00000000
+10567034 00000002
+```
+
+---
+
+### Start On Lap 3
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+D0567034 00000000
+10567034 00000003
+```
+
+---
+
+### Start On Lap 10
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+D0567034 00000000
+10567034 0000000A
+```
+
+---
+
+### Start On Lap 25
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+D0567034 00000000
+10567034 00000019
+```
+
+---
+
+### Start On Lap 50
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+D0567034 00000000
+10567034 00000032
+```
+
+---
+
+### Start On Lap 100
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+D0567034 00000000
+10567034 00000064
+```
+
+---
+
+### Start On Last Lap (10 Lap Race)
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+10581886 0000000A
+D0567034 00000000
+10567034 00000009
+```
+
+---
+
+### Total Laps Always 1
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+10581886 00000001
+```
+
+---
+
+### Total Laps Always 2
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+10581886 00000002
+```
+
+---
+
+### Total Laps Always 5
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+10581886 00000005
+```
+
+---
+
+### Total Laps Always 10
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+10581886 0000000A
+```
+
+---
+
+### Total Laps Always 20
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+10581886 00000014
+```
+
+---
+
+### Total Laps Always 50
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+10581886 00000032
+```
+
+---
+
+### Total Laps Always 100
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+10581886 00000064
+```
+
+---
+
+### Total Laps Always 250
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+10581886 000000FA
+```
+
+---
+
+### Total Laps Always 500
+**Author:** Code Master  
+**Notes:** [This Game Requires Code Breaker PS2 V7.0 or Higher!]
+
+```
+10581886 000001F4
+```
+
+---

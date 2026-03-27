@@ -1,0 +1,22 @@
+# Persona 4 Arena Ultimax cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLJM61209
+
+game: "Persona 4 Arena Ultimax"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLJM61209"
+cheat_type: "Save Editor"
+source: "From chaoszage"
+
+cheats:
+  - name: "Update Wadd For System.dat (required)"
+    notes: "File: SYSTEM.DAT  (set [csum]:wadd(0x000004,0x0E6ACF))"
+    codes:
+      - "set [csum]:0"
+      - "carry(2)"
+      - "set pointer:eof+1"
+      - "set [csum]:wadd(0x000004,pointer)"
+      - "set [csum]:xor:FFFF"
+      - "write at 0x000000:[csum]"

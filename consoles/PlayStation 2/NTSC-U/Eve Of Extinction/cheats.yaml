@@ -1,0 +1,54 @@
+# Eve Of Extinction cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20270
+
+game: "Eve Of Extinction"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20270"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0010DC37"
+
+  - name: "Auto Weapon Level Up"
+    author: "Code Master"
+    codes:
+      - "2016900C 24420001"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    codes:
+      - "20119968 240100FF"
+      - "20119974 A48101C2"
+      - "20119978 00011C3C"
+
+  - name: "Infinite Weapon Power"
+    author: "Code Master"
+    codes:
+      - "20166CE0 240200FF"
+      - "20166CE4 A4C201C0"
+
+  - name: "Switch To Weapon For Max Level Up"
+    author: "Code Master"
+    codes:
+      - "202435E4 24020005"
+      - "202435E8 A062020C"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0010DC37"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9010DC34 0C0A1EAA"

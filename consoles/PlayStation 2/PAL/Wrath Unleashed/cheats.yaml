@@ -1,0 +1,25 @@
+# Wrath Unleashed cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52101
+
+game: "Wrath Unleashed"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52101"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0121324 00121327"
+
+  - name: "Infinite Magic In Battle"
+    author: "Codejunkies"
+    codes:
+      - "E0020000 0035FE80"
+      - "D035FE82 0000460C"
+      - "2035FE80 00000000"

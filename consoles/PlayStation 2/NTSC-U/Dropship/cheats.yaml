@@ -1,0 +1,36 @@
+# Dropship cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20463
+
+game: "Dropship"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20463"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0010921F"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "01E4EDB7 00000001"
+
+  - name: "Infinite Ammo"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "01E4EDB8 00000001"
+
+  - name: "Unlock All Missions"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "01E4EEB0 00000001"

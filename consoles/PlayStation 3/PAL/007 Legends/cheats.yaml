@@ -1,0 +1,48 @@
+# 007 Legends cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01614
+
+game: "007 Legends"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01614"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Get Crc32 For 66600000.dat"
+    notes: "File: 66600000.DAT"
+    codes:
+      - "set [hash_66600000.DAT]:CRC32"
+      - "set [size_66600000.DAT]:eof+1"
+
+  - name: "Get Crc32 For 66600001.dat"
+    notes: "File: 66600001.DAT"
+    codes:
+      - "set [hash_66600001.DAT]:CRC32"
+      - "set [size_66600001.DAT]:eof+1"
+
+  - name: "Get Crc32 For 66600008.dat"
+    notes: "File: 66600008.DAT"
+    codes:
+      - "set [hash_66600008.DAT]:CRC32"
+      - "set [size_66600008.DAT]:eof+1"
+
+  - name: "Get Crc32 For 96600000.dat"
+    notes: "File: 96600000.DAT"
+    codes:
+      - "set [hash_96600000.DAT]:CRC32"
+      - "set [size_96600000.DAT]:eof+1"
+
+  - name: "Update Crc32 For Dat Files"
+    notes: "File: SAVE.BIN"
+    codes:
+      - "write at 0x000014:[size_66600000.DAT]"
+      - "write at 0x000018:[hash_66600000.DAT]"
+      - "write at 0x000024:[size_66600001.DAT]"
+      - "write at 0x000028:[hash_66600001.DAT]"
+      - "write at 0x000034:[size_66600008.DAT]"
+      - "write at 0x000038:[hash_66600008.DAT]"
+      - "write at 0x000044:[size_96600000.DAT]"
+      - "write at 0x000048:[hash_96600000.DAT]"

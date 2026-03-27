@@ -1,0 +1,84 @@
+# King Of Fighters 2002, The cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25347
+
+game: "King Of Fighters 2002, The"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25347"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "9010DB74 0C046280"
+
+  - name: "Freeze Timer"
+    author: "lee4"
+    codes:
+      - "00927320 000000FF"
+
+  - name: "Have All Time Attack Challenges Completed"
+    author: "lee4>CMX"
+    codes:
+      - "20935BF0 00000028"
+
+  - name: "Infinite Time"
+    author: "lee4"
+    codes:
+      - "10927328 00000099"
+
+  - name: "P1 Always Level 3 Power Gauge"
+    author: "lee4>CMX"
+    codes:
+      - "00933293 00000003"
+
+  - name: "P1 Infinite Health"
+    author: "lee4"
+    codes:
+      - "109331E8 00000066"
+
+  - name: "P1 Infinite Power Gauge"
+    author: "lee4>MadCatz"
+    codes:
+      - "10933198 00004200"
+
+  - name: "P1 Infinite Special Time"
+    author: "lee4>MadCatz"
+    codes:
+      - "1093319A 00002C80"
+
+  - name: "P2 Always Level 3 Power Gauge"
+    author: "lee4>CMX"
+    codes:
+      - "009334A3 00000003"
+
+  - name: "P2 Infinite Health"
+    author: "lee4"
+    codes:
+      - "109333F8 00000066"
+
+  - name: "P2 Infinite Power Gauge"
+    author: "lee4>MadCatz"
+    codes:
+      - "109333A8 00004200"
+
+  - name: "P2 Infinite Special Time"
+    author: "lee4>MadCatz"
+    codes:
+      - "109333AA 00002C80"
+
+  - name: "Unlock All Character Art Gallery"
+    author: "lee4>CMX"
+    codes:
+      - "209356E8 FFFFFFFF"
+      - "009356EC 000000FF"
+
+  - name: "Unlock All Characters"
+    author: "lee4>CMX"
+    codes:
+      - "20935C14 FFFFFFFF"

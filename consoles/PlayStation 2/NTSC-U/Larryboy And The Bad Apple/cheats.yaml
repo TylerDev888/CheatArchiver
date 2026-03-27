@@ -1,0 +1,44 @@
+# Larryboy And The Bad Apple cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21440
+
+game: "Larryboy And The Bad Apple"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21440"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0305394 00305397"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "90305534 0C0B54FF"
+
+  - name: "Infinite Power Drencher Ammo"
+    author: "Codejunkies"
+    codes:
+      - "201C134C 00000000"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "200C0220 3C013F80"
+      - "200C0224 080544E4"
+      - "200C0228 AC410270"
+      - "201421CC 0C030088"
+
+  - name: "Infinite Power Drencher"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201C1354 00000000"

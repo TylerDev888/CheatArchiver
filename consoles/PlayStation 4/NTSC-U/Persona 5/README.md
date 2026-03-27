@@ -1,0 +1,759 @@
+# Persona 5
+
+**Console:** PlayStation 4  
+**Region:** NTSC-U  
+**Serial:** CUSA05877  
+**Cheat Type:** AP  
+
+---
+
+## Cheats
+
+### Money 9999999
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+20002D5A 0098967F
+```
+
+---
+
+### Fishing Points
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+20003336 0098967F
+```
+
+---
+
+### Hero Exp Max
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+2000006C 0098967F
+```
+
+---
+
+### Hero 6 Equipped Personas Exp Max
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+4200009C 0098967F
+40060030 00000000
+```
+
+---
+
+### Hero 6 Equipped Persona Max Stat
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+420000B0 63636363
+40060030 00000000
+400000B4 00000063
+40060030 00000000
+```
+
+---
+
+### Ryuji Sakamoto - Exp Max
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+20000344 0098967F
+```
+
+---
+
+### Ryuji Sakamoto - Persona Max Stat
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+20000358 63636363
+0000035C 00000063
+```
+
+---
+
+### Morgana - Exp Max
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+200005EC 0098967F
+```
+
+---
+
+### Morgana - Persona Max Stat
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+20000600 63636363
+00000604 00000063
+```
+
+---
+
+### Ann Takamaki - Exp Max
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+20000894 0098967F
+```
+
+---
+
+### Ann Takamaki - Persona Max Stat
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+200008A8 63636363
+000008AC 00000063
+```
+
+---
+
+### Yusuke Kitagawa - Exp Max
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+20000B3C 0098967F
+```
+
+---
+
+### Yusuke Kitagawa - Persona Max Stat
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+20000B50 63636363
+00000B54 00000063
+```
+
+---
+
+### Makoto Niijima - Exp Max
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+20000DE4 0098967F
+```
+
+---
+
+### Makoto Niijima - Persona Max Stat
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+20000DE8 63636363
+00000DEC 00000063
+```
+
+---
+
+### Haru Okumura - Exp Max
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+2000108C 0098967F
+```
+
+---
+
+### Haru Okumura - Persona Max Stat
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+200010A0 63636363
+000010A4 00000063
+```
+
+---
+
+### Futaba Sakura - Exp Max
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+20001334 0098967F
+```
+
+---
+
+### Futaba Sakura - Persona Max Stat
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+20001338 63636363
+0000133C 00000063
+```
+
+---
+
+### Goro Akechi - Exp Max
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+200015DC 0098967F
+```
+
+---
+
+### Goro Akechi - Persona Max Stat
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+200015F0 63636363
+000015F4 00000063
+```
+
+---
+
+### All Characters - Exp Max
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+42000344 0098967F
+400802A8 00000000
+```
+
+---
+
+### All Characters - Persona Max Stat Other Than The Hero
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+42000358 63636363
+400802A8 00000000
+4000035C 00000063
+400802A8 00000000
+```
+
+---
+
+### Knowledge Lv. 4 (just Do One To Max It)
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+00012513 000000BF
+```
+
+---
+
+### Charm Lv. 4(just Do One To Max It)
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+00012515 00000083
+```
+
+---
+
+### Proficiency Lv. 4(just Do One To Max It)
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+00012517 00000056
+```
+
+---
+
+### Guts Lv. 4(just Do One To Max It)
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+00012519 00000070
+```
+
+---
+
+### Kindness Lv. 4(just Do One To Max It)
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+0001251B 00000087
+```
+
+---
+
+### Max Friendship Points For All Confidants
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+400122DF 000000FF
+40160010 00000000
+```
+
+---
+
+### Futaba 249 Navi For Trophy
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+0001470B 000000F9
+```
+
+---
+
+### Consumables & Materials 98 V2.0
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+40002253 00000062
+40100001 00000000
+40002264 00000062
+40030001 00000000
+40002269 00000062
+40070001 00000000
+40002271 00000062
+40220001 00000000
+40002294 00000062
+40030001 00000000
+4000229C 00000062
+40040001 00000000
+400022B6 00000062
+40020001 00000000
+000022B9 00000062
+400022BB 00000062
+40030001 00000000
+400022BF 00000062
+400B0001 00000000
+400022D2 00000062
+40020001 00000000
+000022E1 00000062
+400022E5 00000062
+40020001 00000000
+400022EE 00000062
+40030001 00000000
+4000230D 00000062
+40080001 00000000
+4000231A 00000062
+40070001 00000000
+40002327 00000062
+400C0001 00000000
+00002334 00000062
+40002336 00000062
+40040001 00000000
+4000233C 00000062
+400B0001 00000000
+4000234A 00000062
+40040001 00000000
+4000238A 00000062
+40030001 00000000
+4000238E 00000062
+40080001 00000000
+400023A2 00000062
+40030001 00000000
+000023A6 00000062
+400023A8 00000062
+400A0001 00000000
+400023B3 00000062
+40020001 00000000
+400023B7 00000062
+40040001 00000000
+000026BD 00000062
+400023F0 00000062
+400A0001 00000000
+400023FB 00000062
+40040001 00000000
+40002401 00000062
+40060001 00000000
+4000240B 00000062
+40090001 00000000
+00002420 00000062
+40002424 00000062
+400B0001 00000000
+4000243A 00000062
+40070001 00000000
+40002445 00000062
+40020001 00000000
+4000244B 00000062
+40050001 00000000
+```
+
+---
+
+### Materials 98
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+400022BF 00000062
+400B0001 00000000
+```
+
+---
+
+### All Skill Cards
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+40002953 0000005A
+40CF0001 00000000
+40002A24 0000005A
+403C0001 00000000
+40002A61 0000005A
+40260001 00000000
+40002A88 0000005A
+40080001 00000000
+40002A91 0000005A
+40100001 00000000
+40002AA2 0000005A
+40200001 00000000
+00002AD4 0000005A
+```
+
+---
+
+### Eternal Lockpick - Open Any Treasure Chests
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+000023A3 00000001
+```
+
+---
+
+### Reserve Ammo X99
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+000023A4 00000063
+```
+
+---
+
+### Omnipotent Orb - Null All Except Almighty
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+0000213A 00000009
+```
+
+---
+
+### Black Weapons
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+40002C62 00000009
+40C20001 00000000
+2000193B 00000900
+```
+
+---
+
+### Weapons
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+40001854 00000002
+40180001 00000000
+1000186D 00000202
+40001870 00000002
+401D0001 00000000
+4000188E 00000002
+400A0001 00000000
+0000189B 00000002
+2000189D 02020202
+200018B1 02020202
+400018B6 00000002
+402C0001 00000000
+400018E3 00000002
+40130001 00000000
+400018F7 00000002
+40210001 00000000
+4000191B 00000002
+400D0001 00000000
+2000192A 02020202
+10001930 00000202
+00001933 00000002
+10001935 00000202
+2000193B 00020202
+0000193F 00000002
+20001941 00020202
+10001945 00020202
+```
+
+---
+
+### Guns
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+40002C62 00000002
+40C20001 00000000
+40002D26 00000002
+400A0001 00000000
+40002D32 00000002
+401D0001 00000000
+```
+
+---
+
+### Armours
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+40001C53 0000000A
+400A0001 00000000
+40001C5F 0000000A
+40250001 00000000
+40001C86 0000000A
+40120001 00000000
+40001C9A 0000000A
+40120001 00000000
+40001CAE 0000000A
+40120001 00000000
+40001CC2 0000000A
+40120001 00000000
+40001CD6 0000000A
+40120001 00000000
+40001CEA 0000000A
+40120001 00000000
+40001CFE 0000000A
+40120001 00000000
+```
+
+---
+
+### All Accessories
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+40002053 0000000F
+40BD0001 00000000
+40002112 0000000F
+40040001 00000000
+40002118 0000000F
+403A0001 00000000
+```
+
+---
+
+### All Costumes
+**Author:**   
+**Notes:** File: DATA.DAT
+
+```
+40002B54 00000001
+40B40001 00000000
+```
+
+---
+
+### 100% Personas In Compendium
+**Author:**   
+**Notes:** File: DATA.DAT  (=OP Skills=) (035D Victory Cry HP/SP FULL AFTER BATTLE***) (00D7 Hassou Tobi Light Physical damage to all foes 8x. 25% HP) (02C4 Shining Arrows Light Bless damage to all foes 4x to 8x. 22 SP) (03D2 Bless Boost Strengthen (non instant death) Bless attacks by 25%.) (03D3 Bless Amp ...
+
+```
+42003607 01000101
+41410030 00000100
+4200360E 0098967F
+41410030 00000000
+42003612 00000000
+41410030 00000000
+42003616 00000000
+41410030 00000000
+4200361A 00000000
+41410030 00000000
+4200361E 00000000
+41410030 00000000
+42003622 63636363
+41410030 00000000
+40003626 00000063
+41410030 00000000
+```
+
+---
+
+### Hero - Persona 1 Skills 1-8
+**Author:**   
+**Notes:** File: DATA.DAT  \\\\100000A0 0000XXXX \\\\100000A2 0000XXXX \\\\100000A4 0000XXXX \\\\100000A6 0000XXXX \\\\100000A8 0000XXXX \\\\100000AA 0000XXXX \\\\100000AC 0000XXXX \\\\100000AE 0000XXXX
+
+---
+
+### Hero - Persona 2 Skills 1-8
+**Author:**   
+**Notes:** File: DATA.DAT  \\\\100000D0 0000XXXX \\\\100000D2 0000XXXX \\\\100000D4 0000XXXX \\\\100000D6 0000XXXX \\\\100000D8 0000XXXX \\\\100000DA 0000XXXX \\\\100000DC 0000XXXX \\\\100000DE 0000XXXX
+
+---
+
+### Hero - Persona 3 Skills 1-8
+**Author:**   
+**Notes:** File: DATA.DAT  \\\\10000100 0000XXXX \\\\10000102 0000XXXX \\\\10000104 0000XXXX \\\\10000106 0000XXXX \\\\10000108 0000XXXX \\\\1000010A 0000XXXX \\\\1000010C 0000XXXX \\\\1000010E 0000XXXX
+
+---
+
+### Hero - Persona 4 Skills 1-8
+**Author:**   
+**Notes:** File: DATA.DAT  \\\\10000140 0000XXXX \\\\10000142 0000XXXX \\\\10000144 0000XXXX \\\\10000146 0000XXXX \\\\10000148 0000XXXX \\\\1000014A 0000XXXX \\\\1000014C 0000XXXX \\\\1000014E 0000XXXX
+
+---
+
+### Hero - Persona 5 Skills 1-8
+**Author:**   
+**Notes:** File: DATA.DAT  \\\\10000170 0000XXXX \\\\10000172 0000XXXX \\\\10000174 0000XXXX \\\\10000176 0000XXXX \\\\10000178 0000XXXX \\\\1000017A 0000XXXX \\\\1000017C 0000XXXX \\\\1000017E 0000XXXX
+
+---
+
+### Hero - Persona 6 Skills 1-8
+**Author:**   
+**Notes:** File: DATA.DAT  \\\\100001A0 0000XXXX \\\\100001A2 0000XXXX \\\\100001A4 0000XXXX \\\\100001A6 0000XXXX \\\\100001A8 0000XXXX \\\\100001AA 0000XXXX \\\\100001AC 0000XXXX \\\\100001AE 0000XXXX
+
+---
+
+### Ryuji Sakamoto - Skills 1-8
+**Author:**   
+**Notes:** File: DATA.DAT  \\\\10000348 0000XXXX \\\\1000034A 0000XXXX \\\\1000034C 0000XXXX \\\\1000034E 0000XXXX \\\\10000350 0000XXXX \\\\10000352 0000XXXX \\\\10000354 0000XXXX \\\\10000356 0000XXXX
+
+---
+
+### Morgana - Skills 1-8
+**Author:**   
+**Notes:** File: DATA.DAT  \\\\100005F0 0000XXXX \\\\100005F2 0000XXXX \\\\100005F4 0000XXXX \\\\100005F6 0000XXXX \\\\100005F8 0000XXXX \\\\100005FA 0000XXXX \\\\100005FC 0000XXXX \\\\100005FE 0000XXXX
+
+---
+
+### Ann Takamaki - Skills 1-8
+**Author:**   
+**Notes:** File: DATA.DAT  \\\\10000898 0000XXXX \\\\1000089A 0000XXXX \\\\1000089C 0000XXXX \\\\1000089E 0000XXXX \\\\100008A0 0000XXXX \\\\100008A2 0000XXXX \\\\100008A4 0000XXXX \\\\100008A6 0000XXXX
+
+---
+
+### Yusuke Kitagawa - Skills 1-8
+**Author:**   
+**Notes:** File: DATA.DAT  \\\\10000B40 0000XXXX \\\\10000B42 0000XXXX \\\\10000B44 0000XXXX \\\\10000B46 0000XXXX \\\\10000B48 0000XXXX \\\\10000B4A 0000XXXX \\\\10000B4C 0000XXXX \\\\10000B4E 0000XXXX
+
+---
+
+### Makoto Niijima - Skill 1-8
+**Author:**   
+**Notes:** File: DATA.DAT  \\\\10000DE8 0000XXXX \\\\10000DEA 0000XXXX \\\\10000DEC 0000XXXX \\\\10000DEE 0000XXXX \\\\10000DF0 0000XXXX \\\\10000DF2 0000XXXX \\\\10000DF4 0000XXXX \\\\10000DF6 0000XXXX
+
+---
+
+### Haru Okumura Skills 1-8
+**Author:**   
+**Notes:** File: DATA.DAT  \\\\10001090 0000XXXX \\\\10001092 0000XXXX \\\\10001094 0000XXXX \\\\10001096 0000XXXX \\\\10001098 0000XXXX \\\\1000109A 0000XXXX \\\\1000109C 0000XXXX \\\\1000109E 0000XXXX
+
+---
+
+### Futaba Sakura - Skills 1-8
+**Author:**   
+**Notes:** File: DATA.DAT  \\\\10001338 0000XXXX \\\\1000133A 0000XXXX \\\\1000133C 0000XXXX \\\\1000133E 0000XXXX \\\\10001340 0000XXXX \\\\10001342 0000XXXX \\\\10001344 0000XXXX \\\\10001346 0000XXXX
+
+---
+
+### Goro Akechi - Skills 1-8
+**Author:**   
+**Notes:** File: DATA.DAT  \\\\100015E0 0000XXXX \\\\100015E2 0000XXXX \\\\100015E4 0000XXXX \\\\100015E6 0000XXXX \\\\100015E8 0000XXXX \\\\100015EA 0000XXXX \\\\100015EC 0000XXXX \\\\100015EE 0000XXXX (Persona change ID list) (0001 Metatron) (0002 Beelzebub) (0003 Khoo Fuling) (0004 Jack lantern) (0005 Jack Frost) (0006 ...
+
+---
+
+### Hero Persona Slot 1-6
+**Author:**   
+**Notes:** File: DATA.DAT  \\\\10000096 0000XXXX \\\\100000C6 0000XXXX \\\\100000F6 0000XXXX \\\\10000126 0000XXXX \\\\10000156 0000XXXX \\\\10000186 0000XXXX
+
+---
+
+### Hero Persona Slot 1
+**Author:**   
+**Notes:** [Hero Persona]  File: DATA.DAT
+
+```
+10000096 0000[Persona]
+```
+
+---
+
+### Hero Persona Slot 2
+**Author:**   
+**Notes:** [Hero Persona]  File: DATA.DAT
+
+```
+100000C6 0000[Persona]
+```
+
+---
+
+### Hero Persona Slot 3
+**Author:**   
+**Notes:** [Hero Persona]  File: DATA.DAT
+
+```
+100000F6 0000[Persona]
+```
+
+---
+
+### Hero Persona Slot 4
+**Author:**   
+**Notes:** [Hero Persona]  File: DATA.DAT
+
+```
+10000126 0000[Persona]
+```
+
+---
+
+### Hero Persona Slot 5
+**Author:**   
+**Notes:** [Hero Persona]  File: DATA.DAT
+
+```
+10000156 0000[Persona]
+```
+
+---
+
+### Hero Persona Slot 6
+**Author:**   
+**Notes:** [Hero Persona]  File: DATA.DAT
+
+```
+10000186 0000[Persona]
+```
+
+---

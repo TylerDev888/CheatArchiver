@@ -1,0 +1,61 @@
+# SingStar_ Boybands vs. Girlbands cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-55178
+
+game: "SingStar_ Boybands vs. Girlbands"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-55178"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "902B9130 0C0AE3F4"
+
+  - name: "Notes Multiplyer"
+    author: "SkillerCMP"
+    notes: "[Codes Affect All Players]"
+    codes:
+      - "20146A20 08028000"
+      - "20146A24 00000000"
+      - "200A0000 00021[MOD1]"
+      - "200A0004 AE220030"
+      - "200A0008 08051A89"
+      - "200A000C 8C8300E0"
+
+  - name: "Rap Multiplyer"
+    author: "SkillerCMP"
+    notes: "[Codes Affect All Players]"
+    codes:
+      - "20146A80 08028004"
+      - "20146A84 00000000"
+      - "200A0010 00021[MOD1]"
+      - "200A0014 AE220034"
+      - "200A0018 08051AA1"
+      - "200A001C 8CA300E0"
+
+  - name: "Line Bonus Multiplyer"
+    author: "SkillerCMP"
+    notes: "[Codes Affect All Players]"
+    codes:
+      - "20146ABC 08028008"
+      - "20146AC0 00000000"
+      - "200A0020 00108[MOD1]"
+      - "200A0024 AE300038"
+      - "200A0028 08051AB0"
+      - "200A002C 00641821"
+
+  - name: "Golden Notes Multiplyer"
+    author: "SkillerCMP"
+    notes: "[Codes Affect All Players]"
+    codes:
+      - "20146AC4 0802800C"
+      - "20146AC8 00000000"
+      - "200A0030 00021[MOD1]"
+      - "200A0034 AE22003C"
+      - "200A0038 08051AB2"
+      - "200A003C 00701821"

@@ -1,0 +1,136 @@
+# Test Drive - Off-Road - Wide Open cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20177
+
+game: "Test Drive - Off-Road - Wide Open"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20177"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01001BC 002A024F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 002A024F"
+
+  - name: "1Laps1"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "20126958 00000000"
+
+  - name: "2Laps2"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "20126978 00000000"
+
+  - name: "Dbltime"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "20126998 00000000"
+
+  - name: "Dnomaid"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "20126938 00000000"
+
+  - name: "Freeplay"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "201269B8 00000000"
+
+  - name: "Kahndawg"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "20126918 00000000"
+
+  - name: "Lowgravy"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "201268F8 00000000"
+
+  - name: "Mercedez"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "201268D8 00000000"
+
+  - name: "Monstrus"
+    author: "Code Master"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "201269D8 00000000"
+
+  - name: "Infinite Continues"
+    author: "Codejunkies"
+    notes: "[Continue Codes]"
+    codes:
+      - "002E2890 00000004"
+
+  - name: "Never Have More Than 1 Continue"
+    author: "Codejunkies"
+    notes: "[Continue Codes]"
+    codes:
+      - "E1010001 302E2890"
+      - "002E2890 00000001"
+
+  - name: "Never Have More Than 2 Continues"
+    author: "Codejunkies"
+    notes: "[Continue Codes]"
+    codes:
+      - "E1010002 302E2890"
+      - "002E2890 00000002"
+
+  - name: "No Continues"
+    author: "Codejunkies"
+    notes: "[Continue Codes]"
+    codes:
+      - "002E2890 00000000"
+
+  - name: "Your Opponents Have No AI"
+    author: "Codejunkies"
+    notes: "[Continue Codes]"
+    codes:
+      - "201067A0 03E00008"
+      - "201067A4 00000000"
+
+  - name: "Max Career Cash"
+    author: "InterAct"
+    codes:
+      - "202E59CC 0098967F"
+
+  - name: "Max Money (Career Mode)"
+    author: "Code Master"
+    codes:
+      - "202E59CC 05F5E0FF"
+
+  - name: "Max Points"
+    author: "Code Master"
+    codes:
+      - "102E6FCC 000003E7"
+
+  - name: "Max Race Points"
+    author: "InterAct"
+    codes:
+      - "102E6FCC 000000FF"
+
+  - name: "Unlock Everything"
+    author: "Code Master"
+    codes:
+      - "201269F4 00000000"

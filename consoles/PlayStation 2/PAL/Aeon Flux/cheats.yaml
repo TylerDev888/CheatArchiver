@@ -1,0 +1,29 @@
+# Aeon Flux cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Aeon Flux"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9044A674 0C118A3B"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20314ED0 E60008FC"
+
+  - name: "Ammo"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "202FC5E4 00000000"

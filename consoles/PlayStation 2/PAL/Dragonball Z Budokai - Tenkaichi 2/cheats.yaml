@@ -1,0 +1,49 @@
+# Dragonball Z Budokai - Tenkaichi 2 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54164
+
+game: "Dragonball Z Budokai - Tenkaichi 2"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54164"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01001E8 001001EB"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "20125108 8C410004"
+      - "2012510C AC410000"
+
+  - name: "Infinite Ki"
+    author: "Codejunkies"
+    codes:
+      - "20125128 8C410010"
+      - "2012512C AC41000C"
+
+  - name: "Max Cash After Buying A Capsule"
+    author: "Codejunkies"
+    codes:
+      - "2024802C 3C070098"
+
+  - name: "Max Cash After Selling A Capsule"
+    author: "Codejunkies"
+    codes:
+      - "20299170 24A30000"
+
+  - name: "Unlock All Items, Capsules And Scenarii (Go To Z Item List To Activate)"
+    author: "Codejunkies"
+    codes:
+      - "200FFF40 3C0103E7"
+      - "200FFF44 34210001"
+      - "200FFF48 AC410000"
+      - "200FFF4C 08094890"
+      - "2025223C 0803FFD0"

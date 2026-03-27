@@ -1,0 +1,218 @@
+# Thunderstrike - Operation Phoenix cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20232
+
+game: "Thunderstrike - Operation Phoenix"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20232"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100158 00152D87"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 00151DC7"
+
+  - name: "Armor Never Goes Above 10%"
+    author: "Codejunkies"
+    notes: "[Armor Codes]"
+    codes:
+      - "E00141C8 30565376"
+      - "10565376 000041C8"
+
+  - name: "Armor Never Goes Above 25%"
+    author: "Codejunkies"
+    notes: "[Armor Codes]"
+    codes:
+      - "E0014248 30565376"
+      - "10565376 00004248"
+
+  - name: "Armor Never Goes Above 50%"
+    author: "Codejunkies"
+    notes: "[Armor Codes]"
+    codes:
+      - "E00142FA 30565376"
+      - "10565376 000042FA"
+
+  - name: "Armor Never Goes Above 75%"
+    author: "Codejunkies"
+    notes: "[Armor Codes]"
+    codes:
+      - "E0014348 30565376"
+      - "10565376 00004348"
+
+  - name: "Infinite Armor"
+    author: "Codejunkies"
+    notes: "[Armor Codes]"
+    codes:
+      - "10565376 0000437A"
+
+  - name: "Rapid Fire Missiles"
+    author: "Codejunkies"
+    notes: "[Armor Codes]"
+    codes:
+      - "10565360 00000000"
+
+  - name: "Weapons Never Overheat"
+    author: "Codejunkies"
+    notes: "[Armor Codes]"
+    codes:
+      - "10565364 00000000"
+
+  - name: "Weapon 1"
+    author: "MadCatz"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "10423120 00000063"
+
+  - name: "Weapon 2"
+    author: "MadCatz"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "10423124 00000063"
+
+  - name: "Weapon 3"
+    author: "MadCatz"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "10423128 00000063"
+
+  - name: "View Modifier (00-0F)"
+    author: "Code Master"
+    notes: "[Infinite Ammo Codes]"
+    codes:
+      - "10564EEC 000000??"
+
+  - name: "3Rd Person View"
+    author: "MadCatz"
+    notes: "[View Codes]"
+    codes:
+      - "10564EEC 00000001"
+
+  - name: "Awacs View"
+    author: "MadCatz"
+    notes: "[View Codes]"
+    codes:
+      - "10564EEC 00000004"
+
+  - name: "Bomb View"
+    author: "MadCatz"
+    notes: "[View Codes]"
+    codes:
+      - "10564EEC 00000008"
+
+  - name: "Cockpit View"
+    author: "MadCatz"
+    notes: "[View Codes]"
+    codes:
+      - "10564EEC 00000002"
+
+  - name: "Cockpit View 2"
+    author: "MadCatz"
+    notes: "[View Codes]"
+    codes:
+      - "10564EEC 00000003"
+
+  - name: "Minimal HUD View"
+    author: "MadCatz"
+    notes: "[View Codes]"
+    codes:
+      - "10564EEC 00000000"
+
+  - name: "Refreshable View"
+    author: "MadCatz"
+    notes: "[View Codes]"
+    codes:
+      - "10564EEC 0000000D"
+
+  - name: "Rotating Pause View"
+    author: "MadCatz"
+    notes: "[View Codes]"
+    codes:
+      - "10564EEC 00000005"
+
+  - name: "Never Have More Than 10 Bullets"
+    author: "Codejunkies"
+    notes: "[Weapon 1 Ammo Codes]"
+    codes:
+      - "E001000A 30423120"
+      - "10423120 0000000A"
+
+  - name: "Never Have More Than 20 Bullets"
+    author: "Codejunkies"
+    notes: "[Weapon 1 Ammo Codes]"
+    codes:
+      - "E0010014 30423120"
+      - "10423120 00000014"
+
+  - name: "Never Have More Than 5 Bullets"
+    author: "Codejunkies"
+    notes: "[Weapon 1 Ammo Codes]"
+    codes:
+      - "E0010005 30423120"
+      - "10423120 00000005"
+
+  - name: "Awacs View (Map)"
+    author: "InterAct"
+    codes:
+      - "1056777C 00000004"
+
+  - name: "Bomb View (Down View)"
+    author: "InterAct"
+    codes:
+      - "1056777C 00000008"
+
+  - name: "Infinite Ammo Weapon 1"
+    author: "InterAct"
+    codes:
+      - "10425AC0 00000063"
+
+  - name: "Infinite Ammo Weapon 2"
+    author: "InterAct"
+    codes:
+      - "10425AC4 00000063"
+
+  - name: "Infinite Ammo Weapon 3"
+    author: "InterAct"
+    codes:
+      - "10425AC8 00000063"
+
+  - name: "Never Overheat"
+    author: "InterAct"
+    codes:
+      - "10567BF8 00000000"
+
+  - name: "Rotating Pause Menu View"
+    author: "InterAct"
+    codes:
+      - "1056777C 00000005"
+
+  - name: "Standard 3Rd Person View"
+    author: "InterAct"
+    codes:
+      - "1056777C 00000001"
+
+  - name: "Standard Cockpit View"
+    author: "InterAct"
+    codes:
+      - "1056777C 00000002"
+
+  - name: "Stationary Minimal HUD View"
+    author: "InterAct"
+    codes:
+      - "1056777C 00000000"
+
+  - name: "Stationary Refreshable View"
+    author: "InterAct"
+    codes:
+      - "1056777C 0000000D"

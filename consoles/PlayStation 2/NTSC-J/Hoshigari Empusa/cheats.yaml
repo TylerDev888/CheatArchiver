@@ -1,0 +1,29 @@
+# Hoshigari Empusa cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66969
+
+game: "Hoshigari Empusa"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66969"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90210298 0C08404E"
+
+  - name: "New Game (Maria) = Debug Menu"
+    author: "punk7890"
+    codes:
+      - "2020C954 4830305F"
+      - "2020C958 5F49534F"
+      - "2020C95C 55424544"
+      - "2020C960 43532E47"
+      - "2020C964 00000052"
+      - "00181FA4 00000021"
+      - "10181FA8 0000C954"

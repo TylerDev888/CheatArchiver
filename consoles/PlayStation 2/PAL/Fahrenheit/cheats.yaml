@@ -1,0 +1,67 @@
+# Fahrenheit cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53539
+
+game: "Fahrenheit"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53539"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01006B0 001006B3"
+
+  - name: "Freeze Timer"
+    author: "Codejunkies"
+    codes:
+      - "2064633C 00000000"
+
+  - name: "Increase Timer"
+    author: "Codejunkies"
+    codes:
+      - "20646340 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "E0030000 10894E80"
+      - "E0020000 10894E82"
+      - "60894E80 00000006"
+      - "00010001 00000386"
+
+  - name: "Max Bonus Points"
+    author: "Codejunkies"
+    codes:
+      - "E0030000 108949BC"
+      - "E0020000 108949BE"
+      - "608949BC 000005D0"
+      - "00010001 00000057"
+
+  - name: "Max Lives Before A Fight"
+    author: "Codejunkies"
+    codes:
+      - "E0030000 108949BC"
+      - "E0020000 108949BE"
+      - "608949BC 00000006"
+      - "00010001 00000062"
+
+  - name: "Most Chapters"
+    author: "Codejunkies"
+    codes:
+      - "2026E638 24020001"
+
+  - name: "No Stress"
+    author: "Codejunkies"
+    codes:
+      - "E0050000 108949BC"
+      - "E0040000 108949BE"
+      - "608949BC 00000064"
+      - "00010001 00000054"
+      - "608949BC 00000064"
+      - "00010001 0000005E"

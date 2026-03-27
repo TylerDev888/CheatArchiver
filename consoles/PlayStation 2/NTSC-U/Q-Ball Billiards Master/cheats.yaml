@@ -1,0 +1,68 @@
+# Q-Ball Billiards Master cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20070
+
+game: "Q-Ball Billiards Master"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20070"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F010F758 000001FD"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master>StalkerX"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001FF9CB"
+
+  - name: "Always P1's Turn"
+    author: "Code Master>StalkerX"
+    codes:
+      - "1075BB70 00000000"
+
+  - name: "Always P2's Turn"
+    author: "Code Master>StalkerX"
+    codes:
+      - "1075BB70 00000001"
+
+  - name: "P1 Score Modifier"
+    author: "Code Master>StalkerX"
+    codes:
+      - "10216F2E 000000??"
+
+  - name: "P1 Start With Score Modifier"
+    author: "Code Master>StalkerX"
+    codes:
+      - "D0216F2E 00000000"
+      - "10216F2E 000000??"
+
+  - name: "P2 Score Modifier"
+    author: "Code Master>StalkerX"
+    codes:
+      - "10216F58 000000??"
+
+  - name: "P2 Start With Score Modifier"
+    author: "Code Master>StalkerX"
+    codes:
+      - "D0216F58 00000000"
+      - "10216F58 000000??"
+
+  - name: "15 Points"
+    author: "Codejunkies"
+    notes: "[Player 1 Points Codes]"
+    codes:
+      - "10216F2E 0000000F"
+
+  - name: "No Points"
+    author: "Codejunkies"
+    notes: "[Player 1 Points Codes]"
+    codes:
+      - "10216F2E 00000000"

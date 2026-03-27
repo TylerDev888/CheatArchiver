@@ -1,0 +1,158 @@
+# DYNASTY WARRIORS 8_ Xtreme Legends cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  NPJB00510
+
+game: "DYNASTY WARRIORS 8_ Xtreme Legends"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "NPJB00510"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Decrypt App.bin (required)"
+    notes: "File: SAVEDATA\\APP.BIN"
+    codes:
+      - "set pointer:eof-1"
+      - "set range:0x0000,pointer"
+      - "DECRYPT dw8xl"
+
+  - name: "65535 Gems"
+    notes: "File: SAVEDATA\\APP.BIN"
+    codes:
+      - "10001D43 0000FFFF"
+
+  - name: "All Generals Max Exp"
+    notes: "File: SAVEDATA\\APP.BIN"
+    codes:
+      - "42007FE4 002C7905"
+      - "40520048 00000000"
+
+  - name: "All Generals Attack/defense/physical Strength Max"
+    notes: "File: SAVEDATA\\APP.BIN"
+    codes:
+      - "42007FD5 DC05DC05"
+      - "40520048 00000000"
+      - "41007FD9 0000E803"
+      - "40520048 00000000"
+
+  - name: "All Generals Aptitude 4-stars"
+    notes: "File: SAVEDATA\\APP.BIN"
+    codes:
+      - "42007FDB 64646464"
+      - "40520048 00000000"
+
+  - name: "All Weapon Atributes Lv.10"
+    notes: "File: SAVEDATA\\APP.BIN"
+    codes:
+      - "4200E721 0A0A0A0A"
+      - "47260018 00000000"
+      - "4100E725 00000A0A"
+      - "47260018 00000000"
+
+  - name: "Max Gold"
+    notes: "File: SAVEDATA\\APP.BIN"
+    codes:
+      - "20000105 7F969800"
+
+  - name: "Facility Materials/weapons Materials Max"
+    notes: "File: SAVEDATA\\APP.BIN"
+    codes:
+      - "2001F6D1 0F270F27"
+
+  - name: "All Bonds Max"
+    notes: "File: SAVEDATA\\APP.BIN"
+    codes:
+      - "41009BF1 00006363"
+      - "4346000C 00000000"
+
+  - name: "All Guards Battle Skill Lv.9"
+    notes: "File: SAVEDATA\\APP.BIN"
+    codes:
+      - "40009BE9 00000009"
+      - "4346000C 00000000"
+
+  - name: "All Support Beasts Movement Speed 400"
+    notes: "File: SAVEDATA\\APP.BIN"
+    codes:
+      - "4101DF11 00009001"
+      - "40460018 00000000"
+
+  - name: "All Weapon Attack Power 255"
+    notes: "File: SAVEDATA\\APP.BIN  (Zero4ph)"
+    codes:
+      - "4000E71A 000000FF"
+      - "47260018 00000000"
+
+  - name: "All Weapon Attributes Slots Attribute"
+    notes: "File: SAVEDATA\\APP.BIN"
+    codes:
+      - "4200E71B 03070C14"
+      - "47260018 00000000"
+      - "4100E71F 00001521"
+      - "47260018 00000000"
+
+  - name: "Beast Breakthrough Power Max"
+    notes: "File: SAVEDATA\\APP.BIN"
+    codes:
+      - "4101DF17 000003E8"
+      - "40460018 00000000"
+
+  - name: "Beast 3 Skills"
+    notes: "File: SAVEDATA\\APP.BIN"
+    codes:
+      - "4101DF1D 0A0B0C0D"
+      - "40460018 00000000"
+
+  - name: "Breakthrough Power Max"
+    notes: "File: SAVEDATA\\APP.BIN"
+    codes:
+      - "4101DF17 0000FFFF"
+      - "40460018 00000000"
+
+  - name: "All Abilities Skill Lv.20"
+    notes: "File: SAVEDATA\\APP.BIN"
+    codes:
+      - "4100C63D 00000114"
+      - "40120002 00000000"
+
+  - name: "Rampage 1st Place Score Mod (just Win For Trophy)"
+    notes: "[Challenge Mode Codes]  File: SAVEDATA\\APP.BIN"
+    codes:
+      - "1001FF2D 00000000"
+
+  - name: "Bridge Melee 1st Place Score Mod (just Win For Trophy)"
+    notes: "[Challenge Mode Codes]  File: SAVEDATA\\APP.BIN"
+    codes:
+      - "100200BD 00000000"
+
+  - name: "Speed Run 1st Place Time Mod (just Win For Trophy)"
+    notes: "[Challenge Mode Codes]  File: SAVEDATA\\APP.BIN"
+    codes:
+      - "1002024D 0000FFFF"
+
+  - name: "Arena 1st Place Score Mod (just Win For Trophy)"
+    notes: "[Challenge Mode Codes]  File: SAVEDATA\\APP.BIN"
+    codes:
+      - "100203DD 00000000"
+
+  - name: "Inferno Times 1st Place Score Mod (just Win For Trophy)"
+    notes: "[Challenge Mode Codes]  File: SAVEDATA\\APP.BIN"
+    codes:
+      - "1002056D 0000FFFF"
+
+  - name: "Update Add For App.bin (required)"
+    notes: "[Encrypt Data]  File: SAVEDATA\\APP.BIN"
+    codes:
+      - "set pointer:eof-1"
+      - "set [csum]:add(0x0000,pointer)"
+      - "set [csum]:right([csum],1)"
+      - "write next (1):[csum]"
+
+  - name: "Encrypt App.bin (required)"
+    notes: "[Encrypt Data]  File: SAVEDATA\\APP.BIN"
+    codes:
+      - "set pointer:eof-1"
+      - "set range:0x0000,pointer"
+      - "ENCRYPT dw8xl"

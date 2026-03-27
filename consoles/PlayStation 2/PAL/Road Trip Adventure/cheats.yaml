@@ -1,0 +1,23 @@
+# Road Trip Adventure cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51356
+
+game: "Road Trip Adventure"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51356"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0276BDC 00276BDF"
+
+  - name: "Buy 1 Item Or Win 1 Race For 32767 Cash"
+    author: "Codejunkies"
+    codes:
+      - "2023F7D8 24067FFF"

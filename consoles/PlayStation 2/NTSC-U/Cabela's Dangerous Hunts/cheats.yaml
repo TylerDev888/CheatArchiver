@@ -1,0 +1,318 @@
+# Cabela's Dangerous Hunts cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20736
+
+game: "Cabela's Dangerous Hunts"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20736"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F012BE04 0012BE07"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 0012BEBF"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "9012BE04 0C04AF3A"
+
+  - name: "AI Disable Hear"
+    author: "Code Master"
+    codes:
+      - "006BB278 00000001"
+
+  - name: "AI Disable Sight"
+    author: "Code Master"
+    codes:
+      - "006BB270 00000001"
+
+  - name: "AI Disable Smell"
+    author: "Code Master"
+    codes:
+      - "006BB280 00000001"
+
+  - name: "AI Disable-Everything"
+    author: "Code Master"
+    codes:
+      - "006BAFA0 00000001"
+
+  - name: "All Weapons & Items Cost Nothing"
+    author: "MadCatz"
+    codes:
+      - "20494630 44800800"
+      - "20494608 44800000"
+      - "204942CC 44801000"
+
+  - name: "Auto Claim Trophy Always Off"
+    author: "Code Master"
+    codes:
+      - "0069E580 00000000"
+
+  - name: "Auto Claim Trophy Always On"
+    author: "Code Master"
+    codes:
+      - "0069E580 00000001"
+
+  - name: "Automatic Reload Always Off"
+    author: "Code Master"
+    codes:
+      - "0060EAF0 00000000"
+
+  - name: "Automatic Reload Always On"
+    author: "Code Master"
+    codes:
+      - "0060EAF0 00000001"
+
+  - name: "Camera's Always Off"
+    author: "Code Master"
+    codes:
+      - "00611BC0 00000000"
+
+  - name: "Camera's Always On"
+    author: "Code Master"
+    codes:
+      - "00611BC0 0000001F"
+
+  - name: "Buying Items Doesn't Decrease Credits"
+    author: "Code Master"
+    notes: "[Career Hunt Codes]"
+    codes:
+      - "20493D2C 00000000"
+
+  - name: "Buying Items Increases Credits"
+    author: "Code Master"
+    notes: "[Career Hunt Codes]"
+    codes:
+      - "20493D28 00641821"
+
+  - name: "Don't Decrease Creation Points When Used"
+    author: "Code Master"
+    notes: "[Career Hunt Codes]"
+    codes:
+      - "2041C5EC 00000000"
+
+  - name: "Gain Creation Points When Used"
+    author: "Code Master"
+    notes: "[Career Hunt Codes]"
+    codes:
+      - "2041C5E8 00641821"
+
+  - name: "Infinite Creation Points"
+    author: "Code Master"
+    notes: "[Career Hunt Codes]"
+    codes:
+      - "2069D2AC 000003E7"
+
+  - name: "Infinite Credits"
+    author: "Code Master"
+    notes: "[Career Hunt Codes]"
+    codes:
+      - "1069D29C 0000FFFF"
+
+  - name: "Max Credits"
+    author: "Code Master"
+    notes: "[Career Hunt Codes]"
+    codes:
+      - "2069D29C 05F5E0FF"
+
+  - name: "Max Resilence"
+    author: "Code Master"
+    notes: "[Career Hunt Codes]"
+    codes:
+      - "2069D26C 42C80000"
+
+  - name: "Max Shooting"
+    author: "Code Master"
+    notes: "[Career Hunt Codes]"
+    codes:
+      - "2069D248 42C80000"
+
+  - name: "Max Stealth"
+    author: "Code Master"
+    notes: "[Career Hunt Codes]"
+    codes:
+      - "2069D260 42C80000"
+
+  - name: "Max Strength"
+    author: "Code Master"
+    notes: "[Career Hunt Codes]"
+    codes:
+      - "2069D254 42C80000"
+
+  - name: "Max Tracking"
+    author: "Code Master"
+    notes: "[Career Hunt Codes]"
+    codes:
+      - "2069D278 42C80000"
+
+  - name: "Unlock All Charters"
+    author: "Code Master"
+    notes: "[Career Hunt Codes]"
+    codes:
+      - "206B2054 00000000"
+
+  - name: "AI Disabled"
+    author: "Codejunkies"
+    notes: "[Debug Codes]"
+    codes:
+      - "206BAFA0 00000001"
+
+  - name: "Extra Ammo"
+    author: "Code Master"
+    codes:
+      - "2044FE5C 00651821"
+
+  - name: "All Options On"
+    author: "Codejunkies"
+    notes: "[Gameplay Options]"
+    codes:
+      - "20611BC0 0000001F"
+
+  - name: "Autoclaim Trophy"
+    author: "Codejunkies"
+    notes: "[Gameplay Options]"
+    codes:
+      - "2069E580 00000001"
+
+  - name: "Automatic Reload"
+    author: "Codejunkies"
+    notes: "[Gameplay Options]"
+    codes:
+      - "2060EAF0 00000001"
+
+  - name: "Trophy Beacon"
+    author: "Codejunkies"
+    notes: "[Gameplay Options]"
+    codes:
+      - "20611B88 00000001"
+
+  - name: "Infinite Ammo"
+    author: "Code Master"
+    codes:
+      - "2044FE60 00000000"
+
+  - name: "Infinite Ammo / No Reload"
+    author: "MadCatz"
+    codes:
+      - "2045008C 3C013634"
+
+  - name: "Infinite Condition"
+    author: "Code Master"
+    codes:
+      - "204396E4 00000000"
+
+  - name: "Infinite Health"
+    author: "MadCatz"
+    codes:
+      - "20439D94 3C033634"
+
+  - name: "Infinite Hydration"
+    author: "Code Master"
+    codes:
+      - "204392B0 00000000"
+
+  - name: "Infinite Nutrition"
+    author: "Code Master"
+    codes:
+      - "204394CC 00000000"
+
+  - name: "Infinite Stamina"
+    author: "MadCatz"
+    codes:
+      - "204393D8 3C0142C8"
+      - "204393DC 44810800"
+
+  - name: "Invert Axis Always Off"
+    author: "Code Master"
+    codes:
+      - "0069D681 00000000"
+
+  - name: "Invert Axis Always On"
+    author: "Code Master"
+    codes:
+      - "0069D681 00000001"
+
+  - name: "Max: Resiliance"
+    author: "MadCatz"
+    codes:
+      - "4069D26C 00020001"
+      - "42C80000 00000000"
+
+  - name: "Max: Shooting"
+    author: "MadCatz"
+    codes:
+      - "4069D248 00020001"
+      - "42C80000 00000000"
+
+  - name: "Max: Stealth"
+    author: "MadCatz"
+    codes:
+      - "4069D260 00020001"
+      - "42C80000 00000000"
+
+  - name: "Max: Strength"
+    author: "MadCatz"
+    codes:
+      - "4069D254 00020001"
+      - "42C80000 00000000"
+
+  - name: "Max: Tracking"
+    author: "MadCatz"
+    codes:
+      - "4069D278 00020001"
+      - "42C80000 00000000"
+
+  - name: "Never Reload"
+    author: "Code Master"
+    codes:
+      - "20450094 00000000"
+
+  - name: "Stop Timer"
+    author: "Code Master"
+    codes:
+      - "006B8CD8 00000000"
+
+  - name: "Trophy Beacon Always Off"
+    author: "Code Master"
+    codes:
+      - "00611B88 00000000"
+
+  - name: "Trophy Beacon Always On"
+    author: "Code Master"
+    codes:
+      - "00611B88 00000001"
+
+  - name: "Vibration Always Off"
+    author: "Code Master"
+    codes:
+      - "0069D680 00000000"
+
+  - name: "Vibration Always On"
+    author: "Code Master"
+    codes:
+      - "0069D680 00000001"
+
+  - name: "Buying Items Doesnt Decrease Credits"
+    author: "Code Master"
+    notes: "[Career Hunt Codes]"
+    codes:
+      - "20493D2C 00000000"
+
+  - name: "Dont Decrease Creation Points When Used"
+    author: "Code Master"
+    notes: "[Career Hunt Codes]"
+    codes:
+      - "2041C5EC 00000000"

@@ -1,0 +1,258 @@
+# Gun cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21139
+
+game: "Gun"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21139"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F043B54C 0043B54F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Master Codes]"
+    codes:
+      - "9043B528 0C116D01"
+
+  - name: "Infinite Ammo"
+    author: "MadCatz"
+    codes:
+      - "2031BE10 00000000"
+
+  - name: "Infinite Drink"
+    author: "MadCatz"
+    codes:
+      - "20315040 00000000"
+
+  - name: "Infinite Health (Horse)"
+    author: "MadCatz"
+    codes:
+      - "200C2000 C4400058"
+      - "200C2004 E4400054"
+      - "200C2008 03E00008"
+      - "200C200C 8E220048"
+      - "20316A80 0C030800"
+      - "20316A84 00000000"
+
+  - name: "Infinite Health (You)"
+    author: "MadCatz"
+    codes:
+      - "20315A9C E6420034"
+
+  - name: "Infinite Quickdraw"
+    author: "MadCatz"
+    codes:
+      - "20314544 00000000"
+
+  - name: "Infinite Whiskey"
+    author: "Codejunkies"
+    codes:
+      - "20816E24 00000006"
+
+  - name: "Extra Ammo"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MISC]"
+    codes:
+      - "2031A9EC 02308021"
+
+  - name: "Infinite Cash"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MISC]"
+    codes:
+      - "1069FBD8 0000FFFF"
+
+  - name: "Infinite Health"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MISC]"
+    codes:
+      - "20629634 43480000"
+
+  - name: "Infinite Horse Health"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MISC]"
+    codes:
+      - "202FBDF4 00000000"
+      - "202FBDFC 00000000"
+
+  - name: "Infinite Quickdraw Usage"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MISC]"
+    codes:
+      - "2031454C 00000000"
+
+  - name: "Max Cash"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MISC]"
+    codes:
+      - "2069FBD8 05F5E0FF"
+
+  - name: "Max Infinite Ammo"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MISC]"
+    codes:
+      - "2031A9EC 241003E7"
+
+  - name: "Never Reload"
+    author: "Code Master>Lajos Szalay"
+    notes: "[MISC]"
+    codes:
+      - "2031BE18 00000000"
+
+  - name: "Max Burn Kills"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Stats Codes]"
+    codes:
+      - "20670478 05F5E0FF"
+
+  - name: "Max Enemies Kills"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Stats Codes]"
+    codes:
+      - "20670438 05F5E0FF"
+
+  - name: "Max Explosive Kills"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Stats Codes]"
+    codes:
+      - "206704A8 05F5E0FF"
+
+  - name: "Max Gold"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Stats Codes]"
+    codes:
+      - "20670448 0000002C"
+
+  - name: "Max Headshots"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Stats Codes]"
+    codes:
+      - "20670508 05F5E0FF"
+
+  - name: "Max Horse Trample"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Stats Codes]"
+    codes:
+      - "20670468 05F5E0FF"
+
+  - name: "Max Horses Killed"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Stats Codes]"
+    codes:
+      - "20670498 05F5E0FF"
+
+  - name: "Max Horses Lost"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Stats Codes]"
+    codes:
+      - "20670488 05F5E0FF"
+
+  - name: "Max Innocents Killed"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Stats Codes]"
+    codes:
+      - "206704D8 05F5E0FF"
+
+  - name: "Max Melee Kills"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Stats Codes]"
+    codes:
+      - "206704B8 05F5E0FF"
+
+  - name: "Max Quickdraw Kills"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Stats Codes]"
+    codes:
+      - "20670458 05F5E0FF"
+
+  - name: "Max Weapons Shot"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Stats Codes]"
+    codes:
+      - "206704C8 05F5E0FF"
+
+  - name: "No Burn Kills"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Stats Codes]"
+    codes:
+      - "20670478 00000000"
+
+  - name: "No Enemies Kills"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Stats Codes]"
+    codes:
+      - "20670438 00000000"
+
+  - name: "No Explosive Kills"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Stats Codes]"
+    codes:
+      - "206704A8 00000000"
+
+  - name: "No Gold"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Stats Codes]"
+    codes:
+      - "20670448 00000000"
+
+  - name: "No Headshots"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Stats Codes]"
+    codes:
+      - "20670508 00000000"
+
+  - name: "No Horse Trample"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Stats Codes]"
+    codes:
+      - "20670468 00000000"
+
+  - name: "No Horses Killed"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Stats Codes]"
+    codes:
+      - "20670498 00000000"
+
+  - name: "No Horses Lost"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Stats Codes]"
+    codes:
+      - "20670488 00000000"
+
+  - name: "No Innocents Killed"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Stats Codes]"
+    codes:
+      - "206704D8 00000000"
+
+  - name: "No Melee Kills"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Stats Codes]"
+    codes:
+      - "206704B8 00000000"
+
+  - name: "No Quickdraw Kills"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Stats Codes]"
+    codes:
+      - "20670458 00000000"
+
+  - name: "No Weapons Shot"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Stats Codes]"
+    codes:
+      - "206704C8 00000000"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Masters]"
+    codes:
+      - "9043B528 0C116D01"

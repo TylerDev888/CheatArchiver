@@ -1,0 +1,210 @@
+# Driving Emotion Type-S cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20113
+
+game: "Driving Emotion Type-S"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20113"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "D0949389 9456E80C"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master>StalkerX"
+    notes: "[Master Codes]"
+    codes:
+      - "F01B0008 00271E4B"
+
+  - name: "[M] Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01C3E30 000001FD"
+
+  - name: "Always Low Count Hit Wall"
+    author: "Code Master>StalkerX"
+    codes:
+      - "202CA270 00000000"
+
+  - name: "Control Replay Car"
+    author: "InterAct"
+    codes:
+      - "10449A50 00000001"
+
+  - name: "Start On Final Lap"
+    author: "InterAct"
+    codes:
+      - "20E068C3 9456E7B1"
+
+  - name: "Start On Final Lap (All Other Divisions)"
+    author: "Code Master>StalkerX"
+    codes:
+      - "0040156E 00000009"
+
+  - name: "Start On Final Lap (GT Division)"
+    author: "Code Master>StalkerX"
+    codes:
+      - "003FEF8E 00000004"
+
+  - name: "Start On Final Lap - GT Class"
+    author: "InterAct"
+    codes:
+      - "20B342E3 9456E7B1"
+
+  - name: "Start On Last Lap: Everything But GT Mode"
+    author: "InterAct"
+    codes:
+      - "0040156E 00000004"
+
+  - name: "Unlock All Cars"
+    author: "Code Master>StalkerX"
+    codes:
+      - "202A3ED0 00010000"
+      - "202A3ED4 00030002"
+      - "202A3ED8 00050004"
+      - "202A3EDC 00070006"
+      - "202A3EE0 00090008"
+      - "202A3EE4 000B000A"
+      - "202A3EE8 000D000C"
+      - "202A3EEC 000F000E"
+      - "202A3EF0 00110010"
+      - "202A3EF4 00130012"
+      - "202A3EF8 00150014"
+      - "202A3EFC 00170016"
+      - "202A3F00 00190018"
+      - "202A3F04 001B001A"
+      - "202A3F08 001D001C"
+      - "202A3F0C 001F001E"
+      - "202A3F10 00210020"
+      - "202A3F14 00230022"
+      - "202A3F18 00250024"
+      - "202A3F1C 00270026"
+      - "202A3F20 00290028"
+      - "202A3F24 002B002A"
+      - "202A3F28 002D002C"
+      - "202A3F2C 002F002E"
+      - "202A3F30 0000FFFF"
+
+  - name: "Unlock All Courses"
+    author: "Code Master>StalkerX"
+    codes:
+      - "202A3EA8 00010000"
+      - "202A3EAC 00030002"
+      - "202A3EB0 00050004"
+      - "202A3EB4 00070006"
+      - "202A3EB8 00090008"
+      - "202A3EBC 000B000A"
+      - "202A3EC0 000D000C"
+      - "202A3EC4 0000FFFF"
+
+  - name: "All Levels"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock All Divisions Codes]"
+    codes:
+      - "402C04D8 00030001"
+      - "04040404 00000000"
+      - "102C04E4 00000404"
+
+  - name: "Autocross 1"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock All Divisions Codes]"
+    codes:
+      - "002C04E2 00000004"
+
+  - name: "Autocross 2"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock All Divisions Codes]"
+    codes:
+      - "002C04E3 00000004"
+
+  - name: "Autocross 3"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock All Divisions Codes]"
+    codes:
+      - "002C04E4 00000004"
+
+  - name: "Autocross 4"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock All Divisions Codes]"
+    codes:
+      - "002C04E5 00000004"
+
+  - name: "Oval"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock All Divisions Codes]"
+    codes:
+      - "002C04E1 00000004"
+
+  - name: "Provence (Beginner)"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock All Divisions Codes]"
+    codes:
+      - "002C04D9 00000004"
+
+  - name: "Provence (Expert)"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock All Divisions Codes]"
+    codes:
+      - "002C04DB 00000004"
+
+  - name: "Suzuka Circuit (East Course)"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock All Divisions Codes]"
+    codes:
+      - "002C04DD 00000004"
+
+  - name: "Suzuka Circuit (International Racing Course)"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock All Divisions Codes]"
+    codes:
+      - "002C04DE 00000004"
+
+  - name: "Tsukuba Circuit"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock All Divisions Codes]"
+    codes:
+      - "002C04DC 00000004"
+
+  - name: "Urban Highway (Beginner)"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock All Divisions Codes]"
+    codes:
+      - "002C04D8 00000004"
+
+  - name: "Urban Highway (Expert)"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock All Divisions Codes]"
+    codes:
+      - "002C04DA 00000004"
+
+  - name: "West Coast"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock All Divisions Codes]"
+    codes:
+      - "002C04DF 00000004"
+
+  - name: "Zero-4"
+    author: "Code Master>StalkerX"
+    notes: "[Unlock All Divisions Codes]"
+    codes:
+      - "002C04E0 00000004"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master>StalkerX"
+    notes: "[Masters]"
+    codes:
+      - "F01B0008 00271E4B"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master>StalkerX"
+    notes: "[Masters]"
+    codes:
+      - "90271E48 0C09F7D9"

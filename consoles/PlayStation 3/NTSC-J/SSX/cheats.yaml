@@ -1,0 +1,27 @@
+# SSX cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLAS50445
+
+game: "SSX"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLAS50445"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Credits"
+    notes: "File: BLAS5044500*\\SYS-DATA"
+    codes:
+      - "80010008 20737949"
+      - "76000000 20000000"
+      - "28000009 BB9AC9FF"
+
+  - name: "Update Crc32big For Sys-data (required)"
+    notes: "File: BLAS5044500*\\SYS-DATA  (set range:0x000020,0x05781B)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000020,pointer"
+      - "set [hash]:CRC32Big"
+      - "write at 0x00001C:[hash]"

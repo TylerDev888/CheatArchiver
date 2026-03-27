@@ -1,0 +1,24 @@
+# Ghostmaster cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52671
+
+game: "Ghostmaster"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52671"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0243400 00243403"
+
+  - name: "Infinite Plasm Bar"
+    author: "Codejunkies"
+    codes:
+      - "202B5A80 0000000F"
+      - "202B5A84 0000000F"

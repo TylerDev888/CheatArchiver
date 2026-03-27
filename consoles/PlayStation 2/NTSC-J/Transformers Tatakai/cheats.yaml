@@ -1,0 +1,76 @@
+# Transformers Tatakai cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65407
+
+game: "Transformers Tatakai"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65407"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "9012DB50 0C04B67C"
+
+  - name: "English Mode (Text And Voice)"
+    author: "lee4"
+    codes:
+      - "1028510A 00000000"
+
+  - name: "Inf Energon Cubes (Inf Money)"
+    codes:
+      - "10285080 0000270F"
+
+  - name: "Joker"
+    author: "lee4"
+    codes:
+      - "D0283482 0000????"
+
+  - name: "P1 Inf EP"
+    codes:
+      - "201C0D2C 96640010"
+      - "201C0D3C A6640012"
+      - "201C0D54 00E4001A"
+
+  - name: "P1 Inf HP & Stop Timer"
+    codes:
+      - "201C0C8C A664000E"
+      - "201BF3E8 10000054"
+
+  - name: "P1 Inf SC"
+    codes:
+      - "201C0C78 86610014"
+      - "201C0C7C A6610016"
+
+  - name: "Partners EP Refills In Formation Menu (Press Select)"
+    codes:
+      - "201F8740 960700F0"
+      - "201F874C A60700F2"
+      - "201F8764 0047001A"
+
+  - name: "Partners HP Refills In Formation Menu (Press Select)"
+    codes:
+      - "201F8700 960700EC"
+      - "201F870C A60700EE"
+      - "201F8724 0047001A"
+
+  - name: "Partners SC Refills In Formation Menu (Press Select)"
+    codes:
+      - "201F8780 960700F4"
+      - "201F878C A60700F6"
+      - "201F87A4 0047001A"
+
+  - name: "Skip FMV"
+    author: "lee4"
+    codes:
+      - "20129778 24020001"
+
+  - name: "Stats Level 10"
+    codes:
+      - "201BB5D8 24030009"
+      - "201BB5DC A2030005"

@@ -1,0 +1,205 @@
+# Tom Clancy's Rainbow Six 3
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-20883  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### (M) Must Be On
+**Author:** Codejunkies  
+**Notes:** [Master Codes]
+
+```
+E0180008 0140079C
+E0170040 0140079E
+21422B80 3C0401F3
+21422B84 24846080
+21422B88 3C05000F
+21422B8C 24A5FFF0
+21422B90 0850544A
+21422B94 24064000
+21422BA0 3C0501F3
+21422BA4 24A56080
+21422BA8 3C04000F
+21422BAC 2484FFF0
+21422BB0 0850544A
+21422BB4 24064000
+21400284 0C508AE0
+2140028C 24020000
+21400358 0C508AE8
+2140035C 00000000
+21400360 085000DE
+2140B2F0 3C03200F
+2140B2F8 8C65FFF8
+2140B2FC 24040079
+2140B300 24030074
+2140B304 0000000C
+F140079C 0140079F
+9013585C 0C04ADCC
+201C45E0 24020001
+```
+
+---
+
+### Enable Code (Must Be On)
+**Author:** Code Master  
+**Notes:** [Master Codes]
+
+```
+9013585C 0C04ADCC
+```
+
+---
+
+### [M] Must Be On
+**Author:** MadCatz  
+**Notes:** [Master Codes]
+
+```
+904916EC 0C04D5CE
+```
+
+---
+
+### Infinite Ammo (Main Weapon)
+**Author:** Codejunkies  
+**Notes:** [MAX Versions Below 3.14]
+
+```
+203F0AE8 00000000
+```
+
+---
+
+### Infinite Grenades
+**Author:** Codejunkies  
+**Notes:** [MAX Versions Below 3.14]
+
+```
+2015D488 24830000
+```
+
+---
+
+### Infinite Health
+**Author:** Codejunkies  
+**Notes:** [MAX Versions Below 3.14]
+
+```
+20100264 14170003
+20100268 24830000
+2010026C 8FA3004C
+20100270 00831823
+20100274 080570A5
+2015C290 08040099
+```
+
+---
+
+### Infinite Reloads (Main Weapon)
+**Author:** Codejunkies  
+**Notes:** [MAX Versions Below 3.14]
+
+```
+203F0B7C 00000000
+```
+
+---
+
+### All Campaigns Completed
+**Author:** MadCatz
+
+```
+00E911B2 000000FF
+```
+
+---
+
+### All Missions Unlocked
+**Author:** MadCatz
+
+```
+00E911B3 000000FF
+```
+
+---
+
+### Extra Clips (Mp5a4-9MM Only)
+**Author:** Code Master
+
+```
+D03F0B68 00009900
+103F0B7C 00000001
+```
+
+---
+
+### Infinite Clips (Mp5a4-9MM Only)
+**Author:** Code Master
+
+```
+D03F0B68 00009900
+203F0B80 00000000
+```
+
+---
+
+### Infinite Health (Partners)
+**Author:** Code Master
+
+```
+E00501B0 003E9B10
+200C0230 02912021
+200C0234 24010034
+200C0238 03E00008
+200C023C AC610630
+203E9B14 0C03008C
+```
+
+---
+
+### Max Infinite Clips (Equipped Weapon)
+**Author:** Code Master
+
+```
+E00200F8 003E912C
+203E9130 24010063
+203E9138 AC41037C
+```
+
+---
+
+### Never Reload (Equipped Weapon)
+**Author:** Code Master
+
+```
+E00200F8 003E89D8
+203E89E0 24040063
+203E89E8 A0440372
+```
+
+---
+
+### Never Reload (Mp5a4-9MM Only)
+**Author:** Code Master
+
+```
+D03F0ADC 0000C318
+203F0AEC 00000000
+```
+
+---
+
+### Enable Code (Must Be On) [Read Note]
+**Author:** Code Master  
+**Notes:** [Masters]
+
+```
+9013585C 0C04ADCC
+```
+
+---

@@ -1,0 +1,46 @@
+# 101-in-1 Sports Party Megamix cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  SOIEEB
+
+game: "101-in-1 Sports Party Megamix"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "SOIEEB"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Unlock All Games"
+    author: "Skiller"
+    codes:
+      - "C23244C8 00000002"
+      - "38000001 901E0024"
+      - "801E0024 00000000"
+
+  - name: "Player 1"
+    author: "Skiller"
+    notes: "[Max Points On Pickup: {Seems To Work On All Games}]"
+    codes:
+      - "C230B3D0 00000003"
+      - "2D040000 408A000C"
+      - "3C0005F5 6000E0FF"
+      - "90030018 00000000"
+
+  - name: "Player 2"
+    author: "Skiller"
+    notes: "[Max Points On Pickup: {Seems To Work On All Games}]"
+    codes:
+      - "C230B3D0 00000003"
+      - "2D040001 408A000C"
+      - "3C0005F5 6000E0FF"
+      - "90030018 00000000"
+
+  - name: "Player 3"
+    author: "Skiller"
+    notes: "[Max Points On Pickup: {Seems To Work On All Games}]"
+    codes:
+      - "C230B3D0 00000003"
+      - "2D040002 408A000C"
+      - "3C0005F5 6000E0FF"
+      - "90030018 00000000"

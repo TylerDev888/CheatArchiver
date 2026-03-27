@@ -1,0 +1,45 @@
+# Tsuki Wa Higashi Ni Ha Wa Nishi Na - Operation Sanctuary cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65717
+
+game: "Tsuki Wa Higashi Ni Ha Wa Nishi Na - Operation Sanctuary"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65717"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9010F578 0C043D06"
+
+  - name: "Unlock All Bustup"
+    author: "punk7890"
+    codes:
+      - "41E34F10 00080001"
+      - "00000001 00000000"
+
+  - name: "Unlock All CG"
+    author: "punk7890"
+    codes:
+      - "41E34D70 000C0001"
+      - "FFFFFFFF 00000000"
+
+  - name: "Unlock All Menu Options"
+    author: "punk7890"
+    codes:
+      - "21E34EF8 00000001"
+      - "21E34EFC 00000001"
+      - "21E34F00 00000001"
+      - "21E34F04 00000001"
+      - "21E34F08 00000001"
+
+  - name: "Unlock All Omake"
+    author: "punk7890"
+    codes:
+      - "41E34F30 000C0001"
+      - "00000001 00000000"

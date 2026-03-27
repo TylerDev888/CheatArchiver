@@ -1,0 +1,43 @@
+# Return To Castle Wolfenstein_ OR cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Return To Castle Wolfenstein_ OR"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001EDC87"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C0000 20010064"
+      - "200C0004 AE2102BC"
+      - "200C0008 03E00008"
+      - "200C000C 8CA30014"
+      - "201B0E98 0C030000"
+
+  - name: "Armour"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "200C0010 0043880A"
+      - "200C0014 20120064"
+      - "200C0018 03E00008"
+      - "200C001C ACD200E8"
+      - "2011885C 0C030004"
+
+  - name: "Ammunition"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "201BC4D8 340203E7"

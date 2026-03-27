@@ -1,0 +1,33 @@
+# Pacific Air Warriors 2 - Dogfight cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52571
+
+game: "Pacific Air Warriors 2 - Dogfight"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52571"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02EA944 002EA947"
+
+  - name: "Engine Does Not Overheat"
+    author: "Codejunkies"
+    codes:
+      - "20255DB0 00000000"
+
+  - name: "Infinite Bombs"
+    author: "Codejunkies"
+    codes:
+      - "20265870 25C60000"
+
+  - name: "Infinite Missiles"
+    author: "Codejunkies"
+    codes:
+      - "20265F78 25C60000"

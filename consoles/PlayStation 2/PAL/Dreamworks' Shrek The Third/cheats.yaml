@@ -1,0 +1,74 @@
+# Dreamworks' Shrek The Third cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54774
+
+game: "Dreamworks' Shrek The Third"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54774"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Always Full Power"
+    author: "luc-ita"
+    codes:
+      - "2022EC9C 3C1B42C8"
+      - "2022ECD4 AE1B0550"
+
+  - name: "Each Coin Worth 100 Coins"
+    author: "luc-ita"
+    codes:
+      - "20256B00 24060064"
+
+  - name: "Enemies Don't Attack"
+    author: "luc-ita"
+    codes:
+      - "D06A6CC2 0000B7FF"
+      - "20106ED8 00000000"
+      - "D06A6CC2 0000BFFE"
+      - "20106ED8 0C05B138"
+
+  - name: "Infinite Life"
+    author: "luc-ita"
+    codes:
+      - "2015F5E4 AE23001C"
+
+  - name: "Jump In Midair"
+    author: "luc-ita"
+    codes:
+      - "20175588 00000000"
+      - "20175598 00000000"
+
+  - name: "Low Gravity"
+    author: "luc-ita"
+    codes:
+      - "202DA1E8 3C01C0A0"
+
+  - name: "Moonjump"
+    author: "luc-ita"
+    codes:
+      - "202DA1E0 14400024"
+      - "D06A6CC2 0000BFFF"
+      - "202DA1E0 10000024"
+
+  - name: "No Intro Logos"
+    author: "luc-ita"
+    codes:
+      - "2062D5BC 00000000"
+      - "2062D5D4 00000000"
+      - "2062D604 00000000"
+      - "2062D58C 00000000"
+      - "2062D5A4 00000000"
+      - "2062D5EC 00000000"
+
+  - name: "No Legal Screen"
+    author: "luc-ita"
+    codes:
+      - "2063C012 00000000"
+
+  - name: "Very Low Gravity"
+    author: "luc-ita"
+    codes:
+      - "202DA1E8 3C01C020"

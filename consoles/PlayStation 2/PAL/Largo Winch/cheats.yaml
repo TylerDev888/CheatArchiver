@@ -1,0 +1,30 @@
+# Largo Winch cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Largo Winch"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0027BA97"
+
+  - name: "Mini-Games"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "013F6614 2809680E"
+
+  - name: "All Videos, Hackings & Combats"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "413F6618 00030001"
+      - "00000007 00000000"

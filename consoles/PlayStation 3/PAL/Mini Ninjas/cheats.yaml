@@ -1,0 +1,135 @@
+# Mini Ninjas cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00512
+
+game: "Mini Ninjas"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00512"
+cheat_type: "Save Editor"
+source: "ngu-tripate for ps3cheating.net"
+
+cheats:
+  - name: "Red:info:ngu-tripate For Ps3cheating.net"
+    notes: "File: SYS-DATA"
+
+  - name: "Red:info:all Code Are Found And Tested By Me Ofw 4.46/cfw 4.30.2"
+    notes: "File: SYS-DATA"
+
+  - name: "Level 15 Max + Unlocked All Chapters(working)"
+    notes: "[Chapters And Levels]  File: SYS-DATA"
+    codes:
+      - "write at 0x000002E3:1746"
+
+  - name: "Max Money 65535 (working)"
+    notes: "[Money]  File: SYS-DATA"
+    codes:
+      - "write at 0x000002EA:FFFF"
+
+  - name: "Max Money 16,777,215 (working)"
+    notes: "[Money]  File: SYS-DATA"
+    codes:
+      - "write at 0x000002E9:FFFFFF"
+
+  - name: "Shuriken 255 (note After Use Shuriken You Have 99) (working)"
+    notes: "[Item]  File: SYS-DATA"
+    codes:
+      - "write at 0x0000033B:FF"
+
+  - name: "Red: Info: You Need Have 1 Item To Use Or Freez"
+    notes: "[Item\\warning]  File: SYS-DATA"
+
+  - name: "Item X70 After Have 1 Item To Unlock Box(working)"
+    notes: "[Item\\warning]  File: SYS-DATA"
+    codes:
+      - "write at 0x00000313:46"
+      - "write at 0x00000317:46"
+      - "write at 0x0000031B:46"
+      - "write at 0x0000031F:46"
+      - "write at 0x00000323:46"
+      - "write at 0x0000032B:46"
+      - "write at 0x0000032F:46"
+      - "write at 0x00000333:46"
+      - "write at 0x00000337:46"
+      - "write at 0x0000033B:46"
+      - "write at 0x0000039B:46"
+      - "write at 0x00000413:46"
+      - "write at 0x00000417:46"
+      - "write at 0x0000041B:46"
+      - "write at 0x00000423:46"
+      - "write at 0x00000427:46"
+      - "write at 0x00000433:46"
+      - "write at 0x00000437:46"
+      - "write at 0x0000043B:46"
+      - "write at 0x0000043F:46"
+      - "write at 0x00000493:46"
+      - "write at 0x0000035F:46"
+      - "write at 0x0000036F:46"
+      - "write at 0x00000347:46"
+      - "write at 0x00000363:46"
+      - "write at 0x000003A3:46"
+      - "write at 0x000003A7:46"
+      - "write at 0x0000042B:46"
+      - "write at 0x0000042F:46"
+      - "write at 0x0000041F:46"
+
+  - name: "Fleur De Bardane/burdock Flower(working)"
+    notes: "[Flower]  File: SYS-DATA"
+    codes:
+      - "write at 0x000003E3:63"
+
+  - name: "Anemone/anemone(working)"
+    notes: "[Flower]  File: SYS-DATA"
+    codes:
+      - "write at 0x000003E7:63"
+
+  - name: "Petale Bleu/blue Petal(working)"
+    notes: "[Flower]  File: SYS-DATA"
+    codes:
+      - "write at 0x000003EB:63"
+
+  - name: "Lys Tachete/?????(working)"
+    notes: "[Flower]  File: SYS-DATA"
+    codes:
+      - "write at 0x000003EF:63"
+
+  - name: "Pleurote En Huitre/?????(working)"
+    notes: "[Flower]  File: SYS-DATA"
+    codes:
+      - "write at 0x000003F3:63"
+
+  - name: "Morille De Feu/?????(working)"
+    notes: "[Flower]  File: SYS-DATA"
+    codes:
+      - "write at 0x000003F7:63"
+
+  - name: "Pique D'ashida/spear Of Ashida(working)"
+    notes: "[Flower]  File: SYS-DATA"
+    codes:
+      - "write at 0x000003FB:63"
+
+  - name: "Coiffe De Pierre/stone Cap(working)"
+    notes: "[Flower]  File: SYS-DATA"
+    codes:
+      - "write at 0x000003FF:63"
+
+  - name: "Racine De Ginseng/ginseng Root(working)"
+    notes: "[Flower]  File: SYS-DATA"
+    codes:
+      - "write at 0x00000403:63"
+
+  - name: "Preles/?????(working)"
+    notes: "[Flower]  File: SYS-DATA"
+    codes:
+      - "write at 0x00000407:63"
+
+  - name: "Persil Sauvage/wild Parsley(working)"
+    notes: "[Flower]  File: SYS-DATA"
+    codes:
+      - "write at 0x0000040B:63"
+
+  - name: "Lotus Sacre/sacred Lotus(working)"
+    notes: "[Flower]  File: SYS-DATA"
+    codes:
+      - "write at 0x0000040F:63"

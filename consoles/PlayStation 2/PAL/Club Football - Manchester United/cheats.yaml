@@ -1,0 +1,71 @@
+# Club Football - Manchester United cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51090
+
+game: "Club Football - Manchester United"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51090"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F036EDC4 000001FD"
+
+  - name: "Infinite Creation Stat Points"
+    author: "Codejunkies"
+    codes:
+      - "1047CEC6 000003E7"
+
+  - name: "Make A Massive Player"
+    author: "Codejunkies"
+    codes:
+      - "20A7E358 40800000"
+
+  - name: "Crazy Ball"
+    author: "Codejunkies"
+    notes: "[Only Use One 'Crazy Ball, Dead Ball and Crazy Scoring' At A Time]"
+    codes:
+      - "105F3D52 0000405D"
+
+  - name: "Crazy Scoring!"
+    author: "Codejunkies"
+    notes: "[Only Use One 'Crazy Ball, Dead Ball and Crazy Scoring' At A Time]"
+    codes:
+      - "105F3D52 000064FF"
+
+  - name: "Dead Ball"
+    author: "Codejunkies"
+    notes: "[Only Use One 'Crazy Ball, Dead Ball and Crazy Scoring' At A Time]"
+    codes:
+      - "105F3D52 0000FFFF"
+
+  - name: "Infinite Creation Points"
+    author: "Codejunkies"
+    notes: "[Only Use One 'Crazy Ball, Dead Ball and Crazy Scoring' At A Time]"
+    codes:
+      - "0062AFED 00000032"
+
+  - name: "Position 1 Scores 99 Goals (Press L3)"
+    author: "Codejunkies"
+    codes:
+      - "10524CC2 0000FFFD"
+      - "104EB0AC 00000063"
+
+  - name: "Position 2 Scores 99 Goals (Press R3)"
+    author: "Codejunkies"
+    codes:
+      - "10524CC2 0000FFFB"
+      - "104EC3B8 00000063"
+
+  - name: "Reset Scores To Zero (Press R2)"
+    author: "Codejunkies"
+    codes:
+      - "10524CC2 0000FDFF"
+      - "104EB0AC 00000000"
+      - "104EC3B8 00000000"

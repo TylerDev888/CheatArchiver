@@ -1,0 +1,597 @@
+# MVP Baseball 2005
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-21135  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### (M)
+**Author:** Codejunkies  
+**Notes:** [Master Codes]
+
+```
+F01001E8 001001EB
+```
+
+---
+
+### Enable Code (Must Be On)
+**Author:** Code Master  
+**Notes:** [Master Codes]
+
+```
+905C0DDC 0C1732DB
+```
+
+---
+
+### [M] Must Be On
+**Author:** MadCatz  
+**Notes:** [Master Codes]
+
+```
+905C0DF0 0C177EFE
+```
+
+---
+
+### AR Max Below 3.14 Fix
+**Author:** Codejunkies
+
+```
+205DF450 3C03200F
+205DF458 8C65FFF8
+205DF45C 24040079
+205DF460 24030074
+205DF464 0000000C
+```
+
+---
+
+### Bypass MVP Points Check
+**Author:** Codejunkies
+
+```
+20742DCC 10000015
+20742CDC 10000037
+2075A89C 1000000F
+```
+
+---
+
+### Display Debug Infos
+**Author:** Codejunkies
+
+```
+2046B0B8 24030001
+2046B0FC AC43825C
+```
+
+---
+
+### Infinte Bank
+**Author:** MadCatz  
+**Notes:** [Owner's Mode Codes]
+
+```
+2104E868 4C3EBC20
+```
+
+---
+
+### Max Bank
+**Author:** MadCatz  
+**Notes:** [Owner's Mode Codes]
+
+```
+2104E86C 4C3EBC20
+```
+
+---
+
+### Max MVP Points
+**Author:** MadCatz  
+**Notes:** [Profile 1 Codes]
+
+```
+20FFC520 FFFFFFFF
+```
+
+---
+
+### Unlock All Rewards
+**Author:** MadCatz  
+**Notes:** [Profile 1 Codes]
+
+```
+40FFC554 00070001
+FFFFFFFF 00000000
+```
+
+---
+
+### Strikeout = Hold Down | Walk = Hold Right
+**Author:** nolberto82
+
+```
+2017F5BC 24420001
+203032A8 8E220120
+202E2228 8FA20000
+2017F548 24420001
+202E2220 14400004
+E00300FF 00D8B894
+2017F5BC 24020003
+203032A8 34020001
+202E2228 34020001
+E00400FF 00D8B891
+2017F548 24420004
+203032A8 34020001
+202E2228 34020000
+202E2220 00000000
+```
+
+---
+
+### Always Hit Homerun : Hold R1
+**Author:** nolberto82
+
+```
+200A0000 3C1300D9
+200A0004 9273B89A
+200A0008 12600002
+200A000C 3C134600
+200A0010 AE330194
+200A0014 3C13007E
+200A0018 080C0E5D
+2030396C 08028000
+```
+
+---
+
+### 1 Ball And You Walk
+**Author:** Code Master  
+**Notes:** [Misc!]
+
+```
+200C0260 8C630024
+200C0264 90411CCB
+200C0268 50200001
+200C026C 24010003
+200C0270 03E00008
+200C0274 A0411CCB
+20235248 0C030098
+```
+
+---
+
+### 1 Out And You Are Out
+**Author:** Code Master  
+**Notes:** [Misc!]
+
+```
+200C0220 8E2406FC
+200C0224 90411CC9
+200C0228 50200001
+200C022C 24010002
+200C0230 03E00008
+200C0234 A0411CC9
+20235238 0C030088
+```
+
+---
+
+### 1 Strike And You Are Out
+**Author:** Code Master  
+**Notes:** [Misc!]
+
+```
+200C0240 8C8303BC
+200C0244 90411CCA
+200C0248 50200001
+200C024C 24010002
+200C0250 03E00008
+200C0254 A0411CCA
+20235240 0C030090
+```
+
+---
+
+### 2 Balls And You Walk
+**Author:** Code Master  
+**Notes:** [Misc!]
+
+```
+200C0260 8C630024
+200C0264 90411CCB
+200C0268 50200001
+200C026C 24010002
+200C0270 03E00008
+200C0274 A0411CCB
+20235248 0C030098
+```
+
+---
+
+### 2 Out And You Are Out
+**Author:** Code Master  
+**Notes:** [Misc!]
+
+```
+200C0220 8E2406FC
+200C0224 90411CC9
+200C0228 50200001
+200C022C 24010001
+200C0230 03E00008
+200C0234 A0411CC9
+20235238 0C030088
+```
+
+---
+
+### 2 Strikes And You Are Out
+**Author:** Code Master  
+**Notes:** [Misc!]
+
+```
+200C0240 8C8303BC
+200C0244 90411CCA
+200C0248 50200001
+200C024C 24010001
+200C0250 03E00008
+200C0254 A0411CCA
+20235240 0C030090
+```
+
+---
+
+### 3 Balls And You Walk
+**Author:** Code Master  
+**Notes:** [Misc!]
+
+```
+200C0260 8C630024
+200C0264 90411CCB
+200C0268 50200001
+200C026C 24010001
+200C0270 03E00008
+200C0274 A0411CCB
+20235248 0C030098
+```
+
+---
+
+### All Classic Stadiums Cost $0
+**Author:** Code Master  
+**Notes:** [Misc!]
+
+```
+2075A898 03E00008
+2075A89C 24020000
+```
+
+---
+
+### All Legendary Players Cost $0
+**Author:** Code Master  
+**Notes:** [Misc!]
+
+```
+20742DC8 03E00008
+20742DCC 24020000
+```
+
+---
+
+### All Retro Jerseys Cost $0
+**Author:** Code Master  
+**Notes:** [Misc!]
+
+```
+20742CD8 03E00008
+20742CDC 24020000
+```
+
+---
+
+### Away Team Scores 5 Runs Every Inning
+**Author:** Code Master  
+**Notes:** [Misc!]
+
+```
+200C0280 24010005
+200C0284 A04101B4
+200C0288 03E00008
+200C028C 904201B4
+2023532C 0C0300A0
+```
+
+---
+
+### Display Debug Info
+**Author:** Code Master  
+**Notes:** [Misc!]
+
+```
+208C825C 00000001
+```
+
+---
+
+### Home Team Scores 5 Runs Every Inning
+**Author:** Code Master  
+**Notes:** [Misc!]
+
+```
+200C02A0 24010005
+200C02A4 A04101B4
+200C02A8 03E00008
+200C02AC 904201B4
+202353B4 0C0300A8
+```
+
+---
+
+### Infinite Balls
+**Author:** Code Master  
+**Notes:** [Misc!]
+
+```
+200C0260 8C630024
+200C0264 03E00008
+200C0268 A0401CCB
+20235248 0C030098
+```
+
+---
+
+### Infinite Outs
+**Author:** Code Master  
+**Notes:** [Misc!]
+
+```
+200C0220 8E2406FC
+200C0224 03E00008
+200C0228 A0401CC9
+20235238 0C030088
+```
+
+---
+
+### Infinite Strikes
+**Author:** Code Master  
+**Notes:** [Misc!]
+
+```
+200C0240 8C8303BC
+200C0244 03E00008
+200C0248 A0401CCA
+20235240 0C030090
+```
+
+---
+
+### P1 Pres L1+Left For 0 Balls
+**Author:** Code Master  
+**Notes:** [Misc!]
+
+```
+200C0260 24010000
+200C0264 A0411CCB
+200C0268 03E00008
+200C026C 8C630024
+D0D8B982 0000FB7F
+20235248 0C030098
+D0D8B982 0000FFFF
+20235248 8C630024
+```
+
+---
+
+### P1 Pres L1+Right For 3 Balls
+**Author:** Code Master  
+**Notes:** [Misc!]
+
+```
+200C0260 24010003
+200C0264 A0411CCB
+200C0268 03E00008
+200C026C 8C630024
+D0D8B982 0000FB7F
+20235248 0C030098
+D0D8B982 0000FFFF
+20235248 8C630024
+```
+
+---
+
+### P1 Press L1+Down For 2 Strikes
+**Author:** Code Master  
+**Notes:** [Misc!]
+
+```
+200C0240 24010002
+200C0244 A0411CCA
+200C0248 03E00008
+200C024C 8C8303BC
+D0D8B982 0000FBBF
+20235240 0C030090
+D0D8B982 0000FFFF
+20235240 8C8303BC
+```
+
+---
+
+### P1 Press L1+Up For 0 Strikes
+**Author:** Code Master  
+**Notes:** [Misc!]
+
+```
+200C0240 24010000
+200C0244 A0411CCA
+200C0248 03E00008
+200C024C 8C8303BC
+D0D8B982 0000FBEF
+20235240 0C030090
+D0D8B982 0000FFFF
+20235240 8C8303BC
+```
+
+---
+
+### P1 Press L2+Down For 2 Outs
+**Author:** Code Master  
+**Notes:** [Misc!]
+
+```
+200C0220 24010002
+200C0224 A0411CC9
+200C0228 03E00008
+200C022C 8E2406FC
+D0D8B982 0000FEBF
+20235238 0C030088
+D0D8B982 0000FFFF
+20235238 8E2406FC
+```
+
+---
+
+### P1 Press L2+Up For 0 Outs
+**Author:** Code Master  
+**Notes:** [Misc!]
+
+```
+200C0220 24010000
+200C0224 A0411CC9
+200C0228 03E00008
+200C022C 8E2406FC
+D0D8B982 0000FEEF
+20235238 0C030088
+D0D8B982 0000FFFF
+20235238 8E2406FC
+```
+
+---
+
+### View MVP Rewards To Unlock All
+**Author:** Code Master  
+**Notes:** [Misc!]
+
+```
+200C02D0 2401FFFF
+200C02D4 ACC10054
+200C02D8 ACC10058
+200C02DC ACC1005C
+200C02E0 ACC10060
+200C02E4 ACC10064
+200C02E8 ACC10068
+200C02EC ACC1006C
+200C02F0 081D08EB
+200C02F4 3C02008B
+207423A4 080300B4
+```
+
+---
+
+### Enable Code (Must Be On) [Read Note]
+**Author:** Code Master  
+**Notes:** [Masters]
+
+```
+905C0DDC 0C1732DB
+```
+
+---
+
+### Away Team Scores 1 Run Every Inning
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+200C0280 24010001
+200C0284 A04101B4
+200C0288 03E00008
+200C028C 904201B4
+2023532C 0C0300A0
+```
+
+---
+
+### Away Team Scores 0 Runs Every Inning
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+200C0280 24010000
+200C0284 A04101B4
+200C0288 03E00008
+200C028C 904201B4
+2023532C 0C0300A0
+```
+
+---
+
+### Home Team Scores 1 Run Every Inning
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+200C02A0 24010001
+200C02A4 A04101B4
+200C02A8 03E00008
+200C02AC 904201B4
+202353B4 0C0300A8
+```
+
+---
+
+### Home Team Scores 0 Runs Every Inning
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+200C02A0 24010000
+200C02A4 A04101B4
+200C02A8 03E00008
+200C02AC 904201B4
+202353B4 0C0300A8
+```
+
+---
+
+### P1 Press L1+Left For 0 Balls
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+200C0260 24010000
+200C0264 A0411CCB
+200C0268 03E00008
+200C026C 8C630024
+D0D8B982 0000FB7F
+20235248 0C030098
+D0D8B982 0000FFFF
+20235248 8C630024
+```
+
+---
+
+### P1 Press L1+Right For 3 Balls
+**Author:** Code Master  
+**Notes:** [Codes]
+
+```
+200C0260 24010003
+200C0264 A0411CCB
+200C0268 03E00008
+200C026C 8C630024
+D0D8B982 0000FB7F
+20235248 0C030098
+D0D8B982 0000FFFF
+20235248 8C630024
+```
+
+---

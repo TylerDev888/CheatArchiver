@@ -1,0 +1,29 @@
+# Diablo III cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01921
+
+game: "Diablo III"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01921"
+cheat_type: "Save Editor"
+source: "From twerkformiley"
+
+cheats:
+  - name: "Decrypt Account.dat (required)"
+    notes: "File: ACCOUNT.DAT"
+    codes:
+      - "set range:0x000000,eof+1"
+      - "DECRYPT diablo3"
+
+  - name: "Paragon Xp Boost"
+    notes: "File: ACCOUNT.DAT"
+    codes:
+      - "write at 0x000001F6:0xFFAB9D7B"
+
+  - name: "Encrypt Account.dat (required)"
+    notes: "File: ACCOUNT.DAT"
+    codes:
+      - "set range:0x000000,eof+1"
+      - "ENCRYPT diablo3"

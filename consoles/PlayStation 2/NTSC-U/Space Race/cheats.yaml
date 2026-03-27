@@ -1,0 +1,72 @@
+# Space Race cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20352
+
+game: "Space Race"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20352"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00130B77"
+
+  - name: "Infinite Tokens"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10393290 0000FFFF"
+
+  - name: "Max Tokens"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20393290 3B9AC9FF"
+
+  - name: "Have All Planets"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203932A0 FFFFFFFF"
+
+  - name: "Have All Characters"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203932A4 FFFFFFFF"
+
+  - name: "Have All Galleria Items"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203932AC FFFFFFFF"
+
+  - name: "Have All Acme Events"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203932B0 FFFFFFFF"
+
+  - name: "Have All Gold Medals (Tournament Mode)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203932B8 FFFFFFFF"
+
+  - name: "Infinite Retry's"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "103932E8 00000003"
+
+  - name: "Max Points (Tournament Mode)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "109EEFB0 0000270F"

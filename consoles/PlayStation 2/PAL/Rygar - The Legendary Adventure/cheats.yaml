@@ -1,0 +1,200 @@
+# Rygar - The Legendary Adventure cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-51445
+
+game: "Rygar - The Legendary Adventure"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-51445"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F020F784 0020F787"
+
+  - name: "Attack Maxed"
+    author: "Codejunkies"
+    notes: "[Attack Stat Codes]"
+    codes:
+      - "204BBF54 000003E7"
+
+  - name: "Attack Never More Than 25"
+    author: "Codejunkies"
+    notes: "[Attack Stat Codes]"
+    codes:
+      - "E0020019 304BBF54"
+      - "E0010000 304BBF56"
+      - "204BBF54 00000019"
+
+  - name: "Attack Never More Than 50"
+    author: "Codejunkies"
+    notes: "[Attack Stat Codes]"
+    codes:
+      - "E0020032 304BBF54"
+      - "E0010000 304BBF56"
+      - "204BBF54 00000032"
+
+  - name: "Attack Never More Than 100"
+    author: "Codejunkies"
+    notes: "[Attack Stat Codes]"
+    codes:
+      - "E0020064 304BBF54"
+      - "E0010000 304BBF56"
+      - "204BBF54 00000064"
+
+  - name: "All Diskarmours"
+    author: "Codejunkies"
+    notes: "[Defence Stat Codes]"
+    codes:
+      - "204BBF70 00140201"
+      - "204BBFB4 00140201"
+      - "204BBFF8 00140201"
+      - "204BC03C 00140201"
+
+  - name: "Defence Maxed"
+    author: "Codejunkies"
+    notes: "[Defence Stat Codes]"
+    codes:
+      - "204BBF58 000003E7"
+
+  - name: "Defence Never More Than 25"
+    author: "Codejunkies"
+    notes: "[Defence Stat Codes]"
+    codes:
+      - "E0020019 304BBF58"
+      - "E0010000 304BBF5A"
+      - "204BBF58 00000019"
+
+  - name: "Defence Never More Than 50"
+    author: "Codejunkies"
+    notes: "[Defence Stat Codes]"
+    codes:
+      - "E0020032 304BBF58"
+      - "E0010000 304BBF5A"
+      - "204BBF58 00000032"
+
+  - name: "Defence Never More Than 100"
+    author: "Codejunkies"
+    notes: "[Defence Stat Codes]"
+    codes:
+      - "E0020064 304BBF58"
+      - "E0010000 304BBF5A"
+      - "204BBF58 00000064"
+
+  - name: "Hades 1 Slot Max"
+    author: "Codejunkies"
+    notes: "[Hades Slot Codes]"
+    codes:
+      - "E0020001 304BBF7C"
+      - "E0010000 304BBF7E"
+      - "204BBF7C 00000001"
+
+  - name: "Hades 2 Slots Max"
+    author: "Codejunkies"
+    notes: "[Hades Slot Codes]"
+    codes:
+      - "E0020002 304BBF7C"
+      - "E0010000 304BBF7E"
+      - "204BBF7C 00000002"
+
+  - name: "Hades 3 Slots Max"
+    author: "Codejunkies"
+    notes: "[Hades Slot Codes]"
+    codes:
+      - "E0020003 304BBF7C"
+      - "E0010000 304BBF7E"
+      - "204BBF7C 00000003"
+
+  - name: "Hades Diskarmour Max Slots"
+    author: "Codejunkies"
+    notes: "[Hades Slot Codes]"
+    codes:
+      - "204BBF7C 00000004"
+
+  - name: "Heavenly 1 Slot Max"
+    author: "Codejunkies"
+    notes: "[Heavenly Slot Codes]"
+    codes:
+      - "E0020001 304BBFC0"
+      - "E0010000 304BBFC2"
+      - "204BBFC0 00000001"
+
+  - name: "Heavenly 2 Slots Max"
+    author: "Codejunkies"
+    notes: "[Heavenly Slot Codes]"
+    codes:
+      - "E0020002 304BBFC0"
+      - "E0010000 304BBFC2"
+      - "204BBFC0 00000002"
+
+  - name: "Heavenly 3 Slots Max"
+    author: "Codejunkies"
+    notes: "[Heavenly Slot Codes]"
+    codes:
+      - "E0020003 304BBFC0"
+      - "E0010000 304BBFC2"
+      - "204BBFC0 00000003"
+
+  - name: "Heavenly Diskarmour Max Slots"
+    author: "Codejunkies"
+    notes: "[Heavenly Slot Codes]"
+    codes:
+      - "204BBFC0 00000004"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "204BBF40 000026FE"
+      - "204BBF44 000026FE"
+
+  - name: "Infinite Icol"
+    author: "Codejunkies"
+    codes:
+      - "204BBF48 000026FE"
+      - "204BBF4C 000026FE"
+
+  - name: "Max Points"
+    author: "Codejunkies"
+    codes:
+      - "204BBF68 0000270F"
+
+  - name: "All Mystic Stones Active"
+    author: "Codejunkies"
+    notes: "[Sea Slot Codes]"
+    codes:
+      - "204688BC FFFFFFFF"
+
+  - name: "Sea 1 Slot Max"
+    author: "Codejunkies"
+    notes: "[Sea Slot Codes]"
+    codes:
+      - "E0020001 304BC004"
+      - "E0010000 304BC006"
+      - "204BC004 00000001"
+
+  - name: "Sea 2 Slots Max"
+    author: "Codejunkies"
+    notes: "[Sea Slot Codes]"
+    codes:
+      - "E0020002 304BC004"
+      - "E0010000 304BC006"
+      - "204BC004 00000002"
+
+  - name: "Sea 3 Slots Max"
+    author: "Codejunkies"
+    notes: "[Sea Slot Codes]"
+    codes:
+      - "E0020003 304BC004"
+      - "E0010000 304BC006"
+      - "204BC004 00000003"
+
+  - name: "Sea Diskarmour Max Slots"
+    author: "Codejunkies"
+    notes: "[Sea Slot Codes]"
+    codes:
+      - "204BC004 00000004"

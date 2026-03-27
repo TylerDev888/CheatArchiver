@@ -1,0 +1,59 @@
+# Brunswick Pro Bowling cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  RBPE4Z
+
+game: "Brunswick Pro Bowling"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "RBPE4Z"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Goto Shop For Max/Inf Money"
+    author: "Skiller"
+    codes:
+      - "C201AE68 00000003"
+      - "3D0005F5 6108E0FF"
+      - "91030020 80630020"
+      - "60000000 00000000"
+
+  - name: "Arm Strenght"
+    author: "Skiller"
+    notes: "[Goto Overview Max Stats Codes]"
+    codes:
+      - "C201BC6C 00000002"
+      - "3800[Amount:2710:HEX:BIG] 9004000C"
+      - "8004000C 00000000"
+
+  - name: "Accuracy"
+    author: "Skiller"
+    notes: "[Goto Overview Max Stats Codes]  3800???? 90040010"
+    codes:
+      - "C201BD3C 00000002"
+      - "80040010 00000000"
+
+  - name: "Hook Control"
+    author: "Skiller"
+    notes: "[Goto Overview Max Stats Codes]"
+    codes:
+      - "C201BE0C 00000002"
+      - "3800[Amount:2710:HEX:BIG] 90040014"
+      - "80040014 00000000"
+
+  - name: "Stamina"
+    author: "Skiller"
+    notes: "[Goto Overview Max Stats Codes]"
+    codes:
+      - "C201BEDC 00000002"
+      - "3800[Amount:2710:HEX:BIG] 90040018"
+      - "80040018 00000000"
+
+  - name: "Reputation"
+    author: "Skiller"
+    notes: "[Goto Overview Max Stats Codes]"
+    codes:
+      - "C201BFAC 00000002"
+      - "3800[Amount:2710:HEX:BIG] 9004001C"
+      - "8004001C 00000000"

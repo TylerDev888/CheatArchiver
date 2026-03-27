@@ -1,0 +1,261 @@
+# Grand Theft Auto_ Chinatown Wars cheat data
+# Console: Nintendo DS
+# Region:  NTSC-U
+# Serial:  YGXE
+
+game: "Grand Theft Auto_ Chinatown Wars"
+console: "Nintendo DS"
+region: "NTSC-U"
+serial: "YGXE"
+cheat_type: "Action Replay"
+source: ""
+
+cheats:
+  - name: "Inf Timer"
+    notes: "File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "22059892 00000063"
+      - "22059786 00000063"
+
+  - name: "Timer Start/Stop(L+R+Up Stop L+R+Down Start)"
+    notes: "File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "94000130 FCBF0000"
+      - "22059786 00000063"
+      - "22059892 00000063"
+      - "D2000000 00000000"
+      - "94000130 FC7F0000"
+      - "22059786 00000060"
+      - "22059892 00000060"
+      - "D2000000 00000000"
+
+  - name: "Inf Ammo"
+    notes: "File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "120C8f58 00001E00"
+      - "120C8f64 00001E00"
+
+  - name: "Inf Patients Bar"
+    notes: "[Ambulance Codes]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92220e84 1E410000"
+      - "12220e84 00001E01"
+      - "D2000000 00000000"
+
+  - name: "One Patient Per Wave"
+    notes: "[Ambulance Codes]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "922246F8 61500000"
+      - "02224ea4 00000001"
+      - "D2000000 00000000"
+
+  - name: "Large Save Ratio"
+    notes: "[Ambulance Codes]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "922246F8 61500000"
+      - "1222496C 000001F4"
+      - "D2000000 00000000"
+
+  - name: "Inf Tip Bar"
+    notes: "[Taxi Codes]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92221AE8 38200000"
+      - "12221AE8 00003800"
+      - "D2000000 00000000"
+      - "92221AE8 1A400000"
+      - "12221A86 00001E00"
+      - "D2000000 00000000"
+
+  - name: "Tattoo Xamount"
+    notes: "[Tattoo Shop Codes]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92221380 41540000"
+      - "0222156C ????????"
+      - "D2000000 00000000"
+
+  - name: "Compleat 1 Tattoo to get 20"
+    notes: "[Tattoo Shop Codes]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "922363d0 1C490000"
+      - "122363d0 00002114"
+      - "D2000000 00000000"
+
+  - name: "Garage Car Parked Front ways"
+    notes: "[Active Garage:(Affects Garage you Last tuched)]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "2221b830 00000000"
+
+  - name: "Garage Car Proof Mod"
+    notes: "[Active Garage:(Affects Garage you Last tuched)]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "2221b831 000000[PROOF]"
+
+  - name: "Garage Car Mod"
+    notes: "[Active Garage:(Affects Garage you Last tuched)]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "1221b834 0000[CAR]"
+
+  - name: "Have All Cars for Sale"
+    notes: "[CarShop(Seller)]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92222A30 00000000"
+      - "C0000000 00000007"
+      - "02222A60 00000000"
+      - "DC000000 00000004"
+      - "D2000000 00000000"
+
+  - name: "Cars Are Free"
+    notes: "[CarShop(Seller)]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92222A30 00000000"
+      - "C0000000 0000001E"
+      - "02222A80 00000000"
+      - "DC000000 00000004"
+      - "D2000000 00000000"
+
+  - name: "Change Hearse"
+    notes: "[Change Cars]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92222A30 00000000"
+      - "02222AF8 0000[CAR]"
+      - "D2000000 00000000"
+
+  - name: "Change Limo"
+    notes: "[Change Cars]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92222A30 00000000"
+      - "02222AFC 0000[CAR]"
+      - "D2000000 00000000"
+
+  - name: "Change NRG 900"
+    notes: "[Change Cars]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92222A30 00000000"
+      - "02222B00 0000[CAR]"
+      - "D2000000 00000000"
+
+  - name: "Change Patriot"
+    notes: "[Change Cars]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92222A30 00000000"
+      - "02222B04 0000[CAR]"
+      - "D2000000 00000000"
+
+  - name: "Change Bulldozer"
+    notes: "[Change Cars]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92222A30 00000000"
+      - "02222B08 0000[CAR]"
+      - "D2000000 00000000"
+
+  - name: "Change Cognoscenti"
+    notes: "[Change Cars]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92222A30 00000000"
+      - "02222B0C 0000[CAR]"
+      - "D2000000 00000000"
+
+  - name: "Sabre GT"
+    notes: "[Change Cars]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92222A30 00000000"
+      - "02222B10 0000[CAR]"
+      - "D2000000 00000000"
+
+  - name: "Turismo"
+    notes: "[Change Cars]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92222A30 00000000"
+      - "02222B14 0000[CAR]"
+      - "D2000000 00000000"
+
+  - name: "Banshee"
+    notes: "[Change Cars]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92222A30 00000000"
+      - "02222B18 0000[CAR]"
+      - "D2000000 00000000"
+
+  - name: "Hellenbach"
+    notes: "[Change Cars]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92222A30 00000000"
+      - "02222B1C 0000[CAR]"
+      - "D2000000 00000000"
+
+  - name: "Comet"
+    notes: "[Change Cars]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92222A30 00000000"
+      - "02222B20 0000[CAR]"
+      - "D2000000 00000000"
+
+  - name: "Infernus"
+    notes: "[Change Cars]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92222A30 00000000"
+      - "02222B24 0000[CAR]"
+      - "D2000000 00000000"
+
+  - name: "Resolution X"
+    notes: "[Change Cars]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92222A30 00000000"
+      - "02222B28 0000[CAR]"
+      - "D2000000 00000000"
+
+  - name: "MK GT9"
+    notes: "[Change Cars]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92222A30 00000000"
+      - "02222B2C 0000[CAR]"
+      - "D2000000 00000000"
+
+  - name: "500 XLR8"
+    notes: "[Change Cars]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92222A30 00000000"
+      - "02222B30 0000[CAR]"
+      - "D2000000 00000000"
+
+  - name: "Style SR"
+    notes: "[Change Cars]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92222A30 00000000"
+      - "02222B34 0000[CAR]"
+      - "D2000000 00000000"
+
+  - name: "CityScape"
+    notes: "[Change Cars]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92222A30 00000000"
+      - "02222B38 0000[CAR]"
+      - "D2000000 00000000"
+
+  - name: "Go Kart"
+    notes: "[Change Cars]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92222A30 00000000"
+      - "02222B3C 0000[CAR]"
+      - "D2000000 00000000"
+
+  - name: "Formula R"
+    notes: "[Change Cars]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92222A30 00000000"
+      - "02222B40 0000[CAR]"
+      - "D2000000 00000000"
+
+  - name: "Rhino"
+    notes: "[Change Cars]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92222A30 00000000"
+      - "02222B44 0000[CAR]"
+      - "D2000000 00000000"
+
+  - name: "BulletProof Patriot"
+    notes: "[Change Cars]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "92222A30 00000000"
+      - "02222B48 0000[CAR]"
+      - "D2000000 00000000"

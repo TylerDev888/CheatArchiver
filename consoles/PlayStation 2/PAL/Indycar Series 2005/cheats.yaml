@@ -1,0 +1,35 @@
+# Indycar Series 2005 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Indycar Series 2005"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9022E544 0C09D3D4"
+
+  - name: "All Bronze Cards"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "104504F8 00003FFF"
+
+  - name: "All Silver Cards"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "104504FC 00003FFF"
+
+  - name: "All Gold Cards"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "10450500 00003FFF"

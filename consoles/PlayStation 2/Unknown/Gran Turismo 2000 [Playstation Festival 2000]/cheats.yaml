@@ -1,0 +1,28 @@
+# Gran Turismo 2000 [Playstation Festival 2000] cheat data
+# Console: PlayStation 2
+# Region:  Unknown
+# Serial:  PAPX-90203
+
+game: "Gran Turismo 2000 [Playstation Festival 2000]"
+console: "PlayStation 2"
+region: "Unknown"
+serial: "PAPX-90203"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)"
+    author: "47iscool"
+    notes: "[Master Codes]"
+    codes:
+      - "902629E0 0C098A1E"
+
+  - name: "Disable HUD"
+    author: "47iscool"
+    codes:
+      - "20215210 24020000"
+
+  - name: "Stop Demo Timer"
+    author: "47iscool"
+    codes:
+      - "20216A44 24420000"

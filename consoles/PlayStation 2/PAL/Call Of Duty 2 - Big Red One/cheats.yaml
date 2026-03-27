@@ -1,0 +1,85 @@
+# Call Of Duty 2 - Big Red One cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53417
+
+game: "Call Of Duty 2 - Big Red One"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53417"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0287EC4 00287EC7"
+      - "901001E8 0C0D3B64"
+
+  - name: "All Levels And Bonus Stuff Open"
+    author: "Codejunkies"
+    codes:
+      - "2012741C 2402000E"
+      - "20127420 2402000E"
+      - "20127424 AC620034"
+
+  - name: "Fix"
+    notes: "[Armax Fix]"
+    codes:
+      - "E00EB53C 00287EC4"
+      - "E00D0C0C 00287EC6"
+      - "2024893C 0809B7C8"
+      - "2026DF20 3C0401E0"
+      - "2026DF24 3C050008"
+      - "2026DF28 0C0CEF63"
+      - "2026DF2C 3C060008"
+      - "2026DF30 0C0D2D06"
+      - "2026DF34 0000202D"
+      - "2026DF38 3C0501E0"
+      - "2026DF3C 3C040008"
+      - "2026DF40 0C0CEF63"
+      - "2026DF44 3C060008"
+      - "2026DF48 08092251"
+      - "2026DF4C 00000000"
+
+  - name: "Below 3.14 Fix"
+    author: "Codejunkies"
+    codes:
+      - "2034E3D0 3C03200F"
+      - "2034E3D8 8C65FFF8"
+      - "2034E3DC 24040079"
+      - "2034E3E0 24030074"
+      - "2034E3E4 0000000C"
+
+  - name: "Infinite Ammo In Mag"
+    author: "Codejunkies"
+    codes:
+      - "E0020000 303A3140"
+      - "E0010000 303A3142"
+      - "2017A26C 00000000"
+
+  - name: "Infinite Ammo/Grenades And No Reloads"
+    author: "Codejunkies"
+    codes:
+      - "E0020000 303A3140"
+      - "E0010000 303A3142"
+      - "2017A2E8 00000000"
+
+  - name: "Infinite Health - Soldier"
+    author: "Codejunkies"
+    codes:
+      - "E0020000 303A3140"
+      - "E0010000 303A3142"
+      - "20205FA0 2402044C"
+      - "E0020000 303A3140"
+      - "E0010000 303A3142"
+      - "20205FA4 AE420350"
+
+  - name: "Shooting Does Not Expand Reticule"
+    author: "Codejunkies"
+    codes:
+      - "E0020000 303A3140"
+      - "E0010000 303A3142"
+      - "2017C5E0 00000000"

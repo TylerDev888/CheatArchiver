@@ -1,0 +1,65 @@
+# 007 - Quantum Of Solace cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-55345
+
+game: "007 - Quantum Of Solace"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-55345"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enabler Code (Must Be On)"
+    author: "RyTheHexer"
+    notes: "[Master Codes]"
+    codes:
+      - "F01001D0 000001FD"
+
+  - name: "God Mode OFF (L2+D-Down)"
+    author: "RyTheHexer"
+    codes:
+      - "E002FEBF 00423C02"
+      - "20134EE0 27BDFEF0"
+      - "20134EE4 7FB300C0"
+
+  - name: "God Mode ON (L2+D-Up)"
+    author: "RyTheHexer"
+    codes:
+      - "E002FEEF 00423C02"
+      - "20134EE0 03E00008"
+      - "20134EE4 00000000"
+
+  - name: "Infinite Ammo"
+    author: "RyTheHexer"
+    codes:
+      - "201FF088 241103E7"
+
+  - name: "Infinite Health"
+    author: "RyTheHexer"
+    codes:
+      - "2014709C 3C0242C8"
+      - "201470A0 AE020D20"
+
+  - name: "Kill Hack Timers:"
+    author: "RyTheHexer"
+    codes:
+      - "2021E6DC 00000000"
+
+  - name: "No Reload"
+    author: "RyTheHexer"
+    codes:
+      - "001FEFE2 000000C0"
+
+  - name: "No Spread / Accuracy:"
+    author: "RyTheHexer"
+    codes:
+      - "20135EF0 3C083A83"
+      - "20135EF4 2508226F"
+      - "10135EFE 0000AE08"
+
+  - name: "Shoot During Reload"
+    author: "RyTheHexer"
+    codes:
+      - "00163AD3 000000AE"

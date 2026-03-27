@@ -1,0 +1,50 @@
+# Worms Battle Island cheat data
+# Console: Nintendo Wii
+# Region:  NTSC-U
+# Serial:  SILE78
+
+game: "Worms Battle Island"
+console: "Nintendo Wii"
+region: "NTSC-U"
+serial: "SILE78"
+cheat_type: "Gecko"
+source: ""
+
+cheats:
+  - name: "Inf HP/99"
+    author: "Skiller"
+    codes:
+      - "C2921EDC 00000003"
+      - "2D9D0001 418E000C"
+      - "38800063 B083008A"
+      - "A083008A 00000000"
+
+  - name: "Freeze Turn Timer (b And Up)"
+    author: "Skiller"
+    codes:
+      - "284D2F7A 00000408"
+      - "0492D490 38030000"
+      - "E0000000 80008000"
+
+  - name: "Un-Freeze Turn Timer (b And Down)"
+    author: "Skiller"
+    codes:
+      - "284D2F7A 00000404"
+      - "0492D490 3803FFDF"
+      - "E0000000 80008000"
+
+  - name: "Suicide Squad (instant Win Player 1)"
+    author: "Skiller"
+    codes:
+      - "C296A408 00000003"
+      - "2D9F0003 408D000C"
+      - "38800000 9083008A"
+      - "A083008A 00000000"
+
+  - name: "Soul Servivor (instant Win Player 1)"
+    author: "Skiller"
+    codes:
+      - "C296A408 00000003"
+      - "2D9F0000 408D000C"
+      - "38800000 9083008A"
+      - "A083008A 00000000"

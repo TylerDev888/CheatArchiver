@@ -1,0 +1,30 @@
+# Ever 17 - Out Of Infinity [Superlite 2000 Series] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65691
+
+game: "Ever 17 - Out Of Infinity [Superlite 2000 Series]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65691"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "901D5078 0C0753C6"
+
+  - name: "Enable Debug Menus [View Note]"
+    author: "punk7890"
+    codes:
+      - "D03D2402 0000DBFF"
+      - "2023AD30 00000000"
+      - "D03D2402 0000D7FF"
+      - "2023AD30 0000000C"
+      - "D03D2402 0000DDFF"
+      - "2023AD30 0000000D"
+      - "D03D2402 0000DFFE"
+      - "2023AD30 00000016"

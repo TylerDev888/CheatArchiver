@@ -1,0 +1,75 @@
+# RPM Tuning
+
+**Console:** PlayStation 2  
+**Region:** PAL  
+**Serial:** SLES-52190  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Buy Tuning Items Even Without Money
+**Author:** luc-ita
+
+```
+202D2A1C 00000000
+202D292C 00000000
+202D2C20 00000000
+202D1F30 00000000
+202D2E38 00000000
+202D16FC 00000000
+202D1A90 00000000
+202D2190 00000000
+202D18C8 00000000
+202D1C50 00000000
+202D1E18 00000000
+202D2618 00000000
+202D2730 00000000
+202D2500 00000000
+```
+
+---
+
+### Infinite Timer
+**Author:** luc-ita
+
+```
+20280BE8 00000000
+```
+
+---
+
+### Max Money
+**Author:** luc-ita
+
+```
+202EB794 08028000
+202EB798 00000000
+200A0000 3C014974
+200A0004 342123F0
+200A0008 44810000
+200A000C E6000004
+200A0010 7BB00000
+200A0014 080BADE7
+```
+
+---
+
+### Nitro Fuel Doesn't Run Out
+**Author:** luc-ita
+
+```
+20303418 00000000
+```
+
+---
+
+### Race Continues Even When Timer Ends
+**Author:** luc-ita
+
+```
+20280BF0 10000009
+```
+
+---

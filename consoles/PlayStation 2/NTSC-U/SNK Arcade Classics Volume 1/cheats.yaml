@@ -1,0 +1,120 @@
+# SNK Arcade Classics Volume 1 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21724
+
+game: "SNK Arcade Classics Volume 1"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21724"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "902B0598 0C0AC10E"
+
+  - name: "Inf Time"
+    author: "lee4"
+    notes: "[Burning Fight]"
+    codes:
+      - "00F8D00A 00000099"
+
+  - name: "Most Enemies Die With 1-Hit"
+    author: "BigBossman"
+    notes: "[Burning Fight]"
+    codes:
+      - "00F80328 00000000"
+      - "00F803A8 00000000"
+      - "00F80428 00000000"
+      - "00F804A8 00000000"
+      - "00F80528 00000000"
+      - "00F805A8 00000000"
+
+  - name: "P1 Inf HP"
+    author: "lee4"
+    notes: "[Burning Fight]"
+    codes:
+      - "00F80228 000000FF"
+
+  - name: "P1 Inf Lives"
+    author: "lee4"
+    notes: "[Burning Fight]"
+    codes:
+      - "00F80239 00000009"
+
+  - name: "P2 Inf HP"
+    author: "lee4"
+    notes: "[Burning Fight]"
+    codes:
+      - "00F802A8 000000FF"
+
+  - name: "P2 Inf Lives"
+    author: "lee4"
+    notes: "[Burning Fight]"
+    codes:
+      - "00F802B9 00000009"
+
+  - name: "P1 Invincibility"
+    author: "lee4"
+    notes: "[Last Resort]"
+    codes:
+      - "00E80B30 0000007D"
+
+  - name: "P1 - Infinite Lives"
+    author: "lee4"
+    notes: "[Metal Slug]"
+    codes:
+      - "01CA497E 00000065"
+
+  - name: "No Wind"
+    author: "lee4"
+    notes: "[Neo Turf Masters]"
+    codes:
+      - "114945EA 00000000"
+
+  - name: "P1 Infinite Holes"
+    author: "lee4"
+    notes: "[Neo Turf Masters]"
+    codes:
+      - "0149AB7B 00000063"
+
+  - name: "P1 Infinite Strokes"
+    author: "lee4"
+    notes: "[Neo Turf Masters]"
+    codes:
+      - "0149460F 00000001"
+
+  - name: "P1 Infinite Time"
+    author: "lee4"
+    notes: "[Neo Turf Masters]"
+    codes:
+      - "0148E85E 0000001E"
+
+  - name: "P2 Infinite Holes"
+    author: "lee4"
+    notes: "[Neo Turf Masters]"
+    codes:
+      - "0149ABDB 00000063"
+
+  - name: "P2 Infinite Strokes"
+    author: "lee4"
+    notes: "[Neo Turf Masters]"
+    codes:
+      - "01494635 00000001"
+
+  - name: "P2 Infinite Time"
+    author: "lee4"
+    notes: "[Neo Turf Masters]"
+    codes:
+      - "0148DBFE 0000001E"
+
+  - name: "P1 Infinite Health"
+    author: "lee4"
+    notes: "[World Heroes]"
+    codes:
+      - "0118BC13 00000068"
+      - "0118BC37 00000068"

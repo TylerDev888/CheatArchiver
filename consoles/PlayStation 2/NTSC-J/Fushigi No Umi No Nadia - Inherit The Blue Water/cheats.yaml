@@ -1,0 +1,26 @@
+# Fushigi No Umi No Nadia - Inherit The Blue Water cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66112
+
+game: "Fushigi No Umi No Nadia - Inherit The Blue Water"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66112"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9027F498 0C09FCCE"
+
+  - name: "Unlock All Library"
+    author: "punk7890"
+    codes:
+      - "4031121C 00260001"
+      - "FFFFFFFF 00000000"
+      - "40311348 00070001"
+      - "FFFFFFFF 00000000"

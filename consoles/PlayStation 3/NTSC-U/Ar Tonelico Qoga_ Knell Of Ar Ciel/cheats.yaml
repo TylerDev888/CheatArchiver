@@ -1,0 +1,79 @@
+# Ar Tonelico Qoga_ Knell Of Ar Ciel cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS30639
+
+game: "Ar Tonelico Qoga_ Knell Of Ar Ciel"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS30639"
+cheat_type: "AP"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Money"
+    notes: "File: BLUS30639-LIST-*\\USR-DATA"
+    codes:
+      - "2000CCC8 0FFFFFFF"
+
+  - name: "Reset Game Save Time"
+    notes: "File: BLUS30639-LIST-*\\USR-DATA"
+    codes:
+      - "200B6085 00000000"
+
+  - name: "Max Item"
+    notes: "File: BLUS30639-LIST-*\\USR-DATA"
+    codes:
+      - "4000B273 0000000A"
+      - "40000004 00000000"
+
+  - name: "All Item"
+    notes: "File: BLUS30639-LIST-*\\USR-DATA"
+    codes:
+      - "400ABA2C 00000063"
+      - "41000018 00000000"
+
+  - name: "Aoto Exp"
+    notes: "File: BLUS30639-LIST-*\\USR-DATA"
+    codes:
+      - "2000CCE8 00048314"
+
+  - name: "Tatsumi Exp"
+    notes: "File: BLUS30639-LIST-*\\USR-DATA"
+    codes:
+      - "2000CDB8 00048314"
+
+  - name: "Five Exp"
+    notes: "File: BLUS30639-LIST-*\\USR-DATA"
+    codes:
+      - "2000CE20 00048314"
+
+  - name: "Saki Exp"
+    notes: "File: BLUS30639-LIST-*\\USR-DATA"
+    codes:
+      - "2000CE88 00048314"
+
+  - name: "Saki Dp"
+    notes: "File: BLUS30639-LIST-*\\USR-DATA"
+    codes:
+      - "200A12D5 0001869F"
+
+  - name: "Finnel Exp"
+    notes: "File: BLUS30639-LIST-*\\USR-DATA"
+    codes:
+      - "2000CEF0 00048314"
+
+  - name: "Finnel Dp"
+    notes: "File: BLUS30639-LIST-*\\USR-DATA"
+    codes:
+      - "200A12D9 0001869F"
+
+  - name: "Tilia Exp"
+    notes: "File: BLUS30639-LIST-*\\USR-DATA"
+    codes:
+      - "2000CF58 00048314"
+
+  - name: "Tilia Dp"
+    notes: "File: BLUS30639-LIST-*\\USR-DATA"
+    codes:
+      - "200A12DD 0001869F"

@@ -1,0 +1,24 @@
+# Kuri No Okurimono [First Print Special Edition] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66870
+
+game: "Kuri No Okurimono [First Print Special Edition]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66870"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90113958 0C044DFE"
+
+  - name: "New Game = Debug Menu"
+    author: "punk7890"
+    codes:
+      - "20204520 55424544"
+      - "20204524 00000047"

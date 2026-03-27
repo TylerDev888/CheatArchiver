@@ -1,0 +1,133 @@
+# Metal Gear Solid 2 Substance cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20554
+
+game: "Metal Gear Solid 2 Substance"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20554"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code V2 (MUST BE ON) 7+"
+    notes: "[Masters]"
+    codes:
+      - "901673EC 0C05BE4E"
+      - "B0000001 00000000"
+      - "E0038C86 000802E6"
+      - "200802E8 00050C02"
+      - "200802EC 00C13021"
+      - "200802F4 A4C50000"
+
+  - name: "Infinite Health"
+    notes: "[Misc]"
+    codes:
+      - "E0010000 101F1898"
+      - "C01F1898 07920FA0"
+
+  - name: "Infinite Stamina"
+    notes: "[Misc]"
+    codes:
+      - "E0010000 101F1898"
+      - "C01F1898 03380E20"
+
+  - name: "Infinite Oxgen"
+    notes: "[Misc]"
+    codes:
+      - "E001B088 101931D8"
+      - "C01931D8 00FE0FA0"
+
+  - name: "Never Reload"
+    notes: "[Misc]"
+    codes:
+      - "201932DC 0000001F"
+
+  - name: "Infinite Ammo"
+    notes: "[Misc]"
+    codes:
+      - "2015E0A0 00000000"
+
+  - name: "Max Infinite Ammo"
+    notes: "[Misc]"
+    codes:
+      - "2015E09C 240303E7"
+
+  - name: "Super Shoot (infinite Pentazemin? )"
+    notes: "[Misc]"
+    codes:
+      - "101932F4 0000F000"
+
+  - name: "Have All Weapons With Max Infinite Ammo"
+    notes: "[Misc]"
+    codes:
+      - "2015E1EC 240203E7"
+
+  - name: "Have All Max Infinite Items"
+    notes: "[Misc]"
+    codes:
+      - "2015E204 240203E7"
+
+  - name: "Invisible Always On"
+    notes: "[Misc]"
+    codes:
+      - "001F1947 00000040"
+
+  - name: "Press L3+up To Quick Stealth Usage"
+    notes: "[Player 1]"
+    codes:
+      - "D01EAD02 0000FFED"
+      - "C01931D8 01060008"
+
+  - name: "Press R3+up To Invincible Enable"
+    notes: "[Player 1]"
+    codes:
+      - "D01EAD02 0000FFEB"
+      - "001F1946 0000008B"
+
+  - name: "Press R3+down To Invincible Disable"
+    notes: "[Player 1]"
+    codes:
+      - "D01EAD02 0000FFBB"
+      - "001F1946 00000000"
+
+  - name: "Press R3+left To Invisible Enable"
+    notes: "[Player 1]"
+    codes:
+      - "D01EAD02 0000FF7B"
+      - "001F1947 00000040"
+
+  - name: "Press R3+right To Invisible Disable"
+    notes: "[Player 1]"
+    codes:
+      - "D01EAD02 0000FFDB"
+      - "001F1947 00000000"
+
+  - name: "Press L3+r3 To More Speech Time - Tanker"
+    notes: "[Player 1]"
+    codes:
+      - "E003FFF9 001EAD02"
+      - "203FA4D4 00057E41"
+      - "203EFB74 00057E41"
+      - "203F2B1C 00057E41"
+
+  - name: "Press L3+r3 To More Bomb Time - Plant"
+    notes: "[Player 1]"
+    codes:
+      - "E00FFFF9 001EAD02"
+      - "20453774 000927C1"
+      - "2046AD50 000927C1"
+      - "204618F4 000927C1"
+      - "2046FD84 000927C1"
+      - "20465144 000927C1"
+      - "20473494 000927C1"
+      - "2046C144 000927C1"
+      - "204A30D4 000927C1"
+      - "204658F4 000927C1"
+      - "2049C0C4 000927C1"
+      - "204A65F4 000927C1"
+      - "20467C34 000927C1"
+      - "204704B4 000927C1"
+      - "20464C10 000927C1"
+      - "2044F324 000927C1"

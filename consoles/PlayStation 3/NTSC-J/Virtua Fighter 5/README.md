@@ -1,0 +1,108 @@
+# Virtua Fighter 5
+
+**Console:** PlayStation 3  
+**Region:** NTSC-J  
+**Serial:** BLJM60016  
+**Cheat Type:** AP  
+**Source:** [From savedata.jp](From savedata.jp)  
+
+---
+
+## Cheats
+
+### Quest Data 1 Money 999999
+**Author:** 
+
+```
+2003FBB0 000F423F
+```
+
+---
+
+### Quest Data 1 Item All Unloclk
+**Author:** 
+
+```
+4103F9B8 0000FFFF
+401B0002 00000000
+```
+
+---
+
+### Quest Data 1 Player List All Unloclk
+**Author:** 
+
+```
+420001B0 FFFFFFFF
+40510004 00000000
+```
+
+---
+
+### Quest Data 1 Emblem List All Unloclk
+**Author:** 
+
+```
+420000FC FFFFFFFF
+40090004 00000000
+```
+
+---
+
+### Quest Data 1 Sarah Costume-c No Selection
+**Author:** 
+
+```
+2003FA99 00000000
+2003FA9D 00000000
+2003FAA1 00000000
+2003FAA5 00000000
+2003FAA9 00000000
+2003FAAD 00000000
+2003FAB1 00000000
+2003FAB5 00000000
+2003FAB9 00000000
+2003FABD 00000000
+2003FAC1 00000000
+```
+
+---
+
+### Quest Data 2 Money 999999
+**Author:** 
+
+```
+20041BB0 000F423F
+```
+
+---
+
+### Quest Data 2 Item All Unloclk
+**Author:** 
+
+```
+410419B8 0000FFFF
+401B0002 00000000
+```
+
+---
+
+### Quest Data 2 Player List All Unloclk
+**Author:** 
+
+```
+42001270 FFFFFFFF
+40510004 00000000
+```
+
+---
+
+### Quest Data 2 Emblem List All Unloclk
+**Author:** 
+
+```
+420011BC FFFFFFFF
+40090004 00000000
+```
+
+---

@@ -1,0 +1,264 @@
+# Bujingai cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65459
+
+game: "Bujingai"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65459"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Master Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "9010BC78 0C042EC6"
+
+  - name: "Master Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "90123208 0C06A04A"
+
+  - name: "(M)"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01133B4 001133B7"
+
+  - name: "0 Continues"
+    author: "Codejunkies"
+    codes:
+      - "205C6FE4 00000000"
+
+  - name: "All Special Options"
+    author: "Codejunkies"
+    notes: "[Have Spells - Save Game Then Turn Code Off]"
+    codes:
+      - "405C6448 00060001"
+      - "01010101 00000000"
+
+  - name: "All Spells"
+    author: "Codejunkies"
+    notes: "[Have Spells - Save Game Then Turn Code Off]"
+    codes:
+      - "405C6FF0 00040001"
+      - "01010101 00000000"
+
+  - name: "Dankuuken-Level 2"
+    author: "Codejunkies"
+    notes: "[Have Spells - Save Game Then Turn Code Off]"
+    codes:
+      - "005C6FEF 00000001"
+
+  - name: "Gaisenken-Level 1"
+    author: "Codejunkies"
+    notes: "[Have Spells - Save Game Then Turn Code Off]"
+    codes:
+      - "005C6FF7 00000001"
+
+  - name: "Gouenken-Level 1"
+    author: "Codejunkies"
+    notes: "[Have Spells - Save Game Then Turn Code Off]"
+    codes:
+      - "005C6FEC 00000001"
+
+  - name: "Gouenken-Level 2"
+    author: "Codejunkies"
+    notes: "[Have Spells - Save Game Then Turn Code Off]"
+    codes:
+      - "005C6FED 00000001"
+
+  - name: "Gouenken-Level 3"
+    author: "Codejunkies"
+    notes: "[Have Spells - Save Game Then Turn Code Off]"
+    codes:
+      - "005C6FEE 00000001"
+
+  - name: "Jinbuken-Level 2"
+    author: "Codejunkies"
+    notes: "[Have Spells - Save Game Then Turn Code Off]"
+    codes:
+      - "005C6FF1 00000001"
+
+  - name: "Ryouseiken-Level 2"
+    author: "Codejunkies"
+    notes: "[Have Spells - Save Game Then Turn Code Off]"
+    codes:
+      - "005C6FF2 00000001"
+
+  - name: "Senranken-Level 1"
+    author: "Codejunkies"
+    notes: "[Have Spells - Save Game Then Turn Code Off]"
+    codes:
+      - "005C6FF3 00000001"
+
+  - name: "Senranken-Level 2"
+    author: "Codejunkies"
+    notes: "[Have Spells - Save Game Then Turn Code Off]"
+    codes:
+      - "005C6FF4 00000001"
+
+  - name: "Senranken-Level 3"
+    author: "Codejunkies"
+    notes: "[Have Spells - Save Game Then Turn Code Off]"
+    codes:
+      - "005C6FF5 00000001"
+
+  - name: "Souryuuken-Level 1"
+    author: "Codejunkies"
+    notes: "[Have Spells - Save Game Then Turn Code Off]"
+    codes:
+      - "005C6FF8 00000001"
+
+  - name: "Souryuuken-Level 2"
+    author: "Codejunkies"
+    notes: "[Have Spells - Save Game Then Turn Code Off]"
+    codes:
+      - "005C6FF9 00000001"
+
+  - name: "Souryuuken-Level 3"
+    author: "Codejunkies"
+    notes: "[Have Spells - Save Game Then Turn Code Off]"
+    codes:
+      - "005C6FFA 00000001"
+
+  - name: "Tekkuken-Level 1"
+    author: "Codejunkies"
+    notes: "[Have Spells - Save Game Then Turn Code Off]"
+    codes:
+      - "005C6FF6 00000001"
+
+  - name: "Tenseiken-Level 3"
+    author: "Codejunkies"
+    notes: "[Have Spells - Save Game Then Turn Code Off]"
+    codes:
+      - "005C6FF0 00000001"
+
+  - name: "Infinite Defense"
+    author: "Codejunkies"
+    codes:
+      - "2185BA70 0000000A"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "2185BA60 0270F000"
+
+  - name: "Infinite Spell"
+    author: "Codejunkies"
+    codes:
+      - "2185BA68 0270F000"
+
+  - name: "Low Game Time"
+    author: "Codejunkies"
+    codes:
+      - "205B0910 00030000"
+
+  - name: "Azure Sphere"
+    author: "Codejunkies"
+    notes: "[Magic Items (Choose Three)]"
+    codes:
+      - "005C7562 00000001"
+
+  - name: "Crimson Sphere"
+    author: "Codejunkies"
+    notes: "[Magic Items (Choose Three)]"
+    codes:
+      - "005C7561 00000001"
+
+  - name: "Dragon Key"
+    author: "Codejunkies"
+    notes: "[Magic Items (Choose Three)]"
+    codes:
+      - "005C755E 00000001"
+
+  - name: "Golden Sphere"
+    author: "Codejunkies"
+    notes: "[Magic Items (Choose Three)]"
+    codes:
+      - "005C7560 00000001"
+
+  - name: "Guardian Tablet"
+    author: "Codejunkies"
+    notes: "[Magic Items (Choose Three)]"
+    codes:
+      - "005C7563 00000001"
+
+  - name: "Mantis Key"
+    author: "Codejunkies"
+    notes: "[Magic Items (Choose Three)]"
+    codes:
+      - "005C755D 00000001"
+
+  - name: "Phoenix Key"
+    author: "Codejunkies"
+    notes: "[Magic Items (Choose Three)]"
+    codes:
+      - "005C7564 00000001"
+
+  - name: "Sacred Talisman"
+    author: "Codejunkies"
+    notes: "[Magic Items (Choose Three)]"
+    codes:
+      - "005C755B 00000001"
+
+  - name: "Scorpion Key"
+    author: "Codejunkies"
+    notes: "[Magic Items (Choose Three)]"
+    codes:
+      - "005C755C 00000001"
+
+  - name: "Turtle Key"
+    author: "Codejunkies"
+    notes: "[Magic Items (Choose Three)]"
+    codes:
+      - "005C755F 00000001"
+
+  - name: "Max Defense"
+    author: "Codejunkies"
+    codes:
+      - "2185BA74 0000000A"
+
+  - name: "Max Defense (By Power-Up)"
+    author: "Codejunkies"
+    codes:
+      - "1185BAAE 00000BB8"
+
+  - name: "Max Health"
+    author: "Codejunkies"
+    codes:
+      - "2185BA64 0270F000"
+
+  - name: "Max Health (By Power-Up)"
+    author: "Codejunkies"
+    codes:
+      - "1185BAAA 00000BB8"
+
+  - name: "Max Magic (By Power-Up)"
+    author: "Codejunkies"
+    codes:
+      - "1185BAAC 00000BB8"
+
+  - name: "Max Orbs"
+    author: "Codejunkies"
+    codes:
+      - "205C6FE8 000F423F"
+
+  - name: "Max Ryuugatou"
+    author: "Codejunkies"
+    codes:
+      - "1185BAA6 00000BB8"
+
+  - name: "Max Spell"
+    author: "Codejunkies"
+    codes:
+      - "2185BA6C 0270F000"
+
+  - name: "Max Tenreiken"
+    author: "Codejunkies"
+    codes:
+      - "1185BAA8 00000BB8"

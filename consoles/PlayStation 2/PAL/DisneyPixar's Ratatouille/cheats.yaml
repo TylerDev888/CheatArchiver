@@ -1,0 +1,109 @@
+# DisneyPixar's Ratatouille cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54745
+
+game: "DisneyPixar's Ratatouille"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54745"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "All \"Secrets\" Unlocked"
+    author: "luc-ita"
+    codes:
+      - "20A59854 00000001"
+      - "20A5EF58 00000001"
+
+  - name: "Enemies Aren't Alarmed If They See Remy"
+    author: "luc-ita"
+    codes:
+      - "2028B334 1000040B"
+
+  - name: "Disable HUD"
+    author: "luc-ita"
+    notes: "[Internal Debug Features]"
+    codes:
+      - "0067F854 00000001"
+
+  - name: "Enable Debug Popup Menu (Read Notes)"
+    author: "luc-ita"
+    notes: "[Internal Debug Features]"
+    codes:
+      - "2055ED80 00000000"
+      - "2055F228 00000000"
+
+  - name: "Enable Debug Tools"
+    author: "luc-ita"
+    notes: "[Internal Debug Features]"
+    codes:
+      - "00A5FC40 00000001"
+
+  - name: "Fly Mode (Switchcamerauser) (Read Notes)"
+    author: "luc-ita"
+    notes: "[Internal Debug Features]"
+    codes:
+      - "20406FF0 00000000"
+
+  - name: "Invulnerable - Alternate Code"
+    author: "luc-ita"
+    codes:
+      - "20288828 00000000"
+
+  - name: "Jump In Mid-Air V1"
+    author: "luc-ita"
+    codes:
+      - "202E0AD8 24020002"
+      - "202E3380 24020002"
+
+  - name: "Jump In Mid-Air V2"
+    author: "luc-ita"
+    codes:
+      - "2023E540 08028000"
+      - "200A0000 27BDFFE0"
+      - "200A0004 241B0017"
+      - "200A0008 13650003"
+      - "200A000C 241B0022"
+      - "200A0010 17650002"
+      - "200A0014 00000000"
+      - "200A0018 24050002"
+      - "200A001C 0808F952"
+
+  - name: "Maximum Life"
+    author: "luc-ita"
+    codes:
+      - "20A5FCC4 00000008"
+      - "20A5FCC8 00000008"
+
+  - name: "No Damage"
+    author: "luc-ita"
+    codes:
+      - "20288800 03E00008"
+
+  - name: "Remy Releases Sparks When He Walks"
+    author: "luc-ita"
+    codes:
+      - "0067F92A 00000001"
+
+  - name: "Slow Motion"
+    author: "luc-ita"
+    codes:
+      - "20684FF0 3F000000"
+
+  - name: "Take A Star To Have Them All, Take A Collectible To Have Them All"
+    author: "luc-ita"
+    codes:
+      - "2033C3D4 8E820030"
+      - "2033C3D8 00000000"
+
+  - name: "Unlock \"Gusteaucombo\" In The Secrets"
+    author: "luc-ita"
+    codes:
+      - "20A5EF58 00000001"
+
+  - name: "Unlock Secrets And Other Things In Gusteau's Shop Even Without Points"
+    author: "luc-ita"
+    codes:
+      - "205A2998 10000005"

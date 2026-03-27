@@ -1,0 +1,31 @@
+# Garfield cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52843
+
+game: "Garfield"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52843"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Jump In Mid-Air"
+    author: "luc-ita"
+    codes:
+      - "20362900 24030001"
+      - "2036284C 24030001"
+      - "20362748 24030001"
+
+  - name: "Jump Multiplier"
+    author: "luc-ita"
+    codes:
+      - "20360028 3C03????"
+
+  - name: "Odie Doesn't Hit Garfield"
+    author: "luc-ita"
+    codes:
+      - "2036265C 24030001"
+      - "20362764 24030001"
+      - "2036291C 24030001"

@@ -1,0 +1,63 @@
+# Riding Spirits II cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Riding Spirits II"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90104054 0C08073A"
+
+  - name: "Unlimited Money"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "A00C2000 3C050001"
+      - "A00C2004 00A22821"
+      - "A00C2008 03E00008"
+      - "A00C200C ACA132A0"
+      - "201226BC 0C030800"
+      - "201226C0 2401FFFF"
+
+  - name: "Enable"
+    author: "Xploder"
+    notes: "[Timer Cheats]"
+    codes:
+      - "A00C2010 080415FA"
+      - "A00C2014 ACA00000"
+
+  - name: "(Hold [Select] And Press [L2])"
+    author: "Xploder"
+    notes: "[Timer Cheats]"
+    codes:
+      - "E001FEFE 0027C0DC"
+      - "201D6FF0 0C030804"
+
+  - name: "Restart Total Time"
+    author: "Xploder"
+    notes: "[Timer Cheats]"
+    codes:
+      - "E001FBFE 0027C0DC"
+      - "201D6FF0 0C0415FA"
+
+  - name: "Reset Lap Time"
+    author: "Xploder"
+    notes: "[Timer Cheats]"
+    codes:
+      - "E001FDFE 0027C0DC"
+      - "201D7068 0C030804"
+
+  - name: "Restart Lap Time"
+    author: "Xploder"
+    notes: "[Timer Cheats]"
+    codes:
+      - "E001F7FE 0027C0DC"
+      - "201D7068 0C0415FA"

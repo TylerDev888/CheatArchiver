@@ -1,0 +1,27 @@
+# How to Survive (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB01387
+
+game: "How to Survive (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB01387"
+cheat_type: "Save Editor"
+source: "From SHAkA"
+
+cheats:
+  - name: "Abby Max Xp"
+    notes: "File: ABBY_DAT"
+    codes:
+      - "write at 0x0000000D:0x98967F00"
+
+  - name: "Jack Max Xp"
+    notes: "File: JACK_DAT"
+    codes:
+      - "write at 0x0000000D:0x98967F00"
+
+  - name: "Kenj Max Xp"
+    notes: "File: KENJ_DAT"
+    codes:
+      - "write at 0x0000000D:0x98967F00"

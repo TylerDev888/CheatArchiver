@@ -1,0 +1,54 @@
+# Burnout - Dominator cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21596
+
+game: "Burnout - Dominator"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21596"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Drive Through Cars"
+    author: "bungholio"
+    codes:
+      - "2026D7D8 03E00008"
+      - "2026D7DC 00000000"
+
+  - name: "Freeze Timer"
+    author: "bungholio"
+    codes:
+      - "D049165C 00400101"
+      - "201E6B38 00000000"
+      - "D049165C 00400401"
+      - "201E6B38 E6000024"
+
+  - name: "Infinite Boost"
+    author: "bungholio"
+    codes:
+      - "21E89EA4 44420000"
+
+  - name: "Infinite Supercharge"
+    author: "bungholio"
+    codes:
+      - "21E89EB4 7fffffff"
+
+  - name: "Slow Motion Modifier"
+    author: "bungholio"
+    codes:
+      - "D049165c 00400010"
+      - "30200001 01D1CBE2"
+      - "D049165c 00400040"
+      - "30200001 01D1CBE2"
+
+  - name: "Start On Last Lap"
+    author: "bungholio"
+    codes:
+      - "21E89F44 00000002"
+
+  - name: "Turtoise Racers (Slow AI)"
+    author: "bungholio"
+    codes:
+      - "202CD6E4 24030001"

@@ -1,0 +1,111 @@
+# Evolution GT
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-21499  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Extra Available Points Usage
+**Author:** Code Master  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+102C1B70 00000001
+```
+
+---
+
+### Infinite Available Points Usage
+**Author:** Code Master  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+202C1B78 00000000
+```
+
+---
+
+### Infinite Car Condition
+**Author:** Code Master  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+202C8D20 3C0142C8
+202C8D24 AC410024
+```
+
+---
+
+### Infinite Driver Condition
+**Author:** Code Master  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+200C0220 3C014348
+200C0224 AC41002C
+200C0228 03E00008
+200C022C 44021000
+202C85CC 0C030088
+```
+
+---
+
+### Infinite Tiger Effect
+**Author:** Code Master  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+202C8610 3C014348
+202C8614 AC61007C
+```
+
+---
+
+### Max Infinite Available Points Usage
+**Author:** Code Master  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+202C1B70 24040063
+```
+
+---
+
+### P1 Press L1+Select To Stop Lap Timer
+**Author:** Code Master  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+D058931C 0000FBFE
+201F6B8C 00000000
+```
+
+---
+
+### P1 Press L2+Select To Restart Lap Timer
+**Author:** Code Master  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+D058931C 0000FEFE
+201F6B8C E460000C
+```
+
+---
+
+### P1 Press Select To Skip FMV
+**Author:** Code Master  
+**Notes:** [This Game Requires A Code Breaker PS2 V7.0 Or Higher!]
+
+```
+D058931C 0000FFFE
+201E0270 24020001
+D058931C 0000FFFF
+201E0270 8C620000
+```
+
+---

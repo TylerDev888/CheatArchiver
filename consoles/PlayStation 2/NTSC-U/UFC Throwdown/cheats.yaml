@@ -1,0 +1,86 @@
+# UFC Throwdown cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20252
+
+game: "UFC Throwdown"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20252"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0020341F"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9020341C 0C08BEED"
+
+  - name: "CPU Controlled Via Controller 2"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004AA7C8 00000000"
+
+  - name: "Infinite Challenge Points"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "004AA98C 00000064"
+
+  - name: "Max Endurance"
+    author: "Code Master"
+    notes: "[New Fighter Creation Codes]"
+    codes:
+      - "204AA974 00000024"
+
+  - name: "Max Stamina"
+    author: "Code Master"
+    notes: "[New Fighter Creation Codes]"
+    codes:
+      - "204AA978 00000024"
+
+  - name: "Max Punch Skill"
+    author: "Code Master"
+    notes: "[New Fighter Creation Codes]"
+    codes:
+      - "204AA97C 00000024"
+
+  - name: "Max Kick Skill"
+    author: "Code Master"
+    notes: "[New Fighter Creation Codes]"
+    codes:
+      - "204AA980 00000024"
+
+  - name: "Max Grappling Skill"
+    author: "Code Master"
+    notes: "[New Fighter Creation Codes]"
+    codes:
+      - "204AA984 00000024"
+
+  - name: "Max Speed"
+    author: "Code Master"
+    notes: "[New Fighter Creation Codes]"
+    codes:
+      - "204AA988 00000024"
+
+  - name: "Ass Kickin' Machine"
+    author: "Code Master"
+    notes: "[New Fighter Creation Codes]"
+    codes:
+      - "404AA974 00060001"
+      - "0000270F 00000000"
+
+  - name: "Complete Skill Challenges Easier"
+    author: "Code Master"
+    notes: "[New Fighter Creation Codes]"
+    codes:
+      - "404AC414 000F0019"
+      - "00000002 00000000"

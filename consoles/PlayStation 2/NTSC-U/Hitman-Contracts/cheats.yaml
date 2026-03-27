@@ -1,0 +1,119 @@
+# Hitman-Contracts cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20882
+
+game: "Hitman-Contracts"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20882"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "GMO>Lajos Szalay>Code Master"
+    notes: "[Masters]"
+    codes:
+      - "90450C0C 0C1172ED"
+
+  - name: "Disable FMV"
+    author: "GMO>Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20455C28 24020001"
+
+  - name: "Never Reload"
+    author: "GMO>Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2020F9B4 00000000"
+
+  - name: "Infinite Health"
+    author: "GMO>Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "203A3990 00000000"
+
+  - name: "Saves Left Dont Decrease When Saving"
+    author: "GMO>Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2037BDA0 00000000"
+
+  - name: "Extra Saves When Saving"
+    author: "GMO>Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1037BD94 00000001"
+
+  - name: "Save Once For 99 Saves Left"
+    author: "GMO>Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2037BD94 24050063"
+
+  - name: "Always Have 99 Saves Left"
+    author: "GMO>Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 24070063"
+      - "200C0224 03E00008"
+      - "200C0228 AE670C00"
+      - "2042EA1C 0C030088"
+
+  - name: "P1 Press R1+Right For God Mode On"
+    author: "GMO>Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0483D42 0000F7DF"
+      - "20507318 3F800000"
+
+  - name: "P1 Press R1+Left For God Mode On"
+    author: "GMO>Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0483D42 0000F77F"
+      - "20507318 3F800000"
+
+  - name: "P1 Press R1+Up For Invisible Mode On"
+    author: "GMO>Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0483D42 0000F7EF"
+      - "20506A40 3F800000"
+
+  - name: "P1 Press R1+Down For Invisible Mode Off"
+    author: "GMO>Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0483D42 0000F7BF"
+      - "20506A40 00000000"
+
+  - name: "P1 Press L3+R3 For Level Select (Main Menu)"
+    author: "GMO>Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0483D42 0000FFF9"
+      - "2041F9F0 00000000"
+      - "D0483D42 0000FFFF"
+      - "2041F9F0 10400032"
+
+  - name: "Slow Motion (R2+Up=On & R2+Down=Off)"
+    author: "GMO>Lajos Szalay>Code Master"
+    notes: "[Codes]"
+    codes:
+      - "200C0240 3C0800A0"
+      - "200C0244 00000000"
+      - "200C0248 00000000"
+      - "200C024C 00000000"
+      - "200C0250 00000000"
+      - "200C0254 00000000"
+      - "200C0258 1D00FFFD"
+      - "200C025C 2508FFFF"
+      - "200C0260 03E00008"
+      - "200C0264 00000000"
+      - "D0483D42 0000FDEF"
+      - "20450C24 08030090"
+      - "D0483D42 0000FDBF"
+      - "20450C24 03E00008"

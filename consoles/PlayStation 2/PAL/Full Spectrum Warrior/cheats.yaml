@@ -1,0 +1,114 @@
+# Full Spectrum Warrior cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53114
+
+game: "Full Spectrum Warrior"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53114"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F043EED8 0043EEDB"
+
+  - name: "All Chapters Available"
+    author: "Codejunkies"
+    codes:
+      - "20166420 00000000"
+
+  - name: "Fix"
+    notes: "[ARMAX FIX]"
+    codes:
+      - "1016E340 00000050"
+      - "1016E350 000003C0"
+      - "205003C8 4754454E"
+      - "205003CC 495C4955"
+      - "205003D0 4F4D504F"
+      - "205003D4 495C5344"
+      - "205003D8 5052504F"
+      - "205003DC 2E303033"
+      - "205003E0 3B474D49"
+      - "005003E4 00000031"
+
+  - name: "Disable Alpha"
+    author: "Codejunkies"
+    codes:
+      - "201092A8 24020001"
+
+  - name: "God Mode"
+    author: "Codejunkies"
+    codes:
+      - "0070D3A2 00000001"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "0070CDCD 00000001"
+
+  - name: "Iron Man Difficulty Available"
+    author: "Codejunkies"
+    codes:
+      - "201CC72C 00000000"
+
+  - name: "No Bloom"
+    author: "Codejunkies"
+    codes:
+      - "203ED6B0 24020001"
+
+  - name: "No Blur"
+    author: "Codejunkies"
+    codes:
+      - "203EBF58 24020001"
+
+  - name: "Soldiers Have Max Aim Variance/Hit Probability"
+    author: "Codejunkies"
+    codes:
+      - "20108420 3C017F00"
+      - "20108424 44810000"
+      - "20108468 3C017F00"
+      - "2010846C 44810000"
+
+  - name: "Hyper Mode (Press R3+Left)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "2070C4DC 40400000"
+
+  - name: "Normal Speed (Press R3+Down)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "D0742A82 0000FFBB"
+      - "2070C4DC 3F800000"
+
+  - name: "Quicker Game (Press R3+Right)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "D0742A82 0000FFDB"
+      - "2070C4DC 3FD00000"
+
+  - name: "Slow Motion (Press R3+Up)"
+    author: "Codejunkies"
+    notes: "[Speed Codes]"
+    codes:
+      - "D0742A82 0000FFEB"
+      - "2070C4DC 3E800000"
+
+  - name: "Inversed"
+    author: "Codejunkies"
+    notes: "[Zoom Codes]"
+    codes:
+      - "2070CAA4 3F000000"
+
+  - name: "Zoom Further"
+    author: "Codejunkies"
+    notes: "[Zoom Codes]"
+    codes:
+      - "2070CAA4 41800000"

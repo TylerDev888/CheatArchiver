@@ -1,0 +1,100 @@
+# Sega Ages 2500 Series Vol.24 - Last Bronx cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-62687
+
+game: "Sega Ages 2500 Series Vol.24 - Last Bronx"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-62687"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "1Hitkill Player 2"
+    author: "luc-ita"
+    codes:
+      - "0022ECC8 00000001"
+      - "0022ED50 00000001"
+
+  - name: "AI Does Not Attack"
+    author: "luc-ita"
+    codes:
+      - "2015E95C 10000003"
+
+  - name: "Player 1 Is Untouchable"
+    author: "luc-ita"
+    codes:
+      - "2015E9E8 10000005"
+      - "201250D4 00000000"
+
+  - name: "Enable Code(MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90212F58 0C084B7E"
+
+  - name: "Joker Address"
+    notes: "[Jokers]"
+    codes:
+      - "01F59042 0000[Joker:PS2]"
+
+  - name: "Inf Timer"
+    codes:
+      - "101229CC 00000000"
+
+  - name: "Activator"
+    notes: "[Characters]  200A0000 [PLAYER]"
+    codes:
+      - "200A0010 080574D9"
+      - "200A0014 8E0F021C"
+      - "200A0020 1000FFFA"
+      - "2015D360 08028000"
+      - "2015D364 00000000"
+
+  - name: "1 Hit Death Opossing Player}"
+    notes: "[Characters]"
+    codes:
+      - "200A0008 AE00021C"
+
+  - name: "Inf Hp Player}"
+    notes: "[Characters]"
+    codes:
+      - "200A0018 240F0090"
+      - "200A001C AE0F021C"
+
+  - name: "Inf HP"
+    notes: "[Player 1]"
+    codes:
+      - "0022AFBC 00000090"
+
+  - name: "1 Fall = Win"
+    notes: "[Player 1]"
+    codes:
+      - "00122EF0 00000002"
+
+  - name: "Wins Dont Count"
+    notes: "[Player 1]"
+    codes:
+      - "00122EF0 00000000"
+
+  - name: "Get ?? Wins In A Row To Win"
+    notes: "[Player 1]"
+    codes:
+      - "200A0034 8D820098"
+      - "200A0038 24420001"
+      - "200A003C AD820098"
+      - "200A0040 8D820098"
+      - "200A0044 240E00??"
+      - "200A0048 15C20005"
+      - "200A0050 25EF0002"
+      - "200A0058 08048BBC"
+      - "200A005C 8E4E07C4"
+      - "200A0064 1000FFFB"
+      - "200A0068 25EF0000"
+      - "20122EEC 0802800D"
+      - "20122EF0 00000000"
+
+  - name: "Character Mod"
+    notes: "[Player 1]"
+    codes:
+      - "0022ADA0 000000{CHM]"

@@ -1,0 +1,102 @@
+# Alien Breed 3_ Descent (PSN) cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00346
+
+game: "Alien Breed 3_ Descent (PSN)"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00346"
+cheat_type: "Save Editor"
+source: "From zeick & chaoszage"
+
+cheats:
+  - name: "999999 Money"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"Env_Split\""
+      - "write next (18):0098967F"
+
+  - name: "Max Assaultrifle Ammo"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABWeap_AssaultRifle_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (10):270F0000270F"
+
+  - name: "Max Shotcannon Ammo"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABWeap_ShotCannon_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (10):270F0000270F"
+
+  - name: "Max Flamethrower Ammo"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABWeap_FlameThrower_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (10):270F0000270F"
+
+  - name: "Max Electrolinkgun Ammo"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABWeap_ElectroLinkGun_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (10):270F0000270F"
+
+  - name: "Max Projectx Ammo"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABWeap_ProjectX_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (10):270F0000270F"
+
+  - name: "99 Smallhealthkits"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABItem_SmallHealthKit_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (11):63"
+
+  - name: "99 Fraggrenades"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABItem_FragGrenade_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (11):63"
+
+  - name: "99 Largehealthkits"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABItem_LargeHealthKit_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (11):63"
+
+  - name: "99 Stungrenades"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABItem_Flare_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (11):63"
+
+  - name: "99 Sentrygun"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABItem_SentryGun1_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (11):63"
+
+  - name: "99 Armour"
+    notes: "File: GAME.DAT"
+    codes:
+      - "search \"ABItem_Armour_\""
+      - "search next 0xFFFFFFFF"
+      - "write next (11):63"
+
+  - name: "Default:update Crc32 (required)"
+    notes: "File: GAME.DAT"
+    codes:
+      - "set range:0x100,0x2000F7"
+      - "set [crc]:crc32big"
+      - "write at 0xF8:[crc]"

@@ -1,0 +1,25 @@
+# Garou Densetsu Battle Archives 2 [Neogeo Online Collection Vol.6] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25698
+
+game: "Garou Densetsu Battle Archives 2 [Neogeo Online Collection Vol.6]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25698"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "9026B8A0 0C09ADD0"
+
+  - name: "Force Videout To 480I Instead Of 240P"
+    author: "lee4"
+    codes:
+      - "201FB2A4 24110001"
+      - "201FB2A8 24120002"
+      - "201FB2B4 24130001"

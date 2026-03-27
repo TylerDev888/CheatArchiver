@@ -1,0 +1,37 @@
+# Alien Breed (EUR) cheat data
+# Console: PlayStation Vita
+# Region:  PAL
+# Serial:  PCSB00231
+
+game: "Alien Breed (EUR)"
+console: "PlayStation Vita"
+region: "PAL"
+serial: "PCSB00231"
+cheat_type: "Save Editor"
+source: "Credits: Slade"
+
+cheats:
+  - name: "999,999 Credits"
+    notes: "File: my_data.bin"
+    codes:
+      - "20003C10 000F423F"
+
+  - name: "99 Lives"
+    notes: "File: my_data.bin"
+    codes:
+      - "00003C2C 00000063"
+
+  - name: "99 Health"
+    notes: "File: my_data.bin"
+    codes:
+      - "00003C30 00000063"
+
+  - name: "99 Keys"
+    notes: "File: my_data.bin"
+    codes:
+      - "00003C34 00000063"
+
+  - name: "Full Ammo"
+    notes: "File: my_data.bin"
+    codes:
+      - "10003C38 00003DE0"

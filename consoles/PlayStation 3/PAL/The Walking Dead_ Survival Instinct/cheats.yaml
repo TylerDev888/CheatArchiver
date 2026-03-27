@@ -1,0 +1,95 @@
+# The Walking Dead_ Survival Instinct cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01779
+
+game: "The Walking Dead_ Survival Instinct"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01779"
+cheat_type: "Save Editor"
+source: "From KE-HA & Game Genie For PS3"
+
+cheats:
+  - name: "Inventory Item No.1-no.10 Stock 9,999"
+    notes: "File: BLES01779_CONTENT\\PROFILE"
+    codes:
+      - "42001C2C 0000270F"
+      - "400A0144 00000000"
+
+  - name: "Jess Condition 125"
+    notes: "File: BLES01779_CONTENT\\PROFILE"
+    codes:
+      - "2000073C 0000007D"
+
+  - name: "Vehicle # Of Seats 4"
+    notes: "File: BLES01779_CONTENT\\PROFILE"
+    codes:
+      - "20001990 00000004"
+
+  - name: "Vehicle Storage Cap 18"
+    notes: "File: BLES01779_CONTENT\\PROFILE"
+    codes:
+      - "20001994 00000012"
+
+  - name: "Slots 1-10 1 Mil Count"
+    notes: "File: BLES01779_CONTENT\\PROFILE"
+    codes:
+      - "42001C2C 000F4240"
+      - "400A0144 00000000"
+
+  - name: "Slots 1-10 50,000 Count"
+    notes: "File: BLES01779_CONTENT\\PROFILE"
+    codes:
+      - "42001C2C 0000C350"
+      - "400A0144 00000000"
+
+  - name: "Slot 1"
+    notes: "[Max Items]  File: BLES01779_CONTENT\\PROFILE"
+    codes:
+      - "20001C2C 00000001"
+
+  - name: "Slot 2"
+    notes: "[Max Items]  File: BLES01779_CONTENT\\PROFILE"
+    codes:
+      - "20001D70 00000002"
+
+  - name: "Slot 3"
+    notes: "[Max Items]  File: BLES01779_CONTENT\\PROFILE"
+    codes:
+      - "20001EB4 00000003"
+
+  - name: "Slot 4"
+    notes: "[Max Items]  File: BLES01779_CONTENT\\PROFILE"
+    codes:
+      - "20001FF8 00000004"
+
+  - name: "Slot 5"
+    notes: "[Max Items]  File: BLES01779_CONTENT\\PROFILE"
+    codes:
+      - "2000213C 00000005"
+
+  - name: "Slot 6"
+    notes: "[Max Items]  File: BLES01779_CONTENT\\PROFILE"
+    codes:
+      - "20002280 00000006"
+
+  - name: "Slot 7"
+    notes: "[Max Items]  File: BLES01779_CONTENT\\PROFILE"
+    codes:
+      - "200023C4 00000007"
+
+  - name: "Slot 8"
+    notes: "[Max Items]  File: BLES01779_CONTENT\\PROFILE"
+    codes:
+      - "20002508 00000008"
+
+  - name: "Slot 9"
+    notes: "[Max Items]  File: BLES01779_CONTENT\\PROFILE"
+    codes:
+      - "2000264C 00000009"
+
+  - name: "Slot 10"
+    notes: "[Max Items]  File: BLES01779_CONTENT\\PROFILE"
+    codes:
+      - "20002790 0000000A"

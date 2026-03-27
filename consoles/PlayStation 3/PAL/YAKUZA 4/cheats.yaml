@@ -1,0 +1,174 @@
+# YAKUZA 4 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01081
+
+game: "YAKUZA 4"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01081"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3 & krustytoe"
+
+cheats:
+  - name: "All Chars Max Money"
+    notes: "File: BLES01081L*\\USER01"
+    codes:
+      - "420082D0 3B9AC9FF"
+      - "40040004 00000000"
+
+  - name: "All Chars Abilites X99"
+    notes: "File: BLES01081L*\\USER01"
+    codes:
+      - "000057EC 00000063"
+      - "0000589C 00000063"
+      - "0000594C 00000063"
+      - "000059FC 00000063"
+
+  - name: "Max Money"
+    notes: "[Akiyama]  File: BLES01081L*\\USER01"
+    codes:
+      - "200082D4 3B9AC9FF"
+
+  - name: "Max Eco Points"
+    notes: "[Akiyama]  File: BLES01081L*\\USER01"
+    codes:
+      - "20008334 3B9AC9FF"
+
+  - name: "Max Souls"
+    notes: "[Akiyama]  File: BLES01081L*\\USER01"
+    codes:
+      - "0000589C 00000063"
+
+  - name: "Max Casino Chips"
+    notes: "[Akiyama]  File: BLES01081L*\\USER01"
+    codes:
+      - "200082E4 05F5E0FF"
+
+  - name: "Max Wooden Tags"
+    notes: "[Akiyama]  File: BLES01081L*\\USER01"
+    codes:
+      - "200082F4 05F5E0FF"
+
+  - name: "Max Mahjong Sticks"
+    notes: "[Akiyama]  File: BLES01081L*\\USER01"
+    codes:
+      - "20008304 05F5E0FF"
+
+  - name: "Max Pachinko Balls"
+    notes: "[Akiyama]  File: BLES01081L*\\USER01"
+    codes:
+      - "20008384 05F5E0FF"
+
+  - name: "Total Continue Stat 00(from Www55.atwiki.jp)"
+    notes: "[Tanimura]  File: BLES01081L*\\USER01"
+    codes:
+      - "0000847B 00000000"
+
+  - name: "Current Continue Stat 00"
+    notes: "[Tanimura]  File: BLES01081L*\\USER01"
+    codes:
+      - "0000848F 00000000"
+
+  - name: "Melee Kills 99"
+    notes: "[Tanimura]  File: BLES01081L*\\USER01"
+    codes:
+      - "00009B49 00000063"
+
+  - name: "Destroyed By Using Weapons Stat 99"
+    notes: "[Tanimura]  File: BLES01081L*\\USER01"
+    codes:
+      - "00009B4A 00000063"
+
+  - name: "Walking Distance 99.9km"
+    notes: "[Tanimura]  File: BLES01081L*\\USER01"
+    codes:
+      - "20009B4C 47C34E00"
+
+  - name: "Cave(?) Army Gold Max"
+    notes: "[Tanimura]  File: BLES01081L*\\USER01"
+    codes:
+      - "20008324 05F5B9F0"
+
+  - name: "Picked Up Trash From Street Stat 19"
+    notes: "[Tanimura]  File: BLES01081L*\\USER01"
+    codes:
+      - "0000530F 00000013"
+
+  - name: "\"create A Fighter!\" Gold Max"
+    notes: "[Tanimura]  File: BLES01081L*\\USER01"
+    codes:
+      - "20008348 05F5B9F0"
+
+  - name: "All Chars Lv19"
+    notes: "[Tanimura]  File: BLES01081L*\\USER01"
+    codes:
+      - "400057D8 00000013"
+      - "400400B0 00000000"
+
+  - name: "All Chars Exp 22500"
+    notes: "[Tanimura]  File: BLES01081L*\\USER01"
+    codes:
+      - "420057E0 000057E4"
+      - "400400B0 00000000"
+
+  - name: "All Chars Have A Golden Gun"
+    notes: "[Tanimura]  File: BLES01081L*\\USER01"
+    codes:
+      - "20005A84 02F1FFFF"
+      - "10005A88 0000FFFF"
+      - "20005B24 02F1FFFF"
+      - "10005B28 0000FFFF"
+      - "20005BC4 02F1FFFF"
+      - "10005BC8 0000FFFF"
+      - "20005C64 02F1FFFF"
+      - "10005C68 0000FFFF"
+
+  - name: "Heat Guage Max"
+    notes: "[Tanimura]  File: BLES01081L*\\USER01"
+    codes:
+      - "420057D0 46AF0000"
+      - "400400B0 00000000"
+
+  - name: "Heat Guage Rising Max(refill?)"
+    notes: "[Tanimura]  File: BLES01081L*\\USER01"
+    codes:
+      - "400057D7 0000001F"
+      - "400400B0 00000000"
+
+  - name: "Saigo's Training Completed"
+    notes: "[Tanimura]  File: BLES01081L*\\USER01"
+    codes:
+      - "200027FC 001E39FF"
+
+  - name: "If7-r Is Finished"
+    notes: "[Tanimura]  File: BLES01081L*\\USER01"
+    codes:
+      - "2000285C FFFFFFFF"
+      - "20002860 FFFFFFFF"
+      - "10002864 0000FFFF"
+
+  - name: "Sennin(?) Quest Completed"
+    notes: "[Tanimura]  File: BLES01081L*\\USER01"
+    codes:
+      - "1000281E 00001FFF"
+
+  - name: "Easy"
+    notes: "[Difficulty Modifer(choose One)]  File: BLES01081L*\\USER01"
+    codes:
+      - "10000014 00000000"
+
+  - name: "Normal"
+    notes: "[Difficulty Modifer(choose One)]  File: BLES01081L*\\USER01"
+    codes:
+      - "10000014 00000101"
+
+  - name: "Hard"
+    notes: "[Difficulty Modifer(choose One)]  File: BLES01081L*\\USER01"
+    codes:
+      - "10000014 00000202"
+
+  - name: "Ex-hard"
+    notes: "[Difficulty Modifer(choose One)]  File: BLES01081L*\\USER01"
+    codes:
+      - "10000014 00000303"

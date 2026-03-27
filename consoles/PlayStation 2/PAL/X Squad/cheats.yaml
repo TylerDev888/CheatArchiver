@@ -1,0 +1,35 @@
+# X Squad cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "X Squad"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001BBB97"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "11AC1BF8 07230025"
+
+  - name: "Shield"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "11AC1BFC 07230025"
+
+  - name: "Ammunition"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "20290BD4 FFFF0001"

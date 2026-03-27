@@ -1,0 +1,47 @@
+# Dragonball Z_ Budokai 3 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Dragonball Z_ Budokai 3"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "9014E4EC 0C068D48"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "2049B360 461C3C00"
+
+  - name: "1-Hit Kills"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "D049B362 00300000"
+      - "2049B360 3F800000"
+
+  - name: "Ki"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "2049B370 461C3C00"
+
+  - name: "Zenie"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "200C2000 3C01000F"
+      - "200C2004 3421423F"
+      - "200C2008 AC610000"
+      - "200C200C 03E00008"
+      - "200C2010 0000382D"
+      - "20278FB8 0C030800"

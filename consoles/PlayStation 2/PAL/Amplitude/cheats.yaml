@@ -1,0 +1,52 @@
+# Amplitude cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-51706
+
+game: "Amplitude"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-51706"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0101F48 00101F4B"
+
+  - name: "Duel Authoring Mode"
+    author: "Codejunkies"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "0042E5A4 00000001"
+
+  - name: "Power Up Cheat Mode"
+    author: "Codejunkies"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "0042E5A8 00000001"
+
+  - name: "Power Ups-A-Plenty"
+    author: "Codejunkies"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "0042E5B0 00000001"
+
+  - name: "Scrambled Gem Mode"
+    author: "Codejunkies"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "0042E5AC 00000001"
+
+  - name: "Finish Track For Max Score"
+    author: "Codejunkies"
+    codes:
+      - "20278604 2402270F"
+
+  - name: "Infinite Energy"
+    author: "Codejunkies"
+    codes:
+      - "2013B8D0 03E00008"

@@ -1,0 +1,19 @@
+# WET cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00707
+
+game: "WET"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00707"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 (required)"
+    notes: "File: BLES00707-WETSAVEGAME\\ACHIEVE.DAT"
+    codes:
+      - "set range:0x00000C,0x000113"
+      - "set [hash]:CRC32"
+      - "write at 0x000004:[hash]"

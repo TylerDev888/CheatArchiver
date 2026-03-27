@@ -1,0 +1,77 @@
+# Catwoman cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52567
+
+game: "Catwoman"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52567"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01D2280 001D2283"
+
+  - name: "9999 Diamonds"
+    author: "Codejunkies"
+    codes:
+      - "2025DACC 0000270F"
+
+  - name: "Infinite Health/Power"
+    author: "Codejunkies"
+    codes:
+      - "2025D2DC 447A0000"
+
+  - name: "Lots Of Points"
+    author: "Codejunkies"
+    codes:
+      - "2025DB70 0001869F"
+
+  - name: "Lots Of Unlocked Goodies"
+    author: "Codejunkies"
+    codes:
+      - "20341CE8 FFFFFFFF"
+      - "20341CEC FFFFFFFF"
+      - "20341CF0 FFFFFFFF"
+      - "20341CF4 FFFFFFFF"
+      - "20341CF8 FFFFFFFF"
+      - "20341CFC FFFFFFFF"
+      - "20341D00 FFFFFFFF"
+      - "20341D04 FFFFFFFF"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "901D2280 0C078881"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "5025D2E0 00000004"
+      - "0025D2DC 00000000"
+
+  - name: "Points"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "2025DB70 0001869F"
+
+  - name: "Diamonds"
+    author: "Xploder"
+    notes: "[Max]"
+    codes:
+      - "2025DACC 000F423F"
+
+  - name: "All Goodies"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "40341CE8 00080001"
+      - "FFFFFFFF 00000000"

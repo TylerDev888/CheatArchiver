@@ -1,0 +1,62 @@
+# 2002 FIFA World Cup cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20404
+
+game: "2002 FIFA World Cup"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20404"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 003685DF"
+
+  - name: "Home Team Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "10396898 000000??"
+
+  - name: "Home Team Start With Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D0396898 00000000"
+      - "10396898 000000??"
+
+  - name: "Away Team Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1039689C 000000??"
+
+  - name: "Away Team Start With Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D039689C 00000000"
+      - "1039689C 000000??"
+
+  - name: "All Goal's Score For Home Team"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201859BC 24030000"
+
+  - name: "All Goal's Score For Away Team"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201859BC 24030004"
+
+  - name: "Goal's Score Modifier"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "101859C8 000000??"

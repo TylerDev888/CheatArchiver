@@ -1,0 +1,24 @@
+# The King Of Fighters - Orochi Collection [Neogeo Online Collection Vol.3] cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25605
+
+game: "The King Of Fighters - Orochi Collection [Neogeo Online Collection Vol.3]"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25605"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "902B3758 0C0ACD7E"
+
+  - name: "KOF RAM Pointer"
+    author: "lee4"
+    notes: "E0023X39 00A85A32 00000001 0000YYYY"
+    codes:
+      - "6176EDC8 000000??"

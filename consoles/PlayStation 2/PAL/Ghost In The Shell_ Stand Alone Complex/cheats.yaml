@@ -1,0 +1,41 @@
+# Ghost In The Shell_ Stand Alone Complex cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Ghost In The Shell_ Stand Alone Complex"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90101BB8 0C0A880A"
+      - "200C2000 C601033C"
+      - "200C2014 03E00008"
+      - "201414A0 0C030800"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2004 E6010338"
+      - "200C2008 E6010334"
+
+  - name: "Armour"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C200C 8E01034C"
+      - "200C2010 AE010348"
+      - "200C2018 AE010344"
+
+  - name: "Ammo"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20115CAC 00000000"

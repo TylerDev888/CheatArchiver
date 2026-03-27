@@ -1,0 +1,67 @@
+# Eye Toy cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97319
+
+game: "Eye Toy"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97319"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0157010 0011AC6F"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9011AC6C 0C053FCC"
+
+  - name: "Quick Score Gain"
+    author: "Code Master"
+    notes: "[Beat Freak Codes]"
+    codes:
+      - "10453A00 0000FFFF"
+
+  - name: "Max Score"
+    author: "Code Master"
+    notes: "[Beat Freak Codes]"
+    codes:
+      - "20453A00 0098967F"
+
+  - name: "Infinite Lives"
+    author: "Code Master"
+    notes: "[Kung Foo Codes]"
+    codes:
+      - "2043A8F0 00000003"
+
+  - name: "Infinite Time"
+    author: "Code Master"
+    notes: "[Kung Foo Codes]"
+    codes:
+      - "2043AA8C 00002A40"
+
+  - name: "Super Quick Score Gain"
+    author: "Code Master"
+    notes: "[Kung Foo Codes]"
+    codes:
+      - "20247EEC 2442270F"
+
+  - name: "Hella Quick Score Gain"
+    author: "Code Master"
+    notes: "[Kung Foo Codes]"
+    codes:
+      - "20247EEC 24427FFF"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Boxing Chump Codes]"
+    codes:
+      - "20282F70 3C013F80"
+      - "20282F78 AC410120"

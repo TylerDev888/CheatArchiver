@@ -1,0 +1,27 @@
+# Cabela's North American Adventures cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  BLUS30564
+
+game: "Cabela's North American Adventures"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "BLUS30564"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc-16 Ccitt (required)"
+    notes: "File: USRDATA  (set range:0x000000,0x013FFB) (write at 0x013FFE:[hash])"
+    codes:
+      - "set crc_bandwidth:16"
+      - "set crc_polynomial:0x1021"
+      - "set crc_initial_value:0xFFFF"
+      - "set crc_output_xor:0"
+      - "set crc_reflection_input:0"
+      - "set crc_reflection_output:0"
+      - "set pointer:eof-3"
+      - "set range:0x000000,pointer"
+      - "set [hash]:crc"
+      - "set pointer:eof-1"
+      - "write next (0):[hash]"

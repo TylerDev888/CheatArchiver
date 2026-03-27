@@ -1,0 +1,25 @@
+# King Of Fighters 2000, The cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25156
+
+game: "King Of Fighters 2000, The"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25156"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "9010C3F8 0C0430A6"
+
+  - name: "Force Videout To 480I Instead Of 240P"
+    author: "lee4"
+    codes:
+      - "2010026C 24110001"
+      - "20100270 24120002"
+      - "2010027C 24130001"

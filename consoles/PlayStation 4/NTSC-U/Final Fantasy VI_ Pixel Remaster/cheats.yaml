@@ -1,0 +1,27 @@
+# Final Fantasy VI_ Pixel Remaster cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA33837
+
+game: "Final Fantasy VI_ Pixel Remaster"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA33837"
+cheat_type: "SaveWizard"
+source: ""
+
+cheats:
+  - name: "Add Item"
+    notes: "File: (Slot(20|1[0-9]|[1-9])|System|Slot22)"
+    codes:
+      - "search \"normalOwnedItemList\\\""
+      - "Insert Next 29: \"\\\\\\\"{\\\\\\\\\\\\\\\"contentId\\\\\\\\\\\\\\\":[Item],\\\\\\\\\\\\\\\"count\\\\\\\\\\\\\\\":[Amount:99:UTF08:TXT]}\\\\\\\",\""
+
+  - name: "Edit Amount Existing Item"
+    notes: "File: (Slot(20|1[0-9]|[1-9])|System|Slot22)"
+    codes:
+      - "search \"normalOwnedItemList\\\""
+      - "search next \"\\\\\\\\\\\\\\\"contentId\\\\\\\\\\\\\\\":[Item]\""
+      - "search next \"\"count\\\\\\\\\\\\\\\"\""
+      - "delete next E:until \"}\""
+      - "Insert next E: \":[Amount:99:UTF08:TXT]\""

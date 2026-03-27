@@ -1,0 +1,119 @@
+# Driven cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20239
+
+game: "Driven"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20239"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M)Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F01BDEC8 001C8067"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F01BDDE8 001C8067"
+
+  - name: "1 Lap Races"
+    author: "InterAct"
+    codes:
+      - "1031E40C 00000001"
+
+  - name: "Always In The Zone"
+    author: "InterAct"
+    codes:
+      - "2031E2D4 000000C8"
+
+  - name: "Always Low Time"
+    author: "InterAct"
+    codes:
+      - "2031E614 00000000"
+      - "2031E640 00000000"
+      - "2032B664 00000000"
+      - "2031E66C 00000000"
+      - "2032B454 00000000"
+      - "2032BA84 00000000"
+
+  - name: "Have All Levels (Story Mode)"
+    author: "Code Master"
+    codes:
+      - "103CBD3C 0000FFFF"
+
+  - name: "Have All Racers"
+    author: "Code Master"
+    codes:
+      - "103CBE0C 0000FFFF"
+
+  - name: "Have Arcade Modes"
+    author: "Code Master"
+    codes:
+      - "003CBD70 000000FF"
+
+  - name: "Infinite Lives"
+    author: "InterAct"
+    codes:
+      - "1031E274 00000063"
+
+  - name: "No Competition"
+    author: "InterAct"
+    codes:
+      - "103CBB9C 00000000"
+
+  - name: "Number Of CPU Cars Modifier (00-0B)"
+    author: "Code Master"
+    codes:
+      - "103CBB9C 000000??"
+
+  - name: "Press L1+L2 To Be On Lap 8"
+    author: "Code Master"
+    codes:
+      - "E002FAFF 003169C2"
+      - "2031E410 00000007"
+      - "2031E440 00000007"
+
+  - name: "Press L2 To Be On Lap 6"
+    author: "InterAct"
+    codes:
+      - "E004FEFF 003169C2"
+      - "2031E410 00000005"
+      - "2031E440 00000005"
+
+  - name: "Press R1+R2 To Be On Lap 4"
+    author: "Code Master"
+    codes:
+      - "E002F5FF 003169C2"
+      - "2031E410 00000003"
+      - "2031E440 00000003"
+
+  - name: "Press R2 To Be On Lap 3"
+    author: "InterAct"
+    codes:
+      - "E004FDFF 003169C2"
+      - "2031E410 00000002"
+      - "2031E440 00000002"
+
+  - name: "Total Laps Modifier"
+    author: "Code Master"
+    codes:
+      - "1031E40C 000000??"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F01BDDE8 001C8067"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901C8064 0C07E0D6"

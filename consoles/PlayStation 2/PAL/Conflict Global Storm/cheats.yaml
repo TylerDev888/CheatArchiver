@@ -1,0 +1,53 @@
+# Conflict Global Storm cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Conflict Global Storm"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90429BC4 0C1395F6"
+
+  - name: "Health (Squad)"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2000 03E00008"
+      - "200C2004 E4E00180"
+      - "201DEBE0 0C030800"
+
+  - name: "Health (Vehicles)"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2010 4600A006"
+      - "200C2014 03E00008"
+      - "200C2018 E6400180"
+      - "20258F30 0C030804"
+
+  - name: "Ammo (No Reload)"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "2023623C 00000000"
+      - "20236240 00000000"
+
+  - name: "Grenades"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20235644 00000000"
+
+  - name: "Cheats Menu"
+    author: "Xploder"
+    notes: "[Unlock]"
+    codes:
+      - "2054EF8C 00000001"

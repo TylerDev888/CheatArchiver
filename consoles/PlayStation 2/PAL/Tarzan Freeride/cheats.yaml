@@ -1,0 +1,29 @@
+# Tarzan Freeride cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Tarzan Freeride"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0200008 0023A81F"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimted]"
+    codes:
+      - "2027BA98 00000000"
+
+  - name: "Lives"
+    author: "Xploder"
+    notes: "[Unlimted]"
+    codes:
+      - "202E0148 00000000"

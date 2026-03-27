@@ -1,0 +1,167 @@
+# Saturday Night Speedway cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20640
+
+game: "Saturday Night Speedway"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20640"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F03AE52C 003AE52F"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 003AE52F"
+
+  - name: "[M] Must Be On"
+    author: "MadCatz"
+    notes: "[Master Codes]"
+    codes:
+      - "903AE52C 0C0F01BB"
+
+  - name: "Start On Lap 10"
+    author: "Codejunkies"
+    notes: "[Start On Lap Codes]"
+    codes:
+      - "D145DE80 00000000"
+      - "1045DE80 00000009"
+
+  - name: "Start On Lap 15"
+    author: "Codejunkies"
+    notes: "[Start On Lap Codes]"
+    codes:
+      - "D145DE80 00000000"
+      - "1045DE80 0000000E"
+
+  - name: "Start On Lap 2"
+    author: "Codejunkies"
+    notes: "[Start On Lap Codes]"
+    codes:
+      - "D145DE80 00000000"
+      - "1045DE80 00000001"
+
+  - name: "Start On Lap 20"
+    author: "Codejunkies"
+    notes: "[Start On Lap Codes]"
+    codes:
+      - "D145DE80 00000000"
+      - "1045DE80 00000013"
+
+  - name: "Start On Lap 3"
+    author: "Codejunkies"
+    notes: "[Start On Lap Codes]"
+    codes:
+      - "D145DE80 00000000"
+      - "1045DE80 00000002"
+
+  - name: "Start On Lap 4"
+    author: "Codejunkies"
+    notes: "[Start On Lap Codes]"
+    codes:
+      - "D145DE80 00000000"
+      - "1045DE80 00000003"
+
+  - name: "Start On Lap 5"
+    author: "Codejunkies"
+    notes: "[Start On Lap Codes]"
+    codes:
+      - "D145DE80 00000000"
+      - "1045DE80 00000004"
+
+  - name: "Always On Lap Modifier"
+    author: "Code Master"
+    codes:
+      - "2045DE80 000000??"
+
+  - name: "Balance Doesn't Decrease When Buying"
+    author: "Code Master"
+    codes:
+      - "201EB710 00000000"
+
+  - name: "Balance Increases When Buying"
+    author: "Code Master"
+    codes:
+      - "201EB708 0045102D"
+
+  - name: "Disable FMV"
+    author: "Code Master"
+    codes:
+      - "203B03A0 24020001"
+
+  - name: "Infinite Balance"
+    author: "Code Master"
+    codes:
+      - "10B49818 0000FFFF"
+
+  - name: "Infinite Funds"
+    author: "Codejunkies"
+    codes:
+      - "20B49818 05F5E0FF"
+
+  - name: "Infinite Tear-Offs"
+    author: "Codejunkies"
+    codes:
+      - "20485F00 00000063"
+
+  - name: "Infinite: Tear-Offs"
+    author: "MadCatz"
+    codes:
+      - "20198704 24820000"
+      - "201986F0 24820000"
+
+  - name: "Lower Lap Times"
+    author: "Code Master"
+    codes:
+      - "D045DE34 00300300"
+      - "2045DE34 00000300"
+
+  - name: "Max Overall Tear Offs"
+    author: "Code Master"
+    codes:
+      - "20485F08 00000063"
+
+  - name: "P1 Press L1+Select To Stop Lap Timer"
+    author: "Code Master"
+    codes:
+      - "D08B1B42 0000FBFE"
+      - "20155954 00000000"
+
+  - name: "P1 Press L2+Select To Resume Lap Timer"
+    author: "Code Master"
+    codes:
+      - "D08B1B42 0000FEFE"
+      - "20155954 AC62DE34"
+
+  - name: "Start On Lap Modifier"
+    author: "Code Master"
+    codes:
+      - "D045DE80 00000000"
+      - "2045DE80 000000??"
+
+  - name: "Max Balance"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20B49818 05F5E0FF"
+
+  - name: "Balance Doesnt Decrease When Buying"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201EB710 00000000"
+
+  - name: "Max Current Tear Offs"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "20485F00 00000063"

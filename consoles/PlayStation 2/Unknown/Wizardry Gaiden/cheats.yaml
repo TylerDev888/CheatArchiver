@@ -1,0 +1,36 @@
+# Wizardry Gaiden cheat data
+# Console: PlayStation 2
+# Region:  Unknown
+# Serial:  TCPS-10166
+
+game: "Wizardry Gaiden"
+console: "PlayStation 2"
+region: "Unknown"
+serial: "TCPS-10166"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Buy Even Without Money At The Store"
+    author: "luc-ita"
+    codes:
+      - "2022CA9C 1000001A"
+
+  - name: "Level Up At Adventurer's Inn Even Without EXP"
+    author: "luc-ita"
+    codes:
+      - "201DE098 00000000"
+
+  - name: "Rest At Adventurer's Inn Even Without Money"
+    author: "luc-ita"
+    codes:
+      - "201FF92C 10000009"
+
+  - name: "Set English Language"
+    author: "luc-ita"
+    codes:
+      - "00A63238 00000000"
+      - "00A630F1 00000000"
+      - "00A630F2 00000000"
+      - "10A630EC 00000000"
+      - "00A630EE 00000000"

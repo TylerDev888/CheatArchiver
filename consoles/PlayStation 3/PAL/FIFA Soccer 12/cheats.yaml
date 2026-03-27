@@ -1,0 +1,20 @@
+# FIFA Soccer 12 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01381
+
+game: "FIFA Soccer 12"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01381"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Sys-data (required)(uefa Euro 2012)"
+    notes: "File: SYS-DATA  (set range:0x00001C,0x079A4A)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x00001C,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000010:[hash]"

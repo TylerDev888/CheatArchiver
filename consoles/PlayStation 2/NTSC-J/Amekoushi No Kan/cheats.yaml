@@ -1,0 +1,24 @@
+# Amekoushi No Kan cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25702
+
+game: "Amekoushi No Kan"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25702"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90218B90 0C08628C"
+
+  - name: "Unlock All Investigative Journal"
+    author: "punk7890"
+    codes:
+      - "4038D6CC 00130001"
+      - "FFFFFFFF 00000000"

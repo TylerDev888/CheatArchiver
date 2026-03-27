@@ -1,0 +1,157 @@
+# Lost Dimension cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUB31711
+
+game: "Lost Dimension"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUB31711"
+cheat_type: "AP"
+source: "From eighthdayregret"
+
+cheats:
+  - name: "Max En"
+    notes: "File: SAVE1"
+    codes:
+      - "write at 0x27B8: 3B9AC9FF"
+
+  - name: "9999 Vp"
+    notes: "File: SAVE1"
+    codes:
+      - "write at 0x83DE: 270F"
+
+  - name: "Yellow:stats Reset Upon Level Up"
+    notes: "[All Character Codes]  File: SAVE1"
+
+  - name: "Lv 99"
+    notes: "[All Character Codes]  File: SAVE1"
+    codes:
+      - "4000022F 00000063"
+      - "400B02BC 00000000"
+
+  - name: "Max Hp"
+    notes: "[All Character Codes]  File: SAVE1"
+    codes:
+      - "42000054 0000270F"
+      - "400B02BC 00000000"
+      - "42000058 0000270F"
+      - "400B02BC 00000000"
+
+  - name: "Max Gp"
+    notes: "[All Character Codes]  File: SAVE1"
+    codes:
+      - "4200005C 000003E7"
+      - "400B02BC 00000000"
+      - "42000060 000003E7"
+      - "400B02BC 00000000"
+
+  - name: "Max Str"
+    notes: "[All Character Codes]  File: SAVE1"
+    codes:
+      - "4200006C 0000270F"
+      - "400B02BC 00000000"
+
+  - name: "Max Vit"
+    notes: "[All Character Codes]  File: SAVE1"
+    codes:
+      - "42000070 0000270F"
+      - "400B02BC 00000000"
+
+  - name: "Max Psy"
+    notes: "[All Character Codes]  File: SAVE1"
+    codes:
+      - "42000074 0000270F"
+      - "400B02BC 00000000"
+
+  - name: "Max Dex"
+    notes: "[All Character Codes]  File: SAVE1"
+    codes:
+      - "42000078 0000270F"
+      - "400B02BC 00000000"
+
+  - name: "Max Agi"
+    notes: "[All Character Codes]  File: SAVE1"
+    codes:
+      - "4200007C 0000270F"
+      - "400B02BC 00000000"
+
+  - name: "Max Cri"
+    notes: "[All Character Codes]  File: SAVE1"
+    codes:
+      - "42000080 0000270F"
+      - "400B02BC 00000000"
+
+  - name: "Max Mov"
+    notes: "[All Character Codes]  File: SAVE1"
+    codes:
+      - "42000084 461C3C00"
+      - "400B02BC 00000000"
+
+  - name: "Max Melee Resist"
+    notes: "[All Character Codes]  File: SAVE1"
+    codes:
+      - "40000089 00000064"
+      - "400B02BC 00000000"
+
+  - name: "Max Gunfire Resist"
+    notes: "[All Character Codes]  File: SAVE1"
+    codes:
+      - "4000008A 00000064"
+      - "400B02BC 00000000"
+
+  - name: "Max Special Resist"
+    notes: "[All Character Codes]  File: SAVE1"
+    codes:
+      - "4000008B 00000064"
+      - "400B02BC 00000000"
+
+  - name: "9999 Gift Exp"
+    notes: "[All Character Codes]  File: SAVE1"
+    codes:
+      - "42000238 0000270F"
+      - "400B02BC 00000000"
+      - "4200023C 0000270F"
+      - "400B02BC 00000000"
+
+  - name: "Max Camaraderie"
+    notes: "[All Character Codes]  File: SAVE1"
+    codes:
+      - "4000024B 00000063"
+      - "400A0004 00000000"
+      - "00000503 00000063"
+      - "4000050B 00000063"
+      - "40090004 00000000"
+      - "400007BF 00000063"
+      - "40020004 00000000"
+      - "400007CB 00000063"
+      - "40080004 00000000"
+      - "40000A7B 00000063"
+      - "40030004 00000000"
+      - "40000A8B 00000063"
+      - "40070004 00000000"
+      - "40000D37 00000063"
+      - "40040004 00000000"
+      - "40000D4B 00000063"
+      - "40060004 00000000"
+      - "40000FF3 00000063"
+      - "40050004 00000000"
+      - "4000100B 00000063"
+      - "40050004 00000000"
+      - "400012AF 00000063"
+      - "40060004 00000000"
+      - "400012CB 00000063"
+      - "40040004 00000000"
+      - "4000156B 00000063"
+      - "40070004 00000000"
+      - "4000158B 00000063"
+      - "40030004 00000000"
+      - "40001827 00000063"
+      - "40080004 00000000"
+      - "4000184B 00000063"
+      - "40020004 00000000"
+      - "40001AE3 00000063"
+      - "40090004 00000000"
+      - "00001B0B 00000063"
+      - "40001D9F 00000063"
+      - "400A0004 00000000"

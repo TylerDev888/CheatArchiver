@@ -1,0 +1,30 @@
+# FIFA World Cup 2002 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50801
+
+game: "FIFA World Cup 2002"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50801"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F02B7FEC 000001FD"
+
+  - name: "Player 1 Score 99"
+    author: "Codejunkies"
+    codes:
+      - "D03D8714 00000000"
+      - "00396898 00000063"
+
+  - name: "Player 2 Score 00"
+    author: "Codejunkies"
+    codes:
+      - "D03D8714 00000000"
+      - "0039689C 00000000"

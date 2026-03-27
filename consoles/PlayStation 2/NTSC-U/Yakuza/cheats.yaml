@@ -1,0 +1,209 @@
+# Yakuza cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21348
+
+game: "Yakuza"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21348"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0126278 0012627B"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Master Codes]"
+    codes:
+      - "90126278 0C046A0A"
+
+  - name: "Mastercode"
+    author: "Code Buster"
+    notes: "[Master Codes]"
+    codes:
+      - "F0126278 0000000E"
+
+  - name: "Alt.Mastercode"
+    author: "Code Buster"
+    codes:
+      - "F0100008 0000000E"
+
+  - name: "Disable Enemy AI"
+    author: "Azagthoth"
+    codes:
+      - "20654A50 03E00008"
+      - "20654A54 00000000"
+
+  - name: "Infinite Health"
+    author: "Code Buster"
+    codes:
+      - "101660C8 000004B0"
+
+  - name: "Infinite Money"
+    author: "MadCatz"
+    codes:
+      - "20165B40 05F5E100"
+
+  - name: "Infinite Weapon Use"
+    author: "Codejunkies"
+    codes:
+      - "203B6F90 00000000"
+
+  - name: "Infinite Weapon Uses"
+    author: "MadCatz"
+    codes:
+      - "203B6F90 00601023"
+
+  - name: "Max Attack Strength"
+    author: "Code Buster"
+    codes:
+      - "20166100 27100000"
+
+  - name: "Max Experience"
+    author: "MadCatz"
+    codes:
+      - "201660D0 000F4240"
+
+  - name: "Max Health"
+    author: "Code Buster"
+    codes:
+      - "101660CA 000004B0"
+
+  - name: "Press R3+Down 1-Hit Kill Disable"
+    author: "Azagthoth"
+    codes:
+      - "D1F5699C 0000FFBB"
+      - "2066A5A8 00621023"
+
+  - name: "Press R3+Down Instant Death Enemy Disabled"
+    author: "Azagthoth"
+    codes:
+      - "D1F5699C 0000FFBB"
+      - "2066A2D8 84960B02"
+
+  - name: "Press R3+Up 1-Hit Kill Enable"
+    author: "Azagthoth"
+    codes:
+      - "D1F5699C 0000FFEB"
+      - "2066A5A8 24020000"
+
+  - name: "Press R3+Up Instant Death Enemy Enabled"
+    author: "Azagthoth"
+    codes:
+      - "D1F5699C 0000FFEB"
+      - "2066A5A8 A4800B02"
+
+  - name: "Press Select For Max Cash"
+    codes:
+      - "D1F5699C 0000FBFF"
+      - "20165B40 05F5E0FF"
+
+  - name: "Have All Power Up Skills"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201660E0 FFFFFFFF"
+
+  - name: "Infinite Weapon Usage"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D03B6F8C 0000143F"
+      - "203B6F94 00000000"
+
+  - name: "Max Damage Dealt"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "10166102 0000270F"
+
+  - name: "Max EXP"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201660D0 05F5E0FF"
+
+  - name: "Max Infinite Health"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "201660C8 03840384"
+
+  - name: "Max Money"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "20165B40 05F5E0FF"
+
+  - name: "Quick EXP Gain"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "101660D0 0000FFFF"
+
+  - name: "Quick Max Body"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D01660DC 003003E8"
+      - "201660DC 000184AC"
+
+  - name: "Quick Max Soul"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D01660D4 003003E8"
+      - "201660D4 000184AC"
+
+  - name: "Quick Max Technique"
+    author: "Code Master>Lajos Szalay"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "D01660D8 003003E8"
+      - "201660D8 000184AC"
+
+  - name: "Tons Of Items In Box"
+    author: "Code Buster"
+    codes:
+      - "20165B60 00020001"
+      - "20165B68 00020002"
+      - "20165B70 00020003"
+      - "20165B78 00020004"
+      - "20165B80 00020005"
+      - "20165B88 00020006"
+      - "20165B90 00020007"
+      - "20165B98 00020008"
+      - "20165BA0 00020009"
+      - "20165BA8 0002000A"
+      - "20165BB0 0002000B"
+      - "20165BB8 0002000C"
+      - "20165BC0 0002000D"
+      - "20165BC8 00020023"
+      - "20165BD0 00020024"
+      - "20165BD8 00020025"
+      - "20165BE0 00020026"
+      - "20165BE8 00020027"
+      - "20165BF0 00020028"
+      - "20165BF8 00020029"
+      - "20165C00 0002002A"
+      - "20165C08 0002002B"
+      - "20165C10 0002002C"
+      - "20165C18 00020072"
+      - "20165C20 00020073"
+      - "20165C28 00020074"
+      - "20165C30 00020075"
+      - "20165C38 00020076"
+      - "20165C40 00020077"
+      - "20165C48 00020078"
+
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Masters]"
+    codes:
+      - "90126278 0C046A0A"

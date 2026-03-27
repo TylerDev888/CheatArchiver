@@ -1,0 +1,28 @@
+# Natural Doctrine cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA00705
+
+game: "Natural Doctrine"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA00705"
+cheat_type: "AP"
+source: "source: savedata.jp & krustytoe"
+
+cheats:
+  - name: "Have All Items(99)"
+    notes: "File: *"
+    codes:
+      - "4000202D 00000063"
+      - "40A20004 00000000"
+      - "4100202E 00000003"
+      - "40300004 00000004"
+      - "410020EE 000000C0"
+      - "40720004 00000001"
+
+  - name: "All Characters - Lvl 20"
+    notes: "File: *"
+    codes:
+      - "40002577 00000014"
+      - "400B0554 00000000"

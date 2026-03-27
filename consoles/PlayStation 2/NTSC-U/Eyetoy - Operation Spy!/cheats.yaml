@@ -1,0 +1,24 @@
+# Eyetoy - Operation Spy! cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SCUS-97523
+
+game: "Eyetoy - Operation Spy!"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SCUS-97523"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "90140CB8 00832021"
+
+  - name: "Infinite Time"
+    author: "Code Master"
+    notes: "[This Game Requires A Code Breaker PS2 V7.0 Or Higher!]"
+    codes:
+      - "202F73E8 00000000"

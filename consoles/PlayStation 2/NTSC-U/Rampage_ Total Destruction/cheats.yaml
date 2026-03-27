@@ -1,0 +1,23 @@
+# Rampage_ Total Destruction cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21323
+
+game: "Rampage_ Total Destruction"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21323"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]  File: Rampage 1"
+    codes:
+      - "9012F1AC 00832021"
+
+  - name: "Enable Debug Menu(from The Pause Screen Move Down To The Fith Spot And Press X)"
+    author: "SkillerCMP"
+    notes: "File: Rampage 1"
+    codes:
+      - "003763B4 00000005"

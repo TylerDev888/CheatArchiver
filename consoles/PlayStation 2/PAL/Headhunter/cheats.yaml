@@ -1,0 +1,194 @@
+# Headhunter cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-50500
+
+game: "Headhunter"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-50500"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F019032C 000001FD"
+
+  - name: "Infinite Adrenaline"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "2055B530 42C80000"
+
+  - name: "Infinite Ammo Machine Gun"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "1055B9D8 0000001E"
+
+  - name: "Infinite Ammo Missile Launcher"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "103FF758 0000000A"
+
+  - name: "Infinite Ammo Neurostunner"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "103FF74C 0000000A"
+
+  - name: "Infinite Ammo Shotgun"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "1055BA20 00000008"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "2055B52C 42C80000"
+
+  - name: "Infinite Proximity Mines"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "103FE77C 00000009"
+
+  - name: "Infinite Resonator Grenades"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "103FE774 00000009"
+
+  - name: "Leila Building Always Access"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "0058A704 00000001"
+
+  - name: "Never Have More Than 25% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0020000 3055B52C"
+      - "E00141C8 3055B52E"
+      - "2055B52C 41C80000"
+
+  - name: "Never Have More Than 50% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0020000 3055B52C"
+      - "E0014248 3055B52E"
+      - "2055B52C 42480000"
+
+  - name: "Never Have More Than 75% Health"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "E0020000 3055B52C"
+      - "E0014296 3055B52E"
+      - "2055B52C 42960000"
+
+  - name: "No Re-Load Stimulator Auto"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "1055B900 0000000A"
+
+  - name: "Obtain AAA Licence"
+    author: "Codejunkies"
+    notes: "[Health Codes]"
+    codes:
+      - "202E6AD0 FFFFFFFF"
+      - "202E6AD4 FFFFFFFF"
+
+  - name: "1500 Skill Points"
+    author: "Codejunkies"
+    notes: "[Skill Points Codes]"
+    codes:
+      - "20587D14 44BB8000"
+      - "2058A700 DCDCDCDC"
+      - "0058A704 000000DC"
+
+  - name: "250 Skill Points"
+    author: "Codejunkies"
+    notes: "[Skill Points Codes]"
+    codes:
+      - "20587D14 437A0000"
+      - "0058A700 000000FA"
+
+  - name: "500 Skill Points"
+    author: "Codejunkies"
+    notes: "[Skill Points Codes]"
+    codes:
+      - "20587D14 43FA0000"
+      - "0058A700 000000F4"
+
+  - name: "800 Skill Points"
+    author: "Codejunkies"
+    notes: "[Skill Points Codes]"
+    codes:
+      - "20587D14 44480000"
+      - "1058A700 00002020"
+      - "0058A702 00000020"
+
+  - name: "Obtain AAA Licence (Must Enter VR Training)"
+    author: "Codejunkies"
+    codes:
+      - "202E6AD2 FFFFFFFF"
+      - "202E6AD4 FFFFFFFF"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0021F087"
+
+  - name: "Have AAA License"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "202E6AD2 FFFFFFFF"
+      - "202E6AD4 FFFFFFFF"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2055B52C 42C82809"
+
+  - name: "Adrenaline"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "2055B530 42C82809"
+
+  - name: "Machine Gun"
+    author: "Xploder"
+    notes: "[Unlimited Ammunition]"
+    codes:
+      - "1055B9D8 0723001E"
+
+  - name: "Missile Launcher"
+    author: "Xploder"
+    notes: "[Unlimited Ammunition]"
+    codes:
+      - "103FF758 0723000A"
+
+  - name: "Neurostunner"
+    author: "Xploder"
+    notes: "[Unlimited Ammunition]"
+    codes:
+      - "103FF74C 0723000A"
+
+  - name: "Shotgun"
+    author: "Xploder"
+    notes: "[Unlimited Ammunition]"
+    codes:
+      - "1055BA20 07230008"

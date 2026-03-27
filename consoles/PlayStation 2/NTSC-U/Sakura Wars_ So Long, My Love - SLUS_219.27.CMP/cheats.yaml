@@ -1,0 +1,167 @@
+# Sakura Wars_ So Long, My Love - SLUS_219.27.CMP cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21927
+
+game: "Sakura Wars_ So Long, My Love - SLUS_219.27.CMP"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21927"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "901282D0 0C04A05C"
+
+  - name: "Inf Lips Timer"
+    author: "SkillerCMP"
+    codes:
+      - "2025C148 E49F003C"
+
+  - name: "Level Debug (adv Debug)"
+    author: "SkillerCMP"
+    codes:
+      - "201B0C00 24020001"
+      - "201B0C04 AF8287CC"
+      - "201B0C08 03E00008"
+      - "201B0C0C 8F8287CC"
+
+  - name: "Screen Debug"
+    author: "SkillerCMP"
+    codes:
+      - "005543D8 00000001"
+
+  - name: "Omnisave (activator)"
+    author: "SkillerCMP"
+    notes: "[Omnisave (make Both Disks Use Same Save):{<div Class=\"omnisave\"><h4><strong>omnisave</Strong></H4><ul Class=\"bullet-List\"><li>load And Reuse The Same Save Across Different Discs/Versions.</Li><li>set Your Target Values Once; When You Switch Discs, Simply Enable The Code To Use That Save On The C..."
+    codes:
+      - "200A0000 240203FE"
+      - "200A0004 1446000B"
+      - "200A0010 90AB000B"
+      - "200A0014 3C0C0000"
+      - "200A001C 156C000A"
+      - "200A0024 A0AB000B"
+      - "200A002C A0AB000C"
+      - "200A0030 10000005"
+      - "200A0038 240203F1"
+      - "200A003C 1046FFF3"
+      - "200A004C 08051FB6"
+      - "200A0050 90A20000"
+      - "20147ED0 08028000"
+
+  - name: "Omnisave Always (load/Save As English Save)"
+    author: "SkillerCMP"
+    notes: "[Omnisave (make Both Disks Use Same Save):{<div Class=\"omnisave\"><h4><strong>omnisave</Strong></H4><ul Class=\"bullet-List\"><li>load And Reuse The Same Save Across Different Discs/Versions.</Li><li>set Your Target Values Once; When You Switch Discs, Simply Enable The Code To Use That Save On The C..."
+    codes:
+      - "20504904 00160000"
+      - "205049D4 72829382"
+      - "205049D8 40818F82"
+      - "205049DC 8F826B82"
+      - "205049E0 87828E82"
+      - "205049E4 40814381"
+      - "205049E8 99826C82"
+      - "205049EC 6B824081"
+      - "205049F0 96828F82"
+      - "205049F4 00008582"
+      - "200A0018 358C0033"
+      - "200A0020 240B0032"
+      - "200A0028 240B0037"
+
+  - name: "Omnisave Always (load/Save Japan Save)"
+    author: "SkillerCMP"
+    notes: "[Omnisave (make Both Disks Use Same Save):{<div Class=\"omnisave\"><h4><strong>omnisave</Strong></H4><ul Class=\"bullet-List\"><li>load And Reuse The Same Save Across Different Discs/Versions.</Li><li>set Your Target Values Once; When You Switch Discs, Simply Enable The Code To Use That Save On The C..."
+    codes:
+      - "20504904 00180000"
+      - "205049D4 96819382"
+      - "205049D8 8F827282"
+      - "205049DC 6B824081"
+      - "205049E0 8E828F82"
+      - "205049E4 43818782"
+      - "205049E8 6C824081"
+      - "205049EC 40819982"
+      - "205049F0 8F826B82"
+      - "205049F4 85829682"
+      - "200A0018 358C0032"
+      - "200A0020 240B0033"
+      - "200A0028 240B0030"
+
+  - name: "Activator (character Codes)"
+    author: "SkillerCMP"
+    notes: "[Characters Codes]"
+    codes:
+      - "200A0054 8F928994"
+      - "200A0058 1240001E"
+      - "200A0060 8E520074"
+      - "200A0064 1240001B"
+      - "200A006C 8E530048"
+      - "200A0070 1660000F"
+      - "200A00AC 10000009"
+      - "200A00D8 0804FC9B"
+      - "200A00DC DFB30030"
+      - "2013F268 08028015"
+
+  - name: "Inf Res"
+    author: "SkillerCMP"
+    notes: "[Your Character Codes]"
+    codes:
+      - "200A0078 8653006C"
+      - "200A007C A653006E"
+
+  - name: "Inf Sp"
+    author: "SkillerCMP"
+    notes: "[Your Character Codes]"
+    codes:
+      - "200A0080 86530072"
+      - "200A0084 A6530074"
+
+  - name: "Inf Mobility Gauge (blue Bar) (refill)"
+    author: "SkillerCMP"
+    notes: "[Your Character Codes]"
+    codes:
+      - "200A0088 86530078"
+      - "200A008C A653007A"
+      - "200A0090 A653007C"
+
+  - name: "Att 99"
+    author: "SkillerCMP"
+    notes: "[Your Character Codes]"
+    codes:
+      - "200A0094 24130063"
+      - "200A0098 A6530080"
+
+  - name: "Rmr 99"
+    author: "SkillerCMP"
+    notes: "[Your Character Codes]"
+    codes:
+      - "200A009C 24130063"
+      - "200A00A0 A6530082"
+
+  - name: "Spd 99"
+    author: "SkillerCMP"
+    notes: "[Your Character Codes]"
+    codes:
+      - "200A00A4 24130063"
+      - "200A00A8 A6530084"
+
+  - name: "Enemy No HP"
+    author: "SkillerCMP"
+    notes: "[Enemy Character Codes]"
+    codes:
+      - "200A00B4 A640006E"
+
+  - name: "Inf Mobility Gauge (blue Bar)"
+    author: "SkillerCMP"
+    notes: "[In-Battles Codes]"
+    codes:
+      - "200A00E0 84450048"
+      - "200A00E4 14A00003"
+      - "200A00E8 84450078"
+      - "200A00EC A445007A"
+      - "200A00F0 A445007C"
+      - "200A00F4 8444007E"
+      - "200A00F8 080BAF25"
+      - "200A00FC 8445007C"
+      - "202EBC90 08028038"

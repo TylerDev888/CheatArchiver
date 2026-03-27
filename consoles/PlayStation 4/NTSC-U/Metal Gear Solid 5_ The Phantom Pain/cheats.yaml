@@ -1,0 +1,131 @@
+# Metal Gear Solid 5_ The Phantom Pain cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA01140
+
+game: "Metal Gear Solid 5_ The Phantom Pain"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA01140"
+cheat_type: "AP"
+source: "encryption/checksum by bucanero"
+
+cheats:
+  - name: "Decrypt Save Data (required)"
+    notes: "[CUSA01140]  File: TPP_GAME_DATA*"
+    codes:
+      - "set range:0x0000,EOF+1"
+      - "DECRYPT MGS5_TPP(0x4131F8BE)"
+
+  - name: "Update Md5 Checksum (required)"
+    notes: "[CUSA01140]  File: TPP_GAME_DATA*"
+    codes:
+      - "set range:0x0010,EOF+1"
+      - "set [hash]:MD5"
+      - "write at 0x0000:[hash]"
+
+  - name: "Encrypt Save Data (required)"
+    notes: "[CUSA01140]  File: TPP_GAME_DATA*"
+    codes:
+      - "set range:0x0000,EOF+1"
+      - "ENCRYPT MGS5_TPP(0x4131F8BE)"
+
+  - name: "Max Heroism"
+    notes: "File: TPP_GAME_DATA*"
+    codes:
+      - "2001C474 05F5E0FF"
+
+  - name: "Max Materials (processed)"
+    notes: "File: TPP_GAME_DATA*"
+    codes:
+      - "42027138 000F4240"
+      - "40050004 00000000"
+
+  - name: "Max Materials (unprocessed)"
+    notes: "File: TPP_GAME_DATA*"
+    codes:
+      - "42027224 003D0900"
+      - "40050004 00000000"
+
+  - name: "Max Medicinal Plant"
+    notes: "File: TPP_GAME_DATA*"
+    codes:
+      - "4202714C 00002EE0"
+      - "40080004 00000000"
+
+  - name: "Max Vehicle"
+    notes: "File: TPP_GAME_DATA*"
+    codes:
+      - "4202716C 00061A80"
+      - "400A0004 00000000"
+
+  - name: "Max Placed Weapon"
+    notes: "File: TPP_GAME_DATA*"
+    codes:
+      - "420271C0 00061A80"
+      - "40050004 00000000"
+
+  - name: "Max Walker Gear"
+    notes: "File: TPP_GAME_DATA*"
+    codes:
+      - "42027194 00061A80"
+      - "40050004 00000000"
+
+  - name: "Max Parasite"
+    notes: "File: TPP_GAME_DATA*"
+    codes:
+      - "420271B0 00001770"
+      - "40030004 00000000"
+
+  - name: "Infinite Clip Pistol Sniper And Assult Rifle"
+    notes: "File: TPP_GAME_DATA*"
+    codes:
+      - "100047D6 0000FFFF"
+      - "100047D8 0000FFFF"
+      - "100047DA 0000FFFF"
+
+  - name: "Max Demon Points"
+    notes: "File: TPP_GAME_DATA*"
+    codes:
+      - "2001C478 7FFFFFFF"
+
+  - name: "0 Demon Points"
+    notes: "File: TPP_GAME_DATA*"
+    codes:
+      - "2001C478 00000000"
+
+  - name: "8 Nuclear Weapons"
+    notes: "File: TPP_GAME_DATA*"
+    codes:
+      - "200271A8 00000010"
+
+  - name: "Max Resources (all)"
+    notes: "File: TPP_GAME_DATA*"
+    codes:
+      - "42027138 000F4240"
+      - "40050004 00000000"
+      - "42027224 003D0902"
+      - "40050004 00000000"
+      - "4202714C 00002EE0"
+      - "40080004 00000000"
+      - "4202716C 00061A80"
+      - "400A0004 00000000"
+      - "420271C0 00061A80"
+      - "40050004 00000000"
+      - "42027194 00061A80"
+      - "40050004 00000000"
+      - "420271B0 00001770"
+      - "40030004 00000000"
+      - "200271AC 001E8480"
+
+  - name: "Build All Bases"
+    notes: "File: TPP_GAME_DATA*"
+    codes:
+      - "4201C1D0 40014001"
+      - "40110004 00000000"
+
+  - name: "Soldier Ranking System"
+    notes: "File: TPP_GAME_DATA*"
+    codes:
+      - "4001FB34 0000004E"
+      - "40[Amount:FF:HEX:BIG<soldiers>]0004 00000000"

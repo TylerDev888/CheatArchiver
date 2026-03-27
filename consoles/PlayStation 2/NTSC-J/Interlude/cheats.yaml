@@ -1,0 +1,23 @@
+# Interlude cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25283
+
+game: "Interlude"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25283"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "9040FC38 0C103EB6"
+
+  - name: "Enable Debug Mode [Note]"
+    author: "punk7890"
+    codes:
+      - "2048AD28 00000001"

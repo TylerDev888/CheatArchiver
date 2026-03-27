@@ -1,0 +1,311 @@
+# Arcana Heart cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21720
+
+game: "Arcana Heart"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21720"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "lee4"
+    notes: "[Master Codes]"
+    codes:
+      - "901DA958 0C0769FE"
+
+  - name: "Damage P2 Any Distance Any Attack Button Hold To Do Fast Kill"
+    author: "Skiller"
+    codes:
+      - "200A0000 3C010049"
+      - "200A0004 90213C5D"
+      - "200A0008 240200FF"
+      - "200A000C 10410007"
+      - "200A0014 3C010047"
+      - "200A0018 9C22B094"
+      - "200A001C 10020003"
+      - "200A0020 24030100"
+      - "200A0024 00431023"
+      - "200A0028 AC22B094"
+      - "200A002C 03E00008"
+      - "201D3B74 08028000"
+
+  - name: "Enable Debug Menu At Startup"
+    author: "punk7890"
+    codes:
+      - "203BA828 00000001"
+
+  - name: "Hit Anywhere Both Players"
+    author: "nolberto82"
+    codes:
+      - "2013CB88 10000005"
+      - "2013B588 00000000"
+
+  - name: "P1 Arcana Mod[MOD2]"
+    author: "lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "00468FB4 000000??"
+
+  - name: "P1 Character Mod[MOD1]."
+    author: "lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "00468F9C 000000??"
+
+  - name: "P1 Inf Homing"
+    author: "lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "20469DC4 000011F8"
+      - "20469DC8 000011F8"
+      - "20469DCC 000011F8"
+
+  - name: "P1 Inf Super"
+    author: "lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "20469DC0 00026000"
+
+  - name: "P1 Infinite HP"
+    author: "lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "20469FA8 00006510"
+      - "20469FAC 00006510"
+
+  - name: "P2 No Health (P1 Press Select)"
+    author: "lee4"
+    notes: "[Player 1 Codes]"
+    codes:
+      - "D0493C5C 0000FFFE"
+      - "2046B094 00000000"
+
+  - name: "P1 No Health (P2 Press Select)"
+    author: "lee4"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "D0493D5C 0000FFFE"
+      - "20469FA8 00000000"
+
+  - name: "P2 Arcana Mod[MOD2]"
+    author: "lee4"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "00468FB8 000000??"
+
+  - name: "P2 Character Mod[MOD1]."
+    author: "lee4"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "00468FA0 000000??"
+
+  - name: "P2 Inf Homing"
+    author: "lee4"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "2046AEB0 000011F8"
+      - "2046AEB4 000011F8"
+      - "2046AEB8 000011F8"
+
+  - name: "P2 Inf Super"
+    author: "lee4"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "2046AEAC 00026000"
+
+  - name: "P2 Infinite HP"
+    author: "lee4"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "2046B094 00006510"
+      - "2046B098 00006510"
+
+  - name: "P2 No Homing"
+    author: "lee4"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "2046AEB0 00000000"
+      - "2046AEB4 00000000"
+      - "2046AEB8 00000000"
+
+  - name: "P2 No Super"
+    author: "lee4"
+    notes: "[Player 2 Codes]"
+    codes:
+      - "2046AEAC 00000000"
+
+  - name: "Arcanas"
+    author: "Skiller"
+    notes: "[Unlock Gallery]"
+    codes:
+      - "40323ED0 000B0001"
+      - "00000001 00000000"
+
+  - name: "Heart Aino"
+    author: "Skiller"
+    notes: "[Unlock Gallery]"
+    codes:
+      - "00323EA0 00000011"
+
+  - name: "Kamui Tokinomiya"
+    author: "Skiller"
+    notes: "[Unlock Gallery]"
+    codes:
+      - "00323EA8 0000000C"
+
+  - name: "Kira Daldohji"
+    author: "Skiller"
+    notes: "[Unlock Gallery]"
+    codes:
+      - "00323EC4 0000000A"
+
+  - name: "Konoha"
+    author: "Skiller"
+    notes: "[Unlock Gallery]"
+    codes:
+      - "00323EAC 0000000C"
+
+  - name: "Lieselotte Achenbach"
+    author: "Skiller"
+    notes: "[Unlock Gallery]"
+    codes:
+      - "00323EBC 0000000A"
+
+  - name: "Lilloa Relohenerow"
+    author: "Skiller"
+    notes: "[Unlock Gallery]"
+    codes:
+      - "00323EB8 0000000E"
+
+  - name: "Maori Kasuga"
+    author: "Skiller"
+    notes: "[Unlock Gallery]"
+    codes:
+      - "00323EB0 0000000B"
+
+  - name: "Mel-Rang"
+    author: "Skiller"
+    notes: "[Unlock Gallery]"
+    codes:
+      - "00323EB4 0000000B"
+
+  - name: "Mildred Avaion"
+    author: "Skiller"
+    notes: "[Unlock Gallery]"
+    codes:
+      - "00323ECC 00000001"
+
+  - name: "Riona Mayfield"
+    author: "Skiller"
+    notes: "[Unlock Gallery]"
+    codes:
+      - "00323EC8 0000000B"
+
+  - name: "Saki Tsuzura"
+    author: "Skiller"
+    notes: "[Unlock Gallery]"
+    codes:
+      - "00323EA4 00000010"
+
+  - name: "Unlock Extras"
+    author: "Skiller"
+    notes: "[Unlock Gallery]"
+    codes:
+      - "40323E70 000B0001"
+      - "00000001 00000000"
+
+  - name: "Yoriko Yasuzumi"
+    author: "Skiller"
+    notes: "[Unlock Gallery]"
+    codes:
+      - "00323EC0 0000000B"
+
+  - name: "Player 1 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "D0493C5C 0000[Joker:PS2]"
+
+  - name: "Player 2 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "D0493D5C 0000[Joker:PS2]"
+
+  - name: "Unlock Extres"
+    codes:
+      - "40323E70 000B0001"
+      - "00000001 00000000"
+
+  - name: "Character Mod."
+    notes: "[Characters]"
+    codes:
+      - "20468F9C 000000[CH]"
+
+  - name: "Arcana Mod"
+    notes: "[Characters]"
+    codes:
+      - "20468FB4 000000[AM]"
+
+  - name: "Infinite HP"
+    author: "lee4"
+    notes: "[Characters]"
+    codes:
+      - "20469FA8 00006510"
+      - "20469FAC 00006510"
+
+  - name: "Inf Homing"
+    author: "lee4"
+    notes: "[Characters]"
+    codes:
+      - "20469DC4 000011F8"
+      - "20469DC8 000011F8"
+      - "20469DCC 000011F8"
+
+  - name: "Inf Super"
+    author: "lee4"
+    notes: "[Characters]  Player 2 No Health (Player 1 Press SELECT)"
+    codes:
+      - "20469DC0 00026000"
+      - "D0493C5C 0000FFFE"
+      - "2046B094 00000000"
+
+  - name: "Damage Player 2 Any Distance Any Attack Button Hold To Do Fast Kill"
+    author: "SkillerCMP"
+    notes: "[Characters]"
+    codes:
+      - "200A0000 3C010049"
+      - "200A0004 90213C5D"
+      - "200A0008 240200FF"
+      - "200A000C 10410007"
+      - "200A0014 3C010047"
+      - "200A0018 9C22B094"
+      - "200A001C 10020003"
+      - "200A0020 24030100"
+      - "200A0024 00431023"
+      - "200A0028 AC22B094"
+      - "200A002C 03E00008"
+      - "201D3B74 08028000"
+
+  - name: "Player 1 No Health (player 2 Press Select)"
+    author: "lee4"
+    notes: "[Player 2]"
+    codes:
+      - "D0493D5C 0000FFFE"
+      - "20469FA8 00000000"
+
+  - name: "No Homing"
+    author: "lee4"
+    notes: "[Player 2]"
+    codes:
+      - "2046AEB0 00000000"
+      - "2046AEB4 00000000"
+      - "2046AEB8 00000000"
+
+  - name: "No Super"
+    author: "lee4"
+    notes: "[Player 2]"
+    codes:
+      - "2046AEAC 00000000"

@@ -1,0 +1,33 @@
+# Disney-Pixar's Monsters Inc cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-50595
+
+game: "Disney-Pixar's Monsters Inc"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-50595"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F011CCB0 0017F1DF"
+
+  - name: "Infinite Health"
+    author: "InterAct"
+    codes:
+      - "20856910 000001CE"
+
+  - name: "No Collision With Baddies"
+    author: "InterAct"
+    codes:
+      - "201E1B24 000005AD"
+
+  - name: "No Collision With Items"
+    author: "InterAct"
+    codes:
+      - "201E1AA4 000005AD"

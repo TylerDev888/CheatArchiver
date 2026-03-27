@@ -1,0 +1,17 @@
+# Death Spank cheat data
+# Console: PlayStation 3
+# Region:  NTSC-U
+# Serial:  NPUB30165
+
+game: "Death Spank"
+console: "PlayStation 3"
+region: "NTSC-U"
+serial: "NPUB30165"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Money 999,999,999$"
+    notes: "File: SLOT1.SAV"
+    codes:
+      - "write at 0x0000931C:0x3B9AC9FF"

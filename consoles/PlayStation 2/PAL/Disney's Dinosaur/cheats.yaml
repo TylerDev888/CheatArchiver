@@ -1,0 +1,97 @@
+# Disney's Dinosaur cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50043
+
+game: "Disney's Dinosaur"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50043"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0133180 000001FD"
+
+  - name: "Infinite Burning Asteroids"
+    author: "Codejunkies"
+    codes:
+      - "10BA9958 00000063"
+
+  - name: "Infinite Health Aladar"
+    author: "InterAct"
+    codes:
+      - "10BA9A6C 00000096"
+
+  - name: "Infinite Health Flia"
+    author: "InterAct"
+    codes:
+      - "10BA9A74 00000064"
+
+  - name: "Infinite Health Zini"
+    author: "InterAct"
+    codes:
+      - "10BA9A70 00000032"
+
+  - name: "Infinite K.O. Asteroids"
+    author: "Codejunkies"
+    codes:
+      - "10BA9954 00000063"
+
+  - name: "Infinite Life Crystals"
+    author: "InterAct"
+    codes:
+      - "10BA9948 00000063"
+
+  - name: "Infinite Orange Fruit"
+    author: "InterAct"
+    codes:
+      - "10BA994C 00000063"
+
+  - name: "Infinite Phosp. Stones"
+    author: "Codejunkies"
+    codes:
+      - "10BA9960 00000063"
+
+  - name: "Infinite Power Stones"
+    author: "Codejunkies"
+    codes:
+      - "10BA9964 00000063"
+
+  - name: "Infinite Throwing Rocks"
+    author: "Codejunkies"
+    codes:
+      - "10BA995C 00000063"
+
+  - name: "Infinite Yellow Fruit"
+    author: "InterAct"
+    codes:
+      - "10BA9950 00000063"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0011195F"
+
+  - name: "Zini"
+    author: "Xploder"
+    notes: "[Unlimited Health]"
+    codes:
+      - "10BA9A70 07230032"
+
+  - name: "Flia"
+    author: "Xploder"
+    notes: "[Unlimited Health]"
+    codes:
+      - "10BA9A74 07230064"
+
+  - name: "Aladar"
+    author: "Xploder"
+    notes: "[Unlimited Health]"
+    codes:
+      - "10BA9A6C 07230096"

@@ -1,0 +1,31 @@
+# Kuon No Kizuna Sairin Mikotonori cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25136
+
+game: "Kuon No Kizuna Sairin Mikotonori"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25136"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "punk7890"
+    notes: "[Master Codes]"
+    codes:
+      - "90205990 0C08160C"
+
+  - name: "Enable Debug Mode [View Note]"
+    author: "punk7890"
+    codes:
+      - "2022FB24 24020001"
+
+  - name: "Unlock Everything"
+    author: "punk7890"
+    codes:
+      - "402E2DAC 004D0001"
+      - "01010101 00000000"
+      - "202E2ED8 01010101"
+      - "202E2EDC 01010101"

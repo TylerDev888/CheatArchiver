@@ -1,0 +1,35 @@
+# Borderlands_ The Pre-Sequel cheat data
+# Console: PlayStation 3
+# Region:  Unknown
+# Serial:  BLJS10281
+
+game: "Borderlands_ The Pre-Sequel"
+console: "PlayStation 3"
+region: "Unknown"
+serial: "BLJS10281"
+cheat_type: "AP"
+source: ""
+
+cheats:
+  - name: "Decompress Payload (required)"
+    notes: "File: PAYLOAD"
+    codes:
+      - "Decompress(0x00000018, 15)"
+
+  - name: "9999999 Token"
+    notes: "File: ~extracted\\00000018.dat"
+    codes:
+      - "write at 0x00000320:0x98967F00"
+
+  - name: "Compress Payload (required)"
+    notes: "File: PAYLOAD"
+    codes:
+      - "Compress(0x00000018)"
+
+  - name: "Update Sha1 For Payload (required)"
+    notes: "File: PAYLOAD  (set range:0x000014,0x000166)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000014,pointer"
+      - "set [hash]:SHA1"
+      - "write at 0x000000:[hash]"

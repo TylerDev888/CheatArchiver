@@ -1,0 +1,89 @@
+# Champions - Return To Arms cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53039
+
+game: "Champions - Return To Arms"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53039"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0354C1C 00354C1F"
+      - "205370B0 52504F49"
+      - "205370B4 30303350"
+      - "205370B8 474D492E"
+      - "205370BC 0000313B"
+
+  - name: "Allocate 100 Abilities Points"
+    author: "Codejunkies"
+    notes: "[Allocating Abilities Codes]"
+    codes:
+      - "20227F68 24020064"
+
+  - name: "Allocate 200 Ability Points"
+    author: "Codejunkies"
+    notes: "[Allocating Abilities Codes]"
+    codes:
+      - "20227F68 240200C8"
+
+  - name: "Debug Menu"
+    author: "Codejunkies"
+    codes:
+      - "2041D8E0 00000803"
+      - "004FA7E0 00000001"
+      - "00451380 00000001"
+
+  - name: "1000 XP Per Kill"
+    author: "Codejunkies"
+    notes: "[Quick Level Codes]"
+    codes:
+      - "201D3EC8 244203E8"
+
+  - name: "5000 XP Per Kill"
+    author: "Codejunkies"
+    notes: "[Quick Level Codes]"
+    codes:
+      - "201D3EC8 24421388"
+
+  - name: "10000 XP Per Kill"
+    author: "Codejunkies"
+    notes: "[Quick Level Codes]"
+    codes:
+      - "201D3EC8 24422710"
+
+  - name: "25000 XP Per Kill"
+    author: "Codejunkies"
+    notes: "[Quick Level Codes]"
+    codes:
+      - "201D3EC8 244261A8"
+
+  - name: "Max Lvl After 1 Hit"
+    author: "Codejunkies"
+    notes: "[Quick Level Codes]"
+    codes:
+      - "201D3ED0 00000000"
+
+  - name: "Infinite Gold"
+    author: "Codejunkies"
+    notes: "[To Access The Variables Menu, Select 'Warp' Option After Pausing The Game. Then Press Circle To Go Back To Main Menu this Will Enable The Vars.../options Menus;]"
+    codes:
+      - "204DA4D4 05F5E0FF"
+
+  - name: "Infinite Item Use"
+    author: "Codejunkies"
+    notes: "[To Access The Variables Menu, Select 'Warp' Option After Pausing The Game. Then Press Circle To Go Back To Main Menu this Will Enable The Vars.../options Menus;]"
+    codes:
+      - "201C53C8 00000000"
+
+  - name: "Invulnerability On"
+    author: "Codejunkies"
+    notes: "[To Access The Variables Menu, Select 'Warp' Option After Pausing The Game. Then Press Circle To Go Back To Main Menu this Will Enable The Vars.../options Menus;]"
+    codes:
+      - "00450B0C 00000001"

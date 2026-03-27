@@ -1,0 +1,987 @@
+# Shin Megami Tensei_ Devil Summoner_ Raidou Kuzunoha vs. The Soulless Army cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21431
+
+game: "Shin Megami Tensei_ Devil Summoner_ Raidou Kuzunoha vs. The Soulless Army"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21431"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "90395F58 0C0E577E"
+
+  - name: "Player 1 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "004FD1C2 0000[Joker:PS2]"
+
+  - name: "Player 2 Controller"
+    notes: "[Jokers]"
+    codes:
+      - "004FD242 0000[Joker:PS2]"
+
+  - name: "Random Battles (l1+select To Disable, L2+select To Enable)"
+    codes:
+      - "D04FD1C2 0000FBFE"
+      - "201226C8 00000000"
+      - "D04FD1C2 0000FEFE"
+      - "201226C8 AC832C44"
+
+  - name: "Money 9999999"
+    codes:
+      - "20E6DE48 0098967F"
+
+  - name: "Max Cash With Buy/Sell"
+    codes:
+      - "001215F2 000000C5"
+
+  - name: "Battle Debug (might Have To Do Something With The Controllers)"
+    codes:
+      - "0041E874 00000001"
+
+  - name: "Max Loyalty After Battle"
+    codes:
+      - "202A4118 240B270F"
+
+  - name: "After Demon Mix,loyalty Max"
+    codes:
+      - "2033FF04 24060064"
+      - "2033FF08 A6E6000E"
+
+  - name: "Gain EXP 99999"
+    codes:
+      - "202A3D10 00000064"
+      - "202A3D14 00611818"
+
+  - name: "Mag Max After Battle"
+    codes:
+      - "2029C214 00000000"
+
+  - name: "Inf Item Use In Battle"
+    codes:
+      - "2029C26C 00000000"
+
+  - name: "Inf MP Use In Battle"
+    codes:
+      - "2029C24C 00000000"
+
+  - name: "HP And MP Fast Recover After Battle"
+    codes:
+      - "2024BD94 ADA40018"
+      - "2024BDC4 ADA30020"
+
+  - name: "Demon Quick Lvl Up"
+    codes:
+      - "200FF500 2401[Amount:2710:HEX:BIG]"
+      - "200FF504 96020048"
+      - "200FF508 080A903D"
+      - "200FF50C 00411018"
+      - "202A40EC 0803FD40"
+
+  - name: "The Bullet It Does Not Decrease"
+    codes:
+      - "2029C348 00000000"
+
+  - name: "Extra Ammo"
+    codes:
+      - "0029C348 00000001"
+
+  - name: "Max Inf Ammo"
+    codes:
+      - "2029C348 240203E7"
+
+  - name: "Current EXP Mod"
+    notes: "[Main Character]"
+    codes:
+      - "20E6DE68 [Amount:05F5E0FF:HEX:BIG]"
+
+  - name: "Max Current MP"
+    notes: "[Main Character]"
+    codes:
+      - "10E6DE40 0000270F"
+
+  - name: "Max MP"
+    notes: "[Main Character]"
+    codes:
+      - "10E6DE44 0000270F"
+
+  - name: "Max Current HP"
+    notes: "[Main Character]"
+    codes:
+      - "10E6DE6C 000003E7"
+
+  - name: "Max HP"
+    notes: "[Main Character]"
+    codes:
+      - "10E6DE70 000003E7"
+      - "10E6DE88 000003E7"
+
+  - name: "Current Lvl"
+    notes: "[Main Character]"
+    codes:
+      - "00E6DE5C 000000[Amount:63:HEX:BIG]"
+
+  - name: "Mod Total Loyalty"
+    notes: "[Main Character]"
+    codes:
+      - "10E6DE62 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Max St"
+    notes: "[Main Character]"
+    codes:
+      - "00E6DE7C 00000032"
+      - "00E6DE94 00000032"
+
+  - name: "Max Vi"
+    notes: "[Main Character]"
+    codes:
+      - "00E6DE7E 00000032"
+      - "00E6DE96 00000032"
+
+  - name: "Max Ma"
+    notes: "[Main Character]"
+    codes:
+      - "00E6DE80 00000032"
+      - "00E6DE98 00000032"
+
+  - name: "Max Lu"
+    notes: "[Main Character]"
+    codes:
+      - "00E6DE82 00000032"
+      - "00E6DE9A 00000032"
+
+  - name: "Character Mod"
+    notes: "[Devil Character 1]"
+    codes:
+      - "10E6E0FE 0000[CHA]"
+
+  - name: "All Main Items X50"
+    notes: "[Items]"
+    codes:
+      - "10E6DFBA 00000032"
+      - "40E6DFBC 00130001"
+      - "00320032 00000000"
+
+  - name: "Item Type ??? X50"
+    notes: "[Items]"
+    codes:
+      - "40E6E038 00070001"
+      - "00320032 00000000"
+      - "10E6E054 00000032"
+
+  - name: "Reloads X50"
+    notes: "[Items]"
+    codes:
+      - "40E6E058 00110001"
+      - "00320032 00000000"
+      - "10E6E09C 00000032"
+
+  - name: "Unkown ???? X50"
+    notes: "[Items]"
+    codes:
+      - "40E6E0B8 00070001"
+      - "00320032 00000000"
+      - "10E6E0D4 00000032"
+
+  - name: "Important X50"
+    notes: "[Items]"
+    codes:
+      - "40E6E0D8 001B0001"
+      - "00320032 00000000"
+      - "10E6E144 00000032"
+
+  - name: "Medicine"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFBA 00000032"
+
+  - name: "Ox Bezoar"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFBC 00000032"
+
+  - name: "Life Stone"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFBE 00000032"
+
+  - name: "Muscle Drink"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFC0 00000032"
+
+  - name: "Bead"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFC2 00000032"
+
+  - name: "Bead Of Life"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFC4 00000032"
+
+  - name: "Chakra Chip"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFC6 00000032"
+
+  - name: "Chakra Drop"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFC8 00000032"
+
+  - name: "Chakra Pot"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFCA 00000032"
+
+  - name: "Great Chakra"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFCC 00000032"
+
+  - name: "Soma Drop"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFCE 00000032"
+
+  - name: "Soma"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFD0 00000032"
+
+  - name: "Anti-Poison"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFD2 00000032"
+
+  - name: "Anti-Mute"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFD4 00000032"
+
+  - name: "Anti-Stone"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFD6 00000032"
+
+  - name: "Anti-Mind"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFD8 00000032"
+
+  - name: "Jin Dan"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFDA 00000032"
+
+  - name: "Balm Of Life"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFDC 00000032"
+
+  - name: "St Incense"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFDE 00000032"
+
+  - name: "Ma Incense"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFE0 00000032"
+
+  - name: "Vi Incense"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFE2 00000032"
+
+  - name: "Lu Incense"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFE4 00000032"
+
+  - name: "Mansaku Sake"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFE6 00000032"
+
+  - name: "Homura Sake"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFE8 00000032"
+
+  - name: "Fubuki Sake"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFEA 00000032"
+
+  - name: "Raiden Sake"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFEC 00000032"
+
+  - name: "Arashi Sake"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFEE 00000032"
+
+  - name: "Gouriki Sake"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFF0 00000032"
+
+  - name: "Yamiyo Sake"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFF2 00000032"
+
+  - name: "Takumi Sake"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFF4 00000032"
+
+  - name: "Shishiou Sake"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFF6 00000032"
+
+  - name: "Kotetsu Sake"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFF8 00000032"
+
+  - name: "Reserve"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFFA 00000032"
+
+  - name: "Attract Water"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFFC 00000032"
+
+  - name: "Repulse Water"
+    notes: "[Main Items]"
+    codes:
+      - "10E6DFFE 00000032"
+
+  - name: "Foxtail"
+    notes: "[Main Items]"
+    codes:
+      - "10E6E000 00000032"
+
+  - name: "Sealed Letter"
+    notes: "[Main Items]"
+    codes:
+      - "10E6E002 00000032"
+
+  - name: "Smoke Ball"
+    notes: "[Main Items]"
+    codes:
+      - "10E6E004 00000032"
+
+  - name: "Purity Charm"
+    notes: "[Main Items]"
+    codes:
+      - "10E6E006 00000032"
+
+  - name: "Wood Ornament"
+    notes: "[Item Type ???]"
+    codes:
+      - "10E6E038 00000032"
+
+  - name: "Asuka Mirror"
+    notes: "[Item Type ???]"
+    codes:
+      - "10E6E03A 00000032"
+
+  - name: "Rakuyou Chalice"
+    notes: "[Item Type ???]"
+    codes:
+      - "10E6E03C 00000032"
+
+  - name: "Javanese Figure"
+    notes: "[Item Type ???]"
+    codes:
+      - "10E6E03E 00000032"
+
+  - name: "Roman Coin"
+    notes: "[Item Type ???]"
+    codes:
+      - "10E6E040 00000032"
+
+  - name: "Persian Vase"
+    notes: "[Item Type ???]"
+    codes:
+      - "10E6E042 00000032"
+
+  - name: "Theban Jar"
+    notes: "[Item Type ???]"
+    codes:
+      - "10E6E044 00000032"
+
+  - name: "Cretan Goddess"
+    notes: "[Item Type ???]"
+    codes:
+      - "10E6E046 00000032"
+
+  - name: "Babylon Tablet"
+    notes: "[Item Type ???]"
+    codes:
+      - "10E6E048 00000032"
+
+  - name: "Giza Mask"
+    notes: "[Item Type ???]"
+    codes:
+      - "10E6E04A 00000032"
+
+  - name: "Stag Beetle"
+    notes: "[Item Type ???]"
+    codes:
+      - "10E6E04C 00000032"
+
+  - name: "Beetle"
+    notes: "[Item Type ???]"
+    codes:
+      - "10E6E04E 00000032"
+
+  - name: "Dainty Snack"
+    notes: "[Item Type ???]"
+    codes:
+      - "10E6E050 00000032"
+
+  - name: "Twig"
+    notes: "[Item Type ???]"
+    codes:
+      - "10E6E052 00000032"
+
+  - name: "Old Underwear"
+    notes: "[Item Type ???]"
+    codes:
+      - "10E6E054 00000032"
+
+  - name: "Normal"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E058 00000032"
+
+  - name: "Heavy"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E05A 00000032"
+
+  - name: "Fatal"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E05C 00000032"
+
+  - name: "Fire"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E05E 00000032"
+
+  - name: "Ice"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E060 00000032"
+
+  - name: "Elec"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E062 00000032"
+
+  - name: "Force"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E064 00000032"
+
+  - name: "Phys"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E066 00000032"
+
+  - name: "Death"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E068 00000032"
+
+  - name: "Charm"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E06A 00000032"
+
+  - name: "Sleep"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E06C 00000032"
+
+  - name: "Panic"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E06E 00000032"
+
+  - name: "Mute"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E070 00000032"
+
+  - name: "Poison"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E072 00000032"
+
+  - name: "Stone"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E074 00000032"
+
+  - name: "Item 05f"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E076 00000032"
+
+  - name: "Normal Clip"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E078 00000032"
+
+  - name: "Heavy Clip"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E07A 00000032"
+
+  - name: "Fatal Clip"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E07C 00000032"
+
+  - name: "Fire Clip"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E07E 00000032"
+
+  - name: "Ice Clip"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E080 00000032"
+
+  - name: "Elec Clip"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E082 00000032"
+
+  - name: "Force Clip"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E084 00000032"
+
+  - name: "Phys Clip"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E086 00000032"
+
+  - name: "Death Clip"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E088 00000032"
+
+  - name: "Charm Clip"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E08A 00000032"
+
+  - name: "Sleep Clip"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E08C 00000032"
+
+  - name: "Panic Clip"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E08E 00000032"
+
+  - name: "Mute Clip"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E090 00000032"
+
+  - name: "Poison Clip"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E092 00000032"
+
+  - name: "Stone Clip"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E094 00000032"
+
+  - name: "Aurora Clip"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E096 00000032"
+
+  - name: "Youtou Kuzunoha"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E098 00000032"
+
+  - name: "Nameless Gun"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E09A 00000032"
+
+  - name: "Prototype Gun"
+    notes: "[Reloads]"
+    codes:
+      - "10E6E09C 00000032"
+
+  - name: "Valhalla Soda"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0B8 00000032"
+
+  - name: "Magical Soda"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0BA 00000032"
+
+  - name: "Muscle Soda"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0BC 00000032"
+
+  - name: "Miracle Soda"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0BE 00000032"
+
+  - name: "Doctor Soda"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0C0 00000032"
+
+  - name: "Dragon Soda"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0C2 00000032"
+
+  - name: "Mandra Soda"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0C4 00000032"
+
+  - name: "Valhalla Nectar"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0C6 00000032"
+
+  - name: "Magical Nectar"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0C8 00000032"
+
+  - name: "Muscle Nectar"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0CA 00000032"
+
+  - name: "Miracle Nectar"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0CC 00000032"
+
+  - name: "Elixir Pop"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0CE 00000032"
+
+  - name: "Midas Pop"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0D0 00000032"
+
+  - name: "Harvest Pop"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0D2 00000032"
+
+  - name: "Deus Pop"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0D4 00000032"
+
+  - name: "Important Butterfly Brooch"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0D8 00000032"
+
+  - name: "Photo Of Kaya"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0DA 00000032"
+
+  - name: "Kaya's Diary"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0DC 00000032"
+
+  - name: "Lucky Charm"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0DE 00000032"
+
+  - name: "Rickshaw Knob"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0E0 00000032"
+
+  - name: "Dragon Tiles"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0E2 00000032"
+
+  - name: "Number Tiles"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0E4 00000032"
+
+  - name: "Scoring Sticks"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0E6 00000032"
+
+  - name: "Four Wind Tiles"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0E8 00000032"
+
+  - name: "Mahjong Tiles"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0EA 00000032"
+
+  - name: "Streetcar Pass"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0EC 00000032"
+
+  - name: "Cuff Link"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0EE 00000032"
+
+  - name: "Ring Of Memories"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0F0 00000032"
+
+  - name: "Tae's Camera"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0F2 00000032"
+
+  - name: "Ammunition Box"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0F4 00000032"
+
+  - name: "Earth Prism"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0F6 00000032"
+
+  - name: "Flame Prism"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0F8 00000032"
+
+  - name: "Water Prism"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0FA 00000032"
+
+  - name: "Amatsu Kanagi"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0FC 00000032"
+
+  - name: "Lock Pick"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E0FE 00000032"
+
+  - name: "Ice Cream"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E100 00000032"
+
+  - name: "Syrup"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E102 00000032"
+
+  - name: "White Shard"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E104 00000032"
+
+  - name: "Blue Shard"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E106 00000032"
+
+  - name: "Red Shard"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E108 00000032"
+
+  - name: "Blood Chrysoberyl"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E10A 00000032"
+
+  - name: "Fried Tofu"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E10C 00000032"
+
+  - name: "Sword Of Kashima"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E110 00000032"
+
+  - name: "Report Page 1"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E112 00000032"
+
+  - name: "Report Page 2"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E114 00000032"
+
+  - name: "Report Page 3"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E116 00000032"
+
+  - name: "Report Page 4"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E118 00000032"
+
+  - name: "Report Page 5"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E11A 00000032"
+
+  - name: "Report Page 6"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E11C 00000032"
+
+  - name: "Report Page 7"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E11E 00000032"
+
+  - name: "Report Page 8"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E120 00000032"
+
+  - name: "Shiomitsu Orb"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E122 00000032"
+
+  - name: "Chigaeshi Orb"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E124 00000032"
+
+  - name: "Red Wine"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E126 00000032"
+
+  - name: "Flute Of Rhone"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E128 00000032"
+
+  - name: "Pricey Beer"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E12A 00000032"
+
+  - name: "Vodka"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E12C 00000032"
+
+  - name: "Prophetic Book"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E12E 00000032"
+
+  - name: "Staff Of Death"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E130 00000032"
+
+  - name: "Bancho Uniform"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E132 00000032"
+
+  - name: "Mystic Eye"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E134 00000032"
+
+  - name: "Phantom Skull"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E136 00000032"
+
+  - name: "Tyrant Spawn"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E138 00000032"
+
+  - name: "Emblem Of Hell"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E13A 00000032"
+
+  - name: "Ss Project Report"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E13C 00000032"
+
+  - name: "Photo Of Red Cape"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E13E 00000032"
+
+  - name: "Photo Of Shizu"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E140 00000032"
+
+  - name: "Kiyoshi's Cane"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E142 00000032"
+
+  - name: "Photo Of Tae"
+    notes: "[Unknown Type]"
+    codes:
+      - "10E6E144 00000032"

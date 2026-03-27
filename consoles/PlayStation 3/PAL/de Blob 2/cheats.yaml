@@ -1,0 +1,32 @@
+# de Blob 2 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01160
+
+game: "de Blob 2"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01160"
+cheat_type: "Save Editor"
+source: "From chaoszage"
+
+cheats:
+  - name: "999 Bulbs"
+    notes: "File: SAVEDATA"
+    codes:
+      - "20000160 03E703E7"
+
+  - name: "All Stages Score 9999999"
+    notes: "File: SAVEDATA"
+    codes:
+      - "420000D8 0098967F"
+      - "400C0004 00000000"
+
+  - name: "Update Crc32:0 (required)(from Aldostools)"
+    notes: "File: SAVEDATA"
+    codes:
+      - "write at 0x000008:00000000"
+      - "set pointer:eof+1"
+      - "set range:0x0,pointer"
+      - "set [hash]:CRC32:0"
+      - "write at 0x000008:[hash]"

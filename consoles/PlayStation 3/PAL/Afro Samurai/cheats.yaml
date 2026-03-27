@@ -1,0 +1,28 @@
+# Afro Samurai cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00516
+
+game: "Afro Samurai"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00516"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Unlock All Treasures"
+    notes: "File: AFRO_0.SAV"
+    codes:
+      - "420000E4 01010101"
+      - "40130004 00000000"
+
+  - name: "Update Crc32:0 (required)"
+    notes: "File: AFRO_0.SAV"
+    codes:
+      - "set pointer:eof-4"
+      - "set range:0x000000,pointer"
+      - "set [hash]:CRC32:0"
+      - "set [hash]:xor:FFFFFFFF"
+      - "set pointer:eof-4"
+      - "write next (0):[hash]"

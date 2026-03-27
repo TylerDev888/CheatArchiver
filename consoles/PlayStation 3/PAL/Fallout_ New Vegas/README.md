@@ -1,0 +1,113 @@
+# Fallout_ New Vegas
+
+**Console:** PlayStation 3  
+**Region:** PAL  
+**Serial:** BLES00901  
+**Cheat Type:** Save Editor  
+**Source:** [From MysterE](From MysterE)  
+
+---
+
+## Cheats
+
+### Max Carry Weight
+**Author:**   
+**Notes:** File: SYS-DATA
+
+```
+80010004 7CAF100D
+93000000 00000014
+88000004 0000803F
+93000000 000002C8
+28000000 80E57349
+```
+
+---
+
+### Max Ap
+**Author:**   
+**Notes:** File: SYS-DATA
+
+```
+80010004 7CAF100D
+93000000 00000014
+88000004 0000803F
+93000000 000002CD
+28000000 804FC347
+```
+
+---
+
+### Max Limb Health
+**Author:**   
+**Notes:** File: SYS-DATA
+
+```
+80010004 7CAF100D
+93000000 00000014
+88000004 0000803F
+93000000 0000028C
+28000000 0000FA43
+28000005 0000FA43
+2800000A 0000FA43
+2800000F 0000FA43
+28000014 0000FA43
+28000019 0000FA43
+```
+
+---
+
+### Extra Rad Resist
+**Author:**   
+**Notes:** File: SYS-DATA
+
+```
+80010004 7CAF100D
+93000000 00000014
+88000004 0000803F
+93000000 000002A5
+28000004 00004743
+```
+
+---
+
+### Rapid Reload
+**Author:**   
+**Notes:** File: SYS-DATA
+
+```
+80010004 7CAF100D
+93000000 00000014
+88000004 0000803F
+93000000 000002D7
+28000000 0000FA43
+```
+
+---
+
+### Max Special Based On Your Character's 1st Four Letter Name
+**Author:**   
+**Notes:** File: SYS-DATA
+
+```
+80020004 [NAME][NAME][NAME][NAME]
+93000000 0000000B
+28000000 0A0A0A0A
+28000004 0A0A0A7C
+```
+
+---
+
+### Super Max Hp
+**Author:**   
+**Notes:** File: SYS-DATA
+
+```
+80010004 7CAF100D
+93000000 00000014
+88000004 0000803F
+93000000 000002B9
+28000004 F0237449
+```
+
+---

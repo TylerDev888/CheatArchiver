@@ -1,0 +1,85 @@
+# Star Ocean 3 - Till The End Of Time [Disc1of2] cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-82028
+
+game: "Star Ocean 3 - Till The End Of Time [Disc1of2]"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-82028"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F012D548 0012D54B"
+      - "E0040000 101F6960"
+      - "E0030000 101F6962"
+      - "F0000000 00000003"
+      - "2012D548 0C04E920"
+      - "2012D54C 0240202D"
+
+  - name: "Heat Up Gauge Max During A Fight"
+    author: "Codejunkies"
+    codes:
+      - "E0020004 003F5D8C"
+      - "D03F5D8E 00001420"
+      - "203F5D8C 14000004"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "200FFF00 AC430018"
+      - "200FFF04 8C470018"
+      - "200FFF08 0808059E"
+      - "E0030042 00201664"
+      - "E0021660 00201666"
+      - "20201674 0803FFC0"
+      - "2020168C 10000018"
+      - "E0020042 00201664"
+      - "D0201666 00001660"
+      - "20201690 AC43008C"
+
+  - name: "Infinite MP"
+    author: "Codejunkies"
+    codes:
+      - "200FFE00 AC430024"
+      - "200FFE04 8C470024"
+      - "200FFE08 080805E2"
+      - "E0030042 00201664"
+      - "E0021660 00201666"
+      - "2020179C 10000018"
+      - "202017A0 AC430090"
+      - "E0020042 00201664"
+      - "D0201666 00001660"
+      - "20201784 0803FF80"
+
+  - name: "Instant Win"
+    author: "Codejunkies"
+    codes:
+      - "E0020031 00290FA8"
+      - "D0290FAA 00001000"
+      - "2029103C 00000000"
+
+  - name: "Max Experience After A Fight"
+    author: "Codejunkies"
+    codes:
+      - "E0020003 00253090"
+      - "D0253092 00001420"
+      - "20253090 14000003"
+
+  - name: "Max Money When Item Is Sold"
+    author: "Codejunkies"
+    codes:
+      - "D02F9CD2 00004402"
+      - "202F9CCC 00000000"
+
+  - name: "Max Sol After A Fight"
+    author: "Codejunkies"
+    codes:
+      - "E0020003 002533F0"
+      - "D02533F2 00001420"
+      - "202533F0 14000003"

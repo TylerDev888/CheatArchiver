@@ -1,0 +1,93 @@
+# Ico cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-50760
+
+game: "Ico"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-50760"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F0102554 0026820F"
+
+  - name: "Disable Baddies AI"
+    author: "InterAct"
+    codes:
+      - "20166F6C 00000000"
+
+  - name: "Fullscreen Events"
+    author: "InterAct"
+    codes:
+      - "D063B60C 00000037"
+      - "1063B60C 00000036"
+
+  - name: "Good Guard"
+    author: "InterAct"
+    codes:
+      - "201597B8 00000000"
+
+  - name: "Never Get Killed From Falls (Press Select To Turn On, R2+L2 To Turn Off)"
+    author: "Codejunkies"
+    codes:
+      - "D028F8F0 00000100"
+      - "101F035E 00002800"
+      - "D028F8F0 00000003"
+      - "101F035E 00000C07"
+
+  - name: "Save Anywhere"
+    author: "InterAct"
+    codes:
+      - "D028F8F0 0000000F"
+      - "1063B60C 0000001C"
+
+  - name: "Scripted Baddies Don't Appear"
+    author: "InterAct"
+    codes:
+      - "2019C18C 00000000"
+      - "2019B028 00000000"
+
+  - name: "Walk Through Air (Press Select+L2 To Turn On, Select+R2 To Turn Off)"
+    author: "Codejunkies"
+    codes:
+      - "D028F8F0 00000101"
+      - "201EE224 10000014"
+      - "D028F8F0 00000102"
+      - "201EE224 10400014"
+
+  - name: "Display Rope Debug Coordinates"
+    author: "Codejunkies"
+    notes: "[Zoom Codes]"
+    codes:
+      - "201517C8 00000000"
+      - "20151810 00000000"
+
+  - name: "One Hit Kill"
+    author: "Codejunkies"
+    notes: "[Zoom Codes]"
+    codes:
+      - "2015995C 00000000"
+
+  - name: "Unlock Film Effect And 2 Player Mode"
+    author: "Codejunkies"
+    notes: "[Zoom Codes]"
+    codes:
+      - "2063AA00 00000001"
+
+  - name: "Zoom In"
+    author: "Codejunkies"
+    notes: "[Zoom Codes]"
+    codes:
+      - "20639F88 40400000"
+
+  - name: "Zoom Out"
+    author: "Codejunkies"
+    notes: "[Zoom Codes]"
+    codes:
+      - "20639F88 3F000000"

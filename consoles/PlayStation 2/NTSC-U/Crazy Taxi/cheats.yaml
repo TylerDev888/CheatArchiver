@@ -1,0 +1,177 @@
+# Crazy Taxi cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20202
+
+game: "Crazy Taxi"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20202"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F019FCB8 001A4297"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 001A4297"
+
+  - name: "Axel"
+    author: "MadCatz"
+    notes: "[Always Drive As]"
+    codes:
+      - "D047C798 00000150"
+      - "002FCC98 00000001"
+
+  - name: "BD Joe"
+    author: "MadCatz"
+    notes: "[Always Drive As]"
+    codes:
+      - "D047C798 00000150"
+      - "002FCC98 00000002"
+
+  - name: "Gena"
+    author: "MadCatz"
+    notes: "[Always Drive As]"
+    codes:
+      - "D047C798 00000150"
+      - "002FCC98 00000003"
+
+  - name: "Gus"
+    author: "MadCatz"
+    notes: "[Always Drive As]"
+    codes:
+      - "D047C798 00000150"
+      - "002FCC98 00000004"
+
+  - name: "Character Modifier (Arcade Mode)"
+    author: "Code Master"
+    codes:
+      - "D047C798 00000150"
+      - "002FCC98 000000??"
+
+  - name: "Constant RNG"
+    author: "root670"
+    codes:
+      - "2015B1E0 00601824"
+      - "20175D28 00601824"
+      - "20196668 00601824"
+
+  - name: "Press L1+L2 For Ultra Turbo Speed"
+    author: "Code Master"
+    codes:
+      - "D047B408 00000005"
+      - "1030A55A 00004800"
+
+  - name: "Press L1+R1 For More Time"
+    author: "Code Master"
+    codes:
+      - "D047B408 0000000C"
+      - "102F03CC 00001FFF"
+
+  - name: "Press L2+R2 For No Time"
+    author: "Code Master"
+    codes:
+      - "D047B408 00000003"
+      - "102F03CC 00000000"
+
+  - name: "Press R1+R2 For Turbo Speed"
+    author: "Code Master"
+    codes:
+      - "D047B408 0000000A"
+      - "1030A55A 00004600"
+
+  - name: "1 Balloon Left"
+    author: "MadCatz"
+    notes: "[Time Codes]"
+    codes:
+      - "1047BB14 00000001"
+
+  - name: "Extra (Press Square)"
+    author: "MadCatz"
+    notes: "[Time Codes]"
+    codes:
+      - "D047B408 00000080"
+      - "102F03CC 00001FFF"
+
+  - name: "Infinite Fare"
+    author: "MadCatz"
+    notes: "[Time Codes]"
+    codes:
+      - "102F0404 00000FFF"
+
+  - name: "Max Big Drift Combo"
+    author: "MadCatz"
+    notes: "[Time Codes]"
+    codes:
+      - "1047B950 000003E7"
+
+  - name: "Max Customers"
+    author: "MadCatz"
+    notes: "[Time Codes]"
+    codes:
+      - "1047BDE4 000003E7"
+
+  - name: "Max Money Earned"
+    author: "MadCatz"
+    notes: "[Time Codes]"
+    codes:
+      - "202F03E0 05F5E0FF"
+
+  - name: "None (Press Select)"
+    author: "MadCatz"
+    notes: "[Time Codes]"
+    codes:
+      - "D047B408 00000100"
+      - "102F03CC 00000000"
+
+  - name: "Speed Burst (Press R1 & L3)"
+    author: "MadCatz"
+    notes: "[Time Codes]"
+    codes:
+      - "D047B408 00000208"
+      - "1030A55A 00004600"
+
+  - name: "Super (Press L3)"
+    author: "MadCatz"
+    notes: "[Time Codes]"
+    codes:
+      - "D047B408 00000200"
+      - "1030A55A 00004800"
+
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001A4297"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901A4294 0C06D1F3"
+
+  - name: "Infinite Fare Time"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "102F0404 00000FFF"
+
+  - name: "Max Money"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "202F03E0 05F5E0FF"
+
+  - name: "1 Balloon Left (Crazy Box)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "1047BB14 00000001"

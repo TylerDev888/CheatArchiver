@@ -1,0 +1,155 @@
+# Conflict - Desert Storm cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20549
+
+game: "Conflict - Desert Storm"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20549"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 002CED97"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master>Lajos Szalay"
+    notes: "[Master Codes]"
+    codes:
+      - "902CED94 0C0CA1AD"
+
+  - name: "Enable Bar Graphs Display"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "2034F058 00000001"
+
+  - name: "Enable Cheat Menu (Options)"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "2034ED4C 00000001"
+
+  - name: "Enable Debug Mappings"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "2034FCE8 00000001"
+
+  - name: "Enable Grunt State Info"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "2034F15C 00000001"
+
+  - name: "Enable Quad Tree Display"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "2034F164 00000001"
+
+  - name: "Enable Vehicle State Info"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "2034F160 00000001"
+
+  - name: "Extra Ammo"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "101A8A6C 00000001"
+
+  - name: "Extra Grenades"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "101A8640 00000001"
+
+  - name: "Extra Medi-Kits"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "201AC0AC 00451021"
+
+  - name: "Idiot AI"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "2034ED40 00000001"
+
+  - name: "Infinite Ammo"
+    author: "InterAct"
+    codes:
+      - "001A8A70 28096800"
+
+  - name: "Infinite Grenades"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "201A8644 00000000"
+
+  - name: "Infinite Health"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "200C0220 3C024316"
+      - "200C0224 03E00008"
+      - "200C0228 AE020060"
+      - "201A31F8 0C030088"
+      - "201A31FC 4600B034"
+
+  - name: "Infinite Medi-Kits"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "201AC0B0 00000000"
+
+  - name: "Max Trooper Level"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "2034ED44 00000009"
+
+  - name: "Never Reload"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "201A8B14 00000000"
+
+  - name: "P1 Press R1+R2+L1+L2 To Disable Damage"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "201300D8 00000000"
+      - "D03D9402 0000F0FF"
+      - "201300B8 00000000"
+      - "D03D9402 0000F0FF"
+      - "201300C8 00000000"
+      - "D03D9402 0000FFFF"
+      - "201300B8 10400017"
+      - "D03D9402 0000FFFF"
+      - "201300C8 10400013"
+
+  - name: "P1 Press R1+R2+L1+L2+Select To Skip Level"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "D03D9402 0000F0FE"
+      - "203CA854 00000001"
+      - "D03D9402 0000FFFF"
+      - "203CA854 00000000"
+
+  - name: "Rapid Fire (Both Players)"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "201A8A10 00000000"
+
+  - name: "Rapid Fire P1"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "D03D9402 0000F7FF"
+      - "201A8A10 00000000"
+      - "D03D9402 0000FFFF"
+      - "201A8A10 AE020064"
+
+  - name: "Rapid Fire P2"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "D03D9802 0000F7FF"
+      - "201A8A10 00000000"
+      - "D03D9802 0000FFFF"
+      - "201A8A10 AE020064"
+
+  - name: "Weapons Are Automatic"
+    author: "Code Master>Lajos Szalay"
+    codes:
+      - "201A8B20 00000000"

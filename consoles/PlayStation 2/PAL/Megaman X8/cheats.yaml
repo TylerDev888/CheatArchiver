@@ -1,0 +1,40 @@
+# Megaman X8 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-52988
+
+game: "Megaman X8"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-52988"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0129698 0012969B"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "202DCD20 24020021"
+      - "202DCD2C AE02002C"
+
+  - name: "Infinite Metal Chips"
+    author: "Codejunkies"
+    codes:
+      - "2065690C 0098967F"
+      - "20656910 0098967F"
+
+  - name: "Infinite Retry Chips"
+    author: "Codejunkies"
+    codes:
+      - "00656D00 00000005"
+
+  - name: "Mission Completed"
+    author: "Codejunkies"
+    codes:
+      - "106568F6 00000FFF"

@@ -1,0 +1,117 @@
+# Obscure-The Aftermath cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21709
+
+game: "Obscure-The Aftermath"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21709"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Lajos Szalay"
+    notes: "[Masters]"
+    codes:
+      - "90128AEC 0C0D2D6E"
+
+  - name: "P1 Press Select To Skip FMV"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "201158C0 8C620000"
+      - "D0552B02 0000FFFE"
+      - "201158C0 24020001"
+
+  - name: "Infinite Health Both Player"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 C460038C"
+      - "200C0224 03E00008"
+      - "200C0228 E4600390"
+      - "203EF9B4 0C030088"
+
+  - name: "1-Hit Kill For Some Enemy"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "202B0614 AE200390"
+      - "202D6538 AC400390"
+      - "202B75F8 AE800390"
+
+  - name: "Never Reload"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "20317F58 E6410154"
+
+  - name: "Never Reload With Max Clip"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "20317F68 3C014479"
+      - "20317F70 AE410154"
+
+  - name: "Infinite Ammo"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "203196F0 00000000"
+
+  - name: "Max Infinite Ammo"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "203196D0 240303E7"
+
+  - name: "Extra Ammo"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "203196D0 00A41821"
+
+  - name: "Infinite Stun Gun Battery"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "20297F14 00000000"
+
+  - name: "Infinite Chainsaw Battery"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "2028F308 00000000"
+
+  - name: "Infinite Battery For All Weapons"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "203EED2C C4940C8C"
+      - "203EED30 E4940C88"
+
+  - name: "Infinite Grenades"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "2037139C 00000000"
+
+  - name: "Max Infinite Grenades"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "20371398 24030009"
+
+  - name: "Infinite Items"
+    author: "Lajos Szalay"
+    notes: "[Codes]"
+    codes:
+      - "2030D80C 00000000"
+
+  - name: "Invincible Both Player"
+    author: "Lajos Szalay"
+    notes: "[Activate Cheat Codes]"
+    codes:
+      - "20233F44 24030001"

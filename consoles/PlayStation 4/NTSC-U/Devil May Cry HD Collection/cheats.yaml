@@ -1,0 +1,41 @@
+# Devil May Cry HD Collection cheat data
+# Console: PlayStation 4
+# Region:  NTSC-U
+# Serial:  CUSA09407
+
+game: "Devil May Cry HD Collection"
+console: "PlayStation 4"
+region: "NTSC-U"
+serial: "CUSA09407"
+cheat_type: "AP"
+source: "same saveformat as ps3 version"
+
+cheats:
+  - name: "Devil May Cry Hd 3"
+    notes: "File: *"
+
+  - name: "File 1 Only"
+    notes: "File: *"
+
+  - name: "Max Hp"
+    notes: "File: *"
+    codes:
+      - "20000464 469C4000"
+
+  - name: "Super Max Hp - Do Not Upgrade"
+    notes: "File: *"
+    codes:
+      - "20000464 50000000"
+
+  - name: "Max Devil Trigger"
+    notes: "File: *"
+    codes:
+      - "20000468 461C4000"
+
+  - name: "Super Max Dt - Do Not Upgrade"
+    notes: "File: *"
+    codes:
+      - "20000468 50000000"
+
+  - name: "File 2 Only"
+    notes: "File: *"

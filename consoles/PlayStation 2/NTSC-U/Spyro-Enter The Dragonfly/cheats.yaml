@@ -1,0 +1,104 @@
+# Spyro-Enter The Dragonfly cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20315
+
+game: "Spyro-Enter The Dragonfly"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20315"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 00116937"
+
+  - name: "Infinite Lives"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2034BDEC 00000063"
+
+  - name: "Max Treasure"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2034BE3C 000003E7"
+
+  - name: "Have All Powers"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "2034BF90 FFFFFFFF"
+
+  - name: "Access All Powers (Press R1 To Change)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201C3E8C 240700FF"
+
+  - name: "Infinite Time (Timed Missions)"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201BB610 00000000"
+      - "201BB618 00000000"
+      - "201BA748 00000000"
+
+  - name: "Dragonfly Dojo"
+    author: "Code Master"
+    notes: "[Unlock Warp To Level Codes]"
+    codes:
+      - "0034C0DD 00000001"
+
+  - name: "Crop Circle Country"
+    author: "Code Master"
+    notes: "[Unlock Warp To Level Codes]"
+    codes:
+      - "0034C0DE 00000001"
+
+  - name: "Luau Island"
+    author: "Code Master"
+    notes: "[Unlock Warp To Level Codes]"
+    codes:
+      - "0034C0DF 00000001"
+
+  - name: "Cloud 9"
+    author: "Code Master"
+    notes: "[Unlock Warp To Level Codes]"
+    codes:
+      - "0034C0E0 00000001"
+
+  - name: "Monkey Monastery"
+    author: "Code Master"
+    notes: "[Unlock Warp To Level Codes]"
+    codes:
+      - "0034C0E1 00000001"
+
+  - name: "Honey Marsh"
+    author: "Code Master"
+    notes: "[Unlock Warp To Level Codes]"
+    codes:
+      - "0034C0E2 00000001"
+
+  - name: "Theives Den"
+    author: "Code Master"
+    notes: "[Unlock Warp To Level Codes]"
+    codes:
+      - "0034C0E3 00000001"
+
+  - name: "Jurassic Jungle"
+    author: "Code Master"
+    notes: "[Unlock Warp To Level Codes]"
+    codes:
+      - "0034C0E4 00000001"
+
+  - name: "Dragon Realms"
+    author: "Code Master"
+    notes: "[Max Gold Dragonfly Codes]"
+    codes:
+      - "2034BDF4 0000000A"

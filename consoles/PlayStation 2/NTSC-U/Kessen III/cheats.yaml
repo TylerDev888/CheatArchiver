@@ -1,0 +1,262 @@
+# Kessen III cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21119
+
+game: "Kessen III"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21119"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master>Sage"
+    notes: "[Masters]"
+    codes:
+      - "90123808 00832021"
+
+  - name: "Disable FMV"
+    author: "Code Master>Sage"
+    notes: "[Codes]"
+    codes:
+      - "2010AFC0 24020001"
+
+  - name: "Infinite Time"
+    author: "Code Master>Sage"
+    notes: "[Codes]"
+    codes:
+      - "20190970 00000000"
+
+  - name: "Infinite Troops"
+    author: "Code Master>Sage"
+    notes: "[Codes]"
+    codes:
+      - "200C0220 96410004"
+      - "200C0224 2C210016"
+      - "200C0228 10200002"
+      - "200C022C 3C01447A"
+      - "200C0230 AC41006C"
+      - "200C0234 03E00008"
+      - "200C0238 44800000"
+      - "201EE5F4 0C030088"
+
+  - name: "Max Gold"
+    author: "Code Master>Sage"
+    notes: "[Codes]"
+    codes:
+      - "20188B50 3C0205F5"
+      - "20188B54 3442E0FF"
+      - "20188B58 03E00008"
+      - "20188B5C AC820000"
+
+  - name: "Always Gain 5000 EXP"
+    author: "Code Master>Sage"
+    notes: "[Codes]"
+    codes:
+      - "2018B38C 24A31388"
+      - "2018B3B8 24631388"
+
+  - name: "Always Gain 10000 EXP"
+    author: "Code Master>Sage"
+    notes: "[Codes]"
+    codes:
+      - "2018B38C 24A32710"
+      - "2018B3B8 24632710"
+
+  - name: "Always Gain 15000 EXP"
+    author: "Code Master>Sage"
+    notes: "[Codes]"
+    codes:
+      - "2018B38C 24A33A98"
+      - "2018B3B8 24633A98"
+
+  - name: "Always Gain 20000 EXP"
+    author: "Code Master>Sage"
+    notes: "[Codes]"
+    codes:
+      - "2018B38C 24A34E20"
+      - "2018B3B8 24634E20"
+
+  - name: "Always Gain 25000 EXP"
+    author: "Code Master>Sage"
+    notes: "[Codes]"
+    codes:
+      - "2018B38C 24A361A8"
+      - "2018B3B8 246361A8"
+
+  - name: "Always Gain 30000 EXP"
+    author: "Code Master>Sage"
+    notes: "[Codes]"
+    codes:
+      - "2018B38C 24A37530"
+      - "2018B3B8 24637530"
+
+  - name: "Quick Level Up"
+    author: "Code Master>Sage"
+    notes: "[Codes]"
+    codes:
+      - "2018B394 00000000"
+
+  - name: "Super Tiny Army Size"
+    author: "Code Master>Sage"
+    notes: "[Codes]"
+    codes:
+      - "4057E240 00040005"
+      - "3F000000 00000000"
+
+  - name: "Tiny Army Size"
+    author: "Code Master>Sage"
+    notes: "[Codes]"
+    codes:
+      - "4057E240 00040005"
+      - "3F400000 00000000"
+
+  - name: "Super Army Size"
+    author: "Code Master>Sage"
+    notes: "[Codes]"
+    codes:
+      - "4057E240 00040005"
+      - "3FC00000 00000000"
+
+  - name: "Ultra Army Size"
+    author: "Code Master>Sage"
+    notes: "[Codes]"
+    codes:
+      - "4057E240 00040005"
+      - "40000000 00000000"
+
+  - name: "Super Movement"
+    author: "Code Master>Sage"
+    notes: "[Codes]"
+    codes:
+      - "200C0260 3C01469C"
+      - "200C0264 0806F888"
+      - "200C0268 AE21014C"
+      - "201ED854 0C030098"
+      - "201ED78C 00000000"
+      - "201ED808 00000000"
+
+  - name: "Ultra Movement"
+    author: "Code Master>Sage"
+    notes: "[Codes]"
+    codes:
+      - "200C0260 3C014743"
+      - "200C0264 0806F888"
+      - "200C0268 AE21014C"
+      - "201ED854 0C030098"
+      - "201ED78C 00000000"
+      - "201ED808 00000000"
+
+  - name: "P1 Press L1+Select To Stop Timer"
+    author: "Code Master>Sage"
+    notes: "[Rampage Codes]"
+    codes:
+      - "D0BD7642 0000FBFE"
+      - "2021D308 00000000"
+
+  - name: "P1 Press L2+Select To Restart Timer"
+    author: "Code Master>Sage"
+    notes: "[Rampage Codes]"
+    codes:
+      - "D0BD7642 0000FEFE"
+      - "2021D308 E4204B18"
+
+  - name: "Infinite Life"
+    author: "Code Master>Sage"
+    notes: "[Rampage Codes]"
+    codes:
+      - "20ED4EFC 00000FFF"
+      - "20ED4F00 00000FFF"
+
+  - name: "Super Jump/Movement"
+    author: "Code Master>Sage"
+    notes: "[Rampage Codes]"
+    codes:
+      - "20ED4D70 40000000"
+
+  - name: "Ultra Jump/Movement"
+    author: "Code Master>Sage"
+    notes: "[Rampage Codes]"
+    codes:
+      - "20ED4D70 41000000"
+
+  - name: "1-Hit Deaths (Enemies)"
+    author: "Code Master>Sage"
+    notes: "[Rampage Codes]"
+    codes:
+      - "200C0240 8C8202AC"
+      - "200C0244 2C410002"
+      - "200C0248 14200002"
+      - "200C024C 24010001"
+      - "200C0250 AC8102AC"
+      - "200C0254 03E00008"
+      - "200C0258 00000000"
+      - "201987C8 0C030090"
+
+  - name: "1-Hit Death (Boss)"
+    author: "Code Master>Sage"
+    notes: "[Rampage Codes]"
+    codes:
+      - "D0ED55AC 00200001"
+      - "20ED55AC 00000001"
+
+  - name: "Have All Biographies"
+    author: "Code Master>Sage"
+    notes: "[Scrolls Menu Codes]"
+    codes:
+      - "2040298C 24010003"
+      - "20402990 A0410000"
+      - "20402994 24020001"
+
+  - name: "Have All Battle List"
+    author: "Code Master>Sage"
+    notes: "[Scrolls Menu Codes]"
+    codes:
+      - "2040265C 24010003"
+      - "20402660 A041029E"
+      - "20402664 24020001"
+
+  - name: "Have Completed-Expert-All Battle List"
+    author: "Code Master>Sage"
+    notes: "[Scrolls Menu Codes]"
+    codes:
+      - "2040236C 24080002"
+      - "20402390 AC480B94"
+      - "20402394 24020002"
+      - "204022EC 24010001"
+      - "204022F0 A0411BD4"
+      - "204022F4 24020001"
+
+  - name: "Have Max Points-All Battle List"
+    author: "Code Master>Sage"
+    notes: "[Scrolls Menu Codes]"
+    codes:
+      - "204023BC 240803E7"
+      - "204023E0 AC480374"
+      - "204023E4 240203E7"
+
+  - name: "Have All Catalogue"
+    author: "Code Master>Sage"
+    notes: "[Scrolls Menu Codes]"
+    codes:
+      - "2040216C 24010003"
+      - "20402170 A0411DDC"
+      - "20402174 24020001"
+
+  - name: "Have All Movie Gallery"
+    author: "Code Master>Sage"
+    notes: "[Scrolls Menu Codes]"
+    codes:
+      - "204020BC 24010003"
+      - "204020C0 A0411F46"
+      - "204020C4 24020001"
+
+  - name: "Have All Auditorium"
+    author: "Code Master>Sage"
+    notes: "[Scrolls Menu Codes]"
+    codes:
+      - "20401E0C 24010003"
+      - "20401E10 A0411FCB"
+      - "20401E14 24020001"

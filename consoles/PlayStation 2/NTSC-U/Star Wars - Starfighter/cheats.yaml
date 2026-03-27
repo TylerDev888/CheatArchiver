@@ -1,0 +1,41 @@
+# Star Wars - Starfighter cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20044
+
+game: "Star Wars - Starfighter"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20044"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F011D2F4 003DA893"
+
+  - name: "Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Master Codes]"
+    codes:
+      - "F0100008 003DA663"
+
+  - name: "Easy Gold Medals"
+    author: "InterAct"
+    codes:
+      - "10D75EF8 00000003"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    codes:
+      - "203519FC 3C014248"
+      - "20351A0C AC61001C"
+
+  - name: "Infinite Shield"
+    author: "Code Master"
+    codes:
+      - "20351A38 3C014248"
+      - "20351A48 AC610014"

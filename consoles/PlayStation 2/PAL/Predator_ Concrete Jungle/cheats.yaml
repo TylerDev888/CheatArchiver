@@ -1,0 +1,33 @@
+# Predator_ Concrete Jungle cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Predator_ Concrete Jungle"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "903A56C0 0C0ED3E6"
+      - "200C2000 3C0842C8"
+      - "200C200C 03E00008"
+      - "200C2010 C6210CCC"
+      - "2023FB68 0C030800"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2004 AE280CCC"
+
+  - name: "Energy"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "200C2008 AE280CD0"

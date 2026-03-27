@@ -1,0 +1,810 @@
+# Grand Theft Auto_ Vice City Stories cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21590
+
+game: "Grand Theft Auto_ Vice City Stories"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21590"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "9046A2E0 0C11A860"
+
+  - name: "Enable Code(MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "F0449384 00449387"
+
+  - name: "Press Select To Complete Rampage"
+    codes:
+      - "D06F2782 0000FFFE"
+      - "204CD4D8 FFFFFFFF"
+
+  - name: "Game Speed Mod"
+    notes: "204CD168 [SPE]0000"
+
+  - name: "Lead Paint"
+    codes:
+      - "D050AB7A 00000000"
+      - "20352A74 AE510150"
+      - "E0040000 1050AB7A"
+      - "20352A74 08028008"
+      - "200A0020 AE510150"
+      - "200A0024 AE2004E4"
+      - "200A0028 080D4A9E"
+
+  - name: "Bumper Bomb Cars (bump A Car To Set It Aflame)"
+    codes:
+      - "20352A04 0802800C"
+      - "200A0030 AE510150"
+      - "200A0034 AE20027C"
+      - "200A0038 080D4A82"
+
+  - name: "Inf Ammo"
+    codes:
+      - "202C1890 00000000"
+      - "202C18F4 00000000"
+
+  - name: "Inf Ammo (in Car)"
+    codes:
+      - "202C1C98 00000000"
+      - "202C1D00 00000000"
+
+  - name: "Inf Armor"
+    codes:
+      - "201D8460 00000000"
+
+  - name: "Inf Your Car HP"
+    codes:
+      - "103D5398 00004600"
+      - "203D539C AE01027C"
+      - "203D53A0 44810000"
+
+  - name: "Max/Inf Money"
+    codes:
+      - "204E49CC 05F5E0FF"
+      - "204E49D0 05F5E0FF"
+
+  - name: "Skillers Portable Radio"
+    codes:
+      - "E002FEFF 006F2782"
+      - "004E4757 00000000"
+      - "004E4755 000000{RAS]"
+
+  - name: "Skillers Portable Radio + Tuner"
+    codes:
+      - "E003FEFF 006F2782"
+      - "004E4757 00000000"
+      - "004E4755 00000000"
+      - "204494F4 08028040"
+      - "200A0100 3C01006F"
+      - "200A0104 84222782"
+      - "200A0108 2403FBEF"
+      - "200A010C 3C04004E"
+      - "200A0110 34844755"
+      - "200A0114 1462000A"
+      - "200A0118 24060009"
+      - "200A011C 90850000"
+      - "200A0120 14A60004"
+      - "200A0128 A0800000"
+      - "200A012C 10000004"
+      - "200A0134 A0850000"
+      - "200A0138 24A50001"
+      - "200A013C A0850000"
+      - "200A0140 03E00008"
+
+  - name: "Stats Days Past"
+    codes:
+      - "204CD354 05F5E0FF"
+
+  - name: "Inf Stamina (water)"
+    codes:
+      - "201F3148 00000000"
+
+  - name: "Aim Of Death"
+    codes:
+      - "20318E20 08028000"
+      - "200A0000 AE090030"
+      - "200A0004 AC62E030"
+      - "200A0008 AD2004E4"
+      - "200A000C 080C638A"
+
+  - name: "Telecenetic Throw"
+    codes:
+      - "20318E20 08028000"
+      - "200A0000 00000000"
+      - "200A0004 AC62E030"
+      - "200A0008 8D260148"
+      - "200A000C 00063780"
+      - "200A0014 AD260148"
+      - "200A0018 080C638A"
+
+  - name: "Have Landmines"
+    codes:
+      - "604E4910 0000000E"
+      - "00000001 000005B0"
+      - "604E4910 00FFFFFF"
+      - "00020001 000005BC"
+
+  - name: "Infinite Health"
+    codes:
+      - "200C0220 3C0142FA"
+      - "200C0224 AC6104E4"
+      - "200C0228 080C7F53"
+      - "200C022C C46004E4"
+      - "2031FD48 08030088"
+
+  - name: "Infinite Time"
+    codes:
+      - "20396340 03E00008"
+      - "20396344 00000000"
+
+  - name: "1 Kill To Complete Rampage"
+    codes:
+      - "102A9F88 0000FFE6"
+
+  - name: "Loads Of Time On Ramapages"
+    codes:
+      - "204CD4D0 7FFF0000"
+
+  - name: "100% Complete"
+    codes:
+      - "204CD18C 447A0000"
+
+  - name: "Can Not Be Arrested"
+    codes:
+      - "20327478 03E00008"
+      - "2032747C 00000000"
+      - "20327740 03E00008"
+      - "20327744 00000000"
+
+  - name: "Freeze Daily Time"
+    codes:
+      - "20228840 03E00008"
+      - "20228844 00000000"
+
+  - name: "Infinite Run (alternate)"
+    codes:
+      - "20232AB8 00000000"
+
+  - name: "Never Wanted{0001 Min to 0006 Max]"
+    codes:
+      - "203AA92C 2403[Amount:0006:HEX:BIG]"
+
+  - name: "Never Lose Your Weapons When Wasted Or Busted"
+    codes:
+      - "20200440 03E00008"
+      - "20200444 00000000"
+
+  - name: "Super Jump"
+    notes: "[Jump]"
+    codes:
+      - "10212878 00004208"
+
+  - name: "Mega Jump"
+    notes: "[Jump]"
+    codes:
+      - "10212878 00004308"
+
+  - name: "Ultra Jump"
+    notes: "[Jump]"
+    codes:
+      - "10212878 00004408"
+
+  - name: "Cops Get Out And Walk Away"
+    notes: "[Ai Effect Changes]"
+    codes:
+      - "20326FD8 03E00008"
+      - "20326FDC 00000000"
+
+  - name: "Cars Dont Stop For Traffic Lights"
+    notes: "[Ai Effect Changes]"
+    codes:
+      - "20312CE0 03E00008"
+      - "20312CE4 24020000"
+
+  - name: "Idiot Ai-Civilians"
+    notes: "[Ai Effect Changes]"
+    codes:
+      - "202D9D18 03E00008"
+      - "202D9D1C 00000000"
+
+  - name: "Idiot Ai-Firemen"
+    notes: "[Ai Effect Changes]"
+    codes:
+      - "2037D6F0 03E00008"
+      - "2037D6F4 00000000"
+
+  - name: "Idiot Ai-Medics"
+    notes: "[Ai Effect Changes]"
+    codes:
+      - "20409208 03E00008"
+      - "2040920C 00000000"
+
+  - name: "Guys Follow You"
+    notes: "[Always On]"
+    codes:
+      - "00486D94 00000001"
+
+  - name: "Aggressive Drivers"
+    notes: "[Always On]"
+    codes:
+      - "00487A54 00000001"
+
+  - name: "Peds Have Weapons"
+    notes: "[Always On]"
+    codes:
+      - "00488000 00000001"
+
+  - name: "Multiplayer Unlocks"
+    notes: "[Always On]"
+    codes:
+      - "00488320 00000001"
+
+  - name: "Multiplayer Unlocks (this One Up, Up, Up, Triangle, Triangle, Circle, L1, R1)"
+    notes: "[Always On]"
+    codes:
+      - "0048832C 00000001"
+
+  - name: "All Green Light"
+    notes: "[Always On]"
+    codes:
+      - "004883C0 00000001"
+
+  - name: "Black Traffic"
+    notes: "[Always On]"
+    codes:
+      - "00489E78 00000001"
+
+  - name: "Chrome Vehicles"
+    notes: "[Always On]"
+    codes:
+      - "00489EB4 00000001"
+
+  - name: "Perfect Traction, Down=car Hop"
+    notes: "[Always On]"
+    codes:
+      - "0048A15C 00000001"
+
+  - name: "Faster Clock"
+    notes: "[Always On]"
+    codes:
+      - "0048A618 00000001"
+
+  - name: "Max Money"
+    notes: "[Button Cheat Mod]"
+    codes:
+      - "1028279C 000005F5"
+      - "102827A4 0000E0FF"
+
+  - name: "Faster Game Play Mod"
+    notes: "[Button Cheat Mod]"
+    codes:
+      - "102825D4 0000[SPE]"
+
+  - name: "Slower Game Play Mod"
+    notes: "[Button Cheat Mod]"
+    codes:
+      - "1028269C 0000[SPE]"
+
+  - name: "Raise Wanted Level By ???"
+    notes: "[Button Cheat Mod]"
+    codes:
+      - "00282914 000000[Amount:06:HEX:BIG]"
+
+  - name: "Sunny Weather Mod"
+    notes: "[Button Cheat Mod]"
+    codes:
+      - "20282A84 2404[WMD]"
+
+  - name: "Clear Weather Mod"
+    notes: "[Button Cheat Mod]"
+    codes:
+      - "20282B2C 2404[WMD]"
+
+  - name: "Overcast Weather Mod"
+    notes: "[Button Cheat Mod]"
+    codes:
+      - "20282BD4 2404[WMD]"
+
+  - name: "Rainy Weather Mod"
+    notes: "[Button Cheat Mod]"
+    codes:
+      - "20282C7C 2404[WMD]"
+
+  - name: "Foggy Weather Mod"
+    notes: "[Button Cheat Mod]"
+    codes:
+      - "20282D24 2404[WMD]"
+
+  - name: "Spawn Rhino Mod"
+    notes: "[Button Cheat Mod]"
+    codes:
+      - "1028215C 0000[CAR]"
+
+  - name: "Spawn Trashmaster Mod"
+    notes: "[Button Cheat Mod]"
+    codes:
+      - "1028217C 0000[CAR]"
+
+  - name: "Slot 1 Brass Knuckles"
+    notes: "[Weapon Set 1 Mod:{Left, Right, X, Up, Down, Square, Left, Right}]"
+    codes:
+      - "10281514 000000[WE]"
+      - "10281518 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 2 Knife"
+    notes: "[Weapon Set 1 Mod:{Left, Right, X, Up, Down, Square, Left, Right}]"
+    codes:
+      - "10281530 000000[WE]"
+      - "10281534 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 3 Moltov"
+    notes: "[Weapon Set 1 Mod:{Left, Right, X, Up, Down, Square, Left, Right}]"
+    codes:
+      - "1028154C 000000[WE]"
+      - "10281550 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 4 Pistol"
+    notes: "[Weapon Set 1 Mod:{Left, Right, X, Up, Down, Square, Left, Right}]"
+    codes:
+      - "10281568 000000[WE]"
+      - "1028156C 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 5 Shotgun"
+    notes: "[Weapon Set 1 Mod:{Left, Right, X, Up, Down, Square, Left, Right}]"
+    codes:
+      - "10281584 000000[WE]"
+      - "10281588 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 6 Uzi"
+    notes: "[Weapon Set 1 Mod:{Left, Right, X, Up, Down, Square, Left, Right}]"
+    codes:
+      - "102815A0 000000[WE]"
+      - "102815A4 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 7 Ak47"
+    notes: "[Weapon Set 1 Mod:{Left, Right, X, Up, Down, Square, Left, Right}]"
+    codes:
+      - "102815BC 000000[WE]"
+      - "102815C0 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 8 Sniper"
+    notes: "[Weapon Set 1 Mod:{Left, Right, X, Up, Down, Square, Left, Right}]"
+    codes:
+      - "102815D8 000000[WE]"
+      - "102815DC 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 9 Flame Thrower"
+    notes: "[Weapon Set 1 Mod:{Left, Right, X, Up, Down, Square, Left, Right}]"
+    codes:
+      - "102815F4 000000[WE]"
+      - "102815F8 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 1 Katana"
+    notes: "[Weapon Set 2 Mod:{Left, Right, Square, Up, Down, Triangle, Left, Right}]"
+    codes:
+      - "102817A4 000000[WE]"
+      - "102817A8 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 2 Grenade2"
+    notes: "[Weapon Set 2 Mod:{Left, Right, Square, Up, Down, Triangle, Left, Right}]"
+    codes:
+      - "102817C0 000000[WE]"
+      - "102817C4 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 3 Handgun"
+    notes: "[Weapon Set 2 Mod:{Left, Right, Square, Up, Down, Triangle, Left, Right}]"
+    codes:
+      - "102817DC 000000[WE]"
+      - "102817E0 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 4 Shotgun3"
+    notes: "[Weapon Set 2 Mod:{Left, Right, Square, Up, Down, Triangle, Left, Right}]"
+    codes:
+      - "102817F8 000000[WE]"
+      - "102817FC 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 5 Silent Uzi"
+    notes: "[Weapon Set 2 Mod:{Left, Right, Square, Up, Down, Triangle, Left, Right}]"
+    codes:
+      - "10281814 000000[WE]"
+      - "10281818 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 6 2hand Uzi2"
+    notes: "[Weapon Set 2 Mod:{Left, Right, Square, Up, Down, Triangle, Left, Right}]"
+    codes:
+      - "10281830 000000[WE]"
+      - "10281834 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 7 Sniper2"
+    notes: "[Weapon Set 2 Mod:{Left, Right, Square, Up, Down, Triangle, Left, Right}]"
+    codes:
+      - "1028184C 000000[WE]"
+      - "10281850 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 8 Rocket Launcher"
+    notes: "[Weapon Set 2 Mod:{Left, Right, Square, Up, Down, Triangle, Left, Right}]"
+    codes:
+      - "10281864 000000[WE]"
+      - "10280F68 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 1 Saw"
+    notes: "[Weapon Set 3 Mod:{Left, Right, Triangle, Up, Down, Circle, Left, Right}]"
+    codes:
+      - "10281A14 000000[WE]"
+      - "10281A18 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 2 Grenade"
+    notes: "[Weapon Set 3 Mod:{Left, Right, Triangle, Up, Down, Circle, Left, Right}]"
+    codes:
+      - "10281A30 000000[WE]"
+      - "10281A34 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 4 Shotgun2"
+    notes: "[Weapon Set 3 Mod:{Left, Right, Triangle, Up, Down, Circle, Left, Right}]"
+    codes:
+      - "10281A68 000000[WE]"
+      - "10281A6C 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 5 2hand Uzi"
+    notes: "[Weapon Set 3 Mod:{Left, Right, Triangle, Up, Down, Circle, Left, Right}]"
+    codes:
+      - "10281A84 000000[WE]"
+      - "10281A88 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Slot 8 Chaingun"
+    notes: "[Weapon Set 3 Mod:{Left, Right, Triangle, Up, Down, Circle, Left, Right}]"
+    codes:
+      - "10281AD4 000000[WE]"
+      - "10281AD8 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Hours"
+    notes: "[Time Of Day Mod]"
+    codes:
+      - "004CD148 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Mins"
+    notes: "[Time Of Day Mod]"
+    codes:
+      - "004CD149 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Jet Ski Spawn At 101 Bayshore"
+    notes: "[Vehicle Spawns]"
+    codes:
+      - "20749AF8 000000E9"
+      - "20749AFC C436599A"
+      - "20749B00 C48F9CCD"
+      - "20749B04 40C00000"
+      - "20749B08 41A00000"
+
+  - name: "Pcj-600 Spawn At 101 Bayshore"
+    notes: "[Vehicle Spawns]"
+    codes:
+      - "20749AC8 000000D4"
+      - "20749ACC C4480666"
+      - "20749AD0 C4928CCD"
+      - "20749AD4 4131999A"
+      - "20749AD8 41A00000"
+
+  - name: "Hunter Spawn At 101 Bayshore"
+    notes: "[Vehicle Spawns]"
+    codes:
+      - "20749B58 00000113"
+      - "20749B5C C43F4000"
+      - "20749B60 C48E6000"
+      - "20749B64 413CCCCD"
+      - "20749B68 41A00000"
+
+  - name: "Little Willie Spawn At 101 Bayshore"
+    notes: "[Vehicle Spawns]"
+    codes:
+      - "20749B28 000000AD"
+      - "20749B2C C43D4000"
+      - "20749B30 C491A000"
+      - "20749B34 412CCCCD"
+      - "20749B38 41A00000"
+
+  - name: "Car Mod"
+    notes: "[Car 1]"
+    codes:
+      - "1050F980 0000[CAR]"
+
+  - name: "Handling"
+    notes: "[Car 1]"
+    codes:
+      - "1050F99C 0000[HAN]"
+
+  - name: "Proofing"
+    notes: "[Car 1]"
+    codes:
+      - "0050F9A0 000000[PR]"
+
+  - name: "Color Red"
+    notes: "[Color 1]"
+    codes:
+      - "0050F9A4 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Color Green"
+    notes: "[Color 1]"
+    codes:
+      - "0050F9A5 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Color Blue"
+    notes: "[Color 1]"
+    codes:
+      - "0050F9A6 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Superman 2 Car Included (controller 1)"
+    notes: "[Superman]"
+    codes:
+      - "D06F2782 0000FFFE"
+      - "2046A2AC 08030000"
+      - "200C0000 3C01006F"
+      - "200C0004 90232783"
+      - "200C0008 3C02004E"
+      - "200C000C 8C424910"
+      - "200C0010 8048068C"
+      - "200C0014 15000003"
+      - "200C001C 8C420480"
+      - "200C0028 200400FE"
+      - "200C002C 10830003"
+      - "200C0030 3C1B3E30"
+      - "200C0034 03E00008"
+      - "200C003C AC5B0148"
+      - "200C0040 3C01006F"
+      - "200C0044 90232782"
+      - "200C0048 200400EF"
+      - "200C004C 200500BF"
+      - "200C0050 200600DF"
+      - "200C0054 2007007F"
+      - "200C0058 3C12BFF0"
+      - "200C005C 3C133FF0"
+      - "200C0060 1083000A"
+      - "200C0068 10A3000B"
+      - "200C0070 10C3000C"
+      - "200C0078 10E3000D"
+      - "200C0080 03E00008"
+      - "200C0090 AC530144"
+      - "200C0094 03E00008"
+      - "200C009C AC520144"
+      - "200C00A0 03E00008"
+      - "200C00A8 AC530140"
+      - "200C00AC 03E00008"
+      - "200C00B4 AC520140"
+      - "200C00B8 03E00008"
+
+  - name: "Superman 2 Car Included (controller 2 Used)"
+    notes: "[Superman]"
+    codes:
+      - "D06F2943 0000FFFE"
+      - "2046A2AC 08030000"
+      - "200C0000 3C01006F"
+      - "200C0004 90232943"
+      - "200C0008 3C02004E"
+      - "200C000C 8C424910"
+      - "200C0010 8048068C"
+      - "200C0014 15000004"
+      - "200C001C 8C420480"
+      - "200C0028 200400FE"
+      - "200C002C 10830003"
+      - "200C0030 3C1B3E30"
+      - "200C0034 03E00008"
+      - "200C003C AC5B0148"
+      - "200C0040 3C01006F"
+      - "200C0044 90232942"
+      - "200C0048 200400EF"
+      - "200C004C 200500BF"
+      - "200C0050 200600DF"
+      - "200C0054 2007007F"
+      - "200C0058 3C12BFF0"
+      - "200C005C 3C133FF0"
+      - "200C0060 1083000A"
+      - "200C0068 10A3000B"
+      - "200C0070 10C3000C"
+      - "200C0078 10E3000D"
+      - "200C0080 03E00008"
+      - "200C0090 AC530144"
+      - "200C0094 03E00008"
+      - "200C009C AC520144"
+      - "200C00A0 03E00008"
+      - "200C00A8 AC530140"
+      - "200C00AC 03E00008"
+      - "200C00B4 AC520140"
+      - "200C00B8 03E00008"
+
+  - name: "Texture Mod Activator (MUST BE ON For Texture Codes)"
+    notes: "[Texture Modding]"
+    codes:
+      - "201E95A4 08028000"
+      - "201E95A8 00000000"
+      - "200A0004 12B60005"
+      - "200A000C 8E62005C"
+      - "200A0010 0807A56A"
+      - "200A0014 30420020"
+      - "200A0024 AE77004C"
+      - "200A0028 AE770048"
+      - "200A002C 00003C17"
+      - "200A0030 000036F7"
+      - "200A0034 AE770060"
+      - "200A0038 16E0FFF4"
+
+  - name: "Texture Id To Use"
+    notes: "[Texture Modding]"
+    codes:
+      - "200A0000 2016[ID2]"
+
+  - name: "Texture Size"
+    notes: "[Texture Modding]"
+    codes:
+      - "100A001C 3C17[Amount:3E80:HEX:BIG<FLOAT-TOP>]"
+      - "100A0020 36F7[Amount:0000:HEX:BIG<FLOAT-BOTTOM>]"
+
+  - name: "Texture Color Red"
+    notes: "[Texture Modding]"
+    codes:
+      - "000A002F 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Texture Color Green"
+    notes: "[Texture Modding]"
+    codes:
+      - "000A0032 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Texture Color Blue"
+    notes: "[Texture Modding]"
+    codes:
+      - "000A0033 000000[Amount:FF:HEX:BIG]"
+
+  - name: "All Cars Receive No Damage To Collisions"
+    notes: "[Vehicle Codes]"
+    codes:
+      - "20136C10 03E00008"
+      - "20136C14 00000000"
+
+  - name: "Only Your Car Takes No Damage To Collisions"
+    notes: "[Vehicle Codes]"
+    codes:
+      - "20137054 00000000"
+      - "20137060 00000000"
+
+  - name: "All Cars Are Immune To Weapons"
+    notes: "[Vehicle Codes]"
+    codes:
+      - "203E80A0 03E00008"
+      - "203E80A4 00000000"
+
+  - name: "Only Your Car Is Immune To Weapons"
+    notes: "[Vehicle Codes]"
+    codes:
+      - "203E8148 00000000"
+      - "203E8154 00000000"
+
+  - name: "Cars Never Blow Up(infinite Car Burn)"
+    notes: "[Vehicle Codes]"
+    codes:
+      - "20344848 03E00008"
+      - "2034484C 00000000"
+
+  - name: "No Visual Car Damage"
+    notes: "[Vehicle Codes]"
+    codes:
+      - "203F4980 03E00008"
+      - "203F4984 00000000"
+
+  - name: "No Damage Falling From High Places"
+    notes: "[Vehicle Codes]"
+    codes:
+      - "201F9EA8 00000000"
+      - "201F4320 00000000"
+
+  - name: "Car Tires Never Pop"
+    notes: "[Vehicle Codes]"
+    codes:
+      - "203F4798 00000000"
+
+  - name: "Motorcycle Tires Never Pop"
+    notes: "[Vehicle Codes]"
+    codes:
+      - "20344D28 03E00008"
+      - "20344D2C 00000000"
+
+  - name: "No Motorcycle Damage From Crashing(all Motorcycles)"
+    notes: "[Vehicle Codes]"
+    codes:
+      - "20336448 03E00008"
+      - "2033644C 00000000"
+
+  - name: "Only Your Motorcycle Takes No Damage To Collisions"
+    notes: "[Vehicle Codes]"
+    codes:
+      - "203364A0 100201FB"
+
+  - name: "Motorcyles Never Blow Up(infinite Burn)"
+    notes: "[Vehicle Codes]"
+    codes:
+      - "2014D070 03E00008"
+      - "2014D074 00000000"
+
+  - name: "Never Fall Of Your Bike"
+    notes: "[Vehicle Codes]"
+    codes:
+      - "201A4F68 24020000"
+      - "201DB8C8 24020000"
+      - "20336B90 24020000"
+
+  - name: "Taxi Mission Mod Activator (MUST BE ON For Below Codes To Work)"
+    notes: "[Mission Mods]"
+    codes:
+      - "D048741C 00100000"
+      - "204494F4 08028080"
+      - "200A0200 3C130048"
+      - "200A0204 8E73741C"
+      - "200A0208 3C140002"
+      - "200A020C 3694B93C"
+      - "200A0210 0293A021"
+      - "200A021C A2960062"
+      - "200A0220 A2950001"
+      - "200A0224 A2950041"
+      - "200A0228 03E00008"
+
+  - name: "Mission Mod"
+    notes: "[Mission Mods]"
+    codes:
+      - "200A0214 241600[MM]"
+
+  - name: "Max Score"
+    notes: "[Phil's Shooting Range]"
+    codes:
+      - "11DED298 000009C4"
+
+  - name: "Infinite Time (0:00)"
+    notes: "[Phil's Shooting Range]"
+    codes:
+      - "21DED2B0 00000000"
+
+  - name: "Heat Never Increases"
+    notes: "[Boomshine Blowout]"
+    codes:
+      - "21DED2A8 00000000"
+      - "21DED2AC 00000000"
+
+  - name: "Infinite Girl Protection"
+    notes: "[Got Protection]"
+    codes:
+      - "21DED2A4 42C80000"
+
+  - name: "Start On 2nd Lap"
+    notes: "[When Funday Comes]"
+    codes:
+      - "01DED47C 00000001"
+
+  - name: "Enemys Always On First Lap"
+    notes: "[When Funday Comes]"
+    codes:
+      - "01DED470 00000000"
+      - "01DED474 00000000"
+      - "01DED478 00000000"
+
+  - name: "Always First Place"
+    notes: "[When Funday Comes]"
+    codes:
+      - "21DED42C 00000000"
+
+  - name: "Enemys Always Last"
+    notes: "[When Funday Comes]"
+    codes:
+      - "01DED420 00000001"
+      - "01DED424 00000002"
+      - "01DED428 00000003"
+
+  - name: "Infinite Lance Health"
+    notes: "[Jive Drive]"
+    codes:
+      - "21DEDF98 00000064"
+      - "21DEDFDC 00000064"

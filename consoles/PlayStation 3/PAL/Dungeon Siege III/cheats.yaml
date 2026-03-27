@@ -1,0 +1,36 @@
+# Dungeon Siege III cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01161
+
+game: "Dungeon Siege III"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01161"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Money (not Working)"
+    notes: "[Lucas Montbarron]  File: SYS-DATA"
+    codes:
+      - "62000000 0000001C"
+      - "62010100 000480BC"
+      - "62120001 00000038"
+      - "62200100 00000004"
+      - "62010100 00000000"
+      - "62120001 00000170"
+      - "62200100 0000000C"
+      - "62400000 05F5E0FF"
+
+  - name: "Max Exp (not Working)"
+    notes: "[Lucas Montbarron]  File: SYS-DATA"
+    codes:
+      - "62000000 0000001C"
+      - "62010100 000480BC"
+      - "62120001 00000038"
+      - "62200100 00000004"
+      - "62010100 00000000"
+      - "62120001 00000170"
+      - "62200100 0000001C"
+      - "62400000 00055730"

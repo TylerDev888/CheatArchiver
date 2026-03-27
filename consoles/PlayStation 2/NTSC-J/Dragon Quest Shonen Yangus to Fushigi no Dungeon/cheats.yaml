@@ -1,0 +1,59 @@
+# Dragon Quest Shonen Yangus to Fushigi no Dungeon cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-66363
+
+game: "Dragon Quest Shonen Yangus to Fushigi no Dungeon"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-66363"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code(MUST BE ON)"
+    notes: "[Masters]  9032F820 0C0CBDB0"
+
+  - name: "Max Money"
+    notes: "[Misc Codes]  206a7f88 0098967F"
+
+  - name: "Current HP"
+    notes: "[Character 1]"
+    codes:
+      - "106A7F0C 000001F4"
+
+  - name: "Total HP"
+    notes: "[Character 1]"
+    codes:
+      - "106A7F24 000001F4"
+
+  - name: "Max EXP"
+    notes: "[Character 1]"
+    codes:
+      - "206A7F20 0098967F"
+
+  - name: "Lvl 99"
+    notes: "[Character 1]"
+    codes:
+      - "006A7F18 00000063"
+
+  - name: "Max Stats"
+    notes: "[Character 1]"
+    codes:
+      - "206A7F10 00630063"
+      - "206A7F14 00630063"
+
+  - name: "Max/Inf HP"
+    notes: "[Dungeon (only)]  E0027f90 01340c98 11340c9c 000001f4 11340cb4 000001f4"
+
+  - name: "Max All Stats (99)"
+    notes: "[Dungeon (only)]  E0027f90 01340c98 21340ca0 00630063 21340ca4 00630063"
+
+  - name: "Max Lvl"
+    notes: "[Dungeon (only)]  E0017f90 01340c98 01340ca8 00000063"
+
+  - name: "Quick EXP Gain (255)"
+    notes: "[Dungeon (only)]  E0017f90 01340c98 01340cb0 000000FF"
+
+  - name: "Super Quick EXP Gain (65536)"
+    notes: "[Dungeon (only)]  E0017f90 01340c98 11340cb0 0000FFFF"

@@ -1,0 +1,49 @@
+# Rayman 3-Hoodlum Havoc cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-20601
+
+game: "Rayman 3-Hoodlum Havoc"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-20601"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Code Breaker Version 1-5Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 001168EF"
+
+  - name: "Code Breaker Version 6+Enable Code (Must Be On)"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "901168EC 0C049106"
+
+  - name: "Quick Score Gain"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "105C9F5C 0000FFFF"
+
+  - name: "Max Score"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "205C9F5C 000F423F"
+
+  - name: "Infinite Health"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "211C7E2C 00000029"
+
+  - name: "Press L1+X For Moon Jump"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "D05D0B72 0000BBFF"
+      - "211675D4 413FFFFF"

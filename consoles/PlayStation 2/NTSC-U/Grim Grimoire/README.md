@@ -1,0 +1,121 @@
+# Grim Grimoire
+
+**Console:** PlayStation 2  
+**Region:** NTSC-U  
+**Serial:** SLUS-21604  
+**Cheat Type:** CodeBreaker  
+
+---
+
+## Cheats
+
+### Enable Code (Must Be On) [Read Note]
+**Author:** Skiller  
+**Notes:** [Masters]
+
+```
+9011B3A8 0C047B9C
+```
+
+---
+
+### Gain Mana X10000
+**Author:** Skiller  
+**Notes:** [Codes]
+
+```
+20197DC8 20042710
+```
+
+---
+
+### Gain Mana X1000
+**Author:** Skiller  
+**Notes:** [Codes]
+
+```
+20197DC8 200403E8
+```
+
+---
+
+### Gain Mana X100
+**Author:** Skiller  
+**Notes:** [Codes]
+
+```
+20197DC8 20040064
+```
+
+---
+
+### Infinite Mana
+**Author:** Skiller  
+**Notes:** [Codes]
+
+```
+201AEC74 00000000
+```
+
+---
+
+### Infinite Building
+**Author:** Skiller  
+**Notes:** [Codes]
+
+```
+2019B590 00000000
+```
+
+---
+
+### Can Build 255 Units
+**Author:** Skiller  
+**Notes:** [Codes]
+
+```
+201AF2F4 08028000
+201AF2F8 201100FF
+200A0000 0280202D
+200A0004 0806BCBE
+```
+
+---
+
+### Flash Build Army
+**Author:** Skiller  
+**Notes:** [Codes]
+
+```
+200A0070 8C9701E0
+200A0074 12E00006
+200A007C 848201DC
+200A0080 A48201DE
+200A0084 3C16447A
+200A0088 AC9601E0
+200A0090 03E00008
+20192D0C 0802801C
+```
+
+---
+
+### Flash Advents-Upgrades, Talismans & More
+**Author:** Skiller  
+**Notes:** [Codes]
+
+```
+200A0040 24630001
+200A0044 8E1701E0
+200A0048 12E00007
+200A0050 860301DC
+200A0054 A60301DE
+200A0058 3C16447A
+200A005C AE1601E0
+200A0060 080711B7
+200A0068 080711B7
+200A006C A60301DE
+201C46D8 08028010
+201C46DC 00000000
+```
+
+---

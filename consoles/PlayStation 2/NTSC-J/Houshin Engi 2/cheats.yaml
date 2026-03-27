@@ -1,0 +1,24 @@
+# Houshin Engi 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPM-65083
+
+game: "Houshin Engi 2"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPM-65083"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "903E3F38 0C0F8F76"
+
+  - name: "Enable Code (Alternate)"
+    author: "BigBossman"
+    notes: "[Master Codes]"
+    codes:
+      - "903FA65C 0C0F60D8"

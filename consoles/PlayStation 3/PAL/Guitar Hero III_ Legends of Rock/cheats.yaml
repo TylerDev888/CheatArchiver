@@ -1,0 +1,21 @@
+# Guitar Hero III_ Legends of Rock cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00134
+
+game: "Guitar Hero III_ Legends of Rock"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00134"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Toc.dat (required)"
+    notes: "File: TOC.DAT  (set range:0x000004,0x002137)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32"
+      - "set [hash]:xor:FFFFFFFF"
+      - "write at 0x000000:[hash]"

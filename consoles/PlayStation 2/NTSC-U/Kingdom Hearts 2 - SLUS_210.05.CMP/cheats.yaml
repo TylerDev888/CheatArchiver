@@ -1,0 +1,3330 @@
+# Kingdom Hearts 2 - SLUS_210.05.CMP cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21005
+
+game: "Kingdom Hearts 2 - SLUS_210.05.CMP"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21005"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]"
+    codes:
+      - "902FD330 0C0C42BD"
+
+  - name: "Joker Controller 1"
+    notes: "[Jokers]"
+    codes:
+      - "0035B55C 0000[Joker:PS2]"
+
+  - name: "Restore HP"
+    author: "Pyriel"
+    notes: "[Misc Codes]"
+    codes:
+      - "1019F980 00000005"
+
+  - name: "Infinite HP"
+    author: "Pyriel"
+    notes: "[Misc Codes]"
+    codes:
+      - "200C0000 8C830238"
+      - "200C0004 8C810004"
+      - "200C0008 0023100B"
+      - "200C000C 03E00008"
+      - "200C0010 AC820000"
+      - "201A0138 08030000"
+
+  - name: "Infinite MP"
+    author: "Pyriel"
+    notes: "[Misc Codes]"
+    codes:
+      - "200C0100 8C830238"
+      - "200C0104 8C810184"
+      - "200C0108 0023100B"
+      - "200C010C 08068074"
+      - "200C0110 AC820180"
+      - "201A0200 08030040"
+
+  - name: "Quick EXP Gain"
+    author: "Pyriel"
+    notes: "[Misc Codes]"
+    codes:
+      - "201B5238 25CE[Amount:2710:HEX:BIG]"
+
+  - name: "Sell Something To Gain \"amount\" Money"
+    notes: "[Misc Codes]"
+    codes:
+      - "2023E648 25EF[Amount:2710:HEX:BIG]"
+
+  - name: "Buy Something To Gain \"amount\" Money"
+    notes: "[Misc Codes]"
+    codes:
+      - "2023E6D4 25EF[Amount:2710:HEX:BIG]"
+
+  - name: "Sell Items To Gain Same Amount Sold"
+    notes: "[Misc Codes]"
+    codes:
+      - "201A1CA8 01D07821"
+
+  - name: "Buy Something To Get 100 Of It"
+    notes: "[Misc Codes]"
+    codes:
+      - "201A1B98 01C56821"
+
+  - name: "High Score Mod"
+    notes: "[Misc Codes]"
+    codes:
+      - "11D5D8F0 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Collect \"amount\" Points To Win"
+    notes: "[Misc Codes]"
+    codes:
+      - "11D5D8E8 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Tournaments Score Mod (might Also Be For Other Mini Games)"
+    notes: "[Misc Codes]"
+    codes:
+      - "11D5D8FC 0000[Amount:2710:HEX:BIG]"
+
+  - name: "Demyx Points Kill"
+    notes: "[Misc Codes]"
+    codes:
+      - "D035B55C 0000FFFB"
+      - "11D5D8FC 00000001"
+
+  - name: "Collect 1 Coin To Have Max For Coins"
+    notes: "[Misc Codes]"
+    codes:
+      - "201CFA38 08028000"
+      - "200A0000 8E300018"
+      - "200A0004 AE30002C"
+      - "200A0008 08073E8F"
+
+  - name: "Time Stop Mod"
+    notes: "[Misc Codes]"
+    codes:
+      - "D035B55C 0000[Joker:PS2]"
+      - "20356F1C 00000000"
+      - "D035B55C 0000[Joker:PS2]"
+      - "20356F1C 00000001"
+
+  - name: "Time Limit 00:00:00."
+    notes: "[Misc Codes]"
+    codes:
+      - "20356F18 00000000"
+      - "20356F28 00000000"
+
+  - name: "Extremely Slow Forum Consumption"
+    notes: "[Misc Codes]"
+    codes:
+      - "20340C94 47C35000"
+      - "20340C98 47C35000"
+      - "21CFCDEC 47C35000"
+
+  - name: "Battle Lvl 00"
+    notes: "[Misc Codes]"
+    codes:
+      - "20340E8C 00000000"
+
+  - name: "Battle Lvl End Game"
+    notes: "[Misc Codes]"
+    codes:
+      - "20340E8C 0015FDF9"
+
+  - name: "Battle Lvl Deadly"
+    notes: "[Misc Codes]"
+    codes:
+      - "20340E8C 001FFFFF"
+
+  - name: "Degree Of Difficulty"
+    notes: "[Misc Codes]"
+    codes:
+      - "0033F338 0000000[DOD]"
+
+  - name: "Drive Mod"
+    notes: "[Misc Codes]"
+    codes:
+      - "00340C8C 0000000[DMD]"
+
+  - name: "Max/Inf Munny"
+    notes: "[Misc Codes]"
+    codes:
+      - "2033FE60 000F423F"
+
+  - name: "Drive = End Game Drive"
+    notes: "[Misc Codes]"
+    codes:
+      - "20340C90 0A070764"
+
+  - name: "Bonus Level"
+    notes: "[Misc Codes]"
+    codes:
+      - "00340E68 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Summoning Mod"
+    notes: "[Misc Codes]"
+    codes:
+      - "00340C8D 000000[Amount:FF:HEX:BIG]"
+
+  - name: "Lvl For Brave Form"
+    notes: "[Misc Codes]"
+    codes:
+      - "00340B26 00000007"
+
+  - name: "Lvl For Wisdom Form"
+    notes: "[Misc Codes]"
+    codes:
+      - "00340B4E 00000007"
+
+  - name: "Lvl For Master Form"
+    notes: "[Misc Codes]"
+    codes:
+      - "00340B76 00000007"
+
+  - name: "Lvl For Final Form"
+    notes: "[Misc Codes]"
+    codes:
+      - "00340B9E 00000007"
+
+  - name: "Lvl For Anti"
+    notes: "[Misc Codes]"
+    codes:
+      - "00340BC6 00000007"
+
+  - name: "Lvl For Summon"
+    notes: "[Misc Codes]"
+    codes:
+      - "00340C8E 00000007"
+
+  - name: "EXP For Brave Form"
+    notes: "[Misc Codes]"
+    codes:
+      - "20340B28 000F423F"
+
+  - name: "EXP For Wisdom Form"
+    notes: "[Misc Codes]"
+    codes:
+      - "20340B50 000F423F"
+
+  - name: "EXP For Master Form"
+    notes: "[Misc Codes]"
+    codes:
+      - "20340B78 000F423F"
+
+  - name: "EXP For Final Form"
+    notes: "[Misc Codes]"
+    codes:
+      - "20340BA0 000F423F"
+
+  - name: "EXP For Anit"
+    notes: "[Misc Codes]"
+    codes:
+      - "20340BC8 000[Amount:2710:HEX:BIG]"
+
+  - name: "EXP For Summon"
+    notes: "[Misc Codes]"
+    codes:
+      - "20340E4C 000F423F"
+
+  - name: "Inf HP"
+    notes: "[Misc Codes]"
+    codes:
+      - "200F7000 8C820004"
+      - "200F7004 080682F8"
+      - "200F7008 AC820000"
+      - "201666F8 0C03DC00"
+
+  - name: "Inf MP"
+    notes: "[Misc Codes]"
+    codes:
+      - "201A01F8 00000000"
+
+  - name: "Max Drive Gauge (when Used)"
+    notes: "[Misc Codes]"
+    codes:
+      - "201A02A0 00000000"
+      - "201A02BC 256EFFFF"
+
+  - name: "Multiply EXP By \"med\" Times"
+    notes: "[Misc Codes]"
+    codes:
+      - "201B5238 0803D400"
+      - "201B523C 00000000"
+      - "200F5000 00042[MED]"
+      - "200F5004 01C47021"
+      - "200F5008 01EE782A"
+      - "200F500C 0806D490"
+
+  - name: "Infinite Hp-All Characters"
+    author: "Armax"
+    notes: "[Misc Codes]"
+    codes:
+      - "2019F980 922F0005"
+
+  - name: "Infinite Mp-All Characters"
+    author: "Armax"
+    notes: "[Misc Codes]"
+    codes:
+      - "2019F990 922E0007"
+
+  - name: "Quick Level Up-All Characters"
+    author: "Armax"
+    notes: "[Misc Codes]"
+    codes:
+      - "20340E48 0098967F"
+
+  - name: "All World Treasures Found"
+    author: "Armax"
+    notes: "[Misc Codes]"
+    codes:
+      - "2033FDCC FFFFFFFF"
+      - "2033FDD0 FFFFFFFF"
+      - "2033FDD4 FFFFFFFF"
+      - "2033FDD8 FFFFFFFF"
+      - "2033FDDC FFFFFFFF"
+      - "2033FDE0 FFFFFFFF"
+      - "2033FDE4 FFFFFFFF"
+      - "2033FDE8 FFFFFFFF"
+      - "2033FDEC FFFFFFFF"
+      - "2033FDF0 FFFFFFFF"
+      - "2033FDF4 FFFFFFFF"
+      - "2033FDF8 FFFFFFFF"
+
+  - name: "All Maps"
+    notes: "[Jimmies Note Book]"
+    codes:
+      - "20340E28 FFFFFFFF"
+      - "20340E2C FFFFFFFF"
+      - "20340E30 FFFFFFFF"
+
+  - name: "Open All Jiminy's Journal"
+    notes: "[Jimmies Note Book]"
+    codes:
+      - "4033FDB0 00040001"
+      - "FFFFFFFF 00000000"
+
+  - name: "All Heartless Monsters Defeted (jimmies Notes)"
+    notes: "[Jimmies Note Book]"
+    codes:
+      - "40340EB0 002F0001"
+      - "000000FF 00000000"
+
+  - name: "All Nobody Monsters Defeted (jimmies Notes)"
+    notes: "[Jimmies Note Book]"
+    codes:
+      - "40341030 000C0001"
+      - "000000FF 00000000"
+
+  - name: "Monsters Bottom Numbers"
+    notes: "[Jimmies Note Book]"
+    codes:
+      - "403410B4 00180001"
+      - "00FF00FF 00000000"
+
+  - name: "Heartless - Soldier"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340EB0 000000F0"
+
+  - name: "Heartless - Shadow"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340EB4 000000F0"
+
+  - name: "Heartless - Large Body"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340EB8 000000F0"
+
+  - name: "Heartless - Neo Shadow"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340EBC 000000F0"
+
+  - name: "Heartless - Trick Ghost"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340EC0 000000F0"
+
+  - name: "Heartless - Mad Dog"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340EC4 000000F0"
+
+  - name: "Heartless - Hookbat"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340EC8 000000F0"
+
+  - name: "Heartless - Book Master"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340ECC 000000F0"
+
+  - name: "Heartless - Aeroplane"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340ED0 000000F0"
+
+  - name: "Heartless - Miniature Bomb"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340ED4 000000F0"
+
+  - name: "Heartless - Hammer Body"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340ED8 000000F0"
+
+  - name: "Heartless - Assault Rider"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340EDC 000000F0"
+
+  - name: "Heartless - Night Walker"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340EE0 000000F0"
+
+  - name: "Heartless - Marble Vendor"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340EE4 000000F0"
+
+  - name: "Heartless - Magna Leader"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340EE8 000000F0"
+
+  - name: "Heartless - Eraser"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340EEC 000000F0"
+
+  - name: "Heartless - Fortune Teller"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340EF0 000000F0"
+
+  - name: "Heartless - Luna Bandit"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340EF4 000000F0"
+
+  - name: "Heartless - Hot Rod"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340EF8 000000F0"
+
+  - name: "Heartless - Aiming Cannon"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340EFC 000000F0"
+
+  - name: "Heartless - Rapid Thruster"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F00 000000F0"
+
+  - name: "Heartless - Living Bone"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F04 000000F0"
+
+  - name: "Heartless - Terminator"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F08 000000F0"
+
+  - name: "Heartless - Lance Soldier"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F0C 000000F0"
+
+  - name: "Heartless - Mole Drill"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F10 000000F0"
+
+  - name: "Heartless - Morning Star"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F14 000000F0"
+
+  - name: "Heartless - Shaman"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F18 000000F0"
+
+  - name: "Heartless - Tornado Step"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F1C 000000F0"
+
+  - name: "Heartless - Armor Knight"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F20 000000F0"
+
+  - name: "Heartless - Surveillance"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F24 000000F0"
+
+  - name: "Heartless - Flare Glove"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F28 000000F0"
+
+  - name: "Heartless - Ice Cube"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F2C 000000F0"
+
+  - name: "Heartless - Sword Statue"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F30 000000F0"
+
+  - name: "Heartless - Axe Statue"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F34 000000F0"
+
+  - name: "Heartless - Silver Rock"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F38 000000F0"
+
+  - name: "Heartless - Emerald Blues"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F3C 000000F0"
+
+  - name: "Heartless - Crimson Jazz"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F40 000000F0"
+
+  - name: "Heartless - Volt Tower"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F44 000000F0"
+
+  - name: "Heartless - Blank"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F48 000000F0"
+
+  - name: "Heartless - Aerial Knocker"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F4C 000000F0"
+
+  - name: "Heartless - Fat Bandit"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F50 000000F0"
+
+  - name: "Heartless - Toy Soldier"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F54 000000F0"
+
+  - name: "Heartless - Wight Knight"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F58 000000F0"
+
+  - name: "Heartless - Air Pirate"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F5C 000000F0"
+
+  - name: "Heartless - Crescendo"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F60 000000F0"
+
+  - name: "Heartless - Creep Plant"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F64 000000F0"
+
+  - name: "Heartless - Graveyard"
+    notes: "[Individual Notes]"
+    codes:
+      - "20340F68 000000F0"
+
+  - name: "Nobodys - Dusk"
+    notes: "[Individual Notes]"
+    codes:
+      - "20341030 000000F0"
+
+  - name: "Nobodys - Blank"
+    notes: "[Individual Notes]"
+    codes:
+      - "20341034 000000F0"
+
+  - name: "Nobodys - Dragoon"
+    notes: "[Individual Notes]"
+    codes:
+      - "2034103C 000000F0"
+
+  - name: "Nobodys - Assassin"
+    notes: "[Individual Notes]"
+    codes:
+      - "20341040 000000F0"
+
+  - name: "Nobodys - Samurai"
+    notes: "[Individual Notes]"
+    codes:
+      - "20341044 000000F0"
+
+  - name: "Nobodys - Sniper"
+    notes: "[Individual Notes]"
+    codes:
+      - "20341048 000000F0"
+
+  - name: "Nobodys - Dancer"
+    notes: "[Individual Notes]"
+    codes:
+      - "2034104C 000000F0"
+
+  - name: "Nobodys - Berserker"
+    notes: "[Individual Notes]"
+    codes:
+      - "20341050 000000F0"
+
+  - name: "Nobodys - Gambler"
+    notes: "[Individual Notes]"
+    codes:
+      - "20341054 000000F0"
+
+  - name: "Nobodys - Sorcerer"
+    notes: "[Individual Notes]"
+    codes:
+      - "20341058 000000F0"
+
+  - name: "Nobodys - Creeper"
+    notes: "[Individual Notes]"
+    codes:
+      - "2034105C 000000F0"
+
+  - name: "Soldier (bottom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410B2 000000F0"
+
+  - name: "Large Body (bottom Number 1)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410B4 000000F0"
+
+  - name: "Large Body (bottom Number 2)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410B6 000000F0"
+
+  - name: "Hookbat (bottom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410B8 000000F0"
+
+  - name: "Fourtune Teller (bottom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410BA 000000F0"
+
+  - name: "Lance Soldier (bottom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410BC 000000F0"
+
+  - name: "Fat Bandit (bottom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410BE 000000F0"
+
+  - name: "Miniature Bomb (bottom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410C0 000000F0"
+
+  - name: "Rapid Thruster (bottom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410C2 000000F0"
+
+  - name: "Creep Plant (bottom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410C4 000000F0"
+
+  - name: "Tornado Step (bottom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410C6 000000F0"
+
+  - name: "Crescendo (bottom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410C8 000000F0"
+
+  - name: "Magna Loader (bottom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410CA 000000F0"
+
+  - name: "Silver Rock (bottom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410CC 000000F0"
+
+  - name: "Air Pirate (bottom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410CE 000000F0"
+
+  - name: "Neo Shadow (buttom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410D0 000000F0"
+
+  - name: "Armour Knight (buttom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410D2 000000F0"
+
+  - name: "Surveillance (bottom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410D4 000000F0"
+
+  - name: "Aerial Knocker"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410D6 000000F0"
+
+  - name: "Shaman (bottom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410D8 000000F0"
+
+  - name: "Living Bone (bottom Number 2)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410DA 000000F0"
+
+  - name: "Dusk (bottom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410DC 000000F0"
+
+  - name: "Samurai (bottom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410DE 000000F0"
+
+  - name: "Dragon (bottom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410E0 000000F0"
+
+  - name: "Sniper (bottom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410E2 000000F0"
+
+  - name: "Gambler (bottom Number 2)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410E4 000000F0"
+
+  - name: "Gambler (bottom Number 1)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410E6 000000F0"
+
+  - name: "Blank"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410EA 000000F0"
+
+  - name: "Berserker (bottom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410EC 000000F0"
+
+  - name: "Volt Tower (bottom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410EE 000000F0"
+
+  - name: "Morning Star (bottom Number 2)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410F8 000000F0"
+
+  - name: "Morning Star (bottom Number 1)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410FA 000000F0"
+
+  - name: "Living Bone (bottom Number 1)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410FC 000000F0"
+
+  - name: "Dragon (bottom Number 1)"
+    notes: "[Bottom Number]"
+    codes:
+      - "103410FE 000000F0"
+
+  - name: "Large Body (bottom Number 3)"
+    notes: "[Bottom Number]"
+    codes:
+      - "10341102 000000F0"
+
+  - name: "Marble Vendor (bottom Number4)"
+    notes: "[Bottom Number]"
+    codes:
+      - "10341104 000000F0"
+
+  - name: "Marble Vendor (bottom Number3)"
+    notes: "[Bottom Number]"
+    codes:
+      - "10341106 000000F0"
+
+  - name: "Marble Vendor (bottom Number2)"
+    notes: "[Bottom Number]"
+    codes:
+      - "10341108 000000F0"
+
+  - name: "Marble Vendor (bottom Number1)"
+    notes: "[Bottom Number]"
+    codes:
+      - "1034110A 000000F0"
+
+  - name: "Sword Statue (bottom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "1034110C 000000F0"
+
+  - name: "Assassin (bottom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "1034110E 000000F0"
+
+  - name: "Axe Statue (bottom Number)"
+    notes: "[Bottom Number]"
+    codes:
+      - "10341110 000000F0"
+
+  - name: "Doesn't Seem To Be Anything"
+    notes: "[Party Mods{Slot 4,Slot 3,Slot 2,Slot 1 (Main slot Sora/Micky}]"
+    codes:
+      - "20340C9C [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]"
+
+  - name: "Twilight Town"
+    notes: "[Party Mods{Slot 4,Slot 3,Slot 2,Slot 1 (Main slot Sora/Micky}]"
+    codes:
+      - "20340CA4 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]"
+
+  - name: "Hollow Bastion"
+    notes: "[Party Mods{Slot 4,Slot 3,Slot 2,Slot 1 (Main slot Sora/Micky}]"
+    codes:
+      - "20340CAC [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]"
+
+  - name: "Beasts Castle"
+    notes: "[Party Mods{Slot 4,Slot 3,Slot 2,Slot 1 (Main slot Sora/Micky}]"
+    codes:
+      - "20340CB0 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]"
+
+  - name: "Olympus Coliseum"
+    notes: "[Party Mods{Slot 4,Slot 3,Slot 2,Slot 1 (Main slot Sora/Micky}]"
+    codes:
+      - "20340CB4 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]"
+
+  - name: "Agrabah"
+    notes: "[Party Mods{Slot 4,Slot 3,Slot 2,Slot 1 (Main slot Sora/Micky}]"
+    codes:
+      - "20340CB8 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]"
+
+  - name: "The Land Of Dragons"
+    notes: "[Party Mods{Slot 4,Slot 3,Slot 2,Slot 1 (Main slot Sora/Micky}]"
+    codes:
+      - "20340CBC [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]"
+
+  - name: "100 Acre Wood"
+    notes: "[Party Mods{Slot 4,Slot 3,Slot 2,Slot 1 (Main slot Sora/Micky}]"
+    codes:
+      - "20340CC0 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]"
+
+  - name: "Pride Lands"
+    notes: "[Party Mods{Slot 4,Slot 3,Slot 2,Slot 1 (Main slot Sora/Micky}]"
+    codes:
+      - "20340CC4 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]"
+
+  - name: "Atlantica"
+    notes: "[Party Mods{Slot 4,Slot 3,Slot 2,Slot 1 (Main slot Sora/Micky}]"
+    codes:
+      - "20340CC8 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]"
+
+  - name: "Disney Castle"
+    notes: "[Party Mods{Slot 4,Slot 3,Slot 2,Slot 1 (Main slot Sora/Micky}]"
+    codes:
+      - "20340CCC [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]"
+
+  - name: "Timeless River"
+    notes: "[Party Mods{Slot 4,Slot 3,Slot 2,Slot 1 (Main slot Sora/Micky}]"
+    codes:
+      - "20340CD0 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]"
+
+  - name: "Halloween Town"
+    notes: "[Party Mods{Slot 4,Slot 3,Slot 2,Slot 1 (Main slot Sora/Micky}]"
+    codes:
+      - "20340CD4 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]"
+
+  - name: "Port Royal"
+    notes: "[Party Mods{Slot 4,Slot 3,Slot 2,Slot 1 (Main slot Sora/Micky}]"
+    codes:
+      - "20340CDC [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]"
+
+  - name: "Space Paranoids"
+    notes: "[Party Mods{Slot 4,Slot 3,Slot 2,Slot 1 (Main slot Sora/Micky}]"
+    codes:
+      - "20340CE0 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]"
+
+  - name: "The World That Never Was"
+    notes: "[Party Mods{Slot 4,Slot 3,Slot 2,Slot 1 (Main slot Sora/Micky}]"
+    codes:
+      - "20340CE4 [CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>]"
+
+  - name: "Party Mod (all In One) Use This Code And All Worlds Will Have The Same"
+    notes: "[Party Mods{Slot 4,Slot 3,Slot 2,Slot 1 (Main slot Sora/Micky}]"
+    codes:
+      - "40340C9C 00130001"
+      - "[CMD<Slot4>][CMD<Slot3>][CMD<Slot2>][CMD<Slot1>] 00000000"
+
+  - name: "Universal Character Mod Slot 1(sora)"
+    author: "Godshin"
+    notes: "[Universal Character Mods]"
+    codes:
+      - "11C95618 0000[UCM]"
+
+  - name: "Universal Character Mod Slot 2(donald)"
+    author: "Godshin"
+    notes: "[Universal Character Mods]"
+    codes:
+      - "11C9561A 0000[UCM]"
+
+  - name: "Universal Character Mod Slot 3(goofy)"
+    author: "Godshin"
+    notes: "[Universal Character Mods]"
+    codes:
+      - "11C9561C 0000[UCM]"
+
+  - name: "Universal Character Mod Slot 4 (/Guest)"
+    author: "Godshin"
+    notes: "[Universal Character Mods]"
+    codes:
+      - "11C9561E 0000[UCM]"
+
+  - name: "Universal Character Mod Valor-Form"
+    author: "Godshin"
+    notes: "[Universal Character Mods]"
+    codes:
+      - "11CFA404 0000[UCM]"
+
+  - name: "Universal Character Mod Wisdom Form"
+    author: "Godshin"
+    notes: "[Universal Character Mods]"
+    codes:
+      - "11CFA406 0000[UCM]"
+
+  - name: "Universal Character Mod Master-Form"
+    author: "Godshin"
+    notes: "[Universal Character Mods]"
+    codes:
+      - "11CFA408 0000[UCM]"
+
+  - name: "Universal Character Mod Final-Form"
+    author: "Godshin"
+    notes: "[Universal Character Mods]"
+    codes:
+      - "11CFA40A 0000[UCM]"
+
+  - name: "Universal Character Mod Anti-Form"
+    author: "Godshin"
+    notes: "[Universal Character Mods]"
+    codes:
+      - "11CFA40C 0000[UCM]"
+
+  - name: "Universal Character Mod King Mickey"
+    author: "Godshin"
+    notes: "[Universal Character Mods]"
+    codes:
+      - "11CFA40E 0000[UCM]"
+
+  - name: "Inf HP (gummie Ship)"
+    author: "CMX"
+    notes: "[Gummi Ship Codes]"
+    codes:
+      - "200C0220 8C820008"
+      - "200C0224 03E00008"
+      - "200C0228 AC820004"
+      - "D1F663C0 000004A8"
+      - "21F663BC 0C030088"
+
+  - name: "Max Points"
+    author: "CMX"
+    notes: "[Gummi Ship Codes]"
+    codes:
+      - "D03565C4 00000001"
+      - "21F7801C 05F5E0FF"
+
+  - name: "Quick Medal Gain"
+    notes: "[Gummi Ship Codes]"
+    codes:
+      - "D03565C4 00000001"
+      - "21F4C83C 25AD0005"
+
+  - name: "Medals Never Decrease"
+    notes: "[Gummi Ship Codes]"
+    codes:
+      - "D03565C4 00000001"
+      - "21F4C70C 00000000"
+
+  - name: "Have All Deco-Gummies"
+    notes: "[Gummi Ship Codes]"
+    codes:
+      - "10349BEA 0000FFFF"
+      - "20349BEC FFFFFFFF"
+      - "20349BF4 FFFFFFFF"
+      - "20349BF8 FFFFFFFF"
+      - "10349BFA 0000FFFF"
+      - "10349BFE 0000FFFF"
+      - "20349C00 FFFFFFFF"
+      - "10349C04 0000FFFF"
+      - "00349C06 000000FF"
+      - "20349C08 FFFFFFFF"
+      - "10349C12 0000FFFF"
+      - "40349C14 00030001"
+      - "FFFFFFFF 00000000"
+      - "10349C20 0000FFFF"
+      - "10349C26 0000FFFF"
+      - "20349C28 FFFFFFFF"
+      - "20349C30 FFFFFFFF"
+      - "20349C34 FFFFFFFF"
+      - "00349C38 000000FF"
+      - "00349C45 000000FF"
+
+  - name: "Have All Material Gummies"
+    notes: "[Gummi Ship Codes]"
+    codes:
+      - "00349BE1 000000FF"
+      - "10349BE2 0000FFFF"
+      - "00349BE4 000000FF"
+
+  - name: "Max Allowed Cost Gummie"
+    notes: "[Gummi Ship Codes]"
+    codes:
+      - "00349C8A 000000[ACG]"
+
+  - name: "Max Allowed Cost Teeny"
+    notes: "[Gummi Ship Codes]"
+    codes:
+      - "00349C8F 000000[ACT]"
+
+  - name: "Max Ap"
+    notes: "[Gummi Ship Codes]"
+    codes:
+      - "00349C8E 00000063"
+
+  - name: "Have All Abilitys"
+    notes: "[Gummi Ship Codes]"
+    codes:
+      - "00349C58 00000001"
+      - "00349C5C 00000001"
+      - "20349C60 01000001"
+      - "20349C68 01010100"
+      - "20349C6C 01010101"
+      - "20349C70 01000101"
+
+  - name: "All Special Models"
+    notes: "[Gummi Ship Codes]"
+    codes:
+      - "40349C94 00030001"
+      - "01010101 00000000"
+
+  - name: "Have All Sample Prints"
+    notes: "[Gummi Ship Codes]"
+    codes:
+      - "10349CB2 00000101"
+      - "40349CB4 00040001"
+      - "01010101 00000000"
+      - "00349CC4 00000001"
+      - "10349CC6 00000101"
+      - "20349CC8 01010101"
+      - "10349CCC 00000101"
+      - "00349CCE 00000001"
+
+  - name: "Draw"
+    notes: "[Gummie - Individual Abilitys]"
+    codes:
+      - "00349C58 00000001"
+
+  - name: "Heal Upgrade"
+    notes: "[Gummie - Individual Abilitys]"
+    codes:
+      - "00349C5C 00000001"
+
+  - name: "Auto-Life"
+    notes: "[Gummie - Individual Abilitys]"
+    codes:
+      - "00349C60 00000001"
+
+  - name: "Formation Change"
+    notes: "[Gummie - Individual Abilitys]"
+    codes:
+      - "00349C63 00000001"
+
+  - name: "Cannon Upgrade"
+    notes: "[Gummie - Individual Abilitys]"
+    codes:
+      - "00349C69 00000001"
+
+  - name: "Laser Upgrade"
+    notes: "[Gummie - Individual Abilitys]"
+    codes:
+      - "00349C6A 00000001"
+
+  - name: "Slash Upgrade"
+    notes: "[Gummie - Individual Abilitys]"
+    codes:
+      - "00349C6B 00000001"
+
+  - name: "Medal Converter"
+    notes: "[Gummie - Individual Abilitys]"
+    codes:
+      - "00349C6C 00000001"
+
+  - name: "Auto-Regen"
+    notes: "[Gummie - Individual Abilitys]"
+    codes:
+      - "00349C6D 00000001"
+
+  - name: "Auto-Counter"
+    notes: "[Gummie - Individual Abilitys]"
+    codes:
+      - "00349C6E 00000001"
+
+  - name: "Cost Converter"
+    notes: "[Gummie - Individual Abilitys]"
+    codes:
+      - "00349C6F 00000001"
+
+  - name: "Active Formation"
+    notes: "[Gummie - Individual Abilitys]"
+    codes:
+      - "00349C70 00000001"
+
+  - name: "Slash Haste"
+    notes: "[Gummie - Individual Abilitys]"
+    codes:
+      - "00349C71 00000001"
+
+  - name: "Slash Precharge"
+    notes: "[Gummie - Individual Abilitys]"
+    codes:
+      - "00349C73 00000001"
+
+  - name: "Flat Helm/G (cpg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349BEA 000000FF"
+
+  - name: "Bubble Helm/G (cpg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349BEB 000000FF"
+
+  - name: "Solid Helm/G (cpg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349BEC 000000FF"
+
+  - name: "Sphere Helm/G (cpg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349BED 000000FF"
+
+  - name: "Bridge/G (cpg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349BEE 000000FF"
+
+  - name: "Big Bridge/G (cpg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349BEF 000000FF"
+
+  - name: "Vernier/G (eg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349BF4 000000FF"
+
+  - name: "Booster/G (eg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349BF5 000000FF"
+
+  - name: "Thruster/G (eg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349BF6 000000FF"
+
+  - name: "Mini-Propeller/G (eg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349BF7 000000FF"
+
+  - name: "Propeller/G (eg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349BF8 000000FF"
+
+  - name: "Screw Propeller/G (eg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349BF9 000000FF"
+
+  - name: "Rotor/G (eg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349BFA 000000FF"
+
+  - name: "Large Rotor/G (eg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349BFB 000000FF"
+
+  - name: "Tempest/G (wg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349BFE 000000FF"
+
+  - name: "Hurricane/G (wg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349BFF 000000FF"
+
+  - name: "Typhoon/G (wg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C00 000000FF"
+
+  - name: "Vortex/G (wg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C01 000000FF"
+
+  - name: "Sonic Turbo/G (wg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C02 000000FF"
+
+  - name: "Cyclone/G (wg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C03 000000FF"
+
+  - name: "Storm/G (wg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C04 000000FF"
+
+  - name: "Angel/G (wg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C05 000000FF"
+
+  - name: "Darkness/G (wg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C06 000000FF"
+
+  - name: "Shield/G (shg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C08 000000FF"
+
+  - name: "Large Shield/G (shg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C09 000000FF"
+
+  - name: "Shell/G (shg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C0A 000000FF"
+
+  - name: "Large Shell (shg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C0B 000000FF"
+
+  - name: "Fire/G (pg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C12 000000FF"
+
+  - name: "Fira/G (pg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C13 000000FF"
+
+  - name: "Firaga/G (pg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C14 000000FF"
+
+  - name: "Blizzard/G (pg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C15 000000FF"
+
+  - name: "Blizzara/G (pg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C16 000000FF"
+
+  - name: "Blizzaga/G (pg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C17 000000FF"
+
+  - name: "Gravity/G (pg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C18 000000FF"
+
+  - name: "Gravira/G (pg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C19 000000FF"
+
+  - name: "Graviga/G (pg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C1A 000000FF"
+
+  - name: "Thunder/G (lg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C1B 000000FF"
+
+  - name: "Thundara/G (lg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C1C 000000FF"
+
+  - name: "Thundaga/G (lg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C1D 000000FF"
+
+  - name: "Comet/G (pg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C1E 000000FF"
+
+  - name: "Meteor/G (pg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C1F 000000FF"
+
+  - name: "Ultima/G (lg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C20 000000FF"
+
+  - name: "Drain/G (lg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C21 000000FF"
+
+  - name: "Drill/G (ig)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C26 000000FF"
+
+  - name: "Saw/G (ig)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C27 000000FF"
+
+  - name: "Orichalcum/G (sg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C28 000000FF"
+
+  - name: "Masamune/G (sg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C29 000000FF"
+
+  - name: "Excalibur/G (sg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C2A 000000FF"
+
+  - name: "Infinity/G (sg)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C2B 000000FF"
+
+  - name: "Neon Orb/G (og)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C30 000000FF"
+
+  - name: "Neon Bar/G (og)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C31 000000FF"
+
+  - name: "Wheel/G (og)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C32 000000FF"
+
+  - name: "Parabola/G (og)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C33 000000FF"
+
+  - name: "Antenna/G (og)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C34 000000FF"
+
+  - name: "Radar/G (og)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C35 000000FF"
+
+  - name: "Round Light/G (og)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C36 000000FF"
+
+  - name: "Square Light/G (og)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C37 000000FF"
+
+  - name: "Crown/G (og)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C38 000000FF"
+
+  - name: "Gungnir/G (ig)"
+    notes: "[Gummie - Individual Gummie Deco-Gummies:{Wing Gummies = (wg), Engine Gummies =(eg), Projectiles Gummies = (pg), Lock-On Gummies = (lg), Slash Gummies = (sg), Impact Gummies = (ig), Cockpit Gummies = (cpg), Shield Gummies = (shg), Optional Gummies = (og)}]"
+    codes:
+      - "00349C45 000000FF"
+
+  - name: "Mushroom"
+    notes: "[Gummie Ships - Individual Special Models]"
+    codes:
+      - "00349C94 00000001"
+
+  - name: "Highwind"
+    notes: "[Gummie Ships - Individual Special Models]"
+    codes:
+      - "00349C95 00000001"
+
+  - name: "Pupu"
+    notes: "[Gummie Ships - Individual Special Models]"
+    codes:
+      - "00349C96 00000001"
+
+  - name: "Tonberry"
+    notes: "[Gummie Ships - Individual Special Models]"
+    codes:
+      - "00349C97 00000001"
+
+  - name: "Moogle"
+    notes: "[Gummie Ships - Individual Special Models]"
+    codes:
+      - "00349C98 00000001"
+
+  - name: "Mandragora"
+    notes: "[Gummie Ships - Individual Special Models]"
+    codes:
+      - "00349C99 00000001"
+
+  - name: "Chocobo"
+    notes: "[Gummie Ships - Individual Special Models]"
+    codes:
+      - "00349C9A 00000001"
+
+  - name: "Cactuar"
+    notes: "[Gummie Ships - Individual Special Models]"
+    codes:
+      - "00349C9B 00000001"
+
+  - name: "Cait Sith"
+    notes: "[Gummie Ships - Individual Special Models]"
+    codes:
+      - "00349C9C 00000001"
+
+  - name: "Fenrir"
+    notes: "[Gummie Ships - Individual Special Models]"
+    codes:
+      - "00349C9D 00000001"
+
+  - name: "Kingdom Model"
+    notes: "[Gummie Ships - Individual Special Models]"
+    codes:
+      - "00349C9E 00000001"
+
+  - name: "Secret Model"
+    notes: "[Gummie Ships - Individual Special Models]"
+    codes:
+      - "00349C9F 00000001"
+
+  - name: "Highwind Lv.1"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CB3 00000001"
+
+  - name: "Highwind Lv.2"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CB4 00000001"
+
+  - name: "Highwind Lv.3"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CB5 00000001"
+
+  - name: "Highwind Lv.4"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CB6 00000001"
+
+  - name: "Highwind Lv.5"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CB7 00000001"
+
+  - name: "Highwind Lv.6"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CB8 00000001"
+
+  - name: "Highwind Lv.7"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CB9 00000001"
+
+  - name: "Highwind Lv.8"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CBA 00000001"
+
+  - name: "Highwind Peak"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CBB 00000001"
+
+  - name: "Falcon Lv.1"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CBC 00000001"
+
+  - name: "Falcon Lv.2"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CBD 00000001"
+
+  - name: "Falcon Lv.3"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CBE 00000001"
+
+  - name: "Falcon Lv.4"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CBF 00000001"
+
+  - name: "Falcon Lv.5"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CC0 00000001"
+
+  - name: "Falcon Lv.6"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CC1 00000001"
+
+  - name: "Falcon Lv.7"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CC2 00000001"
+
+  - name: "Falcon Lv.8"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CC3 00000001"
+
+  - name: "Falcon Peak"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CC4 00000001"
+
+  - name: "Invincible Lv.1"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CC6 00000001"
+
+  - name: "Invincible Lv.2"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CC7 00000001"
+
+  - name: "Invincible Lv.3"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CC8 00000001"
+
+  - name: "Invincible Lv.4"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CC9 00000001"
+
+  - name: "Invincible Lv.5"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CCA 00000001"
+
+  - name: "Invincible Lv.6"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CCB 00000001"
+
+  - name: "Invincible Lv.7"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CCC 00000001"
+
+  - name: "Invincible Lv.8"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CCD 00000001"
+
+  - name: "Invincible Peak"
+    notes: "[Gummie Ships - Individual Sample Prints]"
+    codes:
+      - "00349CCE 00000001"
+
+  - name: "Gummi Score"
+    notes: "[Gummi Track 1:(Asteroid Sweep M1)]"
+    codes:
+      - "20349520 05F5E0FF"
+
+  - name: "Kills"
+    notes: "[Gummi Track 1:(Asteroid Sweep M1)]"
+    codes:
+      - "10349526 0000270F"
+
+  - name: "Max Medal Lvl"
+    notes: "[Gummi Track 1:(Asteroid Sweep M1)]"
+    codes:
+      - "0034953A 00000063"
+
+  - name: "Max Lvl"
+    notes: "[Gummi Track 1:(Asteroid Sweep M1)]"
+    codes:
+      - "0034953B 0000000A"
+
+  - name: "Trersure"
+    notes: "[Gummi Track 1:(Asteroid Sweep M1)]"
+    codes:
+      - "20349540 42C80000"
+
+  - name: "All Bottle Items (98)"
+    codes:
+      - "20340CE8 62626262"
+      - "10340CEC 00006262"
+      - "00340CEE 00000062"
+      - "00340D49 00000062"
+      - "20340DCC 62626262"
+      - "10340DD0 00006262"
+
+  - name: "Have All Accessories"
+    codes:
+      - "00340CEF 00000062"
+      - "40340CF0 00030001"
+      - "62626262 00000000"
+      - "10340D02 00006262"
+      - "00340D04 00000062"
+      - "10340D06 00006262"
+      - "00340D08 00000062"
+      - "10340D0E 00006262"
+      - "00340D10 00000062"
+      - "10340D14 00006262"
+      - "10340D18 00006262"
+      - "00340D22 00000062"
+      - "10340D24 00006262"
+      - "00340D26 00000062"
+      - "10340D2E 00006262"
+      - "10340D32 00006262"
+      - "00340D39 00000062"
+      - "00340D3F 00000062"
+      - "10340D40 00006262"
+      - "00340D42 00000062"
+      - "20340D44 62626262"
+      - "10340D4A 00006262"
+      - "10340D4C 00006262"
+      - "00340D61 00000062"
+      - "00340D63 00000062"
+      - "10340D64 00006262"
+      - "00340D67 00000062"
+      - "20340D68 62626262"
+      - "10340D6C 00006262"
+      - "00340D6E 00000062"
+
+  - name: "All Key Items"
+    codes:
+      - "00340D00 00000062"
+      - "00340DA7 00000062"
+      - "20340DA8 62626262"
+      - "20340DAC 62626262"
+      - "10340DB0 00006262"
+      - "00340DB2 00000062"
+      - "00340DB8 00000062"
+      - "10340DBA 00006262"
+      - "10340DBC 00006262"
+      - "10340DDE 00006262"
+      - "10340DE0 00006262"
+      - "00340DE2 00000062"
+      - "10340DFE 00006262"
+
+  - name: "All Sora Weapons"
+    codes:
+      - "00340D09 00000062"
+      - "10340D0A 00006262"
+      - "10340D0C 00006262"
+      - "00340DE3 00000062"
+      - "00340DE4 00000062"
+      - "00340DE7 00000062"
+      - "40340DE8 00040001"
+      - "62626262 00000000"
+
+  - name: "All Goofys Weapons"
+    codes:
+      - "00340D11 00000062"
+      - "10340D12 00006262"
+      - "10340D4E 00006262"
+      - "20340D50 62626262"
+      - "10340D54 00006262"
+      - "00340D56 00000062"
+      - "00340DE6 00000062"
+      - "00340DFB 00000062"
+
+  - name: "All Other Weapons"
+    codes:
+      - "10340D16 00006262"
+      - "00340D1B 00000062"
+      - "10340D1C 00006262"
+      - "00340D1E 00000062"
+      - "10340D28 00006262"
+      - "00340D2A 00000062"
+
+  - name: "All Donald Weapons"
+    codes:
+      - "00340D2B 00000062"
+      - "00340D57 00000062"
+      - "20340D58 62626262"
+      - "20340D5C 62626262"
+      - "00340D62 00000062"
+      - "00340DE5 00000062"
+      - "00340DFA 00000062"
+
+  - name: "Potion (po)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340CE8 00000062"
+
+  - name: "Hi-Potion (po)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340CE9 00000062"
+
+  - name: "Ether (po)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340CEA 00000062"
+
+  - name: "Elixir (po)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340CEB 00000062"
+
+  - name: "Mega-Potion (po)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340CEC 00000062"
+
+  - name: "Mega-Ether (po)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340CED 00000062"
+
+  - name: "Megalixir (po)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340CEE 00000062"
+
+  - name: "Ability Ring (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340CEF 00000062"
+
+  - name: "Engineer's Ring (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340CF0 00000062"
+
+  - name: "Technician's Ring (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340CF1 00000062"
+
+  - name: "Expert's Ring (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340CF2 00000062"
+
+  - name: "Sardonyx Ring (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340CF3 00000062"
+
+  - name: "Tourmaline Ring (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340CF4 00000062"
+
+  - name: "Aquamarine Ring (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340CF5 00000062"
+
+  - name: "Garnet Ring (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340CF6 00000062"
+
+  - name: "Diamond Ring (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340CF7 00000062"
+
+  - name: "Silver Ring (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340CF8 00000062"
+
+  - name: "Gold Ring (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340CF9 00000062"
+
+  - name: "Platinum Ring (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340CFA 00000062"
+
+  - name: "Mythril Ring (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340CFB 00000062"
+
+  - name: "Torn Pages (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D00 00000062"
+
+  - name: "Orichalcum Ring (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D02 00000062"
+
+  - name: "Master's Ring (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D03 00000062"
+
+  - name: "Moon Amulet (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D04 00000062"
+
+  - name: "Star Charm (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D06 00000062"
+
+  - name: "Skill Ring (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D07 00000062"
+
+  - name: "Skillful Ring (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D08 00000062"
+
+  - name: "Kingdom Key (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D09 00000062"
+
+  - name: "Oath Keeper (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D0A 00000062"
+
+  - name: "Oblivion (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D0B 00000062"
+
+  - name: "Detection Saber (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D0C 00000062"
+
+  - name: "Edge Of Ultima (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D0D 00000062"
+
+  - name: "Soldier Earring (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D0E 00000062"
+
+  - name: "Fencer Earring (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D0F 00000062"
+
+  - name: "Mage Earring (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D10 00000062"
+
+  - name: "Knight's Shield (gy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D11 00000062"
+
+  - name: "Detection Shield (gy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D12 00000062"
+
+  - name: "Test The King (gy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D13 00000062"
+
+  - name: "Slayer Earring (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D14 00000062"
+
+  - name: "Cosmic Ring (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D15 00000062"
+
+  - name: "Battlefields Of War (or)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D16 00000062"
+
+  - name: "Sword Of The Ancestor (or)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D17 00000062"
+
+  - name: "Medal (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D18 00000062"
+
+  - name: "Cosmic Arts (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D19 00000062"
+
+  - name: "Beast's Claw (or)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D1B 00000062"
+
+  - name: "Bone Fist (or)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D1C 00000062"
+
+  - name: "Proud Fang (or)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D1D 00000062"
+
+  - name: "Skill And Crossbones (or)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D1E 00000062"
+
+  - name: "Lucky Ring (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D20 00000062"
+
+  - name: "Draw Ring (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D22 00000062"
+
+  - name: "Elven Bandanna (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D24 00000062"
+
+  - name: "Divine Bandanna (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D25 00000062"
+
+  - name: "Power Band (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D26 00000062"
+
+  - name: "Antiform Dummy (sa) Crash"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D27 00000062"
+
+  - name: "Scimitar (or)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D28 00000062"
+
+  - name: "Way To The Dawn (or)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D29 00000062"
+
+  - name: "Identity Disk (or)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D2A 00000062"
+
+  - name: "Mage's Staff (dd)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D2B 00000062"
+
+  - name: "Buster Band (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D2E 00000062"
+
+  - name: "Protect Belt (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D2F 00000062"
+
+  - name: "Fake (or)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D30 00000062"
+
+  - name: "Fake (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D31 00000062"
+
+  - name: "Gaia Belt (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D32 00000062"
+
+  - name: "Cosmic Belt (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D39 00000062"
+
+  - name: "Fire Bangle (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D3F 00000062"
+
+  - name: "Fira Bangle (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D40 00000062"
+
+  - name: "Firaga Bangle (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D41 00000062"
+
+  - name: "Firagun Bangle (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D42 00000062"
+
+  - name: "Blizzard Armlet (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D44 00000062"
+
+  - name: "Blizzara Armlet (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D45 00000062"
+
+  - name: "Blizzaga Armlet (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D46 00000062"
+
+  - name: "Blizzagun Armlet (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D47 00000062"
+
+  - name: "Tent (po)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D49 00000062"
+
+  - name: "Thunder Trinket (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D4A 00000062"
+
+  - name: "Thundara Trinket (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D4B 00000062"
+
+  - name: "Thundaga Trinket (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D4C 00000062"
+
+  - name: "Thundagun Trinket (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D4D 00000062"
+
+  - name: "Adamant Shield (gy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D4E 00000062"
+
+  - name: "Chain Gear (gy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D4F 00000062"
+
+  - name: "Ogre Shield (gy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D50 00000062"
+
+  - name: "Falling Star (gy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D51 00000062"
+
+  - name: "Dreamcloud (gy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D52 00000062"
+
+  - name: "Knight Defender (gy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D53 00000062"
+
+  - name: "Genji Shield (gy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D54 00000062"
+
+  - name: "Akashic Record (gy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D55 00000062"
+
+  - name: "Nobody Guard (gy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D56 00000062"
+
+  - name: "Hammer Staff (dd)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D57 00000062"
+
+  - name: "Victory Bell (dd)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D58 00000062"
+
+  - name: "Meteor Staff (dd)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D59 00000062"
+
+  - name: "Comet Staff (dd)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D5A 00000062"
+
+  - name: "Lord's Broom (dd)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D5B 00000062"
+
+  - name: "Wisdom Wand (dd)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D5C 00000062"
+
+  - name: "Rising Dragon (dd)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D5D 00000062"
+
+  - name: "Nobody Lance (dd)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D5E 00000062"
+
+  - name: "Shaman's Relic (dd)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D5F 00000062"
+
+  - name: "Shadow Anklet (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D61 00000062"
+
+  - name: "Staff Of Detection (dd)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D62 00000062"
+
+  - name: "Dark Anklet (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D63 00000062"
+
+  - name: "Midnight Anklet (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D64 00000062"
+
+  - name: "Chaos Anklet (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D65 00000062"
+
+  - name: "Abas Chain (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D67 00000062"
+
+  - name: "Aegis Chain (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D68 00000062"
+
+  - name: "Acrisius (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D69 00000062"
+
+  - name: "Ribbon (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D6A 00000062"
+
+  - name: "Champion Belt (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D6B 00000062"
+
+  - name: "Petit Ribbon (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D6C 00000062"
+
+  - name: "Acrisius+ (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D6D 00000062"
+
+  - name: "Cosmic Chain (acc)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D6E 00000062"
+
+  - name: "Blazing Shard (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D77 00000062"
+
+  - name: "Blazing Stone (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D78 00000062"
+
+  - name: "Blazing Gem (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D79 00000062"
+
+  - name: "Blazing Crystal (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D7A 00000062"
+
+  - name: "Lightning Shard (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D7F 00000062"
+
+  - name: "Lightning Stone (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D80 00000062"
+
+  - name: "Lightning Gem (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D81 00000062"
+
+  - name: "Lightning Crystal (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D82 00000062"
+
+  - name: "Power Shard (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D83 00000062"
+
+  - name: "Power Stone (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D84 00000062"
+
+  - name: "Power Gem (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D85 00000062"
+
+  - name: "Power Crystal (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D86 00000062"
+
+  - name: "Lucid Shard (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D87 00000062"
+
+  - name: "Lucid Stone (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D88 00000062"
+
+  - name: "Lucid Gem (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D89 00000062"
+
+  - name: "Lucid Crystal (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D8A 00000062"
+
+  - name: "Dense Shard (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D8B 00000062"
+
+  - name: "Dense Stone (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D8C 00000062"
+
+  - name: "Dense Gem (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D8D 00000062"
+
+  - name: "Dense Crystal (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D8E 00000062"
+
+  - name: "Twilight Shard (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D8F 00000062"
+
+  - name: "Twilight Stone (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D90 00000062"
+
+  - name: "Twilight Gem (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D91 00000062"
+
+  - name: "Twilight Crystal (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D92 00000062"
+
+  - name: "Mythril Shard (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D93 00000062"
+
+  - name: "Mythril Stone (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D94 00000062"
+
+  - name: "Mythril Gem (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D95 00000062"
+
+  - name: "Mythril Crystal (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D96 00000062"
+
+  - name: "Bright Shard (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D97 00000062"
+
+  - name: "Bright Stone (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D98 00000062"
+
+  - name: "Bright Gem (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D99 00000062"
+
+  - name: "Bright Crystal (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D9A 00000062"
+
+  - name: "Energy Shard (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D9B 00000062"
+
+  - name: "Energy Stone (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D9C 00000062"
+
+  - name: "Energy Gem (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D9D 00000062"
+
+  - name: "Energy Crystal (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D9E 00000062"
+
+  - name: "Serenity Shard (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340D9F 00000062"
+
+  - name: "Serenity Stone (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DA0 00000062"
+
+  - name: "Serenity Gem (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DA1 00000062"
+
+  - name: "Serenity Crystal (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DA2 00000062"
+
+  - name: "Orichalcum+ (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DA3 00000062"
+
+  - name: "Munny Pouch (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DA4 00000062"
+
+  - name: "Crystal Orb (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DA5 00000062"
+
+  - name: "Seifer's Trophy (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DA6 00000062"
+
+  - name: "Tournament Poster (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DA7 00000062"
+
+  - name: "Poster (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DA8 00000062"
+
+  - name: "Letter (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DA9 00000062"
+
+  - name: "Namine's Sketches (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DAA 00000062"
+
+  - name: "Membership Card (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DAB 00000062"
+
+  - name: "Olympus Stone (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DAC 00000062"
+
+  - name: "Auron's Statue (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DAD 00000062"
+
+  - name: "Cursed Medallion (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DAE 00000062"
+
+  - name: "Present (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DAF 00000062"
+
+  - name: "Decoy Presents (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DB0 00000062"
+
+  - name: "Ice Cream (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DB1 00000062"
+
+  - name: "Picture (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DB2 00000062"
+
+  - name: "Orichalcum (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DB3 00000062"
+
+  - name: "Frost Shard (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DB4 00000062"
+
+  - name: "Frost Stone (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DB5 00000062"
+
+  - name: "Frost Gem (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DB6 00000062"
+
+  - name: "Frost Crystal (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DB7 00000062"
+
+  - name: "Mega-Recipe (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DB8 00000062"
+
+  - name: "Star Recipe (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DBA 00000062"
+
+  - name: "Recovery Recipe (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DBB 00000062"
+
+  - name: "Skill Recipe (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DBC 00000062"
+
+  - name: "Guard Recipe (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DBD 00000062"
+
+  - name: "Dummy 06"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DBE 00000062"
+
+  - name: "Dummy 07"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DBF 00000062"
+
+  - name: "Dummy"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DC0 00000062"
+
+  - name: "Dummy 19"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DCB 00000062"
+
+  - name: "Drive Recovery (po)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DCC 00000062"
+
+  - name: "High Drive Recovery (po)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DCD 00000062"
+
+  - name: "Power Boost (po)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DCE 00000062"
+
+  - name: "Magic Boost (po)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DCF 00000062"
+
+  - name: "Defense Boost (po)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DD0 00000062"
+
+  - name: "Ap Boost (po)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DD1 00000062"
+
+  - name: "Dark Shard (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DD2 00000062"
+
+  - name: "Dark Stone (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DD3 00000062"
+
+  - name: "Dark Gem (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DD4 00000062"
+
+  - name: "Dark Crystal (sy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DD5 00000062"
+
+  - name: "Dummy 20"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DD6 00000062"
+
+  - name: "Dummy 27"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DDD 00000062"
+
+  - name: "Style Recipe (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DDE 00000062"
+
+  - name: "Moon Recipe (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DDF 00000062"
+
+  - name: "Queen Recipe (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DE0 00000062"
+
+  - name: "King Recipe (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DE1 00000062"
+
+  - name: "Ultimate Recipe (ki)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DE2 00000062"
+
+  - name: "Star Seeker (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DE3 00000062"
+
+  - name: "Hidden Dragon (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DE4 00000062"
+
+  - name: "Save The Queen (dd)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DE5 00000062"
+
+  - name: "Save The King (gy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DE6 00000062"
+
+  - name: "Hero's Crest (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DE7 00000062"
+
+  - name: "Monochrome (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DE8 00000062"
+
+  - name: "Follow The Wind (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DE9 00000062"
+
+  - name: "Circle Of Life (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DEA 00000062"
+
+  - name: "Photon Debugger (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DEB 00000062"
+
+  - name: "Gull Wing (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DEC 00000062"
+
+  - name: "Rumbling Rose (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DED 00000062"
+
+  - name: "Guardian Soul (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DEE 00000062"
+
+  - name: "Wishing Lamp (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DEF 00000062"
+
+  - name: "Decisive Pumpkin (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DF0 00000062"
+
+  - name: "Sleeping Lion (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DF1 00000062"
+
+  - name: "Sweet Memories (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DF2 00000062"
+
+  - name: "Mysterious Abyss (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DF3 00000062"
+
+  - name: "Fatal Crest (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DF4 00000062"
+
+  - name: "Bond Of Flame (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DF5 00000062"
+
+  - name: "Fenrir (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DF6 00000062"
+
+  - name: "Ultima Weapon (sa)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DF7 00000062"
+
+  - name: "Save The Queen+ (dd)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DFA 00000062"
+
+  - name: "Save The King+ (gy)"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DFB 00000062"
+
+  - name: "Promise Charm"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DFC 00000062"
+
+  - name: "Munny Pouch"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DFD 00000062"
+
+  - name: "Hades Cup Trophy"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DFE 00000062"
+
+  - name: "The Struggle Trophy"
+    notes: "[Items - Individual Items:{(po) Bottle Items (sa) Sora Weapons (dd) Donald Weapons (gy) Goofy Weapons (or) Other Weapons (acc) Accessories (ki) Key Items (sy) Synthesis Items}]"
+    codes:
+      - "00340DFF 00000062"
+
+  - name: "Max EXP"
+    notes: "[Sora-Roxas]"
+    codes:
+      - "2033FEC0 05F5E0FF"
+
+  - name: "Max HP"
+    notes: "[Sora-Roxas]"
+    codes:
+      - "0033FEC5 000000FF"
+
+  - name: "Max MP"
+    notes: "[Sora-Roxas]"
+    codes:
+      - "0033FEC7 000000FF"
+
+  - name: "All Stats Base Max +lvl"
+    notes: "[Sora-Roxas]"
+    codes:
+      - "2033FEC8 FFFFFFFF"
+      - "2033FECC FFFFFFFF"
+
+  - name: "Max Strength"
+    notes: "[Sora-Roxas]"
+    codes:
+      - "0033FEC9 000000FF"
+
+  - name: "Max Magic"
+    notes: "[Sora-Roxas]"
+    codes:
+      - "0033FECA 000000FF"
+
+  - name: "Max Defense"
+    notes: "[Sora-Roxas]"
+    codes:
+      - "0033FECB 000000FF"
+
+  - name: "Level 99"
+    notes: "[Sora-Roxas]"
+    codes:
+      - "0033FECF 00000063"
+
+  - name: "Skill Mod 1"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF14 0000[ABD]"
+
+  - name: "Skill Mod 2"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF16 0000[ABD]"
+
+  - name: "Skill Mod 3"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF18 0000[ABD]"
+
+  - name: "Skill Mod 4"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF1A 0000[ABD]"
+
+  - name: "Skill Mod 5"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF1C 0000[ABD]"
+
+  - name: "Skill Mod 6"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF1E 0000[ABD]"
+
+  - name: "Skill Mod 7"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF20 0000[ABD]"
+
+  - name: "Skill Mod 8"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF22 0000[ABD]"
+
+  - name: "Skill Mod 9"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF24 0000[ABD]"
+
+  - name: "Skill Mod 10"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF26 0000[ABD]"
+
+  - name: "Skill Mod 11"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF24 0000[ABD]"
+
+  - name: "Skill Mod 12"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF26 0000[ABD]"
+
+  - name: "Skill Mod 13"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF28 0000[ABD]"
+
+  - name: "Skill Mod 14"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF2A 0000[ABD]"
+
+  - name: "Skill Mod 15"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF2C 0000[ABD]"
+
+  - name: "Skill Mod 16"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF2E 0000[ABD]"
+
+  - name: "Skill Mod 17"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF30 0000[ABD]"
+
+  - name: "Skill Mod 18"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF32 0000[ABD]"
+
+  - name: "Skill Mod 19"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF34 0000[ABD]"
+
+  - name: "Skill Mod 20"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF36 0000[ABD]"
+
+  - name: "Skill Mod 21"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF38 0000[ABD]"
+
+  - name: "Skill Mod 22"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF3A 0000[ABD]"
+
+  - name: "Skill Mod 23"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF38 0000[ABD]"
+
+  - name: "Skill Mod 24"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF3A 0000[ABD]"
+
+  - name: "Skill Mod 25"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF3C 0000[ABD]"
+
+  - name: "Skill Mod 26"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF3E 0000[ABD]"
+
+  - name: "Skill Mod 27"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF40 0000[ABD]"
+
+  - name: "Skill Mod 28"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF42 0000[ABD]"
+
+  - name: "Skill Mod 29"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF44 0000[ABD]"
+
+  - name: "Skill Mod 30"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF46 0000[ABD]"
+
+  - name: "Skill Mod 31"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF48 0000[ABD]"
+
+  - name: "Skill Mod 32"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF4A 0000[ABD]"
+
+  - name: "Skill Mod 33"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF4C 0000[ABD]"
+
+  - name: "Skill Mod 34"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF4E 0000[ABD]"
+
+  - name: "Skill Mod 35"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF4C 0000[ABD]"
+
+  - name: "Skill Mod 36"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF4E 0000[ABD]"
+
+  - name: "Skill Mod 37"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF50 0000[ABD]"
+
+  - name: "Skill Mod 38"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF52 0000[ABD]"
+
+  - name: "Skill Mod 39"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF54 0000[ABD]"
+
+  - name: "Skill Mod 40"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF56 0000[ABD]"
+
+  - name: "Skill Mod 41"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF58 0000[ABD]"
+
+  - name: "Skill Mod 42"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF5A 0000[ABD]"
+
+  - name: "Skill Mod 43"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF5C 0000[ABD]"
+
+  - name: "Skill Mod 44"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF5E 0000[ABD]"
+
+  - name: "Skill Mod 45"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF60 0000[ABD]"
+
+  - name: "Skill Mod 46"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF62 0000[ABD]"
+
+  - name: "Skill Mod 47"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF60 0000[ABD]"
+
+  - name: "Skill Mod 48"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF62 0000[ABD]"
+
+  - name: "Skill Mod 49"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF64 0000[ABD]"
+
+  - name: "Skill Mod 50"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF66 0000[ABD]"
+
+  - name: "Skill Mod 51"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF68 0000[ABD]"
+
+  - name: "Skill Mod 52"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF6A 0000[ABD]"
+
+  - name: "Skill Mod 53"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF6C 0000[ABD]"
+
+  - name: "Skill Mod 54"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF6E 0000[ABD]"
+
+  - name: "Skill Mod 55"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF70 0000[ABD]"
+
+  - name: "Skill Mod 56"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF72 0000[ABD]"
+
+  - name: "Skill Mod 57"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF74 0000[ABD]"
+
+  - name: "Skill Mod 58"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF76 0000[ABD]"
+
+  - name: "Skill Mod 59"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF74 0000[ABD]"
+
+  - name: "Skill Mod 60"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF76 0000[ABD]"
+
+  - name: "Skill Mod 61"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF78 0000[ABD]"
+
+  - name: "Skill Mod 62"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF7A 0000[ABD]"
+
+  - name: "Skill Mod 63"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF7C 0000[ABD]"
+
+  - name: "Skill Mod 64"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF7E 0000[ABD]"
+
+  - name: "Skill Mod 65"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF80 0000[ABD]"
+
+  - name: "Skill Mod 66"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF82 0000[ABD]"
+
+  - name: "Skill Mod 67"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF84 0000[ABD]"
+
+  - name: "Skill Mod 68"
+    notes: "[Skills Mod]"
+    codes:
+      - "1033FF86 0000[ABD]"
+
+  - name: "Armor(equiptable Amount)"
+    notes: "[Equipment]"
+    codes:
+      - "0033FED0 000000[Amount:03:Hex:BIG]"
+
+  - name: "Ring (equiptable Amount)"
+    notes: "[Equipment]"
+    codes:
+      - "0033FED1 000000[Amount:03:Hex:BIG]"
+
+  - name: "Items (equiptable Amount)"
+    notes: "[Equipment]"
+    codes:
+      - "0033FED2 000000[Amount:03:Hex:BIG]"
+
+  - name: "???"
+    notes: "[Equipment]"
+    codes:
+      - "0033FED3 000000[Amount:03:Hex:BIG]"
+
+  - name: "Armor 1"
+    notes: "[Armor]"
+    codes:
+      - "1033FED4 0000[IEM]"
+
+  - name: "Armor 2"
+    notes: "[Armor]"
+    codes:
+      - "1033FED6 0000[IEM]"
+
+  - name: "Armor 3"
+    notes: "[Armor]"
+    codes:
+      - "1033FED8 0000[IEM]"
+
+  - name: "Rings 1"
+    notes: "[Rings]"
+    codes:
+      - "1033FEE4 0000[IEM]"
+
+  - name: "Rings 2"
+    notes: "[Rings]"
+    codes:
+      - "1033FEE6 0000[IEM]"
+
+  - name: "Rings 3"
+    notes: "[Rings]"
+    codes:
+      - "1033FEE8 0000[IEM]"
+
+  - name: "Item 1"
+    notes: "[Items]"
+    codes:
+      - "1033FEF4 0000[IEM]"
+
+  - name: "Item 2"
+    notes: "[Items]"
+    codes:
+      - "1033FEF6 0000[IEM]"
+
+  - name: "Item 3"
+    notes: "[Items]"
+    codes:
+      - "1033FEF8 0000[IEM]"
+
+  - name: "Item 4"
+    notes: "[Items]"
+    codes:
+      - "1033FEFA 0000[IEM]"
+
+  - name: "Item 5"
+    notes: "[Items]"
+    codes:
+      - "1033FEFC 0000[IEM]"
+
+  - name: "Item 6"
+    notes: "[Items]"
+    codes:
+      - "1033FEFE 0000[IEM]"

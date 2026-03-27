@@ -1,0 +1,48 @@
+# Spider-Man_ Edge Of Time cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES01291
+
+game: "Spider-Man_ Edge Of Time"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES01291"
+cheat_type: "Save Editor"
+source: "From Game Genie For PS3"
+
+cheats:
+  - name: "Max Golden Spiders"
+    notes: "File: BLES01291SM2011_SAVE\\GAMEDATA"
+    codes:
+      - "20000928 0000270F"
+
+  - name: "Max Orb Fragments"
+    notes: "File: BLES01291SM2011_SAVE\\GAMEDATA"
+    codes:
+      - "20000924 05F5E0FF"
+
+  - name: "Initial Bonuses"
+    notes: "[Unlock All]  File: BLES01291SM2011_SAVE\\GAMEDATA"
+    codes:
+      - "40000770 00000003"
+      - "40AF0001 00000000"
+
+  - name: "Costumes"
+    notes: "[Unlock All]  File: BLES01291SM2011_SAVE\\GAMEDATA"
+    codes:
+      - "70000527 0000008D"
+      - "71000528 0000101C"
+      - "7000052F 0000000F"
+
+  - name: "Shattered Dimensions Costumes"
+    notes: "[Unlock All]  File: BLES01291SM2011_SAVE\\GAMEDATA"
+    codes:
+      - "0000000C 00000001"
+
+  - name: "Update Crc32 (required)"
+    notes: "File: BLES01291SM2011_SAVE\\GAMEDATA  (set range:0x000004,0x002B9B)"
+    codes:
+      - "set pointer:eof+1"
+      - "set range:0x000004,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000000:[hash]"

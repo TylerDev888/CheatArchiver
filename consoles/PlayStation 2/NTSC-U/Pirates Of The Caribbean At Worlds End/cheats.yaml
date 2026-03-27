@@ -1,0 +1,48 @@
+# Pirates Of The Caribbean At Worlds End cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21545
+
+game: "Pirates Of The Caribbean At Worlds End"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21545"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (MUST BE ON)"
+    notes: "[Masters]  902F4A70 0C0BD244"
+
+  - name: "Inf HP"
+    codes:
+      - "2010A6A8 00000000"
+
+  - name: "Gain/Use For Max (everything)"
+    codes:
+      - "2018F724 AC850004"
+      - "2018F694 AC830004"
+
+  - name: "Timer Mod/Inf"
+    codes:
+      - "20398ADC [Amount:FLOAT:HEX:BIG]"
+
+  - name: "Combat Challenge Inf Time"
+    notes: "[Challenge]"
+    codes:
+      - "201845A8 00000000"
+
+  - name: "Combo Challenge Inf Time"
+    notes: "[Challenge]"
+    codes:
+      - "20184578 00000000"
+
+  - name: "Loot Challenge Inf Time"
+    notes: "[Challenge]"
+    codes:
+      - "20184544 00000000"
+
+  - name: "Unkown Inf Time Code"
+    notes: "[Challenge]"
+    codes:
+      - "201845DC 00000000"

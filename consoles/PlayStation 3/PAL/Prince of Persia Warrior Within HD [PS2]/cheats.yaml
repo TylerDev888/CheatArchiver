@@ -1,0 +1,37 @@
+# Prince of Persia Warrior Within HD [PS2] cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB00389
+
+game: "Prince of Persia Warrior Within HD [PS2]"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB00389"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "9999 Sand Credits - Easy Trophy"
+    notes: "[Prince Of Persia:two Thrones\\sand Credits]  File: BLUS30754DIRTT-----------------\\OPTIONS"
+    codes:
+      - "10000006 0000270F"
+
+  - name: "Default Max Health"
+    notes: "[Prince Of Persia:two Thrones\\saveslot 1]  File: BLUS30754DIRTT-----------------\\SVGAME00"
+    codes:
+      - "2000BC64 012C012C"
+
+  - name: "Ultra Long Health"
+    notes: "[Prince Of Persia:two Thrones\\saveslot 1]  File: BLUS30754DIRTT-----------------\\SVGAME00"
+    codes:
+      - "2000BC64 03E703E7"
+
+  - name: "6 Sand Slots Unlocked"
+    notes: "[Prince Of Persia:two Thrones\\saveslot 1]  File: BLUS30754DIRTT-----------------\\SVGAME00"
+    codes:
+      - "2000BC68 00060006"
+
+  - name: "6 Sand Slots"
+    notes: "[Prince Of Persia:two Thrones\\saveslot 10]  File: BLUS30754DIRTT-----------------\\SVGAME00"
+    codes:
+      - "2007DA10 00060006"

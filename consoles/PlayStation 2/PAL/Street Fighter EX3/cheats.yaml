@@ -1,0 +1,174 @@
+# Street Fighter EX3 cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50072
+
+game: "Street Fighter EX3"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50072"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F014EE4C 000001FD"
+
+  - name: "Enable Code"
+    author: "lee4>CMX"
+    notes: "[Master Codes]"
+    codes:
+      - "902E8730 0C0BE890"
+
+  - name: "1St Fighter Character Modifier"
+    author: "Hacc>lee4>HF*"
+    codes:
+      - "00C19F12 000000??"
+
+  - name: "1St Fighter Costume Modifier"
+    author: "Hacc>lee4>HF*"
+    codes:
+      - "00C19F13 000000??"
+
+  - name: "2Nd Fighter Character Modifier"
+    author: "Hacc>lee4>HF*"
+    codes:
+      - "00C1D4C2 000000??"
+
+  - name: "2Nd Fighter Costume Modifier"
+    author: "Hacc>lee4>HF*"
+    codes:
+      - "00C1D4C3 000000??"
+
+  - name: "3Rd Fighter Character Modifier"
+    author: "Hacc>lee4>HF*"
+    codes:
+      - "00C20A72 000000??"
+
+  - name: "3Rd Fighter Costume Modifier"
+    author: "Hacc>lee4>HF*"
+    codes:
+      - "00C20A73 000000??"
+
+  - name: "4Th Fighter Character Modifier"
+    author: "Hacc>lee4>HF*"
+    codes:
+      - "00C24022 000000??"
+
+  - name: "4Th Fighter Costume Modifier"
+    author: "Hacc>lee4>HF*"
+    codes:
+      - "00C24023 000000??"
+
+  - name: "All Trials Complete"
+    author: "InterAct"
+    codes:
+      - "204E5A88 FFFFFFFF"
+      - "204E5A8C FFFFFFFF"
+      - "204E5A98 FFFFFFFF"
+      - "204E5A9C FFFFFFFF"
+      - "204E5AA8 FFFFFFFF"
+
+  - name: "Have All Moves-Edit"
+    author: "InterAct"
+    codes:
+      - "404E5A3C 00130001"
+      - "00010001 00000000"
+
+  - name: "Infinite Health P1 1St"
+    author: "InterAct"
+    codes:
+      - "20C1D48C 0000C800"
+
+  - name: "Infinite Health P1 2Nd"
+    author: "InterAct"
+    codes:
+      - "20C23FEC 0000C800"
+
+  - name: "Infinite Health P2 1St"
+    author: "InterAct"
+    codes:
+      - "20C20A3C 0000C800"
+
+  - name: "Infinite Health P2 2Nd"
+    author: "InterAct"
+    codes:
+      - "20C2759C 0000C800"
+
+  - name: "Infinite XP (Edit Mode)"
+    author: "Codejunkies"
+    codes:
+      - "104E5A38 0000FFFF"
+
+  - name: "Max Super P1 1St"
+    author: "InterAct"
+    codes:
+      - "20C1D480 0000BF00"
+
+  - name: "Max Super P1 2Nd"
+    author: "InterAct"
+    codes:
+      - "20C23FE0 0000BF00"
+
+  - name: "Max Super P2 1St"
+    author: "InterAct"
+    codes:
+      - "20C20A30 0000BF00"
+
+  - name: "Max Super P2 2Nd"
+    author: "InterAct"
+    codes:
+      - "20C27590 0000BF00"
+
+  - name: "No Super P2 1St"
+    author: "Codejunkies"
+    codes:
+      - "20C20A30 00000000"
+
+  - name: "No Super P2 2Nd"
+    author: "InterAct"
+    codes:
+      - "20C27590 00000000"
+
+  - name: "Open All Characters"
+    author: "InterAct"
+    codes:
+      - "208C77B8 CFFFFFFF"
+
+  - name: "P1 Max Reverse Joker Command"
+    author: "Hacc>lee4>HF*"
+    codes:
+      - "D0307242 0000????"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 002E8733"
+
+  - name: "Unlock All Characters"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "208C77B8 FFFFFFFF"
+
+  - name: "Unlimited XP - Edit Mode"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "104E5A38 0723FFFF"
+
+  - name: "First Character"
+    author: "Xploder"
+    notes: "[Unlimited Health]"
+    codes:
+      - "20C1D48C FFFFC800"
+
+  - name: "Second Character"
+    author: "Xploder"
+    notes: "[Unlimited Health]"
+    codes:
+      - "20C23FEC FFFFC800"

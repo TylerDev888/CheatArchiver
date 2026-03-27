@@ -1,0 +1,22 @@
+# Goku Makai-Mura Kai cheat data
+# Console: PSP
+# Region:  NTSC-J
+# Serial:  ULJM05265
+
+game: "Goku Makai-Mura Kai"
+console: "PSP"
+region: "NTSC-J"
+serial: "ULJM05265"
+cheat_type: "Save Editor"
+source: "PSP"
+
+cheats:
+  - name: "Ultimate Ghosts'n Gorgeous Remaining Machine 99"
+    notes: "File: *"
+    codes:
+      - "0000017C 00000063"
+
+  - name: "Remaining Machine ∞ (infinite)"
+    notes: "File: *  (* Operation check with LIFESTOCK TYPE A (I think it can be modified with other TYPEs))"
+    codes:
+      - "0000017C 00000064"

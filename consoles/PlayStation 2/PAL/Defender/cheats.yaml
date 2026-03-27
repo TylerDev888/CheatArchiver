@@ -1,0 +1,126 @@
+# Defender cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50714
+
+game: "Defender"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50714"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F023B254 0023B257"
+
+  - name: "Infinite Credits"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "10567348 0000FFFF"
+
+  - name: "Never Have More Than 1 Credit"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "E0010001 30567348"
+      - "10567348 00000001"
+
+  - name: "Never Have More Than 2 Credits"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "E0010002 30567348"
+      - "10567348 00000002"
+
+  - name: "Never Have More Than 3 Credits"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "E0010003 30567348"
+      - "10567348 00000003"
+
+  - name: "Never Have More Than 4 Credits"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "E0010004 30567348"
+      - "10567348 00000004"
+
+  - name: "Never Have More Than 5 Credits"
+    author: "Codejunkies"
+    notes: "[Credits Codes]"
+    codes:
+      - "E0010005 30567348"
+      - "10567348 00000005"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "201E1874 00000000"
+      - "201E1864 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "20129928 E6420208"
+      - "20129924 C642020C"
+
+  - name: "Infinite Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "00567344 00000063"
+
+  - name: "Never Have More Than 1 Life"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E1010001 30567344"
+      - "00567344 00000001"
+
+  - name: "Never Have More Than 2 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E1010002 30567344"
+      - "00567344 00000002"
+
+  - name: "Never Have More Than 3 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E1010003 30567344"
+      - "00567344 00000003"
+
+  - name: "Never Have More Than 4 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E1010004 30567344"
+      - "00567344 00000004"
+
+  - name: "Never Have More Than 5 Lives"
+    author: "Codejunkies"
+    notes: "[Lives Codes]"
+    codes:
+      - "E1010005 30567344"
+      - "00567344 00000005"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F023B254 0023B257"
+
+  - name: "Unlimited Lives"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "00567344 00000063"

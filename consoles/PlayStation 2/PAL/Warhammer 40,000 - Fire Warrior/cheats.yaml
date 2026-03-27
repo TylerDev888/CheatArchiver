@@ -1,0 +1,67 @@
+# Warhammer 40,000 - Fire Warrior cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50958
+
+game: "Warhammer 40,000 - Fire Warrior"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50958"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F01001E8 001001EB"
+
+  - name: "1 Hit Kill"
+    author: "Codejunkies"
+    codes:
+      - "2018F128 24050008"
+
+  - name: "AR Max Below 3.14 Fix"
+    author: "Codejunkies"
+    codes:
+      - "20116D40 3C03200F"
+      - "20116D48 8C65FFF8"
+      - "20116D4C 24040079"
+      - "20116D50 24030074"
+      - "20116D54 0000000C"
+
+  - name: "Infinite Ammo"
+    author: "Codejunkies"
+    codes:
+      - "201E5264 24040002"
+      - "201E54CC 24040002"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "2018F38C 24050004"
+
+  - name: "Infinite Infra Red Batteries"
+    author: "Codejunkies"
+    codes:
+      - "20237140 00000000"
+
+  - name: "Infinite Shield"
+    author: "Codejunkies"
+    codes:
+      - "20189080 24030040"
+
+  - name: "Moon Jump"
+    author: "Codejunkies"
+    codes:
+      - "202C8D70 3C010030"
+      - "202C8D74 902134C3"
+      - "202C8D78 241600FB"
+      - "202C8D7C 14360003"
+      - "202C8D80 C4410064"
+      - "202C8D84 3C014040"
+      - "202C8D88 44810800"
+      - "202C8D8C 080852ED"
+      - "202C8D90 00000000"
+      - "20214BAC 080B235C"

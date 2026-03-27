@@ -1,0 +1,36 @@
+# Gadget & The Gadgetinis cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Gadget & The Gadgetinis"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "90162F98 0C05A228"
+
+  - name: "Health"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "20186C68 E60D0254"
+
+  - name: "Lives"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "2018595C 00000000"
+
+  - name: "Special Rockets"
+    author: "Xploder"
+    notes: "[Infinite]"
+    codes:
+      - "201EF284 24020063"
+      - "201EF294 AE220004"

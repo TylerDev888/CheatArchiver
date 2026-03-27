@@ -1,0 +1,21 @@
+# Pro Evolution Soccer 2010 cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  BLES00689
+
+game: "Pro Evolution Soccer 2010"
+console: "PlayStation 3"
+region: "PAL"
+serial: "BLES00689"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Crc32 For Data.bin (required)"
+    notes: "File: DATA.BIN  (Checksum offset is located within the checksum range.) (Initializing checksum with null bytes) (set range:0x000000,0x44DEF7)"
+    codes:
+      - "write at 0x000008:00000000"
+      - "set pointer:eof+1"
+      - "set range:0x000000,pointer"
+      - "set [hash]:CRC32"
+      - "write at 0x000008:[hash]"

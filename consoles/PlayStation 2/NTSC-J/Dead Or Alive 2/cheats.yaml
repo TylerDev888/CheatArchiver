@@ -1,0 +1,25 @@
+# Dead Or Alive 2 cheat data
+# Console: PlayStation 2
+# Region:  NTSC-J
+# Serial:  SLPS-25002
+
+game: "Dead Or Alive 2"
+console: "PlayStation 2"
+region: "NTSC-J"
+serial: "SLPS-25002"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enabler Code"
+    notes: "[Master Codes]"
+    codes:
+      - "9032398C 0C0CB33C"
+
+  - name: "P1 Infinite HP"
+    codes:
+      - "1041A980 0000012C"
+
+  - name: "P2 0 HP"
+    codes:
+      - "1041A9E8 00000000"

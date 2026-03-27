@@ -1,0 +1,45 @@
+# Xena - Warrior Princess cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-54142
+
+game: "Xena - Warrior Princess"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-54142"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code(Must Be On)"
+    author: "Azagthoth"
+    notes: "[Master Codes]"
+    codes:
+      - "90234EA0 0C09287D"
+
+  - name: "1 Hit Kill"
+    author: "Azagthoth"
+    codes:
+      - "2010E6CC A080007A"
+
+  - name: "Can't Be Hit/Damaged"
+    author: "Azagthoth"
+    codes:
+      - "201493EC 240200FF"
+      - "201493F0 A2427E23"
+
+  - name: "Infinite Blue Bar"
+    author: "Azagthoth"
+    codes:
+      - "20107C0C 2402003C"
+      - "20107C14 A0A202A5"
+
+  - name: "Infinite Health"
+    author: "Azagthoth"
+    codes:
+      - "20149484 A22402A9"
+
+  - name: "Pickup 1 Spheres Of Zeus For 9999 Spheres Of Zeus"
+    author: "Azagthoth"
+    codes:
+      - "20119DD8 2402270F"

@@ -1,0 +1,22 @@
+# CASTLE OF ILLUSION_ Starring Mickey Mouse cheat data
+# Console: PlayStation 3
+# Region:  PAL
+# Serial:  NPEB01427
+
+game: "CASTLE OF ILLUSION_ Starring Mickey Mouse"
+console: "PlayStation 3"
+region: "PAL"
+serial: "NPEB01427"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Update Adler32 For Metagame.dat (required)"
+    notes: "File: METAGAME.DAT"
+    codes:
+      - "set [size]:read(8,4)"
+      - "set [begin]:0xC"
+      - "set [end_range]:[begin]+[size]-1"
+      - "set range:[begin],[end_range]"
+      - "set [hash]:Adler32"
+      - "write at 0x000004:[hash]"

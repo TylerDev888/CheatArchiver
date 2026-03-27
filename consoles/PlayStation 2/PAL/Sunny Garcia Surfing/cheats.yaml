@@ -1,0 +1,134 @@
+# Sunny Garcia Surfing cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-50533
+
+game: "Sunny Garcia Surfing"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-50533"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "InterAct"
+    notes: "[Master Codes]"
+    codes:
+      - "F034EA74 000001FD"
+
+  - name: "All Beaches Unlocked"
+    author: "InterAct"
+    codes:
+      - "1038A334 00003FFF"
+
+  - name: "All Surf Boards"
+    author: "InterAct"
+    codes:
+      - "2038A348 FFFFFFFF"
+      - "2038A34C FFFFFFFF"
+      - "2038A350 FFFFFFFF"
+
+  - name: "All Surfers Unlocked"
+    author: "InterAct"
+    codes:
+      - "1038A338 00000FFF"
+      - "1038A344 00000101"
+      - "1038A346 00000101"
+
+  - name: "Always On First Wave"
+    author: "InterAct"
+    codes:
+      - "1038A290 00000000"
+
+  - name: "Championship Score"
+    author: "InterAct"
+    codes:
+      - "2038A010 000347D8"
+      - "2038A014 000347D8"
+      - "2038A018 000347D8"
+
+  - name: "Invisible Surfboard"
+    author: "InterAct"
+    codes:
+      - "2029CA98 00000000"
+      - "2029CA9C 00000000"
+
+  - name: "Lots Of Champ Points"
+    author: "InterAct"
+    codes:
+      - "9E33DD62 58B44E85"
+
+  - name: "Lots Of Championship Points"
+    author: "Codejunkies"
+    codes:
+      - "1038A008 0000869F"
+
+  - name: "Max Score"
+    author: "InterAct"
+    codes:
+      - "2038A02C 0098967F"
+
+  - name: "No Gravity For Surfboard"
+    author: "InterAct"
+    codes:
+      - "20259AB0 03E00008"
+
+  - name: "Pro Available"
+    author: "InterAct"
+    codes:
+      - "1038A356 00000A03"
+
+  - name: "Select+R1 More Time"
+    author: "InterAct"
+    codes:
+      - "D0366AC2 0000F7FE"
+      - "2038A2C4 42D852A4"
+
+  - name: "Select+R2 Less Time"
+    author: "InterAct"
+    codes:
+      - "D0366AC2 0000FDFE"
+      - "2038A2C4 41790FA3"
+
+  - name: "Time Code (Press Select+R1 For More Time; Select+R2 For Less Time)"
+    author: "Codejunkies"
+    codes:
+      - "D0366AC2 0000F7FE"
+      - "2038A2C4 42D852A4"
+      - "D0366AC2 0000FDFE"
+      - "2038A2C4 41790FA3"
+
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0200008 003277CF"
+
+  - name: "Unlock Pro Level"
+    author: "Xploder"
+    notes: "[Other]"
+    codes:
+      - "1038A356 28090A03"
+
+  - name: "Surfers"
+    author: "Xploder"
+    notes: "[Unlock All]"
+    codes:
+      - "1038A338 28090FFF"
+      - "1038A344 28090101"
+      - "1038A346 28090101"
+
+  - name: "Beaches"
+    author: "Xploder"
+    notes: "[Unlock All]"
+    codes:
+      - "1038A334 28093FFF"
+
+  - name: "Surfboards"
+    author: "Xploder"
+    notes: "[Unlock All]"
+    codes:
+      - "2038A348 3FFFFFFF"
+      - "2038A34C 3FFFFFFF"
+      - "2038A350 3FFFFFFF"

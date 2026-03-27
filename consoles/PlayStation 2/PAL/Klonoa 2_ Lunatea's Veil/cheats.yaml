@@ -1,0 +1,29 @@
+# Klonoa 2_ Lunatea's Veil cheat data
+# Console: PlayStation 2
+# Region:  PAL
+
+game: "Klonoa 2_ Lunatea's Veil"
+console: "PlayStation 2"
+region: "PAL"
+serial: ""
+cheat_type: "Xploder"
+source: ""
+
+cheats:
+  - name: "Mastercode"
+    author: "Xploder"
+    notes: "[Masters]"
+    codes:
+      - "F0100008 0030520F"
+
+  - name: "Life Hearts"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "00377FE0 28096803"
+
+  - name: "Continues"
+    author: "Xploder"
+    notes: "[Unlimited]"
+    codes:
+      - "00377FE8 28096832"

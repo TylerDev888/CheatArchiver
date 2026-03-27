@@ -1,0 +1,82 @@
+# Need For Speed - Prostreet cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21658
+
+game: "Need For Speed - Prostreet"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21658"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code"
+    author: "Skiller"
+    notes: "[Master Codes]"
+    codes:
+      - "90587F5C 0C166571"
+
+  - name: "Always 1St Place"
+    author: "Azagthoth"
+    codes:
+      - "2038863C 24020001"
+
+  - name: "Buying Cars Doesnt Decrease Cash"
+    author: "Azagthoth"
+    codes:
+      - "20645104 00601021"
+
+  - name: "Buying Cars Increases Cash"
+    author: "Azagthoth"
+    codes:
+      - "20645104 00431021"
+
+  - name: "Buying Parts Increases Cash"
+    author: "Azagthoth"
+    codes:
+      - "20228FF8 02028021"
+
+  - name: "Can Buy Locked Cars"
+    author: "Azagthoth"
+    codes:
+      - "10644D4E 00001000"
+
+  - name: "Disable Speed Effect"
+    author: "47iscool"
+    codes:
+      - "204C1934 24020000"
+
+  - name: "Drive Though Walls L1+R1 On/ L2+R2 Off"
+    author: "47iscool"
+    codes:
+      - "D0B16802 0000F3FF"
+      - "2014ADD8 24020000"
+      - "D0B16802 0000FCFF"
+      - "2014ADD8 11020006"
+
+  - name: "Drive Through Cars/Objects"
+    author: "47iscool"
+    codes:
+      - "201CC090 24020001"
+
+  - name: "Infinite NOS"
+    author: "Azagthoth"
+    codes:
+      - "201ACD64 34420063"
+      - "201ACE70 AE000160"
+
+  - name: "Lap Modifier"
+    author: "Azagthoth"
+    codes:
+      - "20387EC4 2411000?"
+      - "20387EC8 AE510074"
+
+  - name: "Max Cash"
+    author: "Azagthoth"
+    codes:
+      - "200C0220 3C1005F5"
+      - "200C0224 3610E0FF"
+      - "200C0228 0816D7AC"
+      - "200C022C AC7001E0"
+      - "20228FF0 0C030088"

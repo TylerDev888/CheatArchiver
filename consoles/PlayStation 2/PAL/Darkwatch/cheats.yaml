@@ -1,0 +1,148 @@
+# Darkwatch cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SLES-53564
+
+game: "Darkwatch"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SLES-53564"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F047FFA0 0047FFA3"
+
+  - name: "Infinite Bombs"
+    author: "Codejunkies"
+    codes:
+      - "202A5C78 00000000"
+
+  - name: "Infinite Health"
+    author: "Codejunkies"
+    codes:
+      - "200FFE00 3C0142C8"
+      - "200FFE0C AE210098"
+      - "200FFE10 AE21002C"
+      - "200FFE14 03E00008"
+      - "2021F4F0 0C03FF80"
+
+  - name: "Infinite Lore"
+    author: "Codejunkies"
+    codes:
+      - "200FFE00 3C0142C8"
+      - "200FFE04 AE2100A0"
+      - "200FFE08 AE2100A4"
+      - "200FFE14 03E00008"
+      - "2021F4F0 0C03FF80"
+
+  - name: "Infinite Reload"
+    author: "Codejunkies"
+    codes:
+      - "202A7944 00000000"
+
+  - name: "Canyonshoot"
+    author: "Codejunkies"
+    notes: "[Level Modifier (Requires Save)]"
+    codes:
+      - "20320908 24040001"
+
+  - name: "Cemetery"
+    author: "Codejunkies"
+    notes: "[Level Modifier (Requires Save)]"
+    codes:
+      - "20320908 24040002"
+
+  - name: "Citadelunderattack"
+    author: "Codejunkies"
+    notes: "[Level Modifier (Requires Save)]"
+    codes:
+      - "20320908 2404000D"
+
+  - name: "Citadel_Launch"
+    author: "Codejunkies"
+    notes: "[Level Modifier (Requires Save)]"
+    codes:
+      - "20320908 24040008"
+
+  - name: "Devilsbelly"
+    author: "Codejunkies"
+    notes: "[Level Modifier (Requires Save)]"
+    codes:
+      - "20320908 24040003"
+
+  - name: "Dwoutpost"
+    author: "Codejunkies"
+    notes: "[Level Modifier (Requires Save)]"
+    codes:
+      - "20320908 24040004"
+
+  - name: "Fallofcitadel"
+    author: "Codejunkies"
+    notes: "[Level Modifier (Requires Save)]"
+    codes:
+      - "20320908 2404000E"
+
+  - name: "Groundzero"
+    author: "Codejunkies"
+    notes: "[Level Modifier (Requires Save)]"
+    codes:
+      - "20320908 24040011"
+
+  - name: "Hangtown"
+    author: "Codejunkies"
+    notes: "[Level Modifier (Requires Save)]"
+    codes:
+      - "20320908 2404000C"
+
+  - name: "Invasion"
+    author: "Codejunkies"
+    notes: "[Level Modifier (Requires Save)]"
+    codes:
+      - "20320908 2404000B"
+
+  - name: "Penetratingdeadfall"
+    author: "Codejunkies"
+    notes: "[Level Modifier (Requires Save)]"
+    codes:
+      - "20320908 24040010"
+
+  - name: "Regulator"
+    author: "Codejunkies"
+    notes: "[Level Modifier (Requires Save)]"
+    codes:
+      - "20320908 2404000A"
+
+  - name: "Ridetodeadfall"
+    author: "Codejunkies"
+    notes: "[Level Modifier (Requires Save)]"
+    codes:
+      - "20320908 2404000F"
+
+  - name: "Splittingpaths"
+    author: "Codejunkies"
+    notes: "[Level Modifier (Requires Save)]"
+    codes:
+      - "20320908 24040009"
+
+  - name: "Torturemaze"
+    author: "Codejunkies"
+    notes: "[Level Modifier (Requires Save)]"
+    codes:
+      - "20320908 24040006"
+
+  - name: "Tradingpost"
+    author: "Codejunkies"
+    notes: "[Level Modifier (Requires Save)]"
+    codes:
+      - "20320908 24040007"
+
+  - name: "Wartrain"
+    author: "Codejunkies"
+    notes: "[Level Modifier (Requires Save)]"
+    codes:
+      - "20320908 24040005"

@@ -1,0 +1,42 @@
+# IGPX Immortal Grand Prix cheat data
+# Console: PlayStation 2
+# Region:  NTSC-U
+# Serial:  SLUS-21430
+
+game: "IGPX Immortal Grand Prix"
+console: "PlayStation 2"
+region: "NTSC-U"
+serial: "SLUS-21430"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "Enable Code (Must Be On) [Read Note]"
+    author: "Code Master"
+    notes: "[Masters]"
+    codes:
+      - "9025BB40 00832021"
+
+  - name: "Infinite Boost"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201738C8 00000000"
+
+  - name: "Max Points"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "204B20E4 000F423F"
+
+  - name: "Buying Items Doesnt Decrease Points"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201184BC 00000000"
+
+  - name: "Buying Items Increases Points"
+    author: "Code Master"
+    notes: "[Codes]"
+    codes:
+      - "201184B4 00701821"

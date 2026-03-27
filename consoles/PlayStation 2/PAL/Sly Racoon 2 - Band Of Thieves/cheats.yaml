@@ -1,0 +1,88 @@
+# Sly Racoon 2 - Band Of Thieves cheat data
+# Console: PlayStation 2
+# Region:  PAL
+# Serial:  SCES-52529
+
+game: "Sly Racoon 2 - Band Of Thieves"
+console: "PlayStation 2"
+region: "PAL"
+serial: "SCES-52529"
+cheat_type: "CodeBreaker"
+source: ""
+
+cheats:
+  - name: "(M) Must Be On"
+    author: "Codejunkies"
+    notes: "[Master Codes]"
+    codes:
+      - "F0243D90 00243D93"
+
+  - name: "1Hitkill"
+    author: "luc-ita"
+    codes:
+      - "20177324 0003100B"
+
+  - name: "9999 Gold Coins"
+    author: "Codejunkies"
+    codes:
+      - "103DC300 0000270F"
+
+  - name: "Infinite Health-Bentley"
+    author: "Codejunkies"
+    codes:
+      - "203DC2C8 00000028"
+
+  - name: "Infinite Health-Murray"
+    author: "Codejunkies"
+    codes:
+      - "203DC2E0 00000028"
+
+  - name: "Infinite Health-Sly"
+    author: "Codejunkies"
+    codes:
+      - "203DC2B0 00000028"
+
+  - name: "Max Stats"
+    author: "Codejunkies"
+    codes:
+      - "2022E8D4 3C014000"
+
+  - name: "Moon Jump-Murray"
+    author: "Codejunkies"
+    codes:
+      - "200FFEF8 2401BFFF"
+      - "200FFEFC 3C10002E"
+      - "200FFF00 86107002"
+      - "200FFF04 14300007"
+      - "200FFF0C 3C01002E"
+      - "200FFF10 8C2155A0"
+      - "200FFF14 10010003"
+      - "200FFF1C 3C104400"
+      - "200FFF24 03E00008"
+      - "200FFF28 DFB0FFB0"
+      - "20243DC4 0803FFBD"
+      - "200FFF20 AC301CB8"
+
+  - name: "Moon Jump-Sly"
+    author: "Codejunkies"
+    codes:
+      - "200FFEF8 2401BFFF"
+      - "200FFEFC 3C10002E"
+      - "200FFF00 86107002"
+      - "200FFF04 14300007"
+      - "200FFF0C 3C01002E"
+      - "200FFF10 8C2155A0"
+      - "200FFF14 10010003"
+      - "200FFF1C 3C104400"
+      - "200FFF20 AC302218"
+      - "200FFF24 03E00008"
+      - "200FFF28 DFB0FFB0"
+      - "20243DC4 0803FFBD"
+
+  - name: "Take Coins And Bottles Anywhere"
+    author: "luc-ita"
+    codes:
+      - "201C5E20 00000000"
+      - "201C5E78 00000000"
+      - "201C5E84 00000000"
+      - "201C5ED4 00000000"

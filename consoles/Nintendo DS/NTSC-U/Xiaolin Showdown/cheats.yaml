@@ -1,0 +1,80 @@
+# Xiaolin Showdown cheat data
+# Console: Nintendo DS
+# Region:  NTSC-U
+# Serial:  AXLE
+
+game: "Xiaolin Showdown"
+console: "Nintendo DS"
+region: "NTSC-U"
+serial: "AXLE"
+cheat_type: "Action Replay"
+source: ""
+
+cheats:
+  - name: "Player 1 (win after 1 Goal)"
+    notes: "[Wind Hockey]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "0212DBE0 00000005"
+
+  - name: "Player 2 (win after 1 Goal)"
+    notes: "[Wind Hockey]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "0212DBE2 00000005"
+
+  - name: "Quick Score Gain"
+    notes: "[Boulder Basho]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "020ED838 000000FF"
+
+  - name: "Super Quick Score Gain"
+    notes: "[Boulder Basho]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "120ED838 0000FFFF"
+
+  - name: "Max INf Lives"
+    notes: "[Boulder Basho]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "020ED820 00000063"
+
+  - name: "Always have Extended bat (2)"
+    notes: "[Boulder Basho]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "020ED856 00000001"
+
+  - name: "Always have Max bat (6) (Fits all screen)"
+    notes: "[Boulder Basho]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "020ED856 00000001"
+
+  - name: "Multiplyers 255"
+    notes: "[Boulder Basho]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "120ED826 0000FEFE"
+
+  - name: "3 Balls"
+    notes: "[Boulder Basho]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "020ED4DD 00000001"
+
+  - name: "Steel Balls"
+    notes: "[Boulder Basho]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "020ED4DF 00000001"
+
+  - name: "Sticky Balls"
+    notes: "[Boulder Basho]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "020ED4E1 00000001"
+
+  - name: "Crazy world (Gives everything)}"
+    notes: "[Boulder Basho]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "00000000 0000[Joker:NDS]"
+      - "020ED4e0 00000001"
+      - "00000000 0000[Joker:NDS]"
+      - "020ED4e0 00000000"
+
+  - name: "No timer count down"
+    notes: "[Boulder Basho]  File: NTSC(Action Replay/Codebreaker/Game Genie)"
+    codes:
+      - "020ED830 00000000"

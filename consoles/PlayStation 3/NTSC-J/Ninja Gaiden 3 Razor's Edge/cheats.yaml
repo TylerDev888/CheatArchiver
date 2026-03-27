@@ -1,0 +1,160 @@
+# Ninja Gaiden 3 Razor's Edge cheat data
+# Console: PlayStation 3
+# Region:  NTSC-J
+# Serial:  BLAS50593
+
+game: "Ninja Gaiden 3 Razor's Edge"
+console: "PlayStation 3"
+region: "NTSC-J"
+serial: "BLAS50593"
+cheat_type: "Save Editor"
+source: ""
+
+cheats:
+  - name: "Ryu Karma 999,999,999"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "200011E8 3B9AC9FF"
+
+  - name: "Ayane Karma 999,999,999"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "200011F0 3B9AC9FF"
+
+  - name: "Health Max"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "20000D9C 4E6E6B28"
+
+  - name: "Mana Max"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "20000D98 4E6E6B28"
+
+  - name: "Difficulty Change - Hero"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "100000DC 00000100"
+
+  - name: "Difficulty Change - Normal"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "100000DC 00000101"
+
+  - name: "Difficulty Change - Hard"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "100000DC 00000202"
+
+  - name: "Green:ryu Karma 999,999,999 (working)(from X-ghost-x (using Bsd's Patch Creator))"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "write at 0x000011E8:0x3B9AC9FF"
+
+  - name: "Green:ayane Karma 999,999,999 (working)"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "write at 0x000011F0:0x3B9AC9FF"
+
+  - name: "Green:health Max (working)"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "write at 0x00000D9C:\"4E6E6B28\""
+
+  - name: "Green:mana Max (working)"
+    notes: "File: SAVE_STR.DAT  (SYSTEM DATA)"
+    codes:
+      - "write at 0x00000D98:\"4E6E6B28\""
+
+  - name: "Ryu Costume 2-5 Unlock"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "20006A95 01010101"
+
+  - name: "Ayane Costume 2-4 Unlock"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "10006AB5 00000101"
+      - "00006AB7 00000001"
+
+  - name: "Momiji Costume 2-4 Unlock"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "10006AC5 00000101"
+      - "00006AC7 00000001"
+
+  - name: "Kasumi Costume 2-4 Unlock"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "10006AD5 00000101"
+      - "00006AD7 00000001"
+
+  - name: "[normal]momiji Karma 999,999,999"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "20003204 3B9AC9FF"
+
+  - name: "[normal]kasumi Karma 999,999,999"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "20003208 3B9AC9FF"
+
+  - name: "[hard]momiji Karma 999,999,999"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "20003DE8 3B9AC9FF"
+
+  - name: "[hard]kasumi Karma 999,999,999"
+    notes: "File: SAVE_STR.DAT  (From Chris Roberts) (Using ninpo will reset health bar to normal; in addition, the cheat only works on check points for auto save.)"
+    codes:
+      - "20003DEC 3B9AC9FF"
+
+  - name: "Ryu Super Health Bar(when Fighting The Last Boss, Ninpo Will Be Required. This Will Cause The Health Bar To Reset To Normal. It Gives You A Chance To Start The 2nd Part Of The Last Boss With A Full Normal Health Bar.)"
+    notes: "File: SAVE_STR.DAT  (From savedata.jp)"
+    codes:
+      - "20000D74 9F9F9F9F"
+      - "20000D78 9F9F9F9F"
+
+  - name: "Master Ninja] Momiji Leaves Karma 999,999,999"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "200049CC 3B9AC9FF"
+
+  - name: "Master Ninja] Kasumi Karma 999,999,999"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "200049D0 3B9AC9FF"
+
+  - name: "Ultimate Ninja] Momiji Leaves Karma 999,999,999"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "200055B0 3B9AC9FF"
+
+  - name: "Ultimate Ninja] Kasumi Karma]999,999,999"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "200055B4 3B9AC9FF"
+
+  - name: "Ninja Trials] Ryu Hayabusa All Ninja Trials Clear"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "400073EE 000000FF"
+      - "40100001 00000000"
+
+  - name: "Ninja Trials] Ayane All Ninja Trials Clear"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "4000740E 000000FF"
+      - "40100001 00000000"
+
+  - name: "Ninja Trials] Momiji Leaves Ninja Trials Clear"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "4000741E 000000FF"
+      - "40100001 00000000"
+
+  - name: "Ninja Trials] Kasumi All Ninja Trials Clear"
+    notes: "File: SAVE_STR.DAT"
+    codes:
+      - "4000742E 000000FF"
+      - "40100001 00000000"
