@@ -11,7 +11,7 @@
 
 ### Switness
 **Author:**   
-**Notes:** [Stats:{{<div class=\
+**Notes:** 
 
 ```
 8001003A 4B696E67
@@ -32,7 +32,7 @@ A8000009 00000005
 
 ### Super Critical Chance
 **Author:**   
-**Notes:** [Stats:{{<div class=\
+**Notes:** 
 
 ```
 80010046 4B696E67
@@ -55,7 +55,7 @@ A8000009 00000005
 
 ### Spartan Defence
 **Author:**   
-**Notes:** [Stats:{{<div class=\
+**Notes:** 
 
 ```
 8001003C 4B696E67
@@ -76,7 +76,7 @@ A8000009 00000005
 
 ### Master Torturer
 **Author:**   
-**Notes:** [Stats:{{<div class=\
+**Notes:** 
 
 ```
 80010042 4B696E67
@@ -98,7 +98,7 @@ A8000009 00000005
 
 ### Longevity
 **Author:**   
-**Notes:** [Stats:{{<div class=\
+**Notes:** 
 
 ```
 80010043 4B696E67
@@ -120,7 +120,7 @@ A8000009 00000005
 
 ### Healthy Food
 **Author:**   
-**Notes:** [Stats:{{<div class=\
+**Notes:** 
 
 ```
 80010040 4B696E67
@@ -142,7 +142,7 @@ A8000009 00000005
 
 ### Healer Chest
 **Author:**   
-**Notes:** [Stats:{{<div class=\
+**Notes:** 
 
 ```
 8001003E 4B696E67
@@ -164,7 +164,7 @@ A8000009 00000005
 
 ### Guardian Angel
 **Author:**   
-**Notes:** [Stats:{{<div class=\
+**Notes:** 
 
 ```
 80010042 4B696E67
@@ -186,7 +186,7 @@ A8000009 00000005
 
 ### Exploitation
 **Author:**   
-**Notes:** [Stats:{{<div class=\
+**Notes:** 
 
 ```
 80010049 4B696E67
@@ -209,7 +209,7 @@ A8000009 00000005
 
 ### Empowered Curse
 **Author:**   
-**Notes:** [Stats:{{<div class=\
+**Notes:** 
 
 ```
 80010041 4B696E67
@@ -231,7 +231,7 @@ A8000009 00000005
 
 ### Critical Chance
 **Author:**   
-**Notes:** [Stats:{{<div class=\
+**Notes:** 
 
 ```
 80010041 4B696E67
@@ -253,7 +253,7 @@ A8000009 00000005
 
 ### Basic Attack
 **Author:**   
-**Notes:** [Stats:{{<div class=\
+**Notes:** 
 
 ```
 80010040 4B696E67
@@ -275,7 +275,7 @@ A8000009 00000005
 
 ### Accurate Hit
 **Author:**   
-**Notes:** [Stats:{{<div class=\
+**Notes:** 
 
 ```
 80010043 4B696E67
