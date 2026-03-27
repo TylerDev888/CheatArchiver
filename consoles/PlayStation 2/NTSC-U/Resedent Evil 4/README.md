@@ -370,7 +370,7 @@ D0451402 0000F7BF
 
 ### Slot 1
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F4FE0 03E700[MER]
@@ -380,7 +380,7 @@ D0451402 0000F7BF
 
 ### Slot 2
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F4FE8 03E700[MER]
@@ -390,7 +390,7 @@ D0451402 0000F7BF
 
 ### Slot 3
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F4FF0 03E700[MER]
@@ -400,7 +400,7 @@ D0451402 0000F7BF
 
 ### Slot 4
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F4FF8 03E700[MER]
@@ -410,7 +410,7 @@ D0451402 0000F7BF
 
 ### Slot 5
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5000 03E700[MER]
@@ -420,7 +420,7 @@ D0451402 0000F7BF
 
 ### Slot 6
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5008 03E700[MER]
@@ -430,7 +430,7 @@ D0451402 0000F7BF
 
 ### Slot 7
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5010 03E700[MER]
@@ -440,7 +440,7 @@ D0451402 0000F7BF
 
 ### Slot 8
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5018 03E700[MER]
@@ -450,7 +450,7 @@ D0451402 0000F7BF
 
 ### Slot 9
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5020 03E700[MER]
@@ -460,7 +460,7 @@ D0451402 0000F7BF
 
 ### Slot 10
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5028 03E700[MER]
@@ -470,7 +470,7 @@ D0451402 0000F7BF
 
 ### Slot 11
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5030 03E700[MER]
@@ -480,7 +480,7 @@ D0451402 0000F7BF
 
 ### Slot 12
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5038 03E700[MER]
@@ -490,7 +490,7 @@ D0451402 0000F7BF
 
 ### Slot 13
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5040 03E700[MER]
@@ -500,7 +500,7 @@ D0451402 0000F7BF
 
 ### Slot 14
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5048 03E700[MER]
@@ -510,7 +510,7 @@ D0451402 0000F7BF
 
 ### Slot 15
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5050 03E700[MER]
@@ -520,7 +520,7 @@ D0451402 0000F7BF
 
 ### Slot 16
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5058 03E700[MER]
@@ -530,7 +530,7 @@ D0451402 0000F7BF
 
 ### Slot 17
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5060 03E700[MER]
@@ -540,7 +540,7 @@ D0451402 0000F7BF
 
 ### Slot 18
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5068 03E700[MER]
@@ -550,7 +550,7 @@ D0451402 0000F7BF
 
 ### Slot 19
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5070 03E700[MER]
@@ -560,7 +560,7 @@ D0451402 0000F7BF
 
 ### Slot 20
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5078 03E700[MER]
@@ -570,7 +570,7 @@ D0451402 0000F7BF
 
 ### Slot 21
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5080 03E700[MER]
@@ -580,7 +580,7 @@ D0451402 0000F7BF
 
 ### Slot 22
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5088 03E700[MER]
@@ -590,7 +590,7 @@ D0451402 0000F7BF
 
 ### Slot 23
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5090 03E700[MER]
@@ -600,7 +600,7 @@ D0451402 0000F7BF
 
 ### Slot 24
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5098 03E700[MER]
@@ -610,7 +610,7 @@ D0451402 0000F7BF
 
 ### Slot 25
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F50A0 03E700[MER]
@@ -620,7 +620,7 @@ D0451402 0000F7BF
 
 ### Slot 26
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F50A8 03E700[MER]
@@ -630,7 +630,7 @@ D0451402 0000F7BF
 
 ### Slot 27
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F50B0 03E700[MER]
@@ -640,7 +640,7 @@ D0451402 0000F7BF
 
 ### Slot 28
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F50B8 03E700[MER]
@@ -650,7 +650,7 @@ D0451402 0000F7BF
 
 ### Slot 29
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F50C0 03E700[MER]
@@ -660,7 +660,7 @@ D0451402 0000F7BF
 
 ### Slot 30
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F50C8 03E700[MER]
@@ -670,7 +670,7 @@ D0451402 0000F7BF
 
 ### Slot 31
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F50D0 03E700[MER]
@@ -680,7 +680,7 @@ D0451402 0000F7BF
 
 ### Slot 32
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F50D8 03E700[MER]
@@ -690,7 +690,7 @@ D0451402 0000F7BF
 
 ### Slot 33
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F50E0 03E700[MER]
@@ -700,7 +700,7 @@ D0451402 0000F7BF
 
 ### Slot 34
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F50E8 03E700[MER]
@@ -710,7 +710,7 @@ D0451402 0000F7BF
 
 ### Slot 35
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F50F0 03E700[MER]
@@ -720,7 +720,7 @@ D0451402 0000F7BF
 
 ### Slot 36
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F50F8 03E700[MER]
@@ -730,7 +730,7 @@ D0451402 0000F7BF
 
 ### Slot 37
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5100 03E700[MER]
@@ -740,7 +740,7 @@ D0451402 0000F7BF
 
 ### Slot 38
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5108 03E700[MER]
@@ -750,7 +750,7 @@ D0451402 0000F7BF
 
 ### Slot 39
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5110 03E700[MER]
@@ -760,7 +760,7 @@ D0451402 0000F7BF
 
 ### Slot 40
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5118 03E700[MER]
@@ -770,7 +770,7 @@ D0451402 0000F7BF
 
 ### Slot 41
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5120 03E700[MER]
@@ -780,7 +780,7 @@ D0451402 0000F7BF
 
 ### Slot 42
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5128 03E700[MER]
@@ -790,7 +790,7 @@ D0451402 0000F7BF
 
 ### Slot 43
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5130 03E700[MER]
@@ -800,7 +800,7 @@ D0451402 0000F7BF
 
 ### Slot 44
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5138 03E700[MER]
@@ -810,7 +810,7 @@ D0451402 0000F7BF
 
 ### Slot 45
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5140 03E700[MER]
@@ -820,7 +820,7 @@ D0451402 0000F7BF
 
 ### Slot 46
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5148 03E700[MER]
@@ -830,7 +830,7 @@ D0451402 0000F7BF
 
 ### Slot 47
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5150 03E700[MER]
@@ -840,7 +840,7 @@ D0451402 0000F7BF
 
 ### Slot 48
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5158 03E700[MER]
@@ -850,7 +850,7 @@ D0451402 0000F7BF
 
 ### Slot 49
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5160 03E700[MER]
@@ -860,7 +860,7 @@ D0451402 0000F7BF
 
 ### Slot 50
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5168 03E700[MER]
@@ -870,7 +870,7 @@ D0451402 0000F7BF
 
 ### Slot 51
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5170 03E700[MER]
@@ -880,7 +880,7 @@ D0451402 0000F7BF
 
 ### Slot 52
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5178 03E700[MER]
@@ -890,7 +890,7 @@ D0451402 0000F7BF
 
 ### Slot 53
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5180 03E700[MER]
@@ -900,7 +900,7 @@ D0451402 0000F7BF
 
 ### Slot 54
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5188 03E700[MER]
@@ -910,7 +910,7 @@ D0451402 0000F7BF
 
 ### Slot 55
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5190 03E700[MER]
@@ -920,7 +920,7 @@ D0451402 0000F7BF
 
 ### Slot 56
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F5198 03E700[MER]
@@ -930,7 +930,7 @@ D0451402 0000F7BF
 
 ### Slot 57
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F51A0 03E700[MER]
@@ -940,7 +940,7 @@ D0451402 0000F7BF
 
 ### Slot 58
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F51A8 03E700[MER]
@@ -950,7 +950,7 @@ D0451402 0000F7BF
 
 ### Slot 59
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F51B0 03E700[MER]
@@ -960,7 +960,7 @@ D0451402 0000F7BF
 
 ### Slot 60
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F51B8 03E700[MER]
@@ -970,7 +970,7 @@ D0451402 0000F7BF
 
 ### Slot 61
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F51C0 03E700[MER]
@@ -980,7 +980,7 @@ D0451402 0000F7BF
 
 ### Slot 62
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F51C8 03E700[MER]
@@ -990,7 +990,7 @@ D0451402 0000F7BF
 
 ### Slot 63
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F51D0 03E700[MER]
@@ -1000,7 +1000,7 @@ D0451402 0000F7BF
 
 ### Slot 64
 **Author:**   
-**Notes:** [Slots Max Items/Item Mod:{ note the Items Will Be Ordered By The Game Once You Use The Code. they Will Not Appear In The Exact Slot Order You Entered. slots Are Listed Only For Easier Reading And Setup. }]
+**Notes:** The items will be ordered by the game once you use the code. They will not appear in the exact slot order you entered. Slots are listed only for easier reading and setup.
 
 ```
 210F51D8 03E700[MER]

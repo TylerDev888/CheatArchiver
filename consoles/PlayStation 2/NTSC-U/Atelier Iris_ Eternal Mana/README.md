@@ -5447,7 +5447,7 @@ D0E03102 0000FDF7
 
 ### Slot 7
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81974 0000[CY]
@@ -5459,7 +5459,7 @@ D0E03102 0000FDF7
 
 ### Slot 8
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F8197A 0000[CY]
@@ -5471,7 +5471,7 @@ D0E03102 0000FDF7
 
 ### Slot 9
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81980 0000[CY]
@@ -5483,7 +5483,7 @@ D0E03102 0000FDF7
 
 ### Slot 10
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81986 0000[CY]
@@ -5495,7 +5495,7 @@ D0E03102 0000FDF7
 
 ### Slot 11
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F8198C 0000[CY]
@@ -5507,7 +5507,7 @@ D0E03102 0000FDF7
 
 ### Slot 12
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81992 0000[CY]
@@ -5519,7 +5519,7 @@ D0E03102 0000FDF7
 
 ### Slot 13
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81998 0000[CY]
@@ -5531,7 +5531,7 @@ D0E03102 0000FDF7
 
 ### Slot 14
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F8199E 0000[CY]
@@ -5543,7 +5543,7 @@ D0E03102 0000FDF7
 
 ### Slot 15
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F819A4 0000[CY]
@@ -5555,7 +5555,7 @@ D0E03102 0000FDF7
 
 ### Slot 16
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F819AA 0000[CY]
@@ -5567,7 +5567,7 @@ D0E03102 0000FDF7
 
 ### Slot 17
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F819B0 0000[CY]
@@ -5579,7 +5579,7 @@ D0E03102 0000FDF7
 
 ### Slot 18
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F819B6 0000[CY]
@@ -5591,7 +5591,7 @@ D0E03102 0000FDF7
 
 ### Slot 19
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F819BC 0000[CY]
@@ -5603,7 +5603,7 @@ D0E03102 0000FDF7
 
 ### Slot 20
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F819C2 0000[CY]
@@ -5615,7 +5615,7 @@ D0E03102 0000FDF7
 
 ### Slot 21
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F819C8 0000[CY]
@@ -5627,7 +5627,7 @@ D0E03102 0000FDF7
 
 ### Slot 22
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F819CE 0000[CY]
@@ -5639,7 +5639,7 @@ D0E03102 0000FDF7
 
 ### Slot 24
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F819D4 0000[CY]
@@ -5651,7 +5651,7 @@ D0E03102 0000FDF7
 
 ### Slot 25
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F819DA 0000[CY]
@@ -5663,7 +5663,7 @@ D0E03102 0000FDF7
 
 ### Slot 26
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F819E0 0000[CY]
@@ -5675,7 +5675,7 @@ D0E03102 0000FDF7
 
 ### Slot 27
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F819E6 0000[CY]
@@ -5687,7 +5687,7 @@ D0E03102 0000FDF7
 
 ### Slot 28
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F819EC 0000[CY]
@@ -5699,7 +5699,7 @@ D0E03102 0000FDF7
 
 ### Slot 29
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F819F2 0000[CY]
@@ -5711,7 +5711,7 @@ D0E03102 0000FDF7
 
 ### Slot 30
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F819F8 0000[CY]
@@ -5723,7 +5723,7 @@ D0E03102 0000FDF7
 
 ### Slot 31
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F819FE 0000[CY]
@@ -5735,7 +5735,7 @@ D0E03102 0000FDF7
 
 ### Slot 32
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A04 0000[CY]
@@ -5747,7 +5747,7 @@ D0E03102 0000FDF7
 
 ### Slot 33
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A0A 0000[CY]
@@ -5759,7 +5759,7 @@ D0E03102 0000FDF7
 
 ### Slot 34
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A10 0000[CY]
@@ -5771,7 +5771,7 @@ D0E03102 0000FDF7
 
 ### Slot 35
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A16 0000[CY]
@@ -5783,7 +5783,7 @@ D0E03102 0000FDF7
 
 ### Slot 36
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A1C 0000[CY]
@@ -5795,7 +5795,7 @@ D0E03102 0000FDF7
 
 ### Slot 37
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A22 0000[CY]
@@ -5807,7 +5807,7 @@ D0E03102 0000FDF7
 
 ### Slot 38
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A28 0000[CY]
@@ -5819,7 +5819,7 @@ D0E03102 0000FDF7
 
 ### Slot 39
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A2E 0000[CY]
@@ -5831,7 +5831,7 @@ D0E03102 0000FDF7
 
 ### Slot 40
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A34 0000[CY]
@@ -5843,7 +5843,7 @@ D0E03102 0000FDF7
 
 ### Slot 41
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A3A 0000[CY]
@@ -5855,7 +5855,7 @@ D0E03102 0000FDF7
 
 ### Slot 42
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A40 0000[CY]
@@ -5867,7 +5867,7 @@ D0E03102 0000FDF7
 
 ### Slot 43
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A46 0000[CY]
@@ -5879,7 +5879,7 @@ D0E03102 0000FDF7
 
 ### Slot 44
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A4C 0000[CY]
@@ -5891,7 +5891,7 @@ D0E03102 0000FDF7
 
 ### Slot 45
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A52 0000[CY]
@@ -5903,7 +5903,7 @@ D0E03102 0000FDF7
 
 ### Slot 46
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A58 0000[CY]
@@ -5915,7 +5915,7 @@ D0E03102 0000FDF7
 
 ### Slot 47
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A5E 0000[CY]
@@ -5927,7 +5927,7 @@ D0E03102 0000FDF7
 
 ### Slot 48
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A64 0000[CY]
@@ -5939,7 +5939,7 @@ D0E03102 0000FDF7
 
 ### Slot 49
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A6A 0000[CY]
@@ -5951,7 +5951,7 @@ D0E03102 0000FDF7
 
 ### Slot 50
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A70 0000[CY]
@@ -5963,7 +5963,7 @@ D0E03102 0000FDF7
 
 ### Slot 51
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A76 0000[CY]
@@ -5975,7 +5975,7 @@ D0E03102 0000FDF7
 
 ### Slot 52
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A7C 0000[CY]
@@ -5987,7 +5987,7 @@ D0E03102 0000FDF7
 
 ### Slot 53
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A82 0000[CY]
@@ -5999,7 +5999,7 @@ D0E03102 0000FDF7
 
 ### Slot 54
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A88 0000[CY]
@@ -6011,7 +6011,7 @@ D0E03102 0000FDF7
 
 ### Slot 55
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A8E 0000[CY]
@@ -6023,7 +6023,7 @@ D0E03102 0000FDF7
 
 ### Slot 56
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A94 0000[CY]
@@ -6035,7 +6035,7 @@ D0E03102 0000FDF7
 
 ### Slot 57
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81A9A 0000[CY]
@@ -6047,7 +6047,7 @@ D0E03102 0000FDF7
 
 ### Slot 58
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81AA0 0000[CY]
@@ -6059,7 +6059,7 @@ D0E03102 0000FDF7
 
 ### Slot 59
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81AA6 0000[CY]
@@ -6071,7 +6071,7 @@ D0E03102 0000FDF7
 
 ### Slot 60
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81AAC 0000[CY]
@@ -6083,7 +6083,7 @@ D0E03102 0000FDF7
 
 ### Slot 61
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81AB2 0000[CY]
@@ -6095,7 +6095,7 @@ D0E03102 0000FDF7
 
 ### Slot 62
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81AB8 0000[CY]
@@ -6107,7 +6107,7 @@ D0E03102 0000FDF7
 
 ### Slot 63
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81ABE 0000[CY]
@@ -6119,7 +6119,7 @@ D0E03102 0000FDF7
 
 ### Slot 64
 **Author:**   
-**Notes:** [Have Crystals{ Notes If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you’ll get different crystals. I haven’t tested every value—there are a lot—just remember FF...
+**Notes:** If you use the main code above, set the other two addresses to FFFF to get the intended effect. If you use different values in the other two addresses, you'll get different crystals. Setting both to FFFF gives the intended effect.
 
 ```
 10F81AC4 0000[CY]

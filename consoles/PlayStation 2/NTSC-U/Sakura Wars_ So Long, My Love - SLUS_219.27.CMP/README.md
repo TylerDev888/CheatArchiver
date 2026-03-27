@@ -51,7 +51,7 @@
 
 ### Omnisave (activator)
 **Author:** SkillerCMP  
-**Notes:** [Omnisave (make Both Disks Use Same Save):{ omnisave load And Reuse The Same Save Across Different Discs/Versions. set Your Target Values Once; When You Switch Discs, Simply Enable The Code To Use That Save On The C...
+**Notes:** Omnisave: load and reuse the same save across different discs/versions. Set your target values once; when you switch discs, simply enable the code to use that save.
 
 ```
 200A0000 240203FE
@@ -73,7 +73,7 @@
 
 ### Omnisave Always (load/Save As English Save)
 **Author:** SkillerCMP  
-**Notes:** [Omnisave (make Both Disks Use Same Save):{ omnisave load And Reuse The Same Save Across Different Discs/Versions. set Your Target Values Once; When You Switch Discs, Simply Enable The Code To Use That Save On The C...
+**Notes:** Omnisave: load and reuse the same save across different discs/versions. Set your target values once; when you switch discs, simply enable the code to use that save.
 
 ```
 20504904 00160000
@@ -95,7 +95,7 @@
 
 ### Omnisave Always (load/Save Japan Save)
 **Author:** SkillerCMP  
-**Notes:** [Omnisave (make Both Disks Use Same Save):{ omnisave load And Reuse The Same Save Across Different Discs/Versions. set Your Target Values Once; When You Switch Discs, Simply Enable The Code To Use That Save On The C...
+**Notes:** Omnisave: load and reuse the same save across different discs/versions. Set your target values once; when you switch discs, simply enable the code to use that save.
 
 ```
 20504904 00180000

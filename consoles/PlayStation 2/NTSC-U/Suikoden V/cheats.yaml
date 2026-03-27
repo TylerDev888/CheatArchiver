@@ -847,7 +847,7 @@ cheats:
       - "20A3FEF8 [Amount:63:HEX:BIG<Max Amount>][Amount:63:HEX:BIG<Amount Left>][TT<ItemType>][CC<ItemCatagory]"
 
   - name: "Hero Name Modifier"
-    notes: "[Player Name Change:{ note — Name/Ascii Entry (l0–lf) each lx Position ( l0 … lf ) Holds One ascii Character Code (hex). enter Codes In Order Starting At l0 To Spe..."
+    notes: "Name/ASCII Entry (l0–lf): each lx position holds one ASCII character code (hex). Enter codes in order starting at l0."
     codes:
       - "20A31C18 [Amount:1234:ASCII:LITTLE<Letter 1-4>]"
       - "20A31C1C [Amount:1234:ASCII:LITTLE<Letter 5-8>]"
@@ -855,7 +855,7 @@ cheats:
       - "20A31C24 [Amount:1234:ASCII:LITTLE<Letter 12-16>]"
 
   - name: "Army Name Modifier"
-    notes: "[Player Name Change:{ note — Name/Ascii Entry (l0–lf) each lx Position ( l0 … lf ) Holds One ascii Character Code (hex). enter Codes In Order Starting At l0 To Spe..."
+    notes: "Name/ASCII Entry (l0–lf): each lx position holds one ASCII character code (hex). Enter codes in order starting at l0."
     codes:
       - "00A31C29 000000[Amount:1:ASCII:LITTLE<Letter 1>]"
       - "10A31C2A 0000[Amount:23:ASCII:LITTLE<Letter 2-3>]"
@@ -865,7 +865,7 @@ cheats:
       - "00A31C38 000000[Amount:1:ASCII:LITTLE<Letter 16>]"
 
   - name: "Castle Name Modifier"
-    notes: "[Player Name Change:{ note — Name/Ascii Entry (l0–lf) each lx Position ( l0 … lf ) Holds One ascii Character Code (hex). enter Codes In Order Starting At l0 To Spe..."
+    notes: "Name/ASCII Entry (l0–lf): each lx position holds one ASCII character code (hex). Enter codes in order starting at l0."
     codes:
       - "10A31C3A 0000[Amount:23:ASCII:LITTLE<Letter 1-2>]"
       - "20A31C3C [Amount:1234:ASCII:LITTLE<Letter 3-6>]"

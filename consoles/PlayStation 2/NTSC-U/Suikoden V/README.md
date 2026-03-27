@@ -1364,7 +1364,7 @@ D089A39C 0000FFB7
 
 ### Hero Name Modifier
 **Author:**   
-**Notes:** [Player Name Change:{ note — Name/Ascii Entry (l0–lf) each lx Position ( l0 … lf ) Holds One ascii Character Code (hex). enter Codes In Order Starting At l0 To Spe...
+**Notes:** Name/ASCII Entry (l0–lf): each lx position holds one ASCII character code (hex). Enter codes in order starting at l0.
 
 ```
 20A31C18 [Amount:1234:ASCII:LITTLE<Letter 1-4>]
@@ -1377,7 +1377,7 @@ D089A39C 0000FFB7
 
 ### Army Name Modifier
 **Author:**   
-**Notes:** [Player Name Change:{ note — Name/Ascii Entry (l0–lf) each lx Position ( l0 … lf ) Holds One ascii Character Code (hex). enter Codes In Order Starting At l0 To Spe...
+**Notes:** Name/ASCII Entry (l0–lf): each lx position holds one ASCII character code (hex). Enter codes in order starting at l0.
 
 ```
 00A31C29 000000[Amount:1:ASCII:LITTLE<Letter 1>]
@@ -1392,7 +1392,7 @@ D089A39C 0000FFB7
 
 ### Castle Name Modifier
 **Author:**   
-**Notes:** [Player Name Change:{ note — Name/Ascii Entry (l0–lf) each lx Position ( l0 … lf ) Holds One ascii Character Code (hex). enter Codes In Order Starting At l0 To Spe...
+**Notes:** Name/ASCII Entry (l0–lf): each lx position holds one ASCII character code (hex). Enter codes in order starting at l0.
 
 ```
 10A31C3A 0000[Amount:23:ASCII:LITTLE<Letter 1-2>]
