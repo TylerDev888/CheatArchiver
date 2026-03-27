@@ -1,5 +1,3 @@
-<img src="https://github.com/user-attachments/assets/8ee4c634-b164-4d50-af31-20f28f42a889" alt="CheatCode Archive Logo" width="400"/>
-
 # Consoles
 
 Browse cheats by hardware platform. Each console folder contains one sub-folder per region.
