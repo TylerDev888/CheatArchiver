@@ -1,9 +1,7 @@
 name: Generate README files
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 
 jobs:
   generate-readmes:
