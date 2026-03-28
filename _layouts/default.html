@@ -8,17 +8,11 @@
 </head>
 <body>
 
-  <!-- Outer CRT surround -->
+  <!-- Outer CRT wrapper -->
   <div class="crt-outer">
 
-    <!-- Matrix side column -->
-    <div class="matrix-col" id="matrixCol" aria-hidden="true"></div>
-
-    <!-- CRT monitor frame -->
+    <!-- CRT screen content area - positioned over background image -->
     <div class="crt-frame">
-
-      <!-- Hex ticker at top of screen -->
-      <div class="hex-ticker" id="hexTicker" aria-hidden="true"></div>
 
       <!-- Scanline overlay -->
       <div class="scanlines" aria-hidden="true"></div>
@@ -28,16 +22,9 @@
         {{ content }}
       </div>
 
-      <!-- Bottom status bar -->
-      <div class="crt-footer" aria-hidden="true">
-        <span class="footer-glitch">✦ PRESERVING THE UNWRITTEN CODES ✦</span>
-        <span class="footer-sub">SINCE: 2024 <span class="footer-error">(ERROR: TIMELINE DISCREPANCY DETECTED)</span></span>
-      </div>
-
     </div><!-- /crt-frame -->
 
   </div><!-- /crt-outer -->
 
-  <script src="{{ '/assets/js/crt.js' | relative_url }}"></script>
 </body>
 </html>
