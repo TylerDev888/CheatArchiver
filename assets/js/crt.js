@@ -9,11 +9,18 @@
   var col = document.getElementById('matrixCol');
   if (col) {
     var chars = '0123456789ABCDEF';
-    var numRows = Math.floor(window.innerHeight / 20) + 4;
+    var ROW_HEIGHT_PX   = 20;   /* approximate line height of each matrix character */
+    var ROW_BUFFER      = 4;    /* extra rows beyond visible height to avoid gaps */
+    var ANIM_DUR_MIN    = 1.2;  /* seconds – fastest fall speed */
+    var ANIM_DUR_RANGE  = 2.8;  /* seconds – added on top of min for slowest fall */
+    var CHAR_CYCLE_MS   = 120;  /* milliseconds between random character swaps */
+    var CHAR_CYCLE_PROB = 0.3;  /* probability (0–1) that any given character changes */
+
+    var numRows = Math.floor(window.innerHeight / ROW_HEIGHT_PX) + ROW_BUFFER;
     for (var i = 0; i < numRows; i++) {
       var span = document.createElement('span');
       span.textContent = chars[Math.floor(Math.random() * chars.length)];
-      var dur = (1.2 + Math.random() * 2.8).toFixed(2) + 's';
+      var dur = (ANIM_DUR_MIN + Math.random() * ANIM_DUR_RANGE).toFixed(2) + 's';
       var delay = (Math.random() * -4).toFixed(2) + 's';
       span.style.animationDuration = dur;
       span.style.animationDelay = delay;
@@ -24,11 +31,11 @@
     setInterval(function () {
       var spans = col.querySelectorAll('span');
       spans.forEach(function (s) {
-        if (Math.random() < 0.3) {
+        if (Math.random() < CHAR_CYCLE_PROB) {
           s.textContent = chars[Math.floor(Math.random() * chars.length)];
         }
       });
-    }, 120);
+    }, CHAR_CYCLE_MS);
   }
 
   /* ── Hex ticker strip ───────────────────────────────────── */
@@ -139,7 +146,7 @@
   gameHeadings.forEach(function (h) {
     /* Match patterns like "Armored Core 2 (NTSC-U)" */
     var text = h.innerHTML;
-    h.innerHTML = text.replace(/\(([^)]+)\)/g, '<span style="color:#3a8a3a;font-size:12px;font-weight:normal"> ($1)</span>');
+    h.innerHTML = text.replace(/\(([^)]+)\)/g, '<span class="region-tag"> ($1)</span>');
   });
 
 }());

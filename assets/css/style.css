@@ -442,13 +442,12 @@ html, body {
   border: 1px solid var(--green-dark);
 }
 
-/* ── Region tag styling (e.g. NTSC-U in parens) ────────────── */
-.screen-content h3 em,
-.screen-content h3 span {
-  font-style: normal;
-  font-size: 12px;
+/* ── Region tag (e.g. NTSC-U in parens after game title) ──── */
+.region-tag {
   color: #3a8a3a;
+  font-size: 12px;
   font-weight: normal;
+  font-style: normal;
 }
 
 /* ── Game entry card look ───────────────────────────────────── */
