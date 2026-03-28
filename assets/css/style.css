@@ -1,0 +1,487 @@
+/* ============================================================
+   CheatCode Archive – Retro CRT Terminal Theme
+   ============================================================ */
+
+/* ── Fonts & Reset ─────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=VT323&display=swap');
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --green:        #00ff41;
+  --green-dim:    #00c832;
+  --green-dark:   #004d14;
+  --green-ghost:  rgba(0, 255, 65, 0.07);
+  --green-glow:   rgba(0, 255, 65, 0.35);
+  --bg:           #000;
+  --screen-bg:    #010d04;
+  --bezel-color:  #1a1a1a;
+  --bezel-edge:   #0a0a0a;
+  --amber:        #ffaa00;
+  --font-mono:    'Share Tech Mono', 'Courier New', monospace;
+  --font-display: 'VT323', 'Share Tech Mono', monospace;
+}
+
+html, body {
+  background: var(--bg);
+  color: var(--green);
+  font-family: var(--font-mono);
+  font-size: 15px;
+  line-height: 1.6;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* ── Outer wrapper ─────────────────────────────────────────── */
+.crt-outer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 24px 0;
+  position: relative;
+}
+
+/* ── Matrix side column ────────────────────────────────────── */
+.matrix-col {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 48px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  pointer-events: none;
+  z-index: 10;
+  font-family: var(--font-mono);
+  font-size: 13px;
+  color: var(--green-dim);
+  line-height: 1.5;
+  padding: 0 6px;
+  border-right: 1px solid var(--green-dark);
+  background: linear-gradient(to right, #000 0%, #010c03 100%);
+}
+
+.matrix-col span {
+  display: block;
+  opacity: 0;
+  animation: matrixFall linear infinite;
+}
+
+@keyframes matrixFall {
+  0%   { opacity: 0; transform: translateY(-8px); }
+  10%  { opacity: 1; }
+  80%  { opacity: 0.7; }
+  100% { opacity: 0; }
+}
+
+/* ── CRT Frame (the monitor bezel) ────────────────────────── */
+.crt-frame {
+  position: relative;
+  width: min(960px, calc(100vw - 80px));
+  margin-left: 56px;
+  background: var(--screen-bg);
+  border-radius: 18px;
+  border: 6px solid var(--bezel-color);
+  box-shadow:
+    0 0 0 2px var(--bezel-edge),
+    0 0 40px rgba(0, 255, 65, 0.18),
+    0 0 80px rgba(0, 255, 65, 0.08),
+    inset 0 0 60px rgba(0, 0, 0, 0.7);
+  overflow: hidden;
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Inner CRT screen green vignette */
+.crt-frame::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at center, transparent 55%, rgba(0, 20, 5, 0.65) 100%);
+  pointer-events: none;
+  z-index: 2;
+  border-radius: 12px;
+}
+
+/* ── Hex Ticker ────────────────────────────────────────────── */
+.hex-ticker {
+  width: 100%;
+  height: 22px;
+  overflow: hidden;
+  white-space: nowrap;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--green-dim);
+  background: rgba(0, 20, 5, 0.8);
+  border-bottom: 1px solid var(--green-dark);
+  padding: 3px 8px;
+  position: relative;
+  z-index: 5;
+  letter-spacing: 1px;
+}
+
+.hex-ticker-inner {
+  display: inline-block;
+  animation: tickerScroll 30s linear infinite;
+  white-space: nowrap;
+}
+
+@keyframes tickerScroll {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+/* ── Scanlines ─────────────────────────────────────────────── */
+.scanlines {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 3;
+  background: repeating-linear-gradient(
+    to bottom,
+    transparent 0px,
+    transparent 2px,
+    rgba(0, 0, 0, 0.18) 2px,
+    rgba(0, 0, 0, 0.18) 4px
+  );
+  border-radius: 12px;
+}
+
+/* ── Watermark ─────────────────────────────────────────────── */
+.watermark {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+  pointer-events: none;
+  z-index: 1;
+  user-select: none;
+}
+
+.watermark span {
+  font-family: var(--font-display);
+  font-size: clamp(60px, 10vw, 120px);
+  font-weight: bold;
+  color: rgba(0, 255, 65, 0.06);
+  letter-spacing: 0.18em;
+  line-height: 1;
+  text-shadow: none;
+}
+
+/* ── Screen content area ───────────────────────────────────── */
+.screen-content {
+  position: relative;
+  z-index: 4;
+  flex: 1;
+  padding: 24px 40px 20px 40px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  max-height: calc(100vh - 180px);
+  scrollbar-width: thin;
+  scrollbar-color: var(--green-dim) var(--green-dark);
+}
+
+.screen-content::-webkit-scrollbar {
+  width: 10px;
+}
+.screen-content::-webkit-scrollbar-track {
+  background: var(--green-dark);
+}
+.screen-content::-webkit-scrollbar-thumb {
+  background: var(--green-dim);
+  border-radius: 4px;
+}
+
+/* ── CRT Footer ────────────────────────────────────────────── */
+.crt-footer {
+  position: relative;
+  z-index: 5;
+  background: rgba(0, 10, 3, 0.9);
+  border-top: 1px solid var(--green-dark);
+  padding: 8px 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+}
+
+.footer-glitch {
+  font-family: var(--font-display);
+  font-size: 20px;
+  color: var(--green-dim);
+  letter-spacing: 0.12em;
+  text-shadow: 0 0 8px var(--green-glow);
+}
+
+.footer-sub {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: #006020;
+  letter-spacing: 0.08em;
+}
+
+.footer-error {
+  color: #3a7a3a;
+}
+
+/* ============================================================
+   Markdown Content Styles
+   ============================================================ */
+
+/* ── Page Title (h1) ───────────────────────────────────────── */
+.screen-content h1 {
+  font-family: var(--font-display);
+  font-size: clamp(28px, 4vw, 42px);
+  color: var(--green);
+  text-shadow: 0 0 14px var(--green-glow), 0 0 4px var(--green);
+  letter-spacing: 0.04em;
+  margin-bottom: 4px;
+  line-height: 1.2;
+}
+
+/* ── Subtitle / lead paragraph ─────────────────────────────── */
+.screen-content h1 + p,
+.screen-content h1 + blockquote {
+  color: #7ab87a;
+  font-size: 13px;
+  margin-bottom: 18px;
+}
+
+/* ── A-Z Navigation (auto-generated from h2 anchors) ──────── */
+.az-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin: 14px 0 22px 0;
+  justify-content: center;
+}
+
+.az-nav a {
+  display: inline-block;
+  width: 28px;
+  height: 28px;
+  line-height: 26px;
+  text-align: center;
+  font-family: var(--font-mono);
+  font-size: 13px;
+  color: var(--green-dim);
+  border: 1px solid var(--green-dark);
+  text-decoration: none;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+
+.az-nav a:hover,
+.az-nav a.active {
+  background: rgba(0, 255, 65, 0.12);
+  border-color: var(--green);
+  color: var(--green);
+  text-shadow: 0 0 6px var(--green-glow);
+}
+
+/* ── Section letter headers (h2) ───────────────────────────── */
+.screen-content h2 {
+  font-family: var(--font-display);
+  font-size: 30px;
+  color: var(--green);
+  text-shadow: 0 0 10px var(--green-glow);
+  margin: 26px 0 10px 0;
+  border-bottom: 1px solid var(--green-dark);
+  padding-bottom: 2px;
+  letter-spacing: 0.06em;
+}
+
+/* ── Game / subsection titles (h3) ─────────────────────────── */
+.screen-content h3 {
+  font-family: var(--font-mono);
+  font-size: 15px;
+  font-weight: bold;
+  color: var(--green);
+  margin: 18px 0 6px 0;
+}
+
+/* ── Code name / cheat label (h4) ──────────────────────────── */
+.screen-content h4 {
+  font-family: var(--font-mono);
+  font-size: 14px;
+  color: var(--green);
+  font-weight: normal;
+  margin: 0 0 2px 0;
+  text-shadow: 0 0 4px var(--green-glow);
+}
+
+/* ── Code blocks (cheat codes) ─────────────────────────────── */
+.screen-content pre {
+  background: transparent;
+  border-left: 3px solid var(--green-dim);
+  padding: 6px 0 6px 14px;
+  margin: 0 0 14px 0;
+  font-family: var(--font-mono);
+  font-size: 13px;
+  color: #7ab87a;
+  overflow-x: auto;
+  white-space: pre;
+}
+
+.screen-content code {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  color: #7ab87a;
+  background: transparent;
+}
+
+.screen-content pre code {
+  background: transparent;
+  padding: 0;
+}
+
+/* ── Cheat entry block (h3 + pre grouped) ──────────────────── */
+.screen-content h3 + p,
+.screen-content h4 + p {
+  font-size: 12px;
+  color: #3a8a3a;
+  margin-bottom: 2px;
+}
+
+/* ── Bold text (metadata like Console, Region) ─────────────── */
+.screen-content strong {
+  color: var(--green-dim);
+}
+
+/* ── Paragraphs ────────────────────────────────────────────── */
+.screen-content p {
+  margin-bottom: 10px;
+  color: #99cc99;
+}
+
+/* ── Links ─────────────────────────────────────────────────── */
+.screen-content a {
+  color: var(--green);
+  text-decoration: none;
+  border-bottom: 1px solid var(--green-dark);
+  transition: border-color 0.15s, text-shadow 0.15s;
+}
+
+.screen-content a:hover {
+  border-color: var(--green);
+  text-shadow: 0 0 6px var(--green-glow);
+}
+
+/* ── Tables ────────────────────────────────────────────────── */
+.screen-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 16px;
+  font-size: 13px;
+}
+
+.screen-content th {
+  color: var(--green);
+  border-bottom: 1px solid var(--green-dark);
+  padding: 6px 10px;
+  text-align: left;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.screen-content td {
+  padding: 5px 10px;
+  border-bottom: 1px solid rgba(0, 77, 20, 0.4);
+  color: #99cc99;
+  vertical-align: top;
+}
+
+.screen-content tr:hover td {
+  background: var(--green-ghost);
+}
+
+/* ── Horizontal rule ───────────────────────────────────────── */
+.screen-content hr {
+  border: none;
+  border-top: 1px solid var(--green-dark);
+  margin: 20px 0;
+}
+
+/* ── Blockquote ────────────────────────────────────────────── */
+.screen-content blockquote {
+  border-left: 3px solid var(--green-dark);
+  padding-left: 14px;
+  color: #5a9a5a;
+  margin: 10px 0;
+}
+
+/* ── Lists ─────────────────────────────────────────────────── */
+.screen-content ul,
+.screen-content ol {
+  padding-left: 20px;
+  margin-bottom: 10px;
+  color: #99cc99;
+}
+
+.screen-content li {
+  margin-bottom: 4px;
+}
+
+/* ── Images ────────────────────────────────────────────────── */
+.screen-content img {
+  max-width: 100%;
+  opacity: 0.85;
+  border: 1px solid var(--green-dark);
+}
+
+/* ── Region tag styling (e.g. NTSC-U in parens) ────────────── */
+.screen-content h3 em,
+.screen-content h3 span {
+  font-style: normal;
+  font-size: 12px;
+  color: #3a8a3a;
+  font-weight: normal;
+}
+
+/* ── Game entry card look ───────────────────────────────────── */
+.screen-content h3 {
+  padding: 2px 0 2px 0;
+}
+
+/* ── Metadata line under game title ────────────────────────── */
+.screen-content h3 + p strong {
+  color: #3a8a3a;
+}
+
+/* ============================================================
+   Responsive
+   ============================================================ */
+@media (max-width: 700px) {
+  .crt-frame {
+    margin-left: 0;
+    width: 100vw;
+    border-radius: 0;
+    border-left: none;
+    border-right: none;
+  }
+
+  .matrix-col {
+    display: none;
+  }
+
+  .screen-content {
+    padding: 16px 16px 16px 16px;
+  }
+
+  .crt-footer {
+    padding: 8px 16px;
+  }
+}

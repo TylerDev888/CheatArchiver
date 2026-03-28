@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title | default: "Cheat Code Archive" }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+
+  <!-- Outer CRT surround -->
+  <div class="crt-outer">
+
+    <!-- Matrix side column -->
+    <div class="matrix-col" id="matrixCol" aria-hidden="true"></div>
+
+    <!-- CRT monitor frame -->
+    <div class="crt-frame">
+
+      <!-- Hex ticker at top of screen -->
+      <div class="hex-ticker" id="hexTicker" aria-hidden="true"></div>
+
+      <!-- Scanline overlay -->
+      <div class="scanlines" aria-hidden="true"></div>
+
+      <!-- "CODE ARCHIVE" background watermark -->
+      <div class="watermark" aria-hidden="true">
+        <span>CODE</span>
+        <span>ARCHIVE</span>
+      </div>
+
+      <!-- Main scrollable content area -->
+      <div class="screen-content">
+        {{ content }}
+      </div>
+
+      <!-- Bottom status bar -->
+      <div class="crt-footer" aria-hidden="true">
+        <span class="footer-glitch">✦ PRESERVING THE UNWRITTEN CODES ✦</span>
+        <span class="footer-sub">SINCE: 2024 <span class="footer-error">(ERROR: TIMELINE DISCREPANCY DETECTED)</span></span>
+      </div>
+
+    </div><!-- /crt-frame -->
+
+  </div><!-- /crt-outer -->
+
+  <script src="{{ '/assets/js/crt.js' | relative_url }}"></script>
+</body>
+</html>
