@@ -27,7 +27,12 @@
 }
 
 html, body {
-  background: var(--bg);
+  background-color: var(--bg);
+  background-image: url('http://cheaterslounge.net/archive/archive_logo.png');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   color: var(--green);
   font-family: var(--font-mono);
   font-size: 15px;
@@ -44,6 +49,8 @@ html, body {
   min-height: 100vh;
   padding: 24px 0;
   position: relative;
+  /* Dark tint so the background image reads through without washing out content */
+  background: rgba(0, 0, 0, 0.55);
 }
 
 /* ── Matrix side column ────────────────────────────────────── */
@@ -153,31 +160,6 @@ html, body {
     rgba(0, 0, 0, 0.18) 4px
   );
   border-radius: 12px;
-}
-
-/* ── Watermark ─────────────────────────────────────────────── */
-.watermark {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 0;
-  pointer-events: none;
-  z-index: 1;
-  user-select: none;
-}
-
-.watermark span {
-  font-family: var(--font-display);
-  font-size: clamp(60px, 10vw, 120px);
-  font-weight: bold;
-  color: rgba(0, 255, 65, 0.06);
-  letter-spacing: 0.18em;
-  line-height: 1;
-  text-shadow: none;
 }
 
 /* ── Screen content area ───────────────────────────────────── */
