@@ -59,13 +59,16 @@ html, body {
 /* ── CRT Frame - now transparent, content positioned over background */
 .crt-frame {
   position: relative;
-  /* Position content to align with inner CRT screen area */
-  width: min(52vw, 700px);
-  height: min(56vh, 500px);
-  margin: 0 auto;
-  /* Offset to align with the CRT screen in background image */
-  margin-top: -2vh;
-  margin-left: 1vw;
+  /* Size matches the CRT screen area in the 1024×559 background image:
+     ~45 vw wide, ~84 vh tall. Flex centering naturally aligns vertically
+     since both image and frame share the same vertical midpoint. */
+  width: min(46vw, 880px);
+  height: min(84vh, 900px);
+  /* Push to the left so the left edge aligns with the TV screen (~5 vw).
+     auto right margin keeps it flush-left within the flex container. */
+  margin-top: 0;
+  margin-left: 5vw;
+  margin-right: auto;
   background: var(--screen-bg);
   border-radius: 8px;
   border: none;
@@ -387,7 +390,7 @@ html, body {
   .crt-frame {
     width: 90vw;
     height: auto;
-    min-height: 70vh;
+    min-height: 75vh;
     margin: 5vh auto;
   }
 
